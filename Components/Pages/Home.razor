@@ -1,0 +1,64 @@
+﻿@page "/"
+@using Ganss.Xss
+@inject ITcpService TcpService
+@inject IAreaFileConverter AreaConverter
+@inject IWebHostEnvironment _environment
+@inject IJSRuntime JSRuntime;
+<style>
+    .chat-box {
+        font-family: monospace;
+    }
+</style>
+<div class="chat-container">
+    <div id="main-window" class="chat-box">
+        @foreach (var msg in messages) {
+            <pre>@msg</pre>
+        }
+    </div>
+    <input @bind="userInput" @onkeyup="HandleKeyDown" class="input-box" placeholder="Type here and press Enter to send" />
+</div>
+@code {
+    
+    public List<MarkupString> messages = new List<MarkupString> { };
+    private string? userInput;
+    protected override void OnInitialized() {
+        TcpService.Connect("exodusmud.com",9000);
+        TcpService.DataReceived += OnDataReceived; // Subscribe to the event
+        StateHasChanged();
+    }
+    private async void OnDataReceived(string data) {
+    
+        await InvokeAsync(() => {
+            data = data.Replace("\n", "<br>");
+            data = data.Replace("\r", "");
+            messages.Add(new MarkupString(AnsiHelper.ToHtml(data)));
+            StateHasChanged();
+        });
+
+        await ScrollToBottomAsync("main-window"); // Call after the UI has updated
+
+    }
+
+    private void SendData(string text) {
+        TcpService.SendData(text);
+        userInput = ""; // Clear the input field
+        StateHasChanged();
+        
+    }
+
+    private void HandleKeyDown(KeyboardEventArgs e) {
+        if (e.Key == "Enter") {
+            if (string.IsNullOrWhiteSpace(userInput)) return;
+            SendData(userInput);
+            userInput = "";
+            StateHasChanged();
+        }
+    }
+
+    private async Task ScrollToBottomAsync(string elementId) {
+        await JSRuntime.InvokeVoidAsync("scrollToBottom",elementId);
+        await InvokeAsync(() => {
+            StateHasChanged(); // Tell Blazor to re-render the component.
+        });
+    }
+}
