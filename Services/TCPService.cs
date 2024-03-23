@@ -63,6 +63,29 @@ namespace ExodusMudClient.Services {
             }
         }
 
+        private StringBuilder dataBuffer = new StringBuilder();
+        private StringBuilder sendBuff = new StringBuilder();
+
+        //public void ReadData() {
+        //    try {
+        //        while (TcpSocket.Connected) {
+        //            byte[] byteBuffer = new byte[1024];
+        //            int received = TcpSocket.Receive(byteBuffer);
+        //            if (received > 0) {
+        //                string data = Encoding.UTF8.GetString(byteBuffer,0,received);
+        //                dataBuffer.Append(data);
+        //                ProcessBuffer();
+        //                _dataReceived?.Invoke(data);
+        //            }
+        //        }
+        //    } catch (SocketException ex) {
+        //        Console.WriteLine($"SocketException in ReadData: {ex.Message}");
+        //        Disconnect(); // Ensure clean disconnection on socket error
+        //    } catch (Exception ex) {
+        //        Console.WriteLine($"General exception in ReadData: {ex.Message}");
+        //    }
+        //}
+
         public void ReadData() {
             try {
                 while (TcpSocket.Connected) {
@@ -70,7 +93,8 @@ namespace ExodusMudClient.Services {
                     int received = TcpSocket.Receive(byteBuffer);
                     if (received > 0) {
                         string data = Encoding.UTF8.GetString(byteBuffer,0,received);
-                        _dataReceived?.Invoke(data);
+                        dataBuffer.Append(data); // Accumulate received data in a buffer
+                        ProcessBuffer(); // Process the buffer for complete lines and handle partial data
                     }
                 }
             } catch (SocketException ex) {
@@ -79,6 +103,21 @@ namespace ExodusMudClient.Services {
             } catch (Exception ex) {
                 Console.WriteLine($"General exception in ReadData: {ex.Message}");
             }
+        }
+
+        private void ProcessBuffer() {
+            string bufferContent = dataBuffer.ToString();
+            int lineEndIndex;
+            // Loop through the buffer and process complete lines
+            while ((lineEndIndex = bufferContent.IndexOf("\r")) != -1) {
+                string line = bufferContent.Substring(0,lineEndIndex).Trim();
+                _dataReceived?.Invoke(line);
+                bufferContent = bufferContent.Substring(lineEndIndex + 1);
+            }
+
+            // Keep any partial line (incomplete data) in the buffer for next read
+            dataBuffer.Clear();
+            dataBuffer.Append(bufferContent);
         }
 
         public void SendData(string data) {

@@ -8,7 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AnsiConsoleToHtml" Version="0.2.0" />
+    <Compile Remove="wwwroot\AreaFiles\corpses\**" />
+    <Content Remove="wwwroot\AreaFiles\corpses\**" />
+    <EmbeddedResource Remove="wwwroot\AreaFiles\corpses\**" />
+    <None Remove="wwwroot\AreaFiles\corpses\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="HtmlSanitizer" Version="8.0.843" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.2" />
@@ -23,7 +29,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\AreaFiles\corpses\" />
+    <Folder Include="Data\Storage\" />
+    <Folder Include="wwwroot\AreaFiles\" />
   </ItemGroup>
 
 </Project>

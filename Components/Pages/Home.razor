@@ -1,41 +1,34 @@
 ﻿@page "/"
 @using Ganss.Xss
+@using ExodusMudClient.Data.Game.Models
 @inject ITcpService TcpService
 @inject IAreaFileConverter AreaConverter
 @inject IWebHostEnvironment _environment
 @inject IJSRuntime JSRuntime;
-<style>
-    .chat-box {
-        font-family: monospace;
-    }
-</style>
-<div class="chat-container">
-    <div id="main-window" class="chat-box">
-        @foreach (var msg in messages) {
-            <pre>@msg</pre>
-        }
-    </div>
-    <input @bind="userInput" @onkeyup="HandleKeyDown" class="input-box" placeholder="Type here and press Enter to send" />
-</div>
+
+<h1>test</h1>
+
+
 @code {
-    
+    public AreaFile area = new AreaFile();
     public List<MarkupString> messages = new List<MarkupString> { };
     private string? userInput;
     protected override void OnInitialized() {
         TcpService.Connect("exodusmud.com",9000);
         TcpService.DataReceived += OnDataReceived; // Subscribe to the event
-        StateHasChanged();
+        area = AreaConverter.ParseAreaFile(Path.Combine(_environment.WebRootPath, "AreaFiles/abbey.are"));
     }
     private async void OnDataReceived(string data) {
     
         await InvokeAsync(() => {
-            data = data.Replace("\n", "<br>");
-            data = data.Replace("\r", "");
+            data = data.Replace("<", "(");
+            data = data.Replace(">", ")");
+
+            data = data.Replace("\n","<br>");
+            data = data.Replace("\r","");
             messages.Add(new MarkupString(AnsiHelper.ToHtml(data)));
             StateHasChanged();
         });
-
-        await ScrollToBottomAsync("main-window"); // Call after the UI has updated
 
     }
 

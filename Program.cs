@@ -19,6 +19,7 @@ builder.Services.AddCascadingAuthenticationState();
 /** APPLICATION SERVICES **/
 builder.Services.AddScoped<ITcpService,TcpService>();
 builder.Services.AddScoped<IAreaFileConverter,AreaFileConverter>();
+builder.Services.AddScoped<IDataService,JsonFileDataService>();
 
 
 builder.Services.AddAuthentication(options => {

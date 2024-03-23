@@ -22,7 +22,8 @@
             None,
             Male,
             Female,
-            Either
+            Either,
+            Neutral
         }
 
         public enum DamageType {

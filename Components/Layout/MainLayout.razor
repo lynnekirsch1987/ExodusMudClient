@@ -1,43 +1,32 @@
 ﻿@inherits LayoutComponentBase
-<style>
-    .chat-container {
-        display: flex;
-        flex-direction: column;
-        height: 100vh;
+
+<MudThemeProvider @bind-IsDarkMode="@_isDarkMode" />
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <MudAppBar>
+        <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
+        My Application
+    </MudAppBar>
+    <MudDrawer @bind-Open="@_drawerOpen">
+        <NavMenu/>
+    </MudDrawer>
+    <MudMainContent>
+        <MudContainer MaxWidth="MaxWidth.ExtraLarge">
+            @Body
+        </MudContainer>
+       
+    </MudMainContent>
+</MudLayout>
+@code {
+    bool _drawerOpen = true;
+    private bool _isDarkMode = true;
+
+   
+
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
     }
-
-    .chat-box {
-        flex-grow: 1;
-        overflow-y: auto;
-        background-color: #000;
-        color: #fff;
-        padding: 1em;
-    }
-
-    .input-box {
-        width: 100%;
-        border: none;
-        padding: 1em;
-        box-sizing: border-box;
-    }
-
-    pre {
-        margin: 0;
-        padding: 0;
-    }
-</style>
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
-
-    <main>
-        @Body
-    </main>
-</div>
-
-<div id="blazor-error-ui">
-    An unhandled error has occurred.
-    <a href="" class="reload">Reload</a>
-    <a class="dismiss">🗙</a>
-</div>
+}

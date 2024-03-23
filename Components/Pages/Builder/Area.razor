@@ -1,0 +1,46 @@
+﻿@using ExodusMudClient.Data.Game.Models
+@inject IAreaFileConverter AreaConverter
+
+<MudTreeViewItem Value="@("Mobiles")" Icon="@Icons.Material.Filled.Groups">
+    <MudPaper Class="list-scrollable">
+        @foreach (var mob in selectedArea?.Mobiles!) {
+            <MudTreeViewItem Value="@AreaConverter.ConvertExodusColor(mob.ShortDescription)"
+                             OnClick="(() => SelectMobile(mob))"
+                             Icon="@Icons.Material.Filled.Person">
+            </MudTreeViewItem>
+        }
+    </MudPaper>
+</MudTreeViewItem>
+<MudTreeViewItem Value="@("Objects")" Icon="@Icons.Material.Filled.ShieldMoon">
+    <MudTreeViewItem Value="@("Loading...")" />
+</MudTreeViewItem>
+<MudTreeViewItem Value="@("Rooms")" Icon="@Icons.Material.Filled.MeetingRoom">
+    <MudTreeViewItem Value="@("Loading...")" />
+</MudTreeViewItem>
+<MudTreeViewItem Value="@("Shops")" Icon="@Icons.Material.Filled.ShoppingCart">
+    <MudTreeViewItem Value="@("Loading...")" />
+</MudTreeViewItem>
+<MudTreeViewItem Value="@("Resets")" Icon="@Icons.Material.Filled.Refresh">
+    <MudTreeViewItem Value="@("Loading...")" />
+</MudTreeViewItem>
+<MudTreeViewItem Value="@("Specials")" Icon="@Icons.Material.Filled.Star">
+    <MudTreeViewItem Value="@("Loading...")" />
+</MudTreeViewItem>
+<MudTreeViewItem Value="@("Object Triggers")" Icon="@Icons.Material.Filled.AirlineStops">
+    <MudTreeViewItem Value="@("Loading...")" />
+</MudTreeViewItem>
+
+@code {
+    [Parameter]
+    public AreaFile? selectedArea { get; set; }
+
+    // Define an EventCallback for when a mobile is selected
+    [Parameter]
+    public EventCallback<AreaFileMobile> OnMobileSelected { get; set; }
+
+    private void SelectMobile(AreaFileMobile mobile) {
+        if (OnMobileSelected.HasDelegate) {
+            OnMobileSelected.InvokeAsync(mobile);
+        }
+    }
+}

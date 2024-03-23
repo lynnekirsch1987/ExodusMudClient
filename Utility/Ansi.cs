@@ -8,71 +8,71 @@ namespace ExodusMudClient.Utility {
             var builder = new StringBuilder();
             var spanStack = new Stack<string>();
 
-            // Adjusted the dictionary to handle both individual and compound ANSI codes.
-            var ansiToCss = new Dictionary<string,string>
-            {
-                { "1;30", "<span style='color: grey;'>" }, // Dark grey (bright black)
-                { "1;37", "<span style='color: white;'>" }, // Bright white
-                { "0;30", "<span style='color: black;'>" }, // Black
-                { "0;31", "<span style='color: red;'>" }, // Red
-                { "0;32", "<span style='color: lime;'>" }, // Green
-                { "0;33", "<span style='color: yellow;'>" }, // Yellow
-                { "0;34", "<span style='color: blue;'>" }, // Blue
-                { "0;35", "<span style='color: magenta;'>" }, // Magenta
-                { "0;36", "<span style='color: cyan;'>" }, // Cyan
-                { "0;37", "<span style='color: white;'>" }, // White
-                { "1;31", "<span style='color: #ff5555;'>" }, // Bright Red
-                { "1;32", "<span style='color: #55ff55;'>" }, // Bright Green
-                { "1;33", "<span style='color: #ffff55;'>" }, // Bright Yellow
-                { "1;34", "<span style='color: #5555ff;'>" }, // Bright Blue
-                { "1;35", "<span style='color: #ff55ff;'>" }, // Bright Magenta
-                { "1;36", "<span style='color: #55ffff;'>" }, // Bright Cyan
-                { "40", "<span style='background-color: black;'>" }, // Background Black
-                { "41", "<span style='background-color: red;'>" }, // Background Red
-                { "42", "<span style='background-color: green;'>" }, // Background Green
-                { "43", "<span style='background-color: yellow;'>" }, // Background Yellow
-                { "44", "<span style='background-color: blue;'>" }, // Background Blue
-                { "45", "<span style='background-color: magenta;'>" }, // Background Magenta
-                { "46", "<span style='background-color: cyan;'>" }, // Background Cyan
-                { "47", "<span style='background-color: white;'>" }, // Background White
-                { "1", "<span style='font-weight:bold;'>" }, // Bold/Bright
-                { "3", "<span style='font-style:italic;'>" }, // Italic
-                { "4", "<span style='text-decoration:underline;'>" }, // Underline
-                { "0", "<span style='color: initial; font-weight: normal;'>" }, // Reset to default
-                { "0;1;37", "<span style='font-weight:bold; color: white;'>" }, // Example for Bright White
- 
+            // Adjusted the dictionary to correctly map ANSI codes to CSS styles based on the provided color table.
+            var ansiToCss = new Dictionary<string,string> {
+                { "\x1b[1;30m", "<span style='color: grey;'>" }, // Grey
+                { "\x1b[0;31m", "<span style='color: red;'>" }, // Red
+                { "\x1b[0;32m", "<span style='color: lime;'>" }, // Green
+                { "\x1b[0;33m", "<span style='color: yellow;'>" }, // Yellow
+                { "\x1b[0;34m", "<span style='color: blue;'>" }, // Blue
+                { "\x1b[0;35m", "<span style='color: magenta;'>" }, // Purple
+                { "\x1b[0;36m", "<span style='color: cyan;'>" }, // Cyan
+                { "\x1b[0;37m", "<span style='color: white;'>" }, // White
+                // Bold colors
+                { "\x1b[0;1;31m", "<span style='color: #ff5555;'>" }, // Bold Red
+                { "\x1b[0;1;32m", "<span style='color: #55ff55;'>" }, // Bold Green
+                { "\x1b[0;1;33m", "<span style='color: #ffff55;'>" }, // Bold Yellow
+                { "\x1b[0;1;34m", "<span style='color: #5555ff;'>" }, // Bold Blue
+                { "\x1b[0;1;35m", "<span style='color: #ff55ff;'>" }, // Bold Purple
+                { "\x1b[0;1;36m", "<span style='color: #55ffff;'>" }, // Bold Cyan
+                { "\x1b[0;1;37m", "<span style='color: white; font-weight:bold;'>" }, // Bold White
+                // Blink colors
+                { "\x1b[0;5;30m", "<span style='animation: blink-animation 1s step-start 0s infinite; color: grey;'>" }, // Blink Grey
+                { "\x1b[0;5;31m", "<span style='animation: blink-animation 1s step-start 0s infinite; color: red;'>" }, // Blink Red
+                { "\x1b[0;5;32m", "<span style='animation: blink-animation 1s step-start 0s infinite; color: lime;'>" }, // Blink Green
+                { "\x1b[0;5;33m", "<span style='animation: blink-animation 1s step-start 0s infinite; color: yellow;'>" }, // Blink Yellow
+                { "\x1b[0;5;34m", "<span style='animation: blink-animation 1s step-start 0s infinite; color: blue;'>" }, // Blink Blue
+                { "\x1b[0;5;35m", "<span style='animation: blink-animation 1s step-start 0s infinite; color: magenta;'>" }, // Blink Purple
+                { "\x1b[0;5;36m", "<span style='animation: blink-animation 1s step-start 0s infinite; color: cyan;'>" }, // Blink Cyan
+                { "\x1b[0;5;37m", "<span style='animation: blink-animation 1s step-start 0s infinite; color: white;'>" }, // Blink White
+                // Inverse colors (using background-color for demonstration)
+                { "\x1b[0;7;31m", "<span style='background-color: red;'>" }, // Inverse Red
+                { "\x1b[0;7;32m", "<span style='background-color: green;'>" }, // Inverse Green
+                { "\x1b[0;7;33m", "<span style='background-color: yellow;'>" }, // Inverse Yellow
+                { "\x1b[0;7;34m", "<span style='background-color: blue;'>" }, // Inverse Blue
+                { "\x1b[0;35;7m", "<span style='background-color: magenta;'>" }, // Inverse Purple
+                { "\x1b[0;7;36m", "<span style='background-color: cyan;'>" }, // Inverse Cyan
+                { "\x1b[0;7;37m", "<span style='background-color: white;'>" }, // Inverse White
+                { "\x1b[0m", "<span style='color: white;'>" }, // default
             };
 
-            // Improved regex to capture compound ANSI codes
             var regex = new Regex(@"\x1b\[([\d;]+)m");
             int lastIndex = 0;
 
             foreach (Match match in regex.Matches(input)) {
                 builder.Append(input.Substring(lastIndex,match.Index - lastIndex));
-                var code = match.Groups[1].Value; // Captures the entire code sequence
+                var code = match.Groups[1].Value;
+                var ansiCode = "\x1b[" + code + "m"; // Reconstruct the full ANSI code
                 lastIndex = match.Index + match.Length;
 
-                if (ansiToCss.TryGetValue(code,out string htmlTag)) {
-                    // If it's a reset code, close all opened spans
-                    if (code == "0") {
+                if (ansiToCss.TryGetValue(ansiCode,out string htmlTag)) {
+                    if (code == "0") { // Reset
                         while (spanStack.Count > 0) {
                             builder.Append(spanStack.Pop());
                         }
                     } else {
                         builder.Append(htmlTag);
-                        spanStack.Push("</span>"); // Push closing tag for every opened span
+                        spanStack.Push("</span>"); // Assume every ANSI code opens a span that needs to be closed
                     }
                 }
             }
 
-            // Append the remaining text
             if (lastIndex < input.Length) {
                 builder.Append(input.Substring(lastIndex));
             }
 
-            // Close any remaining opened spans
             while (spanStack.Count > 0) {
-                builder.Append(spanStack.Pop());
+                builder.Append(spanStack.Pop()); // Close any remaining opened spans
             }
 
             return builder.ToString();
