@@ -1,0 +1,45 @@
+* koroinker.scr
+* mob oinker (6308)
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 100
+mfunc %cmb-from% %name% name
+if (%rndnum% <= 10)
+   emote gives a high-pitched oink.
+   cast 'fire breath'
+   string mob oinker short `iOinker, the fire-breathing dragon-pig of `bd`ke`bs`kt`br`ku`bc`kt`bi`ko`bn``
+   string mob oinker long `iOinker, the fire-breathing dragon-pig of `bd`ke`bs`kt`br`ku`bc`kt`bi`ko`bn is here.``
+   halt once~
+Sc
+if (%rndnum% >= 95)
+   Emote coughs up some phlegm.
+   cast 'acid breath'
+   string mob oinker short `jOinker, the acid-spitting pig of `ia`an`in`ai`ih`ai`il`aa`it`ai`io`an``
+   string mob oinker long `jOinker, the acid-spitting pig of `ia`an`in`ai`ih`ai`il`aa`it`ai`io`an is here.``
+   halt once~
+Sc
+if (%rndnum% == 25)
+   Emote goes nuts!
+   cast 'lightning breath'
+   cast 'lightning breath'
+   cast 'lightning breath'
+   string mob oinker short `jOinker, the...well now hes just plain nuts!``
+   string mob oinker long `jOinker, weird pig that is following you around.``
+   halt once~
+End
+
+#TRIGGER follow
+Type 8
+Sc
+getpc %who%
+if (%follow-arg% cmp "follow")
+  cmd at 1 wear cagequest
+  emote nods and oinks happily.
+  cmd follow %who%
+  cmd force %who% group oinker
+  halt once~
+End
+
+#END

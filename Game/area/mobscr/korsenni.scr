@@ -1,0 +1,37 @@
+#TRIGGER move 
+Type 11 
+Sc 
+mfunc %move-to% %rvnum% room 
+  if (%rvnum% == 6329) 
+  Cmd squeal 
+  say `hDaddy!
+  Cmd hug galendric 
+  signal 6306 Daddy 
+  halt once~ 
+End 
+ 
+#TRIGGER getlostbitch 
+Type 8 
+Sc 
+if (%getlostbitch-arg% cmp "getlostbitch") 
+  cmd pout 
+  say `hOkay
+  cmd sigh 
+  cmd echo Galendric says`a '`hI will ask the Abbot to give you a summon there`a'`` 
+  cmd echo A shimmering gate appears with a pop. 
+  cmd emote steps into a shimmering gate.
+  cmd string mob senni long `hA tiny elven girl is here.``
+  cmd at 1 wizi 92 
+  MOB trans senni 7916
+  cmd wizi 
+  cmd emote curtseys gracefully for you.
+  wait 600~ 
+Sc 
+if (%getlostbitch-arg% cmp "getlostbitch") 
+  emote looks all around her and silently sneaks out of sight.
+  MOB transfer senni 6377
+  emote whimpers pathetically. 
+  halt once~ 
+End 
+ 
+#END

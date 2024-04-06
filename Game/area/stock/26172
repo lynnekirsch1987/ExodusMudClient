@@ -1,0 +1,4691 @@
+#O
+Vnum 20964
+Nest 0
+Name innocent white maugrims cotton panties `gIv`ce`jr`ost`jr`ci`gng``~
+ShD  `n*`g*`n*`o Maugrim's innocent white cotton panties`n *`g*`n*``~
+Desc `oThese panties looks like they belong to a schoolgirl, but closer inspection reveals that they belong to`n Maugrim`o!``~
+WearL -1
+Cost 140
+End
+
+#O
+Vnum 27001
+Nest 0
+Name devil laughing~
+ShD  `iA`k Laughing`i Devil``~
+Desc `iA`k small devil`i is sitting here, feasting on a screaming rat.``~
+ExF 0 917568
+Wt   0
+WearL -1
+Cost 35000
+End
+
+#O
+Vnum 20964
+Nest 0
+Name galadriels translucent lace panties `gIv`ce`jr`ost`jr`ci`gng``~
+ShD  `i>`b*`i<`h Galadriel's translucent lace panties`i >`b*`i<``~
+Desc `i>`b*`i<`h Galadriel's translucent lace panties is here`i >`b*`i<``~
+WearL -1
+Cost 140
+End
+
+#O
+Vnum 1292
+Nest 0
+Name machette ooc nazi shithead `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `a[`hOOC`a]`l Machette`a: '`hwhatever iverath, your a fucked up nazi shithead`a'``~
+Desc `a[`hOOC`a]`l Machette`a: '`hwhatever iverath, your a fucked up nazi shithead`a'``~
+ExF 0 68026368
+WearL -1
+Cost 100000
+End
+
+#O
+Vnum 20964
+Nest 0
+Name boxer shorts mendous radioactive `gIv`ce`jr`ost`jr`ci`gng``~
+ShD  `a>8<`j Mendou's radioactive boxer shorts`a >8<``~
+Desc Whoever wore these must have been REALLY nasty!~
+WearL -1
+Cost 140
+End
+
+#O
+Vnum 7279
+Enchanted
+Nest 0
+Name stay puft jersey~
+ShD  `lThe`o Stay-Puft`l Jersey``~
+Desc `lThe`o Stay-Puft`l Jersey is here on the ground, covering everything!``~
+ExF 0 17563712
+WearL -1
+Cost 13029
+Affc 'reserved'   1  90  -1   3  26          0 0 ''
+Affc 'reserved'   1  90  -1   1   2          0 0 ''
+Affc 'reserved'   1  90  -1   2  19          0 0 ''
+Affc 'reserved'   1  90  -1  -1  18          0 0 ''
+Affc 'reserved'   1  90  -1  -2  24          0 0 ''
+Affc 'reserved'   1  90  -1  50  13          0 0 ''
+Affc 'enchant armor'   1  74  -1 -15  17          0 0 ''
+End
+
+#O
+Vnum 4228
+Nest 0
+Name godiva morning stinky~
+ShD  ``Godiva gurgles`a '`ki'm morning stinky!!`a'``~
+Desc ``Godiva gurgles`a '`ki'm morning stinky!!`a'``~
+ExF 0 8650754
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+Name twymm swede worse english `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  ``Twymm says`a '`kgawd my english is worse than a swede`a'``~
+Desc ``Twymm says`a '`kgawd my english is worse than a swede`a'``~
+Wt   0
+WearL -1
+Lev  19
+Cost 5000
+Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
+Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 553
+Nest 0
+Name powerful talisman whine deflector `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `bThe Powerful Talisman`a '`iThe Whine Deflector`a'``~
+Desc A powerful talisman lies here.~
+ExF 0 17039360
+WearL -1
+Cost 300
+End
+
+#O
+Vnum 4204
+Nest 0
+Name super quest item handbook~
+ShD  `k*`gThe Super Quest Item Handbook`k*``~
+Desc `dA plain book lies here.``~
+ExF 0 8650752
+WeaF 1
+WearL -1
+Cost 1
+ExDe papermsg~ A super quest item is a customizable weapon or item that lets the designer
+pick what elements are important to the creator.  In the case of a weapon,
+the quest item starts off with average 30 damage in any weapon type except
+exotic.  As a piece of equipment, it starts off with a respectable 20 AC in
+all categories.  Super quest items can never be modified by imms once they
+are created.  A super quest item can have up to five bonus points for free.
+After that, you can add up to five more points, if you balance it back down
+to three or less.
+``
+Bonus:                            Penalty:
+avg 35 damage           1         -1 hit/dam                -1
++1 hit/dam              1         permanent faerie fire     -1#
++1 to any stat          1         heavy weight (200 lbs)    -1
++25 hitpoints/mana      1         -25 hitpoints             -1
+-5 save                 1         permanent curse           -2#
+-20 armor class         1         permanent weaken          -2#
+flaming                 1         permanent slow            -2#
+frost                   1         permanent poison          -3#
+shocking                1         two-handed                -3
+sharp                   1         rot-death                 -3
+vorpal                  1
+wrath                   1
+poison                  1
+throwing                1
+permanent detect magic  1#        * Permanent sanctuary will always
+light weight (1 lb)     1         include rot-death, so the adjusted
+weapontype exotic       1         cost is actually 2 instead of 5.
+non-sacrifice           1
+restring                1$        $ The imm will pick a name and desc
+avg 40 damage           2         for the item that represents its
+vampiric                2         powers and weaknesses if the player
+lance                   2         does not restring it.
+lifedrain               2
+permanent detect evil   2#        # All permanent effects will also
+permanent detect good   2#        include noremove and nouncurse too.
+permanent infrared      2#
+permanent aqua breathe  2#
+permanent flying        2#
+avg 45 damage           3
+permanent haste         3#
+permanent detect invis  3#
+permanent detect hide   3#
+permanent pass door     3#
+permanent sanctuary     5#*
+~
+End
+
+#O
+Vnum 114
+Nest 0
+Name cloak moths `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ha `bcloak`h of`b living`h moths``~
+Desc `hA swarm of moths flutters around the carcass of a rat here.``~
+WearL -1
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 12936
+Enchanted
+Nest 0
+Name party hat `jI`mv`le`or`na`lt`mh`k'`is`o B`li`jr`it`nh`md`la`ky``~
+ShD  `oA`k S`ip`la`jr`mk`nl`ii`kn`lg`o Party`j Hat``~
+Desc `oA`k s`ip`la`jr`mk`nl`ii`kn`lg`j party hat from`k Iverath's`j birthday is here,`r b`wl`ri`wn`rk`wi`rn`wg`o.`h.`a.``~
+ExF 0 262209
+WearL -1
+Lev  1
+Cost 750
+Affc 'enchant weapon'   1  74  -1   8  19          0 0 ''
+Affc 'enchant weapon'   1  74  -1   8  18          0 0 ''
+End
+
+#O
+Vnum 4204
+Nest 0
+Name pergament blood signed contract `iSaphyne's`kSoul``~
+ShD  `bA contract, signed with`i blood``~
+Desc `dA pergament, with blood-red text lies here.``~
+WearL -1
+Cost 67
+ExDe papermsg~ `iMy soul belongs to Iverath.
+`iSaphyne
+~
+End
+
+#O
+Vnum 4102
+Nest 0
+Name booster pack~
+ShD  `kA brand new`o Miverblis`k Booster Pack(tm)``~
+Desc `kA gleaming golden BOOSTER PACK lies here.``~
+WearL -1
+Cost 105
+End
+
+#O
+Vnum 111
+Nest 0
+Name marshmallow man scarf~
+ShD  `lThe`o Marshmallow Man's`l Scarf``~
+Desc `lThis is the unmistakable`o Marshmallow Man's`l Scarf``~
+ExF 0 17039360
+WearL -1
+Cost 2000
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+End
+
+#O
+Vnum 553
+Nest 0
+Name circle protection bashing `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `bCircle of Protection:`k Imm Bashing``~
+Desc Oh, it's just some kind of necklace...~
+ExF 0 17039360
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 11374
+Nest 0
+Name infernal harp iverath~
+ShD  `bAn`i Infernal`b Harp``~
+ExF 0 17039488
+WearL -1
+Lev  88
+Cost 9999999
+Affc 'fly'   0  99  -1   0  25     524288 0 ''
+Affc 'detect good'   0  99  -1   0  25         64 0 ''
+Affc 'detect evil'   0  99  -1   0  25          4 0 ''
+Affc 'pass door'   0  99  -1   0  25    1048576 0 ''
+End
+
+#O
+Vnum 3520
+Enchanted
+Nest 0
+Name bigass slaying knife `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ba big-ass`d slaying`b knife``~
+Desc `bA big-ass`d slaying`b knife lies here among all the dead mortals.``~
+POwn Iverath~
+Wt   200
+WearL -1
+Cost 9999999
+Vlues  2 8 10 38 266 0 0 0 0 0 0 0 0
+Affc 'reserved'   1  90  -1   1   1          0 0 ''
+Affc 'enchant weapon'   1 100  -1  66  19          0 0 ''
+Affc 'enchant weapon'   1 100  -1  66  18          0 0 ''
+Affc 'reserved'   1  90  -1  -1   2          0 0 ''
+End
+
+#O
+Vnum 1292
+Nest 0
+Name item quest parlous stiletto mark~
+ShD  `a->`b*`a<-`b A stiletto engraved with the mark of Parlous`a ->`b*`a<-``~
+Desc `k|`aParlous Quest Item`k|``~
+ExF 0 68026368
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 1292
+Nest 0
+Name disc quest token blood red Iverstring~
+ShD  `bA blood-red quest token``~
+Desc `bA tiny iron disc lies in the mud, gleaming red.``~
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 1292
+Nest 0
+Name birthday token Iverath!~
+ShD  `oI`nv`je`mr`ka`lt`ih`n'`is`l B`ki`jr`nt`mh`oD`ka`iy`m T`no`kk`ie`ln``~
+Desc `bA tiny iron disc lies in the mud, gleaming red.``~
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 12936
+Enchanted
+Nest 0
+Name party hat sign saying 15 fear `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `oA`k P`ia`lr`jt`ny`o Hat with a sign saying`a '`b15 now! Fear me!`a'``~
+Desc `iC`bo`ln`eg`kr`ja`it`bu`ll`ea`kt`ji`io`bn`ls`o on`i 15`o,`a Malfoy`o -`i Iverath``~
+ExF 0 262211
+WearL -1
+Lev  3
+Cost 9999999
+Affc 'enchant weapon'   1  75  -1  11  18          0 0 ''
+Affc 'enchant weapon'   1  75  -1  11  19          0 0 ''
+End
+
+#O
+Vnum 12936
+Enchanted
+Nest 0
+Name party hat `jI`mv`le`or`na`lt`mh`k'`is`o B`li`jr`it`nh`md`la`ky``~
+ShD  `oA`k P`ia`lr`jt`ny`o Hat with a sign saying`a '`bI'm 14 now, bitch! Bow to me!`a'``~
+Desc `iC`bo`en`lt`kr`ja`it`bu`el`la`kt`ji`io`bn`es`o on`i 14`o, B`ko`ol`kt`om`ka`on`k!`o -`i Iverath``~
+ExF 0 262211
+WearL -1
+Lev  3
+Cost 9999999
+Affc 'enchant weapon'   1  75  -1  11  19          0 0 ''
+Affc 'enchant weapon'   1  75  -1  11  18          0 0 ''
+End
+
+#O
+Vnum 12952
+Nest 0
+Name jocko is fat and stupid `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `a[`hOOC`a]`l Jocko`a: '`him fat and stupid`a'``~
+Desc `a[`hOOC`a]`l Jocko`a: '`him fat and stupid`a'``~
+ExF 0 17043456
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 14107
+Nest 0
+Name swirling camo iverstring~
+ShD  `cA Swirling `jCa`cm`jo`cfl`ja`cug`jed`c Cloak``~
+Desc `cA beautiful camoflauged cloak is hard to see on the ground here.``~
+WearL -1
+Lev  99
+Cost 0
+Affc 'sanctuary'   0 100  -1   0  25        128 0 ''
+End
+
+#O
+Vnum 20964
+Nest 0
+Name denarras camouflage panties `gIv`ce`jr`ost`jr`ci`gng``~
+ShD  `d(`c(`j Denarra's camouflage panties`c)`d)``~
+Desc `d(`c(`j Denarra's camouflage panties lies here in a sexy heap`c)`d)``~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4205
+Nest 0
+Name throwing dagger penetration pink~
+ShD  `mLara's pink throwing dagger of`i PENETRATION``~
+Cond 100
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4611
+Nest 0
+Name quiver legbone bone bantesh `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `hthe hollowed out leg-bone of a Bantesh``~
+Desc `hA big leg bone lies here.``~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4611
+Nest 0
+Name quiver legbone bone bantesh `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `hthe hollowed out leg-bone of a Bantesh``~
+Desc `hA big leg bone lies here.``~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4611
+Nest 0
+Name quiver legbone bone bantesh `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `hthe hollowed out leg-bone of a Bantesh``~
+Desc `hA big leg bone lies here.``~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4611
+Nest 0
+Name quiver legbone bone bantesh `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `hthe hollowed out leg-bone of a Bantesh``~
+Desc `hA big leg bone lies here.``~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 4610
+Nest 1
+Name fire bolt arrow `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `ia bolt of fire``~
+Desc `iA fire flickers with a hellish glow.``~
+Cond 100
+WearL -1
+Cost 153
+End
+
+#O
+Vnum 559
+Nest 0
+Name stupid ass fire shield `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `a[`hOOC`a]`l Kracken`a: '`hstupid ass fire shield`a'``~
+Desc `a[`hOOC`a]`l Kracken`a: '`hstupid ass fire shield`a'``~
+ExF 0 8650752
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 0
+Name compass map set cultists `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `aThe Cultist's`h '`dMap & Compass`h'`a Set``~
+Desc `aA map with a compass lies here, ready to lure unsuspecting newbies into certain doom.``~
+ExF 0 68026368
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 3520
+Nest 0
+Name jihad scud missile `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `gThe Scud Missile '`dJIHAD`g'``~
+Desc `gA rusty scud missile is here, '`dJIHAD`g' is written in desert-brown letters.``~
+WeaF 1
+WearL -1
+Cost 0
+Vlues  5 8 10 38 513 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 205
+Enchanted
+Nest 0
+Name crown obsidian ivestring~
+ShD  `aThe Crown of`b Daican``~
+Desc `bAn iron crown lies here.``~
+ExF 0 17563712
+WearL -1
+Cost 0
+Affc 'enchant armor'   1  74  -1 -30  17          0 0 ''
+Affc 'reserved'   1  95  -1   8  18          0 0 ''
+Affc 'reserved'   1  95  -1   8  19          0 0 ''
+Affc 'reserved'   1  95  -1   2   1          0 0 ''
+Affc 'reserved'   1  95  -1  20  13          0 0 ''
+End
+
+#O
+Vnum 111
+Nest 0
+Name pendant power~
+ShD  `iThe Pendant of Power``~
+Desc `iA pendant lies here, sizzling with magical power.``~
+ExF 0 17039360
+WearL -1
+Cost 0
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+ExDe pendant~ A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+End
+
+#O
+Vnum 4204
+Nest 0
+WearL -1
+Cost 0
+ExDe papermsg~ The Oceanic Geographer By Tempest Fornguard
+----------------------------------------------------------------------------
+- The world of Exodus is covered with over three quarters water.  The
+majority of this great body of water is the Great Ocean, surrounding both
+continents, Ividia and the Great Continent.  The second major body of water
+is the Sea of Fate, a strange and mysterious waterway to the west of the
+Fierness Forest.  Within these bodies of water are many forms of life, and
+the lands they reach are far and varied.  I have written this humble
+offering in the hopes that it will aid you in your journeys across these
+watery expanses. 
+----------------------------------------------------------------------------
+------------------------Tempest-Fornguard-----------------------------------
+----------------------------------------------------------------------------
+- Chapter I : Descriptions of Regions
+----------------------------------------------------------------------------
+- The Sea of Fate : The Sea of Fate has within it two island groups and can
+be reached by three methods.  There is an Inlet opening into the sea of fate
+on the easternmost point of the Sea of Fate in the Fierness Forest's western
+border.  Farther to the south in Bayou Laforge is found another enterance,
+also in that swamps western border.  Finally, on the southern border of the
+Sea of Fate is found a enterance to the Great Ocean.  This opening is found
+to the North/Northwest of Freeport.  The two islands found in the Sea of
+Fate are Telkion Isle and the Silver Coast.  Telkion Isle is a fell and evil
+place.  Upon landind upon this island I saw sights of death and ill omen. 
+Those who venture here would be cautioned to be prepared for the worst.  The
+Silver Coast is a jungle paradise, inhabited by monkeys, exotic birds, and
+various other jungle creatures.  When searching inland, I found fresh water.
+I also found the tracks of a great jungle cat.  Knowing that these beasts
+often track and attack their prey without warning, I ended my survey until I
+could bring a larger exploration party. 
+----------------------------------------------------------------------------
+The Great Ocean : The Great Ocean contains a variety of creatures on the
+Northern Coast.  The northern coast region refers to the area on the coast
+of the Great Continent, north of the Sea of Fate on the Continents Western
+coast and north of the Eastern Prairie on the Great Continents eastern
+coast.  This area is home to a variety of large see creatures, including
+sharks, whales and giant squid.  Also to be found in this area are giant sea
+horses, who some have told me can be tamed, though I have never seen it
+myself. 
+----------------------------------------------------------------------------
+- Areas of Note : The areas of note which can be found in or around the
+Great Ocean are (from West to East, the meridian being Thesden): The Ruined
+Underwater City, The Sea of Fate, Freeport, Ebon Downs, Dead Man's Cave,
+Colwyn Bay (and Thesden), The Eastern Prairie and The Continent of Ividia. 
+----------------------------------------------------------------------------
+The Under Water City : The ruined underwater city is found to the west and
+south of the Sea of Fate.  It contains Marid Djinns, Locathat, Dragon
+Turtles, and a variety of creatures foul and fair Caution is advised for
+those adventuring here.  The means of both access and egress to this city is
+a stupendous whirlpool spanning almost 30 miles in diameter.  One need now
+worry of one's ship being swallowed by this titan, for the currents at it's
+surface are very mild. 
+----------------------------------------------------------------------------
+- Freeport : The city of Freeport is a merchants city, known for a modest
+ship building industry.  It can be located on the southern most point of the
+great continent, south of the Macocamp Outlands, 160 miles or so due
+south/southwest of Thesden as the crow flies.  It is surrounded by ocean at
+all points except the north, which is bordered by a narrow river estuary. 
+Protecting Freeport from the inhavitants of the Macocamp Outlands to the
+north. 
+----------------------------------------------------------------------------
+- 
+~
+End
+
+#O
+Vnum 4204
+Nest 0
+Name white journal~
+ShD  the journal of White Crescent Isle~
+WearL -1
+Cost 0
+ExDe papermsg~ White Cresent Isle
+.
+Main Area /-----Sea of Fate                   Tiger Area        Legend
+         _^____    |                                           W - Waterfall
+   ___  |_ ___ |   |                                           R - River
+  |   | | _ ||__ <-/                             |M|           S - Fresh Water
+  | |W|_|      |                              ___|T|               Spring
+  | ||__ P_| |M|                            |H__ __|           M - Melin
+  | |___| |  |T|                               |_|                 Blossoms
+  |______ |__|X - Tiger Area                    | <_ Up        T - Tiger's
+       |_ |                            Down to |_|                 Lair
+        |_|                            Main     |              H - Hyena's
+  Up --->|                             Area--\__|                  Lair
+        |_|                                  |   |
+  Up --->|                                   |___|< - Hill
+         |__/-- Down to Tiger Area
+        |   |
+        |___| <-Hill
+----------------------------------------------------------------------------
+OOC NOTE : Telikon Isle is mappable, (with a lot of headache) but this cannot be expressed adequately on a text map.  Therefore, I can only give the following information for each area.  The areas labelled Telikon Hill have a warp where when you arrive 
+in part of the hill, you will be either near to the Temple of Terror or the Temple of Hopelessness. In either case. This part of the hill can be destinguished by having a up direction. In either case, once here go east or west.  This will put you on a 
+path to the appropriate temple, the Temple of Fears path going south, from the Hill area, and the Temple of Hopelessness's path going north along a tar walled tunnel, toward the Temple of Hopelessness.  The hill room for both these temples look the same.
+If when you arrive in the room with the up on Telikon hill and you go north or south, you will either be on a road, or an another part of the hill, depending on whether you are "warped" to one or the other temple areas.  If stepping north or south from
+the up room, you arrive on the tar road, or the cliff road, turn back, because they lead to death traps.
+Now, having probably confused you deeply, i will continue to the temples.  The Temple of Fear is located on Telikon hill due east of the "Hill" room with no up direction.  The Temple of Hopelessness is very dangerous, having three areas inside it which
+are death traps. Look into every room before you enter it.  One is the tarpit, the other two are simply areas where when you walk into them, you cant walk out without benefit of transportative spells.  The Temple of Terror has confusing rooms too, but 
+only one deathtrap, with requires you to look ahead into rooms before entering.  Finally, the last note is with the Temple of Fear. the only death trap there is a locked glass wall. Simply dont enter it, and you are fine.  Do not confuse this with the 
+Mirror on the fourth floor of the tower, which is enterable and exitable.  I am very sorry for the problems with this description, buy you wouldnt believe the complexity of this area.. Impossible to accurately describe in only a couple pages.
+~
+End
+
+#O
+Vnum 4204
+Nest 0
+Name terror journal~
+ShD  the journal of Terror~
+ExF 0 8650752
+WearL -1
+Cost 0
+ExDe papermsg~ Found on the western shore of Telikon Isle is a hideous and corrupted
+mage, known as The Harem Master.  To reach his demense one must travel west
+along a the beach road once one has landed on the southern shore of Telikon
+Isle.  At his court he keeps a harem of charmed women, who suffer his
+tortures for the duration of their nightmarish lives.  Perhaps the most
+unspeakable evil commits is his repasts, for lining the road to his court
+are the bones of his past meals..  The bones of children.  When is invisibly
+spied upon his court I noticed him wearing ornate clothes, and upon his
+person were a magical robe, and an odd stone key.  I do not know where the
+key goes to.  To the north of Telikon hill is the the second evil of the
+isle.  This is known as the Temple of Hopelessness.  This area is located
+directly next to the tarpit mentioned earlier, and the tarpit is used for
+disposal of the temples dead and live victims.  Within the temple are found
+many alcolytes, known as inquisitors.  The chief administrator within the
+temple is the Grand Inquisitor.  The lord of the temple is The High Priest
+of Hopelessness, who I saw walking in a magical robe, in a western office. 
+The Chief enforcer of all the temple is the Torturer.  One strong warning
+for those mages who would try to slit by his gaze..  He is able to see
+invisble, but at least he didnt chase me down when i fled for my life.  To
+the east of Telikon Hill is found the haunted Tower of Fear.  Within this
+tower is the dreaded High Priest of Fear.  This evil priest can (I found out
+at most personal cost) see those who are invisible.  On the bottom floor of
+the tower are two rooms.  On the north edge of the center chamber of this
+floor is a glass wall, which is magic.  If "opened" and entered, the person
+who enters is trapped within a dark chamber on the far side of the glass,
+with the company of a stone gargoyle.  Do not enter this room, for once
+entered, you cannot leave without the aid of magic.  The other room in this
+level of the tower is occupied by a foul being called "The Butcher" who
+tortures and slays all who enter the tower.  On the third floor of the tower
+is the prison of the tower.  Do not remove the ball and chain, nor manacles
+of the prisoner here..  They are cursed, and cannot be removed once taken. 
+Finally on the fourth and highest floor of the Tower of Fear is the office
+of the Priest of Terror, found to the east of stairs when you arrive on this
+floor.  I found a ghost wandering the tower here, though it did not speak
+nor in any way attempt to help or hinder me in my reconnisaince.  In a north
+west hallway in the tower on this fourth floor, I found a magical mirror. 
+This mirror is actually a opening to another dimention, perphaps a mile in
+size.  Within this mirror is found a magical story being recreated by the
+beings here.  An elven storyteller speaks to elven children of fiery
+warriors sieging a castle, and this actually happens in other parts of the
+land behind the mirror.  The castle itself beyond the storyteller I only saw
+briefly, in flight..  As I fled the flaming hounds which the fiery warriors
+here employed.  The hounds could see invisble, and were hunting me down at
+the time.  I did not have time to see if the warriours flamings swords had
+that nature on their own, or whether they were like that because of the
+warriors who held them..  Enough writing of that nightmarish time for now.. 
+The southern portion of Telikon Isle, east and slightly north of the beach
+where landing to this island occur, is occupied by the dreaded Temple of
+Terror.  This temple is the home of two beings...  The High Priestess of
+Terror, and perhaps the most dangerous creature on the whole of the isle... 
+The Grand Dragon of Terror.  My soul chilled even seeing this foul beast. 
+The high priestess of terror had magical items upon her, The headress of
+terror, and some magical pitch black leggings.  What these did I have no
+idea.  
+~
+End
+
+#O
+Vnum 4204
+Nest 0
+Name island journal~
+ShD  the Island Journal~
+ExF 0 8650752
+WearL -1
+Cost 0
+ExDe papermsg~ The Island Explorer by Tempest Fornguard. 
+----------------------------------------------------------------------------
+- This work describes the White Crescent Jungle and Telikon Isle, found in
+the sea of Fate.  White Crescent Jungle is an area of lush jungle growth and
+beauty, and some dangerous jungle creatures.  Telikon Isle is a home of vice
+and evil of all sorts, the sanctuary of the fabled vile Temples of Vices. 
+Only the most powerful and brave souls would be advised to venture on
+Telikon Isle. 
+----------------------------------------------------------------------------
+- This book is dedicated to Astos of Clan Twilight, who's kind efforts
+helped me greatly in recovering lost equipment during this books
+preparation. 
+----------------------------------------------------------------------------
+----------------------------Tempest-Fornguard-------------------------------
+----------------------------------------------------------------------------
+Chapter I - The White Crescent Jungle
+----------------------------------------------------------------------------
+The White Crescent Jungle is a jungle paradise, with wild birds, monkeys,
+and animals of various sorts.  It can be reached by two enterances, along
+the north shore and eastern coast of the White Crescent Isle.  Both of these
+enterances are able to support a ship landing.  A swimmer of minor skill can
+reach the isle without benefit of a boat, departing from the enterance to
+the Sea of Fate on the western edge of Forest Fierness, swimming due east
+until along the cliffs of the White Crescent Isle, then north to the eastern
+enterance to White Crescent Beach.  I myself made this swim with a dwarvish
+companion, who did very well despite admitedly poor swimming ability. 
+Still, care must be taken to keep track of one's bearings so as nto avoid a
+bad fate from lack of caution.  Within the jungle are found a variety of
+flora and fauna.  I found both fresh water, jungle fruit and coconuts.  Also
+to be found are the rare Orange Melin Blossom, which is known for enhancing
+ones reaction speed when it's petals are sniffed, causing one to be slightly
+more likely to hit ones foes in combat.  The animals to be found are quite
+varied, and some can be quite dangerous.  I spotted five different types of
+birds, plus spider monkeys.  Also seen were two large herbivores, Falatu and
+Okapi.  The large mandrill monkey was also be seen, as was the tiny kanga
+mouse.  On a small clearing in the southern portion of the jungle if spotted
+a pack of Hyenas.  During the exploration of a river system on the western
+border of the jungle were seen two large predators, a twelve foot anaconda,
+and alligator longer than the canoe is was using as a craft.  By far the
+largest and most ferocious animal to be seen is the deadly and rare Belon
+Tiger.  Despite the fact i was invisible, this beast was able to track and
+aggresively hunt me.  I was glad as many times before for my invisibility
+spell.  It's lair is found on the eastern edge of the jungle, some miles
+south of the White Crescent beach, and any who venture her who are not
+prepared to face this ferocious beast are advised to stay well clear of it's
+hunting range. 
+----------------------------------------------------------------------------
+Chapter II - Telikon Isle
+----------------------------------------------------------------------------
+The isle of Telikon is a dread and evil place, home of an ancient evil.  I
+barely came out of my exploration of this isle with my life and very soul
+intact.  Those who come here must be prepared to face true and powerful
+evil.  The isle is circular in shape, surrounded by cliffs on all sides,
+with one navicable enterance on it's southern side.  Opening on the east and
+southernmost portion of the Sea of Fate.  It, like the White Crescent Isle
+to it's north, is also covered with jungle.  Withimn the jungle are two
+notable landmarks, a very large tarpit on the northern section of the
+jungle, and Telikon hill, found in the very center of the jungle.  There are
+to my knowledge no large animals to be found on the island, perhaps a
+reflection of the evil which makes this island home.  This evil comes in the
+form of four seperate forces within the island, each laired along a compass
+point surrounding Telikon hill.  
+~
+End
+
+#O
+Vnum 2222
+Nest 0
+Name organic collar gills blood red set~
+ShD  `bA set of blood-red gills``~
+Desc `bAn organic collar lies here, pulsing with life.``~
+ExF 0 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 27001
+Nest 0
+Name dogrose dagger liono Iverstring~
+ShD  `a*={=`b====-.``~
+Desc `bLionO's piratey dagger lies here.``~
+ExF 0 9306176
+WearL -1
+Cost 0
+End
+

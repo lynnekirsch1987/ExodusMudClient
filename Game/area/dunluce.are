@@ -1,0 +1,11826 @@
+#AREA
+ 6~
+dunluce.are~
+`f[`m\ `aCastle Dunluce `m/`f]``~
+{25 65} Damian  `f[`m\ `aCastle Dunluce `m/`f]``~
+~
+100 399
+44 0 4225
+0 0
+~
+#MOBILES
+#100
+knight guardian~
+the Castle Guardian~
+The guardian knight of Castle Dunluce stands here. 
+~
+He is the very embodiment of all that is good and powerful with the
+defenders of Castle Dunluce.  His face is hidden behind his shining visor
+and he stands with back erect, watching for trouble makers.  
+~
+human~
+0 0 0 0
+ABGNT DH 700 0
+50 50 60d16+2000 50d9+100 6d6+6 none
+-20 -20 -20 999 -7
+0 -1 FU 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 400
+5
+guardian.voc~
+~
+#101
+water nymph~
+A water nymph~
+A water nymph circles you slowly here.
+~
+You can barely make out this form through the waters here, a fluid
+creature with pointy ears that moves gracefully through the waters.  The
+only thing you can see from her facial features is that she is female, and
+exceptionally beautiful at that.  However, an evil glint lurks behind her
+long lashed eyes, and she licks her lips and starts towards you.  
+~
+canthi~
+0 0 0 0
+ABFG DJVZbe -500 0
+59 90 55d20+2849 45d10+240 6d6+25 sting
+-20 -20 -20 999 -7
+0 -1 DEFK R BHPXZ IOZ
+stand stand female 2500
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 200
+1
+~
+~
+#102
+man lord brealey~
+Lord Brealey~
+A handsome man stands here dressed primly for any occasion.
+~
+He is a handsome man, with long brown hair that has been swept back
+across his face and away from his stern grey eyes.  He stands here with the
+bearing of a man who is used to wearing fine clothes, and enjoys it very
+much.  
+~
+human~
+0 0 0 0
+ABGT DHV 401 0
+40 40 40d10+980 1d1+100 6d6+20 chop
+0 0 0 999 0
+0 -1 FKN 0 PX 0
+stand stand male 300
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#103
+lord jholam man~
+Lord Jholam~
+A short man dressed in grungy clothing stands here.
+~
+Before you stands a short, gruff man that reaches barely up to your chest
+level.  It is obvious that he once had some sort of growth deficiency, but
+more than makes up for it by his cool and demanding stature.  
+~
+dwarf~
+0 0 0 0
+ABGT HJZa 500 0
+40 40 50d30+1540 1d1+100 6d6+15 beating
+-10 -10 -10 999 -3
+0 -1 CFK 0 CLQ R
+stand stand male 300
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#104
+lord logan man~
+Lord Logan~
+A weak looking man with a tendency to annoy you stands here.
+~
+Before you stands a tiny, blue little thing that reminds you of the mold
+that grows on your bread when you leave it out too long.  You are taken
+aback when you realize that this is, in fact, a man, or something that
+pretends to be a man.  
+~
+human~
+0 0 0 0
+AFGHTU 0 -200 0
+1 1 1d6+4 1d1+99 1d4+1 thwack
+10 10 10 999 10
+0 -1 FR 0 0 C
+stand stand male 0
+ABGHMV ABCDEFGHIJKQVa 6 6 6 6 6 6 0
+small flesh~
+0 0 0 50
+0
+~
+~
+#105
+man lord naclario~
+Lord Naclario~
+A man clad in deep tones of black relaxes easily here.
+~
+Before you is a man that seems to glower at you no matter which direction
+he looks in.  His thick brows are slightly streaked with grey wisps,
+matching the way his hair flows back across his head in tendrilly patterns. 
+~
+human~
+0 0 0 0
+ABGNT HJVZa -500 0
+42 42 40d20+908 1d1+100 6d6+20 beating
+-10 -10 -10 999 -5
+0 -1 CFK 0 LQX 0
+stand stand male 300
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#106
+man lord ranfor~
+Lord Ranfor~
+A man in bright oranges and blues stands here.
+~
+~
+human~
+0 0 0 0
+ABGNT HJVZa -1000 0
+44 44 40d20+1000 2d2+100 6d6+10 punch
+-10 -10 -10 999 -5
+0 -1 CFK 0 LQX X
+stand stand male 300
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#107
+arin lord man~
+Lord Arin~
+A waifish looking man stands here in rich clothing.
+~
+~
+human~
+0 0 0 0
+ABGHT DFHJVZa -150 0
+44 44 40d20+1000 1d1+100 1d30+20 chop
+-10 -10 -10 999 -5
+0 -1 CFK 0 KLQX N
+stand stand male 300
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#108
+man lord findal~
+Lord Findal~
+A skeletal man clad in white robes floats serenely here.
+~
+Before you stands a ghostly figure, a pale pasty faced man that seems to
+float in and out of phase as you stand here staring at him.  His face may
+have been handsome at one time, but now is contorted with an anguish that
+only he can know about.  
+~
+human~
+0 0 0 0
+ABGMTVX DFHJVZa 0 0
+70 25 10d100+6430 100d10+50 5d5+40 chop
+-20 -20 -20 999 -20
+0 -1 CFK N CLQX NXZ
+stand stand male 3000
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+3
+findal.voc~
+~
+#109
+boy rourke~
+Rourke~
+A small boy slinks about the alcove here.
+~
+A small boy with sandy blonde hair and clad in all white stands here,
+playing hide and go seek.  
+~
+human~
+0 0 0 0
+ABGHU 0 0 0
+1 1 1d6+4 1d1+99 1d4+1 bite
+10 10 10 999 10
+0 -1 FR 0 0 C
+stand stand male 0
+ABGHMV ABCDEFGHIJKQVa 6 6 6 6 6 6 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#110
+lady ebou woman~
+Lady Ebou~
+A wonderfully matured woman stares at you sternly here.
+~
+~
+human~
+0 0 0 0
+ABGQ DFHJZa 700 0
+44 44 40d20+1000 100d10+100 1d30+1 chop
+-10 -10 -10 999 -5
+0 -1 FK BY LNQX P
+stand stand female 500
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#111
+lord man dare~
+Lord Dare~
+A man is here, resplendent in his fine clothes and armor.
+~
+Lord Dare scowls back at you with fire in his eyes.  Apparently, he
+doesn't like to be disturbed when he is in his quarters.  His bushy eyebrows
+crinkle up in distaste, and the ends of his thick, brown lips curl up in a
+petulant snarl.  The thick, corded muscles that cover his body tremble ever
+so slightly, and you realize that you are probably in some trouble here.  
+~
+human~
+0 0 0 0
+ABGTX DFHNOVa 400 0
+50 50 40d20+1650 50d10+1 9d6+15 chop
+-20 -20 -10 999 -10
+0 -1 CDEFIKNO 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#112
+lord man garion~
+Lord Garion~
+A broad shouldered goateed man stares deeply into his hands here.
+~
+~
+human~
+0 0 0 0
+ABGNT DFHNOVa 900 0
+48 48 47d10+1980 50d10+1 3d7+30 wrath
+-20 -20 -10 999 -10
+0 -1 CDEFIKNO 0 0 0
+stand stand male 3540
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 400
+0
+~
+~
+#113
+lady helaine woman~
+Lady Helaine~
+A lithe looking woman stands here, sharpening a sword.
+~
+~
+human~
+0 0 0 0
+ABFGTc DFHJZa 700 0
+51 51 50d20+1460 100d10+100 7d7+20 slap
+-15 -15 -15 999 -7
+0 -1 CFK 0 BILM 0
+stand stand female 500
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 200
+1
+~
+~
+#115
+black lance guard~
+a Black Lance guard~
+A guard of the Black Lance is here, chasing away people like you!
+~
+A guard of the castle, he is big and strong, and armed to the teeth with
+a variety of razor sharp weapons.  He knows that you aren't supposed to be
+here, and unless you look a lot more menacing then he does, you're probably
+being attacked right now.  
+~
+human~
+0 0 0 0
+ABCNTc 0 -400 15
+30 30 10d61+560 1d1+149 5d6+15 punch
+-2 -2 -2 999 0
+0 -1 CDEHKLU 0 C 0
+stand stand either 150
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 0
+0
+~
+~
+#116
+green lance guard~
+a Green Lance guard~
+A guard of the Green Lance is here, patrolling the castle.
+~
+A guard of the castle, he is big and strong, and armed to the teeth with
+a variety of razor sharp weapons.  He knows that you aren't supposed to be
+here, and unless you look a lot more menacing then he does, you're probably
+being attacked right now.  
+~
+human~
+0 0 0 0
+ABCFMTc J 1000 116
+30 30 10d60+450 1d1+149 5d6+15 slash
+-5 -5 -5 999 0
+0 -1 CDEHKLU A C 0
+stand stand either 150
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 256
+0
+~
+~
+#117
+nashbar lord man~
+Lord Nashbar~
+A thin goateed man stands here, contemplating the messy room.
+~
+~
+human~
+0 0 0 0
+ABC DFHNT 1000 0
+34 34 10d10+1200 17d9+100 4d7+4 none
+-11 -11 -11 999 5
+0 -1 EFNU 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 400
+0
+~
+~
+#118
+lord man manlius~
+Lord Manlius~
+A man stands here, clad in flashy orange and blue tones.
+~
+Lord Manlius stares back at you with pale blue eyes, eyes that seem too
+soft to be of any harm to you.  But behind those pale shades, you notice the
+dangerous steely glare that has made his ascent to Lordship in Thesden a
+rapid one.  
+~
+human~
+0 0 0 0
+ABC DFHNT 1000 0
+40 40 50d10+4500 25d9+100 5d8+5 none
+-20 -20 -20 999 3
+0 -1 EFNU B B 0
+stand stand male 2000
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 205
+0
+~
+~
+#119
+lady rowena woman~
+Lady Rowena~
+A decrepit old woman sits here, staring into her crystal ball.
+~
+Her face has deep creases in it that run the length of her face and up
+and down her neck.  It is impossible to tell just how old she is, just that
+she has long since outlived the rest of her generation.  From the frailness
+of her bones and the rank smell about her, you can probably guess that she
+doesn't have all that long to live.  
+~
+human~
+0 0 0 0
+ABGQ H 1000 0
+29 29 5d10+400 22d9+100 2d8+2 none
+-5 -5 -5 999 5
+0 -1 EIKU 0 0 0
+sit sit female 500
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 310
+0
+~
+~
+#120
+lord man xavier~
+Lord Xavier~
+A handsome and regal man stands here smiling.
+~
+He is perhaps the most handsome man you have ever seen.  Bright blue eyes
+stare out from beneath long brown hair that has been swept off to the side. 
+Even the careless way the hair seems to have been arranged looks perfect on
+this man's face.  He also rests with the demeanor of one who is at ease with
+himself and with anyone he comes into contact with.  Perhaps that explains
+why Xavier is comfortable in this secluded corner of the castle, even though
+he is the High Lieutenant of the Argent Lance.  
+~
+human~
+0 0 0 0
+ABGNTXc DFHTVc 1000 0
+55 55 60d20+2450 10d10+100 20d3+20 divine
+-25 -25 -25 999 -5
+0 -1 FKOU 0 FGNT 0
+stand stand male 6509
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 500
+0
+~
+~
+#121
+hemog man lord~
+Lord Hemog~
+A man, delicate and graceful, stands here rifling through his wardrobe.
+~
+A man that could only be described as pretty, his frail features and fine
+jawline are capped with a splendid head of auburn hair.  He stands here
+caressing the rich red velvet brocade of a dress that hangs in his wardrobe.
+He looks up at you distractedly, examining your vestiments with a practiced
+eye.  
+~
+human~
+0 0 0 0
+ABC DFN 1000 0
+34 34 10d10+1200 17d9+100 4d7+4 slap
+-11 -11 -11 999 5
+0 -1 EFNU R 0 B
+stand stand male 500
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 204
+0
+~
+~
+#122
+selanne maid~
+Selanne~
+Before you stands the woman most familiar with the inner workings of Castle Dunluce.
+~
+~
+human~
+0 0 0 0
+ACG N 450 0
+34 34 10d61+530 1d1+100 10d2+14 slap
+-10 -10 -10 999 1
+0 -1 F 0 0 B
+stand stand female 4
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#123
+dwarf servant~
+A dwarven servant~
+A dwarven servant, indentured by the Rainbow Court, watches over the Castle.
+~
+~
+dwarf~
+0 0 0 0
+ACG J 659 123
+18 18 6d40+305 1d1+100 3d5+10 pound
+0 0 0 999 1
+0 -1 F 0 LQ R
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#124
+apprentice maid avanso~
+An apprentice avanso~
+An apprentice avanso paces the hallways, as her duties require.
+~
+~
+human~
+0 0 0 0
+ACGH 0 450 124
+16 16 6d40+294 1d1+100 3d5+8 slap
+0 0 0 999 6
+0 -1 F 0 0 B
+stand stand female 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#125
+blue lance guard~
+A Blue Lance guard~
+A guard patrols the castle battlements, discouraging any malevolence.
+~
+~
+human~
+0 0 0 0
+AGX NV 1000 125
+40 40 10d100+760 1d1+100 4d8+20 crush
+-4 -4 -4 999 4
+0 -1 EFKVW 0 ET 0
+stand stand either 432
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 400
+0
+~
+~
+#126
+dwarf hunchback slave~
+A hunchback~
+You squint to make out the misshapen figure of a hunchback in this dark corner.
+~
+~
+dwarf~
+0 0 0 0
+AB J 500 0
+13 13 5d25+150 1d1+100 3d4+6 pound
+1 1 1 999 6
+0 -1 F 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#127
+lady woman jikata~
+Lady Jikata~
+An elven woman stands here, arms akimbo, with an exasperated look on her face.
+~
+~
+elf~
+0 0 0 0
+ABN EFJN 900 0
+35 35 10d62+656 2d100+430 5d6+15 pierce
+-7 -7 -7 999 2
+0 -1 FJKN 0 BC Z
+stand stand female 760
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 400
+0
+~
+~
+#128
+servant slave ~
+A faceless servant~
+A servant bows in abeyance and moves into the shadows, allowing you to pass.
+~
+~
+dwarf~
+0 0 0 0
+ACGH J 0 0
+19 19 6d45+260 1d1+100 4d5+8 pound
+0 0 0 999 5
+0 -1 0 0 LQ R
+stand stand either 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#129
+lady marchment tuylien~
+Lady Tuylien of Marchment~
+One of the reigning ambassadors of Marchment is here, perusing some documents.
+~
+A visiting dignitary from the neighboring kingdom of Marchment, Lady
+Tuylien's delicate hands belie the factional infighting that she must have
+endured to hold such a high ranking position.  Assassins, poisions, and
+political games have made Marchment renowned for breeding the most
+impermeable and callous diplomats.  
+~
+human~
+0 0 0 0
+ABX DFHNV 780 0
+57 57 10d150+2039 10d40+900 5d10+37 pierce
+-20 -20 -20 999 -5
+0 -1 EFKN 0 BNPT 0
+stand stand female 2560
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 500
+0
+~
+~
+#130
+Xorkc elf man scholar~
+The elven scholar Xorkc~
+The elven scholar Xorkc sudies the murals here, gleaning more history for his annals.
+~
+~
+elf~
+0 0 0 0
+ACGH EFJNOTU 0 0
+28 28 10d40+349 1d1+100 4d5+12 none
+-4 -4 -4 999 3
+0 -1 F ABE BC Z
+stand stand male 16
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 240
+0
+~
+~
+#131
+man lord carlomin~
+Lord Carlomin~
+A man rests here on a chaise, observing the vast countryside from his window.
+~
+Though clearly an intellectual, Lord Carlomin's figure suggests also an
+intrepid adventurous personality, as his forearms and legs are taut with
+many hours of outdoors conditioning.  His grey-blue eyes pierce into your
+soul, ascertaining your moral character in barely a blink.  Even though you
+consider yourself strong, before this man you feel like a newborn babe born
+just now into this world.  
+~
+human~
+0 0 0 0
+ABNQ HNOV 0 0
+57 57 10d200+3590 20d30+420 5d10+29 wrath
+-20 -19 -19 999 -5
+0 -1 EFKN BP NT 0
+stand stand male 4029
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 300
+0
+~
+~
+#132
+yellow lance guard~
+A Yellow Lance guard~
+A guard of the Yellow Lance watches you warily as you pass by.
+~
+~
+human~
+0 0 0 0
+AGX N 639 132
+40 40 10d100+890 1d1+100 5d8+21 slash
+-15 -15 -15 999 -2
+0 -1 CEFIKV 0 0 0
+stand stand either 490
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 300
+0
+~
+~
+#133
+black lance guard~
+a Black Lance guard~
+A guard of the Black Lance rushes forward to apprehend you!
+~
+A guard of the castle, he is big and strong, and armed to the teeth with
+a variety of razor sharp weapons.  He knows that you aren't supposed to be
+here, and unless you look a lot more menacing then he does, you're probably
+being attacked right now.  
+~
+human~
+0 0 0 0
+ACGMTc 0 -500 15
+33 33 10d60+600 1d1+149 5d10+12 punch
+0 0 0 999 8
+0 -1 CDEHKLU 0 C 0
+stand stand either 150
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 340
+0
+~
+~
+#154
+defender absolution rainbow~
+`oThe Defender of Absolution``~
+`oBefore you, an ethereal mass of light and energy twinkles in and out of existence.``
+~
+`oA violently crescendoing hum accompanies the brilliant bursts of
+multihued light that spray from the twisting vortex before you.  Appearing
+solidly for only a split second, this amalgam of light, sound, and pure
+energy disappears and fades into nothingness just as quickly as it had
+manifested itself.  `` 
+~
+unique~
+0 0 0 0
+ABNQ DFHJNTUV 1000 0
+90 100 10d100+13429 5d40+600 7d15+77 divine
+-40 -40 -40 999 -25
+AD 3 ACDEFGHKUW ABHIKNO CEFG 0
+stand stand neutral 10000
+E 0 24 24 24 24 20 24 0
+large energy~
+0 0 0 430
+0
+~
+~
+#155
+king athanmere~
+King Athanmere~
+Comfortably ensconced in this panoramic vantage point, King Athanmere passes his thoughtful gaze over the jewel of his ancestral kingdom, Thesden.
+~
+A large broad shouldered man, King Athanmere certainly bears semblance to
+the legends that herald his younger years, when he was one of the most
+feared defenders of the protectorate.  King Athanmere rules his kingdom with
+the utmost care and vigilance, perusing tax collection reports and military
+strategy reports constantly.  
+~
+human~
+0 0 0 0
+ABGNT DFHJNV 687 0
+86 100 40d50+8650 3d40+495 8d10+50 wrath
+-65 -65 -65 999 -65
+0 -1 CEFHIKN B BCP 0
+stand stand male 30000
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 30310
+medium flesh~
+0 0 0 260
+0
+~
+athanmere.scr~
+#156
+archer ~
+A half elven archer~
+A half elven archer paces the battlements in defense of the castle.
+~
+~
+elf~
+0 0 0 0
+AG EFJP 450 156
+38 38 10d80+760 1d4+100 5d8+20 none
+-13 -14 -14 999 0
+0 -1 F 0 BC Z
+stand stand either 43
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#157
+reimon lord~
+Lord Reimon~
+A disheveled man barely notices your presence, and continues his mumbling.
+~
+~
+human~
+0 0 0 0
+ACGH P -302 0
+38 38 10d150+900 1d1+100 5d7+16 beating
+-13 -14 -13 999 0
+0 -1 FK 0 0 S
+stand stand male 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#158
+man daran lord~
+Lord Daran~
+A massively built man stands here, flexing his muscles in front of the mirror.
+~
+~
+human~
+0 0 0 0
+ABGTX HJVZa -650 0
+44 44 40d20+740 1d1+100 6d6+16 slash
+-10 -10 -10 999 -5
+0 -1 CFKVW 0 LQ X
+stand stand male 203
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 205
+0
+~
+~
+#159
+lady surea woman~
+Lady Surea~
+A woman of delicate features and agile body glances at you warily.
+~
+A woman whose delicate and petite facial features have fooled more than
+one man into thinking she was a yielding noble woman jumps up warily as you
+enter the room.  More than a little suspicious of the threat of assassins,
+you can see the sharp dagger peeking out beneath her luxurious vestiments.  
+~
+human~
+0 0 0 0
+AGRX DFHJZa 700 0
+44 44 40d20+800 100d10+100 1d30+1 pierce
+-10 -10 -10 999 -5
+0 -1 FKN BY L LP
+stand stand male 429
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 0
+0
+~
+~
+#160
+lady woman altara~
+Lady Altara~
+A voluptuous woman stands here, fastening the buttons of her gown.
+~
+One could call her plump, but with the help of her corset, her womanly
+figure is transformed into voluptuous.  Certainly vain, you can tell that
+most of her energy goes into the upkeep of her appearance.  
+~
+human~
+0 0 0 0
+ABCGH DFHJ 700 0
+51 51 50d20+900 1d5+310 7d7+7 slap
+-15 -15 -15 999 -7
+0 -1 F 0 ILM BQ
+stand stand female 1056
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#161
+lord man teodecki~
+Lord Teodecki~
+A disheveled man paces about with a feverish intensity.
+~
+A sallow man with an amazingly gaunt visage stares at you through
+feverish eyes.  Not just thin, but unsettling, you feel extremely uneasy
+around this man.  
+~
+human~
+0 0 0 0
+AGTX DFHNOVa -870 0
+52 52 48d10+845 50d10+1 5d10+25 crush
+-16 -16 -16 999 -8
+0 -1 CDEFIKNO 0 BD J
+stand stand male 105
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 340
+0
+~
+~
+#162
+acolyte~
+An acolyte~
+A man garbed in the humble vestiments of the clergy rushes past you.
+~
+~
+human~
+0 0 0 0
+AGHQ N 800 0
+22 22 10d40+120 2d50+140 4d5+10 pound
+0 0 0 999 6
+0 -1 F 0 0 NS
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#163
+scullery maid~
+A scullery maid~
+A maid of firm bottom and ample bosom is here entwined intimately with a guard.
+~
+This girl jumps up in surprise as you intrude upon what was obviously a
+very private moment.  Hastily rearranging her blouse, she folds her arms
+across her half naked body, and bites her lip distraughtfully.  She looks as
+if she spends an awful lot of time in this closet.  
+~
+human~
+0 0 0 0
+ABG 0 430 163
+22 22 6d40+260 1d1+100 4d5+10 slap
+0 0 0 999 7
+0 -1 F 0 0 BP
+rest stand female 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#170
+guard lance~
+An enraged guard~
+A guard removes himself from the lithe legs of the maid and leaps to attack!
+~
+A member of one of the lesser lances, this guard is foaming at the mouth
+trying to get at you for ruining his otherwise blissful afternoon.  Though
+he looks very scary indeed, you have to work to suppress the chortling
+threatens to overcome you.  
+~
+human~
+0 0 0 0
+ABGX 0 -104 163
+34 34 10d60+605 1d1+100 5d6+15 crush
+0 0 0 999 0
+0 -1 DEFKLV 0 0 0
+stand stand neutral 35
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#100
+pool~
+an azure pool~
+The azure and glass pool stares at you with a beckoning call here.~
+stone~
+0
+portal 2
+ORS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 AB A ABDFI A
+0
+0
+0 1000 0 P
+#101
+waste basket~
+Logan's waste basket~
+A waste basket full of discarded papers sits in the corner here.~
+steel~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DFGHIJ 0 0 CFG 0
+0
+0
+0 0 0 P
+#102
+papers area~
+Logan's discarded`i papers``~
+A series of garbage scrawled on pieces of paper has been left here.~
+paper~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1 0 P
+E
+papers~
+Dear Diary, Today I decided to try for the world masturbation record. 
+Unfortunately, I had to stop at six ejaculations, my hand hurt so bad and it
+was becoming difficult to grab my tiny penis.  I was having a self esteem
+problem earlier as well, I was trying to build an area but it kept turning
+out like crap, I just don't know what the matter is with me!  Am I a loser
+like everyone says I am?  Anyway Diary, I was thinking about saving up my
+money to hire a prostitute or something, I feel so repressed and angry at
+the world.  I wish people like <insert Sanctuary player name here> would
+stop picking on me.  Sigh, sometimes I wish my parents had aborted me and
+saved this world the trouble of having to deal with a prick such as myself. 
+ 
+--Logan
+~
+#103
+corpse lana~
+the corpse of Lana~
+The corpse of a woman with a dagger in her back lies sprawled here.~
+flesh~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DFGHIJ 0 0 EHI 0
+0
+0
+0 0 0 P
+#104
+sign~
+a bridge sign~
+A sign is here warning travellers to stay on the bridge (`iEAST`d).``~
+wood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 900 0 P
+#105
+sign~
+a bridge sign~
+A sign is here warning travellers to stay on the bridge (`iWEST`d).``~
+oldstyle~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 900 0 P
+#106
+spring~
+`oa Crystal Haven spring``~
+`oA clear spring bubbles forth from its crystal base here.``~
+marble~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#107
+castle key~
+the castle gate key~
+A key with a crescent moon carved in it lies here.~
+steel~
+0
+key 2
+HUYZc
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 10 0 P
+#108
+blade sword glinting~
+`hA `kG`hl`ki`hnt`ki`hn`kg `hBlade``~
+`hA blade of fine craftsmanship lies on the ground here.``~
+steel~
+0
+weapon 2
+AG
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+A AB BD AB D
+0
+0
+51 200 500 P
+A
+1 1
+A
+19 4
+#109
+breastplate silver breast plate~
+`hA Silver Forged Breastplate``~
+`hA breastplate of finely wrought silver has been left here.``~
+steel~
+0
+armor 2
+AY
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BC BC BC BC 0
+0
+0
+20 300 500 P
+A
+26 1
+A
+1 1
+#110
+gown diaphanous~
+`aA `mD`fi`aa`mp`fh`aa`mn`fo`au`ms `aGown``~
+A gown made from shimmering nothingness has been left here.~
+ethereal~
+0
+gills 2
+PSY
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+47 5 2000 P
+A
+2 2
+A
+12 15
+A
+26 5
+E
+gown~
+The gown seems to shimmers as it envelops itself and the air that it
+encapsulates.  Bubbles of air seem to be trapped inside the very fabric of
+the cloth.  
+~
+#111
+sapphire pendant~
+`hA `eSapphire `hP`ee`hn`ed`ha`en`ht``~
+`hA pendant made from silver and `esapphire `hlies on the ground here.``~
+stone~
+0
+gills 2
+PSY
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+51 15 2000 P
+A
+24 -2
+A
+18 5
+A
+19 5
+E
+pendant~
+A pendant crafted from the finest sapphire gem has been left here.  It
+sparkles with the brilliance of a hundred perfecty cut facets and captures
+the very essence and fluidity of water in its depths.  
+~
+#112
+leather mail splint~
+leather splint mail~
+A suit of leather splint mail has been left here.~
+hard leather~
+0
+armor 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AC AC AC 0 0
+0
+0
+30 180 100 P
+#113
+gold knuckles~
+`kGold Knuckles``~
+`hA set of `kgolden `hknuckles has been left here.``~
+gold~
+0
+weapon 2
+A
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 BD B ACD 0
+0
+0
+30 73 4209 P
+A
+19 3
+#114
+green forest cloak~
+`kA `cFo`kre`cst Green `kCl`co`kak``~
+`hA deep `cgreen `hcloak embroidered with `kgold `hhas been left here.``~
+velvet~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 50 100 P
+A
+2 2
+E
+cloak~
+This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+#115
+white gloves~
+`hElegant White Gloves``~
+`hA pair of prissy looking white gloves has been left here.``~
+satin~
+0
+clothing 2
+S
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 30 763 P
+A
+26 1
+E
+gloves~
+These gloves have been made from the finest and smoothest satin material,
+a beautiful feeling on the hands.  They do not look like they were made for
+very difficult labor, they are showpieces to be sure.  
+~
+#116
+silver epee~
+`aA `nS`ai`nlv`ae`nr `aEpee``~
+`hA thin bladed sword made from pure silver has been left here.``~
+steel~
+0
+weapon 2
+B
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A AB CD BD 0
+0
+0
+33 60 500 P
+A
+18 3
+A
+19 3
+E
+epee~
+This is a thin sword that is traditionally used in duels and in other
+sword fighting events where death is not a major concern.  It is a sporting
+sword, but nevertheless, effective in some situations.  
+~
+#117
+area dead guard~
+a Dead Guard area~
+A bundle of papers has been left on the ground here.~
+paper~
+0
+trash 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 30 0 P
+E
+area~
+You can find this area on one of the worst muds in the land.  It is
+pretty much a jumble of chicken scratch that, with no suprise, few people
+like to vacation at.  
+~
+#118
+area carnival~
+a Carnival area~
+A bundle of papers has been left on the ground here.~
+paper~
+0
+trash 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 30 0 P
+E
+area~
+It is no wonder t hat they call this a carnival area.  What a joke!  It
+is a small wonder that this jumble of papers didn't land this Lord in an
+insane asylum or better yet, remedial english class.  
+~
+#119
+black mantle~
+`fA `aBlack `fMa`ant`fle``~
+`hA piece of `ablack `hcloth, trimmed in `fpurple `hlies on the ground here.``~
+cotton~
+0
+clothing 2
+S
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 30 500 P
+A
+12 8
+#120
+black leather hood~
+`aA Black Leather Hood``~
+`aA hood made from the blackest animal leather has been left here.``~
+kid leather~
+0
+armor 2
+S
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+A A A 0 0
+0
+0
+40 30 100 P
+A
+26 -1
+A
+5 1
+#121
+mancatcher~
+a mancatcher~
+A massive hooked polearm has been left here.~
+wood~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABC AB BD 0 I
+0
+0
+42 150 50 P
+A
+18 -2
+A
+19 5
+E
+mancatcher~
+This is a long polearm with a rather dull hook on its end.  It is used
+mainly in the dismounting of people from horses, although this particular
+one seems to have been adapted to horseback use as well.  
+~
+#122
+robe orange blue~
+a blue and orange robe~
+A blue and orange robe has been left here.~
+canvas~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 100 540 P
+A
+14 10
+#123
+star burst clasp~
+`hA Star Burst Clasp``~
+`hA silvery star shaped piece of metal has been left here.``~
+silver~
+0
+jewelry 2
+B
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 50 3000 P
+A
+12 5
+A
+4 1
+E
+clasp~
+This is a star shaped piece of silver that hums warmly as you hold it in
+your hand.  Small flecks of light seem to dance across its surface, as if
+they have been trapped just beneath the surface of the metal.  
+~
+#124
+satin shirt~
+`hA Satin Shirt``~
+`hA shirt made from fine white satin has been left here.``~
+satin~
+0
+clothing 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 20 200 P
+#125
+ivory dirk~
+`hAn Ivory Dirk``~
+`hA thin bladed knife made from fine ivory has been left here.``~
+ivory~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B B BE B 0
+0
+0
+46 42 827 P
+A
+18 2
+A
+19 3
+#126
+golden circlet~
+`ka golden circlet``~
+A circlet made from a shiny metal has been left here.~
+gold~
+0
+armor 2
+AY
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C C C C 0
+0
+0
+41 103 5000 P
+A
+13 -10
+A
+12 20
+A
+17 -3
+E
+circlet~
+This is a thin looking crown that has been embedded with a few gems such
+as rubies and sapphires.  It glows softly in your hands, a warm and
+comforting feeling.  
+~
+#127
+liquid fire~
+liquid fire~
+A bottle of fine glass lies here.~
+glass~
+0
+potion 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BCDE 'fireball' 'faerie fire' 'fireshield' -1 0
+0
+30 10 530 P
+#128
+staff withered~
+`dA Withered Staff``~
+`dA crooked hickory staff has been left here.``~
+wood~
+0
+weapon 2
+MS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AB D AC BDE 0
+0
+0
+57 60 0 G
+A
+12 10
+#129
+leather sandals~
+worn leather sandals~
+A pair of worn and dirty leather sandals has been left here.~
+kid leather~
+0
+armor 2
+HS
+B
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+30 30 7 P
+A
+2 -1
+A
+14 -7
+#130
+signet ring~
+Findal's signet ring~
+A beautiful ring of sunburned opal has been left here.~
+glass~
+0
+drink 2
+S
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BEF 0 0 0 0
+0
+0
+50 30 5309 P
+A
+17 -3
+A
+13 5
+E
+ring~
+This beautifully crafted ring has an unusual feature.  It's top pops open
+to reveal a large hollow opening within it.  As you look down into the ring,
+you realize that there might not be a bottom to it at all, very useful to
+store liquids in don't you think?  (hint hint) 
+~
+#131
+cracker~
+a pasty cracker~
+A stale looking cracker has been left here.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC BC 0 0 0
+0
+0
+10 0 100 P
+#132
+trout fountain~
+a trout fountain~
+A fountain crafted into the form of a gurgling trout is here.~
+marble~
+0
+drink 2
+Sa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCFGHIJ ABCFGHIJ 0 0 0
+0
+0
+50 10000 1000 P
+#133
+starling fountain~
+a starling fountain~
+A fountain crafted into the shape of a leaping starling fish is here.~
+marble~
+0
+drink 2
+Sa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCFGHIJ ABCFGHIJ B 0 0
+0
+0
+50 10000 100 P
+#134
+DUPE starling fountain~
+a starling fountain~
+A fountain crafted into the shape of a leaping starling fish is here.~
+marble~
+0
+drink 2
+Sa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCFGHIJ ABCFGHIJ B 0 0
+0
+0
+50 10000 100 P
+#135
+plate mail field~
+field plate mail~
+A suit of heavy looking steel lies on the ground here.~
+steel~
+0
+armor 2
+M
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+52 403 4000 P
+#136
+bastard sword~
+a two-handed bastard sword~
+A long pommelled sword lies on the ground here.~
+steel~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A ABC BC 0 F
+0
+0
+54 240 1000 P
+A
+18 4
+A
+19 4
+A
+2 -2
+#137
+diametric sash~
+a diametric sash~
+A sash made from polygon cuts of linen lies here.~
+linen~
+0
+clothing 2
+ALS
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 10 500 P
+#138
+steel sigil cahn~
+a steel Cahn sigil~
+A spidery looking symbol has been left on the ground here.~
+steel~
+0
+key 2
+P
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 10 100 P
+A
+12 3
+#139
+a tight black tunic~
+`kA `aT`kigh`at Black `kT`auni`kc``~
+`aA bolt of black and `kgold `acloth has been left here.``~
+cloth~
+0
+clothing 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 50 500 P
+#140
+black flowing robe~
+`aA Black Flowing Robe``~
+`aA robe made from thick black cloth has been left here.``~
+cloth~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 60 500 P
+A
+19 3
+A
+14 -25
+A
+24 1
+#141
+surcoat chevron~
+a chevron blazoned surcoat~
+A surcoat made of fine cloth lies on the ground here.~
+cloth~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+47 50 4509 P
+A
+17 3
+A
+12 11
+#142
+silver boots~
+`aSilver Worked Boots``~
+Intricately worked silver boots have been left here.~
+silver~
+0
+armor 2
+0
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C C C C 0
+0
+0
+45 30 1043 P
+A
+14 -5
+A
+2 2
+#143
+steel arm bands~
+`aSteel Arm Bands``~
+`aA set of plain, steel rings lies on the ground here.``~
+steel~
+0
+armor 2
+B
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+C C C 0 0
+0
+0
+48 132 2409 P
+A
+1 3
+#144
+crystal ball~
+a crystal ball~
+A glowing silver crystal ball sits in a cherry wood case here.~
+crystal~
+0
+light 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+50 10000 100 P
+#145
+wardrobe~
+a silver-chased wardrobe~
+A silver-chased wardrobe stands against the foot of the bed.~
+wood~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DHIJM ABCD BEH DHIJM 0
+0
+0
+52 10000 0 P
+#146
+sliver light~
+a sliver of light~
+A brilliant sliver of burning light has been left here.~
+electrum~
+0
+key 2
+AS
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+52 3 100 P
+#147
+rod security~
+a Rod of Security~
+A long wand with a round metal bulb on its end has been left here.~
+metal~
+0
+wand 2
+BHM
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ACDF BC BC ACF 'reserved'
+0
+0
+54 64 0 P
+#148
+scrawled sigil~
+`eA Scrawled Blue Sigil``~
+`hA crawling `eblue `hsymbol piece has been left on the ground here.``~
+pewter~
+0
+treasure 2
+A
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+56 20 5000 P
+A
+17 -5
+A
+19 1
+A
+13 7
+#149
+tunic satin~
+`hA Satin Tunic``~
+A satin tunic lies on the ground here.~
+satin~
+0
+clothing 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+56 70 300 P
+A
+26 2
+A
+17 -5
+#150
+velvet robe~
+`ba rich red velvet robe``~
+`bA crumpled heap of rich red velvet lays on the ground.``~
+velvet~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+34 28 140 P
+A
+12 10
+A
+26 1
+#151
+grey dress~
+`aA Simple Grey Dress``~
+`aA plain grey dress, fashioned out of the sturdiest cotton, lies in a heap.``~
+cotton~
+0
+clothing 2
+IS
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+32 0 13 G
+#152
+short knife~
+a short knife~
+A short, blunt, but extremely effective knife lays on the ground.~
+metal~
+0
+weapon 2
+K
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+B C AC B J
+0
+0
+34 18 94 P
+A
+18 1
+#153
+servant robe~
+the plain robes of a servant~
+A crumpled heap of cloth lays discarded on the floor.~
+cloth~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+17 17 1 G
+#154
+broom~
+`dA Stout Wooden Broom``~
+`dA stout wooden broom is perched up against the wall.``~
+wood~
+0
+weapon 2
+S
+0
+ANR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C C C CD F
+0
+0
+17 26 15 P
+A
+12 5
+#155
+lance absolution~
+`oThe Lance of Absolution``~
+`oA pulsating lance radiates energy as it dazzles your eyes.``~
+energy~
+0
+weapon 2
+AGHIKLMSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABC D D ABE DI
+0
+0
+60 250 89203 P
+A
+18 8
+A
+19 8
+A
+12 20
+#156
+shield absolution~
+`oThe Shield of Absolution``~
+`oA shimmering shield of pure energy floats softly above the ground.``~
+energy~
+0
+armor 2
+AGIKLSY
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+70 0 70398 P
+A
+12 20
+A
+4 2
+A
+24 -2
+A
+13 40
+#157
+sceptre jewel~
+`ka `jj`ke`jw`ke`jl `kencrusted sceptre``~
+A crystal sceptre embellished with ornate jewels glows with a magical light.~
+crystal~
+0
+light 2
+AGKLSY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+70 46 17690 P
+A
+12 30
+A
+1 1
+A
+4 1
+A
+24 -2
+#158
+staff athanmere~
+`iThe Staff of the `m[`fAthanmere`m] `iLine``~
+`iA staff, made of pure diamond, bears the distinction of the`m [`fAthanmere`m]`i line.``~
+diamond~
+0
+weapon 2
+AFGSTY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AB C D BE 0
+0
+0
+66 67 89405 P
+A
+4 2
+A
+26 -3
+A
+24 -2
+A
+18 2
+#159
+staff crooked~
+`aA `dCr`aoo`dked `aSt`da`aff``~
+`aA gnarled piece of `dwood `alies on the ground here.``~
+hardwood~
+0
+weapon 2
+S
+0
+ANO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB C BC CD 0
+0
+0
+22 17 0 G
+A
+19 1
+A
+18 -1
+#160
+big club~
+a big club~
+A huge blunt object is here waiting to be used to beat in someone's skull.~
+stone~
+0
+weapon 2
+JSY
+0
+ANR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+C C AD ABC F
+0
+0
+38 254 45 P
+#161
+voulge~
+a razor sharp voulge~
+A heavy and dangerously sharp weapon lays on the ground. Better watch your step!~
+steel~
+0
+weapon 2
+HL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC D C AB DF
+0
+0
+44 120 6944 P
+A
+18 2
+A
+19 3
+#162
+plate armor~
+``a full suit of plate armor``~
+A full dress suit of plate armor stands without a body on the ground.~
+steel~
+0
+armor 2
+L
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+D D D D 0
+0
+0
+43 493 14293 P
+A
+2 -4
+A
+5 2
+A
+13 20
+#163
+bracelet silver~
+`hA Silver Bracelet``~
+`hA slender silver circlet fit for a lady's wrist is here.``~
+silver~
+0
+armor 2
+Y
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C C C C 0
+0
+0
+40 10 547 P
+#164
+wool leggings~
+`hA Pair of Wool Leggings``~
+`hA pair of wool leggings with frayed cuffs lies here.``~
+wool~
+0
+clothing 2
+S
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 16 32 P
+#165
+corset lace~
+`oa white lace corset``~
+A white lace garment with many rows of hooks and buttons is here ready to suffocate someone.~
+lace~
+0
+clothing 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+49 26 56 G
+#166
+sapphire necklace~
+`kA `lSapphire `kNecklace``~
+`hA brilliant `lsapphire `hhangs from a delicate `kgold `hchain.``~
+stone~
+0
+jewelry 2
+LSY
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+52 15 13294 P
+A
+26 1
+A
+12 10
+#167
+broad sword~
+`hA `aSteel `hB`ar`hoa`ads`hwo`ar`hd``~
+`aA broad sword made of the sturdiest steel reflects `hlight`a.``~
+steel~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A BC BC AB 0
+0
+0
+51 69 0 P
+A
+18 2
+A
+19 2
+#168
+steel boots~
+`dA Pair of `gSteel-Tipped `dBoots``~
+`dA pair of heavy `gsteel-tipped `dboots has been left here haphazardly.``~
+steel~
+0
+armor 2
+0
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+C C C 0 0
+0
+0
+48 58 640 P
+#169
+holy symbol~
+a holy symbol~
+A symbol fashioned in reverence to some unknown deity hangs from a chain.~
+silver~
+0
+jewelry 2
+IKL
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 10 0 G
+#170
+blouse torn~
+`hA Torn Blouse``~
+`hWhat might have once been a pretty blouse lies torn and stained upon the ground.``~
+cloth~
+0
+clothing 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 15 0 W
+#171
+dainty slippers~
+`hA Pair of Dainty Slippers``~
+`hSlippers that could only fit the feet of a thin woman, or large dwarf, lie here.``~
+cloth~
+0
+clothing 2
+S
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+21 16 0 A
+A
+14 9
+#172
+banner regal flag~
+`ia regal banner``~
+`iA banner bearing the regal markings of `m[`fAthanmere`m]`i hangs from a wall.``~
+cloth~
+0
+trash 2
+RSY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 700 0 P
+#173
+glaive polearm~
+a glaive~
+A heavy glaive lays here, its sharp blade discouraging close proximity.~
+steel~
+0
+weapon 2
+K
+0
+ANR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC ABC C AB DF
+0
+0
+43 369 4039 P
+A
+18 2
+A
+19 3
+#174
+feather quill~
+a feathered quill~
+An elegantly designed feather quill lays discarded on the ground.~
+feather~
+0
+writing_instrument 2
+SY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 2 45 G
+A
+12 15
+#175
+paper crumpled parchment~
+a crumpled piece of parchment~
+A balled up piece of parchment has been thrown on the ground.~
+parchment~
+0
+writing_paper 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 0 0 G
+E
+papermsg~
+`aGreetings from the Lords of the Castle Dunluce``
+~
+#176
+silver staff runed~
+a runed staff~
+A painstakingly chiseled staff glows with an unknown magic.~
+silver~
+0
+weapon 2
+BGP
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AB AC BC AF C
+0
+0
+46 35 8405 P
+#177
+hooded robe~
+`aA Hooded Robe``~
+`aA heavy coarse robe lies in a heap on the ground.``~
+wool~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 47 0 P
+#178
+canopied bed~
+a canopied bed~
+~
+metal~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC DFIJN EHK CFG ACDEFG
+0
+0
+45 20000 0 P
+#179
+embroidered coat~
+an embroidered coat~
+A magnificently tailored coat emblazoned with the Marchment insignia is here.~
+silk~
+0
+clothing 2
+IS
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+57 68 1034 P
+#180
+nimbus marchment~
+`k+`j-`k+ `cthe nimbus of Marchment `k+`j-`k+``~
+A glowing luminesence hovers about the ground, capturing eye and imagination.~
+ethereal~
+0
+light 2
+AHLMSTUYa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+67 0 0 P
+A
+3 1
+A
+12 15
+A
+24 -3
+#181
+emerald ring~
+`can emerald ring``~
+`hAn enormous `cemerald `hring glitters in the light.``~
+stone~
+0
+jewelry 2
+SY
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+57 14 10569 P
+#182
+tattered scroll~
+a tattered scroll~
+A tattered piece of parchment flutters about in the breeze.~
+parchment~
+0
+scroll 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE 'giant strength' 'haste' -1 -1 0
+0
+30 10 0 P
+#183
+spectacles~
+`hA Pair `hof `kGold-Rimmed `hSpectacles``~
+`hA pair of spectacles is here waiting to be crushed by a heavy boot.``~
+metal~
+0
+clothing 2
+JK
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+57 16 306 P
+A
+4 2
+A
+3 1
+#184
+pouch velvet~
+`mA Velvet Pouch``~
+`hA `mvelvet `hsatchel sits here, collecting dust.``~
+velvet~
+0
+container 2
+GJKY
+0
+ALO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BCEH 0 0 CE ABDG
+0
+0
+55 11 340 G
+#185
+vial ~
+`hAn Ivory Vial``~
+A slim ivory vial has been dropped here.~
+ivory~
+0
+potion 2
+GJKSY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABCEF 'bless' 'penance' -1 -1 0
+0
+55 5 904 P
+#186
+scroll parchment~
+a vellum parchment~
+A piece of paper made of the most resilient vellum lays here.~
+parchment~
+350
+parchment 2
+GSY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+55 3 2549 P
+#187
+claymore~
+a claymore~
+A very sharp sword has been left here on the ground.~
+metal~
+0
+weapon 2
+0
+0
+ANR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A AC BC AB FI
+0
+0
+42 249 1039 G
+A
+19 4
+A
+18 1
+#188
+longsword sword ~
+`athe longsword of the Black Lance``~
+A long and sturdy sword shines with the devotion of meticulous care.~
+metal~
+0
+weapon 2
+Y
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A AB AD AB 0
+0
+0
+33 219 658 G
+A
+18 1
+A
+19 2
+#189
+chainmail sleeves~
+a pair of chainmail sleeves~
+A pile of rusted metal lays here.~
+metal~
+0
+armor 2
+0
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+33 67 0 A
+#190
+black lance signet ring~
+`aa Black Lance signet ring``~
+A ring bearing the insignia of the Black Lance guard is here.~
+metal~
+0
+jewelry 2
+KY
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+33 12 302 G
+A
+13 5
+#191
+arrowhead~
+a steel arrowhead~
+A steel arrowhead is here.~
+steel~
+0
+weapon 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABD AC B ABD D
+0
+0
+10 5 500 P
+#199
+black halberd~
+`aa black halberd``~
+A sharp curved weapon made of the blackest material lays on the ground.~
+steel~
+0
+weapon 2
+CL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 C BC ABC F
+0
+0
+29 259 76 P
+#200
+gold fringed carapace~
+`ka gold fringed carapace``~
+A jointed hemisphere of bright metal swins open from its counterpart as it rests on its side.~
+metal~
+0
+armor 2
+KLS
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C C C BC 0
+0
+0
+43 243 0 G
+A
+1 1
+#201
+mist vapor~
+the mist of vapor~
+Some mist floats gently in the air, seeming to glide above the vaporous mists.~
+water~
+0
+pill 2
+SY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CDEF 'teleport' 'heal' 'bless' -1 0
+0
+50 9 769 P
+#202
+hand carved lyre~
+`ka hand carved lyre``~
+A beautifully carved lyre allows even the most mundane musicians to play extraordinary music.~
+wood~
+0
+instrument 2
+BISY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 8 2000 P
+A
+26 2
+A
+12 10
+A
+24 -2
+#203
+glory absolution~
+`oThe Glory of Absolution``~
+Always close, but so difficult to attain, the Glory of Absolution trails you as if in mockery.~
+ethereal~
+0
+warp_stone 2
+ASY
+0
+AO
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 0 50000 P
+A
+18 10
+A
+19 8
+A
+24 -2
+A
+17 -4
+A
+4 1
+#204
+`edrain`` drain vortex hole~
+`nthe drain``~
+`nA small hole at the bottom of the pool creates a small, tornado-like, vortex to spin in the water.``~
+water~
+0
+portal 2
+RSY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n gets caught in the vortex and begins to spin around wildly before being sucked down the drain.~
+You swim too close to the vortex and get caught in the underwater tornado.~
+You hear a loud gurgling noise and see some large bubbles pop to the surface of the water.  $n floats to the water's surface from somewhere below.~
+You get sucked down the drain with a loud pop!  The large pipe that you managed to get sucked into corkscrews and loops several times before you're spit out into the ocean floor where your body manages to slowly float up to the surface.~
+-1 0 G BCDIJKLMNO E
+0
+0
+1 9000 0 P
+#205
+crown thesden~
+`e[\`k Crown of Thesden`e /]``~
+The token of the Athanmere ruling power in the city of Thesden.~
+gold~
+0
+armor 2
+IKSTYa
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABCD ABCD ABCD ABCD 0
+0
+0
+85 100 15000000 P
+A
+13 100
+A
+12 100
+A
+19 15
+A
+18 15
+A
+1 2
+#206
+castle~
+(no short description)~
+~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n leaves the castle through the gates to the north.~
+You go through the gates.~
+$n has arrived from the south.~
+~
+-1 0 G CFG B
+0
+0
+10 0 1 P
+#207
+letter~
+an official letter~
+An official-looking letter is here~
+paper~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+E
+letter~
+Naclario,
+``     Thank you for your continued cooperation in this matter.  It is of utmost
+importance that we keep the navy's discovery between us until we've consulted
+the proper experts and know how to proceed.  It is imperative that nobody else
+stumble onto it and become infected.  For the time being, we will simply blame
+our losses on pirates.  That should buy us the time we need.
+``                                                              --King Athanmere
+~
+#399
+holy wristguards light runicset~
+`kholy wristguards of light``~
+`kThese wristguards glow with a radiant holy light.``~
+energy~
+0
+armor 2
+AIKLRSTYad
+BJKL
+AMU
+0
+0
+0
+399
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+1 0 100000 P
+A
+19 10
+A
+18 10
+A
+12 30
+A
+13 30
+A
+24 -8
+A
+26 2
+A
+4 2
+A
+3 2
+A
+5 2
+A
+2 2
+A
+1 2
+#0
+
+#ROOMS
+#100
+0 0
+~
+~
+~
+0 0 0
+Before Castle Dunluce~
+You stand here in awe, before a massive grey granite palace that sparkles
+in the light that shines down upon its walls.  The riven rock almost appears
+to be a sheer faced cliff here, as the walls slope ever so slightly upwards.
+It is a marvel of architecture that something this massive, this powerful,
+is carved from a single piece of stone.  Massive pinions jut out from the
+stone wall in front of you.  As you examine carefully, you notice a fine,
+rectangular series of cracks running with the grain of the granite.  Glowing
+street lanterns to either side of the pinions seem conspicuously out of
+place, an anachronism from a long ago age.  The whole scene radiates an old
+magic, long forgotten in Thesden, but perhaps regaining strength.  
+~
+0 C 1
+0
+~
+I B D0
+~
+~
+0 0 4090
+D1
+~
+~
+0 0 327
+D2
+~
+gate~
+4097 107 101
+D3
+~
+~
+0 0 324
+S
+#101
+0 0
+~
+~
+~
+0 0 0
+Inside Castle Dunluce~
+The massive granite gate swivels on its seven pinions and groans in
+protest as some unseen force slams it back into place.  With the way back
+closed off, you turn your attention to what lies ahead.  The walls here are
+remarkably smooth, almost silky in texture.  Small, flickering lamps line
+the walls every fifteen feet, casting dancing shadows across the musty
+passageway.  Despite the musty smell, there is remarkably no dust coating
+the polished floors.  The floors are a marvel in themselves, as they gleam
+like mirrors underneath the people who have trod upon them.  You give
+yourself a little time for your eyes to adjust, then decide to venture on.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+door~
+4097 107 100
+D2
+~
+~
+0 0 108
+S
+#103
+0 0
+~
+~
+~
+0 0 0
+A bend in the musty corridor~
+The granite corridor takes a bend here, allowing you to go either east or
+south.  The procession of flickering lanterns along the walls is only
+interrupted by the intermittent artwork that has been placed here.  The
+shadows that play off the lanterns highlight the high ceiling of the
+corridor, and reinforce the proverbial shadows of fear running through your
+mind.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 104
+D2
+~
+~
+0 0 109
+S
+#104
+0 0
+~
+~
+~
+0 0 0
+A bend in the musty corridor~
+The winding corridor inside the castle takes another turn here towards
+the south.  Much like the hallway you have been in beforem lanterns line the
+walls at about head level.  Upon closer inspection, you notice the telltale
+signs of transit leading to the south.  Tiny droplets of a reddish fluid
+also dot the vicinity.  A deep thrumming sound reverberates through the
+passageway, a throaty murmur that gently rocks the granite stone about you. 
+You aren't sure where the noise is coming from, so resonant is the sound.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 110
+D3
+~
+~
+0 0 103
+S
+#105
+0 0
+~
+~
+~
+0 0 0
+Another turn in the corridor~
+After leaving the brightly lit intersection behind you, the corridor
+takes an abrupt turn to the east.  With the aid of light filtering in from
+the intersection, you think you can see the outline of a door to the east. 
+On the smooth hewn ground here, bits and pieces of stained, shorn steel lay
+strewn randomly about, amidst bone white pieces of...  Bone!  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 106
+D2
+~
+~
+0 0 113
+S
+#106
+0 0
+~
+~
+~
+0 0 0
+A mahogany panel~
+The corridor ends abruptly here in a granite wall that has been set with
+a mahogany panel in its center.  The panel is about a foot off of the smooth
+floor, and with approximately a foot between its edges and the corridor
+walls.  The curious thing about the panel is that it looks like a door, yet
+there is no handle, or any break or flaw in the wood grain pattern.  Lining
+the panel are tiny, flaming blue lights that twitch fervently whenever you
+look directly at them.  It does not require an experienced adventure to
+understand that these are warning sigils of some type, the danger in the air
+is imminent.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+panel~
+1 0 107
+D3
+~
+~
+0 0 105
+S
+#107
+91 10000
+~
+~
+~
+0 0 0
+The glass constellation~
+You enter a room and are stunned by the "blue" of it all.  Flaming blue
+lights dot the room, million upon millions of them, like the twinkling of
+the stars in the night, coalescing into a beautiful and soft azure backdrop.
+In the center of the room, a circle of crudely cut rocks resides.  The rocks
+are stacked about knee-high and enclose what appears to be water.  Upon
+closer inspection however, you realize that the top of the pool is actually
+a fine sheet of perfectly clear glass.  Upon that discovery, a thought dawns
+on you.  If the few blue lights outside the panel meant danger, what does a
+million mean?  With that, the mahogany panel slams shut behind you and
+blends effortlessly into the wall, leaving you with no way out.  
+~
+0 CD 0
+0
+~
+I 0 S
+#108
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+Leaving the gate behind you, you march down a high ceilinged corridor
+with lamps at around head level.  They seem to point you south, where you
+can see the makings of an intersection.  In contrast to the starkly austere
+power and harshness of the granite walls, a finely woven `itapestry`l hangs
+from the wall.  The mesh of cloth depicts an epic scene told in the most
+brilliant hues of red and gold and amber.  It is of one of those titanic
+clashes that few people in Thesden have ever heard of, let alone remember.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 101
+D2
+~
+~
+0 0 116
+S
+#109
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The corridor runs north and south here.  In both directions, you see that
+the dimly lit path again changes its course.  The smell of long unwashed
+clothing pervades the meandering hallway here, complementing rather not so
+nicely the dank feeling in the atmosphere.  It is not uncomfortable, yet it
+is not the luxurious haven you thought you should see in a castle of this
+stature.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 103
+D2
+~
+~
+0 0 117
+S
+#110
+0 0
+~
+~
+~
+0 0 0
+A bloody trail in the corridor~
+The defining featire of this portion of the corridor is the trail of
+crimson blood that runs along its length.  The trail is by no means
+straight, as it careens about the corridor, lacing itself from side to side.
+Shreds of a torn down tapestry lie in a crumpled and bedraggled heap here. 
+It's impossible to tell what the tapestry once depicted, so defaced it is,
+but what makes you wonder is that nobody has stopped to clean the mess up.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 104
+D2
+~
+~
+0 0 118
+S
+#111
+0 0
+~
+~
+~
+0 0 0
+The Warren of Nashbar~
+This room is smallish in nature, and decorated with a very foreign
+flavor.  Paintings of a strange origin match the odd murals that adorn the
+walls, most of them focusing on a goateed man clad in tight collared coat. 
+Toppled urns and spilled bottles of fine wine tell you the stat of the
+person who lives here.  The rumpled bed and half broken chandelier in the
+corner of the room is cast in an eerie glow by a glowing green orb that
+rests on a pedestal in the center of the room, pulsating slowly.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 112
+S
+#112
+0 0
+~
+~
+~
+0 0 0
+A hallway~
+The hallway here is brightly lit from both the lanterns on the wall and
+the light lancing in from the bright intersection to the east.  Directly to
+yout west, a stout looking oaken door stands slightly ajar, vague green
+light creeping through the small opening.  The hallway of stern granite
+continues off to the south here.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 113
+D2
+~
+~
+0 0 122
+D3
+~
+door~
+1 0 111
+S
+#113
+0 0
+~
+~
+~
+0 0 0
+A brightly lit intersection~
+You have arrived at a large four way intersection that is brilliantly lit
+in whites and blues.  So brightly lit is the intersection, that the granite
+walls seem almost absent in the cascading illumination.  When you look up,
+you can see the souce of the light.  Instead of the customary high ceiling
+that you have seen before, a glass panel has been afixed in the ceiling. 
+FIltering in from high up above is the light, a beam of pure energy that
+refracts to the left and right, and splits into its component colors. 
+Hallways lead in all directions here.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 105
+D1
+~
+~
+0 0 114
+D2
+~
+~
+0 0 123
+D3
+~
+~
+0 0 112
+S
+#114
+0 0
+~
+~
+~
+0 0 0
+A bright corridor~
+To the west in this corridor, it becomes lighter, adding a strange sense
+of quick step ambience.  This is in addition to the fine artwork that adorns
+th walls, tapestries, paintings, carvings.  One particular mural catches
+your eye, a mountain rising out of the ground, reaching high above the
+surrounding ocean.  Yet another painting shows the end result of the
+transmogrification a castle resting upon the sheer face of a seaside cliff,
+Castle Dunluce.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 115
+D2
+~
+door~
+1 0 124
+D3
+~
+~
+0 0 113
+S
+#115
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The hallway here ranges to the east and west.  Some of the lanterns along
+the granite north wall seem brighter than the others, probably because they
+tap a magical source that has been replenished recently.  To the east, you
+can see that a four way intersection branches off into the depths of the
+castle.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 116
+D3
+~
+~
+0 0 114
+S
+#116
+0 0
+~
+~
+~
+0 0 0
+A 4-Way Intersection~
+The flickering lamps along the walls shimmer off into all directions
+here, creating a mesmerizing maze affect that leaves you feeling just a tad
+bit nauseous, if not overwhelmed.  North, south, east and west, you can go
+from here, that is, if you have the courage to continue onwards.  It smells
+faintly of musk here, a cloying smell that reminds you of the local
+blacksmith who always bathed too little, and worked too much.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 108
+D1
+~
+~
+0 0 117
+D2
+~
+~
+0 0 126
+D3
+~
+~
+0 0 115
+S
+#117
+0 0
+~
+~
+~
+0 0 0
+A turn in the musty corridor~
+The corridor runs either north or west from here.  The lanterns on the
+grey granite walls are in their customary places here, slightly above and
+behind your head.  The high ceilings of the castle are starting to lose
+their grandeur, and makes you think about more mundane problems, such as how
+to heat such a tall structure.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 109
+D3
+~
+~
+0 0 116
+S
+#118
+0 0
+~
+~
+~
+0 0 0
+A bloody trail in the corridor~
+The trail of speckled blood continues along the north-south axis of this
+section of the corridor.  Peculiarly, the blood is moist to the touch here,
+and carried with it, a slight coppery odor that clings to your clothes and
+to the air itself.  People familiar with death and demise recognize the
+stench as not only the smell of blood, but as the smell of fear and
+anticipation.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 110
+D2
+~
+~
+0 0 128
+S
+#119
+0 0
+~
+~
+~
+0 0 0
+`cBarracks of the Green Lance``~
+This is the northwest corner of a large barracks area.  Small cots lined
+with grungy olive blankets lay spaced a scant five feet apart, give or take
+the occasional inch.  Foot lockers lay at the base of each bed, and a steel
+reinforced closet stands against the wall here.  The floor is conspicuously
+neat here, as if it has just been scrubbed.  Otherwise, the granite walls
+and ceiling are plain and unadorned, although big glowing globes float in
+the air, shining brightly on everything below them.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 120
+D2
+~
+~
+0 0 129
+S
+#120
+0 0
+~
+~
+~
+0 0 0
+`cBarracks of the Green Lance``~
+This is the northeast corner of a large barracks area.  Glowing balls,
+floating in the air here listlessly, provide the lighting for this high
+ceilinged room.  A steel-reinforced closet about eight feet tall stands
+against the wall here, in addition to the numerous blanketed cots.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 130
+D3
+~
+~
+0 0 119
+S
+#121
+0 0
+~
+~
+~
+0 0 0
+The Parlor of Manlius~
+This room is brightly lit by four glowing bulbs bobbing up and down in
+the air.  They cast a soft glow across the furnishings in the room, which
+consist of a bed pushed up against the back wall, and various chairs and
+desks against other walls.  The whole decor is orange and blue in nature,
+right down to the tapestry on the wall, which shows a map of a land that
+nobody has probably ever seen before.  The carpeting is a simple rug,
+trimmed in orange, with a large orange circle, criss crossed by black lines
+in the center.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 122
+S
+#122
+0 0
+~
+~
+~
+0 0 0
+A hallway~
+The hallway runs north and south here.  It is about as nondescript as a
+hallway could possibly be, hence the reliance of babble to make it seem more
+interesting.  A stout oaken door, similar to those to the north and south,
+sits here to the west, closed and uninviting.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 112
+D2
+~
+~
+0 0 133
+D3
+~
+door~
+1 0 121
+S
+#123
+0 0
+~
+~
+~
+0 0 0
+A bright corridor~
+The hallway runs north and south here, a brilliantly lit passageway that
+almost blinds you as you look up.  To the north, you can barely make out the
+source of the light.  Other than the typical smooth granite walls, and the
+lanterns that light your way, there is not much of interest in this
+passageway.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 113
+D2
+~
+~
+0 0 134
+S
+#124
+0 0
+~
+~
+~
+0 0 0
+`aBarracks of the Black Lance``~
+This room is the northwest corner of a large area filled with tightly
+packed cots, foot lockers, and a few closets lined up along the walls.  The
+entire barracks is painted in an austere white, trimmed with not so delicate
+black and gold.  The blankets are likewise colored, made from a coarse,
+crude wool that looks like it will be very itchy.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 114
+D1
+~
+~
+0 0 125
+D2
+~
+~
+0 0 135
+S
+#125
+0 0
+~
+~
+~
+0 0 0
+`aBarracks of the Black Lance``~
+The room here is much like any other barracks you have ever seen.  Tidy,
+well kept and not very spacious at all.  Each bed is turned down with a
+rough woolen blanket and a goose feather pillow.  A locker lies at the foot
+of each bed, and other than the unit colors of the Black Lance that hang
+from pegs on the walls, no other notables are around in this area.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 136
+D3
+~
+~
+0 0 124
+S
+#126
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+Grey speckled granite walls, flickering flames along the walls, and the
+high ceilings that reach into darkness, all is as it has been inside Castle
+Dunluce.  A mural along the east wall shows the visage of a snarling cave
+warrior, looming over a cringing, crowned man.  A beautiful, blossoming tree
+floats ethereally in the background.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 116
+D2
+~
+~
+0 0 137
+S
+#127
+0 0
+~
+~
+~
+0 0 0
+A turn in the bloody trail~
+The bloody trail becomes even more articulate here, and you begin to
+envision it as the trail of a bloody and battered body being dragged hair by
+hair, inch by inch over the smooth surface of the granite floor.  The
+crimson blood is warm to the touch, life radiating off from lifeblood, heat
+leaving life.  The corridor turns sharply here, allowing you to head either
+south or east.  A final but important detail that you almost did not manage
+to see is that, for the first time, you can see a crack in the wall of the
+castle, a thin spidery thing that runs from halfway up the west wall down to
+the floor.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 128
+D2
+~
+~
+0 0 138
+S
+#128
+0 0
+~
+~
+~
+0 0 0
+A turn in the bloody trail~
+The blood on the granite floor takes a turn to the west and north here,
+following the corridor's carved out path.  The blood appears even more fresh
+and fluid here then you would imagine possible in a place as busy as Castle
+Dunluce.  Some of the lanterns on the walls here are a bit faded, an ominous
+portent, along with the torn-down and y partly visible painting on the
+floor.  A cracked urn lies on its side here, yet another mute testament to
+the progressions of a sinister deed in the castle.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 118
+D3
+~
+~
+0 0 127
+S
+#129
+0 0
+~
+~
+~
+0 0 0
+`cBarracks of the Green Lance``~
+This section of the barracks is like all of the rest of it.  Green woolen
+blankets cover small cots that look barely large enough to fit a grown man's
+head and feet at the same time.  Decoration and comfort were definitely not
+at a premium here, as the walls and floors are similarly bare.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 119
+D1
+~
+~
+0 0 130
+D2
+~
+~
+0 0 152
+S
+#130
+0 0
+~
+~
+~
+0 0 0
+`cBarracks of the Green Lance``~
+The barracks here are more of the same.  Green, woolen blankets cover
+uncomfortable looking, pine-wood cots, hardly the luxury you are accustomed
+to seeing in the rest of Castle Dunluce.  The typical communal scent of
+sweat and body odors lingers in the air here.  Otherwise, in typical
+military style, the barracks are indescript and pretty darn boring.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 120
+D2
+~
+~
+0 0 141
+D3
+~
+~
+0 0 129
+S
+#131
+91 40
+~
+~
+~
+0 0 0
+A jagged stairwell~
+At last, the granite corridor comes to an abrupt end.  Chiseled into the
+north wall is a jagged staircase that spirals slowly upwards.  The flames
+along the stairwell are a brilliant amber red, the ancient Thesdenian color
+of direction and seeking.  Other than that, the staircase appears to be the
+same as a million other staircases you have ever seen before.  A hanging
+tapestry with the three crescent moon symbol of Thesden partially obscures
+the top of the stairway, hiding what lays beyond.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 142
+D4
+~
+~
+0 0 185
+S
+#132
+0 0
+~
+~
+~
+0 0 0
+Quarters of Rowena~
+The room you have entered is very esoteric to say the least.  Besides the
+thin sheen of black silk draped all around the granite of the walls, exotic
+looking flowers, herbs, and spixes hang frombrass hooks that have been
+attached to the ceiling.  A silver ball about two feet in diameter, and
+displayed in a cherry wood case completes the picture.  The granite floor
+has been left bare, and no other sign of furnishings is to be found.  There
+is a smell of marjoram in the air that seems to crawl up and into your nose,
+clinging despite its pleasant odor.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 133
+S
+#133
+0 0
+~
+~
+~
+0 0 0
+The end of a hallway~
+The hallway comes to an abrupt end here as a granite wall bars the way
+any further to the south.  A sturdy looking oak door stands to the west has
+been painted the darkest shade of blue, and is inlaid with bits of ivory and
+gold.  The flecks cling to a small gold knocker hanging in the center of the
+door and beckons to your hand.  A small peephole sits directly above the
+knocker.  Curiously, you are unable to see into the peephole, but you can
+bet one can see out from it.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 122
+D3
+~
+door~
+1 0 132
+S
+#134
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The corridor here continues on to the south.  The flickering flames on
+the wall continue to guide your way through the hallway.  A separation in
+the flames on the east wall mask where a painted, steel-reinforced door
+stands slightly ajar.  From behind the door, you can hear faint clanking
+noises, and an odor of oil, cured leather, and well kept steel wafts in from
+the doorway.  Mumbling voices echo down the hallway as well, the direction
+of origin is uncertain...  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 123
+D1
+~
+door~
+1 0 135
+D2
+~
+~
+0 0 145
+S
+#135
+0 0
+~
+~
+~
+0 0 0
+`aBarracks of the Black Lance``~
+This room is just a portion of a large, cot-filled barracks room,
+cluttered with equipment.  It's not that the room is sloppy, it's just that
+there is so much equipment around.  The walls each have a triple crescent
+moon symbol plaque of the Castle Dunluce nailed to them, adorned with a red
+and green woolen background.  In contrast, every blanket and locker and
+closet here is painted or woven a stark, deep black.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 124
+D1
+~
+~
+0 0 136
+D2
+~
+~
+0 0 146
+D3
+~
+door~
+1 0 134
+S
+#136
+0 0
+~
+~
+~
+0 0 0
+`aBarracks of the Black Lance``~
+Black blanketed wool covers cots that stand approximately five feet apart
+here.  Small, dull metal foot lockers stand at the foot of each bed, as does
+a nameplate above each cot.  Weapons and armor sit between the beds, well
+polished and sharpened, and smelling of oil and lathe.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 125
+D2
+~
+~
+0 0 147
+D3
+~
+~
+0 0 135
+S
+#137
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The hallway here is like any other you have seen since you entered Castle
+Dunluce.  Flickering lanterns at a little bit above eye level and a smooth
+grey granite, silky to the touch.  A small plate is fastened to the wall
+here, and on it, the visage of an old man.  His face is nondescript for a
+person that is so wizened, and you have no idea who it could be, or why it
+sits on this lonely, forlorn stretch of hallway in the middle of the castle.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 126
+D2
+~
+~
+0 0 148
+S
+#138
+0 0
+~
+~
+~
+0 0 0
+A turn in the bloody trail~
+The blood pooling on the grey granite floor is even thicker here, and the
+air reeks of that all too familiar smell of human innards.  Some of the
+blood spatters up disdainfully, staining your footwear as proof that indeed,
+the blood is fresh.  The corridor turns off to the east, where you can see
+the hallway cminate in a large, iron door.  A smattering of adventurer's
+equipment lies on the ground here, and you wonder yet again, why nobody
+seems to know or care what is going on here.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 127
+D1
+~
+~
+0 0 139
+S
+#139
+0 0
+~
+~
+~
+0 0 0
+Before a Liquid Door~
+The long, liquid trail of blood ends here, and disappears under a
+massive, black door.  The door is not made of any material you have ever
+seen before however.  It seems to melt, flow from the top to the bottom in a
+perpetual stream, recycling itself every few seconds, bringing the fluid at
+the bottom of the door back up to the top.  The effect is one of shimmering,
+a dark reflection of your lighter side.  A small sigil floats in the liquid
+door, at about head level.  It is a curious, squiggly looking figure, a
+spiral eating in upon itself, pale and glowing against its dark backdrop.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 140
+D3
+~
+~
+0 0 138
+S
+#140
+0 0
+~
+~
+~
+0 0 0
+Berserker Quarters~
+You stand in an elliptically shaped room, completely bare of any type of
+ornamentation.  In fact, the only thing of note in this room is the round
+table that sits in the middle of the room.  On this table is an impressive
+collection of human bones, teeth marks clear evidence that this table is
+probably the dinner table.  Savage slash marks mar the walls, as if the
+resident here did not like the idea of being holed up here.  It is the
+chamber of the Berserker, the self appointed, partially insane guardian of
+Castle Dunluce, formerly one of the most feared warriors in Thesden.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+door~
+1 0 139
+S
+#141
+0 0
+~
+~
+~
+0 0 0
+`cBarracks of the Green Lance``~
+You have entered a room that is lined with uncomfortable looking cots
+from wall to wall.  A small plaque with the triple crescent moon symbol of
+Thesden engraved on it is nailed to the west wall here, complete with the
+names of past heroes of Castle Dunluce.  At the foot of each bed is a small,
+black painted, iron locker.  On top of each bed is a forest green coarse
+woolen blanket.  Large glowing bulbs float in the air which provide the
+lighting here.  Guards mill about here, either preparing for patrol duty or
+for a most uncomfortable nap.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 130
+S
+#142
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The granite hallway here starts sloping upwards slightly, evinced more by
+the slant of the hallway lanterns that by any slope of the floor path here. 
+A bit further to the north, you think you can make out the boxy forms of a
+staircase in the darkness.  South of here, the corridor takes a turn to the
+west.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 131
+D2
+~
+~
+0 0 153
+S
+#143
+0 0
+~
+~
+~
+0 0 0
+At the end of the hallway~
+You have arrived at the end of the long hallway.  The granite wall has
+turned ahead in front of you, barring the way any further to the west. 
+However, there is a closed, ashwood door painted a stolid grey to the south.
+It is marked with the ancient symbol of the ankh, chiseled in blue and
+trimmed in a glossy white substance, the symbol seems to radiate and throb
+with an energy that is its own, a guardian symbol that stands over the
+doorway in front of you.  
+~
+0 DZ 0
+0
+~
+I 0 D1
+~
+~
+0 0 144
+D2
+~
+door~
+1 0 154
+S
+#144
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The corridor runs to the east and west here.  To the east, the hallway
+takes a turn to the north.  It's pretty hard to say much about this faded
+piece of granite passageway, it provides an ends to a means.  It's the only
+way you would be able to travel through a castle.  Can you imagine a castle
+without hallways?  It would be just one chucnk of rock wouldn't it?  Not
+much of a castle.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 145
+D3
+~
+~
+0 0 143
+S
+#145
+0 0
+~
+~
+~
+0 0 0
+A turn in the musty corridor~
+The granite corridor turns here.  The flickering lanterns on the wall
+mark the ways to which you can travel here, north and west.  Footfalls echo
+through the castle hallways as you sit here, pondering your next move
+through the musty and warm passageways.  A particularly bright tapestry that
+wraps around the corner of the hallway catches your eye here as well.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 134
+D3
+~
+~
+0 0 144
+S
+#146
+0 0
+~
+~
+~
+0 0 0
+`aBarracks of the Black Lance``~
+This is the southwest corner of a large barracks area.  Black, woolen
+blankets cover cots separated by a scant four or five feet.  Defenders of
+Castle Dunluce hustle about, going on with their assignments.  A small foot
+locker lies at the foot of each bed a tall iron cabinet also stands against
+the south wall here, closed and locked tight.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 135
+D1
+~
+~
+0 0 147
+S
+#147
+0 0
+~
+~
+~
+0 0 0
+`aBarracks of the Black Lance``~
+This is the southeast corner of a barracks area that is littered with
+cots covered with black woolen blankets.  A small iron foor locker rests at
+the base of each cot here, in addition to the tall iron banded cabinet
+standing against the southern wall.  The entire scene is one of pristiness
+and properness, a bastion of order and law inside the heart of Castle
+Dunluce.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 136
+D3
+~
+~
+0 0 146
+S
+#148
+0 0
+~
+~
+~
+0 0 0
+An intersection in Castle Dunluce~
+You have arrived at a fork in the corridor here.  The flickering lanterns
+on the walls stretch out to the east, and also continue to the south here. 
+The intersection itself is somewhat rounded as the corners of each corridor
+have been polished away, leaving you with an atrium of sorts.  A large,
+glowing ball adds additional illumination to the intersection.  Around the
+rounded walls of the intersection, a mural has been painted.  It is simply a
+painting of noble citizens, feasting at a long table.  From the city and
+color of the livery, you recognize the people as the Lords of Thesden.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 137
+D1
+~
+~
+0 0 149
+D2
+~
+~
+0 0 159
+S
+#149
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+This is yet another musty-odored corridor that tires your mind and
+irritates your nose.  Both to the east and west, you think you can make out
+intersections in the grey granite corridors.  ACHOO!  You better get out of
+here before your allergies start to act up again.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 150
+D3
+~
+~
+0 0 148
+S
+#150
+0 0
+~
+~
+~
+0 0 0
+An intersection in Castle Dunluce~
+The granite walled corridor splits off into three different directions
+here, you are able to head east, west, and south.  South of here, the
+corridor quickly turns into a small alcove, dimly lit, and decorated with
+plants, and a few assorted pieces of artwork.  It looks quaint, or as quaint
+as a place can be in this rather impersonal and hard castle.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 151
+D2
+~
+~
+0 0 161
+D3
+~
+~
+0 0 149
+S
+#151
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The corridor runs east to west here.  Flickering lanterns line the
+hallway at about eye level, while the ceilings seem to extend off into the
+darkness.  A short ways off to the east, you can see a pair of doors and
+signs and sigils that mark what lies beyond.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 152
+D2
+~
+~
+0 0 162
+D3
+~
+~
+0 0 150
+S
+#152
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The granite corridor continues east and west here.  However, the regular
+spacing of the lanterns on the walls are interrupted both to the north and
+south by doors.  To the north is an olive green, freshly painted door.  A
+plaque h angs next to the door that is inscribed with the triple crescent
+moon symbol of Thesden.  Underneath this is the inscribed word, "`cBarracks
+`cof the Green Lance`l".  The door to the south is a less descript one, made
+of oak and unlocked, unadorned.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 129
+D1
+~
+~
+0 0 153
+D2
+~
+door~
+1 0 298
+D3
+~
+~
+0 0 151
+S
+#153
+0 0
+~
+~
+~
+0 0 0
+A turn in the musty corridor~
+You have reached a bend in the granite corridor.  From here, you are able
+to go north or west.  Off to the north however, you think you can make out
+the faintly diabolic tinges of red rose flickering lights.  It may or may
+not be an ominous portent, at least it does not send those shivers of dread
+anticipation through your spine.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 142
+D3
+~
+~
+0 0 152
+S
+#154
+0 0
+~
+~
+~
+0 0 0
+The House of Xavier~
+This room is a forty by forty foot dazzling array of royal blue and
+silver.  Brightly burnished armor pieces adorn the walls.  Acoompanying
+cloaks of royal blue hang from wooden pegs dotting the room.  Towards the
+back of the room, a large comfortable looking bed is covered with a blue,
+down blanket, weighed down by a pair of large, fluffy pillows.  A desk rests
+against the north wall, and a matching mahogany coffee table stands against
+the south wall.  In addition, a silver-chased wardrobe stands at the foot of
+the bed, closed, and locked.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 143
+S
+#155
+0 0
+~
+~
+~
+0 0 0
+The House of Kodiak~
+This is the residence of one of the younger, more volatile Lords of
+Thesden.  Garishly decorated in bright greens, reds, and yellows, this room
+is most unpleasing to the eye.  The only pieces of furniture in the room are
+a natty sofa bed and a small, worm eaten writing desk.  A bundle of dice and
+a stack of playing cards resting on the desk tell you about the hobbies of
+this young Lord.  A broken clock on the wall and a tipped over lamp in the
+corner show you the slovenliness of the Lord as well.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 156
+S
+#156
+0 0
+~
+~
+~
+0 0 0
+A turn in the musty corridor~
+The musty corridor is fairly confusing here.  The hallway leads off to
+the south, however, the way south is divided by a wall from another
+passageway south slightly farther to the east.  Like I said, it was
+confusing...  A run down door is closed to the west, the dull beige paint
+long since fresh, chipping away and revealing the previous coat of turquoise
+paint that lies underneath.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 157
+D2
+~
+~
+0 0 164
+D3
+~
+door~
+1 0 155
+S
+#157
+0 0
+~
+~
+~
+0 0 0
+An Intersection in Castle Dunluce~
+You have arrived at yet another intersection in Castle Dunluce.  On the
+north wall, a breath taking tapestry depicting an epic struggle between two
+magicians, each encapsulated in their own nimbus of crackling magical
+energy.  The tapestry has even managed to capture the emotion on the
+magician's faces, hideously contorted both in concentration and in pain. 
+The magicians themselves could be from any time, any age, wielding a power
+that transcends all worlds and times.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 158
+D2
+~
+~
+0 0 165
+D3
+~
+~
+0 0 156
+S
+#158
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The dark, rather cool corridor runs east and west here.  The walls are
+bare granite, a perfect complement to the chilling wind that whips through
+the corridor here.  It is a biting wind, smelling of dissolved salts and the
+washed up victims of the tide.  It is a quick reminder that beyond the walls
+of Castle Dunluce is the sea itself, the rolling currents of saltwater
+crashing up against the cliffs below.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 159
+D3
+~
+~
+0 0 157
+S
+#159
+0 0
+~
+~
+~
+0 0 0
+A turn in the corridor~
+The grey-granite corridor turns here, as you are able to go north and
+west here.  The temperature is getting cooler and cooler as you head deeper
+and deeper into Castle Dunluce.  Perhaps it has something to do with the
+sharp gusts of wind that occasionally flush down through the hallways they
+taste tangy, and always come in from the south.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 148
+D3
+~
+~
+0 0 158
+S
+#160
+0 0
+~
+~
+~
+0 0 0
+Before a blue door~
+You stand before a large door, made of an unknown wood, reinforced with
+bars of hard black steel, and painted a rich midnight blue.  Inlaid gold
+leaf flakes dance around the edges of the door.  There isn't much else of
+interest here, the hallway ends in a granite wall to the west, and leads off
+back where you came from to the east.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 161
+D2
+~
+door~
+1 0 168
+S
+#161
+0 0
+~
+~
+~
+0 0 0
+Before a red door~
+You stand before a massive wooden door of unknown material, reinforced
+with bands of cold steel running across its middle, and painted a deep blood
+red.  Bands of shiny and freshly renewed copper adorns the edges of the
+steel reinforcing bars.  Small lanterns are lit to either side of the door,
+giving it the appearance of the front porch of a house.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 150
+D2
+~
+door~
+1 0 169
+D3
+~
+~
+0 0 160
+S
+#162
+0 0
+~
+~
+~
+0 0 0
+A hallway fork~
+The granite corridor splits off to the east and south here.  Several,
+green-leafed plants lay around on the ground here, as do a numbr of small
+paintings.  To the south, further down the hallway, you can see a door at
+the end of the corridor.  You can also sidestep east here, into a similar
+looking hallway fork.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 151
+D1
+~
+~
+0 0 163
+D2
+~
+~
+0 0 170
+S
+#163
+0 0
+~
+~
+~
+0 0 0
+A hallway fork~
+The corridor goes in a number of different directions here.  A large
+oaken door a short ways off to the south, while a corridor leads to the
+west, into a similar looking hallway fork.  The entire area here is
+tastefully decorated paintings adorn the walls, and potted plants and rugs
+line the ground.  It seems fairly domestic here.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 171
+D3
+~
+~
+0 0 162
+S
+#164
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The corridor runs north and south here.  Once again, you can taste the
+tang of salt water on your lips as the wind whips through the corridor here,
+twisting and turbulent, shearing against the walls and your face like some
+sort of invisible sand paper.  In fact, with all the turbulence, you can't
+even be sure where exactly the wind is coming from.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 156
+D2
+~
+~
+0 0 172
+S
+#165
+0 0
+~
+~
+~
+0 0 0
+A bend in the corridor~
+The granite wall carefully slopes to the north here and east here,
+allowing you to go in those directions.  The lanterns on the walls continue
+to light your way forward (or backward as the case may be).  However, the
+high ceiling seems to be sloping downwards here.  Perhaps this is due to the
+winding staircase you can see at the end of the hallway to the east.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 157
+D1
+~
+~
+0 0 166
+S
+#166
+0 0
+~
+~
+~
+0 0 0
+A short hallway~
+A few short steps further and you will be at the foreboding, winding
+staircase that you can see directly to the east here.  Banners with the
+triple crescent moon symbol of Thesden line this alcove, intricately
+embroidered with the finest colored silks and satins, ambers and resins. 
+They are massive and brush the top of your head as you pace through the
+hallway.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 167
+D3
+~
+~
+0 0 165
+S
+#167
+0 0
+~
+~
+~
+0 0 0
+A winding staircase~
+You stand at the base of a winding, spiral staircase that slopes
+precisely upwards at harmonic spacings.  The steps of chiseled granite are
+as smooth as the walls of each corridor you have passed, and are nearly as
+polished.  Each step has a banner hanging above it, the base level having
+the triple crescent moon symbol of Thesden embroidered across its green
+background.  The remainder of the banners seem to be personal crests of some
+type, ostensibly those of the Lords of Thesden.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 166
+D4
+~
+~
+0 0 209
+S
+#168
+0 0
+~
+~
+~
+0 0 0
+The House of Azure~
+This room is brilliantly decorated in only the finest shades of blue. 
+From the sky-blue walls to the midnight blue of the carpeting to the
+aquamarine of the bed that rests in the corner, the room is blue from wall
+to wall, floor to ceiling.  Decorative urns and bits of rare pottery dot the
+room, complementing the somewhat haphazard layout of the desk, reading
+table, and bureau.  The furniture is made of a beautiful jiminy wood, laced
+with strips of ivory blue.  A globe with the world of Firense on it rests,
+glowing on the desk.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 160
+S
+#169
+0 0
+~
+~
+~
+0 0 0
+The House of Hemog~
+This room is richly decorated in any shade of red you could possibly
+think of, and trimmed with fine golds and silvers.  A bed rests against the
+west wall, covered with fine beddings, and embroidered with a gold, wingless
+dragon, turning in upon itself and eating its own tail.  Several dressers
+and vanities line the walls here, made from fine cherry wood that glistens
+black in the light.  A chest at the foot of the bed, partially open, catches
+your eye, you thought you saw gold in there as well.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 161
+S
+#170
+0 0
+~
+~
+~
+0 0 0
+A residential alcove~
+This small cul-de-sac is lined with verdant potted plants, various urns
+made from polished brass, and various tapestries depicting some of the many
+battles for control of Castle Dunluce.  The tapestry that first catches your
+eye is a finely woven silk hanging that shows the visage of a young man,
+frayed goatee and coat flapping loosely in the wind.  He stands above the
+sheer cliffs that frame Castle Dunluce, staring out into the sea, defiantly
+glaring at the ships that approach the castle.  His demeanor is inspiring,
+you can only assume that he was one of the Greater Lords.  In any case, a
+sturdy oaken door stands to the south here, cutely decoated with plant
+leaves and tree twigs.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 162
+D2
+~
+door~
+1 0 178
+S
+#171
+0 0
+~
+~
+~
+0 0 0
+A residential alcove~
+This small granite cul-de-sac is flooded with a variety of flora. 
+Paintings and tapestries line the walls, none of any particular note.  Two,
+blue, glowing lanterns hang on the wall to either side of a large,
+reinforced oak door to the south.  The door is unadorned and has a slightly
+beaten look to it.  A faded welcome mat rests at the front of the door,
+slightly displaced from the passage of people through the door.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 163
+D2
+~
+door~
+1 0 179
+S
+#172
+0 0
+~
+~
+~
+0 0 0
+A turn in the musty corridor~
+The granite hallway takes a turn to the east here.  The hallway to the
+east appears to end in a wall a short ways off.  The hallway also ends a
+short ways to the north, although you think you can see some exits to the
+north.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 164
+D1
+~
+~
+0 0 173
+S
+#173
+0 0
+~
+~
+~
+0 0 0
+A musty corridor~
+The corridor runs east to west here, a slim passageway that is both dark
+and dank.  Wind whips through the corridor, chilling you slightly with the
+salty tang of the air.  To the west, the granite corridor takes a turn to
+the north, and ends in a steep wall to the east.  The flickering lanterns on
+the wall continue up to that wall, lighting your way onwards to the very
+end.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 174
+D3
+~
+~
+0 0 172
+S
+#174
+0 0
+~
+~
+~
+0 0 0
+The corridor ends~
+The granite walls of this corridor merge to meet a granite wall to the
+east, blocking the way any further in that direction.  The east wall is lit
+by a single flaming white lantern, blazing like a strip of condrenum lit
+with a torch.  The lantern straddles a small, spidery crack in the center of
+the wall, running from ceiling to floor.  You notice that the east wall is
+also a rosey shade of granite, a stark contrast to the drab and powerful
+granite you have seen so far in Castle Dunluce.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+wall~
+1 0 175
+D3
+~
+~
+0 0 173
+S
+#175
+0 0
+~
+~
+~
+0 0 0
+The marble staircase~
+You stand at the foot of a briliantly lit staircase, made of the finest,
+meticulously polished, white marble.  The stairway spirals upwards to
+another doorway at the top.  The stairway's bannister is gilt with polished
+gold and tenuously clings to the edge of the stairs themselves.  The room
+itself is circular and ringed with carefully polished mirrors that seem to
+capture the light and magnify it to focus on a clear ball resting on a tall
+marble pedestal in the center of the floor.  Images seem to swirl about
+within the hall, random images of the castle, Thesden, your home.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 176
+D3
+~
+wall~
+1 0 174
+D4
+~
+~
+0 0 217
+S
+#176
+0 0
+~
+~
+~
+0 0 0
+The Backroom~
+This room is filled with the wispy tendrils of pipe tabac smoke and the
+stink of many a decanter of fine wine, bourbon, and brandy.  A circular
+table, covered with a fine green cloth sits in the center of this smallish,
+wood panelled room, where several young men sit playing at stones and cards.
+The room is dimly lit and has the ambience of a private club.  Discarded and
+shattered wine glasses litter the sticky stone floor, adding to the general
+decadence and mayhem of the room.  The card players look up at your entrance
+yet do not seem surprised by your intrusion.  
+~
+0 Z 0
+0
+~
+I 0 D3
+~
+door~
+1 0 175
+S
+#177
+0 0
+~
+~
+~
+0 0 0
+A rope catwalk~
+You stand on a rope catwalk that connects the four battlement sides of
+Castle Dunluce.  The catwalk looks fairly sturdy, as it has been reinforced
+by steel bolts running through the wood at frequent intervals.  A stone
+platform somehow is suspended in the center of the catwalk system a short
+distance above that is a taller turret, aglow in brilliant light.  It's too
+bad you can't get to that turret.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 180
+D2
+~
+~
+0 0 319
+S
+#178
+0 0
+~
+~
+~
+0 0 0
+The Cove of Naya~
+This room is decorated in only the lightest shades of blue, bordering on
+the white.  Fragile looking furniture lines the walls of the room, a bed, a
+desk, a wardrobe, and various chairs.  The centerpiece of the room is a
+small well that has been placed into the center of the room.  As you look
+into its crystal clear waters, you come to the conclusion that it has no
+bottom.  Large, blue-tinged opals line the rim of the well, giving it the
+appearance of a small shrine.  Light glints off those gems, reflecting small
+beams of energy onto the tapestries on the walls these depict magnificent
+scenes of leaping dolphins and of the sea itself, crashing waves, powerful
+and grand.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 170
+S
+#179
+0 0
+~
+~
+~
+0 0 0
+The House of Reza~
+This room is extremely messy and most pungent to behold.  Broken bottles
+and used contraceptives litter the floor and bed, the only piece of
+furniture in the room.  Dirt and dust cakes the corners of the room, it
+looks as if it is used only for the occasional extracurricular frolick.  The
+magical flames on the plain granite walls that cannot be extinguished have
+somehow gone out, a true tribute to the gross negligence of this Lord of
+Thesden.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 171
+S
+#180
+0 0
+~
+~
+~
+0 0 0
+The northern battlements~
+You stand on the northern battlements of Castle Dunluce.  The battlements of
+the castle reach up to your chest here, pocked with arrow slits from which
+you can fire down upon invading enemies.  A rope catwalk leads away to the
+south, away to the connecting hub of the battlements.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 223
+D2
+~
+~
+0 0 177
+D3
+~
+~
+0 0 186
+S
+#181
+0 0
+~
+~
+~
+0 0 0
+A reinforced ladder~
+This room is tiny, a circular shape of roughly ten feet in diameter.  A
+rough-hewn ladder made of corrugated iron leads up into the granite ceiling,
+fading into the darkness there.  To the east, an unpainted and smelly steel
+door stands barred and locked.  The lighting in this tiny area is provided
+by blue flamed lanterns that ring the room at both eight feet and sixteen
+feet above the floor.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 182
+D4
+~
+~
+0 0 240
+S
+#182
+0 0
+~
+~
+~
+0 0 0
+A turn in the plaza~
+The richly decorated plaza hallway turns here, allowing you to head
+either east or south.  To the west is an incongrous looking, stark steel
+door, standing closed and locked.  The hallway is carpeted with a thick red
+plush, it almost makes you want to remove your footwear and wiggle your
+toes.  The walls are likewise richly decorated in tapestries, murals, and
+decorative lamps that radiate a myriad of colors as you watch them.  In
+fact, it is so richly decorated that the granite walls of Castle Dunluce are
+barely visible.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 183
+D2
+~
+~
+0 0 188
+D3
+~
+~
+0 0 181
+S
+#183
+0 0
+~
+~
+~
+0 0 0
+The plaza hallway~
+This hallway runs east and west here.  Rich, plush red carpet covers the
+floorway, and tapestries and paintings cover the walls.  To the east, you
+can see the top of a stairway leading down and an unpainted vertical slab of
+steel to the west.  Light filters down onto the plaza walkway by means of
+horizontal slats that have been carved into the granite ceiling here.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 184
+D3
+~
+~
+0 0 182
+S
+#184
+0 0
+~
+~
+~
+0 0 0
+The plaza begins~
+You have arrived at an intersection from where you can go east, west, or
+south.  To the east, a stairwell begins and heads downwards.  The floor here
+is covered with a plush, red carpet, slightly beaten down with the passage
+of many a booted foot.  Intricately woven tapestries line the walls,
+obscuring the harsh granite walls of Castle Dunluce.  A pair of bubbling
+fountains stick out fromthe sides of the walls, the water gurgling through a
+pair of sculpted fish.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 185
+D2
+~
+~
+0 0 190
+D3
+~
+~
+0 0 183
+S
+#185
+0 0
+~
+~
+~
+0 0 0
+A stairway alcove~
+You stand in a hexagonal shaped room, with a jagged granite staircase
+that spirals rapidly downward.  Red flamed lanterns spiral along with the
+stairs and light the stairwell as well.  A mural runs about the
+circumference of the room, depicting what people in Thesden affectionately
+refer to as THE CHARGE.  Knights in gleaming armor with lances at the ready,
+riding into a vast army of demon fiends, poison weapons bared and flashing. 
+To the west, you can see where the ground becomes carpeted in a thick red
+plush, its also a lot brighter to the west.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 184
+D5
+~
+~
+0 0 131
+S
+#186
+0 0
+~
+~
+~
+0 0 0
+The northern battlements~
+You stand on the northern battlements of Castle Dunluce, the massive
+granite ceiling of the entire castle.  Off to the north you can see the city
+of Thesden itself, a small little sprawl that bustles with people that look
+like ants racing around a race track.  North of that, you can see the
+plainsland stretch off for miles, a magnificent scene worthy of a second
+look.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 180
+D3
+~
+~
+0 0 320
+S
+#187
+0 0
+~
+~
+~
+0 0 0
+The House of Jholam~
+This room is decorated in a tasteful combination of blue and gold/yellow.
+A diagonally striped bed spread covers the small bed lying in the northwest
+corner.  In fact, you notice that all the furniture in the room is pint
+sized, half again too small for the average human.  Banners from various
+nations hang from the walls, as do various animal head trophies.  Sitting on
+the bearskin rug in the center of the room is a small shortsword
+inscripture, gleaming in the lantern light.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 188
+S
+#188
+0 0
+~
+~
+~
+0 0 0
+The plaza hallway~
+The hallway here is carpeted in a deep, blood red plush fur, very
+comfortable and soothing to walk on.  Hanging tapestries and paintings
+obscure the grey granite harsh walls of Castle Dunluce.  A sturdy oaken door
+bars the way to the west, while the lavish hallway continues to the north
+and south.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 182
+D2
+~
+~
+0 0 195
+D3
+~
+~
+0 0 187
+S
+#189
+0 0
+~
+~
+~
+0 0 0
+The House of Helaine~
+This room is starkly decorated.  Burnished breastplates, plumed helmets,
+and black and gold battle tunics decorate the walls and wardrobe here.  A
+barren looking pinewood bed lies against the north wall here, as does a
+beaten looking dresser.  Otherwise, the walls and floors are bare and stern,
+ugly in their most basic form.  Swords and axes lay within an arm's reach at
+almost every point in this room, sharpened as if this person expected battle
+at any time, at any place.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 190
+S
+#190
+0 0
+~
+~
+~
+0 0 0
+The plaza hallway~
+The halway here is lavishly decorated with tapestries, paintings, and an
+assortment of urns and vases.  The floor is covered with a deep red, plush
+carpet, that sinks succulently with each of your steps.  An ugly looking
+oaken door stands in the west wall, and a slightly more attractive rose
+colored door looms to the east.  The hallway continues to the north and
+south here.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 184
+D1
+~
+~
+0 0 191
+D2
+~
+~
+0 0 197
+D3
+~
+~
+0 0 189
+S
+#191
+0 0
+~
+~
+~
+0 0 0
+The House of Garion~
+This room appears more like an armory than any sort of bedroom.  At least
+five sets of silvery burnished armor hangs from the walls as well as do
+finely honed swords, maces and spears.  A deep brown is the color of choice
+for this room, matched by the bedspread and bearskin rug on the floor.  A
+large mirror, oval and glistening with some sort of moisture, hangs on the
+far wall, eerily reflecting your image.  Otherwise, the room is stark and
+austere.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 190
+S
+#192
+0 0
+~
+~
+~
+0 0 0
+A brightly lit pit~
+The moment you step into this room, you reazlie with horror that there is
+no floor in this brilliantly lit chamber,.  As you stumble and begin to
+fall, you see a fine line running about an inch below the level of the door.
+Whe you crash into an invisible surface of glass, you realize that the floor
+and ceiling are made of an entirely clear form of steel.  A brilliant light
+floods in from up above, blinding the details of the room.  Below you, you
+see the bottom floor of Castle Dunluce, a brightly lit granite seems to
+shine in the brilliance of the illumination.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 200
+S
+#193
+0 0
+~
+~
+~
+0 0 0
+Lore Quarters~
+You stand in a misty room that is barely visible for all the crap
+floating around in the air.  You have heard stories about Castle Dunluce's
+legendary Defenders of Lore, but they all contradict each other.  Some say
+they are repulsive carnivorous creatures, others say that they are kind,
+benevolent folk that guide people through the maze of the castle.  At this
+point, you tend to think the latter, you feel no hatred in this room, just
+the ominpresent eyes that watch you in this section of the castle.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 201
+S
+#194
+0 0
+~
+~
+~
+0 0 0
+The House of Brealey~
+This room is richly decorated in various shades of green and cream.  The
+carpeting and wall decor are a deep forest green and the furniture is a
+contrasting, pristine white.  Large, brass urns stand in three corners of
+the room, slightly tarnished from years of weather and aging.  In the fourth
+corner, a globe rests on a wooden tripod, with Thesden in its center.  You
+can see clearly how Thesden relates to the surrounding ocean in this
+pictorial diagram.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 195
+S
+#195
+0 0
+~
+~
+~
+0 0 0
+The plaza hallway~
+Thick, blood red, plush carpet blankets the granite hallway here. 
+Intricately worked tapestries cover the granite harshness of the walls, as
+do well covered lanterns and stylish paintings and portraits of the Lord of
+Thesden.  A young man wearing a crown made from laurels and a chain link
+vest is the focus of the largest portrait here.  His face is boyishly happy,
+but beyond the surface, staring into his deep green eyes, you see the stern
+capacity, and the mettle that made him a great leader.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 188
+D2
+~
+~
+0 0 203
+D3
+~
+door~
+1 0 194
+S
+#196
+0 0
+~
+~
+~
+0 0 0
+The House of Dare~
+This room is brightly decorated with golden-yellow tassles that hang from
+hooks on the walls and ceiling.  They brush lightly against your face
+occasionally, making you a bit itchy and uneasy.  Attached to each of the
+golden cords approximately halfway up their length is a small, steel wrought
+pin in the shape of a crescent moon.  Occasionally, you see smaller pins
+affixed to the tassles in addition to the moon.  Judging from the chevrons
+and stripes that adorn those pins, you assume that they are coat of arms.  A
+bed and dresser also grace the room, as well as a tall, inaccurate looking
+pendulum clock.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 197
+S
+#197
+0 0
+~
+~
+~
+0 0 0
+The plaza hallway~
+The hallway here is richly decorated with hanging tapestries and a thick,
+plush carpet.  The tapestries here depict the Battle of Deep Brook, fearsome
+demons wending their way through the tendrils of Deep Brook Swamp, while the
+combined might of Thesden's commoners and nobility brace themselves to
+resist.  The artwork is exquisite, you can see each and every bead of sweat
+on every man's face, and the contorted screams and howls of every demon.  So
+real is the image that you can almost hear the sounds of battle, and taste
+the brute copper of fear.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 190
+D1
+~
+~
+0 0 198
+D2
+~
+~
+0 0 205
+D3
+~
+~
+0 0 196
+S
+#198
+0 0
+~
+~
+~
+0 0 0
+The House of Ebou~
+This room is decorated in a cream and copper color motif.  The walls are
+painted in an off white, and are adorned by various copper and brass bands
+that have been affixed vertically to the walls.  A bed rests against the far
+wall of the room, as does a smallish dresser.  A white fur rug, with an
+amazingly soft look and feel, graces the floor beneath your feet.  The
+entire flavor of the room is one of gross indulgence, of happy living and
+spending.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 197
+S
+#199
+91 60
+~
+~
+~
+0 0 0
+Lore Quarters~
+You stand in a misty chamber, hexagonal in shape, the home of the
+Defenders of Lore here in Castle Dunluce.  Legend has it that they keep the
+sacred vials in preparation for the final day, others say they roam the
+castle in search of flesh to eat and animals to sacrifice.  Whatever the
+case may be, you feel no evil here, just the content solace of one who
+cannot see anything and who, in their oblivious naivety, thinks the world is
+a beautiful place.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 200
+S
+#200
+0 0
+~
+~
+~
+0 0 0
+A misty hallway~
+The misty hallway continues to the east and south here, very difficult to
+see much beyond the tips of your fingers and toes.  Somehow, you can make
+out the outline of a door to your west.  The mist itself is cool and
+refreshing, making you feel confident, even courageous when in most cases,
+blindness only causes fear.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 192
+D1
+~
+~
+0 0 201
+D2
+~
+~
+0 0 208
+D3
+~
+~
+0 0 199
+S
+#201
+0 0
+~
+~
+~
+0 0 0
+A misty hallway~
+Suddenly, you find yourself walking through a hallway that has become
+enshrouded in mist.  It bubbles and glides over your feet and face, a cool
+refreshment that smells slightly of earthen moss.  The mist is thinner here
+than to the west however, and you can make out the shape of a door just to
+the north of here.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 193
+D2
+~
+~
+0 0 209
+D3
+~
+~
+0 0 200
+S
+#202
+0 0
+~
+~
+~
+0 0 0
+The House of Logan~
+You stand in a room that smells just terrible!  You aren't sure exactly
+where that smell comes from until you realize that you are standing in up to
+a foot in a deep brown muck.  It flows gently around your feet, and with a
+nauseous feeling, you realize that it is human feces.  Apparently, the
+residence of this room has a problem with garbage and ridding himself of his
+own waste.  However, the resident of this abode had no problem discarding
+the pieces of paper in the wastebasket in the corner.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 203
+S
+#203
+0 0
+~
+~
+~
+0 0 0
+The plaza hallway~
+The hallway here is covered with a thick, red, plush carpet that reaches
+up and tickles your ankles every time you step into the squishy surface. 
+Thick, ornate tapestries, paintings, and other artwork hang from the walls
+here, covering the granite in layer after layer of design.  To the west, a
+deep orange door stands slightly ajar.  Otherwise, the hallway continues to
+the north and south here.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 195
+D2
+~
+~
+0 0 211
+D3
+~
+~
+0 0 202
+S
+#204
+0 0
+~
+~
+~
+0 0 0
+The House of Findal~
+This room is highlighted by the absence of any furniture or decor at all.
+However, it is extremely bright in here, although it is impossible to tell
+from what direction the light comes from.  The entire ceiling glows with the
+whitewashed sheen of brilliance, a mass of illumination that throbs and
+flickers with each step that you take.  It is hard to believe, but it seems
+that this room is alive, a sentience that you are only beginning to
+understand.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 205
+S
+#205
+0 0
+~
+~
+~
+0 0 0
+The plaza hallway~
+The hallway here is covered in a deep, thick red carpet, that squishes
+down each time you take a step, then rebounds as you release your foot. 
+Intricate tapestries line the walls, the motif here belonging to the cliffs
+of Thesden, dominating and awe inspiring sheer drop offs that have been the
+death of more than one person.  Between tapestries, a space has been left
+for doors, both to the east and west.  The hallway also continues to the
+north and south.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 197
+D1
+~
+~
+0 0 206
+D2
+~
+~
+0 0 213
+D3
+~
+~
+0 0 204
+S
+#206
+0 0
+~
+~
+~
+0 0 0
+The House of Arin~
+You stand in a room decorated in typical nobleman fashion.  A half open
+wardrobe standing against the north wall reveals several blue and gold
+surcoats, all embroidered with a triple crescent moon as well as a rearing
+dolphin.  Swords hang on pegs form the wall, as well as a fair number of
+cloaks, doublets, and sashes.  Matching scabbards and bolts of cloth lay in
+other corners of this room.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 205
+S
+#207
+0 0
+~
+~
+~
+0 0 0
+Lore Quarters~
+This room is stark in comparison with other rooms you have seen elsewhere
+in the castle.  Perhaps it is because of the deep mist that enshrouds
+everything in the room, making it impossible for you to see past a few feet
+beyond your face.  As you stand here pondering the moment and the scene, you
+think you can make out the faint hitches of movement in the mist, someone is
+here, someone is watching you.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 208
+S
+#208
+0 0
+~
+~
+~
+0 0 0
+A misty hallway~
+You stand in a hallway shrouded in deep mist that roils over and under
+your feet, and body in general.  It is not one of those foreboding mists
+that you have read about in story books, not one of those diabolical mists
+that tear at your flesh and eat at your bones.  It is benign, and seems to
+utter words of calm as you pace through it.  One curious thing is that you
+have no idea where it is coming from, it isn't common at all for mist to
+collect in a random hallway inside a castle.  In any case, through the mist,
+you can barely make out the hallway continuing to the north and south, and
+the door to the west.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 200
+D2
+~
+~
+0 0 216
+D3
+~
+~
+0 0 207
+S
+#209
+0 0
+~
+~
+~
+0 0 0
+A stairway alcove~
+This is the top of a deeply chiseled staircase that runs in a tight
+spiral downwards to the level below.  A gilt brass banister runs along the
+side of the staircase, providing some support as you look down on the
+dizzying fall.  Flags hang along the stairwell walls, representing various
+cities and nations of the land.  Flickering lanterns along the walls provide
+the ghostly illumination in the stairwell.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 201
+D5
+~
+~
+0 0 167
+S
+#210
+0 0
+~
+~
+~
+0 0 0
+The House of Naclario~
+This room is a dark room, with a stale, dank, unbathed feeling about it. 
+Thick, blood red drapes hang from runners along the ceiling and walls, as
+well as a number of strange looking brass bars, their purpose unknown.  The
+floor is covered in a matted, downtrodden version of the plush, red carpet
+outside in the hallway.  Other than the bed resting against the far wall,
+the only furniture in this room are the rows and rows of bookcases lining
+the walls.  Some of the bindings look freshly done, however, most are old
+and tattered certainly there are a lot of them.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 211
+S
+#211
+0 0
+~
+~
+~
+0 0 0
+A turn in the plaza~
+The plaza hallway here reaches a corner, allowing you to continue north
+and east.  Like most of the plaza hallway, it is covered in thick, red plush
+carpet and adorned with hanging tapestries and paintings.  A large glowbulb
+is suspended in the air here, providing lighting in addition to the light
+filtering in from the slats up above.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 203
+D1
+~
+~
+0 0 212
+D3
+~
+~
+0 0 210
+S
+#212
+0 0
+~
+~
+~
+0 0 0
+The plaza hallway~
+The hallway here runs east to west.  Thick, plush carpet covers the floor
+from wall to wall, and tapestries cover the walls from floor to ceiling.  It
+is much cozier with all the entrapments here that would normally be the
+case, especially more so than the harsh granite walls that the rest of
+Castle Dunluce seems to exhibit.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 213
+D3
+~
+~
+0 0 211
+S
+#213
+0 0
+~
+~
+~
+0 0 0
+A turn in the plaza~
+The plaza reaches a bend here, allowing you to head either north or west.
+Thick, red carpeting and huge tapestries cover the walls and floors here.  A
+thick oak door stands closed to the east of here.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 205
+D1
+~
+~
+0 0 214
+D3
+~
+~
+0 0 212
+S
+#214
+0 0
+~
+~
+~
+0 0 0
+The House of Ranfor~
+This is yet another bedroom of a Thesden Lord.  Stylized, inlaid bits of
+colored ivory have been set into the floor here, giving it an almost orange
+tinge that is difficult to derive from ivory.  A massive, ornate and
+curtained bed lies against the far wall, neatly made and tucked away. 
+Clothes lay in neat piles against the north wall eye catching in their
+variety of flashy yellows, blues, and oranges.  A small, vanity chest rests
+at the foot of the bed, a small crack showing you where the chest is
+supposed to open.  To the west is a sturdy oaken door, probably where you
+came in from.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 213
+S
+#215
+0 0
+~
+~
+~
+0 0 0
+A mist generator~
+You enter this room and are immediately overwhelmed by the billows of
+mist and smoke that pour out.  You can't see anything in this room except
+for a faint shimmering that glows on the far wall.  As you make your way
+towards that shimmer, a massive sign with `ired`l painted letters becomes
+visisble.  "Closed until further notice.  -- Ethereal Portal".  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 216
+S
+#216
+0 0
+~
+~
+~
+0 0 0
+A misty hallway~
+The hallway here continues to be covered in a deep mist, and you are just
+now beginning to understand just why the hallway is so misty.  Shapes
+occasionaly coalesce in the mist, into the forms of humans and of other
+sentinent beings.  They hide themselves in the mist, watching you for any
+sign of mischief or bad intentions.  A door can be seen off to the west,
+while the misty hallway continues off to the north.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 208
+D3
+~
+~
+0 0 215
+S
+#217
+0 0
+~
+~
+~
+0 0 0
+A stairway cul-de-sac~
+The marble staircase comes to an end and a beginning here.  While the
+brilliantly lit marble spirals away downward to the atrium below, a hallway
+leads off to the south.  Glowbulbs hang from steel rods here, providing
+light to the cul-de-sac.  Fern fronds and other plants rest in pots here in
+the alcove.  Adding a much needed breath of nature to the hardness of Castle
+Dunluce.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 224
+D5
+~
+~
+0 0 175
+S
+#218
+0 0
+~
+~
+~
+0 0 0
+A storeroom~
+This is a small cubical area that is filled to the brim with various
+cleaning supplies and extra linens.  Stacked on shelves and in buckets and
+boxes, the clutter in the room is amazing, befitting the immensity and
+complexity of Castle Dunluce.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 225
+S
+#219
+0 0
+~
+~
+~
+0 0 0
+A janitor's quarters~
+This is a small room with rather sparse furnishings.  A cot rests against
+one wall and piles of dirty looking tunics and breeches litter the ground. 
+To the south is a smallish door, painted green and looking rather cheap for
+the grandeur of the castle.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 226
+S
+#220
+0 0
+~
+~
+~
+0 0 0
+A storeroom~
+This room is neatly stacked with a multitude of clean, linen sheets, and
+fine satin drapes.  They do not seem to come in a wide variety of colors
+however, as green and white seem to be the dominant shades of choice here. 
+The room also appears to be monofunctional, as it is unadorned, bare, and a
+little bit musty in addition to the overwhelming scent of linen.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 227
+S
+#221
+0 0
+~
+~
+~
+0 0 0
+Before a golden door~
+You stand before a massive golden door, hinged on a pair of ivory shells
+that somehow can support the weight of what is a massively dense material. 
+There are no visible handles or door knobs to the door either, and the
+hinges favor the outside, telling you that this door swings towards you. 
+It's a bit of a problem trying to open a massive door, with no handle, that
+is tightly sealed against the face of the granite wall.  But even besides
+that problem, you discover yourself going slowly blind as you stare into the
+blinding glare that the golden door gives off.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 222
+D2
+~
+~
+0 0 228
+S
+#222
+0 0
+~
+~
+~
+0 0 0
+The golden staircase~
+Before you is an amazingly ornate staircase, gold, but with the
+appearance of flecked marble.  No banister graces the side of the staircase
+as it winds upwards, confident in the traveler's own ability to keep his own
+balance.  The light in the chamber emanats from the stairs themselves, they
+give off a pulsing glow that reaches into every corner of the round room.  A
+small spring bubbles forth where you suspect the center of the room is,
+crystal clear and with a sweet aroma, if water can smell like anything at
+all.  A golden doorway leads to the west also, handleless and magnificent.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 221
+D4
+~
+~
+0 0 271
+S
+#223
+0 0
+~
+~
+~
+0 0 0
+The northern battlements~
+You stand on the northern battlements of Castle Dunluce, the massive
+granite ceiling of the entire castle.  Off to the north you can see the city
+of Thesden itself, a small little sprawl that bustles with people that look
+like ants racing around a race track.  North of that, you can see the
+plainsland stretch off for miles, a magnificent scene worthy of a second
+look.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 321
+D3
+~
+~
+0 0 180
+S
+#224
+0 0
+~
+~
+~
+0 0 0
+The Servants Quarters~
+The hallway here is constructed of granite, as a matter of fact, it is
+exactly the same as the previous level of Castle Dunluce, where everything
+is hard and grey and lit by magical lanterns that hang from walls and from
+the high ceiling up above.  The hallway smells slightly of dust and ammonia.
+To the north you can see the bannister of a staircase leading down.  A
+smallish door also stands to the south, red and slightly ajar.  The corridor
+also continues to the east.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 217
+D1
+~
+~
+0 0 225
+D2
+~
+~
+0 0 231
+S
+#225
+0 0
+~
+~
+~
+0 0 0
+The Servants Quarters~
+The hallway here is unadorned and smells of once too many times bleached
+granite.  Small doors lead both to the north and south, while the hallway
+continues to the east and west.  The entire area is conspicously clean, you
+aren't sure why it is unusual though.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 218
+D1
+~
+~
+0 0 226
+D2
+~
+~
+0 0 232
+D3
+~
+~
+0 0 224
+S
+#226
+0 0
+~
+~
+~
+0 0 0
+The Servants Quarters~
+This portion of the hallway is none too decorated and smells of long
+dried and caked on ammonia.  The floors and walls have been religiously
+scrubbed and gleam brightly in the dim light.  The hallway leads to the east
+and west here, also a smallish doorway stands in the north wall.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 219
+D1
+~
+~
+0 0 227
+D3
+~
+~
+0 0 225
+S
+#227
+0 0
+~
+~
+~
+0 0 0
+The Servants Quarters~
+The hallway comes to an end here.  The air smells of the residue at the
+bottom of a janitor's cleaning pail.  However the walls and floor speak of a
+a religious, daily cleansing.  A small door leads to the north, however,
+what dominates your vision is the gaping chasm that leads off to the south. 
+You aren't sure where it came from, or why there happens to be a deep
+blackened pit in the center of the castle, perhaps it is for defense
+purposes...  In any case, a thin bridge spans the chasm, constructed of rope
+and tied around pinions that have been forced into the granite floor.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 220
+D2
+~
+~
+0 0 234
+D3
+~
+~
+0 0 226
+S
+#228
+0 0
+~
+~
+~
+0 0 0
+A shimmering alcove~
+You stand in an alcove of the castle that is awash in golden light. 
+Streams of metal flecked glints pour into the area from the north, where the
+very light itself conceals the source of the illumination.  You can,
+however, see that the alcove continues to the east here and that a rickety
+looking rope bridge leads away to the south.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 221
+D1
+~
+~
+0 0 229
+D2
+~
+~
+0 0 235
+S
+#229
+0 0
+~
+~
+~
+0 0 0
+A shimmering alcove~
+Alas, you have arrived at a dead end!  Light pours into the area from the
+west, a warm pulsating golden glow that touches your blood and tickles your
+insides.  The only way to go from here is back to the west, unless you can
+find some sort of secret door here.  (Which will be impossible since the
+creator of the castle didn't put any in here.)  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 228
+S
+#230
+0 0
+~
+~
+~
+0 576 0
+Falling!!!~
+You've slipped off the bridge and find yourself plummeting downwards into
+utter blackness.  As you fall, you have time to reflect what you have
+experienced in your life, your first kiss, your first ale, and the first
+time you urinated in your pants before a big battle.  You sit and brace
+yourself for the impact as you fall, thinking, wishing, that you had a
+RECALL spell.  
+~
+0 CGHT 0
+0
+~
+H-500
+I A J You fall into the ice-cold ocean below!~
+K (null)~
+L2
+N32526
+Q (null)~
+M-500
+S
+#231
+0 0
+~
+~
+~
+0 0 0
+The Chambers of Selanne~
+Upon entering this room, you are at first given the impression that it is
+a Lord's domicile.  An ornate bed, a cherry wood wardrobe, a lavish plush
+tarang carpet.  However, upon closer inspection, you notice that the
+trademark mop and bucket in the corner, various bars of seashore scrubbing
+shells lined up on the fireplace mantle, and a number of sea sponges,
+collected from the Thesdian seaboard.  You realize now that these are the
+quarters of the castle's Avanso, the head maid of Castle Dunluce.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 224
+S
+#232
+0 0
+~
+~
+~
+0 0 0
+The Chambers of Lana~
+This room is filthy.  Especially made more so by the realization that
+this is the room of Lana, the assistant Avanso, the head janitor of the
+castle.  Don't laugh, it's an important position in Thesdian society, its
+very matriarchal you know.  In any case, spilled water has dried in the
+center of the room, leaving an ugly discolored stain in the center of the
+once ivory colored carpet.  Ants and maggots crawl and lie about the room. 
+But what catches your eye is the decaying corpse of a...  Woman, lying face
+down on the bed with a dagger in her back.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 225
+S
+#233
+0 0
+~
+~
+~
+0 0 0
+A rope catwalk~
+You stand on a rope catwalk that connects the four battlement sides of
+Castle Dunluce.  The catwalk looks fairly sturdy, as it has been reinforced
+by steel bolts running through the wood at frequent intervals.  A stone
+platform somehow is suspended in the center of the catwalk system a short
+distance above that is a taller turret, aglow in brilliant light.  It's too
+bad you can't get to that turret.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 319
+D2
+~
+~
+0 0 279
+S
+#234
+0 0
+~
+~
+~
+0 0 0
+A connecting bridge~
+You stand precariously hanging over a massive chasm that has somehow been
+dug out of the center of Castle Dunluce without reducing its structural
+integrity.  It is discomforting, but you realize that you cannot see the
+bottom of this chasm.  Small rope guidings have been placed up on either
+side of the bridge, necessary tools to aid your crossing of this wood plank,
+swaying bridge.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 227
+D1
+~
+~
+0 0 235
+D2
+~
+~
+0 0 230
+D3
+~
+~
+0 0 230
+S
+#235
+0 0
+~
+~
+~
+0 0 0
+A connecting bridge~
+You stand on a thin bridge that is constructed of parallel wooden planks
+that have been tied together using a thick, and coarse rope.  Thin rope
+railings line the bridge to either side, giving you some small measure of
+guidance.  However, if you wanted to go through those guidings, it looks
+like it would be easy enough to do.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 228
+D1
+~
+~
+0 0 230
+D2
+~
+~
+0 0 230
+D3
+~
+~
+0 0 234
+S
+#236
+0 0
+~
+~
+~
+0 0 0
+A rope catwalk~
+You stand on a rope catwalk that connects the four battlement sides of
+Castle Dunluce.  The catwalk looks fairly sturdy, as it has been reinforced
+by steel bolts running through the wood at frequent intervals.  A stone
+platform somehow is suspended in the center of the catwalk system a short
+distance above that is a taller turret, aglow in brilliant light.  It's too
+bad you can't get to that turret.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 319
+D3
+~
+~
+0 0 253
+S
+#237
+0 0
+~
+~
+~
+0 0 0
+A rope catwalk~
+You stand on a rope catwalk that connects the four battlement sides of
+Castle Dunluce.  The catwalk looks fairly sturdy, as it has been reinforced
+by steel bolts running through the wood at frequent intervals.  A stone
+platform somehow is suspended in the center of the catwalk system a short
+distance above that is a taller turret, aglow in brilliant light.  It's too
+bad you can't get to that turret.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 292
+D3
+~
+~
+0 0 319
+S
+#238
+0 0
+~
+~
+~
+0 0 0
+The Star Chamber~
+As you walk into this chamber, you are blinded by a dazzling, brilliant
+white light flooding in from the glass paneled ceiling and refocused from a
+large, sharply cut diamond gem centered in the chamber roof.  The floor here
+is also clear and through it, you can view the granite floor far below. 
+It's impossible to look up, blindness might await.  However, through
+squinted eyes, you can view the rest of the room, plain granite walls.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 243
+S
+#239
+65 100
+~
+~
+~
+0 0 0
+The House of Reimon~
+This room is a clutter of cloth, dice, and a mass of papers, stewn over a
+variety of ornate, but somewhat run-down mahogany furniture.  Garish looking
+clothing hangs limply from wooden pegs around the walls, and half eaten food
+festers in their containers, waiting to be cleaned up.  A deck of cards has
+been enlarged, and pasted up onto the walls the only decor of the walls
+themselves.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 244
+S
+#240
+0 0
+~
+~
+~
+0 0 0
+A glass panelled room~
+This room's north wall is a series of intricately connected glass panels
+that offer you a breathtaking view of the city proper of Thesden to the
+`inorth`l.  From this perspective, you realize the distance that you have
+ascended inside the castle.  The citizens of Thesden, walking on the streets
+below, appear as small insects crawling to their home. The east and west
+walls are plain, polished granite and the south wall is dominated by a
+large, whitewashed oaken door with a black steel handle shaped like a
+crescent roll. Leading down a roughly carved hole in the granite floor is
+a rough looking ladder.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 245
+D5
+~
+~
+0 0 181
+S
+#241
+0 0
+~
+~
+~
+0 0 0
+The House of Korin~
+This room is well furnished with a variety of desks, bureaus, and a
+curtained bed resting at the northeast corner of the room.  The walls are
+covered with heavy, red, velvety drapes and a few portraits of the resident
+of this room.  He is a pasty faced, pale looking young man, wearing a
+tightly fitting green coat and carrying a lute strapped across his back.  A
+bear skin rug, a set of dice sitting on a coffee table, and a deck of cards
+on the desk tell you that this Lord is one for free living and carousing.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 246
+S
+#242
+0 0
+~
+~
+~
+0 0 0
+The House of Baron~
+These quarters are obviously those of a Lord of Thesden, with its lavish
+gold furnishings and gilt ivory wall tapestry frames.  The intricately woven
+tapestries depict the crucifixion of a man, tied up and bleeding in the
+midday sun, ravens pecking at his eyeballs and his mouth open and contorted
+in pain.  Not a pretty picture to be sure, but one of the defining
+characteristic of this man is certainly represented.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 247
+S
+#243
+0 0
+~
+~
+~
+0 0 0
+A light passageway~
+This is a brightly lit passageway that seems to runn east and south.  You
+aren't sure about that because the bends are very slight yet very distinct
+at the same time.  Perhaps that has to do with the light reflecting off the
+granite of the walls.  In any case, an immaculatly clean white carpet covers
+the center ten fet of the fifteen foot wide hallway here.  Double the usual
+amount of lanterns have been placed here as well, giving you the feeling
+that this place is sacrosanct, a holy place.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 238
+D1
+~
+~
+0 0 244
+D2
+~
+~
+0 0 248
+S
+#244
+0 0
+~
+~
+~
+0 0 0
+A light passageway~
+The passageway here runs east to west, cutting horizontaly across Castle
+Dunluce.  A carpet made of fine white animal fur covers the middle two
+thirds of the hallway.  The carpet is so clean and so bright that it makes
+you feel guilty to walk on its surface.  Remarkably, your feet leave no
+stains on the fur, dirt magically rubbing off its soft surface before it has
+a chance to settle.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 239
+D1
+~
+~
+0 0 245
+D3
+~
+~
+0 0 243
+S
+#245
+0 0
+~
+~
+~
+0 0 0
+A light passageway~
+The hallway here runs east to west.  The passageway is brightly lit by
+double the usual number of lanterns that line the walls at about head level.
+A white carpet made of soft animal fur covers the two thirds of the floor
+here.  You mentally note that this is an important intersection, which
+probably explains the steel bars you can see poking down from the ceiling on
+either side of you that can be made to drop at a moment's notice.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 240
+D1
+~
+~
+0 0 246
+D3
+~
+~
+0 0 244
+S
+#246
+0 0
+~
+~
+~
+0 0 0
+A light passageway~
+The passageway runs east to west here.  The most noteworthy part of this
+hallway is that an immaculate white carpet (fur?)  Covers the floor here,
+blanketing the center two thirds of the passageway.  The granite walls have
+been left bare here, except for the double ration of flickering lanterns
+along the walls, and the closed wooden door that stands majestically to the
+north.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 241
+D1
+~
+~
+0 0 247
+D3
+~
+~
+0 0 245
+S
+#247
+0 0
+~
+~
+~
+0 0 0
+A light passageway~
+The hallway here takes a turn to the south.  A broad strip of either
+animal fur or white carpet has been placed down in the center two thirds of
+the hallway here, bolted down by horizontal bars of gold and silver.  The
+cleanliness of the carpet makes you feel guilty about walking on its
+hallowed surface, but there is precious little space to walk on, so you will
+just have to deal with the guilt that you feel for treading on the
+immaculate.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 242
+D2
+~
+~
+0 0 252
+D3
+~
+~
+0 0 246
+S
+#248
+0 0
+~
+~
+~
+0 0 0
+Before a silver door~
+The passageway comes to an end here in front of a towering silver
+doorway, framed with inalid ivory stylized into worked, crawling ivy.  No
+knob is visible but you can make out the hidden hinges in the door where the
+door will swing out on.  The entire doorway speaks of a beauty and calm that
+lies beyond, something that is not at all familiar to Castle Dunluce.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 243
+D1
+~
+door~
+1 0 249
+S
+#249
+0 0
+~
+~
+~
+0 0 0
+A Crystal Glade~
+You have entered a manificent chamber, with high, vaulted, frescoed
+ceilings and wonderfully painted murals.  But what dominates the landscape
+here is that crystal clumps magically grow out of the granite floor here. 
+Various shades of blue, clear, and pink reflect and capture the light that
+bounces throughout the room, sending splashes of color bouncing off the
+walls and your eyes.  Creeping ivy partically obscures the door to the west
+of you and lie in brambles at its base.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 250
+D2
+~
+~
+0 0 254
+D3
+~
+door~
+1 0 248
+S
+#250
+0 0
+~
+~
+~
+0 0 0
+The Northern Glade~
+You stand in the northern portion of Castle Dunluce's Crystal Glade.  It
+is a marvel of magic and architecture.  High vaulted ceilings are decorated
+with painted frescoes and supported by graceful beams.  But even more
+impressive are the clumps of crystal that grow everywhere from the granite
+beneath your feet.  Shades of pink, blue and white are visible here,
+reflecting the light that bounces throughout the chamber.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 251
+D2
+~
+~
+0 0 255
+D3
+~
+~
+0 0 249
+S
+#251
+0 0
+~
+~
+~
+0 0 0
+A Crystal Glade~
+You find yourself in the northeast corner of Castle Dunluce's Crystal
+Glade, a masterpiece of magic and physical architecture.  Light filters down
+from somewhere high up on the walls, bouncing off colored clumps of crystal
+that have somehow sprouted up from the thick grey granite floor.  The light
+bounces off the crystals here, radiating myriads of colors all about your
+face and the rest of the chamber.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 252
+D2
+~
+~
+0 0 256
+D3
+~
+~
+0 0 250
+S
+#252
+0 0
+~
+~
+~
+0 0 0
+Before a silver door~
+Here, the carpeted passageway comes to and before a magnificent and huge
+silver doorway.  Inlaid ivory carvings dance across the face of the door,
+speaking of a beautiful and heartwarming, chillin... Something that seems
+too foreign to describe in text and too foreign to be a part of the castle. 
+Creeping vines lace their way gracefully up the edges of the doorway,
+seemingly aware of the asthetic role that they play.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 247
+D3
+~
+door~
+1 0 251
+S
+#253
+0 0
+~
+~
+~
+0 0 0
+The western battlements~
+You stand on the western battlement of Castle Dunluce, overlooking
+magnificent Colwyn Bay.  The water sparkles all the way up to the city of
+Thesden itself.  You can see where boats sail gently on the waters there,
+gracefully gliding through the deep blue waters.  The cliff that drops off
+below here is an intimidating addition to the vista, a reminder at how damn
+high you really are.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 276
+D1
+~
+~
+0 0 236
+D2
+~
+~
+0 0 278
+S
+#254
+0 0
+~
+~
+~
+0 0 0
+The Western Glade~
+You stand in an awe-inspiring chamber that stretches off to the north,
+south, and east.  The ceilings stretch off into the edges of darkness yet
+beutifully frescoed and adorned.  Clumps of garden crystal have sprouted up
+here, forming pathways through which you can walk.  The light in the chamber
+glints off the facets of these crystal shards, sending beams of blue and
+clear light dancing through the air.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 249
+D1
+~
+~
+0 0 255
+D2
+~
+~
+0 0 257
+S
+#255
+0 0
+~
+~
+~
+0 0 0
+`gCrystal Haven``~
+`oWhite...  Light...  Floods through the air here.  The ceilings and
+marble of the floor fade into hexagonal blurs, purely peripheral in your
+vision.  More than the crystal clear fountain here, or the crystalized ring
+of stone, arranged in a circle centered about the fountain you feel a sense
+of inner peace here, as if you devoid yourself of all emotions, and have
+been left with not what you can be, and not with what you are, but what you
+WANT to be.  Hanging from the center of the ceiling, directly above the
+fountain is a golden rope, tight and silky to the touch.  It disappears into
+the light above, destination unknown.  `` 
+~
+0 0 0
+0
+~
+I 0 M130
+D0
+~
+~
+0 0 250
+D1
+~
+~
+0 0 256
+D2
+~
+~
+0 0 258
+D3
+~
+~
+0 0 254
+D4
+~
+~
+0 0 282
+S
+#256
+0 0
+~
+~
+~
+0 0 0
+The Eastern Glade~
+This is the eastern section of the Crystal Glade.  A granite wall bars
+the way to the east, although granite has long been painted over by artistic
+murals.  The ceiling is barely visible from this distance, but what you can
+make out is a marvel in architecture.  Beams arch across the ceiling,
+interleaved with fantastic frescoes of past heroes of Thesden.  Crystal
+sprouts all about your feet, forming pathways through which you can walk and
+explore the rest of the Glade.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 251
+D2
+~
+~
+0 0 259
+D3
+~
+~
+0 0 255
+S
+#257
+0 0
+~
+~
+~
+0 0 0
+A Crystal Glade~
+You find yourself tucked into a corner of the Crystal Glade here, with
+pathways leading north and east through the pink and blue crystals.  The
+ceiling is a bit closer to the ground here than in the center of the Glade,
+perhaps thats because the ceiling slopes down into each corner.  In any
+case, it is still very high, and you are hard pressed to make out the
+intricate frescoes that have been placed on the vaulted ceiling.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 254
+D1
+~
+~
+0 0 258
+S
+#258
+0 0
+~
+~
+~
+0 0 0
+The Southern Glade~
+You stand at the southern end of the Crystal Glade, an end and a
+beginning of sorts.  Paths lead through the man height crystals sprouting
+from the granite that allow you to head north, east, and west.  A massive
+doorway fashioned from gilt ivory and gold bars the way to the south.  Light
+refracts and reflects through the entire chamber, sending beams of arcing
+color to every corner.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 255
+D1
+~
+~
+0 0 259
+D2
+~
+door~
+1 0 263
+D3
+~
+~
+0 0 257
+S
+#259
+0 0
+~
+~
+~
+0 0 0
+A Crystal Glade~
+The Crystal Glade is blocked off in two directions here, south and east
+by granite walls that are decorated with paintings and murals.  Paths cut
+through the seemingly sporadic clumps of crystal on the ground here,
+allowing you to head in the other two cardinal directions.  The very
+symmetry of the Glade you have seen so far makes you want to believe that
+this entire structure is man made people would be hard pressed to argue with
+you.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 256
+D3
+~
+~
+0 0 258
+S
+#260
+0 0
+~
+~
+~
+0 0 0
+A dank, dim corridor~
+The brass trimmed doorway behind you, you find yourself in a dark, dank
+corridor that bends to the south and east here.  The lights here seem to
+have lost the magic that was once instilled in them, making them but a
+shadowed husk of their former selves.  To the south stands a massive brass
+door.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 261
+D2
+~
+~
+0 0 265
+S
+#261
+0 0
+~
+~
+~
+0 0 0
+A dank, dim corridor~
+The flickering lights in this section of the corridor lay testament to
+the fact that the magic of this part of Castle Dunluce has weakened in
+recent times.  You are not sure why, especially with the resurgence in local
+magicdom.  The corridor here is dim, you think you can make out the
+beginning of a staircase a little ways to the south though.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 266
+D3
+~
+~
+0 0 260
+S
+#262
+0 0
+~
+~
+~
+0 0 0
+The House of Arioch~
+By the look of the furnishings and decor in this room, these are the
+quarters of one of the Lords of Thesden.  The room is rather plain as far as
+Lords' chambers go, a few not so brilliantly woven tapestries, thick plush
+carpeting and furniture that looks as if it were cut and finished just
+yesterday.  The room has a slightly tangy smell to it, as if it has been
+cleaned out recently.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 263
+S
+#263
+0 0
+~
+~
+~
+0 0 0
+A secluded corridor~
+Somehow, you have managed to stumble upon yet another hallway in Castle
+Dunluce.  Hexagonal shutters made from the deepest, blackest obsidian frame
+each lantern here, casting a somewhat dim and impure light across the length
+of the hallway.  Following in the theme of darkness, the tapestries and
+carpet are a matching tone of deep blood red.  Amidst the hangins are doors
+that lead to the east, west, and a silver door that leads off to the north. 
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 258
+D1
+~
+door~
+1 0 264
+D2
+~
+~
+0 0 268
+D3
+~
+door~
+1 0 262
+S
+#264
+0 0
+~
+~
+~
+0 0 0
+The House of Altara~
+This room is clearly that of a well financed woman.  Beautiful, ornate
+gowns fit for any feast day hang frominside a large, walk in wardrobe. 
+Every little item has been neatly put in its place, from the tiniest powder
+puff to the canopied bed on the far wall of the room.  A large door
+decorated with lace and gemstones graces the west wall here as well.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+door~
+1 0 263
+S
+#265
+0 0
+~
+~
+~
+0 0 0
+Before brass trimmed door~
+The short, dim corridor comes to an end here in the face of a massive
+brass door.  Intricately carved brass crawls across the face of the door in
+the form of ivy and leaves.  No keyhole or doorknob is visible.  You've
+probably gotten used to no handle/no knob doors by now, and know how to open
+them with ease.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 260
+D2
+~
+~
+0 0 270
+S
+#266
+0 0
+~
+~
+~
+0 0 0
+A darkened staircase~
+You stand at the base of a staircase that leads straight up through the
+darkness.  Either the lanterns here have gone out, or they were never lit in
+the first place.  Of course, that is a pretty foolish proposition, why would
+they place lanterns here if they were to be never lit?  Doesn't quite make
+sense does it?  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 261
+D4
+~
+~
+0 0 288
+S
+#267
+0 0
+~
+~
+~
+0 0 0
+The House of Surea~
+You stand in the chambers of a noble woman, resplendent in tapestries and
+fine articles of clothing.  Newly varnished furniture lines the walls of the
+room, a room smelling of newly cleansed wool, expensive perfumes made from
+fruit peels, and the ripe delicious smell of newly baked tarts.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 268
+S
+#268
+0 0
+~
+~
+~
+0 0 0
+A secluded corridor~
+The corridor here is dark and lined with tapestries and carpet.  As you
+sniff the air, you can detect the faint smells of saltwater and sealife in
+the air, mingled in with the more artificial smell of sprayed on musk.  The
+salty smell is probably carried by the breeze that you can feel wafting in
+from the south, through vents that you fail to see.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 263
+D1
+~
+door~
+1 0 269
+D2
+~
+door~
+1 0 272
+D3
+~
+door~
+1 0 267
+S
+#269
+0 0
+~
+~
+~
+0 0 0
+The House of Daran~
+This room is starkly decorated in the true fashion of a warrior.  Swords
+hang on the wall, criss crossed in front of well polished crested shields. 
+Unfortunately, they are bolted solidly to the wall, deterring any would be
+thief such as yourself.  Solid, bold blues and golds are the dominant colors
+here, from the bed comforter, to the curtains hanging along the walls.  A
+wardrobe and desk are the only other pieces of furniture in the room.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+door~
+1 0 268
+S
+#270
+0 0
+~
+~
+~
+0 0 0
+A short, dim corridor~
+This is a short, dimly lit corridor, that forks to the north and east
+here.  It's not a real fork of course, just a turn, but it's near dinner
+time, so cooking utensils are frequently substituted in for common words. 
+The walls and floor are unadorned here, althought you can make out a large,
+glinting door to the north and a staircase leading down, to the east.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 265
+D1
+~
+~
+0 0 271
+S
+#271
+0 0
+~
+~
+~
+0 0 0
+The golden staircase~
+You stand at the top of a staircase that glitters of gold and sparkling,
+something, inlaid in it.  Flaming torches that give off no heat line the
+staircase and cause all that much more sparkle.  Somehow, the staircase
+seems even brighter than the illumination the torches give off.  Perhaps it
+is the reflection of the metallic surface, or maybe just the exultation in
+your mind from minding another way upwards in Castle Dunluce.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 270
+D5
+~
+~
+0 0 222
+S
+#272
+0 0
+~
+~
+~
+0 0 0
+The hall of mirrors~
+Everywhere, everywhere, everywhere you look, you see yourself staring
+back at you.  Mirrors have been set up at all angles and in a multitude of
+layers, making it almost impossible to get your bearings.  You immediately
+lend credence to this statement when you smash your face against a polished
+surface in front of you.  The mirror quivers a bit, but it appears sturdy,
+awash with the glow of forgotten magic.  As you look around, you're not even
+sure you can find your way back...  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 274
+D3
+~
+~
+0 0 273
+S
+#273
+0 0
+~
+~
+~
+0 0 0
+The hall of mirrors~
+You are standing here.
+You are here.
+You looks at you.
+You is here.
+You is be you.
+You says, 'Why you gotta be talkin smack?'
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 273
+D1
+~
+~
+0 0 274
+D2
+~
+~
+0 0 268
+S
+#274
+0 0
+~
+~
+~
+0 0 0
+The hall of mirrors~
+You are there.
+You are here.
+You looks at you.
+You looks at you.
+You are here.
+You looks at you.
+You are here.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 273
+D1
+~
+~
+0 0 297
+D2
+~
+~
+0 0 273
+D3
+~
+~
+0 0 274
+S
+#275
+0 0
+~
+~
+~
+0 0 0
+The Chambers of Teodecki~
+This is a high ceilinged, extremely large chamber, decorated with an
+unseeing eye and arranged with an untidy hand.  A large, canopied bed rests
+against the west wall, its translucent drapes torn from disuse.  A small
+marble fountain bubbles forth along the base of the room, while terraced
+steps lead up to the bed and a night table.  A figure of a man, a dummy,
+stands suspended froma thick hemp rope.  It is clad in chain mail and marred
+from hours and hours of sword and staff practice.  A ten by ten portrait of
+a man hangs above the fireplace on the east wall.  His sallow eyes and
+trimmed goatee mark him as a man to be reckoned with.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 277
+S
+#276
+0 0
+~
+~
+~
+0 0 0
+The western battlements~
+The western battlements overlook Colwyn Bay here, a magnificent body of
+water that gleams in the light.  You can also see the city of Thesden gently
+rolled up against the Bay, its population busy in their struggle at day to
+day life.  The cliff that Castle Dunluce is situated on drops off to the
+water level here, a precipitous drop that leaves you wondering why their are
+battlements on this side of the wall at all.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 320
+D2
+~
+~
+0 0 253
+S
+#277
+0 0
+~
+~
+~
+0 0 0
+An antechamber~
+You stand in a room, perfectly symmetrical and tidily well kept.  Your
+feet rest on a thick crimson red carpet that extends from wall to wall. 
+Resting on a polished wooden tripod in each corner of the room is a large
+glove, glowing like a moon and illuminating the room.  Red carpet,
+embroidered with gold leaf, also covers the walls, held flat and tight with
+long brass rods that extend the length of the room.  A grandiose chandelier
+hangs from the domelike ceiling, sparkling and spreading it light to the
+corners of the room.  To the north is a beautiful carved wooden door.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 275
+D2
+~
+~
+0 0 280
+S
+#278
+0 0
+~
+~
+~
+0 0 0
+The western battlements~
+The western battlements overlook Colwyn Bay here, a magnificent body of
+water that gleams in the light.  You can also see the city of Thesden gently
+rolled up against the Bay, its population busy in their struggle at day to
+day life.  The cliff that Castle Dunluce is situated on drops off to the
+water level here, a precipitous drop that leaves you wondering why their are
+battlements on this side of the wall at all.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 253
+D2
+~
+~
+0 0 306
+S
+#279
+0 0
+~
+~
+~
+0 0 0
+The southern battlements~
+You stand on the southern battlements, what seems to be a hundred leagues
+above the water surface that you can see far below.  In fact, you wonder why
+the castle even needs southern battlements.  It would be pretty damn hard to
+scale several hundred yards of sheer and handleless cliff to reach the walls
+of the castle.  Drop a few rocks on them and they would never make it up.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 233
+D1
+~
+~
+0 0 281
+D3
+~
+~
+0 0 290
+S
+#280
+0 0
+~
+~
+~
+0 0 0
+The foreroom~
+You stand in a small chamber, carpeted with ermine fur and lit with a
+soft glow.  Through an opening in the north wall, you can see the foreroom
+open up into a larger, more sumptuous chamber.  As it is, you probably
+cannot fit more than ten people in this room.  To the south stands a solid
+looking, gold-trimmed oaken door.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 277
+D2
+~
+door~
+1 0 282
+S
+#281
+0 0
+~
+~
+~
+0 0 0
+The southern battlements~
+You stand on the southern battlements of Castle Dunluce, high above the
+ocean that splashes against the cliff that the castle is situated on.  You
+can see the white rippled tops of waves far out into the ocean, with the
+splendid backdrop of birds and the sun glaring down upon its waters.  The
+smell of salt water is evident in the air here, a clear crisp odor that
+permeates your nose and head.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 303
+D3
+~
+~
+0 0 279
+S
+#282
+0 0
+~
+~
+~
+0 0 0
+A tiled walkway~
+The floors here have been tiled into an ornate mosaic pattern, stlized
+into a long sinuous cresent moon.  But it is not the expensive looking tile
+that catches your eye, its the lack of walls in this hallway.  Both to the
+east and west, instead of the customary harsh granite of the castle, you see
+just empty blackness.  As you cautiously peek over the edge of the walkway,
+the expectant level below is not there, replaced by a similar darkness.  The
+walkway continues to the south, and a gold worked oaken door stands to the
+north.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 280
+D2
+~
+~
+0 0 283
+D5
+~
+~
+0 0 255
+S
+#283
+0 0
+~
+~
+~
+0 0 0
+A tiled walkway~
+The hall without walls continues south here.  You feel a certain sense of
+discomfort as you tread upon the intricate mosaics.  The emptiness to the
+sides of you is gaping, a yawning chasm that you don't want to think about
+too much.  A black wooden door stands to the east here, somehow suspended
+against a background of nothingness.  As you peek around the edge of the
+door (as if you expected it) there is nothing.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 282
+D1
+~
+~
+0 0 284
+D2
+~
+~
+0 0 286
+S
+#284
+0 0
+~
+~
+~
+0 0 0
+A cozy alcove~
+The door swings open and you step into a small, cozy looking alcove, lit
+by slow burning lanterns and covered in the middle with a bright bolt of
+midnight blue cloth, embroidered with thin gold and silver leaf.  The carpet
+leads to the east where it starts to lead up the staircase.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 285
+D3
+~
+~
+0 0 283
+S
+#285
+0 0
+~
+~
+~
+0 0 0
+A carpeted staircase~
+You stand at the base of a staircase that leads gently up to the east. 
+You can see where it turns back to the west, one of those cascading
+staircases that turn you around and around.  A midnight blue bolt of cloth
+covers the middle of the staircase, immaculately clean and well kept.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 284
+D4
+~
+~
+0 0 304
+S
+#286
+0 0
+~
+~
+~
+0 0 0
+A tiled walkway~
+Here is a hallway that has been tiled with white, green and gold bits of
+material, stylized to form the triple crescent moon symbol of Thesden.  The
+most eye catching oddity here is, howeber, the lack of granite walls that
+customarily surround the passageways.  It almost appears as if the tiled
+walkway is suspended over thin air!  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 283
+D2
+~
+~
+0 0 289
+S
+#287
+0 0
+~
+~
+~
+0 0 0
+A steel ladder~
+The granite walls and floor are plain here, and a well polished steel
+ladder rests up against the west wall, leading up through a circular hole in
+the ceiling.  The steel is cool and slippery to the touch, yet somehow
+offers a resistive grip that allows you to grab it easily and comfortably.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 288
+D4
+~
+~
+0 0 305
+S
+#288
+0 0
+~
+~
+~
+0 0 0
+A staircase landing~
+The stairway from below comes to a landing here.  The walls and floor are
+plain grey granite and the landing is lit by pale grey bulbs hanging on
+either side of the landing.  A short ways to the west, you see the end of
+the landing, and a steel ladder leading up.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 287
+D5
+~
+~
+0 0 266
+S
+#289
+0 0
+~
+~
+~
+0 0 0
+A tiled walkway~
+You stand at the southern end of a medium length tiled walkway.  The or
+has been arranged so as to include the sinuous form of a triple crescent
+moon symbol of Thesden.  It is not the tiles however, that catches your eye.
+It is the notable lack of walls .  When you look where the grey granite
+should be, you see only black emptiness.  To the south, a scarlet hued door
+stands, seemingly two dimensional among the backdrop of black.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 286
+D2
+~
+~
+0 0 291
+S
+#290
+0 0
+~
+~
+~
+0 0 0
+The southern battlements~
+You stand on the southern battlements of Castle Dunluce, high above the
+ocean that splashes against the cliff that the castle is situated on.  You
+can see the white rippled tops of waves far out into the ocean, with the
+splendid backdrop of birds and the sun glaring down upon its waters.  The
+smell of salt water is evident in the air here, a clear crisp odor that
+permeates your nose and head.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 279
+D3
+~
+~
+0 0 306
+S
+#291
+0 0
+~
+~
+~
+0 0 0
+The foreroom~
+You stand in a medium sized chamber, resplendent in its green flavored
+decor.  A desk stands in the center of the chamber, its polished mahogany
+matching the hue of the chair behind it.  Green drapes hang from the golden
+rods extending along the ceiling, and a matching forest hue graces the
+ground.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 289
+D2
+~
+~
+0 0 294
+S
+#292
+0 0
+~
+~
+~
+0 0 0
+The eastern battlements~
+You stare down at a dizzying height at the forested trees that lie to the
+east of here, a long drop indeed.  In fact, you wonder what it would feel
+like to have yourself impaled on the sharp looking treetops.  Jump, I dare
+you, do it, do it!  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 293
+D2
+~
+~
+0 0 295
+D3
+~
+~
+0 0 237
+S
+#293
+0 0
+~
+~
+~
+0 0 0
+The eastern battlements~
+You stand on the eastern battlements of Castle Dunluce, amidst the
+granite outcroppings that serve as defenses against possible attackers.  A
+splendid vista of forest and ocean spreads off to the east, a wonderful calm
+of nature that remains unspoiled by human intervention.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 321
+D2
+~
+~
+0 0 292
+S
+#294
+0 0
+~
+~
+~
+0 0 0
+An antechamber~
+The foreroom opens up into an even larger chamber here.  A deep forest
+green covers the floor from wall to wall here, and well polished tripods
+stand in the corners of the room.  A glowing ball, roughly fifteen feet in
+diameter rests on the tripods, providing much of the light in this room. 
+The walls have been fashioned into a beautiful golden scale motif, with
+metal leaf being pounded into an overlapping plate pattern.  The light
+glints off the scales on the walls, giving the room a sparkling ambience.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 291
+D2
+~
+door~
+1 0 296
+S
+#295
+0 0
+~
+~
+~
+0 0 0
+The eastern battlements~
+You stand on the eastern battlements of Castle Dunluce, amidst the
+granite outcroppings that serve as defenses against possible attackers.  A
+splendid vista of forest and ocean spreads off to the east, a wonderful calm
+of nature that remains unspoiled by human intervention.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 292
+D2
+~
+~
+0 0 303
+S
+#296
+0 0
+~
+~
+~
+0 0 0
+The Chambers of Carlomin~
+When you walk into this room, it hardly seems to be the abode of a High
+Lord of Thesden.  If anything, it looks more like the library at the local
+city hall than anything else.  Of course, the collection here is much more
+extensive.  Stacks of papers and dog eared books mark the quarters of
+Carlomin, one of the more intellectual of the High Lords.  A small bubbling
+brook courses and meanders across the lower terraced part of the room,
+weaving in between lamps, books, and furniture.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 294
+S
+#297
+0 0
+~
+~
+~
+0 0 0
+The Overlook~
+You emerge from the hall of mirrors and find yourself before the most
+maginificent view that you have ever seen.  You stand high up on the
+cliffside, in the middle of the cliff to be exact, overlooking the grand
+ocean that sprawls out to the south and east of you.  The surf of the ocean
+crashes up against the rocks below, sending audible creaking noises up the
+side of the cliff.  Birds fly lazily above the waters, seemingly content in
+their realization that they are free animals, alive and vibrant.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 272
+S
+#298
+0 0
+~
+~
+~
+0 0 0
+A closet~
+You find yourself inside a small closet, a dingy little room that is
+lined with shelves and filled with a variety of crates and boxes.  Most of
+the substances that you find on the shelves consist of bottles and fluids,
+cleaning materials perhaps.  Unfortunately, you can't tell what is in the
+crates, they're locked and very very sturdy.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 152
+S
+#299
+0 0
+~
+~
+~
+0 0 0
+Inside the azure pool~
+You crash through the glass panel that covers the top of the pool and
+find yourself swimming in a fluid that reminds you of the amniotic fluid of
+mammals.  It is viscous, and too warm, leaving you with one of those
+uncomfortable feelings of nausea.  Blue light filters down through the
+surface of the pool, its illumination refracting and bending through the
+thick medium.  It is difficult to see in this pool, and completely
+impossible to breathe.  Out of the corner of your eye, you see a regenerated
+glass shield slide back into place at the surface of the pool, trapping you
+inside!  
+~
+0 CDGN 11
+0
+~
+I 0 S
+#300
+65 250
+The ambassador shares her knowledge of the world with you, earning you 250 experience points.~
+~
+~
+0 0 0
+`k[`j+ `cThe Honor of Marchment `j+`k]``~
+You stand in a brilliantly decorated chamber with a wide myriad of flora
+dotted about the room.  Mirrors cover the high ceiling and many of the
+walls, and a thick blue carpet graces the floor.  A massive canopied bed
+rests against the far wall, easily big enough for five people.  Paintings
+hang in frames all about the room, suspended from thing wires reaching up to
+the ceiling, and with a drawing on either side, so the frame is put to its
+full use.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 301
+S
+#301
+0 0
+~
+~
+~
+0 0 0
+`k[`j+ `cThe Embassy of Marchment `j+`k]``~
+You stand in a circular room, dominated by a deep red circular table in
+its center.  Arranged about the table are high backed chairs, pushed away
+from the table just far enough to allow a person to sit down.  Banners from
+various nations are artfully arranged the perfectly polished granite, and a
+door stands against the northern arc of wall.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 300
+D2
+~
+~
+0 0 302
+S
+#302
+0 0
+~
+~
+~
+0 0 0
+A meeting room~
+This is an oval shaped room that is sumptuously decorated with rugs,
+carpets, and ornamental entrappings.  In contrast to the shape of the room,
+a rectangular table sits in its center, surrounded by leather backed chairs.
+To the south, there is an oaken door, and to the north is a doorway opening
+that leads into a circular room, giving you the impression that this little
+portion of the stone is shaped like a snowman.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 301
+D2
+~
+~
+0 0 304
+S
+#303
+0 0
+~
+~
+~
+0 0 0
+The southeast turret~
+You stand on top of one of the towers of Castle Dunluce.  It is an amzing
+view that you are afforded here, eclipsed only by the battlements that poke
+their heads into your line of sight every few feet.  Even then, those
+battlements have arrow slits cut into them.  A banner with the crescent moon
+symbol of Thesden ripples softly in the wind here, held up by a brass pole
+that has been treated for protection against the weather.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 295
+D3
+~
+~
+0 0 281
+D5
+~
+~
+0 0 328
+S
+#304
+0 0
+~
+~
+~
+0 0 0
+A waiting room~
+In the corner of this room, a carpeted staircase leads downwards, lit by
+a cluster of glowbulbs hanging from the walls.  The room itself is a small
+square, with uncomfortable looking chairs lined about the walls.  A
+receptionist's desk stands just to the right of a large oaken door, closed
+to the public.  Cheap looking paintings adorn the walls, giving you the
+impression that you are in a waiting room (check room name).  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 302
+D5
+~
+~
+0 0 285
+S
+#305
+0 0
+~
+~
+~
+0 0 0
+A steel ladder~
+A small landing in the granite shaft here gives youa few minutes of
+respite from the long climb on the ladder here.  It continues upwards
+however, into what you could best term as a rainbow.  It would be hard to
+describe to yourself even, a splash of color that blinks across your vision
+and dances through your head.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 307
+D5
+~
+~
+0 0 287
+S
+#306
+0 0
+~
+~
+~
+0 0 0
+The southwest turret~
+You stand on top of one of the towers of Castle Dunluce.  It is an
+amazing view that you are afforded here, eclipsed only by the battlements
+that poke their heads into your line of sight every few feet.  Even then,
+those battlements have arrow slits cut into them.  A banner with the
+crescent moon symbol of Thesden ripples softly in the wind here, held up by
+a brass pole that has been treated for protection against the weather.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 278
+D1
+~
+~
+0 0 290
+D5
+~
+~
+0 0 331
+S
+#307
+0 0
+~
+~
+~
+0 0 0
+The Rainbow Court~
+You have entered a massive columned chamber that sparkles with a myriad
+of colors that arc across the slanted ceiling of the room.  A vibrant series
+of reds, blues, and other colors seem to originate somewhere on the sides of
+the chamber, projecting upwards until they meet at the very apex of the
+room.  The gold and silver and other precious gems seem to lose their own
+identity in this room, instead replaced by the hues which have been
+projected upon them by the color pattern.  A rainbow carpet leads to the
+south, somehow pleasant in appearance and texture.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 309
+D3
+~
+~
+0 0 317
+D5
+~
+~
+0 0 305
+S
+#308
+0 0
+~
+~
+~
+0 0 0
+The Red Court~
+You stand in the northwest portion of the Rainbow Court.  This section is
+dominated by the red part of the spectrum.  A small throne rests in the
+corner here, adorned with rubies and garnet stones.  The carpet here is red
+as well, the color of the deepest firesun.  A number of liveried servants
+pace about here, maintaining their position in this sub court of the royal
+court of Thesden.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 309
+D2
+~
+~
+0 0 311
+S
+#309
+0 0
+~
+~
+~
+0 0 0
+The Rainbow Court~
+The Rainbow Court runs north and south here, framed by the lesser courts
+of composing spectrums.  The carpet underneath your feet gives unwillingly
+underneath your feet as if it has a stubborn mind of its own.  The high
+ceilings are marked by the projections of colorful lights that merge at the
+very top to form a brilliant white light.  And you thought your high school
+physical science class would never come in handy...  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 307
+D1
+~
+~
+0 0 310
+D2
+~
+~
+0 0 312
+D3
+~
+~
+0 0 308
+S
+#310
+0 0
+~
+~
+~
+0 0 0
+The Green Court~
+The Green subCourt of the Rainbow Court convenes in this section.  A
+throne encrusted in the finest emeralds sparkling with a thousand facets
+rests in the center here.  A long green carpet path leads away from the
+rainbow path and leads up to that throne.  Banners and flags line that path,
+forming a shaded walkway for visitors to walk upon.  Green light floods up
+from behind the throne to meet the sparkling color mixtures high up above.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 313
+D3
+~
+~
+0 0 309
+S
+#311
+0 0
+~
+~
+~
+0 0 0
+The Orange Court~
+You stand at the Orange Court, a brilliant subsystem of the entire
+Rainbow Court.  The Lord Justice reigns here on a throne made of solid gold
+and encrusted with mandarinian jewels that sparkle with the power of a
+thousand suns.  An orange carpet path leads off to the east where it joins
+shortly with the central rainbow carpet.  Behind the justice's throne, a
+bright light projects upwards onto granite ceiling, where it mingles with
+the other colored projections high up above.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 308
+D1
+~
+~
+0 0 312
+D2
+~
+~
+0 0 314
+S
+#312
+0 0
+~
+~
+~
+0 0 0
+The Rainbow Court~
+The rainbow hued carpet that you have been treading on comes to an end a
+short ways to the south of here, in the form of a throne that is encrusted
+in a myriad of colored gems.  For a more complete description, you'll have
+to type south and go see for yourself.  Rainbow colors project up towards
+the ceiling of the massive chamber from behind obstructions at the sides of
+the room.  They follow the gentle slope of the walls and arc up to meet at
+the crown pins of granite.  Smaller thrones, artwork, and a multitude of
+banners and flags also dot the room, a veritable parade of sensory input for
+you to devour.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 309
+D1
+~
+~
+0 0 313
+D2
+~
+~
+0 0 315
+D3
+~
+~
+0 0 311
+S
+#313
+0 0
+~
+~
+~
+0 0 0
+The Blue Court~
+You stand at the Blue Court, one of the six sub courts of the Rainbow
+Tribunal.  A throne made of solid gold and platinum, encrusted in a bed of
+sapphires rests against the east wall here, resplendent in the light that
+cascades down upon its arms and legs.  A thick blue carpet leads away to the
+west where you can see where it intersects with the rainbow carpet in the
+chamber's center.  Banners and flags also line the pathway.  A brilliant
+blue glow emanates from somewhere behind the throne, arching gracefully up
+into the sky to meet the other colors in the ceiling.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 310
+D2
+~
+~
+0 0 316
+D3
+~
+~
+0 0 312
+S
+#314
+0 0
+~
+~
+~
+0 0 0
+The Yellow Court~
+You stand in the southwest corner of the Rainbow Court, this part
+dedicate to the subcourt of the yellow spectrum.  A beautiful throne crafted
+from gold and silver and stapled with bits of amber rests against the west
+wall here, at the end of a brilliantly vibrant yellow carpet that leads away
+to the east and the Rainbow Tribunal.  The Yellow Court's proximity to the
+Rainbow Tribunal has nothing to do with the relative importance of the
+subcourt, its just there.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 311
+D1
+~
+~
+0 0 315
+S
+#315
+0 0
+~
+~
+~
+0 0 0
+The Rainbow Tribunal~
+You stand at the southern end of the Rainbow Court, at the very seat of
+power in all of Thesden, the Rainbow Tribunal.  It is here that the Lord
+Justices of Thesden meet to decide on country policy, law, and structure. 
+It is not to say that they hold absolute power of course, but the entire
+scene radiates a majesty that is beyond that of any normal gathering.  A
+massive golden throne encrusted in a wide variety of gems rests against the
+south wall here, in the center of a long fifty foot desk that spans to the
+east and west.  Chairs have been placed at the desk, seats for Lord Justices
+presumably.  A large tripod with glowing embers in it rests at the point of
+a crescent moon symbol that has been tiled into the ground here.  Its
+purpose is unknown, but it adds a somewhat primitive flavor to the
+magnificence of this chamber.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 312
+D1
+~
+~
+0 0 316
+D3
+~
+~
+0 0 314
+S
+#316
+0 0
+~
+~
+~
+0 0 0
+The Violet Court~
+This is the southwest corner of the Rainbow Court, the portion dedicated
+to the violet subcourt of the Rainbow Tribunal.  A throne made from only the
+finest platinum and silver rests against the east wall, embedded with
+amethyst chunks the size of your head.  A brilliant violet light flares out
+from behind the throne, reaching high up into the sky and merging with the
+other chromatics in a flare of white light at the chamber's peak.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 313
+D3
+~
+~
+0 0 315
+S
+#317
+91 60
+~
+~
+~
+0 0 0
+The Prism~
+You enter a chamber that is awash in a blinding light.  Illumination
+cascades down from above, and focuses down into a brilliant gem that rotates
+slowly in midair here.  It is cut in cubic shapes, and angled against the
+incoming light beams.  Brilliant rays of color emerge from the massive
+diamond, spraying themselves across the walls and through holes in the
+room's walls.  In case you haven't figured it out by now, this room supplies
+both the beams of light you have seen in the Rainbow Court, and the
+brilliant light that floods some sections of the lower levels.  Through the
+blinding light, you can make out a thin, chain link ladder that leads the
+way up.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 307
+D4
+~
+~
+0 0 318
+S
+#318
+65 300
+The King of Thesden awards you 300 experience for daring to brave his fierce gaze.~
+~
+~
+0 0 0
+The Crown of Thesden~
+You have emerged from the top of Castle Dunluce.  This particular spot is
+known to the nobility as the Crown of Thesden, probably because only royalty
+are afforded the chance to stand here.  Looking all about, you can make out
+the four towers of Castle Dunluce, the city of Thesden itself, and the
+brilliant ocean that spreads out to the south and east.  A small platform is
+a short jump down from here, it connects to a series of rope and stone
+catwalks that connect the towers and the battlements of the castle.  
+~
+0 GX 0
+0
+~
+I 0 D0
+~
+~
+0 0 319
+D5
+~
+~
+0 0 317
+S
+#319
+0 0
+~
+~
+~
+0 0 0
+A cross walk platform~
+You stand on a floating stone platform that hovers in the air here.  It
+is the hub of a series of rope catwalks that stretch off to the castle's
+battlements in all four cardinal directions.  You can barely make out the
+view from each direction here, as the platform is slightly depressed
+relative to the battlements themselves.  In any case, the rope catwalks
+appear fairly sturdy, partially because of the steel pins that have been
+added to the wooden floor boards.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 177
+D1
+~
+~
+0 0 237
+D2
+~
+~
+0 0 233
+D3
+~
+~
+0 0 236
+S
+#320
+0 0
+~
+~
+~
+0 0 0
+The northwest turret~
+You stand on top of one of the towers of Castle Dunluce.  It is an amzing
+view that you are afforded here, eclipsed only by the battlements that poke
+their heads into your line of sight every few feet.  Even then, those
+battlements have arrow slits cut into them.  A banner with the crescent moon
+symbol of Thesden ripples softly in the wind here, held up by a brass pole
+that has been treated for protection against the weather.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 186
+D2
+~
+~
+0 0 276
+D5
+~
+~
+0 0 322
+S
+#321
+0 0
+~
+~
+~
+0 0 0
+The northeast turret~
+You stand on top of one of the towers of Castle Dunlace. It is an amazing
+view that you are afforded here, eclipsed only by the battlements that poke
+their heads into your line of sight every few feet.  Even then, those
+battlements have arrow slits cut into them.  A banner with the crescent moon
+symbol of Thesden ripples softly in the wind here, held up by a brass pole
+that has been treated for protection against the weather.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 293
+D3
+~
+~
+0 0 223
+D5
+~
+~
+0 0 325
+S
+#322
+0 0
+~
+~
+~
+0 0 0
+The northwest tower~
+You stand at the third level of one of the castle's defensive towers. 
+Through the numerous arrow slits that angle slightly away from any direct
+line of sight, you can make out the surrounding countryside and the city of
+Thesden.  People from this distance seem like ants in a hill, scurrying
+about to accomplish things that they deem so important, yet seem so trivial
+in this light.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 320
+D5
+~
+~
+0 0 323
+S
+#323
+0 0
+~
+~
+~
+0 0 0
+The northwest tower~
+This is the second floor of one of Castle Dunluce's defensive towers. 
+Through the arrow slits in the walls, you can see alternately the city of
+Thesden, the ocean that sprawls to the south and east, and the rest of the
+surrounding countryside.  The spiral staircase that deposited you here
+continues upwards, towards the series of defensive battlements that wait at
+the top of the castle.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 322
+D5
+~
+~
+0 0 324
+S
+#324
+0 0
+~
+~
+~
+0 0 0
+The northwest tower~
+This is the base of one of Castle Dunluce's guard towers.  It is
+constructed of the same solid granite that the rest of the castle is made
+from, both attractive and hard at the same time.  A spiral staircase that
+has been carefully concealed behind a cleft in the wall leads the way
+upwards in the tower, up into the exterior defensive network of Castle
+Dunluce.  Torches line the walls here, evidence that the towers of the
+castle are a tad less advanced magically than the castle itself.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 100
+D4
+~
+~
+0 0 323
+S
+#325
+0 0
+~
+~
+~
+0 0 0
+The northeast tower~
+You stand at the third level of one of the castle's defensive towers. 
+Through the numerous arrow slits that angle slightly away from any direct
+line of sight, you can make out the surrounding countryside and the city of
+Thesden.  People from this distance seem like ants in a hill, scurrying
+about to accomplish things that they deem so important, yet seem so trivial
+in this light.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 321
+D5
+~
+~
+0 0 326
+S
+#326
+0 0
+~
+~
+~
+0 0 0
+The northeast tower~
+This is the second floor of one of Castle Dunluce's defensive towers. 
+Through the arrow slits in the walls, you can see alternately the city of
+Thesden, the ocean that sprawls to the south and east, and the rest of the
+surrounding countryside.  The spiral staircase that deposited you here
+continues upwards, towards the series of defensive battlements that wait at
+the top of the castle.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 325
+D5
+~
+~
+0 0 327
+S
+#327
+0 0
+~
+~
+~
+0 0 0
+The northeast tower~
+This is the base of one of Castle Dunluce's guard towers.  It is
+constructed of the same solid granite that the rest of the castle is made
+from, both attractive and hard at the same time.  A spiral staircase that
+has been carefully concealed behind a cleft in the wall leads the way
+upwards in the tower, up into the exterior defensive network of Castle
+Dunluce.  Torches line the walls here, evidence that the towers of the
+castle are a tad less advanced magically than the castle itself.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 100
+D4
+~
+~
+0 0 326
+S
+#328
+0 0
+~
+~
+~
+0 0 0
+The southeast tower~
+You stand at the third level of one of the castle's defensive towers. 
+Through the numerous arrow slits that angle slightly away from any direct
+line of sight, you can make out the surrounding countryside and the city of
+Thesden.  People from this distance seem like ants in a hill, scurrying
+about to accomplish things that they deem so important, yet seem so trivial
+in this light.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 303
+D5
+~
+~
+0 0 329
+S
+#329
+0 0
+~
+~
+~
+0 0 0
+The southeast tower~
+This is the second floor of one of Castle Dunluce's defensive towers. 
+Through the arrow slits in the walls, you can see alternately the city of
+Thesden, the ocean that sprawls to the south and east, and the rest of the
+surrounding countryside.  The spiral staircase that deposited you here
+continues upwards, towards the series of defensive battlements that wait at
+the top of the castle.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 328
+D5
+~
+~
+0 0 330
+S
+#330
+0 0
+~
+~
+~
+0 0 0
+The southeast tower~
+This is the base of one of Castle Dunluce's guard towers.  It is
+constructed of the same solid granite that the rest of the castle is made
+from, both attractive and hard at the same time.  A spiral staircase that
+has been carefully concealed behind a cleft in the wall leads the way
+upwards in the tower, up into the exterior defensive network of Castle
+Dunluce.  Torches line the walls here, evidence that the towers of the
+castle are a tad less advanced magically than the castle itself.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 334
+D4
+~
+~
+0 0 329
+S
+#331
+0 0
+~
+~
+~
+0 0 0
+The southwest tower~
+You stand at the third level of one of the castle's defensive towers. 
+Through the numerous arrow slits that angle slightly away from any direct
+line of sight, you can make out the surrounding countryside and the city of
+Thesden.  People from this distance seem like ants in a hill, scurrying
+about to accomplish things that they deem so important, yet seem so trivial
+in this light.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 306
+D5
+~
+~
+0 0 332
+S
+#332
+0 0
+~
+~
+~
+0 0 0
+The southwest tower~
+This is the second floor of one of Castle Dunluce's defensive towers. 
+Through the arrow slits in the walls, you can see alternately the city of
+Thesden, the ocean that sprawls to the south and east, and the rest of the
+surrounding countryside.  The spiral staircase that deposited you here
+continues upwards, towards the series of defensive battlements that wait at
+the top of the castle.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 331
+D5
+~
+~
+0 0 333
+S
+#333
+0 0
+~
+~
+~
+0 0 0
+The southwest tower~
+This is the base of one of Castle Dunluce's guard towers.  It is
+constructed of the same solid granite that the rest of the castle is made
+from, both attractive and hard at the same time.  A spiral staircase that
+has been carefully concealed behind a cleft in the wall leads the way
+upwards in the tower, up into the exterior defensive network of Castle
+Dunluce.  Torches line the walls here, evidence that the towers of the
+castle are a tad less advanced magically than the castle itself.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 334
+D4
+~
+~
+0 0 332
+S
+#334
+0 0
+~
+~
+~
+0 0 0
+The rocky shoreline~
+You open the door exiting the tower and discover yourself standing on
+air!  It isn't just an illusion this time either, as you find yourself
+falling and falling and falling, uh oh!  SPLAT!  You find yourself in
+excruciating pain as your bones slam against the rocky shore below Castle
+Dunluce at five hundred miles an hour.  If you could be dead in a mud, you
+would be dead right now, but fortunately you have been given another lease
+on life, and will be allowed to explore from this point.  A massive ocean
+spreads off to the south here, as well as to the west and wherever you look.
+~
+0 C 17
+0
+~
+I 0 D1
+~
+~
+0 0 32427
+D2
+~
+~
+0 0 32526
+D3
+~
+~
+0 0 32425
+S
+#0
+
+#RESETS
+O 0 100   0 107 -1	* An azure pool at The glass constellation
+D 0  106   1    1	* A mahogany panel [east]
+D 0  112   3    1	* A hallway [west]
+D 0  111   1    1	* The Warren of Nashbar [east]
+D 0  174   1    1	* The corridor ends [east]
+D 0  175   3    1	* The marble staircase [west]
+D 0  175   1    1	* The marble staircase [east]
+D 0  176   3    1	* The Backroom [west]
+D 0  114   2    1	* A bright corridor [south]
+D 0  124   0    1	* `aBarracks of the Black Lance`` [north]
+D 0  134   1    1	* A musty corridor [east]
+D 0  135   3    1	* `aBarracks of the Black Lance`` [west]
+D 0  122   3    1	* A hallway [west]
+D 0  121   1    1	* The Parlor of Manlius [east]
+D 0  133   3    1	* The end of a hallway [west]
+D 0  132   1    1	* Quarters of Rowena [east]
+D 0  156   3    1	* A turn in the musty corridor [west]
+D 0  155   1    1	* The House of Kodiak [east]
+D 0  160   2    1	* Before a blue door [south]
+D 0  168   0    1	* The House of Azure [north]
+D 0  161   2    1	* Before a red door [south]
+D 0  169   0    1	* The House of Hemog [north]
+D 0  152   2    1	* A musty corridor [south]
+D 0  298   0    1	* A closet [north]
+D 0  139   1    1	* Before a Liquid Door [east]
+D 0  140   3    1	* Berserker Quarters [west]
+D 0  171   2    1	* A residential alcove [south]
+D 0  179   0    1	* The House of Reza [north]
+D 0  170   2    1	* A residential alcove [south]
+D 0  178   0    1	* The Cove of Naya [north]
+O 0 101   0 202 -1	* Logan's waste basket at The House of Logan
+P 0 102 -1 101 1
+O 0 103   0 232 -1	* The corpse of lana at The Chambers of Lana
+O 0 104   0 234 -1	* A bridge sign at A connecting bridge
+O 0 105   0 235 -1	* A bridge sign at A connecting bridge
+O 0 106   0 255 -1	* `oa crystal haven spring`` at `gCrystal Haven``
+D 0  268   3    1	* A secluded corridor [west]
+D 0  267   1    1	* The House of Surea [east]
+D 0  268   1    1	* A secluded corridor [east]
+D 0  269   3    1	* The House of Daran [west]
+D 0  268   2    1	* A secluded corridor [south]
+D 0  263   3    1	* A secluded corridor [west]
+D 0  262   1    1	* The House of Arioch [east]
+D 0  258   2    1	* The Southern Glade [south]
+D 0  263   0    1	* A secluded corridor [north]
+D 0  251   1    1	* A Crystal Glade [east]
+D 0  252   3    1	* Before a silver door [west]
+D 0  249   3    1	* A Crystal Glade [west]
+D 0  248   1    1	* Before a silver door [east]
+D 0  243   0    1	* A light passageway [north]
+D 0  238   2    1	* The Star Chamber [south]
+D 0  244   0    1	* A light passageway [north]
+D 0  239   2    1	* The House of Reimon [south]
+D 0  245   0    1	* A light passageway [north]
+D 0  240   2    1	* A glass panelled room [south]
+D 0  246   0    1	* A light passageway [north]
+D 0  241   2    1	* The House of Korin [south]
+D 0  247   0    1	* A light passageway [north]
+D 0  242   2    1	* The House of Baron [south]
+M 0  100   1  100  1	* The castle guardian
+E 0  109   -1    5	* item to The castle guardian
+E 0  108   -1   16	* item to The castle guardian
+E 0  107   -1   18	* item to The castle guardian
+D 0  100   2    2	* Before Castle Dunluce [south]
+D 0  195   3    1	* The plaza hallway [west]
+M 0  102   1  194  1	* Lord brealey
+E 0  116   -1   16	* item to Lord brealey
+E 0  115   -1    9	* item to Lord brealey
+E 0  114   -1   12	* item to Lord brealey
+M 0  104   1  202  1	* Lord logan
+E 0  118   -1   17	* item to Lord logan
+E 0  117   -1   16	* item to Lord logan
+M 0  106   1  214  1	* Lord ranfor
+E 0  122   -1   12	* item to Lord ranfor
+E 0  123   -1    5	* item to Lord ranfor
+M 0  107   1  206  1	* Lord arin
+E 0  125   -1   16	* item to Lord arin
+E 0  124   -1    5	* item to Lord arin
+E 0  126   -1    6	* item to Lord arin
+M 0  108   1  204  1	* Lord findal
+G 0  131 -1		* A pasty cracker to Lord Findal
+E 0  128   -1   16	* item to Lord findal
+E 0  127   -1   -1	* item to Lord findal
+E 0  129   -1    8	* item to Lord findal
+E 0  130   -1    1	* item to Lord findal
+M 0  109   1  160  1	* Rourke
+E 0  131   -1   -1	* item to Rourke
+M 0  113   1  189  1	* Lady helaine
+M 0  110   1  198  1	* Lady ebou
+M 0  111   1  196  1	* Lord dare
+O 0 132   0 184 -1	* A trout fountain at The plaza begins
+O 0 133   0 184 -1	* A starling fountain at The plaza begins
+O 0 144   0 132 -1	* A crystal ball at Quarters of Rowena
+M 0  118   1  121  1	* Lord manlius
+M 0  117   1  111  1	* Lord nashbar
+D 0  154   0    1	* The House of Xavier [north]
+D 0  143   2    1	* At the end of the hallway [south]
+M 0  120   1  154  1	* Lord xavier
+E 0  146   -1    3	* item to Lord xavier
+E 0  149   -1    5	* item to Lord xavier
+O 0 145   0 154 -1	* A silver-chased wardrobe at The House of Xavier
+E 0  147   -1   18	* item to Lord xavier
+E 0  148   -1    4	* item to Lord xavier
+M 0  115   5  147  2	* A black lance guard
+E 0  199   -1   17	* item to A black lance guard
+M 0  115   5  135  2	* A black lance guard
+E 0  199   -1   16	* item to A black lance guard
+M 0  121   1  169  1	* Lord hemog
+E 0  150   -1   12	* item to Lord hemog
+M 0  122   1  231  1	* Selanne
+E 0  151   -1    5	* item to Selanne
+E 0  152   -1   17	* item to Selanne
+M 0  123   4  224  1	* A dwarven servant
+E 0  153   -1   12	* item to A dwarven servant
+M 0  123   4  227  1	* A dwarven servant
+E 0  153   -1   12	* item to A dwarven servant
+M 0  124   3  219  1	* An apprentice avanso
+E 0  154   -1   16	* item to An apprentice avanso
+M 0  124   3  270  1	* An apprentice avanso
+E 0  154   -1   17	* item to An apprentice avanso
+M 0  156   4  177  1	* A half elven archer
+M 0  119   1  132  1	* Lady rowena
+E 0  159   -1   18	* item to Lady rowena
+M 0  157   1  239  1	* Lord reimon
+E 0  160   -1   16	* item to Lord reimon
+M 0  158   1  269  1	* Lord daran
+E 0  161   -1   16	* item to Lord daran
+E 0  162   -1    5	* item to Lord daran
+M 0  160   1  264  1	* Lady altara
+E 0  165   -1    5	* item to Lady altara
+E 0  166   -1    4	* item to Lady altara
+M 0  161   1  275  1	* Lord teodecki
+E 0  167   -1   17	* item to Lord teodecki
+E 0  168   -1    8	* item to Lord teodecki
+M 0  116   4  119  1	* A green lance guard
+M 0  116   4  141  1	* A green lance guard
+M 0  162   2  110  1	* An acolyte
+E 0  169   -1    4	* item to An acolyte
+M 0  162   2  209  1	* An acolyte
+E 0  169   -1    3	* item to An acolyte
+M 0  163   1  298  1	* A scullery maid
+E 0  170   -1    5	* item to A scullery maid
+E 0  171   -1    8	* item to A scullery maid
+M 0  170   1  298  1	* An enraged guard
+O 0 172   0 148 -1	* `ia regal banner`` at An intersection in Castle Dunluce
+M 0  125   4  325  1	* A blue lance guard
+E 0  173   -1   16	* item to A blue lance guard
+M 0  125   4  323  1	* A blue lance guard
+E 0  173   -1   17	* item to A blue lance guard
+M 0  125   4  278  1	* A blue lance guard
+E 0  173   -1   17	* item to A blue lance guard
+M 0  112   1  191  1	* Lord garion
+E 0  174   -1   18	* item to Lord garion
+G 0  175 -1		* A crumpled piece of parchment to Lord Garion
+M 0  126   1  131  1	* A hunchback
+M 0  127   1  184  1	* Lady jikata
+E 0  176   -1   17	* item to Lady jikata
+M 0  128   5  197  1	* A faceless servant
+E 0  177   -1   12	* item to A faceless servant
+M 0  128   5  211  1	* A faceless servant
+E 0  177   -1   12	* item to A faceless servant
+M 0  128   5  158  1	* A faceless servant
+E 0  177   -1   12	* item to A faceless servant
+M 0  128   5  244  1	* A faceless servant
+E 0  177   -1   12	* item to A faceless servant
+D 0  277   0    1	* An antechamber [north]
+D 0  275   2    1	* The Chambers of Teodecki [south]
+D 0  282   0    1	* A tiled walkway [north]
+D 0  280   2    1	* The foreroom [south]
+O 0 178   0 300 -1	* A canopied bed at `k[`j+ `cThe Honor of Marchment `j+`k]``
+M 0  129   1  300  1	* Lady tuylien of marchment
+E 0  179   -1    5	* item to Lady tuylien of marchment
+E 0  180   -1    0	* item to Lady tuylien of marchment
+E 0  181   -1    2	* item to Lady tuylien of marchment
+M 0  130   1  284  1	* The elven scholar xorkc
+G 0  182 -1		* A tattered scroll to The elven scholar Xorkc
+D 0  294   2    1	* An antechamber [south]
+D 0  296   0    1	* The Chambers of Carlomin [north]
+M 0  131   1  296  1	* Lord carlomin
+E 0  183   -1    6	* item to Lord carlomin
+E 0  184   -1   13	* item to Lord carlomin
+M 0  132   5  283  1	* A yellow lance guard
+E 0  187   -1   16	* item to A yellow lance guard
+M 0  132   5  263  1	* A yellow lance guard
+E 0  187   -1   17	* item to A yellow lance guard
+D 0  263   1    1	* A secluded corridor [east]
+D 0  264   3    1	* The House of Altara [west]
+M 0  132   5  324  1	* A yellow lance guard
+E 0  187   -1   17	* item to A yellow lance guard
+M 0  132   5  333  1	* A yellow lance guard
+E 0  187   -1   16	* item to A yellow lance guard
+M 0  133   5  306  1	* A black lance guard
+E 0  188   -1   17	* item to A black lance guard
+E 0  189   -1   10	* item to A black lance guard
+E 0  190   -1    1	* item to A black lance guard
+M 0  133   5  319  1	* A black lance guard
+E 0  188   -1   16	* item to A black lance guard
+E 0  189   -1   10	* item to A black lance guard
+E 0  190   -1    2	* item to A black lance guard
+M 0  133   5  327  1	* A black lance guard
+E 0  189   -1   10	* item to A black lance guard
+M 0  133   5  151  1	* A black lance guard
+E 0  190   -1    1	* item to A black lance guard
+M 0  133   5  329  1	* A black lance guard
+E 0  188   -1   17	* item to A black lance guard
+D 0  101   0    2	* Inside Castle Dunluce [north]
+M 0  103   1  187  1	* Lord jholam
+E 0  200   -1    5	* item to Lord jholam
+M 0  101   1  299  1	* A water nymph
+E 0  110   -1   12	* item to A water nymph
+E 0  111   -1    4	* item to A water nymph
+E 0  201   -1   18	* item to A water nymph
+M 0  159   1  267  1	* Lady surea
+E 0  163   -1   14	* item to Lady surea
+E 0  164   -1    7	* item to Lady surea
+E 0  202   -1   18	* item to Lady surea
+M 0  116   4  109  1	* A green lance guard
+M 0  116   1  130  1	* A green lance guard
+O 0 204   0 299 -1	* `nthe drain`` at Inside the azure pool
+M 0  155   1  318  1	* King athanmere
+E 0  157   -1    0	* item to King athanmere
+E 0  158   -1   16	* item to King athanmere
+E 0  205   -1    6	* item to King athanmere
+M 0  156   4  281  1	* A half elven archer
+E 0  191   -1   18	* item to A half elven archer
+M 0  156   4  278  1	* A half elven archer
+E 0  191   -1   18	* item to A half elven archer
+M 0  156   4  320  1	* A half elven archer
+E 0  191   -1   18	* item to A half elven archer
+O 0 206   0 101 -1	* (no short description) at Inside Castle Dunluce
+O 0 7   0 100 -1	* The symbol at Before Castle Dunluce
+M 0  105   1  210  1	* Lord naclario
+E 0  121   -1   16	* item to Lord naclario
+E 0  119   -1    3	* item to Lord naclario
+E 0  120   -1    6	* item to Lord naclario
+E 0  207   -1   18	* item to Lord naclario
+D 0  194   1    1	* The House of Brealey [east]
+M 0  154   1  307  1	* `othe defender of absolution``
+E 0  155   -1   16	* item to `othe defender of absolution``
+E 0  156   -1   11	* item to `othe defender of absolution``
+G 0  203 -1		* `othe glory of absolution`` to `oThe Defender of Absolution``
+G 0  399 -1		* `kholy wristguards of light`` to `oThe Defender of Absolution``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 100 spec_executioner		* the Castle Guardian
+M 104 spec_janitor		* Lord Logan
+M 105 spec_cast_judge		* Lord Naclario
+M 106 spec_cast_cleric		* Lord Ranfor
+M 108 spec_cast_mage		* Lord Findal
+M 110 spec_cast_cleric		* Lady Ebou
+M 113 spec_nasty		* Lady Helaine
+M 119 spec_cast_cleric		* Lady Rowena
+M 122 spec_janitor		* Selanne
+M 123 spec_janitor		* A dwarven servant
+M 124 spec_janitor		* An apprentice avanso
+M 127 spec_cast_mage		* Lady Jikata
+M 129 spec_cast_mage		* Lady Tuylien of Marchment
+M 131 spec_cast_cleric		* Lord Carlomin
+M 155 spec_cast_mage		* King Athanmere
+M 159 spec_cast_mage		* Lady Surea
+M 162 spec_cast_cleric		* An acolyte
+S
+
+#OT
+#399
+(null)~
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

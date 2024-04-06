@@ -1,0 +1,124 @@
+* File: red.scr
+* Mob: Red the big fathead baliff(601)
+
+#TRIGGER enter
+Type 10
+Sc
+chobj %enter-from% %hasit% 631
+if ( %hasit% == 1 )
+   say HEAR YE, HEAR YE.  The Court of Exodus is now in session, with Judge %enter-from% presiding...please rise.
+   halt once~
+End
+
+#TRIGGER subpoena
+Keywords subpoena~
+Type 0
+Sc
+mfunc %subpoena-from% %level% level
+if ( %level% < 92 )
+   cmd grin %subpoena-from%
+   say Impersonating a judge could get you put in the cell.
+   halt once~
+Sc
+   load obj 606
+   goto %subpoena-arg%
+   give subpoena %subpoena-arg%
+   say You are hereby served by the Court of Exodus.  Drop and enter this subpoena within ten minutes, please.
+   goto 601
+   halt once~
+End
+
+#TRIGGER gwitness
+Keywords getwitness~
+Type 0
+Sc
+mfunc %gwitness-from% %level% level
+if ( %level% < 92 )
+   cmd grin %gwitness-from%
+   say Impersonating a judge could get you put in the cell.
+   halt once~
+Sc
+   emote moves to the back of the courtroom.
+   open doors
+   cmd south
+   say %gwitness-arg%, please enter the courtroom.
+   wait 18~
+Sc
+   open doors
+   MOB push %gwitness-arg% north
+   cmd north
+   close doors
+   emote returns to his place by the bench.
+   halt once~
+End
+
+#TRIGGER swear
+Keywords swear~
+Type 0
+Sc
+mfunc %swear-from% %level% level
+if ( %level% < 92 )
+   cmd grin %swear-from%
+   say Impersonating a judge could get you put in the cell.
+   halt once~
+Sc
+   emote walks over to the witness stand.
+   say %swear-arg%, do you swear to tell the truth, the whole truth, and nothing but the truth?
+   wait 18~
+Sc
+   emote returns to his place by the bench.
+   halt once~
+End
+
+#TRIGGER gprisoner
+Keywords getprisoner~
+Type 0
+Sc
+mfunc %gprisoner-from% %level% level
+if ( %level% < 92 )
+   cmd grin %gprisoner-from%
+   say Impersonating a judge could get you put in the cell.
+   halt once~
+Sc
+   emote walks over to the cell door.
+   unlock cell
+   wait 1~
+Sc 
+   open cell
+   cmd west
+   MOB push %gprisoner-arg% east
+   cmd east
+   say %gprisoner-arg%, please sit at the defense table.
+   wait 1~
+Sc
+   close cell
+   lock cell
+   emote returns to his place by the bench.
+   halt once~
+End
+
+#TRIGGER lockup
+Keywords lockup~
+Type 0
+Sc
+mfunc %lockup-from% %level% level
+if ( %level% < 92 )
+   cmd grin %lockup-from%
+   say Impersonating a judge could get you put in the cell.
+   halt once~
+Sc
+   force %lockup-arg% stand
+   emote takes the prisoner to the cell door.
+   unlock cell
+   open cell
+   MOB push %lockup-arg% west
+   close cell
+   lock cell
+   wait 8~
+Sc
+   emote returns to his place by the bench.
+   halt once~
+End
+
+#END
+

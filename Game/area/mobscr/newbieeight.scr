@@ -1,0 +1,20 @@
+* File: newbieeight.scr
+* Mob: Mole Newbie (vnum 6982)
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+  cmd say `bRAAAaaaWWwwrgh! You've killed me, `h%killer%`b!``
+  cmd say `dBut take my equipment, you have earned it.``
+  cmd pecho %killer% ``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% `hType '`jget all corpse`h' and then '`jwear sleeves`h'``
+  cmd pecho %killer% `hEating and drinking is essential for surviving here.``
+  cmd pecho %killer% `hType `jdrink cup`h and `jeat bread`h.``
+  cmd pecho %killer% `hYou won't starve until you are level 15, though.``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% ``
+  halt once~
+End
+#END

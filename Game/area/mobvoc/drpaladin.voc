@@ -1,0 +1,13 @@
+LadyWinter
+Please&no&harm:<6:2:None may pass until their worth is proven! Answer my question and you may be deemed true enough to continue further.
+worth|question:<6:-:Answer me this: Who sent ye here and why have ye come?
+dragon:<6:-1:Dragon? There be no dragon here, though if there were, I would guard it with my life! 'Tis pity how even Good treats the dragonkind!
+hi|hail|hola|hello|yo:<6:-:Hail travellor! There is nothing for ye here: go back while ye still can or prove thy worth!
+who&are&you:<6:+1:I am he who guards this keep, a loyal paladin of the Argent Order, and ye need know no more of my humble self. 
+lord|godfrey|templar|knight:<6:+3:Ah! The good Godfrey, Lord of the Templars! Truly a mighty paladin, known to have travelled with the famed Carlysle himself! 
+carlysle?|carlysle|Carlysle?|carlyle:>1:+2:Ah, $name, ye jest with an old paladin! All have heard of the Mighty Carlysle, embodiment of Good, who travelled these Realms so long agone. 'Twas after he retired that his wayward, traitorous squire seized control of the bird-folk. 
+pass|pass?:>5:-:Ah, ye seem a goodly sort, young $race, ye have proved your mettle!; CMD load obj 2287
+grail|arthur|Grail:<7:-:Whoa now, ye have sore confused thyself, bub, and shouldst travel on a different adventure for that.
+swallow:<7:-:Surely ye jest. I see no bird here.
+DEFAULT:<7:-:CMD shrug;CMD emote stoicly ignores you.
+DEFAULT:<7:-:CMD emote taps his lance on the ground and stares at $name.;CMD emote intones solemnly, "None shall pass." 

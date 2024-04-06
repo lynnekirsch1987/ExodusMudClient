@@ -1,0 +1,26 @@
+#TRIGGER Noblewoman 
+Type 2 
+Sc 
+wfunc %rndnum% random 0 10 
+mfunc %cmb-from% %name% name 
+ 
+if (%rndnum% == 0) 
+   cmd yell Guards! Burglars are attacking me! 
+   cmd at 1 load mob 4140 
+   signal 4140 helpforsex 
+   halt once~ 
+Sc 
+if (%rndnum% == 1) 
+   cmd emote cries as she tries to fend you off. 
+   say Please, take my money and jewelry, just don't hurt me anymore! 
+   cmd remove sapphire 
+   cmd give sapphire %name% 
+   cmd peace 
+   wait 2~ 
+Sc 
+if (%rndnum% == 1) 
+   cmd say Please, that is all I have 
+   halt once~ 
+End 
+ 
+#END 

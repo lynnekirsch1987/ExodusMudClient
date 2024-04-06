@@ -1,0 +1,31 @@
+* File: fqueen.scr
+* Mob: Queen(5320)
+
+#TRIGGER tick
+Type 3
+Sc 
+rest
+look
+getpc %pcname%
+say HI %pcname% ! ! !
+if ( %pcname% cmp "0" )
+   halt once~
+Sc
+mfunc %pcname% %sex% sex
+echo Well %pcname% sure is sex of %sex% .
+if ( %sex% != 2 )
+   wake
+   look
+   yell Intruder! Intruder! Get out of here at once!
+   signal 5321 saveme
+   halt once~
+Sc
+   wake
+   emote looks up and scans the room.
+   ponder
+   sleep
+   echo The queen snores loudly.
+   halt once~
+End
+
+#END

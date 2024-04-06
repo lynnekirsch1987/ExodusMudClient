@@ -1,0 +1,56 @@
+* mob Sardin 4021 in room 4133 *
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %sex% sex
+mfunc %enter-from% %name% name
+mfunc %enter-from% %silver% silver
+mfunc %enter-from% %gold% gold
+let %wealth% = %silver% + %gold% * 100 
+wait 2~
+Sc
+if ( %wealth% <= 1500 )
+   emote glances up distracted, barely concealing a patronizing smirk.
+   smote You hear Ith whisper condescendingly to his assistant, `a'`kApparently they let anyone into Thesden these days!`a'``
+  halt once~
+Sc
+if ( %sex% == 1 ) 
+   say Good day, sir.  Perhaps I could interest you in some fine trinkets for your wife or lady friend?
+   halt once~
+Sc
+if ( %sex% == 2)
+   bow %name%
+   say Greetings madame.  I have some jewelry that would look splendid with your beautiful hair!
+   halt once~
+End
+
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 3
+if ( %rndnum% == 0 )
+  emote taps his small hammer lightly against the ends of a ring, molding a perfect circle out of solid gold.
+  halt once~
+Sc 
+if ( %rndnum% == 1 )
+  smote Whistling softly as he works, Ith peers intently at a precious gem through his glass spectacles.
+  halt once~
+Sc 
+if ( %rndnum% == 2 )
+ emote unfolds a small cloth and polishes a few pieces of silver in the display case.
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  cmd load obj 7931
+  cmd permaff lead curse 100
+  halt triggers~
+End
+
+#END
+
+

@@ -1,0 +1,12 @@
+* File: pansy.scr
+* Mob: Pansy(6293)
+
+#TRIGGER slay
+Type 99
+Sc
+   cmd slay %slay-from%
+   halt once~
+End
+
+#END
+

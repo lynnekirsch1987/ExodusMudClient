@@ -1,0 +1,21 @@
+* File: cricket.scr
+* Mob: cricket(21065)
+
+#TRIGGER annoy
+Type 3
+Sc
+wfunc %chirp% random 0 2
+if (%chirp% == 0)
+emote rubs its legs together quickly, producing a mild sequence of tweets.
+halt once~
+Sc
+if (%chirp% == 1)
+emote chirps loudly, right in your ear!
+halt once~
+Sc
+if (%chirp% == 2)
+emote buzzes and chirps noisily, making you stutter with rage.
+~
+End
+
+#END

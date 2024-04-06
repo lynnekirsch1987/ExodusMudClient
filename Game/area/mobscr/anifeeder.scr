@@ -1,0 +1,37 @@
+* animal feeder
+* mob vnum 4216
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %name% name
+   say Hello %name%! Always a fine day to visit the zoo.
+   smile %name%
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 3
+if ( %rndnum% == 0 )
+   emote reaches into her canvas sack and tosses grain all over the ground.
+   halt once~
+Sc
+if ( %rndnum% == 2 ) 
+  emote goes about her perfunctory task of cleaning up the animals' cages.
+  halt once~
+End
+
+#END
+
+
+
+
+
+
+
+
+
+
+

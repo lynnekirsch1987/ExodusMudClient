@@ -1,0 +1,102 @@
+* script: mguard.scr
+* Merossa Town Guard (14003)
+
+#TRIGGER combat
+Type 2
+Sc
+* When guards get too wounded, they head back to the safety of the guard house to heal.
+mfunc self %hp% hit
+if (%hp% < 600)
+  cmd flee
+  walkto 14050
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+* If the guard is badly hurt, he'll head back to the guard house to recuperate.
+mfunc self %hp% hit
+if (%hp% < 1000)
+  walkto 14050
+  halt once~
+Sc
+wfunc %whereto% random 0 5
+* If the guard is mostly healed, he will redeploy to somewhere in town.
+if (%whereto% == 0)
+  walkto 14019
+  halt once~
+Sc
+if (%whereto% == 1)
+  walkto 14022
+  halt once~
+Sc
+if (%whereto% == 2)
+  walkto 14025
+  halt once~
+Sc
+if (%whereto% == 3)
+  walkto 14036
+  halt once~
+Sc
+if (%whereto% == 4)
+  walkto 14039
+  halt once~
+Sc
+if (%whereto% == 5)
+  walkto 14042
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+* This script dispatches guards from the town hall to various points in town.
+Sc
+wfunc %whereto% random 0 5
+if (%whereto% == 0)
+  walkto 14019
+  halt once~
+Sc
+if (%whereto% == 1)
+  walkto 14022
+  halt once~
+Sc
+if (%whereto% == 2)
+  walkto 14025
+  halt once~
+Sc
+if (%whereto% == 3)
+  walkto 14036
+  halt once~
+Sc
+if (%whereto% == 4)
+  walkto 14039
+  halt once~
+Sc
+if (%whereto% == 5)
+  walkto 14042
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+* When a pirate enters the room with the town guard, they start combat
+Sc
+  cmd kill pirate
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+* When the town guard enters the room with a pirate, all hell breaks loose.
+Sc
+mfunc self %hp% hit
+if (%hp% < 600)
+  emote limps badly, suffering from his wounds.
+  halt once~
+Sc
+  cmd kill pirate
+  halt once~
+End
+
+#END

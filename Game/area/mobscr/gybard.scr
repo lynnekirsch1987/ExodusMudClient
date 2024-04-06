@@ -1,0 +1,113 @@
+* File: gybard.scr
+* Mob: Young Bard(4074)
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc %combat-from% %name% name
+wfunc %rndnum% random 0 4
+if ( %rndnum% == 0 )
+   sing despair %name%
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   sing kiss self
+   halt once~
+Sc
+if ( %rndnum% == 2 )
+   sing falk self
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 20
+if ( %rndnum% == 0 )
+  emote plays a lighthearted tune on her lute.
+  halt once~
+Sc
+if ( %rndnum% == 1 )
+ emote recites the tale of how Ythran Athanmere became king.
+ halt once~
+Sc
+if ( %rndnum% == 2 )
+ emote strums a slow, thoughtful melody.
+ halt once~
+Sc
+if ( %rndnum% == 3)
+  say Just sit back and relax,
+  say and listen to this tale.
+  say Of a crew breaking their backs,
+  say during a fierce and frightening gale.
+  wait 10~
+Sc
+if ( %rndnum% == 3)
+  say It was cold and stormy,
+  say on one blustery night.
+  say The boat was creaking,
+  say It's name the N & T.
+  wait 10~
+Sc
+if ( %rndnum% == 3)
+  say As the crew was quietly sleeping,
+  say Up top, the sails were billowed.
+  say There came a storm, creeping,
+  say upon the N & T it blowed.
+  wait 10~
+Sc
+if ( %rndnum% == 3)
+  say With a bone-crunching 'Snap!',
+  say The crew was up in the flash.
+  say The mainmast had split,
+  say with a lightning bolt it had been hit!
+  wait 10~
+Sc
+if ( %rndnum% == 3)
+  say Splinters were flying,
+  say and crewmates were dying.
+  say Shouting, "Get below!",
+  say was the only advice Cap'n could bestow.
+  wait 10~
+Sc
+if ( %rndnum% == 3)
+  say But the winds were fierce,
+  say and through it, his words did not pierce.
+  say His crew worked hard, all through the night,
+  say Lowering sails and waiting for light.
+  wait 10~
+Sc
+if ( %rndnum% == 3)
+  say Alas when daybreak came,
+  say lodged between two rocks, the N & T lay.
+  say And to this day, Captain Tigger lives there,
+  say his crew... Now his family.
+  wait 10~
+Sc
+if ( %rndnum% == 3)
+  say And through this tale, a lesson is learned.
+  say Stick with your Captain, and friendship is earned.
+  halt once~
+Sc
+if ( %rndnum% == 4)
+  say `jI've heard legends tell of a hero``
+  say `jfrom an age gone by long ago.``
+  say `jHe was said to have wielded a power``
+  say `jthat few who walk this land know.``
+  wait 15~
+Sc
+if ( %rndnum% == 4)
+  say `jA warrior by trade, he set the pace``
+  say `jfor those, who behind him came;``
+  say `jA giant of a man, even more for a Dwarf``
+  say `jand `oOrcus `jwas his name.``
+  halt once~
+Sc
+if (%rndnum% == 5)
+  say `iI don't want to start any blasphemous rumors,``
+  say `ibut I think `kMinax`i has a sick sense of humor.``
+  say `iAnd when I die I expect to find him laughing...``
+halt once~
+End
+
+#END

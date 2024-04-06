@@ -1,0 +1,2282 @@
+#PLAYER
+Name DuiwelGees~
+Id   1083719264
+LogF 1349416799
+LogO 1349416799
+Vers 8
+Desc `hThe foul stench of `arotting flesh `hfills your nose as this `arobed figure `hlooms 
+`hbefore you.  From the `omassive `bdeadly `hlooking `asword `hin his hand you
+`hquickly realize that you have encountered no ordinary being.  As `athe shadowy
+`afigure `hmoves closer to you you cannot help but `dgag `has the `aunholy `hscent of 
+`hmany abandoned `adecaying `bcorpses `hviolates your sense of smell.  The `afigure `hslowly
+`hraises his head, and all you can see under the `adark hood `hare two, `iglowing-red eyes 
+`hpeering at you, with the look of `aDeath.
+~
+Prom <H:%h/%H MA:%m/%M M:%v/%V %x/%Xtn %gg %ss A:%a %S> ~
+Race lich~
+Sex  1
+Cla  8
+Cla2  8
+Cla3  8
+Levl 85
+Wants 7
+EInBR 2
+EInSD 6
+EInTSD 2
+ODeaths 27
+PBKill 28
+MBKill 75
+BBKill 33
+SBKill 6
+PHKill 32
+MHKill 14598
+BHKill 37
+SHKill 4
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 2457336
+NPlyd 0
+NAge 0
+Bank_Gold 84130
+Bank_Silv 32852
+Email skirsch@olwcnyc.com~
+Referrer ~
+Souls 63877
+HP_Gained 1
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 2
+Race_Old 11
+Class_Old -1
+New_Style 1
+Totalxp 1259991830
+TotalS 548850
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 291
+GamW 203
+QTicks 0
+TotalQH 4
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 10
+TotalCGL 4
+TotalCGW 1
+TMM 1012
+TOS 9
+MPC 0
+Host PURGED-LD~
+Not  1104689077 1152228574 0 1122418905 1152805254 1340128244 1089208533 0
+Scro 22
+Room 5091
+HMV  1331 1331 263 263 561 561
+Hand 2
+Gold 1283
+Silv 16086
+Exp  8820680
+Act  DGHOb
+Blok -1
+AfBy DFGHe
+Comm NOQS
+Com2 0
+Pos  8
+Save  -3
+Alig  -847
+Hit   57
+Dam   53
+ACs -75 -85 -75 -74
+Attr 23 8 7 16 21 6
+AMod 2 0 -3 2 1 0
+Pass Du.qV4xekbYyM~
+Bcry  `iE`bk G`aaa`hn W`hee`bs J`iul`ble `aGe`hes`i!``~
+Plan  `h'`dAlways bury your fallen comrades,`h'  is not always the best thing to say 
+`hwhen a `bdemonic `alich `his standing above the remnants of your `abeaten `osquad
+`hready to `kdrive `ha `isoul `bstealing `asword `hin you, `oripping out `hyour
+`hvery `kessance.  
+``
+`hBorn of `bDeath`h, always `bfeeding `hon the `ksouls `hof the `oliving`h.  
+`oThe `iDevil's `oSoul`h.  Construct of the most `bvile `hand `ipowerful `hkind.
+`hA `oliving `acorpse`h, endlessly `oseeking `hthe `ksweet `otaste of `klife`h
+`hdriving out the `ksoul `hof it's `bvictems `hwith it's powerful `asword.
+`aUndead`h, yet both `oseeking `hfor the `lessence `hof life to touch his `bdeath
+`blips `hand his `avile `brotting `acorpse `hhotbed of new life, literally
+`oteaming with `lswarm `hof feeding `dmaggots`h.
+`hDistant, fleeting memories, forever lost in the `ounending `ascreams `hof
+`huntold `oscores `hof victems.  A young farm boy, a fine adolesent specimen
+`hof man.  A plesant life on of african veldt.  But simply glimspes of a long-lost
+`hpast, `bnever `hto be reclaimed again.
+''
+`hMember of Clan `b\v/`hlades.
+~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  `aSoul Reaper`.~
+Pnts 5
+TSex 1
+LLev 679
+Loner 1
+HMVP 1250 268 561
+Cd  -16 48 24 24 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 9 12 5 8 13 5 0 0
+Alias ss sword status~
+Alias bn gt bash nude~
+Alias su sword upgrade~
+Alias bt gt bash trai~
+Alias bk back knight~
+Alias bc back cleric~
+Alias bg back guard~
+Alias fs flee south~
+Alias fn flee north~
+Alias fe flee east~
+Alias fw flee west~
+Sk 100 'sense good'
+Sk 100 'sense hidden'
+Sk 100 'scorch metal'
+Sk 100 'sense alignment'
+Sk 100 'aura of evil'
+Sk 100 'shocking blade'
+Sk 1 'frost blade'
+Sk 100 'flaming blade'
+Sk 100 'chaotic blade'
+Sk 1 'venomous blade'
+Sk 100 'vampiric blade'
+Sk 1 'apathy blade'
+Sk 100 'lightning burst'
+Sk 100 'ice burst'
+Sk 100 'fire burst'
+Sk 100 'unholy burst'
+Sk 100 'hellscape'
+Sk 100 'summon sword'
+Sk 100 'invocation'
+Sk 100 'shield block'
+Sk 100 'sword'
+Sk 1 'riding'
+Sk 100 'retreat'
+Sk 100 'shadowslash'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'swimming'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'door bash'
+Sk 100 'butcher'
+Sk 100 'redirect'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'prevent escape'
+Sk 100 'fast healing'
+Sk 100 'blindfighting'
+Sk 1 'fishing'
+Sk 1 'repulse'
+Sk 100 'tempt'
+Sk 100 'defile'
+Sk 100 'despoil'
+Sk 100 'contaminate'
+Affc 'sanctuary'   0  87  40   0   0        128 0 ''
+Affc 'shield'   0  88  48 -10  17          0 0 ''
+End
+
+#O
+Vnum 78
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```hthe necromancer```a]``~
+Cardslot 135
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 9 1 2 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card mob necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```hthe necromancer```a]``~
+Cardslot 134
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 9 1 2 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```hthe necromancer```a]``~
+Cardslot 133
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 2 9 2 2 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```hthe necromancer```a]``~
+Cardslot 132
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 2 9 2 3 0
+End
+
+#O
+Vnum 30141
+Nest 1
+Cardslot 130
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card minion~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[``A Kalian minion`a]``~
+Cardslot 129
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 2 2 3 8 0 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card visitor abbey~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[``A visitor to the Abbey`a]``~
+Cardslot 127
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 1 2 1 2 3 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card brother erion~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`kL`a] `a[``A Brother of Erion`a]``~
+Cardslot 126
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 3 2 4 2 1 0
+End
+
+#O
+Vnum 30096
+Nest 1
+Cardslot 125
+WearL -1
+Cost 4
+End
+
+#O
+Vnum 30239
+Nest 1
+Cardslot 124
+WearL -1
+Cost 15
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card minion~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[``A Kalian minion`a]``~
+Cardslot 122
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 2 2 3 8 2 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card minion~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`kL`a] `a[``A Kalian minion`a]``~
+Cardslot 121
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 2 5 0 8 1 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card minion~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[``A Kalian minion`a]``~
+Cardslot 120
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 2 0 5 8 2 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card minion~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`kL`a] `a[``A Kalian minion`a]``~
+Cardslot 118
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 2 0 5 8 1 0
+End
+
+#O
+Vnum 30107
+Nest 1
+Cardslot 116
+WearL -1
+Cost 60
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 114
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 2 7 2 0 0
+End
+
+#O
+Vnum 30272
+Nest 1
+Cardslot 113
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30191
+Nest 1
+Cardslot 112
+WearL -1
+Cost 90
+End
+
+#O
+Vnum 30156
+Nest 1
+Cardslot 111
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card cleric continuum battlecleric~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```oA Cleric of`k Continuum```a]``~
+Cardslot 110
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 6 3 2 3 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card cleric continuum battlecleric~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oA Cleric of`k Continuum```a]``~
+Cardslot 109
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 7 2 2 0 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 107
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 1 8 2 3 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 105
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 9 0 2 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 104
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 9 0 2 4 0
+End
+
+#O
+Vnum 30263
+Nest 1
+Cardslot 103
+WearL -1
+Cost 300
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 102
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 6 3 2 0 0
+End
+
+#O
+Vnum 30238
+Nest 1
+Cardslot 101
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card cleric continuum battlecleric~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```oA Cleric of`k Continuum```a]``~
+Cardslot 100
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 4 5 2 2 0
+End
+
+#O
+Vnum 30233
+Nest 1
+Cardslot 99
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card cleric continuum battlecleric~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```oA Cleric of`k Continuum```a]``~
+Cardslot 98
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 8 1 2 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card cleric continuum battlecleric~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```oA Cleric of`k Continuum```a]``~
+Cardslot 97
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 3 6 2 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 96
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 1 8 2 4 0
+End
+
+#O
+Vnum 30118
+Nest 1
+Cardslot 95
+WearL -1
+Cost 200
+End
+
+#O
+Vnum 30356
+Nest 1
+Cardslot 94
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card cleric continuum battlecleric~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oA Cleric of`k Continuum```a]``~
+Cardslot 93
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 6 3 2 0 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 92
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 9 0 2 0 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card woman krathen nude~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[``A Krathen woman`a]``~
+Cardslot 91
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 5 0 8 2 0 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card woman krathen nude~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`kL`a] `a[``A Krathen woman`a]``~
+Cardslot 90
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 5 8 0 2 1 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card woman krathen nude~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`kL`a] `a[``A Krathen woman`a]``~
+Cardslot 89
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 5 8 0 2 1 0
+End
+
+#O
+Vnum 30194
+Nest 1
+Cardslot 88
+WearL -1
+Cost 5
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 87
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 0 9 2 2 0
+End
+
+#O
+Vnum 30246
+Nest 1
+Cardslot 86
+WearL -1
+Cost 200
+End
+
+#O
+Vnum 30279
+Nest 1
+Cardslot 84
+WearL -1
+Cost 400
+End
+
+#O
+Vnum 30224
+Nest 1
+Cardslot 83
+WearL -1
+Cost 90
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```hthe necromancer```a]``~
+Cardslot 82
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 9 0 2 2 0
+End
+
+#O
+Vnum 30127
+Nest 1
+Cardslot 81
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 30043
+Nest 1
+Cardslot 80
+WearL -1
+Cost 70
+End
+
+#O
+Vnum 30097
+Nest 1
+Cardslot 79
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card brother erion~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[``A Brother of Erion`a]``~
+Cardslot 78
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 3 1 5 2 0 0
+End
+
+#O
+Vnum 30331
+Nest 1
+Cardslot 77
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30152
+Nest 1
+Cardslot 76
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```hthe necromancer```a]``~
+Cardslot 75
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 2 9 2 0 0
+End
+
+#O
+Vnum 30092
+Nest 1
+Cardslot 73
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30330
+Nest 1
+Cardslot 72
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card cleric continuum battlecleric~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```oA Cleric of`k Continuum```a]``~
+Cardslot 71
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 6 8 1 2 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 70
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 6 1 8 2 0 0
+End
+
+#O
+Vnum 30172
+Nest 1
+Cardslot 69
+WearL -1
+Cost 700
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 68
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 6 8 1 2 0 0
+End
+
+#O
+Vnum 30169
+Nest 1
+Cardslot 66
+WearL -1
+Cost 700
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`kL`a] `a[```hthe necromancer```a]``~
+Cardslot 65
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 4 7 2 1 0
+End
+
+#O
+Vnum 30232
+Nest 1
+Cardslot 64
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30185
+Nest 1
+Cardslot 63
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 62
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 6 5 4 2 3 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card damned soul ghostly prescence~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[``a damned soul`a]``~
+Cardslot 61
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 2 3 2 8 3 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 60
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 6 5 4 2 3 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 59
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 6 4 5 2 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card knight paladin lithsen~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[``A paladin of the Lithsen Order`a]``~
+Cardslot 58
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 6 7 3 2 0 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```hthe necromancer```a]``~
+Cardslot 57
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 9 0 2 2 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card pirate king~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[``The pirate king`a]``~
+Cardslot 56
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 6 0 9 3 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card lizard lich~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[``the Lizard Man Lich`a]``~
+Cardslot 55
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 1 3 1 8 2 0
+End
+
+#O
+Vnum 30041
+Nest 1
+Cardslot 54
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30376
+Nest 1
+Cardslot 53
+WearL -1
+Cost 200
+End
+
+#O
+Vnum 30043
+Nest 1
+Cardslot 52
+WearL -1
+Cost 70
+End
+
+#O
+Vnum 30232
+Nest 1
+Cardslot 51
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30234
+Nest 1
+Cardslot 50
+WearL -1
+Cost 77
+End
+
+#O
+Vnum 30278
+Nest 1
+Cardslot 49
+WearL -1
+Cost 22
+End
+
+#O
+Vnum 30225
+Nest 1
+Cardslot 48
+WearL -1
+Cost 33
+End
+
+#O
+Vnum 30243
+Nest 1
+Cardslot 47
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30273
+Nest 1
+Cardslot 46
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30262
+Nest 1
+Cardslot 45
+WearL -1
+Cost 2
+End
+
+#O
+Vnum 30186
+Nest 1
+Cardslot 44
+WearL -1
+Cost 70
+End
+
+#O
+Vnum 30171
+Nest 1
+Cardslot 43
+WearL -1
+Cost 700
+End
+
+#O
+Vnum 30171
+Nest 1
+Cardslot 42
+WearL -1
+Cost 700
+End
+
+#O
+Vnum 30250
+Nest 1
+Cardslot 41
+WearL -1
+Cost 22
+End
+
+#O
+Vnum 30230
+Nest 1
+Cardslot 40
+WearL -1
+Cost 77
+End
+
+#O
+Vnum 30272
+Nest 1
+Cardslot 39
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30182
+Nest 1
+Cardslot 38
+WearL -1
+Cost 600
+End
+
+#O
+Vnum 30230
+Nest 1
+Cardslot 37
+WearL -1
+Cost 77
+End
+
+#O
+Vnum 30186
+Nest 1
+Cardslot 36
+WearL -1
+Cost 70
+End
+
+#O
+Vnum 30170
+Nest 1
+Cardslot 35
+WearL -1
+Cost 700
+End
+
+#O
+Vnum 30179
+Nest 1
+Cardslot 34
+WearL -1
+Cost 140
+End
+
+#O
+Vnum 30182
+Nest 1
+Cardslot 33
+WearL -1
+Cost 600
+End
+
+#O
+Vnum 30205
+Nest 1
+Cardslot 32
+WearL -1
+Cost 70
+End
+
+#O
+Vnum 30265
+Nest 1
+Cardslot 31
+WearL -1
+Cost 90
+End
+
+#O
+Vnum 30230
+Nest 1
+Cardslot 30
+WearL -1
+Cost 77
+End
+
+#O
+Vnum 30252
+Nest 1
+Cardslot 29
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30186
+Nest 1
+Cardslot 28
+WearL -1
+Cost 70
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card continuum knight continuumknight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```oA`k Continuum`o Knight```a]``~
+Cardslot 27
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 4 5 2 3 0
+End
+
+#O
+Vnum 30239
+Nest 1
+Cardslot 26
+WearL -1
+Cost 15
+End
+
+#O
+Vnum 30185
+Nest 1
+Cardslot 25
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30244
+Nest 1
+Cardslot 24
+WearL -1
+Cost 10
+End
+
+#O
+Vnum 30191
+Nest 1
+Cardslot 23
+WearL -1
+Cost 90
+End
+
+#O
+Vnum 30169
+Nest 1
+Cardslot 22
+WearL -1
+Cost 700
+End
+
+#O
+Vnum 30128
+Nest 1
+Cardslot 21
+WearL -1
+Cost 70
+End
+
+#O
+Vnum 30122
+Nest 1
+Cardslot 20
+WearL -1
+Cost 66
+End
+
+#O
+Vnum 30098
+Nest 1
+Cardslot 19
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30120
+Nest 1
+Cardslot 18
+WearL -1
+Cost 5
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card cleric continuum battlecleric~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```oA Cleric of`k Continuum```a]``~
+Cardslot 17
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 6 9 0 2 4 0
+End
+
+#O
+Vnum 30116
+Nest 1
+Cardslot 16
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 30124
+Nest 1
+Cardslot 15
+WearL -1
+Cost 800
+End
+
+#O
+Vnum 30122
+Nest 1
+Cardslot 14
+WearL -1
+Cost 66
+End
+
+#O
+Vnum 30098
+Nest 1
+Cardslot 13
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30122
+Nest 1
+Cardslot 12
+WearL -1
+Cost 66
+End
+
+#O
+Vnum 30126
+Nest 1
+Cardslot 11
+WearL -1
+Cost 3
+End
+
+#O
+Vnum 30116
+Nest 1
+Cardslot 10
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card jihad scud missile `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`kL`a] `a[```gThe Scud Missile '`dJIHAD`g'```a]``~
+Cardslot 9
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 1 0 2 6 1 0
+End
+
+#O
+Vnum 30114
+Nest 1
+Cardslot 8
+WearL -1
+Cost 150
+End
+
+#O
+Vnum 30131
+Nest 1
+Cardslot 7
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 30098
+Nest 1
+Cardslot 6
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30120
+Nest 1
+Cardslot 5
+WearL -1
+Cost 5
+End
+
+#O
+Vnum 30098
+Nest 1
+Cardslot 4
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30102
+Nest 1
+Cardslot 3
+WearL -1
+Cost 10
+End
+
+#O
+Vnum 30116
+Nest 1
+Cardslot 2
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 30125
+Nest 1
+Cardslot 1
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 79
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```hthe necromancer```a]``~
+Cardslot 60
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 2 9 2 4 0
+End
+
+#O
+Vnum 30179
+Nest 1
+Cardslot 59
+WearL -1
+Cost 140
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[```hthe necromancer```a]``~
+Cardslot 58
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 4 7 2 4 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```hthe necromancer```a]``~
+Cardslot 57
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 9 2 2 2 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card siege knight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oThe Siege Knight```a]``~
+Cardslot 56
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 4 7 2 0 0
+End
+
+#O
+Vnum 30111
+Nest 1
+Cardslot 55
+WearL -1
+Cost 2
+End
+
+#O
+Vnum 30115
+Nest 1
+Cardslot 54
+WearL -1
+Cost 99
+End
+
+#O
+Vnum 30345
+Nest 1
+Cardslot 53
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30161
+Nest 1
+Cardslot 52
+WearL -1
+Cost 999
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```hthe necromancer```a]``~
+Cardslot 51
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 2 9 2 3 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```hthe necromancer```a]``~
+Cardslot 50
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 9 2 2 0 0
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card gatekeeper~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[``The gatekeeper`a]``~
+Cardslot 49
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 8 9 1 2 3 0
+End
+
+#O
+Vnum 30249
+Nest 1
+Cardslot 48
+WearL -1
+Cost 90
+End
+
+#O
+Vnum 30092
+Nest 1
+Cardslot 47
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```hthe necromancer```a]``~
+Cardslot 46
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 6 5 2 0 0
+End
+
+#O
+Vnum 30097
+Nest 1
+Cardslot 45
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 32502
+Nest 1
+Cardslot 44
+WearL -1
+Cost 700
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card mob necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```hthe necromancer```a]``~
+Cardslot 43
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 3 8 2 0 0
+End
+
+#O
+Vnum 30249
+Nest 1
+Cardslot 42
+WearL -1
+Cost 90
+End
+
+#O
+Vnum 30154
+Nest 1
+Cardslot 41
+WearL -1
+Cost 567
+End
+
+#O
+Vnum 30274
+Nest 1
+Cardslot 40
+WearL -1
+Cost 80
+End
+
+#O
+Vnum 30210
+Nest 1
+Cardslot 39
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30233
+Nest 1
+Cardslot 38
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30166
+Nest 1
+Cardslot 37
+WearL -1
+Cost 300
+End
+
+#O
+Vnum 30246
+Nest 1
+Cardslot 36
+WearL -1
+Cost 200
+End
+
+#O
+Vnum 30151
+Nest 1
+Cardslot 35
+WearL -1
+Cost 666
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```hthe necromancer```a]``~
+Cardslot 34
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 7 4 2 3 0
+End
+
+#O
+Vnum 30329
+Nest 1
+Cardslot 33
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 30332
+Nest 1
+Cardslot 32
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30181
+Nest 1
+Cardslot 31
+WearL -1
+Cost 400
+End
+
+#O
+Vnum 30207
+Nest 1
+Cardslot 30
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```hthe necromancer```a]``~
+Cardslot 29
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 7 4 2 2 0
+End
+
+#O
+Vnum 30233
+Nest 1
+Cardslot 28
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card camel scud `ieevvviilll``~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```da scud camel```a]``~
+Cardslot 27
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 9 2 6 2 0
+End
+
+#O
+Vnum 30161
+Nest 1
+Cardslot 26
+WearL -1
+Cost 999
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```hthe necromancer```a]``~
+Cardslot 25
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 2 9 2 3 0
+End
+
+#O
+Vnum 30233
+Nest 1
+Cardslot 24
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card gatekeeper~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`dS`a] `a[``The gatekeeper`a]``~
+Cardslot 23
+WearL -1
+Cost 50
+Vlues  0 1 10 6 5 0 0 8 9 2 2 4 0
+End
+
+#O
+Vnum 30115
+Nest 1
+Cardslot 22
+WearL -1
+Cost 99
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`iF`a] `a[```hthe necromancer```a]``~
+Cardslot 21
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 3 8 2 3 0
+End
+
+#O
+Vnum 30208
+Nest 1
+Cardslot 20
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30171
+Nest 1
+Cardslot 19
+WearL -1
+Cost 700
+End
+
+#O
+Vnum 30323
+Nest 1
+Cardslot 18
+WearL -1
+Cost 500
+End
+
+#O
+Vnum 30228
+Nest 1
+Cardslot 17
+WearL -1
+Cost 66
+End
+
+#O
+Vnum 30291
+Nest 1
+Cardslot 16
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 30260
+Nest 1
+Cardslot 15
+WearL -1
+Cost 60
+End
+
+#O
+Vnum 30152
+Nest 1
+Cardslot 14
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30362
+Nest 1
+Cardslot 13
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30140
+Nest 1
+Cardslot 12
+WearL -1
+Cost 2
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card siege knight~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`h0`a] `a[```oThe Siege Knight```a]``~
+Cardslot 11
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 3 8 2 0 0
+End
+
+#O
+Vnum 30322
+Nest 1
+Cardslot 10
+WearL -1
+Cost 500
+End
+
+#O
+Vnum 30403
+Nest 1
+Name card necromancer~
+ShD  `h[`oCard`h] `h[`aMob`h] `a[`eW`a] `a[```hthe necromancer```a]``~
+Cardslot 9
+WearL -1
+Cost 50
+Vlues  0 1 10 3 0 0 0 7 9 4 2 2 0
+End
+
+#O
+Vnum 30202
+Nest 1
+Cardslot 8
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30322
+Nest 1
+Cardslot 7
+WearL -1
+Cost 500
+End
+
+#O
+Vnum 30364
+Nest 1
+Cardslot 6
+WearL -1
+Cost 2000
+End
+
+#O
+Vnum 30246
+Nest 1
+Cardslot 5
+WearL -1
+Cost 200
+End
+
+#O
+Vnum 30210
+Nest 1
+Cardslot 4
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30333
+Nest 1
+Cardslot 3
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 30091
+Nest 1
+Cardslot 2
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30156
+Nest 1
+Cardslot 1
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 12223
+Nest 0
+WearL 1048576
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 12223
+Nest 0
+WearL 4096
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 16322
+Nest 0
+WearL 32
+Cost 1
+End
+
+#O
+Vnum 9389
+Nest 0
+WearL 8388624
+Cost 5000
+End
+
+#O
+Vnum 12234
+Enchanted
+Nest 0
+WearL 512
+Lev  29
+Cost 0
+Affc 'reserved'   1  24  -1   1  19          0 0 ''
+Affc 'enchant armor'   1 100  -1  -6  17          0 0 ''
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExF 0 67
+WearL 128
+Cost 5000
+Affc 'enchant weapon'   1  75  -1   9  19          0 0 ''
+Affc 'enchant weapon'   1  75  -1   7  18          0 0 ''
+End
+
+#O
+Vnum 7279
+Nest 0
+WearL 8
+Cost 13029
+End
+
+#O
+Vnum 3688
+Nest 0
+WearL 1024
+Cost 0
+End
+
+#O
+Vnum 436
+Nest 0
+WearL 65536
+Cost 4500
+End
+
+#O
+Vnum 7076
+Nest 0
+WearL 2048
+Cost 920
+End
+
+#O
+Vnum 5311
+Nest 0
+WearL 64
+Cost 29380
+End
+
+#O
+Vnum 8730
+Nest 0
+WearL 2097152
+Cost 1500
+End
+
+#O
+Vnum 3696
+Nest 0
+WearL -1
+Cost 670
+End
+
+#O
+Vnum 21
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 61
+Nest 1
+Name DuiwelGees head silver platter~
+ShD  DuiwelGees's head on a silver platter~
+Desc Damn, this is one ugly head!~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 1
+WearL -1
+Cost 5000
+End
+
+#O
+Vnum 411
+Nest 1
+WearL -1
+Cost 2500
+End
+
+#O
+Vnum 27018
+Nest 1
+WearL -1
+Cost 350
+End
+
+#O
+Vnum 10365
+Nest 1
+WearL -1
+Cost 11049
+End
+
+#O
+Vnum 4140
+Nest 1
+Name iron flask haste~
+ShD  an iron flask of haste~
+WearL -1
+Lev  90
+Cost 451
+Vlues  69 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 4140
+Nest 1
+Name iron flask haste~
+ShD  an iron flask of haste~
+WearL -1
+Lev  90
+Cost 451
+Vlues  69 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 27021
+Nest 1
+WearL -1
+Cost 2000
+End
+
+#O
+Vnum 18956
+Nest 1
+WearL -1
+Cost 7403
+End
+
+#O
+Vnum 61
+Nest 0
+Name eye DuiwelGees~
+ShD  The eye of`b DuiwelGees``~
+Desc A ripped-out eye stares at you from the ground.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 30277
+Nest 0
+Cardslot 131
+WearL -1
+Cost 150
+End
+
+#O
+Vnum 12221
+Nest 0
+ExF 0 16779776
+WearL 524288
+Cost 0
+ExDe neck guard~ A black Falcon is emblazoned on this plate.
+~
+End
+
+#O
+Vnum 12221
+Nest 0
+ExF 0 16779776
+WearL 4
+Cost 0
+ExDe neck guard~ A black Falcon is emblazoned on this plate.
+~
+End
+
+#O
+Vnum 425
+Nest 0
+WearL 256
+Cost 500
+End
+
+#O
+Vnum 2282
+Nest 0
+WearL 2
+Cost 28000
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4164
+Nest 0
+WearL -1
+Cost 3549
+End
+
+#O
+Vnum 4163
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4295
+Nest 0
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 4295
+Nest 0
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 4295
+Nest 0
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 4295
+Nest 0
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade '`hThe `aO`hb`as`hi`ad`ki`aa`hn `iH`be`ia`br`it `hof `aD`ba`am`bn`aa`bt`ai`bo`an```h'``~
+Desc `hThis Reaver blade bares the inscription '`hThe `aO`hb`as`hi`ad`ki`aa`hn `iH`be`ia`br`it `hof `aD`ba`am`bn`aa`bt`ai`bo`an```h'.``~
+ExF 0 119443459
+Cardslot 5
+WearL -1
+Cost 0
+Vlues  1 9 15 3 9 0 0 0 0 0 0 0 0
+Affc 'armor'   1  87  -1   7  19          0 0 ''
+Affc 'armor'   1  87  -1  12  18          0 0 ''
+Affc 'armor'   5  80   4   0   0          8 0 ''
+Affc 'fire breath'   5  75   5   0   0          1 0 ''
+End
+
+#O
+Vnum 4576
+Nest 0
+WearL -1
+Cost 0
+Vlues  0 0 0 0 0 0 0 0 0 0 0 0 0
+ExDe mystical~ `iAs you squint to see throw the strange glow, you see a dark altar...``
+~
+ExDe glow~ `iAs you squint to see throw the strange glow, you see a dark altar...``
+~
+End
+
+#RoomRLE   9 1 90 2 1 4 1 69 1 2 1 2 1 2 2 1 1 1 1 2 1 1 1 1 1 3 1 1 1 1 1 3 1 12 1 9 1 2 4 3 2 3 3 2 2 2 3 2 3 2 3 2 7 1 1 5 1 2 1 1 1 2 1 1 2 1 1 17 10 1 3 4 80 1 2 1 15 1 16 1 14 2 1 1 4 1 3 1 11 1 2 1 67 3 49 1 1 5 1 1 2 1 17 2 21 1 37 1 247 80 20 1 1 4 218 1 229 4 741 1 1 1 47 1 2 1 1 7 1 3 1 3 1 2 2 3 1 3 2 1 1 4 2 1 1 3 255 2 2 21 8 27 3 9 3 14 293 1 201 1 21 9 10 1 1 9 15 3 10 26 1 2 41 4 60 6 2 31 1 1 66 8 6 2 4 2 6 2 4 1 7 2 2 3 7 8 6 7 7 7 7 4 2 1 6 9 17 2 31 7 10 3 39 1 3 1 146 4 109 13 3 7 4 18 1 86 1 4 1 1 3 12 1 4 1 4 2 14 1 3 16 1 2 1 1 1 5 3 2 2 1 9 11 1 5 1 48 2 33 2 70 1 2 2 13 3 6 1 2 22 2 1 1 3 1 1 2 4 2 2 390 8 1 12 1 7 1 5 1 1 5 7 1 12 1 6 1 5 4 4 78 50 8 6 3 2 8 2 4 4 7 5 1 23 4 1 4 1 144 8 1 6 1 21 1 2 1 3 2 8 2 1 1 6 1 8 1 2 2 1 22 3 2 1 1 10 2 1 11 1 1 3 3 2 2 1 1 2 5 3 1 1 43 1 1 1 1 8 1 12 1 22 1 9 1 3 1 5 1 2 1 5 1 9 1 2 11 2 1 1 3 2 16 3 7 1 5 20 2 1 504 6 1 32 2 3 2 5 1 3 1 1 2 1 1 1 1 1 12 6 1 1 1 2 12 1 2 5 3 6 1 6 1 1 42 2 8 1 6 11 1 1 2 1 1 3 2 1 530 2 91 4 4 2 2 4 1 4 3 3 3 3 2 8 8 9 2 1 4 4 1 1 2 6 3 4 1 2 1 2 13 3 2 3 1 1 5 2 11 2 2 2 110 66 383 3 6 6 1 1 5 7 1 1 5 10 4 6 2 2 4 6 1 3 4 6 2 2 4 6 2 2 2 8 89 17 1 1 2 3 3 39 734 3 1 2 1 4 43 1 44 1 1 20 1 4 1 1 1 23 38 8 301 5 5 1 17 3 14 4 4 1 1 1 1 6 5 16 2 11 1 10 1 3 1 4 2 7 1227 1 1 1 2 8 1 1 19 3 3 2 2 1 2 1 1 6 2 1 4 6 1 5 127 2 2 4 6 8 2 36 1 10 2 1 1 8 1 6 1 4 1 2 1 4 3 2 1 1 1 6 1 26 2 8 6 6 329 11 98 2 1 2 5 3 17 16 1 3 2 1 2 2 1 4 1 9 79 3 1 5 2 2 2 4 3 2 3 2 13 1 1 6 2 20 1 4 8 1 2 3 2 4 1 1 5 1 1 2 1 1 10 1 582 8 2 7 6 2 2 1 1 3 8 1 9 1 163 1 9 1 21 1 3 1 2 1 251 1 198 1 2 6 1 1 1 10 1 1 1 1 2 18 2 1 1 2 1 1 1 1 2 63 1 1 2 18 2 25 1 1 3 25 3 7 3 7 3 7 3 1 1 6 2 1 1 37 1 7 1 55 154 6 4 1 4 1 4 1 4 1 4 1 4 1 5 6 2 31 3 1 7 1 53 7 1 14 4 1 431 5 7 1 7 1 6 1 6 7 1 3 6 11 137 7 1 10 1 6 2 1 3 1 3 5 1 38 1 6 2 11 3 8 2 3 2 1 2 9 2 1 1 2 1 5 15 1 2 1 4 3 1 3 1 1 3 4 10 2 3 1 1889 9 3 5 4 15 2 13 1 7 1 2 1 7 429 45 5 3 24 1 7 1 7 3 5 2 6 4 1 8 7 1 3 1 1 1 3 3 7 3 16 14 1 9 9 21 1 7 1 12 2 1 10 1 14 15 4 1 2 12 10 2 6 2 1 8 7 23 1 4 6 3 1 1 1 1 4 25 8 1 5 17 7 1 8 1 3 2 12 1 10 3 1 2 3 2 1 1 11 1 6 42 2 12 9 21 7 16 5 6 7 4 2 6 13 1 1 1 3 2 7 8 15 1 6 5 1 1 4 1 3 2 1 5 13 1 1 1 13 1 1 8 3 1 4 1 3 1 16 1 6 1 15 2 1 2 669 254 2 12 1 5 327 2 2 29 1 28 18 2 2 9 1 1 2 2 2 5 1 3 1 4 3 2 7 10 1 8 3 3 1 1 10 1 1 5 1 14 1 5 1 2 43 17 1 1 1 1 1196 22 5 7 2 9 5 27 1 4 1 3 3 1 1 5 1 1 1 7 1 4 479 42 1 1 2 1 9 2 3 2 38 2 6 18 1 210 3 2 4 12 2 2 4 12 3 1 1 2 1 12 3 6 3 9 2 4 6 8 15 5 16 1 1 3 10 1 1 1 555 7 1 6 1 1 1 2 3 2 57 36 4 2 4 2 1 3 1 1 1 3 661 2 4 4 4 4 2 1 2 1 1 2 7 1 42 1 122 1 24 22 2 4 1 2 1952 1 6 1 19 1 33 1 19 1 2 1 17 1 91 2 21 1 4 1 45 3 89 1 38 1 4 1 43 1 51 1 113 1 52 1 100 1 9 1 16 1 8 1 10 2 1 2 5 1 3 1 38 1 29 1 30 1 25 1 115 1 71 1 7 2 85 1 1 1 1 1 17 1 7 1 10 2 1 1 9 1 36 2 1 1 1 1 17 3 7 1 24 4 1 1 15 2 1 3 3 4 1 3 18 1 13 1 11 1 2 2 10 8 2 1 3 1 4 1 1 1 2 1 2 1 2 1 25 2 11 1 3 1 20 7 3 2 4 2 4 3 2 4 7 1 2 8 12 1 2 5 1 5 190 1 149 68 134 1 1 8 1033 1 54 37 8 1 40 14 36 1 8 1 90 1 8 1 90 1 8 1 90 1 8 1 90 1 8 1 90 1 8 1 90 1 8 1 40 3 47 1 8 1 42 1 47 1 8 1 42 1 47 1 8 1 42 1 47 1 8 1 42 1 47 1 8 1 2 1 39 1 47 3 6 1 2 1 39 1 49 1 6 1 1 2 39 1 49 1 6 1 1 2 39 1 49 1 6 1 2 1 39 1 49 1 6 1 2 4 31 2 3 1 49 1 6 1 2 6 30 1 3 1 49 1 6 1 2 1 2 3 29 2 3 1 49 1 6 1 2 6 29 1 4 1 46 4 6 1 1 4 2 1 29 1 4 1 45 4 7 1 1 2 1 1 2 2 28 1 4 1 45 4 7 1 1 2 1 5 27 2 4 1 45 3 8 1 2 1 3 8 17 6 5 1 45 46 8 1 48 33 2 3 2 1 1 1 8 1 50 1 5 1 2 1 9 1 1 2 1 2 1 1 2 1 2 3 2 1 1 1 8 1 50 1 5 1 2 1 9 1 1 2 1 2 1 1 2 1 2 3 2 1 1 1 8 1 50 2 4 1 2 1 9 1 1 2 1 2 1 1 2 1 2 3 2 1 1 1 8 1 51 4 1 1 2 1 9 1 1 2 1 15 1 1 8 1 54 27 2 3 2 4 7 1 56 17 1 2 1 1 5 3 4 2 7 1 59 1 9 4 1 2 1 1 5 3 4 3 6 1 59 11 1 2 1 2 1 1 5 3 4 1 1 1 6 1 59 1 8 2 1 2 1 2 1 1 5 3 4 1 1 2 5 1 59 1 8 18 4 1 2 3 3 3 56 12 2 4 1 1 5 2 5 1 4 1 5 1 56 18 1 1 5 2 5 1 4 1 5 1 21 1 1 1 3 5 23 3 8 2 2 1 1 4 5 2 5 1 4 4 3 4 17 1 1 1 3 6 22 3 8 2 2 1 1 1 1 2 5 2 5 1 7 2 2 3 20 1 1 1 1 7 1 1 19 3 8 2 2 1 1 1 2 3 3 2 5 1 7 3 2 2 19 2 1 11 20 2 8 2 2 1 1 1 2 1 1 12 9 2 2 1 20 1 1 12 19 2 8 5 1 1 2 1 4 3 5 1 10 2 1 1 20 1 1 13 18 3 7 1 5 1 2 1 5 22 20 1 1 13 19 51 15 1 1 14 5 3 10 2 7 1 5 1 2 1 12 1 10 9 1 1 13 1 1 23 9 2 7 1 5 1 2 1 12 2 12 8 8 33 6 2 7 1 5 1 2 1 12 3 11 1 3 3 19 31 7 1 5 1 2 1 12 4 10 1 25 1 2 2 1 25 7 1 5 1 2 1 12 2 1 5 6 1 25 2 1 29 6 1 5 1 2 1 12 2 2 1 2 1 6 1 26 1 1 30 5 1 5 4 5 24 24 1 1 28 1 2 4 1 8 1 5 1 6 2 2 1 2 1 6 1 25 1 2 2 2 1 1 22 2 2 3 1 8 1 5 3 4 2 5 1 6 1 27 3 2 1 1 22 3 2 2 1 8 1 7 1 4 2 5 1 6 1 17 1 6 1 1 4 2 1 1 1 1 20 4 2 1 1 8 1 7 1 4 2 5 1 6 1 22 3 3 36 13 1 2 1 4 2 5 1 6 1 2 1 8 1 12 1 3 2 2 1 1 1 1 1 1 43 4 8 6 4 21 1 3 2 2 34 4 2 8 1 4 1 4 1 1 1 31 6 2 7 1 16 6 1 2 1 4 2 6 1 1 1 4 1 4 1 1 11 7 1 13 1 3 2 4 5 1 30 15 1 4 1 1 1 16 1 14 1 3 2 4 35 16 1 4 1 1 1 13 24 3 26 3 5 18 21 18 1 3 1 7 3 1 29 21 6 28 1 3 1 7 34 20 1 1 4 28 1 3 1 7 2 2 29 21 1 4 1 28 1 3 1 7 2 2 30 20 1 33 1 3 1 7 2 2 30 20 1 33 47 12 8 37 1 7 34 13 1 1 1 42 1 6 3 2 15 5 9 14 4 41 41 13 2 48 8 1 28 14 1 48 8 1 14 6 1 3 1 17 1 48 23 6 9 13 1 48 23 10 1 3 1 13 1 48 23 10 1 3 1 9 5 48 5 2 27 3 1 7 5 50 3 5 15 14 1 7 1 1 1 52 2 7 14 14 1 7 1 1 1 52 1 7 15 14 1 5 1 3 1 52 1 9 13 14 1 5 1 3 1 64 11 14 1 5 1 3 1 65 12 12 1 5 1 3 1 54 1 15 1 2 1 15 1 5 1 3 1 55 1 3 2 2 1 2 5 2 1 15 16 54 2 2 11 19 3 1 1 1 1 4 1 48 12 8 1 19 3 1 1 1 1 4 1 35 34 19 7 4 1 35 1 12 1 19 1 19 4 2 1 4 1 35 1 12 1 17 37 32 1 12 1 17 1 14 3 4 3 3 1 4 1 2 2 31 14 17 1 99 1 99 1 99 1 1 2 96 1 1 1 97 1 1 2 27385 -1
+
+#QbitsRLE   999 -1
+
+
+#SWORD
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade '`hThe `aO`hb`as`hi`ad`ki`aa`hn `iH`be`ia`br`it `hof `aD`ba`am`bn`aa`bt`ai`bo`an```h'``~
+Desc `hThis Reaver blade bares the inscription '`hThe `aO`hb`as`hi`ad`ki`aa`hn `iH`be`ia`br`it `hof `aD`ba`am`bn`aa`bt`ai`bo`an```h'.``~
+ExF 0 119443459
+BS2Cap 5 7 7 0 4 7 2
+BS2Char 5 5 5 0 0 1 2
+BBCap 2 0 0 0 0
+BBChar 2 0 0 0 0
+Cardslot 5
+WearL -1
+Cost 0
+Vlues  1 9 15 3 0 0 0 0 0 0 0 0 0
+Affc 'armor'   1  87  -1  12  18          0 0 ''
+Affc 'armor'   1  87  -1   7  19          0 0 ''
+End
+
+#END

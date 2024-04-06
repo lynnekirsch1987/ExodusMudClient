@@ -1,0 +1,28 @@
+* File: pguard.scr
+* Mob: The Gate-Guard(19099)
+
+#TRIGGER openit
+Type 99
+Sc
+   unlock north
+   wait 1~
+Sc
+   open north
+   emote bows deeply.
+   wait 10~
+Sc
+   close north
+   lock north
+   halt once~
+End
+
+#TRIGGER byebye
+Type 6
+Sc
+   close north
+   lock north
+   halt once~
+End
+
+#END
+

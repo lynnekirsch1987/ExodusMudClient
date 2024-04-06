@@ -1,0 +1,18 @@
+* File thesdog.scr
+* Mob stray dog (4058)
+
+#TRIGGER doGtriGa
+Type 10
+Sc
+mfunc %doGtriGa-from% %doGbiSkIt% name
+wfunc %doGnumbAh% random 0 5
+if (%doGnumbAh% == 3)
+    emote barks wildly, running around your feet!
+    halt once~
+Sc
+if (%doGnumbAh% == 5)
+    cmd slobber %doGbiSkIt%
+    cmd emote slavers madly, then whimpers over to a corner.
+    halt once~
+End
+#END

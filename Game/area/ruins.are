@@ -1,0 +1,3318 @@
+#AREA
+ 6~
+ruins.are~
+`g--`eUnderwater Ruins`g--``~
+{75 85} Widrak  `g--`eUnderwater Ruins`g--``~
+morkoth~
+12061 12211
+18 0 0
+0 0
+underwater ruins~
+#MOBILES
+#12061
+morkoth~
+The morkoth~
+The evil morkoth is here, holding dominion over his lair.
+~
+`lThe Morkoth is a hideous creature that appears to be a cross between a
+large humanoid and an octopus.  Legend has it he began life as a Canthi, but
+was perverted by the evil of the magic he studied.  He looks at you with
+cold `kyellow`l eyes that hold only hatred for anyone who would violate his
+domain.  You see his muscular body is covered in scales as he holds a long
+tentacle out at you pointing an accusing claw as he shouts something in a
+magical language you cannot understand.  `` 
+~
+human~
+0 0 0 0
+ABEFGc CDFHJNOVbe -1000 12061
+95 120 10d200+7659 50d50+500 10d6+50 suction
+-60 -60 -60 999 -60
+0 -1 ADEFHKO BCHILQRa EN OP
+stand stand male 1000
+AHJMV ABCDEFGHIJKa 26 26 26 26 26 26 30292
+large flesh~
+0 0 0 400
+1
+~
+~
+#12062
+Kuo-toa~
+A kuo-toa~
+A kuo-toa comes at you with a trident!
+~
+The fishmen of the deep are the bane of sailors and fishermen.
+~
+fish~
+0 0 0 0
+ABCFGN EFGJNOVbe -740 0
+70 80 10d200+4203 3d40+320 6d10+45 shbite
+-29 -29 -29 999 -16
+A 1 AFH ABNQRa CDH ITXY
+stand stand either 0
+AHMV ABCDEFGHIJKQa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 350
+0
+~
+~
+#12063
+Dragon Turtle~
+A dragon turtle~
+You stumble upon a hunting dragon turtle who looks very happy...
+~
+Staggeringly huge, the dragon turtle could take you out in one bite of its
+immense jaws.
+~
+fish~
+0 0 0 0
+ABEGU CNObe -750 0
+56 56 10d200+1640 2d40+230 5d10+25 bite
+-55 -55 -55 999 -55
+0 -1 HO HILQR CEH IKMNOP
+stand stand either 0
+AGHMV ABCDEFGHIJKUVa 17 17 17 17 17 17 0
+huge flesh~
+0 0 0 200
+0
+~
+~
+#12064
+pleiasaur~
+A pleiasaur~
+The huge form of a sea-going dinosaur confronts you.
+~
+Thought dead for over 6 million years, this creature seems to have survived. 
+Probably by eating mortals such as yourself.
+~
+fish~
+0 0 0 0
+ABGNUe CNObe -500 0
+86 40 10d200+8704 25d10+200 10d3+58 chill
+-60 -60 -60 999 -40
+0 -1 CDFO ABHILQR CEH I
+stand stand either 0
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+giant scales~
+5 5 4000 320
+0
+~
+~
+#12065
+marid djinn~
+A marid djinn~
+A marid djinn races through the water towards you.
+~
+A hulking creature with current for muscles and pearls for teeth confronts you, 
+prepared to defend his home from invasive mortals.
+~
+unique~
+0 0 0 0
+ABEGM CNObe -350 0
+55 55 10d100+1604 4d30+362 5d10+20 beating
+-10 -10 -10 999 0
+0 -1 CDEFK HILR CE OP
+stand stand either 1059
+AHMV ABCDEFGHIJK 17 17 17 17 17 17 0
+large flesh~
+0 0 0 250
+0
+~
+~
+#12066
+lacedon~
+A lacedon~
+The decaying form of a lacedon, an underwater ghoul, shambles towards you.
+~
+The last form of drowned sailors, the lacedon is one of the worst parts 
+of the ocean floor. 
+~
+lich~
+0 0 0 0
+ABEGNO CDFGNObe -350 0
+65 20 10d60+4090 5d10+210 3d6+47 crush
+-23 -23 -23 999 -19
+0 -1 CDEFKO BHILQRc CEIMQ HKMNOPS
+stand stand neutral 649
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 420
+0
+~
+~
+#12067
+sea hag~
+A sea hag~
+Red glowing eyes and seaweed hair herald the arrival of a sea hag.
+~
+Feared by all who make their trade upon the sea, the sea hags often take on
+ships and take the crew for food, stunning them with their poison claws.
+~
+fish~
+0 0 0 0
+ABCFG DEFGJNOVbe 0 0
+58 58 10d100+3029 50d10+250 3d7+45 drain
+-20 -20 -20 999 -19
+0 -1 AFHPQ ABNR CDH IRTXY
+stand stand female 47
+AHMV ABCDEFGHIJKQa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12068
+adventurer~
+An adventurer~
+An adventurer is lost here, searching for the trail of his party.
+~
+You see before a tough looking adventurer. Even though he is separated 
+from the rest of his party, he still looks for a confrontation.
+~
+human~
+0 0 0 0
+ABCFGM EFGJde 0 0
+45 45 10d100+675 4d50+250 5d6+14 slash
+-15 -16 -16 999 -13
+0 -1 FH A CD IR
+stand stand male 520
+AHMV ABCDEFGHIJKQa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 215
+0
+~
+~
+#12069
+wizard~
+A wizard~
+A wizard pokes among the coral, no doubt looking for components.
+~
+Protected by a bubble of air, this wizard hunts for those hard to find 
+spell components.
+~
+human~
+0 0 0 0
+ACFX EFGJNOTVbe 0 0
+65 20 10d140+2069 50d10+250 4d5+36 magic
+-25 -32 -30 999 -21
+0 -1 FH ABN CD IRT
+stand stand male 1059
+AHMV ABCDEFGHIJKQa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12070
+watery guardian~
+The guardian~
+A liquid guardian of the underwater world defends his domain.
+~
+Forged of coral and water, the defender of this portal could eat you for
+breakfast. Fortunately, it looks like he hasn't seen you.
+~
+unique~
+0 0 0 0
+ABEGN CNOVe 0 0
+80 20 10d100+6049 5d6+800 9d6+38 crush
+-60 -60 -60 999 -50
+0 -1 CDEFHKO HIQR CE 0
+stand stand male 9362
+0 0 22 22 22 22 22 22 0
+medium ethereal~
+0 0 0 400
+0
+~
+~
+#12071
+hippocampus~
+A hippocampus~
+A friendly hippocampus plays among the seaweed.
+~
+Half-horse, half-fish, the hippocampus is considered sacred by sailors 
+for the protection they offer to the ships.
+~
+unique~
+0 0 0 0
+ABGe CNOVe 0 12071
+55 55 10d150+3050 10d20+230 4d5+32 chomp
+-20 -20 -20 999 0
+0 -1 CDHOV IR CE KMNOP
+stand stand either 0
+AHMV ACDEFK 17 17 17 17 17 17 0
+large flesh~
+1 0 780 100
+0
+~
+~
+#12072
+hippocampus stallion~
+A hippocampus stallion~
+One of the hippocampi stallions watches over his herd.
+~
+This stallion is the head of this herd of seahorses.
+~
+unique~
+0 0 0 0
+ABGW CVbe 0 0
+55 55 10d165+2650 5d50+240 4d3+34 chomp
+-14 -14 -14 999 -3
+0 -1 CDEFHKO ILR EH 0
+stand stand male 0
+AHMV ACDEFK 17 17 17 17 17 17 0
+large flesh~
+0 0 0 430
+0
+~
+~
+#12073
+nereid~
+A nereid~
+A nereid is here, seeking to lure you into a trap.
+~
+Almost invisible, you only perceive the outline in the foam and 
+seaweed around you.
+~
+fish~
+0 0 0 0
+ABFGM FGJOVbe 0 0
+53 53 10d100+2940 4d50+360 5d7+18 magic
+-20 -20 -20 999 -20
+0 -1 FH ABNR CDH ITY
+stand stand female 0
+AHMV ABCDEFGHIJKQa 17 17 17 17 17 17 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#12074
+water weird~
+A water weird~
+A water weird rises from the ground, prepared for a confrontation.
+~
+Almost invisible compared with the dim ground and sky, you have a hard time
+making out this creature as it prepares to eat you.
+~
+fish~
+0 0 0 0
+ABG CDFNOVbe 0 0
+80 20 10d200+5759 3d40+240 10d3+40 shbite
+-40 -40 -40 999 -30
+0 -1 CDFH HILR CEHL IN
+stand stand neutral 0
+ABHMVc ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium flesh~
+0 0 0 320
+0
+~
+~
+#12075
+locathah~
+A locathah~
+Turning to growl at you, you realize that you have trapped a locathah away from his patrol.
+~
+Similar to the kuo-toa, the locathah are not as physically powerful but are 
+much more cunning.
+~
+fish~
+0 0 0 0
+ABCFGHQR FJNOVbe 0 0
+50 50 10d100+2059 50d10+250 5d7+16 punch
+-16 -16 -16 999 -3
+0 -1 AFH R CDH ITX
+stand stand either 0
+AHMV ABCDEFGHIJKQa 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#12076
+aquatic elf~
+An aquatic elf~
+An aquatic elf swims up from the depths, net at the ready.
+~
+Skin of a deep green camouflages the aquatic elf so that it can sneak up on
+you.
+~
+elf~
+0 0 0 0
+ABG CEFJNOVbe 346 0
+60 60 10d100+4500 5d20+160 10d3+40 sting
+-20 -20 -20 999 -10
+0 -1 EFHKP R BC NOPZ
+stand stand either 45
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12077
+water spirit~
+A water spirit~
+A water spirit moves about lithely preparing delights for unseen guests.
+~
+Appearing as a misty, brownish form, the Water spirit moves quickly among
+the guests, making sure their plates are always fresh.
+~
+unique~
+0 0 0 0
+ACGHMS IKPUVbe -500 0
+75 20 10d200+5730 3d40+240 10d5+32 shbite
+-30 -30 -30 999 -20
+0 -1 FH BM CD OPS
+stand stand neutral 0
+AHMV ABCDEFGHIJK 21 21 21 21 21 21 0
+medium flesh~
+0 0 0 240
+0
+~
+~
+#12078
+Water spirit~
+A water spirit~
+A water spirit carefully moves about the room, talking to invisible spirits.
+~
+The pale mist of the spirit deftly avoids your attempts at conversation.
+~
+unique~
+0 0 0 0
+ACGH IKNOPUVbe -500 0
+74 20 10d200+5029 25d10+200 10d3+26 shbite
+-20 -20 -20 999 -15
+0 -1 FGH BM CD OPS
+stand stand neutral 0
+AHMV ABCDEFGHIJK 21 21 21 21 21 21 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12079
+shark~
+A shark~
+You cannot help but cringe in fear as the fearsome predatory shark swims by.
+~
+Sleek and terrifying, a long-toothed shark whips back and forth in the water.
+~
+fish~
+0 0 0 0
+ABCFGe EFGJNOTVe 0 12079
+58 58 10d200+2590 1d1+100 10d3+20 bite
+-16 -16 -16 999 0
+0 -1 FH ABNPQR H IT
+stand stand male 0
+AHMV ABCDEFGHIJKQa 18 18 18 18 18 18 0
+medium flesh~
+0 6 600 530
+0
+~
+~
+#12080
+a shark~
+A shark~
+Another deadly shark swims among the ruined guest quarters.
+~
+~
+fish~
+0 0 0 0
+ABCFGe FJVbe 0 14100
+56 56 10d100+3000 50d10+250 4d5+31 bite
+-20 -20 -20 999 0
+0 -1 FH NR H IT
+stand stand male 0
+AHMV ABCDEFGHIJKQa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12081
+water elemental~
+An elemental~
+A water elemental is here, bonded to the morkoth for eternity.
+~
+This is another regular elemental, summoned from its plane to guard the person
+of the morkoth, even though the morkoth hardly needs to be guarded.
+~
+unique~
+0 0 0 0
+ABEG CNOVbe -350 12061
+64 70 10d200+5400 34d1+100 4d3+32 shbite
+-30 -30 -30 999 -20
+D -1 ACDFHLOP BHIR C 0
+stand stand neutral 0
+AHMV ABCDEFGHIJK 19 19 19 19 19 19 0
+large flesh~
+0 0 0 320
+0
+~
+~
+#0
+
+#OBJECTS
+#12061
+ring morkoth~
+the ring of the Morkoth~
+The ring of the Morkoth is here.~
+flesh~
+0
+jewelry 2
+EGI
+0
+AB
+0
+0
+0
+12061
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+71 215 75000 P
+#12062
+tentacle~
+`gthe Tentacle of `cMorkoth``~
+A severed tentacle floats here.~
+flesh~
+0
+weapon 2
+EGIJLT
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 D AD ABF H
+0
+0
+71 40 5000 P
+A
+19 9
+A
+13 14
+E
+tentacle~
+The tentacle of the morkoth seems to retain a little life.
+~
+#12063
+trident~
+a kuo-toan trident~
+A trident lies in the mud.~
+steel~
+0
+weapon 2
+EGIJL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC ABC BC ABD D
+0
+0
+77 210 5000 P
+A
+18 3
+E
+trident~
+This trident has wicked barbs on the end.
+~
+#12064
+sharkskin boots~
+a pair of shark skin boots~
+Well crafted boots made of shark skin are here.~
+scales~
+0
+armor 2
+EGIJLS
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB AC 0
+0
+0
+45 50 1000 P
+A
+2 1
+A
+14 25
+E
+boots~
+These boots are made of tough sharkskin.
+~
+#12065
+sharkskin leggings~
+some shark skin leggings~
+Leggings made of shark skin are on the floor.~
+sharkskin~
+0
+armor 2
+EGIJL
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AC AC D AC 0
+0
+0
+46 50 1000 P
+A
+12 15
+E
+sharkskin leggings~
+These leggings are made of tough sharkskin.
+~
+#12066
+sword belt~
+a sword sheath~
+A thick leather belt lies on the ground.~
+leather~
+0
+container 2
+EGIJL
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+EHI 0 0 CDFI EG
+0
+0
+65 50 0 P
+A
+19 1
+A
+5 -1
+E
+sword belt~
+This bulky belt feels uncomfortable, but with the rapier in hand, you can move
+it faster than the eye.
+~
+#12067
+hammer~
+a stone hammer~
+a heavy stone hammer lies on the ground.~
+steel~
+0
+weapon 2
+EGIJL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C BC BC 0 F
+0
+0
+70 358 409 P
+A
+18 2
+A
+19 3
+E
+hammer~
+This is the hammer used by the marid genies for whupping up on adventurers. 
+~
+#12068
+throne~
+the throne~
+The throne of the morkoth.~
+bone~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A DGH E CFG CFG
+0
+0
+0 0 0 P
+E
+throne~
+The morkoth's throne is crafted of the bones of its victims.
+~
+#12069
+tombstone~
+tombstone~
+A tombstone has fallen over on the ground here.~
+stone~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC EGHIJK EH BCG CDH
+0
+0
+0 0 0 P
+E
+tombstone~
+The name on this tombstone has been long erased.
+~
+#12070
+net~
+an elven net~
+An elven net is in the mud.~
+steel~
+0
+trash 2
+G
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 50 0 P
+E
+net~
+This is a finely woven net. It is quit handy for deflecting the blows
+of ones enemies.
+~
+#12071
+serpent tongue~
+`ea water`a s`ee`ar`ep`ae`en`at``~
+Shrouded in darkness and mystery, a vague outline of some mystical object floats here.~
+flesh~
+0
+gills 2
+JLSTa
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+76 5 2005 P
+A
+12 77
+A
+24 -3
+#12072
+channel undertow~
+`la freshwater channel``~
+`lA thin stream of freshwater leads to a salt channel above.``~
+water~
+0
+portal 2
+STa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n swims up into the currents and is swept away.~
+You swim into the channel and are carried upwards!~
+~
+~
+-1 0 G DFGHJKLMNO A
+0
+0
+0 0 0 P
+#12073
+coral key~
+`ga coral key``~
+`gA key made of coral lies here.``~
+coral~
+0
+key 2
+HMPSTYZc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 50 0 P
+#12074
+portal~
+the `kquest`` portal~
+The seventh magical `kquest`` portal is slowly fading away.~
+void~
+15
+portal 2
+RST
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+$n steps into nothing and becomes nothing.~
+You step into the portal.~
+~
+~
+A 0 G DEFGHK A
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#12061
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12063
+D1
+~
+~
+0 0 12066
+D2
+~
+~
+0 0 12068
+D3
+~
+~
+0 0 12065
+S
+#12062
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12063
+D2
+~
+~
+0 0 12065
+D3
+~
+~
+0 0 12132
+S
+#12063
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12064
+D2
+~
+~
+0 0 12061
+D3
+~
+~
+0 0 12062
+S
+#12064
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.  
+~
+0 AX 11
+0
+~
+I 0 D2
+~
+~
+0 0 12066
+D3
+~
+~
+0 0 12063
+S
+#12065
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12062
+D1
+~
+~
+0 0 12061
+D2
+~
+~
+0 0 12067
+D3
+~
+~
+0 0 12133
+S
+#12066
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12064
+D1
+~
+~
+0 0 12070
+D2
+~
+~
+0 0 12069
+D3
+~
+~
+0 0 12061
+S
+#12067
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12065
+D1
+~
+~
+0 0 12068
+D2
+~
+~
+0 0 12105
+D3
+~
+~
+0 0 12134
+S
+#12068
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12061
+D1
+~
+~
+0 0 12069
+D2
+~
+~
+0 0 12114
+D3
+~
+~
+0 0 12067
+S
+#12069
+0 0
+~
+~
+~
+0 0 0
+The Central Courtyard~
+Mildewy bricks lush with green growth and kelp vines are all over the
+place.  This was once the main courtyard of the temple enclave, where
+believers and keepers of the faith would gather to pay homage to the gods
+under the guidance of the priests.  Now completely submerged, a hundred
+leagues under the ocean, you wonder what, or who, might have caused this
+destruction.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12066
+D1
+~
+~
+0 0 12099
+D2
+~
+~
+0 0 12123
+D3
+~
+~
+0 0 12068
+S
+#12070
+0 0
+~
+~
+~
+0 0 0
+Fallen Entryway~
+What once must have been an amazingly beautiful entryway now has large
+marble blocks scattered about.  Claimed by sea creatures as their own
+dominion, vines, kelp, coral, and small fish are everywhere.  The entryway
+leads into what used to be a sacred temple.  
+~
+0 A 11
+0
+~
+I 0 D1
+~
+~
+0 0 12071
+D3
+~
+~
+0 0 12066
+S
+#12071
+0 0
+~
+~
+~
+0 0 0
+Temple Antechamber~
+More ruined art and wrecked mosaics are littered all around you.  Signs
+of decay are visible, in everything unnatural to this underwater realm. 
+Once inhabited by people, now only sharks roam freely through the archways
+of the temple.  
+~
+0 AD 11
+0
+~
+I 0 D1
+~
+~
+0 0 12072
+D3
+~
+~
+0 0 12070
+S
+#12072
+0 0
+~
+~
+~
+0 0 0
+Temple Chamber~
+This was once the main chamber of the temple, where sermons and teachings
+were given three times daily by the priests who inhabited this place.
+Examining the holy symbols on the walls, you wonder what wrath must have
+incurred for this temple and city to have been left in this state, a hundred
+leagues under the water, and in shambles.
+~
+0 AD 11
+0
+~
+I 0 D0
+~
+~
+0 0 12086
+D1
+~
+~
+0 0 12074
+D2
+~
+~
+0 0 12073
+D3
+~
+~
+0 0 12071
+S
+#12073
+0 0
+~
+~
+~
+0 0 0
+Temple Chamber~
+This was once the main chamber of the temple, where sermons and teachings
+were given three times daily by the priests who inhabited this place.
+Examining the holy symbols on the walls, you wonder what wrath must have
+incurred for this temple and city to have been left in this state, a hundred
+leagues under the water, and in shambles.
+~
+0 ADX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12072
+D1
+~
+~
+0 0 12075
+D3
+~
+~
+0 0 12094
+S
+#12074
+0 0
+~
+~
+~
+0 0 0
+The Main Chamber of the Temple~
+This was once the main chamber of the temple, where audiences would
+gather to listen enraptured to the orations of the holy High Priests.  Moss
+covered benches float in fragments about the room, symbolic of the pagan
+divergence which split apart this once sacred place.  A passage stands open,
+where once stood a grandiose throne.  
+~
+0 AD 11
+0
+~
+I 0 D0
+~
+~
+0 0 12087
+D1
+~
+~
+0 0 12085
+D2
+~
+~
+0 0 12075
+D3
+~
+~
+0 0 12072
+S
+#12075
+0 0
+~
+~
+~
+0 0 0
+Temple Chamber~
+This was once the main chamber of the temple, where sermons and teachings
+were given three times daily by the priests who inhabited this place.
+Examining the holy symbols on the walls, you wonder what wrath must have
+incurred for this temple and city to have been left in this state, a hundred
+leagues under the water, and in shambles.
+~
+0 AD 11
+0
+~
+I 0 D0
+~
+~
+0 0 12074
+D2
+~
+~
+0 0 12076
+D3
+~
+~
+0 0 12073
+S
+#12076
+0 0
+~
+~
+~
+0 0 0
+A precarious ruined passage~
+This ruined passageway leads south to the priests' living quarters. 
+Wrecked chambers float in shambles to the left and right of you.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12075
+D1
+~
+~
+0 0 12079
+D2
+~
+~
+0 0 12077
+D3
+~
+~
+0 0 12080
+S
+#12077
+0 0
+~
+~
+~
+0 0 0
+Ruined Passageway~
+The ruined passageway continues south and enters the graveyard. More cells are
+to the left and the right.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12076
+D1
+~
+~
+0 0 12081
+D2
+~
+~
+0 0 12078
+D3
+~
+~
+0 0 12082
+S
+#12078
+0 0
+~
+~
+~
+0 0 0
+Ruined Passageway~
+Here the shattered walls of the passageway end at what used to be the
+wall of the temple.  Now it just opens out into the graveyard, dwelling
+place of the undead.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12077
+D1
+~
+~
+0 0 12083
+D2
+~
+~
+0 0 12098
+D3
+~
+~
+0 0 12084
+S
+#12079
+0 0
+~
+~
+~
+0 0 0
+A Wrecked Cell~
+This cell, formerly the home of a monk, is now the home of various fish and
+other underwater life forms.
+~
+0 AX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12076
+S
+#12080
+0 0
+~
+~
+~
+0 0 0
+A Wrecked Cell~
+This small room, now bereft of walls, has become the home for a family of
+fish.  
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12076
+S
+#12081
+0 0
+~
+~
+~
+0 0 0
+A Wrecked Cell~
+Hungry sharks and octopi now roam through the halls of the temple and through
+the cells.
+~
+0 AX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12077
+S
+#12082
+0 0
+~
+~
+~
+0 0 0
+A Wrecked Cell~
+Acolytes and novices used to live in these cells. Now only the undead and sea-
+life live here.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12077
+S
+#12083
+0 0
+~
+~
+~
+0 0 0
+A Wrecked Cell~
+The remnants of a wooden bunk can be seen down through the coral
+formations and the various debris.  
+~
+0 AX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12078
+S
+#12084
+0 0
+~
+~
+~
+0 0 0
+A Wrecked Cell~
+This cell, formerly the home of a monk, is now the home of various fish and
+other underwater life forms.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12078
+S
+#12085
+0 0
+~
+~
+~
+0 512 0
+A once magnificent bedroom~
+Only ruins remain of what was once the magnificent bedroom of a High
+Priest.  A faded gilded bed decays in the corner, amidst the kelp that
+flourishes everywhere, giving the room an eerie feeling.  You feel as if you
+have tread upon the domain of a completely dead enclave, viewing the
+belongings of people who must have once lived here with vitality.  
+~
+0 ADNX 11
+10
+You cannot squeeze another body into that room right now.~
+I 0 D3
+~
+~
+0 0 12074
+S
+#12086
+0 0
+~
+~
+~
+0 0 0
+Temple Chamber~
+This was once the main chamber of the temple, where sermons and teachings
+were given three times daily by the priests who inhabited this place. 
+Examining the holy symbols on the walls, you wonder what wrath must have
+incurred for this temple and city to have been left in this state, a hundred
+leagues under the water, and in shambles.  
+~
+0 ADX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12087
+D2
+~
+~
+0 0 12072
+S
+#12087
+0 0
+~
+~
+~
+0 0 0
+The Temple Chamber~
+This part of the temple heads north into a small hallway, which used to
+house the priests' quarters.  Kelp and moss float down all around you,
+having been loosened by the water from the stone structure of the temple
+above.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12088
+D3
+~
+~
+0 0 12086
+S
+#12088
+0 0
+~
+~
+~
+0 0 0
+A Ruined Passageway~
+This passageway looks precarious to traverse, being that it is lined with
+huge cracked blocks of marble.  You look nervously above and around you,
+hoping that none of the blocks falls on you and traps you underwater.  The
+once gleaming marble is covered with barnacles and moss - you'll notice that
+if you brush up against it, your skin will be streaked with green.  
+~
+0 ADX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12091
+D1
+~
+~
+0 0 12089
+D2
+~
+~
+0 0 12087
+D3
+~
+~
+0 0 12090
+S
+#12089
+0 0
+~
+~
+~
+0 0 0
+Former Priest's Quarters~
+Though these quarters are destroyed and uninhabitable for anything except
+schools of fish, they once were the most well appointed priests' domiciles
+in existence.  Not afraid to flaunt the opulent wealth of the church, this
+room was once decorated with the finest of silk and velvets.  
+~
+0 ADX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12088
+S
+#12090
+0 0
+~
+~
+~
+0 0 0
+Former Priests Quarters~
+These quarters, though they are now completely destroyed, were once
+rather well-appointed.  You can see that a lot of care was taken into
+providing for these priests, evidenced by the intricate iron canopy bed that
+still sits in a corner of the room.  You wonder how it is that with all this
+luxury the priests ever found time for delivering sermons and prosthelyzing.
+~
+0 ADX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12088
+S
+#12091
+0 0
+~
+~
+~
+0 0 0
+Ruined Passageway~
+The cracked marble blocks that constitute a ceiling here lowers a bit,
+forcing you to duck your head so as to not disturb the hazardous settlement
+of the rocks.  It is bizarre travelling this deserted hallway, as you can
+imagine it was once filled with the lively activity of priests and acolytes
+travelling from class to church to abode.  
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12092
+D2
+~
+~
+0 0 12088
+D3
+~
+~
+0 0 12093
+S
+#12092
+0 0
+~
+~
+~
+0 0 0
+Acolyte's Quarters~
+Slighty smaller than the other rooms, this must have once been the room
+of an acolyte.  A few remnants of furniture still remain here, though
+schools of fish and intricate sea flora have claimed them as their own.  
+~
+0 ADX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12091
+S
+#12093
+0 0
+~
+~
+~
+0 0 0
+Priest Quarters~
+More quarters, once resplendent, have fallen to time and the elements. 
+Erosion has eaten away at the marble, causing the large blocks to not be
+perfectly smooth as they once were.  The surface of what remains of the
+walls is pock marked with sea life that clings to the marble.  
+~
+0 ADX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12091
+S
+#12094
+0 0
+~
+~
+~
+0 0 0
+Path to the Graveyard~
+Only broken paving stones remain to mark the path to the temple graveyard.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12073
+D2
+~
+~
+0 0 12095
+S
+#12095
+0 0
+~
+~
+~
+0 0 0
+Swimming before the Graveyard~
+You now stand before the temple graveyard. Even through the water, you can
+hear the troubled moans of the restless dead.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12094
+D2
+~
+~
+0 0 12097
+S
+#12096
+0 0
+~
+~
+~
+0 0 0
+A path through the graveyard~
+Tombstones are everywhere, fallen over in the sinking of the city and covered
+in kelp and coral. Shadows flicker around you.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12097
+D2
+~
+~
+0 0 12099
+S
+#12097
+0 0
+~
+~
+~
+0 0 0
+A path through the graveyard~
+A large almost gone rusted iron gate heads north toward the temple here.
+More tombstones are around you.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12095
+D1
+~
+~
+0 0 12098
+D2
+~
+~
+0 0 12100
+D3
+~
+~
+0 0 12096
+S
+#12098
+0 0
+~
+~
+~
+0 0 0
+An entrance to the graveyard~
+Tombstones and fish are all you can see. That and the temple wall to the north
+that leads into a ruined passageway.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12078
+D2
+~
+~
+0 0 12101
+D3
+~
+~
+0 0 12097
+S
+#12099
+85 500
+~
+~
+~
+0 0 0
+The Graveyard Entrance~
+An iron gate heads west into the central courtyard.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12096
+D1
+~
+~
+0 0 12100
+D2
+~
+~
+0 0 12102
+D3
+~
+~
+0 0 12069
+S
+#12100
+0 0
+~
+~
+~
+0 0 0
+A path through the graveyard~
+Tombstones and fish are around you in all directions.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12097
+D1
+~
+~
+0 0 12101
+D2
+~
+~
+0 0 12103
+D3
+~
+~
+0 0 12099
+S
+#12101
+0 0
+~
+~
+~
+0 0 0
+A path through the graveyard~
+An eerie feeling overwhelms you as you approach this crypt.  It has
+cracked open since the sinking of the city and you can see inside clearly.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12098
+D2
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12100
+S
+#12102
+0 0
+~
+~
+~
+0 0 0
+A path through the graveyard~
+The undead seem to be all around you. It gives you goosebumps.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12099
+D1
+~
+~
+0 0 12103
+S
+#12103
+0 0
+~
+~
+~
+0 0 0
+A path through the graveyard~
+Kelp vines sway slowly in the slight current.  The scattered tombstones
+are really depressing.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12100
+D1
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12102
+S
+#12104
+0 0
+~
+~
+~
+0 0 0
+A path through the graveyard~
+More tombstones.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12101
+D3
+~
+~
+0 0 12103
+S
+#12105
+0 0
+~
+~
+~
+0 0 0
+A street lost to time~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12067
+D1
+~
+~
+0 0 12106
+D2
+~
+~
+1 0 12108
+D3
+~
+~
+0 0 12107
+S
+#12106
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 AX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12105
+S
+#12107
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12105
+S
+#12108
+0 0
+~
+~
+~
+0 0 0
+A street lost to time~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12105
+D1
+~
+~
+0 0 12109
+D2
+~
+~
+0 0 12111
+D3
+~
+~
+0 0 12110
+S
+#12109
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 AX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12108
+S
+#12110
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12108
+S
+#12111
+0 0
+~
+~
+~
+0 0 0
+A street lost to time~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12108
+D1
+~
+~
+0 0 12112
+D3
+~
+~
+0 0 12113
+S
+#12112
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 AX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12111
+S
+#12113
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12111
+S
+#12114
+0 0
+~
+~
+~
+0 0 0
+A Cluttered Street~
+Debris litters what once was the street of this city, broken pieces of
+buildings and people's lives.  Now the once glimmering marble is decayed and
+worn, used as nests for sea turtles and sharks.  
+~
+0 ADX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12068
+D1
+~
+~
+0 0 12115
+D2
+~
+~
+0 0 12117
+D3
+~
+~
+0 0 12116
+S
+#12115
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+Once the entrancing melody of children at play filled this house.  Now
+submerged, its residents are long dead, having left behind only memories
+that are lost forever in the moss covered stone that rots slowly in the deep
+ocean waters.  
+~
+0 ADX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12114
+S
+#12116
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+Once the entrancing melody of children at play filled this house.  Now
+submerged, its residents are long dead, having left behind only memories
+that are lost forever in the moss covered stone that rots slowly in the deep
+ocean waters.
+~
+0 ADX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12114
+S
+#12117
+0 0
+~
+~
+~
+0 0 0
+A Cluttered Street~
+Debris litters what once was the street of this city, broken pieces of
+buildings and people's lives.  Now the once glimmering marble is decayed and
+worn, used as nests for sea turtles and sharks.
+~
+0 ADX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12114
+D1
+~
+~
+0 0 12118
+D2
+~
+~
+0 0 12120
+D3
+~
+~
+0 0 12119
+S
+#12118
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+Once the entrancing melody of children at play filled this house.  Now
+submerged, its residents are long dead, having left behind only memories
+that are lost forever in the moss covered stone that rots slowly in the deep
+ocean waters.
+~
+0 ADX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12117
+S
+#12119
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+Once the entrancing melody of children at play filled this house.  Now
+submerged, its residents are long dead, having left behind only memories
+that are lost forever in the moss covered stone that rots slowly in the deep
+ocean waters.  
+~
+0 ADX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12117
+S
+#12120
+0 0
+~
+~
+~
+0 0 0
+A Cluttered Street~
+Debris litters what once was the street of this city, broken pieces of
+buildings and people's lives.  Now the once glimmering marble is decayed and
+worn, used as nests for sea turtles and sharks.
+~
+0 ADX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12117
+D1
+~
+~
+0 0 12121
+D3
+~
+~
+0 0 12122
+S
+#12121
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+Once the entrancing melody of children at play filled this house.  Now
+submerged, its residents are long dead, having left behind only memories
+that are lost forever in the moss covered stone that rots slowly in the deep
+ocean waters.  
+~
+0 ADX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12120
+S
+#12122
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+Once the entrancing melody of children at play filled this house.  Now
+submerged, its residents are long dead, having left behind only memories
+that are lost forever in the moss covered stone that rots slowly in the deep
+ocean waters.
+~
+0 ADX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12120
+S
+#12123
+0 0
+~
+~
+~
+0 0 0
+A Forgotten Street~
+You swim down another lonely street, its name eroded and lost forever to
+time.  Cluttered debris floats nearby, alongside destroyed buildings
+surrounding your makeshift path.  If not for the complete silence
+surrounding you, you could almost imagine that this was once a lively and
+vibrant place.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12069
+D1
+~
+~
+0 0 12124
+D2
+~
+~
+0 0 12126
+D3
+~
+~
+0 0 12125
+S
+#12124
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family.  Now it stands empty,
+its family long dead, a mocking testament to time.  
+~
+0 ADX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12123
+S
+#12125
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family.  Now it stands
+empty, its family long dead, a mocking testament to time.  
+~
+0 ADX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12123
+S
+#12126
+0 0
+~
+~
+~
+0 0 0
+A Forgotten Street~
+You swim down another lonely street, its name eroded and lost forever to
+time.  Cluttered debris floats nearby, alongside destroyed buildings
+surrounding your makeshift path.  If not for the complete silence
+surrounding you, you could almost imagine that this was once a lively and
+vibrant place.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12123
+D1
+~
+~
+0 0 12127
+D2
+~
+~
+0 0 12129
+D3
+~
+~
+0 0 12128
+S
+#12127
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family.  Now it stands
+empty, its family long dead, a mocking testament to time.  
+~
+0 AX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12126
+S
+#12128
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family.  Now it stands
+empty, its family long dead, a mocking testament to time.  
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12126
+S
+#12129
+0 0
+~
+~
+~
+0 0 0
+A Forgotten Street~
+You swim down another lonely street, its name eroded and lost forever to
+time.  Cluttered debris floats nearby, alongside destroyed buildings
+surrounding your makeshift path.  If not for the complete silence
+surrounding you, you could almost imagine that this was once a lively and
+vibrant place.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12126
+D1
+~
+~
+0 0 12130
+D3
+~
+~
+0 0 12131
+S
+#12130
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family.  Now it stands
+empty, its family long dead, a mocking testament to time.  
+~
+0 AX 11
+0
+~
+I 0 D3
+~
+~
+0 0 12129
+S
+#12131
+0 0
+~
+~
+~
+0 0 0
+A Ruined Residence~
+This residence was once filled with a happy family.  Now it stands empty,
+its family long dead, a mocking testament to time.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12129
+S
+#12132
+0 0
+~
+~
+~
+0 0 0
+A Submerged Market Street~
+Shadows and shapes flicker among the abundant kelp and seaweed that
+flourishes here.  This ocassional movement that sometimes you catch in the
+corner of your eye is the only that exists.  Except for the rhythmic
+swaying of the kelp beds, everything here is silent and dead.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12062
+D2
+~
+~
+0 0 12133
+D3
+~
+~
+0 0 12135
+S
+#12133
+0 0
+~
+$n swims into the ruins of what used to be a bustling marketplace.~
+~
+0 0 0
+Once a bustling marketplace~
+Once wagons used to bustle along this street, bringing precious
+commodities from all over the world.  Now only fish traverse this path,
+rippling small waves in their wake, the source of the only movement around.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12132
+D1
+~
+~
+0 0 12065
+D2
+~
+~
+0 0 12134
+D3
+~
+~
+0 0 12136
+S
+#12134
+0 0
+~
+~
+~
+0 0 0
+A Submerged Residential Street~
+It is almost impossible to tell that this was once a residential street,
+as the edifices once dedicated to making it so have long since disintegrated
+to the ocean waters.  Only a few skeletal structures remain of these once
+thriving homes, making you wonder if life is really so transient that any
+sign of the vibrance that once existed can really disappear with time.  You
+want to think that life is eternal, that it will always exist, but these
+desolate remnants are proof that you, like the people that once lived here,
+are just specks of dust in this world.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12133
+D1
+~
+~
+0 0 12067
+D3
+~
+~
+0 0 12137
+S
+#12135
+0 0
+~
+~
+~
+0 0 0
+A Submerged Market Street~
+Shadows and shapes flicker among the abundant kelp and seaweed that
+flourishes here.  This ocassional movement that sometimes you catch in the
+corner of your eye is the only that exists.  Except for the rhythmic
+swaying of the kelp beds, everything here is silent and dead.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12132
+D3
+~
+~
+0 0 12138
+S
+#12136
+0 0
+~
+$n swims into the ruins of what used to be a bustling marketplace.~
+Ducking to avoid the precariously  placed stones about $s head, $n continues swimming about the ruined marketplace.~
+0 0 0
+Once a bustling marketplace~
+Once wagons used to bustle along this street, bringing precious
+commodities from all over the world.  Now only fish traverse this path,
+rippling small waves in their wake, the source of the only movement around.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12133
+D3
+~
+~
+0 0 12139
+S
+#12137
+0 0
+~
+~
+~
+0 0 0
+A Submerged Residential Street~
+The haunting echoes of a child's laughter and a mother's reprimand linger
+here, as if the spirits of those now deceased refused to relinquish their
+hold on the mortal world.  Holding yourself close, you anxiously look about
+in fear that one of these spectres will confront you with the starkness of
+your own mortality.  
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12134
+D3
+~
+~
+0 0 12140
+S
+#12138
+0 0
+~
+~
+~
+0 0 0
+A Submerged Market Street~
+Shadows and shapes flicker among the abundant kelp and seaweed that
+flourishes here.  This ocassional movement that sometimes you catch in the
+corner of your eye is the only that exists.  Except for the rhythmic
+swaying of the kelp beds, everything here is silent and dead.  
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12135
+D3
+~
+~
+0 0 12141
+S
+#12139
+0 0
+~
+~
+~
+0 0 0
+Once a bustling marketplace~
+Once wagons used to bustle along this street, bringing precious
+commodities from all over the world.  Now only fish traverse this path,
+rippling small waves in their wake, the source of the only movement around. 
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12136
+D3
+~
+~
+0 0 12142
+S
+#12140
+0 0
+~
+~
+~
+0 0 0
+A Submerged Residential Street~
+You wonder why everything hasn't completely eroded, because what is left
+has been completely corroded and clings to existence by only a thread. 
+Slabs of marble and stone protrude from the ground at haphazard angles,
+providing an intricate maze to the sea creatures that swim by.  
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12137
+D3
+~
+~
+0 0 12143
+S
+#12141
+0 0
+~
+~
+~
+0 0 0
+A Submerged Cul de Sac~
+This was once a pleasantly shaded cul de sac, protected from the sun by
+the expansive branches of oak trees.  Now destined to never see sunlight
+again, it is home to a myriad of sea creatures and flora that flourish
+beneath and between cracks in the large marble blocks.
+~
+0 AX 11
+0
+~
+I 0 D1
+~
+~
+0 0 12138
+D2
+~
+~
+0 0 12142
+S
+#12142
+0 0
+~
+~
+~
+0 0 0
+A Submerged Cul de Sac~
+This was once a pleasantly shaded cul de sac, protected from the sun by
+the expansive branches of oak trees.  Now destined to never see sunlight
+again, it is home to a myriad of sea creatures and flora that flourish
+beneath and between cracks in the large marble blocks.
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12141
+D1
+~
+~
+0 0 12139
+D2
+~
+~
+0 0 12143
+S
+#12143
+0 0
+~
+~
+~
+0 0 0
+A Submerged Cul de Sac~
+This was once a pleasantly shaded cul de sac, protected from the sun by
+the expansive branches of oak trees.  Now destined to never see sunlight
+again, it is home to a myriad of sea creatures and flora that flourish
+beneath and between cracks in the large marble blocks.  
+~
+0 AX 11
+0
+~
+I 0 D0
+~
+~
+0 0 12142
+D1
+~
+~
+0 0 12140
+S
+#0
+
+#RESETS
+M 0 12064  10 12066  2	* A pleiasaur
+M 0 12073  10 12136  2	* A nereid
+M 0 12073  10 12141  2	* A nereid
+M 0 12075  10 12134  2	* A locathah
+M 0 12075  10 12134  2	* A locathah
+M 0 12067  10 12096  2	* A sea hag
+M 0 12067  10 12096  2	* A sea hag
+M 0 12067  10 12090  1	* A sea hag
+M 0 12067  10 12093  1	* A sea hag
+M 0 12067  10 12071  1	* A sea hag
+M 0 12063   2 12061  1	* A dragon turtle
+M 0 12063   2 12063  1	* A dragon turtle
+M 0 12065   5 12106  1	* A marid djinn
+E 0 12067   -1   16	* item to A marid djinn
+M 0 12065   5 12107  1	* A marid djinn
+E 0 12067   -1   16	* item to A marid djinn
+M 0 12065   5 12109  1	* A marid djinn
+E 0 12067   -1   16	* item to A marid djinn
+M 0 12065   5 12110  1	* A marid djinn
+E 0 12067   -1   16	* item to A marid djinn
+M 0 12065   5 12112  1	* A marid djinn
+E 0 12067   -1   16	* item to A marid djinn
+M 0 12062   3 12074  3	* A kuo-toa
+E 0 12063   -1   16	* item to A kuo-toa
+M 0 12062   3 12074  3	* A kuo-toa
+E 0 12063   -1   16	* item to A kuo-toa
+M 0 12062   3 12074  3	* A kuo-toa
+E 0 12063   -1   16	* item to A kuo-toa
+M 0 12079   6 12092  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12079   6 12089  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12079   6 12079  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12079   6 12082  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12079   6 12083  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12079   6 12084  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12076  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12072  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12070  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12068  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12091  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12123  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12126  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12117  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12143  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12098  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12121  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12139  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12080  14 12099  1	* A shark
+G 0 12064 -1		* A pair of shark skin boots to A shark
+G 0 12065 -1		* Some shark skin leggings to A shark
+M 0 12066   3 12096  3	* A lacedon
+M 0 12066   3 12097  3	* A lacedon
+M 0 12066   3 12098  3	* A lacedon
+M 0 12066   3 12099  3	* A lacedon
+M 0 12066   3 12100  3	* A lacedon
+M 0 12066   3 12101  3	* A lacedon
+M 0 12066   3 12102  3	* A lacedon
+M 0 12066   3 12103  3	* A lacedon
+M 0 12066   3 12104  3	* A lacedon
+M 0 12076   4 12142  1	* An aquatic elf
+E 0 12070   -1   17	* item to An aquatic elf
+M 0 12076   4 12142  1	* An aquatic elf
+E 0 12070   -1   17	* item to An aquatic elf
+M 0 12076   4 12138  1	* An aquatic elf
+E 0 12070   -1   17	* item to An aquatic elf
+M 0 12076   4 12138  1	* An aquatic elf
+E 0 12070   -1   17	* item to An aquatic elf
+M 0 12068   4 12062  2	* An adventurer
+M 0 12069   4 12062  2	* A wizard
+M 0 12068   4 12066  2	* An adventurer
+M 0 12069   4 12066  2	* A wizard
+M 0 12068   4 12069  2	* An adventurer
+M 0 12069   4 12069  2	* A wizard
+M 0 12070   2 12061  2	* The guardian
+M 0 12070   2 12061  2	* The guardian
+M 0 12071   3 12077  1	* A hippocampus
+M 0 12071   3 12077  1	* A hippocampus
+M 0 12071   3 12077  1	* A hippocampus
+M 0 12071   2 12077  2	* A hippocampus
+M 0 12072   2 12077  2	* A hippocampus stallion
+O 0 12072   0 12061 -1	* `la freshwater channel`` at The Central Courtyard
+M 0 12081   1 12085  4	* An elemental
+M 0 12081   1 12085  4	* An elemental
+M 0 12081   1 12085  4	* An elemental
+M 0 12081   1 12085  4	* An elemental
+M 0 12061   1 12085  1	* The morkoth
+E 0 12062   -1   16	* item to The morkoth
+E 0 12061   -1    2	* item to The morkoth
+E 0 12071   -1   18	* item to The morkoth
+O 0 12068   0 12085 -1	* The throne at A once magnificent bedroom
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 12061 spec_cast_underwater		* The morkoth
+M 12062 spec_nasty		* A kuo-toa
+M 12065 spec_cast_mage		* A marid djinn
+M 12066 spec_cast_undead		* A lacedon
+M 12067 spec_cast_undead		* A sea hag
+M 12069 spec_cast_undead		* A wizard
+M 12073 spec_cast_underwater		* A nereid
+M 12076 spec_cast_underwater		* An aquatic elf
+M 12077 spec_cast_undead		* A water spirit
+M 12078 spec_cast_underwater		* A water spirit
+M 12079 spec_fido		* A shark
+M 12081 spec_cast_underwater		* An elemental
+S
+
+#OT
+#12061
+ring of the Morkoth~
+$char_hp_pct 2~
+8
+65
+trecho `oThe ring of the Morkoth gives renewed life to $name!``~
+100
+0
+pecho $name `oThe ring of the Morkoth gives you renewed life!``~
+100
+0
+restore $name~
+100
+0
+pray 'sanctuary' $name~
+100
+0
+set obj morkoth timer 1~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#0
+#$

@@ -1,0 +1,103 @@
+* File: brother.scr
+* Mob: Brothers of Erion (mob 7905, 7920)
+
+#TRIGGER tick
+Type 3
+Sc
+if ( %zombie% == 1 )
+  say Braaaaiiiiins!
+  getpc %randomdude%
+  cmd kill %randomdude%
+  cmd kill farmer
+  cmd kill merchant
+  cmd kill noble
+  cmd kill knight
+  cmd kill boy
+  cmd kill girl
+  cmd kill priest
+  cmd kill guard
+  cmd kill veteran
+  halt once~
+End
+
+#TRIGGER enter
+Type 5
+Sc
+if ( %zombie% == 1 )
+  getpc %randomdude%
+  cmd kill %randomdude%
+  cmd kill farmer
+  cmd kill noble
+  cmd kill knight
+  cmd kill boy
+  cmd kill girl
+  cmd kill priest
+  cmd kill guard
+  cmd kill veteran
+  halt once~
+End
+
+#TRIGGER zombie
+* Brothers become zombies and attack the Abbot.
+Type 8
+Sc
+if ( %zombie-arg% cmp "zombie" )
+ofunc %zombie-arg% %what% vnum
+ofunc %zombie-arg% %objname% name
+  cmd at 1 load obj 7904
+  cmd at 1 wear medallion
+  cmd set mob brother align -666
+  cmd at 1 string mob brother short `aa zombified brother``
+  cmd at 1 string mob brother long `aA zombified brother is here, wandering aimlessly``
+  cmd at 1 string mob brother name brother zombie
+  let %zombie% == 1
+  emote looks over at you with sunken eyes and deathly pale skin and starts to moan incoherently.
+  walkto 7916
+  halt triggers~
+End
+
+#TRIGGER moveout
+* Now the zombies will march to Thesden
+Type 8
+Sc
+if ( %moveout-arg% cmp "moveout" )
+  walkto 4056
+  halt once~
+End
+
+#TRIGGER backtonormal
+Type 8
+* The necromancer has been killed.  Brothers return to normal.
+Sc
+if ( %backtonormal-arg% cmp "backtonormal" )
+  cmd at 1 remove medallion
+  cmd at 1 drop medallion
+  cmd at 1 chant 'skeletal mutation' self
+  cmd set mob zombie hp 1
+  cmd at 1 restore
+  let %zombie% == 0
+  walkto 7929
+  halt once~
+End
+
+#TRIGGER moves
+Type 11
+* When the zombies get to the Abbot, they attack him.
+Sc
+if ( %zombie% == 1 )
+  getpc %randomdude%
+  cmd kill %randomdude%
+  cmd kill abbot
+  cmd kill farmer
+  cmd kill merchant
+  cmd kill noble
+  cmd kill knight
+  cmd kill boy
+  cmd kill girl
+  cmd kill priest
+  cmd kill guard
+  cmd kill veteran
+  halt once~
+End
+
+#END

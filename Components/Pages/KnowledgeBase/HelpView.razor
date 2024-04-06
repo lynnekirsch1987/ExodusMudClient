@@ -1,0 +1,35 @@
+﻿@inject IHelpFileConverter __converter;
+@using TinyMCE.Blazor;
+<MudDialog>
+    <DialogContent>
+        @(new MarkupString(entry.HelpText))
+    </DialogContent>
+    <DialogActions>
+        See Also:
+        @foreach (var tag in entry.RelatedTags)
+        {
+            <MudChip Variant="Variant.Text" Color="Color.Info">@tag</MudChip>
+        }
+
+        @* <MudButton OnClick="Cancel">Cancel</MudButton>
+        <MudButton Color="Color.Primary" Variant="Variant.Filled" OnClick="Save">Save</MudButton> *@
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+    [Parameter]
+    public HelpEntry entry { get; set; }
+
+    void Cancel() => MudDialog.Cancel();
+
+    private async Task Save()
+    {
+
+        MudDialog.Close(DialogResult.Ok(true));
+    }
+
+
+
+
+}

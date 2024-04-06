@@ -1,0 +1,16 @@
+* File seagull.scr
+* Mob: seagull (14006)
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %whereto% random 14000 14215
+  emote flies away.
+  cmd at 1 wizi 92
+  cmd goto %whereto%
+  cmd at 1 wizi
+  cmd hold malevolent
+  halt once~
+End
+
+#END

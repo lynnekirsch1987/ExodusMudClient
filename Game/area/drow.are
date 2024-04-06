@@ -1,0 +1,4301 @@
+#AREA
+ 6~
+drow.are~
+Drow City~
+{20 40} Drkside  Drow City~
+~
+5100 5199
+11 0 0
+0 0
+Mordalphus~
+#MOBILES
+#5100
+litan slave~
+A litan slave~
+`iA fiery litan slave stands here, looking starved.``
+~
+~
+litan~
+0 0 0 0
+ABH JV -250 0
+20 20 6d40+230 0d9+100 5d5+25 none
+9 9 9 999 10
+0 -1 EFNR H Q CIR
+stand stand male 0
+AHMV ABCDEFGHIJKa 20 5 5 25 18 3 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5101
+drow commoner~
+the drow commoner~
+`aA drow commoner patrols the streets for unwanted intruders.``
+~
+Eyes glitter coldly in a face of blue so deep as to almost be black, as
+this commoner alertly surveys the area.  The easy familiarity with the worn
+weaponry carried and almost paranoid watchfulness of this commoner indicates
+they are unlikely to give directions.  A discreet house badge perches on one
+shoulder.  
+~
+unique~
+0 0 0 0
+ADG F -1000 0
+30 30 10d50+400 5d9+100 5d6+15 pierce
+0 0 0 999 -3
+0 -1 EFNU 0 B NS
+stand stand either 15
+AHMV ABCDEFGHIJK 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5102
+drow noble warrior~
+A drow noble~
+`aA dark, rich-looking drow waits to make his sacrifice to `iLloth`a.``
+~
+~
+unique~
+0 0 0 0
+AB F -1000 0
+35 35 10d61+500 7d9+100 5d5+20 slash
+-3 -3 -3 999 1
+0 -1 EFNU 0 0 NS
+stand stand either 100
+AHMV ABCDEFGHIJK 25 25 25 25 25 25 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5103
+drow noble mage~
+the drow mage noble~
+`aA `bred`a-`brobed`a noble stands here waiting to make a sacrifice to `iLloth`a.``
+~
+~
+unique~
+0 0 0 0
+ABR DF -1000 0
+36 36 10d60+500 5d60+250 5d6+17 magic
+0 0 0 999 -10
+0 -1 FU 0 P NS
+stand stand male 100
+AHMV ABCDEFGHIJK 10 25 25 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5104
+drow noble~
+A drow noble~
+`aA long-robed, gold adorned drow noble stands here idly.``
+~
+~
+unique~
+0 0 0 0
+AB F -1000 0
+35 35 10d40+930 4d50+210 5d6+20 magic
+-3 -3 -3 999 6
+0 -1 EIKU 0 C NS
+stand stand female 200
+AHMV ABCDEFGHIJK 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5105
+drow teacher mage~
+A drow teacher~
+`aA dark, robed figure stands here chanting in an unknown language.``
+~
+~
+elf~
+0 0 0 0
+ABRX EFJOZ -1000 0
+41 41 10d50+100 100d20+500 5d10+30 magic
+-5 -5 -5 999 -50
+MN 62 1 AFUa 0 BCLM NSZ
+stand stand male 5000
+AHMV ABCDEFGHIJKa 4 25 25 10 5 3 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#5106
+drow weapons master~
+The weapons master~
+The drow weapons master is here shadow boxing.
+~
+He definitely knows his way around in combat.
+~
+unique~
+0 0 0 0
+AB FV -1000 0
+39 39 40d20+1405 11d9+100 3d7+20 punch
+0 0 0 999 -6
+0 -1 EFHNU 0 0 0
+stand stand male 750
+AHMV ABCDEFGHIJK 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 400
+0
+~
+wemaster.scr~
+#5107
+drow high priestess~
+A drow high priestess~
+`aA frail, female drow sits in deep meditation.``
+~
+~
+elf~
+0 0 0 0
+ABQ DEFJ -1000 0
+55 42 10d50+1640 12d9+100 5d10+35 wrath
+-4 -4 -4 999 -20
+0 59 4 EFNU 0 BC NSZ
+stand stand female 1500
+AHMV ABCDEFGHIJKa 3 25 25 5 25 25 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5108
+drow matron mother~
+the matron mother~
+The matron mother of the first house is waiting for you.
+~
+She looks like she is about to rip your head off and eat it.
+~
+unique~
+0 0 0 0
+ABNQ DFH -1000 0
+42 42 10d40+1430 2d30+215 5d8+23 beating
+-10 -10 -10 999 -1
+0 -1 EIKU 0 0 0
+stand stand female 1700
+AHMV ABCDEFGHIJK 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5109
+yochlol~
+the yochlol~
+A yochlol appears suddenly, extracting itself out of a swirling mist.
+~
+The yochlol is not in a good mood.
+~
+unique~
+0 0 0 0
+ABF DFH -1000 0
+50 50 10d50+2503 10d20+320 4d5+30 drain
+-11 -11 -11 999 5
+0 -1 EFNU 0 0 0
+stand stand female 4309
+AHMV ABCDEFGHIJK 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+yochlol.scr~
+#5110
+drow guard~
+the drow guard~
+`aAn armored drow guard is here.``
+~
+This soldier has been impeccably trained in the drow academy, and the
+discipline (and perhaps a little fear?)  Instilled in him there is obvious
+in the rigidly correct stance in which he holds his weapon.  Not good enough
+to be an officer, nor a mage, he is clearly intent on taking out his
+frustration on you.  
+~
+unique~
+0 0 0 0
+ABF FJQ -1000 5110
+26 26 10d55+430 6d9+100 4d6+13 slash
+-3 -3 -3 999 -1
+0 -1 EFNU 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5111
+drow scout~
+the drow scout~
+The drow scout is here sneaking among the shadows.
+~
+The drow scout blends so well with her environment, you barely see her form.
+~
+unique~
+0 0 0 0
+AHN FPQ -1000 5111
+22 22 10d30+240 5d9+100 1d10+2 stab
+-4 -4 -4 999 2
+0 -1 EFNU 0 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 300
+0
+~
+drow.scr~
+#5112
+child human~
+A disheveled human child~
+A dirty human child wanders around here, wailing quietly.
+~
+Captured by drow enslavers many months ago, this child is being kept in
+bondage until he is of the age when he can work.
+~
+human~
+0 0 0 0
+AB V -250 0
+5 5 1d1+90 0d0+0 2d3+2 punch
+7 7 7 999 8
+0 -1 0 0 0 HIK
+stand stand male 0
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+small oldstyle~
+0 0 0 100
+3
+child.voc~
+rhchild.scr~
+#5113
+drow guard~
+The drow soldier~
+A soldier of the First House drills mindlessly.
+~
+This soldier, like all the other soldiers of the First House, wears a
+dark uniform with the badge of a spider perched above the symbol of, you
+assume, the First House.  
+~
+unique~
+0 0 0 0
+ABG FJa -1000 5110
+26 26 10d55+430 6d9+100 4d6+4 slash
+-3 -3 -3 999 -1
+0 -1 EFNU 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5114
+goblin slave streetcleaner~
+The goblin streetslave~
+A goblin slave sullenly sweeps the street of refuse.
+~
+A foul goblin sullenly cleans the street.  His piggish eyes are downcast
+and his unfriendly demeanor clearly indicates his lack of joy with his
+current lot in life.  The way that he cringes as you look at him, however,
+convinces you that he has been well disciplined by his evil drow masters.  
+~
+goblin~
+0 0 0 0
+ACGHc J -650 0
+20 20 6d40+230 0d9+100 5d5+3 bite
+9 9 9 999 10
+0 -1 EFJNR 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5115
+dark elf soldier~
+`aa dark elf soldier``~
+`aA dark elf soldier drills here with his troop.``
+~
+This loyal dark elf soldier drills endlessly, hoping for the day that the
+dark elves will spill out of their underground seclusion and destroy their
+cousins of the light.  In the meantime, he is perfectly happy to drill and
+practice his skills in the dangerous games of dark elf politics.  
+~
+elf~
+0 0 0 0
+ABGMTc EFJ -1000 5115
+29 29 10d58+400 10d10+50 5d6+5 charge
+-7 -7 -7 999 1
+0 -1 EFHKLU 0 BCP SZ
+stand stand male 24
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5116
+sleeping dark elf mage drow~
+`aa sleeping dark elf mage``~
+`aCurled deep within the blankets of one cot, a dark elf sleeps soundly.``
+~
+Undoubtedly tired from a long day of wickedness, this dark elf sleeps
+soundly.  Perhaps you should let the dark elf get their rest, as this race
+is not known for their pleasant disposition even when awake.  Like other
+elves, however, you notice the graceful elven beauty that these denizens of
+darkness share with their cousins of the light.  `` 
+~
+elf~
+0 0 0 0
+ABGHR DEFJNOV -1000 0
+38 38 10d101+585 40d10+250 5d8+5 magic
+-1 -1 -1 999 -8
+0 -1 FH 0 ABC NSZ
+stand sleep either 310
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 300
+0
+~
+~
+#5117
+dark elf priestess~
+`aa half-clad priestess``~
+`aA dark elf priestess doesn't appreciate being disturbed while dressing.``
+~
+Mmmm.  Nice.  You obviously disturbed her before she could put on the
+voluminous robe of a cleric on over her undershift.  Her half-undressed
+state forcefully reminds you of the close relationship with the surface
+elves that these dark elves have.  Of course, she's pretty upset that you
+disturbed her while dressing so you aren't given much time to examine her
+assets closely.  
+~
+unique~
+0 0 0 0
+AQ F -1000 0
+35 35 10d40+930 4d50+210 5d6+5 magic
+-3 -3 -3 999 6
+0 -1 EIKU 0 ABCN S
+stand stand female 200
+AHMV ABCDEFGHIJK 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5118
+smith slave human~
+`fa human slave``~
+`fA human slave lies here helplessly, slowly `bbleeding`f to death.``
+~
+Although he is now covered in filth and wasted from the lack of proper
+nutrition, you can tell easily that this young man was once a smith by his
+large build and the numerous burn marks on his hands and wrists.  Now, of
+course, weakened and poisoned by the evil around him, he is barely able to
+do much more than raise his long suffering eyes to beg you to kill him
+quickly, and release him from his torment.  
+~
+human~
+0 0 0 0
+ABGT MY -400 0
+21 21 7d40+240 10d10+50 4d5+4 punch
+-3 -3 -3 999 4
+0 -1 CEFKN 0 0 0
+stand stand male 420
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#5119
+young dark elf runt~
+`aa young dark elf``~
+`aA small dark elf child huddles here in a corner.``
+~
+`aLife is often cruel, as this young child already knows.  This little
+elf is small for their age and no doubt mercilessly picked on by the larger
+and stronger dark elf children.  Dark elves have few children, and fewer
+still live to adulthood, thanks to the rigorous training and evil inherent
+in the dark elf culture.  `` 
+~
+elf~
+0 0 0 0
+AGH EFJ -800 0
+10 10 3d22+96 10d10+50 2d5+2 slash
+4 4 4 999 7
+0 -1 BGHJ 0 ABC SZ
+stand stand male 13
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5120
+group dark elf children~
+`fa gang of dark elf children``~
+`fA gang of dark elf children have banded together to look for small animals to torture.``
+~
+Dark elf children grow up quickly...  And these children have already
+learned it's safest for them to roam in numbers.  Right now, they are
+looking for something to torture, especially small animals, smaller
+children, or anything weak enough that crosses their line of sight.  Such
+aggression is encouraged among the dark elves, though as they grow older,
+they will be forced to be more subtle.  
+~
+elf~
+0 0 0 0
+ABG EFJ -650 404
+24 24 8d46+305 10d10+50 5d5+5 charge
+-5 -5 -5 999 2
+0 -1 FHJNW 0 BC SZ
+stand stand either 520
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+thesweamerchant.scr~
+#5121
+drow master~
+The drow master~
+A menacing figure swathed in black, the drow master stares at you angrily.
+~
+The drow master is ALWAYS ready for a fight.
+~
+unique~
+0 0 0 0
+ABF FOVZ -1000 0
+41 41 10d50+1205 10d9+100 5d10+5 crush
+-15 -16 -16 999 -6
+0 -1 EFHNU 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#5122
+general shaladar drow~
+General Shaladar~
+`aGeneral Shaladar oversees his occupation from here.``
+~
+~
+elf~
+0 0 0 0
+ABNRT DEFJVZc -1000 0
+100 100 50d10+29500 70d20+300 20d20+20 drain
+-80 -80 -80 999 -80
+D -1 CEFHK ABbc BCD NSZ
+stand stand male 100000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+2
+none~
+DrowGeneral.scr~
+#5123
+elite guard bodyguard drow~
+Shaladar's elite bodyguard~
+`aShaladar's elite bodyguard stops anyone from getting to him.``
+~
+~
+elf~
+0 0 0 0
+ABNRT EFJNVc -1000 0
+98 50 30d250+5000 10d40+600 10d10+20 slash
+-10 -10 -10 999 -10
+AD 1 FHKU B BCHLOPQ OSZ
+stand stand male 310
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium flesh~
+0 0 0 600
+2
+~
+drow1.scr~
+#5124
+Shaladar's sentry~
+Shaladar's sentry~
+`aA drow sentry is here, blocking access to Shaladar.``
+~
+~
+elf~
+0 0 0 0
+ABNRT DEFJNV -1000 2
+70 5 40d140+1234 70d100+10 9d6+9 slash
+-50 -50 -50 999 -30
+AD 4 CFKLU ABc BC NSZ
+stand stand male 150
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+2
+~
+drow2.scr~
+#5125
+scout drow~
+A drow scout~
+`aA drow scout stands in the square shouting propaganda.``
+~
+~
+elf~
+0 0 0 0
+ABRT DEFJNV -1000 5125
+70 5 40d140+1234 70d100+10 9d6+9 pound
+-50 -50 -50 999 -30
+D -1 CFKR Bc BC NSZ
+stand stand male 150
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+2
+~
+drow3.scr~
+#5126
+elite guard drow~
+A drow elite guard~
+`aAn elite drow guard is here, protecting the Scout.``
+~
+~
+elf~
+0 0 0 0
+ABNRT EFJNVc -1000 5125
+98 50 30d250+5000 10d40+600 10d10+20 slash
+-10 -10 -10 999 -10
+0 -1 FHKRU BMc BCHLOPQ OSZ
+stand stand male 310
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium flesh~
+0 0 0 600
+2
+~
+drow4.scr~
+#5127
+imperial vanguard drow~
+The imperial drow vanguard~
+`aThe drow imperial vanguard is boarding up the entrance to the healer's shop.``
+~
+~
+elf~
+0 0 0 0
+ABNT DEFJVZc -1000 0
+100 100 50d10+10000 70d20+300 10d10+20 drain
+-10 -10 -10 999 -10
+AD 3 CEFHKR ABbc BCDE NSZ
+stand stand male 100000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+2
+none~
+drow5.scr~
+#5128
+drow sentry~
+A drow sentry~
+`aA drow sentry guards the gate.``
+~
+~
+elf~
+0 0 0 0
+ABNRT DEFJNV -1000 0
+70 5 40d140+1234 70d100+10 9d6+9 pound
+-50 -50 -50 999 -30
+AD 1 CFK Bc BC NSZ
+stand stand male 150
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+2
+~
+drow6.scr~
+#5129
+drow sentry~
+A drow sentry~
+`aA drow sentry guards the gate.``
+~
+~
+elf~
+0 0 0 0
+ABNRT DEFJNV -1000 0
+70 5 40d140+1234 70d100+10 9d6+9 pound
+-50 -50 -50 999 -30
+AD 2 CFK Bc BC NSZ
+stand stand male 150
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+2
+~
+drow7.scr~
+#5130
+drow sentry~
+A drow sentry~
+`aA drow sentry guards the gate.``
+~
+~
+elf~
+0 0 0 0
+ABRT DEFJNV -1000 0
+70 5 40d140+1234 70d100+10 9d6+9 slash
+-50 -50 -50 999 -30
+AD 3 CFK Bc BC NSZ
+stand stand male 150
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+2
+~
+drow8.scr~
+#5131
+drow sentry~
+A drow sentry~
+`aA drow sentry guards the gate.``
+~
+~
+elf~
+0 0 0 0
+ABRT DEFJNV -1000 0
+70 5 40d140+1234 70d100+10 9d6+9 pound
+-50 -50 -50 999 -30
+AD 0 CFK Bc BC NSZ
+stand stand male 150
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+2
+~
+drow9.scr~
+#5132
+drow soldier~
+A drow soldier~
+`aA drow soldier patrols the streets to keep Thesden under control.``
+~
+~
+elf~
+0 0 0 0
+ARTX DEFJNV -1000 5132
+70 5 40d140+1234 70d100+10 9d6+9 slash
+-50 -50 -50 999 -30
+0 -1 CFKU B BC NSZ
+stand stand male 150
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+2
+~
+drow10.scr~
+#5133
+elite guard drow~
+A drow elite guard~
+`aAn elite drow guard stands between you and the exit to the cathedral.``
+~
+~
+elf~
+0 0 0 0
+ABN EFJa -1000 0
+26 26 10d55+430 6d9+100 4d6+4 slash
+-3 -3 -3 999 -1
+AD 3 EFNR Bc BC NOSZ
+stand stand male 250
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 600
+2
+~
+drow11.scr~
+#5134
+drow soldier~
+A drow soldier~
+`aA drow soldier patrols the streets to keep Thesden under control.``
+~
+~
+elf~
+0 0 0 0
+AGRTX DEFJMNV -1000 0
+70 5 40d140+1234 70d100+10 9d6+9 slash
+-50 -50 -50 999 -30
+0 -1 CFKU B BC NSZ
+stand stand male 150
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 300
+2
+~
+drow12.scr~
+#5135
+dwarf slave~
+A dwarven slave~
+`dA dwarven slave sits in the corner digging at the floor.``
+~
+~
+dwarf~
+0 0 0 0
+A J -450 0
+20 30 10d50+200 0d0+0 10d20+10 none
+-1 -3 0 999 5
+0 0 0 0 LQ R
+stand stand either 0
+AHMV ABCDEFGHIJKa 25 10 15 3 25 5 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#5136
+slave~
+A kalian slave~
+`aAn emaciated kalian slave stares at you with `ib`bloodlusted`a eyes.``
+~
+~
+kalian~
+0 0 0 0
+A c -1000 0
+35 29 10d34+59 0d0+0 25d10+50 vbite
+0 0 0 999 0
+0 0 0 L DEIJ HN
+stand stand either 0
+AHMV ABCDEFGHIJKa 25 20 20 25 5 5 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5137
+human slave~
+A human slave~
+A human slave is busy looking for a way out of the pen.
+~
+~
+human~
+0 0 0 0
+A 0 -350 0
+0 50 100d20+50 0d0+0 5d10+5 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5138
+slavemaster drow elf~
+The drow slavemaster~
+`aA sinister elf stands guard in front of the slave pen.``
+~
+~
+human~
+0 0 0 0
+AB AV -1000 0
+35 0 100d14+20 0d0+0 1d40+10 none
+-5 -5 -5 999 2
+0 0 CFHIKVZae 0 0 DZ
+stand stand neutral 5000
+AHMV ABCDEFGHIJKa 25 5 5 25 25 5 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#5139
+drow cleric teacher~
+A cleric teacher~
+`aA robed figure sits praying in an unknown language.``
+~
+~
+elf~
+0 0 0 0
+AQ EFJ -1000 0
+0 20 10d30+700 0d0+0 3d10+7 none
+0 0 0 999 0
+0 0 EFHKNUae 0 BC Z
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 25 25 10 25 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#5140
+spider spirit ghost drowspider~
+`aa spider demi-god spirit``~
+`a An eight-legged ghost spider hovers just above the ground.``
+~
+~
+unique~
+0 0 0 0
+ABQ JTUZ -1000 0
+45 0 20d40+2450 20d40+500 3d10+30 vbite
+-10 -10 -10 999 -40
+N 0 CEFJKae BLMQbcd DFI ENS
+stand stand neutral 25000
+ABDGO ACKa 10 10 10 10 10 10 0
+huge ethereal~
+0 0 0 100
+0
+~
+~
+#5141
+cj slave crazy crazyslave~
+A crazed, maniacal slave~
+`mA crazy slave is bashing his head against the wall.``
+~
+~
+human~
+0 0 0 0
+A 0 -550 0
+60 500 500d25+5000 0d0+0 0d0+0 none
+0 0 0 999 0
+W 0 0 0 0 D
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#5100
+longsword commoner~
+a commoner's longsword~
+A commoner's longsword made of adamantite has been left here.~
+stone~
+0
+weapon 2
+JL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A AB BC AB 0
+0
+0
+26 89 495 P
+A
+18 1
+A
+19 1
+#5101
+longsword noble~
+a noble's longsword~
+A drow noble's longsword made of adamantite lies here.~
+stone~
+0
+weapon 2
+JL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+A ABC AB AB 0
+0
+0
+35 110 1510 P
+A
+18 2
+A
+19 2
+#5102
+whip snake two-headed~
+a snake headed whip~
+A whip with two snakes heads lies here.~
+scales~
+0
+weapon 2
+AGJLS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 AC AC 0 F
+0
+0
+38 41 920 P
+A
+18 2
+#5103
+whip snake three-headed~
+a snake headed whip~
+A whip with three snake heads has been left here.~
+scales~
+0
+weapon 2
+AG
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 AC AC 0 F
+0
+0
+39 41 1020 P
+A
+18 2
+#5104
+whip snake four-headed~
+a snake headed whip~
+A whip with four snake heads has been left here.~
+scales~
+0
+weapon 2
+CEGJP
+0
+AN
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 BC D 0 CFH
+0
+0
+44 42 1530 P
+A
+18 2
+#5105
+longsword black~
+`aA Black Longsword``~
+`aA black longsword has been carelessly left here.``~
+adamantite~
+0
+weapon 2
+AGJLSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A AC AC AB 0
+0
+0
+36 114 2100 P
+A
+18 2
+A
+19 2
+A
+13 9
+#5106
+whip snake five-headed~
+a snake headed whip~
+A whip with five snake heads is lying here.~
+scales~
+0
+weapon 2
+AGHJM
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 AB BC 0 F
+0
+0
+40 23 10 P
+A
+1 -1
+A
+3 -1
+#5107
+whip snake six-headed~
+a snake headed whip~
+A whip with six snake heads has been dropped here.~
+scales~
+0
+weapon 2
+AGHJM
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 C AC 0 F
+0
+0
+13 57 0 P
+A
+1 -2
+A
+3 -2
+#5108
+mithril bracer~
+a mithril bracer~
+A mithril bracer has been dropped here.~
+mithril~
+0
+armor 2
+AG
+0
+AM
+0
+D
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+45 30 1150 P
+A
+13 15
+A
+12 10
+#5109
+mithril gauntlets~
+a pair of gauntlets~
+A pair of gauntlets has been dropped here.~
+mithril~
+0
+armor 2
+A
+0
+AH
+0
+D
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B B 0
+0
+0
+45 20 3600 P
+A
+13 15
+A
+1 2
+#5110
+wand blue silver~
+a silvery blue wand~
+A silvery blue wand has been dropped in the dirt.~
+ethereal~
+0
+wand 2
+GY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABCE AB AB BCG 'reserved'
+0
+0
+29 10 0 P
+#5111
+runed leather cloak~
+`asoft, `bru`in`bed`a leather cloak``~
+`aA long leather cloak with small archaic runes scribed upon it, lies here.``~
+soft leather~
+0
+armor 2
+GJLY
+0
+AD
+BL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC AC AC ABF 0
+0
+0
+46 50 3300 P
+A
+12 50
+A
+18 -5
+A
+19 -5
+A
+24 -5
+#5112
+ring ruby~
+`ka small `bruby `kring``~
+`hA small `bruby `hring lies in the dirt.``~
+stone~
+0
+jewelry 2
+G
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 10 9450 P
+A
+13 13
+#5113
+dagger sacrificial spider~
+a spider shaped dagger~
+A dagger with spider leg shaped blades lies on the ground.~
+scales~
+0
+weapon 2
+GJL
+0
+AN
+0
+D
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B BD AC ABD DEHJ
+0
+0
+56 20 17039 P
+#5114
+hat green~
+`jA Small Bright Green Hat``~
+`hA small bright `jgreen `hhat lies in the dirt.``~
+cloth~
+0
+clothing 2
+HS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+12 10 0 P
+A
+17 -2
+A
+5 -2
+#5115
+adamantite knife sacrificial~
+a sacrificial knife~
+A short knife made of adamantite lies here.~
+stone~
+0
+weapon 2
+JL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B AB BC B 0
+0
+0
+12 20 495 P
+A
+18 1
+A
+19 1
+#5116
+thin adamantite club~
+`cA Thin Adamantite Club``~
+`hA long, thin club with metallic spikes at the end lies here.``~
+stone~
+0
+weapon 2
+JL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C AB BC ABDE 0
+0
+0
+16 38 495 P
+A
+18 1
+A
+19 1
+#5117
+adamantite tipped staff~
+`dAn `cAdamantite-Tipped `dStaff``~
+`dA long wooden staff with blunt metal ends lies here.``~
+stone~
+0
+weapon 2
+JL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AB AB BC BF 0
+0
+0
+35 32 495 P
+A
+19 1
+A
+18 2
+#5118
+short adamantite throwing axe~
+`cA Short Adamantite Throwing Axe``~
+`hA tiny axe made of pure `cadamantite `hlies here.``~
+stone~
+0
+weapon 2
+JL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AC AB BC ACE J
+0
+0
+10 32 495 P
+A
+18 1
+A
+19 1
+#5119
+three headed flail~
+a three-headed flail~
+A short club with three small balls chained to it lies here.~
+stone~
+0
+weapon 2
+JL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BC AB BC D 0
+0
+0
+15 37 495 P
+A
+18 1
+A
+19 1
+#5120
+broadsword commoner~
+a commoner's broadsword~
+A commoner's broadsword made of adamantite has been left here.~
+stone~
+0
+weapon 2
+JL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A AB BC A F
+0
+0
+15 65 495 P
+A
+19 3
+A
+18 3
+#5121
+dirty rattle~
+a dirty striped rattle~
+A dirty rattle lies here, battered and used.~
+unknown~
+0
+wand 2
+BS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC B B ABCFG 'reserved'
+0
+0
+5 9 0 A
+#5122
+pacifier~
+a pacifier~
+A long rubber cone sits here.~
+rubber~
+0
+trash 2
+ST
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#5123
+silver wand~
+a silver wand~
+A rod of silver lies here.~
+silver~
+0
+wand 2
+A
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BCDE B B CEFG 'reserved'
+0
+0
+30 15 1500 P
+#5124
+slave human corpse~
+a human corpse~
+The wasted and withered remains of a human slave are beginning to rot.~
+flesh~
+0
+npc_corpse 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+(null)~
+(null)~
+(null)~
+(null)~
+0 0 0 0 0
+0
+0
+0 400 0 P
+#5125
+lloth spider statue~
+`ba statue of Lloth``~
+`bAn image of Lloth continually shifts between woman, spider, and a mix of the two.``~
+adamantite~
+0
+trash 2
+ABES
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 10000 0 P
+#5126
+dented cup~
+`ka dented cup``~
+`hDented and battered, a `kgolden cup`h lies carelessly discarded on the ground.``~
+gold~
+0
+treasure 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 5 200 P
+#5127
+scraggly broom~
+`za scraggly broom``~
+`dA `zscraggly broom`d has been tossed carelessly aside here.``~
+softwood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 AC AB 0 0
+0
+0
+20 10 10 P
+#5128
+gleaming sword~
+`aa gleaming sword``~
+`aA gleaming sword of polished metal suggests evil here.``~
+steel~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+A AC AC A 0
+0
+0
+29 36 105 P
+A
+19 1
+#5129
+cot mage~
+`ga mage's cot``~
+`gA comfortable looking but narrow cot is here.``~
+wood~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A FHIJKL EHK DFG DFG
+0
+0
+35 2100 300 P
+#5130
+cleric bed~
+`fa cleric's bed``~
+`fThe unmade bed of a cleric indicates someone was recently here.``~
+wood~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B EFGIJKM EHK DFG DFG
+0
+0
+35 2100 300 P
+#5131
+spider statue~
+a `ispider statue``~
+`bOne `ispider statue`b is slightly out of alignment with the others.``~
+adamantite~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n fiddles with something and then disappears into a dark passage that closes behind them.~
+You slip into the dark passage that opens after you move the statue.~
+Opening the hidden door, $n emerges from the dark passageway.~
+You emerge into a small, dusty room.~
+-1 0 0 BFKM K
+0
+0
+10 10000 1 P
+#5132
+hidden door~
+`aa hidden door``~
+`aThe faint outlines of a hidden door are barely visible here.``~
+adamantite~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n pushes open the hidden door and slips out.~
+You push open the hidden door and slip out of the room.~
+$n appears suddenly from behind a statue.~
+You step out from behind a statue.~
+-1 0 G BCKM A
+0
+0
+10 10000 1 P
+#5133
+wand adamantite~
+`can adamantite wand``~
+`cAn adamantite wand has `irunes`c carved in it.``~
+adamantite~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ADE B B ABDEF 'reserved'
+0
+0
+38 10 50 P
+#5134
+hole~
+`aa dark,`c slime-covered`a hole``~
+`lA hole almost as wide as your body is in the corner of the floor here, with more and more spiders crawling out of it by the minute.``~
+ethereal~
+0
+portal 2
+RSY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n `asqueezes $s body into the small, slimey hole in the stone floor and slithers out of sight.``~
+`aYou squeeze yourself into the tight-fitting, slime covered hole and slither into the blackness below.``~
+`nWith a rush of bubbles, $n appears before you from somewhere in the dark waters below.``~
+`aYou slither downward in the cramped, slimey tunnel.  Suddenly, the tunnel widens and you lose your grip, plunging into a murky pool of salt water below.  The strong current here drags you away.``~
+-1 0 G AEFIKP F
+0
+0
+1 9999 0 P
+#5135
+sharp adamantite lancet~
+`oa sharp `ca`od`ca`om`ca`cn`ot`ci`ot`ce `olancet``~
+`oA wide cutting blade has a soft `cgreen `oglow to it.``~
+adamantite~
+0
+weapon 2
+SY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+B B BD AB DJ
+0
+0
+26 10 500 P
+A
+19 1
+A
+2 1
+#5136
+portal~
+the `kquest`` portal~
+The third magical `kquest`` portal is slowly fading away.~
+void~
+15
+portal 2
+RST
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+$n steps into nothing and becomes nothing.~
+You step into the portal.~
+~
+~
+A 0 G CEFGHK A
+0
+0
+0 0 0 P
+#5137
+key slave pen~
+small wooden key~
+A wooden key that opens the slave pen is lying here.~
+wood~
+0
+key 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 0 0 P
+#5138
+spiderstat statue~
+`aa statue of a huge spider``~
+`aA large statue of a spider is perched perilously upon a pedestal.``~
+stone~
+0
+treasure 2
+S
+0
+0
+0
+0
+0
+5138
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#5139
+fog armor mist~
+`amysterious swirling mist``~
+`aA mysterious swirling mist is here reeking of undeath.``~
+air~
+12000
+armor 2
+EGHMPSZae
+CHI
+ADKQ
+0
+N
+0
+5139
+5140
+5141
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BCDE BCDE BCDE BEF 0
+0
+0
+70 0 0 P
+A
+1 3
+A
+3 -3
+A
+5 3
+A
+18 10
+A
+19 10
+A
+13 -50
+S
+ 6 340 0 -1 10 'defile' 0
+S
+ 6 342 0 -1 10 'contaminate' 0
+#5140
+suit jester warped~
+`ian `kinflatable`j balloon`m suit``~
+A heap of inflated balloons in the shapes of animals.~
+biochemical~
+10000
+armor 2
+GHMST
+FHI
+ABCDEFGHIJKLMOQSTU
+O
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+-200 DGH -100 DGH 0
+0
+0
+90 0 0 P
+A
+2 6
+A
+3 -5
+A
+1 5
+A
+4 -10
+A
+12 200
+A
+19 5
+A
+19 25
+A
+18 80
+A
+13 100
+A
+14 -200
+A
+26 20
+A
+24 -40
+#0
+
+#ROOMS
+#5100
+40 150
+`aYou've found your way into a dark and evil place.  Pray you make it out alive.``~
+~
+~
+0 0 0
+City Entrance~
+The coolness of a vast underground cavern descends upon you.  The
+darkness is slightly disorienting at first, but your eyes soon adjust to the
+low lighting afforded by your lighting device.  A massive gate of
+`cadamantite`a lies open to the west.  Beyond it crouches a huge, silent
+city.  Shadowy forms move here and there through the streets.  `` 
+``
+~
+0 AD 18
+0
+~
+I 0 E
+gate~
+A large adamantite gate with giant spider shaped emblems stands here.
+~
+E
+hole~
+A small hole that looks to have been sealed at one time.
+~
+D0
+~
+~
+0 0 5155
+D3
+A huge gate opens to the west allowing entrance into the city.~
+gate~
+0 0 5101
+D4
+~
+door~
+1 0 13565
+S
+#5101
+0 0
+~
+~
+~
+0 0 0
+City street~
+Ornately carved stone buildings line the street, a dizzying array of
+arches and towers and spires.  The road itself is made from carefully shaped
+and fitted stones, of varying colors to form a subtly elegant pattern.  To
+the east, a large, `cadamantite`a gate has been left open.  West crouches a
+gloomy looking structure.  North and south the road continues.  `` 
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5123
+D1
+~
+~
+0 0 5100
+D2
+~
+~
+0 0 5102
+D3
+~
+~
+0 0 5122
+S
+#5102
+0 0
+~
+~
+~
+0 0 0
+City street~
+The road bends sharply.  Northward the buildings tower, nearly touching
+the top of the massive cavern.  From here you can see the lights glimmering
+in their high windows.  West the city of the drow continues, but the
+buildings that way are not quite so beautiful or imposing.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5101
+D3
+~
+~
+0 0 5103
+S
+#5103
+0 0
+~
+~
+~
+0 0 0
+City street~
+Crowds of silent drow fill the street.  When the throng shifts you catch
+a glimpse of an open archway which leads into a nicely made building to the
+south.  Symbols on a nearby post indicate this to be the `e3rd House`a.  The
+road extends both east and west.  `` 
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 5102
+D2
+~
+~
+0 0 5104
+D3
+~
+~
+0 0 5106
+S
+#5104
+0 0
+~
+~
+~
+0 0 0
+The Third House of Drow City~
+The 3rd house of the drow is of comfortable size and decoration.  The
+murals covering the walls are a bit sloppy, with some colors bleeding
+together.  The statues are of good line but rough in finish.  An open door
+leads further inward to the south.  To the north the street runs past.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5103
+D2
+~
+~
+1 -1 5105
+S
+#5105
+0 0
+~
+~
+~
+0 0 0
+Throne Room~
+This cave is a small, secure enclosure with a ``throne`a carved into the
+wall.  The walls have been hewn from rock and seem to be glowing with a
+strange red light.  There is a small, black offering ``altar`a, where
+commoners can make sacrifices to please their gods.  There is a gutter on
+either side of the cave, where water seeping through the ceiling, is meant
+to be diverted to.  The floor seems to be made of sharp, crushed, black
+stone, and gleams in the dim light.  `` 
+~
+0 D 18
+0
+~
+I 0 E
+altar~
+The altar is a bowl balanced upon a blood-stained pedestal.
+The bowl is a glossy deep black, although it probably started
+off as normal gray marble.
+~
+E
+throne~
+This throne has been carved right into the wall.  It is less of
+a regal throne, than it is a pulpit of sorts.
+~
+D0
+~
+~
+1 -1 5104
+S
+#5106
+0 0
+~
+~
+~
+0 0 0
+City street~
+A few drow walk past, mostly scurrying to the east, where the road seems
+busier.  North stands a wide, low building, shockingly devoid of ornament. 
+In this lavishly decorated city, the very plainness of the building sends an
+unmistakeable message.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5118
+D1
+~
+~
+0 0 5103
+D3
+~
+~
+0 0 5107
+S
+#5107
+0 0
+~
+~
+~
+0 0 0
+City street~
+The road comes to a quiet end here between two drow noble houses.  To the
+north a narrow path allows access to the gate of the `g1st House`l. 
+Southward the doors of the smaller `g2nd House`l stand open wide.  The
+avenue extends back to the east.  `` 
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5110
+D1
+~
+~
+0 0 5106
+D2
+~
+~
+0 0 5108
+S
+#5108
+0 0
+~
+~
+~
+0 0 0
+The Second House of Drow City~
+The 2nd house stands about you, large and beautiful.  Well done murals by
+skilled artists cover the walls.  Large, creepy statues of spiders occupy
+each corner of the room.  Tasteful furniture offers comfort.  An open
+archway leads further in to the west.  North lies the quiet street.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5107
+D3
+~
+~
+1 -1 5109
+S
+#5109
+0 0
+~
+~
+~
+0 0 0
+Throne Room~
+A vast, dim room opens around you.  In the center stands a throne of
+`aglittering silver, shining in the faint torchlight from its imposing
+perch atop a high dais.  A black altar, shaped like a hunting spider,
+crouches before the throne with streaks of fresh blood streaming down
+its legs.  `` 
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+1 -1 5108
+S
+#5110
+0 0
+~
+~
+~
+0 0 0
+Main Gate~
+You stand before a huge gate made of wrought black metal, nearly as large
+as the one which guarded the city's entrance.  It stands open, allowing free
+access to the `g1st House `l- which shines beyond it in magnificent
+splendor.  `lSouth a narrow path leads to a street, northward a busy road
+extends.  `` 
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 5114
+D2
+~
+~
+0 0 5107
+D3
+A large gate lies to the west.~
+gate~
+1 -1 5111
+S
+#5111
+0 0
+~
+~
+~
+0 0 0
+First House~
+Candlelight glows from the massive chandelier, suspended high above from
+the vaulted ceiling in this elegant chamber.  Its warm light reveals a room
+filled with finely worked furniture, all of rarest woods.  Upon the walls,
+exquisite paintings hang, the largest and most elaborate a portrait of the
+`fspider queen`l, which rests above a set of double doors to the west.  East
+leads back out to the gate.  `` 
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 5152
+D1
+~
+~
+1 -1 5110
+D3
+~
+~
+0 0 5112
+S
+#5112
+0 0
+~
+~
+~
+0 0 0
+Throne Room~
+Your footsteps echo coldly about the throne room of the 1st house.  Vast
+and dark, only two objects reside within: throne and altar.  The throne
+looks to be made of `kpure gold`l, finely wrought into delicate curves and
+whorls, with cushions of `fviolet silk`l.  Before the throne, the huge
+spider-shaped altar looks ready to pounce on you.  All six of its eyes have
+been cut from flawless `irubies`l.  `` 
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+1 -1 5113
+D1
+~
+~
+0 -1 5111
+S
+#5113
+40 100
+~
+~
+~
+0 0 0
+Main Chamber~
+This is the council chamber for the Matron Mother herself.  A huge table
+and chairs surrounding it sits in the center of the room.  North of here,
+a strange rusted door looks as if it is stuck in place, and you can hear
+wails coming from inside.
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+door~
+1 0 5151
+D2
+~
+~
+1 -1 5112
+S
+#5114
+0 0
+~
+~
+~
+0 0 0
+City street~
+A wide east-west avenue is intercepted by a north-south street here. 
+Many fine, graceful edifices line the spotless streets, but all are shut and
+barred to keep the rabble like you out.  Southward the road leads to a
+magnificent gate.  `` 
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5115
+D1
+~
+~
+0 0 5117
+D2
+~
+~
+0 0 5110
+D3
+~
+~
+0 0 5153
+S
+#5115
+0 0
+~
+~
+~
+0 0 0
+City street~
+The small street ends here, continuing back to the south.  To the west,
+looms a large tower, its facade smothered in finely detailed stone carvings.
+Bright banners hang along either side of the doorway.  An air of calm and
+refreshment flows outward from its open doors.  `` 
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+0 0 5114
+D3
+~
+~
+1 -1 5116
+S
+#5116
+0 0
+~
+~
+~
+0 0 0
+Cleric Academy~
+This room makes even the Mages' Academy look plain.  A mosaic of precious
+stones covers the floor, forming mystic patterns.  The walls are smooth
+white marble, with inlaid gold and sliver tracery echoing the lines in the
+floor.  Delicate curved benches, thickly gilded and gleaming, provide spaces
+for the clerics to relax.  
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+1 -1 5115
+S
+#5117
+0 0
+~
+~
+~
+0 0 0
+City street~
+Here the fine street is mostly occupied by commoners and priestesses, as
+they flow in and out of the massive temple to the north.  A low sound of
+chanting drifts out through the open doors, sending a chill through you. 
+The street continues both east and west.  `` 
+~
+0 AD 18
+0
+~
+I 0 D0
+The entrance to the temple of Lloth.~
+~
+1 -1 5119
+D1
+~
+~
+0 0 5121
+D3
+~
+~
+0 0 5114
+S
+#5118
+0 0
+~
+~
+~
+0 0 0
+Warrior's Academy~
+This wide, low room is completely bare of ornament, unless the dark,
+ominous stains on the walls and floors can be considered decorative.  Crude
+stools, rudely constructed with little care and less patience, are scattered
+here in there.  This dark elf training room is obviously not used by the
+squeamish.  
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+0 0 5106
+S
+#5119
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Temple of Lloth~
+The largest building in the city, the temple is beyond belief.  Even its
+doors stretch the limits of your imagination with the fantastic and
+grotesquely intriguing carvings of spiders and various forms of prey,
+including what looks like humanoids.  Peering in the temple entrance, you
+can see that the walls are made of gold and adamantite.  
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+1 -1 5117
+D5
+~
+~
+0 0 5126
+S
+#5120
+0 0
+~
+~
+~
+0 0 0
+Mage's Academy~
+Great wealth and attention have been lavished on this tower.  Nothing has
+been spared for this school devoted to what the drow consider the highest of
+the arts- `fmagic`l.  The finest of handmade tapestries line the walls.  The
+floor is of polished, bright blue stone, flecked with gold.  Heavy, carven,
+dark wood chairs have been set along the perimeter of the room for pupils to
+wait in.  South is the exit out to the streets.  `` 
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+1 -1 5121
+S
+#5121
+0 0
+~
+~
+~
+0 0 0
+City street~
+Although these streets are busy, all is silent, as the distrustful dark
+elves move efficiently through their elegantly chilling city.  East and
+west, this lane continues.  Northward, a high, dark tower reeks of magic,
+and to the south gloom emanates from a small, dark structure.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+1 -1 5120
+D1
+~
+~
+0 0 5123
+D2
+~
+~
+0 0 5122
+D3
+~
+~
+0 0 5117
+S
+#5122
+0 0
+~
+~
+~
+0 0 0
+`dSlave Market``~
+`a The entire western wall of this cave is a jumbled mass of wooden bars
+behind which, stand dozens of slaves all waiting to be bought or sold to the
+highest bidder.  The ground is rough, crushed rock and the air smells like
+dirty hair and fecal matter.  The slaves in the pen look less than healthy. 
+Perhaps you could score a good deal.  `` 
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5121
+D1
+~
+~
+0 0 5101
+D3
+~
+door~
+4193 5137 5156
+S
+#5123
+0 0
+~
+~
+~
+0 0 0
+City street~
+A haughty drow woman glares at you with disdain as she sweeps past,
+dragging her weakly struggling slave behind.  The street bends here,
+leading west and south.  To the north lies the `e4th House`a, small compared to
+the other buildings around.  `` 
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+1 -1 5124
+D2
+~
+~
+0 0 5101
+D3
+~
+~
+0 0 5121
+S
+#5124
+0 0
+~
+~
+~
+0 0 0
+The Fourth House of Drow City~
+This small room has been constructed of large stone blocks that are
+rather plain and not very well fitted.  Some rugs of inferior workmanship
+line the floor.  The old, worn furniture seems like it was probably nice
+once.  To the east an opening leads to another room.  South is the way out. 
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 5125
+D2
+~
+~
+1 -1 5123
+S
+#5125
+0 0
+~
+~
+~
+0 0 0
+A small altar room~
+Very similar in quality and decoration to the other room of the 4th
+House, the throne room is distinguished by a large, worn throne on a wobbly
+dais, sitting behind a plain stone altar.  Clearly the wealth and glory of
+the 4th house are not much to be impressed with.  
+~
+0 AD 18
+0
+~
+I 0 D3
+~
+~
+0 0 5124
+S
+#5126
+0 0
+~
+~
+~
+0 0 0
+Entrance Way~
+You stand in the entrance way to the temple which opens up to the north
+into a large hallway going east and west. Small statues of spiders line the
+entrance way's walls.
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5127
+D4
+~
+~
+0 0 5119
+S
+#5127
+0 0
+~
+~
+~
+0 0 0
+Hallway~
+You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+To the north is a obsidian stairway.
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5135
+D1
+~
+~
+0 0 5128
+D2
+~
+~
+0 0 5126
+D3
+~
+~
+0 0 5131
+S
+#5128
+0 0
+~
+~
+~
+0 0 0
+Long Hallway~
+You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 5129
+D3
+~
+~
+0 0 5127
+S
+#5129
+0 0
+~
+~
+~
+0 0 0
+Long Hallway~
+You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+To the north is a door.
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+1 -1 5150
+D1
+~
+~
+0 0 5130
+D3
+~
+~
+0 0 5128
+S
+#5130
+0 0
+~
+~
+~
+0 0 0
+Long Hallway~
+You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 5134
+D3
+~
+~
+0 0 5129
+S
+#5131
+0 0
+~
+~
+~
+0 0 0
+Long Hallway~
+You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 5127
+D3
+~
+~
+0 0 5132
+S
+#5132
+0 0
+~
+~
+~
+0 0 0
+Long Hallway~
+Lined with adamantite, this long hallway trails away into further
+darkness.  The walls are engraved with pictures of elves and spiders,
+difficult to see in the poor light.  The hall continues east and west, and
+further away, one or two figures move away.  A large, thick door barricades
+the south.  
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 5131
+D2
+~
+~
+1 -1 5133
+D3
+~
+~
+0 0 5134
+S
+#5133
+91 30
+~
+~
+~
+0 0 0
+Warrior's Barracks~
+Although you would expect the room of warriors to be a complete mess,
+this bunk room is surprisingly tidy.  Drow soldiers are too well disciplined
+to permit their belongings to be disordered - besides, how would they then
+know if someone had snooped in their belongings?  All of the beds are made
+in military fashion, and personal belongings, if any exist, have been stored
+out of sight.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+1 -1 5132
+S
+#5134
+0 0
+~
+~
+~
+0 0 0
+Long Hallway~
+You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 5132
+D3
+~
+~
+0 0 5130
+S
+#5135
+0 0
+~
+~
+~
+0 0 0
+Grand Stairway~
+You are standing at the bottom of a giant obsidian and adamantite
+stairway. The edges are trimmed with gold.
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+0 0 5127
+D4
+~
+~
+0 0 5136
+S
+#5136
+0 0
+~
+~
+~
+0 0 0
+Grand Hallway~
+You are standing in the middle of a grand hallway.  The walls are of the
+purest adamantite with gold trim.  Grisly mosaics line the walls, detailing
+subjects such as dismemberment with the fine delicacy typical of elven
+artwork - even though the subject is disgusting.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5138
+D1
+~
+~
+1 -1 5137
+D5
+~
+~
+0 0 5135
+S
+#5137
+0 0
+~
+~
+~
+0 0 0
+Mage's Barracks~
+The mage's living quarters is rather clean with the exception of a few
+used component containers.  It is rather well decorated as well.  Cots line
+the floor for the mages to sleep on.  Shimmering veils about each cot
+curiously muffle all sound.  The only door is to the east.  
+~
+0 ADG 18
+0
+~
+I 0 D3
+~
+~
+1 -1 5136
+S
+#5138
+0 0
+~
+~
+~
+0 0 0
+Grand Hallway~
+You are walking down a grand hallway, heavily decorated with adamantite
+and gold. To the north the hall goes down a flight of stairs while a door is
+too the west.
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+0 0 5136
+D3
+~
+~
+1 -1 5139
+D5
+~
+~
+0 0 5140
+S
+#5139
+0 0
+~
+~
+~
+0 0 0
+Cleric's Barracks~
+This large bed chamber is home to many low-ranking dark elf clerics.  It
+has all the accoutrements of a home: beds, a colorful rug, and knick-knacks.
+Of course, the rug displays a scene of a brutal sacrifice of children, and
+the knick-knacks are primarily instruments of torture and small religious
+`iicons``.  
+~
+0 AD 18
+0
+~
+I 0 E
+icons~
+`iYou particularly try not to look too closely at the statues of the evil
+goddess worshipped by the dark elves.  It's not that you have anything
+against religion, but seeing someone disembowelled by a spider with a
+beautiful woman's head always makes you a bit queasy before a meal.  `` 
+~
+D1
+~
+~
+1 -1 5138
+S
+#5140
+0 0
+~
+~
+~
+0 0 0
+Grand Stairway~
+You are climbing a set of obsidian stairs surrounded by adamantite walls.
+To the north are a set of large golden doors.
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+1 -1 5141
+D4
+~
+~
+0 0 5138
+S
+#5141
+0 0
+~
+~
+~
+0 0 0
+Main Chamber~
+This is the south side of a large auditorium used for services by the
+drow priestesses. In the center is a large sacrificial pit and beyond that is
+an altar.
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 5142
+D2
+~
+~
+1 -1 5140
+D3
+~
+~
+0 0 5144
+S
+#5142
+0 0
+~
+~
+~
+0 0 0
+Eastern side of Chamber~
+You are on the eastern side of the chamber overlooking the pit. To the east
+is a door while to the north is an altar.
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5145
+D1
+~
+~
+1 -1 5146
+D2
+~
+~
+0 0 5141
+S
+#5143
+0 0
+~
+~
+~
+0 0 0
+Sacrificial Pit~
+A you climb down into the pit thousands of spiders cover you tearing your
+body to shreds.
+
+Lloth thanks you for your sacrifice.
+
+You've fallen, and you can't get up!!!
+~
+0 CD 18
+0
+~
+I 0 S
+#5144
+0 0
+~
+~
+~
+0 0 0
+Western side of Chamber~
+You are on the western side of the main chamber overlooking a sacrificial
+pit. To the north is an altar.
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5145
+D2
+~
+~
+0 0 5141
+S
+#5145
+0 0
+~
+~
+~
+0 0 0
+The Altar~
+You are standing in front of a highly and freshly `xbloodstained altar`l.
+Engraved on the top of the altar is a giant spider with a drow head. 
+Looking down from the altar you see a large sacrificial pit.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5148
+D1
+~
+~
+0 0 5142
+D3
+~
+~
+0 0 5144
+D5
+~
+~
+0 0 5143
+S
+#5146
+0 0
+~
+~
+~
+0 0 0
+Slave Cells~
+This is the main room to the cell chambers for the slaves to be
+sacrificed. You notice there are no guards around.
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+1 -1 5147
+D3
+~
+~
+0 0 5142
+S
+#5147
+40 250
+~
+~
+~
+0 0 0
+Slave Pen~
+Rotten meat and breads lie about the floor while shackles hang from the
+walls.  The room reeks of death and extended abuse.  You become nauseous as
+you realize you are obviously too late to save at least one slave.  
+~
+0 AD 0
+0
+~
+I 0 D2
+~
+~
+1 -1 5146
+S
+#5148
+91 50
+~
+~
+~
+0 0 0
+Dais~
+You stand upon a dais behind the altar. Above you is a enormous illusion
+of a female drow turning into a giant spider and back again. There is a door
+to the west.
+~
+0 AD 0
+0
+~
+I 0 D2
+~
+~
+0 0 5145
+D3
+~
+~
+1 -1 5149
+S
+#5149
+0 0
+~
+~
+~
+0 0 0
+The Treasury~
+This room, based on the amount of security you had to go through to get
+here, is obviously meant to temporarily store treasure.  Right now, it is
+rather bare of all save a dented cup or two that looks as if they might have
+been forgotten when a larger treasure was removed.  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+1 -1 5148
+S
+#5150
+0 0
+~
+~
+~
+0 0 0
+Weaponsmaster's Chamber~
+This one person bedchamber is very elegant. The owner must be held in high
+to get this kind of treatment.
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+1 -1 5129
+S
+#5151
+0 0
+~
+~
+~
+0 0 0
+A Small Enclosure~
+A pinhole scraped out of the ceiling lets in a sliver of dim light from
+an unnatural source above.  The rusted door keeping this room hidden from
+plain sight seems to swing brokenly.
+~
+0 c 0
+0
+~
+I 0 D2
+~
+door~
+1 0 5113
+S
+#5152
+0 0
+~
+~
+~
+0 0 0
+Drilling Grounds of the First House~
+A courtyard spreads out before you, the stone floor marred with burn
+marks and countless scuff marks.  A troop of drow soldiers are drilling
+here, the private army of the most powerful house of the underground realm
+of the evil dark elves.  
+~
+0 AD 0
+0
+~
+I 0 D2
+~
+~
+0 0 5111
+S
+#5153
+0 0
+~
+~
+~
+0 0 0
+City Street~
+A wide east-west avenue terminates here in a quiet little cul de sac of
+homes.  Many fine, graceful edifices line the spotless streets, but all are
+shut and barred to keep the rabble like you out.  Passing drow look at you
+suspiciously as they hurry about their business.  
+~
+0 ADZ 18
+0
+~
+I 0 D1
+~
+~
+0 0 5114
+S
+#5154
+40 500
+~
+~
+hidden~
+0 0 0
+A Hiding Place~
+`aThis small, dark room has the musty smell of a room that has been shut
+up for a long time.  From the litter on the floor and the footmarks in the
+dust, you can tell that someone recently started using this room again.  It
+looks like a nice place to rest, away from the pressures of the evil city
+outside.  `` 
+~
+0 ACD 18
+3
+There's no way you can fit in there! Nobody is THAT agile!~
+I 0 S
+#5155
+0 0
+~
+~
+~
+0 0 0
+The Drow City Guard House~
+A small hollow is chiseled out of the rock for the Drow guards and scouts,
+who defend this secluded city from foreign invaders. This room is so small
+that only a few people can fit inside at one time. There is a weapon rack
+in the corner with just a few swords. A simple table set is in the center
+of the room to sit on.
+~
+0 AD 18
+4
+~
+I 0 D2
+~
+~
+0 0 5100
+S
+#5156
+0 0
+~
+~
+~
+0 0 0
+Slave Pen~
+`a   The room is bare and plain, bits of trash and nameless debris strewn all
+about.  The smell of unwashed bodies and the ragged roar of many sleepers
+snoring fills the air.  Straw bedding on the floor softens, at least a
+little, the beds of the unfortunate creatures who have fallen prey to Drow
+imperialism.  Exits lead north and east out to the city streets.
+``
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+4193 5137 5122
+S
+#0
+
+#RESETS
+M 0 5102   4 5104  1	* A drow noble
+M 0 5102   4 5124  1	* A drow noble
+E 0 5101   -1   16	* item to A drow noble
+M 0 5102   4 5108  1	* A drow noble
+E 0 5101   -1   16	* item to A drow noble
+M 0 5102   4 5111  1	* A drow noble
+E 0 5101   -1   16	* item to A drow noble
+M 0 5103   4 5104  1	* The drow mage noble
+M 0 5103   4 5124  1	* The drow mage noble
+M 0 5103   4 5108  1	* The drow mage noble
+M 0 5103   4 5111  1	* The drow mage noble
+M 0 5104   4 5104  1	* A drow noble
+M 0 5104   4 5124  1	* A drow noble
+M 0 5104   4 5108  1	* A drow noble
+M 0 5104   4 5111  1	* A drow noble
+M 0 5106   2 5150  1	* The weapons master
+E 0 5105   -1   16	* item to The weapons master
+E 0 5109   -1    9	* item to The weapons master
+M 0 5107   3 5125  1	* A drow high priestess
+E 0 5104   -1   16	* item to A drow high priestess
+G 0 5114 -1		* `ja small bright green hat`` to A drow high priestess
+M 0 5107   3 5109  1	* A drow high priestess
+E 0 5104   -1   16	* item to A drow high priestess
+E 0 5108   -1   10	* item to A drow high priestess
+M 0 5108   1 5113  1	* The matron mother
+E 0 5104   -1   16	* item to The matron mother
+D 0 5100   4    1	* City Entrance [up]
+D 0 5151   2    1	* A Small Enclosure [south]
+G 0 5117 -1		* `dan `cadamantite-tipped `dstaff`` to the matron mother
+G 0 5115 -1		* A sacrificial knife to the matron mother
+G 0 5116 -1		* `ca thin adamantite club`` to the matron mother
+G 0 5118 -1		* `ca short adamantite throwing axe`` to the matron mother
+G 0 5119 -1		* A three-headed flail to the matron mother
+G 0 5120 -1		* A commoner's broadsword to the matron mother
+M 0 5106   5 5101  1	* The weapons master
+G 0 5115 -1		* A sacrificial knife to The weapons master
+G 0 5117 -1		* `dan `cadamantite-tipped `dstaff`` to The weapons master
+G 0 5118 -1		* `ca short adamantite throwing axe`` to The weapons master
+E 0 5105   -1   16	* item to The weapons master
+M 0 5112   1 5151  1	* A disheveled human child
+E 0 5121   -1   18	* item to A disheveled human child
+M 0 5111   4 5123  1	* The drow scout
+M 0 5111   4 5100  1	* The drow scout
+M 0 5111   4 5106  1	* The drow scout
+M 0 5110   3 5106  1	* The drow guard
+M 0 5101  10 5133  4	* The drow commoner
+E 0 5100   -1   16	* item to The drow commoner
+M 0 5109   1 5148  1	* The yochlol
+E 0 5113   -1   17	* item to The yochlol
+M 0 5114   3 5103  1	* The goblin streetslave
+O 0 5124   0 5147 -1	* A human corpse at Slave Pen
+O 0 5125   0 5119 -1	* `ba statue of lloth`` at Entrance to the Temple of Lloth
+O 0 5126   0 5149 -1	* `ka dented cup`` at The Treasury
+E 0 5127   -1   16	* item to The goblin streetslave
+M 0 5115   6 5152  6	* `aa dark elf soldier``
+E 0 5128   -1   17	* item to `aa dark elf soldier``
+O 0 5129   0 5137 -1	* `ga mage's cot`` at Mage's Barracks
+M 0 5116   1 5137  1	* `aa sleeping dark elf mage``
+O 0 5130   0 5139 -1	* `fa cleric's bed`` at Cleric's Barracks
+M 0 5117   1 5139  1	* `aa half-clad priestess``
+M 0 5118   1 5147  1	* `fa human slave``
+M 0 5119   1 5154  1	* `aa young dark elf``
+O 0 5132   0 5154 -1	* `aa hidden door`` at A Hiding Place
+O 0 5131   0 5126 -1	* A `ispider statue`` at Entrance Way
+M 0 5120   2 5115  1	* `fa gang of dark elf children``
+O 0 5134   0 5143 -1	* `aa dark,`c slime-covered`a hole`` at Sacrificial Pit
+E 0 5135   -1   18	* item to `fa gang of dark elf children``
+E 0 5135   -1   18	* item to `fa gang of dark elf children``
+M 0 5110   5 5155  1	* The drow guard
+E 0 5135   -1   18	* item to The drow guard
+E 0 5112   -1    1	* item to The drow guard
+D 0 5113   0    1	* Main Chamber [north]
+M 0 5105   3 5120  1	* A drow teacher
+E 0 5104   -1   16	* item to A drow teacher
+M 0 5121   3 5118  1	* The drow master
+M 0 5100   3 5156 50	* A litan slave
+M 0 5135   3 5156  3	* A dwarven slave
+M 0 5136   1 5156  2	* A kalian slave
+M 0 5137   2 5156  2	* A human slave
+D 0 5122   3    2	* `dSlave Market`` [west]
+D 0 5156   1    2	* Slave Pen [east]
+M 0 5138   1 5122  1	* The drow slavemaster
+E 0 5137   -1   18	* item to The drow slavemaster
+M 0 5107   5 5105  1	* A drow high priestess
+E 0 5111   -1    5	* item to A drow high priestess
+M 0 5139   1 5116  1	* A cleric teacher
+O 0 5138   0 5124 -1	* `aa statue of a huge spider`` at The Fourth House of Drow City
+M 0 5141   1 5156  1	* A crazed, maniacal slave
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 5103 spec_cast_mage		* the drow mage noble
+M 5104 spec_cast_cleric		* A drow noble
+M 5108 spec_cast_cleric		* the matron mother
+M 5109 spec_breath_any		* the yochlol
+M 5116 spec_breath_lightning		* `aa sleeping dark elf mage``
+M 5117 spec_cast_cleric		* `aa half-clad priestess``
+M 5119 spec_thief		* `aa young dark elf``
+M 5122 spec_cast_mage		* General Shaladar
+M 5123 spec_cast_mage		* Shaladar's elite bodyguard
+M 5124 spec_cast_mage		* Shaladar's sentry
+M 5125 spec_cast_mage		* A drow scout
+M 5126 spec_cast_mage		* A drow elite guard
+M 5128 spec_cast_mage		* A drow sentry
+M 5129 spec_cast_mage		* A drow sentry
+M 5130 spec_cast_mage		* A drow sentry
+M 5131 spec_cast_mage		* A drow sentry
+M 5132 spec_cast_mage		* A drow soldier
+M 5133 spec_cast_mage		* A drow elite guard
+M 5134 spec_cast_mage		* A drow soldier
+S
+
+#OT
+#5138
+statuebeast!~
+$whenpulled~
+32768
+64
+load mob 5140~
+100
+0
+echo `aThe statue begins to glow and quake.``~
+100
+0
+load obj 5139~
+5
+0
+force drowspider palm mist~
+100
+0
+set obj spiderstat extra wizi~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#5139
+`aLich Armor `i(`kcombat triggers`i)``~
+$chance_on_round~
+256
+65
+echo `aA mysterious mist fills the room, emanating from `b$wearer.``~
+100
+0
+load obj 58~
+100
+0
+chant 'dark sphere'~
+100
+1
+cast fly $wearer~
+30
+10
+cast haste $wearer~
+1
+3
+cast 'faerie fire' $vict~
+1
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#5140
+`aLich Armor `i(`kmovement triggers`i)``~
+$on_tick~
+536870912
+65
+defile~
+10
+0
+cast refresh $wearer~
+10
+0
+echo `aThe smell of death lingers heavily as a dark mist swirls around `i$wearer`a.``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#5141
+`aLich Armor `i(`krandom attack`i)``~
+$on_tick~
+536870912
+65
+force $wearer kill $4randch~
+100
+0
+cast vortex $vict~
+10
+0
+cast malevolence $vict~
+10
+0
+chant 'skeletal mutation' $vict~
+10
+0
+chant 'seizure' $vict~
+1
+0
+chant 'aura rot' $vict~
+1
+0
+force $wearer emote gets a murderous look in $s eyes!~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#0
+#$

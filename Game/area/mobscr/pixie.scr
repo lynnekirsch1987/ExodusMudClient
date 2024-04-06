@@ -1,0 +1,21 @@
+* File: pixie.scr
+* Mob: pixie(12928)
+
+#TRIGGER enter
+Type 10
+*
+Sc 
+mfunc %enter-from% %name% name
+mfunc %enter-from% %align% align
+if ( %align% > -50 )
+    say You are a fool, %name% !
+    steal coins %name%
+    kill %name%
+    halt once~
+Sc
+    wink %name%
+    give 15 gold %name%
+    halt once~
+End
+
+#END

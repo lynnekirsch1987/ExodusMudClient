@@ -1,0 +1,50 @@
+* chimpanzee
+* mob vnum 4216
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %name% name
+   pecho %name% A chimpanzee eyes you curiously as you step into its abode.
+   halt once~
+End
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 4
+mfunc %cmb-from% %name% name
+if (%rndnum% == 0)
+   pecho %name% The chimpanzee grunts heavily as it beats a coconut against its head in frustration.
+   halt once~
+Sc
+if (%rndnum% == 1)
+   emote Ever so wily, the chimpanzee swiftly sidesteps your wild swing.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 4
+if ( %rndnum% == 0 )
+   emote squats down and examines something completely uninteresting on the ground.
+   halt once~
+Sc
+if ( %rndnum% == 2 ) 
+  emote heaves a big sigh and starts to look longingly at you.
+  halt once~
+End
+
+#END
+
+
+
+
+
+
+
+
+
+
+

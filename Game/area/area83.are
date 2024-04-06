@@ -1,0 +1,1345 @@
+#AREA
+ 6~
+area83.are~
+Newbie Zone~
+{ 1 10} Avariel  Newbie Zone~
+~
+1178 1199
+0 B 0
+0 0
+~
+#MOBILES
+#1178
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#1179
+the blob~
+`hthe `jblob``~
+`hThe `jblob `hoozes here coming slowly towards you.`` 
+~
+~
+unique~
+0 0 0 0
+ABGU AKcd 0 0
+1 1 10d61+416 1d1+100 0d0+0 none
+0 0 0 999 0
+0 0 0 AB CD H
+stand stand none 0
+AHMV ABCGH 6 6 6 6 6 6 0
+medium wood~
+0 0 0 100
+0
+~
+~
+#1183
+young man apprentice smith~
+an apprentice smith~
+A young man is carrying a heavy bag of iron scraps here.
+~
+You can tell easily, by looking at his hammer and powerful arms, that
+this young man works as a smith.  He is carrying a heavy bag of scrap iron,
+salvaged from the portcullis removed from the north gate.  
+~
+human~
+0 0 0 0
+AGT 0 150 0
+21 -20 7d40+240 10d10+50 4d5+4 punch
+20 20 20 999 20
+0 0 CEFKN 0 BP OS
+stand stand male 420
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#1184
+guildmaster training~
+`hthe `oG`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `nTraining``~
+`hThe `oG`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `nTraining `hsits here contemplating life.``
+~
+~
+human~
+0 0 0 0
+ABJ 0 0 0
+0 0 1000d1+0 0d0+0 0d0+0 none
+0 0 0 999 0
+DR 0 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#1185
+guildmaster level~
+`hthe `oG`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `iLeveling``~
+`hThe `oG`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `iLeveling `his practicing her warrior pose.``
+~
+~
+human~
+0 0 0 0
+ABJb 0 0 0
+0 0 1000d1+0 0d0+0 0d0+0 none
+0 0 0 999 0
+DR 0 0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#1186
+guildmaster practice~
+`hthe `oG`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `lSkills``~
+`hThe `oG`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `lSkill `hpractices making funny faces.``
+~
+~
+human~
+0 0 0 0
+ABK 0 0 0
+0 0 1000d1+0 0d0+0 0d0+0 none
+0 0 0 999 0
+DR 0 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#1178
+tallow candle ~
+`ha flickering tallow `kcandle``~
+`hA flickering tallow `kcandle `hhas been discarded.``~
+diamond~
+0
+light 2
+PSU
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+1 3 8309 P
+#1179
+ring of neophyte~
+`fRing `hof the `kN`heophyte``~
+`fRing `hof the `kN`heophyte sits here.``~
+silver~
+0
+jewelry 2
+PU
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 12 P
+A
+1 1
+#1180
+wristguard twigs grass~
+`ha wristguard of `dtwigs `hand `cgrass``~
+`hA wristguard of `dtwigs `hand `cgrass `hlies here.``~
+hard leather~
+0
+armor 2
+PSU
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+1 20 300 P
+A
+19 1
+A
+5 1
+#1181
+neophyte neckguard~
+`hthe `kN`heophyte's `bNeckguard``~
+`hThe `kN`heophyte's `bNeckguard `hjust sits here.``~
+fur~
+0
+clothing 2
+CPSU
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 18 100 P
+A
+1 1
+A
+14 20
+#1182
+leggings ~
+`ba pair of leggings``~
+`ba pair of ripped leggings lie on the ground.``~
+cloth~
+0
+clothing 2
+PSU
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 50 140 P
+A
+18 2
+A
+19 2
+#1183
+a tunic ~
+`ha `jbright green tunic``~
+`hA `jbright green tunic `hhas been dropped here.``~
+cloth~
+0
+clothing 2
+PSU
+B
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 50 10 P
+#1184
+neophyte boots ~
+`ha pair of sturdy `kN`heophyte `nboots``~
+`hA pair of sturdy `kN`heophyte `nboots `hhave been dropped.``~
+hard leather~
+0
+armor 2
+PSU
+B
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B B 0
+0
+0
+1 14 0 P
+A
+19 1
+#1185
+small wooden shield~
+`ha small `dwooden shield `hwith `kN`heophyte `hbranded onto it``~
+`hA small `dwooden shield `hwith `kN`heophyte `hbranded onto it lies here.``~
+wood~
+0
+trash 2
+PSU
+B
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 0 P
+A
+17 -4
+#1186
+dark grey cloak~
+`ha `adark grey `hcloak``~
+`hA `adark grey `hcloak sits here.``~
+cloth~
+0
+armor 2
+PSU
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A A 0
+0
+0
+1 30 0 P
+A
+2 2
+#1187
+spirit float~
+`nS`gp`ni`gr`ni`gt `hof the `kN`heophyte``~
+`hthe `nS`gp`ni`gr`ni`gt `hof the `kN`heophyte sits here.``~
+unknown~
+0
+trash 2
+HMPSUZ
+C
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 10 P
+A
+18 3
+A
+19 3
+A
+4 10
+#1188
+leather gloves~
+`da pair of leather gloves``~
+`dA pair of leather gloves lies here``~
+hard leather~
+0
+armor 2
+PU
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B 0 0
+0
+0
+1 20 203 P
+#1189
+sleeves leather~
+`ha pair of `ibright red sleeves``~
+`hA pair of `ibright red sleeves `hlies here.``~
+hard leather~
+0
+armor 2
+PU
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B 0 0
+0
+0
+1 20 72 P
+A
+13 2
+#1190
+neophyte sash~
+`ha `bred `hand `lblue `hsash``~
+`hA `bred `hand `lblue `hsash sit here.``~
+unknown~
+0
+clothing 2
+HMPSUZ
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 10 P
+A
+19 5
+#1191
+neophyte hat~
+`hthe `jCrazy `iLight`h-`mUp `kN`oeophyte `hhat``~
+`hThe `jCrazy `iLight`h-`mUp `kN`oeophyte `hhat just sits here.``~
+wheat~
+0
+clothing 2
+PSU
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 5 5 P
+A
+5 1
+#1192
+map thesden~
+`kA Map of the Newbie Arena``~
+A rolled up piece of parchment lays on the ground.~
+parchment~
+1000
+map 2
+SUY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+E
+map~
+`nThe Newbie Arena``        
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+`kKey:
+`dM`h: There is a monster in this room.
+`dS`h: There is a store in this room.
+`dB`h: There is a box with treasure in this room.
+`dE`h: This is the exit.
+~
+#1193
+tutorial~
+a rip in time and space~
+~
+ethereal~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+1193
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n has arrived through a rip in time and space.~
+~
+~
+~
+-1 0 G DEGHIJKL B
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#1178
+0 0
+~
+~
+~
+0 0 10
+`gBeginning the Journey``~
+`h
+`g+`e========================= `kWelcome to Exodus`e =========================`g+
+`h
+Welcome  to  Exodus! You start  your  journey  with a  quick  and  easy 
+tutorial to get you  acclimated to the world. Please start by doing the
+following:
+`h
+Type this - `jhelp getting started`h - read it in full.
+`h
+In the tutorial, commands to type will be in `jGREEN.`h Words that are also 
+usable commands will be in`n CYAN`h and words that have help files will be 
+in `gBLUE. `h(So whenever you see a `gBLUE`h word, type help blueword)
+`h
+If you ever need  to get back here, do so by typing `nRECALL`h,  going
+`nUP`h then typing `NENTER TUTORIAL`h.
+`h
+When you're ready to begin, move north by typing `jN`h.
+`h
+`e----------------------------- `hMove `jN`horth `e------------------------------``
+~
+0 0 0
+10
+~
+I 0 D0
+~
+~
+0 0 1179
+S
+#1179
+0 0
+~
+~
+~
+0 0 0
+`gIn the Tutorial``~
+`h
+`g+`e=========================== `kCommunication `e===========================`g+
+`h
+Excellent. Moving around is the first  and easiest step to playing any
+MUD. The  next step is  learning how to  communicate with  your fellow 
+players.
+`h
+`hTo speak to everyone on the game, type: `nOOC Hi!
+`hTo speak to someone who is in the same room as you, type: `nsay Hi!
+`hTo speak to a specific person, type: `ntell Avariel Hi!
+`h
+There are many other forms of communication as well, and you will come
+to learn those as you play.
+`h
+Once you have mastered that, move NORTH by typing `jN`h.``
+`h
+`e----------------------------- `hMove `jN`horth`e ------------------------------``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 1180
+D2
+~
+~
+0 0 1178
+S
+#1180
+0 0
+~
+~
+~
+0 0 0
+`gIn the Tutorial``~
+`h
+`g+`e============================= `kEquipment `e=============================`g+
+`h
+Great job! Now we will cover equipment and objects and how to use them.
+`h
+Type '`jeq`h' to see what you have on.
+Type '`ji`h' to see what is in your inventory.
+Type '`jremove shield`h' to remove your shield for a moment.
+Type '`ji`h' again, and you'll see your shield there.
+Type '`jwear shield`h' to wear it again.
+Type '`jdrop backpack`h' to drop your backpack.
+Type '`jl`h' or '`jlook`h' to look at the room.  See your backpack?
+Type '`jget backpack`h' to pick it back up.
+`h
+Go `jWEST`h from here.
+`h
+`e------------------------------ `hMove `jW`hest `e------------------------------``
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 1179
+D3
+~
+~
+0 0 1181
+S
+#1181
+0 0
+~
+~
+~
+0 0 0
+`gIn the Tutorial``~
+`h
+`g+`e============================== `kFleeing `e==============================`g+
+`h
+Ah, you finally  get to  FIGHT something here!  But,  you don't get to
+beat it.  More important  than  knowing how  to win a fight is knowing
+how to avoid  ones you  can't win  and get  out of the ones you cannot
+avoid.
+`h
+First,  type `jwimpy 10`h.  This  means  you'll  automatically flee if
+your hit points drop below 10.
+`h
+Next, go `jDOWN`h to  the  Blob.  You  aren't  going to  kill it, just 
+attack it, and then run away by typing `jflee`h.
+`h
+When you're done with the Blob, go `jWEST`h.
+`h
+`e--------------- `hMove `jd`hown, `jkill blob`h, `jflee`h, move `jw`hest`e ----------------- ``
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 1180
+D3
+~
+~
+0 0 1183
+D5
+~
+~
+0 0 1182
+S
+#1182
+0 0
+~
+~
+~
+0 0 0
+`gThe Blob``~
+`h
+`g+`e============================= `kThe Blob `e==============================`g+
+`h
+Welcome to your first 'fight'. We're going to cover the basics involved
+in attacking an enemy. 
+`h
+First, type: `jconsider blob
+`h
+This command gives you an idea about the strength of the opponent.
+`h
+Now, type: `jk blob
+`h
+A fight has been engaged.
+`h
+Now you can `jflee `hand move `jw`hest.
+`h
+`e--------------------------------- `jFlee `e---------------------------------``
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 1181
+S
+#1183
+0 0
+~
+~
+~
+0 0 0
+`gIn the Tutorial``~
+`h
+`g+`e========================== `kYour Character `e===========================`g+
+`h
+`
+Much like D&D, every character on Exodus has a character sheet. And you
+can view it by typing `jSCORE`h.
+`h
+`nSCORE `hlists every detail  about your character  you could want to know. 
+Take some time to look it over and get to know yourself!
+`h
+Feel  free to use this time to  ask questions  over `nOOC`h about anything 
+which may confuse you about your character sheet.
+`h
+Once you have finished looking at SCORE, move `jNORTH`h.
+`h
+`e---------------------------- `hMove `jN`horth `e------------------------------- ``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 1184
+D1
+~
+~
+0 0 1181
+S
+#1184
+0 0
+~
+~
+~
+0 0 0
+`gIn the Tutorial``~
+`h
+`g+`e=========================== `kAttributes`e ==============================`g+
+`h
+ATTRIBUTES, also known as STATS, are  what control  varying  weaknesses 
+and strengths of your character. Type `jhelp attributes`h for  descriptions 
+of each one. 
+`h
+You will have  already been prompted to 'roll' these when you created
+your character. But so long as you are level 1 you may `nREroll`h them.
+You can view your current attributes by typing `nSCORE`h.
+`h
+If you feel  like you  need to reroll your attributes, go  ahead  and 
+ask over OOC about what stats are best for you. 
+`h
+IE: `joo What stats are best for a Mage?`h
+`h
+Once you  have absorbed all  that and you  are  confident  with your 
+attributes, move `jNORTH`h.
+`h
+`e---------------------------- `hMove `jN`horth`e -------------------------------  ``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 1186
+D2
+~
+~
+0 0 1183
+S
+#1185
+0 0
+~
+~
+~
+0 0 0
+`gThe Training Room``~
+`h
+`g+`e============================= `kTraining `e==============================`g+
+`h
+After you have successfully rolled  your attributes, you  are given 11 
+bonus points to spend on them as you see fit. These are called 'trains'
+`h
+Everyone  starts  the game with 2 trains. You  can see  them by typing
+`nSCORE`h.
+`h
+By this  point you should have a good  idea  about what attributes are 
+most  important to you, so you  can begin training them.
+`h
+Type: `jtrain <statname> `h(Ie: train dex)
+`h
+Once you have used your two trains, move  `jWEST`h.
+`h
+`e------------------------------ `hMove `jW`hest `e------------------------------``
+~
+0 C 0
+0
+~
+I 0 D2
+~
+~
+0 0 6974
+D3
+~
+~
+0 0 1187
+S
+#1186
+0 0
+~
+~
+~
+0 0 0
+`gIn the Tutorial``~
+`h
+`g+`e============================= `kTo the Arena `e==============================`g+
+`h
+You  are about to enter the Newbie  Arena! In here  you will get your first 
+taste  of  adventure. You  will  kill  enemies  for  equipment,  gold,  and 
+experience.
+`h
+Before you start, take some time to think about what we have covered so far.
+For a (very) quick refresher, read the following help files:
+`h
+`jhelp kill
+help east
+help consider
+`h
+Once you have read those, go ahead and move `jnorth`h! And buy a map!
+`h
+`e------------------------------ `hMove `jN`horth `e-------------------------------``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6973
+D2
+~
+~
+0 0 1184
+S
+#1187
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kExperience `e=============================`g+
+`h
+In Exodus, you gain levels by spending `gexperience`h. This is also how you
+practice  skills  and spells. 
+`h
+You gain `gexperience`h by completing quests and killing enemies. Since you
+have recently  killed a few enemies  you should have some `gexperience`h to
+spend on `ggain`hing a couple levels and practicing your skills.
+`h
+Experience will be spent  with your guildmaster at your guild. There is 
+a specific  guild for each  class on Exodus. You  will learn how to get
+to your guildmaster later in the tutorial.
+`h
+To view your current experience, type `nSCORE`h, then move `jNORTH`h.
+`h
+`e----------------------------- `hMove `jN`horth`e ------------------------------``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 1188
+D1
+~
+~
+0 0 1185
+S
+#1188
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e=============================== `kLeveling `e================================`g+
+`h
+There are  90  levels in  Exodus. You spend  experience  to gain levels and
+will do so at your guildmaster. We have placed  guildmasters here for ease.
+`h
+For the first ten levels you will gain one train a `glevel`h. Therefore, you'll 
+want to `ggain`h 1 level, then spend 1 train. Try it now!
+`h
+- Type '`jgain level`h' - You are now level 2! (View your `nSCORE `hby typing `jSC`h)
+- Train an attribute of your desire by typing `jtrain wis`h, or `jtrain dex`h, etc.
+`h
+You can repeat this  process a couple  times until you can no longer afford 
+to gain new levels.
+`h
+When you are done, move `jEAST`h.
+`h
+`e------------------------------- `hMove `jE`hast`e ---------------------------------``
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 1189
+D2
+~
+~
+0 0 1187
+S
+#1189
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================== `kPracticing `e===============================`g+
+`h
+Each  class has  a unique set of skills. There is  room for great diversity
+among  characters through multi-classing, as well. (Help multiclass). Every
+skill and spell  that you have starts at 1%, and  you must practice them to
+use them to their full extent.
+`h
+Just like leveling, we use experience to practice skills. You can view your
+current set of  skills by typing `jprac`h. To see ALL the spells your class
+gets, consult the help file for your class. IE: `ghelp mage`h. 
+`h
+To practice a skill or spell, you go to your guildmaster and simply type 
+`jprac <spell>`h. ie: `nprac trip`h.
+`h
+Try practicing one of your spells here, then move north.
+`h
+`e------------------------------- `hMove `jN`horth `e--------------------------------``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 1191
+D3
+~
+~
+0 0 1188
+S
+#1191
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e========================= `kEnd of the Journey `e============================`g+
+`h
+You have reached  the end of the Exodus Newbie School! Congratulations! You
+should now  be ready to face all that  comes your way! Once you leave here, 
+you will be  teleported to Devon Square Center or `gDSC `h(Read: `jHelp DSC`h). And
+your adventure shall begin.
+`h
+Remember, the realms of Exodus are vast and can often be confusing. To help
+you get started with  moving around  and exploring, we've created a list of 
+`hareas and  directions to them that will be  of use to you. `jHelp Directions`h.
+`h
+Once you are ready to leave, type `jexit tutorial`h.
+`h
+Remember, you can always get back by typing `jrecall`h and `ju `hand `jenter tutorial
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 1189
+S
+#0
+
+#RESETS
+M 0 1179   1 1182  1	* `hthe `jblob``
+M 0 1184   1 1185  1	* `hthe `og`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `ntraining``
+M 0 1185   1 1188  1	* `hthe `og`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `ileveling``
+M 0 1186   1 1189  1	* `hthe `og`hu`oi`hl`od`hm`oa`hs`ot`he`or `hof `lskills``
+O 0 1193   0 1191 1	* A rip in time and space at 
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#1193
+competion~
+$whenexited~
+32768
+68
+gecho `nF`ki`ir`le`mw`ko`nr`lk`is `hblaze in the sky as `k$name `hcompletes $e training!`` ~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

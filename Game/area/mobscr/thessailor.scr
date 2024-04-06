@@ -1,0 +1,13 @@
+* File: thessailor.scr
+* Mob: sailor (4073)
+
+#TRIGGER grunt
+Type 10
+Sc
+wfunc %wtf% random 0 10
+if ( %wtf% > 8 )
+   emote grunts and nods at you in greeting.
+   halt once~
+End
+
+#END

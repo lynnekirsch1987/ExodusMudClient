@@ -1,0 +1,5721 @@
+#AREA
+ 6~
+weicloud.are~
+Palace of `lW`nein`lC`nloudstan``~
+{70 91} Sartorian  Palace of `lW`nein`lC`nloudstan``~
+~
+3186 3386
+29 0 0
+0 0
+~
+#MOBILES
+#3186
+empress~
+The Empress~
+The Cloud Empress is here, sitting regally upon her throne.
+~
+Tall even for a cloud giant, the Empress is nonetheless a beautiful
+woman.  Her lovely blue hair is tinged very slightly with silver, adding an
+aristocratic note to her already ladylike demeanor.  Although she seems to
+calmly face all she sees, you still somehow want to protect her from any
+evil that may be present.  
+~
+cloudgiant~
+0 0 0 0
+ABCQRT DFHNTV 300 0
+84 120 10d100+8530 10d10+1000 10d5+55 wrath
+-50 -50 -50 999 -40
+0 -1 AFHK ABJ CDI LPQ
+rest rest female 15000
+AHMV ABCDEFGHIJKa 23 23 23 23 23 23 32505
+giant flesh~
+0 0 0 300
+0
+~
+~
+#3187
+wandra~
+Wandra, the daughter of the Empress~
+Wandra, the daughter of the Empress sits here, gazing at the view.
+~
+Wandra is the splitting image of her mother.  She is tall, even
+by cloud giant standards, and she is extremely beautiful.
+~
+cloudgiant~
+0 0 0 0
+ABCF DFHNTV 750 0
+69 70 10d100+5039 10d10+1000 10d5+40 wrath
+-35 -35 -35 999 -25
+0 -1 EFHKN ABJ CDI P
+rest rest female 4000
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 500
+0
+~
+~
+#3188
+palace guard~
+the palace guard~
+A Royal Palace Guard stands here at attention.
+~
+~
+cloudgiant~
+0 0 0 0
+ABCNTUc HNTV 0 0
+68 70 10d60+3909 10d50+643 10d3+29 frbite
+-21 -21 -21 999 -15
+0 -1 CDEFHJNU AJ BI P
+stand stand male 300
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3189
+palace guard~
+the palace guard~
+A Royal Palace Guard stands here at attention.
+~
+Tall even by Cloud Giant standards, this palace guard seems to be trying
+to redefine the word 'huge.  ' His burly, stocky build seems to ripple with
+muscles beneath the somewhat staid uniform of a palace guard.  Although the
+guard makes a sincere attempt at seeming expressionless, there is the
+faintest hint of boredom in his eyes.  
+~
+cloudgiant~
+0 0 0 0
+ACTU HNTV 0 0
+67 70 10d100+3029 1d10+200 10d3+25 frbite
+-20 -20 -20 999 -15
+0 -1 CDEFHJNU AJ BI P
+stand stand male 300
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 400
+0
+~
+~
+#3190
+guard~
+the treasury guard~
+A Royal Treasury Guard stands here at attention.
+~
+This guard towers above you.  You quickly realize that
+you should not be where you are.
+~
+cloudgiant~
+0 0 0 0
+ABCFTU HNT 0 0
+90 90 10d100+5739 10d6+429 4d8+40 frbite
+-26 -27 -27 999 -20
+0 -1 CDEFHJNR AJ BI P
+stand stand male 502
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+giant flesh~
+0 0 0 400
+1
+~
+~
+#3191
+chef~
+the chef~
+The chef is here cooking something that smells nice.
+~
+The chef is small for a Cloud Giant.  He hovers over his pots
+and pans, trying to keep the Empress happy.
+~
+cloudgiant~
+0 0 0 0
+ABCc TV 0 0
+60 60 10d50+3649 10d4+240 1d10+3 frbite
+-20 -20 -20 999 -10
+0 -1 H J I P
+stand stand male 15
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+giant flesh~
+0 0 0 200
+0
+~
+~
+#3192
+servant~
+a servant~
+A servant is here working.
+~
+This servant is an average sized cloud giant.  He looks
+very busy and you decide not to bother him.
+~
+cloudgiant~
+0 0 0 0
+AC TV 0 0
+60 60 10d100+3463 10d30+250 10d3+26 slap
+-8 -8 -8 999 0
+0 -1 FHK J I P
+stand stand male 1
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3193
+violinist~
+the violinist~
+A violinist is here, practicing his virtuoso melodies.
+~
+This Cloud Giant practices his violin almost all of the day.
+He is a key member of the orchestra, and is known for his
+work ethic.
+~
+cloudgiant~
+0 0 0 0
+ABC TV 500 3194
+64 70 10d100+4209 1d10+100 10d4+20 frbite
+-20 -20 -20 999 -15
+0 -1 FH J I P
+rest rest male 10
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3194
+flute player~
+a flute player~
+A flute player is making beautiful music here.
+~
+This Cloud Giant loves the flute.  She loves to play and 
+spends most of her life making music.
+~
+cloudgiant~
+0 0 0 0
+ABC TV 403 3194
+65 70 10d100+4302 10d40+236 10d2+30 frbite
+-20 -20 -20 999 -15
+0 -1 FH J I P
+rest rest female 10
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+giant flesh~
+0 0 0 250
+0
+~
+~
+#3195
+timpanist~
+the timpanist~
+The timpanist is here playing with his sticks.
+~
+The timpanist loves to practice.  He is here today trying to become 
+better as the conductor always complains about him.
+~
+cloudgiant~
+0 0 0 0
+ABCH TV 402 3193
+60 60 10d60+3019 1d10+100 10d3+15 frbite
+-20 -20 -20 999 -16
+0 -1 0 J I P
+rest rest male 400
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3196
+chambermaid maid~
+the chambermaid~
+A chambermaid is here cleaning up the room.
+~
+This Cloud Giantess, like all of her kind, is tall and clean-limbed. 
+Unlike many of the hustling citizens of WeinCloudstan, however, this woman
+bears herself proudly and bustles about cheerfully, energetic rather than
+just driven.  She wears the uniform of a chambermaid, and her hair has some
+streaks of silver amidsts the gold, indicating that she has served her Queen
+for a long time, and probably quite well.  
+~
+cloudgiant~
+0 0 0 0
+ABCH TV -150 0
+55 55 10d60+2950 1d10+100 10d3+20 frbite
+-15 -13 -13 999 -10
+0 -1 FH J I P
+stand stand female 10
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3197
+counselor~
+the counselor~
+The counselor is here thinking deeply.
+~
+Lost in thought, this elder Cloud Giant doesn't seem to note your
+presence, lost in his thoughts.  Although simple, his clothing is of fine
+fabric, and his hands are free from the calluses of a working man or a
+martially-oriented one.  He shuffles through important-looking documents
+with an occasional thoughtful hmm under his breath.  Obviously a counselor
+to the Empress, he is likely a respected one if he is permitted to use her
+private study.  
+~
+cloudgiant~
+0 0 0 0
+ABN HTV 300 0
+75 80 10d100+4630 1d10+100 10d3+30 frbite
+-30 -30 -30 999 -25
+0 -1 F J I P
+rest rest male 300
+AHMV ABCDEFGHIJKa 21 21 21 21 21 21 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3198
+statesman~
+a statesman~
+A statesman is here discussing politics over coffee.
+~
+The statesman sits here deep in conversation.  He is almost never
+quiet, a character trait most Cloud Giants find rather annoying.
+~
+cloudgiant~
+0 0 0 0
+ABHNc HTV 300 0
+73 80 10d120+5090 10d45+540 10d3+30 frbite
+-30 -30 -30 999 -25
+0 -1 FH J I P
+rest rest male 300
+AHMV ABCDEFGHIJKa 21 21 21 21 21 21 0
+giant flesh~
+0 0 0 400
+0
+~
+~
+#3199
+zookeeper keeper zoo~
+the zookeeper~
+The zookeeper is busy taking care of the animals.
+~
+Noting your gaze, the zookeeper perks up and offers a friendly smile.  If
+asked, he'll tell anyone happily how hard he works, and how very brave he is
+to stay in such a dangerous job.  A bandage covers one massive Cloud Giant
+hand, and he shrugs it off.  Bit by a fanged flying earthworm again doesn't
+make as good of a tale as some of his other stories.  His long nose wobbles
+as he nods his head up and down.  Oh yes, he's got plenty to say to anyone
+with the patience to listen.  
+~
+cloudgiant~
+0 0 0 0
+AC HTV 300 0
+78 80 10d100+6309 1d10+100 10d3+36 frbite
+-20 -20 -20 999 -10
+0 -1 FH J I P
+stand stand male 50
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+giant flesh~
+0 0 0 100
+4
+zookeeper.voc~
+~
+#3200
+zoo worker~
+a zoo worker~
+A zoo worker is here cleaning up.
+~
+Although dressed neatly in the uniform of a Royal Zoo worker, this Cloud
+Giant shows the stressful and active nature of his job in the tell-tale
+marks of wear and stains on his uniform.  Acting as both caretakers and
+janitors, the zoo workers rarely look up from whatever task they are
+performing, even when zoo patrons speak to them.  
+~
+cloudgiant~
+0 0 0 0
+ACNc HTV 200 0
+69 80 10d100+4649 10d6+350 10d3+28 frbite
+-25 -25 -20 999 -19
+0 -1 CFH J I P
+stand stand male 50
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3201
+concession girl~
+the concession stand girl~
+The concession stand girl smiles at you.
+~
+The concession stand girl is a rather short Cloud Giant.  She wears her
+red and white striped uniform, and looks rather silly wearing it.  
+~
+unique~
+0 0 0 0
+ABC HV 0 0
+68 80 10d60+6900 1d10+100 4d10+4 slap
+-20 -20 -20 999 -30
+0 -1 FH 0 0 0
+stand stand female 50
+AHM ABCDEF 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3202
+waiter~
+the waiter~
+`gA waiter discreetly hovers nearby, waiting for your order.``
+~
+This tall, slightly-plump Cloud Giant hovers near you, a white cloth over
+one hand.  He rearranges a flower in the buttonhole of his immaculate,
+powder-blue tuxedo, and then busies himself straightening a flower
+arrangment near you.  He seems to be waiting for you to order something. 
+That, or he's admiring your color coordination skills.  
+~
+cloudgiant~
+0 0 0 0
+ABC HT 0 0
+66 60 10d4+600 1d10+100 4d10+4 slap
+-50 -50 -50 999 -50
+0 -1 0 J I P
+stand stand male 50
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3203
+giant cloud tiger~
+a giant cloud tiger~
+A Giant Cloud Tiger is getting ready to pounce on you!
+~
+One of the largest creatures in the Royal Zoo, the Giant Cloud Tiger is
+one of the last of its kind, most having been hunted to death for their
+pelts by the Cloud Giants in the past.  Fortunately for the few remaining
+tigers, the fad for wearing Cloud Tiger fur passed before they had been
+hunted completely to extinction.  However, being denied their former
+territories and the company of their fellows has not improved the previously
+ferocious disposition of the great beasts, with the caged ones being most
+aggressive.  
+~
+cloudgiant~
+0 0 0 0
+AFGNTU DFPQTV -1000 0
+70 90 10d100+5049 10d65+200 10d3+25 claw
+-30 -30 -30 999 -25
+0 -1 FHI ABJ I P
+stand stand female 0
+AGHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 500
+0
+~
+~
+#3204
+giant panda bear~
+`ca `hc`el`ho`eu`hd `ep`ha`en`hd`ea``~
+`cChomping happily on some bamboo, a `ec`hl`eo`hu`ed `hp`ea`hn`ed`ha `ctrundles about.``
+~
+This massive creature, larger even than its more common black and white
+cousin, seems preoccupied with the bamboo that it is happily gnawing.  The
+panda has a beautiful deep blue and white coat.  Beady little eyes look up
+at any sound, perhaps checking for some food.  
+~
+cloudgiant~
+0 0 0 0
+AGTe DFTa 400 0
+71 90 10d90+4659 1d10+100 10d5+30 claw
+-25 -25 -25 999 -20
+0 -1 FI ABJ I P
+stand stand female 0
+AGHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+6 4 5000 600
+0
+~
+~
+#3205
+cloud warg~
+A `ncloud `gwarg``~
+`nThe cloud warg paces restlessly.``
+~
+A demonic cousin of the wolf, wargs are known for their ferocity and
+viciousness.  In addition to the speed and strength of the wolf, warg bites
+often reflect the type of demon they are related to - cloud warg bites are
+rumored to carry the terrible coldness of ice demons.  Cloud wargs are among
+the largest of the warg family, with an unmistakeable `nsky-blue`` pelt.  
+~
+cloudgiant~
+0 0 0 0
+AFGTU DFPQTV 0 0
+70 80 10d50+4060 1d10+100 10d4+27 frbite
+-25 -25 -24 999 -15
+0 -1 I ABJ I P
+stand stand either 0
+AGHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 250
+0
+~
+~
+#3206
+ancient cloud dragon~
+the ancient cloud dragon~
+A weary, beaten, ancient cloud dragon rests here in his solitude.
+~
+This dragon once was a powerful creature, but old age and
+being beat to submission by an army of Cloud Giant Soldiers has
+left this dragon subdued.  You feel pity for this dragon and feel
+that you should leave it alone.
+~
+unique~
+0 0 0 0
+AGHR HNOQV 0 0
+80 120 10d100+5750 10d250+310 10d6+50 chill
+-50 -50 -50 999 -50
+0 -1 FHI AB CDJO 0
+rest rest female 0
+AGV ABCDEFG 22 22 22 22 22 22 0
+giant flesh~
+10 9 20000 100
+0
+~
+~
+#3207
+giant cloud bear~
+a giant cloud bear~
+A Giant Cloud Bear is pulling on the bars of his cage.
+~
+Huge and ferocious, this Cloud Bear surpasses even the Cloud Giants in
+size and stature.  Something or someone has obviously been tormenting it, as
+as it growls constantly and occasionally roars out a challenge.  Large bear
+claws clack in annoying constancy as it moves about, and small beady eyes
+consider everything angrily.  
+~
+cloudgiant~
+0 0 0 0
+ACFGTU DFPQTV 0 0
+71 90 10d200+4630 1d10+100 10d4+20 frbite
+-25 -20 -24 999 -15
+0 -1 IP ABJ I P
+stand stand male 0
+AGHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3208
+glaraunt~
+the glaraunt~
+The Glaraunt is here tearing apart its cage.
+~
+This violent beast is the terror of the zookeepers, the reason readily
+apparent when viewing what remains of this, its latest cage.  Bars are bent
+and gnawed upon, and the floors and roof of the cage show the unmistakeable
+deep gouges of the glaraunt's claws.  Paint the color of the ceiling flakes
+off the curving, deadly claws of the glaraunt, which seems to only have the
+immediate destruction of the Cloud Bear, who can be seen in another nearby
+cage, and anything else that catches its attention.  
+~
+cloudgiant~
+0 0 0 0
+AFGTU DFPQTV -1000 0
+80 100 10d100+6079 10d5+450 10d4+25 wrath
+-27 -27 -27 999 -22
+0 -1 CFHI ABJ IS P
+stand stand female 0
+AGHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+giant flesh~
+0 0 0 405
+0
+~
+~
+#3209
+aristocrat~
+an aristocrat~
+An aristocrat is here socializing.
+~
+This tall, thin man lacks the bulk of the Palace Guards, yet is still
+many times larger than a human.  Dressed in rich attire that flaunts his
+undoubtedly enormous wealth, he looks as if he has never known work.  When
+he does deign to speak to you, he seems to be determined to redefine the
+word "dull."  
+~
+cloudgiant~
+0 0 0 0
+ACGHNc DFPTV 240 0
+72 70 10d65+5430 1d10+100 10d3+20 frbite
+-25 -25 -26 999 -30
+0 -1 FH AJ BI P
+stand stand female 500
+AGHMV ABCDEFGHIJKa 21 21 21 21 21 21 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3210
+artist~
+an artist~
+An artist is here, admiring the fine works on display.
+~
+This cloud giant appreciates good art, especially his own paintings
+that are on the walls here.
+~
+cloudgiant~
+0 0 0 0
+ACGHc DFPQTV 0 0
+59 59 10d50+3609 1d10+100 10d2+15 slap
+-13 -12 -12 999 -5
+0 -1 0 AJ I P
+stand stand female 0
+AGHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#3211
+insane emperor~
+`ithe insane Emperor``~
+Cursing unintelligibly, the Insane Emperor lunges at you!
+~
+Although born to rule, the Emporer went insane an immensely long time
+ago.  His lady wife got sick and tired of him embarassing her and having to
+constantly work around him for the good of her people, so she locked him up
+tightly in the dungeon.  
+~
+cloudgiant~
+0 0 0 0
+ABCFN DFHOTV 1000 0
+84 110 10d200+6780 10d60+360 4d20+30 drain
+-50 -50 -50 999 -50
+0 -1 EFHKN Ja I P
+stand stand male 100
+AHMV ABCDEFGHIJKa 23 23 23 23 23 23 0
+giant flesh~
+0 0 0 500
+0
+~
+~
+#3212
+emperor guard~
+The Emperor's guard~
+A faithful guard of the Emperor stands here attentively.
+~
+Part nursemaid, part bodyguard, and part servant, this man is all loyal
+subject to the Insane Emperor and his considerably more sane Empress.  The
+strain of his position tells in the lines around his eyes and mouth, but he
+bears himself (and his position) with admirable pride and dignity.  Sensing
+the direction of your thoughts, he gazes thoughtfully at you for a moment
+before his face assumes his typical unemotional expression.  
+~
+cloudgiant~
+0 0 0 0
+ABCTX HTV 1000 3211
+78 90 10d130+6390 1d10+100 2d30+10 slice
+-20 -20 -20 999 -15
+0 -1 CEFK BJ I P
+stand stand male 150
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+giant flesh~
+0 0 0 300
+0
+~
+~
+#3213
+guard personal ~
+The Empress' personal guard~
+A big, handsome guard watches attentively over the Empress.
+~
+The largest cloud giant you have ever seen stands here, a massive axe
+relaxed at his side.  He is the Empress' Personal Guard and very proud of
+the honor that has been bestowed upon him.  The Empress chose him wisely,
+for now he guards not just out of duty, but also out of respect and perhaps
+a bit more...  
+~
+cloudgiant~
+0 0 0 0
+ABCTX HTV 1000 3186
+80 100 10d130+6390 10d60+500 2d30+3 slice
+-20 -20 -20 999 -15
+0 -1 CEFKW ABJ I P
+stand stand male 150
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+giant flesh~
+0 0 0 300
+0
+~
+~
+#3214
+acolyte ascendance~
+Acolyte of Ascendance~
+The Acolyte of Ascendance is hovers here as he gently flaps his wings.
+~
+The Acolyte of Ascendance is an overwhelming being
+standing as tall as a human.  His huge wings course with
+energy as he effortlessly flutters them to stay afloat.  His
+beautiful golden feathers shimmer as they reflect light in all
+directions.  You feel compelled to kneel before this wondrous
+being.
+~
+human~
+0 0 0 0
+AB HT 1000 0
+100 100 20000d1+5000 6000d1+666 20d30+10 magic
+-10 -10 -10 999 -10
+D 60 10 0 Abc D 0
+stand stand male 10001
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium oldstyle~
+0 0 0 100
+4
+nerix.voc~
+nerix.scr~
+#0
+
+#OBJECTS
+#3186
+empress crown~
+`fthe crown of the Empress``~
+The crown of the Empress is here.~
+stone~
+0
+treasure 2
+AB
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 5 20490 A
+A
+12 30
+A
+24 -1
+A
+19 1
+A
+18 1
+#3187
+emerald broach~
+`fAn `jEmerald `fBroach``~
+`hA valuable `jemerald `hbroach is here.``~
+stone~
+0
+armor 2
+AB
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ACD CD ABCD CE 0
+0
+0
+70 2 20090 A
+A
+12 20
+A
+24 -3
+#3188
+red silk dress~
+`ia red silk dress``~
+A red silk dress is here.~
+silk~
+0
+clothing 2
+A
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+67 3 900 A
+A
+12 10
+#3189
+battle axe jewel~
+a jewel handled battle axe~
+A HUGE battle axe with a precious handle is here.~
+metal~
+0
+weapon 2
+0
+0
+ANP
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AC B BDE ADE F
+0
+0
+68 236 2050 A
+A
+18 1
+A
+1 2
+#3190
+halberd platinum~
+`aA `oPlatinum-Edged `aHalberd``~
+`hA huge halberd with a platinum edge is here.``~
+platinum~
+0
+weapon 2
+0
+0
+ANP
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC B ABDE A F
+0
+0
+68 350 3000 A
+A
+18 1
+A
+19 3
+#3191
+staff quarterstaff platinum~
+`hA `oPlatinum `hQuarterstaff``~
+`hA Platinum Quarterstaff is here.``~
+platinum~
+0
+weapon 2
+Y
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AB B BDE AB F
+0
+0
+68 17 3050 A
+A
+17 -3
+A
+19 1
+#3192
+gold bullwhip whip~
+`aA `kGold-Handled `aBullwhip``~
+`hA bullwhip with a `kgold `hhandle is here.``~
+gold~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 B BCE C 0
+0
+0
+60 50 400 A
+A
+18 4
+A
+19 -1
+#3193
+mail shirt cloud woven~
+a mail shirt of woven cloud~
+A mail shirt made from a woven cloud is here.~
+air~
+0
+armor 2
+G
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 CD 0
+0
+0
+70 3 0 A
+A
+17 -2
+A
+3 1
+#3194
+woven cloud sleeves~
+`na set of woven cloud sleeves``~
+A set of woven cloud sleeves is here.~
+air~
+0
+armor 2
+0
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 BD 0
+0
+0
+60 3 0 A
+A
+1 3
+#3195
+plan~
+The Plan~
+A copy of the Plan is here.~
+parchment~
+0
+parchment 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+64 6 400 A
+A
+4 3
+#3196
+sticks~
+a set of sticks~
+A set of sticks is here.~
+wood~
+0
+instrument 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+58 2 100 A
+A
+19 3
+#3197
+coffee cup~
+a large cup of coffee~
+A large cup of coffee is here.  It makes you thirsty.~
+liquid~
+0
+drink 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CD CD CD 0 0
+0
+0
+10 2 50 A
+#3198
+tea kettle~
+a huge tea kettle~
+This tea kettle is so big it could be used as a shield!~
+metal~
+0
+drink 2
+0
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CFG CFG ABD 0 0
+0
+0
+75 10 99 A
+A
+17 -4
+#3199
+salt water taffy~
+salt water taffy~
+Some delicious salt water taffy is here.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B BCEH 0 0
+0
+0
+1 1 4 A
+#3200
+pink cotton candy~
+pink cotton candy~
+Pink cotton candy looks sticky.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C 0 CFG 0 0
+0
+0
+1 0 2 A
+#3201
+cup cola~
+a large cup of cola~
+A large paper cup filled with cola is here.~
+paper~
+0
+drink 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCD ABCD ABCD 0 0
+0
+0
+1 2 5 A
+#3202
+bratwurst~
+a large bratwurst~
+A bratwurst is here steaming.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE CE AC 0 0
+0
+0
+1 1 9 A
+#3203
+hotdog dog~
+a hotdog~
+A hotdog makes you think of nasaea.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AD AD ABC 0 0
+0
+0
+1 1 10 A
+#3204
+big beer~
+a big cup of cheap beer~
+Cheap beer is here.  YUCK!~
+liquid~
+0
+drink 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC A 0 0
+0
+0
+1 1 8 A
+#3205
+rack lamb~
+a rack of lamb~
+A rack of lamb looks rather filling.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CF CF ABCD 0 0
+0
+0
+1 10 540 A
+#3206
+pound human flesh~
+two pounds of human flesh~
+Human flesh is here.  Yum! Such a rare delicacy.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF DF CE 0 0
+0
+0
+1 4 940 A
+#3207
+scalloped potatoes onions~
+scalloped potatoes and onions~
+A plate of scalloped potatoes and onions is here.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CD CD BEF 0 0
+0
+0
+1 1 300 A
+#3208
+salad green~
+a green salad~
+A green salad looks healthy.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D D CFG 0 0
+0
+0
+1 1 65 A
+#3209
+bottle wine~
+a bottle of fine wine~
+A bottle of fine wine looks rather expensive.~
+glass~
+0
+drink 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF DF B 0 0
+0
+0
+2 3 800 A
+#3210
+glaraunt tooth necklace~
+`ha glaraunt tooth necklace``~
+A glaraunt tooth necklace is here.~
+bone~
+0
+treasure 2
+0
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 2 3059 A
+A
+18 1
+A
+1 1
+A
+19 2
+#3211
+cloud bear hide~
+`nthe hide of the cloud bear``~
+A hide of the cloud bear is here.~
+air~
+0
+armor 2
+0
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AD AD AD 0 0
+0
+0
+70 2 1504 A
+A
+1 2
+#3212
+warg paw~
+a warg paw~
+A paw of a vicious warg is here.~
+fur~
+0
+treasure 2
+B
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 0 350 A
+A
+2 2
+#3213
+sacred holy royal wand~
+the sacred, holy, royal wand~
+A wand hovers above ground.  It looks sacred and holy.~
+ethereal~
+0
+wand 2
+AB
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CFG AB AB D 'reserved'
+0
+0
+80 1 7403 P
+#3214
+staff cloud protection~
+a staff of cloud protection~
+The staff of cloud protection is here.~
+ethereal~
+0
+staff 2
+B
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+EG AC ABCD BEF 'reserved'
+0
+0
+80 10 3500 P
+#3215
+ruby sceptre~
+`ia ruby sceptre``~
+A scepter adorned with rubies is here.~
+stone~
+0
+light 2
+B
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 DFGHIJ 0 0
+0
+0
+80 5 4050 A
+A
+12 50
+#3216
+green flute~
+`ga green flute``~
+`gA green flute lies here.``~
+stone~
+0
+wand 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+EG AB AB ABH 'reserved'
+0
+0
+60 5 25430 P
+#3217
+huge diamond~
+`oA`h h`ou`hg`oe`h d`oi`ha`om`ho`on`hd``~
+A huge diamond glitters in the light.~
+diamond~
+0
+treasure 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+52 5 10001 P
+#3218
+bar platinum~
+a bar of pure platinum~
+A bar of pure platinum is here.~
+platinum~
+0
+treasure 2
+W
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+60 160 20490 A
+#3219
+royal potion~
+a royal potion~
+A royal potion is here.~
+glass~
+0
+potion 2
+B
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BCDE 'heroes feast' 'cure poison' -1 -1 0
+0
+66 5 3504 P
+#3220
+platinum chest~
+a platinum chest~
+A huge platinum chest is here.~
+platinum~
+0
+container 2
+FG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD ABCD ABCEHKL BD CFG
+0
+0
+10 100 1 A
+#3221
+gold chest~
+a solid gold chest~
+A solid gold chest is here.~
+gold~
+0
+container 2
+FG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD ABCD ABCEHKL BD EG
+0
+0
+10 6000 1 P
+#3222
+platinum chest~
+a platinum and gold chest~
+A platinum and gold chest is here.~
+platinum~
+0
+container 2
+FG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CEFGHI ABCD ABCEHKL CDFI BCG
+0
+0
+10 100 1 A
+#3223
+royal key~
+the royal key~
+A royal key is here.~
+stone~
+0
+key 2
+HY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+55 3 0 P
+#3224
+globe illumination~
+`othe globe of illumination``~
+The globe of illumination is here.~
+ethereal~
+0
+light 2
+ABHKL
+0
+AV
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 DHIJM 0 0
+0
+0
+74 1 7304 P
+A
+17 -3
+A
+12 30
+A
+4 1
+#3225
+emerald gloves~
+`jemerald adorned gloves``~
+A pair of gloves adorned with emeralds are here.~
+stone~
+0
+armor 2
+0
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+65 5 3503 A
+#3226
+shimmering emerald dagger~
+`ca shimmering emerald dagger``~
+`cA dagger made of the most beautiful emeralds in the world shimmers in the light.``~
+stone~
+0
+weapon 2
+ABGIORSTY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+B ABC D ABCF B
+0
+0
+90 130 9000 P
+A
+19 3
+A
+24 -3
+#3227
+diamond edge axe~
+`dA `hDiamond-Edged `dAxe``~
+`hA wicked axe sparkles brilliantly here, the diamonds in the blade gleaming.``~
+diamond~
+0
+weapon 2
+S
+0
+ANR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC BC AD ACE D
+0
+0
+70 280 3000 P
+A
+19 3
+A
+2 -1
+A
+17 3
+A
+18 3
+#3228
+vacant vnum~
+``~
+``~
+void~
+2
+trash 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#3229
+glaraunt hide~
+`aThe `bb`il`bo`io`bd`iy `ahide of the `hGlaraunt``~
+`aThe hide of the `hglaraunt `awas viciously removed prior to the `bInsane Emperor's `acapture.``~
+flesh~
+0
+armor 2
+JY
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+D D D 0 0
+0
+0
+64 200 0 P
+A
+13 20
+A
+1 2
+A
+26 -6
+A
+14 -20
+A
+19 2
+#3249
+Crest~
+`kCrest of the `cIll``~
+A humming crest lies here in the dirt.~
+unknown~
+0
+trash 2
+S
+0
+AZ
+0
+0
+0
+22
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#3186
+0 0
+~
+~
+~
+0 0 0
+The Cloud Palace Gates~
+The gates are at least forty feet tall and made of six inch thick bars of
+platinum.  Once always locked, now they are just closed, more of a
+decoration than anything else since the city has been in peace for
+centuries.  The gate connects to the tall walls of the palace.  Several
+yards thick, they are made of solid stone and stand forty feet high.  
+~
+0 e 9
+0
+~
+I 0 D0
+gate~
+You see a gate made of platinum bars here.
+
+~
+1 0 3208
+D1
+~
+~
+0 0 3187
+D2
+~
+door~
+1 0 3682
+D3
+~
+~
+0 0 3207
+S
+#3187
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3188
+D3
+~
+~
+0 0 3186
+S
+#3188
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3189
+D3
+~
+~
+0 0 3187
+S
+#3189
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3190
+D3
+~
+~
+0 0 3188
+S
+#3190
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3191
+D2
+~
+~
+0 0 3189
+S
+#3191
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3192
+D2
+~
+~
+0 0 3190
+S
+#3192
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3193
+D2
+~
+~
+0 0 3191
+S
+#3193
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3194
+D2
+~
+~
+0 0 3192
+S
+#3194
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D2
+~
+~
+0 0 3193
+D3
+~
+~
+0 0 3195
+S
+#3195
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3194
+D3
+~
+~
+0 0 3196
+S
+#3196
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3195
+D3
+~
+~
+0 0 3197
+S
+#3197
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3196
+D3
+~
+~
+0 0 3198
+S
+#3198
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3197
+D3
+~
+~
+0 0 3199
+S
+#3199
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3198
+D3
+~
+~
+0 0 3200
+S
+#3200
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3199
+D2
+~
+~
+0 0 3201
+S
+#3201
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3200
+D2
+~
+~
+0 0 3202
+S
+#3202
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3201
+D2
+~
+~
+0 0 3203
+S
+#3203
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3202
+D2
+~
+~
+0 0 3204
+S
+#3204
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3203
+D2
+~
+~
+0 0 3205
+S
+#3205
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3204
+D1
+~
+~
+0 0 3206
+S
+#3206
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3207
+D3
+~
+~
+0 0 3205
+S
+#3207
+0 0
+~
+~
+~
+0 0 0
+Outside the Palace Walls~
+This stony path follows the massive stone palace walls.  The
+path is comfortable to walk on, and it is mostly used for the guards
+to exercise on.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 3186
+D3
+~
+~
+0 0 3206
+S
+#3208
+0 0
+~
+~
+~
+0 0 0
+Royal Path~
+This path is made of stone set with many semi-precious stone such as
+amethyst, quartz, turquoise and many shades of jade.  The path sparkles in
+the sunlight, contrasting nicely to the green lawn that stretches out to
+either side.  The palace can be seen from here.  At this distance it looks
+absolutely awe inspiring.  Its walls are made of stone and crystal which
+sparkle in the sun, much like the path that you are walking on.  The
+structure can be seen in full at this distance, but any closer and only
+sections of it would be visible.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 3209
+D2
+~
+~
+0 0 3186
+S
+#3209
+0 0
+~
+~
+~
+0 0 0
+Royal Path and Fountain~
+This path is made of stone set with many semi-precious stone such as
+amethyst, quartz, turquoise and many shades of jade.  The path sparkles in
+the sunlight, contrasting nicely to the green lawn that stretches out to
+either side.  There is a large sculpture fountain in the middle of the path
+here.  The sculpture is of Sir Wallance holding his huge two handed sword
+above his head.  It is made of red and white marble.  Water flows from his
+mouth and lands in a small pool.  There is a `ksign`n here.  
+~
+0 0 9
+0
+~
+I 0 E
+sign~
+`bNorth: `oPalace `bEast: `oZoo Road`` 
+~
+D0
+~
+~
+0 0 3210
+D1
+~
+~
+0 0 3887
+D2
+~
+~
+0 0 3208
+S
+#3210
+0 0
+~
+~
+~
+0 0 0
+Palace Door~
+A huge door stands thirty feet high and is made of solid platinum.
+The door has a large round handle, but it is out of range for human
+size species, unless they stand on their tip toes.  The door is adorned
+with large precious stones, such as emeralds, rubies and sapphires.
+~
+0 0 9
+0
+~
+I 0 D0
+The Palace Door is here.
+~
+door~
+1 0 3211
+D2
+~
+~
+0 0 3209
+S
+#3211
+0 0
+~
+~
+~
+0 0 0
+Palace Foyer~
+The walls are made of platinum adorned with precious stones.  The ceiling
+is thirty feet high.  Statues of famous cloud giants line the walkway, and a
+dark red carpet is on the ground.  The most prominent of the statues is of
+the Empress Raldone, standing twenty five feet high and made of black and
+white marble.  Next to her stands another sculpture of Sir Wallance, though
+his sword is sheathed in this sculpture.  To the north, the Royal Hallway
+opens out, and to the east are the galleries and music hall.  A constant hum
+of activity comes from the servant quarters and kitchens in the west wing.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3212
+D1
+~
+~
+0 0 3217
+D2
+The Palace Door here.
+~
+door~
+1 0 3210
+D3
+~
+~
+0 0 3878
+S
+#3212
+0 0
+~
+~
+~
+0 0 0
+Royal Hallway~
+You tread lightly upon this hallways plush dark red carpet for fear of
+soiling it with your unworthy imprint.  Crystal chandeliers hang from the
+ceilings, each lit with hundreds of candles, creating a beautiful
+illuminated hall.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3213
+D2
+~
+~
+0 0 3211
+S
+#3213
+0 0
+~
+~
+~
+0 0 0
+Royal Hallway~
+This hallway has a plush dark red carpet that you almost feel guilty
+for walking on because its high quality makes you fear harming it.
+Crystal chandeliers hang from the ceilings, each with hundreds
+of candles lit, creating a few illuminated hall.  A large statue of
+Emperor Randos stands here.  The sculpture stands twenty feet tall
+and is made of red, black and white marble.  He wears his crown
+of platinum and gold, while holding the world in the palm of his
+hands.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3214
+D2
+~
+~
+0 0 3212
+S
+#3214
+0 0
+~
+~
+~
+0 0 0
+Royal Hallway~
+This hallway has a plush dark red carpet that you almost feel guilty
+for walking on because its high quality makes you fear harming it.
+Crystal chandeliers hang from the ceilings, each with hundreds
+of candles lit, creating a few illuminated hall.  To your west you
+can see one of the many beautiful sitting rooms in the palace.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3215
+D1
+~
+~
+0 0 3227
+D2
+~
+~
+0 0 3213
+S
+#3215
+0 0
+~
+~
+~
+0 0 0
+Royal Hallway~
+This hallway has a plush dark red carpet that you almost feel guilty for
+walking on because its high quality makes you fear harming it.  Crystal
+chandeliers hang from the ceilings, each with hundreds of candles lit,
+creating an illuminated hall.  To your west is the royal dining room, and
+you can see another amazing sitting room to your east.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3216
+D1
+~
+~
+0 0 3228
+D2
+~
+~
+0 0 3214
+D3
+~
+~
+0 0 3252
+S
+#3216
+0 0
+~
+~
+~
+0 0 0
+Royal Hallway~
+This hallway has a dark red carpet of a plush so rich, so lush, and deep,
+that the slightest touch leaves a deep impression.  Crystal chandeliers hang
+from the ceilings, each with hundreds of candles lit, creating a beautifully
+illuminated hall.  A spiral staircase leads up to the Audience Chamber, the
+exit to the gardens leads to the west, and a dark hallway is to the east.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3229
+D2
+~
+~
+0 0 3215
+D3
+~
+~
+0 0 3253
+D4
+~
+~
+0 0 3235
+S
+#3217
+0 0
+~
+~
+~
+0 0 0
+East Wing Hall~
+This hallway is much plainer than the Royal Hallway.  The walls
+are made of a rather plain, dark wood, and the only decoration is
+the metal work up near the high ceilings.  This metal work is gold
+spirals that flow around silver flowers.  The Royal Art Galleries
+are to the north, and the Artifact Gallery is to the south.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3223
+D1
+~
+~
+0 0 3218
+D2
+~
+~
+0 0 3221
+D3
+~
+~
+0 0 3211
+S
+#3218
+0 0
+~
+~
+~
+0 0 0
+East Wing Hall~
+This hallway is much plainer than the Royal Hallway.  The walls
+are made of a rather plain, dark wood, and the only decoration is
+the metal work up near the high ceilings.  This metal work is gold
+spirals that flow around silver flowers.  The Ancient Weapon Gallery
+is to the south, and the entrance to the music hall is to the east.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3219
+D2
+~
+~
+0 0 3222
+D3
+~
+~
+0 0 3217
+S
+#3219
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Royal Music Hall~
+This huge foyer stand forty feet high.  The ceiling is retractable,
+and stands open in all but the stormiest weather.  The walls are
+made of platinum adorned with many precious and semi-precious
+stone.  Sculptures are abundant, mainly of Emperors and Empresses 
+of days past.  To the east is a huge door made of platinum which 
+leads to the Royal Music Hall.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+huge platinum door~
+1 0 3220
+D3
+~
+~
+0 0 3218
+S
+#3220
+0 0
+~
+~
+~
+0 0 0
+Royal Music Hall~
+This music hall seats at least 500 it appears, and that refers to 500
+Cloud Giants.  The chairs are enormous, each made of a beautiful 
+dark wood with purple velvet cushions.  Often the Empress's
+favorite orchestra can be seen playing here.
+~
+0 D 0
+0
+~
+I 0 D3
+~
+huge platinum door~
+1 0 3219
+S
+#3221
+0 0
+~
+~
+~
+0 0 0
+Artifact Gallery~
+This room is full of ancient artifacts and relics created long
+before the building of WeinCloudstan.   Many of the artifacts
+are made of solid gold and platinum, though some are simple 
+items made of stone, silver, and porcelain.  The rooms radiates
+magic, and while the items are powerful, the force shield around
+the room is stronger, preventing any of the items from being 
+taken and used for evil.
+~
+0 DG 0
+0
+~
+I 0 D0
+~
+~
+0 0 3217
+S
+#3222
+0 0
+~
+~
+~
+0 0 0
+Ancient Weapons Collection~
+Ancient weapons line the walls.  Everything from hand axes
+made of stone, to early bronze swords.  The remains of Sir
+Wallance's huge two handed sword hangs above the door,
+though the blade is terribly pitted and etched and not much to
+look at.  However, the handle is crafted from platinum and the
+finest steel, adorned with several rubies, emeralds, and diamonds.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3218
+S
+#3223
+0 0
+~
+~
+~
+0 0 0
+Art Gallery~
+This is the first room of the Royal Art Gallery.  This room is 
+full of ancient tapestries.  The first city plans were woven onto
+the tapestry on the east wall, while the west wall has a large
+tapestry of Sir Wallance fighting a great Cloud Dragon.  
+Wallance appears to be near defeat, however the story goes that
+just before he was vaporized by the Cloud Dragon's poisonous
+breath, he tossed a dagger from his ankle sheath (his sword long
+since pitted and etched into nothingness) and slew the dragon,
+allowing the city to be built where it is today.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3225
+D2
+~
+~
+0 0 3217
+S
+#3224
+0 0
+~
+~
+~
+0 0 0
+End of the Art Gallery~
+This room of the Art Gallery is dedicated to modern WeinCloudstan
+Art.  The famous painter, Picali, has numerous paintings on the wall.
+He is noted for the art movement that he created, namely the change
+from clouds as the sole background to all art.  His controversial works
+include landscapes with no reference to clouds, and others with clouds
+being blow off the canvas.  Fifty years after his death he became celebrated
+as one of the most innovative WeinCloudstan painters.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3226
+S
+#3225
+0 0
+~
+~
+~
+0 0 0
+Art Gallery~
+This room of the Art Gallery is dedicated to early WeinCloudstan
+art.  the most popular works include an early painting of the city,
+back when the CloudCastle rose to the sky in magnificence.  Reduced
+to rubble today, it once was the focus of all art from this area.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3226
+D2
+~
+~
+0 0 3223
+S
+#3226
+0 0
+~
+~
+~
+0 0 0
+Art Gallery~
+This room is being renovated, and all the art had been moved
+into storage.  There is a sign on the wall.
+~
+0 D 0
+0
+~
+I 0 E
+sign~
+`fDear Esteemed Patrons:``
+`e`lThis room is under renovation and should be open by the
+end of the year.  We apologize for any inconvenience this may
+have caused you.``
+ 
+               `fThe Management.``
+~
+D2
+~
+~
+0 0 3224
+D3
+~
+~
+0 0 3225
+S
+#3227
+0 0
+~
+~
+~
+0 0 0
+`oThe Gold Salon``~
+`kThe gold salon is one of many salons throughout the palace.  The theme
+of this room is gold, and there is a lot of it.  Large paintings cover the
+wall all with huge frames of gold.  The frames are a work of art in
+themselves, as they are intricately transformed from a mere metal into
+different shapes of flowers, spiral designs, and large leaves.  While the
+frames are amazing, the paintings are awe inspiring.  They follow the theme
+of the clouds.  Every kind of cloud you can imagine are on the walls,
+although they are gold colored.  A solid gold chandelier hangs from the
+ceiling illuminating the room.  A gold round table is in the middle of them
+room, surrounded by several chairs with gold frames, and golden velvet
+cushions.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 3214
+S
+#3228
+0 0
+~
+~
+~
+0 0 0
+`gMarble Salon``~
+`hThis Salon follows the theme of marble.  Many marble sculptures line
+the shelves of this room.  Intricately carved pyramids, miniature temples,
+and busts of famous Cloud Giants are all over.  A large square table made of
+red and white marble is surrounded by black and white marble chairs with red
+velvet cushions.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 3215
+S
+#3229
+0 0
+~
+~
+~
+0 0 0
+Dark Hallway~
+This hallway is very dark, as no lights illuminate it.  There
+is a staircase leading down.  
+~
+0 AD 0
+0
+~
+I 0 D3
+~
+~
+0 0 3216
+D5
+~
+~
+0 0 3230
+S
+#3230
+0 0
+~
+~
+~
+0 0 0
+Guard Room~
+The staircase ends in a rather ordinary room.  The walls are made
+of stone, and there is a large wooden desk where two guards sit.
+They seem to be monitoring who comes and goes through here.
+There is a sign here.
+~
+0 D 0
+0
+~
+I 0 E
+sign~
+On the east door is a sign that says:
+Authorized personal beyond this point only.
+Violators will be killed.
+
+On the north door is a sign that says:
+The Palace Dungeons.
+DO NOT ENTER!
+~
+D0
+You see a door here.
+~
+door~
+4097 0 3336
+D1
+~
+~
+1 0 3231
+D4
+~
+~
+0 0 3229
+S
+#3231
+0 0
+~
+~
+~
+0 0 0
+Guard Room~
+This room is a virtual arsenal.  Weapons line the walls, and
+guards stand here at attention.  You realize that you are not
+supposed to be here.
+~
+0 D 0
+0
+~
+I 0 D3
+You see a door here.
+~
+door~
+1 0 3230
+D5
+You see a secret door.
+~
+secret~
+1 0 3232
+S
+#3232
+0 0
+~
+~
+~
+0 0 0
+Treasury~
+Almost completely barren save for the heavy dust that lines the floors,
+several guards still stand here attentively guarding the only thing in the
+room - a rather large platinum chest.  You surmise that what lays in the
+chest must be extremely valuable, and that you probably shouldn't be here
+without express permission.  
+~
+0 AD 0
+0
+~
+I 0 D2
+You see a secret door.
+~
+secret~
+1 0 3233
+D3
+You see a secret door.
+~
+secret~
+4161 0 3234
+D4
+You see a secret door.
+~
+secret~
+1 0 3231
+S
+#3233
+0 0
+~
+~
+~
+0 0 0
+Treasury~
+Adjusting your eyes to the dimness, you quickly glance over this mostly
+empty room to find a solitary chest.  Judging by the size and toughness of
+the guards on watch here, you gather that the treasure inside these chests
+must be very valuable.  
+~
+0 AD 0
+0
+~
+I 0 D0
+You see a secret door.
+~
+secret~
+1 0 3232
+S
+#3234
+0 0
+~
+~
+~
+0 0 0
+Treasury~
+Almost completely bereft of furnishing or decor, this stark treasury room
+houses solely an enormous platinum chest.  Visions of immense wealth dancing
+through your mind, you think that if only you could get by the two
+gargantuan guards glaring at you, you would be a very rich adventurer.  
+~
+0 AD 0
+0
+~
+I 0 D1
+You see a secret door.
+~
+secret~
+4161 0 3232
+S
+#3235
+0 0
+~
+~
+~
+0 0 0
+`bSpiral Staircase``~
+This staircase is made of red and white marble, and bound by a platinum
+handrail adorned with gold leaves.  The stairs are lit by powerful white
+candles, grasped by golden candleholders shaped like hands, and placed at
+regular intervals along the wall.  
+~
+0 D 0
+0
+~
+I 0 D4
+~
+~
+0 0 3236
+D5
+~
+~
+0 0 3216
+S
+#3236
+0 0
+~
+~
+~
+0 0 0
+`bSpiral Staircase``~
+`hThis staircase is made of red and white marble with a platinum handrail
+adorned with gold leaves.  Gold candle holders designed like hands seem to
+grow from the stone walls and each holds a powerful white candle which
+illuminates the room.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3237
+D5
+~
+~
+0 0 3235
+S
+#3237
+0 0
+~
+~
+~
+0 0 0
+`iAudience Chamber``~
+Along the north wall is the palace throne.  Hundreds of Emperors and
+Empresses have sat there.  Each has added their own special jewel so that
+their soul will linger in the place.  Hundreds of large rubies, emeralds,
+diamonds and sapphires have been added to the otherwise basic gold throne,
+making it glimmer in the light shed from the crystal chandelier hanging
+above.  Large paintings of heroes and leaders of the past cover the walls,
+the most notable one of Sir Wallance fighting the great Cloud Dragon.  His
+sword seems to be on fire and he stabs at the heart of the dragon, while
+engulfed in a cloud of poisonous gases.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3238
+D2
+~
+~
+0 0 3236
+D3
+~
+~
+0 0 3240
+S
+#3238
+0 0
+~
+~
+~
+0 0 0
+The Great Gallery~
+This gallery houses all of the art that has caught the Empress' eye over
+the years.  Several tapestries, numerous paintings, and hundreds of
+sculptures abound in this large, rectangular room.  Small magical lights are
+discreetly placed by each work, illuminating the fine texture or colors of
+the pieces.  Across the ceiling, an enormous mural of Olde Cloud Castle and
+the surrounding environs has been painted.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 3237
+S
+#3239
+0 0
+~
+~
+~
+0 0 0
+Royal Salon~
+A ring of gold chairs covered with black velvet cushions are in 
+the center of the room.  Here the Empress comes to discuss many 
+topics of conversation with her friends and advisors.  The ceiling
+has a great mural of Emperor Wilcestung discussing politics with 
+the great priest, Solentro.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3240
+S
+#3240
+0 0
+~
+~
+~
+0 0 0
+`nMirrored Hallway``~
+`oThis hallway is made of the finest greenwood and covered with hundreds
+of mirrors of various sizes.  The chandelier from the ceiling causes the
+mirrors to have a dizzying effect.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3237
+D3
+You see a gold door.
+~
+gold door~
+1 0 3241
+S
+#3241
+0 0
+~
+~
+~
+0 0 0
+Royal Bedroom~
+This is the retiring place for the Empress.  Her bed has a gold
+embroidered curtains and a velvet canopy.  A tall whitewood chair is in one
+corner, and the royal toilet is in the other.  
+~
+0 D 0
+0
+~
+I 0 D1
+You see a gold door.
+~
+gold door~
+1 0 3240
+D2
+~
+~
+0 0 3877
+S
+#3242
+0 0
+~
+~
+~
+0 0 0
+West Wing Hallway~
+This simple hallway leads from the servants quarters to the kitchens,
+where they can traverse unnoticed by the Royal Palace denizens.  The hall is
+made of simple wood, completely utilitarian in design.  Black iron
+candlestick holders are perched in hooks on the wall, lending the room a dim
+light.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3245
+D2
+~
+~
+0 0 3243
+S
+#3243
+0 0
+~
+~
+~
+0 0 0
+Servant Quarters~
+This rather plain room has several plain bunk beds and dressers.  Not
+much of interest here to anyone but those who are tired from work.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3242
+D3
+~
+~
+0 0 3244
+S
+#3244
+0 0
+~
+~
+~
+0 0 0
+Servant Quarters~
+This rather plain room has several plain bunk beds and dressers.  Not
+much of interest here to anyone but those who are tired from work.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3243
+S
+#3245
+0 0
+~
+~
+~
+0 0 0
+Servant Quarters~
+This rather plain room has several plain bunk beds and dressers.  Not
+much of interest here to anyone but those who are tired from work.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3248
+D2
+~
+~
+0 0 3242
+S
+#3246
+0 0
+~
+~
+~
+0 0 0
+The palatial kitchen~
+Large pots hang from the ceiling and a large table is in the center of
+the room.  Every type of meat is on display here, and several cooks are
+always on duty.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3249
+D1
+~
+~
+0 0 3247
+D2
+~
+~
+0 0 3879
+S
+#3247
+0 0
+~
+~
+~
+0 0 0
+The palatial kitchen~
+Large pots hang from the ceiling and a large table is in the
+center of the room.  Every type of meat is on display here,
+and several cooks are always on duty.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3250
+D3
+~
+~
+0 0 3246
+S
+#3248
+0 0
+~
+~
+~
+0 0 0
+A corner hallway~
+This hallway connects the servants rooms to the servant dining room.  Not
+much is of interest here.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3249
+D2
+~
+~
+0 0 3245
+S
+#3249
+90 500
+~
+~
+~
+0 0 0
+The Servants' Dining Area~
+This room has a plain wood table that has slices from knives all over it.
+Twenty simple wooden chairs surround the table.  Numerous black iron candle
+holders are on the walls, as well as several plain white candles encased in
+glass are on the table.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 3246
+D3
+~
+~
+0 0 3248
+S
+#3250
+0 0
+~
+~
+~
+0 0 0
+Service Corridor~
+This hallway is used by the servants to serve food to the royal dining
+room.  The walls are plain and hardly lit.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3251
+D2
+~
+~
+0 0 3247
+S
+#3251
+0 0
+~
+~
+~
+0 0 0
+Service Corridor~
+This hallway is used by the servants to serve food to the royal dining
+room.  The walls are plain and hardly lit.  A light glows to the north,
+emanating from the Royal Dining room.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3252
+D2
+~
+~
+0 0 3250
+S
+#3252
+0 0
+~
+~
+~
+0 0 0
+`fThe Royal Dining Room``~
+The table in the center is made of a pale white wood, adorned with gold
+designs all over it.  The chairs are made of this same wood.  The table has
+40 seats, and at the head of the table is a miniature throne for the
+Empress.  An idyllic mural of WeinCloudstan life, bustling with content,
+attractive citizens, crosses the ceiling.  The painting is absolutely
+stunning, with the city floating on the clouds on a clear blue day.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3215
+D2
+~
+~
+0 0 3251
+S
+#3253
+0 0
+~
+~
+~
+0 0 0
+Exit to the Palace Gardens~
+A large platinum door stands on the west end of this room.  The room is
+empty as it is used solely as an exit into the amazing Palace Gardens.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3216
+D3
+You see a door here.
+~
+door~
+1 0 3254
+S
+#3254
+0 0
+~
+~
+~
+0 0 0
+Garden Path~
+This section of the path is lined with red and gold flowers that grow on
+a bluish green lawn.  To your north you can see the main section of the
+gardens.  Looking ahead, you feel your body tremble a little from the awe
+inspiring beauty of the Palace Gardens.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 3255
+D1
+You see a door here.
+~
+door~
+1 0 3253
+S
+#3255
+0 0
+~
+~
+~
+0 0 0
+Garden Path~
+This section of the path is lined with red and gold flowers that grow
+on a bluish green lawn.  To your north you can see the main section
+of the gardens.  Looking ahead, you feel your body tremble a little
+from the awe inspiring beauty of the Palace Gardens.  The path
+through the Palace Gardens begins to your west.  Looking to the
+east you can see a path through the forest.  The green, yellow,
+and red trees bend over the path, creating a sort of natural room.
+Staring in that direction is almost dizzying.
+~
+0 0 12
+0
+~
+I 0 D1
+~
+~
+0 0 3266
+D2
+~
+~
+0 0 3254
+D3
+~
+~
+0 0 3256
+S
+#3256
+0 0
+~
+~
+~
+0 0 0
+Path through the Palace Gardens~
+`dThis path is made of large obsidian stones that are used as steps.  You
+are surrounded by a fabulous green lawn that has a hint of red to it. 
+Growing on this strangely colored lawn is many flowers of every conceivable
+hue.  These flowers follow a pattern, although at this distance you are
+unable to make out what this pattern is.  The blue, green, red, yellow, and
+purple flowers have a wonderful, almost intoxicating scent.  `` 
+~
+0 b 12
+0
+~
+I 0 D0
+~
+~
+0 0 3257
+D1
+~
+~
+0 0 3255
+S
+#3257
+0 0
+~
+~
+~
+0 0 0
+Path through the Palace Gardens~
+`dThis path is made of large obsidian stones that are used as steps.  You
+are surrounded by a fabulous green lawn that has a hint of red to it. 
+Growing on this strangely colored lawn is many flowers of every conceivable
+hue.  These flowers follow a pattern, although at this distance you are
+unable to make out what this pattern is.  The blue, green, red, yellow, and
+purple flowers have a wonderful, almost intoxicating scent.  `` 
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 3258
+D2
+~
+~
+0 0 3256
+S
+#3258
+0 0
+~
+~
+~
+0 0 0
+Path through the Palace Gardens~
+`dSurrounded by the beautiful lawn and flower, you are rather surprised
+to see such a large statue in the path.  Freindous, the famous statesman,
+stands here carved from obsidian.  The glossy black statue was created by
+magic, and stands here twenty feet tall, protecting the gardens.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 3259
+D2
+~
+~
+0 0 3257
+S
+#3259
+0 0
+~
+~
+~
+0 0 0
+`cPalace Gardens``~
+You have come to a small hillside.  The gardens are behind you, and you
+see a marble staircase leading up to the hilltop.  
+~
+0 0 4
+0
+~
+I 0 D2
+~
+~
+0 0 3258
+D4
+~
+~
+0 0 3260
+S
+#3260
+0 0
+~
+~
+~
+0 0 0
+`gOn the Marble Stairs``~
+`hThese stairs seem to have been here for centuries.  The marble is dull
+and has obviously been trodden on for a long time.  From this vantage point
+the flowers in the Palace Gardens almost comes together for your eyes,
+although you are still too close to grasp it completely.  
+~
+0 D 0
+0
+~
+I 0 D4
+~
+~
+0 0 3261
+D5
+~
+~
+0 0 3259
+S
+#3261
+0 0
+~
+~
+~
+0 0 0
+`gOn the Marble Stairs``~
+`hAs you look down, you gasp.  The flowers in the Palace Gardens create a
+complete picture.  The north section of the garden forms the royal seal--
+blue and purple flowers shaped like a billowing cloud with a green eagle
+floating though it.  The south section has the shape of the Empress in gold,
+red, and white flowers.  The forms in the gardens were obviously created
+with some form of magic.  
+~
+0 D 0
+0
+~
+I 0 D4
+~
+~
+0 0 3262
+D5
+~
+~
+0 0 3260
+S
+#3262
+0 0
+~
+~
+~
+0 0 0
+Upon a Hilltop~
+From here, the Palace Gardens are even more amazing than from the
+staircase, thanks to the higher elevation.  The west section of the gardens
+is visible from here, the shape of a large cloud dragon created out of blue
+and green flowers.  Looking east, a large hilltop pond is visible, the
+surface teeming with life.  Ducks of all kinds skim across the water, and a
+variety of fish are swimming about.  However, the pond is protected by
+magic, and no one is able to walk in the water.  Far off in the distance,
+the city itself is visible from here, including The various shops, the
+gates, and even the front of the cloud the city was built on.  
+~
+0 0 4
+0
+~
+I 0 D1
+~
+~
+0 0 3263
+D5
+~
+~
+0 0 3261
+S
+#3263
+0 0
+~
+~
+~
+0 0 0
+Upon a Hilltop~
+From here the Palace Gardens are even more amazing than from the
+staircase.  The west section of the gardens is visible from here.  Sir
+Wallance is created out of red, gold, and green flowers.  Above you the
+Gloryact can be seen.  The Gloryact was built centuries ago when one of the
+Emperor's wives wanted to have shelter while being able to stare off at the
+amazing view.  
+~
+0 0 4
+0
+~
+I 0 D3
+~
+~
+0 0 3262
+D4
+~
+~
+0 0 3264
+S
+#3264
+0 0
+~
+~
+~
+0 0 0
+Before the Gloryact~
+The Gloryact is a huge structure, designed after an ancient temple.
+It has marble columns that are adorned with gold serpent the are
+wrapped around them.  The building stands forty feet high, and 
+offers the most incredible view in the world.
+~
+0 0 9
+0
+~
+I 0 D1
+You see a door here.
+~
+door~
+4097 0 3265
+D5
+~
+~
+0 0 3263
+S
+#3265
+0 0
+~
+~
+~
+0 0 0
+Inside the Gloryact~
+The furniture is all of ancient design and looks rather uncomfortable. 
+This room looks sparsely used as it is dark and you are not able to see much
+of a view, in fact about the only thing to be seen through the windows is
+the marble columns.  You see a staircase leading up.  
+~
+0 D 0
+0
+~
+I 0 D3
+You see a door here.
+~
+door~
+4097 0 3264
+D4
+Yous ee a door here.
+~
+door~
+1 0 3880
+S
+#3266
+0 0
+~
+~
+~
+0 0 0
+Garden Path~
+This cobblestone path connects the beautiful Eastern Forest with the
+stunning Palace Gardens.  
+~
+0 b 12
+0
+~
+I 0 D1
+~
+~
+0 0 3267
+D3
+~
+~
+0 0 3255
+S
+#3267
+0 0
+~
+~
+~
+0 0 0
+The Eastern Forest Path~
+Staring off into the distance the East Forest Path has a dizzying effect.
+Gold, red, and green trees bend over the path, creating a tunnel like
+effect.  The ground is soft and moist, and the sky is completely blocked out
+by the beautiful trees.  Occasionally a leaf falls in front of you.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 3268
+D3
+~
+~
+0 0 3266
+S
+#3268
+0 0
+~
+~
+~
+0 0 0
+The Eastern Forest Path~
+Staring off into the distance the East Forest Path has a dizzying effect.
+Gold, red, and green trees bend over the path, creating a tunnel like
+effect.  The ground is soft and moist, and the sky is completely blocked out
+by the beautiful trees.  Occasionally a leaf falls in front of you.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 3269
+D3
+~
+~
+0 0 3267
+S
+#3269
+0 0
+~
+~
+~
+0 0 0
+A sanctuary within the Eastern Forest~
+Several wooden benches are on the side of the path so that visitors and
+royalty alike can have a moment to catch their breath and enjoy the beauty
+of the East Forest.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 3270
+D3
+~
+~
+0 0 3268
+S
+#3270
+0 0
+~
+~
+~
+0 0 0
+The Eastern Forest Path~
+Staring off into the distance the East Forest Path has a dizzying effect.
+Gold, red, and green trees bend over the path, creating a tunnel like
+effect.  The ground is soft and moist, and the sky is completely blocked out
+by the beautiful trees.  Occasionally a leaf falls in front of you.  A
+dazzling path leads to the north that seems to continue forever.  You see a
+sign here.  
+~
+0 0 3
+0
+~
+I 0 E
+sign~
+Sorry, no admittance to the North Path for visitors.  A magic
+force shield will keep you out.
+Sorry for any inconvenience.
+~
+D1
+~
+~
+0 0 3271
+D3
+~
+~
+0 0 3269
+S
+#3271
+0 0
+~
+~
+~
+0 0 0
+End of the Path~
+`dThe path comes to and end here.  The forest stretches out to the east
+but there is no path to continue through them.  There is a narrow staircase
+leading down.  `kYou see a sign here.  `` 
+~
+0 b 3
+0
+~
+I 0 E
+sign~
+Downwards, the `bZoo`h may be found.
+~
+D3
+~
+~
+0 0 3270
+D5
+~
+~
+0 0 3272
+S
+#3272
+0 0
+~
+~
+~
+0 0 0
+Perched on a narrow staircase~
+The stone steps are far apart and the path is narrow.  Tall trees with
+gold, green, and red leaves bend over the path creating cover.  These trees
+grow at an angle on the hillside.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 3271
+D5
+~
+~
+0 0 3273
+S
+#3273
+0 0
+~
+~
+~
+0 0 0
+Perched on a narrow staircase~
+The stone steps are far apart and the path is narrow.  Tall trees with
+gold, green, and red leaves bend over the path creating cover.  These trees
+grow at an angle on the hillside.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 3272
+D5
+~
+~
+0 0 3274
+S
+#3274
+0 0
+~
+~
+~
+0 0 0
+Perched on a narrow staircase~
+The stone steps are far apart and the path is narrow.  Tall trees with
+gold, green, and red leaves bend over the path creating cover.  These trees
+grow at an angle on the hillside.  To your south you see the entrance to the
+Royal Zoo.  In fact, you can hear the sounds of many animals that do not
+sound familiar.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 3275
+D4
+~
+~
+0 0 3273
+S
+#3275
+0 0
+~
+~
+~
+0 0 0
+Northern Entrance to the Zoo~
+The staircase ends at a giant marble arch.  The arch is inscribed with
+ancient script that when translated, reads: `f"`bWelcome to the Royal
+Zoo`f"`l.  The path is cobblestone, and the sounds of many strange animals
+comes from the Zoo to the south.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 3274
+D2
+~
+~
+0 0 3276
+S
+#3276
+0 0
+~
+~
+~
+0 0 0
+Zoo Road~
+To the north, the entrance archway to the zoo vaults high at the base of
+a set of stairs.  The main thoroughfare of the Royal Zoo continues to the
+south and east, with cages in all other directions, including a cage that
+arcs over the road with many tiny butterflies caught within.  Westwards, a
+large sign warns of the cage of the Giant Cloud Tiger.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 3275
+D1
+~
+~
+0 0 3280
+D2
+~
+~
+0 0 3277
+D3
+You see a gate here.
+~
+gate~
+4097 0 3285
+S
+#3277
+0 0
+~
+~
+~
+0 0 0
+Zoo Road~
+This paved walkway is the main road that leads through the Royal Zoo.  To
+the east, a fenced enclosure, overgrown thickly with bamboo, offers an
+occasional glimpse of blue and white fur, or even a soulful, hungry panda
+face.  To the west, a cage with thick metal bars growls and snarls in an
+angry canine cacophony.  A small sign upon the cage warns visitors of Cloud
+Wargs.  Zoo Road continues to the north and south.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 3276
+D1
+You see a gate here.
+~
+gate~
+4097 0 3289
+D2
+~
+~
+0 0 3278
+D3
+~
+door~
+1 0 3286
+S
+#3278
+0 0
+~
+~
+~
+0 0 0
+Zoo Road~
+`lThis paved walkway is the main road that leads through the Royal Zoo. 
+To the east, the `iconcession `hstands`l tantalize passersby with overpriced
+food, and a low rumbling emanates from the west.  A sign notes the presence
+and remarkable age of an ancient Cloud Dragon in the cage to the west,
+though it is not visible from the road.  The sign also cautions against
+entering that cage, as the Dragon has "become unpredictable" with age.  Zoo
+Road continues north to south.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 3277
+D1
+~
+~
+0 0 3290
+D2
+~
+~
+0 0 3279
+D3
+~
+door~
+1 0 3287
+S
+#3279
+0 0
+~
+~
+~
+0 0 0
+Zoo Road~
+This paved walkway is the main road that leads through the Royal Zoo.  To
+the east, another sign announces the presence of a restaurant, this one
+critically acclaimed based on the scrolls someone has taken the time and
+trouble to have preserved magically and attached to the sign.  To the west,
+a large cage gapes ominiously open.  The South Zoo Entrance is to the South.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 3278
+D1
+~
+~
+0 0 3291
+D2
+~
+~
+0 0 3890
+D3
+~
+~
+0 0 3288
+S
+#3280
+0 0
+~
+~
+~
+0 0 0
+Zoo Road~
+You are on the main road that leads through the Royal Zoo.  This section
+leads east to west.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 3281
+D3
+~
+~
+0 0 3276
+S
+#3281
+0 0
+~
+~
+~
+0 0 0
+Zoo Road~
+You are on the main road that leads through the Royal Zoo.  To your east
+you see what used to be a giant cage, but whatever used to be in it managed
+to tear it apart.  Zoo Road continues to the west and to the south.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 3292
+D2
+~
+~
+0 0 3282
+D3
+~
+~
+0 0 3280
+S
+#3282
+0 0
+~
+~
+~
+0 0 0
+Zoo Road~
+You are on the main road that leads through the Royal Zoo.  The road
+continues to the north and south.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 3281
+D2
+~
+~
+0 0 3283
+S
+#3283
+0 0
+~
+~
+~
+0 0 0
+Zoo Road~
+You are on the main road that leads through the Royal Zoo.  The road ends
+to the east and continues to the north.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 3282
+D1
+~
+door~
+4097 0 3284
+S
+#3284
+0 0
+~
+~
+~
+0 0 0
+The End of Zoo Road~
+Zoo Road ends in the last, and most feared Zoo acquisitions: the glaraunt
+and the Giant Cloud bear.  A small sign warns visitors not to come too close
+to either of these cages, and the cacophony of screams and growls makes it
+clear that neither animal belongs in a petting zoo.  The giant glaraunt
+glares from the south, half-hidden by the destruction in its cage, and the
+giant bear can be heard to the north.  
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`iDo not taunt the animals. 
+Do not feed the animals.
+Do not come too close to the cages or you will be food for the animals. 
+`c
+The Zoo is not responsible for any damage to you or your belongings 
+by the animals, and does not reimburse medical expenses.`` 
+~
+D0
+You see a cage here.
+~
+cage~
+4097 0 3293
+D2
+You see a cage here.
+~
+cage~
+4097 0 3294
+D3
+~
+door~
+4097 0 3283
+S
+#3285
+0 0
+~
+~
+~
+0 0 0
+Lair of the Giant Cloud Tiger~
+This large cage smells strongly of a very large cat and of bloody flesh. 
+Large strips of raw meat are scattered all over the cage, along with a very
+gnawed-looking ball that might once have been a helmet large enough for a
+Vro'ath head.  Splashes of water around the water dish indicate that
+something distracted the Tiger at its drink...  
+~
+0 0 0
+0
+~
+I 0 D1
+You see a gate here.
+~
+gate~
+4097 0 3276
+S
+#3286
+0 0
+~
+~
+~
+0 0 0
+Cloud Warg Den~
+Built to resemble a den, this cage has a floor of dirt, and false cave
+walls.  Snow, gleaming with magic, is heaped in beds here and there, with
+tufts of blue fur where cloud wargs have lain.  The redness of blood in the
+snow lies by the discarded remains of an unknown animal, and a small pool of
+water trickles over cave wall and pools by a snowy bed.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 3277
+S
+#3287
+0 0
+~
+~
+~
+0 0 0
+Lair of the Ancient Cloud Dragon~
+This lair resembles what most people think a Cloud Dragon lair looks
+like, although no one has seen one and lived.  The ground of this cage is
+made of artificial clouds and there is a small pond in the center with large
+fish swimming around.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 3278
+S
+#3288
+0 0
+~
+~
+~
+0 0 0
+Empty Cage~
+This cage is empty.  You see a sign here.  
+~
+0 0 1
+0
+~
+I 0 E
+sign~
+The Glaraunt was relocated to the east end as this cage
+was not nearly strong enough for it.
+~
+D1
+~
+~
+0 0 3279
+S
+#3289
+0 0
+~
+~
+~
+0 0 0
+Cloud Panda Enclosure~
+Half hidden behind a rows of blue-tinted bamboo, this enclosure is barely
+visible.  The floor is a wet dirt that gives slightly underfoot, and the
+massive pawprints of a large bear crisscross the enclosure.  A bowl, trying
+poorly to look like a pool of water, contains fresh water, and a gnawed
+chunk of bamboo.  A thick fence separates the enclosure from the rest of the
+world.  
+~
+0 0 1
+0
+~
+I 0 D3
+You see a gate here.
+~
+gate~
+4097 0 3277
+S
+#3290
+0 0
+~
+~
+~
+0 0 0
+Concession Stand~
+In full swing, a concession stand is shaded beneath an awning, gaily
+striped in red and white, and attended by a single zoo worker.  The aroma of
+food overwhelms the usual animal scents of the zoo, and every counter is
+scrubbed fastidiously clean.  A large trash can stands ready for your trash
+beside the stand.  
+~
+0 0 1
+0
+~
+I 0 D3
+~
+~
+0 0 3278
+S
+#3291
+0 0
+~
+~
+~
+0 0 0
+Restaurant~
+Dark wood tables are scattered throughout the room in several different
+groupings to accomodate solitary or group diners.  A crystal chandelier
+glimmers from the ceiling, casting small rainbow prisms on diners.  The
+floor has been covered with a rich assortment of rugs, and clearly, every
+attempt at class has been made.  The successfulness of that venture might be
+slightly undermined by the powder-blue tuxedoes the staff wears and the
+slightly naughty pattern on the plates.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 3279
+S
+#3292
+0 0
+~
+~
+~
+0 0 0
+Inside a destroyed cage~
+This cage has holes all through it.  You do not want to know what
+creature was capable of such destruction.  
+~
+0 0 1
+0
+~
+I 0 D3
+~
+~
+0 0 3281
+S
+#3293
+0 0
+~
+~
+~
+0 0 0
+Cloud Bear Cage~
+This large cage, suspended on an artificial cloud, floats above the
+ground.  The bars are steel-reinforced, and the cage of the glaraunt is just
+visible.  The messy remains of a previous meal are smeared on the scratched
+and battered floor.  
+~
+0 0 0
+0
+~
+I 0 D2
+You see a gate here.
+~
+gate~
+4097 0 3284
+S
+#3294
+0 0
+~
+~
+~
+0 0 0
+Inside the glauraunt cage~
+This cage, though reinforced with thick metal bars and pillars everywhere
+possible, shows the marks of the occupant, the glaraunt.  Deep gouges in the
+cell ceiling and floor and the bent and gnawed bars show the unmistakeable
+violence with which this creature has treated his cell.  Based on the
+bloodstained sign hastily glued to the outside of the cage, the glaraunt has
+been moved quite a few times.  Perhaps this cage will keep visitors safer.  
+~
+0 0 0
+0
+~
+I 0 D0
+You see a steel barred gate.
+~
+steel bar gate~
+4097 0 3284
+S
+#3295
+0 0
+~
+~
+~
+0 0 0
+`hThe `fLady's `hHolding Cell``~
+~
+0 N 0
+0
+~
+I 0 D3
+~
+~
+0 0 3339
+S
+#3336
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Dungeon~
+The glory and beauty of the palace clearly ends here.  Cold stone walls
+are tight for a Cloud Giant (remaining comfortable for a human), and the
+faint smell of mildew rises up from the floor.  From down a poorly lit,
+narrow stairwell, someone moans softly.  
+~
+0 AD 0
+0
+~
+I 0 D2
+You see a door here.
+~
+door~
+4097 0 3230
+D5
+~
+~
+0 0 3337
+S
+#3337
+0 0
+~
+~
+~
+0 0 0
+Palace Dungeon~
+The glory of the palace clearly does not extend to this dark and dismal
+place.  The walls are cold stone, and the floor is slippery with some
+unknown substance.  Somewhere in the distance, an unseen person moans
+loudly, and at irregular intervals, someone screams.  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 3338
+D4
+~
+~
+0 0 3336
+S
+#3338
+0 0
+~
+~
+~
+0 0 0
+Palace Dungeon~
+The glory of the palace does not extend to this dark and dismal place. 
+The walls are cold stone, and the floor is slippery with some unknown
+substance.  From somewhere in the distance, someone moans loudly.  A grate
+in the floor attracts your attention as some incoherant screams drift from
+there.  
+~
+0 AD 0
+0
+~
+I 0 D3
+~
+~
+0 0 3337
+D5
+You see a grate.
+~
+grate~
+4097 0 3339
+S
+#3339
+0 0
+~
+~
+~
+0 0 0
+The Emperor's Cell~
+Furnished comfortably, even opulently, this cell clearly grants its
+prisoner luxuries uncommon to a prison cell.  The obvious attempts to make
+the cell pleasant, however, can not hide the fact that this is a cell, and
+someone is very obviously a captive here.  A rich purple garment with golden
+threads has been shredded and lies in pieces all over, and a toy bird lies
+shattered on a chair.  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 3295
+D4
+You see a grate.
+~
+grate~
+4097 0 3338
+S
+#3877
+0 0
+~
+~
+~
+0 0 0
+Royal Study~
+A large dark wood desk sits in the center of the room.  Several dark wood
+chairs are in front of it.  Bookcases crammed with books cover the walls,
+and the room is well illuminated by several wooden chandeliers.  This room
+seems to be purely for business, and not for pleasure or show.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3241
+S
+#3878
+0 0
+~
+~
+~
+0 0 0
+West Wing Hallway~
+The rather plain wood of this hallway and worn blue rug makes you realize
+that you are headed in a section of the palace not used often by those of
+royalty.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 3211
+D3
+~
+~
+0 0 3879
+S
+#3879
+0 0
+~
+~
+~
+0 0 0
+West Wing Hallway~
+This plain hallway leads to the servant quarters and the kitchens.  The
+walls are made of a plain wood and not adorned at all.  Black iron candle
+holders illuminate the room.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 3246
+D1
+~
+~
+0 0 3878
+D3
+~
+~
+0 0 3242
+S
+#3880
+0 0
+~
+~
+~
+0 0 0
+The Gloryact Salon~
+This salon has been the favorite salon for the royalty for centuries. 
+Often, Wandra, the eldest daughter of the Empress, can be seen here staring
+out at the awe inspiring view.  The whole city can be seen.  The panoramic
+view includes the dazzling heights of the Palace, the streets of the city
+with people walking around them looking like mere ants, the golden top of
+the Duomo, and the clouds that surround the city.  
+~
+0 DJ 0
+0
+~
+I 0 D5
+~
+door~
+1 0 3265
+S
+#3887
+0 0
+~
+~
+~
+0 0 0
+Road to the Zoo~
+A combination of cobblestone and steps, this path leads eastwards to the
+Royal Zoo.  The steps are just far enough apart that any non-Giants have to
+awkwardly hop and skip a few steps to walk the well-worn road.  The entrance
+of the Zoo is not visible, perhaps hidden by the curving walls covered
+flowers to the north.  
+~
+0 b 2
+0
+~
+I 0 D1
+~
+~
+0 0 3888
+D3
+~
+~
+0 0 3209
+S
+#3888
+0 0
+~
+~
+~
+0 0 0
+Road to the Zoo~
+A combination of cobblestone and steps, this path leads northwards to the
+Royal Zoo.  The steps are just far enough apart that any non-Giants have to
+awkwardly hop and skip a few steps to walk the well-worn road.  The entrance
+of the is just visible to the north, further along the path.  Small flowers
+border the edges of the walkway in a joyous riot of color.  
+~
+0 b 2
+0
+~
+I 0 D0
+~
+~
+0 0 3889
+D3
+~
+~
+0 0 3887
+S
+#3889
+0 0
+~
+~
+~
+0 0 0
+Road to the Zoo~
+A combination of cobblestone and steps, this path leads northwards to the
+Royal Zoo.  The steps are just far enough apart that any non-Giants have to
+awkwardly hop and skip a few steps to walk the well-worn road.  The entrance
+of the Zoo looms to the north.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3890
+D2
+~
+~
+0 0 3888
+S
+#3890
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Royal Zoo~
+Huge red and white marble arches stand forty feet above you.  In the
+modern Cloud Giant tongue it reads: Welcome to the Royal Zoo.  Do not enter
+the cages, open the gates, nor feed the animals.  Thank you for your
+cooperation.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 3279
+D2
+~
+~
+0 0 3889
+S
+#0
+
+#RESETS
+D 0 3338   5    1	* Palace Dungeon [down]
+D 0 3339   4    1	* The Emperor's Cell [up]
+D 0 3230   0    1	* Guard Room [north]
+D 0 3336   2    1	* Entrance to the Dungeon [south]
+D 0 3210   0    1	* Palace Door [north]
+D 0 3211   2    1	* Palace Foyer [south]
+D 0 3230   1    1	* Guard Room [east]
+D 0 3231   3    1	* Guard Room [west]
+D 0 3231   5    1	* Guard Room [down]
+D 0 3232   2    1	* Treasury [south]
+D 0 3232   3    1	* Treasury [west]
+D 0 3232   4    1	* Treasury [up]
+D 0 3233   0    1	* Treasury [north]
+D 0 3234   1    1	* Treasury [east]
+D 0 3240   3    1	* `nMirrored Hallway`` [west]
+D 0 3241   1    1	* Royal Bedroom [east]
+D 0 3253   3    1	* Exit to the Palace Gardens [west]
+D 0 3254   1    1	* Garden Path [east]
+D 0 3264   1    1	* Before the Gloryact [east]
+D 0 3265   3    1	* Inside the Gloryact [west]
+D 0 3276   3    1	* Zoo Road [west]
+D 0 3285   1    1	* Lair of the Giant Cloud Tiger [east]
+D 0 3277   1    1	* Zoo Road [east]
+D 0 3289   3    1	* Cloud Panda Enclosure [west]
+D 0 3284   0    1	* The End of Zoo Road [north]
+D 0 3284   2    1	* The End of Zoo Road [south]
+D 0 3293   2    1	* Cloud Bear Cage [south]
+D 0 3294   0    1	* Inside the glauraunt cage [north]
+M 0 3187   1 3880  1	* Wandra, the daughter of the empress
+E 0 3224   -1    0	* item to Wandra, the daughter of the empress
+E 0 3188   -1    5	* item to Wandra, the daughter of the empress
+M 0 3188  10 3210  1	* The palace guard
+E 0 3190   -1   16	* item to The palace guard
+E 0 3194   -1   10	* item to The palace guard
+M 0 3188  10 3210  1	* The palace guard
+E 0 3190   -1   16	* item to The palace guard
+E 0 3194   -1    5	* item to The palace guard
+M 0 3188  10 3211  1	* The palace guard
+M 0 3188  10 3211  1	* The palace guard
+M 0 3188  10 3230  1	* The palace guard
+E 0 3191   -1   16	* item to The palace guard
+M 0 3188  10 3230  1	* The palace guard
+M 0 3188  10 3253  1	* The palace guard
+E 0 3190   -1   16	* item to The palace guard
+M 0 3188  10 3186  1	* The palace guard
+M 0 3188  10 3186  1	* The palace guard
+M 0 3188  10 3217  1	* The palace guard
+M 0 3189  10 3259  1	* The palace guard
+E 0 3192   -1   16	* item to The palace guard
+M 0 3189  10 3265  1	* The palace guard
+M 0 3189  10 3267  1	* The palace guard
+E 0 3192   -1   16	* item to The palace guard
+M 0 3189  10 3240  1	* The palace guard
+E 0 3194   -1   10	* item to The palace guard
+M 0 3189  10 3215  1	* The palace guard
+E 0 3194   -1    5	* item to The palace guard
+M 0 3189  10 3191  1	* The palace guard
+M 0 3189  10 3202  1	* The palace guard
+M 0 3189  10 3198  1	* The palace guard
+M 0 3189  10 3187  1	* The palace guard
+M 0 3189  10 3186  1	* The palace guard
+M 0 3190   5 3232  1	* The treasury guard
+M 0 3190   5 3233  1	* The treasury guard
+M 0 3190   5 3234  1	* The treasury guard
+M 0 3191   1 3247  1	* The chef
+E 0 3198   -1   11	* item to The chef
+M 0 3192  12 3244  1	* A servant
+M 0 3192  12 3243  1	* A servant
+M 0 3192  12 3242  1	* A servant
+M 0 3192  12 3245  1	* A servant
+M 0 3192  12 3246  1	* A servant
+M 0 3192  12 3249  1	* A servant
+M 0 3192  12 3249  1	* A servant
+M 0 3192  12 3251  1	* A servant
+M 0 3192  12 3218  1	* A servant
+M 0 3192  12 3247  1	* A servant
+M 0 3192  12 3244  1	* A servant
+M 0 3192  12 3244  1	* A servant
+M 0 3196   3 3241  1	* The chambermaid
+M 0 3196   3 3241  1	* The chambermaid
+M 0 3196   3 3239  1	* The chambermaid
+M 0 3197   1 3877  1	* The counselor
+E 0 3195   -1   17	* item to The counselor
+M 0 3198   2 3227  1	* A statesman
+E 0 3197   -1   17	* item to A statesman
+M 0 3198   2 3227  1	* A statesman
+E 0 3197   -1   17	* item to A statesman
+M 0 3199   1 3277  1	* The zookeeper
+M 0 3200   5 3284  1	* A zoo worker
+M 0 3200   5 3274  1	* A zoo worker
+M 0 3200   5 3281  1	* A zoo worker
+M 0 3200   5 3283  1	* A zoo worker
+M 0 3200   5 3890  1	* A zoo worker
+M 0 3201   1 3290  1	* The concession stand girl
+G 0 3199 -1		* Salt water taffy to the concession stand girl
+G 0 3200 -1		* Pink cotton candy to the concession stand girl
+G 0 3201 -1		* A large cup of cola to the concession stand girl
+G 0 3202 -1		* A large bratwurst to the concession stand girl
+G 0 3203 -1		* A hotdog to the concession stand girl
+G 0 3204 -1		* A big cup of cheap beer to the concession stand girl
+M 0 3202   1 3291  1	* The waiter
+G 0 3205 -1		* A rack of lamb to the waiter
+G 0 3206 -1		* Two pounds of human flesh to the waiter
+G 0 3207 -1		* Scalloped potatoes and onions to the waiter
+G 0 3208 -1		* A green salad to the waiter
+G 0 3209 -1		* A bottle of fine wine to the waiter
+M 0 3203   1 3285  1	* A giant cloud tiger
+M 0 3204   2 3289  1	* `ca `hc`el`ho`eu`hd `ep`ha`en`hd`ea``
+M 0 3205   3 3286  1	* A `ncloud `gwarg``
+E 0 3212   -1   17	* item to A `ncloud `gwarg``
+M 0 3205   3 3286  1	* A `ncloud `gwarg``
+M 0 3205   3 3286  1	* A `ncloud `gwarg``
+M 0 3206   1 3287  1	* The ancient cloud dragon
+M 0 3207   1 3293  1	* A giant cloud bear
+E 0 3211   -1   12	* item to A giant cloud bear
+M 0 3208   1 3294  1	* The glaraunt
+E 0 3210   -1    3	* item to The glaraunt
+M 0 3209   2 3229  1	* An aristocrat
+M 0 3209   2 3229  1	* An aristocrat
+M 0 3210   1 3225  1	* An artist
+O 0 3220   0 3232 -1	* A platinum chest at Treasury
+P 0 3215 1 3220 -1
+P 0 3218 1 3220 -1
+O 0 3221   0 3233 -1	* A solid gold chest at Treasury
+P 0 3214 1 3221 -1
+P 0 3216 1 3221 -1
+O 0 3222   0 3234 -1	* A platinum and gold chest at Treasury
+P 0 3213 1 3222 -1
+P 0 3217 1 3222 -1
+P 0 3219 1 3222 -1
+M 0 3194   1 3220  1	* A flute player
+E 0 4229   -1   18	* item to A flute player
+M 0 3193   1 3220  1	* The violinist
+E 0 4230   -1   18	* item to The violinist
+M 0 3195   1 3220  1	* The timpanist
+E 0 3196   -1   16	* item to The timpanist
+D 0 3220   3    1	* Royal Music Hall [west]
+D 0 3219   1    1	* Entrance to the Royal Music Hall [east]
+E 0 3228   -1    5	* item to The timpanist
+M 0 3211   1 3339  1	* `ithe insane emperor``
+E 0 3229   -1    5	* item to `ithe insane emperor``
+M 0 3212   4 3339  1	* The emperor's guard
+G 0 3223 -1		* The royal key to The Emperor's guard
+M 0 3190   1 3231  1	* The treasury guard
+G 0 3223 -1		* The royal key to the treasury guard
+M 0 3214   1 3264  1	* Acolyte of ascendance
+D 0 3277   3    1	* Zoo Road [west]
+D 0 3286   1    1	* Cloud Warg Den [east]
+D 0 3278   3    1	* Zoo Road [west]
+D 0 3287   1    1	* Lair of the Ancient Cloud Dragon [east]
+D 0 3186   2    1	* The Cloud Palace Gates [south]
+M 0 3186   1 3237  1	* The empress
+E 0 3186   -1    6	* item to The empress
+E 0 3187   -1    3	* item to The empress
+G 0 3187 -1		* `fan `jemerald `fbroach`` to The Empress
+E 0 3225   -1    9	* item to The empress
+E 0 3226   -1   17	* item to The empress
+M 0 3213   1 3237  1	* The empress' personal guard
+E 0 3227   -1   16	* item to The empress' personal guard
+S
+
+#SHOPS
+3201  0  0  0  0  0 	100   1 	6 18	* the concession stand girl
+3202  0  0  0  0  0 	100   1 	10 22	* the waiter
+0
+
+#SPECIALS
+M 3186 spec_breath_lightning		* The Empress
+M 3187 spec_breath_lightning		* Wandra, the daughter of the Empress
+M 3188 spec_breath_frost		* the palace guard
+M 3197 spec_breath_lightning		* the counselor
+M 3200 spec_janitor		* a zoo worker
+M 3201 spec_breath_lightning		* the concession stand girl
+M 3206 spec_breath_frost		* the ancient cloud dragon
+M 3211 spec_cast_undead		* `ithe insane Emperor``
+M 3213 spec_breath_gas		* The Empress' personal guard
+S
+
+#OT
+#0
+#$

@@ -1,0 +1,25 @@
+* File: fknight.scr
+* Mob: Lost Knight(12940)
+
+#TRIGGER enter
+Type 10
+*
+Sc 
+mfunc %enter-from% %name% name
+wait 1~
+Sc
+peer %name%
+halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 2
+if ( %rndnum% == 1 )
+emote searches around for...something.
+halt once~
+End
+
+#END
+

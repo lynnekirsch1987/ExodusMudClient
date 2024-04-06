@@ -1,0 +1,12 @@
+* File: mermaid.scr
+* Mob: mermaid(28210)
+
+#TRIGGER born
+Type 4
+Sc
+wfunc %rannum% random  28201 38200
+  cmd goto %rannum%
+  halt once~
+End
+
+#END

@@ -1,0 +1,5249 @@
+#AREA
+ 6~
+abbey.are~
+`oErion Abbey``~
+{20 60} Hesiod  `oErion Abbey``~
+~
+7900 8199
+12 0 4004
+0 0
+~
+#MOBILES
+#7901
+monk welcoming welcome abbey~
+A welcoming Monk~
+A white robed Monk stands before you, welcoming all to Erion Abbey.
+~
+~
+human~
+0 0 0 0
+ABQ HV 100 0
+55 55 50d10+2500 50d10+1500 2d20+14 divine
+-30 -30 -30 999 -20
+0 -1 CFK AB N 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+6
+welcoming.voc~
+~
+#7902
+stable master~
+The stable master~
+The Stable Master is here, waiting to take your mounts.
+~
+Before you stands a middle aged man, wide at the shoulders and chest, you
+think that in his youth he was probably a very strong and fit man, bit with
+age much of his muscle has turned to fat.
+~
+human~
+0 0 0 0
+ABT 0 50 0
+25 -10 20d5+300 20d5+200 20d2+5 beating
+20 20 20 999 20
+0 -1 CDIJO 0 0 0
+sit stand male 100
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#7903
+stable hand~
+A young stable hand~
+A young stable hand stands here, waiting to help you.
+~
+This small boy has been hired to help out in the Abbey's stables.  He is
+covered in dirt, and the smell of manure permeates the air around him.
+~
+human~
+0 0 0 0
+ABG 0 100 0
+15 -20 4d5+120 4d5+120 4d5+1 none
+30 30 30 999 30
+0 -1 F 0 0 0
+stand stand male 12
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7904
+monk almoner~
+The Almoner~
+A white robed Monk is here, distributing food to the poor and needy.
+~
+This Brother of the Order is going about the important business of handing
+out food to the poor and needy of the area.  He notices you and nods in your
+direction.
+~
+human~
+0 0 0 0
+ABQ 0 100 0
+55 55 50d10+2500 50d10+1500 2d5+10 divine
+-40 -40 -40 999 -10
+0 -1 CFK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+6
+~
+~
+#7905
+brother erion goo~
+A Brother of Erion~
+A Brother of Erion wanders around, contemplating life...
+~
+~
+human~
+0 0 0 0
+AQ 0 1000 0
+50 0 20d10+700 50d10+1500 3d10+3 divine
+0 0 0 999 0
+0 -1 FK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+2
+~
+brother.scr~
+#7906
+abbot erion~
+The Abbot of Erion~
+`fThe`o Abbot`f stands here surveying the renovations on the Church.``
+~
+~
+human~
+0 0 0 0
+ABQT 0 666 0
+65 70 50d10+5500 50d10+2500 10d10+40 divine
+-30 -30 -30 999 -30
+0 -1 CEFIK ABLR 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+6
+~
+abbot.scr~
+#7907
+babbling man young~
+A babbling young man~
+A young man is here, babbling insanely to himself.
+~
+This man's cloths are in tatters, clinging to his body by their last faded
+threads.  He notices you and says something incoherant under his breath, it
+sounded like "I'm sorry, haven't I been punished enough?", then he returns
+to his mindless babbling.
+~
+human~
+0 0 0 0
+ABC 0 1000 0
+15 15 5d5+150 1d1+100 3d6+15 claw
+1 1 1 999 5
+0 -1 CDEF 0 0 0
+sit sit male 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#7908
+cooper burly man~
+The cooper~
+A large burly man is here, working on some casks.
+~
+The cooper is HUGE!  His form his hidden partly by the thick leather apron he
+wears around the front of his body, but his muscled arms leave you in no doubt.
+He sees you and nods in your direction, then resumes his work on one of the
+casks he's currently making.
+~
+human~
+0 0 0 0
+ABMQT Vc 400 0
+27 27 10d5+600 1d1+100 2d12+11 pound
+-8 -8 -8 999 -4
+0 -1 0 0 AY X
+stand stand male 20
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium oldstyle~
+0 0 0 100
+5
+~
+~
+#7909
+elderly wine maker man~
+A wine maker~
+An elderly man is here testing the wine.
+~
+An elderly man stands here, swishing a small glass of some liquid under his
+nose, he closes his eyes, inhales deeply, holds his breath for a second and
+then opens his eyes as a wide grin spreads across his face, "Perfect!" he
+declares, you assume he's referring to the liquer.
+~
+human~
+0 0 0 0
+AR 0 340 0
+35 10 5d20+1100 14d9+200 5d20+5 beating
+0 0 0 999 0
+0 -1 FKV 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7910
+head wine maker man~
+The head wine maker~
+The head wine maker is here, supervising its production.
+~
+An elderly man stands here, swishing a small glass of some liquid under his
+nose, he closes his eyes, inhales deeply, holds his breath for a second and
+then opens his eyes as a wide grin spreads across his face, "Perfect!" he
+declares, you assume he's referring to the liquer.
+~
+human~
+0 0 0 0
+AR 0 340 0
+35 -20 5d20+1200 14d9+200 5d20+7 beating
+0 0 0 999 0
+0 -1 FKV 0 0 0
+stand stand male 205
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#7911
+baker man~
+The baker~
+A baker is here, covered head-to-foot in flour.
+~
+This man looks like a ghost!  His skin is a pasty white, and he seems to
+be surrounded in a white aura...  He is, however, only a baker.  Flour cakes
+his clothes and skin, and you're amazed that he is able to breathe unaided
+in the clouded air within this room.  He sees you and wipes his face with a
+nearby rag.  "Greetings, can I help you?"  .  
+~
+human~
+0 0 0 0
+ABT 0 340 0
+32 20 5d20+900 14d9+200 5d18+4 beating
+0 0 0 999 0
+0 -1 EFIKV 0 0 0
+stand stand male 507
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 0 100
+7
+muffin.voc~
+~
+#7912
+brother erion sickly ill~
+A sickly Brother~
+`fA Brother is here, he is very`c ill`f and is covered in`c sores`f.``
+~
+~
+human~
+0 0 0 0
+ABQ M 1000 0
+55 -10 5d10+1000 50d10+1500 2d10+0 divine
+10 10 10 999 10
+0 -1 CFK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+6
+~
+~
+#7913
+mortician~
+The mortician~
+The mortician stands here, examining a cadaver.
+~
+This man has a rather 'unfortunate' job, it is his responsibility to inspect
+corpses and determinte how they died, and if possible how to prevent more
+people dying from it.  He is wearing an apron to keep as much blood off him 
+as possible, but his shirt is stained red, and his trousers have taken on a
+similar rouge taint.
+~
+human~
+0 0 0 0
+ABRT V 100 0
+50 50 40d10+1300 50d10+1500 3d9+3 divine
+-10 -10 -10 999 -10
+0 -1 CFK AB NO 0
+stand stand male 1900
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 32508
+medium flesh~
+0 0 0 100
+6
+~
+~
+#7914
+mourning woman~
+A mourning woman~
+A mourning woman is here lamenting the loss of a loved one.
+~
+This woman is draped from head to foot in black.  From what you can make
+out of her face through the black veil, she looks to be in her early
+sixties, but often a hard life can age someone beyond their years.  She sobs
+quietly to herself, and you think it might be better to leave her to her
+grief.  
+~
+human~
+0 0 0 0
+ABHST NZ 500 0
+21 21 3d9+350 10d5+56 4d4+4 punch
+-1 -1 -1 999 -1
+0 -1 CIJN 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7915
+surgeon~
+The surgeon~
+A surgeon stands here, preparing for the next operation.
+~
+This man looks exhausted, he has obviously been in the surgery nearly all
+day.  His cowl is drenched in sweat, and his cloths are far from clean.
+He looks almos tready to collapse, but as the next patient is wheeled in he
+composes himself and prepares to begin his work.
+~
+human~
+0 0 0 0
+ABRT 0 100 0
+51 51 40d10+1300 50d10+1500 3d9+3 divine
+-10 -10 -10 999 -10
+0 -1 CFK AB 0 0
+stand stand male 1900
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 32507
+medium flesh~
+0 0 0 100
+6
+~
+~
+#7916
+nurse tending~
+A nurse~
+A nurse wanders the halls, tending the ill and sick.
+~
+This young woman must have been called in to help with the recent plague that
+has broken out within the confines of the abbey.  She is going quietly about
+the business of caring for the ill and dying.  She has a sad and mournfull
+look on her face, knowing that no matter how hard she tries, the plague will
+eventually take those under her care.
+~
+human~
+0 0 0 0
+AQ 0 340 0
+33 5 5d20+900 14d9+200 5d17+5 beating
+10 10 10 999 10
+0 -1 EFIKV 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+5
+~
+~
+#7917
+visitor abbey~
+A visitor to the Abbey~
+A visitor to the Abbey wanders around, taking in the beauty.
+~
+This is one of the many people who come to the Abbey to worship Erion, and
+also to take in the beauty of the Abbey's surrounding grounds.  They are
+probably from one of the surrounding farming villages by the looks of their
+clothes.  They are certainly dressed up for the occasion, as many only
+visit the Abbey on a yearly pilgrimage.
+~
+human~
+0 0 0 0
+ABCHST Z 800 0
+21 -5 3d9+350 10d5+56 4d4+4 punch
+5 5 5 999 5
+0 -1 CIJN 0 0 0
+stand stand either 104
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7918
+young novice~
+A young novice~
+A young novice is here, learning more about his religion.
+~
+This young man has decided to devote his life to serving Erion and all that
+he stands for.  He is still too young to become a full brother, and has much
+to learn about what it truly means to be a member of the Order of Erion.
+~
+human~
+0 0 0 0
+AQ 0 750 7918
+42 10 5d20+1200 14d9+200 5d20+5 punch
+0 0 0 999 0
+0 -1 FKV 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+2
+~
+novice.scr~
+#7919
+scarecrow~
+`da scarecrow``~
+`dA scarecrow shakes in the wind, rattling like something posessed.``
+~
+The scarecrow looks like most you've seen, it's constructed of various items
+of clothing, stuffed with straw and whatever else could be found to make
+up the bulk.
+~
+human~
+0 0 0 0
+ABHST Z 500 0
+21 -20 3d9+350 10d5+56 4d4+4 thwack
+30 30 30 999 30
+0 -1 CIJN 0 0 H
+stand stand female 100
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7920
+brother erion~
+A Brother of Erion~
+A brother of Erion wanders here, deep in spiritual contemplation.
+~
+~
+human~
+0 0 0 0
+AQ H 1000 0
+55 0 50d10+1500 50d10+1500 3d10+3 divine
+0 0 0 999 0
+0 -1 FK AB 0 N
+stand stand male 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+2
+~
+brother.scr~
+#7921
+novice abbey~
+A young novice~
+A Novice of the Order is here running chores.
+~
+This young man has decided to devote his life to serving Erion and all that
+he stands for.  He is still too young to become a full brother, and has much
+to learn about what it truely means to be a member of the Order of Erion.
+~
+human~
+0 0 0 0
+AQ 0 750 7921
+42 10 5d20+1200 14d9+200 5d20+5 punch
+0 0 0 999 0
+0 -1 FKV 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+2
+~
+novice.scr~
+#7922
+poor farmer~
+A poor farmer~
+A poor farmer from the surrounding area is here on a pilgrimage.
+~
+This is one of the many people who come to the Abbey to worship Erion, and
+also to take in the beauty of the Abbey's surrounding grounds.  They are
+probably from one of the surrounding farming villages by the looks of their
+clothes.  They are certainly dressed up for the occasion, as many only
+visit the Abbey on a yearly pilgrimage.
+~
+human~
+0 0 0 0
+ABHST Z 800 0
+21 -5 3d9+350 10d5+56 4d4+4 punch
+5 5 5 999 5
+0 -1 CIJN 0 0 0
+stand stand either 20
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7923
+wild horse~
+A horse~
+A horse is here, tethered in its stable.
+~
+Before you stands one of the less-impressive horses you've seen in your
+lifetime.  It was probably used by one of the poorer farmers of the area
+to ride here for a time of prayer.  It stands roughly your height, and you
+can see that it has been rather underfed, at least recently.
+~
+unique~
+0 0 0 0
+ABe V 100 0
+19 -10 6d40+230 1d1+100 4d5+4 charge
+20 20 20 999 20
+0 -1 F 0 0 0
+stand stand either 0
+AV 0 10 10 10 10 10 10 0
+medium flesh~
+0 3 500 230
+0
+~
+~
+#7924
+baker man~
+The baker~
+A baker is here, preparing dough for the next batch of bread.
+~
+This man looks like a ghost!  His skin is a pasty white, and he seems to
+be surrounded in a white aura...  He is, however, only a baker.  Flour cakes
+his clothes and skin, and you're amazed that he is able to breathe unaided in
+the clouded air within this room.  He sees you and wipes his face with a
+nearby rag.  "Greetings, can I help you?"  .  
+~
+human~
+0 0 0 0
+ABT V 340 0
+32 20 5d20+900 14d9+200 5d18+5 beating
+0 0 0 999 0
+0 -1 EFIKV 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 0 100
+5
+~
+~
+#7925
+mourning man~
+A mourning man~
+An elderly man is here, visiting his son's grave.
+~
+This man is here visiting the grave of his son, who has died from the
+plague epidemic that is decimating the abbey.  He is not crying, but you
+can see the grief he carrys with him in his eyes.  He lays a single flower
+at the foot of a marker-stone, pauses for a moment, and heads off.
+~
+human~
+0 0 0 0
+ABHST Z 500 0
+21 21 3d9+350 10d5+56 4d4+4 punch
+-1 -1 -1 999 -1
+0 -1 CIJN 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7926
+pale white fish~
+A pale white fish~
+``A pale white fish swims by, it seems to have no eyes!
+~
+~
+unique~
+0 0 0 0
+AHe ce 300 0
+16 16 5d30+180 1d1+1 3d5+2 none
+4 4 4 999 9
+0 -1 0 R EI BH
+stand stand female 0
+Ab ADEFOX 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#7927
+zombie~
+A rotting zombie~
+A rotting zombie is wandering about, searching for something.
+~
+This poor creature is NOT resting in peace.  It's rotting flesh hangs
+from muddy bones and scraps of clothing sway in the breeze.  Its stench is
+awful and it turns its lifeless face to you and begins to amble your way.  
+~
+human~
+0 0 0 0
+ACO GJOc -1000 0
+48 48 5d15+1300 50d10+1500 4d15+4 claw
+-50 -50 -50 999 -20
+0 -1 CEFK BIMa C HN
+stand stand neutral 0
+ABHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7928
+necromancer~
+The necromancer~
+`hA shadowy `hNecromancer`h is diging up corpses for his hideous experiments.``
+~
+`hThe `anecromancer`h is a tall skinny man who wears a dirty grey robe. 
+He is hunched and his shifty eyes never stay in one place for long.  He
+looks up from his work digging up a grave and points a long bony finger at
+you and his face twists into a cruel grin as he approaches.  `` 
+~
+human~
+0 0 0 0
+ABN DFGJOVZc 100 7928
+65 16 50d10+2500 50d10+2500 10d10+10 divine
+-60 -60 -60 999 -30
+0 -1 CEFHIK B 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+2
+~
+necro.scr~
+#7931
+novice erion~
+A young novice~
+A young novice is here, learning more about his religion.
+~
+This young man has decided to devote his life to serving Erion and all that
+he stands for.  He is still too young to become a full brother, and has much
+to learn about what it truly means to be a member of the Order of Erion.
+~
+human~
+0 0 0 0
+AQ 0 750 7918
+42 10 5d20+1200 14d9+200 5d20+25 wrath
+0 0 0 999 0
+0 -1 FKV 0 0 0
+stand stand male 1600
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+2
+~
+novice.scr~
+#7932
+brother erion goo~
+A Brother of Erion~
+A Brother of Erion wanders around, contemplating life...
+~
+~
+human~
+0 0 0 0
+AQ 0 1000 0
+50 0 20d10+700 50d10+1500 3d10+30 divine
+0 0 0 999 0
+0 -1 FK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+2
+~
+brother.scr~
+#7933
+nun amazon warrior~
+`cAn`d A`cm`ba`dz`co`bn`c warrior in disguise``~
+An old nun is wobbling around here, clothed in heavy robes.
+~
+`bA gnarled creature wobbles about the abbey.  Standing before you now,
+she seems to be a bit of a ruffian.  `bFlashing bright `dyellow `beyes
+pierce into your soul, showing you exactly who the elf is behind the
+disguise.  `bHer wise pointed ears are always perks, listening for even the
+smallest sounds.  Gleaming gems line the sides of her ears, `ba hoop at the
+`btip of each.  You've heard stories of elves like this, seemingly gnarled
+and wobbling about now.  `bHowever, you know that she is a proud woman, and
+certainly not the nun to be messed with.  `bRumors say under this nun garb
+she so intelligently uses to hide herself in the abbey with are several
+`btattoos, all of `cgreen `dyellow `band red inks.  `bShe bears her `dwooden
+`bequipment, ready for whatever battle the day may bring.  
+~
+elf~
+0 0 0 0
+AEGMTW EFJVZc 450 0
+50 50 1d1+3333 1d1+1 5d4+1 pierce
+-5 -5 -5 999 5
+0 -1 DFIJKN QR BCGP CZ
+stand stand female 4000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#7934
+vengeful spirit `bMadeBy`kIverath`bAnd`kHaylie``~
+`bA`i vengeful`b spirit``~
+`bA spirit circles its toppled tombstone angrily.``
+~
+`bWhat seems to be a whaft of merely air, is scowling at you angrily. 
+`bFloating continuously about its tombstone it often swirls into a ring of
+floating color.  `bAngered by the mere thought of someone standing near its
+grave, it is ready to do whatever it takes to rid of whatever comes its way.
+`bEthereal claws beared at the slightest sound, walk slowly, this ones a
+cold blooded killer.  
+~
+human~
+0 0 0 0
+ABFOR JOTUVZ -600 0
+50 50 1d1+3000 1d1+1 2d2+20 wrath
+10 10 10 999 10
+0 -1 FK BDMPRa 0 NOS
+stand stand none 0
+ACDHIKLMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#7935
+infected sailor~
+An infected sailor~
+An infected sailor lies in bed here.
+~
+He looks sickly and pale.  Large sores cover his flesh and he quickly
+turns away from your light as you approach him.  Sweat covers his body, yet
+he shivers uncontrollably.  It's hard to believe this sailor was fit for
+duty only a few short days before.  Two suspicious puncture marks on his
+neck look like he was attacked by an animal.  
+~
+kalian~
+0 0 0 0
+ABQ MXc 1000 0
+55 55 5d10+1000 50d10+1500 2d10+2 claw
+-20 -20 -10 999 -10
+0 -1 CFK ABL DEIJ HN
+rest rest male 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+6
+InfectSailor.voc~
+infectsailor.scr~
+#7936
+monk travelling weary~
+`hthe master monk of Erion``~
+`hThe master monk of Erion blesses you as you enter his presence.``
+~
+`hThis monk recently arrived at Erion from the hidden village of
+Karuasandru, where the greatest of martial artists reside.  Little is known
+of why the monks recently decided to leave their peaceful mountain village. 
+Rumors have that they were driven out, but given the nature of these monks,
+you find that to be highly unlikely.  The man before you is a little on the
+small side, with a lean build, he actually looks quite harmless... ``
+~
+human~
+0 0 0 0
+ABJKYb DFHVc 450 0
+99 500 29999d1+1 50d5+50 20d25+100 wrath
+0 0 0 999 0
+0 60 4 FIX Bbc 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 800
+4
+~
+~
+#7937
+father dad~
+Your father~
+`hYour father sits on one of the gravestones.``
+~
+`hThere is your father again, always waving at you, it gets kind of
+annoying after seeing him everywhere.  He probably will not talk to you this
+time either.  `` 
+~
+lich~
+0 0 0 0
+ABGNO DFGUe -1000 0
+20 -10 100d1+1 20d2+2 2d2+2 none
+0 0 0 999 0
+X 60 0 F BLQRc CIMQ HNOS
+stand stand male 0
+ADHMV ABCDEFGHIJKa 10 10 10 10 10 15 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#8000
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#7901
+white robe erion~
+`oa white robe of the Order Erion``~
+The white robe worn by the Brothers of Erion lies here in a heap.~
+hemp~
+0
+armor 2
+ST
+0
+AK
+K
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AD ABCD AD 0 0
+0
+0
+30 50 5000 P
+A
+19 1
+A
+18 1
+A
+13 9
+A
+12 9
+#7902
+leather belt~
+a wide leather belt~
+A wide leather belt lies here, worn with use and time.~
+hard leather~
+0
+weapon 2
+GIS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BC ABC C ACD 0
+0
+0
+20 30 50 P
+A
+18 2
+A
+19 2
+A
+26 -1
+#7903
+bottle leather polish~
+a bottle of leather polish~
+A small glass bottle lies here, with a black paste inside which smells like leather polish.~
+glass~
+0
+potion 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CE 'mass levitation' -1 -1 -1 0
+0
+10 26 10 P
+#7904
+wooden ladel~
+a wooden ladel~
+A large wooden ladel lies here, a few grains still lying in it.~
+wood~
+0
+container 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BD 0 0 BD ABFG
+0
+0
+50 24 0 P
+A
+18 2
+A
+19 1
+A
+5 -1
+#7905
+white robe erion abbot~
+`oa white robe of the Abbot of Erion``~
+The white robe worn by the Abbot of Erion lies here in a heap.~
+hemp~
+0
+clothing 2
+BS
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 40 50000 P
+A
+4 2
+A
+3 2
+A
+24 -3
+#7906
+haystack~
+`dthe haystack``~
+~
+hemp~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+You hear the hay rustle as $n crawls out of the haystack.~
+The hay rustles as you crawl out from under the haystack.~
+The hay rustles as $n crawls out from under the haystack.~
+~
+-1 0 G BDEIJKLM F
+0
+0
+1 0 0 P
+#7907
+cooper hammer~
+a cooper's hammer~
+A large wooden cooper's hammer lies here, unused.~
+wood~
+0
+weapon 2
+SY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+C AC AC ABC 0
+0
+0
+17 100 0 P
+A
+18 2
+A
+19 2
+A
+1 1
+#7908
+thick leather apron~
+a thick leather apron~
+A heaped pile of leather lies discarded on the ground.~
+hard leather~
+0
+armor 2
+S
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+B B B 0 0
+0
+0
+17 120 0 P
+A
+2 -1
+#7909
+bottle erion liqueur~
+`ca bottle of Erion Liqueur``~
+`cA bottle of Erion Liqueur with a label tied to its top is here.``~
+liquid~
+0
+potion 2
+AGHS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+ABDEG 'create spring' 'cure disease' 'cure blindness' -1 0
+0
+25 10 0 P
+A
+24 -3
+#7911
+colourful scarf~
+a `ic`ko`jl`no`lu`mr`if`ku`jl`` scarf~
+A `ic`ko`jl`no`lu`mr`if`ku`jl`` scarf lies in a crumpled heap here.~
+wool~
+0
+clothing 2
+S
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 20 0 P
+A
+12 -5
+A
+19 1
+A
+4 -1
+A
+3 -1
+A
+2 2
+#7912
+pool liqueur~
+the pool of liqueur~
+A pool of fermenting liqueur fills the room.~
+liquid~
+0
+drink 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EIJKN EIJKN D 0 0
+0
+0
+40 0 0 P
+#7913
+sack grain~
+a sack of grain~
+A heavy sack of grain is here, bulging at the seams.~
+wheat~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AE ADE DF 0 0
+0
+0
+10 500 0 P
+#7914
+half-cooked half cooked loaf bread~
+a half-cooked loaf of bread~
+A half-cooked loaf of bread lies here, slowly turning golden-brown.~
+wheat~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE DF DF 0 0
+0
+0
+10 20 0 P
+#7915
+bottle milk~
+`hA Bottle of Milk``~
+A small bottle of milk lies here, glinting in the light.~
+liquid~
+0
+drink 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+EG DF BD 0 0
+0
+0
+22 20 0 P
+#7916
+flour sifter~
+`aA `hFlour `aSifter``~
+`hA flour `asifter `hlies here, looking like it might even still work!``~
+metal~
+0
+trash 2
+GI
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+32 30 0 P
+A
+18 2
+A
+13 13
+#7917
+table steel~
+``a steel autopsy table~
+``A steel autopsy table lies in the middle of the room.~
+steel~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A DEGJ 0 0 0
+0
+0
+0 0 0 P
+#7918
+glinting steel scalpel~
+``a `oglinting`` steel scalpel~
+``A `oglinting`` steel scalpel lies on the floor.~
+steel~
+0
+weapon 2
+GIM
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+B BC BC A D
+0
+0
+45 30 0 P
+A
+2 -1
+A
+12 20
+A
+13 -20
+A
+18 3
+A
+19 3
+#7919
+black veil~
+`aa black veil``~
+`aA black lace veil lies here, still wet with fresh tears.``~
+lace~
+0
+clothing 2
+KS
+B
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+21 10 0 P
+A
+17 -4
+#7920
+gown operating~
+`gan operating gown``~
+`gAn operating gown stained with `bblood`g lies on the floor.``~
+unknown~
+0
+clothing 2
+MSZ
+B
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+51 27 0 P
+A
+5 -2
+A
+17 -3
+#7921
+fountain bubbling water~
+a bubbling fountain~
+A fountain bubbles away happily in the corner.~
+liquid~
+0
+fountain 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 0 0 P
+#7922
+cowl abbot erion~
+`othe white cowl of the Abbot of Erion``~
+`oThe Abbot of Erion's white cowl lies in a heap on the floor.``~
+cotton~
+0
+clothing 2
+BS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+65 40 10000 P
+A
+18 2
+A
+12 15
+#7923
+huge barrel food~
+a huge barrel~
+A huge barrel of food rests here.~
+wood~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDFI 0 0 BEF CFG
+0
+0
+0 0 0 P
+#7924
+dried meat piece~
+a piece of dried meat~
+A piece of sun-dried meat is here.~
+flesh~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC CE BCG 0 0
+0
+0
+1 10 30 P
+#7925
+metal grate~
+`o the metal grate``~
+`oAn old and rusting metal grate is here blocking your way.``~
+metal~
+0
+trash 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#7926
+gate~
+a shimmering gate~
+A shimmering gate stands in the middle of the room.~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n steps into a shimmering gate and is gone.~
+You step into the shimmering gate and emerge in the Room of Regeneration.~
+$n steps through the portal and walks into the room.~
+~
+-1 0 G CDEIJKLM A
+0
+0
+10 0 0 P
+#7927
+room gate~
+a shimmering gate~
+A shimmering gate stands in the middle of the room.~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n leaves through a shimmering gate.~
+You step into the shimmering gate and emerge in the Infirmary Reception.~
+$n steps out of a shimmering gate.~
+~
+-1 0 G BCDIJKLM B
+0
+0
+10 0 0 P
+#7928
+novice robe~
+`othe white robes of the novice``~
+`oThe crisp white robes of a novice are folded neatly here.``~
+cloth~
+0
+clothing 2
+IS
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 5 5 P
+A
+12 10
+#7929
+erion pendant~
+`nthe pendant of Erion``~
+`nA holy and special pendant lays from a silver chain here.``~
+silver~
+0
+treasure 2
+IS
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 5 200 P
+A
+4 1
+A
+17 -1
+#7930
+haystack~
+`dthe haystack``~
+`dA large haystack is here spilling out onto the surrounding floor.``~
+hemp~
+0
+portal 2
+RSY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+You hear the hay rustle as $n crawls underneath the haystack.~
+The hay rustles as you crawl underneath the haystack.~
+You hear the hay rustle as $n crawls into the hay beside you.~
+You crawl beneath the haystack far enough so that as long as you are quiet, no one will know that you are here.~
+-1 0 0 ABFIJKLM F
+0
+0
+0 0 0 P
+#7931
+lead ring~
+`aa ring of lead``~
+`aA very heavy lead ring lies before you.``~
+lead~
+0
+jewelry 2
+CEGPTUYc
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 100 50000 P
+#7942
+staff~
+`aa blasted wooden staff``~
+`aA gnarled staff made of the blackest wood lies here.``~
+wood~
+0
+weapon 2
+CEGHIJL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB AC ABC CF G
+0
+0
+45 300 0 P
+A
+12 10
+E
+staff~
+This staff gives you the willies just holding it.
+~
+#7943
+tattered dirty robe~
+`aa stained and tattered black robe``~
+`aAn old tattered robe of the Erion order has become stained with neglect and dirt.``~
+hemp~
+0
+clothing 2
+BJS
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 40 100 P
+A
+24 -3
+A
+3 2
+A
+4 2
+#7944
+undead medallion~
+`aa medallion of the undead``~
+`aAn unholy medallion lies discarded.``~
+gold~
+150
+treasure 2
+Ta
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 100 5000 P
+A
+1 3
+A
+19 4
+A
+13 10
+#7945
+mist~
+`aa patch of mist``~
+`aA large patch of mist has gathered nearby.``~
+air~
+50
+portal 2
+QS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+$n steps into the mists and disappears in a hazy flash.~
+As you walk into the mist, you get turned around and lose your direction.~
+You look over just in time to see $n laying face-first in the dirt.~
+Suddenly, you feel the ground give out beneath you and you fall face-first into fresh dirt.~
+A 0 G CDEGHJKLM A
+0
+0
+1 0 0 P
+#7946
+rotting corpse~
+the rotting corpse~
+A rotting corpse lies here, staring up at you through two hollow sockets.~
+flesh~
+0
+npc_corpse 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#7947
+puddle blood~
+a puddle of thick fetid `bblood``~
+A puddle of thick coagulated blood has gathered around your feet.~
+unknown~
+10
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 ACD A 0
+0
+0
+0 0 0 P
+#7948
+painted wooden spear amazon `bMadeBy`kIverath``~
+`cA`d p`ba`ci`dn`bt`ce`dd`c wooden spear``~
+`cAn`d A`bm`ca`dz`bo`cn spear is driven into the ground here.``~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC ABC BC BF IJ
+0
+0
+40 40 5000 P
+#7949
+amazon shield turtle shell `bMadeBy`kIverath``~
+`cA`d p`ba`ci`dn`bt`ce`dd`c turtle shell``~
+`cAn`d A`bm`ca`dz`bo`cn`` shield lies here.``~
+wood~
+0
+armor 2
+SY
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD BD BD 0 0
+0
+0
+45 100 5000 P
+A
+14 50
+A
+2 2
+#7950
+bucket well water wooden~
+a wooden bucket~
+`aThe low stone walls of a well are here, beside them a wooden bucket is attached to a pulley.``~
+unknown~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 A 0
+0
+0
+9 0 0 P
+#7951
+stone bench `bMadeBy`kIverath``~
+a stone bench~
+`dA stone bench sits by the path through the vegetable garden.``~
+stone~
+0
+furniture 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B EFIKMNO EH BCDFG BCDFG
+0
+0
+1 3000 1 P
+#7952
+tombstone cracked weatherbeaten `bMadeBy`kIverath``~
+a cracked tombstone~
+`aA tombstone is here, cracked and weatherbeaten. The dried remains of a wreath lies before it.``~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`k$n shoves a tombstone. And a unearthly vail is heard.``~
+`kAs you shove the tombstone a hideous vail is heard!``~
+`kAnother fool has decided to desecrate the tomb of the vengeful spirit.``~
+`kA spirit appears in a green puff of smoke, tearing into you with its ethereal claws.``~
+CE 0 0 CFIJKLM K
+0
+0
+10 0 0 P
+#7953
+spirits medallion~
+`bThe spirit's medallion``~
+`bA medallion made of red mist is swirling here.``~
+air~
+0
+jewelry 2
+EJLPQSU
+0
+AC
+BJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 0 5000 P
+A
+19 1
+A
+13 10
+A
+17 -10
+#7954
+tombstone cracked weatherbeaten `bMadeBy`kIverath``~
+a cracked tombstone~
+`aA toppled tombstone is lying here. Rain splattering against the cold stone surface.``~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`k$n shoves a tombstone. And a unearthly vail is heard.``~
+`kAs you shove the tombstone a hideous vail is heard!``~
+`kAnother fool has decided to desecrate the tomb of the vengeful spirit.``~
+`kA spirit appears in a green puff of smoke, tearing into you with its ethereal claws.``~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#7955
+floating sign~
+a sign~
+`oA big sign is here`k '`hZombies attack here!`k'``~
+air~
+0
+trash 2
+RSTYa
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#7956
+Bracers~
+`oBr`aac`her`os o`af t`hhe `nErion `oOr`ade`hr``~
+Shimmering bracers lie here.~
+unknown~
+0
+armor 2
+S
+0
+AM
+K
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE BCDE BCDE BCDE 0
+0
+0
+90 0 0 P
+A
+14 25
+A
+12 25
+A
+13 25
+A
+19 20
+A
+18 20
+#7957
+key elder~
+`ba key to the elder circles``~
+`ba key to the elder circles``~
+unknown~
+0
+key 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 0 0 0
+0
+0
+0 0 0 P
+#7958
+crack~
+`aA crack in the wall.``~
+``~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 0 ABDGHINO A
+0
+0
+0 0 0 P
+#7959
+note~
+`da hand written note``~
+`dA handwritten note has been discarded here.``~
+unknown~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+E
+note~
+This task is of the utmost importance!
+I have had visions that the Abbot himself may be in possession of a piece of the holy armor.
+We must take any measure necessary to retrieve it.
+The ten pieces of armor cannot fall into the wrong hands!
+If our enemies are allowed to reassemble the armor they will be greatly strengthened.
+~
+#8199
+holy collar light runicset~
+`ka holy collar of light``~
+`kThis collar glows with a radiant holy light.``~
+energy~
+0
+armor 2
+AIKLRSTYad
+BJKL
+ACT
+0
+0
+0
+8199
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+1 0 100000 P
+A
+19 10
+A
+18 10
+A
+12 30
+A
+13 30
+A
+24 -8
+A
+26 2
+A
+4 2
+A
+3 2
+A
+5 2
+A
+2 2
+A
+1 2
+#0
+
+#ROOMS
+#7900
+0 0
+~
+~
+~
+247 0 0
+`aInside a fresh grave``~
+Darkness surrounds you and the smell of freshly-turned earth is
+everywhere.  Walls of dirt stand to all sides and only a faint hazy light
+can be seen high above.  This can be nothing but the inside of a greshly-dug
+grave.  All around, small roots poke through the walls, providing handholds,
+should an attempt to climb out be made.  If you cannot escape that way, then
+you may be cursed to die within this gruesome forgotten tomb.  
+~
+0 ACHX 2
+1
+That grave already has a body in it.~
+I 0 D4
+~
+~
+0 0 7980
+S
+#7901
+60 150
+~
+~
+~
+0 64 0
+The Main Gate of Erion Abbey~
+You are standing in the main gate of Erion Abbey.  A covered walkway runs
+overhead from the stables to the west to the almonry to the east.  Its heavy
+stone base and thick wooden sides seem overly heavy to be supported by the
+feeble wooden struts rising fromt he side of either building, and you can't
+help but feel uneasy standing under its mass.  To the north you see a vast
+courtyard, its lush green expanses extending to the Abbey Church off to the
+north.  
+~
+0 CD 1
+0
+~
+I 0 D0
+~
+~
+0 0 7910
+D1
+~
+door~
+1 0 7902
+D2
+~
+~
+0 0 21077
+D3
+~
+~
+0 0 7905
+D4
+~
+~
+0 0 7904
+S
+#7902
+0 0
+~
+~
+~
+0 0 0
+The Almonry~
+You are standing in the Abbey's Almonry.  In this room the Brothers
+distribute grains and whatever can be spared to the poor and suffering of
+the area.  Here is where they fulfill their teachings to aid the less
+fortunate, and show their respect for all.  A long oak table runs north to
+south along the eastern wall of the room, with a small door behind it. 
+Along the table lie bags of various grains and oats, and a basket of freshly
+baked bread from the Bakery.  You notice how deliberately the poor fill
+their sacks with their alocated portions, careful not to waste a grain of
+the food.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 7903
+D3
+~
+door~
+1 0 7901
+S
+#7903
+0 0
+~
+~
+~
+0 0 0
+The Almonry Store Room~
+This is the Almonry's storeroom.  It is surprisingly sparse, considering
+the number of people you saw in the main room.  You assume that the Abbey
+must restock it fairly regularly to be able to distribute the amount of
+food that they do.  A number of hessian sacks rest against the eastern brick
+wall, and four large barrels run along the south.  From the smell of the room
+they were formerly used to store wine, but were taken for this more basic,
+if important task.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+door~
+1 0 7902
+S
+#7904
+0 0
+~
+~
+~
+0 0 0
+Watchtower above the Main Gate~
+You are standing on the walkway above the main gate.  It extends over the
+entrance and a short way onto each of the buildings striding the gate.  You
+step carefully, watchfull not to slip on the wet and moss-ridden stones,
+worn smooth by years of pacing by the brothers of the order.  Leaning
+against the sturdy wooden railing you look to the north, still amazed at the
+gothic beauty of the Abbey Church, despite having seen it before, it's many
+spires rise to the sky, and you feel you can understand a little of why the
+monks have chosen to devote their life to their religion.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+butthole~
+97 25698 26822
+D5
+~
+~
+0 0 7901
+S
+#7905
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Abbey Stables~
+This stable is like most other stables you've evern been in.  There is
+hay strewn across the floor in an attempt to cover the horrid smell.  It
+doesn't work.  The windows set in the north and south walls are pulled open
+to allow some air to flow through, and the meager breeze does help to
+disperse the stifling smell.  To the west you can see the actual stables
+where horses are tethered, and to the east is the main gate, from where you
+came.  
+~
+0 D 10
+0
+~
+I 0 D1
+~
+~
+0 0 7901
+D3
+~
+~
+0 0 7906
+S
+#7906
+0 0
+~
+~
+~
+0 0 0
+The Abbey Stables~
+The smell in this room is even worse than the entrance.  This is where the
+horses are actually stabled, and there is "evidence" to that fact scattered
+about the room in various places.  Stepping carefully to avoid them you move
+to the north of the room and peer out the window.  Breathing in the clean air
+you see the Great Court, its lush expanses stretching to the foot of the Abbey
+church.  Leaning back inside you bump your head against the rough wooden
+window frame.  The brothers build all their own buildings, and you think there
+mustn't be too many skilled carpenters amongst their numbers.
+~
+0 F 10
+0
+~
+I 0 D1
+~
+~
+0 0 7905
+D3
+~
+~
+0 0 7907
+D4
+~
+~
+0 0 7908
+S
+#7907
+0 0
+~
+~
+~
+0 0 0
+The Abbey Stables~
+You're standing in the far eastern end of the stables.  It is dark and
+stagnant.  A few dark shapes scuttle about in the corner, and dart between
+the floorboards as soon as you draw near.  There is an old wooden ladder
+leading up into the hay-loft above, and as you glance up you think you can
+make out a dark shape amongst the hay.  You gag violently as you inhale, and
+all you want to do is get out of here...  Obviously the stable hands don't
+clean this area often, if at all.  
+~
+0 F 10
+0
+~
+I 0 D1
+~
+~
+0 0 7906
+D4
+~
+~
+0 0 7909
+S
+#7908
+0 0
+~
+~
+~
+0 0 0
+The Stable's Hayloft~
+You are standing in the eastern end of the stable hayloft.  The worn
+wooden floor extends off to the west, and a small ladder poping out of a
+trapdoor in the middle of the floor leads to the stables below.  Not wishing
+to return to the source of the pungent stench, you stay a while to examine
+the loft.  You notice a small message scrawled on the northern wall in what
+seems to be a redish-white chalk, "White on black to cloak the truth".  What
+could that possibly mean?  Most probably something thought up by some silly
+child to mystify his friends.  
+~
+0 0 10
+0
+~
+I 0 D3
+~
+~
+0 0 7909
+D5
+~
+~
+0 0 7906
+S
+#7909
+0 0
+~
+~
+~
+0 0 0
+The Stable's Hayloft~
+You are in the stable hayloft, which extends to the east.  In the center
+of the room is a small trapdoor with a ladder leading down to the main part
+of the stables.  It is very dark up here, with only the shards of sunlight
+slipping between the shingles of the roof to illuminate the room.  You see
+the dust stirred up by your movement in the light, and are careful not to
+cause too much disturbance.  A large pile of dry hay lies in the middle of
+the room, and a pitchfork rests neatly against it.  
+~
+0 D 10
+0
+~
+I 0 D1
+~
+~
+0 0 7908
+D5
+~
+~
+0 0 7907
+S
+#7910
+0 0
+~
+~
+~
+0 0 0
+Just inside the Main Gate~
+You are standing on a wide, deeply set slate path.  Its black form twists
+its way north like some giant serpent to the bottom of the Abbey Chuch.
+The black stone, quarried in some distand land (for it is found nowhere near)
+makes a stark contrast to the lush green lawn that lies on either side, like
+some deep scar that can never be healed.  You wonder that an Abbey devoted
+to such charitable and compassionate principles fills you with such a feeling
+of forboding, and decide that your mood is simply reflecting the dark wheather.
+~
+0 B 2
+0
+~
+I 0 D0
+~
+~
+0 0 7914
+D2
+~
+~
+0 0 7901
+D3
+~
+~
+0 0 7911
+D5
+~
+secret~
+4193 25711 26911
+S
+#7911
+0 0
+~
+~
+~
+0 0 0
+The Southern Wall of the Great Court~
+You find yourself standing towards the southern part of the Great Court. 
+The encircling wall towers behind you, its age-old stones covered in the
+moss and lichen so abundant in this area.  You wonder at how long it has
+stood there, exposed to the cruel weather, and how much longer it will last.
+The lush green lawn beneath your feet has a strangely springy quality, most
+likely caused by the peat soil beneath.  To the north and west, the Court
+continues, and just to the east, a wide slate path twists its way north.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7939
+D1
+~
+~
+0 0 7910
+D3
+~
+~
+0 0 7912
+S
+#7912
+0 0
+~
+~
+~
+0 0 0
+The Southern Wall of the Great Court~
+You are making your way along the southern wall of the Great Court when
+something catches your eye...  A small gleam hidden amongst the pebbles near
+the foot of the wall.  Making your way over to investigate, you find that it
+is merely a small rock, and although unusual, nothing of consequence.  You
+decide not to linger in this area, as the shadow cast by the tall wall to
+the south cuts out the warming sunlight.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7938
+D1
+~
+~
+0 0 7911
+D3
+~
+~
+0 0 7913
+S
+#7913
+0 0
+~
+~
+~
+0 0 0
+Outside the Brew-and-Bakehouse~
+You are standing outside the Abbey's Brew-and-Bakehouse.  It is here that
+the Abbey's bread is baked and much of its grain is stored.  The building
+seems almost a part of the wall that runs along the south edge of the Great
+Court.  It seems constructed of the same stones, and the masonry work seems
+very similar.  The smell of freshly baked loaves wafts from an open window,
+and you feel compelled to enter (maybe you might be supplied with a sample?)
+.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7937
+D1
+~
+~
+0 0 7912
+D2
+~
+~
+0 0 7917
+D3
+~
+~
+0 0 7931
+S
+#7914
+0 0
+~
+~
+~
+0 0 0
+A path between the Main Gate and the Abbey Church~
+The deeply set slate path winds its way north to the Abbey Church, and
+south to the Main Gate.  The ancient stones warped and twisted out of place
+under the influences of time and the many heavy carts that have made their
+way along its black form, the endless cartwheels pressing the stones deeper.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7915
+D2
+~
+~
+0 0 7910
+D3
+~
+~
+0 0 7939
+S
+#7915
+0 0
+~
+~
+~
+0 0 0
+A path between the Main Gate and the Abbey Church~
+You watch your step as you make your way along the path from the Main
+Gate to the Abbey Church, the raised edges of the slate slabs making it all
+to easy to catch your foot and fall.  You're roughly in the middle of the
+Great Court here, and its size is even more impressive from this vantage
+point.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7916
+D2
+~
+~
+0 0 7914
+D3
+~
+~
+0 0 7928
+S
+#7916
+0 0
+~
+~
+~
+0 0 0
+A path between the Main Gate and the Abbey Church~
+You stand against the northern wall of the Great Court, to the north the
+polished steps of the Church rise up to its main Entry way, and to the south
+the dark slate path winds and twists its way back to the Main Gate.  You
+raise your hand against the sudden gust of wind that seems to sweep down and
+batter you with unusual viciousness.
+~
+0 C 2
+0
+~
+I 0 D0
+~
+~
+0 0 7973
+D2
+~
+~
+0 0 7915
+D3
+~
+~
+0 0 7943
+S
+#7917
+0 0
+~
+~
+~
+0 0 0
+The Brew-and-Bakehouse's Central Room~
+`hThe central room of the brew-and-bakehouse is very simple in its
+design.  The outer walls are made in much the same fashion as the high wall
+which surrounds the Great Court, while the inner walls seem constructed of
+wooden slats.  The smells are amazing, from the east wafts the mouthwatering
+smell of freshly baked bread, and from the east the smell of fermenting
+liquers, an alcoholic drink unique to the monks of this Abbey.  A large
+storeroom lies through an open door to the south.  `` 
+~
+0 C 0
+0
+~
+I 0 D0
+~
+~
+0 0 7913
+D1
+~
+door~
+1 0 7919
+D2
+~
+door~
+1 0 7918
+D3
+~
+~
+0 0 7922
+S
+#7918
+0 0
+~
+~
+~
+0 0 0
+The Brew-and-Bakehouse's Main Storeroom~
+You are amazed that such a large room can be contained within this building
+which, from the outside, seemed relatively small... maybe it's just the
+perspective.  Barrels of wine and liquer line either side of the room, each
+with it's own freshly painted mark on the top of each barrel, some labelling
+system that only the brothers can understand.  The window set high in the
+southern wall looks out across the stream that runs just outside the abbey's
+walls to the thick forrest beyond.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 7917
+S
+#7919
+0 0
+~
+~
+~
+0 0 0
+The Abbey Bakery~
+The bakery is a large room, slightly rectangular in shape.  Along the south
+wall runs a long bench, covered in flour and a variety of doughs and grains. 
+Just above it runs a shelf which holds the various ingredients needed by the
+bakers, various jars holding a range of spices and herbs, used to flavor the
+dough.  The oven entrance is set in the eastern wall, and beside it is a
+rack of trays, awaiting cooking in the large ceramic oven.
+~
+0 X 0
+0
+~
+I 0 D1
+~
+door~
+1 0 7920
+D2
+~
+door~
+1 0 7921
+D3
+~
+door~
+1 0 7917
+S
+#7920
+100 50
+`bYou receive 50 experience for your fiery travels.  Too bad you're now being burnt to a crisp...``~
+~
+~
+0 0 0
+A large Oven~
+You are standing in the bakery's oven... and it is *HOT*.  As soon as you
+step in over the raised brick entrance the heat overwhealms you, and within
+seconds the sweat has begun pouring down.  You feel faint for a second but
+quickly regain your footing, if you don't get out of here fast you think
+you might pass out.
+~
+0 CJX 0
+0
+~
+H-100
+I 0 M-100
+D3
+~
+door~
+1 0 7919
+S
+#7921
+60 100
+~
+~
+~
+0 0 0
+The Granary~
+This is the granary for the bakery, where they store all the grain and
+flour used in baking before it is used.  The room is floored with bricks so
+as to prevent mildew from spoiling the expensive grains.  It is a reasonably
+small room, as the bakery tries to get in fresh grains whenever possible.
+A variety of sacks litter the room, each plump with golden sorgum.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+0 0 7919
+S
+#7922
+0 0
+~
+~
+~
+0 0 0
+The Abbey Brewery~
+This is the abbey brewery. Here the brothers prepare and ferment the liqueurs
+for which they are famous, and a variety of other alcoholic beverages.  To
+the west is a large vat, in which the unusual drink is stored before being
+casked, and to the south is a closed heavy open door.  An unusual smell seems
+to eminate from it, almost like a strange cocktail of decomposing matter and
+alcohol.  The central room of the brew-and-bakehouse is just to the east.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7917
+D2
+~
+door~
+1 0 7925
+D3
+~
+~
+0 0 7923
+S
+#7923
+0 0
+~
+~
+~
+0 0 0
+The Base of a Huge Vat~
+You are standing at the base of a huge vat.  It seems constructed of a
+number of boards, carefully slatted together so that nails, which could rust
+and corrode, were not required.  Around the base is a variety of taps and
+outlets, which must allow the brothers to test the quality without disturbing
+the valuable liqueur within.  A thin ladder runs up the northern side,
+providing access to the top of the vat.  The cask storeroom lies immediately
+to the south, and the main room of the brewery just to the east.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7922
+D2
+~
+~
+0 0 7926
+D4
+~
+~
+0 0 7924
+S
+#7924
+0 0
+~
+~
+~
+0 0 0
+On Top of a Huge Vat~
+The brewery seems alot smaller from here.  You are standing on the top of
+the large vat in which the liqueur is stored before being casked.  There is
+a hatch in the middle of the vat, probably to allow more spices or herbs if
+it is decided that they are needed.  The wooden ladder by which you arrived
+runs back down the northern face of the vat, and you feel it might be a good
+idea to return to the ground, you aren't sure that the top of this vat was
+really designed to support your weight.
+~
+0 0 0
+0
+~
+I 0 D5
+~
+~
+0 0 7923
+S
+#7925
+0 0
+~
+~
+~
+0 0 0
+The Fermentation Room~
+You step into the room, and into total darkness.  There isn't a window, or
+an open door to be seen.  You hold your light source up higher to get a
+better view of the room, just as you do, you notice the wetness that has been
+slowly seeping into your boots, looking down you realise you're standing in
+a layer of mud!  Upon closer examination you realize that it is in fact not
+mud, but a layer of peat.  This is the fermentation room, where the liqueurs
+are left to ferment in a layer of peat, which enhances and enriches their
+natural flavours during the 8 years in which they are left here.  Realising
+that the brothers would probably not appreciate your dirty boots polluting
+their carefully collected peat, you leave quickly.
+~
+0 AJ 0
+0
+~
+I 0 D0
+~
+door~
+1 0 7922
+S
+#7926
+0 0
+~
+~
+~
+0 0 0
+The Cask Storeroom~
+You are standing in the cask storeroom and it certainly lives up to its name.
+The walls are lined with casks -- each wall is covered with them -- from
+floor to ceiling. Each cask is almost small enough for you to wrap your arms
+around.  There is a large pool of liquid over near the eastern wall, and
+you decide that someone must have spilled or dropped a cask to cause such a
+mess.  To the north is the vat in which the liqueur is stored before being 
+transferred to individual casks, and from the west you hear a sound almost
+like hammering.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7923
+D3
+~
+~
+0 0 7927
+S
+#7927
+0 0
+~
+~
+~
+0 0 0
+The Cooper's Workshop~
+This must be the cooper's workshop.  On the various benches which run all
+the way around the room lies a various array of tools and instruments which
+you've never seen before.  In the north eastern corner of the room is a large
+tub, filled with water, in which lies a number of long wooden boards.  In
+the center of the room a half finished cask lies like some animal with its
+rib-cage split open.  Some of the various boards are not yet secured together
+in the precise and necessary way to contain the costly liqueur.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7926
+S
+#7928
+0 0
+~
+~
+~
+0 0 0
+The Great Court~
+As you enter this part of the Court, you feel your feet sink slightly
+into the ground, looking down you notice that the soil here is saturated,
+turned into mud by the runoff from the well just to the east.  Noticing that
+there is a higher piece of ground nearby you make your way to it quickly,
+trying to avoid soiling your boots.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7943
+D1
+~
+~
+0 0 7915
+D2
+~
+~
+0 0 7939
+D3
+~
+~
+0 0 7929
+S
+#7929
+0 0
+~
+~
+~
+0 0 0
+The Well~
+`gThis is the abbey's primary source of fresh water, the well.  Around
+its edge has been constructed a raised wall of quarried stone, designed to
+keep dirt and other debris out of the water, fathoms below.  As you bend
+over and look down, you are unable to make out the water you know lies
+below, the stone walls descending into darkness.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7944
+D1
+~
+~
+0 0 7928
+D2
+~
+~
+0 0 7938
+D3
+~
+~
+0 0 7930
+D5
+~
+~
+0 0 7965
+S
+#7930
+0 0
+~
+~
+~
+0 0 0
+The Great Court~
+This small part of the Court is wedged neatly in between the cordoned
+area of the vegetable garden to the west, and the large well which lies a
+few yards off to the east.  The vegetable garden curves its way around to
+the south as well, limiting your possible exits.  As you make your way along
+you feel a drop of rain on your face.  Judging by the dark clouds brewing
+off to the east this is only the beginning of things to come.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7945
+D1
+~
+~
+0 0 7929
+D2
+~
+~
+0 0 7937
+D3
+~
+~
+0 0 7940
+S
+#7931
+0 0
+~
+~
+~
+0 0 0
+The Southern Wall of the Great Court~
+As you make your way along the southern most part of the Great Court you
+notice a strange odor.  Unlike the lovely smell of freshly baked loaves
+which eminates from the Brew-and-Bakehouse, this is the smell of death, a
+vile stench which makes you gag when you breath deeply.  Looking around you
+discover its source:  hidden behind a smallr ise is the corpse of a dead
+fox.  Both it's eyes have been gouged out and a small horde of insects and
+grubs have already begun their work.  You quickly back away and continue on.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7936
+D1
+~
+~
+0 0 7913
+D3
+~
+~
+0 0 7932
+S
+#7932
+0 0
+~
+~
+~
+0 0 0
+Outside the Barn~
+You are standing outside the Abbey's main barn, it is here that hay is
+stored to feed the various animals around the Abbey, and the mounts of the
+many visitors which come to take in the aesthetic and religious pleasures of
+the grounds.  The lush lawn of the Great Court continues to the east and
+west, and to the north you can make out the orderly furrows of the vegetable
+garden cordoned off with a length of tape around its perimiter.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7935
+D1
+~
+~
+0 0 7931
+D2
+~
+door~
+1 0 7960
+D3
+~
+~
+0 0 7933
+S
+#7933
+0 0
+~
+~
+~
+0 0 0
+The South-Western Wall of the Great Court~
+You are standing in the south-western corner of the Great Court.  From
+here you can stand facing north-east and take in almost the entire court, it
+truly is enourmous.  You notice that in the corner the wall seems to have
+crumbled a little faster than along the remainder of it's length, and a few
+weeds seem to have traced their way in from the outside fields, making their
+way in through a number of cracks and schisms in the old and worn stones.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7934
+D1
+~
+~
+0 0 7932
+S
+#7934
+0 0
+~
+~
+~
+0 0 0
+The Western Wall of the Great Court~
+You are standing against the western wall of the Great Court.  You feel a
+little tired and decide to rest for a while against the high stone wall.  As
+you lean against it you feel a sharp pain in your shoulder, and look around
+to find yourself bleeding from a small wound.  You take a closer look at the
+wall and find a small metal spike protruding from one of the larger stones
+around shoulder height, what could that be doing there!  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7942
+D1
+~
+~
+0 0 7935
+D2
+~
+~
+0 0 7933
+S
+#7935
+0 0
+~
+~
+~
+0 0 0
+The Great Court~
+This section of the Great Court seems much like all the others you have
+come across, an expanse of open lawn, continuing off to all sides bar the
+east, where you can make out the Abbey's vegetable garden.  Noticing nothing
+of interest you continue on your way, not wishing to spend longer in the
+harsh wind than is really necessary.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7941
+D1
+~
+~
+0 0 7936
+D2
+~
+~
+0 0 7932
+D3
+~
+~
+0 0 7934
+S
+#7936
+0 0
+~
+~
+~
+0 0 0
+The Vegetable Garden~
+This is the main section of the vegetable garden, from here it extends to
+the north and east, with only the lawn of the Great Court to the south and
+west.  Unlike the part just to the east, this part of the garden is
+producing many vegetables along with various vines and shrubs that are
+hanging with tomatos, potatoes and any other vegetable that you can imagine,
+and some you've never seen before.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7940
+D1
+~
+~
+0 0 7937
+D2
+~
+~
+0 0 7931
+D3
+~
+~
+0 0 7935
+S
+#7937
+0 0
+~
+~
+~
+0 0 0
+The Vegetable Garden~
+This is one of Erion Abbey's main sources of food, their vegetable
+garden.  The garden is shaped roughly like a huge 'L', and this section is
+the bottom protrusion, off to the east of the main body.  The ground has
+been plowed recently, and the orderly furrows are ready to be planted in.
+Around the edge of the garden runs a bright red tape, which is clearly
+designed to keep unwanted people from trampling the vegetables, maybe you'd
+best be moving on...  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7930
+D1
+~
+~
+0 0 7938
+D2
+~
+~
+0 0 7913
+D3
+~
+~
+0 0 7936
+S
+#7938
+0 0
+~
+~
+~
+0 0 0
+The Great Court~
+You are standing somewhere in the middle of the Abbey's Great Court, it
+is hard to fix your precise location when the only marks in the middle of
+the expanse of lawn are a few small trees, and the vegetable garden which
+you can see just off to your west.  As you make your way across the lawn you
+are struck by the total order of this place, not a blade of grass out of
+place, even the leaves from the trees seem to have fallen according to some
+greater plan.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7929
+D1
+~
+~
+0 0 7939
+D2
+~
+~
+0 0 7912
+D3
+~
+~
+0 0 7937
+S
+#7939
+0 0
+~
+~
+~
+0 0 0
+The Great Court~
+You make your way across the lush grass all around, careful not to crush
+underfoot the various flowers and small shrubs that have shot up in the rich
+red-brown soil.  A small mound draws your attention, and upon closer
+examination it turns out to be the entrance to some kind of underground
+tunnel, probably dug by a rabbit or some such animal.  All around the lush
+green of the Great Court continues, and to the east a slate path makes its
+way north and south.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7928
+D1
+~
+~
+0 0 7914
+D2
+~
+~
+0 0 7911
+D3
+~
+~
+0 0 7938
+S
+#7940
+0 0
+~
+~
+~
+0 0 0
+The Vegetable Garden~
+This section of the vegetable garden seems dedicated to producing a
+variety of unusual herbs and spices, numerous small bushes with unusual
+foliage grow in orderly rows the length of the garden.  You decide that
+these must be the herbs used in baking, and the production of the Abbey's
+famed liqueurs.  A piece of red tape runs the perimeter of the garden,
+probably designed to keep people like you off the delicate plants!  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7946
+D1
+~
+~
+0 0 7930
+D2
+~
+~
+0 0 7936
+D3
+~
+~
+0 0 7941
+S
+#7941
+0 0
+~
+~
+~
+0 0 0
+A Coppice of Elms~
+This section of the Great Court's lawn is a little less green than the rest,
+probably because of the shade cast by the coppice of native elms that lies
+in the middle of the area.  They are grouped tightly together, and provide
+an unusual break from the uniform expanse of the Court.  The trees seem well
+cared for, and have obviously been planted in a careful arangement.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7947
+D1
+~
+~
+0 0 7940
+D2
+~
+~
+0 0 7935
+D3
+~
+~
+0 0 7942
+S
+#7942
+0 0
+~
+~
+~
+0 0 0
+The Western Wall of the Great Court~
+You are standing at the foot of the Western wall of the Great Court, its
+emerald expanses continuing to north, east and south.  There is an unusual
+patch of dirt over close to the base of the wall, and you move closer to
+have a look.  As you approach, you discover that it is not just a bare patch
+of dirt, but actually a small ant hill.  The carefully engineered mound
+perfect in it's design, a minature army making it's way from the central
+tunnel to the forrest of grass inches beyond.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7948
+D1
+~
+~
+0 0 7941
+D2
+~
+~
+0 0 7934
+S
+#7943
+0 0
+~
+~
+~
+0 0 0
+The Northern Wall of the Great Court~
+You are standing against the northern wall of the Abbey's Great Court, its
+massive stone bulk towering above you.  Behind it you can make out the spires
+and towers of the majestic Cathedral rise to the clouds above.  To the east
+you see a winding black path, leading south the the Main Gate, its form like
+some unremovable scar on the lush green lawns of the court.
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 7916
+D2
+~
+~
+0 0 7928
+D3
+~
+~
+0 0 7944
+S
+#7944
+0 0
+~
+~
+~
+0 0 0
+The Northern Wall of the Great Court~
+As you are making your way across the court a piercing scream shatters
+the peaceful serenity.  It seems to come from behind the northern wall,
+which runs just yards north.  Again another scream eminates from the wall,
+what could possibly be going on there?  To the west there seems to be the
+entrance to some building, maybe the brothers there might be able to explain
+them.  
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 7943
+D2
+~
+~
+0 0 7929
+D3
+~
+~
+0 0 7945
+S
+#7945
+0 0
+~
+~
+~
+0 0 0
+Outside the Infirmary~
+You are standing outside what you realise must be the Abbey's infirmary. 
+It is here where the Brothers of the Order bring their sick and dying, and
+do their best to heal them of their ailment, or at least relieve a little of
+their suffering.  The infirmary is just to the north of here, and seems
+almost hidden behind the bulk of the wall.  
+~
+0 C 2
+0
+~
+I 0 D0
+~
+~
+0 0 7950
+D1
+~
+~
+0 0 7944
+D2
+~
+~
+0 0 7930
+D3
+~
+~
+0 0 7946
+S
+#7946
+0 0
+~
+~
+~
+0 0 0
+The Northern Wall of the Great Court~
+This part of the Northern wall seems rather unusual.  Unlike the rest of
+the wall which surrounds the Court, its stones are placed in an orderly
+manner, arranged in something like the pattern used for stacking bricks.
+Just to the east of here is the entrance to the Infirmary, and a few yards
+to the west you can make out a large iron gate, but cannot see what lies
+beyond.
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 7945
+D2
+~
+~
+0 0 7940
+D3
+~
+~
+0 0 7947
+S
+#7947
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Abbey Cemetery~
+Into this part of the northern wall is set a large iron gate. 
+Origionally it must have been painted a dark green, but now all that remains
+is a few flakes of the paint, mingled with the rust that is quickly
+engulfing the exposed metal.  Looking through the gate you make out what
+seems to be a cemetary beyond.  
+~
+0 C 2
+0
+~
+I 0 D0
+~
+gate~
+1 0 7949
+D1
+~
+~
+0 0 7946
+D2
+~
+~
+0 0 7941
+D3
+~
+~
+0 0 7948
+S
+#7948
+0 0
+~
+~
+~
+0 0 0
+The North-Western Wall of the Great Court~
+This corner of the Court is unusually quiet and peaceful.  Here you are
+protected from the buffetting winds that whip in from the north, and the
+warming rays of the sun shine through a break in the coulds to warm your
+face and hands.  This truly is a beautiful place and you are sure that
+at least one of the brothers must be devoted to the care of the Court.
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 7947
+D2
+~
+~
+0 0 7942
+S
+#7949
+60 25
+~
+~
+~
+0 0 0
+The Abbey Cemetery~
+This is the Abbey's cemetary, where they bring the dead to lie in eternal
+peace.  The ground is rough and clay-like and with the recent rain it has
+turned to slush.  Tombstones are everywhere, and some have begun to crack
+and decay with the passing of time.  You tread deliberately careful not to
+desecrate any of the graves by damaging the markers of the dead.  
+~
+0 0 14
+0
+~
+I 0 D1
+~
+door~
+1 0 7957
+D2
+~
+door~
+1 0 7947
+S
+#7950
+0 0
+~
+~
+~
+0 0 0
+The Infirmary Reception~
+The reception is a rather small room, with doors leading in all
+directions.  Against one wall a small wooden bench is provided so you can
+rest while you wait.  You hear moans and an occasional scream coming from
+the east, and you can see a surgical theater through an ajar door to the
+north.  You don't like this place at all, the smell of death is everywhere. 
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7958
+D1
+~
+~
+0 0 7951
+D2
+~
+~
+0 0 7945
+D3
+~
+~
+0 0 7957
+S
+#7951
+0 0
+~
+~
+~
+0 0 0
+A long hallway~
+This is the passage which leads to the many wards where the sick and
+dying are cared for.  The freshly whitewashed walls give the impression of
+cleanliness, despite the dirt and grime that cakes the floor.  You hurry on,
+not wishing to linger for too long in this place of sadness and death.  The
+passage continues to the east, and the infirmary's reception lies just to
+the west.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 7956
+D1
+~
+~
+0 0 7952
+D3
+~
+~
+0 0 7950
+S
+#7952
+0 0
+~
+~
+~
+0 0 0
+A long hallway~
+This is the passageway which runs to all the wards of the infirmary.  It
+provides the nurses with easy access to the sick and ill.  It is not really
+surprising that there are so many ill, the last winter was a harsh one, and
+many elderly have taken ill.  The passage continues to the east and west, and
+one of the small wards lies through an open door to the north.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 7954
+D1
+~
+~
+0 0 7953
+D3
+~
+~
+0 0 7951
+S
+#7953
+0 0
+~
+~
+~
+0 0 0
+A long hallway~
+You've reached the end of the passage.  In the corner you notice what seems
+to be a pile of human waste, not yet cleaned up.  From here the passage
+streches back to the west, eventually reaching the reception.  One of the
+small wards lies just to the north of the passage, through a door which has
+been left slightly ajar.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 7955
+D3
+~
+~
+0 0 7952
+S
+#7954
+0 0
+~
+~
+~
+0 0 0
+An Infirmary Ward~
+This is one of the small wards where the Brothers are bought when they are
+sick or dying.  It is here that they are treated and cared for by the
+infirmary staff.  The room is small and darkly lit, with only a bed against
+the western wall.  A door to the south leads out to the passage outside.
+You don't like this place at all, the smell of death and constant moans make
+you very uncomfortable.
+~
+0 D 0
+0
+~
+H10
+I 0 D2
+~
+~
+0 0 7952
+S
+#7955
+0 0
+~
+~
+~
+0 0 0
+An Infirmary Ward~
+This is one of the small wards where the Brothers are bought when they are
+sick or dying.  It is here that they are treated and cared for by the
+infirmary staff.  The room is small and darkly lit, with only a bed against
+the western wall.  A door to the south leads out to the passage outside.
+You don't like this place at all, the smell of death and constant moans make
+you very uncomfortable.
+~
+0 D 0
+0
+~
+H10
+I 0 D2
+~
+door~
+1 0 7953
+S
+#7956
+0 0
+~
+~
+~
+0 0 0
+An Infirmary Ward~
+This is one of the small wards where the Brothers are bought when they are
+sick or dying.  It is here that they are treated and cared for by the
+infirmary staff.  The room is small and darkly lit, with only a bed against
+the western wall.  A door to the south leads out to the passage outside.
+You don't like this place at all, the smell of death and constant moans make
+you very uncomfortable.
+~
+0 D 0
+0
+~
+H10
+I 0 D2
+~
+~
+0 0 7951
+S
+#7957
+0 0
+~
+~
+~
+0 0 0
+The Morgue~
+The morgue is large, and alot like you would expect.  On the benches around
+the room lie a variety of balms and bandages, and on a large metal table in
+the middle of the room lies a fresh cadaver.  It is here that the dead are
+prepared for their burial according to the ancient rites of Erion, dating
+back to a time before time.  There is a door to the west which leads out to
+the cemetary, and one to the east leading to the infirmary's reception.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 7950
+D3
+~
+door~
+1 0 7949
+S
+#7958
+0 0
+~
+~
+~
+0 0 0
+A small operating theater~
+This operating theatre is very sparse in its furnishings.  A long metal
+This operating theater is very sparse in its furnishings.  A long metal
+array of trays rests against the northern wall with various scalples and
+instruments resting in them.  It is here that the Brothers perform what
+rudeimentary surgery they are capable of in order to save their brothers. 
+They refuse to allow trained doctors to aid them, claiming it violates the
+rules of Erion.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7950
+D3
+~
+~
+0 0 7959
+S
+#7959
+0 0
+~
+~
+~
+0 0 0
+The Infirmary Storeroom~
+This small storeroom is where much of the bandages and balms are stored for 
+use.  All the elixirs and potions used by the Monks in treatment of illnesses  
+are stored here, along with many of the ingredients used to make them. Just
+to the east you can make out a small operating theater which leads back to
+the infirmary's reception.     
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 7958
+S
+#7960
+0 0
+~
+~
+~
+0 0 0
+The Barn Floor~
+This barn is huge!  The walls extend off into the darkness, and a very unusual
+affect is created by the sunlight creeping in through the slats that make up
+the high walls of the barn.  Through the door to the north you can see the
+lush green expanses of the Great Court.  To the south and west the barn
+continues into darkness.
+~
+0 CD 10
+0
+~
+I 0 D0
+~
+door~
+1 0 7932
+D2
+~
+~
+0 0 7961
+D3
+~
+~
+0 0 7963
+S
+#7961
+0 0
+~
+~
+~
+0 0 0
+The Barn Floor~
+This corner of the barn is very cluttered.  Various tools and implements
+used for farming are resting against the old and worn walls.  A large stack
+of hay lies just to your south, and you try to hold in a sneeze, but fail, and
+it sends an even bigger cloud of dust into the air.  The barn continues to the
+north and west.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 7960
+D3
+~
+~
+0 0 7962
+S
+#7962
+0 0
+~
+~
+~
+0 0 0
+The Barn Floor~
+This part of the barn is hidden in shadow, and it seems to have been
+neglected by whoever's responsibility it is to clean this place.  In the
+corner you can make out a pile of hay with what seems to be a dark shape in
+it.  You turn to inspect the area and turn up a cloud of dust.  Trying to
+cover your face with your sleeve you back towards the centre of the barn,
+away from the dust.
+~
+0 D 10
+0
+~
+I 0 D0
+~
+~
+0 0 7963
+D1
+~
+~
+0 0 7961
+S
+#7963
+0 0
+~
+~
+~
+0 0 0
+The Barn Floor~
+This is the northern part of the Abbey's large barn, which is constructed
+in the sourthern section of the Great Court.  The western wall is made of
+a kind of cedar found around these parts, slatted together at an angle such
+that the rain and snow runs off.  The northern wall is of a similar construction
+with the slats slightly smaller for a more pleasing affect on the eye.
+~
+0 D 10
+0
+~
+I 0 D1
+~
+~
+0 0 7960
+D2
+~
+~
+0 0 7962
+S
+#7964
+0 0
+~
+~
+~
+0 0 0
+The Room of Regeneration~
+`oThis is the room where those with wounds of a physical nature are taken
+to heal and become strong.  It is said that Erion himself has blessed it,
+and looking around you think that maybe that legend is not wholely unfounded.
+You feel strangely at peace here, and you suddently feel the pains and aches
+of travelling almost wash out of your body.``
+~
+0 CD 0
+0
+~
+H120
+I 0 S
+#7965
+0 0
+~
+~
+~
+0 0 0
+The Bottom of the Well~
+This is the bottom of the well.  The sides of the well seem to be constructed
+of roughly hewn stones fitted together, but it's hard to tell, as they are
+all covered in a strange form of algae.  The water is not that clear, and
+you can make out little if anything of what is around you.  You're starting to
+run out of breath!!!
+~
+0 AC 11
+0
+~
+I 0 D0
+~
+~
+0 0 7966
+D4
+~
+~
+0 0 7929
+S
+#7966
+0 0
+~
+~
+~
+0 0 0
+A small underwater passage~
+You are swimming along a narrow passage beneath the Great Court of Erion
+Abbey.  The water is dark and cloudy, and you can make out little ahead or
+behind you.  The tunnel's walls are made of a roughly hewn stone that is
+covered in an unusual green-blue algae.  This must be some kind of sewage
+drain, or possibly a source of water for within the walls of the actual
+Abbey Church.
+~
+0 A 11
+0
+~
+I 0 D0
+~
+~
+0 0 7967
+D2
+~
+~
+0 0 7965
+S
+#7967
+0 0
+~
+~
+~
+0 0 0
+A small underwater passage~
+You are swimming along a narrow passage beneath the Great Court of Erion
+Abbey.  The water is dark and cloudy, and you can make out little ahead or
+behind you.  The tunnel's walls are made of a roughly hewn stone that is
+covered in an unusual green-blue algae.  This must be some kind of sewage
+drain, or possibly a source of water for within the walls of the actual
+Abbey Church.
+~
+0 A 11
+0
+~
+I 0 D1
+~
+~
+0 0 7968
+D2
+~
+~
+0 0 7966
+S
+#7968
+0 0
+~
+~
+~
+0 0 0
+A small underwater passage~
+You are swimming along a narrow passage beneath the Great Court of Erion
+Abbey.  The water is dark and cloudy, and you can make out little ahead or
+behind you.  The tunnel's walls are made of a roughly hewn stone that is
+covered in an unusual green-blue algae.  This must be some kind of sewage
+drain, or possibly a source of water for within the walls of the actual
+Abbey Church.
+~
+0 A 11
+0
+~
+I 0 D0
+~
+~
+0 0 7969
+D3
+~
+~
+0 0 7967
+S
+#7969
+0 0
+~
+~
+~
+0 0 0
+A small underwater passage~
+You are swimming along a narrow passage beneath the Great Court of Erion
+Abbey.  The water is dark and cloudy, and you can make out little ahead or
+behind you.  The tunnel's walls are made of a roughly hewn stone that is
+covered in an unusual green-blue algae.  This must be some kind of sewage
+drain, or possibly a source of water for within the walls of the actual
+Abbey Church.
+~
+0 A 11
+0
+~
+I 0 D0
+~
+~
+0 0 7970
+D2
+~
+~
+0 0 7968
+S
+#7970
+60 200
+~
+~
+~
+0 0 0
+The Metal Grate~
+You have reached the end of the passage as far as you're concerned.
+Across the tunnel lies a huge metal grate, obviously it was put there
+many years ago to prevent people using this tunnel as a means to gain
+access to the Abbey.  Although they are a peace-loving religeon, the
+followers of Erion are acutely aware that not everyone else holds their
+beliefs.
+~
+0 ACb 11
+0
+~
+I 0 D2
+~
+~
+0 0 7969
+D4
+~
+door~
+4193 7957 26172
+D5
+~
+~
+0 0 490
+S
+#7971
+0 0
+exp 100~
+~
+~
+0 0 0
+Inside the Haystack~
+`dAll is quiet within the barn and not a sound can be heard.  It is warm
+here inside the haystack and the hay is so soft here it would be easy to
+drift off to sleep.  That would not be advisable, however, as one of the
+Abbey's brothers may come along with a pitchfork and accidentally stab you
+with it as he gathers some hay together to feed the Abbey's horses.  `` 
+~
+0 CDJT 0
+0
+~
+I 0 D5
+~
+tombstone~
+321 25706 26099
+S
+#7972
+0 666
+`k[`cYou gain 666 experience points for your courageous explorations`k]``~
+~
+~
+0 512 0
+The Abbey Cemetery~
+`aThis is the Abbey's cemetary, where they bring the dead to lie in eternal
+peace.  The ground is rough and clay-like and with the recent rain it has
+turned to slush.  Tombstones are everywhere, and some have begun to crack
+and decay with the passing of time.  You tread deliberately careful not to
+desecrate any of the graves by damaging the markers of the dead.``
+~
+0 NT 0
+0
+~
+I 0 D1
+~
+door~
+1 0 7957
+D2
+~
+door~
+1 0 7947
+S
+#7973
+0 0
+~
+~
+~
+1024 0 0
+Steps of the Abbey Church~
+The steps of the abbey church lead up to a simple building.  An ubiquitous
+sence of peacefulness and inner satisfaction wells up inside you as you gaze
+around and realize that the important things in life are found all around you.
+These monks and novices have given up complicated lives, prefering to toil
+in the ground in complete freedom.  It's very relaxing.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7916
+D4
+~
+~
+0 0 7974
+S
+#7974
+0 0
+~
+~
+~
+1024 0 0
+Abbey Church~
+The church sits on a small hill overlooking the abbey.  Looking down the steps
+of the church, you see the grounds of the abbey spread out to the southwest.
+Throughout the compound, brothers, novices, and farmers tend to their crops
+and go about their daily chores in a life of simple introspection.
+~
+0 0 0
+0
+~
+I 0 D5
+~
+~
+0 0 7973
+S
+#7980
+0 0
+~
+$n emerges from the mist.~
+$n wanders off and disappears into the mists.~
+0 512 0
+A Darker Part of the Graveyard~
+`aYou never knew this part of the graveyard existed, but it looks as
+though it's been here for many years.  Large trees spread their branches
+overhead, blocking out all light and a dense fog hangs perpetually in the
+air.  This place feels evil, and as you look through the mist at the ground
+beneath your feet, you see the ground is fresh and broken, as though ancient
+graves have been dug open.  `` 
+~
+0 AN 2
+0
+~
+I 0 D1
+~
+~
+0 0 7949
+D2
+~
+~
+0 0 7948
+D5
+~
+~
+0 0 7900
+S
+#0
+
+#RESETS
+D 0 7902   1    1	* The Almonry [east]
+D 0 7903   3    1	* The Almonry Store Room [west]
+D 0 7901   1    0	* The Main Gate of Erion Abbey [east]
+D 0 7902   3    0	* The Almonry [west]
+D 0 7919   1    1	* The Abbey Bakery [east]
+D 0 7920   3    1	* A large Oven [west]
+D 0 7919   2    1	* The Abbey Bakery [south]
+D 0 7917   2    1	* The Brew-and-Bakehouse's Central Room [south]
+D 0 7918   0    1	* The Brew-and-Bakehouse's Main Storeroom [north]
+D 0 7917   1    0	* The Brew-and-Bakehouse's Central Room [east]
+D 0 7919   3    0	* The Abbey Bakery [west]
+D 0 7957   3    1	* The Morgue [west]
+D 0 7949   1    1	* The Abbey Cemetery [east]
+D 0 7960   0    0	* The Barn Floor [north]
+D 0 7922   2    1	* The Abbey Brewery [south]
+D 0 7925   0    1	* The Fermentation Room [north]
+D 0 7949   2    1	* The Abbey Cemetery [south]
+M 0 7901   1 7901  1	* A welcoming monk
+E 0 7901   -1   12	* item to A welcoming monk
+M 0 7902   1 7905  1	* The stable master
+E 0 7902   -1   16	* item to The stable master
+G 0 7903 -1		* A bottle of leather polish to The stable master
+M 0 7907   1 7963  1	* A babbling young man
+M 0 7908   1 7927  1	* The cooper
+E 0 7907   -1   16	* item to The cooper
+E 0 7908   -1   13	* item to The cooper
+M 0 7910   1 7923  1	* The head wine maker
+E 0 7909   -1   18	* item to The head wine maker
+M 0 7909   4 7926  2	* A wine maker
+M 0 7909   4 7924  2	* A wine maker
+E 0 7911   -1    3	* item to A wine maker
+M 0 7909   4 7922  2	* A wine maker
+E 0 7911   -1    3	* item to A wine maker
+O 0 7912   0 7925 1	* The pool of liqueur at The Fermentation Room
+O 0 7914   0 7920 5	* A half-cooked loaf of bread at A large Oven
+O 0 7917   0 7957 1	* ``a steel autopsy table at The Morgue
+M 0 7913   1 7957  1	* The mortician
+E 0 7918   -1   16	* item to The mortician
+O 0 7921   0 7964 1	* A bubbling fountain at The Room of Regeneration
+M 0 7912   3 7954  1	* A sickly brother
+M 0 7912   3 7956  1	* A sickly brother
+M 0 7916   6 7953  1	* A nurse
+M 0 7916   6 7952  1	* A nurse
+M 0 7916   6 7951  1	* A nurse
+M 0 7916   6 7950  1	* A nurse
+M 0 7916   6 7959  1	* A nurse
+M 0 7917  20 7946  2	* A visitor to the abbey
+M 0 7905  12 7910  1	* A brother of erion
+M 0 7918  12 7910  1	* A young novice
+M 0 7917  12 7910  1	* A visitor to the abbey
+M 0 7920  12 7911  1	* A brother of erion
+M 0 7921  12 7911  1	* A young novice
+M 0 7922  12 7911  1	* A poor farmer
+M 0 7905  12 7912  1	* A brother of erion
+M 0 7918  12 7912  1	* A young novice
+M 0 7917  12 7912  1	* A visitor to the abbey
+M 0 7920  12 7931  1	* A brother of erion
+M 0 7921  12 7931  1	* A young novice
+M 0 7922  12 7931  1	* A poor farmer
+M 0 7905  12 7933  1	* A brother of erion
+E 0 7901   -1   12	* item to A brother of erion
+M 0 7918  12 7933  1	* A young novice
+M 0 7917  12 7933  1	* A visitor to the abbey
+M 0 7920  12 7934  1	* A brother of erion
+M 0 7921  12 7934  1	* A young novice
+M 0 7922  12 7934  1	* A poor farmer
+M 0 7905  12 7935  1	* A brother of erion
+M 0 7918  12 7935  1	* A young novice
+M 0 7917  12 7935  1	* A visitor to the abbey
+M 0 7920  12 7936  1	* A brother of erion
+M 0 7921  12 7936  1	* A young novice
+M 0 7922  12 7936  1	* A poor farmer
+M 0 7905  12 7937  1	* A brother of erion
+E 0 7901   -1   12	* item to A brother of erion
+M 0 7918  12 7937  1	* A young novice
+M 0 7917  12 7937  1	* A visitor to the abbey
+M 0 7920  12 7938  1	* A brother of erion
+M 0 7921  12 7938  1	* A young novice
+M 0 7922  12 7938  1	* A poor farmer
+M 0 7905  12 7939  1	* A brother of erion
+M 0 7918  12 7939  1	* A young novice
+M 0 7917  12 7939  1	* A visitor to the abbey
+M 0 7920  12 7914  1	* A brother of erion
+M 0 7905  12 7915  1	* A brother of erion
+M 0 7918  12 7915  1	* A young novice
+M 0 7917  12 7915  1	* A visitor to the abbey
+M 0 7920  12 7928  1	* A brother of erion
+M 0 7921  12 7928  1	* A young novice
+M 0 7922  12 7928  1	* A poor farmer
+M 0 7905  12 7929  1	* A brother of erion
+M 0 7918  12 7929  1	* A young novice
+M 0 7917  12 7929  1	* A visitor to the abbey
+M 0 7920  12 7930  1	* A brother of erion
+M 0 7921  12 7930  1	* A young novice
+M 0 7922  12 7930  1	* A poor farmer
+M 0 7905  12 7940  1	* A brother of erion
+M 0 7918  12 7940  1	* A young novice
+M 0 7917  12 7940  1	* A visitor to the abbey
+M 0 7920  12 7941  1	* A brother of erion
+E 0 7901   -1   12	* item to A brother of erion
+M 0 7921  12 7941  1	* A young novice
+M 0 7922  12 7941  1	* A poor farmer
+M 0 7905  12 7942  1	* A brother of erion
+M 0 7918  12 7942  1	* A young novice
+M 0 7917  12 7942  1	* A visitor to the abbey
+M 0 7920  12 7948  1	* A brother of erion
+M 0 7921  12 7948  1	* A young novice
+M 0 7922  12 7948  1	* A poor farmer
+M 0 7918  12 7946  1	* A young novice
+M 0 7917  12 7946  1	* A visitor to the abbey
+M 0 7920  12 7944  1	* A brother of erion
+M 0 7921  12 7944  1	* A young novice
+M 0 7922  12 7944  1	* A poor farmer
+M 0 7905  12 7943  1	* A brother of erion
+E 0 7901   -1   12	* item to A brother of erion
+M 0 7918  12 7943  1	* A young novice
+M 0 7917  12 7943  1	* A visitor to the abbey
+M 0 7904   1 7902  1	* The almoner
+E 0 7901   -1   12	* item to The almoner
+M 0 7922  12 7902  2	* A poor farmer
+O 0 7923   0 7903 2	* A huge barrel at The Almonry Store Room
+P 0 7924 -1 7923 1
+M 0 7903   5 7906  1	* A young stable hand
+M 0 7903   5 7909  1	* A young stable hand
+M 0 7903   5 7908  1	* A young stable hand
+M 0 7923   2 7907  1	* A horse
+M 0 7923   2 7906  1	* A horse
+O 0 7913   0 7918 5	* A sack of grain at The Brew-and-Bakehouse's Main Storeroom
+O 0 7913   0 7921 5	* A sack of grain at The Granary
+M 0 7911   2 7919  2	* The baker
+E 0 7916   -1   18	* item to The baker
+G 0 7915 -1		* `ha bottle of milk`` to The baker
+M 0 7924   1 7919  1	* The baker
+M 0 7914   2 7949  2	* A mourning woman
+E 0 7919   -1    6	* item to A mourning woman
+M 0 7925   1 7949  1	* A mourning man
+M 0 7915   1 7958  1	* The surgeon
+E 0 7918   -1   17	* item to The surgeon
+E 0 7920   -1   12	* item to The surgeon
+M 0 7919   2 7936  1	* `da scarecrow``
+M 0 7919   2 7940  1	* `da scarecrow``
+M 0 7926   7 7966  2	* A pale white fish
+M 0 7926   7 7967  2	* A pale white fish
+M 0 7926   7 7968  2	* A pale white fish
+M 0 7926   7 7969  2	* A pale white fish
+M 0 7926   7 7970  2	* A pale white fish
+O 0 7925   0 7970 1	* `o the metal grate`` at The Metal Grate
+O 0 7926   0 7950 1	* A shimmering gate at The Infirmary Reception
+O 0 7927   0 7964 1	* A shimmering gate at The Room of Regeneration
+M 0 7922  12 7914  1	* A poor farmer
+M 0 7921  12 7914  1	* A young novice
+E 0 7928   -1   12	* item to A young novice
+E 0 7929   -1    3	* item to A young novice
+O 0 7930   0 7962 -1	* `dthe haystack`` at The Barn Floor
+O 0 7906   0 7971 -1	* `dthe haystack`` at Inside the Haystack
+M 0 7928   1 7980  1	* The necromancer
+E 0 7931   -1    2	* item to The necromancer
+E 0 7942   -1   16	* item to The necromancer
+E 0 7943   -1   12	* item to The necromancer
+M 0 7927   2 7980  1	* A rotting zombie
+E 0 7944   -1    3	* item to A rotting zombie
+G 0 7945 -1		* `aa patch of mist`` to A rotting zombie
+O 0 7946   0 7900 -1	* The rotting corpse at `aInside a fresh grave``
+P 0 7947 1 7946 1
+D 0 7947   0    1	* Entrance to the Abbey Cemetery [north]
+M 0 7931   2 7929  2	* A young novice
+M 0 7932   2 7930  2	* A brother of erion
+O 0 7950   0 7929 -1	* A wooden bucket at The Well
+O 0 7951   0 7940 -1	* A stone bench at The Vegetable Garden
+O 0 7954   0 7972 -1	* A cracked tombstone at The Abbey Cemetery
+M 0 7934   1 7972  1	* `ba`i vengeful`b spirit``
+E 0 7953   -1    3	* item to `ba`i vengeful`b spirit``
+D 0 7972   2    1	* The Abbey Cemetery [south]
+D 0 7972   1    1	* The Abbey Cemetery [east]
+O 0 7952   0 7949 -1	* A cracked tombstone at The Abbey Cemetery
+M 0 7935   1 7955  1	* An infected sailor
+D 0 7955   2    2	* An Infirmary Ward [south]
+D 0 7953   0    2	* A long hallway [north]
+M 0 7937   1 7949  1	* Your father
+O 0 7955   0 7916 -1	* A sign at A path between the Main Gate and the Abbey Church
+D 0 7904   0    2	* Watchtower above the Main Gate [north]
+M 0 7936   1 7974  1	* `hthe master monk of erion``
+E 0 7956   -1   14	* item to `hthe master monk of erion``
+D 0 7971   5    2	* Inside the Haystack [down]
+D 0 7970   4    2	* The Metal Grate [up]
+D 0 7910   5    1	* Just inside the Main Gate [down]
+O 0 7   0 7910 -1	* The symbol at Just inside the Main Gate
+O 0 7958   0 7903 1	* `aa crack in the wall.`` at The Almonry Store Room
+M 0 7906   1 7916  1	* The abbot of erion
+E 0 7905   -1   12	* item to The abbot of erion
+G 0 8199 -1		* `ka holy collar of light`` to The Abbot of Erion
+M 0 7933   1 7916  1	* `can`d a`cm`ba`dz`co`bn`c warrior in disguise``
+E 0 7948   -1   16	* item to `can`d a`cm`ba`dz`co`bn`c warrior in disguise``
+E 0 7949   -1   11	* item to `can`d a`cm`ba`dz`co`bn`c warrior in disguise``
+G 0 7959 -1		* `da hand written note`` to `cAn`d A`cm`ba`dz`co`bn`c warrior in disguise``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 7905 spec_cast_healer		* A Brother of Erion
+M 7906 spec_cast_adept		* The Abbot of Erion
+M 7927 spec_cast_undead		* A rotting zombie
+M 7928 spec_cast_undead		* The necromancer
+M 7932 spec_cast_healer		* A Brother of Erion
+S
+
+#OT
+#8199
+`kOT - holy collar``~
+$on_tick~
+536870912
+71
+`kA holy collar pulsates with a radiant holy light!``~
+100
+0
+tell $name Find the female paladin, she can help us!~
+10
+0
+tell $name I must be re-assembled to help defeat the evil!~
+50
+0
+tell $name I am protected by ten caretakers of the purest character.~
+50
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#0
+#$

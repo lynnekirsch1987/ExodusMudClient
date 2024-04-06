@@ -1,0 +1,4395 @@
+#AREA
+ 6~
+fnerra.are~
+`cFulk Nerra``~
+{10 30} Tarant  `cFulk Nerra``~
+~
+20951 21051
+9 0 4006
+0 0
+~
+#MOBILES
+#20952
+serf man~
+`hA serf``~
+``A raggedly dressed, emaciated man stands here.
+~
+`gThis man is pathetic.  It looks like he hasn't eaten in weeks and flies are
+buzzing around him.  His clothes are rags, barely staying on him and full of
+holes.  He has no shoes, but has more rags on his feet tied around his ankles.
+His skin is hard and leathery from working long in the sun.``
+~
+human~
+0 0 0 0
+ACGH 0 250 0
+10 -20 2d7+121 1d1+100 2d4+2 slash
+50 50 50 999 50
+0 -1 I 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+3
+~
+fnserf.scr~
+#20953
+Woodsman~
+`ca woodsman``~
+`cA woodsman dressed head to toe in brown skins and hides stands here.``
+~
+`cA woodsman is dressed head to toe in brown skins and hides.  Best clothes
+are free clothes.  He seems fairly well fed compared the the serfs, and 
+smells much better.``
+~
+human~
+0 0 0 0
+AGMW c 300 0
+13 -20 2d10+170 1d1+100 2d5+3 chop
+50 50 50 999 50
+0 -1 FI 0 0 0
+stand stand male 46
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#20954
+strongman~
+`ba strongman``~
+`bA strongman stands here flexing his muscles.``
+~
+`bThis is an incredible hulk of a man.  He is at least 6'2" tall and 300
+pounds.  He has no shirt on so you can see his muscles ripple as he walks. 
+Bald with a huge mustache, there is something about him you just don't like.
+`` 
+~
+human~
+0 0 0 0
+AGNc 0 -300 0
+16 -20 5d30+161 1d1+100 2d6+4 pound
+50 50 50 999 50
+0 -1 CFIO 0 0 F
+stand stand male 203
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+large flesh~
+0 0 0 100
+2
+~
+fnstrongman.scr~
+#20955
+Acrobat~
+`gan acrobat``~
+`gAn acrobat is here, walking on her hands.``
+~
+`gShe is wearing a skin tight outfit with dainty slippers.  It is
+`kyellow `gwith `ablack`g stripes running diagonally.  She is thin, but
+looks strong, and very flexible.  `` 
+~
+elf~
+0 0 0 0
+AGS EFJV 0 0
+15 -10 15d10+161 1d1+100 3d5+8 beating
+20 20 20 999 20
+0 -1 FH 0 BC Z
+stand stand female 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+5
+~
+acrobat.scr~
+#20956
+fool harris~
+`da fool``~
+`dA wildly dressed man bounces around laughing.``
+~
+`dThis guy really makes you laugh.  He is dressed in `bm`fu`cl`gt`di`hc`mo`el`bo`fr`ce`gd
+`dmismatched clothes.  His shoes are too big and pointed, with a bell
+on the end.  His hat is really funny, with multiple points and bells.  Harris
+is a small man, short and skinny.  He laughs and giggles continuously.``
+~
+human~
+0 0 0 0
+ACG 0 -250 0
+14 -3 6d5+190 1d1+100 3d8+8 punch
+20 20 20 999 20
+0 -1 FJN 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+5
+~
+fool.scr~
+#20957
+Juggler~
+`ma juggler``~
+`mA juggler stands here twirling knives at great speed.``
+~
+`mA juggler is tall and lanky.  Limbs fly everywhere as he effortlessly
+tosses sharp looking knives spinning into the air.  His clothes are not
+new, but look in good shape and well made.  He must be fairly successful.
+He smiles at you, seeming to pay no attention to his most difficult task.``
+ 
+`mYou wonder if it's `hhard `mor if he's ever `hcut `mhimself.``
+~
+human~
+0 0 0 0
+AGT ac 200 0
+15 -3 15d10+161 1d1+200 3d5+8 slice
+20 20 20 999 20
+0 -1 EK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+5
+juggler.voc~
+juggler.scr~
+#20958
+Rigby~
+Rigby~
+The troupe manager, Rigby, sits here counting his money.
+~
+Rigby is a plump, jolly looking fellow.  He is well dressed, and well
+fed.  He is balding and has a mustache.  A small scar is on his left cheek. 
+He greets you with a friendly smile, happy to share what he has.  
+~
+human~
+0 0 0 0
+ABGR NO 600 0
+20 20 10d35+225 1d1+250 4d5+10 punch
+-2 -2 -2 999 1
+0 -1 EIO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+6
+rigby.voc~
+~
+#20959
+A footman~
+A footman~
+A footman, waiting to help you into the carriage, is here.
+~
+`gA `hfootman `gis dressed in a plain brown outfit.  Loose pants and a
+jacket, with a `hwhite `gshirt underneath.  He is short and thin, but looks
+well fed.  He has a totally blank look on his face, must not love his work. 
+`` 
+~
+human~
+0 0 0 0
+ABG 0 -100 0
+12 -3 3d22+115 1d1+100 3d5+4 punch
+20 20 20 999 20
+0 -1 FI 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#20960
+stableboy boy stable~
+A stableboy~
+A boy is here, cleaning up the mess.
+~
+`cThe `fstableboy `cis very young, no more than 12 years old.  He's dressed
+in pants and a shirt.  Both are covered in patches.  His pants are held up
+by a piece of rope, and he is barefoot.``
+ 
+~
+human~
+0 0 0 0
+ABCG 0 500 0
+10 -40 3d22+96 1d1+100 2d5+5 punch
+50 50 50 999 50
+0 -1 IJ 0 0 Q
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+6
+stableboy.voc~
+~
+#20961
+Gardener~
+`cA gardener``~
+`cA gardener squats here on the ground, intently pruning the bushes.``
+~
+`cThis man in short, stocky, and bowlegged.  His outfit is light `htan
+`cwith `6dirt `cmarks on the knees.  He seems most aggitated, maybe
+becuase you are standing in his `gflower `cbed!``
+~
+human~
+0 0 0 0
+ABGN 0 0 0
+18 -20 8d30+170 1d1+100 4d5+7 slap
+-1 -1 -1 999 3
+0 -1 EK 0 X 0
+stand stand male 100
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+2
+~
+~
+#20962
+butler~
+A butler~
+A butler, tall and dignified, is here to serve you.
+~
+`mThis man has an incredible `haura `mof dignity about him.  You doubt
+a smile has ever graced his face.  He is tall, and stands perfectly
+straight.  His movements are slow, and well planned.  He is dressed all
+in `6black, `mwith a `ebow tie `mand tails``
+~
+human~
+0 0 0 0
+ACG 0 450 0
+21 -4 8d62+450 1d1+100 4d5+10 thwack
+10 10 10 999 10
+0 -1 NV BP 0 0
+stand stand male 104
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+4
+~
+fnbutler.scr~
+#20963
+maid~
+A maid~
+A maid is here, tidying up the area.
+~
+`hThis is a young girl.  Probably in her teens.  She is demure and proper.
+Her eyes hardly ever leave the floor.  She is wearing a `glight blue `hdress
+and has a bow in her hair.``
+~
+human~
+0 0 0 0
+ACGH 0 300 0
+10 -5 2d7+121 1d1+100 2d4+2 scratch
+10 10 10 999 10
+0 -1 I 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+6
+~
+fnmaid.scr~
+#20964
+secretary Higgins~
+`ea secretary``~
+`eHiggins, the Lord's secretary, sits here reading dispatches.``
+~
+`eHiggins is a short, slightly pudgy man.  He is balding and has a thick
+black mustache.  He is wearing a nice, brown three piece suit and comfortable
+looking shoes.  He looks at you over spectacles.``
+~
+human~
+0 0 0 0
+ABGM 0 -600 0
+23 -4 8d15+550 1d1+100 3d7+12 thrust
+10 10 10 999 10
+0 -1 FK B Q F
+stand stand male 200
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+3
+~
+~
+#20965
+Captain Hastings~
+Captain Hastings~
+`bCaptain Hastings is here, sharing war stories.``
+~
+`dCaptain Hastings is a man lost in the past.  Though retired from the
+army, he still wears his old uniform.  A `bred `djacket covered with many
+`mmedals, `ccavalry pants, `dand riding boots.  His hair is short, `agrey,
+`dand receding.  His stories of his army days are seemingly endless.  ``
+`dBut maybe you'll ask him `hhow `dthe `hwar `dwas.  `` 
+~
+human~
+0 0 0 0
+ABGTXc 0 1000 0
+25 -10 5d10+550 1d1+100 2d10+7 wrath
+5 5 5 999 5
+0 -1 EFIKW 0 P J
+stand stand male 100
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium oldstyle~
+0 0 0 100
+5
+hastings.voc~
+~
+#20966
+cook helga~
+Helga the cook~
+Helga the cook is here, ruling the kitchen.
+~
+`hHelga is a large, robust woman.  Not someone you really want to mess with.
+Her hands are large and beefy, made for kneading dough.  She is dressed
+in a simple dress, flour smears in various places.  Her hair is pulled back
+in a bun, give her face a severe, tight look.``
+~
+human~
+0 0 0 0
+ABG 0 450 0
+20 -10 5d50+356 1d1+100 4d5+10 slap
+5 15 15 999 15
+0 -1 CO 0 EL C
+stand stand female 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+4
+~
+helga.scr~
+#20967
+mad sister anna~
+`mMad Anna``~
+`mMad Anna is here, raving at the walls.``
+~
+`mMad Anna looks almost as bad as she smells.  It almost makes your eyes
+water.  Her clothes are rags, and barely cover her.  Her hair is `fdark,
+`mslightly `bAuburn, `mbut incredibly tangled.  As you look closer, you 
+begin to think she could be very beautiful, but now her face is twisted, and
+madness is in her eyes.``
+~
+human~
+0 0 0 0
+AFGN VYa -1000 0
+25 25 6d12+550 1d1+100 2d10+7 claw
+-5 -5 -5 999 2
+0 -1 ACDV BPTa 0 LQS
+stand stand female 0
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 30041
+medium flesh~
+0 0 0 100
+1
+~
+~
+#20968
+valet geeves~
+The valet~
+Geeves the valet is here, folding clothes.
+~
+`kIt is hard to get a clear picture of this man.  He never seems to stop
+moving.  He is a very short man, not more than five feet tall.  And that's
+being generous.  His clothes are plain, but well made.  Consisting of a 
+shirt, vest and pleated trousers.``
+~
+human~
+0 0 0 0
+ABG c 500 0
+27 0 10d50+400 1d1+100 4d6+16 punch
+0 0 0 999 0
+0 -1 GI 0 K H
+stand stand male 75
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+small oldstyle~
+0 0 0 100
+5
+~
+~
+#20969
+deanna chamber maid~
+A chamber maid~
+Deanna, the Lady's chambermaid, waits here to serve her mistress.
+~
+`gYou're not sure if you've ever seen anybody with a more innocent looking
+face.  It is positively angelic.  A quick smile comes to her face and her
+eyes hold no hint of mistrust.  Her hair is long and `dblonde, `gtied in
+a nice bow.  Her dress is soft `mpink `gand `hwhite.``
+`gYou're positive she's never even heard the word `msex `gbefore.``
+~
+human~
+0 0 0 0
+ABGH Nc 500 0
+26 0 9d50+390 1d1+100 4d6+14 scratch
+0 0 0 999 0
+0 -1 F 0 0 G
+stand stand female 0
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+7
+deanna.voc~
+~
+#20970
+`bA revolutionary``~
+`bA revolutionary``~
+`bA revolutionary is here, waiting for the signal.``
+~
+`bA revolutionary doesn't look much better than the serfs up above, maybe
+a little better fed, maybe a little more energetic.  His clothes are also
+similar, except that he wears a leather vest and enthusiastically wields a
+short sword.  The fire of the revolution is in his eyes.  `` 
+~
+human~
+0 0 0 0
+AX 0 1000 0
+15 -5 15d10+161 1d1+100 3d5+8 thrust
+10 10 10 999 10
+0 -1 0 0 F C
+stand stand male 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+3
+~
+~
+#20971
+Simon DeMontfort~
+`eSimon DeMontfort``~
+`eSimon Demontfort sits here planning the revolution.``
+~
+`eSimon is a flamboyant man.  His clothes are exquisite.' Made of the finest
+materials and expertly tailored, all frills and lace.  He has long dark
+curley hair and a long `6black `emustache.  His face is young and handsome,
+except for the deep `cgreen `eeyes, which hold some unnamed sadness.  A
+rougish grin seems like a permanant fixture.``
+~
+human~
+0 0 0 0
+ABGT a 400 0
+29 4 5d60+300 1d1+300 5d6+15 slash
+0 0 0 999 0
+0 -1 FIK 0 B 0
+stand stand male 1500
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+3
+~
+simon.scr~
+#20972
+farmer Jon~
+`dFarmer Jon``~
+`dFarmer Jon is here working, pitching hay.``
+~
+`dFarmer Jon is as average as they come.  Average face, average body, probably
+average personality as well.  He is dressed in plain brown clothes, though
+strangely they seem of fine quality...``
+~
+human~
+0 0 0 0
+ABGV 0 0 0
+10 -90 2d7+121 1d1+100 2d4+2 pound
+6 6 6 999 1
+0 -1 0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+4
+fjon.voc~
+fjon.scr~
+#20973
+lady viki~
+Lady Viki~
+Viki, Lady of the manor, is here.
+~
+`nViki might have been pretty once, but those days are long gone.  A 
+permanant scowl seems to have plastered itself upon her face.  She has
+dark hair and very pale skin, no life in it at all.  Her dress is beautiful
+`hwhite `nsilk, but it just makes her look like a ghost.  You can't help
+but shiver.``
+`gYou wonder if it's worth your time to even say `hhi.``
+~
+human~
+0 0 0 0
+ABGc 0 -800 0
+29 -90 10d61+375 1d1+100 5d6+15 claw
+1 1 1 999 10
+0 -1 DIN A O N
+stand stand female 500
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 0 100
+2
+viki.voc~
+~
+#20974
+Lord Vryce~
+Lord Vryce~
+Lord Vryce stands here thinking of new ways to exploit the peasants.
+~
+`bLord Vryce `eis an older man, his hair and mustache both `hsilver grey.
+`eHe looks like a very fit man, despite a slight paunch around his middle. 
+He stands tall, and his stance conveys a sense of overwhelming confidence
+and power.  His skin is tan, almost a `dgolden `ebrown, from spending long
+hours hunting in the `dsun.  `eBut it is his eyes that draw you to him. 
+They seem to be on `bfire...  `` 
+~
+human~
+0 0 0 0
+ABGRc c -1000 0
+30 30 10d60+560 30d10+100 5d6+15 thwack
+10 10 10 999 10
+0 -1 EF 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 30308
+medium flesh~
+0 0 0 100
+0
+~
+vryce.scr~
+#20975
+scullery girl~
+A scullery girl~
+A miserably thin scullery girl toils here by the fire.
+~
+~
+human~
+0 0 0 0
+ABGH 0 300 0
+12 -10 3d7+136 12d10+3 2d6+3 bite
+11 1 1 999 3
+0 -1 FJ 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#20976
+serf woman~
+`hA serf``~
+A raggedly dressed, emaciated woman hopes you won't notice her here.
+~
+`gThis woman is pathetic.  It looks like she hasn't eaten in weeks and
+flies are buzzing around her.  Her clothes are rags, barely staying on her
+and full of holes.  She has no shoes, but has more rags on her feet tied
+around her ankles.  Her skin is hard and leathery from working long in the
+sun.  `` Too familiar with the cruelties of the wealthy, she hopes to live
+unnoticed.  
+~
+human~
+0 0 0 0
+ACGH 0 300 0
+10 -5 2d7+121 1d1+100 2d4+2 slash
+10 10 10 999 10
+0 -1 I 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+3
+~
+fnserf.scr~
+#20977
+stable boy~
+`da stable boy``~
+`dA stableboy carefully brushes the great stallion.``
+~
+This thin, raggedly dressed little boy was obviously recently pressed
+into service and removed from his family.  His clothing is torn and
+tattered, pants held up by a short, dirty piece of string.  His feet are
+bare but encrusted in several layers of filth.  The tell-tale tracks of
+tears can be seen on his dirty little face, as he mindlessly brushes the
+great horse before him with a golden comb he is too scared to even think of
+stealing.  `` 
+~
+human~
+0 0 0 0
+ABGH 0 300 0
+12 -10 3d7+136 12d10+3 2d6+2 bite
+40 40 40 999 40
+0 -1 FJ 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#20978
+horse stallion ghost~
+`oGhost``~
+`bA `owhite stallion`b rears angrily in his stall and bugles loudly.``
+~
+What a beautiful animal!  In him, you see the sleek, elegant lines of the
+wild horses of Ath'Tanar, and all of the ferocious spirit those horses are
+known for.  Vryce must have paid a forture to capture this handsome nomadic
+horse and cage him in his stables.  From the whip marks on his flanks, it is
+obvious that "Ghost" isn't taming very well.  
+~
+pig~
+0 0 0 0
+ABNe 0 0 13172
+30 -10 10d60+560 14d9+200 5d6+15 bite
+10 10 10 999 10
+0 -1 CDINVY 0 B H
+stand stand male 0
+AGV ACDEFHJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 30000 100
+0
+~
+~
+#20979
+midnight stallion horse~
+`eMidnight``~
+`eA massive black stallion stands and passively munches hay as he is groomed.``
+~
+Midnight is a big, black horse, built along classic quarterhorse lines. 
+He is a little large from all of the food he has been fed, but has been
+groomed to shine, and has small ribbons in his mane and tail.  He is
+obviously comfortable here, and even the bugling of the other stallion fails
+to perturb him.  
+~
+pig~
+0 0 0 0
+ABNe 0 0 13172
+21 -10 8d62+450 14d9+200 4d5+14 bite
+10 10 10 999 10
+0 -1 CDINVY 0 B H
+stand stand male 0
+AGV ACDEFHJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 30000 100
+0
+~
+~
+#20980
+horse mare red~
+`ia red mare``~
+`hA `ired mare`h calls loudly for her masculine counterpart.``
+~
+What a beautiful animal!  In her, you see the sleek, elegant lines of the
+wild horses of Ath'Tanar, and all of the ferocious spirit those horses are
+known for.  Vryce must have paid a forture to capture this handsome nomadic
+horse and trap her in his stables to be bred.  From the cruel whip marks on
+her dainty flanks, it is immediately obvious that this spirited mare is
+rejecting her captivity.  She neighs constantly for her companion, the great
+white stallion who was captured with her.  
+~
+pig~
+0 0 0 0
+ABNe 0 0 13172
+30 -10 10d60+560 14d9+200 5d6+5 bite
+10 10 10 999 10
+0 -1 CDINVY 0 B H
+stand stand female 0
+AGV ACDEFHJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 30000 100
+0
+~
+~
+#20981
+mare horse brown~
+`da brown mare``~
+`hA dainty `dbrown`h mare with a `fblack`h mane is heavily pregnant.``
+~
+This dainty brown mare is an absolutely classic horse, with the tall
+build and clean lines of a well-bred quarterhorse.  She nibbles at her hay
+daintily and watches you as you enter her stall.  Heavily pregnant, she
+shifts heavily from foot to foot, almost stepping on you at one point.  The
+noises of the other horses don't seem to interest her nearly as much as her
+food.  
+~
+pig~
+0 0 0 0
+ABNe 0 0 13172
+21 -10 10d61+365 14d9+200 4d5+10 bite
+10 10 10 999 10
+0 -1 CDINVY 0 B H
+stand stand female 0
+AGV ACDEFHJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 30000 100
+0
+~
+~
+#20982
+muffi magician man `kMade`bBy`iIverath``~
+`iMuffi the amazing magician``~
+`iA man clad in a long red cloak smiles mystically and tips his conical hat in your direction.``
+~
+`bThe air around this man sizzles and sparkles with dazzling and very`k
+magical`b energy.  People who pass him give him wary glances but laugh with
+genuine happiness as he perform some small`k magical`b trick for them (like
+his patented "bunny face" trick).  Adam was once a magician wandering the
+streets of Thesden, however, after accidently turning Zeryn's wife into a
+snarling BERSERKER, he decided that other people than Thesdians should enjoy
+his amazing repertoire of`k magic`b.  So now he roams Fulk Nerra, looking
+for vict...  An audience to entertain.  `` 
+~
+human~
+0 0 0 0
+AGRc DFJTZce -400 0
+20 -20 300d1+3 400d1+4 5d3+3 magic
+50 50 50 999 -50
+0 -1 FS B C E
+stand stand male 200
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#20983
+father dad~
+Your father~
+`hYour father waves at you from the side of the road.``
+~
+`hThere is your father again, always waving at you, it gets kind of
+annoying after seeing him everywhere.  He probably will not talk to you this
+time either.  `` 
+~
+lich~
+0 0 0 0
+ABGNO DFGUe -1000 0
+20 -10 100d1+1 20d2+2 2d2+2 none
+0 0 0 999 0
+DX 60 3 F LQ CIMQ HNOS
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#20952
+A small fountain~
+a small, gurgling fountain~
+A small stone fountain, exquisitely made, gurgles water here.~
+stone~
+0
+fountain 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#20953
+scythe~
+a scythe~
+A scythe sits here, waiting to cut more wheat.~
+steel~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC C AC A 0
+0
+0
+10 100 10 P
+#20954
+Woodsman axe~
+a woodman's axe~
+A woodman's axe looks good for chopping wood.~
+steel~
+0
+weapon 2
+I
+0
+AN
+0
+0
+0
+20954
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC C B AB D
+0
+0
+13 98 35 P
+S
+ 6 397 0 -1 4 'lumberjacking' 0
+A
+19 2
+#20955
+large iron pipe~
+an iron pipe~
+A large iron pipe sits here.~
+iron~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C C C BC 0
+0
+0
+16 50 10 P
+A
+19 2
+#20956
+red silk sash~
+`aA `iR`be`id `aSilk `bS`ias`bh``~
+`bA red silk sash lays on the ground here.``~
+silk~
+0
+clothing 2
+S
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+6 9 50 P
+A
+1 2
+#20957
+Hat with bells~
+a hat with bells~
+A hat with jingling bells lays here.~
+felt~
+0
+clothing 2
+S
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+14 10 16 P
+A
+3 -1
+A
+26 1
+A
+24 10
+#20958
+juggling knife~
+a juggling knife~
+A juggling knife sits here, waiting to be thrown.~
+steel~
+0
+weapon 2
+A
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B C ABD J
+0
+0
+5 20 13 P
+#20959
+Gymnast slippers~
+`ga pair of gymnast's slippers``~
+Gymnast's slippers lie here, almost seeming to move on their own.~
+soft leather~
+0
+clothing 2
+S
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 8 53 P
+A
+2 1
+A
+18 1
+#20960
+money belt~
+`ca money belt``~
+`cA money belt has been carelessly forgotten here.``~
+hard leather~
+0
+container 2
+FS
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CFG 0 0 ABDG ACEG
+0
+0
+20 10 94 P
+A
+2 1
+A
+12 10
+A
+13 10
+#20961
+note paper~
+``a piece of note paper~
+``A nondescript, crumpled up piece of note paper sits here.``~
+paper~
+0
+writing_paper 2
+S
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+-1 0 0 0 0
+0
+0
+10 0 0 P
+E
+papermsg~
+~
+E
+note~
+`bThe red dog runs in the storm...``
+~
+#20962
+bow tie~
+`lA bow tie``~
+`lA bow tie sits here, looking dignified and proper.``~
+silk~
+0
+clothing 2
+S
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+11 5 100 P
+A
+12 8
+A
+4 1
+#20963
+reading lamp~
+a reading lamp~
+A reading lamp sits here, ready to illuminate your book.~
+glass~
+0
+light 2
+S
+0
+AV
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 DGH 0 0
+0
+0
+13 30 78 P
+A
+3 1
+#20964
+cavalry pants pair~
+`ba pair of cavalry pants``~
+Cavalry pants are here, ready to ride off into battle.~
+cloth~
+0
+clothing 2
+S
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 50 140 P
+A
+19 2
+A
+18 2
+#20965
+revolutionary short sword~
+a revolutionary's short sword~
+A short sword sits here, ready to start the revolution.~
+steel~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A AB AB A 0
+0
+0
+15 50 250 P
+A
+18 2
+A
+19 3
+#20966
+revolutionary vest~
+a revolutionary's vest~
+A leather vest sits here, ready to start the revolution.~
+hard leather~
+0
+armor 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+15 149 190 P
+A
+5 1
+#20967
+emerald ring~
+`can emerald ring``~
+`cA beautiful and huge emerald ring sits here.``~
+stone~
+0
+jewelry 2
+SY
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+28 14 500 P
+A
+4 -1
+A
+26 -1
+A
+3 1
+A
+5 1
+#20968
+riding boots~
+a pair of riding boots~
+A pair of good quality riding boots sit here.~
+hard leather~
+0
+armor 2
+JS
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+30 40 206 G
+A
+5 1
+A
+12 10
+#20969
+riding crop~
+a riding crop~
+A riding crop is here, ready to hit you!~
+hard leather~
+0
+weapon 2
+GJS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 BC AB 0 0
+0
+0
+30 15 300 P
+A
+18 2
+A
+19 2
+#20970
+diamond bracelet~
+`ea `odiamond`e bracelet``~
+`eA gorgeous `odiamond`e bracelet sits here looking expensive.``~
+diamond~
+0
+armor 2
+AMSY
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B 0 0
+0
+0
+28 8 1039 P
+A
+13 5
+A
+12 5
+#20971
+red silk shirt~
+`ba red silk shirt``~
+A red silk shirt, looking smooth and soft.~
+silk~
+0
+clothing 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 15 124 P
+A
+12 2
+A
+26 1
+#20972
+Apron~
+a kitchen apron~
+A kitchen apron makes you think of home cooked meals.~
+cloth~
+0
+clothing 2
+SY
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 20 0 G
+#20973
+fine fighting sword~
+a fine fighting sword~
+A fine fighting sword is here, ready to take up the cause.~
+steel~
+0
+weapon 2
+BIKL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+A AC BC AB 0
+0
+0
+15 14 340 P
+A
+4 1
+A
+18 2
+A
+19 2
+#20974
+lace silk gloves~
+``a pair of lace and silk gloves~
+``A pair of lace and silk gloves lie here, waiting for the revolution.~
+silk~
+0
+clothing 2
+S
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 20 200 P
+A
+3 1
+#20975
+pith helmet~
+a pith helmet~
+A pith helmet, used to help shade the eyes, is here.~
+hard leather~
+0
+armor 2
+S
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+B B B 0 0
+0
+0
+18 30 75 P
+A
+12 5
+#20976
+crude steel shield~
+`gA crude steel shield``~
+`gA crude steel shield sits here unobtrusively.``~
+steel~
+0
+armor 2
+K
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AB AB AB AB 0
+0
+0
+15 0 50 P
+#20977
+Apple pie~
+a delicious apple pie~
+One of Helga's scrumptious apple pies sits here steaming.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+20977
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C ACD 0 0
+0
+0
+100 0 10 P
+#20978
+money coins gold~
+`ka few coins``~
+`kA few coins glitter here in the sunlight.``~
+gold~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DGH CE 0 0 0
+0
+0
+0 2000 0 P
+#20979
+torch~
+a half used torch~
+A half used torch is lying on the ground.~
+wood~
+0
+key 2
+c
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 10 20 P
+#20999
+key~
+a key~
+A key is here.~
+metal~
+0
+key 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+99 1 0 P
+#21000
+bottle rack~
+a wine rack~
+~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n makes a pass with $s hand, and then disappears into an opening that closes quickly behind $e.~
+You shove the bottle at just the right angle and slip into the passage that quickly opens.~
+$n steps out from behind a crate suddenly. ~
+After crawling through a tiny, cramped tunnel, you finally emerge.~
+-1 0 G ABDJMO K
+0
+0
+10 10000 0 P
+#21001
+gold comb~
+`ka golden comb``~
+`kA golden comb gleams brightly on the ground.``~
+gold~
+0
+treasure 2
+0
+B
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+12 5 100 P
+#21002
+table cherry wood~
+`ba cherry wood table``~
+`bA long, beautifully polished table runs from one end of the room to the other.``~
+wood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD FHJKPQ DGJN CFG CFG
+0
+0
+10 10000 100 P
+#21003
+head~
+the head of Lord Vryce~
+The decapitated head of Lord Vryce lies before you.~
+flesh~
+0
+trash 2
+STUc
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 5 0 P
+#21004
+head~
+the head of Simon Demontfort~
+The decapitated head of Simon Demontfort lies before you.~
+flesh~
+0
+trash 2
+ST
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+29 5 0 P
+#21005
+shimmering red cloak picnic +mage~
+`ia shimmering red cloak``~
+`iA shimmering red cloak is here, spread out like a picnic blanket.``~
+cloth~
+0
+furniture 2
+RST
+0
+AK
+ABLQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+$n steps into nothing and becomes nothing.~
+You step into the portal.~
+~
+~
+A EFIKMNO EHK ADFG BCDFG
+0
+0
+23 30 5001 P
+A
+13 -20
+A
+12 65
+#21006
+red wand garish~
+`ia red wand with a garish golden star at the end``~
+`bA red wand with a garish golden star at the end floats`k magically`b here.``~
+unknown~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+DF BD BC BCDEF 'reserved'
+0
+0
+5 0 50 P
+#21007
+suckiest weapon ever~
+`dT`ch`de`c S`du`cc`dk`ci`de`cs`dt`c W`de`ca`dp`co`dn`c E`dv`ce`dr``~
+Iverath made this sucky weapon for a newb that asked for a free super-weapon.``~
+unknown~
+0
+weapon 2
+IS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC -5 -2 ACF ABCDGHILM
+0
+0
+2 0 3 P
+A
+19 -50
+A
+26 -5
+A
+3 -5
+#21008
+wagon~
+the troupe manager's wagon~
+One of the entertainers' wagons is parked in the middle of the crossing.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`m$n climbs into the wagon.``~
+`mYou climb into the wagon.``~
+`m$n climbs into the wagon.``~
+~
+-1 0 G ABCDJMO A
+0
+0
+10 30000 0 P
+#21009
+wagon~
+the troupe manager's wagon~
+~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`m$n climbs out of the wagon.``~
+`mYou climb out of the wagon.``~
+`m$n climbs out of the wagon.``~
+~
+-1 0 G ACDEGHIMO B
+0
+0
+10 30000 0 P
+#21010
+crest vryce~
+`kthe crest of Vryce``~
+This is the crest of Lord Vryce.~
+unknown~
+0
+treasure 2
+JS
+0
+AZ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 10 P
+A
+19 1
+A
+18 2
+A
+13 5
+#21011
+pink mystical vial trap~
+a mystical pink vial trap~
+A pink vial lies connected to a metal contraption here.~
+unknown~
+0
+roomtrap 2
+PQS
+AB
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CDF BE BDEG 0 0
+ADE
+0 0 AB 0 0 0 D 
+10 10 0 P
+E
+victmessage~
+`mA pink vial is flung into the air, spilling its contents all over your chest.``
+~
+E
+specmessage~
+~
+#21012
+crest revolution~
+`bthe crest of the Revolution``~
+This is the crest of the Revolution.~
+unknown~
+0
+treasure 2
+KS
+0
+AZ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 10 P
+A
+13 5
+A
+19 2
+A
+18 2
+#21013
+emerald earrings~
+`celegant emerald earrings``~
+`cThese emerald earrings look quite valuable.``~
+unknown~
+0
+jewelry 2
+S
+0
+AY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 0 7500 P
+A
+18 2
+#0
+
+#ROOMS
+#20951
+0 0
+~
+$n comes walking down the lane.~
+$n goes strolling down the lane.~
+0 0 0
+`cA Country Lane``~
+You find yourself walking down a quiet country lane.  Fields of hay
+stretch out on either side of you.  In the distance you see serfs laboring
+in the fields for their load.
+~
+0 C 2
+0
+~
+I 0 D0
+~
+~
+0 0 21060
+D1
+~
+~
+0 0 21081
+D2
+~
+~
+0 0 21100
+D3
+~
+~
+0 0 20952
+S
+#20952
+25 150
+Welcome to Fulk Nerra.  May your stay be enjoyable.~
+$n comes strolling down the lane.~
+$n goes strolling down the lane.~
+0 0 0
+`cA Country Lane~
+You find yourself walking down a quiet country lane.  Fields of hay
+stretch out on either side of you.  In the distance you see serfs laboring
+in the fields for their lord.  Up ahead there is `hchimney smoke `crising,
+indicating a village.
+~
+0 C 1
+0
+~
+I 0 O none~
+D1
+~
+~
+0 0 20951
+D2
+~
+~
+0 0 21099
+D3
+~
+~
+0 0 20953
+S
+#20953
+0 0
+~
+$n comes strolling down the lane.~
+$n goes strolling down the lane.~
+0 0 0
+`cBend in the road~
+You round a bend in the road.  Up ahead you see a cluster of cottages.
+Each cottage is topped by a hay thatch roof with a small chimney
+sticking out of the top.  Behind each cottage you see a vegetable garden
+and an area for pigs and chickens.  From the center of the village you think
+you hear music.  More hay fields line the sides of the lane with more
+serfs working in them.  You think it must be hard work because they are
+sweating and grunting.  You think you hear one of them say something like
+`a...if we were in charge...`c, but you're not sure.
+~
+0 C 2
+0
+~
+I 0 D0
+~
+~
+0 0 20954
+D1
+~
+~
+0 0 20952
+S
+#20954
+0 0
+~
+~
+$n leaves $T.~
+0 0 0
+`cVillage Street``~
+`cThis is the entrance street to the village of Fulk Nerra.  The first thing
+that strikes you is how poor everything looks.  On each side of the street
+to the `meast `cand `mwest `care cottages.  They are made of rough wood with thatch
+`croofs.  There is no color anywhere.  Running down the middle of the street,
+judging by the smell, is the local sewer.  This is not a large village, 10-12
+cottages at most.  To the `mnorth `cis the village center.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20957
+D1
+~
+~
+0 0 20955
+D2
+~
+~
+0 0 20953
+D3
+~
+~
+0 0 20956
+S
+#20955
+0 0
+~
+$n comes through the doorway.~
+$n leaves through the doorway.~
+0 0 0
+`cA small cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be found.  There is only a single room with a dirt floor.  Near the far wall
+there is a small cook stove with a chimney pipe leading up to the ceiling.
+The only furniture  is a rough table with 2 chairs by the window and some
+sleeping mats in the corner.  You wonder how, with such rich fields, these
+people seem so poor.
+~
+0 BD 0
+0
+~
+I 0 D3
+~
+~
+0 0 20954
+S
+#20956
+0 0
+~
+$n comes through the doorway.~
+$n leaves through the doorway.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be seen.  There is only a single room with a dirt floor.  Near the far wall
+is a small cook stove with a chimney pipe leading up to the cieling.  The
+only furniture you see is a rough table with 2 chairs by the window and some
+sleeping mats in the corner.  You wonder how with such rich fields these
+people seem so poor.``
+~
+0 BD 0
+0
+~
+I 0 D1
+~
+~
+0 0 20954
+S
+#20957
+0 0
+~
+`b$n enters the square.``~
+`b$n exits the square.``~
+0 0 0
+`cVillage Center``~
+`cFulk Nerra is a small village, with only two streets, and this is where
+they meet.  Normally this would not be a small area.  However today a
+travelling group of `ee`bn`ft`ce`gr`dt`ha`ei`bn`fe`gr`ds `chas set up shop
+here, though the odds of it being profitable for them are extremely low. 
+Still, it is the first real color in the village other than brown.  The
+`ee`bn`ft`ce`gr`dt`ha`ei`bn`ge`dr`hs `chave two wagons and have set up a
+small stage.  All are a riot of color.  Streets lead in all directions where
+there are more cottages.  One of the wagons has an open door in the back and
+a small set of stairs lead up.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20970
+D1
+~
+~
+0 0 20964
+D2
+~
+~
+0 0 20954
+D3
+~
+~
+0 0 20958
+S
+#20958
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`cVillage street``~
+`cYou are standing in a village street.  To the `mnorth `cand `msouth `care more
+cottages exactly like the ones you saw earlier.  Not much variety here.  The
+smell from the sewer is more overpowering than ever.  Somewhere a rooster
+crows.  The village center lies to the `meast `cwhile the street continues
+towards the `mwest.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20960
+D1
+~
+~
+0 0 20957
+D2
+~
+~
+0 0 20959
+D3
+~
+~
+0 0 20961
+S
+#20959
+0 0
+~
+$n ducks in through the door.~
+$n ducks out through the door.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be found.  There is only a single room with a dirt floor.  Near the far
+wall is a small cook stove with a chimney pipe leading up to the ceiling.
+The only furniture is a rough table with two chairs by the window and some
+sleeping mats in the corner.  You wonder how with such rich fields these people
+seem so poor.
+~
+0 BD 0
+0
+~
+I 0 D0
+~
+~
+0 0 20958
+S
+#20960
+0 0
+~
+$n enters the cottage.~
+$n leaves the cottage.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be found.  There is only a single room with a dirt floor. Near the far
+wall is a small cook stove with a chimney pipe leading up to the cieling.
+The only furniture you see is a rough table with two chairs by the window and
+some sleeping mats in the corner.  You wonder how with such rich fields these
+people seem so poor.
+~
+0 BD 0
+0
+~
+I 0 D2
+~
+~
+0 0 20958
+S
+#20961
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`cVillage street``~
+`cYou are standing in a village street.  To the `mnorth `cand `msouth `care more
+cottages just like the ones you saw earlier.  Not much variety here.  The
+smell from the sewer is more overpowering than ever.  To the `meast `cthe street
+continues towards the center of town.  To the `mwest `cis the village barn.  The
+largest structure you've seen so far.  A large barn door is partly open to
+provide access.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20963
+D1
+~
+~
+0 0 20958
+D2
+~
+~
+0 0 20962
+D3
+~
+~
+0 0 20997
+S
+#20962
+0 0
+~
+$n comes in through the door.~
+$n goes out through the door.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be seen.  There is only a single room with a dirt floor.  Near the far
+wall is a small stove with a chimney pipe leading up to the ceiling.
+The only furniture is a rough table with two chairs by the window and some
+sleeping mats in the corner.  You wonder how with such rich fields these
+people seem so poor.``
+~
+0 BD 0
+0
+~
+I 0 D0
+~
+~
+0 0 20961
+S
+#20963
+0 0
+~
+$n enters the cottage.~
+$n leaves the cottage.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be seen.  There is only a single room with a dirt floor.  Near the far wall
+is a small cook stove with a chimney pipe leading up to the ceiling.  The
+only furniture is a rough table with two chairs by the window and some sleeping
+mats in the corner.  You wonder how with such rich fields these people seem so
+poor.
+~
+0 BD 0
+0
+~
+I 0 D2
+~
+~
+0 0 20961
+S
+#20964
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`cVillage street``~
+`cYou are standing in a village street.  To the `mnorth `cand `msouth `care more
+cottages exactly like the ones you saw earlier.  Not much variety here.  The
+smell from the sewer is more overpowering than ever.  Somewhere a rooster 
+crows.  The street runs `meast `cand `mwest.``
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20966
+D1
+~
+~
+0 0 20968
+D2
+~
+~
+0 0 20965
+D3
+~
+~
+0 0 20957
+S
+#20965
+0 0
+~
+$n comes in through the doorway.~
+$n leaves through the door.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be seen.  There is only a single room with a dirt floor.  Near the far
+wall is a small cook stove with a chimney pipe leading up to the ceiling.
+The only furniture is a rough table with two chairs and some sleeping mats
+in the corner.  You wonder how with such rich fields these people seem so poor.``
+~
+0 BD 0
+0
+~
+I 0 D0
+~
+~
+0 0 20964
+S
+#20966
+0 0
+~
+$n comes through the doorway.~
+$n goes through the doorway.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.   A single window is the only source of light and there is no color
+to be seen.  There is only a single room with a dirt floor.  Near the far wall
+is a small cook stove with a chimney pipe leading up to the ceiling.  The
+only furniture is a rough table with two chairs by the window and some sleeping
+mats in the corner.  You wonder how with such rich fields these people seem so
+poor.``
+~
+0 BD 0
+0
+~
+I 0 D2
+~
+~
+0 0 20964
+S
+#20967
+0 0
+~
+$n comes through the doorway.~
+$n exits the cottage.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be seen.  There is only a single room with a dirt floor.  Near the far wall
+is a small cook stove with a  chimney pipe leading up twards the ceiling.
+The only furniture is a rough table with two chairs by the window and sleeping
+mats in the corner.  You wonder how with such rich fields these people seem
+so poor.``
+~
+0 BD 0
+0
+~
+I 0 D2
+~
+~
+0 0 20968
+S
+#20968
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`cVillage street``~
+`cYou are standing in a village street.  To the `mnorth `cand `msouth `care more 
+cottages exactly like the ones you saw earlier.  Not much variety here.  The
+smell from the sewer is more overpowering than ever.  To the `meast `cit is a dead
+end.  A large hedge prevents you from going any farther.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20967
+D2
+~
+~
+0 0 20969
+D3
+~
+~
+0 0 20964
+S
+#20969
+0 0
+~
+$n comes in through the door.~
+$n goes out the door.~
+0 0 0
+`cA Cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be seen.  There is only a single room with a dirt floor.  Near the far
+wall is a cook stove with a chimney pipe leading up to the ceiling.
+The only furniture is a rough table with two chairs by the window and some
+sleeping mats in the corner.  You wonder how with such rich
+fields, these people seem so poor.``
+~
+0 BD 0
+0
+~
+I 0 D0
+~
+~
+0 0 20968
+S
+#20970
+0 0
+~
+$n comes down the lane.~
+$n goes $T.~
+0 0 0
+`cVillage street``~
+`cYou are standing in a village street.  To the `meast `cand `mwest `care cottages
+exactly like the ones you saw earlier.  Not much variety here.  The smell
+from the sewer is more overpowering than ever.  To the `mnorth `cthe road improves
+considerably and enters into some woods.  The village center can be seen to
+the `msouth.````
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20973
+D1
+~
+~
+0 0 20972
+D2
+~
+~
+0 0 20957
+D3
+~
+~
+0 0 20971
+S
+#20971
+0 0
+~
+$n comes into the cottage.~
+$n leaves the cottage.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is drab and dingy
+it looks.  A single window is the only source of light and the is no
+color to be seen.  There is only a single room with a dirt floor.  Near the
+far is a small cook stove with a chimney pipe leading up to the ceiling.
+The only furniture is a rough table with two chairs and some sleeping mats
+in the corner.  You wonder how with such rich fields these people are so
+poor.  
+~
+0 BDZ 1
+0
+~
+I 0 D1
+~
+~
+0 0 20970
+D3
+~
+~
+0 0 26679
+S
+#20972
+0 0
+~
+$n comes through the doorway.~
+$n goes out the doorway.~
+0 0 0
+`cSmall cottage``~
+`cThe first thing you notice as you enter the cottage is how drab and dingy
+it looks.  A single window is the only source of light and there is no color
+to be seen.  There is only a single room with a dirt floor.  Near the far
+wall is a small cook stove with a chimney pipe leading up to the ceiling.
+The only furniture is a rough table with two chairs near the window and some
+sleeping mats in the corner.  You wonder how with such rich fields these 
+people seem so poor.
+~
+0 BD 0
+0
+~
+I 0 D3
+~
+~
+0 0 20970
+S
+#20973
+0 0
+~
+$n comes down the lane.~
+$n goes down the lane.~
+0 0 0
+`gRoad to the manor``~
+`eYou are enclosed by a forest.  The road to the `mnorth `eleads to the
+manor house while to the `msouth `elies the village of Fulk Nerra.  The
+trees here are evenly spaced with no low hanging branches.  The forest seems
+almost groomed.  There is enough space in the trees to allow sunlight to
+filter to the ground.  The road is wide and well maintained.  
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 20974
+D2
+~
+~
+0 0 20970
+S
+#20974
+0 0
+~
+`g$n`b comes down the lane.``~
+`g$n`b goes down the lane.``~
+0 0 0
+`gRoad to the manor``~
+`eThere is a bend in the road here.  To the `msouth `ethe road goes
+deeper into the forest.  To the `mwest `eyou can begin to see a very large
+manor house through the trees.  To the `meast`e a stone path is laid out
+before a beautiful house.  You think you hear a horn off in the distance,
+along with some barking.  
+~
+0 C 3
+0
+~
+I 0 O none~
+D2
+~
+~
+0 0 20973
+D3
+~
+~
+0 0 20975
+S
+#20975
+0 0
+~
+~
+~
+0 0 0
+`gBefore the manor``~
+`eHere the road comes out of the forest and circles around a large statue
+in front of a huge mansion.  The statue `eis of a man in military uniform
+holding a sword aloft and riding a horse.  Probably some famous ancestor of
+the present lord.  The mansion is huge and majestic, constructed of stone
+with a red tile roof.  Huge double doors banded in iron with huge gargoyle
+face knockers provide access inside the mansion to the `mwest.  `eTo the
+`m`m`mnorth`e`` `eis a smaller road, probably leading to the carriage house
+and stable.  A small path goes `msouth `einto the woods.  `` 
+~
+0 C 1
+0
+~
+I 0 D0
+~
+~
+0 0 20977
+D1
+~
+~
+0 0 20974
+D2
+~
+~
+0 0 20976
+D3
+~
+door~
+1 0 20981
+S
+#20976
+20 20
+~
+~
+~
+0 0 0
+A gazebo~
+`cThe clean scent of freshly cut `bcedar`c still clings to the wood of this
+small gazebo.  The roof overhead provides shelter, while the open sides
+allow a clear view to enjoy the lush woods all around.  The surrounding
+trees allow dappled `ksun`c to shine through; the bright spots dance as the
+wind makes the branches sway.  A small smooth bench provides just enough
+room for two to sit close.  The leaves rustle and a `lsongbird`c pauses on a
+nearby branch to serenade you.  It's tranquil and refreshing here- the
+ideal spot for a resting, talking, or best of all, a `msecret romance`c.  `` 
+~
+0 BJ 0
+0
+~
+H110
+I 0 M110
+D0
+~
+~
+0 0 20975
+S
+#20977
+0 0
+~
+~
+~
+0 0 0
+`gPath to the carriage house``~
+`eThis is the road leading to the front of the manor house in the
+`msouth`e, to the carriage house to the `mwest`e.  The carriage house itself
+could be called a mansion, for it is two stories tall and built of the
+richest woods.  Huge double doors provide access for even the biggest
+carriages.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 20975
+D3
+~
+~
+0 0 20978
+S
+#20978
+0 0
+~
+~
+~
+0 0 0
+`gCarriage House``~
+`eYou walk into a large space.  Twenty foot ceilings at least.  The walls
+are plaster and `hwhite `e in color.  There are many carriages here.  Two
+large ornate carriages line the south wall while hanging from the ceiling
+are three 2 person buggies.  The carriages are opulant, with intricate
+detailed wood work and gold paint.  One must hold at least eight people. 
+The smell of horses is strong here.  Large doors lead to the `meast `eand
+`mwest`e.  You hear horses neighing from the `mwest`e.  `` `` 
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 20977
+D3
+~
+~
+0 0 20979
+S
+#20979
+0 0
+~
+$n walks into the stable.~
+$n leaves $T.~
+0 0 0
+The stable~
+`dThis is the stable for the lord's horses.  A large ten foot aisle goes
+west and north with at least twenty stalls on either side.  Most of them are
+occupied.  The stalls are big, with large sliding doors.  Hay is spread over
+the floor and the smell of horses is heavy in the air.  Half way down the
+`msouth `dwall is a door leading outside.  `` 
+~
+0 DF 0
+0
+~
+I 0 D0
+~
+~
+0 0 21008
+D1
+~
+~
+0 0 20978
+D2
+~
+~
+0 0 20980
+S
+#20980
+0 0
+~
+`g$n `benters the garden``~
+`g$n `bgoes $T``~
+0 0 0
+`gA Garden``~
+`cYou've never seen such a garden.  It is huge, with row upon row of
+beautiful trees and bushes.  Bees are thick in the air as they work to
+polinate the thousands of flowers.  It is those same flowers that are
+creating the wonderful odor that permeates this place.  One of the most
+incredible sights here are the sculpted trees.  One in the shape of a
+giraffe, one a bull, one a elephant.  So perfect you think they could walk
+away.  To the `meast `cis a huge stone terrace running along the rear of the
+manor house.  To the `mnorth `cis an entrance to the stable.  A large,
+shallow reflecting pool is in the center of the garden.  `` 
+~
+0 B 2
+0
+~
+I 0 D0
+~
+~
+0 0 20979
+D1
+~
+~
+0 0 20986
+S
+#20981
+0 0
+~
+Footsteps echo as $n enters the room.~
+Footsteps echo as $n exits the room.~
+0 0 0
+``Foyer~
+`gThis is a large room, dwarfing you in its grandeur.  The ceiling is at
+least 25 feet high with a large `hcrystal `gchandelier hanging down from
+it.  The floor here is heavy marble with rich grains and swirls running
+through it.  `hWhite `gmarble busts occupy alcoves spaced throughout the
+room.  Open double doors are to the `mnorth `gand there is a closed single
+door to the `msouth.  `gA huge grand staircase lies `mwest, `gleading up
+to the second floor.``
+   `gHuge oak doors are to the `meast, `gleading outside to the front of
+the manor house.``
+~
+0 BD 0
+0
+~
+I 0 D0
+~
+~
+0 0 20987
+D1
+~
+door~
+1 0 20975
+D2
+~
+door~
+1 0 20983
+D3
+~
+~
+0 0 20982
+S
+#20982
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`hGrand staircase``~
+`gYou stand at the bottom of a huge staircase.  The stairs are at least 20
+feet wide and at the top it curves to the left and the right.  The whole
+thing is made of beautiful white marble.  The `hfoyer `gis to the `meast.``
+~
+0 CD 0
+0
+~
+I 0 D1
+~
+~
+0 0 20981
+D4
+~
+~
+0 0 20990
+S
+#20983
+0 0
+~
+~
+~
+0 0 0
+`hButler's pantry``~
+`gThis is a very utilitarian room with not much ornamentation.  And not
+very large.  It is neat and organised, with an entire wall of drawers filled
+with all manner of things.  A broom and dustbin sit in one corner and an
+ironing board sits against the `meast `gwall.  The floor is covered in plain
+tiles and the walls are painted white.  `gThis is where the butler keeps
+his cleaning and other supplies and where he goes when he is not to be seen.
+A door is in the `mnorth `gwall, and an open doorway leads to the kitchen to
+the `mwest.  `` 
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 20981
+D3
+~
+~
+0 0 20984
+S
+#20984
+0 0
+~
+$n enters the kitchen.~
+$n exits the kitchen.~
+0 0 0
+`hThe Kitchen``~
+`gIncredible smells almost slam into you as you enter this room. 
+Whomever cooks here really knows their stuff.  This is the kitchen, and it
+is huge.  The center of the room in dominated by a huge island, covered with
+slabs of marble for making pastries.  The western wall is lined with
+three huge vats, steam rising with a tantalizing aroma of soup.  Along the
+south wall is a gigantic oven.  A steel hood hangs down from the ceiling
+above it.  This kitchen could easily feed an army.  There is a closed door
+to the `mnorth `gand two open doors to the `meast.  `gOne leading to the
+butler's pantry, and the other is a set of stairs leading `mdown.  `` 
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 20985
+D1
+~
+~
+0 0 20983
+D5
+~
+~
+0 0 20991
+S
+#20985
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`hDining room``~
+`gThe dominant feature of this room is a table at least fifty feet long.
+Eighty chairs at least line the sides.  It is made of beautiful polished 
+cherry wood.  Eight silver candle holders are lined up on its top.
+Two large crystal chandeliers hand down from an elaborate ceiling.  Covered
+with intricate designs.  The walls are covered with fine silver silk
+wallpaper and the floor is covered in thick, plush carpet with elaborate
+designs.  Doors lead to the `mnorth `gand `msouth `gand double french doors lead
+west to the terrace.  You smell wonderful food odors coming from the south
+door.``
+~
+0 BD 0
+0
+~
+I 0 D0
+~
+~
+0 0 20989
+D2
+~
+~
+0 0 20984
+D3
+~
+~
+0 0 20986
+S
+#20986
+0 0
+~
+$n walks onto the terrace.~
+$n walks off the terrace.~
+0 0 0
+`hA beautiful terrace``~
+`eThis terrace is huge.  You think a hundred people could be on it and it
+still wouldn't seem crowded.  It is made of beautiful multi-colored stone
+with bright `hsilver specks `ein it.  Looking to the `mwest `eyou see a huge,
+incredibly beautiful garden.  To the `meast `efrench double doors provide access
+to the manor house.``
+~
+0 C 2
+0
+~
+I 0 D1
+~
+~
+0 0 20985
+D3
+~
+~
+0 0 20980
+S
+#20987
+0 0
+~
+~
+~
+0 0 0
+`hSmoking room``~
+`gThis is not a large room, about 10 feet by 10 feet square.  The north
+wall is one huge bookshelf. You've never seen so many books.  There is a
+large window in the east wall to provide light and a view.  Two large
+oak desks face each other and stick out into the room from the window.  A
+comfortable sitting chair is in the southwest corner.  The room is trimmed 
+extensively in dark wood, the walls covered in dark green wallpaper and
+the ceiling is a deep gold color.``
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 20981
+D3
+~
+~
+0 0 20988
+S
+#20988
+0 0
+~
+~
+~
+0 0 0
+`hGame room``~
+`gYou are slightly startled as you walk into this room and come face to
+face with a tiger's head.  It is then that you notice a number of
+different animal heads mounted on the walls.  There is a lion, a bear, and a
+wolf.  They all seem to be predators.  There is even a small blue dragon
+crouching in the corner.  A large portrait of a man standing proudly with
+one foot on a dead bear is over the fireplace.  Doors lead `meast `gand
+`mwest.  `` 
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 20987
+D3
+~
+~
+0 0 20989
+S
+#20989
+0 0
+~
+~
+~
+0 0 0
+`hSitting room``~
+`gSunlight fills this room.  Both outside walls are almost totally made
+of glass from floor to ceiling.  This looks like it is a sewing and sitting
+room.  Comfortable chairs are near the windows and there is a spinning
+wheel in one corner.  Sewing supplies cover a table between the chairs
+and half done needlepoint sits on a footstool.  The walls are covered in
+wallpaper, white with a beautiful floral pattern.  To the `msouth `gyou
+see the dining room, `meast `glies the game room.``
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 20988
+D2
+~
+~
+0 0 20985
+S
+#20990
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`hSecond floor hallway``~
+`gThis is the hallway on the second floor of the manor.  Plush carpeting
+softens the sound of your footsteps and fine paintings adorn the walls.
+There are doorways to the `mnorth `gand the `msouth`g.``
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 20994
+D2
+~
+~
+0 0 20995
+D5
+~
+~
+0 0 20982
+S
+#20991
+0 0
+~
+$n comes down the stairs.~
+$n leaves $T.~
+0 0 0
+`hWine Cellar``~
+`gYou descend the stairs from the kitchen and find yourself in a large wine
+cellar.  Rack upon rack of bottles of wine receed into the darkness.  The
+ceiling here is low, you almost scrape the top of your head.  The walls are
+made of rough stone and the floor is dirt.  It is dark, cold, and damp here.
+The only light is provided by a torch embedded in the wall.  This place
+gives you the creeps, you even think you hear faint screaming, but it is
+probably just air moving through a hole in the wall...right?``
+~
+0 CD 18
+0
+~
+I 0 D2
+~
+door~
+1 20979 20992
+D4
+~
+~
+0 0 20984
+S
+#20992
+30 400
+~
+$n enters through the secret door.~
+$n leaves through the secret door.~
+0 0 0
+`hMad sister's cell!``~
+`d Grasping darkness and vile smells nearly overwhelm you as you step
+into the black cell.  As your eyes slowly adjust it seems this must be an
+animal's den, surely no person could live here.  Close around you stand bare
+walls of packed dirt, with not enough room to stand up fully.  There are no
+windows, no furniture, just a few scraps of rotting food and a few tattered
+anonymous rags.  The inside of the door has been clawed and chewed, but not
+weakend at all.  Was `mAnna`d locked away becase she was mad, or did
+shutting her in here make her so? `` 
+~
+0 DN 18
+0
+~
+H90
+I 0 M90
+D0
+~
+door~
+1 20979 20991
+S
+#20993
+0 0
+~
+~
+~
+0 0 35
+`hThe Lord's bedroom``~
+`gThis is the most plush and rich looking room you've seen so far.  You
+almost feel like you're in quicksand as you sink into the carpet.  The walls
+are covered in gold silk, and dark hardwoods are spread throughout. 
+Straight ahead french doors lead to a small balcony.  To the left is a large
+bed, neatly made.  In fact, the whole room is impeccably neat.  On the
+`mnorth `gwall is a large portrait of `bLord Vryce.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20994
+S
+#20994
+0 0
+~
+~
+~
+0 0 0
+`hOuter room``~
+`gThis is a spartan room for the most part, the only furniture being one
+small couch and a table.  The floor is made of rich wood covered with a
+small area rug.  The walls are bare.  There is an open door leading to the
+hallway `msouth `gand closed double doors are to the `mwest.  `` 
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 20990
+D3
+~
+door~
+1 0 20993
+S
+#20995
+0 0
+~
+~
+$n leaves $T.~
+0 0 0
+`hOuter room``~
+`hThis room is light and airy.  Two windows in the south wall provide
+`ksunlight`` as well as fresh air.  Two plush couches face each other over
+a coffee table and two overstuffed chairs reside in opposite corners.  A
+large mirror is on the north wall next to the door, which helps spread
+even more `ksunlight ``around the room.  The walls, ceiling and carpeting
+are all white.  An open set of open french doors lead west.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 20990
+D3
+~
+~
+0 0 20996
+S
+#20996
+0 0
+~
+$n walks into the bedroom.~
+$n walks out of the bedroom.~
+0 0 35
+`iThe Lady's Bedroom``~
+`hYou have entered Lady Viki's bedroom.  This is a fairly large room,
+with a huge window in the `mwest `hwall.  There is a beautiful vanity to the
+right, this must be where Viki tries to make herself beautiful.  To the left
+there is a large canopied four poster bed.  Large enough to sleep four
+people easily.  What really strikes you as you enter the room though, is
+just how messy it is.  There are clothes everywhere, even on the floor, and
+the bed is unmade.  Viki must really run poor Deanna ragged.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D1
+~
+~
+0 0 20995
+S
+#20997
+0 0
+~
+$n enters the barn.~
+~
+0 0 0
+`cA barn``~
+`dThough not huge, this is the largest structure you've seen so far.  It 
+actually has a second story.  A hay loft is filled to overflowing.  Hay
+seems to be the main occupant of this level as well, though there are a
+few chickens running around and a pig in one stall.``
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 20961
+D5
+~
+door~
+4097 20999 20998
+S
+#20998
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`dEntrance to secret area``~
+`eYou are standing at the bottom of a ladder.  This seems to some kind 
+of hidden underground area.  The walls are rough stone and earth, the floor
+is dirt.  It appears to be a man made area.  Timbers help hold up the ceiling.
+A corridor goes off to the `mnorth.``
+~
+0 BCD 18
+0
+~
+I 0 D0
+~
+~
+0 0 20999
+D4
+~
+door~
+4097 0 20997
+S
+#20999
+0 0
+~
+$n comes down the passage.~
+$n goes down the passage.~
+0 0 0
+`dDark passage``~
+`eThis place is dark and damp.  The only light source is a couple of
+widely spaced torches stuck in the wall.  The corridor goes `mnorth `eand
+`msouth, `ewhile there are openings to the `meast `eand `mwest.  `` 
+~
+0 BD 18
+0
+~
+I 0 D0
+~
+~
+0 0 21002
+D1
+~
+~
+0 0 21000
+D2
+~
+~
+0 0 20998
+D3
+~
+~
+0 0 21001
+S
+#21000
+0 0
+~
+$n ducks into the room.~
+$n ducks out of the room.~
+0 0 0
+`dStorage room``~
+`eCrates are stacked from floor to ceiling here.  Some are labeled `d'weapons',
+`esome are labeled `d'armor'.  `eObviously someone is preparing for some
+really serious fighting.``
+~
+0 BD 18
+0
+~
+I 0 D3
+~
+~
+0 0 20999
+S
+#21001
+0 0
+~
+$n ducks into the room.~
+$n ducks out of the room.~
+0 0 0
+`dA storage room``~
+`eCrates are stacked from floor to ceiling here.  Some are labeled `d'weapons',
+`esome are labeled `d'armor'.  `eObviously someone is preparing for some really
+serious fighting.``
+~
+0 BD 18
+0
+~
+I 0 D1
+~
+~
+0 0 20999
+S
+#21002
+0 0
+~
+$n comes down the passage.~
+$n goes down the passage.~
+0 0 0
+`dA dark passage``~
+`eThis place is dark and damp.  The only light source is a couple of
+widely spaced torches stuck in the wall.  The corridor goes `mnorth `eand
+`msouth, `ewhile there are openings to the `meast `eand `mwest.  `` 
+~
+0 BD 18
+0
+~
+I 0 D0
+~
+~
+0 0 21006
+D1
+~
+~
+0 0 21003
+D2
+~
+~
+0 0 20999
+D3
+~
+~
+0 0 21005
+S
+#21003
+0 0
+~
+$n ducks into the room.~
+$n ducks out of the room.~
+0 0 0
+`dA storage room``~
+`dCrates are stacked from floor to ceiling here.  Mostly they are filled
+with foodstuffs.  Mostly fruits and vegetables, but also flour
+and wheat.  There is enough here to feed a small army.  `` 
+~
+0 BD 18
+0
+~
+I 0 D3
+~
+~
+0 0 21002
+S
+#21004
+30 250
+~
+$n ducks into the room.~
+$n ducks out of the room.~
+0 0 0
+`dLeader's planning room``~
+`eYou are amazed by the sight that greets you as you enter this room. 
+This room is truly opulent.  Wood paneling covers the walls, thick carpets
+cover the floor, and there is even a chandelier.  You can hardly believe you
+are still underground.  The only reminder is the somewhat stale air.  The
+room is dominated by a huge oak desk, which is covered with numerous maps
+and dispatches.  There is only one exit you can see, and that goes `msouth. 
+`` 
+~
+0 BD 18
+0
+~
+I 0 D2
+~
+~
+0 0 21005
+S
+#21005
+0 0
+~
+`g$n `benters the room``~
+`g$n `bexits to the $T``~
+0 0 0
+`dTraining room``~
+This room is larger than the others in this underground warren, at least
+25 feet square.  Plenty of torches perch on the walls here to provide light.
+By the look of the activities going on here, this may be a training room for
+the revolutionaries.  Doors lead `mnorth `eand `meast.  `` 
+~
+0 BD 18
+0
+~
+I 0 D0
+~
+~
+0 0 21004
+D1
+~
+~
+0 0 21002
+S
+#21006
+0 0
+~
+~
+$n goes $T.~
+0 0 0
+`dLadder``~
+`eYou stand at the bottem of a ladder leading up.  A trapdoor is at the 
+top.  A dark, damp corridor goes off to the`m south`e.  The only light is
+supplied by a couple of feeble torches.``
+~
+0 BCD 18
+0
+~
+I 0 D2
+~
+~
+0 0 21002
+D4
+~
+~
+0 0 20979
+S
+#21007
+24 35
+~
+`m$n climbs into the wagon.``~
+`m$n climbs out of the wagon.``~
+0 64 0
+`cTroupe master's wagon``~
+`mThough not looking very large on the outside, you are struck by large
+the wagon is on the inside.  What really gets your attention however, is how
+cluttered it is.  Stuff is everywhere.  There are costumes hung everywhere,
+as well as all manner of props for the entertainers.  All are scattered
+about in what to you seems like a totally indiscrimintate manner.  You
+wonder how they find anything in this mess.  `` 
+~
+0 BCD 0
+0
+~
+I 0 S
+#21008
+0 0
+~
+~
+~
+0 0 0
+`kVryce's Stable``~
+`dThis aisle obviously contains Vryce's prize horses, for the stalls are
+much larger than the ones to the `msouth`d, and have specially padded doors.
+The hay here is all fresh and sweet, and smells as if it were newly mown and
+then blended with alfalfa and clover for the pleasure of the horses.  You
+can't help but wonder how Vryce could pamper his horses like this when his
+people in the village are slowly working themselves to death for his tawdry
+pleasures.  `` 
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 21009
+D1
+~
+~
+0 0 21013
+D2
+~
+~
+0 0 20979
+D3
+~
+~
+0 0 21012
+S
+#21009
+0 0
+~
+~
+~
+0 0 0
+`kVryce's Stable``~
+`dWhile the stalls to the `msouth`d were opulent, these stalls are more
+opulent still, and hold what are obviously Vryce's prize studs.  These big,
+beautiful stallions are gorgeous animals, one coal-black, and the other
+ghost-white, and are pampered with the largest stalls, the best food, and
+the softest blankets in all of Fulk Nerra, save those used by Lord Vryce
+himself.  `aSilver nameplates`d hang over each of the stallions' stalls,
+with `kgolden`d lettering in an extravagent, and wasteful display of wealth.
+`` 
+~
+0 D 0
+0
+~
+I 0 E
+desc~
+`aOne nameplate spells out the imaginative name of `k Midnight`a in
+golden letters.  Typical of Vryce's lack of imagination, the stall above the
+white horse reads `kGhost`a.  `` 
+~
+D1
+~
+~
+0 0 21010
+D2
+~
+~
+0 0 21008
+D3
+~
+~
+0 0 21011
+S
+#21010
+30 100
+~
+$n pushes open the stall door and enters the lavish stall.~
+$n slips out the stall door, careful to avoid spilling any water.~
+0 0 0
+`kMidnight's Stall``~
+`kMidnight `dis obviously a pampered favorite of Lord Vryce's.  His stall
+is easily twice as big as any of the Fulk Nerra cottages, and fifty times
+more comfortable.  Soft, clean hay crushes easily underfoot, releasing the
+sweet smells of alfalfa, clover, and fresh cut flowers.  A large golden
+water pan hangs on the stall door, filled with sparkling clear water with a
+single blackberry sprig floating in it.  Sounds of other equine life drift
+into the stall from the `mwest`d.  `` 
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 21009
+S
+#21011
+0 0
+~
+$n cautiously enters this stall.~
+$n slips out of the stall quickly.~
+0 0 0
+`kGhost's Stall``~
+`kGhost's`d stall is as lavishly done as `kMidnight's`d, however,
+`kGhost`d obviously lacks the complacent nature of his darker counterpart. 
+Padding has been torn from the walls, and toothmarks score the frame of the
+doorway.  Fresh, sparkling water with a sprig of blueberries floats in a
+golden water trough, but it seems to be largely ignored by this angry but
+beautiful creature.  More peaceful sounds of equine life can be heard to the
+`meast`d.  `` 
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 21009
+S
+#21012
+0 0
+~
+$n's footfalls are silenced by the soft hay as $e enters the stall.~
+$S muffled by the thick, soft hay, $n exits the stall.~
+0 0 0
+`kA Stall``~
+`dThis luxurious stall looks much more comfortable than any of the
+cottages in the village, or even in the common areas of Vryce and Viki's
+mansion.  The hay is fresh and sweet smelling, and the gentle mare that
+resides here shifts restlessly as you enter her stall but makes no moves
+toward you.  Fresh water gleams in a silver pail, and the busy sounds of
+Vryce's stables can be heard to the `meast`d.  `` 
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 21008
+S
+#21013
+0 0
+~
+$n creeps cautiously into the stall.~
+$n makes a graceful exit.~
+0 0 0
+`kA Stall``~
+`dThis fancy and sumptiously appointed stall obviously has one very
+disgruntled inhabitant!  Padding has been torn from the stall door, which
+leans slightly to the left, no doubt the result of many, spirited kicks.  It
+has obviously been the object of a long-term concentrated attack by this
+lovely but untamed animal.  To the `mwest`d, the normal sounds of a stable
+can be heard.  `` 
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 21008
+S
+#0
+
+#RESETS
+O 0 20952   0 20980 1	* A small, gurgling fountain at `gA Garden``
+D 0 20981   1    1	* ``Foyer [east]
+D 0 20975   3    1	* `gBefore the manor`` [west]
+D 0 20991   2    2	* `hWine Cellar`` [south]
+D 0 20992   0    2	* `hMad sister's cell!`` [north]
+M 0 20969   1 20995  1	* A chamber maid
+M 0 20962   1 20981  1	* A butler
+E 0 20962   -1    3	* item to A butler
+M 0 20964   1 20987  1	* `ea secretary``
+E 0 20963   -1    0	* item to `ea secretary``
+M 0 20961   1 20980  1	* `ca gardener``
+E 0 20975   -1    6	* item to `ca gardener``
+M 0 20968   1 20994  1	* The valet
+D 0 20994   3    1	* `hOuter room`` [west]
+D 0 20983   0    1	* `hButler's pantry`` [north]
+D 0 20981   2    1	* ``Foyer [south]
+M 0 20972   1 20997  1	* `dfarmer jon``
+D 0 20997   5    2	* `cA barn`` [down]
+D 0 20998   4    2	* `dEntrance to secret area`` [up]
+O 0 20976   0 21000 1	* `ga crude steel shield`` at `dStorage room``
+M 0 20955   1 20958  1	* `gan acrobat``
+E 0 20959   -1    8	* item to `gan acrobat``
+M 0 20956   1 20964  1	* `da fool``
+E 0 20957   -1    6	* item to `da fool``
+M 0 20963   4 20989  4	* A maid
+M 0 20967   1 20992  1	* `mmad anna``
+M 0 20959   1 20978  1	* A footman
+M 0 20965   1 20988  1	* Captain hastings
+E 0 20964   -1    7	* item to Captain hastings
+M 0 20966   1 20984  1	* Helga the cook
+E 0 20972   -1   13	* item to Helga the cook
+G 0 20977 -1		* A delicious apple pie to Helga the cook
+M 0 20952  10 20954  2	* `ha serf``
+E 0 20953   -1   17	* item to `ha serf``
+M 0 20953   3 20968  1	* `ca woodsman``
+E 0 20954   -1   16	* item to `ca woodsman``
+M 0 20954   1 20970  1	* `ba strongman``
+E 0 20955   -1   16	* item to `ba strongman``
+E 0 20956   -1   13	* item to `ba strongman``
+M 0 20957   1 20961  1	* `ma juggler``
+E 0 20958   -1   17	* item to `ma juggler``
+E 0 20958   -1   16	* item to `ma juggler``
+M 0 20958   1 21007  1	* Rigby
+E 0 20960   -1   13	* item to Rigby
+O 0 20979   0 20991 -1	* A half used torch at `hWine Cellar``
+M 0 20960   1 20979  1	* A stableboy
+G 0 20961 -1		* ``a piece of note paper to A stableboy
+M 0 20970   6 21001  2	* `ba revolutionary``
+E 0 20965   -1   17	* item to `ba revolutionary``
+E 0 20966   -1    5	* item to `ba revolutionary``
+M 0 20975   1 20984  1	* A scullery girl
+O 0 21000   0 20991 -1	* A wine rack at `hWine Cellar``
+M 0 20976  10 20967  2	* `ha serf``
+M 0 20976  10 20960  2	* `ha serf``
+M 0 20976  10 20955  2	* `ha serf``
+M 0 20979   1 21010  1	* `emidnight``
+M 0 20977   1 21010  1	* `da stable boy``
+E 0 21001   -1   18	* item to `da stable boy``
+M 0 20981   2 21012  1	* `da brown mare``
+M 0 20980   2 21013  1	* `ia red mare``
+M 0 20978   2 21011  1	* `oghost``
+O 0 21002   0 20985 -1	* `ba cherry wood table`` at `hDining room``
+O 0 7   0 20957 -1	* The symbol at `cVillage Center``
+O 0 21008   0 20957 -1	* The troupe manager's wagon at `cVillage Center``
+O 0 21009   0 21007 -1	* The troupe manager's wagon at `cTroupe master's wagon``
+M 0 20983   1 20952  1	* Your father
+M 0 20974   1 20993  1	* Lord vryce
+E 0 20968   -1    8	* item to Lord vryce
+E 0 20969   -1   17	* item to Lord vryce
+E 0 20971   -1    5	* item to Lord vryce
+E 0 21010   -1   18	* item to Lord vryce
+M 0 20982   1 20971  1	* `imuffi the amazing magician``
+E 0 21005   -1   12	* item to `imuffi the amazing magician``
+E 0 21006   -1   18	* item to `imuffi the amazing magician``
+G 0 21011 -1		* A mystical pink vial trap to `iMuffi the amazing magician``
+M 0 20971   1 21004  1	* `esimon demontfort``
+G 0 21012 -1		* `bthe crest of the revolution`` to `eSimon DeMontfort``
+E 0 20974   -1    9	* item to `esimon demontfort``
+E 0 20973   -1   16	* item to `esimon demontfort``
+M 0 20973   1 20996  1	* Lady viki
+G 0 21013 -1		* `celegant emerald earrings`` to Lady Viki
+E 0 20967   -1    2	* item to Lady viki
+E 0 20970   -1   14	* item to Lady viki
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 20958 spec_cast_judge		* Rigby
+M 20963 spec_janitor		* A maid
+M 20974 spec_cast_mage		* Lord Vryce
+S
+
+#OT
+#20954
+`cFulk Nerra -`b lumberjack axe``~
+$on_tick~
+536870912
+65
+force $wearer yell I'm a lumberjack and I'm OKAY!~
+100
+2
+force $wearer yell I sleep all night and I work ALL DAY!~
+100
+15
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+3
+#20977
+(null)~
+$obj_given_char 21444~
+4096
+96
+force sierra say Ooooh, yummy! thank you so much!~
+100
+2
+force sierra eat pie~
+100
+1
+reward $3vict 3000 `kQuest Complete!``~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

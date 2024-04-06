@@ -1,0 +1,129 @@
+* File: Tylor.scr
+* Mob: Captain Tylor (mob 14000)
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %tick% random 0 9
+if (%haskey% == 1)
+  halt once~
+Sc
+if (%tick% == 0)
+  say I'll pay 500 gold to anyone who can kill those goblins and bring back my key.
+  halt once~
+Sc
+if (%tick% == 1)
+  say If I ever catch the goblins who stole my key, I'm going to kill them.
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %haskey% == 0
+  let %generic% == 0
+* When Tylor is born, he checks with Bonebreak to see if the quest has been done yet.
+  signal 14106 IsQuestDone
+  halt once~
+End
+
+#TRIGGER give
+Type 5
+Sc
+mfunc %give-from% %name% name
+ofunc %give-arg% %what% vnum
+ofunc %give-arg% %objname% name
+if ( %what% != 14102 )
+  say No, you keep this.
+  drop %objname%
+  halt once~
+Sc
+if ( %generic% == 1 )
+  say Thanks, but my key has already been returned.
+  say Perhaps this one is a fake.
+  cmd at 1 eat metal
+  halt once~
+Sc
+if ( %haskey% == 1 )
+  say Thanks, but my key has already been returned by %winner%.
+  say Perhaps this one is a fake.
+  cmd at 1 eat metal
+  halt once~
+Sc
+if ( %what% == 14102 )
+  say Thanks for recovering the key, %name%.
+  let %haskey% == 1
+  let %winner% == %name%
+  signal 14106 keyreturned
+  cmd at 1 eat metal
+  say Everyone is Merossa is much safer now that the we know the dragon is locked away.
+  wait 3~
+Sc
+if ( %what% == 14102 )
+  say True to my word, here's your reward.
+  cmd at 1 load obj 4553
+  cmd at 1 load obj 4553
+  cmd give bag %name%
+  cmd give bag %name%
+  wait 25~
+Sc
+if ( %what% == 14102 )
+  say Not enough!?
+  wait 5~
+Sc
+if ( %what% == 14102 )
+  say OK, fine, here's something else.  It's supposed to unlock a lost treasure chest.
+  say Nobody knows where the chest is anyway.
+  cmd at 1 load obj 14106
+  cmd drop key
+  cmd set obj wooden extra nodrop
+  wait 20~
+Sc
+if ( %what% == 14102 )
+  cmd get key
+  cmd at 1 eat key
+  halt once~
+End
+
+#TRIGGER catapult
+Type 8
+Sc
+if ( %catapult-arg% cmp "catapult" )
+  cmd yell Watch out, men!  The pirates have opened fire on us!
+  halt once~
+End
+
+#TRIGGER doyouhavekey
+* When bonebreak the goblin is born, he checks with Tylor to see if the quest has been won already.
+Type 8
+Sc
+if (%haskey% == 1)
+  signal 14106 keyreturned
+  halt once~
+End
+
+#TRIGGER QuestIsDone
+* Bonebreak responds to the newborn Tylor that the quest has already been completed.
+Type 8
+Sc
+if ( %QuestIsDone-arg% cmp "QuestIsDone" )
+  let %haskey% == 1
+  let %generic% == 1
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+  cmd kill pirate
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+  cmd kill pirate
+  halt once~
+End
+
+#END

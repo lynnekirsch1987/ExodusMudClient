@@ -1,0 +1,2842 @@
+#AREA
+ 6~
+sdale.are~
+Sarrendale Farm~
+{ 5 12} Luna  Sarrendale Farm~
+~
+3400 3500
+3 0 0
+0 0
+~
+#MOBILES
+#3400
+cow~
+a cow~
+An adventurous bovine peers into the distance at the open prairie.
+~
+~
+unique~
+0 0 0 0
+ABe Z 100 0
+8 -15 3d22+100 1d8+100 2d4+5 chomp
+50 50 50 999 50
+0 -1 0 0 0 B
+stand stand either 0
+AV ACDEFGHIJK 7 7 7 7 7 7 0
+medium flesh~
+0 0 30000 0
+0
+~
+sdalecow.scr~
+#3401
+hen~
+A hen~
+A hen runs around in the dirt, squawking madly.
+~
+~
+song bird~
+0 0 0 0
+A T 0 0
+6 -15 1d20+45 1d10+100 2d3+2 peck
+50 50 50 999 50
+0 -1 FH 0 0 0
+stand stand female 0
+AGW ACDEFHKPZa 7 7 7 7 7 7 0
+small feather~
+0 0 0 100
+0
+~
+~
+#3402
+old sow~
+An old sow~
+An old sow roots around in the muck, trying to sniff out some food.
+~
+~
+pig~
+0 0 0 0
+AGU 0 0 0
+6 -15 1d19+45 6d10+100 3d2+4 charge
+50 50 50 999 50
+0 -1 C 0 0 0
+stand stand female 0
+AGV ACDEFHJKa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#3403
+tiny piglet~
+A tiny piglet~
+A tiny piglet stumbles about looking for its mother.
+~
+~
+pig~
+0 0 0 0
+ABGHU 0 0 3
+2 -15 1d6+2 6d10+100 1d2+1 charge
+50 50 50 999 50
+0 -1 0 0 0 0
+stand stand either 0
+AGV ACDEFHJKa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#3404
+fat pig~
+A pig~
+A fat pig strolls lazily through the mud.
+~
+~
+pig~
+0 0 0 0
+AGU 0 0 4
+7 -15 2d14+54 6d10+100 3d3+4 charge
+50 50 50 999 50
+0 -1 C 0 0 0
+stand stand male 0
+AGV ACDEFHJKa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#3405
+white lamb~
+`oa white lamb``~
+`oA white lamb is munching vacantly on some wild grass here.``
+~
+~
+unique~
+0 0 0 0
+AGU 0 0 0
+5 -15 2d9+40 5d10+50 3d2+2 bite
+50 50 50 999 50
+0 -1 0 0 0 H
+stand stand female 0
+A ADEFK 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#3406
+black ram~
+`aa black ram``~
+`aA black ram struts proudly past the other sheep, horns in the air.``
+~
+~
+unique~
+0 0 0 0
+AGU 0 0 0
+8 -15 3d20+90 5d10+50 2d5+3 charge
+50 50 50 999 50
+0 -1 C 0 0 H
+stand stand male 0
+AV ADEFKW 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#3407
+mangy sheep dog~
+A mangy sheep dog~
+A mangy, long-haired sheep dog tries to herd you over with the lambs.
+~
+~
+dog~
+0 0 0 0
+AGUe 0 0 0
+8 -15 1d25+48 8d10+50 2d5+5 bite
+50 50 50 999 50
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKUVa 7 7 7 7 7 7 0
+small flesh~
+0 0 330 100
+0
+~
+~
+#3408
+cow~
+A cow~
+A cow stands here munching on grass, her udders distended with milk.
+~
+~
+unique~
+0 0 0 0
+ABGe 0 0 0
+9 -15 3d22+96 1d1+100 2d4+4 charge
+50 50 50 999 50
+0 -1 0 0 0 0
+stand stand female 0
+AV ABCDEFJQ 7 7 7 7 7 7 0
+medium flesh~
+0 0 300 100
+0
+~
+~
+#3409
+calf~
+A calf~
+A calf lays in the grass, suckling at its mother's udders.
+~
+~
+unique~
+0 0 0 0
+ABGH 0 0 0
+4 -15 1d17+40 1d5+100 2d3+2 charge
+50 50 50 999 50
+0 -1 0 0 0 J
+rest rest either 0
+AV ADEF 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#3410
+cow~
+A cow~
+A cow meanders lazily about the grass.
+~
+~
+unique~
+0 0 0 0
+AGe 0 0 0
+10 -15 3d22+96 4d2+100 2d5+5 charge
+50 50 50 999 50
+0 -1 0 0 P Q
+stand stand either 0
+AV ADEF 8 8 8 8 8 8 0
+large flesh~
+1 0 30000 250
+0
+~
+~
+#3411
+thin scrawny goat~
+A scrawny goat~
+A thin goat tries to take a bite out of your clothing.
+~
+~
+unique~
+0 0 0 0
+AGUe 0 0 0
+10 -15 3d24+97 10d10+50 5d2+4 chomp
+50 50 50 999 50
+0 -1 0 0 L 0
+stand stand female 0
+A ACDK 8 8 8 8 8 8 0
+small flesh~
+0 0 30000 100
+0
+~
+~
+#3412
+thin scrawny goat~
+An old billy goat~
+An old billy goat snorts at you as you enter the pen.
+~
+~
+unique~
+0 0 0 0
+ABGUe 0 0 0
+12 -15 4d22+101 10d10+50 4d4+5 charge
+50 50 50 999 50
+0 -1 0 0 L 0
+stand stand male 0
+A ACDK 8 8 8 8 8 8 0
+small flesh~
+0 0 30000 100
+0
+~
+~
+#3413
+rooster~
+A rooster~
+A rooster struts around the yard proudly, boasting and preening his cock.
+~
+~
+song bird~
+0 0 0 0
+AGU T -400 0
+6 -15 3d6+43 10d10+50 1d6+2 peck
+50 50 50 999 50
+0 -1 FHJ 0 0 H
+stand stand male 0
+AGW ACDEFHKPZa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#3414
+bumble bee~
+A bumblebee~
+A bee flits around the garden, sampling various fragrant fruits.
+~
+~
+unique~
+0 0 0 0
+AB T 0 0
+4 -15 1d17+30 1d10+100 2d3+1 sting
+50 50 50 999 50
+0 -1 H 0 0 H
+stand stand none 0
+AO 0 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#3415
+foal~
+A foal~
+A foal lays in the grass, her wobbly legs tucked precariously beneath her.
+~
+~
+unique~
+0 0 0 0
+ABHe 0 400 5
+5 -15 1d17+45 1d10+100 2d3+2 beating
+50 50 50 999 50
+0 -1 F 0 0 0
+rest rest female 0
+0 0 7 7 7 7 7 7 0
+small flesh~
+0 0 50 200
+0
+~
+~
+#3416
+mare horse~
+A mare~
+A chestnut colored mare stands guard over her foal.
+~
+~
+unique~
+0 0 0 0
+ABGZ c 0 5
+9 -15 3d20+80 1d5+100 2d4+4 charge
+50 50 50 999 50
+0 -1 FHI 0 0 R
+stand stand female 0
+AV ACEFJK 7 7 7 7 7 7 0
+medium flesh~
+1 1 350 300
+0
+~
+~
+#3417
+colt~
+A colt~
+A colt, brazen with the lack of fear, lurches around on his newfound legs.
+~
+~
+unique~
+0 0 0 0
+AGe 0 350 0
+5 -15 1d17+50 1d7+100 2d3+2 charge
+50 50 50 999 50
+0 -1 0 0 0 R
+stand stand male 0
+AV ACDEFJ 7 7 7 7 7 7 0
+small flesh~
+0 0 70 100
+0
+~
+~
+#3418
+palomino~
+A palomino~
+A magnificent palomino paces the pasture restlessly.
+~
+~
+unique~
+0 0 0 0
+Ae a 200 0
+11 -15 3d22+115 1d10+100 2d5+6 charge
+50 50 50 999 50
+0 -1 FHI 0 0 0
+stand stand either 0
+AV ACEFJ 8 8 8 8 8 8 0
+medium flesh~
+0 1 400 350
+0
+~
+~
+#3419
+mustang horse~
+A mustang~
+A horse of impressive stature canters about the field.
+~
+~
+unique~
+0 0 0 0
+AGe 0 -100 0
+12 -15 2d30+140 1d10+100 2d5+6 charge
+50 50 50 999 50
+0 -1 FHI 0 0 R
+stand stand male 0
+AV ACDEF 8 8 8 8 8 8 0
+medium flesh~
+0 2 550 400
+0
+~
+~
+#3420
+stablehand davinne~
+Davinne~
+A slender girl is here, applying gentle strokes to the mane of a horse.
+~
+~
+human~
+0 0 0 0
+ABH 0 400 0
+13 -15 4d24+130 1d10+100 2d5+7 punch
+50 50 50 999 50
+0 -1 EH 0 0 Q
+stand stand female 5
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#3421
+glyna farmer~
+Farmer Glyna~
+Farmer Glyna is hunched over in the dirt, diligently unweeding the garden.
+~
+~
+human~
+0 0 0 0
+ABCG 0 800 0
+14 -15 5d30+150 1d10+100 3d5+7 slap
+50 50 50 999 50
+0 -1 0 0 0 0
+stand stand female 13
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+glyna.scr~
+#3422
+farmer sarren~
+Farmer Sarren~
+Farmer Sarren stands here, his brow furrowed as he surveys his land.
+~
+~
+human~
+0 0 0 0
+ACG 0 500 0
+16 -15 5d30+175 10d2+100 3d5+9 punch
+50 50 50 999 50
+0 -1 FK 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+glyna.scr~
+#3423
+hen chicken~
+A hen~
+A white feathered hen sits calmly on her nest amidst the cacophony of squawking.
+~
+~
+song bird~
+0 0 0 0
+ABG T 200 0
+8 -15 1d17+67 3d10+100 2d3+2 peck
+50 50 50 999 50
+0 -1 FH 0 0 0
+rest rest female 0
+AGVW ACDEFHIKPZa 7 7 7 7 7 7 0
+small feather~
+0 0 0 100
+0
+~
+~
+#3424
+hen chicken~
+A hen~
+A hen with rumpled feathers lays on a bed of straw trying to squeeze out eggs.
+~
+~
+song bird~
+0 0 0 0
+ABG T 300 2
+8 -15 3d20+70 1d3+100 2d5+3 peck
+50 50 50 999 50
+0 -1 FH 0 0 HJ
+rest rest female 0
+AGVW ACDEFHKPZa 7 7 7 7 7 7 0
+small feather~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#3400
+wooden table~
+a heavy wooden table~
+A heavy wooden table fills the center of this room.~
+wood~
+0
+furniture 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB FIJ EHKN CFG CFG
+0
+0
+15 400 0 P
+#3401
+bed wooden~
+a wooden bed~
+A solid looking hand carved bed is nestled alongside a wall.~
+wood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB DEGJ EHK ACDEFG CFG
+0
+0
+15 0 0 P
+#3402
+wood lumber~
+a pile of wood~
+A stack of wood is neatly piled in a corner here.~
+wood~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 500 40 P
+#3403
+pitchfork~
+a wooden handled pitchfork~
+A dangerous looking pitchfork is propped up against the wall.~
+oldstyle~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 B C B 0
+0
+0
+6 19 6 G
+#3404
+watermelon~
+a watermelon~
+A dusty, round watermelon grows out of a patch of grass.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB BD 0 0
+0
+0
+4 55 0 P
+#3405
+strawberry berry~
+`ia strawberry``~
+`iLucious red berries peek out from beneath their protective leaves.``~
+oldstyle~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 B B 0 0
+0
+0
+4 4 0 A
+#3406
+stack hay straw~
+a stack of hay~
+Thin reedy strands of straw lay strewn across the floor.~
+paper~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+4 200 0 W
+#3407
+tin pail~
+a tin pail~
+A tin pail meant to collect milk has toppled over on the ground.~
+tin~
+0
+container 2
+0
+B
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDFI 0 0 EFGH ABFG
+0
+0
+6 30 10 G
+#3408
+cow bell~
+a cow bell~
+A metal cow bell was left here by a negligent cow.~
+metal~
+0
+instrument 2
+0
+B
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 10 1 P
+#3409
+cucumber~
+`ja cucumber``~
+`jA long slender cucumber is attached to roots extending from the ground.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A AB 0 0 0
+0
+0
+3 0 0 A
+#3410
+wooden trellis~
+a wooden trellis~
+An entangled mass of ivy and thin branches climb up a wooden trellis.~
+wood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 90 0 P
+#3411
+brush~
+a wooden brush~
+A wide bristled brush made of heavy wood has been left on the ground.~
+wood~
+0
+trash 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+8 0 8 P
+A
+14 30
+#3412
+saddle leather~
+a saddle~
+A hard leather riding saddle is tacked up on a wall.~
+hard leather~
+0
+saddle 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+6 50 9 G
+#3413
+basket straw~
+a straw basket~
+A basket holding delicious treats for the horses sits on the ground.~
+paper~
+0
+container 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BEF 0 0 CE CFG
+0
+0
+10 20 0 G
+#3414
+apple~
+an apple~
+A delicious looking apple has been dropped here.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 AB C 0 0
+0
+0
+1 3 0 G
+#3415
+sugar cube~
+a cube of sugar~
+A small white cube lays on the ground, getting dirty.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 ABC 0 0
+0
+0
+1 1 0 G
+#3416
+carrot~
+a carrot~
+A tasty looking carrot looks crunchy enough to eat.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 B AC 0 0
+0
+0
+1 5 0 A
+#3417
+spade~
+a spade~
+A short pronged object with a wooden shaft lays on the ground.~
+metal~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B B AC B 0
+0
+0
+12 0 9 P
+#3418
+gloves work~
+a pair of work gloves~
+A grungy pair of gloves with holes in the fingertips lay here.~
+cloth~
+0
+clothing 2
+S
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+12 0 0 A
+A
+13 5
+#3419
+handkerchief~
+`ba red handkerchief``~
+A dingy sweat stained rag lays discarded on the ground.~
+cloth~
+0
+clothing 2
+S
+B
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 7 0 A
+#3420
+egg~
+``an egg``~
+A small round egg still emanates the warmth of its hen's body.~
+shell~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B B ABC 0 0
+0
+0
+2 4 0 P
+#3421
+stone well~
+`aan old stone well``~
+`hAn `aold stone well`h sits nestled against a curve in the land.``~
+stone~
+0
+fountain 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 10000 0 P
+#3422
+dollarm arm strawberry~
+`hAn arm of a`b Strawberry`h patch doll``~
+A ripped off doll arm is here.~
+cloth~
+0
+trash 2
+ST
+0
+A
+0
+0
+0
+3422
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n steps into nothing and becomes nothing.~
+You step into the portal.~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#3424
+ball ~
+`aa `kg`dl`ko`dw`ki`dn`kg `no`gr`nb``~
+`aa `kg`dl`ko`dw`ki`dn`kg `no`gr`nb `afloats here lazily.``~
+unknown~
+0
+trash 2
+ABJRS
+0
+0
+0
+0
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#3425
+ball ~
+`aa `kg`dl`ko`dw`ki`dn`kg `no`gr`nb``~
+`aa `kg`dl`ko`dw`ki`dn`kg `no`gr`nb `afloats here lazily.``~
+unknown~
+0
+trash 2
+ABJRS
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#3426
+mat~
+`hA `nB`gu`nb`gb`nl`ge `hof `nA`gi`nr``~
+`hA `nB`gu`nb`gb`nl`ge `hof `nA`gi`nr`` `hfloats here serenely.``~
+unknown~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A EIJKN EHK DFGHIJ DFGHIJ
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#3400
+0 0
+~
+~
+~
+0 0 0
+A Well Travelled Dirt Road~
+`dA small dirt road, surface indented by wagon wheels and plows,
+intersects the main eastern road to the north.  The ground is hard and bare,
+washed into gullies by the infrequent but unrelentless wind.  Tall willowy
+wheat fields flank the road, golden in the amber sunlight.  The road
+continues to the south, the only broken land in sight, amongst the unending
+fields of crops.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 21237
+D1
+~
+~
+0 0 21258
+D2
+~
+~
+0 0 3401
+D3
+~
+~
+0 0 21256
+S
+#3401
+0 0
+~
+~
+~
+0 0 0
+A Well Travelled Dirt Road~
+`dYou are travelling along a dirt road amongst an endless sea of corn and
+wheat.  Along the eastern skyline, the landscape sways back in forth as the
+wind blows through the fields, on and on, where it looks like it reaches the
+end of the world.  The entire country around you seems to be running,
+dancing, under the great expansive sky.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3400
+D1
+~
+~
+0 0 21278
+D2
+~
+~
+0 0 3402
+S
+#3402
+15 250
+~
+~
+~
+0 0 0
+A Well Travelled Dirt Road~
+``                  `d ______________________________``
+            \___/   `d|                              |``     \___/
+*---________-o O-    `d>    `kWelcome to               `d|``     -O O-________
+   |  `a##``     \Y/    `d|           `kSarrendale Farm!  `d<``       \Y/ `a###``     |\_*
+   | ____ `a#``_ |      `d|                              |``        | _  ___`a#`` |
+   |/|/  |/|/        `d\____________________________/``          \|\|  \|\|
+   W W   W W            `d||                   ||``               W W   W W
+ 
+`j     \|/  \|/  \\||//  \!/                      \|/  \|/  \\||//  \!/
+ 
+                          \|/  \|/  \\||//  \!/
+ ``
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 3401
+D1
+~
+~
+0 0 21298
+D2
+~
+~
+0 0 3403
+S
+#3403
+0 0
+~
+~
+~
+0 0 0
+Before the Farmhouse~
+The well worn road ends abruptly at a primitive one story sod farmhouse. 
+The farmhouse is bleak, completely unadorned of any decoration, utilitarian
+yet comfortable.  The ground here is trampled bare by the traffic of Farmer
+Sarren's wagons making its weekly journey to the vibrant markets of Thesden
+to peddle his crops.  A path slopes to the west, crossing the farmyard,
+towards the barn.  
+~
+0 C 2
+0
+~
+I 0 D0
+~
+~
+0 0 3402
+D1
+~
+~
+0 0 21318
+D2
+~
+door~
+1 0 3406
+D3
+~
+~
+0 0 3404
+S
+#3404
+0 0
+~
+~
+~
+0 0 0
+A Small Path Crossing the Farmyard~
+This path skirts the fields of Sarrendale Farm, separating the wheat from
+the more lively centre of the farm.  A thick strip of hedges grows alongside
+the path, against the farmhouse to the east and the barn to the west. 
+South, the path curves around a grassy field towards the granaries and
+chicken coops and pig yards.  
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 3403
+D2
+~
+~
+0 0 3408
+D3
+~
+~
+0 0 3405
+S
+#3405
+0 0
+~
+~
+~
+0 0 0
+In Front of the Barn~
+Though not exactly dilapidated, the barn before you stands forlornly
+against the shimmering stalks of wheat, its thatched roof patched in many
+colors.  Every small gust of wind rattles its wooden panes, shaking the barn
+door open and closed impatiently.  Through the spaces where the wood meets
+almost, but not precisely, with itself, you can see the shape of animals
+moving about.  
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 3404
+D2
+~
+door~
+1 0 3409
+S
+#3406
+0 0
+~
+~
+~
+0 0 0
+Inside the Farmhouse~
+`dYou push the wooden door open, and with a rusty howl of the hinges, you
+step into the dank sodden farmhouse.  There is virtually no light in here,
+the farmhouse is too utilitarian to have windows or airy fixtures built into
+it.  The half open door to the north allows the only streaks of light,
+casting your shadow long against heavy wooden furniture.  This room doubles
+as both the dining room and a spartan parlour room where the occassional
+guest sojourns.  `` 
+~
+0 BD 0
+0
+~
+I 0 D0
+~
+door~
+1 0 3403
+D1
+~
+~
+0 0 3407
+S
+#3407
+0 0
+~
+~
+~
+0 0 0
+Inside the Farmhouse~
+`dYou step into a room that is heavy with a musty odor, dust from
+farmers' workboots covering the wooden floor.  Several beds line the east
+wall, covered with patchwork quilts and thick woolen blankets.  The high
+ceiling doesnt quell the claustrophobia you feel from the lack of windows
+and open air.  `` 
+~
+0 BD 0
+0
+~
+I 0 D3
+~
+~
+0 0 3406
+D4
+~
+~
+0 0 26873
+S
+#3408
+0 0
+~
+~
+~
+0 0 0
+A Small Path~
+`dThis small dirt path is bare, for the heavy traffic in the late summer
+months when the air is ripe with the rich odor of fertile corn treads the
+many footsteps of Farmer Sarren and his farmhands.  Small tufts of pale
+green-yellow grass grow stubbornly alongside the naked earth.  To the south,
+the path widens into a grassy field, where you can see cows grazing in the
+knee high brush.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3404
+D2
+~
+~
+0 0 3411
+S
+#3409
+0 0
+~
+~
+~
+0 0 0
+A Wooden Barn~
+`dThis sturdy barn is fabricated of the most robust wood Farmer Sarren
+could find in Fahren Wood, a few days trek by wagon.  Some parts of the
+barn's walls are darker than others, younger wood it appears, having been
+patched in more recent storms.  Streaks of light pass through the eastern
+wall, where the rotted knot of a board allows the sun to enter this
+building.  Hay is strewn all across the floor, where it leads to a big pile
+that has been gathered in a corner.  The south door of the barn stands wide
+open, letting in flies and sunshine alike.  `` 
+~
+0 C 0
+0
+~
+I 0 D0
+~
+~
+1 0 3405
+D2
+~
+door~
+1 0 3416
+D3
+~
+~
+0 0 3410
+S
+#3410
+0 0
+~
+~
+~
+0 0 0
+Inside a Barn~
+`dThe distinct odor of cow manure permeates the air, droppings trod upon
+by the heavy hooves of cows, led to the barn for milking, litter the floor. 
+Tin pails wet with droplets of milk white liquid rest on the hay covered
+floor.  Leaning against the barn wall are various tools of all shape and
+sizes: a wooden handled pitchfork, a metal pronged hoe, and several
+lanterns.  Though the barn is often repaired, during the worst winter
+storms, rain seeps through the wooden roof, and drip, drip, drips down on
+the dirt floor below.  `` 
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 3409
+S
+#3411
+0 0
+~
+~
+~
+0 0 0
+A Dirt Path~
+`dThe small path widens as it leads south to the open grazing fields of
+the farm's cows.  To the northeast, you can see the windowless and doorless
+backside of the sod farmhouse.  Across the field to the northwest lies the
+patchwork wooden barn.  A fragrant garden begins to the east in an explosion
+of color and scents.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3408
+D1
+~
+~
+0 0 3412
+D2
+~
+~
+0 0 3420
+D3
+~
+~
+0 0 3416
+S
+#3412
+0 0
+~
+~
+~
+0 0 0
+A Vegetable Patch~
+Farmer Sarren's wife Glyna spends most of her time tending to these
+gardens.  Her crisp, green cucumbers are famed for their quality, and her
+enormous ripe tomatoes have been known to fetch the best prices at market. 
+Bulbs, fruits, and vegetables of all shapes and colors rise from the ground,
+occasionally snuggling up against wooden trellises.  
+~
+0 B 2
+0
+~
+I 0 D1
+~
+~
+0 0 3413
+D2
+~
+~
+0 0 3415
+D3
+~
+~
+0 0 3411
+S
+#3413
+0 0
+~
+~
+~
+0 0 0
+A Watermelon Patch~
+You are standing in the middle of a watermelon patch.  Several rows of
+fuzzy green leaves poke out of the ground, covering the twisted stalks of
+dusty green watermelons.  Bees buzz all around here, catching glorious
+whiffs of the sweet scented melon.  
+~
+0 B 2
+0
+~
+I 0 D2
+~
+~
+0 0 3414
+D3
+~
+~
+0 0 3412
+S
+#3414
+0 0
+~
+~
+~
+0 0 0
+A Strawberry Field~
+The strawberry field isn't very big, but its produce is more for the
+pleasure of the gardener and her family, not for bringing to market.  In the
+spring, Glyna and her children perform the ritual of planting the tiny seeds
+in their holes, and wait expectedly for the small green leaves to poke out
+of their wombs.  Then the sweet red berries are gathered, and made into rich
+cakes and fluffy loaves.  
+~
+0 B 2
+0
+~
+I 0 D0
+~
+~
+0 0 3413
+D3
+~
+~
+0 0 3415
+S
+#3415
+0 0
+~
+~
+~
+0 0 0
+A Vegetable Patch~
+The land is so fertile here, you can almost hear the sound of peas
+blossoming in their leathery cocoons, and see the permeating scent of
+peppers wafting through the air.  In a small corner of the vegetable patch,
+a fragrant herb garden grows, lending its spices and mints to the mixture of
+smells.  Leafy plants grow on all sides around you, lending their flavoring
+and texture to the aromatic dishes that the farm is noted for.  
+~
+0 B 2
+0
+~
+I 0 D0
+~
+~
+0 0 3412
+D1
+~
+~
+0 0 3414
+D3
+~
+~
+0 0 3420
+S
+#3416
+0 0
+~
+~
+~
+0 0 0
+A Grassy Field~
+You stand at the northern edge of a large grassy field that stretches as
+far as the endless golden waves of wheat that dominate the country
+landscape.  The Sarrendale barn stands to the north, its door open to allow
+entrance to farmhands and animals alike.  A small dirt path borders the
+field on the east, leading to the farm's chicken coops and pig pens.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+door~
+1 0 3409
+D1
+~
+~
+0 0 3411
+D2
+~
+~
+0 0 3419
+D3
+~
+~
+0 0 3417
+S
+#3417
+0 0
+~
+~
+~
+0 0 0
+A Grassy Field~
+You stand in a grassy field, whose reedy wild grass is strewn with
+sunflowers and ethereal dandelions.  Whinnies of horses come from the stable
+to the west, where a white wooden fence stretches around a pasture to which
+the horses are bound.  
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 3416
+D2
+~
+~
+0 0 3418
+D3
+~
+~
+0 0 3421
+S
+#3418
+0 0
+~
+~
+~
+0 0 0
+A Grassy Field~
+Thin knee high grasses rustle against your leg in the lazy breeze that
+originates from the east.  The robust odor of sun ripened corn wafts all
+around the area, occasionally overwhelmed by the pungent droppings left by
+the cows grazing in the field.  To your west, a white fence encircles a
+grassy pasture where horses roam and canter about.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3417
+D1
+~
+~
+0 0 3419
+D2
+~
+~
+0 0 3432
+S
+#3419
+0 0
+~
+~
+~
+0 0 0
+A Grassy Field~
+You stand in the middle of a flat, grassy field.  The unforgiving sun
+above shines warmly on your skin.  From all around comes the bustle of
+farmyard life in the shape of feathery hens or grazing cows.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3416
+D1
+~
+~
+0 0 3420
+D2
+~
+~
+0 0 3433
+D3
+~
+~
+0 0 3418
+S
+#3420
+0 0
+~
+~
+~
+0 0 0
+A Dirt Path~
+`dThis dirt path runs through the crux of the farm's existence. 
+Separating the grazing lands from the barns and pens, many dedicated
+farmhands have walked this path to fetch eggs from the chicken coops, milk
+the cows, manage the large herd of goats, and keep track of the ever
+multiplying sheep.  Indeed, this path is the busiest thoroughfare of the
+farm, demonstrating the fastidiousness in which the daily chores are
+executed.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3411
+D1
+~
+~
+0 0 3415
+D2
+~
+~
+0 0 3434
+D3
+~
+~
+0 0 3419
+S
+#3421
+0 0
+~
+~
+~
+0 0 0
+A Stable~
+`dYou are standing in a quaint wooden horse stable.  Fresh hay lines the
+floor from wall to wall.  Despite the fact that the stable is obviously
+well-kept, the musty odor of horse dung fills the air.  To the south lies a
+pasture where the stabled horses may graze.  To the east, a field of grass
+and wild flowers spreads across the land.  The stable continues on to the
+west.  `` 
+~
+0 C 2
+0
+~
+I 0 D1
+~
+~
+0 0 3417
+D2
+~
+~
+0 0 3424
+D3
+~
+~
+0 0 3422
+S
+#3422
+15 150
+~
+~
+~
+0 0 0
+A Stable~
+`dThe western end of the horses' stable is lined with stalls to the north
+and west.  A few of the stalls are currently occupied by the horses that
+inhabit them; most, however, lie empty as their residents graze on the
+grassy pasture to the south.  A stack of hay bales sits in the northwestern
+corner, ready to replace the straws that now line the floor.  The long row
+of stalls continues to the east.  `` 
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 3421
+D2
+~
+~
+0 0 3423
+S
+#3423
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+A heavily grooven dirt walkway leads from the stables to the north into
+the grassy enclosure around you.  Of even grade, the field is the ground on
+which the horses are exercised daily.  From brisk trot laps around the
+pasture to langorous walks, this enclosure is where the horses spend most of
+their time.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3422
+D1
+~
+~
+0 0 3424
+D2
+~
+~
+0 0 3427
+D3
+~
+~
+0 0 3425
+S
+#3424
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+Ruddy earth, worn away by pelting winter hail storms and the heavy hooves
+of impatient horses, extends from the stable to the north and meets the
+beginning of the grassy pasture right under your feet.  Through the wide
+open door of the stable, you can see the row of stalls that serve as the
+horses' shelter during bad weather and the compartments where they are
+groomed.  A sturdy wooden white fence encircles the pasture to the east.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3421
+D2
+~
+~
+0 0 3428
+D3
+~
+~
+0 0 3423
+S
+#3425
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+A white wooden fence encircles this corner of the grassy pasture.  Beyond
+the western fence, as far as the eye can see, golden waves of wheat stretch
+across the landscape.  The sturdy structure of the stable is not far off to
+the northeast.  
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 3423
+D2
+~
+~
+0 0 3426
+S
+#3426
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+You stand at the western edge of a field where the horses of Sarrendale
+Farm roam.  The grass is uneven in parts, where voracious animals have eaten
+barethe well fertilized greenery.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3425
+D1
+~
+~
+0 0 3427
+D2
+~
+~
+0 0 3429
+S
+#3427
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+You stand in the middle of a flowing grassy field.  The wind blows
+through the stalks of wild grass, bringing a murmuring melody to the air. 
+Tiny insects buzz all around, attaching themselves to the backs of horses or
+to the sweet stems of dandelions.  The northern end of the field ends in the
+sturdy stalls of a stable, whereas the rest of the pasture is encircled by a
+white wooden fence.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3423
+D1
+~
+~
+0 0 3428
+D2
+~
+~
+0 0 3430
+D3
+~
+~
+0 0 3426
+S
+#3428
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+The height of the grass varies in this green pasture, some parts have
+been trampled down, some parts have been eaten away by voracious animals. 
+The field is extremely flat, perfect for the rigorous exercise the horses
+partake inside the ring.  A white wooden fence lines the eastern edge of the
+pasture.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3424
+D2
+~
+~
+0 0 3431
+D3
+~
+~
+0 0 3427
+S
+#3429
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+You stand in a corner of this fenced horse pasture, where a menagerie of
+tamed and wild beasts frolic and feed.  This pasture borders the edge of
+Sarrendale Farm, surrounded by glistening golden fields of wheat in every
+direction.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3426
+D1
+~
+~
+0 0 3430
+S
+#3430
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+You stand in the unruly grasses of a fenced horse pasture.  The pungent
+smell of horse dung assails your nostrils with each breeze that passes. 
+Unending golden fields of grain stretch from just beyond the fence to the
+blue horizon of the sky above.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3427
+D1
+~
+~
+0 0 3431
+D3
+~
+~
+0 0 3429
+S
+#3431
+0 0
+~
+~
+~
+0 0 0
+A Fenced Pasture~
+You are in the southeastern corner of an expansive grassy field.  The
+wooden planks of a white fence guard you from going further south or east. 
+The grass along the edge of the fence is more unruly, probably because of
+the strain required to reach them.  The abundance of wild grass in other
+parts of the pasture dissuade the horses from doing so.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3428
+D3
+~
+~
+0 0 3430
+S
+#3432
+0 0
+~
+~
+~
+0 0 0
+A Grassy Field~
+The grassy field caresses the enclosed pastures to the west at a white
+wooden fence.  The reedy grasses end here, where to the south, endless
+golden fields of wheat and corn swell and fall in the mild breeze.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3418
+D1
+~
+~
+0 0 3433
+D2
+~
+~
+0 0 21335
+S
+#3433
+0 0
+~
+~
+~
+0 0 0
+A Grassy Field~
+You stand at the southern end of a grassy field adjacent to Sarrendale
+Farm's main courtyard.  A heavily trodden dirt path is a few steps away to
+the east, where the sound of squealing pigs and baah'ing goats comes from
+the pens on the other side of the path.  The reedy grasses end here, where
+the field meets the endless multicolored patches of crop land to the south. 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3419
+D1
+~
+~
+0 0 3434
+D2
+~
+~
+0 0 21336
+D3
+~
+~
+0 0 3432
+S
+#3434
+0 0
+~
+~
+~
+0 0 0
+A Dirt Path~
+`dYou are walking along a path adjacent to the farm's large grassy
+fields.  To the west, you can see steers and heifers munching contentedly on
+grass.  Even with the numerous cows, the grazing areas are hardly bare, the
+fields are well fertilized with cow manure and good weather.  To the east,
+you hear the clucking of many hens.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3420
+D1
+~
+~
+0 0 3435
+D2
+~
+~
+0 0 3437
+D3
+~
+~
+0 0 3433
+S
+#3435
+15 40
+~
+~
+~
+0 0 0
+Inside a Chicken Coop~
+`dYou duck your head to avoid banging it against the low hanging roof of
+this wooden building.  This cramped space is full of wooden cages that are
+stacked neatly in vertical shelving to the ceiling.  The wooden cages are
+covered in thin metal mesh covering, each one home to a plump white
+feathered hen.  A smaller room full of cages is adjacent to the east.  `` 
+~
+0 ABD 0
+0
+~
+I 0 D1
+~
+~
+0 0 3436
+D3
+~
+~
+0 0 3434
+S
+#3436
+0 0
+~
+~
+~
+0 0 0
+Inside a Chicken Coop~
+`dThis room is even more cramped than the first room, if that could even
+be possible.  You barely have room to move around, even if all the wooden
+cages filling the room weren't here.  Small white feathers lay on the ground
+in disarray, probably due to some onery hen who was displeased to find
+someone taking away her precious eggs.  `` 
+~
+0 ABD 0
+0
+~
+I 0 D3
+~
+~
+0 0 3435
+S
+#3437
+0 0
+~
+~
+~
+0 0 0
+A Dirt Path~
+`dYou are travelling along a small dirt path in the middle of Sarrendale
+Farm.  Grassy fields flank the path to the west and the south, and the path
+continues to the east.  The distinct sounds of cows mooing comes from the
+fields, where they graze peacefully.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3434
+D1
+~
+~
+0 0 3438
+D2
+~
+~
+0 0 21357
+D3
+~
+~
+0 0 21336
+S
+#3438
+0 0
+~
+~
+~
+0 0 0
+A Dirt Path~
+`dYou are at a two way intersection of this dirt path, where it extends
+west and south into the encompassing grassy fields of Sarrendale Farm.  The
+dirt is hard packed and bare with the wear of frequent usage.  However, the
+path is flanked on both sides with unruly weeds and low brush.  The mellow
+grunting of relaxing pigs comes from the east.  `` 
+~
+0 C 2
+0
+~
+I 0 D1
+~
+~
+0 0 3440
+D2
+~
+~
+0 0 3439
+D3
+~
+~
+0 0 3437
+S
+#3439
+0 0
+~
+~
+~
+0 0 0
+End of a Dirt Path~
+`dThe dark soil under your feet is fertile with minerals so essential to
+the prosperity of any farm.  Resplendent green fields stretch out to the
+west, where they meet ruddy wheat fields, a wave of green meshing with a
+banner of gold.  The loud braying and baaaah'ing of animals can be heard,
+and nearby to the south, several goats rustle the grass impatiently.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 3438
+D1
+~
+~
+0 0 3441
+D2
+~
+~
+0 0 3442
+S
+#3440
+15 100
+~
+$n scrunches up $s nose as the pungent odors of the pig sty assail $m.~
+Taking a deep breath, $n steps carefully out of the muck and back into the barnyard.~
+0 0 0
+In a Pig Sty~
+`dThe acrimonious smell of decaying food assails your nostrils as you
+catch a whiff of the contents of a wide trough that sits here.  It is half
+sunken into the middle of this muddy fenced in section of the field.  This
+sty is the home to the farm's pigs, who spend entire days just rolling
+around happily in the muck.  `` 
+~
+0 B 2
+0
+~
+I 0 D3
+~
+~
+0 0 3438
+S
+#3441
+0 0
+~
+~
+~
+0 0 0
+Sheep Pen~
+This enclosure is verdant with the overgrowth of reedy grasses,
+surprising given the multitude of sheep on the farm.  Wading through the
+knee high grass, you realize as the dank odor of manure assails your
+nostrils, that it's due to the frequent fertilization that comes naturally
+with a large number of animals.  
+~
+0 0 2
+0
+~
+I 0 D3
+~
+~
+0 0 3439
+S
+#3442
+0 0
+~
+~
+~
+0 0 0
+Goat Pen~
+You are standing in a goat pen, one that is fenced in on three sides and
+opens to the fields on the west.  The reedy grasses are rather short,
+testament to the goats' voracious appetites.  In some places, the goats have
+eaten the grass bare, and brown patches of dirt peek out from the otherwise
+unkempt grasses.  
+~
+0 B 2
+0
+~
+I 0 D0
+~
+~
+0 0 3439
+S
+#0
+
+#RESETS
+D 0 3405   2    1	* In Front of the Barn [south]
+D 0 3409   0    1	* A Wooden Barn [north]
+D 0 3403   2    1	* Before the Farmhouse [south]
+D 0 3406   0    1	* Inside the Farmhouse [north]
+M 0 3400   2 3402  2	* A cow
+M 0 3401   5 3404  2	* A hen
+O 0 3400   0 3406 -1	* A heavy wooden table at Inside the Farmhouse
+O 0 3401   0 3407 -1	* A wooden bed at Inside the Farmhouse
+M 0 3403   3 3440  2	* A tiny piglet
+M 0 3404   3 3440  2	* A pig
+M 0 3402   2 3440  1	* An old sow
+M 0 3406   1 3432  1	* `aa black ram``
+M 0 3405   5 3432  2	* `oa white lamb``
+M 0 3405   5 3418  1	* `oa white lamb``
+M 0 3405   5 3417  1	* `oa white lamb``
+M 0 3405   5 3416  1	* `oa white lamb``
+O 0 3402   0 3409 -1	* A pile of wood at A Wooden Barn
+O 0 3403   0 3410 -1	* A wooden handled pitchfork at Inside a Barn
+O 0 3404   0 3413 -1	* A watermelon at A Watermelon Patch
+M 0 3408   3 3432  1	* A cow
+M 0 3408   3 3433  1	* A cow
+M 0 3409   2 3433  1	* A calf
+M 0 3409   2 3432  1	* A calf
+M 0 3410   3 3419  1	* A cow
+M 0 3410   3 3416  1	* A cow
+E 0 3408   -1    4	* item to A cow
+M 0 3410   3 3417  1	* A cow
+E 0 3408   -1    4	* item to A cow
+M 0 3407   1 3408  1	* A mangy sheep dog
+O 0 3406   0 3409 -1	* A stack of hay at A Wooden Barn
+M 0 3412   2 3442  1	* An old billy goat
+M 0 3411   2 3442  1	* A scrawny goat
+M 0 3411   2 3439  1	* A scrawny goat
+O 0 3407   0 3410 -1	* A tin pail at Inside a Barn
+O 0 3409   0 3412 -1	* `ja cucumber`` at A Vegetable Patch
+O 0 3410   0 3412 -1	* A wooden trellis at A Vegetable Patch
+M 0 3414   1 3413  1	* A bumblebee
+M 0 3415   3 3423  1	* A foal
+M 0 3417   4 3431  1	* A colt
+M 0 3417   4 3430  1	* A colt
+M 0 3418   2 3428  1	* A palomino
+M 0 3419   2 3425  1	* A mustang
+M 0 3416   2 3423  1	* A mare
+M 0 3415   3 3426  1	* A foal
+M 0 3416   2 3426  1	* A mare
+M 0 3420   1 3422  1	* Davinne
+E 0 3411   -1   18	* item to Davinne
+O 0 3412   0 3421 -1	* A saddle at A Stable
+O 0 3413   0 3421 -1	* A straw basket at A Stable
+M 0 3419   1 3427  1	* A mustang
+P 0 3414 -1 3413 1
+P 0 3415 -1 3413 1
+P 0 3416 -1 3413 1
+E 0 3417   -1   16	* item to A mustang
+M 0 3421   1 3415  1	* Farmer glyna
+E 0 3417   -1   16	* item to Farmer glyna
+E 0 3418   -1    9	* item to Farmer glyna
+E 0 3419   -1    4	* item to Farmer glyna
+M 0 3422   1 3411  1	* Farmer sarren
+E 0 3419   -1    4	* item to Farmer sarren
+M 0 3413   1 3434  1	* A rooster
+M 0 3423   1 3435  1	* A hen
+G 0 3420 -1		* ``an egg`` to A hen
+M 0 3424   5 3435  2	* A hen
+M 0 3424   5 3436  3	* A hen
+O 0 3421   0 3419 -1	* `aan old stone well`` at A Grassy Field
+O 0 3405   0 3414 -1	* `ia strawberry`` at A Strawberry Field
+O 0 3422   0 3414 -1	* `han arm of a`b strawberry`h patch doll`` at A Strawberry Field
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#3422
+`gGuttersnipe Quest``~
+$obj_given_char 2984~
+4096
+96
+force Sophie say Yay! you found it, $3vict~
+100
+1
+force Sophie emote hops around the room.~
+100
+5
+force Sophie say As a reward for helping me out I'll let you in my special club~
+100
+6
+makenewbclannie $3vict~
+100
+0
+opurge dollarm~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

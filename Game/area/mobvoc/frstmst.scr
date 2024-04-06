@@ -1,0 +1,66 @@
+* script: frstmst.scr
+* The Forest Master (12069)
+
+#TRIGGER born
+Type 4
+Sc
+  msign self 4 mood
+End
+
+
+*PART 1
+#TRIGGER enter
+Type 99
+sc
+   emote looks you over with cold, azure eyes.
+   say You wish to seek entry into the mystal land known as the enchanted forest?
+halt once~
+End
+
+
+
+
+*PART 2
+#TRIGGER yes
+Type 99
+sc
+   emote peers at you intently
+   say Do you seek to protect or to destroy?
+   signal 12969 final
+halt once~
+End
+
+
+*Part 3
+
+#TRIGGER no
+Type 99
+if ( %final-arg% cmp "final" )
+   emote shooes you away.
+   says Well then be gone with you, I've got no time for silly prattling
+   let %final% == 0
+halt once~
+End
+
+
+
+#TRIGGER destroy
+Type 99
+if ( %final-arg% cmp "final" )
+   emote smirks at your comment.
+   says Then I think not
+   cmd slay %name%
+   let %final% == 0
+halt once~
+
+#TRIGGER protect
+Type 99
+if ( %final-arg% cmp "final" )
+   emote smiles warmly at you.
+   says Then I will grant you access.
+   cmd trans %name% 90100
+   let %final% == 0
+halt once~
+End
+
+#END

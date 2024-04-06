@@ -1,0 +1,7172 @@
+#AREA
+ 6~
+lostcont.are~
+`aThe Lost Continent``~
+{60 70} Iverath  `aThe Lost Continent``~
+~
+10553 10728
+9 B 0
+0 0
+~
+#MOBILES
+#10553
+cave bat~
+A cave bat~
+`aA fluttering cave bat squeaks angrily here.``
+~
+~
+song bird~
+0 0 0 0
+AFGM T 0 0
+50 50 500d1+5 1d1+400 10d1+5 suction
+10 10 10 999 10
+S 60 3 FH ABa 0 C
+stand stand none 0
+AGW ACDEFHKPZa 0 0 0 0 0 0 0
+medium oldstyle~
+0 0 0 500
+1
+~
+~
+#10554
+girl~
+Girl~
+Girl on guard duty
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+1 0 1d1+1 1d1+1 0d0+0 none
+0 0 0 999 0
+0 60 0 0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 0 0 0 0 0 0 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#10555
+fletcher amazon~
+The amazon fletcher~
+`cA robust woman sits crosslegged under a tree, using her knife to smoothen the shaft of an arrow.``
+~
+`dThis robust woman has had years of experience of making bows and arrows
+for the village of the amazons.  She looks up and smiles as you approach
+her.  `` 
+~
+human~
+0 0 0 0
+AB F 0 0
+70 50 10000d1+1 1d100+1000 20d10+10 none
+-10 -10 -10 999 0
+0 60 0 0 ABQ 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJKa 25 16 10 25 13 15 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#10556
+butcher~
+The butcher~
+`cA butcher cleaves big chunks of meat with single chops.``
+~
+`dThis female is dressed in a leather apron and wielding a butcher's
+cleaver.  She looks you up and down as if to decide whether youd taste good.
+`` 
+~
+human~
+0 0 0 0
+AB 0 0 0
+70 50 10000d1+1 1d200+400 0d0+0 punch
+0 0 0 999 0
+0 60 0 0 ABQ 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#10557
+group amazon women~
+A group of amazon women~
+`cA group of amazon women dances around the totem pole, moving in rhythm to the drums.``
+~
+`dWearing only leather loin cloths, this group of amazons dance around
+here, lost of the rhythm of the music.  `` 
+~
+human~
+0 0 0 0
+ABN V 0 0
+70 100 30000d1+0 300d1+45 10d5+50 slash
+-1 -1 -1 999 0
+0 60 7 CFI B 0 0
+stand stand none 300
+AHMV ABCDEFGHIJKa 25 12 25 25 15 25 0
+large oldstyle~
+0 0 0 100
+4
+~
+~
+#10558
+potion lady~
+The potion lady~
+`cAn old woman wearing a drab green dress sits on the only chair in the room.``
+~
+~
+human~
+0 0 0 0
+AB FI 0 0
+70 0 5000d1+1 1000d1+1 1d1+50 slap
+0 0 0 999 0
+D 60 0 0 ALQ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 11 20 20 10 15 10 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#10559
+tanner~
+The tanner~
+`cThe tanner sweats as she prepares a skin here.``
+~
+~
+human~
+0 0 0 0
+ABT 0 0 0
+70 40 7777d1+0 500d1+1 50d1+30 slash
+-10 -10 0 999 0
+D 60 4 0 AB D C
+stand stand female 5000
+AHMV ABCDEFGHIJKa 20 10 10 15 10 10 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#10560
+darra blacksmith~
+Darra, the blacksmith~
+`cDarra, the blacksmith, stands behind the counter polishing a silver dagger.``
+~
+`dThis is Darra, the blacksmith, and she is almost obscenely muscled for
+being a woman.  Her arms sport burn scars from the furnaces and the other
+duties she performs as a blacksmith.  `` 
+~
+human~
+0 0 0 0
+AB F 0 0
+70 70 10000d1+1 500d1+1 40d1+10 slash
+-10 -10 -10 999 0
+D 60 0 CK BQ 0 0
+stand stand female 70000
+AHMV ABCDEFGHIJKa 25 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#10561
+grass practice dummy~
+A practice dummy made of grass~
+`dA practice dummy made of grass swings back and forth on a rope attached to an old fig tree.``
+~
+`cA man-sized dummy made of a wooden frame with grass bound around it. 
+It swings in the wind, a poor imitation of a fighting opponent, but at least
+one can practice swinging at a moving target.  `` 
+~
+doll~
+0 0 0 0
+AB OWYcd 0 0
+5 0 1000d1+1 1d1+0 1d1+0 slap
+10 10 10 999 10
+D 60 0 0 BILMNPQR CDES GHJKO
+stand stand neutral 0
+EJMc ABCGHKa 3 10 10 10 25 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#10562
+amazon warrior~
+An amazon warrior~
+`cAn amazon warrior has been called by the alarm.
+~
+~
+human~
+0 0 0 0
+ABM DFV 0 0
+70 50 10000d1+1 100d3+4 100d1+10 pierce
+-1 -1 -1 999 0
+0 60 3 FKN AB E C
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 20 10 16 19 15 20 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#10563
+group amazon elders~
+The amazon elders~
+`cA group of amazon elders sits around a fire, arguing.``
+~
+`dA group of older amazon women sit squabbling among themselves about
+matters that no one but themselves may know.  They quiet down as you draw
+closer, and you notice a readiness in their eyes.  `` 
+~
+human~
+0 0 0 0
+ABN DF 0 0
+80 0 30000d1+1 1000d1+1 100d1+20 wrath
+-1 -1 -1 999 -1
+0 60 10 CDFK AB 0 0
+stand stand neutral 1000
+AHMV ABCDEFGHIJKa 25 20 25 10 25 20 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#10564
+monstrosity amazon warrior undead~
+The cursed amazon woman~
+`aThis monstrosity was once an amazon woman, now her flesh is rotting around her.``
+~
+`hOnce a beautiful amazon warrior, this woman has been cursed in some
+inexplicable way that is slowly turning her into one of the undead.  `` 
+~
+human~
+0 0 0 0
+ABO Yd -500 0
+40 60 1000d1+1 100d1+1 50d1+40 suction
+30 30 30 999 30
+0 60 1 0 AB LQ 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#10565
+salad girl~
+The salad girl~
+`cA girl is behind the stand, selling her fruits and vegetables.``
+~
+`dA dimple-faced girl smiles up at you, offering you a view of her
+mouth-watering goods.  She tells you how cheap her wares are, and adds that
+she would do anything to satisfy her costumers.  `` 
+~
+human~
+0 0 0 0
+AB H 100 0
+50 40 4000d1+1 100d1+1 30d1+1 slap
+0 0 0 999 0
+0 60 0 F ABQ L 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#10566
+amazonian girl guard~
+An amazonian girl~
+`cAn amazonian girl has been left in charge with guard duty here.``
+~
+`dA lean teenage girl keeps watch over the plains below, watching out for
+approaching enemies.  She is painted with the traditional red and yellow
+symbols of the amazons, wearing only a leather loincloth and a brown grass
+shirt.  `` 
+~
+human~
+0 0 0 0
+A DFH 0 0
+65 100 10000d1+1 450d1+6 30d10+10 pierce
+0 0 0 999 0
+0 60 6 CFI AB 0 E
+stand stand female 1000
+AHMV ABCDEFGHIJKa 25 10 10 25 10 18 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#10567
+old woman amazongateguard~
+An old woman~
+`cAn old woman sits here, peering up at you.``
+~
+`dWhat is this old woman doing out here in the wilderness?  She is
+sitting with her back to the solid mountain, knitting a scarf that you have
+a hard time understanding the use for in this warm climate.  `` 
+~
+human~
+0 0 0 0
+AB DFH 0 0
+70 31 10000d1+145 5000d1+1 30d20+10 none
+0 0 0 999 0
+D 60 3 CK AB D 0
+stand stand female 3000
+AHMV ABCDEFGHIJKa 10 20 20 10 10 10 0
+medium oldstyle~
+0 0 0 50
+4
+amazon.voc~
+~
+#10568
+carnivorous blood flower~
+The carnivorous blood flower~
+`aVines flail at you, whipping the life from you, just so you can be the dinner of this carnivorous plant!``
+~
+`cPast the snapping jaws of this blood-red flower you see a bloated
+stomach filled with acid, to digest the victims it manages to drag into its
+lair.  `` 
+~
+troll~
+0 0 0 0
+AF DFJc 0 0
+50 100 4000d1+1 1d1+0 2d2+3 whip
+40 40 40 999 40
+AS 64 8 D ABa BE HK
+stand stand neutral 0
+ABHMV ABCDEFGHIJKUVa 10 10 10 10 10 10 0
+large oldstyle~
+0 0 0 100
+1
+~
+~
+#10569
+tunnel fisher insectoid~
+The tunnel fisher~
+`aA mass of legs clatters against the ground as this giant insect attacks!``
+~
+`bSnapping pincers wants to devour you alive, preferably with as much
+screaming involved as possible!  Behold the reward of greediness.  `` 
+~
+centipede~
+0 0 0 0
+ABF DFZ 0 0
+60 100 5000d1+0 5d3+5 10d3+30 acbite
+10 10 10 999 10
+ADS 61 4 0 ABa FI E
+stand stand neutral 5000
+ABGO ACKa 20 10 10 18 10 10 0
+large oldstyle~
+0 0 0 100
+1
+~
+~
+#10570
+amazon scout~
+An amazon scout~
+`cAn amazon sits on a branch, studying the ground, looking for animals.``
+~
+`dThis amazon is painted with red, yellow and green colored, making her
+appearance quite fierce.  She is wielding three colored spears, typical to
+the amazon tribeswomen.  `` 
+~
+human~
+0 0 0 0
+ABN F 0 0
+70 50 7777d1+0 400d1+56 20d20+20 pierce
+-1 -1 -3 999 0
+HLV 60 4 F AB 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#10571
+skull monkey~
+A skull monkey~
+`aA fanged skull monkey swings from branch to branch.``
+~
+`dThe skull monkey got its name from its prized midnight-black fur and
+the white facial hair, making it look like a floating skull in the dark
+forest.  And many a wounded adventurer can bear testament to its the temper
+that matches the skull monkey's visage.  `` 
+~
+dog~
+0 0 0 0
+AFN 0 0 0
+60 0 2000d1+1 1d1+0 10d3+10 bite
+0 0 0 999 0
+V 60 6 FHN A G L
+stand stand neutral 10
+AGV ACDEFHJKUVa 20 10 10 23 25 10 0
+small oldstyle~
+0 0 0 100
+4
+~
+~
+#10572
+flint lizard~
+A red-tailed flint lizard~
+`aA six-legged lizard slithers through the underbrush.``
+~
+`dThis is the red-tailed flint lizard, and why it was named after its red
+tail instead of the six legs, nobody will ever know.  The lizard is said to
+be more stubborn and aggressive than a wolverine with cubs.  Combine that
+with its fire-breath and you have got a quite formidable opponent.  `` 
+~
+lizard~
+0 0 0 0
+ACG JZ 0 0
+60 200 4000d1+4 1d400+0 50d2+30 bite
+3 3 3 999 -30
+MV 60 3 F A L I
+stand stand neutral 0
+AGXc ACDEFHKQVa 20 3 3 20 10 3 0
+medium oldstyle~
+0 0 0 600
+4
+~
+~
+#10573
+striped lion~
+A striped lion~
+`dA striped lion stalks its prey, almost invisible in the tall grass.``
+~
+`dRed and grey stripes on the sides of this lion makes it hard to detect
+in the rust-colored grass of the grasslands.  No animal in the grasslands is
+feared more.  `` 
+~
+dog~
+0 0 0 0
+AMe FPZ 0 0
+60 50 4000d1+4 1d1+0 10d30+10 claw
+0 0 0 999 0
+V 60 2 FH 0 0 0
+stand stand female 0
+AGV ACDEFHJKUVa 18 5 5 20 10 7 0
+medium oldstyle~
+50 30 30000 700
+4
+~
+~
+#10574
+blue feathered ostrich~
+The blue-feathered ostrich~
+`dA magnificent ostrich keeps watch for predators here, occasionally pecking at the ground.``
+~
+`dThis big bird cocks its head at you with an attitude that only a
+blue-feathered ostrich could muster.  It looks you up and down with its
+saucer eyes, then dismisses you, flicking its blue tail-feathers at you
+defiantly.  `` 
+~
+song bird~
+0 0 0 0
+AN TV 0 0
+60 50 4000d1+1 1d1+0 10d10+5 peck
+0 0 0 999 0
+LV 60 3 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 15 10 10 18 10 14 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#10575
+amazon trapper~
+An amazon trapper~
+`cAn amazon is hiding behind a tree, watchign a cleverely hidden trap intently.``
+~
+`dClad in painted leather breeches and tunic, this amazon trapper blends
+into the surrounding forest.  With a small string in her hand she waits for
+an insuspecting animal to walk into her trap.  `` 
+~
+human~
+0 0 0 0
+ABGS FQ 0 0
+70 100 7000d1+1 100d1+300 20d20+20 pierce
+-5 -5 -5 999 -5
+V 60 0 BF AB L 0
+stand stand female 500
+AHMV ABCDEFGHIJKa 18 10 10 20 10 10 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#10576
+horned beach crab~
+A horned beach crab~
+`oA crab scuttles up to you, snaps its claws in challenge, then runs away.``
+~
+`dThis is the crab of false bravado.  It is known for challenging
+intruders of its territory by snapping its claws at them, and then running
+away, hiding under a rock.  `` 
+~
+canthi~
+0 0 0 0
+AG e 0 0
+10 1 50d1+10 1d1+0 1d1+1 none
+-30 -30 -30 999 -30
+V 60 0 0 R H I
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 3 3 3 15 3 3 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#10577
+amazon hunting party~
+An amazon hunting party~
+`cAn amazon hunting party is following the tracks of a lion here.``
+~
+`dThis hunting party moves silently through the grasslands, tracking some
+large animal.  Each of the women in the group has either a shortbow or a
+wooden spear wielded.  `` 
+~
+human~
+0 0 0 0
+AGMNT FZ 0 0
+70 100 10000d1+1 900d1+1 15d15+15 none
+-10 -10 -10 999 10
+V 60 10 CEFK AB E 0
+stand stand none 1000
+AHMV ABCDEFGHIJKa 25 15 15 18 25 20 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#0
+
+#OBJECTS
+#10553
+shipwreck~
+the shipwreck~
+The wooden bones of a shipwreck have been polished smooth by the ocean waves.~
+wood~
+0
+portal 2
+STYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n crawls in through a hole in the side of the wrecked ship.~
+You crawl in through a hole in the side of the wrecked ship.~
+$n crawls into view.~
+~
+-1 0 0 BDEFILN A
+0
+0
+1 30000 0 P
+#10554
+totem pole wooden colorful~
+A totem pole~
+A colorful wooden pole is here, carved in the likeness of different animals.~
+wood~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 1 P
+#10555
+fallen tree~
+a fallen tree~
+A fallen tree is slowly being eaten by the surrounding flora.~
+wood~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 1 P
+#10556
+silver harp~
+a silver harp~
+`aA silver harp encircled with leaf-covered spider-webs sits within a ring of trees.``~
+silver~
+0
+roomtrap 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDF BH BEF 0 0
+BD
+0 0 0 0 0 0 B 
+1 0 0 P
+E
+specmessage~
+The silver harp starts playing a peculiar song...
+~
+E
+victmessage~
+The silver harp starts playing a peculiar song...
+~
+#10557
+waterfall~
+a roaring waterfall~
+`gA roaring waterfall cascades down the side of a spiky cliff.``~
+water~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n charges right into the waterfall!~
+You charge right into the waterfall!~
+Dripping wet, $n arrives through the veil of the waterfall.~
+~
+-1 0 0 CGHILN A
+0
+0
+0 0 0 P
+#10558
+waterfall trap~
+a sneaky waterfall trap~
+~
+unknown~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF B BCEH B 0
+0
+ADEFILN 0 CD 0 0 0 AC 
+0 0 0 P
+E
+specmessage~
+`iA fluttering bat attacks $n as $e enters its home!``
+~
+E
+victmessage~
+`iA fluttering bat attacks you as you enter its home!``
+~
+#10559
+cages~
+a cage~
+Several cages hang from several feet off the edge of the cliff here.~
+wood~
+0
+container 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 0 P
+E
+cages~
+`hThese cages contain the skeletal remains of the prisoners of the amazons's.``
+~
+#10560
+skeleton~
+`hA withered skeleton``~
+Skeleton~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 2 P
+#10561
+painted wooden shortbow~
+`cA`d p`ba`ci`dn`bt`ce`dd`c wooden shortbow``~
+An amazonian shortbow lies here.~
+wood~
+0
+weapon 2
+S
+0
+AN
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D A AC ACF F
+0
+0
+40 20 5000 P
+A
+17 -30
+A
+18 5
+#10562
+animals skinned~
+a skinned animal~
+Skinned animals hang from tarred ropes stretched between some trees here.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#10563
+skull monkey fillet~
+a skull monkey fillet~
+A piece of grey meat lies here.~
+meat~
+0
+food 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD CEFGHI 0 0
+0
+0
+20 0 50 P
+#10564
+cutting board~
+a cutting board~
+A cutting board protrudes from the simple plank wall.~
+wood~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#10565
+glowing yellow potion~
+a glowing yellow potion~
+A glowing yellow potion sits here.~
+glass~
+1000
+potion 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BEF 'pox' 'heal' 'reserved' 'reserved'
+0
+0
+50 10 5000 P
+#10566
+moss green potion~
+a moss-green potion~
+A green potion sits here.~
+glass~
+1000
+potion 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCEF 'cure disease' 'reserved' 'reserved' 'reserved'
+0
+0
+55 0 15000 P
+#10567
+tanners bracelet~
+the tanner's bracelet~
+A leather circlet lies in the dust here.~
+soft leather~
+0
+armor 2
+S
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 1 500 P
+A
+2 2
+#10568
+barrel leather~
+a roll of raw leather~
+Raw leather lies rolled up in barrels along the walls.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#10569
+anvil~
+an anvil~
+A black iron anvil sits in the middle of the smithy.~
+iron~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 10000 0 P
+#10570
+steel tipped amazon wooden painted spear~
+`ca steel-tipped `da`cm`ba`dz`co`bn`c spear``~
+`cA`d p`ca`bi`dn`ct`be`dd`c spear lies here.``~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC AC D ABD D
+0
+0
+70 30 5000 P
+#10571
+heavy iron chest flower~
+a heavy iron chest adorned with intricate flower patterns~
+A heavy iron chest adorned with intricate flower patterns sits here.~
+unknown~
+0
+container 2
+Y
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDFI AC 0 BCEH BDEG
+0
+0
+0 200 10000 P
+#10572
+fountain water~
+the garden fountain~
+~
+marble~
+0
+fountain 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10573
+platform~
+a raised platform~
+A raised platform is here, and various offerings to the gods have been placed upon it.~
+wood~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n climbs up on the platform.~
+You climb up on the platform.~
+$n makes $s way up on the platform.~
+~
+-1 0 0 ACGHILN C
+0
+0
+10 0 1 P
+#10574
+trap~
+alarm trap~
+~
+unknown~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+ADE
+BGILN 0 0 0 0 0 0 
+10 0 0 P
+E
+victmessage~
+~
+E
+specmessage~
+~
+#10575
+sacrificial goat~
+a sacrificial goat~
+A dead goat lies here, sacrificed to the gods of the amazons.~
+meat~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BEF BEF 0 0 0
+0
+0
+0 100 0 P
+#10576
+pile gold silver trinkets valuable~
+a pile of gold and silver coins~
+A pile of valuable gold and silver trinkets sits here.~
+unknown~
+0
+money 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DFGHIJ BD 0 0 0
+0
+0
+10 0 0 P
+#10577
+key chain~
+a key on a chain~
+A small key attached to a chain is here.~
+steel~
+0
+key 2
+QUYc
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 1 0 P
+#10578
+stand~
+a vegetable and fruit stand~
+A stand is here, displaying various fruits and vegetables.~
+wood~
+0
+container 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDFI 0 0 CDFI AB
+0
+0
+10 10000 0 P
+#10579
+red fruits~
+A big assortment of delectable red fruits lies here in neat rows~
+Fruits and stuff, biatch~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#10580
+brown potatos~
+Brown potatos lie in heaps here, like only potatos can~
+FRENCH FRIES ARE NOT VEGETABLES!~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 1 P
+#10581
+red apple~
+a red apple~
+An apple lies here.~
+flesh~
+0
+food 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B BEF 0 0
+0
+0
+1 0 10 P
+#10582
+brown mountain grape~
+a brown mountain grape~
+A small berry lies here.~
+flesh~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE 'refresh' 'reserved' 'reserved' 'reserved'
+0
+0
+20 0 1000 P
+#10583
+well water~
+the well~
+A small roof protects the contents of this well.~
+unknown~
+0
+fountain 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#10584
+ladder rope~
+a rope ladder~
+A long rope ladder reaches down towards the grasslands far below.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n disappears down the rope ladder.~
+You climb down the rope ladder to the plains below.~
+A rope ladder gets thrown down the side of the mountain and soon thereafter $n climb into view.~
+~
+-1 0 G AEFHILN E
+0
+0
+0 0 1 P
+#10585
+leather loincloth~
+a simple leather loincloth~
+Two pieces of square leather connected by a leather string lie here.~
+soft leather~
+0
+clothing 2
+S
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+65 10 100 P
+A
+18 2
+A
+19 1
+#10586
+vine blood flower~
+the vine of the blood flower~
+A vine covered by small hooks lies here.~
+wheat~
+0
+weapon 2
+QS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC BCE A C 0
+0
+0
+50 40 1000 P
+#10587
+no name~
+bones pale~
+Pale bones lie half-submerged in the moss here.~
+bone~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10588
+hole~
+a hole in the ground~
+You see a gold coin gleaming inside this hole!~
+air~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n crawls into the hole in the ground, didn't $e not learn from all the other holes?~
+You crawl into the hole.~
+$n crawls closer with a greedy look on $s face.~
+~
+-1 0 G ABCGHILN F
+0
+0
+10 0 0 P
+#10589
+gold coin~
+a gold coin~
+A shining gold coin lies in the dirt, and you can spot another one farther down the tunnel.~
+unknown~
+0
+money 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 A 0 0 0
+0
+0
+1 0 0 P
+#10590
+tree~
+a fruit-tree~
+A big tree spreads its branches overhead, branches heavy with fruit.~
+wood~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 0 P
+#10591
+apple trap~
+apple trap~
+Apple trap(tm)~
+unknown~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF A CFG ABD 0
+BD
+0 0 ABDE 0 0 0 CJ 
+20 0 1 P
+E
+victmessage~
+`bAn apple falls from the tree and hits you right in the face!``
+~
+E
+specmessage~
+`bAn apple falls from the tree and hits $n right in the face!``
+~
+#10592
+delicate orchidtrigger~
+a delicate orchid~
+~
+unknown~
+0
+treasure 2
+Sa
+0
+A
+0
+0
+0
+10592
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 5000 P
+#10593
+ladder rope~
+a rope ladder~
+A rope ladder has been thrown down the side of the mountain.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n climbs up the rope ladder.~
+You climb the rope ladder.~
+$n comes up the rope ladder.~
+~
+-1 0 G BEFHILN C
+0
+0
+10 0 0 P
+#10594
+snare trap~
+a snare~
+A snare trap.~
+unknown~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABDF B DGH BD 0
+CE
+0 0 B 0 0 0 H 
+90 0 1 P
+E
+victmessage~
+`bA spiked snare closes around your ankle!``
+~
+E
+specmessage~
+`b$n gives a shout as a spiked snares snaps tight around $s ankle.``
+~
+#10595
+soft mound sand seaweed~
+a mound of sand and sea-weed~
+A soft mound of black sand mized with sea-weed is here.~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10692
+tree~
+an ordinary tree~
+Yet another tree is here, nothing special about it.~
+wood~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n climbs up a tree.~
+You climb the tree.~
+$n groans as $e heaves $mself up to your branch.~
+~
+-1 0 G BDGHILN C
+0
+0
+10 0 0 P
+#10693
+steel tipped amazon wooden painted spear~
+`ca steel-tipped `da`cm`ba`dz`co`bn`c spear``~
+`cA`d p`ca`bi`dn`ct`be`dd`c spear lies here.``~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC AC D ABD D
+0
+0
+70 30 5000 P
+#10694
+skull monkey hide~
+skull monkey hide~
+This hide has got the tell-tale skull-shaped mark of the skull monkey in the middle.~
+fur~
+0
+armor 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC AC AC ABCD 0
+0
+0
+50 40 5000 P
+A
+19 2
+#10695
+solitary tree~
+a solitary tree~
+A solitary tree twists its knobbly trunk up towards the sun.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#10696
+amazon's trap~
+amazon's trap~
+Amazon's trap.~
+unknown~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABDF BC AC BD 0
+CE
+0 0 B 0 0 0 G 
+70 0 2 P
+E
+victmessage~
+`bSuddenly a snare snaps shut around your leg and you are knocked against the ground!``
+~
+E
+specmessage~
+`bWith a yelp $n is pulled to the floor by a snare!``
+~
+#10697
+slick rounded rock~
+a rock~
+A slick rounded rock sticks up from the black sand.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 1 P
+#10698
+slimy remains jellyfish dead~
+dead jellyfish~
+The slimy remains of jellyfish lie washed ashore here.~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#10699
+murky pool water~
+a murky pool~
+Hidden behind the tall grass, a murky pool offers water to the animals of the grasslands.~
+unknown~
+0
+drink 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCDEHJKPQ ABCDEHJKPQ 0 0 0
+0
+0
+1 0 1 P
+#10700
+thorny thick leafed bushes~
+a bunch of thorny bushes~
+Thorny, thick-leafed bushes are occupied by dozens of colorful birds.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 1 P
+#10701
+vines wild roses~
+some wild roses~
+Vines of carefully cropped wild roses climbs the mountain side here.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+10701
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10702
+wasps hive trap~
+a wasps' hive~
+This is a beeswarm trap, hopefully insta-killing entire groups of morts.~
+unknown~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BDF BE AD AE 0
+AE
+0 0 BDE 0 0 0 DI 
+90 0 0 P
+E
+victmessage~
+`bA subtle click, a second before, warned of the maelstrom of shrapnel flying through you..``
+~
+E
+specmessage~
+`bShrapnel flies through the room, barely missing you.``
+~
+#0
+
+#ROOMS
+#10553
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10563
+D1
+~
+~
+0 0 10556
+D2
+~
+~
+0 0 34931
+D3
+~
+~
+0 0 10555
+S
+#10554
+0 0
+~
+~
+~
+0 0 0
+Inside the Shipwreck~
+`dThe hull of the shipwreck, sporting holes and cracks, provides a meager
+protection against the sun and wind.  Although there is little else to
+provide that kind of protection on this beach.  `` 
+~
+0 ADT 1
+0
+~
+I 0 D1
+~
+~
+0 0 10553
+S
+#10555
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10564
+D1
+~
+~
+0 0 10553
+D2
+~
+~
+0 0 34931
+S
+#10556
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10562
+D1
+~
+~
+0 0 10557
+D2
+~
+~
+0 0 34931
+D3
+~
+~
+0 0 10553
+S
+#10557
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10561
+D1
+~
+~
+0 0 10558
+D2
+~
+~
+0 0 34931
+D3
+~
+~
+0 0 10556
+S
+#10558
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10567
+D2
+~
+~
+0 0 10559
+D3
+~
+~
+0 0 10557
+S
+#10559
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10558
+D2
+~
+~
+0 0 10560
+D3
+~
+~
+0 0 34931
+S
+#10560
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10559
+D3
+~
+~
+0 0 34931
+S
+#10561
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10582
+D1
+~
+~
+0 0 10567
+D2
+~
+~
+0 0 10557
+D3
+~
+~
+0 0 10562
+S
+#10562
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10565
+D1
+~
+~
+0 0 10561
+D2
+~
+~
+0 0 10556
+D3
+~
+~
+0 0 10563
+S
+#10563
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10566
+D1
+~
+~
+0 0 10562
+D2
+~
+~
+0 0 10553
+D3
+~
+~
+0 0 10564
+S
+#10564
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10594
+D1
+~
+~
+0 0 10563
+D2
+~
+~
+0 0 10555
+S
+#10565
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10587
+D1
+~
+~
+0 0 10582
+D2
+~
+~
+0 0 10562
+D3
+~
+~
+0 0 10566
+S
+#10566
+0 0
+~
+~
+~
+0 0 0
+`hBlack Shores``~
+`aEver-rolling waves lick the black sand of this desolate shore and white
+seashells glints like eyeballs among the sharp rocks that jut out of the
+flattened dunes of sand as if defending against any ships that would steer
+too close.  `` 
+~
+0 T 17
+0
+~
+I 0 D0
+~
+~
+0 0 10591
+D1
+~
+~
+0 0 10565
+D2
+~
+~
+0 0 10563
+D3
+~
+~
+0 0 10594
+S
+#10567
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10568
+D1
+~
+~
+0 0 10573
+D2
+~
+~
+0 0 10558
+D3
+~
+~
+0 0 10561
+S
+#10568
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10569
+D1
+~
+~
+0 0 10574
+D2
+~
+~
+0 0 10567
+D3
+~
+~
+0 0 10582
+S
+#10569
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10570
+D1
+~
+~
+0 0 10575
+D2
+~
+~
+0 0 10568
+D3
+~
+~
+0 0 10583
+S
+#10570
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10571
+D1
+~
+~
+0 0 10576
+D2
+~
+~
+0 0 10569
+D3
+~
+~
+0 0 10584
+S
+#10571
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and the ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10572
+D1
+~
+~
+0 0 10577
+D2
+~
+~
+0 0 10570
+D3
+~
+~
+0 0 10585
+S
+#10572
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10651
+D1
+~
+~
+0 0 10578
+D2
+~
+~
+0 0 10571
+D3
+~
+~
+0 0 10586
+S
+#10573
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 10574
+D3
+~
+~
+0 0 10567
+S
+#10574
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10575
+D2
+~
+~
+0 0 10573
+D3
+~
+~
+0 0 10568
+S
+#10575
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10576
+D1
+~
+~
+0 0 10579
+D2
+~
+~
+0 0 10574
+D3
+~
+~
+0 0 10569
+S
+#10576
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10577
+D1
+~
+~
+0 0 10580
+D2
+~
+~
+0 0 10575
+D3
+~
+~
+0 0 10570
+S
+#10577
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10578
+D1
+~
+~
+0 0 10581
+D2
+~
+~
+0 0 10576
+D3
+~
+~
+0 0 10571
+S
+#10578
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10655
+D1
+~
+~
+0 0 10661
+D2
+~
+~
+0 0 10577
+D3
+~
+~
+0 0 10572
+S
+#10579
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10580
+D3
+~
+~
+0 0 10575
+S
+#10580
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10581
+D2
+~
+~
+0 0 10579
+D3
+~
+~
+0 0 10576
+S
+#10581
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10661
+D2
+~
+~
+0 0 10580
+D3
+~
+~
+0 0 10577
+S
+#10582
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10583
+D1
+~
+~
+0 0 10568
+D2
+~
+~
+0 0 10561
+D3
+~
+~
+0 0 10565
+S
+#10583
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10584
+D1
+~
+~
+0 0 10569
+D2
+~
+~
+0 0 10582
+D3
+~
+~
+0 0 10587
+S
+#10584
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10585
+D1
+~
+~
+0 0 10570
+D2
+~
+~
+0 0 10583
+D3
+~
+~
+0 0 10588
+S
+#10585
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10586
+D1
+~
+~
+0 0 10571
+D2
+~
+~
+0 0 10584
+D3
+~
+~
+0 0 10589
+S
+#10586
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10646
+D1
+~
+~
+0 0 10572
+D2
+~
+~
+0 0 10585
+D3
+~
+~
+0 0 10590
+S
+#10587
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10588
+D1
+~
+~
+0 0 10583
+D2
+~
+~
+0 0 10565
+D3
+~
+~
+0 0 10591
+S
+#10588
+0 0
+~
+~
+~
+0 0 0
+`dA Circle of Trees``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10589
+D1
+~
+~
+0 0 10584
+D2
+~
+~
+0 0 10587
+D3
+~
+~
+0 0 10592
+S
+#10589
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10590
+D1
+~
+~
+0 0 10585
+D2
+~
+~
+0 0 10588
+D3
+~
+~
+0 0 10593
+S
+#10590
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10645
+D1
+~
+~
+0 0 10586
+D2
+~
+~
+0 0 10589
+D3
+~
+~
+0 0 10639
+S
+#10591
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10592
+D1
+~
+~
+0 0 10587
+D2
+~
+~
+0 0 10566
+D3
+~
+~
+0 0 10595
+S
+#10592
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10593
+D1
+~
+~
+0 0 10588
+D2
+~
+~
+0 0 10591
+D3
+~
+~
+0 0 10596
+S
+#10593
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 10639
+D1
+~
+~
+0 0 10589
+D2
+~
+~
+0 0 10592
+D3
+~
+~
+0 0 10597
+S
+#10594
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10595
+D1
+~
+~
+0 0 10566
+D2
+~
+~
+0 0 10564
+D3
+~
+~
+0 0 10602
+S
+#10595
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10596
+D1
+~
+~
+0 0 10591
+D2
+~
+~
+0 0 10594
+D3
+~
+~
+0 0 10601
+S
+#10596
+0 0
+~
+~
+~
+0 0 0
+`dIn Front of a Waterfall``~
+`bThe roar of falling water betrays the seemingly light spray of a
+waterfall cascading down the side of a rock formation.  A pool of murky
+brown water, ripples underneath, the fall sending dead leaves dancing over
+the surface.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10597
+D1
+~
+~
+0 0 10592
+D2
+~
+~
+0 0 10595
+S
+#10597
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10598
+D1
+~
+~
+0 0 10593
+D2
+~
+~
+0 0 10596
+D3
+~
+~
+0 0 10600
+S
+#10598
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10635
+D1
+~
+~
+0 0 10639
+D2
+~
+~
+0 0 10597
+D3
+~
+~
+0 0 10599
+S
+#10599
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10630
+D1
+~
+~
+0 0 10598
+D2
+~
+~
+0 0 10600
+D3
+~
+~
+0 0 10607
+S
+#10600
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10599
+D1
+~
+~
+0 0 10597
+D3
+~
+~
+0 0 10606
+S
+#10601
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D1
+~
+~
+0 0 10595
+D2
+~
+~
+0 0 10602
+D3
+~
+~
+0 0 10604
+S
+#10602
+0 0
+~
+~
+~
+0 0 0
+`dA Bed of Moss``~
+`bA bed of moss is here, soft to the touch of your feet.  It would be a
+very nice place to rest if it was not for the bones stucking up from the
+ground...  How did they get there?  `` 
+~
+0 A 3
+0
+~
+I A J Suddenly the vines on the vines on the ground come alive and pull you into a bush!~
+K You hear a rustling in the underbrush...~
+L4
+N10694
+Q Vines wrap around $n and pulls $m out of sight!~
+D0
+~
+~
+0 0 10601
+D1
+~
+~
+0 0 10594
+D3
+~
+~
+0 0 10603
+D5
+~
+~
+0 0 10694
+S
+#10603
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10604
+D1
+~
+~
+0 0 10602
+S
+#10604
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10605
+D1
+~
+~
+0 0 10601
+D2
+~
+~
+0 0 10603
+D3
+~
+~
+0 0 10608
+S
+#10605
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10606
+D2
+~
+~
+0 0 10604
+D3
+~
+~
+0 0 10609
+S
+#10606
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10607
+D1
+~
+~
+0 0 10600
+D2
+~
+~
+0 0 10605
+D3
+~
+~
+0 0 10610
+S
+#10607
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10623
+D1
+~
+~
+0 0 10599
+D2
+~
+~
+0 0 10606
+D3
+~
+~
+0 0 10611
+S
+#10608
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10609
+D1
+~
+~
+0 0 10604
+S
+#10609
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThere is a hole in the forest floor here, it looks like it has been dug
+by something sharp and pointy.  Or several sharp and pointy things...  But
+you feel quite brave after having killed all those zoo animals so you choose
+to ignore that warning.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10610
+D1
+~
+~
+0 0 10605
+D2
+~
+~
+0 0 10608
+D3
+~
+~
+0 0 10614
+S
+#10610
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10611
+D1
+~
+~
+0 0 10606
+D2
+~
+~
+0 0 10609
+D3
+~
+~
+0 0 10615
+S
+#10611
+0 0
+~
+~
+~
+0 0 0
+`dUnder a Tree``~
+`bThe fruits hang heavy on the tree, they could do quite some damage,
+falling from that height...  But you dont think about that as you jump up to
+try and get a hold of one.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10612
+D1
+~
+~
+0 0 10607
+D2
+~
+~
+0 0 10610
+D3
+~
+~
+0 0 10616
+S
+#10612
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10613
+D1
+~
+~
+0 0 10623
+D2
+~
+~
+0 0 10611
+D3
+~
+~
+0 0 10617
+S
+#10613
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10622
+D1
+~
+~
+0 0 10624
+D2
+~
+~
+0 0 10612
+D3
+~
+~
+0 0 10618
+S
+#10614
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10615
+D1
+~
+~
+0 0 10609
+S
+#10615
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10616
+D1
+~
+~
+0 0 10610
+D2
+~
+~
+0 0 10614
+S
+#10616
+0 0
+~
+~
+~
+0 0 0
+`dThe Dark Rainforest``~
+`bThe warm humidity of this tropical forest leaves a sun-streamed mist
+throughout the towering trunks of the surrounding trees.  Flowered vines
+hang down from overhead and teh ferns covering the forest floor rustle with
+every movement.  `` 
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 10617
+D1
+~
+~
+0 0 10611
+D2
+~
+~
+0 0 10615
+S
+#10617
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10618
+D1
+~
+~
+0 0 10612
+D2
+~
+~
+0 0 10616
+S
+#10618
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10619
+D1
+~
+~
+0 0 10613
+D2
+~
+~
+0 0 10617
+S
+#10619
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10620
+D1
+~
+~
+0 0 10622
+D2
+~
+~
+0 0 10618
+S
+#10620
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10621
+D1
+~
+~
+0 0 6902
+D2
+~
+~
+0 0 10619
+S
+#10621
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D1
+~
+~
+0 0 6903
+D2
+~
+~
+0 0 10620
+S
+#10622
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6902
+D1
+~
+~
+0 0 10625
+D2
+~
+~
+0 0 10613
+D3
+~
+~
+0 0 10619
+S
+#10623
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10624
+D1
+~
+~
+0 0 10630
+D2
+~
+~
+0 0 10607
+D3
+~
+~
+0 0 10612
+S
+#10624
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10625
+D1
+~
+~
+0 0 10629
+D2
+~
+~
+0 0 10623
+D3
+~
+~
+0 0 10613
+S
+#10625
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10626
+D1
+~
+~
+0 0 10628
+D2
+~
+~
+0 0 10624
+D3
+~
+~
+0 0 10622
+S
+#10626
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6908
+D1
+~
+~
+0 0 10627
+D2
+~
+~
+0 0 10625
+D3
+~
+~
+0 0 6902
+S
+#10627
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10631
+D1
+~
+~
+0 0 6952
+D2
+~
+~
+0 0 10628
+D3
+~
+~
+0 0 10626
+S
+#10628
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10627
+D1
+~
+~
+0 0 10633
+D2
+~
+~
+0 0 10629
+D3
+~
+~
+0 0 10625
+S
+#10629
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10628
+D1
+~
+~
+0 0 10634
+D2
+~
+~
+0 0 10630
+D3
+~
+~
+0 0 10624
+S
+#10630
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10629
+D1
+~
+~
+0 0 10635
+D2
+~
+~
+0 0 10599
+D3
+~
+~
+0 0 10623
+S
+#10631
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6910
+D1
+~
+~
+0 0 10632
+D2
+~
+~
+0 0 10627
+D3
+~
+~
+0 0 6908
+S
+#10632
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6911
+D1
+~
+~
+0 0 10641
+D2
+~
+~
+0 0 6952
+D3
+~
+~
+0 0 10631
+S
+#10633
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6952
+D1
+~
+~
+0 0 10636
+D2
+~
+~
+0 0 10634
+D3
+~
+~
+0 0 10628
+S
+#10634
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10633
+D1
+~
+~
+0 0 10637
+D2
+~
+~
+0 0 10635
+D3
+~
+~
+0 0 10629
+S
+#10635
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10634
+D1
+~
+~
+0 0 10638
+D2
+~
+~
+0 0 10598
+D3
+~
+~
+0 0 10630
+S
+#10636
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10640
+D1
+~
+~
+0 0 6951
+D2
+~
+~
+0 0 10637
+D3
+~
+~
+0 0 10633
+S
+#10637
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10636
+D1
+~
+~
+0 0 10644
+D2
+~
+~
+0 0 10638
+D3
+~
+~
+0 0 10634
+S
+#10638
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10637
+D1
+~
+~
+0 0 10645
+D2
+~
+~
+0 0 10639
+D3
+~
+~
+0 0 10635
+S
+#10639
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10638
+D1
+~
+~
+0 0 10590
+D2
+~
+~
+0 0 10593
+D3
+~
+~
+0 0 10598
+S
+#10640
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10641
+D1
+~
+~
+0 0 10643
+D2
+~
+~
+0 0 10636
+D3
+~
+~
+0 0 6952
+S
+#10641
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6919
+D1
+~
+~
+0 0 10642
+D2
+~
+~
+0 0 10640
+D3
+~
+~
+0 0 10632
+S
+#10642
+0 0
+~
+~
+~
+0 0 0
+The Grasslands~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6925
+D1
+~
+~
+0 0 6927
+D2
+~
+~
+0 0 10643
+D3
+~
+~
+0 0 10641
+S
+#10643
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10642
+D1
+~
+~
+0 0 6928
+D2
+~
+~
+0 0 6951
+D3
+~
+~
+0 0 10640
+S
+#10644
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6951
+D1
+~
+~
+0 0 10647
+D2
+~
+~
+0 0 10645
+D3
+~
+~
+0 0 10637
+S
+#10645
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10644
+D1
+~
+~
+0 0 10646
+D2
+~
+~
+0 0 10590
+D3
+~
+~
+0 0 10638
+S
+#10646
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10647
+D1
+~
+~
+0 0 10651
+D2
+~
+~
+0 0 10586
+D3
+~
+~
+0 0 10645
+S
+#10647
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10648
+D1
+~
+~
+0 0 10650
+D2
+~
+~
+0 0 10646
+D3
+~
+~
+0 0 10644
+S
+#10648
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6928
+D1
+~
+~
+0 0 10649
+D2
+~
+~
+0 0 10647
+D3
+~
+~
+0 0 6951
+S
+#10649
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10652
+D1
+~
+~
+0 0 6942
+D2
+~
+~
+0 0 10650
+D3
+~
+~
+0 0 10648
+S
+#10650
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10649
+D1
+~
+~
+0 0 10654
+D2
+~
+~
+0 0 10651
+D3
+~
+~
+0 0 10647
+S
+#10651
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10650
+D1
+~
+~
+0 0 10655
+D2
+~
+~
+0 0 10572
+D3
+~
+~
+0 0 10646
+S
+#10652
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10653
+D1
+~
+~
+0 0 6941
+D2
+~
+~
+0 0 10649
+D3
+~
+~
+0 0 6928
+S
+#10653
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6935
+D1
+~
+~
+0 0 6940
+D2
+~
+~
+0 0 10652
+D3
+~
+~
+0 0 6927
+S
+#10654
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6942
+D1
+~
+~
+0 0 10657
+D2
+~
+~
+0 0 10655
+D3
+~
+~
+0 0 10650
+S
+#10655
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10654
+D1
+~
+~
+0 0 10656
+D2
+~
+~
+0 0 10578
+D3
+~
+~
+0 0 10651
+S
+#10656
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10657
+D1
+~
+~
+0 0 10666
+D2
+~
+~
+0 0 10661
+D3
+~
+~
+0 0 10655
+S
+#10657
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10658
+D1
+~
+~
+0 0 10665
+D2
+~
+~
+0 0 10656
+D3
+~
+~
+0 0 10654
+S
+#10658
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10659
+D1
+~
+~
+0 0 10664
+D2
+~
+~
+0 0 10657
+D3
+~
+~
+0 0 6942
+S
+#10659
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10660
+D1
+~
+~
+0 0 10663
+D2
+~
+~
+0 0 10658
+D3
+~
+~
+0 0 6941
+S
+#10660
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6945
+D1
+~
+~
+0 0 10662
+D2
+~
+~
+0 0 10659
+D3
+~
+~
+0 0 6940
+S
+#10661
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10656
+D1
+~
+~
+0 0 10667
+D2
+~
+~
+0 0 10581
+D3
+~
+~
+0 0 10578
+S
+#10662
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6947
+D1
+~
+~
+0 0 10672
+D2
+~
+~
+0 0 10663
+D3
+~
+~
+0 0 10660
+S
+#10663
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10662
+D1
+~
+~
+0 0 10671
+D2
+~
+~
+0 0 10664
+D3
+~
+~
+0 0 10659
+S
+#10664
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10663
+D1
+~
+~
+0 0 10670
+D2
+~
+~
+0 0 10665
+D3
+~
+~
+0 0 10658
+S
+#10665
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10664
+D1
+~
+~
+0 0 10669
+D2
+~
+~
+0 0 10666
+D3
+~
+~
+0 0 10657
+S
+#10666
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10665
+D1
+~
+~
+0 0 10668
+D2
+~
+~
+0 0 10667
+D3
+~
+~
+0 0 10656
+S
+#10667
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10666
+D3
+~
+~
+0 0 10661
+S
+#10668
+0 0
+~
+~
+~
+0 0 0
+`kAt the Foot of the Mountain``~
+`dThe grasslands that seemed so endless a while ago come to an abrubt
+halt at the foot of this snow-capped mountain.  Tiny bushes and small tufts
+of grass occupy ledges that can be seen on the mountainside, but only a
+mountain goat would find that enough of a footing to climb the rock face. 
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10669
+D3
+~
+~
+0 0 10666
+S
+#10669
+0 0
+~
+~
+~
+0 0 0
+`kAt the Foot of the Mountain``~
+`dThe grasslands that seemed so endless a while ago come to an abrubt
+halt at the foot of this snow-capped mountain.  Tiny bushes and small tufts
+of grass occupy ledges that can be seen on the mountainside, but only a
+mountain goat would find that enough of a footing to climb the rock face. 
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10670
+D2
+~
+~
+0 0 10668
+D3
+~
+~
+0 0 10665
+S
+#10670
+0 0
+~
+~
+~
+0 0 0
+`kThe Grasslands``~
+`dThe wind brings the sweet smell of rot from the north, bending the
+grass of this great grassland.  To the east there is a great mountain, and
+there seem to be some kind of large wooden structure halfway up the rock
+face.  To the far south a humid rainforest blocks the view of the ocean.  ``
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10671
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10669
+D3
+~
+~
+0 0 10664
+S
+#10671
+0 0
+~
+~
+~
+0 0 0
+`kAt the Foot of the Mountain``~
+`dThe grasslands that seemed so endless a while ago come to an abrubt
+halt at the foot of this snow-capped mountain.  Tiny bushes and small tufts
+of grass occupy ledges that can be seen on the mountainside, but only a
+mountain goat would find that enough of a footing to climb the rock face. 
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 10672
+D2
+~
+~
+0 0 10670
+D3
+~
+~
+0 0 10663
+S
+#10672
+0 0
+~
+~
+~
+0 0 0
+`kAt the Foot of the Mountain``~
+`dThe grasslands that seemed so endless a while ago come to an abrubt
+halt at the foot of this snow-capped mountain.  Tiny bushes and small tufts
+of grass occupy ledges that can be seen on the mountainside, but only a
+mountain goat would find that enough of a footing to climb the rock face. 
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 6949
+D2
+~
+~
+0 0 10671
+D3
+~
+~
+0 0 10662
+S
+#10673
+0 0
+~
+~
+~
+0 0 0
+At the Base of the Mountain~
+`dFlowers adorn the otherwise cold rock of the mountain here, cared for
+by an old woman that hobbles around here.  Far above, on the mountain side,
+one can spot a few wooden structures, what could that be?  `` 
+~
+0 0 12
+0
+~
+I 0 D3
+~
+~
+0 0 10670
+S
+#10674
+0 0
+~
+~
+~
+0 0 0
+`bThe Amazon Village``~
+`cBefore you lies the mountain village of the amazons.  A small society
+that consists solely of women.  Women eye you varily as you arrive, this
+could mean trouble...  `` 
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 10676
+S
+#10675
+0 0
+~
+~
+~
+0 512 0
+`iUN-USED ROOM``~
+`mamazon warriors glaring?
+~
+0 CO 0
+0
+~
+I 0 S
+#10676
+0 0
+~
+~
+~
+0 0 0
+`bCenter of the Amazon Village``~
+`cFires are lit all around this small gathering place in the middle of
+the amazon village.  The ground consists of rock worn smooth by wind, water
+and the help of amazon chisels.  `` 
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 10688
+D1
+~
+~
+0 0 10683
+D2
+~
+~
+0 0 10677
+D3
+~
+~
+0 0 10674
+S
+#10677
+0 0
+~
+~
+~
+0 0 0
+`bThe Village Well``~
+`cThis is where the villagers come to get their water, its the well.  A
+daily meeting place for all the women in the village.  Buckets sit next to
+the square well, each attached to a rope.  `` 
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 10676
+D1
+~
+~
+0 0 10682
+D2
+~
+~
+0 0 10678
+S
+#10678
+0 0
+~
+~
+~
+0 0 0
+`bOutside the Butcher's Shop``~
+`cClouds of flies buzz around the skinned animal carcasses outside the
+butchery to the east - a small wooden structure that seem to hang off the
+very cliffside of the mountain.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10677
+D1
+~
+door~
+1 0 10679
+D3
+~
+~
+0 0 10680
+S
+#10679
+0 0
+~
+~
+~
+0 0 0
+`bThe Butcher Shop``~
+`cThe smell of this room is a mix of food and raw meat, the butcher chops
+big chunks of meat with one hand and handling a frying pan with the other. 
+The rickety walls of this single-room house are black from soot and you
+really dont feel like staying too long.  `` 
+~
+0 D 1
+0
+~
+I 0 D3
+~
+door~
+1 0 10678
+S
+#10680
+0 0
+~
+~
+~
+0 0 0
+`bA Copse by the Edge of the Cliff``~
+`cA few thick-leafed threes stand here, protecting against the unmerciful
+glare of the sun.  Several hammocks in earthy colors hang between the
+trunks, some occupied by amazon women.  `` 
+~
+0 0 3
+0
+~
+H110
+I 0 D1
+~
+~
+0 0 10678
+D3
+~
+~
+0 0 10681
+S
+#10681
+0 0
+~
+~
+~
+0 0 0
+`bIn Mid-air``~
+`cFrom between the dangling cages you can see the vast expanses of the
+grasslands, and north of that, the rotten lands.  The cursed swamps, killing
+all living things within its grasp, seem to slowly crawl towards the coast. 
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 10680
+S
+#10682
+0 0
+~
+~
+~
+0 0 0
+`bBy the Fruit and Vegetable Stand``~
+`cBags full of fruit and vegetables pile up against the sides of the
+stand, and barely visible behind it, a girl stands, smiling broadly at every
+passing person.  `` 
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 10683
+D3
+~
+~
+0 0 10677
+S
+#10683
+0 0
+~
+~
+~
+0 0 0
+`bThe Amazon Altar``~
+`cJudging from how well kept this place is, and the amount of incense
+sticks and wooden tablets, this must be a holy place to the amazon women.  A
+raised platform, on which the amazons have placed offerings to the gods, is
+before you.  `` 
+~
+0 0 1
+0
+~
+I 0 D0
+~
+door~
+1 0 10687
+D1
+~
+~
+0 0 10684
+D2
+~
+~
+0 0 10682
+D3
+~
+~
+0 0 10676
+S
+#10684
+0 0
+~
+~
+~
+0 0 0
+`bBy the Elders's Fire``~
+`cThree logs lies neatly around a fire, perfect for leaning back on if
+you were to be an older person.  A blazing fire radiates pleasant warmth,
+giving off the smell of burning spruce.  `` 
+~
+0 0 1
+0
+~
+H110
+I 0 M110
+D1
+~
+door~
+1 0 10685
+D3
+~
+~
+0 0 10683
+S
+#10685
+0 0
+~
+~
+~
+0 0 0
+`bThe Elders's Cave``~
+`cHammocks, the prefered place for the amazons to sleep, hang from the
+ceiling of the cave, above a neatly organized room.  There is a desk and a
+chair, a few chests and colorful carpets on the floor.  But in the back of
+the cave there is a grate, from which a pathetic whimpering can be heard. 
+~
+0 AD 1
+0
+~
+I 0 D3
+~
+door~
+1 0 10684
+D5
+~
+door~
+1 10577 10686
+S
+#10686
+0 0
+~
+~
+~
+0 0 0
+`bA Hollow``~
+`aThis is basically a hole chiseled out of the very mountain.  Apparently
+it is made to keep its resident trapped and unable to get out.  `` 
+~
+0 ADN 1
+0
+~
+I 0 D4
+~
+door~
+1 0 10685
+S
+#10687
+0 0
+~
+~
+~
+0 0 0
+`bThe Potion Hut``~
+`cThe smoky interior of this small hut looks like a medicine shop, rows
+upon rows of small vials sit on shelves all around you.  The incense burns
+makes a wave of calmness blanket over you.  `` 
+~
+0 D 1
+0
+~
+I 0 D2
+~
+door~
+1 0 10683
+S
+#10688
+0 0
+~
+~
+~
+0 0 0
+`bA Dirt Trail``~
+`cLeading from the south, the center of the village, to the west, the
+tanner's shop, there is a small dirt trail.  Beside the trail, small brush
+grows and above a small outcropping of the mountain gives shade from the
+sun.  `` 
+~
+0 0 1
+0
+~
+I 0 D2
+~
+~
+0 0 10676
+D3
+~
+~
+0 0 10689
+S
+#10689
+0 0
+~
+~
+~
+0 0 0
+`bThe Tanner``~
+`cTools lie in neat rows on tables next to wooden contraptions that
+stretch the hides of various animals.  A barrel sits next to the entrance,
+containing scraps of, what looks like, dried meat.  Not knowing what that
+really is, you decide to leave it be.``
+~
+0 D 1
+0
+~
+I 0 D0
+~
+door~
+1 0 10690
+D1
+~
+~
+0 0 10688
+S
+#10690
+0 0
+~
+~
+~
+0 0 0
+`bThe Smithy``~
+`cFurnaces radiate extreme heat and light, bathing the smithy in an eerie
+red glow, casting flickering shadows all around.  Various wooden-handled
+weapons hang on display on the walls.  `` 
+~
+0 D 1
+0
+~
+I 0 D2
+~
+door~
+1 0 10689
+D3
+~
+door~
+1 0 10691
+S
+#10691
+0 0
+~
+~
+~
+0 0 0
+`bBehind the Smithy``~
+`cThis small garden is separated by the edge of the cliff by a mossy
+stone wall, barely high enough to keep lemmings from throwing themselves
+over to certain death.  Luckily there are no lemmings here, but a beautiful
+garden - trees, flowers, and even a small fountain on a marble dais.  `` 
+~
+0 0 3
+0
+~
+H120
+I 0 D1
+~
+door~
+1 0 10690
+S
+#10692
+0 0
+~
+~
+~
+0 0 0
+`hThe Cave Behind the Waterfall``~
+`gLight shines in through the waterfall, panting the wet cavern walls
+with white and blue veins.  The noise of the falling water echoes through
+this small pocket of stone, making it impossible to hear or speak.  `` 
+~
+0 DGT 5
+0
+~
+I 0 D1
+~
+~
+0 0 10596
+S
+#10693
+0 0
+~
+~
+~
+0 0 0
+`bOn the Raised Platform``~
+`cThis is where the amazon women place their offerings to the gods (or
+goddesses).  Gold and silver treasures lie here together with the occasional
+sacrificed goat.  `` 
+~
+0 0 1
+0
+~
+I 0 D5
+~
+~
+0 0 10683
+S
+#10694
+0 0
+~
+~
+~
+0 0 0
+`dIn the Bushes``~
+`bViolent rustling is all around, it sounds like something dangerous is
+close by, a something that just discovered you in the middle of its lair! 
+~
+0 ADN 3
+0
+~
+I 0 D4
+~
+~
+0 0 10602
+S
+#10695
+0 0
+~
+~
+~
+0 0 0
+`dCrawling the Hole``~
+`aNow you have done it, you are once again crawling through a narrow
+space hunting for treasure.  You do not seem to remember what happened all
+the other times you did something foolhardy like this.  `` 
+~
+0 AD 5
+0
+~
+I 0 D3
+~
+~
+0 0 10696
+D4
+~
+~
+0 0 10609
+S
+#10696
+0 0
+~
+~
+~
+0 0 0
+`dCrawling Through the Tunnel``~
+`aSo here you are, following the trail of gold coins like a naive child. 
+Crawling on, you fail to notice the heavy breathing in the dark passage
+ahead, also the red glowing eyes escape your notice.  `` 
+~
+0 AD 5
+0
+~
+I 0 D1
+~
+~
+0 0 10695
+D3
+~
+~
+0 0 10697
+S
+#10697
+0 50000
+`xGreat going newb, you fell into ANOTHER trap.``~
+~
+~
+0 0 0
+`dThe Lair``~
+`aYou did not see THIS coming!  You find yourself in a giant insectoid's
+lair, and you are not alone.  To your total surprise, the insect appears
+behind you, trapping you.  Don't you feel stupid?  `` 
+~
+0 AD 5
+0
+~
+I 0 D1
+~
+~
+0 0 10696
+S
+#10698
+0 0
+~
+~
+~
+0 0 0
+`dUp in the Tree``~
+`bBranches and leaves surround you, as they should, you sitting in a tree
+and all.  This is the perfect ambush spot, with animals passing under the
+tree, one could easily put an arrow in the back of them.  `` 
+~
+0 D 3
+0
+~
+I 0 D5
+~
+~
+0 0 10571
+S
+#0
+
+#RESETS
+O 0 10553   0 10553 -1	* The shipwreck at `hBlack Shores``
+O 0 10554   0 10593 -1	* A totem pole at `dThe Dark Rainforest``
+O 0 10554   0 10573 -1	* A totem pole at `dThe Dark Rainforest``
+O 0 10555   0 10569 -1	* A fallen tree at `dThe Dark Rainforest``
+O 0 10556   0 10588 -1	* A silver harp at `dA Circle of Trees``
+O 0 10557   0 10596 -1	* A roaring waterfall at `dIn Front of a Waterfall``
+O 0 10558   0 10692 -1	* A sneaky waterfall trap at `hThe Cave Behind the Waterfall``
+O 0 10559   0 10681 -1	* A cage at `bIn Mid-air``
+P 0 10560 1 10559 1
+M 0 10555   1 10680  1	* The amazon fletcher
+G 0 10561 -1		* `ca`d p`ba`ci`dn`bt`ce`dd`c wooden shortbow`` to The amazon fletcher
+O 0 10562   0 10678 -1	* A skinned animal at `bOutside the Butcher's Shop``
+O 0 10564   0 10679 -1	* A cutting board at `bThe Butcher Shop``
+M 0 10556   1 10679  1	* The butcher
+G 0 10563 -1		* A skull monkey fillet to The butcher
+D 0 10678   1    1	* `bOutside the Butcher's Shop`` [east]
+D 0 10679   3    1	* `bThe Butcher Shop`` [west]
+O 0 10554   0 10676 -1	* A totem pole at `bCenter of the Amazon Village``
+M 0 10558   1 10687  1	* The potion lady
+G 0 10565 -1		* A glowing yellow potion to The potion lady
+G 0 10566 -1		* A moss-green potion to The potion lady
+D 0 10687   2    1	* `bThe Potion Hut`` [south]
+D 0 10683   0    1	* `bThe Amazon Altar`` [north]
+D 0 10689   0    1	* `bThe Tanner`` [north]
+D 0 10690   2    1	* `bThe Smithy`` [south]
+O 0 10568   0 10689 -1	* A roll of raw leather at `bThe Tanner``
+M 0 10559   1 10689  1	* The tanner
+E 0 10567   -1   15	* item to The tanner
+D 0 10690   3    1	* `bThe Smithy`` [west]
+D 0 10691   1    1	* `bBehind the Smithy`` [east]
+O 0 10569   0 10690 -1	* An anvil at `bThe Smithy``
+M 0 10560   1 10690  1	* Darra, the blacksmith
+G 0 10570 -1		* `ca steel-tipped `da`cm`ba`dz`co`bn`c spear`` to Darra, the blacksmith
+G 0 10571 -1		* A heavy iron chest adorned with intricate flower patterns to Darra, the blacksmith
+O 0 10572   0 10691 -1	* The garden fountain at `bBehind the Smithy``
+M 0 10561   1 10691  1	* A practice dummy made of grass
+O 0 10573   0 10683 -1	* A raised platform at `bThe Amazon Altar``
+O 0 10574   0 10693 -1	* Alarm trap at `bOn the Raised Platform``
+O 0 10575   0 10693 -1	* A sacrificial goat at `bOn the Raised Platform``
+O 0 10576   0 10693 -1	* A pile of gold and silver coins at `bOn the Raised Platform``
+D 0 10684   1    1	* `bBy the Elders's Fire`` [east]
+D 0 10685   3    1	* `bThe Elders's Cave`` [west]
+M 0 10563   1 10684  1	* The amazon elders
+G 0 10577 -1		* A key on a chain to The amazon elders
+M 0 10564   1 10686  1	* The cursed amazon woman
+D 0 10685   5    1	* `bThe Elders's Cave`` [down]
+D 0 10686   4    1	* `bA Hollow`` [up]
+O 0 10578   0 10682 -1	* A vegetable and fruit stand at `bBy the Fruit and Vegetable Stand``
+P 0 10579 1 10578 1
+P 0 10580 1 10578 1
+M 0 10565   1 10682  1	* The salad girl
+G 0 10581 -1		* A red apple to The salad girl
+G 0 10582 -1		* A brown mountain grape to The salad girl
+O 0 10583   0 10677 -1	* The well at `bThe Village Well``
+O 0 10584   0 10674 -1	* A rope ladder at `bThe Amazon Village``
+M 0 10566   1 10674  1	* An amazonian girl
+E 0 10585   -1    7	* item to An amazonian girl
+M 0 10568   1 10694  1	* The carnivorous blood flower
+G 0 10586 -1		* The vine of the blood flower to The carnivorous blood flower
+O 0 10587   0 10602 -1	* Bones pale at `dA Bed of Moss``
+O 0 10588   0 10609 -1	* A hole in the ground at `dThe Dark Rainforest``
+O 0 10589   0 10695 -1	* A gold coin at `dCrawling the Hole``
+O 0 10589   0 10696 -1	* A gold coin at `dCrawling Through the Tunnel``
+M 0 10569   1 10697  1	* The tunnel fisher
+O 0 10591   0 10611 -1	* Apple trap at `dUnder a Tree``
+O 0 10590   0 10611 -1	* A fruit-tree at `dUnder a Tree``
+O 0 10692   0 10571 -1	* An ordinary tree at `dThe Dark Rainforest``
+M 0 10570   1 10698  1	* An amazon scout
+E 0 10693   -1   16	* item to An amazon scout
+O 0 10695   0 10629 -1	* A solitary tree at `kThe Grasslands``
+O 0 10696   0 10600 -1	* Amazon's trap at `dThe Dark Rainforest``
+M 0 10575   1 10600  1	* An amazon trapper
+M 0 10571   7 10574  1	* A skull monkey
+G 0 10694 -1		* Skull monkey hide to A skull monkey
+M 0 10571   7 10580  1	* A skull monkey
+G 0 10694 -1		* Skull monkey hide to A skull monkey
+M 0 10571   7 10578  1	* A skull monkey
+G 0 10694 -1		* Skull monkey hide to A skull monkey
+M 0 10571   7 10590  1	* A skull monkey
+G 0 10694 -1		* Skull monkey hide to A skull monkey
+M 0 10571   7 10591  1	* A skull monkey
+G 0 10694 -1		* Skull monkey hide to A skull monkey
+M 0 10571   7 10603  1	* A skull monkey
+G 0 10694 -1		* Skull monkey hide to A skull monkey
+M 0 10571   7 10610  1	* A skull monkey
+G 0 10694 -1		* Skull monkey hide to A skull monkey
+M 0 10572   4 10613  1	* A red-tailed flint lizard
+M 0 10572   4 10598  1	* A red-tailed flint lizard
+M 0 10572   4 10584  1	* A red-tailed flint lizard
+M 0 10572   4 10576  1	* A red-tailed flint lizard
+M 0 10573   6 10620  1	* A striped lion
+M 0 10573   6 10623  1	* A striped lion
+M 0 10573   6 10642  1	* A striped lion
+M 0 10573   6 10648  1	* A striped lion
+M 0 10573   6 10657  1	* A striped lion
+M 0 10573   6 10662  1	* A striped lion
+M 0 10574   7 10666  1	* The blue-feathered ostrich
+M 0 10574   7 10653  1	* The blue-feathered ostrich
+M 0 10574   7 10644  1	* The blue-feathered ostrich
+M 0 10574   7 10635  1	* The blue-feathered ostrich
+M 0 10574   7 10633  1	* The blue-feathered ostrich
+M 0 10574   7 10627  1	* The blue-feathered ostrich
+M 0 10574   7 10626  1	* The blue-feathered ostrich
+O 0 10697   0 10561 -1	* A rock at `hBlack Shores``
+M 0 10576   1 10557  1	* A horned beach crab
+O 0 10698   0 10559 -1	* Dead jellyfish at `hBlack Shores``
+M 0 10577   1 10622  1	* An amazon hunting party
+O 0 10699   0 10663 -1	* A murky pool at `kThe Grasslands``
+O 0 10700   0 10634 -1	* A bunch of thorny bushes at `kThe Grasslands``
+O 0 10701   0 10673 -1	* Some wild roses at At the Base of the Mountain
+M 0 10567   1 10673  1	* An old woman
+O 0 10592   0 10569 -1	* A delicate orchid at `dThe Dark Rainforest``
+O 0 10594   0 10659 -1	* A snare at `kThe Grasslands``
+O 0 10595   0 10562 -1	* A mound of sand and sea-weed at `hBlack Shores``
+O 0 10702   0 10586 -1	* A wasps' hive at `dThe Dark Rainforest``
+S
+
+#SHOPS
+10555 55  5  0  0  0 	80 100 	6 22	* The amazon fletcher
+10556  0  0  0  0  0 	100   3 	7 22	* The butcher
+10558 10 26  0  0  0 	100  50 	7 22	* The potion lady
+10560  5  9 15  0  0 	100  70 	7 22	* Darra, the blacksmith
+10565 19 26  0  0  0 	100 100 	7 22	* The salad girl
+0
+
+#SPECIALS
+M 10559 spec_janitor		* The tanner
+M 10564 spec_poison		* The cursed amazon woman
+M 10569 spec_poison		* The tunnel fisher
+M 10571 spec_fido		* A skull monkey
+M 10572 spec_breath_fire		* A red-tailed flint lizard
+S
+
+#OT
+#10592
+`aLost Continent`` -`c Orchid``~
+$obj_given_char 10567~
+4096
+96
+force amazongateguard emote blushes.~
+100
+2
+force amazongateguard say `kFor me?``~
+100
+2
+force amazongateguard say `kI guess I could let you into the village...``~
+100
+2
+force amazongateguard emote gives a loud whistle.~
+100
+3
+echo A rope ladder falls down from above.~
+100
+5
+load obj 10593~
+100
+0
+set obj orchidtrigger extra wizi~
+100
+0
+echo The rope ladder is pulled up the side of the mountain.~
+100
+20
+at 10673 opurge ladder~
+100
+0
+seize orchidtrigger amazongateguard~
+100
+0
+at 1 drop orchidtrigger~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10701
+`aLost Continent`` -`c Amazon Gateguard``~
+$entersroom~
+1
+68
+force amazongateguard say `kGreetings, traveller.``~
+100
+2
+force amazongateguard say `kHave you come to visit the`d amazon`k village?``~
+100
+3
+force amazongateguard emote takes a closer look at you.~
+100
+3
+force amazongateguard say `kHmm?``~
+100
+3
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+33
+#0
+#$

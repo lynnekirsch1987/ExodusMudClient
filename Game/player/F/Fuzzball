@@ -1,0 +1,659 @@
+#PLAYER
+Name Fuzzball~
+Id   962472781
+LogF 1023851500
+LogO 1023851500
+Vers 7
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race dwarf~
+Sex  2
+Cla  4
+Levl 27
+MBKill 1
+PHKill 1
+MHKill 830
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 166658
+Bank_Gold 10017
+Bank_Silv 0
+Email fuzzie@usa.com~
+Host adsl-63-207-15-173.dsl.snfc21.pacbell.net~
+Not  984327063 986501059 976504944 989892739 977166845 1008355191 977860472
+Scro 22
+Room 4056
+HMV  390 390 57 57 252 252
+Hand 4
+Gold 40
+Silv 4586
+Exp  205722
+Act  CDEGHQ
+AfBy DJ
+Comm NOQS
+Pos  8
+Prac 12
+Save  -3
+Alig  1000
+Hit   36
+Dam   38
+ACs 0 6 -4 29
+Wimp  60
+Attr 21 8 17 14 23 8
+AMod 4 2 0 4 2 -18
+Pass FufUNAboYDFIQ~
+Layhands 0
+Exorcise 0
+Titl .~
+Pnts 89
+TSex 2
+LLev 40
+Loner 0
+HMVP 415 152 232
+Cnd  -16 -16 24 -2
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 14 8 13 5 0 0
+Sk 49 'bee sting'
+Sk 1 'bee swarm'
+Sk 1 'call lightning'
+Sk 1 'herbal lore'
+Sk 1 'aqua breathe'
+Sk 1 'bark skin'
+Sk 1 'Eyes of the Owl'
+Sk 1 'dagger'
+Sk 1 'polearm'
+Sk 93 'sword'
+Sk 1 'riding'
+Sk 1 'tame'
+Sk 19 'dual wield'
+Sk 1 'berserk'
+Sk 1 'dodge'
+Sk 45 'enhanced damage'
+Sk 49 'parry'
+Sk 1 'trip'
+Sk 8 'butcher'
+Sk 1 'endurance'
+Sk 68 'second attack'
+Sk 34 'third attack'
+Sk 1 'fast healing'
+Sk 61 'camouflage'
+Sk 1 'lore'
+Sk 1 'track'
+Sk 61 'camping'
+Sk 1 'entangle'
+Sk 1 'wall of thorns'
+Gr 'rom basics'
+Gr 'dance of the wild'
+Affc 'detect invis'   0  84  48   0   0          8 0 ''
+End
+
+#O
+Vnum 8707
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+ExDe ball fire~ The ball of fire is hot to the touch and very very bright.
+~
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 20964
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 20956
+Enchanted
+Nest 0
+ExtF 8650817
+Cond 0
+Wear 13
+Lev  17
+Cost 0
+Affc 'enchant armor'   1  90  -1  -2  17          0 0 ''
+Affc 'reserved'   1  16  -1   2   1          0 0 ''
+End
+
+#O
+Vnum 20389
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 114
+Enchanted
+Nest 0
+ExtF 8650817
+Cond 0
+Wear 12
+Lev  31
+Cost 0
+Affc 'enchant armor'   1  90  -1  -2  17          0 0 ''
+Affc 'reserved'   1  30  -1   2   2          0 0 ''
+Affc 'reserved'   1  30  -1   1  18          0 0 ''
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 12234
+Nest 0
+ExtF 8388931
+Cond 0
+Wear 11
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 12233
+Nest 0
+ExtF 25428291
+Cond 0
+Wear 5
+Cost 0
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 7278
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 12223
+Nest 0
+Cond 0
+Wear 15
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 12223
+Nest 0
+Cond 0
+Wear 14
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 4102
+Nest 0
+Cond 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 12220
+Enchanted
+Nest 1
+ExtF 8388673
+Wear -1
+Lev  36
+Cost 0
+Affc 'enchant armor'   1  90  -1  -2  17          0 0 ''
+ExDe shield~ ~
+End
+
+#O
+Vnum 114
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 12234
+Nest 1
+ExtF 8388931
+Cond 0
+Wear -1
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5572
+Nest 1
+ExtF 75759616
+Cond 0
+Wear -1
+Cost 0
+Spell 3 'refresh'
+End
+
+#O
+Vnum 4279
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5650
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10762
+Enchanted
+Nest 1
+ExtF 66
+Cond 0
+Wear -1
+Lev  41
+Cost 0
+Val  1 5 6 1 128 0 0
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 11401
+Nest 0
+ExtF 8650754
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 10762
+Enchanted
+Nest 0
+ExtF 262211
+Cond 0
+Wear 16
+Lev  34
+Cost 0
+Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   6  18          0 0 ''
+End
+
+#O
+Vnum 4114
+Nest 0
+Cond 0
+Wear -1
+Cost 345
+Val  150 54 3 0 0 0 0
+End
+
+#O
+Vnum 4114
+Nest 0
+Cond 0
+Wear -1
+Cost 345
+Val  150 0 3 0 0 0 0
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+Cond 0
+Wear 3
+Cost 300
+End
+
+#O
+Vnum 12952
+Nest 0
+ExtF 85721090
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 7265
+Enchanted
+Nest 0
+ExtF 8388611
+Cond 0
+Wear 19
+Cost 0
+Affc 'reserved'   1  30  -1   1   2          0 0 ''
+Affc 'reserved'   1  30  -1   1  18          0 0 ''
+End
+
+#O
+Vnum 4450
+Nest 0
+ExtF 76316928
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 25355
+Nest 0
+Name key room~
+ShD  key to Fuzzball's room~
+Desc A metal key to Fuzzball's room is here.~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#RoomRLE   4048 1 3 1 2 2 77 1 43 1 61356 -1
+
+#END

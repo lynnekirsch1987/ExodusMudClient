@@ -1,0 +1,34 @@
+* File: gbeg.scr
+* Mob: Beggar(4064)
+
+#TRIGGER beg1
+Type 3
+Sc
+wfunc %rndnum% random 0 2
+getch %namea%
+mfunc %namea% %name% name
+if ( %rndnum% == 0 )
+   say Please, spare some coins for the poor?
+   beg %name%
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   cmd cough
+   say Have you no heart?  Just a few silver is all I need...
+   halt once~
+End
+
+#TRIGGER beg2
+Type 5
+Sc
+if ( %beg2-arg% cmp "NOTHING" )
+   thank %beg2-from%
+   say Thanks, buddy!
+   halt once~
+Sc
+   say What am I supposed to do with this?  I asked for money ya jerk!
+   give %beg2-arg% %beg2-from%
+   halt once~
+End
+
+#END

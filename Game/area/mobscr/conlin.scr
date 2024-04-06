@@ -1,0 +1,103 @@
+* script: conlin.scr
+* Conlin (8816)
+
+#TRIGGER tick
+Type 3
+Sc
+if (%timer% < 1)
+  cmd at 1 drop all
+  cmd at 1 purge
+  cmd yell I just got some new merchandise!
+* 25 Asparagus
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+  cmd at 1 load obj 8834
+* 25 Spinach Leaves
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+  cmd at 1 load obj 8835
+* 25 Pumpkins
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  cmd at 1 load obj 8836
+  let %timer% == 20
+  halt once~
+Sc
+  let %timer% -= 1
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %timer% == 20
+  halt once~
+End
+
+#END

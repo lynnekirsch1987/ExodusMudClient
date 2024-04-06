@@ -1,0 +1,938 @@
+#O
+Vnum 26458
+Nest 0
+WeaF 1
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 11396
+Nest 0
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 16326
+Nest 0
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 1416
+Nest 0
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 16
+Nest 0
+ShD  the guts of `aDeath``~
+Desc A steaming pile of `aDeath``'s entrails is lying here.~
+WearL -1
+Cost 1
+Vlues  5 5 3 1 0 -1 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4406
+Nest 0
+WearL -1
+Cost 1
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+End
+
+#O
+Vnum 4407
+Nest 0
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 30003
+Nest 0
+WearL -1
+Cost 1
+End
+
+#O
+Vnum 11408
+Nest 0
+WearL -1
+Cost 10000
+End
+
+#O
+Vnum 18934
+Nest 0
+WearL -1
+Cost 1934
+End
+
+#O
+Vnum 18934
+Nest 0
+WearL -1
+Cost 50000
+End
+
+#O
+Vnum 18935
+Nest 0
+WearL -1
+Cost 40000
+End
+
+#O
+Vnum 18935
+Nest 0
+WearL -1
+Cost 40000
+End
+
+#O
+Vnum 18935
+Nest 0
+WearL -1
+Cost 40000
+End
+
+#O
+Vnum 18935
+Nest 0
+WearL -1
+Cost 40000
+End
+
+#O
+Vnum 12942
+Nest 0
+ExF 0 8650752
+Cond 100
+WearL -1
+Cost 40000
+End
+
+#O
+Vnum 12942
+Nest 0
+Cond 100
+WearL -1
+Cost 40000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+WearL -1
+Cost 25000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+WearL -1
+Cost 25000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+WearL -1
+Cost 25000
+End
+
+#O
+Vnum 12716
+Nest 0
+ExF 0 134479872
+WearL -1
+Cost 400
+End
+
+#O
+Vnum 12717
+Nest 0
+ExF 0 134479872
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 12718
+Nest 0
+ExF 0 134479872
+WearL -1
+Cost 200
+End
+
+#O
+Vnum 12719
+Nest 0
+ExF 0 134479872
+WearL -1
+Cost 100
+End
+

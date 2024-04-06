@@ -1,0 +1,21 @@
+* File: rular.scr
+* Mob: Ular(7703)
+
+#TRIGGER combo
+Type 2
+Sc
+mfunc %combo-from% %die% name
+wfunc %dieplz% random 0 4
+wfunc %plzdie% random 0 4
+if (%plzdie% > 3) && (%dieplz% >= 3)
+ emote screams as he is worked into a blood rage!
+ cmd berserk
+ bash %die%
+ charge %die%
+ bash %die%
+ disarm %die%
+ bash %die%
+ halt once~
+End
+
+#END

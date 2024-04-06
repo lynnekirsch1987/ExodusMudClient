@@ -1,0 +1,27 @@
+* File: malrezni.scr
+* Mob: Malrezni(420)
+
+#TRIGGER cmb
+Type 2
+Sc
+getpc %name%
+mfunc %name% %hp% hit
+mfunc %name% %maxhp% maxhit
+if (%hp% < %maxhp%)
+  cmd pray heal %name%
+  halt once~
+End
+
+#TRIGGER auvyron
+Type 8
+Sc
+if ( %auvyron-arg% cmp "auvyron" )
+  cmd at 1 wizi 92
+  cmd goto 495
+  echo `jIn a sparkle of colors, `kMalrezni`j appears to aid you in your struggle.``
+  cmd at 1 wizi
+  cmd kill auvyron
+halt once~
+End
+
+#END

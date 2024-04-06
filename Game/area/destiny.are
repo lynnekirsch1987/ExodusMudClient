@@ -1,0 +1,338 @@
+#AREA
+ 6~
+destiny.are~
+Painted Dreams~
+{35 80} Cailet  Painted Dreams~
+~
+7500 7699
+0 0 0
+0 1
+~
+#MOBILES
+#7500
+xmobber~
+Penismob~
+Penismob
+~
+~
+human~
+0 0 0 0
+ANS J 0 0
+0 0 1d1+30000 0d0+0 0d0+0 none
+0 0 0 999 0
+Z 60 3 VW 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#7500
+testobj~
+A BIGASS SHIELD~
+Testobj~
+unknown~
+0
+trash 2
+S
+E
+AJOX
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+S
+ 0 95 100 -1 0 25 8192
+#7501
+cj testobj~
+testobj arms~
+Testobj arms~
+unknown~
+0
+armor 2
+S
+0
+AI
+L
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B B 0
+0
+0
+0 0 0 P
+#7502
+weapon~
+weapon~
+Weapon~
+unknown~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+7500
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 AC AC B D
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#7500
+0 0
+~
+~
+~
+0 0 0
+A Commencement~
+Pushing through the closely nestled trees whose branches intertwine to
+form a mural of almost impassable vegetation, you emerge into this clearing
+devoid of brambles and snares.  The light shimmers down on the oddly shaped
+silver pebbles surrounding this clearing, twisting and molding light in
+fantastic formulations of beauty.  Your breath catches, an anticipation of
+something surreal gathers in your senses, forcing you into a pensive and
+introspective mood.  `` 
+~
+0 0 3
+0
+~
+I C D0
+~
+~
+0 0 7501
+S
+#7501
+0 0
+~
+~
+~
+0 0 0
+Path of Enlightenment~
+Slowly, with breathless fragility, tendrils of life embrace you with the
+rhythmic swaying of tree branches in the vibrant air.  Not content with your
+acquiesence to the power of nature surrounding you, the wind caresses you
+not so gently, eliciting a mortal reminder of subservience.  Thousands of
+leagues from the herd, you feel the initially awkward yet invigorating
+comfort of being utterly alone.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 7502
+D2
+~
+~
+0 0 7500
+S
+#7502
+0 0
+~
+~
+~
+0 0 0
+Path of Enlightenment~
+Ironic that out here, in the middle of nowhere, amidst the hungry untamed
+beasts, you feel safer than in the madness of the city.  Here in this
+purity, animals abide by the laws of the jungle, logical and just.  From the
+insanity of people comes the unfathomable ugliness that has corrupted known
+civilization so as to have sent you searching for just this type of
+vividness.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 7503
+D2
+~
+~
+0 0 7501
+S
+#7503
+0 0
+~
+~
+~
+0 0 0
+Path of Enlightenment~
+Your feet tread, without defilement, the silver path laid graciously
+before the slender trees who hold court here.  A path of confusion, each
+step takes you further from the roads you have mapped to the vast unknown. 
+Unerringly, moved by primal curiosity, you forge onwards - deeper and deeper
+- tracing your soul through the trees.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 7504
+D2
+~
+~
+0 0 7502
+S
+#7504
+0 0
+~
+~
+~
+0 0 0
+Divergence~
+The wood diverges, the darkness split by the shining path, peace unto
+turmoil conjoined by absolution.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 7503
+S
+#0
+
+#RESETS
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#7500
+penisstab~
+$chance_on_round~
+256
+107
+peace~
+100
+0
+force xmob backstab $randpc~
+100
+5
+say hi~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

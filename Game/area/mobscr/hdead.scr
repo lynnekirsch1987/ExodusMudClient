@@ -1,0 +1,25 @@
+* File: hdead.scr
+* Mob: Half dead citizen(11378)
+
+#TRIGGER retards
+Type 2
+Sc
+mfunc %retards-from% %hithere% name
+wfunc %gambit% random 0 5
+wfunc %serenity% random 0 10
+wfunc %colin% random 0 20
+wfunc %warblade% random 0 50
+if (%gambit% > 4)
+say Kill me quickly...please!
+moan~
+Sc
+if (%serenity% == 6) && (%colin% < 5)
+emote begs you to end the pain.~
+Sc
+if (%warblade% > 46) && (%warblade% < 50)
+moan %hithere%
+moan %hithere%
+moan %hithere%~
+End
+
+#END

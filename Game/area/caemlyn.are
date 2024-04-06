@@ -1,0 +1,4780 @@
+#AREA
+caemlyn.enc~
+Caemlyn~
+{ 1 100} Goldmund  Caemlyn~
+~
+20009 20209
+0 0
+0 0
+~
+#MOBILES
+#20009
+Queen's Guardsman Guard~
+a Queen's Guardsman~
+A member of the queen's guard patrols here.
+~
+A stout guardsman patrols the streets looking for trouble.  
+~
+human~
+0 0 0 0
+AGT 0 300 0
+21 10 8d40+211 21d10+100 5d4+10 punch
+-2 -2 -2 3
+CEFKTU 0 0 0
+stand stand none 120
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20010
+Saran weaponsmith~
+Saran~
+Saran the weaponsmith stands here, sharpening a sword.
+~
+~
+human~
+0 0 0 0
+ABV 0 0 0
+24 17 100d10+200 0d0+0 0d0+0 none
+-10 -10 -10 -10
+0 ABCD 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20011
+lion~
+a small lion~
+A small, sickly lion growls quietly at the crowd.
+~
+~
+cat~
+0 0 0 0
+AB Z 0 0
+9 3 3d25+100 8d10+100 2d4+7 claw
+5 5 5 7
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKQUV medium unknown~
+0 0 0 100
+0
+~
+~
+#20012
+Durgan~
+Durgan~
+Durgan is here, waiting for his next customer.
+~
+~
+human~
+0 0 0 0
+ABGV 0 0 0
+25 25 100d10+400 0d0+0 4d5+1 none
+-10 -10 -10 -10
+0 ABCD 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20013
+acrobat circus~
+an acrobat~
+An acrobat balances on a tightrope here.
+~
+This thin acrobat move swiftly along the ropes.  You notice them eyeing
+the audience while they preform, occasionally slipping among them.  
+~
+human~
+0 0 0 0
+ABS PT -250 0
+14 7 5d29+143 10d14+100 3d4+9 slap
+0 0 0 5
+BFHINU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20014
+firebreathing man firebreather~
+a firebreather~
+A firebreathing man entertains the crowd here.
+~
+~
+human~
+0 0 0 0
+AB 0 -550 0
+16 8 5d30+210 16d10+100 5d3+7 punch
+0 0 0 5
+ACF 0 H 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20015
+tamer~
+a lion tamer~
+A lion tamer fends off lions and spectators here.
+~
+~
+human~
+0 0 0 0
+AB 0 -450 0
+17 16 5d37+230 18d10+100 3d5+10 none
+3 3 3 6
+0 0 0 0
+stand stand none 130
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20016
+strong man strongman~
+a strongman~
+A strong man lifts an anvil with one hand here.
+~
+~
+human~
+0 0 0 0
+AB 0 -290 0
+16 4 22d3+99 16d10+100 5d4+10 punch
+1 1 1 5
+D 0 0 0
+stand stand none 230
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20017
+ringmaster master~
+the ringmaster~
+The ringmaster stares at you with cold black eyes.
+~
+~
+human~
+0 0 0 0
+ABFT N -1000 0
+19 10 8d40+250 19d10+100 4d5+8 beating
+-1 -1 -1 3
+CDFK 0 0 0
+stand stand male 120
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20018
+new student~
+a new student~
+A young new student walks about wide-eyed here.
+~
+A new student looks bewildered.
+~
+human~
+0 0 0 0
+AH 0 0 0
+5 3 1d17+39 10d5+100 1d6+2 none
+7 7 7 8
+0 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20019
+novice student~
+a novice ~
+A novice student fumbles about here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+6 4 1d18+52 6d10+100 2d3+2 none
+6 6 6 8
+0 0 0 0
+stand stand none 15
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20020
+student~
+a student~
+A student practices intently here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+7 5 1d22+62 7d10+100 3d2+3 none
+6 6 6 7
+FU 0 0 0
+stand stand none 20
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20021
+advanced student~
+a student~
+An advanced student moves about confidently.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+8 6 2d20+70 10d10+100 2d4+3 none
+5 5 5 6
+CFHKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20022
+music student~
+a music student~
+A music student plays badly here.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+7 5 2d20+60 20d10+100 2d4+2 none
+4 4 4 5
+FH 0 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20023
+master teacher~
+a teacher~
+A master stands here training students in battle.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+10 12 3d22+90 10d10+100 2d6+5 none
+4 4 4 7
+CEFHIJKNU 0 0 0
+stand stand none 34
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20024
+professor teacher man~
+a professor~
+A professor lectures here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+9 8 3d22+88 10d10+100 5d2+3 beating
+4 4 4 7
+F 0 0 0
+stand stand none 15
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20025
+student~
+a student~
+A student listens attentively here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+7 6 2d20+61 8d10+100 1d10+2 none
+3 3 3 6
+0 0 0 0
+stand stand none 3
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20026
+receptionist~
+a receptionist~
+The receptionist asks if you have an appointment.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+8 7 2d29+57 8d10+100 1d8+5 beating
+6 6 6 8
+0 0 0 0
+stand stand none 5
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20027
+master academy~
+the master~
+The master of the academy looks nervously at you.
+~
+~
+human~
+0 0 0 0
+AB 0 -800 0
+11 9 3d25+102 10d10+100 4d3+5 beating
+3 3 3 6
+0 0 0 0
+stand stand male 180
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20028
+head librarian~
+the head librarian~
+The head librarian is shelving books here.
+~
+~
+human~
+0 0 0 0
+AB NT 0 0
+12 9 4d25+65 10d10+120 3d4+7 beating
+1 1 1 2
+FH 0 0 0
+stand stand none 95
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20029
+Gleeman~
+a gleeman~
+A gleeman entertains the crowd here.
+~
+~
+human~
+0 0 0 0
+AS V 100 0
+13 8 4d25+120 10d10+100 2d7+4 beating
+2 2 2 6
+FH 0 0 0
+stand stand none 15
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20030
+Officer guard queen's~
+an officer~
+An officer of the queen's guard eyes you suspiciously.
+~
+~
+human~
+0 0 0 0
+ABTc 0 0 0
+25 18 10d61+416 25d10+100 5d5+12 punch
+-5 -5 -5 2
+CEFHKT 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20031
+hunter horn~
+a hunter~
+A hunter for the horn watches you, looking for clues.
+~
+~
+human~
+0 0 0 0
+AT 0 -100 0
+23 14 10d58+310 24d10+100 5d5+12 beating
+-5 -5 -5 1
+DEFHK 0 0 0
+stand stand male 210
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20032
+merchant~
+a merchant~
+A finely dressed merchant walks the street here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+22 11 8d45+250 10d10+100 5d4+10 none
+-3 -3 -3 0
+0 0 0 0
+stand stand none 210
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20033
+refugee~
+a refugee~
+A refugee from the wars searches for food here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+12 4 3d20+87 5d5+10 2d4+6 punch
+8 8 8 10
+FJU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20034
+noble petty~
+a petty noble~
+A petty noble from one of the smaller houses eyes you with disdain.
+~
+~
+human~
+0 0 0 0
+AT 0 0 0
+24 16 11d35+230 20d10+100 2d25+12 beating
+-5 -5 -5 2
+CFHKU 0 0 0
+stand stand none 134
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20035
+citizen caemlyn~
+a citizen~
+An Andorian citizen strolls by here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+15 7 5d30+161 0d0+0 3d5+8 none
+0 0 0 0
+0 0 0 0
+stand stand none 15
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20036
+old man~
+an old man~
+An old man slowly walks by here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+14 4 30d5+161 5d10+100 2d5+5 none
+1 1 1 3
+N 0 0 0
+stand stand male 7
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20037
+master ellidan~
+master ellidan~
+Master Ellidan stands here, ready to train you.
+~
+~
+human~
+0 0 0 0
+ABJKb 0 0 0
+30 0 100d10+300 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20038
+assandra~
+assandra~
+A plump woman in an apron smiles at you.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+30 0 100d10+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20039
+old supply man~
+the old supply-shop man~
+An old man sits here, stuffing his pipe, and waiting for your order.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+30 0 10d10+900 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20040
+book seller~
+the book-seller~
+The book seller greets you with a smile.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+30 0 40d40+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20041
+master azrade~
+master azrade~
+Master Azrade waits here, wondering if you're wasting his time.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+30 0 10d100+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20042
+Sam~
+Sam~
+Sam is here, peering at you through a magnifying glass.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+0 0 100d100+19 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20043
+master basel gill~
+Basel Gill~
+Basel Gill stands here, waiting for your order
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+0 0 40d40+40 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20044
+silkworm~
+silkworm~
+A thin domani man dressed in black silks offers you spices of all sorts.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+0 0 100d10+100 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 6000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20045
+antique dealer~
+antique dealer~
+The antique dealers looks at you hopefully.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+0 0 100d10+700 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20046
+eryl sedai~
+eryl sedai~
+Eryl Sedai is here, waiting to heal you.
+~
+~
+human~
+0 0 0 0
+ABVa 0 0 0
+0 0 1d1+5000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20047
+grey man~
+a grey man~
+.
+~
+~
+human~
+0 0 0 0
+ABOST V -1000 0
+35 20 10d90+550 10d100+100 5d8+15 slash
+-11 -11 -11 -2
+BFH 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20048
+lord lir house baryn~
+Lord Lir~
+Lord Lir of house Baryn looks up angrily from a book as you enter.
+~
+~
+human~
+0 0 0 0
+ABT 0 -500 0
+32 18 10d61+416 32d10+100 5d6+15 slash
+-9 -9 -9 0
+FK 0 0 0
+stand stand male 540
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20049
+lord gaebril~
+Lord Gaebril~
+Lord Gaebril stares at you coldly here.
+~
+~
+human~
+0 0 0 0
+ABRT 0 -1000 0
+35 24 12d70+700 40d10+100 6d6+18 pierce
+-12 -10 -10 -5
+CFHK 0 0 0
+stand stand male 1450
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20050
+Queen~
+Queen Morgase~
+Queen Morgase rests here, looking at you sleepily.
+~
+Morgase is dressed shockingly in a revealing silk dress, she appears
+distracted.  
+~
+human~
+0 0 0 0
+ABR V 500 0
+32 20 12d70+500 32d10+100 5d5+15 none
+-9 -9 -9 0
+FH 0 0 0
+stand stand female 990
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20051
+servant~
+a servant~
+A servant moves meekly along here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+17 9 5d35+175 17d10+100 3d5+9 none
+0 0 0 5
+F 0 0 0
+stand stand none 3
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20052
+lady karand~
+Lady Karand~
+Lady Karand snarls at you for disturbing her rest.
+~
+~
+human~
+0 0 0 0
+AF 0 -750 0
+32 20 10d61+500 32d10+100 5d6+15 beating
+-9 -9 -9 0
+FHK 0 0 0
+stand stand female 980
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20053
+Lord Pelivar~
+Lord Pelivar~
+Lord Pelivar stands here, studying the map.
+~
+~
+human~
+0 0 0 0
+ABT 0 0 0
+32 20 10d65+500 32d10+100 6d6+15 none
+-10 -10 -10 0
+CEFHK 0 0 0
+stand stand male 765
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20054
+lady arathelle~
+lady arathelle~
+Lady Arathelle walks briskly down the hall here.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+32 20 10d70+450 32d10+100 5d6+15 slap
+-9 -9 -9 0
+FK 0 0 0
+stand stand female 430
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20055
+old pensioner~
+an old pensioner~
+An old pensioner walks slowly here
+~
+~
+human~
+0 0 0 0
+AB Y 100 0
+19 15 5d35+161 19d10+100 4d4+10 punch
+-2 -2 -2 3
+IU 0 0 D
+stand stand none 14
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20056
+nurse woman~
+Lini~
+The Queen's nurse, Lini, frowns at you as you enter her room.
+~
+~
+human~
+0 0 0 0
+AB e 800 0
+18 15 7d35+200 18d10+100 2d5+5 slap
+3 3 3 0
+FK 0 0 0
+stand stand female 12
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20057
+barkeep~
+barkeep~
+A think bearded barkeep watches you carefully.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+30 0 10d100+10 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#20070
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#20009
+iron knife~
+iron knife~
+A plain curved knife lies here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+B AB AC A 0
+0
+0
+13 5 180 P
+#20010
+heavy torch~
+a heavy torch~
+A tar-covered heavy torch lies here.~
+unknown~
+0
+light 0 A
+6
+~
+~
+~
+~
+0 0 BCEFI 0 0
+0
+0
+15 0 0 P
+#20012
+thin chain chainmail shirt~
+a thin chainmail shirt~
+A thin shirt of chainmail lies here~
+unknown~
+0
+armor 0 AD
+6
+~
+~
+~
+~
+BC ABC BC 0 0
+0
+0
+21 10 5000 P
+#20013
+lion longsword~
+a lion-hilted longsword~
+A longsword, a lion on the hilt, lies here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+A AC AC A 0
+0
+0
+0 15 0 P
+A
+18 2
+#20014
+wooden sword~
+a wooden sword~
+A wooden practice sword lies here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+A C AC BC 0
+0
+0
+10 4 0 P
+A
+19 -2
+A
+18 2
+#20015
+padded shirt~
+padded shirt~
+A padded shirt lies in a heap here.~
+unknown~
+0
+armor 0 AD
+6
+~
+~
+~
+~
+C C C 0 0
+0
+0
+10 10 0 P
+A
+1 2
+#20016
+padded sleeves~
+padded sleeves~
+Some padded sleeves lie here.~
+unknown~
+0
+armor 0 AI
+6
+~
+~
+~
+~
+C C C 0 0
+0
+0
+10 7 0 P
+A
+5 2
+#20017
+padded pants~
+padded pants~
+A pair of padded pants lies here.~
+unknown~
+0
+armor 0 AF
+6
+~
+~
+~
+~
+C C C 0 0
+0
+0
+10 10 0 P
+A
+2 2
+#20018
+guidebook guide book~
+an academy guidebook~
+A tour guide to caemlyn academy lies here.~
+unknown~
+0
+map 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 3 0 P
+A
+4 2
+E
+guide~
+Welcome to Caemlyn Academy, we have a four year program in one of two
+tracks.  We have the finest military training in the lands, as well as a
+detailed college of learning.  Be sure to check out the Caemlyn library,
+containing one of the best historical selections anywhere.  
+~
+#20019
+guitar~
+an old guitar~
+A beat up old guitar lies here.~
+unknown~
+0
+staff 0 AO
+6
+~
+~
+~
+~
+ABC B B BCDH 0
+0
+0
+7 10 50 P
+A
+14 10
+#20020
+padded helm~
+padded helm~
+A padded helm lies here.~
+unknown~
+0
+armor 0 AE
+6
+~
+~
+~
+~
+C C C 0 0
+0
+0
+10 5 0 P
+A
+3 2
+#20021
+polished black bracelet~
+polished black bracelet~
+A polished black bracelet lies here.~
+unknown~
+0
+armor EJ AM
+6
+~
+~
+~
+~
+AC BC BC 0 0
+0
+0
+19 6 540 P
+A
+1 1
+A
+19 1
+#20022
+grey key sam~
+grey key~
+A grey key lies here.~
+unknown~
+0
+key 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 2 0 P
+#20023
+wanted poster~
+a poster ~
+A poster is tacked to the wall here~
+unknown~
+0
+map O 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 5 0 P
+E
+poster~
+The poster shows three faces, young men drawn in black ink.  Underneath
+the poster reads, "wanted by our master, report any sitings of these men
+immediately or suffer the consequences.  They come from the Two Rivers,
+their names are Rand al'thor, Matrim Cauthon, and Perrin Aybara.  You will
+be rewarded in time for your loyal services to the great lord."  
+~
+#20024
+letter~
+a letter with a black seal~
+A letter with a black seal lies here.~
+unknown~
+0
+map 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 3 0 P
+E
+letter~
+The letter reads, "To the master of the academy, we chose to accept you,
+here is your key.  You will find us where the cat sleeps.  Destroy this
+letter after you read it.  Until we meet, the lord will be pleased to have
+your soul."  
+~
+#20025
+brown key~
+brown key~
+A brown key lies here~
+unknown~
+0
+key 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+11 2 0 P
+#20026
+no name~
+a book~
+A RED book entitled, "The Breaking of The World"~
+unknown~
+0
+map 0 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+red~
+The Dragon, Lews Therin Telamon, with the support of the hundred
+companions, went to face the Dark Lord at Shayol Ghul.  The battle raged for
+days, but finally the Dragon drove the Dark One as well as the forsaken back
+into their prison.  The danger was not over, however, the Dark One tainted
+the male half of the One Power.  All men who touched the power went mad, the
+madness affected even the Dragon himself.  They changed the face of the
+earth, leveled mountain ranges and raised new ones.  Many parts of the world
+were completely depopulated, the survivors scattered like dust on the wind. 
+During this Time of Madness, the men drove themselves to their own
+destruction, since then only women can wield the one power safely.  
+~
+#20027
+book grey~
+a book~
+A GREY book entitled, "The Karaethon Cycle"~
+unknown~
+0
+map 0 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+grey~
+The time is at hand, the seals on the Dark One's prison weaken, the
+Forsaken have begun to walk the land again.  A black cloud spreads over the
+lands, the last hope is the Dragon Reborn.  The Dragon will break the Stone
+of Tear, and carry Callandor into battle to bring the end of the Dark One. 
+All glory be to the Creator, and to the Light, and to he who is born again. 
+May the Light save us from him.  
+~
+#20028
+blue book~
+a book~
+A BLUE book entitled, "The White Tower and The One Power"~
+unknown~
+0
+map 0 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+blue~
+Since the Time of Madness, the male half of the One Power, Saidin, has
+been tainted causing any man touching it to lose their mind.  Since that
+age, women have had sole domain, using their half, Saidar.  Their power is
+centered in the White Tower of Tar Valon, where the Aes Sedai base their
+influence.  The Aes Sedai gentle(cut off from Saidin) any man who shows
+signs of having the One Power.  
+~
+#20029
+fountain~
+a fountain~
+A fountain flows around the feet of a statue here.~
+unknown~
+0
+fountain O 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 0 0 P
+#20030
+soft boots~
+soft leather boots~
+A pair of soft leather boots lie here.~
+unknown~
+0
+armor 0 AG
+6
+~
+~
+~
+~
+ABC BC BC 0 0
+0
+0
+23 0 976 P
+A
+14 30
+A
+2 1
+#20031
+saddle bags~
+saddle bag~
+A large leather saddle bag lies here~
+unknown~
+0
+container 0 AO
+6
+~
+~
+~
+~
+BCEH A 0 0 0
+0
+0
+23 5 540 P
+#20032
+leather vest~
+leather vest~
+A leather vest lies in a heap here.~
+unknown~
+0
+armor 0 AD
+6
+~
+~
+~
+~
+BC AC BC 0 0
+0
+0
+20 10 150 P
+A
+13 5
+#20033
+leather sleeves~
+leather sleeves~
+A pair of leather sleeves lies here.~
+unknown~
+0
+armor 0 AI
+6
+~
+~
+~
+~
+BC BC BC 0 0
+0
+0
+20 6 90 P
+#20034
+leather leggings~
+leather leggings~
+A pair of leather leggings lie here.~
+unknown~
+0
+armor 0 AF
+6
+~
+~
+~
+~
+BC BC AC 0 0
+0
+0
+20 9 110 P
+A
+14 5
+#20035
+leather boots~
+leather boots~
+A pair of leather boots lie here.~
+unknown~
+0
+armor 0 AG
+6
+~
+~
+~
+~
+BC BC BC 0 0
+0
+0
+20 7 85 P
+A
+2 1
+#20036
+iron mace~
+iron mace~
+An iron mace lies here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+C AB AC BDE 0
+0
+0
+14 9 250 P
+#20037
+iron sword~
+iron sword~
+An iron sword lies here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+A AB AC AB 0
+0
+0
+13 11 300 P
+#20038
+iron-tipped spear~
+iron-tipped spear~
+An iron tipped spear lies here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+0 AB AC BD 0
+0
+0
+13 7 210 P
+#20039
+fresh roll~
+a fresh baked roll~
+A fresh baked roll lies here.~
+unknown~
+0
+food 0 A
+6
+~
+~
+~
+~
+BD 0 0 0 0
+0
+0
+10 1 25 P
+#20040
+salted pork~
+salted pork~
+A piece of salted pork lies here.~
+unknown~
+0
+food 0 A
+6
+~
+~
+~
+~
+CE 0 0 0 0
+0
+0
+10 1 50 P
+#20041
+apple pie~
+an apple pie~
+An apple pie lies here.~
+unknown~
+0
+food 0 A
+6
+~
+~
+~
+~
+ABF 0 0 0 0
+0
+0
+10 1 75 P
+#20042
+nut cake~
+a nut cake~
+A thick cake made of dried fruits and nuts lies here.~
+unknown~
+0
+food 0 A
+6
+~
+~
+~
+~
+ACDF 0 0 0 0
+0
+0
+10 2 100 P
+#20043
+torch~
+torch~
+A torch lies here.~
+unknown~
+0
+light N A
+6
+~
+~
+~
+~
+0 0 CDEF 0 0
+0
+0
+15 3 12 P
+#20044
+lantern~
+a hooded lantern~
+A hooded lantern lies here.~
+unknown~
+0
+light N A
+6
+~
+~
+~
+~
+0 0 BEGH 0 0
+0
+0
+15 6 58 P
+#20045
+small sack~
+a small sack~
+A small sack lies here~
+unknown~
+0
+container 0 AO
+6
+~
+~
+~
+~
+ABCEF 0 0 0 0
+0
+0
+15 1 90 P
+#20046
+glass vial~
+a glass vial~
+A glass vial lies here.~
+unknown~
+0
+drink 0 AO
+6
+~
+~
+~
+~
+CE CE 0 0 0
+0
+0
+15 3 20 P
+#20047
+leather backpack~
+a leather backpack~
+A leather backpack lies here.~
+unknown~
+0
+container 0 AO
+6
+~
+~
+~
+~
+DGH 0 0 0 0
+0
+0
+15 1 175 P
+#20048
+clay jug~
+a clay jug~
+A large ceramic water jug~
+unknown~
+0
+drink 0 AO
+6
+~
+~
+~
+~
+FG FG 0 0 0
+0
+0
+15 5 450 P
+#20049
+book sword fighting~
+a book on sword fighting~
+A book on sword fighting lies here~
+unknown~
+0
+scroll 0 AO
+6
+~
+~
+~
+~
+CE BCEFH -1 -1 -1
+0
+0
+25 5 2500 P
+A
+1 1
+#20050
+book travels jain farstrider~
+the travels of jain farstrider~
+A book on the travels of jain farstrider lies here.~
+unknown~
+0
+scroll 0 AO
+6
+~
+~
+~
+~
+CE ADEFG -1 -1 -1
+0
+0
+20 5 4000 P
+A
+2 1
+#20051
+thick red dictionary~
+a thick red dictionary of objects~
+A thick red dictionary of objects is here.~
+unknown~
+0
+scroll 0 AO
+6
+~
+~
+~
+~
+ACE CDEFG -1 -1 -1
+0
+0
+21 5 1500 P
+A
+4 1
+#20052
+book hunting~
+a book on hunting~
+A book on hunting lies here.~
+unknown~
+0
+scroll 0 AO
+6
+~
+~
+~
+~
+BCE BFG FG ACDEFG -1
+0
+0
+22 5 2800 P
+A
+3 1
+#20053
+book healing arts~
+a book on the healing arts~
+A book on the healing arts lies here~
+unknown~
+0
+scroll 0 AO
+6
+~
+~
+~
+~
+ABCE BDEFG DEG ACDEG -1
+0
+0
+23 5 19600 P
+A
+5 1
+#20054
+weapon repair invoice~
+weapon repair invoice~
+A weapon repair invoice was stupidly left here for anyone to use~
+unknown~
+0
+scroll 0 AO
+6
+~
+~
+~
+~
+BEF CDFG CDFG -1 -1
+0
+0
+50 8 225000 P
+#20055
+armor repair invoice~
+an armor repair invoice~
+An armor repair invoice was stupidly left here for anyone to use.~
+unknown~
+0
+scroll 0 AO
+6
+~
+~
+~
+~
+BEF ABDFG ABDFG -1 -1
+0
+0
+50 3 200000 P
+#20057
+gold necklace~
+a gold necklace~
+A gold necklace lies here in a pile~
+unknown~
+0
+treasure 0 AC
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 4 1100 P
+#20058
+engagement ring~
+a brilliant gold engagement ring~
+A gold engagement ring sparkles here.~
+unknown~
+0
+treasure 0 AB
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 3 22000 P
+#20059
+mug ale~
+a mug of stout ale~
+A mug of stout ale lies here.~
+unknown~
+0
+drink 0 A
+6
+~
+~
+~
+~
+BCDE BCDE -1 0 0
+0
+0
+10 3 24 P
+#20060
+glass beer~
+a glass of beer~
+A glass of beer was left here.~
+unknown~
+0
+drink 0 A
+6
+~
+~
+~
+~
+BD 0 A 0 0
+0
+0
+10 2 15 P
+#20061
+forkroot leaf~
+forkroot leaf~
+A pile of dried forkroot leaf lies here.~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BCDE AEH -1 -1 -1
+0
+0
+35 1 350 P
+#20062
+mandrake root~
+mandrake root~
+A thick man shaped root of mandrake lies here~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BCDE DEG ABCG ABCG -1
+0
+0
+30 1 875 P
+#20063
+dried gara dust~
+dried gara dust~
+A pile of gara dust lies here~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BCDE CEFH -1 -1 -1
+0
+0
+30 1 1050 P
+#20064
+cuendillar heartstone dust~
+cuendillar dust~
+A pile of white cuendillar dust lies here~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BCDE CEFG ABEH BC -1
+0
+0
+30 1 75000 P
+#20065
+crushed redberry red berry~
+crushed redberry~
+Some crushed redberries lie here~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BCDE ABFG BFG -1 -1
+0
+0
+30 1 3500 P
+#20066
+powdered gull pepper~
+powdered gull pepper~
+A pile of powdered gull pepper lies here~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BCDE ABCEFG -1 -1 -1
+0
+0
+30 1 900 P
+#20067
+red gold cloak~
+a cloak of red and gold~
+A cloak of red and gold lies here~
+unknown~
+0
+armor 0 AK
+6
+~
+~
+~
+~
+ABC ABC ABC B 0
+0
+0
+25 10 500 P
+A
+19 1
+#20068
+wooden goblet~
+a wooden goblet ~
+A plain wooden goblet lies here~
+unknown~
+0
+drink 0 AO
+6
+~
+~
+~
+~
+CEFGHI CEFGHI BD 0 0
+0
+0
+40 4 135000 P
+#20069
+blackened bronze tube~
+a blackened bronze tube~
+A strange balckened bronze tube lies here~
+unknown~
+0
+staff 0 AO
+6
+~
+~
+~
+~
+DF C C BCDEF 0
+0
+0
+40 4 114000 P
+#20070
+twisted statue strange exquisite comolad~
+an exquisite comolad~
+A strangely twisted statue from the age of legends lies here~
+unknown~
+0
+wand B AO
+6
+~
+~
+~
+~
+DF AB AB ACEFH 0
+0
+0
+40 2 122000 P
+#20071
+delicate satare~
+a delicate satare~
+A delicate satare lies here~
+unknown~
+0
+treasure 0 A
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 5 105000 P
+#20072
+crimson pyramid~
+a crimson pyramid~
+A crimson pyramid, carved with symbols, lies here~
+unknown~
+0
+trash 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 15 140000 P
+#20073
+black metallic helm helmet~
+black metallic helmet~
+A black metallic helmet lies here~
+unknown~
+0
+armor J AE
+6
+~
+~
+~
+~
+AD AD AD C 0
+0
+0
+35 10 1400 P
+A
+4 3
+#20074
+black metallic arm plates~
+black metallic arm plates~
+A pair of black metallic arm plates lies here~
+unknown~
+0
+armor J AI
+6
+~
+~
+~
+~
+AD AD AD C 0
+0
+0
+35 10 2100 P
+A
+5 3
+#20075
+black metallic leg plates~
+black metallic leg plates~
+A pair of black metallic leg plates lie here~
+unknown~
+0
+armor J AF
+6
+~
+~
+~
+~
+AD AD AD C 0
+0
+0
+35 15 1900 P
+A
+3 3
+#20076
+black metallic breast plate~
+black metallic breast plate~
+A black metallic breast plate lies here~
+unknown~
+0
+armor J AD
+6
+~
+~
+~
+~
+AD AD AD C 0
+0
+0
+35 20 2200 P
+A
+1 3
+#20077
+black metallic boots~
+black metallic boots~
+A pair of black metallic boots lie here~
+unknown~
+0
+armor J AG
+6
+~
+~
+~
+~
+AD AD AD C 0
+0
+0
+35 10 1600 P
+A
+2 3
+#20078
+unholy black sword~
+unholy black sword~
+A black sword lies here, ready to possess its owner~
+unknown~
+0
+weapon J AN
+6
+~
+~
+~
+~
+A AC D AB 0
+0
+0
+35 13 1100 P
+A
+19 2
+A
+18 2
+#20079
+gold heart-shaped locket~
+a gold heart-shaped locket~
+A heart-shaped locket lies on the table~
+unknown~
+0
+container 0 AC
+6
+~
+~
+~
+~
+AB AC 0 0 0
+0
+0
+32 2 870 P
+#20080
+small note~
+a small note~
+A small note lies here~
+unknown~
+0
+map 0 A
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+32 1 5 P
+E
+note~
+Keep this key close to you, when the stasis box arrives, you must be
+present to open it.  
+~
+#20081
+golden key~
+a small golden key~
+A small golden key lies here~
+unknown~
+0
+key 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+32 0 1 P
+#20082
+stasis box~
+stasis box~
+A stasis box from the age of legends is here~
+unknown~
+0
+container DFOT 0
+6
+~
+~
+~
+~
+EIJKN ABCD CDFGHLMN 0 0
+0
+0
+51 300 100000 P
+#20083
+pile gold coins~
+a pile of gold coins~
+A pile of gold coins lies here~
+unknown~
+0
+money 0 A
+6
+~
+~
+~
+~
+GKLMP 0 0 0 0
+0
+0
+40 1 40000 P
+#20084
+scrap song jenn~
+a scrap of the song of the jenn~
+(no description)~
+unknown~
+0
+scroll 0 AO
+6
+~
+~
+~
+~
+BEF ABEFH AEH ACEH -1
+0
+0
+50 1 1000 P
+#20085
+scroll~
+scroll~
+Scroll~
+unknown~
+0
+parchment 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#20086
+flickering glowbulb~
+a flickering glowbulb~
+A flickering glowbulb lies here~
+unknown~
+0
+light A AO
+6
+~
+~
+~
+~
+0 0 ABCFGHIJ 0 0
+0
+0
+50 5 1000 P
+A
+17 -10
+A
+19 3
+A
+18 2
+#0
+
+#ROOMS
+#20009
+~
+~
+0 0 0
+West Gate~
+Two wide towers and a pair of heavy iron doors mark the west gate to
+Caemlyn.  The city sprawls out haphazardly to the east, tile roofs mixed
+with wood, the streets traveling up and down with the hills the city was
+built upon.  To the south can be seen the magnificent inner city, its white
+walls shining.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20010
+S
+#20010
+~
+~
+0 0 0
+Queen's Avenue and Arathelle Way~
+This busy intersection is filled with people from all parts of Andor and
+the world, come to Caemlyn for business or pleasure.  The west gate to the
+city lies just to the west, and the wide, crowded Queen's avenue continues
+to the east.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20026
+D1
+~
+~
+0 0 20011
+D2
+~
+~
+0 0 20027
+D3
+~
+~
+0 0 20009
+S
+#20011
+~
+~
+0 0 0
+Queen's Avenue~
+This street is filled with travelers and people of all sorts, pushing
+their way past one another.  The buildings are equally crammed in along the
+sides.  Marble monuments, fountains, and statues line the center.  The
+avenue meets arathelle way to the west.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20012
+D3
+~
+~
+0 0 20010
+S
+#20012
+~
+~
+0 0 0
+Queen's Avenue~
+Queen's avenue continues, marking the center of town to the east and
+west.  The street is filled with tourists, travelers, and people of all
+sorts.  The center is lined with flowers, statues and monuments of the
+history of Caemlyn.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20013
+D3
+~
+~
+0 0 20011
+S
+#20013
+~
+~
+0 0 0
+Queen's Avenue and Lugard Street~
+The intersection between Queen's Avenue and Lugard is packed with people
+of all sorts.  Peddlers trying to sell rusted old pots, beggers hoping for a
+scrap of coin, mounted nobles staring down their noses at you.  The avenue
+sprawls out east and west, decorated with fantastic fountains and statues. 
+Lugard street stretches north and south, packed with shops for every desire.
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20017
+D1
+~
+~
+0 0 20015
+D2
+~
+~
+0 0 20033
+D3
+~
+~
+0 0 20012
+S
+#20014
+~
+~
+0 0 0
+Queen's Avenue and Erinin Street~
+This wide avenue is filled with people moving about, peddlers selling
+their wares, gleemen entertaining the people.  Along the center, a series of
+monuments and fountains comemorate important events in Andorian history. 
+Erinin street goes off to the south towards the Palace in the inner city.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20016
+D2
+~
+~
+0 0 20040
+D3
+~
+~
+0 0 20015
+S
+#20015
+~
+~
+0 0 0
+Queen's Avenue~
+This wide avenue is filled with people, entertainers, peddlers, beggers
+and travelers.  The buildings are equally crammed in along the sides,
+however a wide open lot to the north contains a brilliant red and white
+striped circus tent.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20044
+D1
+~
+~
+0 0 20014
+D3
+~
+~
+0 0 20013
+S
+#20016
+~
+~
+0 0 0
+East Gate~
+Two wide towers and a pair of heavy iron doors mark the east gate to
+Caemlyn.  The city sprawls haphazardly to the west, tile roofs mixed with
+wood, the streets traveling up and down with the hills the city was built
+upon.  To the south can be seen the magnificent inner city, its white walls
+glowing.  
+~
+0 0 1
+0
+~
+D3
+~
+~
+0 0 20014
+S
+#20017
+~
+~
+0 0 0
+Lugard Street~
+This street is lined with shops for every interest.  Merchants and
+shoppers weave their way past you as you move down the street.  Lugard
+intersects Queen's Avenue to the south.  To the west a small wooden signs
+marks Assandra's bakery, and to the east is a travel supply shop.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20018
+D1
+~
+~
+0 0 20080
+D2
+~
+~
+0 0 20013
+D3
+~
+~
+0 0 20079
+S
+#20018
+~
+~
+0 0 0
+Lugard Street and Baryn Street~
+This intersection teems with shoppers and merchants moving about the
+businesses of Lugard to the north and south.  The crowd thins to the east in
+the direction of Baryn Street.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20019
+D1
+~
+~
+0 0 20041
+D2
+~
+~
+0 0 20017
+S
+#20019
+~
+~
+0 0 0
+Lugard Street and Pelivar Street~
+This intersection teems with shoppers and merchants moving about the
+businesses of Lugard to the north and south.  The crowd thins to the west in
+the direction of pelivar street.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20020
+D2
+~
+~
+0 0 20018
+D3
+~
+~
+0 0 20022
+S
+#20020
+~
+~
+0 0 0
+Lugard Street~
+This street is filled with shops for every interest, merchants and
+shoppers weave their way about you.  Master Azrade's repair shop lies to the
+east, the north gate is not far to the north.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20021
+D1
+~
+~
+0 0 20110
+D2
+~
+~
+0 0 20019
+S
+#20021
+~
+~
+0 0 0
+North Gate~
+The north gate to the city is flanked by two wide round towers.  You can
+make out the whole of the city sprawled out to the south, wooden and tiled
+roofs, stretching all the way to the shining walls of the palace and inner
+city.  
+~
+0 0 1
+0
+~
+D2
+~
+~
+0 0 20020
+S
+#20022
+~
+~
+0 0 0
+Pelivar Street~
+This street runs from lugard to the east, to the west wall of Caemlyn. 
+Small houses and scattered shops line the sides, many look nearly abandoned.
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20019
+D3
+~
+~
+0 0 20023
+S
+#20023
+~
+~
+0 0 0
+Pelivar Street~
+The people moving along Pelivar ignore you as you pass.  The homes are
+small here, and few shops can be seen.  A small tavern sits to the north. 
+Pelivar meets Arathelle Way to the west.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20084
+D1
+~
+~
+0 0 20022
+D3
+~
+~
+0 0 20024
+S
+#20024
+~
+~
+0 0 0
+Pelivar Street and Arathelle Way~
+The houses in this section of town are small, some even abandoned.  The
+cobblestone streets are dirty and cracked.  Arathelle way leads south, and
+Pelivar street to the east.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20023
+D2
+~
+~
+0 0 20025
+S
+#20025
+~
+~
+0 0 0
+Arathelle Way~
+A few people move among the scattered shops and small houses of this
+street as you pass.  A shop specializing in exotic spices stands to the
+east.  The street meets Pelivar to the north.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20024
+D1
+~
+~
+0 0 20083
+D2
+~
+~
+0 0 20026
+S
+#20026
+~
+~
+0 0 0
+Arathelle Way~
+This section of arathelle way has mainly smaller houses.  The cobblestone
+streets are dirty and cracked.  A number of small shops are still spread
+among the homes, including an antique shop to the east.  The street meets
+Queen's avenue to the south.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20025
+D1
+~
+~
+0 0 20082
+D2
+~
+~
+0 0 20010
+S
+#20027
+~
+~
+0 0 0
+Arathelle Way~
+Arathelle way runs along the west side of town, meeting Queen's avenue to
+the north.  The buildings are mainly homes, but include some small shops.  A
+glass window to the east has "Sam's Jewelers" painted onto it.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20010
+D1
+~
+~
+0 0 20081
+D2
+~
+~
+0 0 20028
+S
+#20028
+~
+~
+0 0 0
+Arathelle Way~
+Arathelle way runs along the west side of town, meeting Madding street
+just to the south.  The buildings along the street are mainly homes, some
+smalls shacks some elaborate mansions.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20027
+D1
+~
+~
+0 0 20112
+D2
+~
+~
+0 0 20029
+S
+#20029
+~
+~
+0 0 0
+Arathelle Way and Madding Street~
+Madding street meets Arathelle way here, by the west wall to the outer
+city.  Madding leads off to the east, towards the gateway to the inner city.
+Arathelle runs along the west wall to the north.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20028
+D1
+~
+~
+0 0 20030
+S
+#20030
+~
+~
+0 0 0
+Madding Street~
+Madding Street leads towards the inner city gates to the east, and meets
+up with Arathelle way to the west.  The street seems to mainly be the homes
+of nobility and rich merchants.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20049
+D3
+~
+~
+0 0 20029
+S
+#20031
+~
+~
+0 0 0
+Madding and Lugard~
+The streets of madding and lugard meet in front of a large spiral roofed
+house.  the white walls to the palace can be seen behind to the south.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20032
+D3
+~
+~
+0 0 20049
+S
+#20032
+~
+~
+0 0 0
+Lugard Street~
+Some shoppers and several merchans move south along lugard towards the
+palace.  To the south the street turns into Madding.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20033
+D2
+~
+~
+0 0 20031
+S
+#20033
+~
+~
+0 0 0
+Lugard Street~
+Lugard street has a slightly less chaotic feel than the mayhem of Queen's
+avenue to the north.  The street is lined with shops appealing to every
+interest.  Guards eye everyone in the street warily as they move in and out
+of the shops.  To the east, a wooden sign marks Saran's Weapon Shop.  To the
+west is Durgan's Armor.  Lugard street continues to the south.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20013
+D1
+~
+~
+0 0 20050
+D2
+~
+~
+0 0 20032
+D3
+~
+~
+0 0 20051
+S
+#20034
+~
+~
+0 0 0
+Outside the Inner Gate~
+A heavy, gleaming polished iron gateway lies to the south, marking the
+entrance into the inner city of the nobility and the Queen herself.  A
+narrow street runs along the wall to the east.  Madding street runs along
+the north side of the square you stand within.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20049
+D1
+~
+~
+0 0 20035
+D2
+~
+gate~
+1 0 20087
+S
+#20035
+~
+~
+0 0 0
+Whitewall Street~
+This narrow residential street runs east to west.  The shining white
+walls of the inner city cover the south side of the street.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20036
+D3
+~
+~
+0 0 20034
+S
+#20036
+~
+~
+0 0 0
+Whitewall Street~
+This narrow residential street runs east to west.  The shining white
+walls of the inner city cover the south side of the street.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20037
+D3
+~
+~
+0 0 20035
+S
+#20037
+~
+~
+0 0 0
+Erinin Street and Whitewall Street~
+Erinin street and Whitewall meet in front of several huge, almost castle
+sized homes.  The shining tall white walls of the inner city block passage
+to the south, Whitewall leads off west and Erinin to the north.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20038
+D3
+~
+~
+0 0 20036
+S
+#20038
+~
+~
+0 0 0
+Erinin Street~
+Erinin street is lined with grand houses topped with spired towers,
+increasingly large the closer you get to the palace walls to the south.  The
+street intersects Whitewall to the south.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20039
+D1
+~
+~
+0 0 20086
+D2
+~
+~
+0 0 20037
+S
+#20039
+~
+~
+0 0 0
+Erinin Street~
+This clean, orderly street contains the homes of the professors of
+Caemlyn academy.  The street continues to the south towards the palace
+walls.  The elegant marble stairs to the east lead to the massive wooden
+doors of the Caemlyn library, open to the public.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20040
+D1
+~
+~
+0 0 20078
+D2
+~
+~
+0 0 20038
+S
+#20040
+~
+~
+0 0 0
+Erinin Street~
+This street is filled with young students, some dressed in scholarily
+robes, some in training armor.  Erinin Street meets Queen's Avenue to the
+north, to the east is the military academy and to the south the street
+continues towards the palace.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20014
+D1
+~
+~
+0 0 20052
+D2
+~
+~
+0 0 20039
+S
+#20041
+~
+~
+0 0 0
+Baryn Street~
+Baryn street runs from lugard street to the west to the east wall of
+Caemlyn.  The street seems mostly residential, with tile roofed homes lining
+the sides.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20042
+D3
+~
+~
+0 0 20018
+S
+#20042
+~
+~
+0 0 0
+Baryn Street~
+This street seems mostly residential, tile roofed homes, some topped with
+smaller version of the spires of the palace, line both sides.  A wooden
+portrait of the Queen hangs outside the inn to the south.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20043
+D2
+~
+~
+0 0 20111
+D3
+~
+~
+0 0 20041
+S
+#20043
+~
+~
+0 0 0
+Baryn Street~
+Baryn street ends abruptly at the east of wall of town here.  To the
+north is a small bookshop.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20085
+D3
+~
+~
+0 0 20042
+S
+#20044
+~
+~
+0 0 0
+Circus Tent~
+This wide tent is crammed full of spectators watching the performers. 
+The heat is almost unbearable as you work your way through the crowd.  To
+the north an occasional flame appears above the crowd.  To the east you hear
+the roar of wild cats.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20045
+D1
+~
+~
+0 0 20047
+D2
+~
+~
+0 0 20015
+S
+#20045
+~
+~
+0 0 0
+Circus Tent~
+A circle of spectators is gathered in this corner of the tent.  Shouts of
+amazement rise from the crowd occasionally.  The circus continues south and
+east.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20046
+D2
+~
+~
+0 0 20044
+S
+#20046
+~
+~
+0 0 0
+Circus Tent~
+This section of the tent is less crowded, many of the people seem to be
+moving to other parts of the show.  The circus continues west and south.  A
+thin red flap hangs to the east, a sign above the door reads "Ringmaster's
+Tent: Do Not Enter" 
+~
+0 0 0
+0
+~
+D1
+~
+flap~
+1 0 20048
+D2
+~
+~
+0 0 20047
+D3
+~
+~
+0 0 20045
+S
+#20047
+~
+~
+0 0 0
+Circus Tent~
+The spectators crowd into this corner of the tent, pushing past each
+other to get a better look.  The circus continues west and north.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20046
+D3
+~
+~
+0 0 20044
+S
+#20048
+~
+~
+0 0 0
+Ringmaster's Tent~
+Covering most of the space in this cramped room is a desk covered in
+papers.  The papers range over all topics.  A small gas lamp cast shadows
+over the tent, and illuminate some rather strange art hanging on the walls. 
+A painting hanging above the desk shows a black, billowing cloud rolling
+over the city of Tar Valon.  
+~
+0 0 0
+0
+~
+D3
+~
+flap~
+1 0 20046
+S
+#20049
+~
+~
+0 0 0
+Madding Street~
+This street is filled with well dressed merchants and nobility heading to
+and from their homes along the street or within the inner city to the south.
+Madding meets Lugard to the east, and continues to the west.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20031
+D2
+~
+~
+0 0 20034
+D3
+~
+~
+0 0 20030
+S
+#20050
+~
+~
+0 0 0
+Saran's Weaponshop~
+Saran carries a great variety of traditional weapondry, at reasonable
+prices.  The wall behind the heavy wooden counter is covered in swords,
+spears, and weapons of all sorts.  
+~
+0 0 1
+0
+~
+D3
+~
+~
+0 0 20033
+S
+#20051
+~
+~
+0 0 0
+Armory~
+The smell of hot iron and sweat fill the air of this shop.  A great
+variety of armor hangs on pegs about the walls.  You hear the clang of a
+hammer from behind the counter.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20033
+S
+#20052
+~
+~
+0 0 0
+Entrance to the Caemlyn Academy~
+You stand at the gate to the famous Caemlyn academy, known for turning
+out some of the finest soldiers and sages in Andor.  
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 20053
+D3
+~
+~
+0 0 20040
+S
+#20053
+~
+~
+0 0 0
+Great Hall~
+The great hall is filled with students bustling about between classes. 
+The walls are lined with portraits of former presidents of the academy.  To
+the north is the student lounge, to the east are the training yards for
+young soldiers.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20054
+D1
+~
+~
+0 0 20055
+D3
+~
+~
+0 0 20052
+S
+#20054
+~
+~
+0 0 0
+Student's Lounge~
+This room is filled with plush sofas and chairs, which students can rest
+in and talk.  The floor is quite dirty, and it looks like the cleaning has
+been left to the students.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 20053
+S
+#20055
+~
+~
+0 0 0
+Training Yard~
+The training yard is filled with students practicing different forms of
+martial arts.  The entrance hall to the academy lies to the west.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20056
+D1
+~
+~
+0 0 20057
+D2
+~
+~
+0 0 20058
+D3
+~
+~
+0 0 20053
+S
+#20056
+~
+~
+0 0 0
+Training Yard~
+The yard is filled with students practicing different forms of combat.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20059
+D2
+~
+~
+0 0 20055
+S
+#20057
+~
+~
+0 0 0
+Training Yard~
+The yard is filled with students practicing different forms of combat.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20059
+D1
+~
+~
+0 0 20060
+D2
+~
+~
+0 0 20061
+D3
+~
+~
+0 0 20055
+S
+#20058
+~
+~
+0 0 0
+Training Yard~
+The yard is fileld with students practicing different forms of combat.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20055
+D1
+~
+~
+0 0 20061
+S
+#20059
+~
+~
+0 0 0
+Training Yard~
+The yard is filled with students practicing different forms of combat.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20063
+D2
+~
+~
+0 0 20057
+D3
+~
+~
+0 0 20056
+S
+#20060
+~
+~
+0 0 0
+Training Yard~
+The yard is filled with students practicing different forms of combat.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20063
+D2
+~
+~
+0 0 20062
+D3
+~
+~
+0 0 20057
+S
+#20061
+~
+~
+0 0 0
+Training Yard~
+The yard is filled with students practicing different forms of combat.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20057
+D1
+~
+~
+0 0 20062
+D2
+~
+~
+0 0 20064
+D3
+~
+~
+0 0 20058
+S
+#20062
+~
+~
+0 0 0
+Training Yard~
+The yard is filled with students practicing different forms of combat.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20060
+D3
+~
+~
+0 0 20061
+S
+#20063
+~
+~
+0 0 0
+Training Yard~
+The yard is filled with students practicing different forms of combat.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 20060
+D3
+~
+~
+0 0 20059
+S
+#20064
+~
+~
+0 0 0
+Academy Courtyard~
+This courtyard is at the center of the academy, students moving busily
+back and forth to the different areas.  Several hardy abused trees decorate
+the corners of the yard, the rest is paved with brown bricks.  To the north
+are the military training yards, to the west is the famous Caemlyn library,
+to the south are the main classrooms, and to the east are the professor's
+offices.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20061
+D1
+~
+~
+0 0 20066
+D2
+~
+~
+0 0 20065
+D3
+~
+~
+0 0 20067
+S
+#20065
+~
+~
+0 0 0
+Hall to Classrooms~
+This hall leads from the courtyard to the north to the classrooms to the
+south.  Students move about busily in the grey stone hallways.  
+~
+0 S 0
+0
+~
+D0
+~
+~
+0 0 20064
+D2
+~
+~
+0 0 20068
+S
+#20066
+~
+~
+0 0 0
+Receptionist's Office~
+This well decorated hard wood office is the reception area for the master
+of the academy.  Portraits of old masters as well as a portrait of the Queen
+hang on the wall.  A door to the east leads to the master's office.  
+~
+0 0 0
+0
+~
+D1
+~
+door~
+1 0 20075
+D3
+~
+~
+0 0 20064
+S
+#20067
+~
+~
+0 0 0
+Caemlyn Library: Academy Entrance~
+A grand marble arch marks the academy entrance to the Caemlyn library. 
+Students push past you carrying piles of books, and inside to the west you
+see people huddled over desks.  The Courtyard of that academy lies to the
+east.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20064
+D3
+~
+~
+0 0 20076
+S
+#20068
+~
+~
+0 0 0
+School Hall~
+This hall leads to the classrooms of Caemlyn Academy.  To the east and
+west are doors to some of the rooms, to the south and north the hall
+continues.  
+~
+0 S 0
+0
+~
+D0
+~
+~
+0 0 20065
+D1
+~
+door~
+1 0 20074
+D2
+~
+~
+0 0 20069
+D3
+~
+door~
+1 0 20073
+S
+#20069
+~
+~
+0 0 0
+School Hall~
+More classrooms line this section of the hallway, to the east, west and
+south.  To the north the hall leads back to the main buildings of the
+academy.  
+~
+0 S 0
+0
+~
+D0
+~
+~
+0 0 20068
+D1
+~
+door~
+1 0 20071
+D2
+~
+door~
+1 0 20070
+D3
+~
+door~
+1 0 20072
+S
+#20070
+~
+~
+0 0 0
+Classroom~
+A wide semi-circle of chairs fills this large lecture hall.  
+~
+0 S 0
+0
+~
+D0
+~
+door~
+1 0 20069
+S
+#20071
+~
+~
+0 0 0
+Classroom~
+A round table and a ring of chairs stand at the center of this small
+classroom.  
+~
+0 S 0
+0
+~
+D3
+~
+door~
+1 0 20069
+S
+#20072
+~
+~
+0 0 0
+Classroom~
+Rows of desks face a small blackboard in this cramped classroom.
+~
+0 S 0
+0
+~
+D1
+~
+door~
+1 0 20069
+S
+#20073
+~
+~
+0 0 0
+Classroom~
+Rows of desks face a wide slate blackboard in this room.
+~
+0 S 0
+0
+~
+D1
+~
+door~
+1 0 20068
+S
+#20074
+~
+~
+0 0 0
+Classroom~
+The wall of this classroom is covered by a large map of the known lands.  
+~
+0 S 0
+0
+~
+D3
+~
+door~
+1 0 20068
+S
+#20075
+~
+~
+0 0 0
+Office of the Master of the Academy~
+The master's office is beautifully decorated in fine dark woods.  A
+painting of the academy in the autumn hangs on the wall.  A window to the
+east looks out onto the fields outside the city.  
+~
+0 0 0
+0
+~
+D3
+~
+door~
+1 0 20066
+S
+#20076
+~
+~
+0 0 0
+Caemlyn Library~
+The main stacks of the Caemlyn library stretch as far as you can see,
+from the white marble floors to the vaulted cieling.  Sages and students are
+huddled over desks scattered about, their faces buried in books.  The
+library stacks continue to the south.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20067
+D2
+~
+~
+0 0 20077
+D3
+~
+~
+0 0 20078
+S
+#20077
+~
+~
+0 0 0
+Caemlyn Library~
+The rear stacks of the Caemlyn library are much less grand, the rows are
+tightly spaced and the musty smell of old books fills the air.  This section
+is fairly empty, though you occaionally see a pale faced student carrying a
+pile of books through the rows.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20076
+S
+#20078
+~
+~
+0 0 0
+Caemlyn Library: Erinin Street Entrance~
+White marble columns mark the entrance to the library.  The heavy wooden
+doors are wide open, and inside you can see students and sages with their
+faces buried in books.  
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 20076
+D3
+~
+~
+0 0 20039
+S
+#20079
+~
+~
+0 0 0
+Assandra's Bakery~
+The smell of fresh baked bread greets you as you come through the door. 
+The store is filled with baked goods, salted meats, dried fruits, and fresh
+fish.  Customers crowd around the counter, trying to get the attention of
+the middle-aged woman behind it.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20017
+S
+#20080
+~
+~
+0 0 0
+Caemlyn Lighting and Supply~
+This cramped little shop is filled with a number of traveling supplies,
+lanterns, packs, blankets.  A mousy old man sits behind the counter,
+ignoring you.  
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 20017
+S
+#20081
+~
+~
+0 0 0
+Sam's Jewelers~
+This plain shop holds little but a few glass display cases.  The cases
+contain fine jewelry of makes as varied as Tairen to Domoni.  
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 20027
+S
+#20082
+~
+~
+0 0 0
+Rusty Chest Antiques~
+It is almost hard to walk accross the floor of this messy shop.  Items of
+unknown origin and use are scattered over the floor, most hastily tagged
+with prices.  A layer of dust covers much of the merchandise, in troubled
+times, business does not fare well.  You suspect some of the antiques may be
+as old as the age of legends, some may be trash, and at these prices it's an
+expensive guessing game.  
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 20026
+S
+#20083
+~
+~
+0 0 0
+Silkworm's Imported Spices~
+Vials and small bags fill the narrow shelves of this shop.  The mixture
+of scents in the air is baffling, yet also quite pleasant.  
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 20025
+S
+#20084
+~
+~
+0 0 0
+The Sleeping Lion~
+Your feet stick to the old ale on the floor as you enter this small
+tavern.  A few men drinks alone at seperate tables, there doesn't appear to
+be much business here.  The bar stands on the far side of the room, a clear
+space of floor next to it.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 20023
+D5
+~
+door~
+1 14516 20114
+S
+#20085
+~
+~
+0 0 0
+The Silver Binding Bookshop~
+Narrow aisles criss cross between the tightly spaced book shelves in this
+shop.  Books fill all the shelves as well as in piles on the floor, and
+every other level surface in the room.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 20043
+S
+#20086
+~
+~
+0 0 0
+Training Hall~
+Straw training dummies and wooden practice sword lie about this red brick
+room.  Young men, some in the red cloaks of the queen's guard, fight each
+other before the eyes of the teacher.  
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 20038
+S
+#20087
+~
+~
+0 0 0
+Inside the Inner Gate~
+The gleaming white towers and spires of the inner city and palace spread
+to the south.  Most of the buildings stand far higher than those of the New
+City.  A shining polished white gate stands to the north, marking the
+entrance to the New city.  
+~
+0 0 1
+0
+~
+D0
+~
+gate~
+1 0 20034
+D2
+~
+~
+0 0 20088
+S
+#20088
+~
+~
+0 0 0
+Path to the Palace~
+This road is paved with ivory colored stones and lined with red brick, it
+leads from the gate to the north to the palace to the south.  A path leads
+off into the gardens to the east.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20087
+D1
+~
+~
+0 0 20090
+D2
+~
+~
+0 0 20089
+S
+#20089
+~
+~
+0 0 0
+The Palace Gates~
+The gates to the Ogier built Caemlyn palace are carved with white lions. 
+The palace itself stretches towards the sky with tall spires and towers.  A
+path leads to the north towards the gate out of the Inner City.  
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 20088
+D2
+~
+~
+0 0 20092
+S
+#20090
+~
+~
+0 0 0
+Path through the gardens~
+Exotic plants and flowers in a hundred colors lie neatly placed on either
+side of the path.  Several small, obviously man-made, streams cross through
+the garden the path crosses over them with small stone bridges.  The garden
+paths leads toa row of hedges to the east and out of the gardens to the
+west.  
+~
+0 0 1
+0
+~
+D1
+~
+~
+0 0 20091
+D3
+~
+~
+0 0 20088
+S
+#20091
+~
+~
+0 0 0
+Path through the gardens~
+The gardens end in here in a colorful bed of flowers and are large wall
+of hedges.  On the other side of the hedge can be seen the wall to the inner
+city, gleaming white.  
+~
+0 0 1
+0
+~
+D3
+~
+~
+0 0 20090
+S
+#20092
+~
+~
+0 0 0
+Main hall~
+This grand hall is decorated with wide banners and large paintings. 
+Statues of former queens of Andor sit in alcoves along the walls.  The
+floors are covered in a plush red carpet, reaching from wall to wall.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20089
+D1
+~
+~
+0 0 20097
+D2
+~
+~
+0 0 20103
+D3
+~
+~
+0 0 20093
+S
+#20093
+~
+~
+0 0 0
+Hall~
+This hall is covered in plush red carpet.  Windows open onto the inner
+city to the north 
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20092
+D3
+~
+~
+0 0 20094
+S
+#20094
+~
+~
+0 0 0
+Pensioner's Quarters~
+The carpeting ends as the hallway reaches a window to the west, old men
+and women bow uncertainly as you pass.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20093
+D2
+~
+door~
+1 0 20096
+S
+#20095
+~
+~
+0 0 0
+Small Room in Pensioner's quarters~
+~
+0 CS 0
+0
+~
+S
+#20096
+~
+~
+0 0 0
+Small Room in Pensioner's Quarters~
+This small room is simply decorated with a plain 4-poster bed and a
+writing table.  
+~
+0 0 0
+0
+~
+D0
+~
+door~
+1 0 20094
+S
+#20097
+~
+~
+0 0 0
+Hall~
+This wide carpeted hallway is lined with painting of the history of Andor.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20098
+D3
+~
+~
+0 0 20092
+S
+#20098
+~
+~
+0 0 0
+Hall~
+The carpeted hallway ends at a finely carved hard wood door to the east. 
+A smaller wooden door, perhaps meant for servants, can be seen to the south.
+~
+0 0 0
+0
+~
+D1
+~
+door~
+1 0 20099
+D2
+~
+door~
+1 0 20100
+D3
+~
+~
+0 0 20097
+S
+#20099
+~
+~
+0 0 0
+Study~
+This room is decorated with carefully painted maps of Andor and the
+surrounding lands.  A large desk dominates the center of the room surrounded
+by high-backed wooden chairs.  
+~
+0 0 0
+0
+~
+D3
+~
+door~
+1 0 20098
+S
+#20100
+~
+~
+0 0 0
+Pantry~
+Shelves lined with dried food and salted meats cover the walls of this
+long, narrow room.  
+~
+0 0 0
+0
+~
+D0
+~
+door~
+1 0 20098
+D3
+~
+~
+0 0 20101
+S
+#20101
+~
+~
+0 0 0
+Kitchens~
+The kitchens smell of freshly cooked fish, coming from several large
+ovens along the west wall.  A door to the south leads to the dining room,
+and to the east leads to the pantry.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 20100
+D2
+~
+~
+0 0 20102
+S
+#20102
+~
+~
+0 0 0
+Dining Hall~
+A long hard wood table fills the center of this room, a large chandelier
+hanging aboce the middle.  A door to the west leads into the hall, and a
+small door leads to the kitchens to the north.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20101
+D3
+~
+door~
+1 0 20103
+S
+#20103
+~
+~
+0 0 0
+Main Hall~
+This wide hallway is topped by a high, arched cieling.  The floor is
+covered in plush red carpet, and the walls decorated with elaborate
+paintings.  A marble staircase leads up on the side of the room.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20092
+D1
+~
+door~
+1 0 20102
+D2
+~
+~
+0 0 20104
+D4
+~
+~
+0 0 20106
+S
+#20104
+~
+~
+0 0 0
+Audience Chamber~
+This audience chamber lies just north of the throne room, and is intended
+for greeting visitors.  A high backed chair lies on a raised dias on the
+west side of the room, and a archway flanked with stone lines marks the
+entrance to the throne room to the south.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20103
+D2
+~
+~
+0 0 20105
+S
+#20105
+~
+~
+0 0 0
+Throne Room~
+Portraits of former queens hang on the walls of this elaborate throne
+room.  The floor is cold grey and white marble, inlayed with gold.  The Lion
+throne itself stands on a tall raised platform in the south.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20104
+S
+#20106
+~
+~
+0 0 0
+Hall~
+A plain hall leads south from the top of this staircase landing.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 20107
+D5
+~
+~
+0 0 20103
+S
+#20107
+~
+~
+0 0 0
+Hall~
+This wide hall ends in a large window to the south, the window opens onto
+the fields to the south of Caemlyn.  Doors flank both sides of the hall,
+wood reinforced with iron.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20106
+D1
+~
+door~
+1 0 20109
+D3
+~
+door~
+1 0 20108
+S
+#20108
+~
+~
+0 0 0
+Meeting Chamber~
+A circle stone table sits in the center of this octogonal room.  In the
+center of the table is a topographic map of Andor.  
+~
+0 0 0
+0
+~
+D1
+~
+door~
+1 0 20107
+S
+#20109
+~
+~
+0 0 0
+Guest Quarters~
+This clean room is decorated in plain colors, a simple but expensive bed
+and desk are the only furniture.  
+~
+0 0 0
+0
+~
+D3
+~
+door~
+1 0 20107
+S
+#20110
+~
+~
+0 0 0
+Caemlyn Armor and Weapon Repair~
+Several burly men work in this room, hammers pounding on hard metal. 
+Master Azrade is said to have created some of the finest weapons in the
+land, though usually only for nobility.  This shop is dedicated to improving
+your arms and armor into top of the line shape.  Take note, however, the
+master does not work cheap.  
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 20020
+S
+#20111
+~
+~
+0 0 0
+The Queen's Blessing~
+The Queen's Blessing is a pleasent in, filled with the smell of stew and
+tabac smoke.  The patrons range from merchants too nobles and the barmaids
+greet you with a smile.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 20042
+S
+#20112
+~
+~
+0 0 0
+Yellow Palm Healers~
+This place is dedicated to the healing of the sick.  Several women move
+about the beds, tending to the sick and injured.  For a small fee, Eryl
+Sedai will provide healing for you as well.  Type 'heal' for a list of
+services.  
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 20028
+S
+#20114
+~
+~
+0 0 0
+Cellar~
+This dusty cellar is filled with barrels of old ale, you can hear rats
+squeking in the walls.  
+~
+0 0 0
+0
+~
+D3
+~
+door~
+1 14513 20115
+D4
+~
+door~
+1 14516 20084
+S
+#20115
+~
+~
+0 0 0
+Hidden Cellar Room~
+This musty room contains a painted black wooden table, and appears to be
+a meeting place of some sort.  The walls are decorated with black silks and
+a painting of the mount of Shayol Ghul.  
+~
+0 S 0
+0
+~
+D1
+~
+door~
+1 14513 20114
+S
+#0
+
+#RESETS
+D 0 20034   2    1	* Outside the Inner Gate [south]
+D 0 20046   1    1	* Circus Tent [east]
+D 0 20048   3    1	* Ringmaster's Tent [west]
+D 0 20066   1    1	* Receptionist's Office [east]
+D 0 20068   1    1	* School Hall [east]
+D 0 20068   3    1	* School Hall [west]
+D 0 20069   1    1	* School Hall [east]
+D 0 20069   2    1	* School Hall [south]
+D 0 20069   3    1	* School Hall [west]
+D 0 20070   0    1	* Classroom [north]
+D 0 20071   3    1	* Classroom [west]
+D 0 20072   1    1	* Classroom [east]
+D 0 20073   1    1	* Classroom [east]
+D 0 20074   3    1	* Classroom [west]
+D 0 20075   3    1	* Office of the Master of the Academy [west]
+D 0 20084   5    2	* The Sleeping Lion [down]
+D 0 20087   0    1	* Inside the Inner Gate [north]
+D 0 20094   2    1	* Pensioner's Quarters [south]
+D 0 20096   0    1	* Small Room in Pensioner's Quarters [north]
+D 0 20098   1    1	* Hall [east]
+D 0 20098   2    1	* Hall [south]
+D 0 20099   3    1	* Study [west]
+D 0 20100   0    1	* Pantry [north]
+D 0 20107   1    1	* Hall [east]
+D 0 20107   3    1	* Hall [west]
+D 0 20108   1    1	* Meeting Chamber [east]
+D 0 20109   3    1	* Guest Quarters [west]
+D 0 20114   3    2	* Cellar [west]
+D 0 20114   4    2	* Cellar [up]
+D 0 20115   1    2	* Hidden Cellar Room [east]
+M 0 20030   1 20009  1	* An officer
+E 0 20012   -1    5	* item to An officer
+E 0 20013   -1   16	* item to An officer
+E 0 20067   -1   12	* item to An officer
+M 0 20009   1 20010  1	* A queen's guardsman
+E 0 20012   -1    5	* item to A queen's guardsman
+E 0 20013   -1   16	* item to A queen's guardsman
+M 0 20035   1 20010  1	* A citizen
+O 0 20029   0 20010 -1	* A fountain at Queen's Avenue and Arathelle Way
+M 0 20032   1 20010  1	* A merchant
+M 0 20031   1 20011  1	* A hunter
+E 0 20030   -1    8	* item to A hunter
+E 0 20031   -1   17	* item to A hunter
+M 0 20034   1 20012  1	* A petty noble
+M 0 20029   1 20012  1	* A gleeman
+M 0 20009   1 20013  1	* A queen's guardsman
+E 0 20012   -1    5	* item to A queen's guardsman
+E 0 20013   -1   16	* item to A queen's guardsman
+M 0 20035   1 20013  1	* A citizen
+O 0 20029   0 20013 -1	* A fountain at Queen's Avenue and Lugard Street
+M 0 20034   1 20014  1	* A petty noble
+M 0 20032   1 20015  1	* A merchant
+M 0 20032   1 20015  1	* A merchant
+M 0 20030   1 20016  1	* An officer
+E 0 20012   -1    5	* item to An officer
+E 0 20013   -1   16	* item to An officer
+E 0 20067   -1   12	* item to An officer
+M 0 20009   1 20018  1	* A queen's guardsman
+E 0 20012   -1    5	* item to A queen's guardsman
+E 0 20013   -1   16	* item to A queen's guardsman
+M 0 20035   1 20018  1	* A citizen
+M 0 20032   1 20018  1	* A merchant
+M 0 20009   1 20019  1	* A queen's guardsman
+E 0 20012   -1    5	* item to A queen's guardsman
+E 0 20013   -1   16	* item to A queen's guardsman
+M 0 20036   1 20020  1	* An old man
+M 0 20030   1 20021  1	* An officer
+E 0 20012   -1    5	* item to An officer
+E 0 20013   -1   16	* item to An officer
+E 0 20067   -1   12	* item to An officer
+M 0 20033   1 20024  1	* A refugee
+M 0 20036   1 20028  1	* An old man
+M 0 20009   1 20029  1	* A queen's guardsman
+E 0 20012   -1    5	* item to A queen's guardsman
+E 0 20013   -1   16	* item to A queen's guardsman
+M 0 20034   1 20029  1	* A petty noble
+M 0 20009   1 20031  1	* A queen's guardsman
+E 0 20012   -1    5	* item to A queen's guardsman
+E 0 20013   -1   16	* item to A queen's guardsman
+M 0 20035   1 20031  1	* A citizen
+M 0 20032   1 20032  1	* A merchant
+M 0 20030   1 20034  1	* An officer
+E 0 20012   -1    5	* item to An officer
+E 0 20013   -1   16	* item to An officer
+E 0 20067   -1   12	* item to An officer
+M 0 20034   1 20034  1	* A petty noble
+M 0 20036   1 20036  1	* An old man
+M 0 20009   1 20037  1	* A queen's guardsman
+E 0 20012   -1    5	* item to A queen's guardsman
+E 0 20013   -1   16	* item to A queen's guardsman
+M 0 20034   1 20037  1	* A petty noble
+M 0 20031   1 20039  1	* A hunter
+M 0 20032   1 20040  1	* A merchant
+M 0 20031   1 20041  1	* A hunter
+M 0 20034   1 20042  1	* A petty noble
+M 0 20036   1 20042  1	* An old man
+M 0 20013   1 20044  1	* An acrobat
+M 0 20014   1 20045  1	* A firebreather
+E 0 20010   -1    0	* item to A firebreather
+M 0 20016   1 20046  1	* A strongman
+M 0 20011   1 20047  1	* A small lion
+M 0 20015   1 20047  1	* A lion tamer
+M 0 20017   1 20048  1	* The ringmaster
+E 0 20021   -1   15	* item to The ringmaster
+E 0 20022   -1   17	* item to The ringmaster
+O 0 20023   0 20048 -1	* A poster  at Ringmaster's Tent
+M 0 20036   1 20049  1	* An old man
+M 0 20010   1 20050  1	* Saran
+G 0 20009 -1		* Iron knife to Saran
+G 0 20036 -1		* Iron mace to Saran
+G 0 20037 -1		* Iron sword to Saran
+G 0 20038 -1		* Iron-tipped spear to Saran
+M 0 20012   1 20051  1	* Durgan
+G 0 20032 -1		* Leather vest to Durgan
+G 0 20033 -1		* Leather sleeves to Durgan
+G 0 20034 -1		* Leather leggings to Durgan
+G 0 20035 -1		* Leather boots to Durgan
+M 0 20018   1 20053  1	* A new student
+M 0 20022   1 20054  1	* A music student
+E 0 20019   -1   17	* item to A music student
+M 0 20023   1 20056  1	* A teacher
+E 0 20016   -1   10	* item to A teacher
+M 0 20018   1 20056  1	* A new student
+M 0 20023   1 20058  1	* A teacher
+E 0 20015   -1    5	* item to A teacher
+M 0 20021   1 20058  1	* A student
+M 0 20023   1 20062  1	* A teacher
+E 0 20020   -1    6	* item to A teacher
+M 0 20020   1 20062  1	* A student
+M 0 20023   1 20063  1	* A teacher
+E 0 20017   -1    7	* item to A teacher
+M 0 20019   1 20063  1	* A novice 
+M 0 20019   1 20064  1	* A novice 
+E 0 20018   -1   17	* item to A novice 
+M 0 20026   1 20066  1	* A receptionist
+M 0 20024   1 20070  1	* A professor
+M 0 20025   1 20070  1	* A student
+M 0 20024   1 20071  1	* A professor
+M 0 20025   1 20071  1	* A student
+M 0 20024   1 20073  1	* A professor
+M 0 20025   1 20073  1	* A student
+M 0 20027   1 20075  1	* The master
+G 0 20024 -1		* A letter with a black seal to the master
+G 0 20025 -1		* Brown key to the master
+M 0 20028   1 20076  1	* The head librarian
+O 0 20026   0 20076 -1	* A book at Caemlyn Library
+O 0 20027   0 20076 -1	* A book at Caemlyn Library
+O 0 20028   0 20077 -1	* A book at Caemlyn Library
+M 0 20038   1 20079  1	* Assandra
+G 0 20039 -1		* A fresh baked roll to assandra
+G 0 20040 -1		* Salted pork to assandra
+G 0 20041 -1		* An apple pie to assandra
+G 0 20042 -1		* A nut cake to assandra
+M 0 20039   1 20080  1	* The old supply-shop man
+G 0 20043 -1		* Torch to the old supply-shop man
+G 0 20044 -1		* A hooded lantern to the old supply-shop man
+G 0 20045 -1		* A small sack to the old supply-shop man
+G 0 20047 -1		* A leather backpack to the old supply-shop man
+G 0 20046 -1		* A glass vial to the old supply-shop man
+G 0 20048 -1		* A clay jug to the old supply-shop man
+M 0 20042   1 20081  1	* Sam
+G 0 20057 -1		* A gold necklace to Sam
+G 0 20058 -1		* A brilliant gold engagement ring to Sam
+M 0 20045   1 20082  1	* Antique dealer
+G 0 20070 -1		* An exquisite comolad to antique dealer
+G 0 20072 -1		* A crimson pyramid to antique dealer
+G 0 20068 -1		* A wooden goblet  to antique dealer
+G 0 20071 -1		* A delicate satare to antique dealer
+G 0 20069 -1		* A blackened bronze tube to antique dealer
+M 0 20044   1 20083  1	* Silkworm
+G 0 20061 -1		* Forkroot leaf to silkworm
+G 0 20062 -1		* Mandrake root to silkworm
+G 0 20063 -1		* Dried gara dust to silkworm
+G 0 20064 -1		* Cuendillar dust to silkworm
+G 0 20065 -1		* Crushed redberry to silkworm
+G 0 20066 -1		* Powdered gull pepper to silkworm
+M 0 20057   1 20084  1	* Barkeep
+G 0 20059 -1		* A mug of stout ale to barkeep
+G 0 20060 -1		* A glass of beer to barkeep
+M 0 20040   1 20085  1	* The book-seller
+G 0 20049 -1		* A book on sword fighting to the book-seller
+G 0 20050 -1		* The travels of jain farstrider to the book-seller
+G 0 20051 -1		* A thick red dictionary of objects to the book-seller
+G 0 20052 -1		* A book on hunting to the book-seller
+G 0 20053 -1		* A book on the healing arts to the book-seller
+M 0 20037   1 20086  1	* Master ellidan
+M 0 20047   1 20091  1	* A grey man
+M 0 20054   1 20093  1	* Lady arathelle
+M 0 20055   1 20094  1	* An old pensioner
+M 0 20056   1 20096  1	* Lini
+M 0 20048   1 20099  1	* Lord lir
+M 0 20051   1 20101  1	* A servant
+M 0 20051   1 20102  1	* A servant
+M 0 20049   1 20104  1	* Lord gaebril
+E 0 20073   -1    6	* item to Lord gaebril
+E 0 20074   -1   10	* item to Lord gaebril
+E 0 20075   -1    7	* item to Lord gaebril
+E 0 20076   -1    5	* item to Lord gaebril
+E 0 20077   -1    8	* item to Lord gaebril
+E 0 20078   -1   16	* item to Lord gaebril
+P 0 20080 1 20079 1
+M 0 20051   1 20106  1	* A servant
+M 0 20053   1 20108  1	* Lord pelivar
+M 0 20052   1 20109  1	* Lady karand
+E 0 20079   -1    3	* item to Lady karand
+M 0 20041   1 20110  1	* Master azrade
+G 0 20054 -1		* Weapon repair invoice to master azrade
+G 0 20055 -1		* An armor repair invoice to master azrade
+M 0 20043   1 20111  1	* Basel gill
+G 0 20059 -1		* A mug of stout ale to Basel Gill
+G 0 20060 -1		* A glass of beer to Basel Gill
+M 0 20046   1 20112  1	* Eryl sedai
+O 0 20082   0 20115 -1	* Stasis box at Hidden Cellar Room
+P 0 20083 1 20082 1
+S
+
+#SHOPS
+20010  5  0  0  0  0 	75  50 	0 23	* Saran
+20012  9  0  0  0  0 	100 100 	0 23	* Durgan
+20038 19  0  0  0  0 	75  90 	0 23	* assandra
+20039 15  1 17  0  0 	80  75 	0 23	* the old supply-shop man
+20040  2  0  0  0  0 	75  75 	0 23	* the book-seller
+20041  2  5  0  0  0 	100 100 	0 23	* master azrade
+20042  8 17  0  0  0 	100  50 	0 23	* Sam
+20043 19 17  0  0  0 	100 100 	0 23	* Basel Gill
+20044 26 10  0  0  0 	100 100 	0 23	* silkworm
+20045  8 13  3  4 17 	100  20 	0 23	* antique dealer
+20057  0 17  0  0  0 	100 100 	0 23	* barkeep
+0
+
+#SPECIALS
+M 20009 spec_guard		* a Queen's Guardsman
+M 20014 spec_breath_fire		* a firebreather
+M 20030 spec_guard		* an officer
+S
+
+#$

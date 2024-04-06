@@ -1,0 +1,933 @@
+#PLAYER
+Name Barakan~
+Id   1226795704
+LogF 1226866148
+LogO 1226874838
+Vers 8
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race elf~
+Sex  1
+Cla  0
+Cla2  0
+Cla3  0
+Levl 16
+MBKill 1
+MHKill 209
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 35994
+NPlyd 0
+NAge 0
+Bank_Gold 10
+Bank_Silv 0
+Email barakan@comcast.net~
+Referrer mudconnector~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 2
+Race_Old -1
+Class_Old -1
+New_Style 1
+Totalxp 828240
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+TotalCGL 0
+TotalCGW 0
+MPC 0
+Host c-76-127-212-248.hsd1.ma.comcast.net~
+Not  0 0 0 0 839576231 0 0 0
+Scro 22
+Room 4056
+HMV  -37 94 108 301 143 162
+Hand 2
+Gold 14
+Silv 4822
+Exp  131651
+Act  DEFGQ
+Blok -1
+AfBy DEFJ
+Comm NOS
+Com2 A
+Pos  0
+Alig  -42
+Hit   15
+Dam   15
+ACs 50 50 51 62
+Wimp  20
+Attr 8 24 10 14 15 10
+AMod 7 2 0 3 4 -1
+Pass BajmhqWGnCO3A~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  the Wanderer~
+Pnts 6
+TSex 1
+LLev 7
+Loner 0
+HMVP 79 296 162
+Cd  -16 31 37 41 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Sk 36 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'cancellation'
+Sk 1 'change sex'
+Sk 1 'charm person'
+Sk 41 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'control weather'
+Sk 66 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 56 'create water'
+Sk 1 'curse'
+Sk 1 'detect hidden'
+Sk 26 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'enchant armor'
+Sk 1 'enchant weapon'
+Sk 1 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 26 'fly'
+Sk 1 'floating disc'
+Sk 51 'giant strength'
+Sk 1 'haste'
+Sk 61 'identify'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 51 'lightning bolt'
+Sk 1 'locate object'
+Sk 6 'magic missile'
+Sk 1 'mass invis'
+Sk 1 'pass door'
+Sk 1 'poison'
+Sk 1 'summon'
+Sk 1 'recharge'
+Sk 41 'refresh'
+Sk 1 'shield'
+Sk 61 'shocking grasp'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'teleport'
+Sk 1 'ventriloquate'
+Sk 1 'weaken'
+Sk 46 'aqua breathe'
+Sk 1 'channel electricity'
+Sk 51 'ice beam'
+Sk 1 'electrical charge'
+Sk 53 'staff'
+Sk 1 'swimming'
+Sk 1 'butcher'
+Sk 35 'meditation'
+Sk 1 'sneak'
+Sk 1 'fishing'
+Sk 36 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 1 'floating letters'
+Affc 'detect invis'   0  15  13   0   0          8 0 ''
+Affc 'armor'   0  15  16 -10  17          0 0 ''
+End
+
+#O
+Vnum 78
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 79
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 12923
+Nest 0
+Name sparkling newbie box `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `d[`kA Sparkling Newbie Box`d]``~
+Desc `kA sparkling newbie box from`o Iverath`k is here, stuffed with newbish items.``~
+WeaF 1
+WearL -1
+Lev  1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 4863
+Enchanted
+Nest 1
+Name newbie stiletto `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `da`k (`cnewbie`k)`d stiletto``~
+Desc `da`k (`cnewbie`k)`d stiletto lies here in all its glory.``~
+ExF 0 64
+WearL -1
+Lev  16
+Cost 6500
+Affc 'enchant weapon'   1  74  -1   4  19          0 0 ''
+Affc 'enchant weapon'   0  74  -1   3  18          0 0 ''
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 4264
+Nest 1
+WearL -1
+Cost 0
+ExDe papermsg~ `lWelcome to the realms of `nExodus`h.  Upon entering our world,
+you will notice that there is no traditional mud school or newbie zone.
+It is our intention to immerse players immediately, the world around you being
+your entire 'newbie area'.  Thus, reading this `bNeophyte Manifesto`h becomes
+monumentally important to your prosperity and survival here.  Note that   
+everything covered in this document is pursued at greater length in the  
+help files. Please also type story to read something of Exodus history.
+
+The manifesto is divided into several categories.  
+To read the different parts, just type look `kkeyword`h.
+
+`o[`kYou`o] [`hThe `kworld `haround you`o] [`hOther `kplayers`o] [`hYour `kplace`h in the world`o]`h               
+~
+ExDe you~ `o[`iYou`o]`h                                                                 
+You are the center of your universe.  There are many ways in which you        
+can make your character unique, aside from the customization you have         
+already undertaken in choosing your skills and attributes.  You can           
+change your title [help title], give yourself a description [help description],
+formulate a battlecry [help battlecry]  -- and you can do it all in color    
+[help color].                                                   
+               
+When your character is born, he/she/it receives a set of low level
+equipment. To see what you are wearing, type equipment.  To see what you are 
+holding, type inventory.  Exodus supports full abbreviation, so if you don't 
+want to type out these full commands, you can use 'eq' and 'i', respectively. 
+If you should ever lose your newbie gear, you can type outfit to re-eq.      
+
+Your character's attributes and nuances are important to your evolution as     
+you rise in power and knowledge.  To see your character's score sheet,        
+type score.  To see quickly how wealthy your character is, or how much        
+experience you require to level, type worth.  The experience you receive      
+from killing non-player-characters (NPCs), exploring the world, or            
+participating in both built-in area and immortal run quests determines        
+your level. [help experience, help level]                                     
+~
+ExDe world~ `o[`iThe world around you`o]`h     
+There are many things in the world that you will become aware of as you       
+wander about.  The world of Exodus is vast, comprised of many mystical        
+lands.  [help areas]    
+A few commands are necessary to master if you want to experience the    
+full impact of Exodus: look, where, and who. [help look] [help where] &       
+[help who] have extensive information concerning these important commands.    
+    
+`o[`hobjects`o]`h                                                              
+Mundane and arcane items alike can be found, bought, or battled for in    
+the realms of Exodus.  Although you may discover a proliferation of
+telluric items within its sprawls, the luckiest adventurers may sometimes     
+come across fabled treasures, rare beyond description.                        
+                                                                              
+`o[`hmobiles`o]`h                                                              
+Unlike many other foriegn environments, the extensive lands of Exodus are   
+inhabited by both intelligent players, and...intelligent monsters.          
+Instinctual animals may not offer much of a challenge, but cognizant           
+creatures with actual aspects of sentience (for example, city guards,       
+farmers, or soldiers) may just surprise you -- look at them, talk to them,  
+do what you deem to be wise around them to see how they react.  And should  
+you choose to engage in combat with them and find yourself over your head,  
+you may just find that enraged farmer or cityguard hunting you down to      
+finish the job.                                                                
+~
+ExDe player players~ `o[`iother players`o]`h                                                        
+Although most of the inhabitants of Exodus may appear to be friendly,          
+it is always advisable to take everything with a grain of salt and             
+view the world through a cynic's eyes -- even the most harmless-looking      
+player can evolve into a vicious enemy in the span of a few seconds.           
+Exploring the large universe that Exodus provides is a very good way          
+to avoid messy conflicts with other violent players, and is strongly          
+encouraged, especially to new players.                                        
+                                                                             
+This advice does not directly apply to players level 1 - 8 (as these        
+lower-level players are protected by immortal intervention), but it           
+is advisable that you begin exploring the planet early on, to get a            
+grasp of the terrain and places to adventure.                                
+   
+Player-killing outside of the 10-level range established by the               
+creators of the lands of Exodus will result in the garnering of a              
+wanted flag, and possibly a trial [help justice, help laws].                   
+~
+ExDe place~ [Your place in the world]
+After establishing your persona within the Realms of Exodus, you will
+most likely be tempted to exercise your freedom and broaden your 
+horizens by taking advantage of the many built-in features of the world:
+  
+[Clans]
+Clans are groups of like-minded players that have both the willpower and
+the manpower to organize themselves in objectives that may include
+conquering areas, warring with other clans, and/or promoting 
+a specific goal or cause. See [help clan and clan war].
+  
+[Homes]
+You can establish private sectors for yourself, your clan, or your loved
+one(s) in certain areas in the world of Exodus, for a price. This is best
+done after you have become an experienced adventurer and amassed
+some money. Refer to [help homes] for more information.
+  
+[Transportation]
+The forms of transport in the Realm of Exodus are many and varied.
+Elevator mechanisms coupled with moving battle machines, boats,
+mounts, and magical means of transport are ways to move yourself 
+around all kinds of terrain. For traditionalists, you can also walk to 
+most places. Please read the following files:
+[help boat, help mount, help transportation].
+  
+[Good places to go]
+A good place for newbies to start is the Thesden Animal Exhibition 
+Gardens, informally called the zoo. It is located on Welford Road,
+on the far east side of Thesden. Once the pleasures of the Zoo have 
+begun to pall, you can explore, hunt wabbits!, or satisfy your 
+bloodthirst at Ashton Gardens (near the center of Thesden), or 
+in the Eastern Plains or Sarrendale Farms (outside of the East
+Gate of Thesden).
+~
+End
+
+#O
+Vnum 4202
+Nest 1
+WearL -1
+Cost 0
+Vlues  0 0 86 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4002
+Nest 1
+WearL -1
+Cost 20
+Vlues  5 0 20 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4403
+Nest 1
+WearL -1
+Cost 100
+ExDe book~ A magical force keeps you from opening this tattered book,
+and the arcane words etched upon its leather cover  are of 
+a language you have never seen before, a language you cannot read.
+You can still feel the magic emanating from inside its covers,
+probably possessing hidden secrets that only Old Man Torun can
+decrypt.
+~
+End
+
+#O
+Vnum 4400
+Nest 1
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 4263
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4262
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4099
+Nest 1
+WearL -1
+Cost 25
+End
+
+#O
+Vnum 21070
+Nest 1
+WearL -1
+Cost 20
+End
+
+#O
+Vnum 21071
+Nest 1
+WearL -1
+Cost 4
+End
+
+#O
+Vnum 21071
+Nest 1
+WearL -1
+Cost 4
+End
+
+#O
+Vnum 21063
+Nest 1
+WearL -1
+Cost 15
+End
+
+#O
+Vnum 21106
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21105
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21096
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21097
+Nest 1
+WearL -1
+Cost 0
+ExDe map~ `c*****``
+`c*   *`` cave
+`c*****``
+`d| |``
+`g=====``
+`g=   =``
+`g=====``
+`d| |``
+`g=====`d__`g=====`d__`g=====``
+`g=   =`d--`g=   =`d--`g=   =``
+`g=====  =====  =====``
+`a               | |``
+`a              [%v%]``
+`a              [-*-]`` treasure
+`a              [%^%]``
+~
+End
+
+#O
+Vnum 18
+Nest 1
+ShD  the feather of An owl~
+Desc The feather of An owl is lying here.~
+WearL -1
+Cost 1500
+End
+
+#O
+Vnum 4406
+Nest 1
+WearL -1
+Cost 1
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+End
+
+#O
+Vnum 21072
+Nest 1
+Name tarnished silver newbie ring~
+ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
+WearL -1
+Cost 12
+End
+
+#O
+Vnum 20958
+Nest 1
+WearL -1
+Cost 13
+End
+
+#O
+Vnum 5630
+Nest 0
+Name boar earring tusk newbie~
+ShD  `da`k (`cnewbie's`k)`d tusk earring``~
+ExF 0 262144
+WearL 16777216
+Cost 0
+End
+
+#O
+Vnum 7265
+Nest 0
+Name spirit chaos annoying newbie~
+ShD  `hThe`n S`gpiri`nt`h of`k (`cthe annoying newbie`k)``~
+ExF 0 4224
+WearL 65536
+Cost 1500
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+WearL 1048576
+Lev  10
+Cost 10
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+WearL 4096
+Lev  10
+Cost 10
+End
+
+#O
+Vnum 114
+Nest 0
+Name forest green cloak newbie~
+ShD  `kA`c Fo`kre`cst`k (`cnewbie`k) Cl`co`kak``~
+Wt   0
+WearL 1024
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 723
+Nest 0
+Name sapphire newbie moon~
+ShD  `ea`k (`cnewbie`k)`e moon``~
+WearL 2097152
+Cost 8309
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+Name brass knuckles newbie~
+ShD  `k (`cNewbie`k)`k K`on`huck`ole`ks``~
+Wt   0
+WearL 128
+Lev  19
+Cost 0
+Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
+Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 21072
+Nest 0
+WearL 262144
+Cost 12
+End
+
+#O
+Vnum 4302
+Nest 0
+WearL -1
+Cost 55
+End
+
+#O
+Vnum 4287
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21066
+Nest 1
+WearL -1
+Cost 7
+End
+
+#O
+Vnum 21089
+Nest 1
+WearL -1
+Cost 175
+End
+
+#O
+Vnum 21089
+Nest 1
+WearL -1
+Cost 175
+End
+
+#O
+Vnum 4401
+Nest 1
+WearL -1
+Cost 10
+End
+
+#O
+Vnum 21084
+Nest 1
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 21010
+Nest 0
+WearL 33554432
+Cost 10
+End
+
+#O
+Vnum 4420
+Nest 0
+WearL 296
+Cost 10
+End
+
+#O
+Vnum 21083
+Nest 0
+WearL 64
+Cost 15
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+WearL 4
+Cost 300
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+WearL 524288
+Cost 300
+End
+
+#O
+Vnum 12220
+Nest 0
+ExF 0 25165843
+WearL 512
+Cost 0
+ExDe shield~ ~
+End
+
+#O
+Vnum 21072
+Nest 0
+WearL 2
+Cost 12
+End
+
+#O
+Vnum 4050
+Enchanted
+Nest 0
+ExF 0 65
+WearL 8192
+Lev  18
+Cost 79
+Affc 'enchant weapon'   1  90  -1   4  19          0 0 ''
+Affc 'enchant weapon'   1  90  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 21069
+Nest 0
+Name clay jar water~
+WearL -1
+Cost 5
+Vlues  60 28 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 20956
+Nest 0
+WearL 2048
+Cost 50
+End
+
+#O
+Vnum 21086
+Nest 0
+Name canteen water~
+WearL -1
+Cost 20
+Vlues  60 44 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 20975
+Nest 0
+WearL 16
+Cost 75
+End
+
+#O
+Vnum 20
+Nest 0
+Name crispy wafer leaf~
+ShD  `da crispy wafer in a `cgreen leaf``~
+Desc `dA thin crispy wafer wrapped in a large `cgreen leaf`d indicates that an elf has passed by.``~
+WearL -1
+Cost 0
+Vlues  8 16 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#RoomRLE   100 1 226 1 273 1 1 4 1 8 1 1 23 10 14 1 834 11 5 1 4 5 75 1 701 1 7 3 20 1 7 1 641 1 415 2 598 9 2 1 14 1 7 2 7 1 2 54 2 5 3 22 1 7 2 5 1 6 1 4 1 4 2 10 1 2 7 5 1 1 12 1 7 1 1 1 1 2 3 2 106 1 1 8 1 6 1 2 1 7 41 1 1 1 17 2 12 1 36 2 1 1 388 3 54 1 22 3 83 1 2872 1 3456 2 1 1 1556 7 3 27 1 9 1 1 8 13 7 3 7 3 7 30 2 8 2 8 2 8 2 8 2 118 4 1 2 9 4 5 3 29 757 2 32 7 1 3 6887 13 6 16 1 5 1 5 9 7 38 4 4 18 3 38 1 10 2 7 1 11 1 42 1 3 1 11 2 6 1 11 2 17 1 39 3 2 4 12 2 2 4 11 4 1 4 11 4 1 8 7 4 1 9 6 17 3 18 1 4 4 1 1 6 1 555 2 79 1 918 1 2007 1 6 1 19 1 18 1 8 1 5 1 22 1 110 1 1647 1 149 1 210 1 4435 1 100 1 99 1 99 1 98 1 99 1 64 1 33 1 65 1 1 1 31 1 65 1 1 1 31 1 66 1 33 1 387 1 1 1 304 2 32290 -1
+
+#QbitsRLE   999 -1
+
+#END

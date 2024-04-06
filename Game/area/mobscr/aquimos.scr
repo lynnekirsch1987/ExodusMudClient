@@ -1,0 +1,795 @@
+* File: aquimos.scr
+* Mob: Aquimos the Canthi Ferryman (vnum 1051)
+
+#TRIGGER Tick
+Type 3
+Sc
+let %timer% -= 1
+if (%timer% < -1)
+  let %timer% == -1
+  halt once~
+Sc
+if (%timer% > 1)
+  halt once~
+Sc
+if (%timer% == 1)
+  cmd yell The ferry will be departing shortly.
+  halt once~
+Sc
+if (%destination% cmp "COS")
+  signal 1051 COS
+  halt once~
+Sc
+if (%destination% cmp "Thesden")
+  signal 1051 Thesden
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  cmd goto ferry
+  cmd set obj ferry weight 1
+  cmd set obj ferry wear 1
+  cmd get ferry
+  cmd eat ferry
+  cmd at 4219 yell The ferry will be leaving shortly for the City of the Sun!
+  cmd at 4219 yell Come to the docks if you need a ride there.
+  cmd at 4219 load obj 1051
+  cmd at 4219 drop ferry
+  cmd goto 1052
+  let %destination% == COS
+  let %timer% == 5
+  halt once~
+End
+
+#TRIGGER COS
+Type 8
+Sc
+if (%COS-arg% cmp "COS")
+  cmd string mob aquimos long Aquimos is here piloting the ferry.
+  let %destination% == COS
+  cmd at 4219 yell We're shoving off for the City of the Sun!  All aboard who's coming aboard!
+  cmd yell OK, folks.  We're heading for the City of the Sun.
+  cmd sail east
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail east
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail east
+wait 2~
+* Now we head south past the cape of Ebon Downs
+Sc
+if (%COS-arg% cmp "COS")
+  zecho The ferry turns southward away from Thesden and heads into open water.
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  zecho As the ferry heads out to sea, Thesden starts to disappear into the distance to the north.
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  zecho The ferry passes near a rocky cliff to your west.  Many sea caves line the coastal rocks.
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+* Now we turn west towards the City of the Sun
+Sc
+if (%COS-arg% cmp "COS")
+  zecho The ferry turns westward as it passes around the cape of Ebon Downs.
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+ 
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  zecho In the distance to your north, you can see the port town of Ebon Downs.
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  zecho You see the shoals of Freeport to your north.
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  zecho You begin to make out land approaching far off to the west.
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  zecho You can clearly see a jungle and a bustling city approaching to the west.
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+* Now we're inside the City of the Sun and we just need to maneuver to the dock.
+Sc
+if (%COS-arg% cmp "COS")
+  zecho The ferry moves into a jungle canal as it makes its way around the City of the Sun.
+  cmd sail north
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail west
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  zecho The ferry begins to near the loading docks in the City of the Sun.
+  cmd sail south
+wait 2~
+Sc
+if (%COS-arg% cmp "COS")
+  cmd sail east
+  let %timer% == 5
+  let %destination% == Thesden
+  cmd yell The ferry has arrived in the City of the Sun.  You may disembark whenever you're ready.
+  cmd at 19099 yell The Thesden-City of the Sun ferry is now boarding at the loading dock.
+  cmd at 19099 yell We'll leave for Thesden shortly!
+halt once~
+End
+
+#TRIGGER Thesden
+Type 8
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd at 19099 yell We're shoving off for Thesden!  All aboard who's coming aboard!
+  cmd yell OK, folks.  We're heading for Thesden.
+  let %destination% == Thesden
+  cmd sail west
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail south
+wait 2~
+* Out to sea!
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  zecho The ferry leaves the tranquil waters of the canal and heads eastward into the ocean.
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  zecho The jungle fades away to the west as the ferry continues out into the open sea.
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  zecho In the distance to your north, you can see the port town of Ebon Downs.
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail east
+wait 2~
+* Now we turn north around the cape of Ebon Downs towards Thesden
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  zecho The ferry turns northward as it passes around the cape of Ebon Downs.
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  zecho The ferry passes near a rocky cliff to your west.  Many sea caves line the coastal rocks.
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  zecho As the ferry sails northward, you see the spires of Castle Dunluce far to your north.
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail north
+wait 2~
+* We have reached Thesden.  We just sail west into the harbor.
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  zecho The ferry nears Thesden and maneuvers for a spot on the busy docks.
+  cmd sail west
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail west
+wait 2~
+Sc
+if (%Thesden-arg% cmp "Thesden")
+  cmd sail west
+  let %timer% = 5
+  let %destination% == COS
+  yell We've arrived in Thesden.  You may disembark whenever you're ready.
+  cmd at 4219 yell The Thesden-City of the Sun ferry is now boarding at the docks.
+  cmd at 4219 yell We'll leave for the City of the Sun shortly!
+halt once~
+End
+
+#END

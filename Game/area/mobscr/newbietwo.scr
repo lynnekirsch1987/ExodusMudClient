@@ -1,0 +1,17 @@
+* File: newbietwo.scr
+* Mob: Catfish Newbie (vnum 6985)
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+  cmd say `bRAAAaaaWWwwrgh! You've killed me, `h%killer%`b!``
+  cmd say `dBut you can have what's in my box. You've earned it.``
+  cmd pecho %killer% ``
+  cmd pecho %killer% `g----------------------------------``
+  cmd pecho %killer%  `hType '`jl in box`h' then '`jget all box`h'.``
+  cmd pecho %killer% `g----------------------------------``
+  cmd pecho %killer% ``
+  halt once~
+End
+#END

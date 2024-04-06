@@ -1,0 +1,2337 @@
+#AREA
+ 6~
+area77.are~
+`b=m*m=Arachnoid Caves=m*m=``~
+{20 35} Duiwel  `b=m*m=Arachnoid Caves=m*m=``~
+~
+1077 1177
+0 B 0
+0 1
+~
+#MOBILES
+#1077
+`a fuzzy grey skitterer spider ``~
+`aa fuzzy grey skitterer``~
+`aa fuzzy grey skitterer zips across the floor here.``
+~
+`aA hairy grey skitterer bustles around here going about its business.  ``
+`aIt is carrying a small amount of food to help feed it's larger kid.  ``
+`aIt bears the mark of the arachnid queen and follows only her wishes.``
+~
+centipede~
+0 0 0 0
+AG JZ -750 0
+19 -8 10d31+190 1d1+100 3d5+11 acbite
+32 32 32 999 32
+V 0 JN 0 FGIL EHK
+stand stand neutral 0
+ABGHOP ABCEFKVa 10 10 10 10 10 10 0
+small shell~
+0 0 0 100
+0
+~
+~
+#1078
+`f purple skitterer white spots spider ``~
+`fa purple skitterer with `owhite spots``~
+`fa purple skitterer with `owhite spots `fstopped here to clean itself.``
+~
+`fA purple skitterer with `owhite spots `fsits here minding his ``
+`fown business and cleaningitself.  It's fangs are stained green and ``
+`fdripping with poison.  It bears the mark of the arachnid queen.``
+~
+centipede~
+0 0 0 0
+AGS JZ -750 0
+21 -5 10d35+200 1d1+100 4d5+9 acbite
+29 29 29 999 29
+V 0 JN 0 FGIL EHK
+stand stand neutral 0
+ABGHOP ABCEFKVa 10 10 10 10 10 10 0
+small shell~
+0 0 0 100
+0
+~
+~
+#1079
+`b arachnid tunneler spider ``~
+`bAn arachnid tunneler``~
+`bAn arachnid tunneler is digging here.``
+~
+`bA large red and purple Arachnid stand before you here.  It's`` 
+`bspider-likebody supports a very short, upright insectisoid torso ``
+`btopped by a spider's head and long, sharp fangs.  It's front two``
+`blegs act more like arms, with the remaining six legs supporting the``
+`babdomen.  This particular Arachnid is a tunneler, and can use it's``
+`bvery sharp claws to break off rocks from the tunnel walls.  The ``
+`bArachnid bears the mark of the arachnid queen on its back, a ``
+`bgolden-brown spider with a green gem in the middle of the torso``
+`bbranded on it's back.``
+~
+centipede~
+0 0 0 0
+ABG JZ -850 0
+24 -3 10d35+300 10d5+150 5d5+10 acbite
+24 24 24 999 24
+V 0 JN 0 FGIL EHK
+stand stand neutral 850
+ABGHOP ABCEFKVa 11 11 11 11 11 11 0
+medium shell~
+0 0 0 100
+0
+~
+tunneler.scr~
+#1080
+`i arachnid sapper spider ``~
+`iAn arachnid sapper``~
+`iAn arachnid sapper is attempting to remove rubble.``
+~
+`iA large blood red Arachnid stands here, a sack load of explosives``
+`istrapped over it's back.  It's spider-likebody supports a very ``
+`ishort, upright insectisoid torso topped by a spider's head and ``
+`ilong, sharp fangs.  It's front two legs act more like arms, with ``
+`ithe remaining six legs supporting the abdomen.  This particular``
+`iArachnid is a sapper and it's using it's extensive knowledge of``
+`iexplosives to attempt to remove rubble from caved-in passageways.``
+`iThe Arachnid bears the mark of the arachnid queen on its back, a ``
+`igolden-brown spider with a green gem in the middle of the torso``
+`ibranded on it's back.``
+~
+centipede~
+0 0 0 0
+ABGT JZ -900 0
+26 -1 11d38+325 10d5+150 6d5+8 acbite
+22 22 22 999 22
+V 0 JN 0 FGIL EHK
+stand stand neutral 925
+ABGHOP ABCEFKVa 11 11 11 11 11 11 0
+medium shell~
+0 0 0 100
+0
+~
+sapper.scr~
+#1081
+`j mutated abomination ``~
+`jA bloated and mutated abomination``~
+`jA bloated and mutated abomination roars at you threateningly.``
+~
+`jWhat was once mostly likely a Vro'ath peasant now towers over you,``
+`jit's skin bloated and tinted a bright green, an unpleasant mix of``
+`jblood and neon green mucus dripping from it's even gaping jaw.  The``
+`jmonsterous thing turns to look at you, with a look in it's twisted``
+`jeyes that either say 'Yum, fresh meat' or 'Please kill me.'``
+~
+human~
+0 0 0 0
+ABTc DFHJVc -1000 0
+50 50 5799d1+1 60d10+500 5d15+5 acbite
+-7 -7 -7 999 -7
+0 60 4 DIRVWZ ABKLMQ IP HNS
+stand stand neutral 1000
+ABHJMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+huge biochemical~
+0 3 0 100
+0
+~
+abomination.scr~
+#1082
+`a mutated spiderling slave ``~
+`aa `jmutated `aand massive spiderling slave``~
+`aA massive, `jmutated, `aspiderling slave toils away here.``
+~
+`aYou can tell from the development level of this particular spider``
+`athat is seems to be no more than a younger spiderling of a giant``
+`aarachnid race the Anarachadium seem to have an affinity for, however``
+`athis particular spiderling is bloated and tinted a sickly greyish-``
+`agreen, it is significantly larger than it should be and certainly``
+`alooks more deadly.``
+~
+centipede~
+0 0 0 0
+AGS DFJVZ -1000 0
+44 45 50d50+1800 20d40+600 10d10+15 acbite
+-2 -2 -2 999 -2
+V 0 JN AB FGIL EHK
+stand stand neutral 400
+ABGHOP ABCEFKVa 16 16 16 16 16 16 0
+large shell~
+0 0 0 1000
+0
+~
+~
+#1083
+`f bloated spiderling worker ``~
+`fA bloated spiderling worker``~
+`fA spiderling, bloated by `jmutation `fworks here.``
+~
+`fThis enlarged spiderling is bloated from draconic expirementation. `` 
+`fThe purple carapace sports green spots at the points where the ``
+`fbloating seems to be concentrated.  This particular spiderling zips``
+`faround the cave passageways, somewhat oblivious to it's own morphing``
+`fbody.  The spiderling is picking up debris, discarded body parts, and``
+`foccasionally gathers food to brind to its Anarachadium masters.``
+~
+centipede~
+0 0 0 0
+AGS DFJVZ -1000 0
+46 48 50d60+2300 20d40+800 11d11+18 acbite
+-3 -3 -3 999 -3
+V 0 JN AB FGIL EHK
+stand stand neutral 550
+ABGHOP ABCEFKVa 16 10 16 16 16 16 0
+large shell~
+0 0 0 1000
+0
+~
+~
+#1084
+`d arachnid botanist spider ``~
+`dAn Arachnid `nBotanist``~
+`dAn Arachnid `nBotanist `dis performing tests.``
+~
+`dThis larger Anarachadium represents the lowest level of the Arachnid``
+`dalchemist caste.  The tiny torso that juts up from the spidery abdomen``
+`dhas all sorts of leather slings tossed over it, holing all sorts of ``
+`dcrude vials, herbs, and tinctures.  This particular Arachnid is ``
+`dscurrying around the lab performing tests of all sorts on other spiders``
+`dor even humanoids.  The Botanist bears the mark of the arachnid queen on``
+`dit's back, a golden-brown spider with a green gem in the middle of the ``
+`dtorso branded on it's back.``
+~
+centipede~
+0 0 0 0
+ABR DFJVZac -1000 0
+49 55 55d65+2600 20d40+1100 11d11+20 acbite
+-4 -4 -4 999 -4
+Q 0 FIJNOc ABGK FILQ EH
+stand stand neutral 780
+ABGHOP ABCEFKVa 16 16 16 16 16 16 0
+large shell~
+0 0 0 1000
+0
+~
+botanist.scr~
+#1085
+`i arachnid excavator spider ``~
+`iAn Arachnid `hExcavator``~
+`iAn Arachnid `hExcavator `iis trying to clear the passageway``
+~
+`iThis excavator arachnid is hacking away at piles of rubble with pick-axes``
+`iin both arms, desperately trying to re-establish connection with the hive``
+`iand allow his brother's in arms to breech through to the surface.  The ``
+`iExcavator bears the mark of the arachnid queen on it's back, a golden-brown``
+`ispider with a green gem in the middle of the torse branded on top of the ``
+`iabdomen.``
+~
+centipede~
+0 0 0 0
+ABS DFJOVZ -1000 0
+50 58 56d68+2750 20d40+1100 11d12+21 acbite
+-5 -5 -5 999 -5
+0 0 FIJKYa ABG FILQ EH
+stand stand neutral 840
+ABGHO ABCEFKVa 17 17 17 17 17 17 0
+large shell~
+0 0 0 1000
+0
+~
+~
+#1086
+`d tortured diseased lumberjack ``~
+`da tortured and diseased lumberjack``~
+`dA once burly lumberjack, now tortured by disease lies here.``
+~
+`dThe pale face of this lumberjack once sported a long, full beard.  However``
+`dnow his face is patching and loosing hair.  All of his teeth are missing``
+`dfrom his mouth.  His body is twisted and tortured by posion and disease,``
+`dhe prays for some sort of escape from his plight.  ``
+~
+human~
+0 0 0 0
+AB c -1000 0
+41 45 50d50+1400 20d40+600 10d10+10 chop
+-2 -2 -2 999 -2
+0 0 O 0 LQ NOS
+rest rest male 89
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 1000
+0
+~
+dyingjack.scr~
+#1087
+`g arachnid physician spider ``~
+`gAn Arachnid `nPhysician``~
+`gan Arachnig `nPhysician `gis tending to the wounded``
+~
+`gA large arachnid with painted symbols across his carapace and legs stands``
+`gbefore you.  The arachnid is easily identified as a physician, across his``
+`gshort torse are various slings and pounches that are stuff with herbs and``
+`gvarious spell components to assist in the healing process.  The physician``
+`gbears the mark of the arachnid queen on it's back, a golden-brown spider``
+`gwith a green gem in the middle of the torso branded on top of the abdomen.``
+~
+centipede~
+0 0 0 0
+AQ DFHJOZc -1000 0
+49 55 55d65+2600 20d40+1100 11d11+11 acbite
+-4 -4 -4 999 -4
+0 0 FIJN ABGK FILQ EH
+stand stand neutral 780
+ABGHOP ABCEFKVa 16 16 16 16 16 16 0
+large shell~
+0 0 0 1000
+0
+~
+~
+#1088
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 -1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#1077
+silk chitin plated belt~
+`hA Silk-woven `fChitin `aPlated Belt``~
+`fa belt made from the finest spider spun silk with patches of chitin woven in``~
+silk~
+0
+armor 2
+BMS
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B B 0
+0
+0
+14 11 225 P
+A
+18 1
+A
+1 1
+#1078
+intricate silk ring ~
+`nIntricate `hSilk-spun `nRing``~
+`na beautiful ring spun from the finest spider silk``~
+silk~
+0
+jewelry 2
+BMS
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 1 675 P
+A
+26 1
+A
+19 1
+A
+13 7
+#1079
+silk flip flops~
+`oS`hi`ol`hk`oe`hn `fflip-flops``~
+`hfine spider-spun flip-flops made of silk``~
+silk~
+0
+clothing 2
+BMS
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 9 675 P
+A
+4 1
+A
+2 2
+A
+17 -2
+#1080
+chitin chest plate~
+`fChitinous Chest Plate``~
+`fa breastplate made from a hardened chitin shell lays here``~
+shell~
+0
+armor 2
+BMS
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC ABC ABC ABC 0
+0
+0
+18 250 890 P
+A
+26 -1
+A
+2 -1
+A
+1 1
+A
+19 2
+A
+18 3
+#1081
+severed spider fang mask~
+`bSevered `hS`jp`hi`jd`he`jr`h-`jf`ha`jn`hg `bMask``~
+`ba mask made with severed spider fangs and bound with silk``~
+shell~
+0
+armor 2
+BMS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B B 0
+0
+0
+19 25 1000 P
+A
+26 -1
+A
+19 2
+A
+18 3
+#1082
+spider glyph rock~
+`da large rock with a `fspider `nglyph``~
+`dA large rock juts out from the ground, bearing a `fspider `nglyph.``~
+stone~
+0
+portal 2
+RS
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`a$n shoves the stone aside managing to make a crack big enough to squeeze through``~
+`aYou shove the stone aside far enough to make a crack big enough to slip through.``~
+`a$n squeezes through the crack before the stone slides back into place.``~
+`aYou squeeze through the crack before the stone slides back into place.``~
+-1 0 G BEFGIJMO K
+0
+0
+15 10000 0 P
+#1083
+spider glyph rock~
+`da large rock with a `fspider `nglyph``~
+`dA large rock juts out from the ground, bearing a `fspider `nglyph.``~
+stone~
+0
+portal 2
+RS
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`a$n shoves the stone aside managing to make a crack big enough to squeeze through``~
+`aYou shove the stone aside far enough to make a crack big enough to slip through.``~
+`a$n squeezes through the crack before the stone slides back into place.``~
+`aYou squeeze through the crack before the stone slides back into place.``~
+-1 0 G BCDGHJMN K
+0
+0
+15 10000 0 P
+#1084
+mutated glowing heart~
+`ba `jMutated `b`kglowing `bheart``~
+`ba still beating heart, mutated by poison glows here lighting your way``~
+flesh~
+0
+light 2
+MPSU
+BC
+AV
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 CDEFGI 0 0
+0
+0
+45 5 1500 P
+A
+19 5
+A
+17 -15
+A
+13 -20
+A
+12 50
+#1085
+dulled steel axe~
+`gA `dDulled `gSteel Axe``~
+`aA once bright steel axe is now dull and rusted with age.``~
+steel~
+0
+weapon 2
+EJM
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC BC ADE HJ
+0
+0
+32 50 250 P
+A
+13 -40
+A
+19 6
+A
+18 2
+S
+ 6 397 0 -1 2 'lumberjacking' 0
+#1086
+crude test tube~
+`aa crude test tube``~
+`aa draconic and crude test tube lies here.``~
+glass~
+0
+vial 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 100 P
+#1087
+test tube sling~
+`aa test tube sling``~
+`aA shoulder sling lies here, man from the tanned skin of some unknown creature.``~
+hard leather~
+0
+container 2
+MSY
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD 0 0 BD BEF
+0
+0
+45 15 0 P
+A
+24 -2
+A
+12 35
+A
+13 -45
+#1088
+crude test tube~
+`aa crude test tube containing `os`hi`ol`hk.``~
+`aa draconic and crude test tube lies here.``~
+glass~
+0
+potion 2
+STa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AG 'web' 'reserved' 'reserved' 'reserved'
+0
+0
+25 0 100 P
+#1089
+crude test tube~
+`aa crude test tube containing `ja vile green sludge.``~
+`aa draconic and crude test tube lies here.``~
+glass~
+0
+potion 2
+STa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AG 'poison' 'reserved' 'reserved' 'reserved'
+0
+0
+25 0 100 P
+#1090
+`bembalmed spider spinneret`` ~
+`ban embalmed spider spinneret``~
+`bThe embalmed spinneret of a spider lies here.``~
+bone~
+0
+weapon 2
+AEMS
+BC
+AN
+0
+0
+0
+1090
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 C BC B D
+0
+0
+50 10 1500 P
+A
+19 3
+#1091
+botanist silk cloak~
+`fA `jBotanist's `oSilk `fCloak marked by the `kS`dp`ki`dd`ke`dr`k-`dQ`ku`de`ke`dn``~
+`fa beautiful silk cloak bearing the spider-queen's mark.``~
+cloth~
+0
+armor 2
+BF
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C AD AD ABD 0
+0
+0
+44 2 0 P
+A
+19 2
+A
+4 2
+A
+12 15
+A
+13 -10
+#1092
+`j bloated lung ``~
+`jA bloated lung``~
+`hA discarded and bloated lung is here.``~
+food~
+0
+pill 2
+ST
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BEF 'haste' 'poison' 'pox' -1 0
+0
+25 20 100 P
+#1093
+`f bloated liver ``~
+`fA bloated liver``~
+`ha discarded and bloated liver is here.``~
+food~
+0
+pill 2
+ST
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BEF 'giant strength' 'armor' 'pox' 'poison'
+0
+0
+25 20 75 P
+#1094
+bloated corpse mill worker~
+`da bloated corpse of a millworker``~
+`dA discarded open corpse of a millworker has been discarded here.``~
+flesh~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDFI 0 0 EG BEF
+0
+0
+0 10000 0 P
+#1095
+`f spider hair wristband ``~
+`fA `aSpider-`hHair `fWristband``~
+`fA stretchy wristband made from spider hair lies here.``~
+silk~
+0
+armor 2
+AMS
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B AB BC AB 0
+0
+0
+44 10 350 P
+A
+12 14
+A
+4 1
+A
+3 1
+A
+1 -2
+A
+13 -7
+#1096
+hollowed spider leg~
+`bA pair of hollowed out spider legs``~
+`bA pair of spider legs have been hollowed out and fashioned to be worn.``~
+shell~
+0
+armor 2
+S
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+D D D D 0
+0
+0
+48 70 1 P
+A
+12 35
+A
+4 2
+A
+5 -1
+A
+13 -10
+#1097
+no name~
+(no short description)~
+~
+unknown~
+0
+protect 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#1077
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bCave Entrance `o=m*m=`` ~
+`fA small crack of light peeks around the rock shoved aside at the ``
+`fentrance of the cave.  The cave walls are jagged and etched with what ``
+`flook like tool marks.  There is enough room for a few people to stand ``
+`fin the entrance, and the cave seems to widen as it goes further down ``
+`finto the earth.  The walls and floor or moist and the breeze coming in ``
+`fthrough the crack pushes the stale, moist air passed your nose.  Little ``
+`fspiderlings skitter along the floors and walls, spiders of all sizes ``
+`fand shades of red, black and purple.  From deeper within the cave you ``
+`fcan hear the echoes of scraping and even what sounds like tools chipping ``
+`fagainst rock.``
+~
+0 AD 18
+0
+~
+I 0 D5
+~
+~
+0 0 1078
+S
+#1078
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bFurther Down the Corridor `o=m*m=``~
+`fAs you progress further down the cave it becomes almost impossible to ``
+`fsee much farther than a few meters in front of your face, no matter your ``
+`fsource of illumination.  Now there seem to be small spiders everywhere, ``
+`fit's almost impossible to avoid stepping on at least a few.  The sounds ``
+`fof tools and loud scraping on the cave walls gets even louder.  ``
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+0 0 1081
+D3
+~
+~
+0 0 1079
+D4
+~
+~
+0 0 1077
+S
+#1079
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bA Small Passageway `o=m*m=``~
+`fThe sound of digging is even louder in this offshoot from the main ``
+`fhallway.  The passageway is much more cramped, but the flurry of ``
+`factivity from the smaller spiderlings is increased.  The smaller ``
+`fcreatures seem to be ferrying food and water to their much, much ``
+`flarger kin working hard to extend the cave complex. ``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1078
+D3
+~
+~
+0 0 1080
+S
+#1080
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bA Small Passageway `o=m*m=``~
+`fThe sound of digging is even louder in this offshoot from the main ``
+`fhallway.  The passageway is much more cramped, but the flurry of ``
+`factivity from the smaller spiderlings is increased.  The smaller ``
+`fcreatures seem to be ferrying food and water to their much, much ``
+`flarger kin working hard to extend the cave complex. ``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1079
+S
+#1081
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bFurther Down the Corridor `o=m*m=``~
+`fAs you progress further down the cave it becomes almost impossible to ``
+`fsee much farther than a few meters in front of your face, no matter your ``
+`fsource of illumination.  Now there seem to be small spiders everywhere, ``
+`fit's almost impossible to avoid stepping on at least a few.  The sounds ``
+`fof tools and loud scraping on the cave walls gets even louder.  ``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1078
+D2
+~
+~
+0 0 1083
+D5
+~
+~
+0 0 1082
+S
+#1082
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bThe Cave In `o=m*m=``~
+`fYou come to a spot deep in the earth where there has been an apparent``
+`fcave in, cutting off this small section of the caves from the rest of``
+`fthe complex.  A few of the smallest little spiderlings and able to ``
+`fsqueeze through some of the cracks in the rubble, perhaps bringing``
+`fpheromone encoded messages to their kin.  There is no way for you to``
+`fclimb around the rubble and proceed here.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1081
+S
+#1083
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bFurther Down the Corridor `o=m*m=``~
+`fAs you progress further down the cave it becomes almost impossible to ``
+`fsee much farther than a few meters in front of your face, no matter your ``
+`fsource of illumination.  Now there seem to be small spiders everywhere, ``
+`fit's almost impossible to avoid stepping on at least a few.  The sounds ``
+`fof tools and loud scraping on the cave walls gets even louder.  ``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1081
+D1
+~
+~
+0 0 1084
+D5
+~
+~
+0 0 1086
+S
+#1084
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bA Small Passageway `o=m*m=``~
+`fThe sound of digging is even louder in this offshoot from the main ``
+`fhallway.  The passageway is much more cramped, but the flurry of ``
+`factivity from the smaller spiderlings is increased.  The smaller ``
+`fcreatures seem to be ferrying food and water to their much, much ``
+`flarger kin working hard to extend the cave complex. ``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1085
+D3
+~
+~
+0 0 1083
+S
+#1085
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bA Small Passageway `o=m*m=``~
+`fThe sound of digging is even louder in this offshoot from the main ``
+`fhallway.  The passageway is much more cramped, but the flurry of ``
+`factivity from the smaller spiderlings is increased.  The smaller ``
+`fcreatures seem to be ferrying food and water to their much, much ``
+`flarger kin working hard to extend the cave complex. ``
+~
+0 AD 18
+0
+~
+I 0 D3
+~
+~
+0 0 1084
+S
+#1086
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bDeeper Into the Earth `o=m*m=``~
+`fThe tunnel has taken a steep decline farther down into the earth.  Here``
+`fthe passageway begins to widen even farther, as these tunnels obviously``
+`fhad been worked on longer before the Arachnids broke through to the ``
+`fsurface.  From now on you know you need to be cautious, you never know ``
+`fwhat kind of monsterous spider-kin you might find down here.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1083
+D5
+~
+~
+0 0 1087
+S
+#1087
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bDeeper Into the Earth `o=m*m=``~
+`fThe tunnel has taken a steep decline farther down into the earth.  Here``
+`fthe passageway begins to widen even farther, as these tunnels obviously``
+`fhad been worked on longer before the Arachnids broke through to the ``
+`fsurface.  From now on you know you need to be cautious, you never know ``
+`fwhat kind of monsterous spider-kin you might find down here.``
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+0 0 1090
+D3
+~
+~
+0 0 1088
+D4
+~
+~
+0 0 1086
+S
+#1088
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bA Small Passageway `o=m*m=``~
+`fThe sound of digging is even louder in this offshoot from the main ``
+`fhallway.  The passageway is much more cramped, but the flurry of ``
+`factivity from the smaller spiderlings is increased.  The smaller ``
+`fcreatures seem to be ferrying food and water to their much, much ``
+`flarger kin working hard to extend the cave complex. ``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1087
+D3
+~
+~
+0 0 1089
+S
+#1089
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bA Small Passageway `o=m*m=``~
+`fThe sound of digging is even louder in this offshoot from the main ``
+`fhallway.  The passageway is much more cramped, but the flurry of ``
+`factivity from the smaller spiderlings is increased.  The smaller ``
+`fcreatures seem to be ferrying food and water to their much, much ``
+`flarger kin working hard to extend the cave complex. ``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1088
+S
+#1090
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bFurther Down the Corridor `o=m*m=``~
+`fAs you progress further down the cave it becomes almost impossible to ``
+`fsee much farther than a few meters in front of your face, no matter your ``
+`fsource of illumination.  Now there seem to be small spiders everywhere, ``
+`fit's almost impossible to avoid stepping on at least a few.  The sounds ``
+`fof tools and loud scraping on the cave walls gets even louder.  ``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1087
+D5
+~
+~
+0 0 1091
+S
+#1091
+0 0
+~
+`a$n wanders in from the darkness.``~
+`a$n heads $T and melts into the darkness.``~
+0 0 0
+`o=m*m= `bThe Cave In `o=m*m=``~
+`fYou come to a spot deep in the earth where there has been an apparent``
+`fcave in, cutting off this small section of the caves from the rest of``
+`fthe complex.  A few of the smallest little spiderlings and able to ``
+`fsqueeze through some of the cracks in the rubble, perhaps bringing``
+`fpheromone encoded messages to their kin.  There is no way for you to``
+`fclimb around the rubble and proceed here.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1090
+S
+#1092
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bEntrace to a `jHazy Cave `o=m*m=``~
+`fAs you stumble into the cave entrance you are quickly overwhelmed by a``
+`fstinking fog of chemicals.  The smaller skitterer spiders here seem to``
+`fbe tinted green and even their chitinous armor seems to be mutated.  ``
+`fJust by looking at them you can tell the bite from these arachnids would``
+`fbe very deadly.  While you can hear the sounds of tunneling and the ``
+`foccasional sapper charge go off in these caves, like the others, you also``
+`fcan hear the sounds of bubbling liquids and screaming victims off in the distance.``
+~
+0 AD 18
+0
+~
+I 0 D5
+~
+~
+0 0 1093
+S
+#1093
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bFurther down the `jHazy Cave `o=m*m=``~
+`fThe poisonous fog of haze in this cave only gets thicker and thicker as you ``
+`fprogress deeper into the earth.  The spiderkin seem to be immune but it is``
+`fsignificant slowly your progression.  The sounds of laboratory equipment ``
+`fconducting experiments gets louder as do the screams of victims being tested``
+`fon, you only hope you can reach them in time to save them, or to slay them``
+`fand save them from a worse fate.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1092
+D5
+~
+~
+0 0 1094
+S
+#1094
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bFurther down the `jHazy Cave `o=m*m=``~
+`fThe poisonous fog of haze in this cave only gets thicker and thicker as you ``
+`fprogress deeper into the earth.  The spiderkin seem to be immune but it is``
+`fsignificant slowly your progression.  The sounds of laboratory equipment ``
+`fconducting experiments gets louder as do the screams of victims being tested``
+`fon, you only hope you can reach them in time to save them, or to slay them``
+`fand save them from a worse fate.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1093
+D5
+~
+~
+0 0 1095
+S
+#1095
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bFurther down the `jHazy Cave `o=m*m=``~
+`fThe poisonous fog of haze in this cave only gets thicker and thicker as you ``
+`fprogress deeper into the earth.  The spiderkin seem to be immune but it is``
+`fsignificant slowly your progression.  The sounds of laboratory equipment ``
+`fconducting experiments gets louder as do the screams of victims being tested``
+`fon, you only hope you can reach them in time to save them, or to slay them``
+`fand save them from a worse fate.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1094
+D5
+~
+~
+0 0 1096
+S
+#1096
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bFurther down the `jHazy Cave `o=m*m=``~
+`fThe poisonous fog of haze in this cave only gets thicker and thicker as you ``
+`fprogress deeper into the earth.  The spiderkin seem to be immune but it is``
+`fsignificant slowly your progression.  The sounds of laboratory equipment ``
+`fconducting experiments gets louder as do the screams of victims being tested``
+`fon, you only hope you can reach them in time to save them, or to slay them``
+`fand save them from a worse fate.``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1097
+D4
+~
+~
+0 0 1095
+S
+#1097
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA Small `jHazy `bPassageway `o=m*m=``~
+`fIt's obvious this particular tunnel offshoot was constructed in haste, but``
+`fnone-the-less you can tell it is an important arty as in the distance ahead``
+`fof you the sounds of pain and torture increase.  You hesitate to rush ``
+`fonward, fearful of what you might find ahead.``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1098
+D2
+~
+~
+0 0 1096
+D5
+~
+~
+0 0 1103
+S
+#1098
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA Small `jHazy `bPassageway `o=m*m=``~
+`fIt's obvious this particular tunnel offshoot was constructed in haste, but``
+`fnone-the-less you can tell it is an important arty as in the distance ahead``
+`fof you the sounds of pain and torture increase.  You hesitate to rush ``
+`fonward, fearful of what you might find ahead.``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1099
+D2
+~
+~
+0 0 1097
+S
+#1099
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA `jHazy `gLaboratory `o=m*m=``~
+`aThese rooms are much more well constructed and dug out, and large partially``
+`acarved out boulders serve as tables and are filled with all sorts of `garcane``
+`gequipment.  `aThe equipment is nothing like you've seen, even though you can ``
+`atell they have some alchemic uses, the items are definitely not constructed``
+`afor use by strictly humanoid hands.  You pass a number of `gbloated corpses``
+`aused and abused in experiments and tossed aside.``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1101
+D2
+~
+~
+0 0 1098
+D3
+~
+~
+0 0 1100
+S
+#1100
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA `jHazy `gLaboratory `o=m*m=``~
+`aThese rooms are much more well constructed and dug out, and large partially``
+`acarved out boulders serve as tables and are filled with all sorts of `garcane``
+`gequipment.  `aThe equipment is nothing like you've seen, even though you can ``
+`atell they have some alchemic uses, the items are definitely not constructed``
+`afor use by strictly humanoid hands.  You pass a number of `gbloated corpses``
+`aused and abused in experiments and tossed aside.``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1102
+D1
+~
+~
+0 0 1099
+S
+#1101
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA `jHazy `gLaboratory `o=m*m=``~
+`aThese rooms are much more well constructed and dug out, and large partially``
+`acarved out boulders serve as tables and are filled with all sorts of `garcane``
+`gequipment.  `aThe equipment is nothing like you've seen, even though you can ``
+`atell they have some alchemic uses, the items are definitely not constructed``
+`afor use by strictly humanoid hands.  You pass a number of `gbloated corpses``
+`aused and abused in experiments and tossed aside.``
+~
+0 AD 18
+0
+~
+I 0 D2
+~
+~
+0 0 1099
+D3
+~
+~
+0 0 1102
+S
+#1102
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA Dark Corner of a `jHazy `gLaboratory `o=m*m=``~
+`aThis corner of the laboratory is particularly void of the misshapen rock-formed``
+`atables.  Scattered all over the floor are `bdead or dying victims `aof the Arachnid``
+`aexperiments with `jpoisons.  `aBody parts of various creatures that were torn off -``
+`aeither by the Anarchadium or the victims themselves - lay in `ibloody `alumps across``
+`athe floor.  You take care not to step in the `ipools of `jdisease `iblood `aand `ichunks of``
+`iflesh that `alitter the area.``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1101
+D2
+~
+~
+0 0 1100
+S
+#1103
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bFurther down the `jHazy Cave `o=m*m=``~
+`fThe poisonous fog of haze in this cave only gets thicker and thicker as you ``
+`fprogress deeper into the earth.  The spiderkin seem to be immune but it is``
+`fsignificant slowly your progression.  The sounds of laboratory equipment ``
+`fconducting experiments gets louder as do the screams of victims being tested``
+`fon, you only hope you can reach them in time to save them, or to slay them``
+`fand save them from a worse fate.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1097
+D5
+~
+~
+0 0 1104
+S
+#1104
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bFurther down the `jHazy Cave `o=m*m=``~
+`fThe poisonous fog of haze in this cave only gets thicker and thicker as you ``
+`fprogress deeper into the earth.  The spiderkin seem to be immune but it is``
+`fsignificant slowly your progression.  The sounds of laboratory equipment ``
+`fconducting experiments gets louder as do the screams of victims being tested``
+`fon, you only hope you can reach them in time to save them, or to slay them``
+`fand save them from a worse fate.``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1105
+D4
+~
+~
+0 0 1103
+S
+#1105
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA Small `jHazy `bPassageway `o=m*m=``~
+`fIt's obvious this particular tunnel offshoot was constructed in haste, but``
+`fnone-the-less you can tell it is an important arty as in the distance ahead``
+`fof you the sounds of pain and torture increase.  You hesitate to rush ``
+`fonward, fearful of what you might find ahead.``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1106
+D3
+~
+~
+0 0 1104
+D5
+~
+~
+0 0 1110
+S
+#1106
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA `jHazy `gLaboratory `o=m*m=``~
+`aThese rooms are much more well constructed and dug out, and large partially``
+`acarved out boulders serve as tables and are filled with all sorts of `garcane``
+`gequipment.  `aThe equipment is nothing like you've seen, even though you can ``
+`atell they have some alchemic uses, the items are definitely not constructed``
+`afor use by strictly humanoid hands.  You pass a number of `gbloated corpses``
+`aused and abused in experiments and tossed aside.``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1108
+D1
+~
+~
+0 0 1107
+D3
+~
+~
+0 0 1105
+S
+#1107
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA Dark Corner of a `jHazy `gLaboratory `o=m*m=``~
+`aThis corner of the laboratory is particularly void of the misshapen rock-formed``
+`atables.  Scattered all over the floor are `bdead or dying victims `aof the Arachnid``
+`aexperiments with `jpoisons.  `aBody parts of various creatures that were torn off -``
+`aeither by the Anarchadium or the victims themselves - lay in `ibloody `alumps across``
+`athe floor.  You take care not to step in the `ipools of `jdisease `iblood `aand `ichunks of``
+`iflesh that `alitter the area.``
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 1109
+D3
+~
+~
+0 0 1106
+S
+#1108
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA `jHazy `gLaboratory `o=m*m=``~
+`aThese rooms are much more well constructed and dug out, and large partially``
+`acarved out boulders serve as tables and are filled with all sorts of `garcane``
+`gequipment.  `aThe equipment is nothing like you've seen, even though you can ``
+`atell they have some alchemic uses, the items are definitely not constructed``
+`afor use by strictly humanoid hands.  You pass a number of `gbloated corpses``
+`aused and abused in experiments and tossed aside.``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1109
+D2
+~
+~
+0 0 1106
+S
+#1109
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.`~
+0 0 0
+`o=m*m= `bA `jHazy `gLaboratory `o=m*m=``~
+`aThese rooms are much more well constructed and dug out, and large partially``
+`acarved out boulders serve as tables and are filled with all sorts of `garcane``
+`gequipment.  `aThe equipment is nothing like you've seen, even though you can ``
+`atell they have some alchemic uses, the items are definitely not constructed``
+`afor use by strictly humanoid hands.  You pass a number of `gbloated corpses``
+`aused and abused in experiments and tossed aside.``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1111
+D2
+~
+~
+0 0 1107
+D3
+~
+~
+0 0 1108
+S
+#1110
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA `jHazy `bDead End `o=m*m=``~
+`fThe drop in the passageway comes to an abrupt end here at a pile of rubble and ``
+`fstone that block any further movement forwards and downwards.  You seem to be ``
+`fable to hear sapper charges going off faintly in the distance, perhaps on the ``
+`fother end of this mass of rubble.  Perhaps it would be better to not be around``
+`fwhen either another cave-in is cause or...something...breaks through.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1105
+S
+#1111
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA Small `jHazy `bPassageway `o=m*m=``~
+`fIt's obvious this particular tunnel offshoot was constructed in haste, but``
+`fnone-the-less you can tell it is an important arty as in the distance ahead``
+`fof you the sounds of pain and torture increase.  You hesitate to rush ``
+`fonward, fearful of what you might find ahead.``
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+~
+0 0 1112
+D3
+~
+~
+0 0 1109
+S
+#1112
+0 0
+(null)~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA Small `jHazy `bPassageway `o=m*m=``~
+`fIt's obvious this particular tunnel offshoot was constructed in haste, but``
+`fnone-the-less you can tell it is an important arty as in the distance ahead``
+`fof you the sounds of pain and torture increase.  You hesitate to rush ``
+`fonward, fearful of what you might find ahead.``
+~
+0 AD 18
+0
+~
+I 0 D3
+~
+~
+0 0 1111
+D5
+~
+~
+0 0 1113
+S
+#1113
+0 0
+~
+`a$n wanders deeper into the `jhaze.``~
+`a$n heads $T and melts into the `jhazy `hfog.``~
+0 0 0
+`o=m*m= `bA `jHazy `bDead End `o=m*m=``~
+`fThe drop in the passageway comes to an abrupt end here at a pile of rubble and ``
+`fstone that block any further movement forwards and downwards.  You seem to be ``
+`fable to hear sapper charges going off faintly in the distance, perhaps on the ``
+`fother end of this mass of rubble.  Perhaps it would be better to not be around``
+`fwhen either another cave-in is cause or...something...breaks through.``
+~
+0 AD 18
+0
+~
+I 0 D4
+~
+~
+0 0 1112
+S
+#0
+
+#RESETS
+M 0 1077  20 1077  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1077  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1078  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1078  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1079  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1079  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1081  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1081  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1083  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1083  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1084  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1084  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1086  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1086  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1087  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1087  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1088  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1088  1	* `fa purple skitterer with `owhite spots``
+M 0 1077  20 1090  2	* `aa fuzzy grey skitterer``
+M 0 1078  10 1090  1	* `fa purple skitterer with `owhite spots``
+M 0 1079   6 1080  2	* `ban arachnid tunneler``
+E 0 1077   -1   13	* item to `ban arachnid tunneler``
+E 0 1079   -1    8	* item to `ban arachnid tunneler``
+E 0 1078   -1    1	* item to `ban arachnid tunneler``
+M 0 1080   2 1082  1	* `ian arachnid sapper``
+E 0 1080   -1    5	* item to `ian arachnid sapper``
+E 0 1081   -1    8	* item to `ian arachnid sapper``
+M 0 1079   6 1085  2	* `ban arachnid tunneler``
+E 0 1077   -1   13	* item to `ban arachnid tunneler``
+E 0 1078   -1    1	* item to `ban arachnid tunneler``
+E 0 1079   -1    8	* item to `ban arachnid tunneler``
+M 0 1079   6 1089  2	* `ban arachnid tunneler``
+E 0 1077   -1   13	* item to `ban arachnid tunneler``
+E 0 1078   -1    1	* item to `ban arachnid tunneler``
+E 0 1079   -1    8	* item to `ban arachnid tunneler``
+M 0 1080   2 1091  1	* `ian arachnid sapper``
+E 0 1080   -1    5	* item to `ian arachnid sapper``
+E 0 1081   -1    8	* item to `ian arachnid sapper``
+O 0 1082   0 1077 1	* `da large rock with a `fspider `nglyph`` at `o=m*m= `bCave Entrance `o=m*m=`` 
+O 0 1083   0 1092 1	* `da large rock with a `fspider `nglyph`` at `o=m*m= `bEntrace to a `jHazy Cave `o=m*m=``
+M 0 1081   2 1102  1	* `ja bloated and mutated abomination``
+E 0 1084   -1    0	* item to `ja bloated and mutated abomination``
+M 0 1081   2 1107  1	* `ja bloated and mutated abomination``
+E 0 1084   -1    0	* item to `ja bloated and mutated abomination``
+M 0 1086   6 1102  3	* `da tortured and diseased lumberjack``
+E 0 1085   -1   16	* item to `da tortured and diseased lumberjack``
+M 0 1086   6 1107  3	* `da tortured and diseased lumberjack``
+E 0 1085   -1   16	* item to `da tortured and diseased lumberjack``
+O 0 1094   0 1100 4	* `da bloated corpse of a millworker`` at `o=m*m= `bA `jHazy `gLaboratory `o=m*m=``
+P 0 1092 2 1094 2
+P 0 1093 1 1094 1
+O 0 1094   0 1101 4	* `da bloated corpse of a millworker`` at `o=m*m= `bA `jHazy `gLaboratory `o=m*m=``
+P 0 1092 2 1094 2
+P 0 1093 1 1094 1
+O 0 1094   0 1109 4	* `da bloated corpse of a millworker`` at `o=m*m= `bA `jHazy `gLaboratory `o=m*m=``
+P 0 1092 2 1094 2
+P 0 1093 1 1094 1
+O 0 1094   0 1108 4	* `da bloated corpse of a millworker`` at `o=m*m= `bA `jHazy `gLaboratory `o=m*m=``
+P 0 1092 2 1094 2
+P 0 1093 1 1094 1
+M 0 1085   6 1113  3	* `ian arachnid `hexcavator``
+E 0 1090   -1   16	* item to `ian arachnid `hexcavator``
+E 0 1096   -1    7	* item to `ian arachnid `hexcavator``
+M 0 1082  24 1112  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1112  1	* `fa bloated spiderling worker``
+M 0 1082  24 1111  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1111  1	* `fa bloated spiderling worker``
+M 0 1084   6 1109  1	* `dan arachnid `nbotanist``
+E 0 1091   -1   12	* item to `dan arachnid `nbotanist``
+E 0 1087   -1   13	* item to `dan arachnid `nbotanist``
+P 0 1086 3 1087 3
+P 0 1088 1 1087 1
+P 0 1089 1 1087 1
+M 0 1084   6 1106  1	* `dan arachnid `nbotanist``
+E 0 1091   -1   12	* item to `dan arachnid `nbotanist``
+E 0 1087   -1   13	* item to `dan arachnid `nbotanist``
+P 0 1086 3 1087 3
+P 0 1088 1 1087 1
+P 0 1089 1 1087 1
+M 0 1084   6 1108  1	* `dan arachnid `nbotanist``
+E 0 1091   -1   12	* item to `dan arachnid `nbotanist``
+E 0 1087   -1   13	* item to `dan arachnid `nbotanist``
+P 0 1086 3 1087 3
+P 0 1088 1 1087 1
+P 0 1089 1 1087 1
+M 0 1082  24 1105  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1105  1	* `fa bloated spiderling worker``
+M 0 1085   6 1110  3	* `ian arachnid `hexcavator``
+E 0 1090   -1   16	* item to `ian arachnid `hexcavator``
+E 0 1096   -1    7	* item to `ian arachnid `hexcavator``
+M 0 1082  24 1104  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1104  1	* `fa bloated spiderling worker``
+M 0 1082  24 1103  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1103  1	* `fa bloated spiderling worker``
+M 0 1082  24 1097  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1097  1	* `fa bloated spiderling worker``
+M 0 1082  24 1096  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1096  1	* `fa bloated spiderling worker``
+M 0 1082  24 1095  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1095  1	* `fa bloated spiderling worker``
+M 0 1082  24 1094  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1094  1	* `fa bloated spiderling worker``
+M 0 1082  24 1093  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1093  1	* `fa bloated spiderling worker``
+M 0 1082  24 1092  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1092  1	* `fa bloated spiderling worker``
+M 0 1082  24 1098  2	* `aa `jmutated `aand massive spiderling slave``
+M 0 1083  12 1098  1	* `fa bloated spiderling worker``
+M 0 1084   6 1099  1	* `dan arachnid `nbotanist``
+E 0 1091   -1   12	* item to `dan arachnid `nbotanist``
+E 0 1087   -1   13	* item to `dan arachnid `nbotanist``
+P 0 1086 3 1087 3
+P 0 1088 1 1087 1
+P 0 1089 1 1087 1
+M 0 1084   6 1100  1	* `dan arachnid `nbotanist``
+E 0 1091   -1   12	* item to `dan arachnid `nbotanist``
+E 0 1087   -1   13	* item to `dan arachnid `nbotanist``
+P 0 1086 3 1087 3
+P 0 1088 1 1087 1
+P 0 1089 1 1087 1
+M 0 1084   6 1101  1	* `dan arachnid `nbotanist``
+E 0 1091   -1   12	* item to `dan arachnid `nbotanist``
+E 0 1087   -1   13	* item to `dan arachnid `nbotanist``
+P 0 1086 3 1087 3
+P 0 1088 1 1087 1
+P 0 1089 1 1087 1
+M 0 1087   5 1094  1	* `gan arachnid `nphysician``
+E 0 1095   -1   14	* item to `gan arachnid `nphysician``
+M 0 1087   5 1097  1	* `gan arachnid `nphysician``
+E 0 1095   -1   14	* item to `gan arachnid `nphysician``
+M 0 1087   5 1104  1	* `gan arachnid `nphysician``
+E 0 1095   -1   14	* item to `gan arachnid `nphysician``
+M 0 1087   5 1105  1	* `gan arachnid `nphysician``
+E 0 1095   -1   14	* item to `gan arachnid `nphysician``
+M 0 1087   5 1111  1	* `gan arachnid `nphysician``
+E 0 1095   -1   14	* item to `gan arachnid `nphysician``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#1090
+webcast~
+$chance_on_hit~
+128
+65
+cast 'web' $2vict~
+100
+0
+echo `bThe spinneret shoots out a web at it's victim.``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+3
+#0
+#$

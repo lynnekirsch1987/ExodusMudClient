@@ -1,0 +1,29 @@
+* File: Zookeeper.scr
+* Mob: Thesden's Zookeeper (mob 4242)
+
+#TRIGGER monkey
+Type 8
+Sc
+if ( %monkey-arg% cmp "monkey" )
+  gecho A wild scuffling can be heard in the direction of Thesden's zoo.
+  cmd shout Oh drat!  The monkeys have gotten out.  Now there's no telling what mischief they'll get into!
+  cmd at 1 load mob 4241
+  cmd at 1 load mob 4241
+  cmd at 1 load mob 4241
+  cmd at 1 load mob 4241
+  cmd at 1 load mob 4241
+  cmd at 1 load mob 4241
+  cmd at 1 load mob 4241
+  cmd at 1 load obj 1292
+  cmd at 1 load obj 1292
+  cmd at 1 load obj 1292
+  cmd at 1 load obj 1292
+  cmd at 1 load obj 1292
+  cmd at 1 load obj 1292
+  cmd at 1 load obj 1292
+  cmd at 1243 drop all.token
+  signal 4241 start
+  halt once~
+End
+
+#END

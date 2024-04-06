@@ -1,0 +1,4830 @@
+#AREA
+ 6~
+rises.are~
+`iRyaiscar's Rises``~
+{65 75} Exodus  `iRyaiscar's Rises``~
+~
+7700 7875
+22 0 0
+0 0
+~
+#MOBILES
+#7700
+hiker man~
+A mountain hiker~
+A strange bearded man hikes a mountain trail here.
+~
+~
+human~
+0 0 0 0
+AGNT VZa -650 0
+50 50 10d90+2039 35d10+100 5d7+16 punch
+-10 -10 -10 999 -5
+0 -1 FIKO E DN H
+stand stand male 250
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 500
+5
+~
+~
+#7701
+mountain ram~
+A mountain ram~
+A muscular ram leaps about swiftly, very sure of his footing.
+~
+Matted stained fur covers this brute of a ram, and huge curling horns
+protrude from his forehead.  Very mean-looking.
+~
+unique~
+0 0 0 0
+AHWe NOVa -302 0
+44 44 10d90+1760 44d10+100 5d9+20 crush
+-21 -21 -21 999 -5
+0 -1 CIO E C H
+stand stand male 0
+AV ACDEF 15 15 15 15 15 15 0
+medium fur~
+0 0 0 500
+2
+~
+~
+#7702
+fur man barbarian~
+A mountain barbarian~
+A man clad in finely-cut furs wanders around here.
+~
+An overly muscular man with the remnants of a recently-shaved beard wanders
+here, clad in the furs of some of the mountain animals you have spotted
+around this area.
+~
+human~
+0 0 0 0
+ACGTWXc CNOVc -160 0
+60 60 10d100+1804 1d1+100 5d10+29 crush
+-22 -21 -20 999 -9
+0 -1 CDEFHKVW 0 C N
+stand stand male 250
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#7703
+barbarian leader ular~
+Ular~
+Ular, the barbarian leader, stands here surveying his lands.
+~
+Less muscular than his minions, this lean spectre of a man appears to be
+very young to lead a barbarian tribe, most especially a mountain one.
+~
+human~
+0 0 0 0
+ABGNc HV -200 0
+70 90 10d70+5049 1d1+100 6d12+35 crush
+-36 -36 -36 999 -16
+0 -1 CEFHK 0 C 0
+stand stand male 800
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium oldstyle~
+0 0 0 500
+3
+~
+rular.scr~
+#7704
+barbarian shaman muscled man~
+A barbarian shaman~
+A tall muscled man clad in mountain furs draws runes in the dirt here.
+~
+A scar on this man's forehead tells of his struggle to communicate with
+the gods in a society that abhors magic.
+~
+human~
+0 0 0 0
+ABG HNV 770 0
+64 70 10d100+3650 10d60+100 6d10+30 magic
+-30 -30 -30 999 -16
+0 -1 CFHK 0 BC 0
+stand stand male 200
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 500
+2
+~
+~
+#7705
+ghrashlar barbarian warlock~
+Ghrashlar~
+Ghrashlar, the barbarian demigod, stands here with a gleam in his eye.
+~
+A tall, green-skinned man stands before you, with catlike yellow eyes and
+a wincing grimace on his face.  Having overthrown the mountain barbarians
+in this area with the skillful combination of shaman magic and brute force,
+he has set himself up as background leader and god to these people.
+~
+human~
+0 0 0 0
+ABG HNOV -800 0
+85 90 10d300+9029 10d50+953 7d10+55 drain
+-30 -30 -30 999 -30
+0 -1 CFH 0 BCP 0
+stand stand male 5000
+AHMV ABCDEFGHIJKa 23 23 23 23 23 23 0
+medium flesh~
+0 0 0 100
+0
+~
+ghrash.scr~
+#7706
+yeti~
+A yeti~
+A large white yeti lumbers toward you menacingly.
+~
+This huge slobbering beast looks to be spawned from the depths of perversion
+itself.
+~
+bear~
+0 0 0 0
+ABFGMN OVac -403 0
+72 80 10d200+3357 1d1+100 6d10+30 smash
+-50 -32 -32 999 -14
+0 -1 DEFHO 0 DEI 0
+stand stand male 0
+AGV ABCDEFHJKUVa 21 21 21 21 21 21 0
+large fur~
+0 0 0 500
+0
+~
+~
+#7707
+mountain lion~
+A mountain lion~
+An agile mountain lion stalks about on the slopes here.
+~
+The sleek cat moves gracefully overs the large boulders, stepping surely
+on loose stones, never faltering.  It's slim golden body blends into the
+background.  
+~
+cat~
+0 0 0 0
+AFGMe Z -20 0
+37 37 10d180+590 1d1+99 7d5+17 claw
+-6 -3 -6 999 0
+0 -1 FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQUVa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7708
+dwarven traveler dwarf~
+A dwarven traveler~
+A world-weary dwarf trudges across the mountains here.
+~
+The dwarf is dressed in tattered rags, likely worn since his youth
+decades ago.  He takes little notice of anyone else as he moves along
+quickly and purposefully.  
+~
+dwarf~
+0 0 0 0
+AGTX JVc 0 0
+71 80 10d100+3659 1d1+199 6d18+38 punch
+-30 -30 -30 999 -10
+0 -1 CEFHIK 0 LQ R
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7709
+ice wraith~
+An ice wraith~
+A glimmering creature of ice snarls at you as you approach.
+~
+~
+troll~
+0 0 0 0
+AGT FJOVZac -1000 0
+35 35 10d90+1043 35d10+100 5d7+5 claw
+-5 -5 -5 999 -6
+0 -1 DIO BEIJ BDEIJN HK
+stand stand male 0
+ABHMV ABCDEFGHIJKUVa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 240
+5
+~
+~
+#7710
+knight paladin lithsen~
+A paladin of the Lithsen Order~
+A holy knight trudges up this forsaken terrain, perhaps in search of a quest.
+~
+A face of firm resolution and nerves of steel undoubtedly help this
+paladin's search for some life fulfilling quest through these rough regions.
+~
+human~
+0 0 0 0
+ANQ DHNOV 1000 0
+83 90 10d94+7302 10d70+530 10d8+57 slash
+-30 -30 -30 999 -30
+0 59 4 EFHIK B HKMQR N
+stand stand male 920
+AHMV ABCDEFGHIJKa 23 23 23 23 23 23 32516
+medium flesh~
+0 0 0 500
+4
+~
+~
+#7711
+bronze dragon~
+A massive bronze dragon~
+A massive bronze dragon slowly unfurls his huge metallic wings as he watches you with a cautious eye.
+~
+~
+dragon~
+0 0 0 0
+AENe DFHJNOTV -800 0
+76 60 10d200+4760 10d90+659 10d5+49 acbite
+-30 -30 -30 999 -10
+0 -1 FHK 0 ABCDEH FIP
+stand stand male 6000
+AHMVZ ABCDEFGHIJKPQUVXa 22 22 22 22 22 22 0
+large bronze~
+10 10 20000 1504
+0
+~
+~
+#0
+
+#OBJECTS
+#7700
+fur cloak~
+a fur cloak~
+A fur cloak lies here, smashed into a ball.~
+fur~
+0
+armor 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+55 100 293 P
+A
+2 -1
+A
+1 2
+#7701
+fur headdress~
+a fur headdress~
+A strange hat made of animal fur lies here.~
+fur~
+0
+armor 2
+S
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B B B 0 0
+0
+0
+55 64 430 G
+A
+4 1
+A
+13 10
+#7702
+foxhair shirt~
+`dA `bFo`hx`bh`ha`bir `dShirt``~
+`dA shirt made from a `bfox's `dfur is here.``~
+fur~
+0
+clothing 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+62 9 0 G
+A
+18 1
+A
+26 1
+#7703
+fur wrap~
+a fur wrap~
+A flat-cut piece of animal fur lies here.~
+fur~
+0
+armor 2
+S
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+65 19 539 P
+A
+13 10
+A
+24 -1
+#7704
+red rock sword~
+`ha `ired `brock `hsword~
+A huge bastar made of blood-red stone lies here.~
+stone~
+0
+weapon 2
+BS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+A BC ABC ACE F
+0
+0
+68 590 1000 P
+A
+19 1
+A
+18 2
+#7705
+glowing sigil~
+`hA `kGlowing `hSigil``~
+`hStrange runes depict the torture of men and women.``~
+stone~
+0
+treasure 2
+AS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+55 19 2200 P
+A
+3 2
+#7706
+strange fur anklets~
+a pair of strange fur anklets~
+Circlets of fur draw your eye.~
+fur~
+0
+armor 2
+ABS
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+69 10 504 P
+#7707
+awl pike~
+`aA `bPoison-Tipped `aAwl Pike``~
+`aA strange double-bladed sword sticks out of the ground here.``~
+steel~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC ABC ABC ABDE FH
+0
+0
+87 250 5649 P
+A
+18 4
+A
+19 2
+#7708
+engraved warhammer~
+An engraved warhammer~
+An intricately engraved dwarven warhammer lies here.~
+mithril~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C BC AD ABC 0
+0
+0
+75 253 1000 P
+A
+18 2
+#7709
+aura lithsen~
+`hthe aura of `kL`ni`kt`nh`ks`ne`kn``~
+`kA shimmering aura floats lightly above the ground.``~
+energy~
+0
+light 2
+AIKLSY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 DFHINO 0 0
+0
+0
+70 9 0 P
+A
+26 2
+A
+12 10
+#7710
+signet ring lithsen~
+`hthe signet ring of the `kL`ni`kt`nh`ks`ne`kn `nO`kr`nd`ke`nr``~
+A beautiful intricately designed signet ring lays on the ground.~
+platinum~
+0
+treasure 2
+IKL
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 10 4000 P
+A
+24 -2
+#7711
+protectorate cloak~
+`hthe protectorate of the `oHoly Church``~
+Emblazoned with the mark of the protectorate of the church, a cloak sits here stiffly, not blowing in the wind.~
+cloth~
+0
+clothing 2
+IKLS
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 20 1059 P
+A
+24 -2
+A
+4 1
+#7712
+platinum helm~
+`oplatinum helm``~
+`oA helm fashioned of the sturdiest platinum sits here.``~
+platinum~
+0
+armor 2
+IKL
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CD CD CD CD 0
+0
+0
+73 209 2000 P
+A
+18 4
+A
+1 1
+A
+13 10
+#7713
+platinum legging leggings~
+`oplatinum leggings``~
+`oA pair of leggings fashioned of the sturdiest platinum sits here.``~
+platinum~
+0
+armor 2
+IKL
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CD CD CD CD 0
+0
+0
+73 420 2500 P
+A
+18 2
+A
+5 1
+A
+14 20
+#7714
+platinum sleeve sleeves~
+`oplatinum sleeves``~
+`oPlatinum sleeves, imbued with a magical aura, glisten in front of you.``~
+metal~
+0
+armor 2
+IKL
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+D D D D 0
+0
+0
+74 250 2400 P
+A
+26 1
+A
+24 -1
+A
+12 10
+#7715
+platinum boots~
+`oplatinum boots``~
+`oA solid, sturdy looking pair of boots resonates a holy aura.``~
+metal~
+0
+armor 2
+IKL
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CD CD CD CD 0
+0
+0
+74 140 1500 P
+A
+18 4
+A
+24 -2
+#7716
+shimmering cloak holy~
+`na shimmering holy cloak``~
+`nA cloak of the strangest material catches your eye.``~
+unknown~
+0
+armor 2
+AKLY
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+D D D D 0
+0
+0
+75 70 1000 P
+A
+24 -2
+A
+26 1
+#7717
+platinum girth~
+`oplatinum girth``~
+`oA wide circle of platinum rests before you on the ground.``~
+metal~
+0
+armor 2
+IKL
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C C C C 0
+0
+0
+70 115 2000 P
+A
+24 -1
+A
+1 2
+#7718
+halberd lithsen~
+`oa halberd inscribed with the `kL`ni`kt`nh`ks`ne`kn `nH`ko`nn`ko`nr``~
+`oAn enormous halberd made of platinum protrudes from the ground.``~
+platinum~
+0
+weapon 2
+IKL
+J
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABC D AD ABDE FN
+0
+0
+76 250 2000 P
+A
+19 5
+A
+18 3
+A
+26 1
+#7719
+mystical portal~
+a mystical portal~
+Long A mystical portal glows with magic.~
+ethereal~
+96
+portal 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n enters the portal and disappears in a flash of light.~
+Light bends around you as you feel yourself pulled through space.~
+$n appears in a blinding flash of light.~
+~
+A 0 0 BEFIM A
+0
+0
+100 1 0 P
+#7720
+axe ice-axe~
+`ha wicked ice-axe``~
+`aA nasty-looking ice-axe lies here.``~
+stone~
+0
+weapon 2
+STYa
+0
+ANR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AC D BD ABDE BDFJ
+0
+0
+100 50 20000 P
+A
+2 -1
+A
+18 3
+A
+19 3
+A
+1 1
+#0
+
+#ROOMS
+#7700
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 14237
+D1
+~
+~
+0 0 7701
+D2
+~
+~
+0 0 7714
+S
+#7701
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7702
+D2
+~
+~
+0 0 7715
+D3
+~
+~
+0 0 7700
+S
+#7702
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7703
+D2
+~
+~
+0 0 7716
+D3
+~
+~
+0 0 7701
+S
+#7703
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7704
+D2
+~
+~
+0 0 7717
+D3
+~
+~
+0 0 7702
+S
+#7704
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3613
+D1
+~
+~
+0 0 7705
+D2
+~
+~
+0 0 7718
+D3
+~
+~
+0 0 7703
+S
+#7705
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3614
+D1
+~
+~
+0 0 7706
+D3
+~
+~
+0 0 7704
+D4
+~
+~
+0 0 7719
+S
+#7706
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3615
+D1
+~
+~
+0 0 7707
+D3
+~
+~
+0 0 7705
+D4
+~
+~
+0 0 7720
+S
+#7707
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3616
+D1
+~
+~
+0 0 7708
+D2
+~
+~
+0 0 7721
+D3
+~
+~
+0 0 7706
+S
+#7708
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3617
+D1
+~
+~
+0 0 7709
+D2
+~
+~
+0 0 7722
+D3
+~
+~
+0 0 7707
+S
+#7709
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3618
+D1
+~
+~
+0 0 7710
+D2
+~
+~
+0 0 7723
+D3
+~
+~
+0 0 7708
+S
+#7710
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3619
+D1
+~
+~
+0 0 7711
+D2
+~
+~
+0 0 7724
+D3
+~
+~
+0 0 7709
+S
+#7711
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3620
+D1
+~
+~
+0 0 7712
+D2
+~
+~
+0 0 7725
+D3
+~
+~
+0 0 7710
+S
+#7712
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3621
+D1
+~
+~
+0 0 7713
+D2
+~
+~
+0 0 7726
+D3
+~
+~
+0 0 7711
+S
+#7713
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 3622
+D2
+~
+~
+0 0 7727
+D3
+~
+~
+0 0 7712
+S
+#7714
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7700
+D1
+~
+~
+0 0 7715
+D2
+~
+~
+0 0 7728
+S
+#7715
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7701
+D1
+~
+~
+0 0 7716
+D2
+~
+~
+0 0 7729
+D3
+~
+~
+0 0 7714
+S
+#7716
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7702
+D1
+~
+~
+0 0 7717
+D2
+~
+~
+0 0 7730
+D3
+~
+~
+0 0 7715
+S
+#7717
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7703
+D1
+~
+~
+0 0 7718
+D2
+~
+~
+0 0 7731
+D3
+~
+~
+0 0 7716
+S
+#7718
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7704
+D2
+~
+~
+0 0 7732
+D3
+~
+~
+0 0 7717
+D4
+~
+~
+0 0 7719
+S
+#7719
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7720
+D2
+~
+~
+0 0 7733
+D5
+~
+~
+0 0 7718
+S
+#7720
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D2
+~
+~
+0 0 7734
+D3
+~
+~
+0 0 7719
+D5
+~
+~
+0 0 7721
+S
+#7721
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7707
+D1
+~
+~
+0 0 7722
+D2
+~
+~
+0 0 7735
+D4
+~
+~
+0 0 7720
+S
+#7722
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7708
+D1
+~
+~
+0 0 7723
+D2
+~
+~
+0 0 7736
+D3
+~
+~
+0 0 7721
+S
+#7723
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7709
+D1
+~
+~
+0 0 7724
+D2
+~
+~
+0 0 7737
+D3
+~
+~
+0 0 7722
+S
+#7724
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7710
+D1
+~
+~
+0 0 7725
+D2
+~
+~
+0 0 7738
+D3
+~
+~
+0 0 7723
+S
+#7725
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7711
+D1
+~
+~
+0 0 7726
+D3
+~
+~
+0 0 7724
+D4
+~
+~
+0 0 7739
+S
+#7726
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7712
+D1
+~
+~
+0 0 7727
+D3
+~
+~
+0 0 7725
+D4
+~
+~
+0 0 7740
+S
+#7727
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7713
+D2
+~
+~
+0 0 7741
+D3
+~
+~
+0 0 7726
+S
+#7728
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7714
+D1
+~
+~
+0 0 7729
+D2
+~
+~
+0 0 7742
+S
+#7729
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7715
+D1
+~
+~
+0 0 7730
+D2
+~
+~
+0 0 7743
+D3
+~
+~
+0 0 7728
+S
+#7730
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7716
+D1
+~
+~
+0 0 7731
+D2
+~
+~
+0 0 7744
+D3
+~
+~
+0 0 7729
+S
+#7731
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7717
+D1
+~
+~
+0 0 7732
+D2
+~
+~
+0 0 7745
+D3
+~
+~
+0 0 7730
+S
+#7732
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7718
+D2
+~
+~
+0 0 7746
+D3
+~
+~
+0 0 7731
+D4
+~
+~
+0 0 7733
+S
+#7733
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7719
+D1
+~
+~
+0 0 7734
+D5
+~
+~
+0 0 7732
+S
+#7734
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7720
+D3
+~
+~
+0 0 7733
+D5
+~
+~
+0 0 7735
+S
+#7735
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7721
+D1
+~
+~
+0 0 7736
+D2
+~
+~
+0 0 7749
+D4
+~
+~
+0 0 7734
+S
+#7736
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7722
+D1
+~
+~
+0 0 7737
+D2
+~
+~
+0 0 7750
+D3
+~
+~
+0 0 7735
+S
+#7737
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7723
+D1
+~
+~
+0 0 7738
+D2
+~
+~
+0 0 7751
+D3
+~
+~
+0 0 7736
+S
+#7738
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7724
+D2
+~
+~
+0 0 7752
+D3
+~
+~
+0 0 7737
+D4
+~
+~
+0 0 7739
+S
+#7739
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7740
+D2
+~
+~
+0 0 7753
+D5
+~
+~
+0 0 7738
+S
+#7740
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D2
+~
+~
+0 0 7754
+D3
+~
+~
+0 0 7739
+D5
+~
+~
+0 0 7741
+S
+#7741
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7727
+D2
+~
+~
+0 0 7755
+D4
+~
+~
+0 0 7740
+S
+#7742
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7728
+D1
+~
+~
+0 0 7743
+D2
+~
+~
+0 0 7756
+S
+#7743
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7729
+D1
+~
+~
+0 0 7744
+D2
+~
+~
+0 0 7757
+D3
+~
+~
+0 0 7742
+S
+#7744
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7730
+D1
+~
+~
+0 0 7745
+D2
+~
+~
+0 0 7758
+D3
+~
+~
+0 0 7743
+S
+#7745
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7731
+D1
+~
+~
+0 0 7746
+D2
+~
+~
+0 0 7759
+D3
+~
+~
+0 0 7744
+S
+#7746
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7732
+D1
+~
+~
+0 0 7747
+D2
+~
+~
+0 0 7760
+D3
+~
+~
+0 0 7745
+S
+#7747
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7748
+D2
+~
+~
+0 0 7761
+D3
+~
+~
+0 0 7746
+D4
+~
+~
+0 0 7733
+S
+#7748
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7749
+D2
+~
+~
+0 0 7762
+D3
+~
+~
+0 0 7747
+D4
+~
+~
+0 0 7734
+S
+#7749
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7735
+D1
+~
+~
+0 0 7750
+D2
+~
+~
+0 0 7763
+D3
+~
+~
+0 0 7748
+S
+#7750
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7736
+D1
+~
+~
+0 0 7751
+D2
+~
+~
+0 0 7764
+D3
+~
+~
+0 0 7749
+S
+#7751
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7737
+D1
+~
+~
+0 0 7752
+D2
+~
+~
+0 0 7765
+D3
+~
+~
+0 0 7750
+S
+#7752
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7738
+D2
+~
+~
+0 0 7766
+D3
+~
+~
+0 0 7751
+D4
+~
+~
+0 0 7753
+S
+#7753
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7739
+D1
+~
+~
+0 0 7754
+D5
+~
+~
+0 0 7752
+S
+#7754
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7740
+D3
+~
+~
+0 0 7753
+D5
+~
+~
+0 0 7755
+S
+#7755
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7741
+D2
+~
+~
+0 0 7769
+D4
+~
+~
+0 0 7754
+S
+#7756
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7742
+D1
+~
+~
+0 0 7757
+D2
+~
+~
+0 0 7770
+S
+#7757
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7743
+D1
+~
+~
+0 0 7758
+D3
+~
+~
+0 0 7756
+D4
+~
+~
+0 0 7771
+S
+#7758
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7744
+D1
+~
+~
+0 0 7759
+D2
+~
+~
+0 0 7772
+D3
+~
+~
+0 0 7757
+S
+#7759
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7745
+D1
+~
+~
+0 0 7760
+D2
+~
+~
+0 0 7773
+D3
+~
+~
+0 0 7758
+S
+#7760
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7746
+D1
+~
+~
+0 0 7761
+D2
+~
+~
+0 0 7774
+D3
+~
+~
+0 0 7759
+S
+#7761
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7747
+D1
+~
+~
+0 0 7762
+D2
+~
+~
+0 0 7775
+D3
+~
+~
+0 0 7760
+S
+#7762
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7748
+D1
+~
+~
+0 0 7763
+D2
+~
+~
+0 0 7776
+D3
+~
+~
+0 0 7761
+S
+#7763
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7749
+D1
+~
+~
+0 0 7764
+D2
+~
+~
+0 0 7777
+D3
+~
+~
+0 0 7762
+S
+#7764
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7750
+D1
+~
+~
+0 0 7765
+D2
+~
+~
+0 0 7778
+D3
+~
+~
+0 0 7763
+S
+#7765
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7751
+D1
+~
+~
+0 0 7766
+D2
+~
+~
+0 0 7779
+D3
+~
+~
+0 0 7764
+S
+#7766
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7752
+D1
+~
+~
+0 0 7767
+D2
+~
+~
+0 0 7780
+D3
+~
+~
+0 0 7765
+S
+#7767
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7768
+D2
+~
+~
+0 0 7781
+D3
+~
+~
+0 0 7766
+D4
+~
+~
+0 0 7753
+S
+#7768
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7769
+D2
+~
+~
+0 0 7782
+D3
+~
+~
+0 0 7767
+D4
+~
+~
+0 0 7754
+S
+#7769
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7755
+D2
+~
+~
+0 0 7783
+D3
+~
+~
+0 0 7768
+S
+#7770
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7756
+D2
+~
+~
+0 0 7784
+D4
+~
+~
+0 0 7771
+S
+#7771
+75 500
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D5
+~
+~
+0 0 7772
+S
+#7772
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7758
+D1
+~
+~
+0 0 7773
+D2
+~
+~
+0 0 7786
+D4
+~
+~
+0 0 7771
+S
+#7773
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7759
+D1
+~
+~
+0 0 7774
+D2
+~
+~
+0 0 7787
+D3
+~
+~
+0 0 7772
+S
+#7774
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7760
+D1
+~
+~
+0 0 7775
+D2
+~
+~
+0 0 7788
+D3
+~
+~
+0 0 7773
+S
+#7775
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7761
+D1
+~
+~
+0 0 7776
+D2
+~
+~
+0 0 7789
+D3
+~
+~
+0 0 7774
+S
+#7776
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7762
+D1
+~
+~
+0 0 7777
+D3
+~
+~
+0 0 7775
+D4
+~
+~
+0 0 7790
+S
+#7777
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7763
+D1
+~
+~
+0 0 7778
+D2
+~
+~
+0 0 7791
+D3
+~
+~
+0 0 7776
+S
+#7778
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7764
+D1
+~
+~
+0 0 7779
+D2
+~
+~
+0 0 7792
+D3
+~
+~
+0 0 7777
+S
+#7779
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7765
+D1
+~
+~
+0 0 7780
+D2
+~
+~
+0 0 7793
+D3
+~
+~
+0 0 7778
+S
+#7780
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7766
+D1
+~
+~
+0 0 7781
+D2
+~
+~
+0 0 7794
+D3
+~
+~
+0 0 7779
+S
+#7781
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7767
+D1
+~
+~
+0 0 7782
+D2
+~
+~
+0 0 7795
+D3
+~
+~
+0 0 7780
+S
+#7782
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7768
+D1
+~
+~
+0 0 7783
+D2
+~
+~
+0 0 7796
+D3
+~
+~
+0 0 7781
+S
+#7783
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7769
+D2
+~
+~
+0 0 7797
+D3
+~
+~
+0 0 7782
+S
+#7784
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7770
+D1
+~
+~
+0 0 7785
+D2
+~
+~
+0 0 7798
+S
+#7785
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7786
+D2
+~
+~
+0 0 7799
+D3
+~
+~
+0 0 7784
+D4
+~
+~
+0 0 7771
+S
+#7786
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7772
+D1
+~
+~
+0 0 7787
+D2
+~
+~
+0 0 7800
+D3
+~
+~
+0 0 7785
+S
+#7787
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The snow-mantled peaks of Ryaiscar's Rises tower above verdant sub-alpine
+valleys and sparkling crystalline lakes.  Gracing the lakeshores are 
+shimmering blue spruces intermixed with lodgepole pines and dense, infrequent
+groves of aspen.  As you gaze upwards at the gigantic peaks before you, your 
+eyes are greeted with the sight of open stands of pine and juniper thriving 
+on the sun-drenched slopes, while sturdy fir trees fill the cooler northern 
+face.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7773
+D1
+~
+~
+0 0 7788
+D2
+~
+~
+0 0 7801
+D3
+~
+~
+0 0 7786
+S
+#7788
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7774
+D1
+~
+~
+0 0 7789
+D2
+~
+~
+0 0 7802
+D3
+~
+~
+0 0 7787
+S
+#7789
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Rounded forested peaks rise high above the valley, the taller mountains bare
+jagged at the tops.  Thin white aspens cover the slopes, mixed among
+tall spruces with bushy blue-green clumps of needles.  Along the steeper faces,
+the thin soil has been carried away by wind and rain, exposing huge granite 
+boulders buried ages ago.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7775
+D2
+~
+~
+0 0 7803
+D3
+~
+~
+0 0 7788
+D4
+~
+~
+0 0 7790
+S
+#7790
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D5
+~
+~
+0 0 7791
+S
+#7791
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7777
+D1
+~
+~
+0 0 7792
+D2
+~
+~
+0 0 7805
+D4
+~
+~
+0 0 7790
+S
+#7792
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7778
+D1
+~
+~
+0 0 7793
+D2
+~
+~
+0 0 7806
+D3
+~
+~
+0 0 7791
+S
+#7793
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Crisp air swirls down from the cloud-covered tops of the multitude of 
+mountains that make up Ryaiscar's Rises to slide over your face.  Your eyes 
+water and dry maddeningly as the warm and cold breezes seemingly intersect
+around your being, causing swift air temperature drops and rises.  Undisturbed
+by the unstable air, small woodland creatures scamper to the edges of the 
+lakes that run off of the cloud-tipped peaks of the Rises. 
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7779
+D1
+~
+~
+0 0 7794
+D2
+~
+~
+0 0 7807
+D3
+~
+~
+0 0 7792
+S
+#7794
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7780
+D1
+~
+~
+0 0 7795
+D2
+~
+~
+0 0 7808
+D3
+~
+~
+0 0 7793
+S
+#7795
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Majestic gray mountains fill your field of vision as you scan around yourself
+in awe.  Sprouts of every kind of mountain plant you can think of form a 
+multicolored bedding that bulges and rolls around the mountain bottoms.  Thin 
+streams of blue twinkle in the light, flowing down from the caps and meeting 
+in deep lakes at the bases of the peaks.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7781
+D1
+~
+~
+0 0 7796
+D2
+~
+~
+0 0 7809
+D3
+~
+~
+0 0 7794
+S
+#7796
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7782
+D1
+~
+~
+0 0 7797
+D2
+~
+~
+0 0 7810
+D3
+~
+~
+0 0 7795
+S
+#7797
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+The deep mournful call of a great horned owl echoes throughout the trees.
+The slopes of these mountains vary from gentle to those nearly vertical.
+The roots of the trees lie exposed on the steeper grades, providing sturdy 
+hand holds to keep from falling.  Higher up at the peaks of these mountains,
+the trees thin and large granite stones and faces lie exposed.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7783
+D2
+~
+~
+0 0 7811
+D3
+~
+~
+0 0 7796
+S
+#7798
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Along the ridge of this mountain, the entire range is visible into the 
+distance, rounded and jagged peaks, most covered in forest.  The taller ones, 
+like this one, have no trees at the peak, just thick clumps of dry grass and 
+small, hardy shrubs scattered among the rocks. The few trees that have tried 
+to grow this high are defoliated by the harsh winds, standing bare and frail.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7784
+D1
+~
+~
+0 0 7799
+S
+#7799
+0 0
+~
+~
+~
+0 0 0
+Ascending Ryaiscar's Rises~
+Fields of colorful alpine flowers are sprinkled throughout the meadows of this
+spot overlooking the mountain range.  Soaring cliffs run off into angular
+valleys, and snowcapped peaks highlight the horizon in the pale natural light. 
+Large chipped stones rest in strange formations around the base of many of the
+monoliths, offering crude shelter to those who would lose themselves here.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7785
+D1
+~
+~
+0 0 7800
+D3
+~
+~
+0 0 7798
+S
+#7800
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+The small mounds of shale and mica that bulge with cracks from newborn dew
+make the scramble forward in this section of the mountain chain stairstep
+very slippery and difficult.  The steady gale of aspen winds that blast in
+from the north are countered here by the strange warm winds of the Kayinn-
+Karin shale peaks, sending you violently forward and backward in their
+neverending struggle for dominance.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7786
+D1
+~
+~
+0 0 7801
+D2
+~
+~
+0 0 2602
+D3
+~
+~
+0 0 7799
+S
+#7801
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Drops of wet snow plunk with a splash upon powdery black stone, creating
+a slick staining mud that clings to every part of you as you force your
+way through the swirling currents that mark this area as very unstable.
+Re-establishing your footing for the umpteenth time, you arrange your
+belongings and attempt to remove yourself from this area.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7787
+D1
+~
+~
+0 0 7802
+D2
+~
+~
+0 0 2603
+D3
+~
+~
+0 0 7800
+S
+#7802
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Diagonal crags jut out from the unnaturally layered shale and mica that
+litter this area, forcing you to take great caution when making your
+way along.  The drops of snow and dew that coat the entire place make
+it necessary to hunch as you move, keeping your center of balance ahead
+of you in order to propel yourself along.  North of here you can see
+magnificient snowcapped peaks that dominate the landscape.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7788
+D1
+~
+~
+0 0 7803
+D2
+~
+~
+0 0 2604
+D3
+~
+~
+0 0 7801
+S
+#7803
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Noxious fumes from the Kayinn-Karin peaks waft over you, mixing with the
+fresh sweet smell of aspen to your north and causing you to gag briefly
+as you clamber along this slippery slope.  South of here, the towering
+dark peaks of shale form a polarizing opposite to the crisp gray snow-
+covered mountains to your north.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7789
+D1
+~
+~
+0 0 7804
+D2
+~
+~
+0 0 2605
+D3
+~
+~
+0 0 7802
+S
+#7804
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+The small mounds of shale and mica that bulge with cracks from newborn dew
+make the scramble forward in this section of the mountain chain stairstep
+very slippery and difficult.  The steady gale of aspen winds that blast in
+from the north are countered here by the strange warm winds of the Kayinn-
+Karin shale peaks, sending you violently forward and backward in their
+neverending struggle for dominance.
+~
+0 B 5
+0
+~
+I 0 D1
+~
+~
+0 0 7805
+D2
+~
+~
+0 0 2606
+D3
+~
+~
+0 0 7803
+D4
+~
+~
+0 0 7790
+S
+#7805
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Drops of wet snow plunk with a splash upon powdery black stone, creating
+a slick staining mud that clings to every part of you as you force your
+way through the swirling currents that mark this area as very unstable.
+Re-establishing your footing for the umpteenth time, you arrange your
+belongings and attempt to remove yourself from this area.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7791
+D1
+~
+~
+0 0 7806
+D2
+~
+~
+0 0 2607
+D3
+~
+~
+0 0 7804
+S
+#7806
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Diagonal crags jut out from the unnaturally layered shale and mica that
+litter this area, forcing you to take great caution when making your
+way along.  The drops of snow and dew that coat the entire place make
+it necessary to hunch as you move, keeping your center of balance ahead
+of you in order to propel yourself along.  North of here you can see
+magnificient snowcapped peaks that dominate the landscape.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7792
+D1
+~
+~
+0 0 7807
+D2
+~
+~
+0 0 2608
+D3
+~
+~
+0 0 7805
+S
+#7807
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Noxious fumes from the Kayinn-Karin peaks waft over you, mixing with the
+fresh sweet smell of aspen to your north and causing you to gag briefly
+as you clamber along this slippery slope.  South of here, the towering
+dark peaks of shale form a polarizing opposite to the crisp gray snow-
+covered mountains to your north.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7793
+D1
+~
+~
+0 0 7808
+D2
+~
+~
+0 0 2609
+D3
+~
+~
+0 0 7806
+S
+#7808
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Diagonal crags jut out from the unnaturally layered shale and mica that
+litter this area, forcing you to take great caution when making your
+way along.  The drops of snow and dew that coat the entire place make
+it necessary to hunch as you move, keeping your center of balance ahead
+of you in order to propel yourself along.  North of here you can see
+magnificient snowcapped peaks that dominate the landscape.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7794
+D1
+~
+~
+0 0 7809
+D2
+~
+~
+0 0 2610
+D3
+~
+~
+0 0 7807
+S
+#7809
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Drops of wet snow plunk with a splash upon powdery black stone, creating
+a slick staining mud that clings to every part of you as you force your
+way through the swirling currents that mark this area as very unstable.
+Re-establishing your footing for the umpteenth time, you arrange your
+belongings and attempt to remove yourself from this area.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7795
+D1
+~
+~
+0 0 7810
+D2
+~
+~
+0 0 2611
+D3
+~
+~
+0 0 7808
+S
+#7810
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Noxious fumes from the Kayinn-Karin peaks waft over you, mixing with the
+fresh sweet smell of aspen to your north and causing you to gag briefly
+as you clamber along this slippery slope.  South of here, the towering
+dark peaks of shale form a polarizing opposite to the crisp gray snow-
+covered mountains to your north.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7796
+D1
+~
+~
+0 0 7811
+D2
+~
+~
+0 0 2612
+D3
+~
+~
+0 0 7809
+S
+#7811
+0 0
+~
+~
+~
+0 0 0
+A Layered Elevation~
+Drops of wet snow plunk with a splash upon powdery black stone, creating
+a slick staining mud that clings to every part of you as you force your
+way through the swirling currents that mark this area as very unstable.
+Re-establishing your footing for the umpteenth time, you arrange your
+belongings and attempt to remove yourself from this area.
+~
+0 B 5
+0
+~
+I 0 D0
+~
+~
+0 0 7797
+D2
+~
+~
+0 0 2613
+D3
+~
+~
+0 0 7810
+S
+#0
+
+#RESETS
+M 0 7700  15 7700  1	* A mountain hiker
+M 0 7700  15 7702  1	* A mountain hiker
+M 0 7700  15 7717  1	* A mountain hiker
+M 0 7700  15 7744  1	* A mountain hiker
+M 0 7700  15 7773  1	* A mountain hiker
+M 0 7700  15 7771  1	* A mountain hiker
+M 0 7701   4 7761  1	* A mountain ram
+M 0 7701   4 7763  1	* A mountain ram
+M 0 7701   4 7735  1	* A mountain ram
+M 0 7701   4 7734  1	* A mountain ram
+M 0 7702  15 7719  1	* A mountain barbarian
+E 0 7700   -1   12	* item to A mountain barbarian
+E 0 7701   -1    6	* item to A mountain barbarian
+M 0 7702  15 7714  1	* A mountain barbarian
+E 0 7700   -1   12	* item to A mountain barbarian
+E 0 7701   -1    6	* item to A mountain barbarian
+M 0 7702  15 7743  1	* A mountain barbarian
+E 0 7700   -1   12	* item to A mountain barbarian
+E 0 7701   -1    6	* item to A mountain barbarian
+M 0 7702  15 7787  1	* A mountain barbarian
+E 0 7700   -1   12	* item to A mountain barbarian
+M 0 7702  15 7790  3	* A mountain barbarian
+E 0 7700   -1   12	* item to A mountain barbarian
+E 0 7701   -1    6	* item to A mountain barbarian
+M 0 7703   1 7790  1	* Ular
+E 0 7700   -1   12	* item to Ular
+E 0 7701   -1    6	* item to Ular
+E 0 7702   -1    5	* item to Ular
+E 0 7703   -1   13	* item to Ular
+E 0 7704   -1   16	* item to Ular
+M 0 7705   1 7739  1	* Ghrashlar
+E 0 7700   -1   12	* item to Ghrashlar
+E 0 7701   -1    6	* item to Ghrashlar
+E 0 7702   -1    5	* item to Ghrashlar
+E 0 7703   -1   13	* item to Ghrashlar
+E 0 7704   -1   17	* item to Ghrashlar
+E 0 7705   -1   18	* item to Ghrashlar
+E 0 7706   -1    7	* item to Ghrashlar
+E 0 7707   -1   16	* item to Ghrashlar
+M 0 7704   5 7737  1	* A barbarian shaman
+E 0 7705   -1   18	* item to A barbarian shaman
+M 0 7704   4 7752  1	* A barbarian shaman
+E 0 7705   -1   18	* item to A barbarian shaman
+M 0 7706   4 7710  1	* A yeti
+M 0 7706   4 7712  1	* A yeti
+M 0 7706   4 7727  1	* A yeti
+M 0 7706   4 7740  1	* A yeti
+M 0 7707   4 7711  1	* A mountain lion
+M 0 7707   4 7733  1	* A mountain lion
+M 0 7707   4 7755  1	* A mountain lion
+M 0 7707   6 7805  1	* A mountain lion
+M 0 7708   2 7799  1	* A dwarven traveler
+E 0 7708   -1   16	* item to A dwarven traveler
+M 0 7708   2 7731  1	* A dwarven traveler
+E 0 7708   -1   16	* item to A dwarven traveler
+M 0 7709   5 7700  1	* An ice wraith
+M 0 7709   5 7715  1	* An ice wraith
+M 0 7709   5 7731  1	* An ice wraith
+M 0 7709   5 7719  1	* An ice wraith
+M 0 7710   1 7724  1	* A paladin of the lithsen order
+E 0 7709   -1    0	* item to A paladin of the lithsen order
+E 0 7710   -1    1	* item to A paladin of the lithsen order
+E 0 7711   -1    3	* item to A paladin of the lithsen order
+E 0 7712   -1    6	* item to A paladin of the lithsen order
+E 0 7713   -1    7	* item to A paladin of the lithsen order
+E 0 7714   -1   10	* item to A paladin of the lithsen order
+E 0 7715   -1    8	* item to A paladin of the lithsen order
+E 0 7716   -1   12	* item to A paladin of the lithsen order
+E 0 7717   -1   13	* item to A paladin of the lithsen order
+E 0 7718   -1   16	* item to A paladin of the lithsen order
+M 0 7711   1 7753  1	* A massive bronze dragon
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 7704 spec_cast_cleric		* A barbarian shaman
+M 7705 spec_cast_mage		* Ghrashlar
+S
+
+#OT
+#0
+#$

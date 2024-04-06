@@ -1,0 +1,78 @@
+* File: monkeybusiness.scr
+* Mob: Mad Monkey (4241)
+
+#TRIGGER combat
+Type 2
+Sc
+wfunc %rndnum% random 0 9
+let %timer% == 0
+if (%rndnum% < 2)
+  emote screams at you and waves its arms madly.
+halt once~
+Sc
+if (%rndnum% == 9)
+  cmd stand
+  cmd flee
+  cmd flee
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+if (%timer% > 0)
+  cmd stand
+  wfunc %randroom% random 4000 4227
+  cmd at 1 wizi 92
+  cmd goto %randroom%
+  walkto %randroom%
+  cmd load obj 46
+  cmd set obj tripwire timer 10
+  cmd set obj tripwire extra invis
+  cmd string obj tripwire name banana peel
+  cmd string obj banana short `ka banana peel``
+  cmd string obj banana long `kA banana peel is here.  Don't fall down!``
+  cmd at 1 wizi
+  emote throws a banana peel on the ground!
+  emote screams and claps its hands together in glee
+  let %timer% == 0
+  Skip 1~
+Sc
+  let %timer% += 1
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+if ( %start-arg% cmp "start" )
+  wfunc %randroom% random 4000 4227
+  cmd at 1 wizi 92
+  cmd goto %randroom%
+  cmd load obj 46
+  cmd set obj tripwire timer 10
+  cmd set obj tripwire extra invis
+  cmd string obj tripwire name banana peel
+  cmd string obj banana short `ka banana peel``
+  cmd string obj banana long `kA banana peel is here.  Don't fall down!``
+  cmd at 1 wizi
+  emote throws a banana peel on the ground!
+  emote screams and claps its hands together in glee.
+  let %timer% == 0
+  halt trigger~
+End
+
+#TRIGGER death
+Type 9
+Sc
+wfunc %token% random 0 9999
+mfunc %death-from% %killer% name
+  emote gasps one last breath and falls over in a heap.
+  CMD im %killer% just killed me.  What a jerk!
+  if (%token% < 4999)
+  CMD at 1243 get token
+  CMD im ...but got a quest token for it.
+  halt once~
+End
+
+#END

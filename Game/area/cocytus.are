@@ -1,0 +1,3150 @@
+#AREA
+ 6~
+cocytus.are~
+Cyocytas~
+{20 35} Ragnar  Cyocytas~
+~
+15001 15150
+0 0 0
+0 1
+~
+#MOBILES
+#15001
+Ludger scientist~
+Ludger Brink~
+A haggard scientist is here, working on a machine.
+~
+Ludger Brink is a man in his seemingly early 40s, with blond hair and a
+chiseled face which is now grayed and framed with a spotty beard.  His
+eyes are sunken into gray pits in his eyes, and one of his hands seems to
+be missing.  He is working on some sort of machine here...
+~
+human~
+0 0 0 0
+ABGS DFHIKOad -1000 0
+25 25 8d30+170 25d10+100 4d5+14 charge
+-5 -5 -5 999 2
+0 -1 CDEFHIJKNO ABNP 0 OS
+stand stand male 1000
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15002
+maggie~
+Maggie~
+A woman stands over a terminal here, the name "Maggie" on her shirt.
+~
+Maggie is a young woman in her late twenties, wearing an orangish jumpsuit
+and an engraved golden tablet in her hand.  She appears to be deciphering
+something.
+~
+human~
+0 0 0 0
+ABGR NVWYZ 1000 0
+25 25 8d30+170 25d10+100 4d5+14 scratch
+-5 -5 -5 999 2
+0 -1 IN AB 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15003
+boston low man~
+Boston Low~
+A man wearing a white shirt and orange pants reads the walls here.
+~
+Boston Low is a man who looks like he's seen better days.  His haggard
+face shows you exactly what sort of troubles he's been through trying
+to leave this godforsaken place.
+~
+human~
+0 0 0 0
+ABG V 0 0
+25 25 8d34+190 25d10+100 4d5+14 punch
+-5 -5 -5 999 2
+0 -1 C A 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15004
+sea creature~
+A Sea Lizard~
+A sea creature slithers about wildly here.
+~
+Golden-blue and with 8 or 9 arms each branching into weird suction/claw
+modules, this lizard looks really hungry and sort of angry.
+~
+human~
+0 0 0 0
+A APZb -1000 0
+33 33 10d61+420 33d10+100 5d6+15 claw
+-9 -9 -9 999 -1
+0 -1 CE A 0 0
+stand stand male 450
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15005
+guard beast~
+An undead guard beast~
+A beast patrols the door here.
+~
+~
+human~
+0 0 0 0
+ABG 0 -1000 0
+20 20 7d30+161 20d10+100 4d5+10 bite
+-2 -2 -2 999 4
+0 -1 LTU A 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15006
+gryphon elder~
+The Elder Gryphon~
+A large gryphon lies here in slumber.
+~
+Wise beyond measure and as old as this planet, this elder gryphon
+is kept in the pyramid of Cocytus to warn visitors to leave this place
+before what befell his people befalls yours.
+~
+human~
+0 0 0 0
+ABG HR 1000 0
+36 36 10d80+700 30d10+100 5d10+15 claw
+-12 -30 -12 999 -1
+0 -1 CDMO A 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15007
+mawed fish killer huge~
+A huge-mawed killer fish~
+A huge-mawed fish explores the depths.
+~
+~
+fido~
+0 0 0 0
+ABFG Vab -500 0
+20 20 5d30+180 20d10+100 4d5+9 bite
+-2 -2 -2 999 4
+0 -1 EFGRU A 0 C
+stand stand male 500
+ABGV ACDEFHJKQVa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15008
+scorpionbeast~
+A scorpionbeast~
+A huge red scorpionbeast is here, stinging its prey to death.
+~
+~
+human~
+0 0 0 0
+AG V -600 0
+18 18 5d50+170 0d0+0 3d5+8 sting
+0 0 0 999 5
+0 -1 K A 0 0
+stand stand female 450
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15009
+small cocytan turtle~
+A small Cocytan turtle~
+A small Cocytan turtle bubbles happily about here.
+~
+~
+human~
+0 0 0 0
+AB Pb 500 0
+15 15 5d30+161 15d10+100 3d5+8 bite
+0 0 0 999 5
+0 -1 MU A 0 0
+stand stand male 50
+ACHMVac ABCDEFGHIJKa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#15010
+large turtle cocytan~
+A large Cocytan turtle~
+A large Cocytan turtle meanders about here.
+~
+~
+human~
+0 0 0 0
+ABG 0 -10 0
+18 18 5d40+200 0d0+0 3d5+12 none
+0 0 0 999 5
+0 -1 0 A 0 0
+stand stand none 600
+AHMVac ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15011
+sand scuttler~
+A sand scuttler~
+A sand-scuttler burrows into the ground at this point.
+~
+~
+human~
+0 0 0 0
+AG V -1000 0
+24 24 10d22+160 24d10+100 4d5+10 crush
+-5 -5 -10 999 0
+0 -1 CU A 0 0
+stand stand male 550
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15012
+intelligent rat~
+An intelligent rat~
+An intelligent-looking rat smiles at you as he cuts your purse.
+~
+~
+human~
+0 0 0 0
+ABG PQ -1000 0
+19 19 5d30+161 19d10+100 4d5+10 scratch
+-2 -2 -2 999 4
+0 -1 0 A 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#15013
+canine creature~
+A canine creature~
+A canine-like creature is here, devouring a bone.
+~
+~
+fox~
+0 0 0 0
+AG VZ -1000 0
+28 28 10d61+600 0d0+0 5d6+15 bite
+-9 -9 -10 999 0
+0 -1 FH A 0 0
+stand stand male 1500
+AGHMV ABCDEFGHIJKQVa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15014
+feline creature~
+A feline creature~
+A feline creature burrows into dirt here.
+~
+~
+fox~
+0 0 0 0
+AG Z -1000 0
+28 28 10d70+600 0d0+0 5d7+17 none
+-10 -10 -10 999 0
+0 -1 FH A 0 0
+stand stand male 1500
+AGV ACDEFHJKQVa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15015
+electric pseudo spark mist~
+A pseudo-electric mistspark~
+A pseudo-electric mistspark is here, guiding you.
+~
+~
+human~
+0 0 0 0
+AG V 0 0
+19 19 10d61+416 0d0+0 4d5+10 none
+-1 -4 -9 999 0
+0 -1 FK A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15016
+floating gryphon~
+A floating gryphon~
+A gryphon hovers here contemplating a state of pure energy.
+~
+~
+dragon~
+0 0 0 0
+ABG JT 0 0
+19 19 10d50+400 0d0+0 4d5+10 claw
+-2 -2 -2 999 4
+0 -1 C A BEH FI
+stand stand none 1500
+AHMVZ ABCDEFGHIJKPQUVXa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15017
+mad gryphon~
+A mad gryphon~
+A gryphon hovers here, frothing and talking to himself.
+~
+~
+dragon~
+0 0 0 0
+ABFG JT -1000 0
+19 19 10d50+400 0d0+0 4d5+10 claw
+-2 -2 -2 999 0
+0 -1 0 A BEH FI
+stand stand none 1500
+AHZ ACDEFGHIJKPQUVXa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#15018
+narcosis~
+Narcosis~
+Narcosis slowly sets in...
+~
+~
+human~
+0 0 0 0
+ABFG 0 0 0
+18 18 40d100+100 0d0+0 0d0+0 suction
+0 0 0 999 0
+0 -1 0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#15001
+life crystal~
+a Life Crystal~
+A glowing green crystal is here.~
+unknown~
+0
+pill 2
+ABCSU
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BEF 'giant strength' 'cure critical' -1 -1 0
+0
+50 5 0 P
+A
+19 1
+A
+5 -3
+#15002
+relic machine~
+an old relic machine~
+A relic machine sits here, seemingly broken.~
+unknown~
+0
+staff 2
+ABH
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+~
+~
+~
+~
+BCDE AB AB ACEFG 'reserved'
+0
+0
+20 20 0 P
+#15003
+alien plant~
+an alien plant~
+An alien plant sits here.  I wouldn't touch it if I were you.~
+unknown~
+0
+pill 2
+ABFHM
+0
+ABCDEFGHIJKLMNO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABCDF 'divine protection' 'revelation' 'haste' -1 0
+0
+30 0 0 P
+A
+24 3
+A
+3 -2
+A
+1 -5
+#15004
+lightbridge activator~
+a lightbridge activator~
+A small handplate lies here.~
+unknown~
+0
+scroll 2
+A
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE 'ice beam' 'holy word' 'poison' -1 0
+0
+30 5 500 P
+#15005
+lightbridge activator~
+a lightbridge activator~
+A small handplate lies here.~
+unknown~
+0
+scroll 2
+A
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE -1 'holy water' -1 -1 0
+0
+30 5 500 P
+#15006
+lightbridge activator~
+a lightbridge activator~
+A small handplate lies here.~
+unknown~
+0
+scroll 2
+A
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE 'ice beam' 'frost breath' 'Despair of Orpheus' -1 0
+0
+30 5 500 P
+#15007
+lightbridge activator~
+a lightbridge activator~
+A small handplate lies here.~
+unknown~
+0
+scroll 2
+A
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE 'poison' 'poison' -1 -1 0
+0
+30 5 500 P
+#15008
+lightbridge activator~
+a lightbridge activator~
+A small handplate lies here.~
+unknown~
+0
+scroll 2
+A
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE 'poison' 'Dance of Shadows' -1 -1 0
+0
+30 5 500 P
+#15009
+Pen Ultimate~
+Pen Ultimate~
+Pen Ultimate sits here, contemplating life.
+~
+unknown~
+0
+armor 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+20 20 0 P
+A
+13 5
+#15010
+hand brink ludger~
+the hand of Ludger Brink~
+A severed, bloody hand lies here in a pool of gore.
+~
+unknown~
+0
+warp_stone 2
+B
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 50 0 P
+A
+3 1
+A
+12 15
+#15011
+engraved rod~
+an engraved rod~
+A rod of many engraved shapes lies here.
+~
+unknown~
+0
+key 2
+A
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 15 0 P
+#15012
+machinery brass tablet~
+a mangled brass tablet~
+A warped tablet of brass clunks about noisily.
+~
+unknown~
+0
+staff 2
+BH
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CE BD BD ACDH 'reserved'
+0
+0
+15 0 0 P
+A
+3 1
+A
+4 1
+A
+24 -1
+#15013
+life crystal~
+a Life Crystal~
+A glowing green crystal is here.
+~
+unknown~
+0
+trash 2
+ABCSU
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+A
+5 -3
+A
+19 1
+#15014
+life crystal~
+a Life Crystal~
+A glowing green crystal is here.
+~
+unknown~
+0
+pill 2
+ABCSU
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CDEF 'The Pipers Melody' 'Quiet Mountain Lake' -1 -1 0
+0
+50 5 0 P
+A
+5 -3
+A
+19 1
+#15015
+life crystal~
+a Life Crystal~
+A glowing green crystal is here.
+~
+unknown~
+0
+pill 2
+ABCSU
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CDEF 'levitation' 'protection good' -1 -1 0
+0
+50 5 0 P
+A
+5 -3
+A
+19 1
+#15016
+life crystal~
+a Life Crystal~
+A glowing green crystal is here.
+~
+unknown~
+0
+pill 2
+ABCSU
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CDEF 'remove curse' 'protection good' -1 -1 0
+0
+50 5 0 P
+A
+5 -3
+A
+19 1
+#15017
+life crystal~
+a Life Crystal~
+A glowing green crystal is here.
+~
+unknown~
+0
+pill 2
+ABCSU
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CDEF 'haste' 'mass invis' 'Quiet Mountain Lake' -1 0
+0
+50 5 0 P
+#15018
+orange tunic~
+an orange tunic~
+A tunic lies in a crumpled ball here.
+~
+unknown~
+0
+armor 2
+AB
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AD AD AD AC 0
+0
+0
+25 20 0 P
+A
+18 2
+A
+3 2
+#15019
+white shirt~
+a white shirt~
+A white pile of cloth lies here.
+~
+unknown~
+0
+clothing 2
+0
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 15 0 P
+A
+19 1
+A
+5 2
+#15020
+stash life crystals~
+a stash of life crystals~
+A large bag filled with glowing gems spills over.
+~
+unknown~
+0
+container 2
+AB
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CFG FGHIJ 0 CFG 0
+0
+0
+25 50 0 P
+A
+5 -9
+A
+13 40
+A
+19 3
+A
+1 -4
+#15021
+chisel ancient engraved~
+an ancient engraved chisel~
+A chisel lies on the ground here, radiating energy.
+~
+unknown~
+0
+weapon 2
+AB
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+C ABCD A ABDE E
+0
+0
+30 5 0 P
+A
+19 3
+A
+13 10
+#15022
+thin threadbare metal wire~
+a thin threadbare wire~
+A threadbare wire lies here, discarded.
+~
+metal~
+0
+weapon 2
+A
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 C AB AB 0
+0
+0
+30 15 500 P
+#15023
+jagged metal plate~
+a jagged metal plate~
+A metal plate sits here.
+~
+metal~
+0
+armor 2
+B
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+30 35 1500 P
+#15024
+gryphon beak~
+a gryphon's beak~
+A severed beak lies here.
+~
+unknown~
+0
+weapon 2
+AB
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC AD B BCE DE
+0
+0
+30 40 1500 P
+#0
+
+#ROOMS
+#15001
+0 0
+~
+~
+~
+0 0 0
+The Platform~
+You are standing on a huge, pentagram-shaped platform in the middle of what
+seems to be an ocean of red sand.  However, you do see several things off in
+the distance, one directly corresponding to each point of the pentacle.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 15002
+D1
+~
+~
+0 0 15003
+D3
+~
+~
+0 0 15004
+S
+#15002
+0 0
+~
+~
+~
+0 0 0
+Red Dirt.~
+You are standing in the middle of what looks to be a wasteland of red sand.
+It is fairly moist, and alien forms of plant life abound in every corner.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15007
+D1
+~
+~
+0 0 15005
+D2
+~
+~
+0 0 15001
+D3
+~
+~
+0 0 15006
+S
+#15003
+0 0
+~
+~
+~
+0 0 0
+Red Dirt.~
+You are in the midst of a desert of red dirt.  Off in the distance, you can
+see five spires which tower above the land.  To your north the dirt gets
+a little bit softer...
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15005
+D1
+~
+~
+0 0 15010
+D3
+~
+~
+0 0 15001
+S
+#15004
+0 0
+~
+~
+~
+0 0 0
+Red Dirt.~
+Dirt sprawls all over the landscape here.  There seems to be no end to it.
+In every direction you can see tall stone cones rising up into the backlight
+of the two moons.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15006
+D1
+~
+~
+0 0 15001
+D3
+~
+~
+0 0 15044
+S
+#15005
+0 0
+~
+~
+~
+0 0 0
+Red Dirt.~
+You are standing in the middle of a wasteland of red earth...however, here,
+a small hole glows in the dirt, perhaps leading down?
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15003
+D3
+~
+~
+0 0 15002
+D5
+~
+~
+0 0 15053
+S
+#15006
+0 0
+~
+~
+~
+0 0 0
+Red Dirt.~
+Dirt, dirt, everywhere, and you don't know what to make of it.  Plants cover
+the landscape in this region, from simple flytraps to yellow and blue things
+you've never seen before in your life.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15002
+D2
+~
+~
+0 0 15004
+S
+#15007
+0 0
+~
+~
+~
+0 0 0
+Red Sand.~
+You are on a north-south path of deep red dirt, walled in by thick alien
+foliage to either side of you.  To your north you think you see a more
+well-defined path.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15008
+D2
+~
+~
+0 0 15002
+S
+#15008
+0 0
+~
+~
+~
+0 0 0
+Spire Path.~
+You are on a north-south path heading directly towards a spire off in the
+distance.  The red dirt seems to be fading into a sort of green mulch at
+this point.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15009
+D2
+~
+~
+0 0 15007
+S
+#15009
+0 0
+~
+~
+~
+0 0 0
+The Mountain Spire.~
+You are at the base of a grey, mountainous spire.  You can see a body of
+water off to the northwest, and a small path leading up the mountain.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15013
+D2
+~
+~
+0 0 15008
+S
+#15010
+0 0
+~
+~
+~
+0 0 0
+Red Dirt.~
+You find yourself in the middle of a seemingly endless world of red, slightly
+damp dirt.  Plants seem to wall you in a bit more here.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15011
+D3
+~
+~
+0 0 15003
+S
+#15011
+0 0
+~
+~
+~
+0 0 0
+Red Path.~
+The dirt here seems to be piled on either side of you, making for a crude
+but walkable dirt ditch/path.  You wonder where this could lead to.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15012
+D3
+~
+~
+0 0 15010
+S
+#15012
+0 0
+~
+~
+~
+0 0 0
+Path to the Spire.~
+The dirt here is gradually becoming hard and gray as you stride
+towards the spire off in the distance.  A stone cave lies off in the distance
+to your east.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15041
+D3
+~
+~
+0 0 15011
+S
+#15013
+0 0
+~
+~
+~
+0 0 0
+The Clearing.~
+You are standing in a small clearing before the mountain path.  Skulls of
+things lie all around, but the most prominent is a large fossil in the
+middle of the ground here.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15034
+D1
+~
+~
+0 0 15014
+D2
+~
+~
+0 0 15009
+S
+#15014
+0 0
+~
+~
+~
+0 0 0
+The Shore.~
+You are on a small gray rock plateau that juts into the water here.  The water
+looks safe enough to drink, and to swim in... but you see various shapes
+lurking about...friendly?  Or not?
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15016
+D1
+~
+~
+0 0 15015
+D3
+~
+~
+0 0 15013
+S
+#15015
+0 0
+~
+~
+~
+0 0 0
+On the Water.~
+You are on a murky patch of water in Cocytus.  It looks very deep and
+uninviting below you...with moving shapes and eyes staring up at you.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15017
+D3
+~
+~
+0 0 15014
+S
+#15016
+0 0
+~
+~
+~
+0 0 0
+On the Water.~
+You are immersed to your chest in water here.  It isn't too deep, but you
+sense an immediate dropoff coming up.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15017
+D2
+~
+~
+0 0 15014
+S
+#15017
+0 0
+~
+~
+~
+0 0 0
+On the Water.~
+The water spreads out here to form a shallow inlet.  Below you, you see
+the outline of a small rock cave -- it looks just deep enough to be
+accessible to you.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15015
+D3
+~
+~
+0 0 15016
+D5
+~
+~
+0 0 15018
+S
+#15018
+0 0
+~
+~
+~
+0 0 0
+Under the Waters of Cocytus.~
+You are swimming here, your head just barely under the water.  The liquid is
+crystal-clear, allowing you a semiclear view of fish, plants, and several
+alien waterbeings that you've never seen before.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15019
+D3
+~
+~
+0 0 15020
+D4
+~
+~
+0 0 15017
+D5
+~
+~
+0 0 15021
+S
+#15019
+0 0
+~
+~
+~
+0 0 0
+Dense Water.~
+The water here is very blue, and is very...thick.  You move your arms a bit
+slower, as if immersed in oil.  You're having a bit of trouble keeping your
+eyes open here.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15018
+D5
+~
+~
+0 0 15025
+S
+#15020
+0 0
+~
+~
+~
+0 0 0
+Dense Water.~
+The water here is very blue, and is very...thick.  You move your arms a bit
+slower, as if immersed in oil.  You're having a bit of trouble keeping your
+eyes open here.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15018
+D5
+~
+~
+0 0 15026
+S
+#15021
+0 0
+~
+~
+~
+0 0 0
+Deep Under the Waters of Cocytus.~
+Here, the water is fairly dense and very, very blue -- so pronounced a blue,
+in fact, that you have a very limited field of vision.  You hope nothing
+dangerous is lurking...
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15022
+D4
+~
+~
+0 0 15018
+S
+#15022
+0 0
+~
+~
+~
+0 0 0
+Swimming Underwater.~
+The water isn't as dense here, and you can see faint lights above you, most
+likely of the two moons in orbit around Cocytus.  The water is still here --
+calm, without much life around.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15021
+D4
+~
+~
+0 0 15023
+S
+#15023
+0 0
+~
+~
+~
+0 0 0
+Surfacing in the Small Cave.~
+Ah...atmosphere.  The small cave you saw from the shore line opens here,
+and apparently has enough air for you to breathe here.  You can step out of
+the water to your north.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15024
+D5
+~
+~
+0 0 15022
+S
+#15024
+0 0
+~
+~
+~
+0 0 0
+The Tiny Cave.~
+The cave doesn't really go anywhere.  There is, however, a platform here,
+maybe it would be worth investigation.
+You can see two exits south, but only one looks remotely navigable.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15023
+S
+#15025
+0 0
+~
+~
+~
+0 0 0
+Deep, Deep Water.~
+You are way too deep underwater for your own good.  The dense water presses
+against your chest, making it hard to hold what air you have left in your
+lungs.  Perhaps you should turn back.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15026
+D3
+~
+~
+0 0 15027
+D4
+~
+~
+0 0 15019
+D5
+~
+~
+0 0 15028
+S
+#15026
+0 0
+~
+~
+~
+0 0 0
+Dense, Bloody Water.~
+The dense blue water changes to a dense red here.  Parts of flesh float around
+here, and you can see, through the haze, murky shapes thrashing about here.
+Maybe this isn't the wisest place to swim.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15025
+D4
+~
+~
+0 0 15020
+S
+#15027
+0 0
+~
+~
+~
+0 0 0
+Choking Water Under the Spire.~
+The water here is very, very dense.  Your throat pulses in rejection of the
+stale air that now is circulating through your lungs.  Get to surface, now.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15025
+D5
+~
+~
+0 0 15028
+S
+#15028
+0 0
+~
+~
+~
+0 0 0
+Nitrogenesis.~
+You've been underwater way too long for your own good.  Narcosis begins to
+overtake you as you swim deeper... bubbles of air escape from your mouth
+as you begin to snore slightly...
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 15029
+S
+#15029
+0 0
+~
+~
+~
+0 0 0
+Watery Grave?~
+Your vision blurred, your air supply completely gone, the currents are leading
+your soon-to-be-corpse along, dragging you roughly against the stone underside
+of the spire.  Where are you going?  Why have you come this far?
+~
+0 0 0
+0
+~
+I 0 D5
+~
+~
+0 0 15030
+S
+#15030
+0 0
+~
+~
+~
+0 0 0
+Too-Dense Water.~
+You are VERY deep underwater now, and should by all rights be dead.  However,
+you have made your way from underneath the spire, and you see a light faintly
+above you...if you made it there...you might survive!
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 15031
+S
+#15031
+0 0
+~
+~
+~
+0 0 0
+Dense Water.~
+You are drifting upwards, towards a faint light.  Lack of air is killing you.
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 15032
+S
+#15032
+0 0
+~
+~
+~
+0 0 0
+Shallow Water.~
+You are almost to the surface, and your face is blue from lack of oxygen --
+your chest is heaving...if you don't get air soon, there's no way you'll ever
+be more than a cold blue corpse.
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 15033
+D5
+~
+~
+0 0 15031
+S
+#15033
+0 0
+~
+~
+~
+0 0 0
+The Secret Cove.~
+Air!  You are in a very, very tiny air bubble cave under the waters of
+Cocytus.  A narrow, jagged passageway leads to another section of cave
+to your north, but it looks very hard to navigate.
+~
+0 ACKLN 0
+0
+~
+I 0 D0
+~
+~
+0 0 15024
+S
+#15034
+0 0
+~
+~
+~
+0 0 0
+Climbing the Spire.~
+You are on a rocky dirt path leading up and around the mountainous spire.
+Directly below you, you can see a large body of water, and off in the
+distance, a huge pentagram.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15013
+D4
+~
+~
+0 0 15035
+S
+#15035
+0 0
+~
+~
+~
+0 0 0
+Traversing the Spire Path.~
+You find yourself mid-level climbing around this spire.  Off in the distance
+you can see two large orbs hovering off in the horizon...moons? Suns?  How
+in the world could you be seeing two of either?
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15036
+D5
+~
+~
+0 0 15034
+S
+#15036
+0 0
+~
+~
+~
+0 0 0
+Climbing Around the Mountain.~
+You are toiling to make your way up this spire path.  Directly above you
+looks like some sort of platform, and farther up, the top of the spire.
+In the distance, one of the moons gives a pale blue overcast to everything
+as it sets in the large ocean.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 15035
+D4
+~
+~
+0 0 15037
+S
+#15037
+0 0
+~
+~
+~
+0 0 0
+Plateau.~
+You stand here, overlooking all of this strange, alien place that you seem
+to have somehow gotten to.  From this vantage you can see many things --
+dirt, a pentagram, a hole in the ground...
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15039
+D5
+~
+~
+0 0 15036
+S
+#15039
+0 0
+~
+~
+~
+0 0 0
+The Museum.~
+You are in some sort of strange contraption of a...museum?  Moving stone
+pictures on the wall show you tales of the people (?) you assume once
+inhabited this land...tall, griffon-like things.  Other pictures show
+egg-like green crystals being imbibed, and another, more confusing tale
+shows you the destruction of this world.  A very intriguing place.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15040
+D3
+~
+~
+0 0 15037
+S
+#15040
+0 0
+~
+~
+~
+0 0 0
+The Library.~
+You are in a moldy room filled with hanging greenery, the most exceptional
+of which are the huge roots dangling down from the cave-like ceiling of
+stone.  Several organic terminals sit here, most of them broken, and one
+of the roots seems to move around the room, retrieving information.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 15039
+S
+#15041
+0 0
+~
+~
+~
+0 0 0
+The Hanging Garden.~
+Walls of rock and moss act as large walls for the vines that droop down
+to head level here, making a gross canopy of algae-covered wet plants
+and mossy rock on either side of you.  It seems overly humid here, and
+you don't exactly see where the path is leading.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15042
+D3
+~
+~
+0 0 15012
+S
+#15042
+0 0
+~
+~
+~
+0 0 0
+The Weather-Slicked Slope Up the Spire.~
+The rock here is both extremely smooth from years of erosion and slick from
+the layers and layers of smooth moss growing over it.  Just above you you
+can see some sort of midpoint -- you must still be on the path up the spire!
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 15041
+D4
+~
+~
+0 0 15043
+S
+#15043
+0 0
+~
+~
+~
+0 0 0
+The Map Room.~
+You are in an ill-lit cavern with the same hanging vinery as you saw on the
+way up to this point.  A large stone platform with some sort of template
+on the front is the central object in this room.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15073
+D5
+~
+~
+0 0 15042
+S
+#15044
+0 0
+~
+~
+~
+0 0 0
+Barren Hills.~
+You are roaming through a desert of blood-red sand dunes and mountainous
+outcroppings of rock that frame the landscape in a macabre portrait of
+red on red.  Closeby, you hear the rush of water.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15004
+D2
+~
+~
+0 0 15046
+D3
+~
+~
+0 0 15045
+S
+#15045
+0 0
+~
+~
+~
+0 0 0
+The Treacherous Cliff.~
+Here you come upon the start of a path to a rocky cliffside.  Above you
+there is a waterfall of miniscule proportions, and lime-green rock.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15044
+D3
+~
+~
+0 0 15047
+S
+#15046
+0 0
+~
+~
+~
+0 0 0
+Waterfall.~
+You are standing at the edge of a small, beautiful waterfall.  Crystal-
+clear streams of multicolored fluid gush down, with blood-colored stone
+walls as a backdrop.  Small insects and hovering fish splash about here.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15044
+S
+#15047
+0 0
+~
+~
+~
+0 0 0
+Up the Cliffside.~
+You are climbing steadily a rocky cliff path, arcing steeply upwards.
+Directly upwards, the path turns sharply and continues its ascent.  To the
+east you spy the start of the trail.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15045
+D4
+~
+~
+0 0 15048
+S
+#15048
+0 0
+~
+~
+~
+0 0 0
+The Spire Midpoint.~
+You are midway up the spire, and as far as you can see it is relatively
+safe to continue your journey in either direction.  Above you, you see a
+plateau and a small waterfall.
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 15049
+D5
+~
+~
+0 0 15047
+S
+#15049
+0 0
+~
+~
+~
+0 0 0
+The Plateau.~
+You are on a flat plateau at the top of the spire.  To your north there
+is a small waterfall, and above that, an outcrop of bright green rock.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15050
+D5
+~
+~
+0 0 15048
+S
+#15050
+0 0
+~
+~
+~
+0 0 0
+The Plateau.~
+You are on a plateau with a small waterfall close at hand.  Upwards you can
+see a large green rock split open, and to the east lies a tiny dark room.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15052
+D2
+~
+~
+0 0 15049
+D4
+~
+~
+0 0 15051
+S
+#15051
+0 0
+~
+~
+~
+0 0 0
+The Crevice.~
+A huge outcropping of lime-green stone splits here to form a small crevice
+in the rock.  The crevice is just big enough to slide a hand into, and you
+can just barely see a faint glow coming from inside it.
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 15005
+D5
+~
+~
+0 0 15050
+S
+#15052
+0 0
+~
+~
+~
+0 0 0
+The Planetarium.~
+You are in some crude sort of planetarium, with stars and planets etched
+on the ceiling above you.  They don't seem to move -- perhaps there is
+some secret about controlling them you don't yet know.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 15050
+S
+#15053
+0 0
+~
+~
+~
+0 0 0
+The Landslide.~
+You are travelling down a relatively stable path of rock and rubble
+through the caved-in hole from the outside.  You can see large caverns
+below you, a whole other world beneath the one above you.
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 15005
+D5
+~
+~
+0 0 15054
+S
+#15054
+0 0
+~
+~
+~
+0 0 0
+Center of the Nexus.~
+Around you, rocks and rubble of all sort litter the area, making way
+for the huge pile of debris that forms the ladder upwards out of this
+canyon-of-sorts.  Wide hallways span east and west from here, the obvious
+center of this realm.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15055
+D3
+~
+~
+0 0 15056
+D4
+~
+~
+0 0 15053
+S
+#15055
+0 0
+~
+~
+~
+0 0 0
+Eastern Hall.~
+You are travelling down the eastern hallway of the underground realm.
+This part of the hallway sparkles lively with small blue plant life,
+flickering on and off.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15058
+D2
+~
+~
+0 0 15060
+D3
+~
+~
+0 0 15054
+S
+#15056
+0 0
+~
+~
+~
+0 0 0
+Western Hall.~
+You are travelling west down a stone-encrusted subterranean hall.
+Unlike the terrain above, the stone here is not blood red, but an
+eerie shade of black toned with stone brown and gray.  A passage
+leads to a well of darkness, south.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15054
+D2
+~
+~
+0 0 15066
+D3
+~
+~
+0 0 15057
+S
+#15057
+0 0
+~
+~
+~
+0 0 0
+Western Hall.~
+You have reached the end of the western tunnel underneath the collapse.
+There is a passage leading north from here, to parts unknown.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15067
+D1
+~
+~
+0 0 15056
+S
+#15058
+0 0
+~
+~
+~
+0 0 0
+Eastern Hall.~
+You are at the point in the hallway where it narrows and ends, forming
+a huge stone wall.  A pillar laced with canals stands here - its intricate
+carvings form some sort of odd pattern.  To your north is a reddish door,
+and a panel.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 15059
+D3
+~
+~
+0 0 15055
+S
+#15059
+0 0
+~
+~
+~
+0 0 0
+The Stone Descent.~
+A large platform of lime and granite spirals down in stairstep fashion
+to a flat platform at the bottom of the pit.  A large canal, or unfilled
+moat of some sort surrounds you.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15058
+S
+#15060
+0 0
+~
+~
+~
+0 0 0
+Descent into the Hole.~
+A ramp slopes downward into thick darkness here -- it's almost impossible
+to tell what lies ahead.  Your only clue as to what direction you should
+be heading is the dancing of faint blue lights off in the distance to
+your south.
+~
+0 A 0
+0
+~
+I 0 D0
+~
+~
+0 0 15055
+D2
+~
+~
+0 0 15061
+S
+#15061
+0 0
+~
+~
+~
+0 0 0
+Under the Pillars.~
+Blue plants grow from niches in the wall here, highlighting a huge fallen
+pillar made of granite and lime.  It's hard to imagine how this pillar
+could have gotten here, or what it used to support... there is an opening
+to your east, leading to a bright chamber.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15060
+D1
+~
+~
+0 0 15062
+S
+#15062
+0 0
+~
+~
+~
+0 0 0
+The Crystalline Sphere.~
+Emerging from the darkness into a blazon of clear light, you are barely
+able to see because of the exponential quality of the reflection.  Crystals
+and clear panels of stone form a crude multifaceted gem, with a tongue-ramp
+leading east from here.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15063
+D3
+~
+~
+0 0 15061
+S
+#15063
+0 0
+~
+~
+~
+0 0 0
+The Crystal Bridge.~
+You are strolling across a bridge made entirely of translucent light, gem,
+glass, and quartz.  The chambers around you are made of similar, less
+sturdy materials that serve to bounce light everywhere, illuminating the
+place with a weird, bluish light.  To your east is a small enclosed room.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 15064
+D3
+~
+~
+0 0 15062
+S
+#15064
+0 0
+~
+~
+~
+0 0 0
+The Airlock.~
+A sealed-off bubble of fluctuating, seemingly cracked glasslike material
+forms an airtight seal between the crystal-cavern and whatever lies east.
+Underneath you sparkles something resembling still water.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 15065
+D3
+~
+~
+0 0 15063
+S
+#15065
+0 0
+~
+~
+~
+0 0 0
+The Control Room.~
+Stepping from the airlock, you find yourself in a huge, damp stone chamber.
+Water fills the floor in stagnant, shallow pools, and the smell of mildew
+infiltrates the entire place.  Large clear blue windows tower to the
+20-foot high ceiling, displaying a vast network of tunnels, caverns,
+and passages underwater.  There is a stone panel with glowing crystal
+rods in the center of the room.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 15064
+S
+#15066
+0 0
+~
+~
+~
+0 0 0
+The Tomb.~
+You are in some sort of small enclosed burial room.  A large statue depicting
+a hybrid gryphon/man screams at you in frozen silence in the very center of
+the room.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 15056
+D5
+~
+~
+0 0 15068
+S
+#15067
+0 0
+~
+~
+~
+0 0 0
+The Pentacled Chamber.~
+Skull figures decorate this room, which seems to be carved into a tiny
+star-shape.  The tracings on the floor run across one another, touching
+each wall and forming a pentacle outlined by glowing blue plants.
+A large bin offsets the dark mysteriousness of the room.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15057
+S
+#15068
+0 0
+~
+~
+~
+0 0 0
+Underground Chamber.~
+Bodies, some seemingly fresh, others no more than dusty bones, and those
+in middling states of decay line the walls here.  Every possible place in
+the soil and stone walls is filled with niches to store human and gryphon
+remains -- mostly gryphon.  In fact, there is only one remotely human corpse
+here, and it looks rather new.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15069
+D4
+~
+~
+0 0 15066
+S
+#15069
+0 0
+~
+~
+~
+0 0 0
+Guard Post.~
+Small stone pillars hold a shabby wooden plank off of the ground, keeping
+the moist red soil from collapsing onto the tunnel.  Beneath the pillars are
+two chains attached to huge boulders.  And attached to the chains...
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 15070
+D2
+~
+~
+0 0 15068
+S
+#15070
+0 0
+~
+~
+~
+0 0 0
+The Pyramid Platform.~
+A small plank made of golden stone extends from the near side of the
+guard's doors, to a small pyramid off in the distance.  Watch your
+step!
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15071
+D2
+~
+~
+0 0 15069
+S
+#15071
+0 0
+~
+~
+~
+0 0 0
+The Pyramid Platform.~
+The narrow platform widens a bit here, giving way and forming into the
+far outcropping of stone, upon which a pyramid of some sort is housed.
+Behind you, the platform leads back to the guard doors.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 15072
+D2
+~
+~
+0 0 15070
+S
+#15072
+0 0
+~
+~
+~
+0 0 0
+The Pyramid.~
+A large, three-dimensional triad-monolith of clear quartz stands here in
+solitary silence.  You can see the faint outline of a shape on the inside
+of the structure.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15071
+S
+#15073
+0 0
+~
+~
+~
+0 0 0
+The Map Room~
+You are in an ill-lit cavern with moss-covered walls.  Organic
+"machines" line the walls, displaying maps of the general terrain.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 15043
+S
+#0
+
+#RESETS
+M 0 15014  10 15001 10	* A feline creature
+M 0 15013  10 15001 10	* A canine creature
+M 0 15014  10 15001 10	* A feline creature
+M 0 15013  10 15002 10	* A canine creature
+M 0 15013  10 15002 10	* A canine creature
+M 0 15013  10 15002 10	* A canine creature
+M 0 15014  10 15003 10	* A feline creature
+M 0 15015  20 15003 10	* A pseudo-electric mistspark
+M 0 15014  10 15004 10	* A feline creature
+M 0 15015  20 15004 10	* A pseudo-electric mistspark
+M 0 15013  10 15004 10	* A canine creature
+M 0 15008   5 15005  5	* A scorpionbeast
+M 0 15013  10 15006 10	* A canine creature
+M 0 15008   5 15006  5	* A scorpionbeast
+M 0 15011  10 15007 10	* A sand scuttler
+M 0 15014  10 15007 10	* A feline creature
+M 0 15014  10 15010 10	* A feline creature
+M 0 15011  10 15013 10	* A sand scuttler
+M 0 15011  10 15013 10	* A sand scuttler
+M 0 15008   5 15014  5	* A scorpionbeast
+M 0 15009  10 15014 10	* A small cocytan turtle
+M 0 15009  10 15014 10	* A small cocytan turtle
+M 0 15010  10 15014 10	* A large cocytan turtle
+M 0 15011  10 15014 10	* A sand scuttler
+M 0 15009  10 15016 10	* A small cocytan turtle
+M 0 15011  10 15017 10	* A sand scuttler
+M 0 15010  10 15017 10	* A large cocytan turtle
+M 0 15010  10 15017 10	* A large cocytan turtle
+M 0 15009  10 15018 10	* A small cocytan turtle
+M 0 15010  10 15018 10	* A large cocytan turtle
+M 0 15010  10 15018 10	* A large cocytan turtle
+M 0 15007   5 15019  5	* A huge-mawed killer fish
+M 0 15007   5 15019  5	* A huge-mawed killer fish
+M 0 15007   5 15019  5	* A huge-mawed killer fish
+M 0 15004   4 15020  4	* A sea lizard
+M 0 15007   5 15020  5	* A huge-mawed killer fish
+M 0 15007   5 15020  5	* A huge-mawed killer fish
+M 0 15004   4 15021  4	* A sea lizard
+M 0 15009  10 15022 10	* A small cocytan turtle
+M 0 15010  10 15022 10	* A large cocytan turtle
+M 0 15009  10 15023 10	* A small cocytan turtle
+M 0 15010  10 15023 10	* A large cocytan turtle
+O 0 15021   0 15024 -1	* An ancient engraved chisel at The Tiny Cave.
+M 0 15018  30 15025 30	* Narcosis
+M 0 15004   4 15026  4	* A sea lizard
+M 0 15004   4 15026  4	* A sea lizard
+M 0 15018  30 15028 30	* Narcosis
+M 0 15018  30 15028 30	* Narcosis
+M 0 15018  30 15028 30	* Narcosis
+M 0 15018  30 15029 30	* Narcosis
+M 0 15018  30 15029 30	* Narcosis
+M 0 15018  30 15029 30	* Narcosis
+M 0 15018  30 15029 30	* Narcosis
+M 0 15018  30 15030 30	* Narcosis
+M 0 15018  30 15030 30	* Narcosis
+M 0 15018  30 15030 30	* Narcosis
+M 0 15018  30 15030 30	* Narcosis
+M 0 15018  30 15030 30	* Narcosis
+M 0 15018  30 15031 30	* Narcosis
+M 0 15018  30 15031 30	* Narcosis
+O 0 15021   0 15033 -1	* An ancient engraved chisel at The Secret Cove.
+M 0 15008   5 15034  5	* A scorpionbeast
+M 0 15011  10 15035 10	* A sand scuttler
+M 0 15008   5 15035  5	* A scorpionbeast
+O 0 15007   0 15037 -1	* A lightbridge activator at Plateau.
+M 0 15003   1 15039  1	* Boston low
+E 0 15009   -1   17	* item to Boston low
+E 0 15019   -1    5	* item to Boston low
+G 0 15023 -1		* A jagged metal plate to Boston Low
+G 0 15022 -1		* A thin threadbare wire to Boston Low
+O 0 15007   0 15039 -1	* A lightbridge activator at The Museum.
+M 0 15002   1 15040  1	* Maggie
+E 0 15018   -1   12	* item to Maggie
+E 0 15009   -1   17	* item to Maggie
+G 0 15012 -1		* A mangled brass tablet to Maggie
+O 0 15004   0 15040 -1	* A lightbridge activator at The Library.
+M 0 15012  10 15054 10	* An intelligent rat
+M 0 15012  10 15054 10	* An intelligent rat
+M 0 15017  10 15061 10	* A mad gryphon
+M 0 15016  10 15062 10	* A floating gryphon
+M 0 15016  10 15062 10	* A floating gryphon
+M 0 15016  10 15063 10	* A floating gryphon
+M 0 15017  10 15064 10	* A mad gryphon
+M 0 15017  10 15064 10	* A mad gryphon
+M 0 15016  10 15064 10	* A floating gryphon
+M 0 15017  10 15065 10	* A mad gryphon
+M 0 15016  10 15065 10	* A floating gryphon
+M 0 15016  10 15066 10	* A floating gryphon
+M 0 15001   1 15067  1	* Ludger brink
+E 0 15019   -1    5	* item to Ludger brink
+E 0 15010   -1   18	* item to Ludger brink
+E 0 15020   -1   17	* item to Ludger brink
+G 0 15003 -1		* An alien plant to Ludger Brink
+O 0 15002   0 15067 -1	* An old relic machine at The Pentacled Chamber.
+O 0 15008   0 15067 -1	* A lightbridge activator at The Pentacled Chamber.
+M 0 15016  10 15068 10	* A floating gryphon
+M 0 15005   3 15069  2	* An undead guard beast
+M 0 15005   3 15069  2	* An undead guard beast
+M 0 15016  10 15070 10	* A floating gryphon
+M 0 15017  10 15070 10	* A mad gryphon
+M 0 15017  10 15071 10	* A mad gryphon
+M 0 15017  10 15071 10	* A mad gryphon
+M 0 15006   1 15072  1	* The elder gryphon
+O 0 15005   0 15072 -1	* A lightbridge activator at The Pyramid.
+O 0 15007   0 15073 -1	* A lightbridge activator at The Map Room
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 15001 spec_nasty		* Ludger Brink
+M 15005 spec_guard		* An undead guard beast
+M 15007 spec_breath_lightning		* A huge-mawed killer fish
+M 15008 spec_poison		* A scorpionbeast
+M 15012 spec_thief		* An intelligent rat
+M 15013 spec_ogre_member		* A canine creature
+M 15014 spec_troll_member		* A feline creature
+S
+
+#OT
+#0
+#$

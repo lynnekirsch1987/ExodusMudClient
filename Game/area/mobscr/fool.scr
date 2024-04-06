@@ -1,0 +1,27 @@
+* Mob Vnum: 20956
+* Mob Name: Fool
+* Room Vnum: 20964
+
+
+#TRIGGER death
+Type 9
+Sc
+   emote laughs wildly even at his death.
+   halt once~
+End
+ 
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 3
+if (%rndnum% == 0)
+   emote laughs at some joke that he tells to himself and anyone who cares to listen.
+   halt once~
+Sc
+if (%rndnum% == 1)
+   emote babbles some nonsense, then giggles inanely.
+   halt once~
+End
+
+#END
+

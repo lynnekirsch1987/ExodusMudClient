@@ -1,0 +1,35 @@
+* File: Drow5.scr
+* Mob: Drow Imperial vanguard (mob 5127)
+* NOTE: This is part of a larger Thesden Invasion event
+
+#TRIGGER tick
+Type 3
+Sc
+  walkto 4058
+  say The healer is under house arrest and her shop is closed down.
+  say She has resisted our occupation and will be executed soon.
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+chobj self %shield% 12234
+if (%start-arg% cmp "start" && %shield% == 0)
+  cmd load obj 12233
+  cmd wear breast
+  cmd load obj 12234
+  cmd wear shield
+  cmd load obj 12235
+  cmd wield longsword
+  halt triggers~
+End
+
+#TRIGGER move
+Type 11
+Sc
+  walkto 4058
+  halt once~
+End
+
+#END

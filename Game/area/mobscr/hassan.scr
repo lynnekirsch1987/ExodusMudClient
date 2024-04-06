@@ -1,0 +1,156 @@
+* File: hassan.scr
+* Mob: Hassan(3011)
+
+
+#TRIGGER happyhour
+Type 99
+Sc
+yell HAPPY HOUR!
+signal 3060 happyhour
+walkto 3007
+wait 120~
+Sc
+yell BACK TO WORK!
+signal 3060 backwork
+walkto 3001~
+End
+
+#TRIGGER gohome
+Type 99
+Sc 
+mfunc self %rvnum% room
+mfunc %gohome-from% %name% name
+mfunc self %pos% position
+if ( %rvnum% == 3001)
+   say I _am_ home, dummy.
+   slap %name%~
+Sc
+if ( %pos% == 7 )
+  say But I'm FIGHTING!
+  halt once~
+Sc
+say Say, that's a good idea %name%...  I _will_ go home!
+walkto 3001~
+End
+
+#TRIGGER moves
+Type 11
+*
+Sc
+mfunc %moves-from% %rvnum% room
+if ( %rvnum% == 3001 )
+   say Home at last!
+   halt once~
+Sc
+wfunc %rnd% random 0 3
+if ( %rnd% == 0 )
+   say Excuse me...pardon me...important person coming through.
+   halt once~
+Sc
+if ( %rnd% == 3 )
+   say Move along! Out of the way!
+   halt once~
+End
+
+#TRIGGER enter
+Type 10
+*
+Sc 
+mfunc %enter-from% %race% race
+mfunc %enter-from% %name% name
+look %name%
+wait 1~
+Sc
+if ( %race% == 1 )
+   say Hello, %name%!
+   jump 6~
+Sc
+if ( %race% == 2 )
+   say Hey Elfie.
+   jump 6~
+Sc
+if ( %race% == 3 )
+   say Hi, %name%, kinda short, ain't ya?
+   snicker
+   jump 6~
+Sc
+if ( %race% == 4 )
+   say Hi Canthi-wanthi-weiner-head!
+   chuckle~
+Sc 
+if ( %race% == 5 )
+   say Filthy Vroath...
+   growl %name%
+   halt once~
+Sc 
+if ( %race% == 6 )
+   say I don't particularly like Syvin-folk.
+   halt once~
+Sc 
+mfunc %enter-from% %sex% sex
+if ( %sex% == 2 )
+  goose %name%
+  wink %name%~
+End
+
+#TRIGGER getobj
+Type 5
+Sc 
+mfunc %getobj-from% %name% name
+ofunc %getobj-arg% %vnum% vnum
+ofunc %getobj-arg% %oname% name
+if ( %vnum% == 1400 )
+   let %long% == Hassan is SO happy he has an ebony kris, and he has %name% to thank for it.
+   msign %getobj-to% %long% long
+   say Hey pal! Thanks for the kris!
+   hug %name%
+   halt once~
+Sc 
+say What is this? I don't want it.  Have it back.
+give %oname% %name%~
+End
+
+#TRIGGER born
+Type 4
+Sc say I'm BACK!~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+mfunc self %name% name
+getch %chname%
+if ( %chname% cmp %name% )
+   halt once~
+Sc
+say No loitering, %chname%.
+push %chname% south~
+End
+
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 4
+mfunc %cmb-from% %name% name
+if (%rndnum% == 0)
+   say I am gonna stomp you, %name%!
+   halt once~
+Sc
+if (%rndnum% == 1)
+   say You will die at my hand, %name%!
+   halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %name% name
+wfunc %theyear% year
+say I have been bested by %name%, in the year %theyear%!
+say AVENGE ME, CITYGUARDS!
+emote gasps his last breath.~
+End
+
+#END
+

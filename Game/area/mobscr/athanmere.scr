@@ -1,0 +1,16 @@
+* File: athanmere.scr
+* Mob: King Athanmere (155)
+
+#TRIGGER plana
+Type 8
+Sc
+  if ("plana-arg" cmp "plana")
+  cmd shout Shaladar, I demand you free the prisoners in the cathedral!
+  cmd shout Your head will sit on a pike atop my castle for this!
+  cmd shout Citizens, fear not.  Help is on the way!
+* Now he signals Godfrey to beat some ass!
+  signal 4230 kickass
+  halt once~
+End
+
+#END

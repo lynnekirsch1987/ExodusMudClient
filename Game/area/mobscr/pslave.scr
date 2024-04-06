@@ -1,0 +1,86 @@
+* File: pslave.scr
+* Mob: Poor Slave(19010)
+
+#TRIGGER begga
+Type 10
+Sc
+mfunc %begga-from% %gold% gold
+mfunc %begga-from% %silver% silver
+mfunc %begga-from% %sex% sex
+if ( %gold% < 500 ) && ( %silver% < 5000 )
+   halt once~
+Sc
+beg %begga-from%
+if ( %sex% == 2 )
+   say Please ma'am, could you spare a coin?
+   halt once~
+Sc
+   say Please kind sir, can you spare a few coins?
+   halt once~
+End
+
+#TRIGGER begtick
+Type 3
+Sc
+wfunc %rnd% random 0 6
+if ( %rnd% == 0 )
+   cmd sigh
+   halt once~
+Sc
+if ( %rnd% == 1 )
+   cmd groan
+   halt once~
+Sc
+if ( %rnd% == 2 )
+   cmd grumble
+   halt once~
+Sc
+if ( %rnd% == 3 )
+   cmd whine
+   halt once~
+Sc
+if ( %rnd% == 4 )
+   cmd grovel
+   halt once~
+End
+
+#TRIGGER gimmie
+Type 5
+Sc
+ofunc %gimmie-arg% %oname% name
+ofunc %gimmie-arg% %otype% item_type
+if ( %oname% cmp "NOTHING" )
+   say Wow, thanks!  I can use this to feed my family!
+   halt once~
+Sc
+if ( %otype% == 19 )
+   say Thanks! I am *SO* hungry!
+   eat %oname%
+   halt once~
+Sc
+if ( %otype% != 17)
+   say Thanks...I'm sure I can use this..for something.
+   cmd shrug
+   halt once~
+Sc
+   ofunc %gimmie-arg% %val% 1
+   say Thank you gentle person!  I am very thirsty.
+   if ( %val% > 0)
+      drink %oname%
+      cmd belch
+      halt once~
+Sc
+   ofunc %gimmie-arg% %oshort% short
+   emote attempts to drink %oshort%.
+   say Empty?  Bastard!
+   spit %gimmie-from%
+   halt once~
+End
+
+#END
+
+
+
+
+
+

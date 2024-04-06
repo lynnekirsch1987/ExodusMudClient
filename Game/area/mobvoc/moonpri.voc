@@ -1,0 +1,11 @@
+Moonlyte
+hi|hello|greetings:>3:-:Greetings $name.  What is it you seek?;cmd bow
+quest|hummingbird|wizard|moon|temple|enter:>3:-:Very well.  In order to enter the Temple of the Moon, tell me, what is the symbol etched on the throne of our Great King?
+test&me:>3:-:Very well.  What is the name of the First Age?
+four&ocelot:>3:-:Correct.  What is the name of the Second Age?
+four&wind:>3:-:Correct.  What is the name of the Third Age?
+four&rain:>3:-:Correct.  What is the name of the Fourth Age?
+four&water:>3:-:Correct.  What is the name of the Age we now live in?
+four&earthquake:>3:-:Correct.  What is the name of the next Age to come?
+four&fires:>3:-2:You have been found worthy.;cmd pray sanctuary $name;cmd pray bless $name
+fire|flame|flames:>3:-:Correct.  Enter the temple at your own risk.  May you be powerful enough to fulfill each of the tasks presented to you.;cmd unlock east;cmd open east;cmd bow $name

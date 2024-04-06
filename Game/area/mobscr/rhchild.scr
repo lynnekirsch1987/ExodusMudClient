@@ -1,0 +1,54 @@
+* File: rhchild.scr
+* Mob: human child(5112)
+
+#TRIGGER rattle
+Type 5
+Sc
+mfunc %rattle-from% %name% name
+ofunc %rattle-arg% %ovnum% vnum
+ofunc %rattle-arg% %objname% name
+if ( %ovnum% == 5121 )
+   cmd shake
+   say you take!
+   cmd drool
+   give %objname% %name%
+   halt once~
+Sc
+if ( %ovnum% == 5122 )
+*   cmd at 1 eat pacifier
+*   emote places a pacifier in his mouth.
+*   echo You feel the air stir about you!
+*   mob trans %name% 13587
+*   cmd at 1 wizi 92
+*   goto 13587
+*   cmd at 1 wizi
+   say Please name me home, %rattle-from%.
+   cmd follow %rattle-from%
+   wait 60~
+Sc
+   cmd follow self
+   emote wanders off...
+   cmd at 1 wizi 92
+   cmd goto 1
+   cmd at 1 wizi
+   halt once~
+Sc
+   emote slobbers quietly and gnaws on %objname%.
+   eat %objname%
+   halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+wfunc self %room% room
+if (%room% == 13587)
+   cmd follow mother
+   cmd hug mother
+   signal 13432 reward
+   halt once~
+End
+
+#END
+
+

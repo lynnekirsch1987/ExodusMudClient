@@ -1,0 +1,25 @@
+* script: jezza.scr
+* Jezza, merchant in Nidae City (8514)
+
+#TRIGGER tick
+Type 3
+Sc
+if (%timer% > 0)
+  let %timer% -= 1
+halt once~
+Sc
+* if (%timer% < 1) <- can't do an if within an if, so if the if above fails, this is essentially true
+  let %timer% == 40
+  wfunc %random% random 0 99
+  cmd at 1 drop poster
+  cmd at 1 purge
+  halt statement~
+* 1% chance of loading 1 of the item
+  Sc
+  if ( %random% < 1 )
+    cmd at 1 load obj 8514
+    halt statement~
+  halt once~
+End
+
+#END

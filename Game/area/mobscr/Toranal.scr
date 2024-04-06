@@ -1,0 +1,23 @@
+* File: ennuel.scr
+* Mob: Ennuel(8800)
+
+#TRIGGER getout
+Type 10
+Sc
+mfunc %getout-from% %whoru% name
+mfunc %getout-from% %rubuff% level
+mfunc %getout-from% %rurich% gold
+if ( %rubuff% <= 25 ) && ( %rurich% <= 50 )
+say You dare intrude?
+MOB push %whoru% north
+halt once~
+Sc
+let %rurich% = %rurich% - 50
+if ( %rurich% < 0 )
+   let %rurich% = 0~
+Sc
+msign %getout-from% %rurich% gold
+say You have been relieved of your wealth in exchange for solace.~
+End
+
+#END

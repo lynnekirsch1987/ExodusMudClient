@@ -1,0 +1,698 @@
+#PLAYER
+Name Pasmer~
+Id   867401373
+LogF 1088381703
+LogO 1088382225
+Vers 8
+Desc A crimson flesh tone stands tall and broad on bulky legs. Arms the size of
+two decapitated heads wield razor-honed weapons in rough, worn hands. Broad
+shoulders support an immensely thick skull with little room for mental acuity.
+Deep set eyes are nearly closed, yet sharp as a hawk. Obviously, this creature
+is both predator and prey.
+~
+Prom `aHP:%h MA:%m MV:%v `d%g `h%s `a%a TNL:`n%X %S ~
+Race vro'ath~
+Sex  1
+Cla  3
+Cla2  3
+Cla3  3
+Levl 38
+Wants 12
+WTime 999986
+AALevl 2
+PBKill 23
+MBKill 10
+PHKill 104
+MHKill 4055
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 1112615
+NPlyd 0
+NAge 0
+Bank_Gold 1200
+Bank_Silv 180000
+Email ripper@flash.net~
+Referrer ~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 0
+Race_Old -1
+Class_Old -1
+New_Style 0
+Totalxp 1140
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+MPC 0
+Host c-67-162-179-5.client.comcast.net~
+Not  921913150 907715406 0 907098480 1041229828 0 0 0
+Scro 22
+Room 4257
+HMV  726 726 144 144 359 359
+Hand 1
+Gold 51
+Silv 329
+Exp  234293
+Act  CDEGHRa
+Blok -1
+Comm MNOS
+Com2 A
+Pos  8
+Alig  -1000
+Hit   21
+Dam   43
+ACs 53 53 53 62
+Wimp  120
+Attr 24 13 8 14 21 3
+AMod 3 1 0 3 2 -4
+Pass Pa0cGBBrQAjEU~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  ``         `a=`o:`hBMF`o:`a=`.~
+Pnts 85
+TSex 1
+LLev 271
+Loner 1
+HMVP 716 174 297
+Cd  -16 -16 47 46 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Sk 1 'axe'
+Sk 95 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'shield block'
+Sk 1 'staff'
+Sk 100 'sword'
+Sk 1 'uppercut'
+Sk 1 'riding'
+Sk 1 'retreat'
+Sk 98 'dual wield'
+Sk 100 'bash'
+Sk 1 'charge'
+Sk 60 'berserk'
+Sk 58 'disarm'
+Sk 84 'dodge'
+Sk 1 'fisticuffery'
+Sk 100 'enhanced damage'
+Sk 55 'swimming'
+Sk 98 'hand to hand'
+Sk 1 'kick'
+Sk 45 'sweep'
+Sk 89 'parry'
+Sk 66 'rescue'
+Sk 1 'door bash'
+Sk 1 'hone'
+Sk 70 'throwing'
+Sk 77 'butcher'
+Sk 95 'redirect'
+Sk 99 'second attack'
+Sk 89 'third attack'
+Sk 96 'fast healing'
+Sk 55 'blindfighting'
+Sk 1 'fishing'
+End
+
+#O
+Vnum 12404
+Nest 0
+Name mephisto ebony helm malstring~
+ShD  `aA Mephisto's Ebony Helm``~
+Desc `aA dark helmet lies here gathering dust.``~
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 20389
+Nest 0
+Cond 100
+Wear 10
+Cost 142
+End
+
+#O
+Vnum 553
+Nest 0
+Wear 3
+Cost 300
+End
+
+#O
+Vnum 1502
+Nest 0
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 4102
+Nest 0
+Wear 12
+Cost 105
+End
+
+#O
+Vnum 12929
+Nest 1
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5616
+Nest 1
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 22005
+Nest 1
+ExF 0 264720
+Wear -1
+Cost 5309
+End
+
+#O
+Vnum 1292
+Nest 1
+Name quest token tag#varruk2~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4038
+Nest 1
+Name questitem figurine lisara wooden immstring~
+ShD  `cA carved `dwooden`c life-sized figurine``~
+Desc `oA `dwooden`o replica of Lisara sits here waiting for the Brothel.``~
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 25262
+Nest 1
+Name key room~
+ShD  key to Spydr's room~
+Desc A metal key to '`nS`opydr's `nW`oeb``' is here.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4083
+Nest 1
+Wear -1
+Cost 8790
+End
+
+#O
+Vnum 7075
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 159
+Nest 1
+ExF 0 8650752
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 8834
+Nest 1
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 8834
+Nest 1
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 8834
+Nest 1
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 8834
+Nest 1
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 8834
+Nest 1
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 8834
+Nest 1
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 713
+Nest 1
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 28006
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 20964
+Nest 0
+Wear 7
+Cost 140
+End
+
+#O
+Vnum 5351
+Nest 0
+ExF 0 8654848
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 7264
+Nest 0
+Wear 19
+Cost 1560
+End
+
+#O
+Vnum 4450
+Nest 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 4173
+Nest 0
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12219
+Nest 0
+Wear 5
+Cost 0
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 2624
+Nest 0
+ExF 0 9732162
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 5113
+Nest 0
+Name dagger sacrificial spider~
+Wear -1
+Cost 17039
+End
+
+#O
+Vnum 5343
+Nest 0
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 12929
+Enchanted
+Nest 0
+ExF 0 65
+Wear -1
+Lev  28
+Cost 75
+Affc 'enchant weapon'   1  87  -1   4  19          0 0 ''
+Affc 'enchant weapon'   0  87  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 4450
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8707
+Nest 0
+ExF 0 25428033
+Wear 0
+Cost 0
+ExDe ball fire~ The ball of fire is hot to the touch and very very bright.
+~
+End
+
+#O
+Vnum 805
+Nest 0
+ExF 0 8388611
+Wear -1
+Cost 0
+ExDe gauntlets~ Some real real real real real real powerful frickin' gauntlets are here.
+~
+End
+
+#O
+Vnum 4460
+Nest 0
+Wear 14
+Cost 5000
+End
+
+#O
+Vnum 4459
+Nest 0
+Wear 13
+Cost 4000
+End
+
+#O
+Vnum 4460
+Nest 0
+Wear 15
+Cost 5000
+End
+
+#O
+Vnum 116
+Enchanted
+Nest 0
+ExF 0 67
+Wear 16
+Lev  48
+Cost 0
+Vlues  1 3 12 10 128 0 0 0 0 0 0 0 0
+Affc 'enchant weapon'   0  83  -1   6  18          0 0 ''
+Affc 'enchant weapon'   1  83  -1   6  19          0 0 ''
+ExDe epee~ This is a thin sword that is traditionally used in duels and in other
+sword fighting events where death is not a major concern.  It is a sporting
+sword, but nevertheless, effective in some situations.  
+~
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 11525
+Nest 0
+Wear -1
+Cost 406
+End
+
+#O
+Vnum 4083
+Nest 0
+Wear -1
+Cost 8790
+End
+
+#RoomRLE   4255 3 61277 -1
+
+#END

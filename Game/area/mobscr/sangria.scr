@@ -1,0 +1,69 @@
+* File: Sangria.scr
+* Mob: Sangria (6051)
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc self %myhealth% hit
+if ( %challenge% < 1)
+  halt once~
+Sc
+if (%myhealth% < 2500)
+  cmd peace
+* stops active combat
+  say You have done well.  You are worthy of my blood...
+  msign %combat-from% -1 hit
+* sets player hp to -1
+  pecho %combat-from% Sangria opens a wound to his wrist and allows a few drops of blood to drip onto your lips, giving you the first taste of what is to come...
+  cmd set char %combat-from% race kalian
+  cmd set char %combat-from% gainedhp 0
+  cmd im DEBUG: setting %combat-from%'s gainedhp to 0
+  cmd set char %combat-from% gainedmana 0
+  cmd im DEBUG: setting %combat-from%'s gainedmana to 0
+  cmd set char %combat-from% gainedmove 0
+  cmd im DEBUG: setting %combat-from%'s gainedmove to 0
+  cmd set char %combat-from% level 1
+  cmd im DEBUG: setting %combat-from%'s level to 1
+  cmd set char %combat-from% hp 30
+  cmd im DEBUG: setting %combat-from%'s hp to 30
+  cmd set char %combat-from% mana 100
+  cmd im DEBUG: setting %combat-from%'s mana to 100
+  cmd set char %combat-from% move 100
+  cmd im DEBUG: setting %combat-from%'s movement to 100
+  wait 2~
+Sc
+if ( %myhealth% < 2500)
+  cmd im DEBUG: forcing %combat-from% to reroll by setting all stats to extra-shitty 5
+  cmd set char %combat-from% str 5
+  cmd set char %combat-from% int 5
+  cmd set char %combat-from% wis 5
+  cmd set char %combat-from% dex 5
+  cmd set char %combat-from% cha 5
+  cmd set char %combat-from% con 5
+  cmd at 1 restore
+  cmd kill %combat-from%
+  cmd get corpse
+  cmd at %combat-from% plant corpse
+  cmd tell %combat-from% You may want to reroll your stats.
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+mfunc self %myhealth% hit
+let %challenge% == 0
+halt once~
+End
+
+#TRIGGER challenge
+Keywords challenge~
+Type 0
+Sc
+  say Alright, it's your death.
+  let %challenge% == 1
+  cmd kill %challenge-from%
+  halt once~
+End
+
+#END

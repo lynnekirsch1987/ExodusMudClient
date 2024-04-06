@@ -1,0 +1,758 @@
+#PLAYER
+Name Stunblade~
+Id   1011038853
+LogF 1059291814
+LogO 1059293152
+Vers 8
+Prom <Hp:%h/%H ma:%m MV:%v $:%s/%g tnl:%X>%S(%r)%e ~
+Race human~
+Sex  1
+Cla  3
+Cla2  3
+Cla3  3
+Levl 22
+MHKill 689
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 89194
+Bank_Gold 159
+Bank_Silv 2500
+Email acmarshall@wichita.edu~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+New_Style 1
+Totalxp 7929100
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+Host ip68-102-115-235.ks.ok.cox.net~
+Not  1034826457 1034826457 1034826457 1034826457 1034826457 1034826457 1034826457 0
+Scro 22
+Room 4196
+HMV  142 315 117 117 196 196
+Hand 2
+Gold 21
+Silv 716
+Exp  907847
+Act  CDGHQ
+Blok -1
+Comm LMNOS
+Pos  8
+Alig  759
+Hit   15
+Dam   17
+ACs 61 61 61 72
+Wimp  80
+Attr 21 6 17 13 18 6
+AMod 4 6 0 1 2 -1
+Pass Stx00pshctC..~
+Bcry  yells '`kFinishing Strike, `nSteel `iBlaze `mSaber!~
+Layhands 0
+Exorcise 0
+Titl  the wandering swordsman~
+Pnts 43
+TSex 1
+LLev 24
+Loner 0
+HMVP 340 142 186
+Cnd  -15 -16 11 11
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias al alias~
+Alias f flee~
+Alias b butcher corpse~
+Alias q bash~
+Alias p stun~
+Alias 0 sweep~
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 66 'shield block'
+Sk 1 'stun'
+Sk 1 'staff'
+Sk 66 'sword'
+Sk 1 'uppercut'
+Sk 1 'riding'
+Sk 1 'retreat'
+Sk 1 'dual wield'
+Sk 56 'bash'
+Sk 46 'charge'
+Sk 36 'berserk'
+Sk 1 'disarm'
+Sk 61 'dodge'
+Sk 1 'fisticuffery'
+Sk 1 'enhanced damage'
+Sk 1 'swimming'
+Sk 1 'hand to hand'
+Sk 11 'kick'
+Sk 1 'sweep'
+Sk 61 'parry'
+Sk 1 'rescue'
+Sk 26 'door bash'
+Sk 1 'hone'
+Sk 1 'throwing'
+Sk 26 'butcher'
+Sk 31 'redirect'
+Sk 61 'second attack'
+Sk 1 'third attack'
+Sk 26 'fast healing'
+Sk 11 'blindfighting'
+Sk 21 'fishing'
+Gr 'rom basics'
+GStats  8 0 689 0 0 767 24 7929100 8097 
+End
+
+#O
+Vnum 4294
+Nest 0
+ExtF 8650752
+Cond 100
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 109
+Nest 0
+ExtF 25165825
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 0
+ExtF 8388608
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 1502
+Nest 0
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 21086
+Nest 0
+ExtF 8388608
+Wear -1
+Cost 0
+Val  60 12 3 0 0 0 0
+End
+
+#O
+Vnum 4102
+Nest 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 21072
+Nest 1
+Wear -1
+Cost 12
+End
+
+#O
+Vnum 20959
+Nest 1
+Wear -1
+Cost 53
+End
+
+#O
+Vnum 7903
+Nest 1
+Wear -1
+Time 22
+Cost 10
+Spell 1 'mass levitation'
+End
+
+#O
+Vnum 4309
+Nest 1
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 13418
+Nest 1
+ExtF 8650753
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 810
+Nest 1
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 11533
+Nest 1
+Wear -1
+Cost 230
+End
+
+#O
+Vnum 551
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5619
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12918
+Nest 1
+ExtF 8650753
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12918
+Nest 1
+ExtF 8650753
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20974
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11533
+Nest 0
+Wear 14
+Cost 230
+End
+
+#O
+Vnum 4890
+Nest 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 4279
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 12952
+Nest 0
+ExtF 85721090
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 723
+Nest 0
+Wear 0
+Cost 8309
+End
+
+#O
+Vnum 4145
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5319
+Nest 0
+ExtF 25431104
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10762
+Enchanted
+Nest 0
+ExtF 8650819
+Wear -1
+Lev  33
+Cost 0
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 11399
+Nest 0
+ExtF 8388611
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20963
+Nest 0
+Wear -1
+Cost 78
+Val  0 0 198 0 0 0 0
+End
+
+#O
+Vnum 12223
+Nest 0
+ShD  `gThe Bracer of Command``~
+Desc `gA bracelet made of steel is here.``~
+ExtF 8390979
+Wear 15
+Cost 0
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 20389
+Nest 0
+ExtF 8650752
+Cond 100
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 4096
+Nest 0
+Wear -1
+Cost 1354
+End
+
+#RoomRLE   520 10 7 17 3 2 106 1 43 6 1 1 1 4 8 8 13 1 1 3 22 3 19 8 1 5 2 1 2 1 2 15 1 1 1461 2 6 2 7 1 7 1 5 2 2 1 3 7 1054 6 2 2 1 32 557 6 2 1 26 1 7 2 1 3 1 12 5 21 3 6 9 16 2 2 3 3 1 4 1 1 3 5 1 1 4 6 2 1 15 2 3 2 11 2 8 1 11 1 1 1 35 1 74 1 2 2 1 10 2 4 1 4 1 1 40 3 3499 1 3 1 4 8 1 1 2 1 5 26 2 3 5 2 3392 1 1578 2 8 2 8 2 8 2 7 3 7 5 5 3 1 1 2 9 1 152 61 1 2 7 1 7 1 3 1 1 3 9 168 1 4 1 4 1 3 2 3 2 3 8 7489 41 1 21 39 1 6 5 8 5 3 3 9 9 1 1 9 11 8 11 10 10 10 10 10 10 9 10 10 10 10 5 1 2 12 1 5 2 12 1 5 2 12 1 5 1 16 2 1 1 19 1 641 3 2 2 4 1 12 1 2 5 1 2 4 2 2 1 4 2 1 9 4 1 14 1 1 1 1 2 4 2 6 1 19 3 880 1 24 1 1982 1 6 1 75 1 111 1 38 1 266 1 318 1 61 1 233 1 108 1 5985 2 33314 -1
+
+#END

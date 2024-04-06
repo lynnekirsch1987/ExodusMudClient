@@ -1,0 +1,44 @@
+* File: CryptGuardian.scr
+* Mob: Crypt Guardian(953)
+
+#TRIGGER Guardian
+Type 2
+Sc
+mfunc %Guardian-from% %name% name
+wfunc %bonk% random 0 99
+if ( %bonk% < 10 )
+  emote performs an impresive parry, which it deftly turns into a ferocious counterattack.
+  cmd disarm %name%
+  cmd dirt %name%
+  wait 2~
+Sc
+if ( %bonk% < 10 )
+  cmd get 1.
+  halt once~
+Sc
+if ( %bonk% < 30 )
+  emote strikes %name% in a tender spot.
+  halt once~
+Sc
+if ( %bonk% < 40 )
+  say Have you seen this one before?
+  cmd grin %name%
+  cmd uppercut %name%
+  cmd uppercut %name%
+  halt once~
+Sc
+if ( %bonk% == 99 )
+  cmd peace
+  say Better luck next time.
+  emote grins broadly as he knocks %name% solidly on the head.
+  pecho %name% The crypt guardian's powerful strike sends you to the floor.
+  mfunc %guardian-from% %heh% hit
+  msign %guardian-from% 0 hit
+  wait 2~
+Sc
+if ( %bonk% == 99 )
+  cmd yell You're supposed to hit me, not the floor, %name%!
+  halt once~
+End
+
+#END

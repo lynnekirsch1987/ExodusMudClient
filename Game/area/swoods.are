@@ -1,0 +1,6376 @@
+#AREA
+ 6~
+swoods.are~
+`nSilver `lCrescent `nWoods``~
+{30 60} Indel  `nSilver `lCrescent `nWoods``~
+~
+10754 11004
+10 0 0
+0 0
+nyte~
+#MOBILES
+#10754
+Luthien ~
+Luthien, the Shadow Master~
+Luthien, the Shadow Master
+~
+This tall sleek man is cloaked in a long dark robe.  His captivating blue
+eyes dazzle you as he gazes up upon your entrance.  
+~
+syvin~
+0 0 0 0
+ABGJKb JZ 0 0
+100 0 1d1+2999 1d1+99 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 PX Z
+stand stand none 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+5
+luthien~
+luthien.scr~
+#10755
+Shea man~
+Shea~
+A young man leans against a fallen log, playing a small wooden flute.
+~
+With dark smooth features, this gentle man seems completely relaxed
+playing his flute.  The soft `lblue`` tunic and drab `dbrown`` breeches he
+wears provide a stark contrast to the way most Syvins dress.  Shea rests
+here, ready to teach you the fine art of being a bard.  
+~
+syvin~
+0 0 0 0
+ABGKb JZ 0 0
+40 40 15d10+1850 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 AB PX Z
+stand stand male 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+5
+~
+shea.scr~
+#10756
+Laric weathered man~
+Laric, the ranger~
+A lean weathered man sits on a log carving a piece of wood.
+~
+Clad in little more than a loincloth, Laric lifts his head as you
+approach from the rear.  Confident in his abilities he continues to carve
+the wood.  He is a middle aged man, weathered from many years spent in the
+woods.  
+~
+syvin~
+0 0 0 0
+ABGJKb JZ 0 0
+40 40 15d10+1850 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 PX Z
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10757
+small otter~
+A small otter~
+An otter wanders through the brush.
+~
+The small otter wanders through the forest in search of food.
+~
+fox~
+0 0 0 0
+AG Z -250 0
+5 5 1d1+64 1d1+99 2d3+2 none
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand none 0
+AGHMV ABCDEFGHIJKQVa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+3
+~
+~
+#10758
+small shrew~
+A small shrew~
+A tiny shrew sniffs the ground.
+~
+With a very pointed nose and velvety fur this little shrew is sniffing
+the ground trying to pick up the scent of something to eat.  
+~
+rabbit~
+0 0 0 0
+A 0 250 0
+1 1 1d1+16 1d1+99 1d2+0 bite
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKa 6 6 6 6 6 6 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#10759
+mink~
+A small mink~
+A small mink scurries through the woods.
+~
+The black coat of this mink gleams in the sunlight as it forages for food
+along the forest floor.  
+~
+cat~
+0 0 0 0
+A Z 0 0
+1 1 1d1+19 1d1+99 1d2+0 bite
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKQUVa 6 6 6 6 6 6 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#10760
+osprey~
+A large osprey~
+A large osprey is peering intently into the stream to the east.
+~
+The Osprey has fluffy dark brown feathers, while it's belly is white. 
+The osprey seems wary as you move through the area.  
+~
+song bird~
+0 0 0 0
+ABG T 0 0
+4 4 1d1+43 1d1+99 2d3+1 none
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10761
+ruffed grouse~
+A ruffed grouse~
+A ruffed grouse is here, searching for food.
+~
+With reddish brown feathers and a plump body, the grouse regards you
+pensively.  
+~
+song bird~
+0 0 0 0
+AG T 0 0
+3 3 1d6+24 1d1+99 1d3+2 none
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10762
+muskrat~
+A little muskrat~
+A muskrat waddles through the forest.
+~
+The glossy brown fur of the muskrat shines in the midday sun as it
+wanders through the forest foraging for food.  
+~
+rabbit~
+0 0 0 0
+AG 0 0 0
+3 3 1d6+24 1d1+99 1d3+2 bite
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10763
+squirrel~
+A squirrel~
+A squirrel is busy cracking open a nut.
+~
+The squirrel peers at you cautiously, uncertain whether to run or not.  
+~
+rabbit~
+0 0 0 0
+AG 0 0 0
+2 2 1d3+15 1d1+99 1d2+1 scratch
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKa 6 6 6 6 6 6 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#10764
+red wolf~
+A red wolf~
+A wolf bares his teeth and growls.
+~
+The smooth coat of the wolf has a reddish tint and the teeth look very
+sharp.  
+~
+wolf~
+0 0 0 0
+AGMNe Z 500 0
+20 20 1d1+399 1d1+99 0d0+0 none
+0 0 0 999 0
+0 -1 FH 0 I 0
+stand stand neutral 0
+AGV ACDEFJKQVa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10765
+Malagar shopkeeper stablekeeper~
+Malagar the stablekeeper~
+Malagar the stablekeeper stands here waiting to help you.
+~
+This gray haired old man has aged well for his many years.  Sweat beads
+on his forehead from the hard labor involved with tending horses.
+~
+syvin~
+0 0 0 0
+ABG JZ 0 0
+90 0 1d1+2999 1d1+99 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 PX Z
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium flesh~
+0 0 0 100
+5
+malagar.voc~
+~
+#10766
+paint horse~
+A paint horse~
+A brown and white horse is here prancing around the grass.
+~
+This horse is what is known as a paint for the pattern of color displayed
+on its coat.  Dark brown covering its hind parts provides a vivid contrast 
+to the white that wraps around its neck.  
+~
+unique~
+0 0 0 0
+AZ 0 0 0
+15 15 8d80+400 1d1+99 3d5+8 none
+-9 -9 -9 999 -9
+0 -1 0 0 0 0
+stand stand female 0
+0 0 9 9 9 9 9 9 0
+medium flesh~
+7 3 7000 600
+0
+~
+~
+#10767
+dapple gray horse~
+A dapple gray horse~
+A beautiful dapple gray horse is here.
+~
+The dapple gray coat of this horse gives it a uniqueness not found in
+many horses.  The shiny white and gray coat gleams in the sunlight and its
+bright blue eyes are lovely to gaze upon.  
+~
+unique~
+0 0 0 0
+AZ 0 0 0
+30 30 10d61+416 0d0+0 5d6+15 charge
+-9 -9 -9 999 -9
+0 -1 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJK 12 12 12 12 12 12 0
+medium flesh~
+6 4 8500 750
+0
+~
+~
+#10768
+cougar~
+A black cougar~
+A long sleek cougar lies in wait for its next prey.
+~
+~
+cat~
+0 0 0 0
+AFGNXe Z -250 0
+30 30 10d61+416 1d1+99 5d6+15 bite
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKQUVa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10769
+Syvin hunter~
+A syvin hunter~
+A dark skinned man moves silently through the brush.
+~
+Wearing nothing more than a piece of cloth about the waist, this hunter
+can move silently through the forest stalking his next kill.  He has golden
+brown skin and an elongated, almost oval shaped face.  
+~
+syvin~
+0 0 0 0
+AGMT JZ 0 0
+35 35 1d1+769 1d1+99 6d6+14 slice
+-1 -1 -1 999 0
+0 -1 JU 0 PX Z
+stand stand male 50
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+4
+hunter.voc~
+~
+#10770
+elk~
+A large elk~
+A graceful elk wanders through the woods.
+~
+~
+rabbit~
+0 0 0 0
+AG 0 0 0
+15 15 1d1+254 1d1+99 3d5+8 charge
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10771
+deer~
+A deer~
+A deer grazes peacefully on one of the bushes.
+~
+~
+dog~
+0 0 0 0
+AG 0 500 0
+12 12 1d1+179 1d1+99 3d5+2 none
+0 0 0 999 0
+0 -1 H 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKUVa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10772
+draft horse~
+A draft horse~
+A large, very muscular horse is here, ready for hard work.
+~
+The bulging shoulder muscles and huge size of this horse is amazing. 
+Standing every bit as tall as a human and weighing an immense amount 
+of weight, this horse looks as if it has done its share of work through 
+the years.  
+~
+unique~
+0 0 0 0
+AZ 0 0 0
+50 50 10d169+920 1d1+99 5d10+25 charge
+-2 -2 -2 999 0
+0 -1 0 0 I 0
+stand stand none 0
+0 0 16 16 16 16 16 16 0
+large flesh~
+1 2 5000 100
+0
+~
+~
+#10773
+donkey~
+A small donkey~
+A worn and haggard donkey is resting here.
+~
+This frail looking donkey appears to be on his last legs.  His coat no
+longer shines and he hangs his head low, unable it seems to keep it up.  
+~
+unique~
+0 0 0 0
+AZ 0 0 0
+5 5 1d17+42 1d1+99 2d3+2 charge
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 0
+0 0 7 7 7 7 7 7 0
+medium flesh~
+0 0 1000 100
+0
+~
+~
+#10774
+wild boar~
+A wild boar~
+A wild boar grunts and snorts while foraging for food.
+~
+The dark fur of the boar is filthy and it has two sharp teeth protruding
+up from the bottom jaw.  
+~
+pig~
+0 0 0 0
+AG 0 -250 0
+25 25 1d1+499 1d1+99 4d6+15 charge
+0 0 0 999 0
+0 -1 H 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKUVa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10775
+black bear~
+A black bear~
+A large black bear growls as you approach.
+~
+The large bulky body of the bear is quite deceiving.  Capable of quick
+movement, the bear presents itself as a formidable foe should it decide 
+to attack.  
+~
+bear~
+0 0 0 0
+AG 0 -250 0
+25 25 1d1+499 1d1+99 4d6+4 charge
+0 0 0 999 0
+0 -1 DEHO 0 EI 0
+stand stand neutral 0
+AGV ABCDEFHJKUVa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10776
+lovely maiden Lysaer~
+A lovely maiden~
+A lovely maiden sits by the spring with a peaceful look in her eyes.
+~
+This young lady is quite attractive with long slim legs and naturally
+dark skin.  Her long brown hair blows gently in the cool breeze.  Her
+beautiful green eyes are mesmerizing as she gazes at you.  
+~
+syvin~
+0 0 0 0
+ABG JZ 0 0
+100 0 1d1+2999 1d1+99 1d1+1 none
+0 0 0 999 0
+0 -1 0 ACD CDPX Z
+stand stand female 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+6
+~
+~
+#10777
+gray fox~
+A gray fox~
+A gray fox darts through the forest.
+~
+~
+fox~
+0 0 0 0
+AG Z 0 0
+17 17 2d10+270 1d1+99 3d5+10 bite
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand male 0
+AGV ACDEFHJKQVa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#10778
+wild turkey~
+A wild turkey~
+The gobble of the wild turkey resonates throughout the forest.
+~
+~
+rabbit~
+0 0 0 0
+AG 0 -250 0
+15 15 1d1+254 1d1+99 3d5+3 charge
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand male 0
+AGV ACDEFHJKa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#10783
+skink~
+A skink~
+A small skink darts across the ground.
+~
+As the skink races by you notice its smooth black skin is striped with
+dark blue lines.  
+~
+lizard~
+0 0 0 0
+AG 0 0 0
+7 7 2d3+78 1d1+99 2d4+3 bite
+0 0 0 999 0
+0 -1 H 0 L I
+stand stand none 0
+AGXc ACDEFHKQVa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10784
+rattlesnake~
+A rattlesnake~
+A rattlesnake shakes its tail noisily as it slides along the ground.
+~
+The brown skin of the rattlesnake gives a wet appearance as it gleams in
+the sunlight.  
+~
+snake~
+0 0 0 0
+AGNXe Z -250 0
+30 30 5d10+850 1d1+99 5d6+5 bite
+0 0 0 999 0
+0 -1 FH 0 L I
+stand stand none 0
+AGVXYc ACDEFHJKLQUVXa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10785
+garter snake~
+A garter snake~
+A small, harmless looking snake slithers along the ground.
+~
+~
+snake~
+0 0 0 0
+AGY 0 250 0
+8 8 1d1+104 1d1+99 2d3+2 bite
+0 0 0 999 0
+0 -1 HM 0 L I
+stand stand female 0
+AGHMVWXYc ADEFKLPQVXa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#10786
+loon bird~
+A loon~
+A loon swivels its head to look at you.
+~
+The loon flaps its wings as you approach showing you its large wingspan. 
+It is cautious that you are around, hoping that you make no sudden moves 
+towards it.  
+~
+song bird~
+0 0 0 0
+AGY T 250 0
+8 8 1d1+104 1d1+99 2d3+2 peck
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand female 0
+AGHMVWXYc ABCDEFGHIJKLPQVXZa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#10787
+hawk~
+A brown hawk~
+A brown hawk circles and lands on a branch.
+~
+The hawk has dull brown feathers and sways back and forth while perched
+on the limb.  It glances about, while keeping an eye on you.  
+~
+song bird~
+0 0 0 0
+AG T 500 0
+12 12 1d1+179 1d1+99 3d5+3 claw
+0 0 0 999 0
+0 -1 FH 0 0 0
+stand stand male 0
+AGVW ACDEFHJKPUVZa 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#10788
+silent hunter~
+A silent hunter~
+A figure so stealthy you can barely glimpse at it dashes through the forest without making a noise.
+~
+You try and catch a glimpse of the visage of this stealthy figure, but it
+moves quickly through the bushes before you can get a good look.  
+~
+syvin~
+0 0 0 0
+AXc JPVZ 0 0
+43 43 10d60+1529 10d10+100 5d8+20 pierce
+-12 -12 -12 999 -9
+0 -1 FJKN 0 PX Z
+stand stand either 0
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 500
+0
+~
+~
+#10789
+Stexis spider~
+`athe spider Stexis``~
+`aA bloated spider of monstrous proportions quietly sucks the blood from a silk enshrouded victim.``
+~
+`aLarger than most creatures of the forest and jungles of Exodus, ageless Stexis has
+preyed on unwary victims in the Silver Crescent Woods.  Huge, horn-like pincers below
+his hundreds of eyes, drip a green, putrescent ichor.  Behind his smaller, black,
+disgusting head, his massive, soft, bloated, bag-like body is supported by eight tall
+legs which rise above his body to a joint only to bend down to the forest floor.  Each
+narrow shaft ends in a hideous claw.``
+~
+human~
+0 0 0 0
+ABCFNT HVac -1000 0
+55 55 20d30+2494 1d40+300 7d7+7 crush
+-33 -33 -33 999 -11
+0 -1 DEFHK ABNa HQ 0
+stand stand male 2095
+AHMPV ABCDEFGHIJKUVa 17 17 17 17 17 17 30066
+huge flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#10754
+rope~
+a rope~
+~
+cloth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G JKM C
+0
+0
+0 9999 0 P
+#10755
+rope~
+a rope~
+~
+cloth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCDEFGHIKM C
+0
+0
+0 0 0 P
+#10756
+rope~
+a rope~
+~
+cloth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G AJKM C
+0
+0
+0 9999 0 P
+#10757
+rope~
+a rope~
+~
+cloth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ACDEFGHIKM C
+0
+0
+0 9999 0 P
+#10758
+rope~
+a rope~
+~
+cloth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G BCDEFGHIKM C
+0
+0
+0 9999 0 P
+#10759
+tunnel~
+through a narrow tunnel~
+~
+earth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCEFGJLN F
+0
+0
+0 9999 0 P
+#10760
+tunnel~
+through a tunnel~
+~
+earth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G BCEFGJLN F
+0
+0
+0 9999 0 P
+#10761
+natural spring~
+A Spring~
+A natural spring nourishes the rich environment.~
+water~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 9999 0 P
+#10762
+long bone sword~
+a long bone sword~
+A sword carved from bone lies here.~
+bone~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A AC BC A 0
+0
+0
+20 100 3000 P
+#10763
+bone dagger~
+a deadly bone dagger~
+A deadly looking dagger shrieks danger as you approach it with caution.~
+bone~
+0
+weapon 2
+HJKS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+B AC BC ABD H
+0
+0
+35 21 0 P
+A
+18 2
+A
+19 2
+#10764
+cermonial ankle anklet~
+a ceremonial ankle bracelet~
+A small circlet of bones and leather lays on the ground.~
+soft leather~
+0
+armor 2
+KS
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 C 0
+0
+0
+33 9 0 G
+A
+24 -3
+A
+2 1
+#10765
+leather sheath~
+a leather sheath~
+A belt fashioned out of hard leather sits on the ground before you.~
+hard leather~
+0
+container 2
+S
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CFG 0 0 BEF ABDG
+0
+0
+41 14 0 G
+A
+19 1
+#10766
+skull necklace~
+a necklace made of skulls~
+Shrunken skulls ornament this frightening looking necklace.~
+bone~
+0
+treasure 2
+JKS
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+36 31 0 G
+A
+19 3
+#10767
+red fungus~
+`ba red fungus``~
+A deep red patch of fungus sprouts out of the ground here.~
+food~
+0
+food 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BD BD BC 0 0
+0
+0
+5 5 20 P
+#10768
+red fungus~
+`ba red fungus``~
+A deep red patch of fungus sprouts out of the ground here.~
+food~
+0
+food 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BD BD BC A 0
+0
+0
+5 5 20 P
+#10769
+red fungus~
+`ba red fungus``~
+A deep red patch of fungus sprouts out of the ground here.~
+food~
+6
+pill 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BD 'weaken' 'reserved' 'reserved' 'reserved'
+0
+0
+5 5 40 P
+#10770
+blue fungus~
+`ea blue fungus``~
+A dark blue fungus sprouts from the ground here.~
+food~
+0
+food 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CD CD BC 0 0
+0
+0
+10 5 55 P
+#10771
+blue fungus~
+`ea blue fungus``~
+A dark blue fungus sprouts from the ground here.~
+food~
+0
+food 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BCD ABCD BC 0 0
+0
+0
+10 5 70 P
+#10772
+blue fungus~
+`ea blue fungus``~
+A dark blue fungus sprouts from the ground here.~
+food~
+7
+pill 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BD 'sleep' 'reserved' 'reserved' 'reserved'
+0
+0
+10 5 70 P
+#10773
+green fungus~
+`ja green fungus``~
+A green fungus spreads out in circles here.~
+unknown~
+0
+pill 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD 'heroes feast' 'reserved' 'reserved' 'reserved'
+0
+0
+10 5 600 P
+#10774
+breastplate spider silk spidersilk~
+`ha spider-silk breastplate``~
+`hA breastplate of some unfortunate has been coated in thick, unbreakable stands of spidersilk.``~
+silk~
+0
+armor 2
+CEJQSTY
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABD ABD ABD ABD 0
+0
+0
+45 200 12000 P
+A
+13 15
+#10775
+helmet spider silk spidersilk~
+`ha horned, spider-silk helmet``~
+`hA horned helmet covered in the steel-strong strands of spider-silk lies here unused.``~
+silk~
+0
+armor 2
+CEGJQSTY
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+40 50 14965 P
+A
+1 1
+A
+2 1
+A
+13 15
+#10776
+leggings spider silk spidersilk~
+`hspider-silk leggings``~
+`hA pair of armored leggings covered in thick, grey strands of spider-silk, have been carelessly left here.``~
+silk~
+0
+armor 2
+CEGJQSTY
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+40 100 14958 P
+A
+14 50
+A
+13 15
+#10778
+viola instrument~
+`ha well-used `bviola``~
+`hThis instrument displays the fine craftsmanship of the Syvin.``~
+wood~
+0
+instrument 2
+GS
+0
+AO
+G
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 2 5000 P
+A
+12 15
+A
+19 4
+#10779
+ring toadstools~
+`da ring of toadstools``~
+`cA ring of `dtoadstools`c sit undisturbed in the shade of the nearby trees.``~
+sponge~
+15
+portal 2
+GSTa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+`kAll sounds of nature stop as $n walks into the ring of toadstools.  After a few seconds, everything returns to normal.``~
+`kYou feel a low hum all around as you step into the ring of toadstools.``~
+~
+`kYour vision blurs momentarily, and when it clears, you find yourself in a new place.``~
+A 0 G DGHJMN A
+0
+0
+0 0 0 P
+#10780
+wisps web~
+`hwisps of webbing``~
+`hLong wispy strands of web dangle from treelimbs and sway in the breeze.``~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+10780
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 0 0 P
+#10781
+wisps web~
+`hthick clumps of silken webs``~
+`hThick clumps of sticky webbing prevents easy movement anywhere nearby.``~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+10781
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 0 0 P
+#0
+
+#ROOMS
+#10754
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest enhance 
+nature's ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 O none~
+D0
+~
+~
+0 0 10914
+D2
+~
+~
+0 0 18578
+D3
+~
+~
+0 0 18575
+S
+#10755
+100 300
+~
+~
+~
+0 0 0
+`jThe Stable``~
+`dStepping under the cover of the stable and glancing about reveals a
+small, very roughly built wooden shed.  The stable is simple, yet serves its
+purpose quite well.  The stench of manure fills the air and the stomping of
+hooves and whinnies from the horses drifts from the west.  `` `dThere is a
+small painted `ksign `dtacked to a post.  The only exit is back out to the east.
+`` 
+~
+0 F 0
+0
+~
+I 0 E
+sign~
+`jMalagar's Mounts``
+ 
+`kInquire within for help.``
+~
+D1
+~
+~
+0 0 10914
+S
+#10756
+0 0
+~
+~
+~
+0 512 0
+Mob Storage - (Mortals not allowed)~
+~
+0 CF 0
+0
+~
+I 0 S
+#10758
+0 0
+~
+~
+~
+0 0 0
+`nIn the Stream``~
+`gThe gentle rapids of the water flowing over rocks protruding from the
+bottom echoes through the air.  The crystal clear water affords a perfect
+view of the rock strewn bottom.  Several spawning fish can be seen darting
+by searching for the best place to nest and lay eggs.``  
+~
+0 BC 7
+0
+~
+I 0 D1
+~
+~
+0 0 10759
+D2
+~
+~
+0 0 10770
+S
+#10759
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.  The
+rushing sounds of rapids signifies a stream nearby to the west.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10760
+D2
+~
+~
+0 0 10771
+D3
+~
+~
+0 0 10758
+S
+#10760
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10761
+D2
+~
+~
+0 0 10772
+D3
+~
+~
+0 0 10759
+S
+#10761
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest enhance 
+nature's ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 10773
+D3
+~
+~
+0 0 10760
+S
+#10768
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10769
+D2
+~
+~
+0 0 10780
+S
+#10769
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10770
+D2
+~
+~
+0 0 10781
+D3
+~
+~
+0 0 10768
+S
+#10770
+0 0
+~
+~
+~
+0 0 0
+`nIn the Stream``~
+`gThe gentle rapids of the water flowing over rocks protruding from the
+bottom echoes through the air.  The crystal clear water affords a perfect
+view of the rock strewn bottom.  Several spawning fish can be seen darting
+by searching for the best place to nest and lay eggs.  `` 
+~
+0 BC 7
+0
+~
+I 0 D0
+~
+~
+0 0 10758
+D1
+~
+~
+0 0 10771
+D2
+~
+~
+0 0 10782
+D3
+~
+~
+0 0 10769
+S
+#10771
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10759
+D1
+~
+~
+0 0 10772
+D2
+~
+~
+0 0 10783
+D3
+~
+~
+0 0 10770
+S
+#10772
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10760
+D1
+~
+~
+0 0 10773
+D2
+~
+~
+0 0 10784
+D3
+~
+~
+0 0 10771
+S
+#10773
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10761
+D1
+~
+~
+0 0 10774
+D2
+~
+~
+0 0 10785
+D3
+~
+~
+0 0 10772
+S
+#10774
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10775
+D2
+~
+~
+0 0 10786
+D3
+~
+~
+0 0 10773
+S
+#10775
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10918
+D2
+~
+~
+0 0 10787
+D3
+~
+~
+0 0 10774
+S
+#10778
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest enhance 
+nature's ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10779
+D2
+~
+~
+0 0 10790
+S
+#10779
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10780
+D2
+~
+~
+0 0 10791
+D3
+~
+~
+0 0 10778
+S
+#10780
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10768
+D1
+~
+~
+0 0 10781
+D2
+~
+~
+0 0 10792
+D3
+~
+~
+0 0 10779
+S
+#10781
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10769
+D1
+~
+~
+0 0 10782
+D2
+~
+~
+0 0 10793
+D3
+~
+~
+0 0 10780
+S
+#10782
+0 0
+~
+~
+~
+0 0 0
+`nIn the Stream``~
+`gThe gentle rapids of the water flowing over rocks protruding from the
+bottom echoes through the air.  The crystal clear water affords a perfect
+view of the rock strewn bottom.  Several spawning fish can be seen darting
+by searching for the best place to nest and lay eggs.  `` 
+~
+0 BC 7
+0
+~
+I 0 D0
+~
+~
+0 0 10770
+D1
+~
+~
+0 0 10783
+D2
+~
+~
+0 0 10794
+D3
+~
+~
+0 0 10781
+S
+#10783
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.  The rushing sound of
+rapids signifies a stream nearby to the west.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10771
+D1
+~
+~
+0 0 10784
+D2
+~
+~
+0 0 10795
+D3
+~
+~
+0 0 10782
+S
+#10784
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10772
+D1
+~
+~
+0 0 10785
+D2
+~
+~
+0 0 10796
+D3
+~
+~
+0 0 10783
+S
+#10785
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10773
+D1
+~
+~
+0 0 10786
+D2
+~
+~
+0 0 10797
+D3
+~
+~
+0 0 10784
+S
+#10786
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step
+as you wade deeper through the green surroundings.  Bramble thickets grab
+and tear the skin, while mocking you with beautiful pink blossoms that lend
+a decidedly sweet aroma to the air.  A long rope made from vines twisted
+together hangs down from above.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10774
+D1
+~
+~
+0 0 10787
+D2
+~
+~
+0 0 10798
+D3
+~
+~
+0 0 10785
+S
+#10787
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10775
+D1
+~
+~
+0 0 10788
+D2
+~
+~
+0 0 10799
+D3
+~
+~
+0 0 10786
+S
+#10788
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10789
+D2
+~
+~
+0 0 10800
+D3
+~
+~
+0 0 10787
+S
+#10789
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 10801
+D3
+~
+~
+0 0 10788
+S
+#10790
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10778
+D1
+~
+~
+0 0 10791
+D2
+~
+~
+0 0 10802
+S
+#10791
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.  A gentle roving stream
+flows nearby to the south.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10779
+D1
+~
+~
+0 0 10792
+D2
+~
+~
+0 0 10803
+D3
+~
+~
+0 0 10790
+S
+#10792
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.  The peaceful sounds of
+rushing water can be heard to the south.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10780
+D1
+~
+~
+0 0 10793
+D2
+~
+~
+0 0 10804
+D3
+~
+~
+0 0 10791
+S
+#10793
+0 0
+~
+~
+~
+0 0 0
+Before the Bridge~
+`cThe moss covered floor of the forest gives a cushioned feel to every
+step as you wade deeper through the surrounding vegetation.  Bramble
+thickets grab and tear the skin, while mocking you with beautiful pink
+blossoms that lend a decidedly sweet aroma to the air.  The `nstream
+`cborders on both the south and east, and just to the south a small
+footbridge spans the flowing water.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10781
+D1
+~
+~
+0 0 10794
+D2
+~
+~
+0 0 10805
+D3
+~
+~
+0 0 10792
+S
+#10794
+0 0
+~
+~
+~
+0 0 0
+`nIn the Stream``~
+`gThe gentle rapids of the water flowing over rocks protruding from the
+bottom echoes through the air.  The crystal clear water affords a perfect
+view of the rock strewn bottom.  Several spawning fish can be seen darting
+by searching for the best place to nest and lay eggs.  `` 
+~
+0 BC 7
+0
+~
+I 0 D0
+~
+~
+0 0 10782
+D1
+~
+~
+0 0 10795
+D2
+~
+~
+0 0 10806
+D3
+~
+~
+0 0 10793
+S
+#10795
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10783
+D1
+~
+~
+0 0 10796
+D2
+~
+~
+0 0 10807
+D3
+~
+~
+0 0 10794
+S
+#10796
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10784
+D1
+~
+~
+0 0 10797
+D2
+~
+~
+0 0 10808
+D3
+~
+~
+0 0 10795
+S
+#10797
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10785
+D1
+~
+~
+0 0 10798
+D2
+~
+~
+0 0 10809
+D3
+~
+~
+0 0 10796
+S
+#10798
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10786
+D1
+~
+~
+0 0 10799
+D2
+~
+~
+0 0 10810
+D3
+~
+~
+0 0 10797
+S
+#10799
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10787
+D1
+~
+~
+0 0 10800
+D2
+~
+~
+0 0 10811
+D3
+~
+~
+0 0 10798
+S
+#10800
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10788
+D1
+~
+~
+0 0 10801
+D2
+~
+~
+0 0 10812
+D3
+~
+~
+0 0 10799
+S
+#10801
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10789
+D2
+~
+~
+0 0 10813
+D3
+~
+~
+0 0 10800
+S
+#10802
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.  To the east the flowing
+waters of a stream rush towards a waterfall.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10790
+D1
+~
+~
+0 0 10803
+S
+#10803
+0 0
+~
+~
+~
+0 0 0
+`nIn the Stream``~
+`gThe gentle rapids of the water flowing over rocks protruding from the
+bottom echoes through the air.  The crystal clear water affords a perfect
+view of the rock strewn bottom.  Several spawning fish can be seen darting
+by searching for the best place to nest and lay eggs.  `` 
+~
+0 BC 7
+0
+~
+I 0 D0
+~
+~
+0 0 10791
+D1
+~
+~
+0 0 10804
+D2
+~
+~
+0 0 10815
+D3
+~
+~
+0 0 10802
+S
+#10804
+0 0
+~
+~
+~
+0 0 0
+`nIn the Stream``~
+`gThe gentle rapids of the water flowing over rocks protruding from the
+bottom echoes through the air.  The crystal clear water affords a perfect
+view of the rock strewn bottom.  Several spawning fish can be seen darting
+by searching for the best place to nest and lay eggs.  `` 
+~
+0 BC 7
+0
+~
+I 0 D0
+~
+~
+0 0 10792
+D1
+~
+~
+0 0 10805
+D2
+~
+~
+0 0 10816
+D3
+~
+~
+0 0 10803
+S
+#10805
+100 250
+~
+~
+~
+0 0 0
+`dA Small Footbridge``~
+`jThe small wooden bridge that spans the stream below looks very old. 
+Moss is starting to obscure the first couple of planks, and fungus clings to
+the edges.  It appears to have weathered the many years of use rather well. 
+Glancing directly down at the stream, the water is crystal clear, allowing
+several fish to be seen swimming by on the endless search for food.``  
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10793
+D1
+~
+~
+0 0 10806
+D2
+~
+~
+0 0 10817
+D3
+~
+~
+0 0 10804
+S
+#10806
+0 0
+~
+~
+~
+0 0 0
+`nIn the Stream``~
+`gThe gentle rapids of the water flowing over rocks protruding from the
+bottom echoes through the air.  The crystal clear water affords a perfect
+view of the rock strewn bottom.  Several spawning fish can be seen darting
+by searching for the best place to nest and lay eggs.  `` 
+~
+0 BC 7
+0
+~
+I 0 D0
+~
+~
+0 0 10794
+D1
+~
+~
+0 0 10807
+D2
+~
+~
+0 0 10818
+D3
+~
+~
+0 0 10805
+S
+#10807
+0 0
+~
+~
+~
+0 0 0
+`nA Small Branch``~
+`gA small sliver of the much large stream branches off and flows in a
+southern direction, feeding a small spring.  A Kingfisher is perched
+watchfully on a nearby overhanging branch.  With the sight of a passing fish
+it dives off and spears the fish then climbs in flight to find a solitary
+place to feast on the new found catch.``  
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 10795
+D1
+~
+~
+0 0 10808
+D2
+~
+~
+0 0 10819
+D3
+~
+~
+0 0 10806
+S
+#10808
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10796
+D1
+~
+~
+0 0 10809
+D2
+~
+~
+0 0 10820
+D3
+~
+~
+0 0 10807
+S
+#10809
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10797
+D1
+~
+~
+0 0 10810
+D2
+~
+~
+0 0 10821
+D3
+~
+~
+0 0 10808
+S
+#10810
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10798
+D1
+~
+~
+0 0 10811
+D2
+~
+~
+0 0 10822
+D3
+~
+~
+0 0 10809
+S
+#10811
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10799
+D1
+~
+~
+0 0 10812
+D2
+~
+~
+0 0 10823
+D3
+~
+~
+0 0 10810
+S
+#10812
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10800
+D1
+~
+~
+0 0 10813
+D2
+~
+~
+0 0 10824
+D3
+~
+~
+0 0 10811
+S
+#10813
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10801
+D3
+~
+~
+0 0 10812
+S
+#10815
+0 0
+~
+~
+~
+0 0 0
+`nIn the Stream``~
+`gThe gentle rapids of the water flowing over rocks protruding from the
+bottom echoes through the air.  The crystal clear water affords a perfect
+view of the rock strewn bottom.  Several spawning fish can be seen darting
+by searching for the best place to nest and lay eggs.  `` 
+~
+0 BC 7
+0
+~
+I 0 D0
+~
+~
+0 0 10803
+D1
+~
+~
+0 0 10816
+D2
+~
+~
+0 0 10827
+D3
+~
+~
+0 0 18318
+S
+#10816
+0 0
+~
+~
+~
+0 0 0
+`lFollowing a Distant Melody``~
+Following the serene sounds of the nearby stream, another sound can be
+heard.  Different, yet just as relaxing and peaceful.  The melody of a flute
+captures and intrigues you to explore further, as the merry song that is
+being played drifts from the south.  The sound of rushing water coupled with
+the sweet harmony of the flute is almost overwhelming.  The path leads off to
+the east and west and looking upstream a small footbridge leads over the
+stream.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10804
+D1
+~
+~
+0 0 10817
+D2
+~
+~
+0 0 10828
+D3
+~
+~
+0 0 10815
+S
+#10817
+0 0
+~
+~
+~
+0 0 0
+`nWater's Edge``~
+The scene here is absolultely refreshing, relaxing even the most tense
+traveler.  A gentle roving stream travels under the most picturesque little
+bridge.  The trickling sound of the stream sweeps through the area, and the
+sweet aroma of wildflowers floats through the air.  North leads onto the
+bridge, while east and west follow a narrow little trail.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10805
+D1
+~
+~
+0 0 10818
+D2
+~
+~
+0 0 10829
+D3
+~
+~
+0 0 10816
+S
+#10818
+0 0
+~
+~
+~
+0 0 0
+`nWater's Edge``~
+The cool breeze dries the beads of sweat that have formed from the
+painstaking travel through the forest.  The constant flow of water as it
+gradually molds the rocks of the river lends a peaceful feel to the area. 
+The pure crystal waters flow endlessly to the west, and downstream a small
+footbridge spans the rapids.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10806
+D1
+~
+~
+0 0 10819
+D2
+~
+~
+0 0 10830
+D3
+~
+~
+0 0 10817
+S
+#10819
+100 100
+~
+~
+~
+0 0 0
+`nA Small Spring``~
+`gThe renegade vein of the main stream opens here into a small natural
+spring, with a constant supply of fresh pure drinking water.  The ground has
+been worn smooth as a result of the continual use of the spring from the
+village above.  The Syvin believe that the pure crystal waters of this
+spring hold the powers that bring a person a long healthy life.``  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10807
+D1
+~
+~
+0 0 10820
+D2
+~
+~
+0 0 10831
+D3
+~
+~
+0 0 10818
+S
+#10820
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10808
+D1
+~
+~
+0 0 10821
+D2
+~
+~
+0 0 10832
+D3
+~
+~
+0 0 10819
+S
+#10821
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10809
+D1
+~
+~
+0 0 10822
+D2
+~
+~
+0 0 10833
+D3
+~
+~
+0 0 10820
+S
+#10822
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10810
+D1
+~
+~
+0 0 10823
+D2
+~
+~
+0 0 10834
+D3
+~
+~
+0 0 10821
+S
+#10823
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10811
+D1
+~
+~
+0 0 10824
+D2
+~
+~
+0 0 10835
+D3
+~
+~
+0 0 10822
+S
+#10824
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 10812
+D2
+~
+~
+0 0 10836
+D3
+~
+~
+0 0 10823
+S
+#10827
+0 0
+~
+~
+~
+0 0 0
+`nThe Cascades``~
+`gThe crashing sound of water negates the silence, as the flow of water
+rolls over the granite boulders.  The spawning salmon leap in the air as
+they progress against the rapids of the gentle cascades, a slow painstaking
+effort to overcome the obstacle that the tide of water presents.  `` 
+~
+0 BC 7
+0
+~
+I 0 D0
+~
+~
+0 0 10815
+D2
+~
+~
+0 0 10839
+S
+#10828
+0 0
+~
+~
+~
+64 32 0
+`mSong's End``~
+The sheer energy of this place would give chills to the easily inspired. 
+From the crashing sound of the falls to the west to the charming sweet
+sounds floating from the wooden flute, the weariest traveler would feel
+completely at home here.  The plush green moss carpets the floor of the
+forest here, feeding off of the mist provided by the cascades.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10816
+D1
+~
+~
+0 0 10829
+D2
+~
+~
+0 0 10840
+S
+#10829
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10817
+D1
+~
+~
+0 0 10830
+D2
+~
+~
+0 0 10841
+D3
+~
+~
+0 0 10828
+S
+#10830
+0 0
+~
+~
+~
+0 0 0
+`dA Bend in the Path``~
+The sound of the stream nearby has gained in intensity, and the leaves 
+of the trees rustle in the gentle breeze.  Glancing up there is a vast network
+of interconnected bridges winding their way between and around the trees,
+dissappearing in the distance.  Quite a few small wooden huts, attached to the 
+branches are linked by the bridges.  The path here continues to the east and west.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10818
+D1
+~
+~
+0 0 10831
+D2
+~
+~
+0 0 10842
+D3
+~
+~
+0 0 10829
+S
+#10831
+0 0
+~
+~
+~
+0 0 0
+`dAlong the Path``~
+Following the path, the sounds of rushing water betrays a stream nearby. 
+The dense underbrush of the forest to the north and south makes it almost
+impenetrable.  The songs of birds singing to one another fills the air, and
+the distinct shrill of a crow can be heard.  The path leads off to the east
+and west.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10819
+D1
+~
+~
+0 0 10832
+D2
+~
+~
+0 0 10843
+D3
+~
+~
+0 0 10830
+S
+#10832
+0 0
+~
+~
+~
+0 0 0
+`dA Path in the Forest``~
+The path takes a bend here, leading off to the west and south.  The thick
+brambles line the edges of the path making the forest almost impenetrable
+for the unexperienced traveler.  The sparkle of moisture shines on a spider
+web that stretches between two branches.  Looking up reveals a vast network
+of what appears to be small bridges that weave through the trees.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10820
+D1
+~
+~
+0 0 10833
+D2
+~
+~
+0 0 5590
+D3
+~
+~
+0 0 10831
+S
+#10833
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10821
+D1
+~
+~
+0 0 10834
+D2
+~
+~
+0 0 10845
+D3
+~
+~
+0 0 10832
+S
+#10834
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10822
+D1
+~
+~
+0 0 10835
+D2
+~
+~
+0 0 10846
+D3
+~
+~
+0 0 10833
+S
+#10835
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10823
+D1
+~
+~
+0 0 10836
+D2
+~
+~
+0 0 10847
+D3
+~
+~
+0 0 10834
+S
+#10836
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10824
+D2
+~
+~
+0 0 10848
+D3
+~
+~
+0 0 10835
+S
+#10838
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10839
+D2
+~
+~
+0 0 10850
+S
+#10839
+0 0
+~
+~
+~
+0 0 0
+`nBy the Cascades``~
+The deafening roar of the water as it cascades over the huge boulders
+drowns out any other noise.  The sheer force of the falls have sculpted and
+smoothed the boulders to its desire.  The full spectrum of colors can be
+seen during the day when the sun shines through the surrounding mist
+creating a natural rainbow.  The beads of water on the full green leaves of
+the ferns glisten in the sunlight.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10827
+D1
+~
+~
+0 0 10840
+D2
+~
+~
+0 0 10851
+D3
+~
+~
+0 0 10838
+S
+#10840
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10828
+D1
+~
+~
+0 0 10841
+D2
+~
+~
+0 0 10852
+D3
+~
+~
+0 0 10839
+S
+#10841
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10829
+D1
+~
+~
+0 0 10842
+D2
+~
+~
+0 0 10853
+D3
+~
+~
+0 0 10840
+S
+#10842
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10830
+D1
+~
+~
+0 0 10843
+D2
+~
+~
+0 0 10854
+D3
+~
+~
+0 0 10841
+S
+#10843
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10831
+D1
+~
+~
+0 0 5590
+D2
+~
+~
+0 0 10855
+D3
+~
+~
+0 0 10842
+S
+#10844
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 C 3
+0
+~
+I 0 S
+#10845
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10833
+D1
+~
+~
+0 0 10846
+D2
+~
+~
+0 0 10857
+D3
+~
+~
+0 0 5590
+S
+#10846
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10834
+D1
+~
+~
+0 0 10847
+D2
+~
+~
+0 0 10858
+D3
+~
+~
+0 0 10845
+S
+#10847
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10835
+D1
+~
+~
+0 0 10848
+D2
+~
+~
+0 0 10859
+D3
+~
+~
+0 0 10846
+S
+#10848
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step
+as you wade deeper through the green surroundings.  Bramble thickets grab
+and tear the skin, while mocking you with beautiful pink blossoms that lend
+a decidedly sweet aroma to the air.  A long rope of intertwined vines
+dangles down from above.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10836
+D2
+~
+~
+0 0 10860
+D3
+~
+~
+0 0 10847
+S
+#10850
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10838
+D1
+~
+~
+0 0 10851
+D2
+~
+~
+0 0 10862
+S
+#10851
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10839
+D1
+~
+~
+0 0 10852
+D2
+~
+~
+0 0 10863
+D3
+~
+~
+0 0 10850
+S
+#10852
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10840
+D1
+~
+~
+0 0 10853
+D2
+~
+~
+0 0 10864
+D3
+~
+~
+0 0 10851
+S
+#10853
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10841
+D1
+~
+~
+0 0 10854
+D2
+~
+~
+0 0 10865
+D3
+~
+~
+0 0 10852
+S
+#10854
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10842
+D1
+~
+~
+0 0 10855
+D2
+~
+~
+0 0 10866
+D3
+~
+~
+0 0 10853
+S
+#10855
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10843
+D1
+~
+~
+0 0 10856
+D2
+~
+~
+0 0 10867
+D3
+~
+~
+0 0 10854
+S
+#10856
+0 0
+~
+~
+~
+0 0 0
+`dA Path in the Forest``~
+Following this narrow trail through the forest the sounds of birds
+chirping and animals scurrying about to seek food fills your ears.  The
+edges of the trail are defined by the thickets that signify the dense forest
+beyond.  The trail conitnues to the north and south, while deep dense forest
+stretches to the east and west.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 5590
+D1
+~
+~
+0 0 10857
+D2
+~
+~
+0 0 10868
+D3
+~
+~
+0 0 10855
+S
+#10857
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10845
+D1
+~
+~
+0 0 10858
+D2
+~
+~
+0 0 10869
+D3
+~
+~
+0 0 10856
+S
+#10858
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10846
+D1
+~
+~
+0 0 10859
+D2
+~
+~
+0 0 10870
+D3
+~
+~
+0 0 10857
+S
+#10859
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10847
+D1
+~
+~
+0 0 10860
+D3
+~
+~
+0 0 10858
+S
+#10860
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10848
+D1
+~
+~
+0 0 10861
+D2
+~
+~
+0 0 10872
+D3
+~
+~
+0 0 10859
+S
+#10861
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 10873
+D3
+~
+~
+0 0 10860
+S
+#10862
+0 0
+~
+~
+~
+32 32 0
+`kA Small Clearing``~
+After wandering through the forest, you find yourself standing in a small
+circular clearing.  The floor of the forest has been worn smooth from
+continual use over the years.  Fallen logs have been arranged in a circle
+around a small pit of stacked rocks.  The faint aroma of a recent fire
+lingers in the air.  
+~
+0 KN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10850
+D1
+~
+~
+0 0 10863
+D2
+~
+~
+0 0 10874
+S
+#10863
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10851
+D1
+~
+~
+0 0 10864
+D2
+~
+~
+0 0 10875
+D3
+~
+~
+0 0 10862
+S
+#10864
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10852
+D1
+~
+~
+0 0 10865
+D2
+~
+~
+0 0 10876
+D3
+~
+~
+0 0 10863
+S
+#10865
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10853
+D1
+~
+~
+0 0 10866
+D2
+~
+~
+0 0 10877
+D3
+~
+~
+0 0 10864
+S
+#10866
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10854
+D1
+~
+~
+0 0 10867
+D2
+~
+~
+0 0 10878
+D3
+~
+~
+0 0 10865
+S
+#10867
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10855
+D1
+~
+~
+0 0 10868
+D2
+~
+~
+0 0 10879
+D3
+~
+~
+0 0 10866
+S
+#10868
+0 0
+~
+~
+~
+0 0 0
+`dA Bend in the Path``~
+The trail takes a large turn at this point, heading to the north and to
+the east.  Insects buzz about while birds swoop and dive around branches in
+their flight path.  The enchanting sights and sounds of the forest are
+natures ability to ease even the most troublesome thoughts.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10856
+D1
+~
+~
+0 0 10869
+D2
+~
+~
+0 0 10880
+D3
+~
+~
+0 0 10867
+S
+#10869
+0 0
+~
+~
+~
+0 0 0
+`dA Small Trail``~
+The narrow trail continues to twist and turn through the forest bypassing
+obstacles, while the tangled mixture of vines and brambles form a natural
+wall to either side.  The trail disappears both to the east and west.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10857
+D1
+~
+~
+0 0 10870
+D2
+~
+~
+0 0 10881
+D3
+~
+~
+0 0 10868
+S
+#10870
+0 0
+~
+~
+~
+0 0 0
+`dA Narrow Trail``~
+Winding around trees and stepping over decaying logs, the path ends
+abruptly in front of small wooden hut.  A rather large fallen tree blocks
+the way east, yet a small tunnel has been dug providing access under the
+tree.  The flutter of bird draws your attention for a brief moment, as it
+lifts in flight.  Glancing back down, a startling discovery reveals the tail
+end of a snake as it slithers off the path and disappears into the forest.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10858
+D2
+~
+~
+0 0 10882
+D3
+~
+~
+0 0 10869
+S
+#10871
+0 0
+~
+~
+~
+4 32 0
+`kShadow's Rest``~
+The lack of natural light makes this a very appropriate place for it's
+intended use.  A small table rests against the far wall with a few small
+wooden bowls on it.  Animal skin tapestries adorn the walls, depicting
+various scenes of the art of the shadow.  Various ancient stone daggers have
+been hung on the wall accentuating the dark atmosphere of the small
+interior.  A small dark tunnel leads down out of the hut.  
+~
+0 C 0
+0
+~
+I 0 S
+#10872
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10860
+D1
+~
+~
+0 0 10873
+D2
+~
+~
+0 0 10884
+S
+#10873
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10861
+D2
+~
+~
+0 0 10885
+D3
+~
+~
+0 0 10872
+S
+#10874
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10862
+D1
+~
+~
+0 0 10875
+D2
+~
+~
+0 0 10886
+S
+#10875
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10863
+D1
+~
+~
+0 0 10876
+D2
+~
+~
+0 0 10887
+D3
+~
+~
+0 0 10874
+S
+#10876
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10864
+D1
+~
+~
+0 0 10877
+D2
+~
+~
+0 0 10888
+D3
+~
+~
+0 0 10875
+S
+#10877
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10865
+D1
+~
+~
+0 0 10878
+D2
+~
+~
+0 0 10889
+D3
+~
+~
+0 0 10876
+S
+#10878
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10866
+D1
+~
+~
+0 0 10879
+D2
+~
+~
+0 0 10890
+D3
+~
+~
+0 0 10877
+S
+#10879
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10867
+D1
+~
+~
+0 0 10880
+D2
+~
+~
+0 0 10891
+D3
+~
+~
+0 0 10878
+S
+#10880
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10868
+D1
+~
+~
+0 0 10881
+D2
+~
+~
+0 0 10892
+D3
+~
+~
+0 0 10879
+S
+#10881
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10869
+D1
+~
+~
+0 0 10882
+D2
+~
+~
+0 0 10893
+D3
+~
+~
+0 0 10880
+S
+#10882
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10870
+D1
+~
+~
+0 0 10883
+D2
+~
+~
+0 0 10894
+D3
+~
+~
+0 0 10881
+S
+#10883
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10884
+D2
+~
+~
+0 0 10895
+D3
+~
+~
+0 0 10882
+S
+#10884
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10872
+D1
+~
+~
+0 0 10885
+D2
+~
+~
+0 0 10896
+D3
+~
+~
+0 0 10883
+S
+#10885
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10873
+D2
+~
+~
+0 0 10897
+D3
+~
+~
+0 0 10884
+S
+#10886
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen
+twig being broken betrays movement close by.  The rich environment provides
+the perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.  A large rope
+fashioned from several vines intertwined dangles down from high above.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10874
+D1
+~
+~
+0 0 10887
+S
+#10887
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10875
+D1
+~
+~
+0 0 10888
+D3
+~
+~
+0 0 10886
+S
+#10888
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10876
+D1
+~
+~
+0 0 10889
+D2
+~
+~
+0 0 10900
+D3
+~
+~
+0 0 10887
+S
+#10889
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10877
+D1
+~
+~
+0 0 10890
+D2
+~
+~
+0 0 10901
+D3
+~
+~
+0 0 10888
+S
+#10890
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10878
+D1
+~
+~
+0 0 10891
+D2
+~
+~
+0 0 10902
+D3
+~
+~
+0 0 10889
+S
+#10891
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10879
+D1
+~
+~
+0 0 10892
+D2
+~
+~
+0 0 10903
+D3
+~
+~
+0 0 10890
+S
+#10892
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10880
+D1
+~
+~
+0 0 10893
+D2
+~
+~
+0 0 10904
+D3
+~
+~
+0 0 10891
+S
+#10893
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10881
+D1
+~
+~
+0 0 10894
+D2
+~
+~
+0 0 10905
+D3
+~
+~
+0 0 10892
+S
+#10894
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.  A long rope made of vines
+hangs down from above.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10882
+D1
+~
+~
+0 0 10895
+D2
+~
+~
+0 0 10906
+D3
+~
+~
+0 0 10893
+S
+#10895
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10883
+D1
+~
+~
+0 0 10896
+D2
+~
+~
+0 0 10907
+D3
+~
+~
+0 0 10894
+S
+#10896
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10884
+D1
+~
+~
+0 0 10897
+D3
+~
+~
+0 0 10895
+S
+#10897
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10885
+D3
+~
+~
+0 0 10896
+S
+#10900
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10888
+D1
+~
+~
+0 0 10901
+S
+#10901
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10889
+D1
+~
+~
+0 0 10902
+D3
+~
+~
+0 0 10900
+S
+#10902
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10890
+D1
+~
+~
+0 0 10903
+D2
+~
+~
+0 0 10914
+D3
+~
+~
+0 0 10901
+S
+#10903
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10891
+D1
+~
+~
+0 0 10904
+D2
+~
+~
+0 0 10915
+D3
+~
+~
+0 0 10902
+S
+#10904
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Traveling further into the forest, the sharp cracking sound of a fallen twig
+being broken betrays movement close by.  The rich environment provides the
+perfect breeding place for a number of different animals.  The tangled
+labyrinth of vegetation makes progress difficult at best.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10892
+D1
+~
+~
+0 0 10905
+D2
+~
+~
+0 0 10916
+D3
+~
+~
+0 0 10903
+S
+#10905
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10893
+D1
+~
+~
+0 0 10906
+D2
+~
+~
+0 0 10917
+D3
+~
+~
+0 0 10904
+S
+#10906
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+Forging ahead through the countless trees that tower high in the air, the
+disturbance of the surroundings sends insects and other small creatures in
+flight to escape the onslaught of danger.  Granite boulders, covered with a
+brilliant green moss are scattered about.  The entire ecosystem of the
+forest breeds numerous species of plant life, from the brilliant colors of
+various wildflowers to the distinct beauty of a garden of ferns.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10894
+D1
+~
+~
+0 0 10907
+D3
+~
+~
+0 0 10905
+S
+#10907
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The moss covered floor of the forest gives a cushioned feel to every step as
+you wade deeper through the green surroundings.  Bramble thickets grab and
+tear the skin, while mocking you with beautiful pink blossoms that lend a
+decidedly sweet aroma to the air.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10895
+D3
+~
+~
+0 0 10906
+S
+#10914
+0 0
+~
+~
+~
+0 0 0
+Before the Stable~
+The grandeur of the Silver Crescent Woods lies just to the north.
+The whinny and snorts of horses float through the air, coupled with the foul
+odor of manure.  The tall, thick trees rise into the air and spread their
+branches forming a splendid canopy above to shield the blistering rays of
+the midday sun or the drenching downpour of summer storms.  To the west a
+shoddy wooden building stands, surrounded by a plush green meadow on three
+sides.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10902
+D1
+~
+~
+0 0 10915
+D2
+~
+~
+0 0 10754
+D3
+~
+~
+0 0 10755
+S
+#10915
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10903
+D1
+~
+~
+0 0 10916
+D3
+~
+~
+0 0 10914
+S
+#10916
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The dense underbrush impedes most movement, making forward progress a
+painstaking effort.  Moss covered boulders litter the ground along with
+fallen trees decaying in the moist surroundings.  The light sparkles off
+huge silk webs spun from tree to tree.  There seems to be no end to the
+myriad of trees that stretch in every direction.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10904
+D1
+~
+~
+0 0 10917
+D3
+~
+~
+0 0 10915
+S
+#10917
+0 0
+~
+~
+~
+0 0 0
+The Silver Crescent Woods~
+The temperate climate of the forest floor provides a natural habitat for
+numerous plants and animals.  Insects buzz about while birds swoop and dive
+around branches.  The enchanting sights and sounds of the forest are natures
+ability to ease even the most troublesome thoughts.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10905
+D3
+~
+~
+0 0 10916
+S
+#10918
+0 0
+~
+~
+~
+0 0 0
+Within the Shadows of the Woods~
+As the trees that tower overhead crowd closer together, the light here on
+the forest floor becomes dim.  Shadows form among the large granite boulders
+that are scattered about.  The air is still and a sense of danger can be
+felt nearby.  Silky strands of some soft material covers some of the rocks
+nearby.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 10919
+D2
+~
+~
+0 0 10775
+S
+#10919
+0 0
+~
+~
+~
+0 0 0
+Within the Shadows of the Woods~
+Very little light can penetrate the thick forest canopy above.  Countless
+trees in this section of the forest are covered in thick, grey silk webbing
+that gently undulates in the breeze as it hangs from the branches.  A split
+open, silken coccoon-like object lies nearby, from which an unbearable
+stench rises from.  
+~
+0 AC 3
+0
+~
+I 0 D3
+~
+~
+0 0 10918
+S
+#0
+
+#RESETS
+O 0 10754   0 10886 -1	* A rope at The Silver Crescent Woods
+O 0 10755   0 10894 -1	* A rope at The Silver Crescent Woods
+O 0 10756   0 10848 -1	* A rope at The Silver Crescent Woods
+O 0 10757   0 10781 -1	* A rope at The Silver Crescent Woods
+O 0 10758   0 10786 -1	* A rope at The Silver Crescent Woods
+O 0 10759   0 10870 -1	* Through a narrow tunnel at `dA Narrow Trail``
+O 0 10760   0 10871 -1	* Through a tunnel at `kShadow's Rest``
+M 0 10755   1 10828  1	* Shea
+M 0 10756   1 10862  1	* Laric, the ranger
+O 0 10761   0 10819 -1	* A spring at `nA Small Spring``
+M 0 10765   1 10755  1	* Malagar the stablekeeper
+M 0 10766   1 10756  1	* A paint horse
+M 0 10767   2 10756  1	* A dapple gray horse
+M 0 10772   1 10756  1	* A draft horse
+M 0 10773   3 10756  1	* A small donkey
+M 0 10768   2 10811  1	* A black cougar
+M 0 10768   2 10789  1	* A black cougar
+M 0 10769   5 10772  1	* A syvin hunter
+E 0 10762   -1   17	* item to A syvin hunter
+M 0 10769   5 10846  1	* A syvin hunter
+E 0 10762   -1   16	* item to A syvin hunter
+M 0 10769   5 10896  1	* A syvin hunter
+E 0 10762   -1   16	* item to A syvin hunter
+M 0 10769   5 10888  1	* A syvin hunter
+E 0 10762   -1   17	* item to A syvin hunter
+M 0 10769   5 10852  1	* A syvin hunter
+E 0 10762   -1   16	* item to A syvin hunter
+M 0 10757   3 10769  1	* A small otter
+M 0 10757   3 10802  1	* A small otter
+M 0 10757   3 10792  1	* A small otter
+M 0 10758   2 10780  1	* A small shrew
+M 0 10758   2 10791  1	* A small shrew
+M 0 10759   2 10779  1	* A small mink
+M 0 10759   2 10768  1	* A small mink
+M 0 10760   1 10793  1	* A large osprey
+M 0 10761   2 10778  1	* A ruffed grouse
+M 0 10761   2 10768  1	* A ruffed grouse
+M 0 10762   2 10793  1	* A little muskrat
+M 0 10762   2 10791  1	* A little muskrat
+M 0 10763   3 10790  1	* A squirrel
+M 0 10763   3 10779  1	* A squirrel
+M 0 10763   3 10840  1	* A squirrel
+M 0 10764   5 10890  1	* A red wolf
+M 0 10764   5 10864  1	* A red wolf
+M 0 10764   5 10845  1	* A red wolf
+M 0 10764   5 10799  1	* A red wolf
+M 0 10764   5 10872  1	* A red wolf
+M 0 10770   5 10859  1	* A large elk
+M 0 10770   5 10907  1	* A large elk
+M 0 10770   5 10842  1	* A large elk
+M 0 10770   5 10887  1	* A large elk
+M 0 10770   5 10796  1	* A large elk
+M 0 10771   5 10854  1	* A deer
+M 0 10771   5 10833  1	* A deer
+M 0 10771   5 10760  1	* A deer
+M 0 10771   5 10861  1	* A deer
+M 0 10771   5 10829  1	* A deer
+M 0 10774   5 10905  1	* A wild boar
+M 0 10774   5 10850  1	* A wild boar
+M 0 10774   5 10810  1	* A wild boar
+M 0 10774   5 10808  1	* A wild boar
+M 0 10774   5 10861  1	* A wild boar
+M 0 10775   5 10867  1	* A black bear
+M 0 10775   5 10857  1	* A black bear
+M 0 10775   5 10901  1	* A black bear
+M 0 10775   5 10874  1	* A black bear
+M 0 10775   5 10897  1	* A black bear
+M 0 10754   1 10871  1	* Luthien, the shadow master
+M 0 10787   5 10800  1	* A brown hawk
+M 0 10787   5 10885  1	* A brown hawk
+M 0 10787   5 10880  1	* A brown hawk
+M 0 10787   5 10832  1	* A brown hawk
+M 0 10787   5 10886  1	* A brown hawk
+M 0 10786   5 10840  1	* A loon
+M 0 10786   5 10817  1	* A loon
+M 0 10786   5 10818  1	* A loon
+M 0 10786   5 10783  1	* A loon
+M 0 10786   5 10759  1	* A loon
+M 0 10785   5 10856  1	* A garter snake
+M 0 10785   5 10854  1	* A garter snake
+M 0 10785   5 10854  1	* A garter snake
+M 0 10785   5 10786  1	* A garter snake
+M 0 10785   5 10795  1	* A garter snake
+M 0 10777   5 10835  1	* A gray fox
+M 0 10777   5 10866  1	* A gray fox
+M 0 10777   5 10904  1	* A gray fox
+M 0 10777   5 10883  1	* A gray fox
+M 0 10777   5 10889  1	* A gray fox
+M 0 10778   5 10903  1	* A wild turkey
+M 0 10778   5 10907  1	* A wild turkey
+M 0 10778   5 10835  1	* A wild turkey
+M 0 10778   5 10855  1	* A wild turkey
+M 0 10778   5 10784  1	* A wild turkey
+M 0 10784   5 10881  1	* A rattlesnake
+M 0 10784   5 10847  1	* A rattlesnake
+M 0 10784   5 10851  1	* A rattlesnake
+M 0 10784   5 10787  1	* A rattlesnake
+M 0 10784   5 10759  1	* A rattlesnake
+M 0 10783   5 10855  1	* A skink
+M 0 10783   5 10884  1	* A skink
+M 0 10783   5 10852  1	* A skink
+M 0 10783   5 10818  1	* A skink
+M 0 10783   5 10917  1	* A skink
+M 0 10788   1 10893  1	* A silent hunter
+E 0 10763   -1   17	* item to A silent hunter
+E 0 10764   -1    8	* item to A silent hunter
+E 0 10765   -1   13	* item to A silent hunter
+E 0 10766   -1    4	* item to A silent hunter
+M 0 10789   1 10919  1	* `athe spider stexis``
+G 0 10774 -1		* `ha spider-silk breastplate`` to `athe spider Stexis``
+G 0 10775 -1		* `ha horned, spider-silk helmet`` to `athe spider Stexis``
+G 0 10776 -1		* `hspider-silk leggings`` to `athe spider Stexis``
+E 0 10776   -1   18	* item to `athe spider stexis``
+M 0 10776   1 10819  1	* A lovely maiden
+E 0 10778   -1   18	* item to A lovely maiden
+O 0 10779   0 10904 -1	* `da ring of toadstools`` at The Silver Crescent Woods
+O 0 10780   0 10918 -1	* `hwisps of webbing`` at Within the Shadows of the Woods
+O 0 10781   0 10919 -1	* `hthick clumps of silken webs`` at Within the Shadows of the Woods
+S
+
+#SHOPS
+10765  9  0  0  0  0 	120 100 	0 24	* Malagar the stablekeeper
+0
+
+#SPECIALS
+M 10789 spec_breath_acid		* `athe spider Stexis``
+S
+
+#OT
+#10780
+Stexis Webs~
+$entersroom~
+1
+71
+echo Wispy strands of web tangle you as you approach them.~
+100
+0
+cast 'web' $name~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+50
+#10781
+Stexis' Lair Webbing~
+$entersroom~
+1
+71
+pecho $name `hYou are instantly entangled by the thick sticky webs which lie all around you.``~
+100
+0
+entangle $name~
+100
+0
+cast 'slow' $name~
+100
+0
+cast 'web' $name~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

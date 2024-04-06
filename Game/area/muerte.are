@@ -1,0 +1,4060 @@
+#AREA
+ 6~
+muerte.are~
+Isle of the Dead~
+{85 90} Minax  Isle of the Dead~
+~
+901 1050
+20 F 0
+0 0
+~
+#MOBILES
+#901
+knight templar~
+`oA Knight `o-< `i+ `oTe`impl`oar `i+ `o>-``~
+`oA mighty Knight Templar is fighting the undead scourge.``
+~
+`oA stoic knight stands before you, clad in the simple red and white
+colors of the Order of the Knights Templar.  The Knight wields a gigantic
+double-edge two-handed sword, his plated chainmail armor spattered with
+blood and gore from the battlefield.  The Knight studies you carefully, wary
+of another attack by the denizens of undeath.  `` 
+~
+human~
+0 0 0 0
+AGT HNa 1000 0
+88 95 6999d1+1 10d10+350 8d22+25 divine
+-30 -30 -30 999 -30
+0 0 CK AB QS GM
+stand stand either 6000
+AHMV ABCDEFGHIJKa 23 21 21 23 23 21 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#902
+templar cleric~
+`oA Cleric `o-< `i+ `oTe`impl`oar `i+ `o>-``~
+`oA field medic dashes around the battlefield, healing the wounded.``
+~
+`oA humble cleric stands before you, his flowing white robes drenches in
+blood and caked with the mud and gore of the battlefield.  His tired eyes
+scan the horizon, looking for fallen companions who may need his assistance.
+`` 
+~
+human~
+0 0 0 0
+AG DHNT 1000 0
+88 95 6999d1+1 20d20+700 8d22+25 divine
+-25 -25 -25 999 -25
+0 0 FJN AB QS GM
+stand stand either 5000
+AHMV ABCDEFGHIJKa 21 23 23 21 23 21 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#903
+templar paladin~
+`oA -< `i+ `oTe`impl`oar `i+ `o>- Paladin``~
+`oA Templar Paladin battles for the glory of the heavens.``
+~
+`oA holy warrior stands before you, a knight Paladin of the Templar Order.
+The Paladin has been battling the undead for what seems like days, but his
+silver trimmed armor still glistens brightly in the sun.  Armed with a
+silver blade and a giant tower shield, the Paladin scans the battlefiend for
+more unholy heathens to dispatch.  `` 
+~
+human~
+0 0 0 0
+AGQT HNVa 1000 0
+90 125 9999d1+1 20d20+700 12d28+35 divine
+-35 -35 -35 999 -35
+0 0 CFHK AB QS GM
+stand stand either 9000
+AHMV ABCDEFGHIJKa 24 22 22 24 24 22 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#904
+templar battle cleric~
+`oA -< `i+ `oTe`impl`oar `i+ `o>- Battle Cleric``~
+`oA Templar Battle Cleric stalks the battlefield, terrorizing the undead.``
+~
+`oA battle Cleric strides across the battlefield, stalking down the hordes of undead.
+A proud member of the Templar Order, the battle Clerics stand in the vanguard with
+their knight-Paladin compatriots to fend off the scourge of undeath.  Weilding a
+giant two-handed mace and grasping on to the holy symbol around his neck, the
+cleric regards you with pity in his eyes for he cannot risk distraction from the
+battle at hand to guide you from this horrid place.``
+~
+human~
+0 0 0 0
+AGQT HNVa 1000 0
+90 115 9999d1+1 40d40+800 10d25+30 divine
+-32 -32 -32 999 -32
+0 0 CFHK AB QS GM
+stand stand either 9000
+AHMV ABCDEFGHIJKa 22 22 24 22 24 23 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#926
+new born kalian~
+`aA newly born `bKalian``~
+`aA `bKalian, `arecently reborn into undeath.``
+~
+`bA shadowed figure darts across the scorned battlefield, newly turned
+and hungry for blood.  The Kalian deftly darts from shadow to shadow with a
+terrifying speed that can barely be tracked by the naked eye.  The
+creature's face is smeared with the blood of a fresh kill, but you sense
+that won't be enough to sake the endless thirst.  This is not a safe place
+place for mortal man to tread.``
+~
+human~
+0 0 0 0
+AGOT OPTVa -1000 0
+88 95 15d350+7400 10d10+350 10d25+30 bite
+-25 -25 -25 999 -25
+0 0 HKa AB DIJ HN
+stand stand either 6000
+AHIMV ABCDEFGHIJKVa 23 21 21 23 23 21 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#927
+freshly risen lich~
+`aA freshly risen Lich``~
+`aA Lich, freshly risen from the grave.``
+~
+`aPlenty of rotting flesh still hangs from the ghastly figure that
+stumbles towards you.  This newly risen Lich emits a terrifying aura just as
+equal to that of his more aged brethren.  Bright red orbs shine from it's
+dead eye sockets, and it's blackened corpse reeks with the stench of death. 
+`` 
+~
+human~
+0 0 0 0
+AGO OVZac -1000 0
+88 95 15d350+7400 10d10+350 10d25+10 drain
+-25 -25 -25 999 -25
+0 0 HKce ABLQRc DIM HNOS
+stand stand either 6000
+AHIMV ABCDEFGHIJKa 23 21 21 23 23 21 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#928
+kalian lifestalker life stalker~
+`aA full-`iblooded `bKalian `alifestalker``~
+`aA hungry `bKalian `alifestalker searches for `iblood`a.``
+~
+`bA shadowed figure darts across the scorned battlefield, newly turned
+and hungry for blood.  The Kalian deftly darts from shadow to shadow with a
+terrifying speed that can barely be tracked by the naked eye.  The
+creature's face is smeared with the blood of a fresh kill, but you sense
+that won't be enough to sake the endless thirst.  This is not a safe place
+place for mortal man to tread.``
+~
+human~
+0 0 0 0
+AGOT OPTVa -1000 0
+90 115 20d360+8400 10d10+350 12d30+37 bite
+-40 -40 -40 999 -40
+0 0 FHJKa AB DIJ HN
+stand stand either 9000
+AHIMV ABCDEFGHIJKVa 23 21 21 23 23 21 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#929
+lich power monger powermonger lichmage~
+`aA Lich power-monger``~
+`aA powerful Lichmage glares at you.``
+~
+`aPlenty of rotting flesh still hangs from the ghastly figure that
+stumbles towards you.  This newly risen Lich emits a terrifying aura just as
+equal to that of his more aged brethren.  Bright red orbs shine from it's
+dead eye sockets, and it's blackened corpse reeks with the stench of death. 
+`` 
+~
+human~
+0 0 0 0
+AGOR OTVZac -1000 0
+90 115 20d360+8400 20d240+900 12d30+37 drain
+-37 -37 -37 999 -37
+Q 0 GHKce ABLQRc DIM HNOS
+stand stand either 11000
+AHIMV ABCDEFGHIJKa 22 24 24 22 24 20 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#951
+zombie~
+A zombie~
+A zombie is lumbering around here.
+~
+Tattered rags hang from the decomposing limbs of this undead creature. 
+Putrid blue-black flesh is festered with sores and maggots.  
+~
+human~
+0 0 0 0
+ACFGO XZ -1000 0
+47 47 25d10+3500 1d1+1 6d6+6 bite
+-17 -17 -17 999 -17
+B -1 EFKOU ABLQac 0 HKN
+stand stand either 0
+ADHIMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+1
+~
+~
+#952
+sleeping skeleton~
+The sleeping skeleton~
+A skeleton rests here in eternal sleep.
+~
+Rotting bones lie in the ground in the shape of a human.  Its arms are
+folded peacefully over its chest.  
+~
+human~
+0 0 0 0
+ACFO XZ -1000 0
+47 47 25d10+3500 1d1+1 6d6+6 bite
+-17 -17 -17 999 -17
+A 2 EFKO ABLQc 0 HKN
+sleep sleep either 0
+ABHIMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small bone~
+0 0 0 100
+1
+~
+~
+#953
+crypt guardian creature humanoid~
+The crypt guardian~
+A dark muscular humanoid creature stands guard over the entrance below.
+~
+This menacing figure is as tall as a man and twice as wide.  Softly
+glowing red eyes stare back at you from a featureless black face.  
+~
+kalian~
+0 0 0 0
+ABNTc DFVZc -1000 0
+100 100 50d10+10000 70d20+300 10d20+10 drain
+-20 -20 -20 999 -20
+A 5 CEFHJK ABLc CDEIJ HN
+stand stand male 100000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+4
+none~
+cryptguardian.scr~
+#954
+death~
+`aDeath``~
+`aDeath herself stands ready to judge your life and your worth.``
+~
+A thick black hooded robe obscured most of the details from this figure
+who stands before you.  Nonetheless, the presence alone could be none other
+than death herself.  As you approach, an arm raises towards you and a bony
+hand extends a single finger to beckon you onward.  
+~
+human~
+0 0 0 0
+ABNT DFJVZc 0 0
+100 100 50d10+29500 70d20+300 999d1+1 drain
+-80 -80 -80 999 -80
+A 5 EFHK ABbc CD HN
+stand stand female 100000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+4
+death.voc~
+death.scr~
+#955
+minion~
+A Kalian minion~
+A Kalian minion stands before you, cloaked in the shadows.
+~
+This minion, like most Kalians, moves very quickly, making him difficult
+to follow in the dark.  Tall like a human and slender in build, you find
+yourself facing a finely-tuned killing machine.  
+~
+kalian~
+0 0 0 0
+ACFO XZc -1000 0
+47 47 25d10+3500 1d1+1 6d6+6 bite
+-17 -17 -17 999 -17
+0 -1 EFKLOR ABLQac DEIJ HKN
+stand stand either 0
+ABHIMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+1
+~
+~
+#956
+overlord~
+A Kalian overlord~
+A Kalian overlord blocks all access beyond him.
+~
+The Kalian overlord is a powerful and imposing figure.  He looks at you
+suspiciously, as though he's not sure how you have made it this far.  With a
+nod of respect, he moves towards you.  His hands are a blur of arcane
+movement as he begins to summon his minions.  
+~
+kalian~
+0 0 0 0
+ABGNT DFNVc -1000 0
+98 100 10d100+7500 10d40+600 10d20+10 slash
+-55 -55 -55 999 -50
+A 2 FHKR BLc CDEHIJLOPQ HNOS
+stand stand male 310
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium flesh~
+0 0 0 600
+0
+~
+summoner.scr~
+#957
+gatekeeper~
+The gatekeeper~
+The gatekeeper stands between you and the gate.
+~
+As you approach, the gatekeeper turns mechanically to face you.  As he
+does so, dust shakes loose from his jointed metal shoulders and hands.  It
+seems as though he has not moved at all in eons.  Perhaps you are the first
+one to make it this far in a long, long time.  
+~
+human~
+0 0 0 0
+ABNT DFVZc -1000 0
+100 100 50d10+29500 70d20+300 20d20+20 drain
+-55 -55 -55 999 -50
+AD 1 CEFHK ABbc CD HN
+stand stand male 100000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+4
+none~
+summoner.scr~
+#958
+ancient~
+The ancient~
+The ancient lies here, deep in eternal slumber.
+~
+The ancient is clearly a Kalian, but he does not look like the others. 
+His skin is smooth and marble white.  He lies sleeping within a stone
+sarcophagus that sits upon a pedestal in the center of the room.  He has the
+appearance of having been asleep for eons.  Perhaps there is nothing in this
+world which required his waking attention.  It's instantly obvious that you
+should not even think of waking him, but after all that you have been
+through, why else would you be here now?  
+~
+kalian~
+0 0 0 0
+ABNORT DFGHOTVZc -1000 0
+100 100 20d20+10000 0d0+0 20d20+0 bite
+-40 -40 -40 999 -40
+D -1 CDEFHIJKNV BLbc DEIJ HN
+stand stand male 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 32502
+tiny flesh~
+0 0 0 100
+4
+~
+~
+#959
+zombie zombified sailor~
+A zombified sailor~
+A zombie staggers about wearing the remnants of a royal navy uniform.
+~
+Tattered rags hang from the decomposing limbs of this undead creature. 
+Putrid blue-black flesh is festered with sores and maggots.  
+~
+human~
+0 0 0 0
+ACFGO XZ -1000 0
+47 47 25d10+3500 1d1+1 6d6+6 bite
+-17 -17 -17 999 -17
+0 -1 EFKOU ABLQac 0 HKN
+stand stand either 0
+ABHIMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+1
+~
+~
+#960
+kalian stalker~
+`bA mighty `iKalian `bthat killed Abe Lincoln``~
+`bA mighty `iKalian `bthat killed Abe Lincoln stalks another president.``
+~
+`bA shadowed figure darts across the scorned battlefield, newly turned
+and hungry for blood.  The Kalian deftly darts from shadow to shadow with a
+terrifying speed that can barely be tracked by the naked eye.  The
+creature's face is smeared with the blood of a fresh kill, but you sense
+that won't be enough to sake the endless thirst.  This is not a safe place
+place for mortal man to tread.``
+~
+human~
+0 0 0 0
+ABFGOT HNPTVa -1000 0
+90 115 70d600+10000 10d250+2500 20d30+40 bite
+-40 -40 -40 999 -40
+I 0 AFHJKd AB DIJM HN
+stand stand either 99999
+AHIMV ABCDEFGHIJKVa 25 25 25 25 23 25 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#0
+
+#OBJECTS
+#951
+gravesite~
+an open gravesite~
+The nearby grass and dirt has been uprooted creating an open gravesite.~
+earth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G BDEFGHIJ A
+0
+0
+0 0 0 P
+E
+gravesite~
+Strangely, it looks as though this gravesite has been opened from below.
+That makes no sense.
+~
+#952
+gravesite~
+an open gravesite~
+A magical glyph of silence is scrawled in the dirt wall all around.~
+earth~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G AEGHIJ B
+0
+0
+0 0 0 P
+E
+gravesite~
+Strangely, it looks as though this gravesite has been opened from below.
+That makes no sense.
+~
+#953
+gravestone~
+the gravestone~
+A gravestone lies buried in the ground and choked by weeds.~
+stone~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+gravestone~
+There is some very faint writing on the gravestone, but it's too worn to
+make anything out.  
+~
+#954
+skeleton boat~
+the skeletal boat~
+The skeleton of a wrecked boat lies half-burried in the sand.~
+wood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+boat~
+Overturned and worn away by time and the sea, the skeletal remains of
+this boat lie half-burried in the sands of the beach.  There are few clues
+to help you figure out where it came from or how long ago it washed ashore. 
+It is yet another mystery the sea will keep forever.  
+~
+#955
+eldritch key~
+a wispy key~
+A key made of eldritch wisps of fog coalesces at your feet.~
+ethereal~
+0
+room_key 2
+STUac
+C
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#956
+conch shell~
+a beautiful conch shell~
+A beautiful conch shell rolls with the waves upon the beach.~
+shell~
+0
+instrument 2
+S
+0
+AO
+G
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 7845 P
+#957
+driftwood~
+a random piece of driftwood~
+A random piece of driftwood has washed ashore nearby.~
+wood~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 15 0 P
+#958
+sarcophagus~
+the runed sarcophagus~
+`dA runed sarcophagus rests on a pedestal in the middle of the room.``~
+stone~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A EIJKN AFIL 0 0
+0
+0
+1 10000 0 P
+#0
+
+#ROOMS
+#901
+0 0
+~
+`d$n strolls down the path, slogging through the mud.``~
+`d$n strolls off, slogging through the mud.``~
+0 0 0
+`dA `amuddy `dpath through the `o-< `i+ `o>- `oTe`impl`oar `o-< `i+ `o>- `dcamp``~
+`dA wide muddy path runs through the Templar's Camp.  The path makes up
+the main throughfair of the bustling camp, and is clogged with traffic from
+warriors and supply trains.  White tents adorned with the Red Cross of the
+Templar Order are tightly packed along the pathway.  The numerous small
+field tents that house the bulk of the order's warriors and camp servants
+are dwarfed by the various larger tents that hold medical supplies, arms &
+armor and the offices quarters.  `` 
+~
+0 0 2
+0
+~
+I 0 D2
+~
+~
+0 0 902
+S
+#902
+0 0
+(null)~
+`d$n strolls down the path, slogging through the mud.``~
+`d$n strolls off, slogging through the mud.``~
+0 0 0
+`dA `amuddy `dpath through the `o-< `i+ `o>- `oTe`impl`oar `o-< `i+ `o>- `dcamp``~
+`dA wide muddy path runs through the Templar's Camp.  The path makes up
+the main throughfair of the bustling camp, and is clogged with traffic from
+warriors and supply trains.  White tents adorned with the Red Cross of the
+Templar Order are tightly packed along the pathway.  The numerous small
+field tents that house the bulk of the order's warriors and camp servants
+are dwarfed by the various larger tents that hold medical supplies, arms &
+armor and the offices quarters.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 901
+D1
+~
+~
+0 0 904
+D2
+~
+~
+0 0 905
+D3
+~
+~
+0 0 903
+S
+#903
+0 0
+(null)~
+`d$n strolls down the path, slogging through the mud.``~
+`d$n strolls off, slogging through the mud.``~
+0 0 0
+`dA `amuddy `dpath through the `o-< `i+ `o>- `oTe`impl`oar `o-< `i+ `o>- `dcamp``~
+`dA wide muddy path runs through the Templar's Camp.  The path makes up
+the main throughfair of the bustling camp, and is clogged with traffic from
+warriors and supply trains.  White tents adorned with the Red Cross of the
+Templar Order are tightly packed along the pathway.  The numerous small
+field tents that house the bulk of the order's warriors and camp servants
+are dwarfed by the various larger tents that hold medical supplies, arms &
+armor and the offices quarters.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 914
+D1
+~
+~
+0 0 902
+D2
+~
+~
+0 0 910
+S
+#904
+0 0
+(null)~
+`d$n strolls down the path, slogging through the mud.``~
+`d$n strolls off, slogging through the mud.``~
+0 0 0
+`dA `amuddy `dpath through the `o-< `i+ `o>- `oTe`impl`oar `o-< `i+ `o>- `dcamp``~
+`dA wide muddy path runs through the Templar's Camp.  The path makes up
+the main throughfair of the bustling camp, and is clogged with traffic from
+warriors and supply trains.  White tents adorned with the Red Cross of the
+Templar Order are tightly packed along the pathway.  The numerous small
+field tents that house the bulk of the order's warriors and camp servants
+are dwarfed by the various larger tents that hold medical supplies, arms &
+armor and the offices quarters.  `` 
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 909
+D2
+~
+~
+0 0 911
+D3
+~
+~
+0 0 902
+S
+#905
+0 0
+(null)~
+`d$n strolls down the path, slogging through the mud.``~
+`d$n strolls off, slogging through the mud.``~
+0 0 0
+`dA `amuddy `dpath through the `o-< `i+ `o>- `oTe`impl`oar `o-< `i+ `o>- `dcamp``~
+`dA wide muddy path runs through the Templar's Camp.  The path makes up
+the main throughfair of the bustling camp, and is clogged with traffic from
+warriors and supply trains.  White tents adorned with the Red Cross of the
+Templar Order are tightly packed along the pathway.  The numerous small
+field tents that house the bulk of the order's warriors and camp servants
+are dwarfed by the various larger tents that hold medical supplies, arms &
+armor and the offices quarters.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 902
+D2
+~
+~
+0 0 906
+S
+#906
+0 0
+(null)~
+`d$n strolls down the path, slogging through the mud.``~
+`d$n strolls off, slogging through the mud.``~
+0 0 0
+`dA `amuddy `dpath through the `o-< `i+ `o>- `oTe`impl`oar `o-< `i+ `o>- `dcamp``~
+`dA wide muddy path runs through the Templar's Camp.  The path makes up
+the main throughfair of the bustling camp, and is clogged with traffic from
+warriors and supply trains.  White tents adorned with the Red Cross of the
+Templar Order are tightly packed along the pathway.  The numerous small
+field tents that house the bulk of the order's warriors and camp servants
+are dwarfed by the various larger tents that hold medical supplies, arms &
+armor and the offices quarters.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 905
+D1
+~
+~
+0 0 908
+D3
+~
+~
+0 0 907
+S
+#907
+0 0
+(null)~
+`d$n strolls down the path, slogging through the mud.``~
+`d$n strolls off, slogging through the mud.``~
+0 0 0
+`dA `amuddy `dpath through the `o-< `i+ `o>- `oTe`impl`oar `o-< `i+ `o>- `dcamp``~
+`dA wide muddy path runs through the Templar's Camp.  The path makes up
+the main throughfair of the bustling camp, and is clogged with traffic from
+warriors and supply trains.  White tents adorned with the Red Cross of the
+Templar Order are tightly packed along the pathway.  The numerous small
+field tents that house the bulk of the order's warriors and camp servants
+are dwarfed by the various larger tents that hold medical supplies, arms &
+armor and the offices quarters.  `` 
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 906
+D3
+~
+~
+0 0 915
+S
+#908
+0 0
+(null)~
+`d$n strolls down the path, slogging through the mud.``~
+`d$n strolls off, slogging through the mud.``~
+0 0 0
+`dA `amuddy `dpath through the `o-< `i+ `o>- `oTe`impl`oar `o-< `i+ `o>- `dcamp``~
+`dA wide muddy path runs through the Templar's Camp.  The path makes up
+the main throughfair of the bustling camp, and is clogged with traffic from
+warriors and supply trains.  White tents adorned with the Red Cross of the
+Templar Order are tightly packed along the pathway.  The numerous small
+field tents that house the bulk of the order's warriors and camp servants
+are dwarfed by the various larger tents that hold medical supplies, arms &
+armor and the offices quarters.  `` 
+~
+0 0 2
+0
+~
+I 0 D2
+~
+~
+0 0 918
+D3
+~
+~
+0 0 906
+S
+#909
+0 0
+~
+`oThe flaps of the tent are pushed aside as $n steps in.``~
+`o$n pushes the tent flaps aside and steps out into the camp.``~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar `o-< `i+ `o>- Field Tent``~
+The field tent has been turned into a defacto barracks for the troops. 
+Weapons and armor are strewn amongst the cots packed tightly into the large
+tent.  Only a few Templars and their squires are spread throughout the
+massive space.  The stench of unwashed bodies, weary from a never-ending
+battle drifts thick in the air.  
+~
+0 BD 1
+0
+~
+I 0 D3
+~
+~
+0 0 904
+S
+#910
+0 0
+(null)~
+`oThe flaps of the tent are pushed aside as $n steps in.``~
+`o$n pushes the tent flaps aside and steps out into the camp.``~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar `o-< `i+ `o>- Field Tent``~
+The field tent has been turned into a defacto barracks for the troops. 
+Weapons and armor are strewn amongst the cots packed tightly into the large
+tent.  Only a few Templars and their squires are spread throughout the
+massive space.  The stench of unwashed bodies, weary from a never-ending
+battle drifts thick in the air.  
+~
+0 BD 1
+0
+~
+I 0 D0
+~
+~
+0 0 903
+S
+#911
+0 0
+(null)~
+`oThe flaps of the tent are pushed aside as $n steps in.``~
+`o$n pushes the tent flaps aside and steps out into the camp.``~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar `o-< `i+ `o>- Field Tent``~
+The field tent has been turned into a defacto barracks for the troops. 
+Weapons and armor are strewn amongst the cots packed tightly into the large
+tent.  Only a few Templars and their squires are spread throughout the
+massive space.  The stench of unwashed bodies, weary from a never-ending
+battle drifts thick in the air.  
+~
+0 BD 1
+0
+~
+I 0 D0
+~
+~
+0 0 904
+S
+#912
+0 0
+~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `oMedical `lTent``~
+~
+0 BD 1
+0
+~
+I 0 D1
+~
+~
+0 0 913
+S
+#913
+0 0
+(null)~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `oMedical `lTent``~
+~
+0 BD 1
+0
+~
+I 0 D1
+~
+~
+0 0 914
+D3
+~
+~
+0 0 912
+S
+#914
+0 0
+(null)~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `oMedical `lTent``~
+~
+0 BD 1
+0
+~
+I 0 D2
+~
+~
+0 0 903
+D3
+~
+~
+0 0 913
+S
+#915
+0 0
+(null)~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `iCommand `oTent``~
+~
+0 BD 1
+0
+~
+I 0 D1
+~
+~
+0 0 907
+D2
+~
+~
+0 0 916
+S
+#916
+0 0
+(null)~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `iCommand `oTent``~
+~
+0 BD 1
+0
+~
+I 0 D0
+~
+~
+0 0 915
+D2
+~
+~
+0 0 917
+S
+#917
+0 0
+(null)~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `iCommand `oTent``~
+~
+0 BD 1
+0
+~
+I 0 D0
+~
+~
+0 0 916
+S
+#918
+0 0
+(null)~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `hArmory `oand `aWeaponsmith's `oTent``~
+~
+0 BD 1
+0
+~
+I 0 D0
+~
+~
+0 0 908
+D1
+~
+~
+0 0 919
+S
+#919
+0 0
+(null)~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `hArmory `oand `aWeaponsmith's `oTent``~
+~
+0 BD 1
+0
+~
+I 0 D1
+~
+~
+0 0 920
+D3
+~
+~
+0 0 918
+S
+#920
+0 0
+(null)~
+~
+~
+0 0 0
+`oA -< `i+ `o>- Te`impl`oar -< `i+ `o>- `hArmory `oand `aWeaponsmith's `oTent``~
+~
+0 BD 1
+0
+~
+I 0 D3
+~
+~
+0 0 919
+S
+#951
+0 0
+~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36032
+D1
+~
+~
+0 0 952
+D2
+~
+~
+0 0 955
+D3
+~
+~
+0 0 36131
+S
+#952
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36033
+D1
+~
+~
+0 0 36134
+D2
+~
+~
+0 0 956
+D3
+~
+~
+0 0 951
+S
+#953
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36130
+D1
+~
+~
+0 0 954
+D2
+~
+~
+0 0 959
+D3
+~
+~
+0 0 36229
+S
+#954
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36131
+D1
+~
+~
+0 0 955
+D2
+~
+~
+0 0 960
+D3
+~
+~
+0 0 953
+S
+#955
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 951
+D1
+~
+~
+0 0 956
+D2
+~
+~
+0 0 961
+D3
+~
+~
+0 0 954
+S
+#956
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 952
+D1
+~
+~
+0 0 957
+D2
+~
+~
+0 0 962
+D3
+~
+~
+0 0 955
+S
+#957
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36134
+D1
+~
+~
+0 0 36235
+D2
+~
+~
+0 0 963
+D3
+~
+~
+0 0 956
+S
+#958
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36229
+D1
+~
+~
+0 0 959
+D2
+~
+~
+0 0 966
+D3
+~
+~
+0 0 36328
+S
+#959
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 953
+D1
+~
+~
+0 0 960
+D2
+~
+~
+0 0 967
+D3
+~
+~
+0 0 958
+S
+#960
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 954
+D1
+~
+~
+0 0 961
+D2
+~
+~
+0 0 968
+D3
+~
+~
+0 0 959
+S
+#961
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 955
+D1
+~
+~
+0 0 962
+D2
+~
+~
+0 0 969
+D3
+~
+~
+0 0 960
+S
+#962
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 956
+D1
+~
+~
+0 0 963
+D2
+~
+~
+0 0 970
+D3
+~
+~
+0 0 961
+S
+#963
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 957
+D1
+~
+~
+0 0 964
+D2
+~
+~
+0 0 971
+D3
+~
+~
+0 0 962
+S
+#964
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36235
+D1
+~
+~
+0 0 36336
+D2
+~
+~
+0 0 36435
+D3
+~
+~
+0 0 963
+S
+#965
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36328
+D1
+~
+~
+0 0 966
+D2
+~
+~
+0 0 972
+D3
+~
+~
+0 0 36427
+S
+#966
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 958
+D1
+~
+~
+0 0 967
+D2
+~
+~
+0 0 973
+D3
+~
+~
+0 0 965
+S
+#967
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 959
+D1
+~
+~
+0 0 968
+D2
+~
+~
+0 0 974
+D3
+~
+~
+0 0 966
+S
+#968
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 960
+D1
+~
+~
+0 0 969
+D2
+~
+~
+0 0 975
+D3
+~
+~
+0 0 967
+S
+#969
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 961
+D1
+~
+~
+0 0 970
+D2
+~
+~
+0 0 976
+D3
+~
+~
+0 0 968
+S
+#970
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 962
+D1
+~
+~
+0 0 971
+D2
+~
+~
+0 0 977
+D3
+~
+~
+0 0 969
+S
+#971
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 963
+D1
+~
+~
+0 0 36435
+D2
+~
+~
+0 0 978
+D3
+~
+~
+0 0 970
+S
+#972
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 965
+D1
+~
+~
+0 0 973
+D2
+~
+~
+0 0 36628
+D3
+~
+~
+0 0 36527
+S
+#973
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 966
+D1
+~
+~
+0 0 974
+D2
+~
+~
+0 0 981
+D3
+~
+~
+0 0 972
+S
+#974
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 967
+D1
+~
+~
+0 0 975
+D2
+~
+~
+0 0 982
+D3
+~
+~
+0 0 973
+S
+#975
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I A J Undead hands grab at your feet, pulling you down through the fresh dirt.~
+K You feel the ground move below you.~
+L10
+N1029
+Q (null)~
+D0
+~
+~
+0 0 968
+D1
+~
+~
+0 0 976
+D2
+~
+~
+0 0 983
+D3
+~
+~
+0 0 974
+S
+#976
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 969
+D1
+~
+~
+0 0 977
+D2
+~
+~
+0 0 984
+D3
+~
+~
+0 0 975
+S
+#977
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 970
+D1
+~
+~
+0 0 978
+D2
+~
+~
+0 0 985
+D3
+~
+~
+0 0 976
+S
+#978
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 971
+D1
+~
+~
+0 0 979
+D2
+~
+~
+0 0 986
+D3
+~
+~
+0 0 977
+S
+#979
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36435
+D1
+~
+~
+0 0 980
+D2
+~
+~
+0 0 987
+D3
+~
+~
+0 0 978
+S
+#980
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36436
+D1
+~
+~
+0 0 36537
+D2
+~
+~
+0 0 988
+D3
+~
+~
+0 0 979
+S
+#981
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 973
+D1
+~
+~
+0 0 982
+D2
+~
+~
+0 0 991
+D3
+~
+~
+0 0 36628
+S
+#982
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 974
+D1
+~
+~
+0 0 983
+D2
+~
+~
+0 0 992
+D3
+~
+~
+0 0 981
+S
+#983
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 975
+D1
+~
+~
+0 0 984
+D2
+~
+~
+0 0 993
+D3
+~
+~
+0 0 982
+S
+#984
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 976
+D1
+~
+~
+0 0 985
+D2
+~
+~
+0 0 994
+D3
+~
+~
+0 0 983
+S
+#985
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 977
+D1
+~
+~
+0 0 986
+D2
+~
+~
+0 0 995
+D3
+~
+~
+0 0 984
+S
+#986
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 978
+D1
+~
+~
+0 0 987
+D2
+~
+~
+0 0 996
+D3
+~
+~
+0 0 985
+S
+#987
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 979
+D1
+~
+~
+0 0 988
+D2
+~
+~
+0 0 997
+D3
+~
+~
+0 0 986
+S
+#988
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 980
+D1
+~
+~
+0 0 989
+D2
+~
+~
+0 0 998
+D3
+~
+~
+0 0 987
+S
+#989
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36537
+D1
+~
+~
+0 0 990
+D2
+~
+~
+0 0 999
+D3
+~
+~
+0 0 988
+S
+#990
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36538
+D1
+~
+~
+0 0 36639
+D2
+~
+~
+0 0 1000
+D3
+~
+~
+0 0 989
+S
+#991
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 981
+D1
+~
+~
+0 0 992
+D2
+~
+~
+0 0 36829
+D3
+~
+~
+0 0 36728
+S
+#992
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 982
+D1
+~
+~
+0 0 993
+D2
+~
+~
+0 0 1002
+D3
+~
+~
+0 0 991
+S
+#993
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 983
+D1
+~
+~
+0 0 994
+D2
+~
+~
+0 0 1003
+D3
+~
+~
+0 0 992
+S
+#994
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I A J Undead hands reach up through the ground and pull you down into the soft soil.~
+K (null)~
+L5
+N1030
+Q (null)~
+D0
+~
+~
+0 0 984
+D1
+~
+~
+0 0 995
+D2
+~
+~
+0 0 1004
+D3
+~
+~
+0 0 993
+S
+#995
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 985
+D1
+~
+~
+0 0 996
+D2
+~
+~
+0 0 1005
+D3
+~
+~
+0 0 994
+S
+#996
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 986
+D1
+~
+~
+0 0 997
+D2
+~
+~
+0 0 1006
+D3
+~
+~
+0 0 995
+S
+#997
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 987
+D1
+~
+~
+0 0 998
+D2
+~
+~
+0 0 1007
+D3
+~
+~
+0 0 996
+S
+#998
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 988
+D1
+~
+~
+0 0 999
+D2
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 997
+S
+#999
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 989
+D1
+~
+~
+0 0 1000
+D2
+~
+~
+0 0 1009
+D3
+~
+~
+0 0 998
+S
+#1000
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 990
+D1
+~
+~
+0 0 1001
+D2
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 999
+S
+#1001
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 36639
+D1
+~
+~
+0 0 36740
+D2
+~
+~
+0 0 36839
+D3
+~
+~
+0 0 1000
+S
+#1002
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 992
+D1
+~
+~
+0 0 1003
+D2
+~
+~
+0 0 36930
+D3
+~
+~
+0 0 36829
+S
+#1003
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 993
+D1
+~
+~
+0 0 1004
+D2
+~
+~
+0 0 1011
+D3
+~
+~
+0 0 1002
+S
+#1004
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 994
+D1
+~
+~
+0 0 1005
+D2
+~
+~
+0 0 1012
+D3
+~
+~
+0 0 1003
+S
+#1005
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 995
+D1
+~
+~
+0 0 1006
+D2
+~
+~
+0 0 1013
+D3
+~
+~
+0 0 1004
+S
+#1006
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 996
+D1
+~
+~
+0 0 1007
+D2
+~
+~
+0 0 36934
+D3
+~
+~
+0 0 1005
+S
+#1007
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 997
+D1
+~
+~
+0 0 1008
+D2
+~
+~
+0 0 36935
+D3
+~
+~
+0 0 1006
+S
+#1008
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 998
+D1
+~
+~
+0 0 1009
+D2
+~
+~
+0 0 1014
+D3
+~
+~
+0 0 1007
+S
+#1009
+0 0
+(null)~
+~
+~
+0 0 0
+Among the Gravestones~
+Wild saltgrass and weeds grow freely all around, making the disorganized
+gravestones appear like small grey islands in a moving sea of windswept
+green.  Tropical palm trees can be seen here and there and a gentle sea
+breeze fills the air with the smell of salt.  Nobody seems to maintain this
+small island and you have to wonder just how long it's been since a funeral
+ceremony has taken place here.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 999
+D1
+~
+~
+0 0 1010
+D2
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1008
+S
+#1010
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 1000
+D1
+~
+~
+0 0 36839
+D2
+~
+~
+0 0 36938
+D3
+~
+~
+0 0 1009
+S
+#1011
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 1003
+D1
+~
+~
+0 0 1012
+D2
+~
+~
+0 0 37031
+D3
+~
+~
+0 0 36930
+S
+#1012
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 1004
+D1
+~
+~
+0 0 1013
+D2
+~
+~
+0 0 37032
+D3
+~
+~
+0 0 1011
+S
+#1013
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 1005
+D1
+~
+~
+0 0 36934
+D2
+~
+~
+0 0 37033
+D3
+~
+~
+0 0 1012
+S
+#1014
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 1008
+D1
+~
+~
+0 0 1015
+D2
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 36935
+S
+#1015
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 1009
+D1
+~
+~
+0 0 36938
+D2
+~
+~
+0 0 1017
+D3
+~
+~
+0 0 1014
+S
+#1016
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 1014
+D1
+~
+~
+0 0 1017
+D2
+~
+~
+0 0 37136
+D3
+~
+~
+0 0 37035
+S
+#1017
+0 0
+(null)~
+~
+~
+0 0 0
+Desolate Beach~
+The ocean waves lap quietly against the yellow sand of this tiny island. 
+A gentle incline away from the water yields low dunes and a thickening
+population of saltgrass and wild weeds.  No obvious trails or structures
+give any sign of habitation.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 1015
+D1
+~
+~
+0 0 37038
+D2
+~
+~
+0 0 37137
+D3
+~
+~
+0 0 1016
+S
+#1018
+0 0
+(null)~
+~
+~
+0 0 0
+Inside the Gravesite~
+A magical silence mutes all noise here.  Even the dirt beneath your feet
+makes no sound as you tread upon it.  Roughly-hewn walls of dirt surround
+you and a small tight passage leads underground to the south.  
+~
+0 ABDGNQ 18
+0
+~
+I 0 D2
+~
+~
+0 0 1019
+S
+#1019
+0 0
+(null)~
+~
+~
+0 0 0
+A Dark Earthen Passage~
+A magical silence mutes all noise here.  Even the dirt beneath your feet
+makes no sound as you tread upon it.  Roughly-hewn walls of dirt surround
+you and a small tight passage leads underground to the north and east.  
+~
+0 ADGN 18
+0
+~
+I 0 D0
+~
+~
+0 0 1018
+D1
+~
+~
+0 0 1020
+S
+#1020
+0 0
+(null)~
+~
+~
+0 0 0
+A Dark Earthen Passage~
+A magical silence mutes all noise here.  Even the dirt beneath your feet
+makes no sound as you tread upon it.  Roughly-hewn walls of dirt surround
+you and small tight passages lead west and downwards through a hole in the
+floor.  
+~
+0 ADGN 18
+0
+~
+I 0 D3
+~
+~
+0 0 1019
+D5
+~
+~
+0 0 1021
+S
+#1021
+0 0
+(null)~
+~
+~
+0 0 0
+Dark Catacombs~
+Further underground, the rough passage gives way to well-made walls of
+dark stone indicating a much older cyclopean architecture.  The stone walls
+are engraved with ancient glyphs and markings in an language rarely seen by
+mortal eyes.  The evil of this place closes in all around you.  
+~
+0 ADGN 18
+0
+~
+I 0 D2
+~
+~
+0 0 1022
+D4
+~
+~
+0 0 1020
+S
+#1022
+0 0
+(null)~
+~
+~
+0 0 0
+Dark Catacombs~
+Further underground, the rough passage gives way to well-made walls of
+dark stone indicating a much older cyclopean architecture.  The stone walls
+are engraved with ancient glyphs and markings in an language rarely seen by
+mortal eyes.  The evil of this place closes in all around you.  
+~
+0 ADGN 18
+0
+~
+I 0 D0
+~
+~
+0 0 1021
+D2
+~
+~
+0 0 1023
+S
+#1023
+0 0
+(null)~
+~
+~
+0 0 0
+Dark Catacombs~
+Further underground, the rough passage gives way to well-made walls of
+dark stone indicating a much older cyclopean architecture.  The stone walls
+are engraved with ancient glyphs and markings in an language rarely seen by
+mortal eyes.  The evil of this place closes in all around you.  
+~
+0 ADGN 18
+0
+~
+I 0 D0
+~
+~
+0 0 1022
+D2
+~
+~
+0 0 1024
+S
+#1024
+0 0
+(null)~
+~
+~
+0 0 0
+Dark Catacombs~
+Further underground, the rough passage gives way to well-made walls of
+dark stone indicating a much older cyclopean architecture.  The stone walls
+are engraved with ancient glyphs and markings in an language rarely seen by
+mortal eyes.  The evil of this place closes in all around you.  Though you
+are already deep underground, a new passage opens up below you, revealing
+only darkness.  
+~
+0 ACDN 18
+2
+You must wait your turn.~
+I 0 D0
+~
+~
+0 0 1023
+D5
+~
+~
+0 0 1025
+S
+#1025
+0 0
+(null)~
+~
+~
+0 0 0
+Within the Ancient Fortress~
+You stand at the beginning of an eastward passage through a tunnel made
+of polished black stone.  The stone absorbs all light, making it difficult
+to tell just where the darkness ends and the wall begins.  Staring deep into
+the walls you see the distant twinkle of stars all around you.  How can this
+be?  
+~
+0 ADN 18
+0
+~
+I 0 D1
+~
+~
+0 0 1026
+D4
+~
+~
+0 0 1024
+S
+#1026
+0 0
+(null)~
+~
+~
+0 0 0
+Within the Ancient Fortress~
+This black stone hallway continues east and west for some distance.  A
+subtle silent vibration all around makes your feel nausious and uneasy.  As
+your eyes adjust even more to the claustrophobic darkness, you begin to make
+out a faint violet glow to the mist gathered about your feet, which seems to
+lead you on to the east.  
+~
+0 ADGN 18
+0
+~
+I 0 D1
+~
+~
+0 0 1027
+D3
+~
+~
+0 0 1025
+S
+#1027
+0 0
+(null)~
+~
+~
+0 64 0
+Within the Ancient Fortress~
+Stone surrounds you on all sides, polished smooth and dark by countless
+hours of attention from now-unseen servants.  Though you are surrounded by a
+magical silence, you can feel the vibration of a repetitive humming coming
+from all around.  The odor of sulphur permeates the air and the room is
+dimly lit by a luminescent violet glow which gets brighter around the cracks
+of the door to the north.  
+~
+0 DN 18
+0
+~
+I 0 D0
+~
+door~
+4193 955 1028
+D3
+~
+~
+0 0 1026
+S
+#1028
+0 0
+(null)~
+~
+~
+0 0 0
+The Lair~
+As you step into this room, you are instantly aware that the magical
+silence surrounding you earlier does not exist here.  The ubiquitous crackle
+of eternal torches sounds much louder than it should and a strong scent of
+sulphur mixes with burning incense.  Your attention, however, is drawn
+inescapibly to the ancient being who calls this place home.  
+~
+0 CDNX 18
+2
+~
+I 0 D2
+~
+door~
+4193 955 1027
+S
+#1029
+0 0
+~
+~
+~
+0 0 0
+Inside the Gravesite~
+The hands pull you down, down, down through the soft ground.  It feels
+like sliding down a sand dune.  You can feel the dirt and roots all around
+you, but nothing seems to provide traction to stop your descent.  It's
+nearly impossible to breathe as claustrophobia slowly takes over...  
+~
+0 AD 0
+0
+~
+I 0 D4
+~
+~
+0 0 975
+S
+#1030
+0 0
+~
+~
+~
+0 512 0
+Inside the Gravesite~
+The soft soil gives way to a natural opening, a type of bubble in the
+dirt.  It is very dark here and difficult to breathe.  There is no sign of
+the inhabitants whose hands broke through the ground above only moments ago.
+A hard struggle makes it possible to return to the surface above.  
+~
+0 ADN 18
+0
+~
+I 0 D0
+~
+~
+0 0 26419
+D4
+~
+~
+0 0 994
+S
+#1031
+0 0
+~
+$n appears out of the darkness of the grove.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cEntrance to the `aCorrupt Grove``~
+You stand at the entrance of a thick, dark grove.  The evil and the
+corruption of this place almost pulsates through the air.  Dead tree limbs
+intertwine in unnatural ways, trunks forming a thick wall and limbs locking
+together in a canopy that block out the sun.  Overgrown dead underbrush line
+the edge of the path, the thorns of dead briars still razor sharp.  You can
+feel the raw power emanating from the creatures that stalk these dark
+groves.  Their powers over nature and life having been corrupted crackly
+chaotically through the grove.  It may be best to turn away.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1033
+D3
+~
+~
+0 0 1032
+S
+#1032
+0 0
+~
+$n appears out of the darkness of the grove.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cA bend in the `aCorrupt Grove``~
+The thick grove bends sharply around a corner, giving you the impression
+these outer pathways were intentionally formed around an area in the center.
+The twisted hallow trees twist unnaturally around, literally bent to their
+master's will.  It's clear no one tends these pathways, as the underbrush is
+even thicker here.  You have to carefully pick your way through, for even a
+stumble could lead to you being torn to shreds.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1031
+D2
+~
+~
+0 0 1035
+S
+#1033
+0 0
+(null)~
+$n appears out of the darkness of the grove.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cA bend in the `aCorrupt Grove``~
+The thick grove bends sharply around a corner, giving you the impression
+these outer pathways were intentionally formed around an area in the center.
+The twisted hallow trees twist unnaturally around, literally bent to their
+master's will.  It's clear no one tends these pathways, as the underbrush is
+even thicker here.  You have to carefully pick your way through, for even a
+stumble could lead to you being torn to shreds.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1034
+D3
+~
+~
+0 0 1031
+S
+#1034
+0 0
+~
+$n appears out of the darkness of the grove.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cA path through the `aCorrupt Grove``~
+This path leads deeper into the corrupt grove.  Here its harder for the
+light to penetrate through the thickly intertwined tree limbs.  The aura of
+dread hangs heavily in the stagnant air.  You can see marks on the trees
+where someone must have tried to cut his way out in a fit of madness, but
+the bark of these undead trees looks as if it was made of steel.  The bones
+scattered throughout the razor sharp briars tell the tails of many an
+adventurer who lost their sense and attempted to flee.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1033
+D2
+~
+~
+0 0 1036
+S
+#1035
+0 0
+(null)~
+$n appears out of the darkness of the grove.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cA path through the `aCorrupt Grove``~
+This path leads deeper into the corrupt grove.  Here its harder for the
+light to penetrate through the thickly intertwined tree limbs.  The aura of
+dread hangs heavily in the stagnant air.  You can see marks on the trees
+where someone must have tried to cut his way out in a fit of madness, but
+the bark of these undead trees looks as if it was made of steel.  The bones
+scattered throughout the razor sharp briars tell the tails of many an
+adventurer who lost their sense and attempted to flee.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1032
+D2
+~
+~
+0 0 1037
+S
+#1036
+0 0
+(null)~
+$n appears out of the darkness of the grove.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cA bend in the `aCorrupt Grove``~
+The thick grove bends sharply around a corner, giving you the impression
+these outer pathways were intentionally formed around an area in the center.
+The twisted hallow trees twist unnaturally around, literally bent to their
+master's will.  It's clear no one tends these pathways, as the underbrush is
+even thicker here.  You have to carefully pick your way through, for even a
+stumble could lead to you being torn to shreds.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1034
+D3
+~
+~
+0 0 1038
+S
+#1037
+0 0
+(null)~
+$n appears out of the darkness of the grove.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cA bend in the `aCorrupt Grove``~
+The thick grove bends sharply around a corner, giving you the impression
+these outer pathways were intentionally formed around an area in the center.
+The twisted hallow trees twist unnaturally around, literally bent to their
+master's will.  It's clear no one tends these pathways, as the underbrush is
+even thicker here.  You have to carefully pick your way through, for even a
+stumble could lead to you being torn to shreds.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1035
+D1
+~
+~
+0 0 1038
+S
+#1038
+0 0
+(null)~
+$n appears out of the darkness of the grove.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cBefore a clearing in the `aCorrupt Grove``~
+The dark path opens up a bit here, and you can see the thick walls of
+dead trees giving way to a clearing of some sort at the center of the grove.
+You sense that you are standing before the core of the corruption, as the
+air here literally crackles with the chaotic power.  You can see rays of
+light breaking through the unnatural canopy into the clearing ahead, and if
+it weren't for the hair raising powers you can feel emanating forth you'd
+have immediately fled towards the sanctuary of the light.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1039
+D1
+~
+~
+0 0 1036
+D3
+~
+~
+0 0 1037
+S
+#1039
+0 0
+(null)~
+$n stumbles out from the darkness into the open clearing.~
+$n fades into the darkness of the grove.~
+0 0 0
+`cA clearing in the `aCorrupt Grove``~
+This clearing would be a welcome reprieve from the darkened pathways that
+surround the grove if it wasn't for the soul-crushing powers of chaos and
+un-death that crackle and dance through the rays of light.  At just a glance
+the clearing seems calm and serene, there even seem to be some signs of life
+left in the sparse foliage that dot the edges.  Even the tree limbs don't
+seem so much like the lifeless husks of ironwood that lined the path. 
+However, its clear that this is not a natural or holy place, and the
+creatures that lurk here are certainly the cause of the powerful corruption.
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1038
+S
+#0
+
+#RESETS
+O 0 951   0 977 -1	* An open gravesite at Among the Gravestones
+O 0 953   0 975 -1	* The gravestone at Among the Gravestones
+O 0 953   0 959 -1	* The gravestone at Among the Gravestones
+O 0 953   0 955 -1	* The gravestone at Among the Gravestones
+O 0 953   0 994 -1	* The gravestone at Among the Gravestones
+O 0 953   0 998 -1	* The gravestone at Among the Gravestones
+O 0 953   0 987 -1	* The gravestone at Among the Gravestones
+D 0 1028   2    2	* The Lair [south]
+D 0 1027   0    2	* Within the Ancient Fortress [north]
+M 0  952   1 1018  1	* The sleeping skeleton
+M 0  951  25  994 25	* A zombie
+M 0  951  25  998 25	* A zombie
+M 0  951  25  987 25	* A zombie
+M 0  951  25  977 25	* A zombie
+M 0  951  25  975 25	* A zombie
+M 0  951  25  959 25	* A zombie
+M 0  951  25  955 25	* A zombie
+O 0 952   0 1018 -1	* An open gravesite at Inside the Gravesite
+M 0  953   1 1020  1	* The crypt guardian
+M 0  951  25 1019  1	* A zombie
+M 0  954   1 1024  1	* `adeath``
+M 0  956   1 1023  1	* A kalian overlord
+M 0  955   6 1021  2	* A kalian minion
+M 0  955   6 1022  2	* A kalian minion
+M 0  955   6 1023  2	* A kalian minion
+O 0 954   0 964 -1	* The skeletal boat at Desolate Beach
+O 0 956   0 1006 -1	* A beautiful conch shell at Desolate Beach
+O 0 957   0 1001 -1	* A random piece of driftwood at Desolate Beach
+M 0  958   1 1028  1	* The ancient
+O 0 958   0 1028 -1	* The runed sarcophagus at The Lair
+M 0  959   2  952  1	* A zombified sailor
+M 0  959   2  991  1	* A zombified sailor
+M 0  957   1 1026  1	* The gatekeeper
+E 0  955   -1   18	* item to The gatekeeper
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 902 spec_cast_healer		* `oA Cleric `o-< `i+ `oTe`impl`oar `i+ `o>-``
+M 903 spec_cast_healer		* `oA -< `i+ `oTe`impl`oar `i+ `o>- Paladin``
+M 904 spec_cast_cleric		* `oA -< `i+ `oTe`impl`oar `i+ `o>- Battle Cleric``
+M 926 spec_cast_undead		* `aA newly born `bKalian``
+M 927 spec_cast_undead		* `aA freshly risen Lich``
+M 928 spec_cast_undead		* `aA full-`iblooded `bKalian `alifestalker``
+M 929 spec_cast_undead		* `aA Lich power-monger``
+M 960 spec_cast_undead		* `bA mighty `iKalian `bthat killed Abe Lincoln``
+S
+
+#OT
+#0
+#$

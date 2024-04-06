@@ -1,0 +1,4560 @@
+#AREA
+seas.enc~
+Seas~
+{ 8 20} Lok  Seas~
+~
+12614 12713
+0 0
+0 1
+~
+#MOBILES
+#12615
+pirate raiders~
+the pirate raiders~
+A pirate raider ship is here menacing commerce!
+~
+The ship is a single mast trireme, low to the water, and has a ram. Pirates 
+man the riggings and catapults with Greek fire.
+~
+unique~
+0 0 0 0
+AFGX 0 -800 0
+10 0 2d7+121 1d1+99 2d4+2 blast
+1 1 1 6
+A 0 0 0
+stand stand none 121
+c 0 large wood~
+0 0 0 100
+0
+~
+~
+#12616
+trader merchant~
+the merchant trader~
+A merchant trader is here, low in the water, with a full cargo.
+~
+The merchant galley has 2 tiers of oars, and rides low in the water due 
+to the full cargo hold. It is heavily guarded.
+~
+unique~
+0 0 0 0
+AGHX 0 200 0
+15 0 3d9+208 1d1+99 2d6+3 blast
+-2 -2 -2 3
+A 0 0 0
+stand stand none 208
+c 0 large wood~
+0 0 0 100
+0
+~
+~
+#12617
+trader merchant~
+the merchant trader~
+A merchant trader is here, rowing high in the water.
+~
+The merchant galley has 2 tiers of oars, and rides high in the water due 
+to the empty cargo hold. It is lightly guarded.
+~
+unique~
+0 0 0 0
+AGHX 0 200 0
+8 0 2d7+96 1d1+99 1d7+2 blast
+3 3 3 8
+A 0 0 0
+stand stand none 96
+c 0 large wood~
+0 0 0 100
+0
+~
+~
+#12618
+whaler~
+the whaler~
+A whaler is here seeking its quarry.
+~
+The whaler is a low ship with several rowboats in tow. A blood wake trails
+the ship, evidence of a successful hunt.
+~
+unique~
+0 0 0 0
+AGX 0 0 0
+8 0 2d7+96 1d1+99 1d7+2 blast
+3 3 3 8
+A 0 0 0
+stand stand none 96
+c 0 large wood~
+0 0 0 100
+0
+~
+~
+#12619
+whaler~
+the whaler~
+A whaler is here seeking its quarry.
+~
+The whaler is a low ship with several rowboats in tow.
+~
+unique~
+0 0 0 0
+AGX 0 0 0
+8 0 2d7+96 1d1+99 1d7+2 blast
+3 3 3 8
+A 0 0 0
+stand stand none 96
+c 0 large wood~
+0 0 0 100
+0
+~
+~
+#12620
+ghost ship~
+the black masted ghost ship~
+A black masted ghost ship crosses the horizon, sailing on air and misery.
+~
+The ghost ship is transparent and has rigging of an ancient make. You hear
+howls of terror coming from within the vessel.
+~
+unique~
+0 0 0 0
+AGX BPT 0 0
+20 0 3d9+333 1d1+99 2d8+5 blast
+-4 -4 -4 1
+A 0 0 0
+stand stand none 333
+c 0 large wood~
+0 0 0 100
+0
+~
+~
+#12621
+whale sperm~
+the sperm whale~
+A sperm whale is here breaching upon the open waters.
+~
+The sperm whale is old and bears the scars of many hunts.
+~
+unique~
+0 0 0 0
+AGX 0 0 0
+12 0 2d10+150 1d1+99 1d10+3 chomp
+0 0 0 5
+ACDM 0 0 0
+stand stand either 0
+AGb ADEFKOQ large 0~
+0 0 0 100
+0
+~
+~
+#12622
+squid giant~
+the giant squid~
+A giant squid is here, tentacles drifting in the current!
+~
+The giant squid is some 20' long, and has a beaked mouth inside its
+tentacles.
+~
+unique~
+0 0 0 0
+ACFGX e 0 0
+12 0 2d10+150 1d1+99 1d10+3 crush
+0 0 0 5
+AMN 0 0 0
+stand stand either 0
+AGc ADEFKN large 0~
+0 0 0 100
+0
+~
+~
+#12623
+siren~
+the siren~
+The siren of Hell's reef is here, singing her enchanting song.
+~
+The siren is a beautiful maiden with the torso of a fish. Her song 
+is very hard to resist.
+~
+human~
+0 0 0 0
+ACFGX B -500 0
+15 0 3d9+208 1d1+99 2d6+3 blast
+-2 -2 -2 3
+0 ABT 0 0
+stand stand female 208
+AHMV ABCDEFGHIJK medium 0~
+0 0 0 100
+0
+~
+~
+#12624
+typhoon raging~
+the raging typhoon~
+A raging typhoon is here, making you seasick.
+~
+The typhoon has high winds and towering black clouds. Lightning arcs wildly
+at its center, the sign that this is a non natural phenomena.
+~
+unique~
+0 0 0 0
+AFGX H 0 0
+20 0 3d9+333 1d1+99 2d8+5 none
+-4 -4 -4 1
+AN ABDIJKLPQSXZ 0 HMNORY
+stand stand none 0
+0 0 huge 0~
+0 0 0 100
+0
+~
+~
+#12713
+rastafarians~
+the Rastafarians load up a huge bowl and~
+You hear reggae music and smell marijuana floating across the water.
+~
+The Rastafarians are firmly convinced that Jah will indeed provide
+for their every need, and are content to float along endlessly. They
+appear very wise in the ways of the world and may be able to teach
+you something.
+~
+human~
+0 0 0 0
+ACHJLNOPQR HN 0 0
+60 5 50d10+9500 1d1+9999 8d6+28 suction
+-30 -30 -30 -30
+ACFINU B 0 0
+stand stand none 9500
+AHMV ABCDEFGHIJK medium 0~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#12615
+map strange~
+a strange map~
+A strange looking map is here.
+~
+paper~
+0
+map 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 2 0 P
+E
+map strange~
+........G...........
+.......G+GGGGGGG....
+......G+,+++++,+G5..
+......G+,,,,,,,,++G.
+.....4+,,,+++,,,,+G.
+...GGG++,,+6+,,++G..
+..3++GG+,++G+,+,,+G.
+.G+,,+G,,,+++,,,,,+G
+.G+,,+G+,,,,,,+,,+G.
+..G++G+,,,,+++G+,+G.
+...G+++m,+,+GG.G+++G
+....GG+,+S+G....GG2.
+.....1++G.G.........
+......GG............
+~
+#12616
+fire greek~
+greek fire~
+A smoldering pot of hot volatile liquid is here.
+~
+fire~
+0
+staff A AO
+6
+~
+~
+~
+~
+BD B B 0 0
+0
+0
+0 6 0 P
+#12617
+trireme~
+a trireme~
+A trireme is here, ready to sail the high seas.
+~
+wood~
+0
+container ST 0
+6
+~
+~
+~
+~
+DEHJLMN 0 0 CDEGHIK CFG
+0
+0
+0 400 0 P
+#12618
+galley~
+a galley~
+A galley is here, wallowing in the water.
+~
+~
+0
+trash ST 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 800 0 P
+#12619
+hoard ships~
+the ship's hoard~
+A pile of crates and boxes lies here, awaiting longshoremen.
+~
+gold~
+0
+money 0 A
+6
+~
+~
+~
+~
+FJKLO 0 0 0 0
+0
+0
+0 0 0 P
+#12620
+whaler ship~
+a whaling ship~
+A whaling ship is docked here, drawing a swarm of flies.
+~
+wood~
+0
+container ST 0
+6
+~
+~
+~
+~
+DEHJLMN 0 0 CDEGHIK CFG
+0
+0
+0 300 0 P
+#12621
+blubber giant mound~
+a giant mound of blubber~
+A giant mound of blubber is here, waiting to be processed into oil.
+~
+food~
+0
+food 0 A
+6
+~
+~
+~
+~
+DG DG 0 0 0
+0
+0
+0 1500 0 P
+#12622
+treasure lost~
+the lost treasure from the sunken ship~
+A huge gleaming pile of gold glistens here.
+~
+gold~
+0
+money 0 A
+6
+~
+~
+~
+~
+FHJKPQ 0 0 0 0
+0
+0
+0 0 0 P
+#12623
+fire circle~
+the circle of fire~
+A circular fire burns and crackles here.
+~
+fire~
+0
+armor AGQ AL
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 100 0 P
+A
+3 1
+A
+5 1
+E
+fire circle~
+You peer closely into the fire and see the image of a white cloaked 
+mage carving a slice out of a fire elemental with a mystic blade. The
+slice is shaped and forged into a bright band of fire.
+~
+#12624
+cape storm~
+the storm cape (flag affect 0 0 T)~
+Soaring high above you is a little stormy cloud.
+~
+~
+0
+armor FG AC
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 80 0 P
+A
+5 1
+A
+19 2
+E
+cape storm~
+The storm cape tingles with electricity, and is wet to your touch. It slips
+from your grasp even as you manage to seize it.
+~
+#12711
+boat banana~
+a banana boat~
+A beat up wreck of a ship drifts with the current.
+~
+wood~
+0
+container ST 0
+6
+~
+~
+~
+~
+DHIJM 0 0 DFGHIJ CFG
+0
+0
+0 300 0 P
+E
+boat ship~
+You see lots of bananas loaded on board the boat.
+~
+#12712
+spliff big fat~
+a big fat spliff~
+Ya mon, Jah has provided.
+~
+hemp~
+0
+staff Q AO
+6
+~
+~
+~
+~
+AC AB B 0 0
+0
+0
+0 10 0 P
+E
+spliff fat~
+The fat spliff is filled with the holy Rastafarian herb. It
+is lit and looks like there are 2 hits left. The Rastaman
+took one hit off it when he sold it to you.
+~
+#12713
+dreddlocks~
+dreddlocks~
+A beautiful set of dreddlocks lie on the ground.
+~
+hemp~
+0
+armor A AE
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 5 0 P
+#0
+
+#ROOMS
+#12615
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12616
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12617
+~
+~
+0 0 0
+On the Beach~
+You have landed on the beach of a tropical island. In the sand are 
+the marks of a large heavy object which has been dragged up the beach.
+There is a wooden sign nailed in the ground.
+~
+0 C 4
+0
+~
+E
+wooden sign~
+{20 25} Lok     The Isle of the 1st Pirate Lord: Jungle Island
+~
+D1
+shallows~
+~
+0 -1 12618
+S
+#12618
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12624
+D1
+shallows~
+~
+0 -1 12619
+D2
+shoals~
+~
+0 -1 12615
+D3
+land ho!~
+~
+0 -1 12617
+S
+#12619
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12625
+D1
+shoals~
+~
+0 -1 12620
+D2
+shoals~
+~
+0 -1 12616
+D3
+shallows~
+~
+0 -1 12618
+S
+#12620
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12621
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12622
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12623
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12624
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12636
+D1
+seas~
+~
+0 -1 12625
+D2
+shallows~
+~
+0 -1 12618
+D3
+shoals~
+~
+0 -1 12623
+S
+#12625
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12637
+D1
+shallows~
+~
+0 -1 12626
+D2
+shallows~
+~
+0 -1 12619
+D3
+shallows~
+~
+0 -1 12624
+S
+#12626
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12638
+D1
+land ho!~
+~
+0 -1 12627
+D2
+shoals~
+~
+0 -1 12620
+D3
+seas~
+~
+0 -1 12625
+S
+#12627
+~
+~
+0 0 0
+Southpoint~
+You are on the solid land of southpoint. In all directions stretches the 
+seas of the infamous pirate lords, except to the south, where a road leads
+back to town. Do you have a boat, compass, and a good set of sea legs?
+~
+0 C 2
+0
+~
+D0
+shallows~
+~
+0 -1 12639
+D1
+shallows~
+~
+0 -1 12628
+D3
+shallows~
+~
+0 -1 12626
+S
+#12628
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12640
+D1
+shoals~
+~
+0 -1 12629
+D2
+shoals~
+~
+0 -1 12621
+D3
+land ho!~
+~
+0 -1 12627
+S
+#12629
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12630
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12631
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12632
+~
+~
+0 0 0
+In a Quiet Cove~
+You have sailed into a quiet cove. To the south of you is a large black
+mountain, and a beach of black sand. The cove continues to the west
+and south where it enters a water cave. There is a small buoy here.
+~
+0 C 7
+0
+~
+E
+buoy small~
+{25 30} Lok     2nd Isle of the Pirate Lords: Fire Island
+~
+D0
+shallows~
+~
+0 -1 12647
+S
+#12633
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12634
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12651
+D1
+shallows~
+~
+0 -1 12635
+D2
+shoals~
+~
+0 -1 12622
+D3
+shoals~
+~
+0 -1 12633
+S
+#12635
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 12652
+D1
+shallows~
+~
+0 -1 12636
+D2
+shoals~
+~
+0 -1 12623
+D3
+shallows~
+~
+0 -1 12634
+S
+#12636
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12653
+D1
+seas~
+~
+0 -1 12637
+D2
+shallows~
+~
+0 -1 12624
+D3
+shallows~
+~
+0 -1 12635
+S
+#12637
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. There is a 
+maelstrom here, sucking you downward in a whirling spiral.
+~
+0 U 7
+0
+~
+D0
+seas~
+~
+0 -1 12654
+D1
+seas~
+~
+0 -1 12638
+D2
+seas~
+~
+0 -1 12625
+D3
+shallows~
+~
+0 -1 12636
+D5
+Into the maelstrom~
+~
+0 -1 12699
+S
+#12638
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12655
+D1
+shallows~
+~
+0 -1 12639
+D2
+shallows~
+~
+0 -1 12626
+D3
+seas~
+~
+0 -1 12637
+S
+#12639
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12656
+D1
+seas~
+~
+0 -1 12640
+D2
+land ho!~
+~
+0 -1 12627
+D3
+seas~
+~
+0 -1 12638
+S
+#12640
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12657
+D1
+shallows~
+~
+0 -1 12641
+D2
+shallows~
+~
+0 -1 12628
+D3
+shallows~
+~
+0 -1 12639
+S
+#12641
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12658
+D1
+shoals~
+~
+0 -1 12642
+D2
+shoals~
+~
+0 -1 12629
+D3
+seas~
+~
+0 -1 12640
+S
+#12642
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12643
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12644
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12645
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12663
+D1
+shallows~
+~
+0 -1 12646
+D2
+shoals~
+~
+0 -1 12630
+D3
+shoals~
+~
+0 -1 12644
+S
+#12646
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12664
+D1
+shallows~
+~
+0 -1 12647
+D2
+shoals~
+~
+0 -1 12631
+D3
+shallows~
+~
+0 -1 12645
+S
+#12647
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 12665
+D1
+shoals~
+~
+0 -1 12648
+D2
+A quiet cove~
+~
+0 -1 12632
+D3
+shallows~
+~
+0 -1 12646
+S
+#12648
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12649
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12650
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12668
+D1
+shallows~
+~
+0 -1 12651
+D2
+shoals~
+~
+0 -1 12633
+D3
+shoals~
+~
+0 -1 12649
+S
+#12651
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12669
+D1
+shoals~
+~
+0 -1 12652
+D2
+shallows~
+~
+0 -1 12634
+D3
+shallows~
+~
+0 -1 12650
+S
+#12652
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12653
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+   Suddenly..your ship is thrown against the rocks and you are
+shipwrecked on an island...an island just west.
+~
+0 0 7
+0
+~
+D1
+~
+~
+0 -1 12654
+S
+#12654
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12672
+D1
+seas~
+~
+0 -1 12655
+D2
+seas~
+~
+0 -1 12637
+D3
+shallows~
+~
+0 -1 12653
+S
+#12655
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 P 7
+0
+~
+D0
+seas~
+~
+0 -1 12673
+D1
+seas~
+~
+0 -1 12656
+D2
+seas~
+~
+0 -1 12638
+D3
+seas~
+~
+0 -1 12654
+S
+#12656
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 S 7
+0
+~
+D0
+seas~
+~
+0 -1 12674
+D1
+seas~
+~
+0 -1 12657
+D2
+shallows~
+~
+0 -1 12639
+D3
+seas~
+~
+0 -1 12655
+S
+#12657
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 S 7
+0
+~
+D0
+seas~
+~
+0 -1 12675
+D1
+shallows~
+~
+0 -1 12658
+D2
+seas~
+~
+0 -1 12640
+D3
+seas~
+~
+0 -1 12656
+S
+#12658
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12676
+D1
+shallows~
+~
+0 -1 12659
+D2
+shallows~
+~
+0 -1 12641
+D3
+seas~
+~
+0 -1 12657
+S
+#12659
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12677
+D1
+shallows~
+~
+0 -1 12660
+D2
+shoals~
+~
+0 -1 12642
+D3
+shallows~
+~
+0 -1 12658
+S
+#12660
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12678
+D1
+shoals~
+~
+0 -1 12661
+D2
+shoals~
+~
+0 -1 12643
+D3
+shallows~
+~
+0 -1 12659
+S
+#12661
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12662
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12680
+D1
+seas~
+~
+0 -1 12663
+D2
+shoals~
+~
+0 -1 12644
+D3
+shoals~
+~
+0 -1 12661
+S
+#12663
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12681
+D1
+shallows~
+~
+0 -1 12664
+D2
+shallows~
+~
+0 -1 12645
+D3
+shallows~
+~
+0 -1 12662
+S
+#12664
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12682
+D1
+shoals~
+~
+0 -1 12665
+D2
+shallows~
+~
+0 -1 12646
+D3
+seas~
+~
+0 -1 12663
+S
+#12665
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12666
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12667
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12685
+D1
+seas~
+~
+0 -1 12668
+D2
+shoals~
+~
+0 -1 12649
+D3
+shoals~
+~
+0 -1 12666
+S
+#12668
+~
+~
+0 0 0
+Sailing the sea of chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+0 0 7
+0
+~
+D3
+shallows~
+~
+0 -1 12667
+D0
+seas~
+~
+0 -1 12686
+D1
+seas~
+~
+0 -1 12669
+D2
+shallows~
+~
+0 -1 12650
+S
+#12669
+~
+~
+0 0 0
+Sailing the sea of chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12687
+D2
+shallows~
+~
+0 -1 12651
+D1
+shallows~
+~
+0 -1 12670
+D3
+seas~
+~
+0 -1 12668
+S
+#12670
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12688
+D1
+shoals~
+~
+0 -1 12671
+D2
+shoals~
+~
+0 -1 12652
+D3
+seas~
+~
+0 -1 12669
+S
+#12671
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12672
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12690
+D1
+seas~
+~
+0 -1 12673
+D2
+seas~
+~
+0 -1 12654
+D3
+shoals~
+~
+0 -1 12671
+S
+#12673
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 P 7
+0
+~
+D0
+seas~
+~
+0 -1 12691
+D1
+seas~
+~
+0 -1 12674
+D2
+seas~
+~
+0 -1 12655
+D3
+shallows~
+~
+0 -1 12672
+S
+#12674
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12692
+D1
+seas~
+~
+0 -1 12675
+D2
+seas~
+~
+0 -1 12656
+D3
+seas~
+~
+0 -1 12673
+S
+#12675
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 R 7
+0
+~
+D0
+shallows~
+~
+0 -1 12693
+D1
+seas~
+~
+0 -1 12676
+D2
+seas~
+~
+0 -1 12657
+D3
+seas~
+~
+0 -1 12674
+S
+#12676
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 S 7
+0
+~
+D0
+shallows~
+~
+0 -1 12694
+D1
+seas~
+~
+0 -1 12677
+D2
+shallows~
+~
+0 -1 12658
+D3
+seas~
+~
+0 -1 12675
+S
+#12677
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 S 7
+0
+~
+D0
+shallows~
+~
+0 -1 12695
+D1
+seas~
+~
+0 -1 12678
+D2
+shallows~
+~
+0 -1 12659
+D3
+seas~
+~
+0 -1 12676
+S
+#12678
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 S 7
+0
+~
+D0
+seas~
+~
+0 -1 12696
+D1
+shallows~
+~
+0 -1 12679
+D2
+shallows~
+~
+0 -1 12660
+D3
+seas~
+~
+0 -1 12677
+S
+#12679
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12697
+D1
+seas~
+~
+0 -1 12680
+D2
+shoals~
+~
+0 -1 12661
+D3
+seas~
+~
+0 -1 12678
+S
+#12680
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12698
+D1
+seas~
+~
+0 -1 12681
+D2
+shallows~
+~
+0 -1 12662
+D3
+shallows~
+~
+0 -1 12679
+S
+#12681
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12699
+D1
+shallows~
+~
+0 -1 12682
+D2
+seas~
+~
+0 -1 12663
+D3
+seas~
+~
+0 -1 12680
+S
+#12682
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 12700
+D1
+shoals~
+~
+0 -1 12683
+D2
+shallows~
+~
+0 -1 12664
+D3
+seas~
+~
+0 -1 12681
+S
+#12683
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12684
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12685
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+land ho!~
+~
+0 -1 12703
+D1
+seas~
+~
+0 -1 12686
+D2
+shallows~
+~
+0 -1 12667
+D3
+shoals~
+~
+0 -1 12684
+S
+#12686
+~
+~
+0 0 0
+Sailing the Sea of Chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12704
+D2
+seas~
+~
+0 -1 12668
+D1
+seas~
+~
+0 -1 12687
+D3
+shallows~
+~
+0 -1 12685
+S
+#12687
+~
+~
+0 0 0
+Sailing the Sea of Chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+0 0 7
+0
+~
+D1
+shallows~
+~
+0 -1 12688
+D3
+seas~
+~
+0 -1 12686
+D0
+shallows~
+~
+0 -1 12705
+D2
+seas~
+~
+0 -1 12669
+S
+#12688
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 12706
+D1
+shoals~
+~
+0 -1 12689
+D2
+shallows~
+~
+0 -1 12670
+D3
+seas~
+~
+0 -1 12687
+S
+#12689
+~
+~
+0 0 0
+Shipwrecked on Thunder reef~
+You have run aground on the shoals and your ship has been torn asunder.
+A barnacle covered mast sticks out of the water, and leads beneath the 
+waves to the dark form of a wreck.
+~
+0 C 7
+0
+~
+D5
+Diving underwater~
+~
+0 -1 17170
+S
+#12690
+~
+~
+0 0 0
+On the Seas Near Thunder Reef~
+You have sailed next to the famed Thunder reef, which you hear crashing
+to your west. Many a mariner has wrecked his ship there.
+~
+0 0 7
+0
+~
+E
+reef thunder~
+As you look at Thunder reef, you remember the tale an old retired captain
+once told you about the Foamrunner laden with gold running aground on 
+Thunder reef.
+~
+D0
+shallows~
+~
+0 -1 12708
+D1
+seas~
+~
+0 -1 12691
+D2
+shallows~
+~
+0 -1 12672
+D3
+Thunder reef~
+~
+0 -1 12689
+S
+#12691
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 P 7
+0
+~
+D0
+seas~
+~
+0 -1 12709
+D1
+seas~
+~
+0 -1 12692
+D2
+seas~
+~
+0 -1 12673
+D3
+seas~
+~
+0 -1 12690
+S
+#12692
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12710
+D1
+shallows~
+~
+0 -1 12693
+D2
+seas~
+~
+0 -1 12674
+D3
+seas~
+~
+0 -1 12691
+S
+#12693
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12711
+D1
+shallows~
+~
+0 -1 12694
+D2
+seas~
+~
+0 -1 12675
+D3
+seas~
+~
+0 -1 12692
+S
+#12694
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 12712
+D1
+shallows~
+~
+0 -1 12695
+D2
+seas~
+~
+0 -1 12676
+D3
+shallows~
+~
+0 -1 12693
+S
+#12695
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 12713
+D1
+seas~
+~
+0 -1 12696
+D2
+seas~
+~
+0 -1 12677
+D3
+shallows~
+~
+0 -1 12694
+S
+#12696
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 R 7
+0
+~
+D0
+seas~
+~
+0 -1 17100
+D1
+seas~
+~
+0 -1 12697
+D2
+seas~
+~
+0 -1 12678
+D3
+shallows~
+~
+0 -1 12695
+S
+#12697
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17101
+D1
+seas~
+~
+0 -1 12698
+D2
+shallows~
+~
+0 -1 12679
+D3
+seas~
+~
+0 -1 12696
+S
+#12698
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17102
+D1
+seas~
+~
+0 -1 12699
+D2
+seas~
+~
+0 -1 12680
+D3
+seas~
+~
+0 -1 12697
+S
+#12699
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17103
+D1
+seas~
+~
+0 -1 12700
+D2
+seas~
+~
+0 -1 12681
+D3
+seas~
+~
+0 -1 12698
+S
+#12700
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17104
+D1
+shallows~
+~
+0 -1 12701
+D2
+shallows~
+~
+0 -1 12682
+D3
+seas~
+~
+0 -1 12699
+S
+#12701
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17105
+D1
+shoals~
+~
+0 -1 12702
+D2
+shoals~
+~
+0 -1 12683
+D3
+seas~
+~
+0 -1 12700
+S
+#12702
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You are on the shoals where the attacking ship was wrecked.  You can
+go east to the open beach, or west to the shallows and then, to the
+the open seas.
+~
+0 C 7
+0
+~
+D3
+~
+~
+0 -1 12701
+S
+#12703
+~
+~
+0 0 0
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. In the water next to
+you bobs a buoy.
+~
+0 CS 7
+0
+~
+E
+buoy~
+{30 35} Lok The 3rd Isle of the Pirate Lords: Pirate's Atoll~
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+D1
+shallows~
+~
+0 -1 12704
+D2
+shallows~
+~
+0 -1 12685
+S
+#12704
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17106
+D1
+shallows~
+~
+0 -1 12705
+D2
+seas~
+~
+0 -1 12686
+D3
+land ho!~
+~
+0 -1 12703
+S
+#12705
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17107
+D1
+shoals~
+~
+0 -1 12706
+D2
+seas~
+~
+0 -1 12687
+D3
+shallows~
+~
+0 -1 12704
+S
+#12706
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12707
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12708
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17110
+D1
+seas~
+~
+0 -1 12709
+D2
+seas~
+~
+0 -1 12690
+D3
+shoals~
+~
+0 -1 12707
+S
+#12709
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 P 7
+0
+~
+D0
+seas~
+~
+0 -1 17111
+D1
+shallows~
+~
+0 -1 12710
+D2
+seas~
+~
+0 -1 12691
+D3
+shallows~
+~
+0 -1 12708
+S
+#12710
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17112
+D1
+shallows~
+~
+0 -1 12711
+D2
+seas~
+~
+0 -1 12692
+D3
+seas~
+~
+0 -1 12709
+S
+#12711
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17113
+D1
+shoals~
+~
+0 -1 12712
+D2
+shallows~
+~
+0 -1 12693
+D3
+shallows~
+~
+0 -1 12710
+S
+#12712
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#12713
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17115
+D1
+seas~
+~
+0 -1 17100
+D2
+shallows~
+~
+0 -1 12695
+D3
+shoals~
+~
+0 -1 12712
+S
+#17100
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 R 7
+0
+~
+D0
+seas~
+~
+0 -1 17116
+D1
+shallows~
+~
+0 -1 17101
+D2
+seas~
+~
+0 -1 12696
+D3
+shallows~
+~
+0 -1 12713
+S
+#17101
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17117
+D1
+seas~
+~
+0 -1 17102
+D2
+seas~
+~
+0 -1 12697
+D3
+seas~
+~
+0 -1 17100
+S
+#17102
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17118
+D1
+seas~
+~
+0 -1 17103
+D2
+seas~
+~
+0 -1 12698
+D3
+shallows~
+~
+0 -1 17101
+S
+#17103
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17119
+D1
+shallows~
+~
+0 -1 17104
+D2
+seas~
+~
+0 -1 12699
+D3
+seas~
+~
+0 -1 17102
+S
+#17104
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17120
+D1
+shoals~
+~
+0 -1 17105
+D2
+seas~
+~
+0 -1 12700
+D3
+seas~
+~
+0 -1 17103
+S
+#17105
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17106
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17107
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17108
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17109
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17122
+D1
+shallows~
+~
+0 -1 17110
+D2
+shoals~
+~
+0 -1 12707
+D3
+shoals~
+~
+0 -1 17108
+S
+#17110
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17123
+D1
+seas~
+~
+0 -1 17111
+D2
+shallows~
+~
+0 -1 12708
+D3
+shallows~
+~
+0 -1 17109
+S
+#17111
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 P 7
+0
+~
+D0
+seas~
+~
+0 -1 17124
+D1
+seas~
+~
+0 -1 17112
+D2
+seas~
+~
+0 -1 12709
+D3
+shallows~
+~
+0 -1 17110
+S
+#17112
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17125
+D1
+shallows~
+~
+0 -1 17113
+D2
+shallows~
+~
+0 -1 12710
+D3
+seas~
+~
+0 -1 17111
+S
+#17113
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17126
+D1
+land ho!~
+~
+0 -1 17114
+D2
+shallows~
+~
+0 -1 12711
+D3
+seas~
+~
+0 -1 17112
+S
+#17114
+~
+~
+0 0 0
+Freeport Harbor~
+You are in the bay of the isle of Freeport. Wharves line the bay to the 
+where dockworkers load and unload crates. High on a hill overlooking the
+harbor is the city of Freeport, mercantile center of the world. You see
+a small buoy floating in the harbor.
+~
+0 C 7
+0
+~
+E
+buoy~
+{8 53} Lok      Freeport
+~
+D0
+shallows~
+~
+0 -1 17127
+D1
+shallows~
+~
+0 -1 17115
+D3
+shallows~
+~
+0 -1 17113
+S
+#17115
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17128
+D1
+seas~
+~
+0 -1 17116
+D2
+shallows~
+~
+0 -1 12713
+D3
+land ho!~
+~
+0 -1 17114
+S
+#17116
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 R 7
+0
+~
+D0
+seas~
+~
+0 -1 17129
+D1
+seas~
+~
+0 -1 17117
+D2
+seas~
+~
+0 -1 17100
+D3
+shallows~
+~
+0 -1 17115
+S
+#17117
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17130
+D1
+shallows~
+~
+0 -1 17118
+D2
+shallows~
+~
+0 -1 17101
+D3
+seas~
+~
+0 -1 17116
+S
+#17118
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17131
+D1
+shallows~
+~
+0 -1 17119
+D2
+seas~
+~
+0 -1 17102
+D3
+seas~
+~
+0 -1 17117
+S
+#17119
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17132
+D1
+~
+~
+0 -1 17120
+D2
+seas~
+~
+0 -1 17103
+D3
+shallows~
+~
+0 -1 17118
+S
+#17120
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17121
+~
+~
+0 0 0
+In the Shadow of the Flying Mountain~
+Incredibly, above you, suspended in mid-air, is a huge mountain. You
+bob in the shallow waters shaded by the flying mountain. You crane your
+neck upward and see high above you massive chains and winches which
+support many pirate ships beneath the flying mountain. Also, high above
+you, you can make out a rope ladder. Sadly the ladder, too, has been 
+wound most of the way up, and is far out of your reach. Your boat bumps
+a buoy.
+~
+0 C 7
+0
+~
+E
+buoy~
+{35 40} Lok     4th Isle of the Pirate Lords: Flying Mountain
+~
+D1
+shallows~
+~
+0 -1 17122
+S
+#17122
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17135
+D1
+seas~
+~
+0 -1 17123
+D2
+shallows~
+~
+0 -1 17109
+D3
+land ho!~
+~
+0 -1 17121
+S
+#17123
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17136
+D1
+seas~
+~
+0 -1 17124
+D2
+shallows~
+~
+0 -1 17110
+D3
+shallows~
+~
+0 -1 17122
+S
+#17124
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 Q 7
+0
+~
+D0
+seas~
+~
+0 -1 17137
+D1
+seas~
+~
+0 -1 17125
+D2
+seas~
+~
+0 -1 17111
+D3
+seas~
+~
+0 -1 17123
+S
+#17125
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 P 7
+0
+~
+D0
+seas~
+~
+0 -1 17138
+D1
+shallows~
+~
+0 -1 17126
+D2
+seas~
+~
+0 -1 17112
+D3
+seas~
+~
+0 -1 17124
+S
+#17126
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17139
+D1
+shallows~
+~
+0 -1 17127
+D2
+shallows~
+~
+0 -1 17113
+D3
+seas~
+~
+0 -1 17125
+S
+#17127
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17140
+D1
+shallows~
+~
+0 -1 17128
+D2
+land ho!~
+~
+0 -1 17114
+D3
+shallows~
+~
+0 -1 17126
+S
+#17128
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17141
+D1
+seas~
+~
+0 -1 17129
+D2
+shallows~
+~
+0 -1 17115
+D3
+shallows~
+~
+0 -1 17127
+S
+#17129
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 R 7
+0
+~
+D0
+seas~
+~
+0 -1 17142
+D1
+seas~
+~
+0 -1 17130
+D2
+seas~
+~
+0 -1 17116
+D3
+shallows~
+~
+0 -1 17128
+S
+#17130
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 S 7
+0
+~
+D0
+seas~
+~
+0 -1 17143
+D1
+seas~
+~
+0 -1 17131
+D2
+seas~
+~
+0 -1 17117
+D3
+seas~
+~
+0 -1 17129
+S
+#17131
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. The seas are colder
+here and there is a bite in the wind.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17144
+D1
+seas~
+~
+0 -1 17132
+D2
+shallows~
+~
+0 -1 17118
+D3
+seas~
+~
+0 -1 17130
+S
+#17132
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17145
+D1
+shallows~
+~
+0 -1 17133
+D2
+shallows~
+~
+0 -1 17119
+D3
+seas~
+~
+0 -1 17131
+S
+#17133
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea. The seas are colder
+here, and there is a bite in the wind.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17146
+D1
+shoals~
+~
+0 -1 17134
+D2
+shoals~
+~
+0 -1 17120
+D3
+seas~
+~
+0 -1 17132
+S
+#17134
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17135
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17136
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17149
+D1
+seas~
+~
+0 -1 17137
+D2
+seas~
+~
+0 -1 17123
+D3
+shoals~
+~
+0 -1 17135
+S
+#17137
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+seas~
+~
+0 -1 17150
+D1
+seas~
+~
+0 -1 17138
+D2
+seas~
+~
+0 -1 17124
+D3
+shallows~
+~
+0 -1 17136
+S
+#17138
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 Q 7
+0
+~
+D0
+shallows~
+~
+0 -1 17151
+D1
+seas~
+~
+0 -1 17139
+D2
+seas~
+~
+0 -1 17125
+D3
+seas~
+~
+0 -1 17137
+S
+#17139
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 Q 7
+0
+~
+D0
+shallows~
+~
+0 -1 17152
+D1
+seas~
+~
+0 -1 17140
+D2
+shallows~
+~
+0 -1 17126
+D3
+seas~
+~
+0 -1 17138
+S
+#17140
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+   It's amazing, but the water here seems to look shallower, although
+you know that cannot be true at this distance from the shores. It
+almost looks like magic could be at play at this particular spot --
+which causes you to remember back to an old tale of an underwater city
+somewhere in these waters....
+~
+0 Q 7
+0
+~
+D0
+shallows~
+~
+0 -1 17153
+D1
+seas~
+~
+0 -1 17141
+D2
+shallows~
+~
+0 -1 17127
+D3
+seas~
+~
+0 -1 17139
+S
+#17141
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 Q 7
+0
+~
+D0
+shallows~
+~
+0 -1 17154
+D1
+seas~
+~
+0 -1 17142
+D2
+shallows~
+~
+0 -1 17128
+D3
+seas~
+~
+0 -1 17140
+S
+#17142
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 Q 7
+0
+~
+D0
+shallows~
+~
+0 -1 17155
+D1
+seas~
+~
+0 -1 17143
+D2
+seas~
+~
+0 -1 17129
+D3
+seas~
+~
+0 -1 17141
+S
+#17143
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 R 7
+0
+~
+D0
+seas~
+~
+0 -1 17156
+D1
+seas~
+~
+0 -1 17144
+D2
+seas~
+~
+0 -1 17130
+D3
+seas~
+~
+0 -1 17142
+S
+#17144
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17157
+D1
+shallows~
+~
+0 -1 17145
+D2
+seas~
+~
+0 -1 17131
+D3
+seas~
+~
+0 -1 17143
+S
+#17145
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea. The seas are colder
+here, and there is a bite in the wind.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17158
+D1
+shallows~
+~
+0 -1 17146
+D2
+seas~
+~
+0 -1 17132
+D3
+seas~
+~
+0 -1 17144
+S
+#17146
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is brackish, and there is a chop to the sea. It has become very cold.
+Ice flows drift from the north.
+~
+0 0 7
+0
+~
+D0
+ice~
+~
+0 -1 17159
+D1
+shoals~
+~
+0 -1 17147
+D2
+shallows~
+~
+0 -1 17133
+D3
+shallows~
+~
+0 -1 17145
+S
+#17147
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17148
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17149
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17160
+D1
+seas~
+~
+0 -1 17150
+D2
+shallows~
+~
+0 -1 17136
+D3
+shoals~
+~
+0 -1 17148
+S
+#17150
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+0 0 7
+0
+~
+D0
+shallows~
+~
+0 -1 17161
+D1
+shallows~
+~
+0 -1 17151
+D2
+seas~
+~
+0 -1 17137
+D3
+shallows~
+~
+0 -1 17149
+S
+#17151
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17162
+D1
+shallows~
+~
+0 -1 17152
+D2
+seas~
+~
+0 -1 17138
+D3
+seas~
+~
+0 -1 17150
+S
+#17152
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17163
+D1
+shallows~
+~
+0 -1 17153
+D2
+seas~
+~
+0 -1 17139
+D3
+shallows~
+~
+0 -1 17151
+S
+#17153
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17164
+D1
+shallows~
+~
+0 -1 17154
+D2
+seas~
+~
+0 -1 17140
+D3
+shallows~
+~
+0 -1 17152
+S
+#17154
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17165
+D1
+shallows~
+~
+0 -1 17155
+D2
+seas~
+~
+0 -1 17141
+D3
+shallows~
+~
+0 -1 17153
+S
+#17155
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17166
+D1
+seas~
+~
+0 -1 17156
+D2
+seas~
+~
+0 -1 17142
+D3
+shallows~
+~
+0 -1 17154
+S
+#17156
+~
+~
+0 0 0
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. To the north you hear
+a haunting song, that reminds you of home.
+~
+0 0 7
+0
+~
+D0
+The most beautiful woman you have ever seen~
+~
+0 -1 17167
+D1
+shallows~
+~
+0 -1 17157
+D2
+seas~
+~
+0 -1 17143
+D3
+shallows~
+~
+0 -1 17155
+S
+#17157
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17168
+D1
+shoals~
+~
+0 -1 17158
+D2
+seas~
+~
+0 -1 17144
+D3
+seas~
+~
+0 -1 17156
+S
+#17158
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17159
+~
+~
+0 0 0
+Sailing the Sea of Ice~
+You have after a very hard journey, finally arrived in the sea of ice.
+The way is treacherous and narrow, and your ship plows through the thin
+ice. You notice some footprints in the snow next to a sign.
+~
+0 CR 7
+0
+~
+E
+sign footprints~
+The footprints look like they were made by shiny black dress shoes.
+The sign reads: 
+{40 45} Lok    The 5th Isle of the Pirate Lords: The Iceberg
+~
+D2
+shallows~
+~
+0 -1 17146
+S
+#17160
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17161
+~
+~
+0 0 0
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+0 0 7
+0
+~
+D0
+shoals~
+~
+0 -1 17169
+D1
+shoals~
+~
+0 -1 17162
+D2
+seas~
+~
+0 -1 17150
+D3
+shoals~
+~
+0 -1 17160
+S
+#17162
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17163
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17164
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17165
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17166
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17167
+~
+~
+0 0 0
+Shipwrecked on Hell's reef~
+You have run aground on the shoals and your ship has been torn asunder.
+The rocks you stand on show evidence of inhabitation, mainly a small
+crude fire made of driftwood and the bones of several fish lie here.
+~
+0 C 7
+0
+~
+S
+#17168
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17169
+~
+~
+0 0 0
+Shipwrecked on the Shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+0 C 7
+0
+~
+S
+#17170
+~
+~
+0 0 0
+In an Old Shipwreck~
+You have dived underwater to explore the old shipwreck. A strange luminous
+fungus gives enough glow to light the way. The ship is barnacle encrusted,
+and there are bones deposited on the ocean floor.
+~
+0 0 11
+0
+~
+D4
+The surface~
+~
+0 -1 12689
+S
+#0
+
+#RESETS
+R 0 12668   4
+R 0 12669   4
+R 0 12686   4
+R 0 12687   4
+M 0 12615   7 17146  7	* The pirate raiders
+G 0 12616 -1		* Greek fire to the pirate raiders
+G 0 12617 -1		* A trireme to the pirate raiders
+M 0 12615   7 17122  7	* The pirate raiders
+G 0 12616 -1		* Greek fire to the pirate raiders
+G 0 12617 -1		* A trireme to the pirate raiders
+M 0 12615   7 17127  7	* The pirate raiders
+G 0 12616 -1		* Greek fire to the pirate raiders
+G 0 12617 -1		* A trireme to the pirate raiders
+M 0 12615   7 12685  7	* The pirate raiders
+G 0 12616 -1		* Greek fire to the pirate raiders
+G 0 12617 -1		* A trireme to the pirate raiders
+M 0 12615   7 12618  7	* The pirate raiders
+G 0 12616 -1		* Greek fire to the pirate raiders
+G 0 12617 -1		* A trireme to the pirate raiders
+M 0 12615   7 12647  7	* The pirate raiders
+G 0 12616 -1		* Greek fire to the pirate raiders
+G 0 12617 -1		* A trireme to the pirate raiders
+M 0 12615   7 12697  7	* The pirate raiders
+G 0 12616 -1		* Greek fire to the pirate raiders
+G 0 12617 -1		* A trireme to the pirate raiders
+M 0 12616   3 17137  3	* The merchant trader
+G 0 12618 -1		* A galley to the merchant trader
+G 0 12619 -1		* The ship's hoard to the merchant trader
+M 0 12616   3 17117  3	* The merchant trader
+G 0 12618 -1		* A galley to the merchant trader
+G 0 12619 -1		* The ship's hoard to the merchant trader
+M 0 12616   3 12673  3	* The merchant trader
+G 0 12618 -1		* A galley to the merchant trader
+G 0 12619 -1		* The ship's hoard to the merchant trader
+M 0 12617   3 17143  3	* The merchant trader
+G 0 12618 -1		* A galley to the merchant trader
+M 0 12617   3 12678  3	* The merchant trader
+G 0 12618 -1		* A galley to the merchant trader
+M 0 12617   3 12687  3	* The merchant trader
+G 0 12618 -1		* A galley to the merchant trader
+M 0 12618   2 12646  2	* The whaler
+G 0 12620 -1		* A whaling ship to the whaler
+G 0 12621 -1		* A giant mound of blubber to the whaler
+M 0 12618   2 17161  2	* The whaler
+G 0 12620 -1		* A whaling ship to the whaler
+G 0 12621 -1		* A giant mound of blubber to the whaler
+M 0 12619   3 17154  3	* The whaler
+G 0 12620 -1		* A whaling ship to the whaler
+M 0 12619   3 12711  3	* The whaler
+G 0 12620 -1		* A whaling ship to the whaler
+M 0 12619   3 12639  3	* The whaler
+G 0 12620 -1		* A whaling ship to the whaler
+M 0 12620   1 12682  1	* The black masted ghost ship
+G 0 12615 -1		* A strange map to the black masted ghost ship
+M 0 12621   5 12645  5	* The sperm whale
+M 0 12621   5 17104  5	* The sperm whale
+M 0 12621   5 17149  5	* The sperm whale
+M 0 12621   5 17151  5	* The sperm whale
+M 0 12621   5 12669  5	* The sperm whale
+M 0 12622   1 17170  1	* The giant squid
+O 0 12622   0 17170 0	* The lost treasure from the sunken ship at In an Old Shipwreck
+M 0 12624   1 12711  1	* The raging typhoon
+G 0 12624 -1		* The storm cape (flag affect 0 0 t) to the raging typhoon
+M 0 12623   1 17167  1	* The siren
+O 0 12623   0 17167 0	* The circle of fire at Shipwrecked on Hell's reef
+M 0 12713   1 17141  1	* The rastafarians load up a huge bowl and
+E 0 12713   -1    6	* item to The rastafarians load up a huge bowl and
+G 0 12712 -1		* A big fat spliff to the Rastafarians load up a huge bowl and
+G 0 12711 -1		* A banana boat to the Rastafarians load up a huge bowl and
+S
+
+#SHOPS
+12713  4  0  0  0  0 	150  75 	0 23	* the Rastafarians load up a huge bowl and
+0
+
+#SPECIALS
+M 12622 spec_fido		* the giant squid
+M 12623 spec_cast_mage		* the siren
+M 12624 spec_breath_lightning		* the raging typhoon
+S
+
+#$

@@ -1,0 +1,26 @@
+* File thescat.scr
+* mob: cat(4034)
+
+#TRIGGER moan
+Type 10
+Sc
+mfunc %moan-from% %name% name
+wfunc %rand% random 0 2
+    if (%rand% == 2)
+    emote howls quietly, hungry and forlorn.
+    halt once~
+End
+
+#TRIGGER fud
+Type 5
+Sc
+mfunc %fud-from% %name% name
+ofunc %fud-arg% %type% item_type
+if ( %type% == 19 )
+    lick %name%
+    eat %fud-arg% 
+    halt once~
+End
+
+#END
+

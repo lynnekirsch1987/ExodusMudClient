@@ -1,0 +1,73 @@
+#TRIGGER cmb  
+Type 2  
+Sc  
+wfunc %rndnum% random 0 7 
+mfunc %cmb-from% %name% name  
+getpc %namea%  
+  
+if (%rndnum% == 0)  
+   stand  
+   cmd echo Ransak mechanically grunts`a '`kP R O T E C T  M A S T E R`a'``  
+   cmd rescue pook  
+   cmd rescue pook  
+   cmd rescue pook  
+   halt once~  
+Sc  
+if (%rndnum% == 1)  
+   stand  
+   cmd echo Ransak mechanically grunts`a '`kA T T A C K`a'``  
+   cmd bash %name%  
+   halt once~  
+Sc  
+if (%rndnum% == 1)  
+  signal 4118 noentp 
+  cmd kick  
+  cmd bash %namea%  
+  redirect %namea%  
+End  
+  
+#TRIGGER noent 
+Type 3  
+Sc  
+wfunc %rndnum% random 0 3 
+getpc %victim%  
+if ( %rndnum% == 0 )  
+  stand 
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  halt once~  
+Sc  
+if ( %rndnum% == 1 )  
+  stand 
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  halt once~
+End
+
+#END 

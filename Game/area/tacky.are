@@ -1,0 +1,1470 @@
+#AREA
+ 6~
+tacky.are~
+The Mountains of Rakhatz~
+{ 1 91} Bane  The Mountains of Rakhatz~
+~
+9800 9920
+0 0 0
+0 1
+Onan~
+#MOBILES
+#9800
+cyclops~
+The giant cyclops~
+A large cyclops stands in your path, looking down at you.
+~
+~
+giant~
+0 0 0 0
+ABCGNTW JVac -400 0
+70 50 1d1+4999 1d1+99 3d10+10 smash
+-30 -30 -30 999 0
+A 0 ACEFHJQ C HI JP
+stand stand none 0
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#9801
+troll cave ugly~
+An ugly cave troll~
+An ugly cave troll snarls at you.
+~
+~
+troll~
+0 0 0 0
+ABCGNTW FJVac -1000 0
+70 50 1d1+4999 1d1+99 3d10+3 smash
+-30 -30 -30 999 0
+A 0 ACDEFHJ C BEHI HJKP
+stand stand none 0
+ABHMV ABCDEFGHIJKUVa 20 20 20 20 20 20 0
+huge flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#9801
+key stone~
+a stone key~
+A magical stone key is here. Wonder what it unlocks?~
+stone~
+0
+key 2
+GHQZ
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 5 0 P
+#9802
+key wooden~
+a wooden key~
+A wooden key, flickering with magical energy, lies here.~
+wood~
+0
+key 2
+GS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#9800
+0 0
+~
+~
+~
+0 0 0
+Central New York~
+This is the middle of New York State.  Between lunatics driving 110 mph
+on the shoulder, and malls full of trendy stores, there is a wonderworld of
+hicks.  For your safety please use monosyllabic words, avoid references to
+books read, and if your colored, wear whiteface.  Camaflauge pants, monster
+trucks and lots of beer will also help you fit in with the locals.  Good
+luck.  
+~
+0 CJP 0
+0
+~
+I 0 S
+#9801
+0 0
+~
+~
+~
+0 0 0
+At the base of a cliff~
+You find yourself at the base of a cliff which leads toward haunted Norem
+Castle.  The cliff stretches forward towards a mountain whose summit
+contains the legendary edifice.  You can return south to the trail or
+venture northwards along the cliff.  
+~
+0 b 4
+0
+~
+I 0 D0
+~
+door~
+1 0 9802
+S
+#9802
+0 0
+~
+~
+~
+0 0 0
+Along the rocky cliff~
+As you move farther along the rugged terrain, the mountain becomes more
+apparent.  Any wildlife that may once have existed here is obviously here no
+more.  You wonder if this is due to the nature of the terrain or the
+pervading sense of evil you feel as you inch close to the castle.  You can
+go back south, or head along towards the mountain north.  
+~
+0 b 4
+0
+~
+I 0 D0
+~
+~
+0 0 9803
+D2
+~
+door~
+0 0 9801
+S
+#9803
+0 0
+~
+~
+~
+0 0 0
+Before the Mountain.~
+You have reached the end of the stable cliff.  The strata you have
+journeyed from now pours out into a steep mountain.  The trail forks here. 
+To the west, there is a less steep trail, while the eastern side contains an
+upright, but shorter path.  The west side of the mountain trail is
+definatively darker as well.  You can also return to the cliff south.  
+~
+0 b 5
+0
+~
+H50
+I 0 M50
+D1
+~
+~
+0 0 9815
+D2
+~
+~
+0 0 9802
+D3
+~
+~
+0 0 9804
+S
+#9804
+0 0
+~
+~
+~
+0 0 0
+On the western mountain trail~
+`iChoosing the easier climb, you find yourself on the western trail up
+the mountain.  It is especially `adark`i here.  The trail is mostly
+featureless, except for a strange `owhite`i dust that paves the trail.  You
+assume it comes from a crushed rock of some type.  You can continue west
+along the trail, or return east to the fork.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D1
+~
+~
+0 0 9803
+D3
+~
+~
+0 0 9805
+S
+#9805
+0 0
+~
+~
+~
+0 0 0
+A Bend in the trail~
+Here the winding trail come to a northward bend.  The `owhite`i dust
+beneath you feet also has some rocky chunks in it here, making your footing
+a little tougher to keep.  The `adark`i overcast gets a little thicker here
+as well.  You can return west or venture forth to the north.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D0
+~
+~
+0 0 9806
+D1
+~
+~
+0 0 9804
+S
+#9806
+0 0
+~
+~
+~
+0 0 0
+Along the trail~
+Further into the trail, the `hwhite`i dust has become an odd scraggle of
+pebbles.  Bending over to pick one up, you notice that these pebbles ren't
+crushed rock at all, but crushed bone!  Shivering as you toss it to the
+ground, you wonder what odd creation has caused all this carnage.  You
+attempt to peer ahead to see what this path's future holds, but its too
+overcast to tell.  If you are feeling brave, you may head farther to the
+north, or return south to a more docile point.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D0
+~
+~
+0 0 9807
+D2
+~
+~
+0 0 9805
+S
+#9807
+0 0
+~
+~
+~
+0 0 0
+On the Trail of Bones~
+On the Trail of Bones, you can now make out various skeletal appendages
+in the mess below you.  The crunch of bones under your feet still makes you
+cringe but you didn't come this far by being faint of heart.  Its still too
+dark to tell what lies ahead, but you sense a confrontation in your future. 
+The trail makes a turn to the east here.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D1
+~
+~
+0 0 9808
+D2
+~
+~
+0 0 9806
+S
+#9808
+0 0
+~
+~
+~
+0 0 0
+On the Trail of Bones~
+Further into the trail, which has become a maelstrom of human wreckage,
+you begin to feel the futility of your situation.  In the distance, you hear
+the odd shriek or moan, and your heart palpitates with fear of what the
+future holds.  The trail continues east, or you can head back west.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D1
+~
+~
+0 0 9809
+D3
+~
+~
+0 0 9807
+S
+#9809
+0 0
+~
+~
+~
+0 0 0
+Deeper into the Trail of Bones~
+Deeper into the trail, you find yourself wading shin-deep in bones. 
+The shrieks have become louder and more consistant, and you feel as though
+you are not alone.  Its still too dark to see much, but the trail takes
+another bend here, this time to the south.  You can also return west.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D2
+~
+~
+0 0 9810
+D3
+~
+~
+0 0 9808
+S
+#9810
+0 0
+~
+~
+~
+0 0 0
+Deep in the Trail of Bones~
+At this point on the mountain, you begin to notice some rotting flesh on
+the bones, and sense that whatever creatures have perished here have
+perished fairly recently.  Another shiver comes down your spine.  The
+shrieks and moans are also noticibly more audible, and you sense you will be
+confronting your nemesis soon.  The trail continues to the south.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D0
+~
+~
+0 0 9809
+D2
+~
+~
+0 0 9811
+S
+#9811
+0 0
+~
+~
+~
+0 0 0
+Deep in the Trail of Bones~
+The smell of human carnage begins to intensify in your nostrils, and you
+fight the urge to regurgitate.  You feel the presence of evil stronger than
+ever, and fear overtakes your disgust.  It's become a chore to move in the
+waste of wreckage, and you wish you had chosen the other path at the fork. 
+You feel as you must continue, as if a puppeteer were urging you forward. 
+The path continues west.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D0
+~
+~
+0 0 9810
+D3
+~
+~
+0 0 9812
+S
+#9812
+0 0
+~
+~
+~
+0 0 0
+Towards the End of the Trail of Bones~
+At this point on the path, the bones have given way to rotting corpses. 
+You dare not examine them further, for fear you may recognize the former
+inhabitors of the strewn bodies.  You find yourself utterly compelled to
+find what is causing this destruction, and what is the source of all the
+spirits you have found.  You must go forward.  The trail comes to head to
+the west.  
+~
+0 AB 5
+0
+~
+H50
+I 0 M50
+D1
+~
+~
+0 0 9811
+D3
+~
+~
+0 0 9813
+S
+#9813
+0 0
+~
+~
+~
+0 0 0
+The End of the Trail~
+You have reached the end of the trail.  In front of you, you see what has
+been causing all this carnage, a thirteen-foot tall cyclops.  Surprisingly,
+he does not immediately attack you, and you wonder if you will be able to
+pass freely.  You attempt passing him to the north, but run into an
+impenetrable magical shield.  You determine you will have to deal with the
+guardian before you can see what has been so well protected.  
+~
+0 AB 5
+0
+~
+H30
+I 0 M30
+D0
+~
+field~
+4193 9801 9814
+D1
+~
+~
+0 0 9812
+S
+#9814
+0 0
+~
+~
+~
+0 0 0
+At the Apex of the Mountain~
+Advancing beyond the Cyclops, the top of the mountain unfurls.  The rock
+is sparse here, and the room is darker than any of the previous.  Ahead to
+the north is Castle Norem.  
+~
+0 ABZ 5
+0
+~
+I 0 D0
+~
+~
+0 0 9829
+D2
+~
+shield~
+4193 9801 9813
+S
+#9815
+0 0
+~
+~
+~
+0 0 0
+Below the Jagged Moutainside~
+Deciding to take the quicker, if more difficult, climb, you find yourself
+in front of a jagged cliff.  The cliff looks steep and difficult to climb. 
+Only one way to find out how difficult...  
+~
+0 AB 5
+0
+~
+I 0 D3
+~
+~
+0 0 9803
+D4
+~
+~
+0 0 9816
+S
+#9816
+0 0
+~
+~
+~
+0 0 0
+Up the eastern side of the mountain~
+Venturing up the jagge cliff, you find the black rock difficult to climb.
+The mountain is extremely overcast, and the darkness makes it hard to find
+where to step next.  If you can make it, the climb leads you up.  
+~
+0 AB 5
+0
+~
+I 0 D4
+~
+~
+0 0 9817
+D5
+~
+~
+0 0 9815
+S
+#9817
+0 0
+~
+~
+~
+0 0 0
+Climbing the Mountain~
+Further up the mountain, you find that you can no longer go straight up. 
+You can attempt to further scale the mountain by venturing either east or
+west.  
+~
+0 AB 5
+0
+~
+I 0 D1
+~
+~
+0 0 9818
+D3
+~
+~
+0 0 9819
+D5
+~
+~
+0 0 9816
+S
+#9818
+0 0
+~
+~
+~
+0 0 0
+On the mountain~
+Attempting to slide east along the cliff, you step on to a flat rock. 
+Putting your weight on it, it falls out from underneath you.  Grasping for
+life, you reach out for the closest ledge.  Grabbing it securely, you hang
+perilously off of it, your only hope seems to be to wait for death.  
+~
+0 ACGHN 5
+0
+~
+H-100
+I A J Suddenly, the slope gives way and you tumble all the way to the base of the mountain.~
+K You slide a little further down the slope.~
+L300
+N9801
+Q (null)~
+M-100
+S
+#9819
+0 0
+~
+~
+~
+0 0 0
+On the mountain~
+Sizing up each shift in position, you determine this western slide was
+the safer of the two positions.  Looking upward, it appears that venturing
+that way is fairly possible here, and you feel as though you are closer to
+your destination.  
+~
+0 AB 5
+0
+~
+I 0 D1
+~
+~
+0 0 9817
+D4
+~
+~
+0 0 9820
+S
+#9820
+0 0
+~
+~
+~
+0 0 0
+Before a dark cave~
+Pulling farther up the mountainside, you find a cave cut into the
+mountain here.  The cave appears to have been burrowed out of the
+mountainside, perhaps by dwarves, and it appears fairly stable.  The climb
+up looks dangerous at this point, and this cave might lead to the castle. 
+One never knows what a cave might hide, however, so there is a certain
+danger in that as well.  Exits lead north into the cave or up further on the
+mountain.  
+~
+0 AB 5
+0
+~
+I 0 D0
+~
+~
+0 0 9822
+D4
+~
+~
+0 0 9821
+D5
+~
+~
+0 0 9819
+S
+#9821
+0 0
+~
+~
+~
+0 0 0
+Near the top of the mountain~
+Further up the mountain, you can almost make out the apex. 
+Unfortunately, as the mountain reaches that point, the rock becomes smooth
+and unclimbable.  Your only recourse is to return down the mountain.  
+~
+0 AB 5
+0
+~
+I 0 D5
+~
+~
+0 0 9820
+S
+#9822
+0 0
+~
+~
+~
+0 0 0
+Inside a dark cave~
+This is the inside of a dark cave.  The quarters are tight, and there is
+a putrid smell eminating from the far north.  The rock is covered with a
+thick film, and the footing is stable at best.  Exits lead back to the
+mountainside or north deeper into the cave.  
+~
+0 ABDX 5
+0
+~
+I 0 D0
+~
+~
+0 0 9823
+D2
+~
+~
+0 0 9820
+S
+#9823
+0 0
+~
+~
+~
+0 0 0
+Deeper into a dark cave~
+Deeper into the dark cave, the pungent odor intensifies.  The environment
+is similar to that of an unkempt basement, and the faint sounds of life
+eminate through the tunnel.  Breathing can be heard ahead, causing you to
+consider your fate.  The tunnel opens slightly to the north.  
+~
+0 ABD 5
+0
+~
+I 0 D0
+~
+~
+0 0 9824
+D2
+~
+~
+0 0 9822
+S
+#9824
+0 0
+~
+~
+~
+0 0 0
+Before the heart of the cave~
+The cave opens up slightly here, and a faint glow can be seen to the north.
+A presence can definitively be sensed ahead, and there is a strong presence of
+magic in the room. The answer to these mysteries lies north.
+~
+0 ABD 5
+0
+~
+I 0 D0
+~
+~
+0 0 9825
+D2
+~
+~
+0 0 9823
+S
+#9825
+0 0
+~
+~
+~
+0 0 0
+The center of the cave~
+Suddenly, you come upon a huge open space in the cave.  The opening is
+lit by torches lining the walls, and the putrid smell intesifies here. 
+Specks of energy flicker off to te north, and your passage is blocked by a
+mysterious force.  Looking down, you see the guardian of this cave, a
+beastly troll.  Safe passage will have to be negotiated from this creature. 
+~
+0 ABD 5
+0
+~
+I 0 D0
+~
+shield~
+97 9802 9826
+D2
+~
+~
+0 0 9824
+S
+#9826
+0 0
+~
+~
+~
+0 0 0
+Beyond the heart of the cave~
+Having made it past the obstacle in the cave, the rest of it unfurls
+before you.  A path carved into the cave leads upwards toward the top of the
+mountain.  You feel somewhat at ease, and assured that your next challenge
+won't take place until you reach the castle.  Exits are up and south back
+towards the cave den.  
+~
+0 B 5
+0
+~
+I 0 D2
+~
+shield~
+97 9802 9825
+D4
+~
+~
+0 0 9827
+S
+#9827
+0 0
+~
+~
+~
+0 0 0
+Through the mountain~
+The path up is barely worn due to its relative lack of use.  Looking up,
+a beacon of natures light can be seen and the trek to the castle is nearly
+completed.  
+~
+0 B 5
+0
+~
+I 0 D4
+~
+~
+0 0 9828
+D5
+~
+~
+0 0 9826
+S
+#9828
+0 0
+~
+~
+~
+0 0 0
+Before the opening~
+The mountain opens up to the world here.  A swath of light shines through
+the desolate mountain cutting through the heavily overcast sky omnipresent
+here.  Exits lead up to the top of the mountain and down back into it.  
+~
+0 B 5
+0
+~
+I 0 D4
+~
+~
+0 0 9829
+D5
+~
+~
+0 0 9827
+S
+#9829
+0 0
+~
+~
+~
+0 0 0
+A path at the top of the mountain~
+You find yourself on a small path at the top of the mountain.  The ground
+below is dark and dusty, and the only discernable feature is a small hole
+coming out of the mountain.  Just ahead to the north is Castle Norem.  Exits
+also lead down and south.  
+~
+0 AB 5
+0
+~
+I 0 D0
+~
+~
+0 0 9830
+D2
+~
+~
+0 0 9814
+D5
+~
+~
+0 0 9828
+S
+#9830
+0 0
+~
+~
+~
+0 0 0
+In front of Castle Norem~
+The castle is even more foreboding up close.  Its barren grounds support
+only scrub brush and moss.  The castle itself is so old it looks as if it
+could crumble to dust in a minute.  A feeling of evil seeps from the dark,
+curtained windows -- yet there is no movement, no sound.  The door is
+gargantuan, and does not appear to have a doorknob.  There does however
+appear to be a buzzer on the door.  One wonders what creature would answer
+such a call.  To the east there is also a path leading around the castle.  
+~
+0 Bb 5
+0
+~
+I 0 D2
+~
+~
+0 0 9829
+S
+#9900
+0 0
+~
+~
+~
+0 0 0
+In the hills~
+The terrain begins to rise here, as the fields incline to hills.  Passage
+is not too difficult and the climb is not steep.  Looming in the distance
+are the monstrous mountains of Rakhatz, whose snow-capped peaks project
+above even the clouds.  
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 9901
+S
+#9901
+0 0
+~
+~
+~
+0 0 0
+Into the hills~
+Further into the hills before the mountains, much of the surroundings
+remain the same.  The ashen colored hills are covered with pebbles and
+various vegatation, and the incline, while becoming steeper is still not
+terribly difficult to manage.  The path through the hills leads north and
+south.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 9902
+D2
+~
+~
+0 0 9900
+S
+#9902
+0 0
+~
+~
+~
+0 0 0
+In the hills~
+Here the hills are inclined towards their mountain brethren, and passage
+towards the mountains can only be attained by a mild climb.  There appears
+to be enough of a natural stairway as to make the venture reasonable, but
+one can never be too sure.  Exits lead upwards towards the mountain, and
+south away from them.  
+~
+0 0 4
+0
+~
+I 0 D2
+~
+~
+0 0 9901
+D4
+~
+~
+0 0 9903
+S
+#9903
+0 0
+~
+~
+~
+0 0 0
+A large hill~
+The small hills surrounding the area give way to this larger hill, which
+stands clearly apart from the rest of them.  Its relative majesty is paled
+when the imposing vision of the Rakhatz Mountains and all their regal glory
+can be viewed in close proximity, rendering this rise in terrain just a
+pretender to the throne.  The hill plateaus to the north, and declines
+downward to lesser rises.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 9904
+D5
+~
+~
+0 0 9902
+S
+#9904
+0 0
+~
+~
+~
+0 0 0
+A plateau~
+Here, a plateau opens out off of a large hill.  The earth is grey-brown,
+and sparsely covered with somewhat random vegetation.  Clouds streak the sky
+which seems so close at this altitude, and the mountain range can be clearly
+seen from this vantage.  The plateau stretches out to the north, and towards
+a large hill to the south.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 9905
+D2
+~
+~
+0 0 9903
+S
+#9905
+0 0
+~
+~
+~
+0 0 0
+A plateau~
+The plateau takes a sharp change in incline here, as it climbs towards
+the Rakhatzs at a much steeper angle.  The mountains are clearly within
+grasp, and their magnificence is undoubted.  The range stretches out for
+miles, both wide and tall, holding countless wonders.  The plateau also
+extends to the south.  
+~
+0 0 4
+0
+~
+I 0 D2
+~
+~
+0 0 9904
+D4
+~
+~
+0 0 9906
+S
+#9906
+0 0
+~
+~
+~
+0 0 0
+Before the Mountains of Rakhatz~
+At this height, the full scope of the mountain range is not detectable. 
+Instead, a single mount controls the scene.  Its grey-black rock is
+omnipresent, and the towering peak is not visible from this vantage.  Exits
+lead up on the mountain and down to a plateau.  
+~
+0 0 5
+0
+~
+I 0 D4
+~
+~
+0 0 9907
+D5
+~
+~
+0 0 9905
+S
+#9907
+0 0
+~
+~
+~
+0 0 0
+On a mountain~
+This is a seemingly unimpressive part of a mountain in Rakhatz.  The
+sounds of mountain wildlife can be heard in the area and the vegetation is
+wholly insignificant.  The climb is steep but the footing sure here, and it
+appears if there will be more of the same in the immediate future.  Exits
+lead up or down.  
+~
+0 0 5
+0
+~
+I 0 D4
+~
+~
+0 0 9908
+D5
+~
+~
+0 0 9906
+S
+#9908
+0 0
+~
+~
+~
+0 0 0
+On a mountain~
+This is a seemingly unimpressive part of a mountain in Rakhatz.  The
+sounds of mountain wildlife can be heard in the area and the vegetation is
+wholly insignificant.  The climb is steep but the footing sure here, and it
+appears if there will be more of the same in the immediate future.  Exits
+lead up or down.  
+~
+0 0 5
+0
+~
+I 0 D4
+~
+~
+0 0 9909
+D5
+~
+~
+0 0 9907
+S
+#9909
+0 0
+~
+~
+~
+0 0 0
+On a mountain~
+This is a seemingly unimpressive part of a mountain in Rakhatz.  The
+sounds of mountain wiildlife can be heard in the area and the vegetation is
+wholly insignificant.  The climb is steep but the footing is sure here. 
+Upwards, it appears as if the peak of the mountain is closer, and more of
+the same lies down.  
+~
+0 0 5
+0
+~
+I 0 D4
+~
+~
+0 0 9910
+D5
+~
+~
+0 0 9908
+S
+#9910
+0 0
+~
+~
+~
+0 0 0
+Near the peak~
+At this site on the mountain, the snow-capped peak is clearly within
+reach, and the altitude temperature would freeze a less-hearty adventurer. 
+This climate is evident in the lack of flora or wildlife in the region. 
+Exits lead up toward the summit and down on the mountain.  
+~
+0 0 5
+0
+~
+I 0 D4
+~
+~
+0 0 9911
+D5
+~
+~
+0 0 9909
+S
+#9911
+0 0
+~
+~
+~
+0 0 0
+The peak of the mountain~
+At this vantage point, the scope of this sector of the alpine region can
+be clearly seen.  The view is breathtaking, with lesser mounts looking like
+anthills compared to the largest peaks which affect this mountain likewise. 
+The clouds seem within grasp, but reaching for them would likely be fatal,
+as the land area for which footing is possible is miniscule here.  Peering
+far and wide several civilations appear to be cut out of various mountains,
+but the trained eye knows that most of those are likely just unique rock
+formations or packs of mountain animals.  Exits lead down on the steep side
+of this mountain, and east on the less inclined half.  
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 9912
+D5
+~
+~
+0 0 9910
+S
+#9912
+0 0
+~
+~
+~
+0 0 0
+On the mountain~
+This section of the mountain is similar to the others on this side of it.
+The incline is graduated, making it easily navigated.  There is some
+vegetation, though fairly sparse.  There are some signs of the presence of
+wildlife and the tracks of dwarven highlanders can be seen in the area. 
+Exits lead west and down.  
+~
+0 0 5
+0
+~
+I 0 D3
+~
+~
+0 0 9911
+D5
+~
+~
+0 0 9913
+S
+#9913
+0 0
+~
+~
+~
+0 0 0
+On the mountain~
+This section of the mountain is similar to the others on this side of it.
+The incline is graduated, making it easily navigated.  There is some
+vegetation, though fairly sparse.  There are some signs of the presence of
+wildlife and the tracks of dwarven highlanders can be seen in the area. 
+Exits lead up and down.  
+~
+0 0 5
+0
+~
+I 0 D4
+~
+~
+0 0 9912
+D5
+~
+~
+0 0 9914
+S
+#9914
+0 0
+~
+~
+~
+0 0 0
+Above a cliff~
+This part of the mountain lies above a cliff wich connects to the next
+mountain.  There are definate signs of travel here, and looking down onto
+the cliff reveals a view at several scattered mountain-dwelling beasts. 
+Exits lead down onto the cliff and up on the mountain.  
+~
+0 0 5
+0
+~
+I 0 D4
+~
+~
+0 0 9913
+D5
+~
+~
+0 0 9915
+S
+#9915
+0 0
+~
+~
+~
+0 0 0
+A well-travelled cliff~
+This is a beaten section of strata connecting two mountains.  Rams and
+other such highland creatures frequent here, as well as the occasional
+drifting dwarf.  Ropes are strung along the sides, serving as guardrails for
+this apparent natural bridge.  The cliff continues to the north, as well as
+into a mountain upwards.  
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 9916
+D4
+~
+~
+0 0 9914
+S
+#9916
+0 0
+~
+~
+~
+0 0 0
+On the rock bridge~
+This is another part of the cliff connecting the two opposite mountains. 
+The sides are roped off as a precautionary measure, and there is mild
+traffic from highland animals and plane drifters.  There is an intoxicating
+aroma in the air, but its source is undeterminable.  The bridge continues
+north and south.  
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 9917
+D2
+~
+~
+0 0 9915
+S
+#9917
+0 0
+~
+~
+~
+0 0 0
+On the rock bridge~
+This is another part of the cliff connecting the two opposite mountains. 
+The sides are roped off as a precautionary measure, and there is mild
+traffic from highland animals and plane drifters.  There is an intoxicating
+aroma in the air, but its source is undeterminable.  The bridge continues
+north and south.  
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 9918
+D2
+~
+~
+0 0 9916
+S
+#9918
+0 0
+~
+~
+~
+0 0 0
+A well-travelled cliff~
+This is a beaten section of strata connecting two mountains.  Rams and
+other such highland creatures frequent here, as well as the occasional
+drifting dwarf.  Ropes are strung along the sides, serving as guardrails for
+this apparent natural bridge.  The cliff continues to the north, as well as
+into a mountain upwards.  
+~
+0 0 5
+0
+~
+I 0 D2
+~
+~
+0 0 9917
+D4
+~
+~
+0 0 9919
+S
+#9919
+0 0
+~
+~
+~
+0 0 0
+On a mountain~
+Another mountain in this range awaits inspection.  The slope here is
+rather graduated, and the vegetation is much more plentiful here than in
+other areas of the Rakhatzs.  The path here looks more travelled than most
+in the sector, and it apppears to be able to travel the winding path as
+opposed to climbing.  The path leads north up the mountain, and down towards
+a cliff.  
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 9920
+D5
+~
+~
+0 0 9918
+S
+#9920
+0 0
+~
+~
+~
+0 0 0
+On a mountain trail~
+This is a well-beaten mountain trail leading to the summit of the
+grandest peak of all the Rakhatz Mountains, Mount Yelrek, named for the
+legendary dwarf who claimed it for his people.  Ashen-grey rock and flora
+native to the area abound here, and this path is oft traversed by traders
+heading to Railla.  The path continues to the east and south.  
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 9921
+D2
+~
+~
+0 0 9919
+S
+#9921
+0 0
+~
+~
+~
+0 0 0
+On the mountain path~
+~
+0 0 5
+0
+~
+I 0 D3
+~
+~
+0 0 9920
+S
+
+#0
+
+#RESETS
+D 0 9801   0    0	* At the base of a cliff [north]
+D 0 9813   0    2	* The End of the Trail [north]
+D 0 9814   2    2	* At the Apex of the Mountain [south]
+D 0 9825   0    2	* The center of the cave [north]
+D 0 9826   2    2	* Beyond the heart of the cave [south]
+M 0 9800   1 9813  1	* The giant cyclops
+G 0 9801 -1		* A stone key to The giant cyclops
+M 0 9801   1 9825  1	* An ugly cave troll
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#0
+#$

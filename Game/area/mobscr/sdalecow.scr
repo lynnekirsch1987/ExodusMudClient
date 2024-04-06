@@ -1,0 +1,69 @@
+* File: sdalecow.scr
+* Mob: a cow(3400)
+ 
+
+#TRIGGER enter
+Type 10
+Sc 
+wait 1~
+Sc
+moo %enter-from%
+~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 2
+if ( %rndnum% == 0 )
+  emote munches contentedly on some grass.
+  halt once~
+Sc 
+if ( %rndnum% != 1 )
+  halt once~
+Sc
+mfunc self %cowsex% sex
+if ( %cowsex% == 0 )
+  emote flicks its tail lazily at the flys congregating on its backside.
+  halt once~
+Sc
+if ( %cowsex% == 1 )
+  emote flicks his tail lazily at the flys congregating on his backside.
+  halt once~
+Sc
+if ( %cowsex% == 2 )
+  emote flicks her tail lazily at the flys congregating on her backside.
+  halt once~
+Sc
+
+End
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 3
+mfunc %cmb-to% %cowsex% sex
+if (%rndnum% != 2)
+   halt once~
+Sc
+if (%cowsex% == 0)
+   smote A deep rumble escapes from the cow as it moos at you perplexedly. 
+   halt once~
+Sc
+if (%cowsex% == 1)
+   smote A deep rumble escapes from the cow as he moos at you perplexedly. 
+   halt once~
+Sc
+if (%cowsex% == 2)
+   smote A deep rumble escapes from the cow as she moos at you perplexedly. 
+   halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+emote groans horribly, subjected to the same fate as its similarily incognizant relatives.~
+End
+
+#END
+

@@ -1,0 +1,53 @@
+* File: Vedros.scr
+* Mob: Sir Vedros(4110)
+
+#TRIGGER Vedros
+Type 2
+Sc
+mfunc %Vedros-from% %name% name
+wfunc %bonk% random 0 99
+if ( %bonk% < 10 )
+  emote performs an impresive parry, which he deftly turns into a ferocious counterattack.
+  cmd disarm %name%
+  cmd dirt %name%
+  wait 2~
+Sc
+if ( %bonk% < 10 )
+  cmd get 1.
+  halt once~
+Sc
+if ( %bonk% < 30 )
+  emote strikes %name% in a tender spot.
+  halt once~
+Sc
+if ( %bonk% < 40 )
+  say They don't teach this one at warrior school!
+  cmd grin %name%
+  cmd uppercut %name%
+  cmd uppercut %name%
+  halt once~
+Sc
+if ( %bonk% == 99 )
+  cmd peace
+  say This is how we say goodbye in Thesden!
+  emote grins broadly as he knocks %name% solidly on the head.
+  pecho %name% Sir Vedros' powerful strike sends you to the floor.
+  mfunc %Vedros-from% %heh% hit
+  msign %Vedros-from% 0 hit
+  wait 2~
+Sc
+if ( %bonk% == 99 )
+  cmd yell You're supposed to hit me, not the floor, %name%!
+  halt once~
+End
+
+#TRIGGER gift
+Type 5
+Sc
+mfunc %gift-from% %name% name
+  say Thanks but no thanks, %name%.  I don't need this right now.
+  drop all
+  halt once~
+End
+
+#END

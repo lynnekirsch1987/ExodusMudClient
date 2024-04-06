@@ -1,0 +1,29 @@
+* File: abomination.scr
+* Mob: Mutated Abomonination 1081
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   emote groans in pain.
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   emote scratches at one of it's boils, which errupts and spews puss across the room.
+   halt once~
+Sc
+if ( %rndnum% == 2 )
+   emote shuffles across the floor looking for food.
+   halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc 
+  emote glances up at you with a look that either says 'Yum, Fresh Meat' or 'Please Kill me.'
+  echo It would probably be a good idea to keep your distance.
+  halt once~
+End
+
+#END

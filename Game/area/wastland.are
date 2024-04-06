@@ -1,0 +1,5906 @@
+#AREA
+ 6~
+wastland.are~
+`h[`a-`h] The Wastelands [`a-`h]``~
+{15 40} Ragnar  `h[`a-`h] The Wastelands [`a-`h]``~
+~
+8800 8950
+15 F 0
+0 0
+~
+#MOBILES
+#8800
+Toranal~
+Toranal~
+Toranal paces about, devising a solution to a forgotten problem.
+~
+Toranal was once a warrior-wizard who made his way to the lush green fields
+of a land called Blytharge.  Here he planned to establish a nomadish camp,
+a roaming school devoted to the mastery of wizardry and weaponry in cohesion.
+After Toranal established this camp, he taught vigilantly for three years,
+and took on several new students -- Makchilsde, Crowley, Denver, and Gavelro.
+These students became as adept as Toranal would ever be, and he was very
+proud of them, for they were reflections of his skill as an instructor.
+Two years ago, Toranal and his pupils found their way to the city of Blytxia,
+a small village in the center of Blytharge.  There they established their
+camp in the middle of town and offered to teach any who would learn.
+After staying a year in Blytxia, Toranal became obsessed with the idea of
+withdrawing power from the land itself.  Against the warnings of his students,
+Toranal began to tinker, to test, and finally discovered a vein of natural
+energy that would boost his power a hundredfold.  But with this power came
+consequences.  After only three months of using this newfound power, Toranal
+became both insane and twisted, if not evil.  He began to lay waste to
+Blytxia, killing off a large amount of the population and turning all of the
+surrounding greenlands into a dry, deserted wasteland.  Makchilsde, Crowley,
+Denver, and Gavelro all devised solutions to stop Toranal -- and they all
+executed their plans at once.  Only one worked, no one knows which one, it was,
+but Toranal became imprisoned in a pseudodimension to think, to heal, to grow.
+ 
+Here Toranal has made his life creating creatures to guard him from intruders
+and devising ways to escape.
+~
+human~
+0 0 0 0
+ABGXc DFHNOTV -1000 0
+40 40 10d90+1530 40d10+543 5d6+18 sting
+-16 -15 -15 999 -12
+0 -1 CDN AB 0 H
+stand stand male 30
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+1
+Toranal.voc~
+Toranal.scr~
+#8801
+mist minion~
+Minion of the Mist~
+A Minion of the Mist lounges about in the currents.
+~
+The mist minion is a small, greenish beast with a flowing
+blue mane and dark opaque red eyes.  It seems to become
+translucent at will, fading in and out of the mist.
+ 
+Toranal created the minions when he established the Trap,
+to ward off and frighten travelers who might take an
+interest in navigating it.  The Minions also serve to
+keep the Wraiths in check.
+~
+human~
+0 0 0 0
+AGN TV -1000 0
+18 18 5d30+203 0d0+0 3d4+8 claw
+0 0 0 999 1
+0 -1 D A I 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#8802
+mist wraith~
+the Mistwraith~
+A mistwraith slides about in the darkness.
+~
+The mistwraith is a creature from the same gene pool as
+the Minions, you can see -- it has the same opaque red
+eyes and blue mane.  The wraith is noticeably different
+in that it is three times a large, with huge jaws and
+jagged teeth that jut out of its mouth.
+ 
+The wraiths were brought here by Toranal to act as the
+enforcers of security in a sense.  Security in that
+trespassers are eaten, that is.
+ 
+~
+human~
+0 0 0 0
+AFGO TV -1000 0
+20 20 10d2+240 1d1+100 3d5+9 claw
+0 0 0 999 0
+0 -1 D A BI 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8803
+mist strand~
+a strand of mist~
+A strand of mist swims in the currents here, alive.
+~
+~
+human~
+0 0 0 0
+AG T -1000 0
+22 22 4d20+1230 1d1+100 2d5+6 slice
+0 0 0 999 1
+0 -1 D A I 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#8804
+nowhere citizen~
+A citizen from nowhere~
+A citizen from nowhere shambles about, not existing.
+~
+Rightfully, this person should not exist.  Toranal came to this town
+years ago, when it was called by a different name, and proceeded to
+somehow exterminate the entire city.  How it sprang back to (half-)
+life is beyond you.
+~
+human~
+0 0 0 0
+AG PQ 0 0
+26 26 6d30+260 1d1+100 3d5+9 pierce
+0 0 0 999 0
+0 -1 A A B 0
+stand stand male 25
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+cno.scr~
+#8805
+tumbleweed~
+A tumbleweed~
+A tumbleweed bounces around here, almost alive.
+~
+Some say that Toranal could animate nonliving things and bring
+them life.  The tumbleweeds in Nowhere seem to be living
+examples of that, bouncing around with a small bit of
+sentience.
+~
+human~
+0 0 0 0
+AG 0 0 0
+18 18 10d3+70 1d1+100 3d22+96 scratch
+1 1 1 999 0
+0 -1 0 0 0 H
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#8806
+saloon patron~
+A saloon patron~
+A patron of this saloon sips a grayish ale.
+~
+Short..stocky..and looks as if he knows his way with a sword.
+Maybe you should back up and away from this one.
+~
+human~
+0 0 0 0
+ABG 0 -400 0
+28 28 5d40+402 1d1+100 4d4+10 smash
+-2 -2 -2 999 -1
+0 -1 D A B 0
+stand stand male 50
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8807
+saloon patron burly~
+A saloon patron~
+A burly patron of this saloon glares at you from a card game.
+~
+This man is huge -- absolutely huge.  He carries many weapons strapped
+to his person, and from the look of the scars that mar his unshaven
+face, he has seen many, many fights.
+~
+human~
+0 0 0 0
+ABGX V -400 0
+31 31 10d5+520 1d1+100 4d5+10 smash
+-5 -5 -5 999 -3
+0 -1 D A B 0
+stand stand male 50
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#8808
+bartender~
+The bartender~
+A bartender stands here, mixing disgusting concoctions.
+~
+A middle-aged man with large layers of fat covering what looks
+like a once-gaunt face, this bartender was once the swiftest
+sword in Nowhere.  Now he simply ekes out an existence after
+being humiliated by Toranal.
+~
+human~
+0 0 0 0
+ABG 0 -1000 0
+50 50 5d65+1043 5d63+100 2d5+6 slice
+1 1 1 999 0
+0 -1 D A I 0
+stand stand male 6403
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+0
+~
+bartender.scr~
+#8809
+saloonkeeper~
+the saloonkeeper~
+The saloonkeeper stares hard at you as you enter.
+~
+The saloonkeeper is a tall, wiry man wearing all black.  If
+you didn't know better, you would think him a "dead ringer"
+for the undertaker in this town.
+~
+giant~
+0 0 0 0
+ABG T -1000 0
+50 50 3d40+1640 3d4+153 2d5+6 slice
+1 1 1 999 0
+0 -1 D ABCD HI JP
+stand stand male 3059
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+giant flesh~
+0 0 0 100
+0
+~
+skeeper.scr~
+#8810
+armadillo~
+an armadillo~
+An armadillo scurries about here.
+~
+~
+unique~
+0 0 0 0
+AG 0 0 0
+17 17 3d22+60 1d1+100 2d5+5 grep
+1 1 1 999 0
+0 -1 A A 0 0
+stand stand male 0
+AHMV A 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#8811
+sand wanderer~
+A sand wanderer~
+A wanderer mills about here, kicking up dirt.
+~
+Sand wanderers are a race of people that have adapted to
+desert life well -- too well.  They can go months without
+directly imbibing water because of their "evolution" into
+small, fat wrinkled beasts.
+~
+human~
+0 0 0 0
+AG T 0 0
+19 19 5d30+223 1d1+100 3d5+8 scratch
+1 1 1 999 0
+0 -1 0 0 0 I
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+small flesh~
+0 0 0 100
+0
+~
+roadass.scr~
+#8812
+lone wanderer~
+A lone wanderer~
+A lone wanderer skulks about here, kicking dirt.
+~
+~
+human~
+0 0 0 0
+AG 0 -1000 0
+26 26 5d40+301 1d1+100 3d5+8 smash
+-1 -1 -1 999 0
+0 -1 D A B 0
+stand stand male 15
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8813
+bandit~
+A bandit~
+A bandit smiles happily at you as he cuts your throat.
+~
+~
+human~
+0 0 0 0
+ABG 0 -1000 0
+18 18 4d50+210 1d4+100 2d5+5 slice
+-1 -1 -1 999 0
+0 -1 D A B 0
+stand stand male 50
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8814
+silent skulker~
+A silent skulker~
+A silent skulker eyes you from the shadows.
+~
+This abhorration of nature was probably spawned from Toranal's
+magic.  It looks to be a cross between a fox and a sand
+dweller, and creeps about close to the ground, licking up
+animals and bugs.
+~
+human~
+0 0 0 0
+AGM P -1000 0
+24 24 6d40+201 1d1+100 3d5+8 magic
+-1 -1 -1 999 0
+0 -1 D A B 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8815
+lone swordsman~
+A lone swordsman~
+A lone swordsman stands here, practicing.
+~
+This man looks to be around 25, with a short cropped beard and a
+chiseled face and expression.  He practices with fierce determination
+as you approach.
+~
+human~
+0 0 0 0
+AGX 0 0 0
+70 80 10d70+5500 60d10+300 10d55+10 slice
+-10 -10 -10 999 -10
+0 -1 D A B 0
+stand stand male 25
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 500
+0
+~
+~
+#8816
+Conlin~
+Conlin~
+Conlin the Everything Man stands here, smiling.
+~
+Conlin was one of Toranal's earlier pupils, before the time of the
+destruction.  A hardy mage, and a skilled healer, he was summoned
+back to the town for the purpose of helping bind Toranal.  Although
+he ultimately failed and left it up to the Four Pupils to do it,
+his help was eternally appreciated and he was given a small residence
+here as a gift.
+~
+human~
+0 0 0 0
+ABGQRSTa DFH 0 0
+60 60 1d1+999 1d2+400 4d5+23 none
+0 0 0 999 0
+R -1 0 ABCDE 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+conlin.scr~
+#8817
+pharmacist~
+The pharmacist~
+The pharmacist smiles at you.
+~
+~
+human~
+0 0 0 0
+ABG 0 0 0
+60 60 4d5+2530 1d50+430 4d6+36 none
+0 0 0 999 0
+0 -1 0 ABCDE 0 0
+stand stand neutral 430
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8818
+spellsword~
+The Spellsword~
+The Spellsword is here, honing his weapon with majyk.
+~
+The Spellsword was an adept of Toranal (Toranal the Destroyer, as he is known
+in these lands) who escaped the city before Toranal unleashed his torments.
+He now wanders the wasteland, killing small animals for food and robbing
+passers-by for their gold occasionally.
+~
+human~
+0 0 0 0
+ABGS O 0 0
+31 31 10d50+560 5d60+360 4d5+15 none
+-6 -8 -6 999 -3
+0 -1 CFJKN AB CD 0
+stand stand male 20
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8819
+road assassin highwayman~
+A roadassassin~
+A highwayman lurks in small scrub brush shadows here.
+~
+A young man -- around 22, with a cut piece of fabric over his face
+to help him hug the shadows better, and an all-black soft velvet
+outfit.  He clutches his dagger and grins out of the shadows at you
+once you have seen him, knowing that it is too late for you to
+escape now.
+~
+human~
+0 0 0 0
+ABFGHS PQTV -1000 0
+17 17 5d30+170 17d10+100 4d5+8 stab
+0 0 0 999 0
+0 -1 EFHKN AB E C
+stand stand male 50
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8820
+sandman~
+The Sandman~
+The Sandman wanders about here, frowning.
+~
+The Sandman is not the dream king -- he is a hideous creature, a golem
+of Toranal's constructed of only wind and sand.  Because of his unique
+nature he is damned to wander wherever there is wind and sand...and
+should there not be wind and sand, he will cease to be.
+~
+human~
+0 0 0 0
+ABG PQTVa -300 0
+29 29 10d6+312 18d10+100 4d5+8 charge
+-3 -3 -3 999 -2
+0 -1 C AB H I
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8821
+waste dweller~
+A waste dweller~
+A waste dweller feeds off of a freshly-killed animal here.
+~
+This ... thing ... was obviously once human.  After years of living in
+the tortured wasteland, it has adapted to something more than human --
+or less.  The ridged brow reminds you of ancient man, and the tiny
+third eye located right above the upper lip is very, very disturbing...
+~
+human~
+0 0 0 0
+AG K -1000 0
+18 18 10d5+156 10d10+100 2d5+5 bite
+3 3 3 999 9
+0 -1 F A 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8822
+mistwarrior~
+The mistwarrior~
+A Mistwarrior wanders about here, slashing.
+~
+The Mistwarrior is a semihuman construct that wanders here, seeking
+both escape and food.
+~
+human~
+0 0 0 0
+ABG UV -1000 0
+36 36 10d60+630 25d10+100 5d5+10 claw
+-10 -10 -10 999 -5
+0 -1 CFIK AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#8823
+lone swordsman~
+A lone swordsman~
+A lone swordsman stands here, practicing.
+~
+This man looks to be around 25, with a short cropped beard and a
+chiseled face and expression.  He practices with fierce determination
+as you approach.
+~
+human~
+0 0 0 0
+AGX 0 0 0
+70 80 10d70+5500 60d10+300 10d55+10 slice
+-10 -10 -10 999 -10
+0 -1 D A B 0
+stand stand male 25
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 500
+0
+~
+~
+#8824
+mazemaster~
+The mazemaster~
+A mazemaster is here, wandering the maze.
+~
+~
+human~
+0 0 0 0
+AGI 0 0 0
+1 1 1d1+1 1d1+1 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+4
+~
+mazemaster.scr~
+#0
+
+#OBJECTS
+#8800
+sign~
+an oaken sign~
+A sign sways here in the breeze.~
+unknown~
+0
+trash 2
+ORS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 0 0 P
+E
+sign~
+This huge rotting sign bears a scarred black "N" on the mantle, and reads:
+ 
+Welcome  to N owh er e   str an ger
+Popul a t  ion  3 6
+Fo unded  i n
+ 
+The bottom part of the sign is burned to a crisp and seems unreadable,
+though you can make out the words "slin" and "ware".
+~
+#8801
+solution Gavelro's~
+gavelro's solution to Toranal's Trap~
+A burned piece of paper lies here.~
+unknown~
+0
+scroll 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BEF 'fireball' 'curse' -1 -1 0
+0
+10 0 500 P
+E
+solution~
+A small piece of burned parchment with the legend:
+unsweessuswwsusseensu
+ 
+Wonder what it means.
+~
+#8802
+solution Makchilsde's~
+makchilsde's solution to Toranal's Trap~
+A wet piece of paper lies here.~
+parchment~
+0
+scroll 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+DF 'shocking grasp' -1 -1 -1 0
+0
+15 0 2000 P
+E
+solution~
+A piece of paper with the legend:
+ 
+unnneeswwswnsuwsseesunessewduuwseeesnseu.
+ 
+Wonder what it means.
+~
+#8803
+crowley's solution~
+crowley's solution to Toranal's Trap~
+A piece of paper covered in sulfur is here.~
+paper~
+0
+scroll 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+DF 'armor' 'fly' 'shield' -1 0
+0
+11 0 7267 P
+E
+solution~
+A paper with the legend:
+ 
+unnneeswwsenuusennewsnewssewndwsenwu.
+Wonder what it means.
+~
+#8804
+Denver's solution~
+denver's solution to Toranal's Trap~
+A piece of bleached paper crumbles here.~
+paper~
+0
+scroll 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABF 'blindness' 'weaken' -1 -1 0
+0
+20 0 8293 P
+E
+solution~
+This paper has a strange set of symbols on it:
+ 
+unnseewwsenuusennewsseewssewsuusenwssuews.
+ 
+Wonder what that means.
+~
+#8805
+dusty chain leather boots~
+a pair of dusty chain-and-leather boots~
+A pair of leather boots reinforced with metal chain are here.~
+hard leather~
+0
+armor 2
+S
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B B 0
+0
+0
+32 5 760 P
+A
+14 50
+#8806
+dusty leather black coat~
+`aA Dusty Black Leather Coat``~
+`aA pile of cloth stirs here.``~
+cloth~
+0
+container 2
+CERSTY
+0
+AK
+CI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CDFI 0 0 CE EG
+0
+0
+30 10 3000 P
+A
+24 -2
+A
+14 100
+#8807
+dusty chain leather greaves~
+some dusty chain-and-leather greaves~
+A pair of metal-link and leather leggings lie here.~
+hard leather~
+0
+armor 2
+W
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AC AC AC 0 0
+0
+0
+16 7 938 P
+A
+19 1
+#8808
+dusty chain leather sleeves~
+some dusty chain-and-leather sleeves~
+A pair of metal and leather sleeves lie here.~
+hard leather~
+0
+armor 2
+0
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B 0 0
+0
+0
+22 5 1039 P
+A
+17 -1
+A
+14 1
+#8809
+dusty black shirt~
+`aA Dusty Black Shirt``~
+`aA shirt lies here in a pile of dirt.``~
+cotton~
+0
+armor 2
+GW
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BD BD BD 0 0
+0
+0
+15 5 1000 P
+A
+2 1
+#8810
+dusty black chain belt~
+`aA Dusty Black `oChain `aand Leather Belt``~
+`aA metallic belt sits here.``~
+iron~
+0
+armor 2
+W
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B B B 0 0
+0
+0
+10 10 505 P
+A
+14 10
+A
+1 2
+#8811
+dusty black leather gloves~
+`aA Pair of Dusty Black Gloves``~
+`aA crumpled pile of leather is here.``~
+hard leather~
+0
+armor 2
+SW
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A A 0 0
+0
+0
+11 12 500 P
+A
+18 6
+A
+19 6
+#8812
+leather bracketed torch~
+a dusty leather-bracketed torch~
+A torch set in a dusty leather skein is here.~
+hard leather~
+0
+light 2
+A
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 CDFI 0 0
+0
+0
+20 10 0 P
+A
+4 1
+A
+3 1
+A
+19 1
+#8813
+dusty black leather hat~
+`aA Dusty Black Leather Hat``~
+`aA dust-covered hat is here.``~
+hard leather~
+0
+clothing 2
+W
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 9 500 P
+A
+2 1
+#8814
+dusty black leather crop~
+`aA Dusty Black `dLeather `aand `gSteel `aCrop``~
+`aA short piece of metal lies here.``~
+hard leather~
+0
+weapon 2
+SW
+0
+ANO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BC C BC C 0
+0
+0
+15 5 500 P
+A
+14 20
+A
+18 2
+A
+1 1
+#8815
+leather-hilted sand sword~
+a leather-hilted sand sword~
+A leather-hilted sword sparkles in the sun here.~
+hard leather~
+0
+weapon 2
+BS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A AC AC A D
+0
+0
+25 30 590 P
+A
+18 1
+A
+19 2
+#8816
+dusty leather loop~
+`dA `aDusty `dLoop of Leather``~
+`dA ring of leather lies here.``~
+soft leather~
+0
+armor 2
+0
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B B B 0 0
+0
+0
+25 10 0 P
+A
+12 6
+A
+14 17
+#8817
+mistclaw claw mist~
+a Mistclaw~
+A severed claw lies here, translucent.~
+ethereal~
+0
+weapon 2
+AHS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B C AC BCDE B
+0
+0
+14 15 0 P
+#8818
+mistclaws mist claws~
+a pair of Mistclaws~
+A pair of claws lie here, translucent.~
+ethereal~
+0
+armor 2
+AHS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 BF
+0
+0
+16 0 0 P
+A
+18 1
+#8819
+decent sword~
+a decent sword~
+A sword lies here, it looks pretty good.~
+metal~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A AC AB AB 0
+0
+0
+16 25 150 P
+#8820
+armadillo shell~
+an armadillo's shell~
+A shell lies here, wrinkled and used.~
+shell~
+0
+armor 2
+SY
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+7 15 850 P
+A
+13 10
+#8821
+skeinsuit~
+`kA Skeinsuit``~
+`hA puffy `kyellow `hsuit lies here, discarded.``~
+flesh~
+0
+drink 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DGH DGH 0 0 0
+0
+0
+10 15 100 P
+A
+14 -50
+#8822
+beige rapier~
+a beige rapier~
+A beige sword is stuck in a rock here.~
+stone~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A C AC A 0
+0
+0
+24 20 40 P
+A
+19 2
+A
+18 1
+#8823
+pewter mug ale~
+a pewter mug of ale~
+A wrought-metal glass is here.~
+pewter~
+0
+potion 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC 'refresh' 'flamestrike' -1 -1 0
+0
+5 10 893 P
+#8824
+glass mug devil's brew~
+a glass mug of devil's brew~
+A glass mug of ale is here.~
+glass~
+0
+potion 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+ABC 'renewal' 'cure critical' -1 -1 0
+0
+7 5 750 P
+#8825
+Toranal's tribute black mug~
+a black mug filled with Toranal's Tribute~
+A black mug sits here, bubbling.~
+glass~
+0
+potion 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BCDE 'faerie fire' 'blindness' 'cure poison' 'sleep'
+0
+0
+26 0 739 P
+#8826
+shot glass wake-up juice~
+`da shot glass of`a "`bwake-up juice`a"``~
+A small glass filled with yellow fluid sits here.~
+glass~
+0
+potion 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BDEG 'Dance of Shadows' 'Dance of Shadows' -1 -1 0
+0
+23 0 1059 P
+#8827
+Gavelro's Medicine~
+`oGavelro's Medicine``~
+A white pill pulses here.~
+food~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+DE 'cure disease' -1 -1 -1 0
+0
+23 5 907 P
+#8828
+Makchilsde's Medicine~
+`kMakchilsde's Medicine``~
+A yellow pill rolls around the ground.~
+food~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BCDE 'refresh' 'detect invis' -1 -1 0
+0
+30 9 3204 P
+#8829
+Crowley's Medicine~
+`bCrowley's Medicine``~
+A red pill pulses here.~
+food~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+DE 'cure critical' 'cure poison' -1 -1 0
+0
+24 9 3019 P
+#8830
+Denver's Medicine~
+`jDenver's Medicine``~
+`jA bright green pill lays here.``~
+food~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BCDE 'cure poison' 'bless' -1 -1 0
+0
+30 8 4039 P
+#8831
+wanted poster Toranal~
+a wanted poster bearing Toranal's picture~
+A poster rests against a wall here.~
+unknown~
+0
+trash 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 800 P
+#8832
+flyer evils swordplay violence~
+a flyer concerning the evils of swordplay and violence~
+A flyer stands rigid here against a wall.~
+paper~
+0
+scroll 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DE 'sanctuary' 'calm' -1 -1 0
+0
+25 0 5293 P
+#8833
+frontier bible holy book~
+a frontier holy book~
+A bible lays here, discarded.~
+paper~
+0
+scroll 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CE 'holy word' -1 -1 -1 0
+0
+20 0 504 P
+#8834
+asparagus shoot~
+`cA Shoot of `jAsparagus``~
+`jA`csparagu`js `his sitting here, fresh and crisp.``~
+food~
+0
+pill 2
+ST
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF 'giant strength' 'bark skin' -1 -1 0
+0
+10 20 75 P
+#8835
+spinach leaf huge~
+`cA `jHUGE `cSpinach `cLeaf``~
+`hA leaf of `js`cpinac`jh `his here.``~
+food~
+0
+pill 2
+ST
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+DF 'haste' -1 -1 -1 0
+0
+10 20 100 P
+#8836
+decent sized pumpkin~
+a decent-sized pumpkin~
+A pumpkin is here.
+~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE CE ACF 0 0
+0
+0
+5 25 89 P
+#8837
+natural well~
+a natural well~
+A well flows up from the ground and bubbles here.~
+water~
+0
+fountain 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+60 1000 0 P
+#8838
+leather metal buckler dusty~
+`dA `aDusty `dLeather and `gMetal `dBuckler``~
+A dusty leather shield lies here.~
+hard leather~
+0
+armor 2
+0
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC ABC ABC ABC 0
+0
+0
+26 36 450 P
+A
+2 1
+A
+1 1
+#8839
+metal bracelet faded~
+a faded metal bracelet~
+A faded metal loop lies here.~
+metal~
+0
+jewelry 2
+0
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+22 5 0 P
+A
+12 10
+#8840
+leather bracelet dusty~
+`dA `aDusty `dLeather Bracelet``~
+A dusty leather loop lies here.~
+soft leather~
+0
+treasure 2
+S
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 5 0 P
+A
+19 1
+A
+18 1
+#8841
+highwayman's knife~
+a highwayman's knife~
+A jagged, long-bladed hollow knife lies here.~
+metal~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B BC B B J
+0
+0
+17 20 455 P
+#8842
+mistaxe axe~
+the Mistaxe~
+A sword of pure clear gas floats here.~
+ethereal~
+0
+weapon 2
+MS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC BC AC ACE 0
+0
+0
+31 15 1500 P
+A
+19 2
+#8843
+leather mica dagger~
+a leather-hilted mica dagger~
+A sliver of mica glitters in the sand here.~
+stone~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B AC AC ACDE DE
+0
+0
+36 47 100 P
+A
+18 2
+A
+19 1
+#8844
+black steel plated belt~
+`aa black steel plated belt``~
+`aA long black steel plated belt lies coiled here.``~
+steel~
+0
+armor 2
+GY
+0
+AL
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+E E E E 0
+0
+0
+75 10 2000 P
+A
+18 3
+A
+19 4
+A
+24 -2
+A
+1 1
+#8845
+necklace leather~
+`dA `aDusty `dLeather Necklace``~
+`dA necklace lies here.``~
+soft leather~
+0
+clothing 2
+0
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 15 90 G
+A
+1 1
+#8846
+gauntlets black steel~
+`aa pair of black steel gauntlets``~
+`aA pair of matte black steel gauntlets have been left here.``~
+steel~
+0
+armor 2
+G
+0
+AH
+EFJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABCD ABCD BD BD 0
+0
+0
+75 10 2000 P
+A
+18 7
+A
+19 10
+A
+24 -3
+#8847
+black steel shield~
+`aa black steel shield``~
+`aa matte black steel shield has been left here.``~
+steel~
+0
+armor 2
+GY
+0
+AJ
+EFJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADE ADE ADE ADE 0
+0
+0
+75 100 0 P
+A
+24 -3
+#8848
+disorientation~
+disorientation~
+The embodiment of disorientation surrounds you.~
+ethereal~
+0
+trash 2
+S
+E
+0
+0
+0
+0
+8848
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 0 0 P
+#0
+
+#ROOMS
+#8800
+40 200
+~
+$n trudges into the room, shielding $sself from sand.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18561
+D1
+~
+~
+0 0 8802
+D2
+~
+~
+0 0 8802
+D3
+~
+~
+0 0 8803
+S
+#8801
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Shielding $sself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8807
+D1
+~
+~
+0 0 8805
+D3
+~
+~
+0 0 8806
+S
+#8802
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18562
+D1
+~
+~
+0 0 8803
+D2
+~
+~
+0 0 8800
+D3
+~
+~
+0 0 8800
+S
+#8803
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8807
+D1
+~
+~
+0 0 8800
+D2
+~
+~
+0 0 8802
+D3
+~
+~
+0 0 8802
+S
+#8804
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8806
+D1
+~
+~
+0 0 8807
+D2
+~
+~
+0 0 8809
+D3
+~
+~
+0 0 8808
+S
+#8805
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Shielding $sself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 8809
+D2
+~
+~
+0 0 8809
+D3
+~
+~
+0 0 8801
+S
+#8806
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8810
+D1
+~
+~
+0 0 8811
+D2
+~
+~
+0 0 8813
+D3
+~
+~
+0 0 8812
+S
+#8807
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Shielding $sself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8804
+D1
+~
+~
+0 0 8802
+D2
+~
+~
+0 0 8808
+D3
+~
+~
+0 0 8804
+S
+#8808
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8812
+D1
+~
+~
+0 0 8813
+D2
+~
+~
+0 0 8814
+D3
+~
+~
+0 0 8828
+S
+#8809
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8804
+D1
+~
+~
+0 0 8814
+D2
+~
+~
+0 0 8823
+D3
+~
+~
+0 0 8802
+S
+#8810
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8809
+D1
+~
+~
+0 0 8808
+D2
+~
+~
+0 0 8806
+D3
+~
+~
+0 0 8807
+S
+#8811
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Shielding $mself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8831
+D1
+~
+~
+0 0 8820
+D2
+~
+~
+0 0 8823
+D3
+~
+~
+0 0 8806
+S
+#8812
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8821
+D1
+~
+~
+0 0 8806
+D2
+~
+~
+0 0 8808
+D3
+~
+~
+0 0 8820
+S
+#8813
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Shielding $mself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8806
+D1
+~
+~
+0 0 8816
+D2
+~
+~
+0 0 8815
+D3
+~
+~
+0 0 8808
+S
+#8814
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8808
+D1
+~
+~
+0 0 8818
+D2
+~
+~
+0 0 8817
+D3
+~
+~
+0 0 8809
+S
+#8815
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8813
+D1
+~
+~
+0 0 8805
+D2
+~
+~
+0 0 8819
+D3
+~
+~
+0 0 8807
+S
+#8816
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8823
+D1
+~
+~
+0 0 8830
+D2
+~
+~
+0 0 8818
+D3
+~
+~
+0 0 8800
+S
+#8817
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Shielding $sself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8814
+D1
+~
+~
+0 0 8824
+D2
+~
+~
+0 0 8826
+D3
+~
+~
+0 0 8825
+S
+#8818
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8816
+D1
+~
+~
+0 0 8820
+D2
+~
+~
+0 0 8820
+D3
+~
+~
+0 0 8814
+S
+#8819
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Shielding $mself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+You are wandering on a seemingly endless field of flat, turfed sand.
+Small shoots of gray-brown plant life crumble as you trudge across them,
+their lifeforce being drained by the total lack of supportive energy
+in these lands.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8815
+D1
+~
+~
+0 0 8805
+D2
+~
+~
+0 0 8807
+D3
+~
+~
+0 0 8806
+S
+#8820
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8818
+D1
+~
+~
+0 0 8808
+D2
+~
+~
+0 0 8809
+D3
+~
+~
+0 0 8811
+S
+#8821
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8810
+D1
+~
+~
+0 0 8811
+D2
+~
+~
+0 0 8813
+D3
+~
+~
+0 0 8812
+S
+#8822
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8814
+D1
+~
+~
+0 0 8816
+D2
+~
+~
+0 0 8815
+D3
+~
+~
+0 0 8817
+S
+#8823
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Shielding $mself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8811
+D1
+~
+~
+0 0 8818
+D2
+~
+~
+0 0 8816
+D3
+~
+~
+0 0 8819
+S
+#8824
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8821
+D1
+~
+~
+0 0 8800
+D2
+~
+~
+0 0 8820
+D3
+~
+~
+0 0 8817
+S
+#8825
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Shielding $sself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8824
+D1
+~
+~
+0 0 8817
+D2
+~
+~
+0 0 8823
+D3
+~
+~
+0 0 8822
+S
+#8826
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8817
+D1
+~
+~
+0 0 8825
+D2
+~
+~
+0 0 8828
+D3
+~
+~
+0 0 8827
+S
+#8827
+0 0
+~
+$n trudges into the room, shielding $sself from sand.~
+Gritting $s teeth, $n paces $T.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8829
+D1
+~
+~
+0 0 8830
+D2
+~
+~
+0 0 8831
+D3
+~
+~
+0 0 8805
+S
+#8828
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8819
+D1
+~
+~
+0 0 8817
+D2
+~
+~
+0 0 8820
+D3
+~
+~
+0 0 8818
+S
+#8829
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Shielding $sself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8828
+D1
+~
+~
+0 0 8826
+D2
+~
+~
+0 0 8827
+D3
+~
+~
+0 0 8825
+S
+#8830
+0 0
+~
+A wind-whipped $n stumbles into the room.~
+Scanning $T through the arid sandstorm, $n ploughs onward.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8825
+D1
+~
+~
+0 0 8822
+D2
+~
+~
+0 0 8824
+D3
+~
+~
+0 0 8823
+S
+#8831
+0 0
+~
+$n arrives, shaking sand from $s armor.~
+Shielding $sself from blowing sand, $n leaves $T.~
+0 0 0
+The Swirling Sands~
+The Wastelands spread out here, cracked dry land intermingled
+with brown, dry sand and dead gray plants.  There are several
+scattered remnants of animals...and people...who didn't make
+it all the way through.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8832
+D1
+~
+~
+0 0 8802
+D2
+~
+~
+0 0 8811
+D3
+~
+~
+0 0 8830
+S
+#8832
+0 0
+~
+~
+~
+0 0 0
+Road to Nowhere~
+You have come across a huge, cracked road of matted soil, dead grass, and
+rotted adobe clay.  The depressions in the street hint at many things
+and many beings having traveled this route...from huge reptillian tracks
+marred with tailtracks to smallish, human-shaped footprints, it seems as
+if at one time everything or everyone used this pathway.  And judging
+from the variety of the corpses and skeletons scattered around the
+road, everything and everyone died here too...
+~
+0 CN 0
+0
+~
+I 0 D0
+~
+~
+0 0 8833
+D2
+~
+~
+0 0 8831
+S
+#8833
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8834
+D2
+~
+~
+0 0 8832
+S
+#8834
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D1
+~
+~
+0 0 8835
+D2
+~
+~
+0 0 8833
+D3
+~
+~
+0 0 8838
+S
+#8835
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D1
+~
+~
+0 0 8836
+D3
+~
+~
+0 0 8834
+S
+#8836
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8837
+D3
+~
+~
+0 0 8835
+S
+#8837
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8840
+D2
+~
+~
+0 0 8836
+S
+#8838
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D1
+~
+~
+0 0 8834
+D3
+~
+~
+0 0 8839
+S
+#8839
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D1
+~
+~
+0 0 8838
+S
+#8840
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8841
+D2
+~
+~
+0 0 8837
+S
+#8841
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8843
+D1
+~
+~
+0 0 8842
+D2
+~
+~
+0 0 8840
+S
+#8842
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D3
+~
+~
+0 0 8841
+S
+#8843
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8844
+D2
+~
+~
+0 0 8841
+S
+#8844
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 25276
+D1
+~
+~
+0 0 8845
+D2
+~
+~
+0 0 8843
+D3
+~
+~
+0 0 8846
+S
+#8845
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D3
+~
+~
+0 0 8844
+S
+#8846
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D1
+~
+~
+0 0 8844
+D3
+~
+~
+0 0 8847
+S
+#8847
+0 0
+~
+~
+~
+0 0 0
+Traveling the Road to Nowhere~
+This huge road stretches at least three spans across and off into the
+horizon -- it's hard to tell what direction you're travelling, and
+considerably harder to tell your destination.
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8848
+D1
+~
+~
+0 0 8846
+S
+#8848
+0 0
+~
+~
+~
+0 0 0
+Entrance to Nowhere~
+Stumbling blindly in the mind-numbing heat, sand, and dry wind, you
+come across a large sign carved out of dry polished oak and swinging
+from a rusted metal tether in the faint breeze.  A crude arch ushers
+you into a small town just ahead.
+~
+0 HN 1
+0
+~
+I 0 D0
+~
+~
+0 0 8849
+D2
+~
+~
+0 0 8847
+S
+#8849
+0 0
+~
+~
+~
+0 0 0
+Nothing Road~
+You are on a barren main road in a desolate town filled with shacks, 
+shanties, and storefronts of the worst kind.  It looks as if this
+town has been abandoned for years, but you can see people milling around
+on the street, tethering horses and feeding them, among other things.
+~
+0 HN 1
+0
+~
+I 0 D0
+~
+~
+0 0 8850
+D2
+~
+~
+0 0 8848
+S
+#8850
+0 0
+~
+~
+~
+0 0 0
+Nothing Road~
+You are on a barren main road in a decrepit old town, apparently called
+"Nowhere".  If you were ever nowhere in your life, this is certainly
+an apt name -- To either side of you lie decaying buildings made of
+drywood that seem to crumble as you look at them.  How much longer
+can this town survive?
+~
+0 HN 1
+0
+~
+I 0 D0
+~
+~
+0 0 8851
+D2
+~
+~
+0 0 8849
+S
+#8851
+0 0
+~
+~
+~
+0 0 0
+Nothing Road~
+You are travelling the northern stretch of the main street of Nowhere,
+Nothing Road, humorously dubbed that by the locals in an attempt to
+lighten up their otherwise dismal existence.  To your north there is
+a large wide open circle.
+~
+0 HN 1
+0
+~
+I 0 D0
+~
+~
+0 0 8852
+D1
+~
+~
+0 0 8895
+D2
+~
+~
+0 0 8850
+D3
+~
+~
+0 0 8896
+D4
+~
+~
+0 0 26026
+S
+#8852
+0 0
+~
+~
+~
+0 0 0
+The Middle of Nowhere~
+You are in the center of the town, a huge empty circle of burnt grass
+and dead flowers.  A gallows sits here, creaking unsteadily in the
+wind, and it looks as if there might be something intriguing about
+it...
+~
+0 HN 1
+0
+~
+I 0 D0
+~
+~
+0 0 8891
+D1
+~
+~
+0 0 8897
+D2
+~
+~
+0 0 8851
+D3
+~
+~
+0 0 8898
+D4
+~
+door~
+1 0 8853
+S
+#8853
+0 0
+~
+~
+~
+0 0 0
+Hazy Mist~
+You have entered a field of dark misty vapors that cling to you as you
+hover around in them.  Your sense of direction has just been completely
+revoked.
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 8854
+D1
+~
+~
+0 0 8854
+D2
+~
+~
+0 0 8854
+D3
+~
+~
+0 0 8854
+D4
+~
+~
+0 0 8854
+D5
+~
+door~
+1 0 8852
+S
+#8854
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8855
+D2
+~
+~
+0 0 8853
+D3
+~
+~
+0 0 8858
+D5
+~
+~
+0 0 8857
+S
+#8855
+0 100
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8856
+D1
+~
+~
+0 0 8856
+D2
+~
+~
+0 0 8854
+D3
+~
+~
+0 0 8854
+D4
+~
+~
+0 0 8857
+D5
+~
+~
+0 0 8858
+S
+#8856
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D1
+~
+~
+0 0 8857
+D2
+~
+~
+0 0 8855
+D3
+~
+~
+0 0 8855
+D4
+~
+~
+0 0 8859
+D5
+~
+~
+0 0 8854
+S
+#8857
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8859
+D1
+~
+~
+0 0 8858
+D2
+~
+~
+0 0 8858
+D3
+~
+~
+0 0 8856
+D4
+~
+~
+0 0 8854
+D5
+~
+~
+0 0 8855
+S
+#8858
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8857
+D1
+~
+~
+0 0 8854
+D2
+~
+~
+0 0 8859
+D3
+~
+~
+0 0 8857
+D4
+~
+~
+0 0 8855
+S
+#8859
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8858
+D2
+~
+~
+0 0 8857
+D3
+~
+~
+0 0 8860
+D4
+~
+~
+0 0 8861
+D5
+~
+~
+0 0 8856
+S
+#8860
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8862
+D1
+~
+~
+0 0 8859
+D2
+~
+~
+0 0 8861
+D3
+~
+~
+0 0 8861
+D4
+~
+~
+0 0 8863
+D5
+~
+~
+0 0 8866
+S
+#8861
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8860
+D1
+~
+~
+0 0 8860
+D2
+~
+~
+0 0 8862
+D3
+~
+~
+0 0 8863
+D4
+~
+~
+0 0 8862
+D5
+~
+~
+0 0 8859
+S
+#8862
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8861
+D1
+~
+~
+0 0 8863
+D2
+~
+~
+0 0 8860
+D3
+~
+~
+0 0 8864
+D4
+~
+~
+0 0 8867
+D5
+~
+~
+0 0 8861
+S
+#8863
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8864
+D1
+~
+~
+0 0 8861
+D2
+~
+~
+0 0 8866
+D3
+~
+~
+0 0 8862
+D5
+~
+~
+0 0 8860
+S
+#8864
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8871
+D1
+~
+~
+0 0 8862
+D2
+~
+~
+0 0 8863
+D3
+~
+~
+0 0 8868
+D4
+~
+~
+0 0 8865
+D5
+~
+~
+0 0 8869
+S
+#8865
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8867
+D1
+~
+~
+0 0 8866
+D2
+~
+~
+0 0 8870
+D3
+~
+~
+0 0 8869
+D4
+~
+~
+0 0 8866
+D5
+~
+~
+0 0 8864
+S
+#8866
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8863
+D1
+~
+~
+0 0 8869
+D2
+~
+~
+0 0 8867
+D3
+~
+~
+0 0 8865
+D4
+~
+~
+0 0 8860
+D5
+~
+~
+0 0 8865
+S
+#8867
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8866
+D1
+~
+~
+0 0 8868
+D2
+~
+~
+0 0 8865
+D3
+~
+~
+0 0 8871
+D4
+~
+~
+0 0 8872
+D5
+~
+~
+0 0 8862
+S
+#8868
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8869
+D1
+~
+~
+0 0 8864
+D2
+~
+~
+0 0 8871
+D3
+~
+~
+0 0 8867
+D4
+~
+~
+0 0 8868
+D5
+~
+~
+0 0 8870
+S
+#8869
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8870
+D1
+~
+~
+0 0 8865
+D2
+~
+~
+0 0 8868
+D3
+~
+~
+0 0 8866
+D4
+~
+~
+0 0 8864
+D5
+~
+~
+0 0 8871
+S
+#8870
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8865
+D1
+~
+~
+0 0 8871
+D2
+~
+~
+0 0 8869
+D3
+~
+~
+0 0 8878
+D4
+~
+~
+0 0 8868
+D5
+~
+~
+0 0 8888
+S
+#8871
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8868
+D1
+~
+~
+0 0 8867
+D2
+~
+~
+0 0 8864
+D3
+~
+~
+0 0 8872
+D4
+~
+~
+0 0 8869
+D5
+~
+~
+0 0 8877
+S
+#8872
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8875
+D1
+~
+~
+0 0 8871
+D2
+~
+~
+0 0 8873
+D3
+~
+~
+0 0 8873
+D4
+~
+~
+0 0 8889
+D5
+~
+~
+0 0 8867
+S
+#8873
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8874
+D1
+~
+~
+0 0 8872
+D2
+~
+~
+0 0 8877
+D3
+~
+~
+0 0 8875
+D4
+~
+~
+0 0 8875
+D5
+~
+~
+0 0 8876
+S
+#8874
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8876
+D1
+~
+~
+0 0 8875
+D2
+~
+~
+0 0 8873
+D3
+~
+~
+0 0 8877
+D4
+~
+~
+0 0 8876
+D5
+~
+~
+0 0 8875
+S
+#8875
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8878
+D1
+~
+~
+0 0 8873
+D2
+~
+~
+0 0 8872
+D3
+~
+~
+0 0 8876
+D4
+~
+~
+0 0 8874
+D5
+~
+~
+0 0 8873
+S
+#8876
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8877
+D1
+~
+~
+0 0 8875
+D2
+~
+~
+0 0 8874
+D3
+~
+~
+0 0 8881
+D4
+~
+~
+0 0 8873
+D5
+~
+~
+0 0 8874
+S
+#8877
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8873
+D1
+~
+~
+0 0 8874
+D2
+~
+~
+0 0 8876
+D3
+~
+~
+0 0 8882
+D4
+~
+~
+0 0 8871
+D5
+~
+~
+0 0 8878
+S
+#8878
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8880
+D1
+~
+~
+0 0 8870
+D2
+~
+~
+0 0 8875
+D3
+~
+~
+0 0 8879
+D4
+~
+~
+0 0 8877
+D5
+~
+~
+0 0 8879
+S
+#8879
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8881
+D1
+~
+~
+0 0 8878
+D2
+~
+~
+0 0 8880
+D3
+~
+~
+0 0 8884
+D4
+~
+~
+0 0 8890
+D5
+~
+~
+0 0 8882
+S
+#8880
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8879
+D1
+~
+~
+0 0 8881
+D2
+~
+~
+0 0 8878
+D3
+~
+~
+0 0 8885
+D4
+~
+~
+0 0 8882
+D5
+~
+~
+0 0 8881
+S
+#8881
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8882
+D1
+~
+~
+0 0 8876
+D2
+~
+~
+0 0 8879
+D3
+~
+~
+0 0 8880
+D4
+~
+~
+0 0 8880
+D5
+~
+~
+0 0 8885
+S
+#8882
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8883
+D1
+~
+~
+0 0 8877
+D2
+~
+~
+0 0 8881
+D3
+~
+~
+0 0 8883
+D4
+~
+~
+0 0 8879
+D5
+~
+~
+0 0 8880
+S
+#8883
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8884
+D1
+~
+~
+0 0 8882
+D2
+~
+~
+0 0 8882
+D3
+~
+~
+0 0 8887
+D4
+~
+~
+0 0 8884
+D5
+~
+~
+0 0 8886
+S
+#8884
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8889
+D1
+~
+~
+0 0 8879
+D2
+~
+~
+0 0 8883
+D3
+~
+~
+0 0 8888
+D4
+~
+~
+0 0 8885
+D5
+~
+~
+0 0 8883
+S
+#8885
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8888
+D1
+~
+~
+0 0 8880
+D2
+~
+~
+0 0 8886
+D3
+~
+~
+0 0 8877
+D4
+~
+~
+0 0 8881
+D5
+~
+~
+0 0 8884
+S
+#8886
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8885
+D1
+~
+~
+0 0 8887
+D2
+~
+~
+0 0 8876
+D3
+~
+~
+0 0 8877
+D4
+~
+~
+0 0 8883
+D5
+~
+~
+0 0 8885
+S
+#8887
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8888
+D1
+~
+~
+0 0 8883
+D2
+~
+~
+0 0 8874
+D3
+~
+~
+0 0 8886
+D4
+~
+~
+0 0 8872
+D5
+~
+~
+0 0 8875
+S
+#8888
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8889
+D1
+~
+~
+0 0 8884
+D2
+~
+~
+0 0 8887
+D3
+~
+~
+0 0 8889
+D4
+~
+~
+0 0 8870
+D5
+~
+~
+0 0 8868
+S
+#8889
+0 0
+~
+~
+~
+0 0 0
+Toranal's Trap~
+You are wandering around in a black haze.  Thin gray stripes of mist
+float by you, and they are the only sign of any navigability in this
+foul, wretched place.
+~
+0 AHT 9
+0
+~
+I 0 D0
+~
+~
+0 0 8865
+D1
+~
+~
+0 0 8888
+D2
+~
+~
+0 0 8884
+D3
+~
+~
+0 0 8886
+D4
+~
+~
+0 0 8890
+D5
+~
+~
+0 0 8872
+S
+#8890
+40 250
+~
+~
+~
+0 0 0
+Toranal's Dais~
+You are standing on a small gray-black platform hovering over the hazy
+construct of a maze that you just emerged from.  The platform is filled
+with clothing, books, and weaponry...it looks as if someone has just
+recently been here.
+~
+0 ADHJN 0
+0
+~
+I 0 D0
+~
+~
+0 0 8853
+D5
+~
+~
+0 0 8889
+S
+#8891
+0 100
+~
+~
+~
+0 0 0
+Nothing Circle~
+True to its name, there's not much here.  You can see a gallows and the
+center of the town to your south, and a few residential apartments in
+this sector.
+~
+0 HN 1
+0
+~
+I 0 D0
+~
+door~
+1 0 8894
+D1
+~
+door~
+1 0 8892
+D2
+~
+~
+0 0 8852
+D3
+~
+door~
+1 0 8893
+S
+#8892
+0 0
+~
+~
+~
+0 0 0
+A Residence~
+This house is totally empty save for an old heavy oak chair covered with
+dust and grime.  It doesn't look like anyone's set foot here in decades.
+~
+0 HN 0
+0
+~
+I 0 D3
+~
+door~
+1 0 8891
+S
+#8893
+0 0
+~
+~
+~
+0 0 0
+A Residence~
+This old house looks as if it's been vacant for centuries.  Even the
+gray dust has turned black from moisture and soot absorption.  Walking
+any further into this house would be pointless, save to dirty your armor.
+~
+0 HN 0
+0
+~
+I 0 D1
+~
+door~
+1 0 8891
+S
+#8894
+0 0
+~
+~
+~
+0 0 0
+A Residence~
+Apparently, someone lives here -- or used to live here.  Layers upon
+layers of dust coat the unused furniture littering the room here.
+Age-old items of junk are strewn about on the floor, as if the
+occupants were seized suddenly.
+~
+0 HN 0
+0
+~
+I 0 D2
+~
+door~
+1 0 8891
+S
+#8895
+0 0
+~
+~
+~
+0 0 0
+Black Rider Tavern~
+Black Rider Tavern is surprisingly full of people.  If you hadn't known
+better you would have guessed that this town was completely abandoned.  In
+the corner, a group of men drink and toss darts at a wall, and in the
+center of the room a bartender wipes a glass to a semiclean state before
+continuing to fill orders.
+~
+0 HN 0
+0
+~
+I 0 D3
+~
+~
+0 0 8851
+S
+#8896
+0 0
+~
+~
+~
+0 0 0
+Ill Gotten Saloon~
+Ill Gotten Saloon looks as if it lives up to its name.  Coffins seem to
+be (for sale?) in the corner of the room, as well as nooses and other various
+assorted items of death.  People scattered around the room play cards or snore
+into puddles of spilled ale on the table.
+~
+0 HN 0
+0
+~
+I 0 D1
+~
+~
+0 0 8851
+S
+#8897
+0 0
+~
+~
+~
+0 0 0
+Nowhere Pharmacy~
+You are in a pure white room, a big gap from the dusty outside that you've
+just come in from.  Rows and rows of ointments, leaves, and balms line the
+walls here, and the proprietor waves that he'll be right with you as he
+finishes pouring something into a large cauldron.
+~
+0 HN 0
+0
+~
+I 0 D3
+~
+~
+0 0 8852
+S
+#8898
+0 300
+~
+~
+~
+0 0 0
+Conlin's Garden~
+Conlin's Garden is the only place close to here that isn't dust-soaked,
+doesn't reek of death and is actually well-kept and maintained.  Conlin
+himself can be found here, tendering his plants for sale to the remaining
+community.
+~
+0 DHNX 0
+0
+~
+I 0 D1
+~
+~
+0 0 8852
+S
+#0
+
+#RESETS
+D 0 8852   4    1	* The Middle of Nowhere [up]
+D 0 8853   5    1	* Hazy Mist [down]
+D 0 8891   0    1	* Nothing Circle [north]
+D 0 8891   1    1	* Nothing Circle [east]
+D 0 8891   3    1	* Nothing Circle [west]
+D 0 8892   3    1	* A Residence [west]
+D 0 8893   1    1	* A Residence [east]
+D 0 8894   2    1	* A Residence [south]
+M 0 8821   1 8800  1	* A waste dweller
+E 0 8821   -1    5	* item to A waste dweller
+M 0 8810   1 8802  1	* An armadillo
+E 0 8820   -1    5	* item to An armadillo
+M 0 8811   3 8804  3	* A sand wanderer
+M 0 8821   1 8805  1	* A waste dweller
+E 0 8821   -1    5	* item to A waste dweller
+M 0 8812   1 8806  1	* A lone wanderer
+M 0 8810   1 8807  1	* An armadillo
+E 0 8800   -1    5	* item to An armadillo
+M 0 8810   1 8808  1	* An armadillo
+E 0 8820   -1    5	* item to An armadillo
+M 0 8820   1 8808  1	* The sandman
+M 0 8811   3 8809  3	* A sand wanderer
+M 0 8812   1 8817  1	* A lone wanderer
+M 0 8821   1 8831  1	* A waste dweller
+M 0 8813   1 8832  1	* A bandit
+M 0 8812   1 8834  1	* A lone wanderer
+M 0 8813   1 8837  1	* A bandit
+M 0 8818   1 8839  1	* The spellsword
+M 0 8819  10 8840  2	* A roadassassin
+E 0 8841   -1   16	* item to A roadassassin
+M 0 8819  10 8841  2	* A roadassassin
+E 0 8841   -1   16	* item to A roadassassin
+M 0 8819  10 8846  2	* A roadassassin
+E 0 8841   -1   16	* item to A roadassassin
+M 0 8804   3 8847  3	* A citizen from nowhere
+O 0 8800   0 8848 -1	* An oaken sign at Entrance to Nowhere
+M 0 8801   1 8853  1	* Minion of the mist
+M 0 8802   1 8858  1	* The mistwraith
+E 0 8842   -1   16	* item to The mistwraith
+M 0 8801   1 8859  1	* Minion of the mist
+M 0 8801   1 8861  1	* Minion of the mist
+M 0 8802   1 8865  1	* The mistwraith
+E 0 8842   -1   16	* item to The mistwraith
+M 0 8822   1 8865  1	* The mistwarrior
+E 0 8842   -1   16	* item to The mistwarrior
+M 0 8822   1 8889  1	* The mistwarrior
+E 0 8842   -1   16	* item to The mistwarrior
+M 0 8800   1 8890  1	* Toranal
+E 0 8845   -1    3	* item to Toranal
+E 0 8845   -1    4	* item to Toranal
+E 0 8815   -1   16	* item to Toranal
+E 0 8812   -1    0	* item to Toranal
+E 0 8839   -1   14	* item to Toranal
+E 0 8840   -1   15	* item to Toranal
+E 0 8838   -1   11	* item to Toranal
+E 0 8816   -1    1	* item to Toranal
+E 0 8816   -1    2	* item to Toranal
+E 0 8814   -1   17	* item to Toranal
+E 0 8813   -1    6	* item to Toranal
+E 0 8811   -1    9	* item to Toranal
+E 0 8810   -1   13	* item to Toranal
+E 0 8809   -1    5	* item to Toranal
+E 0 8808   -1   10	* item to Toranal
+E 0 8807   -1    7	* item to Toranal
+E 0 8806   -1   12	* item to Toranal
+E 0 8805   -1    8	* item to Toranal
+G 0 8843 -1		* A leather-hilted mica dagger to Toranal
+M 0 8805   7 8891  7	* A tumbleweed
+M 0 8805   7 8891  7	* A tumbleweed
+M 0 8804   3 8892  3	* A citizen from nowhere
+M 0 8804   3 8894  3	* A citizen from nowhere
+M 0 8806   3 8895  3	* A saloon patron
+M 0 8808   1 8895  1	* The bartender
+G 0 8826 -1		* `da shot glass of`a "`bwake-up juice`a"`` to The bartender
+G 0 8825 -1		* A black mug filled with toranal's tribute to The bartender
+G 0 8824 -1		* A glass mug of devil's brew to The bartender
+G 0 8823 -1		* A pewter mug of ale to The bartender
+M 0 8807   2 8896  2	* A saloon patron
+M 0 8809   1 8896  1	* The saloonkeeper
+G 0 8831 -1		* A wanted poster bearing toranal's picture to the saloonkeeper
+G 0 8832 -1		* A flyer concerning the evils of swordplay and violence to the saloonkeeper
+G 0 8833 -1		* A frontier holy book to the saloonkeeper
+G 0 8801 -1		* Gavelro's solution to toranal's trap to the saloonkeeper
+G 0 8802 -1		* Makchilsde's solution to toranal's trap to the saloonkeeper
+G 0 8803 -1		* Crowley's solution to toranal's trap to the saloonkeeper
+G 0 8804 -1		* Denver's solution to toranal's trap to the saloonkeeper
+M 0 8817   1 8897  1	* The pharmacist
+G 0 8827 -1		* `ogavelro's medicine`` to The pharmacist
+G 0 8828 -1		* `kmakchilsde's medicine`` to The pharmacist
+G 0 8829 -1		* `bcrowley's medicine`` to The pharmacist
+G 0 8830 -1		* `jdenver's medicine`` to The pharmacist
+M 0 8816   1 8898  1	* Conlin
+O 0 8837   0 8898 -1	* A natural well at Conlin's Garden
+M 0 8815   5 8823  1	* A lone swordsman
+E 0 8846   -1    9	* item to A lone swordsman
+M 0 8815   5 8801  1	* A lone swordsman
+E 0 8844   -1   13	* item to A lone swordsman
+M 0 8823   5 8806  1	* A lone swordsman
+E 0 8847   -1   11	* item to A lone swordsman
+M 0 8823   5 8810  1	* A lone swordsman
+M 0 8823   5 8811  1	* A lone swordsman
+M 0 8823   5 8812  1	* A lone swordsman
+M 0 8823   5 8813  1	* A lone swordsman
+M 0 8815   5 8814  1	* A lone swordsman
+M 0 8815   5 8815  1	* A lone swordsman
+M 0 8815   5 8816  1	* A lone swordsman
+S
+
+#SHOPS
+8808 10  0  0  0  0 	110  15 	0 23	* The bartender
+8809  2  0  0  0  0 	100 100 	0 23	* the saloonkeeper
+8816  2  0  0  0  0 	110   0 	0 23	* Conlin
+8817 26  0  0  0  0 	110  10 	0 23	* The pharmacist
+0
+
+#SPECIALS
+M 8800 spec_cast_undead		* Toranal
+M 8806 spec_cast_judge		* A saloon patron
+M 8807 spec_cast_judge		* A saloon patron
+M 8813 spec_nasty		* A bandit
+M 8816 spec_cast_adept		* Conlin
+M 8818 spec_cast_mage		* The Spellsword
+M 8819 spec_nasty		* A roadassassin
+M 8821 spec_poison		* A waste dweller
+M 8822 spec_cast_undead		* The mistwarrior
+S
+
+#OT
+#8848
+disorientation~
+$entersroom~
+1
+71
+disorient $randpc 1~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+50
+#0
+#$

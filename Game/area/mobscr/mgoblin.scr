@@ -1,0 +1,30 @@
+* File: Tylor.scr
+* Mob: Captain Tylor (mob 14000)
+
+#TRIGGER born
+Type 4
+Sc
+  let %popthekey% == 1
+  signal 14000 doyouhavekey
+  halt once~
+End
+
+*#TRIGGER keyreturned
+*Type 8
+*Sc
+*if ( %keyreturned-arg% cmp "keyreturned" )
+*  cmd at 1 remove metal
+*  cmd at 1 eat metal
+*  let %popthekey% == 0
+*  halt once~
+*End
+
+#TRIGGER IsQuestDone
+Type 8
+Sc
+if ( %popthekey% == 0)
+  signal 14000 QuestIsDone
+  halt once~
+End
+
+#END

@@ -1,6 +1,9 @@
-﻿namespace ExodusMudClient.Data.Game {
-    public class Enums {
-        public enum PositionType {
+﻿namespace ExodusMudClient.Data.Game
+{
+    public static class Enums
+    {
+        public enum PositionType
+        {
             Dead = 0,
             Mortal = 1,
             Incap = 2,
@@ -18,7 +21,8 @@
             Milling = 14,
             Carving = 15
         }
-        public enum SexType {
+        public enum SexType
+        {
             None,
             Male,
             Female,
@@ -26,7 +30,8 @@
             Neutral
         }
 
-        public enum DamageType {
+        public enum DamageType
+        {
             None = 0,
             Bash = 1,
             Pierce = 2,
@@ -55,8 +60,19 @@
             Wind = 24
         }
 
-
-        public enum ItemType {
+        public static ItemType ItemLookup(string name)
+        {
+            foreach (ItemType itemType in Enum.GetValues(typeof(ItemType)))
+            {
+                if (string.Equals($"ITEM_{name.ToUpper()}", itemType.ToString(), StringComparison.OrdinalIgnoreCase))
+                {
+                    return itemType;
+                }
+            }
+            return ItemType.ITEM_LIGHT;
+        }
+        public enum ItemType
+        {
             ITEM_LIGHT,
             ITEM_SCROLL,
             ITEM_WAND,
@@ -120,7 +136,8 @@
         }
 
         [Flags]
-        public enum AffectedByFlags {
+        public enum AffectedByFlags
+        {
             AFF_BLIND = 1 << 0,          // 1
             AFF_INVISIBLE = 1 << 1,      // 2
             AFF_DETECT_EVIL = 1 << 2,    // 4
@@ -155,7 +172,8 @@
         }
 
         [Flags]
-        public enum ActFlags : long {
+        public enum ActFlags : long
+        {
             ACT_IS_NPC = 1L << 0,
             ACT_SENTINEL = 1L << 1,
             ACT_SCAVENGER = 1 << 2,      // Picks up objects

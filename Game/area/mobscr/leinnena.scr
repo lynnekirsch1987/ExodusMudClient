@@ -1,0 +1,13 @@
+* File: leinenna.scr
+* Mob: Leinenna(11370)
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc %combat-from% %name% name
+  cmd shout Ah, visitors!
+  cmd shout Stay a while, %name%, stay FOREVER!
+  halt all~
+End
+
+#END

@@ -1,0 +1,23 @@
+* File: fwitch.scr
+* Mob: Witch(12941)
+
+#TRIGGER wandme
+Type 5
+Sc
+mfunc %wandme-from% %name% name
+ofunc %wandme-arg% %what% vnum
+if ( %what% == 12931 ) 
+say Thank you! Thank you!
+hug %name%
+c 'giant str' %name%
+halt once~
+Sc
+cmd cry
+wait 2~
+Sc
+say No, no, no...This isn't right!
+c 'weaken' %name%
+~
+End
+
+#END

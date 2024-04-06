@@ -1,0 +1,2555 @@
+#AREA
+ 6~
+warped.are~
+`c0o`kWarped`co`kLands`co0``~
+{70 90} Iverath  `c0o`kWarped`co`kLands`co0``~
+~
+6902 6972
+20 B 0
+0 0
+~
+#MOBILES
+#6902
+warped man features changing `bMAGE``~
+A warped man~
+`bWhat was once a man hobbles around here, features bubbling and changing.``
+~
+`aColorshifting and shapechanging skin loosely covers the rotting being
+within.  Once a man, this person has been transformed by the chaotic magic
+that runs through this wicked place.  The warped human struggles towards
+you, its mouth yawning open in a soundless groan.  `` 
+~
+human~
+0 0 0 0
+AFGOR UVZ -1000 0
+80 70 10000d1+1 3000d1+1 20d20+10 wrath
+-10 -10 -10 999 -10
+QVW 60 5 AF AB LPQ K
+stand stand male 1000
+ABHMV ABCDEFGHIJKa 20 3 3 15 12 3 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#6903
+warped man features changing `kNECRO``~
+A warped man~
+`bWhat was once a man hobbles around here, features bubbling and changing.``
+~
+`aColorshifting and shapechanging skin loosely covers the rotting being
+within.  Once a man, this person has been transformed by the chaotic magic
+that runs through this wicked place.  The warped human struggles towards
+you, its mouth yawning open in a soundless groan.  `` 
+~
+human~
+0 0 0 0
+AFGO UVZ -1000 0
+80 70 10000d1+1 3000d1+1 20d20+20 wrath
+-10 -10 -10 999 -10
+IQVW 60 5 AF AB LPQ K
+stand stand male 1000
+ABHMV ABCDEFGHIJKa 20 3 3 15 15 3 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#6904
+warped man features changing `iWARRIOR``~
+A warped man~
+`bWhat was once a man hobbles around here, features bubbling and changing.``
+~
+`aColorshifting and shapechanging skin loosely covers the rotting being
+within.  Once a man, this person has been transformed by the chaotic magic
+that runs through this wicked place.  The warped human struggles towards
+you, its mouth yawning open in a soundless groan.  `` 
+~
+human~
+0 0 0 0
+AFGOT UVZ -1000 0
+80 70 10000d1+1 3000d1+1 20d20+20 wrath
+-10 -10 -10 999 -10
+VW 60 5 AF AB LPQ K
+stand stand male 1000
+ABHMV ABCDEFGHIJKa 20 3 3 15 15 3 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#6905
+warped child~
+A warped child~
+`bTwisted arms and legs struggle as this warped child tries to get up from the floor.``
+~
+`aThis an empty look on its face, this child struggles -- without a sound
+-- to get up.  Its limbs are an everchanging mass of flesh, twisted and
+contorted by the vile magic of this place.  `` 
+~
+human~
+0 0 0 0
+AO U -1000 0
+60 20 4000d1+4 1d1+5 10d5+10 none
+10 10 10 999 10
+NW 60 4 0 Ba 0 E
+stand sit none 0
+ABHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+small oldstyle~
+0 0 0 100
+4
+~
+~
+#6906
+warped musician~
+A warped musician~
+`bA four-armed abomination of a woman plays a sad melody on a harp grafted to her arm.``
+~
+`aSporting four arms, one which is melded together with a harp, a warped
+woman wanders about aimlessly here.  She plucks demonic tones, sending them
+floating over the diseased surroundings.  `` 
+~
+human~
+0 0 0 0
+AFO PTUZc -1000 0
+80 77 10000d1+1 1000d1+1 20d20+20 slime
+10 -20 -20 999 10
+VW 60 4 AEF Bab T G
+stand stand female 2000
+ABHMV ABCDEFGHIJKa 16 3 3 16 16 19 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#6907
+undead being chaos chaoticbeing~
+A being of chaos~
+`bAn undead being writhes here, filled to the brim by corrupting chaos magic.``
+~
+`aA large two-legged being is here.  Its rotting flesh bubbles and
+hisses, emitting toxic fumes and lumpy white pus.  The many eyes stare
+unblinking in all directions and its teeth clatter as the chaotic beings
+mouth is opening and closing in sudden spasms.  Its many tentacles are
+tipped by poison stingers that all coil up in readiness as you approach.  ``
+~
+human~
+0 0 0 0
+ABFO UZ -1000 0
+90 100 20000d1+2222 5000d1+1 20d20+30 slime
+-5 -5 -5 999 5
+ADIW 60 6 FK ABUabc LQ HMN
+stand stand neutral 20000
+ABHMV ABCDEFGHIJKa 25 3 3 21 17 3 0
+large oldstyle~
+0 0 0 100
+4
+~
+~
+#6908
+creature warped mosscreature~
+A warped moss creature~
+`bA creature made of spider leg moss crawls around here like a giant slug.``
+~
+`aA pulsing mass consisting of spider leg moss slurps around here,
+feeling for a victim to consume.  As it draws near, the surrounding moss
+quivers, as if being a part of this creatures sensory system.  `` 
+~
+dog~
+0 0 0 0
+AFO IZ -1000 0
+50 40 2000d1+1 1d1+1 10d10+10 slime
+10 10 10 999 10
+W 60 2 FH ab 0 0
+stand stand neutral 0
+AGV ACDEFHJKUVa 10 3 3 10 10 3 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#6902
+hut abandoned~
+an abandoned hut~
+A twitching black moss has covered an entire hut here.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+Taking great care not to touch the twitching black moss, $n enters the hut.~
+Trying to not get too close to the strange moss, you enter.~
+$n ducks into the hut.~
+~
+-1 0 G BCFIJLM A
+0
+0
+10 0 1 P
+#6903
+hut~
+a doorway~
+Overturned and splintered furniture lies along the walls.~
+air~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n rushes out of the hut.~
+You exit the confined hut.~
+With a sickened look on $s face, $n steps out of the hut.~
+~
+-1 0 G BCEIJLM B
+0
+0
+10 0 1 P
+#6904
+trap~
+Avatar Trap(tm)~
+Avatar Trap(tm)~
+unknown~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF CDFI B BEF 0
+ADE
+0 0 ABDE 0 0 0 0 
+100 0 0 P
+E
+victmessage~
+`bPains grips your entire body as a large log smacks you square in the chest.``
+~
+E
+specmessage~
+`bA huge log slices through the air, hitting $n square in the chest knocking $m back.``
+~
+#6905
+collapsed stone wall~
+a collapsed stone wall~
+A collapsed stone wall fights a losing battle with the onslaught of the spider leg moss.~
+stone~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#6906
+blinding colors swirling chaotic~
+a swirling portal~
+Blinding colors swirl in mid-air here. You can feel the chaotic magic emanating from it.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 0 0 0
+0
+0
+10 0 0 P
+#6907
+pill rememberance~
+a pill of rememberance~
+A translucent red pill lies here.~
+food~
+0
+pill 2
+QS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+EG 'Kiss of First Love' 'Kiss of First Love' 'reserved' 'reserved'
+0
+0
+70 0 10000 P
+#6908
+black scroll~
+a black scroll~
+A black scroll lies here, held together by a leather band.~
+paper~
+0
+scroll 2
+SY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+EG 'acid blast' 'blindness' 'fireball' 'reserved'
+0
+0
+80 0 50000 P
+A
+12 50
+#6909
+scroll death~
+scroll of death~
+A red scroll lies here, reeking of blood and death.~
+paper~
+0
+scroll 2
+SY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+EG 'seizure' 'skeletal mutation' 'vomit' 'reserved'
+0
+0
+80 0 50000 P
+A
+13 -50
+#6910
+squirrels ring~
+squirrel's ring~
+A ring with the insignia of a squirrel is here.~
+gold~
+0
+jewelry 2
+S
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 10000 P
+S
+ 6 199 0 -1 25 'armor' 0
+A
+2 1
+#6911
+squealing dying animal~
+a dying animal~
+A squealing animal struggles as spider leg moss slowly consumes it.~
+flesh~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#6912
+OT object trigger~
+`bOT - chaos being``~
+`bOT - chaos being``~
+unknown~
+0
+trash 2
+NRSTYa
+E
+0
+0
+0
+0
+6912
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#6913
+tainted blessed armbands~
+a pair of tainted, blessed armbands~
+The blessings of these bracers has somehow endured the onslaught of warped magic.~
+hard leather~
+0
+armor 2
+KLSY
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CD CD CD D 0
+0
+0
+80 90 50000 P
+A
+13 20
+S
+ 6 324 0 -1 20 'death shroud' 0
+A
+18 3
+A
+19 3
+#6914
+moss trap~
+a moss trap~
+A moss trap is here, assuring that travelling through this area wont be too frikken easy.~
+unknown~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABDF BEF B CE 0
+AE
+0 0 B 0 0 0 FH 
+90 0 0 P
+E
+victmessage~
+`bYour feet sink down into the biting spider leg moss!``
+~
+E
+specmessage~
+`b$n's feet sink down into the moss!``
+~
+#6915
+mushroom spore trap spherical~
+a spherical mushroom~
+A spore trap is here, disorienting groups of unwary walkers.~
+unknown~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF CE ABD ACD 0
+E
+0 0 B 0 0 0 DJ 
+20 0 0 P
+E
+victmessage~
+`bYou step on a round mushroom and spores shoot forth!``
+~
+E
+specmessage~
+`b$n steps on a spherical mushroom and a cloud of spores shoot forth!``
+~
+#6916
+portal cjportal~
+a swirling portal~
+A portal of swirling colors hover in the air before you.~
+air~
+0
+portal 2
+QRSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 G BDEIJLN A
+0
+0
+10 0 0 P
+#6917
+multicolored dice~
+`ba pair of multi-colored dice``~
+A pair of multi-colored dice lies here.~
+unknown~
+0
+weapon 2
+SY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CD ABE AB AF C
+B
+0
+90 10 23000 P
+A
+13 30
+A
+19 4
+A
+18 6
+#6962
+bolt lightning fork azladack~
+`oA `kJ`oa`kgg`oe`kd `oF`ko`ork of `kL`oi`kghtn`oi`kng``~
+A bolt of lightning shimmers and crackles here.~
+unknown~
+100
+weapon 2
+AEHRYZc
+AB
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 BEF A 0 DEG
+0
+0
+1 0 0 P
+A
+13 100
+A
+17 -100
+A
+19 50
+A
+18 50
+#6971
+ice cream mint chocolate cookie~
+`ga bowl of `cM`ji`cn`jt `dchocolate `hc`oo`ho`ok`hi`oe `gice cream``~
+A bowl of yummy looking ice cream is starting to melt here~
+unknown~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD AC 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#6902
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss, that
+looks like a great mass of twitching spider legs.   It covers everything
+in sight, even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them.   This place is cursed, that is
+as plain as day, but where does this curse originate?``
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6903
+D1
+~
+~
+0 0 10626
+D2
+~
+~
+0 0 10622
+D3
+~
+~
+0 0 10620
+S
+#6903
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6904
+D1
+~
+~
+0 0 6908
+D2
+~
+~
+0 0 6902
+D3
+~
+~
+0 0 10621
+S
+#6904
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6905
+D1
+~
+~
+0 0 6907
+D2
+~
+~
+0 0 6903
+S
+#6905
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6906
+D2
+~
+~
+0 0 6904
+S
+#6906
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6909
+D2
+~
+~
+0 0 6907
+D3
+~
+~
+0 0 6905
+S
+#6907
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6906
+D1
+~
+~
+0 0 6910
+D2
+~
+~
+0 0 6908
+D3
+~
+~
+0 0 6904
+S
+#6908
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6907
+D1
+~
+~
+0 0 10631
+D2
+~
+~
+0 0 10626
+D3
+~
+~
+0 0 6903
+S
+#6909
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6912
+D2
+~
+~
+0 0 6910
+D3
+~
+~
+0 0 6906
+S
+#6910
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6909
+D1
+~
+~
+0 0 6911
+D2
+~
+~
+0 0 10631
+D3
+~
+~
+0 0 6907
+S
+#6911
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6912
+D1
+~
+~
+0 0 6919
+D2
+~
+~
+0 0 10632
+D3
+~
+~
+0 0 6910
+S
+#6912
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6913
+D1
+~
+~
+0 0 6918
+D2
+~
+~
+0 0 6911
+D3
+~
+~
+0 0 6909
+S
+#6913
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6914
+D1
+~
+~
+0 0 6917
+D2
+~
+~
+0 0 6912
+D3
+~
+~
+0 0 6915
+S
+#6914
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6916
+D2
+~
+~
+0 0 6913
+S
+#6915
+0 0
+~
+~
+~
+0 1024 0
+AVATAR DEATH~
+`aTwo moss-covered trees stands here, nearly dead.  An old hunter's bear
+trap is made apparent by a rope strung between the two trees.  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6913
+S
+#6916
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6920
+D2
+~
+~
+0 0 6917
+D3
+~
+~
+0 0 6914
+S
+#6917
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6916
+D2
+~
+~
+0 0 6918
+D3
+~
+~
+0 0 6913
+S
+#6918
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6917
+D1
+~
+~
+0 0 6924
+D2
+~
+~
+0 0 6919
+D3
+~
+~
+0 0 6912
+S
+#6919
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6918
+D1
+~
+~
+0 0 6925
+D2
+~
+~
+0 0 10641
+D3
+~
+~
+0 0 6911
+S
+#6920
+0 0
+~
+~
+~
+0 0 0
+`bBefore a Mountain Trail``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6921
+D1
+~
+~
+0 0 6931
+D3
+~
+~
+0 0 6916
+S
+#6921
+0 0
+~
+~
+~
+0 576 0
+`bThe Cursed Trail``~
+`aThe very air seems to resonate with the chaotic magic that has been let
+loose on this continent.  The trail before you is twisting and turning
+before your eyes, making it hard to understand in which direction to go.  ``
+~
+0 N 5
+0
+~
+I 0 D1
+~
+~
+0 0 6922
+D2
+~
+~
+0 0 6920
+S
+#6922
+0 0
+~
+~
+~
+0 576 0
+`bThrough a Gap in the Mountain``~
+`aThe very air seems to resonate with the chaotic magic that has been let
+loose on this continent.  The trail before you is twisting and turning
+before your eyes, making it hard to understand in which direction to go.  ``
+~
+0 N 5
+0
+~
+I 0 D1
+~
+~
+0 0 6923
+D3
+~
+~
+0 0 6921
+S
+#6923
+0 0
+~
+~
+~
+0 576 0
+`bA Circle of Glass Pillars``~
+`aSeven completely translucent glass pillars stand in a circle around a
+square hole in the ground.  You see stairs leading underground, but as you
+draw closer you can see a magical barrier covering it, preventing any
+entrance, or exit.  `` 
+~
+0 N 5
+0
+~
+I 0 D3
+~
+~
+0 0 6922
+D5
+~
+~
+0 0 9935
+S
+#6924
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6929
+D2
+~
+~
+0 0 6925
+D3
+~
+~
+0 0 6918
+S
+#6925
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6924
+D1
+~
+~
+0 0 6926
+D2
+~
+~
+0 0 10642
+D3
+~
+~
+0 0 6919
+S
+#6926
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6929
+D1
+~
+~
+0 0 6935
+D2
+~
+~
+0 0 6927
+D3
+~
+~
+0 0 6925
+S
+#6927
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6926
+D1
+~
+~
+0 0 10653
+D2
+~
+~
+0 0 6928
+D3
+~
+~
+0 0 10642
+S
+#6928
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6927
+D1
+~
+~
+0 0 10652
+D2
+~
+~
+0 0 10648
+D3
+~
+~
+0 0 10643
+S
+#6929
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6930
+D1
+~
+~
+0 0 6934
+D2
+~
+~
+0 0 6926
+D3
+~
+~
+0 0 6924
+S
+#6930
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6931
+D1
+~
+~
+0 0 6933
+D2
+~
+~
+0 0 6929
+S
+#6931
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6932
+D2
+~
+~
+0 0 6930
+D3
+~
+~
+0 0 6920
+S
+#6932
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D1
+~
+~
+0 0 6936
+D2
+~
+~
+0 0 6933
+D3
+~
+~
+0 0 6931
+S
+#6933
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6932
+D1
+~
+~
+0 0 6937
+D2
+~
+~
+0 0 6934
+D3
+~
+~
+0 0 6930
+S
+#6934
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6933
+D1
+~
+~
+0 0 6938
+D2
+~
+~
+0 0 6935
+D3
+~
+~
+0 0 6929
+S
+#6935
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6934
+D1
+~
+~
+0 0 6939
+D2
+~
+~
+0 0 10653
+D3
+~
+~
+0 0 6926
+S
+#6936
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D2
+~
+~
+0 0 6937
+D3
+~
+~
+0 0 6932
+S
+#6937
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6936
+D1
+~
+~
+0 0 6943
+D2
+~
+~
+0 0 6938
+D3
+~
+~
+0 0 6933
+S
+#6938
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6937
+D1
+~
+~
+0 0 6944
+D2
+~
+~
+0 0 6939
+D3
+~
+~
+0 0 6934
+S
+#6939
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6938
+D1
+~
+~
+0 0 6945
+D2
+~
+~
+0 0 6940
+D3
+~
+~
+0 0 6935
+S
+#6940
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6939
+D1
+~
+~
+0 0 10660
+D2
+~
+~
+0 0 6941
+D3
+~
+~
+0 0 10653
+S
+#6941
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6940
+D1
+~
+~
+0 0 10659
+D2
+~
+~
+0 0 6942
+D3
+~
+~
+0 0 10652
+S
+#6942
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6941
+D1
+~
+~
+0 0 10658
+D2
+~
+~
+0 0 10654
+D3
+~
+~
+0 0 10649
+S
+#6943
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D2
+~
+~
+0 0 6944
+D3
+~
+~
+0 0 6937
+S
+#6944
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6943
+D1
+~
+~
+0 0 6946
+D2
+~
+~
+0 0 6945
+D3
+~
+~
+0 0 6938
+S
+#6945
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6944
+D1
+~
+~
+0 0 6947
+D2
+~
+~
+0 0 10660
+D3
+~
+~
+0 0 6939
+S
+#6946
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6948
+D2
+~
+~
+0 0 6947
+D3
+~
+~
+0 0 6944
+S
+#6947
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 6946
+D1
+~
+~
+0 0 6949
+D2
+~
+~
+0 0 10662
+D3
+~
+~
+0 0 6945
+S
+#6948
+0 0
+~
+~
+~
+0 1024 0
+`bTwisted Fields``~
+`aTwo moss-covered trees stands here, nearly dead.  An old hunter's bear
+trap is made apparent by a rope strung between the two trees.  `` 
+~
+0 T 14
+0
+~
+I 0 D2
+~
+~
+0 0 6946
+S
+#6949
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D2
+~
+~
+0 0 10672
+D3
+~
+~
+0 0 6947
+S
+#6950
+0 0
+~
+~
+~
+0 0 0
+`bInside the Hut``~
+`aThis home is in shambles, the furniture is turned-over and splintered,
+and the remaining pieces are moved about by the invading moss.  Whoever
+lived here got a nasty surprise.  `` 
+~
+0 CD 0
+0
+~
+I 0 S
+#6951
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 10643
+D1
+~
+~
+0 0 10648
+D2
+~
+~
+0 0 10644
+D3
+~
+~
+0 0 10636
+S
+#6952
+0 0
+~
+~
+~
+0 0 0
+`bTwisted Fields``~
+`aThe ground here is covered by a strange undulating black moss`c,`a that
+looks like a great mass of twitching spider legs`c.  `a It covers everything
+in sight`c,`a even the few sickly-looking animals you have seen so far seems
+to have a few tufts of it on them`c.  `a This place is cursed`c,`a that is
+as plain as day`c,`a but where does this curse originate?  `` 
+~
+0 T 14
+0
+~
+I 0 D0
+~
+~
+0 0 10632
+D1
+~
+~
+0 0 10640
+D2
+~
+~
+0 0 10633
+D3
+~
+~
+0 0 10627
+S
+#0
+
+#RESETS
+O 0 6902   0 6934 -1	* An abandoned hut at `bTwisted Fields``
+O 0 6903   0 6950 -1	* A doorway at `bInside the Hut``
+M 0 6905   1 6950  1	* A warped child
+O 0 6904   0 6915 -1	* Avatar trap(tm) at AVATAR DEATH
+O 0 6904   0 6948 -1	* Avatar trap(tm) at `bTwisted Fields``
+O 0 6905   0 6942 -1	* A collapsed stone wall at `bTwisted Fields``
+O 0 6905   0 6941 -1	* A collapsed stone wall at `bTwisted Fields``
+O 0 6905   0 6940 -1	* A collapsed stone wall at `bTwisted Fields``
+O 0 6905   0 6945 -1	* A collapsed stone wall at `bTwisted Fields``
+O 0 6905   0 6919 -1	* A collapsed stone wall at `bTwisted Fields``
+O 0 6905   0 6910 -1	* A collapsed stone wall at `bTwisted Fields``
+O 0 6906   0 6916 -1	* A swirling portal at `bTwisted Fields``
+O 0 6906   0 6931 -1	* A swirling portal at `bTwisted Fields``
+M 0 6904   3 6904  1	* A warped man
+E 0 6910   -1    2	* item to A warped man
+M 0 6904   3 6926  1	* A warped man
+E 0 6910   -1    2	* item to A warped man
+M 0 6904   3 6949  1	* A warped man
+E 0 6910   -1    2	* item to A warped man
+M 0 6902   3 6944  1	* A warped man
+E 0 6908   -1   18	* item to A warped man
+M 0 6902   3 6909  1	* A warped man
+E 0 6908   -1   18	* item to A warped man
+M 0 6902   3 6914  1	* A warped man
+E 0 6908   -1   18	* item to A warped man
+M 0 6903   3 6918  1	* A warped man
+E 0 6909   -1   18	* item to A warped man
+M 0 6903   3 6936  1	* A warped man
+E 0 6909   -1   18	* item to A warped man
+M 0 6903   3 6952  1	* A warped man
+E 0 6909   -1   18	* item to A warped man
+O 0 6911   0 6951 -1	* A dying animal at `bTwisted Fields``
+O 0 6914   0 6933 -1	* A moss trap at `bTwisted Fields``
+O 0 6914   0 6917 -1	* A moss trap at `bTwisted Fields``
+O 0 6915   0 6927 -1	* A spherical mushroom at `bTwisted Fields``
+M 0 6906   3 6928  1	* A warped musician
+G 0 6907 -1		* A pill of rememberance to A warped musician
+E 0 6917   -1   18	* item to A warped musician
+M 0 6906   3 6908  1	* A warped musician
+G 0 6907 -1		* A pill of rememberance to A warped musician
+E 0 6917   -1   18	* item to A warped musician
+M 0 6906   3 6930  1	* A warped musician
+G 0 6907 -1		* A pill of rememberance to A warped musician
+E 0 6917   -1   18	* item to A warped musician
+M 0 6907   1 6920  1	* A being of chaos
+G 0 6912 -1		* `bot - chaos being`` to A being of chaos
+G 0 6916 -1		* A swirling portal to A being of chaos
+E 0 6913   -1   10	* item to A being of chaos
+G 0 14118 -1		* `ha small `ngem `hentrapping `idharkkums `hsoul`` to A being of chaos
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 6906 spec_bard		* A warped musician
+M 6908 spec_poison		* A warped moss creature
+S
+
+#OT
+#6912
+`c0o`kWarped`co`kLands`co0`` -`b Chaotic being``~
+$chance_on_round~
+256
+34
+force chaoticbeing emote slams its tentacles into the ground!~
+100
+0
+damage $randpc `bThe ground heaves and throws you to the ground!``~
+100
+0
+load mob 6908~
+100
+0
+force mosscreature emote crawls out of the ground.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+6
+#0
+#$

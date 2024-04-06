@@ -1,0 +1,3406 @@
+#AREA
+ 6~
+misty.are~
+`lThe Flower Garden``~
+{35 50} Misty  `lThe Flower Garden``~
+garden~
+27001 27069
+20 0 4232
+0 0
+Helenium~
+#MOBILES
+#27001
+master gardener~
+`jA Master Gardener``~
+The Master Gardener wanders about the gardens, admiring his creative designs. 
+~
+The Master Gardener wanders about the gardens, admiring his creative
+designs.  He constantly calls out commands to his apprentices, so that they
+can continue their work.  He will pluck any weed that dared to grow in his
+place of worship.  Worn gloves and dirty knees attest to his work in this
+place.  
+~
+human~
+0 0 0 0
+AGW N 600 0
+48 48 1800d3+0 6000d3+0 5d23+0 thwack
+-1 0 0 999 0
+0 -1 J QX QSX CHK
+stand stand male 300
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium oldstyle~
+0 3 150 1000
+6
+~
+~
+#27002
+weedpuller apprentice~
+`jA Gardener's Apprentice``~
+A Gardener's Apprentice scurries to pull some weeds, before he is caught slacking.
+~
+This young man has rings of sweat and dirt from working out in the hot
+sun.  His clothes are well-worn from much use and many washings.  A harried
+look is upon his face, for his taskmaster is very strict and unrelenting in
+his requirements of an apprentice.  As he carries some weeds just plucked,
+he eyes the sky to determine the weather and how it will affect the garden. 
+~
+human~
+0 0 0 0
+AGNW A 800 0
+46 46 900d3+0 6000d3+0 5d20+0 thwack
+-1 0 0 999 0
+0 -1 0 BT IO CL
+stand stand male 90
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium oldstyle~
+0 0 0 1000
+5
+~
+~
+#27003
+devotee shrine~
+`lDevotee of the Shrine``~
+The devotee of the shrine makes sure all is perfect for their deity.
+~
+This devoted soul is constantly returning to the shrine of their beloved
+deity.  Wide, glazed eyes show that this person is slightly off-kilter in
+their mind.  Their clothes are worn haphazardly, as if they didn't even
+bother to check to see if they matched.  Any sane person would give this
+person a wide berth, as there is no telling what they might do!  
+~
+human~
+0 0 0 0
+ABNc d 500 0
+44 44 1500d3+0 6000d3+0 5d20+0 shock
+0 0 0 999 0
+0 -1 HQR CLO N PT
+stand stand either 400
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium oldstyle~
+0 0 0 1000
+5
+~
+~
+#27004
+`kA Flower Lover``~
+Flower lover~
+A Flower Lover stands here admiring the flowers.
+~
+This person is obviously a lover of flowers, from the amount of time
+spent in the gardens.  A magnifying glass, and a book of flower descriptions
+accompany this fine person as they wander amongst the scenery to admire the
+season's new flowers.  Raptly attentive, they appear to be lost in
+admiration of the beauty that surrounds them.  
+~
+human~
+0 0 0 0
+AB Z 900 0
+41 41 1100d3+0 3000d3+0 5d17+0 none
+0 0 0 999 0
+0 -1 0 S T E
+stand stand either 75
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 1000
+6
+~
+~
+#27005
+elderly gazer~
+`aElderly Flower Gazer``~
+An Elderly Flower Gazer ambles along the garden path, drooling over the flowers.
+~
+This elderly person slowly ambles along viewing all of the flowers in the
+garden.  While old, this person still has some spring to their step and
+tries to keep up a daily routine.  They call it their "constitutional" but
+everyone knows they are merely trying to keep the spark of their soul alive
+as they grow old.  
+~
+human~
+0 0 0 0
+AGHW Yd 900 0
+38 38 1000d3+0 6000d3+0 5d14+0 peckb
+0 0 0 999 0
+0 -1 M Z M IP
+stand stand either 50
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 1000
+5
+~
+~
+#27006
+youth teenager love~
+`oYouth in Love``~
+A youth in love roams about, stars in her eyes, thinking of her sweetheart.
+~
+`hThis young lover wanders about equating her love to the beauty of the
+flowers all about her.  Pondering plucking a flower to give to her
+beloved, she realizes that the flower is more lovely if left on the stem of
+the plant.  This kind of thoughtfulness often accompanies someone
+considering a long-term relationship.  
+~
+human~
+0 0 0 0
+AGNWc D 850 0
+35 35 850d3+0 6000d3+0 5d10+1 slap
+-10 0 -10 999 -10
+0 -1 I O M P
+stand stand female 20
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium oldstyle~
+0 0 0 1000
+6
+~
+~
+#27007
+rose tenderer~
+`bRose Tender``~
+A Rose Tender wanders about with a pair of clipping shears.
+~
+The rose tenderer walks around muttering to themselves as they clip dead
+leaves from the rose bushes.  They carefully handle the blooms, inspecting
+the centers as if to see if some faery is hiding in there.  Small scratches
+from the thorns can be seen on this person's hands, obviously showing they
+care for the roses a lot.  
+~
+human~
+0 0 0 0
+AGW P 800 0
+36 36 900d3+0 6000d3+0 5d11+0 pierce
+-10 0 -10 999 -10
+0 -1 K F Q K
+stand stand either 80
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium oldstyle~
+0 0 0 1000
+5
+~
+~
+#27008
+dog plant dogrose~
+`mDog-Rose`` `jPlant``~
+A Dog-Rose Plant snaps ferociously at anything that moves.
+~
+This creature will snap at anything!  The thorns are sharp, and the teeth
+on this unique dog-rose plant are poisonous.  Drool drops onto the ground
+from this dog-rose plant slavering and snapping at just mere brushes of air.
+Not a pleasant creature to be around, perhaps it was made by faeries as a
+cruel trick.  
+~
+fido~
+0 0 0 0
+ABFW B 400 0
+48 48 1000d3+0 6000d3+0 5d18+0 flbite
+-3 -3 0 999 0
+0 -1 FJR LOSa BPT C
+stand stand neutral 0
+ABGV ACDEFHJKPQVa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 2
+3
+~
+~
+#27009
+tree surgeon~
+`jTree Surgeon``~
+The fine person is examining the trees for any weather damage or disease.
+~
+Tall and skinny, nurturing and caring for trees suits this person.  You
+can see their overalls are full of small tools and gloves.  Small cracks
+around their eyes show that they have squinted a lot in the sun.  As they
+walk by, you can see a small twig and a couple leaves dangling in their
+hair.  
+~
+syvin~
+0 0 0 0
+AGWX Z 800 0
+35 35 850d3+0 6000d3+0 5d8+0 none
+0 0 0 999 0
+0 -1 JN IQX X Z
+stand stand either 60
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium oldstyle~
+0 0 0 1000
+6
+~
+~
+#27010
+shade glanconer~
+`nShade of the Glanconer``~
+The `nShade of the Glanconer`` looks at you with soul-searching eyes.
+~
+This seducer of women looks about for his next victim, perhaps finding a
+young virgin as a tasty morsel.  While not really wanting them for their
+bodies, he is looking to destroy the soul and cause pain.  Really, he isn't
+all bad.  After all, he is only seeking to make his own soul better with the
+love of another.  
+~
+sidhe~
+0 0 0 0
+ABGW QTU -50 0
+50 50 1800d3+0 6000d3+0 5d25+1 shock
+-1 -1 -1 999 -1
+0 -1 HO BE BP OS
+stand stand male 700
+CDHM ABCEGHPa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#27011
+Nicnivin dark queen~
+`lNicnivin``~
+`eThe Dark Queen looks out at the night, not acknowledging anyone's presence.``
+~
+This dark lady looks out into the night, uncaring of love or happiness
+and actually wondering if there is a way to eliminate such things.  Hatred
+seeps from the pores in her skin, and negative energy forms a shield about
+her body.  The chill in the air is definite proof of this lady's evil and
+effect upon things around her.  
+~
+fido~
+0 0 0 0
+ABGWc IT -100 0
+85 80 2000d3+0 7000d3+0 5d38+2 chill
+-20 -20 -20 999 -30
+0 -1 FR CEIP LMTZ CKS
+stand stand female 1500
+ABGV ACDEFHJKQVa 23 23 23 23 23 23 0
+medium oldstyle~
+0 0 0 100
+2
+~
+~
+#27012
+Green Lady~
+`jThe Green Lady``~
+`jThe Green Lady`` floats here offering wisdom to any who seek it.
+~
+Such a beautiful lady, any who look at her can only admire her clean and
+sensous lines.  Warmth and happiness eminate from this lovely creature,
+spreading it through the air to surround her body in a golden aura.  Beneath
+the beauty there is much strength and wisdom gained over the years, quite a
+few since the dawn of flora.  
+~
+syvin~
+0 0 0 0
+ABGNW JOTZ 1000 0
+50 50 1700d3+0 8000d3+0 5d26+0 thwack
+-1 -1 -1 999 -1
+0 -1 GJOR CENXY OPSTX HIQZ
+stand stand female 400
+ABGHMV ABCDEFGHIJKQVa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+6
+~
+~
+#27013
+green man~
+`jThe Green Man``~
+The Green Man can be seen peering from the ivy and moss surrounding the shrine.
+~
+This man stands before you with the wrinkles of time upon his face and
+body.  Health exudes from him, as well as knowledge and an overall feeling
+of well-being.  Small sprigs of green can be sprouting from his hair and
+behind his ears, while a light green tinge lights his rough bark-like skin. 
+A very powerful being, he seems to have been around since before forever
+even started.  
+~
+fido~
+0 0 0 0
+ABGNW T 1000 0
+59 59 1750d3+0 9000d3+0 5d25+0 none
+-1 -1 -1 999 -1
+0 -1 FGR COX LPSTY CIQ
+stand stand male 1500
+ABGV ACDEFHJKQVa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 300
+6
+~
+~
+#27014
+fideal faery~
+`aThe Fideal Faery``~
+`aThis faery is cold and seeks your warmth, be wary of her embrace.``
+~
+`aA lovely and lithe faery is before you, enticing you with her form. 
+Black hair streaming down her shoulders and to her waist.  Deep and dark
+eyes beseech you for some warmth and affection.  Her movement is so
+graceful, it is almost an enchantment of its own.  `` 
+~
+canthi~
+0 0 0 0
+ABEGWc FZbe 200 0
+61 80 2400d3+0 6000d3+0 5d23+1 drain
+-20 -20 -20 999 -30
+0 -1 EFR IR CH IMP
+stand stand female 1000
+ABGHMV ABCDEFGHIJKQVa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+3
+fideal.voc~
+~
+#27015
+sylph~
+`nA lithe sylph``~
+`gA curvaceous spirit seems to swim in midair within the curtain of water ahead.``
+~
+`gThis lovely spirit seems to play in the water, and has a carefree
+personality.  Soft, deep`` `lblue`` `geyes seek out others to play with. 
+Perhaps if you join her, you'll find your own spirit rejoicing in laughter
+and fun.  `` 
+~
+canthi~
+0 0 0 0
+ABGNWc HPbe 400 0
+55 55 1700d3+0 6000d3+0 5d21+0 frbite
+3 3 3 999 3
+0 -1 EFGW BCR H I
+stand stand female 2000
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium oldstyle~
+0 0 0 100
+3
+sylph.voc~
+~
+#0
+
+#OBJECTS
+#27001
+thorny dogrose dagger~
+`aThorny D```ia```ag```ig```ae```ir`` `aof the`` `iDog-Rose``~
+A `aThorny D```ia```ag```ig```ae```ir`` `aof the`` `iDog-Rose`` lies here glistening poisonously.~
+ethereal~
+0
+weapon 2
+ABGRST
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B ABC BC ABD D
+0
+0
+52 4 35000 P
+A
+18 3
+A
+19 6
+#27002
+cloak dark queen~
+`lCloak`` `eof the`` `aDark`` `lQueen``~
+`aThe Cloak of the Dark Queen absorbs any and all semblance of life it touches``~
+ethereal~
+0
+armor 2
+CEFJY
+0
+AD
+AJLQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+CD CD CD CE 0
+0
+0
+85 5 100000 P
+A
+12 35
+A
+24 -3
+A
+1 2
+A
+5 2
+#27003
+mask green ivy~
+`aMask`` of `dCurling`` `jGreen`` `oIvy``~
+`jCurling tendrils of ivy extend from the edges of this mask``~
+wood~
+0
+jewelry 2
+ABGIKS
+0
+AX
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+59 3 30000 P
+A
+4 1
+#27004
+limpet blue small shell~
+`oA`` `lsmall blue`` `nlimpet`` `oshell``~
+`oA purdy little shell.``~
+shell~
+0
+light 2
+BGISY
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 EIJKN 0 0
+0
+0
+55 20 45000 P
+A
+4 3
+#27005
+mist seductive~
+`hA`` `aseductive mist`` `gof the`` `nFaeries``~
+`aA seductive mist wraps its tendrils around you and sucks you dry of love``~
+ethereal~
+0
+armor 2
+FGSa
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BC BC BC D 0
+0
+0
+50 2 40000 P
+A
+1 -1
+A
+26 1
+A
+5 -2
+#27006
+trimmer tree~
+`oA`` `jTree Surgeon's`` `lfine`` `kcutting`` `aaxe``~
+`aThis awesome trimming tool is sharp enough to slice limbs off``~
+bronze~
+0
+weapon 2
+BGSTY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC ABC BC ADE DE
+0
+0
+45 15 20000 P
+A
+12 -20
+A
+18 1
+A
+19 3
+A
+1 1
+#27007
+pond fideal~
+`aThe Fideal`` `jPond`` `alies`` `lcool,`` `adark,`` `eand deep.``~
+`aThis pond is more than it seems, be careful plunging its depths.``~
+ethereal~
+0
+portal 2
+CFGIORSTYa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`aYou can see that entering that pond is a bone-chilling experience.``~
+`aYour bones begin to shake from the coldness of the water in this pond.``~
+`bWarmth surrounds anyone that leaves, just from being away from this cold hell.``~
+`bMmm. Warmth floods your body as you feel the bone-coldness ebb away.``~
+-1 0 A BDEFHIJKLN AHJ
+0
+0
+1 -1 0 P
+#27008
+orange bunch~
+`bA`` `kBu```bn```kch`` `iof tasty`` `bO```krange```bs``~
+`bSeveral tasty oranges await to delight any tongue their sections should meet``~
+sugar~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABF 'halo of seraphs' 'illumination' 'reserved' 'reserved'
+0
+0
+1 1 500 P
+#27009
+pants jodhpurs jodhpur~
+`hUltra-soft`` `bbrushed`` `dleather jodhpurs``~
+`dThese jodhpurs will feel like nature made them especially for your legs``~
+soft leather~
+0
+clothing 2
+PS
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+37 3 15000 P
+A
+13 -15
+A
+19 4
+A
+18 3
+#27010
+bracelet thorn braided~
+`aBr```baid```aed`` `hbracelet of`` `oSpikey`` `iRose`` `aTh```aor```bns``~
+`aRose vines that have been woven together to make sharp thorns stick out``~
+wire~
+0
+armor 2
+BGIS
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+-2 -2 -2 -2 0
+0
+0
+40 1 5000 P
+A
+13 -10
+A
+19 1
+#27011
+wristband band devotion~
+`aA`` `lwristband`` `nof`` `kEternal`` `bDevotion``~
+`hThis optical wristband denotes eternal love and devotion brightly to everyone``~
+fiber optics~
+0
+jewelry 2
+ABFGSY
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+46 1 8000 P
+A
+24 -1
+A
+18 1
+A
+17 -2
+#27012
+coil energy love~
+`han`` `kenergy`` `ncoil`` `hof`` `llove's`` `oessence``~
+`hthe essence of love coils energetically through this ring with beams of light``~
+energy~
+0
+trash 2
+ABGISTY
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 1 3000 P
+A
+5 1
+A
+12 25
+#27013
+fountain white~
+`oFountain of the White Lady``~
+`hFresh, cool water burbles softly from this huge fountain.``~
+marble~
+0
+fountain 2
+BGIORSTYa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 -1 -1 P
+#27014
+fountain white lady~
+`oFountain of the White Lady``~
+`hFresh, cool water burbles softly from this huge fountain.``~
+unknown~
+0
+fountain 2
+BGIORSTYa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 -1 -1 P
+#27015
+curtain~
+`nA hovering curtain of water flowly softly towards the earth.``~
+`hWater droplets seem to splash gently into the ground, soaked up by the thirsty earth from this magical source of water.``~
+water~
+0
+portal 2
+BGIRSTY
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`hYou wonder what is on the other side of this curtain of water.``~
+`gYou feel a chill from the water, but notice you are not getting wet. How strange.``~
+`hA form suddenly appears through the curtain of water, slightly startling you.``~
+`gYou emerge from the curtain of water, feeling refreshed and clean.``~
+-1 H A CDEHILNO K
+0
+0
+35 -1 -1 P
+#27016
+bell leather~
+`hA leather bell pull dangles from this shrine, perhaps to call the gods.``~
+`hA leather bell pull dangles from this shrine, perhaps to call the gods.``~
+kid leather~
+0
+portal 2
+GIORSTY
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`aSmall`` `lblue bolts`` `adart from the bell pull as it is tugged upon.``~
+`lYou feel electricity run through your arm as you tug on the bell pull.``~
+`kA golden glow surrounds the area and you are momentarily blinded.``~
+`oYou feel tingly all over as you suddenly are transported.``~
+-1 H A AFGHIJKLO I
+0
+0
+1 -1 -1 P
+#27017
+algae koi~
+`kKoi fish`` `nswim around in a pool skimmed with algae.``~
+`kKoi fish`` `nswim around in a pool skimmed with algae.``~
+liquid~
+0
+portal 2
+AIORSTY
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`lThe water doesn't look very inviting, so you wonder why someone is going in.``~
+`jYou feel the cold water, and slimey algae move across your body.``~
+`jAlgae and water drip all over the place, as someone emerges before you.``~
+`lYou shivver from the cold water, grimacing at the icky feel of algae all over your body.``~
+-1 H A BDEJKMO E
+0
+0
+1 -1 -1 P
+#27018
+shield devotion~
+`hA`` `aShield`` `hof`` `oAbsolute`` `lDevotion``~
+`eThis shield's magnetic properties assist anyone with defending those whom they love.``~
+magnetic~
+0
+armor 2
+BGISY
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+44 5 350 P
+A
+5 2
+A
+1 1
+A
+24 -2
+#27019
+bench~
+`jA lovely garden bench.``~
+`jA lovely garden bench waits to be sat upon.``~
+marble~
+0
+furniture 2
+GORSY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB -1 EHK BD 0
+0
+0
+1 -1 0 P
+#27020
+breath fideal sealed amulet~
+`aA`` `lsealed`` `oamulet,`` `jwith the breath`` `aof the Fideal``~
+`lThe breath in this amulet can sustain you underwater indefinitely.``~
+unknown~
+0
+gills 2
+BGIRSTa
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 1 5000000 P
+#27021
+gloves thorny~
+`dLeather gloves`` `atipped`` `hwith`` `iSpikey Rose`` `aThorns``~
+`dThese leather gloves are both defense against harmful materials, and offense against any critters that should bother the wearer.``~
+soft leather~
+0
+armor 2
+GSY
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+20 2 2000 P
+A
+1 1
+#27022
+lace boot~
+`jNeon Green`` `aHip-Boots`` `llaced with blue fire``~
+`lBlue fire energy of the life-force of the forest is what holds these magnificent boots up.``~
+fire~
+0
+armor 2
+ABGIRSTY
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C C C C 0
+0
+0
+45 4 45000 P
+A
+2 1
+A
+14 40
+A
+5 3
+#27023
+cute snail~
+a cute little snail~
+A cute little snail slurps around on a rock below a tree.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#27024
+rose petal~
+`ia single petal of the dogrose plant``~
+`bA soft and delicate rose petal has been left lying here.``~
+unknown~
+0
+portal 2
+PSa
+B
+A
+0
+0
+0
+27024
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+A 0 G BHILNO L
+0
+0
+50 1 0 P
+#0
+
+#ROOMS
+#27001
+0 0
+~
+~
+~
+0 0 0
+`jPath of the Trees``~
+An acacia tree stands tall, gently swaying in the wind.  This tree is a
+living testimony to the great power of friendship. Carved all about its
+trunk are many initials.  They declare friendship and love to all who should
+care to look.  More trees can be seen in the distance to the north.  
+~
+0 0 3
+0
+~
+I 0 E
+tree~
+`dTwo phrases are often heard in these parts:
+                    `l*`` 
+       `oI have a kiss for you``
+                    `l*``
+       `lI am your lost love``
+                    `l*``
+`aUse these phrases wisely, and perhaps you will gain secrets of the garden.``
+~
+D0
+~
+~
+0 0 27002
+D2
+~
+~
+0 0 21062
+S
+#27002
+0 0
+~
+~
+~
+0 0 0
+`jPath of the Trees``~
+A strong scent assails the nostrils of passersby.  It appears to come
+from the tall bay tree growing proudly here.  The wide leaves are said to
+have medicinal properties as well as a use for adding spice to food.  More
+trees can be seen to the north as well as to the south.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27003
+D2
+~
+~
+0 0 27001
+S
+#27003
+0 0
+~
+~
+~
+0 0 0
+`jPath of the Trees``~
+A tall black walnut tree stands here, heavily laden with nuts.  Scattered
+on the gound is some proof of last year's harvest as well.  A few squirrels
+run about gathering some of the new harvest and chattering happily.  More
+trees can be seen to the north and south.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27004
+D2
+~
+~
+0 0 27002
+S
+#27004
+0 0
+~
+~
+~
+0 0 0
+`jPath of the Trees``~
+The squish of the ground alerts all to the bogginess of the area.  A
+couple of cypress trees clustered around are testament to the moistness that
+abounds.  Upon closer inspection, the trees almost seem to have an alert,
+intelligent presence.  It has been rumoured that these trees are haunted. 
+To the south more trees can be seen.  To the far north a gurgling fountain
+welcomes many travelers.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27005
+D2
+~
+~
+0 0 27003
+S
+#27005
+0 0
+~
+~
+~
+0 0 0
+`jPath of the Trees``~
+A sweet yet nauseating aroma fills the air almost to the point of spilled
+perfume.  Passersby have a spring in their step and joyous smiles upon their
+faces.  A feeling of warmth and happiness can be felt emanating from them. 
+The orange tree that grows here is a symbol of generosity and warmth . 
+Perhaps that can explain such an air of love about the place.  To the south
+is a line of trees.  A bubbling and gurgling fountain is just a small ways
+north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27006
+D1
+~
+~
+0 0 27013
+D2
+~
+~
+0 0 27004
+D3
+~
+~
+0 0 27017
+S
+#27006
+0 0
+~
+~
+~
+0 0 0
+`oFountain of the White Lady``~
+This curving fountain is huge!  It goes on for quite a ways in the
+distance.  The shape appears to be sinuous and curving.  Columns extend from
+the midst of it at different heights.  Gurgling spouts are placed randomly
+upon the tall slender columns.  The spouts are quite unique in that none of
+them are the same.  Some of them are shaped like flowers, some like animals,
+and a few slightly resemble faces.  The largest column has a statuette at
+the very top.  It is an artist's image and devotion to the White Lady.  The
+fountain sits in the center of a veritable array of garden nooks.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27007
+D1
+~
+~
+0 0 27014
+D2
+~
+~
+0 0 27005
+D3
+~
+~
+0 0 27018
+S
+#27007
+0 0
+~
+~
+~
+0 0 0
+`oFountain of the White Lady``~
+This curving fountain is huge!  It goes on for quite a ways in the
+distance.  The shape appears to be sinuous and curving.  Columns extend from
+the midst of it at different heights.  Gurgling spouts are placed randomly
+upon the tall, slender columns.  The spouts are quite unique in that none of
+them are the same.  Some of them are shaped like flowers, some like animals,
+and a few slightly resemble faces.  The largest column has a statuette at
+the very top.  It is an artist's image and devotion to the White Lady.  The
+fountain sits in the center of a veritable array of garden nooks.  
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 27008
+D1
+~
+~
+0 0 27015
+D2
+~
+~
+0 0 27006
+D3
+~
+~
+0 0 27019
+S
+#27008
+0 0
+~
+~
+~
+0 0 0
+`iPath of the Rose``~
+A scent of freshness wafts from a dew laden damask rose bush.  The petals
+appear as fresh as the new dawn.  Their brilliant complexion comparable to
+the skin of a newborn babe.  A six spotted ladybug weaves her way amongst
+the thorns and leaves ready to kill any aphid she should chance upon.  To
+the south sounds of a fountain tickle your ears.  Color attracts your eye
+from the north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27009
+D1
+~
+~
+0 0 27016
+D2
+~
+~
+0 0 27007
+D3
+~
+~
+0 0 27020
+S
+#27009
+0 0
+~
+~
+~
+0 0 0
+`iPath of the Rose``~
+The petals of this carolina rose flutter in the wind with a soft sigh. 
+The rose bush appears to be in a sad state of neglect.  Perhaps it releases
+sighs due to its unhappiness.  The neglect and mistreatment have taken its
+toll on this sad plant.  It would do well to heed the lesson that love is
+dangerous if not treated well.  To the north and south color abounds.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27010
+D2
+~
+~
+0 0 27008
+S
+#27010
+0 0
+~
+~
+~
+0 0 0
+`iPath of the Rose``~
+A quiet stillness settles upon the area.  The tranquil air surrounds a
+rose named for a wondrous time of year, Christmas.  The plant looks as if
+frozen in time.  The feeling of a need to rest and sleep here almost
+overwhelms you.  To the north and south are more colorful plants.  
+~
+0 0 3
+0
+~
+H90
+I 0 M70
+D0
+~
+~
+0 0 27011
+D2
+~
+~
+0 0 27009
+S
+#27011
+0 0
+~
+~
+~
+0 0 0
+`iPath of the Rose``~
+The rose bush that grows wildly here surely deserves its formal name. 
+The Dog Rose seems to have a vicious and snappy air about it.  The flower
+heads seem to almost move their heads on their own accord.  The thorns seem
+ready at attention for an attack to prick any who should dare to intrude. 
+They glisten and have a poisonous, lethal look to them.  To the north and
+south more color can be seen.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27012
+D2
+~
+~
+0 0 27010
+S
+#27012
+0 0
+~
+~
+~
+0 0 0
+`iPath of the Rose``~
+The Guelder Rose growing here seems to be touched with age.  The wintery
+white petals glisten like fresh-drawn silver.  Even the leaves are touched
+with a slight, grey tinge.  The air surrounding the plant has a dusty, musky
+scent.  If plants could have knowledge surely this one would be quite wise. 
+To the south much color can be seen.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 27011
+S
+#27013
+0 0
+~
+~
+~
+0 0 0
+`lA Lovely Trellis``~
+`lA deep blue-violet mass of starry-eyed Clematis can be seen climbing a
+tall wooden trellis.  A single bloom of this flower is about the size of the
+average human hand.  The many blooms covering the trellis make it appear
+that the deepest blue of sunset has come down to earth during the day. 
+Clematis is said to stand for artifice.  Perhaps that can explain why this
+flower is here, instead of being a mere star in the sky.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27014
+D1
+~
+~
+0 0 27021
+D3
+~
+~
+0 0 27005
+S
+#27014
+0 0
+~
+~
+~
+0 0 0
+`jA Garden Bench``~
+`cA garden bench is here for any passerby to sit and admire the scenery. 
+Placed near a gorgeous fountain, and not far from some flower-covered
+trellises, it is quiet enough for an intimate chat.  If one is lucky enough
+to be travelling with a loved one, perhaps a discreet kiss will be granted
+in this lovely setting.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27015
+D2
+~
+~
+0 0 27013
+D3
+~
+~
+0 0 27006
+S
+#27015
+0 0
+~
+~
+~
+0 0 0
+`jA Garden Bench``~
+`cA garden bench is here for any passerby to sit and admire the scenery. 
+Placed near a gorgeous fountain, and not far from some flower-covered
+trellises, it is quiet enough for an intimate chat.  If one is lucky enough
+to be travelling with a loved one, perhaps a discreet kiss will be granted
+in this lovely setting.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27016
+D2
+~
+~
+0 0 27014
+D3
+~
+~
+0 0 27007
+S
+#27016
+0 0
+~
+~
+~
+0 0 0
+`gA Lovely Trellis``~
+`gThe pale blue color of these morning glories are like the sky at dawn's
+first light.  Having just unfurled their petals from a night's rest, the
+flowers flutter for rays of golden sunshine.  Their cup-like shape seems to
+catch the morning dew for any passing fairy or sprite to sip and quench
+their thirst.  Even though morning glories stand for extinguished hopes,
+today is a new day and there is hope yet.  `` 
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27045
+D2
+~
+~
+0 0 27015
+D3
+~
+~
+0 0 27008
+S
+#27017
+0 0
+~
+~
+~
+0 0 0
+`gA Lovely Trellis``~
+`gThe pale blue color of these morning glories are like the sky at dawn's
+first light.  Having just unfurled their petals from a night's rest, the
+flowers flutter for rays of golden sunshine.  Their cup-like shape seems to
+catch the morning dew for any passing fairy or sprite to sip and quench
+their thirst.  Even though morning glories stand for extinguished hopes,
+today is a new day and there is hope yet.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27018
+D1
+~
+~
+0 0 27005
+D3
+~
+~
+0 0 27033
+S
+#27018
+0 0
+~
+~
+~
+0 0 0
+`jA Garden Bench``~
+`cA garden bench is here for any passerby to sit and admire the scenery. 
+Placed near a gorgeous fountain, and nto far from some flower-covered
+trellises, it is quiet enough for an intimate chat.  If one is lucky enough
+to be travelling with a loved one, perhaps a discreet kiss will be granted
+in this lovely setting.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27019
+D1
+~
+~
+0 0 27006
+D2
+~
+~
+0 0 27017
+S
+#27019
+0 0
+~
+~
+~
+0 0 0
+`jA Garden Bench``~
+`cA garden bench is here for any passerby to sit and admire the scenery. 
+Placed near a gorgeous fountain, and not far from some flower-covered
+trellises, it is quiet enough for an intimate chat.  If one is lucky enough
+to be travelling with a loved one, perhaps a discreet kiss will be granted
+in this lovely setting.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27020
+D1
+~
+~
+0 0 27007
+D2
+~
+~
+0 0 27018
+S
+#27020
+0 0
+~
+~
+~
+0 0 0
+`lA Lovely Trellis``~
+`lA deep blue-violet mass of starry-eyed Clematis can be seen climbing a
+tall wooden trellis.  A single bloom is about the size of the average human
+hand.  The many blooms covering the trellis make it appear that the deepest
+blue of sunset has come down to earth during the day.  Clematis is said to
+stand for artifice.  Perhaps that can explain why this flower is here,
+instead of being a mere star in the sky.  `` 
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27008
+D2
+~
+~
+0 0 27019
+D3
+~
+~
+0 0 27057
+S
+#27021
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or an afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyone's mood.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 27022
+D3
+~
+~
+0 0 27013
+S
+#27022
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites wear souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or a afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyones mood.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27021
+D1
+~
+~
+0 0 27023
+S
+#27023
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or an afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyone's mood.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 27024
+D3
+~
+~
+0 0 27022
+S
+#27024
+0 0
+~
+~
+~
+0 0 0
+`jIn devotion to the Green Man``~
+`cThis shrine is devoted to the wild, free nature of man.  At the center
+of humankind, there is a kernel of green, a love for nature.  This is
+personified by the `jGreen Man```c.  A powerful mix of man and nature he
+stands tall in his glory.  The moss and ivy covered statuette placed here
+can only be seen as a pale replica of his greatness.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27023
+D1
+~
+~
+0 0 27031
+D2
+~
+~
+0 0 27025
+S
+#27025
+0 0
+~
+~
+~
+0 0 0
+Flowers in sight...~
+A veritable array of flowers and other flora surround the area.  Looking
+in any direction, color can be seen in the distance.  The crisp, dainty
+smell of greenery wafts through the air, cleansing the nostrils of all who
+pass by.  These plants show much love from the earth, and reflect that in
+their beauty and scent for those who care to appreciate it.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27024
+D1
+~
+~
+0 0 27032
+D2
+~
+~
+0 0 27026
+S
+#27026
+0 0
+~
+~
+~
+0 0 0
+`kA Field of Lilies``~
+Lustrous yellow blooms froth from the ground.  Vibrant petals on long
+stalks with bright pollen-laden centers testify to the true yellow lily. 
+The flowers seem to whisper false words of praise in a happy murmur.  The
+fluttering words bubble and boil through the minds of passing travelers,
+perhaps causing them to feel a false sense of gaiety.  The way out seems to
+have vanished; use your inner knowledge to seek the way out.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27025
+D1
+~
+~
+0 0 27027
+S
+#27027
+0 0
+~
+~
+~
+0 0 0
+`lA Lush Carpet of Lobelia``~
+A lush blue carpet of tiny lobelia plants thrive vibrantly.  The color is
+so intense it is almost a purple.  The tiny, individual flowers play
+peek-a-boo with any onlooker.  Amid the roses and the lilies these flowers
+stand out with their almost pure, innocent presence.  However, all must
+beware for within the most pure and of the greatest innocence lurks a
+malevolent and evil spirit. Shivers run through the spine as one turns to
+leave.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27032
+D1
+~
+~
+0 0 27028
+D3
+~
+~
+0 0 27026
+S
+#27028
+0 0
+~
+~
+~
+0 0 0
+`jPool of Algae``~
+`cA large shady`` `lpool`` `cstands here, growing some large clumps of``
+`jalgae.  `` `kKoi`` `clazily swim about, happy in their quiet and restful
+environment.  Some care is obviously given to this pool, due mostly to the
+healthy look of the koi fish.  However, it seems`` `jalgae`` `cis stubbornly
+growing and perhaps shall overtake the pool.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27029
+D3
+~
+~
+0 0 27027
+S
+#27029
+0 0
+~
+~
+~
+0 0 0
+`oThe Dame Violets``~
+These lovely violets have a watchful noble air about them.  Their name
+implies a wary mother.  Thoughts of mothers watching their young and caring
+for the youth of our future.  Mothers always keep a wary eye out for their
+children for they could wander off very easily, perhaps drawn in by the
+colors of flowers such as these.  Many colors can be seen from several
+directions.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27030
+D2
+~
+~
+0 0 27028
+D3
+~
+~
+0 0 27032
+S
+#27030
+0 0
+~
+~
+~
+0 0 0
+`mA Circle of Pinks``~
+Viewing these indian pink carnations cause a ripple to flow through one's
+heart.  They are beautiful but in a chilly way.  Their scent faintly reminds
+one of death, perhaps it is because carnations are often used at funerals
+and wakes.  They may honor the dead, but surely to cause a flower to be
+disliked for its memory of use is cruel to the floral kingdom.  There is a
+clear view of the way out of this area and a rush to leave is felt by all.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 27029
+D3
+~
+~
+0 0 27031
+S
+#27031
+0 0
+~
+~
+~
+0 0 0
+Flowers in sight...~
+A veritable array of flowers and other flora surround the area.  Looking
+in any direction, color can be seen in the distance.  The crisp, dainty
+smell of the greenery wafts through the air, cleansing the nostrils of all
+who pass by.  These plants show much love from the earth, and reflect that
+in their beauty and scent for any who care to appreciate it.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27030
+D2
+~
+~
+0 0 27032
+D3
+~
+~
+0 0 27024
+S
+#27032
+0 0
+~
+~
+~
+0 0 0
+`jCenter of the Greenery``~
+`cA small field of green grass flourishes here, not far from the lush
+vividness of many flowers.  It is a restful place to sit and just admire the
+scenery.  The lush green grass is very cushiony, almost like a bed of down
+feathers.  Its scent can be smelled, as if newly cut.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27031
+D1
+~
+~
+0 0 27029
+D2
+~
+~
+0 0 27027
+D3
+~
+~
+0 0 27025
+S
+#27033
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or an afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyone's mood.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27017
+D2
+~
+~
+0 0 27034
+S
+#27034
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or an afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyone's mood.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27033
+D3
+~
+~
+0 0 27035
+S
+#27035
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or an afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyone's mood.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27034
+D2
+~
+~
+0 0 27036
+S
+#27036
+0 0
+~
+~
+~
+0 0 0
+`lThe Dark Queen's Shrine``~
+`eA dark mist hangs about this shrine, even during the brightest day. 
+This shrine is devoted to the Dark Queen, `lNicnivin```e, also known as
+Queen of the Bad Faeries.  Her powers are drawn from the dark side of the
+moon.  Many secrets are hidden within her cloak of night.  While the night
+belongs to the Dark Queen, do not forget that in death there is always
+renewal of life.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27035
+D2
+~
+~
+0 0 27037
+D3
+~
+~
+0 0 27043
+S
+#27037
+0 0
+~
+~
+~
+0 0 0
+Flowers in sight...~
+A veritable array of flowers and other flora surround the area.  Looking
+in any direction, color can be seen in the distance.  The crisp, dainty
+smell of the greenery wafts through the air, cleansing the nostrils of all
+who pass by.  These plants show much love from the earth, and reflect that
+in their beauty and scent for those who care to appreciate it.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27036
+D2
+~
+~
+0 0 27038
+D3
+~
+~
+0 0 27044
+S
+#27038
+0 0
+~
+~
+~
+0 0 0
+`kA Field of Lilies``~
+Lustrous yellow blooms froth from the ground.  Vibrant petals on long
+stalks with bright pollen-laden centers testify to the true yellow lily. 
+The flowers seem to whisper false words of praise in a happy murmur.  The
+fluttering words bubble and boil through the minds of passing travelers,
+perhaps causing them to feel a false sense of gaiety.  The way out seems to
+have vanished, use your inner knowledge to seek the way out.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27037
+D3
+~
+~
+0 0 27039
+S
+#27039
+0 0
+~
+~
+~
+0 0 0
+`mA Mighty Rhododendron``~
+A rhododendron bush with leaves that have a waxlike appearance stands
+here proud in it's own glory.  Large blooms and buds cluster all about.  The
+velvet magenta petals barely flutter in the wind with their hardy
+resilience.  The interior of the bush is quite spacious.  Perhaps there is
+room for a sprite or pixie to lie in wait for a unaware traveler.  Foul
+tricks and pranks would delight such a soul to no end.  A view of all exits
+is quite clear.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27044
+D1
+~
+~
+0 0 27038
+D3
+~
+~
+0 0 27040
+S
+#27040
+0 0
+~
+~
+~
+0 0 0
+`eThe Fideal Pond``~
+`aThe fideal is a wandering faery, longing for her lost lover.  Her song
+is heartwrenching and seductive to any who should hear it.  Her caress and
+embrace are as cold as the earth six feet deep.  Should anyone think to lie
+with her, they would find themselves drowned in the sadness and left alone
+while she seeks out yet another hapless lover.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27041
+D1
+~
+~
+0 0 27039
+S
+#27041
+0 0
+~
+~
+~
+0 0 0
+`lClustered Violets``~
+Gorgeous midnight blue violets are scattered about in the grass.  Each
+bloom showing tribute to itself in a sign of faithfulness to the entire
+floral kingdom.  It is said a gift of blue violets is a sign of faithfulness
+in both friendship and love.  Much care is taken by all passersby not to
+trample or crush these lovely plants.  A view of color surrounds all
+travelers.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27042
+D1
+~
+~
+0 0 27044
+D2
+~
+~
+0 0 27040
+S
+#27042
+0 0
+~
+~
+~
+0 0 0
+`mA Circle of Pinks``~
+Viewing these indian pink carnations causes a ripple to flow through
+one's heart.  They are beautiful but in a chilly way.  Their scent faintly
+reminds one of death, perhaps it is because carnations are often used at
+funerals and wakes.  They may honor the dead, but surely to cause a flower
+to be disliked for its memory of use is cruel to the floral kingdom.  There
+is a clear view of the way out of this area and a rush to leave is felt by
+all.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27043
+D2
+~
+~
+0 0 27041
+S
+#27043
+0 0
+~
+~
+~
+0 0 0
+Flowers in sight...~
+A veritable array of flowers and other flora surround the area.  Looking
+in any direction, color can be seen in the distance.  The crisp, dainty
+smell of the greenery wafts through the air, cleansing the nostrils of all
+who pass by.  These plants show much love from the earth, and reflect that
+in their beauty and scent for any who care to appreciate it.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27036
+D2
+~
+~
+0 0 27044
+D3
+~
+~
+0 0 27042
+S
+#27044
+0 0
+~
+~
+~
+0 0 0
+`jCenter of the Greenery``~
+`cA small field of green grass flourishes here, not far from the lush
+vividness of many flowers.  It is a restful place to sit and just admire the
+scenery.  The lush green grass is very cushiony, almost like a bed of down
+feathers.  Its scent can be smelled, as if newly cut.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27043
+D1
+~
+~
+0 0 27037
+D2
+~
+~
+0 0 27039
+D3
+~
+~
+0 0 27041
+S
+#27045
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or a afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyones mood.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27046
+D3
+~
+~
+0 0 27016
+S
+#27046
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or a afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyones mood.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27047
+D2
+~
+~
+0 0 27045
+S
+#27047
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or a afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyones mood.  
+~
+0 0 3
+0
+~
+I 0 D0
+To the north, a small shrine can be seen.  
+~
+~
+0 0 27048
+D3
+~
+~
+0 0 27046
+S
+#27048
+0 0
+~
+~
+~
+0 0 0
+`hShrine`` `eof the`` `gGlanconer``~
+`gA small shrine is nestled here amongst the flowers.  It is to pay
+tribute to the Glanconer.  The Glanconer is a masculine faery seducer.  His
+deep midnight eyes and silky words have caught many a woman in his trap over
+the centuries.  The shrine is here in homage, and to also try to appease
+him.  The local folk feel that if a small offering is left, perhaps their
+lady-loves will not be ensnared into his trap.  Otherwise, beware.  His
+touch can lead to much pain and despair.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27049
+D1
+~
+~
+0 0 27055
+D2
+~
+~
+0 0 27047
+S
+#27049
+0 0
+~
+~
+~
+0 0 0
+Flowers in sight...~
+A veritable array of flowers and other flora surround the area.  Looking
+in any direction, color can be seen in the distance.  The crisp, dainty
+smell of the greenery wafts through the air, cleansing the nostrils of all
+who pass by.  These plants show much love from the earth, and reflect that
+in their beauty and scent for any who care to appreciate it.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27050
+D1
+~
+~
+0 0 27056
+D2
+~
+~
+0 0 27048
+S
+#27050
+0 0
+~
+~
+~
+0 0 0
+`kA Field of Lilies``~
+Lustrous yellow blooms froth from the ground.  Vibrant petals on long
+stalks with pollen-laden centers testify to the true yellow lily.  The
+flowers seem to whisper false words of praise in a happy murmur.  The
+fluttering words bubble and boil through the minds of passing travelers,
+perhaps causing them to feel a false sense of gaiety.  The way out seems to
+have vanished, use your inner knowledge to seek the way out.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27051
+D2
+~
+~
+0 0 27049
+S
+#27051
+0 0
+~
+~
+~
+0 0 0
+`iThe Oleander Bush``~
+A beautiful, yet deadly, oleander bush grows exhuberantly amidst the
+other flowers of the garden.  Its oil is deadly if ingested and the petals
+are definitely not foodstuffs.  This bush has been the death of many a
+husband from a malevolent wife.  Sounds of birds rustling can be heard as
+they make their home in this protective bush.  A clear sight of the other
+flowers in the garden surrounds the viewer.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27052
+D2
+~
+~
+0 0 27056
+D3
+~
+~
+0 0 27050
+S
+#27052
+0 0
+~
+~
+~
+0 0 0
+`lForgotten Shrine``~
+`aHidden in the corner of the garden, this shrine seems to be forgotten. 
+Ivy and oleander crawl up the sides, while violets carpet the floor in
+abundant fury.  It's possible evil lurks about this dark corner, away from
+the sunny center of the garden.  After further investigation, it seems that
+this shrine is deliberately uncared for instead of merely forgotten.  Maybe
+the deity of this decrepit shrine angered a more powerful deity, and was
+banished henceforth.  `` 
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 27053
+D3
+~
+~
+0 0 27051
+S
+#27053
+0 0
+~
+~
+~
+0 0 0
+`lClustered Violets``~
+Gorgeous midnight blue violets are scattered about in the grass.  Each
+bloom showing tribute to itself in a sign of faithfulness to the entire
+floral kingdom.  It is said a gift of blue violets is a sign of faithfulness
+in both friendship and love.  Much care is taken by all passersby not to
+trample or crush these lovely plants.  A view of color surrounds all
+travelers.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27052
+D2
+~
+~
+0 0 27054
+D3
+~
+~
+0 0 27056
+S
+#27054
+0 0
+~
+~
+~
+0 0 0
+`mA Circle of Pinks``~
+Viewing these indian pink carnations causes a ripple to flow through
+one's heart.  They are beautiful but in a chilly way.  Their scent faintly
+reminds one of death, perhaps it is because carnations are often used at
+funerals and wakes.  They may honor the dead, but surely to cause a flower
+to be disliked for its memory of use is cruel to the floral kingdom.  There
+is a clear view of the way out of this area and a rush to leave is felt by
+all.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27053
+D3
+~
+~
+0 0 27055
+S
+#27055
+0 0
+~
+~
+~
+0 0 0
+Flowers in sight...~
+A veritable array of flowers and other flora surround the area.  Looking
+in any direction, color can be seen in the distance.  The crisp, dainty
+smell of the greenery wafts through the air, cleansing the nostrils of all
+who pass by.  These plants show much love from the earth, and reflect that
+in their beauty and scent for any who care to appreciate it.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27056
+D1
+~
+~
+0 0 27054
+D3
+~
+~
+0 0 27048
+S
+#27056
+0 0
+~
+~
+~
+0 0 0
+`jCenter of the Greenery``~
+`cA small field of green grass flourishes here, not far from the lush
+vividness of many flowers.  It is a restful place to sit and just admire the
+scenery.  The lush green grass is very cushiony, almost like a bed of down
+feathers.  Its scent can be smelled, as if newly cut.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27051
+D1
+~
+~
+0 0 27053
+D2
+~
+~
+0 0 27055
+D3
+~
+~
+0 0 27049
+S
+#27057
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or an afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyone's mood.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27058
+D1
+~
+~
+0 0 27020
+S
+#27058
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites wear souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or a afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyones mood.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 27057
+D3
+~
+~
+0 0 27059
+S
+#27059
+0 0
+~
+~
+~
+0 0 0
+`jA Leafy Bower``~
+A comfortable leafy bower invites weary souls to rest.  Tall hedges with
+lush greenery provide a relaxing shade.  It is quite inviting for a small
+nap or an afternoon chat with a friend.  Soft sounds of birds and small
+creatures barely intrude upon the peaceful air of the welcomed shade.  A
+fresh and mellow scent in the air can lighten anyone's mood.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27060
+D1
+~
+~
+0 0 27058
+S
+#27060
+0 0
+~
+~
+~
+0 0 0
+`oIn Devotion to`` `jThe Green Lady``~
+`cThis shrine is lovingly cared for w`cith many flowers planted around `cits
+base.  The dainty grace of flowers, incense, and cleanliness are all signs
+of a woman's touch.  The shrine stands in devotion to `jThe Green Lady.  ``
+`cIt is said that she once offered wisdom to those who would seek `cit. 
+However, the wisdom did not appear in the form expected.  Qu`cite often her
+thoughtful gift was turned down in disdain or disbelief.  Keep in mind that
+wisdom is like the air one breathes in, light and airy - yet necessary for
+life.  Therefore, this simple yet elegant treasure can be hidden in
+something dainty and in unexpected ways.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27061
+D2
+~
+~
+0 0 27059
+D3
+~
+~
+0 0 27067
+S
+#27061
+0 0
+~
+~
+~
+0 0 0
+Flowers in sight...~
+A veritable array of flowers and other flora surround the area.  Looking
+in any direction, color can be seen in the distance.  The crisp, dainty
+smell of the greenery wafts through the air, cleansing the nostrils of all
+who pass by.  These plants show much love from the earth, and reflect that
+in their beauty and scent for any who care to appreciate it.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27062
+D2
+~
+~
+0 0 27060
+D3
+~
+~
+0 0 27068
+S
+#27062
+0 0
+~
+~
+~
+0 0 0
+`kA Field of Lilies``~
+Lustrous yellow blooms froth from the ground. Vibrant petals on long
+stalks with pollen-laden centers testify to the true yellow lily.  The
+flowers seem to whisper false words of praise in a happy murmur. The
+fluttering words bubble and boil through the minds of passing travelers,
+perhaps causing them to feel a false sense of gaiety.  The way out seems to
+have vanished, use your inner knowledge to seek the way out.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 27061
+D3
+~
+~
+0 0 27063
+S
+#27063
+0 0
+~
+~
+~
+0 0 0
+`lA Lush Carpet of Lobelia``~
+A lush blue carpet of tiny lobelia plants thrive vibrantly.  The color is
+so intense it is almost a purple.  The tiny, individual flowers play
+peek-a-boo with any onlooker.  Amid the roses and lilies these flowers stand
+out with their almost pure, innocent presence.  However, all must beware for
+within the most pure and of the greatest innocence lurks a malevolent and
+evil spirit.  Shivvers run through the spine as one turns to leave.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27062
+D2
+~
+~
+0 0 27068
+D3
+~
+~
+0 0 27064
+S
+#27064
+0 0
+~
+~
+~
+0 0 0
+`nSylph in the Mist``~
+`gThe humidity is`` `lintense`` `ghere, water`` `oseeps`` `ginto the very depth and
+marrow of everything, making the air feel moist and sticky.  `` `aShadows``
+`gdart around, as if alive and thinking to sneak, hide, and lie in wait for
+whoever should pass by.  The water seems to drizzle more and more as time
+passes.  A`` `acurtain of water`` `gcan be seen if one looks very carefully.
+`` 
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 27063
+D2
+~
+~
+0 0 27065
+S
+#27065
+0 0
+~
+~
+~
+0 0 0
+`oThe Dame Violets``~
+These violets have a watchful noble air about them.  Their name implies a
+wary mother.  Thoughts of mothers watching their young and caring for the
+youth of our future.  Mothers always keep a wary eye out for their children
+for they could wander off very easily, perhaps drawn in by the colors of
+flowers such as these.  Many colors can be seen from several directions.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27064
+D1
+~
+~
+0 0 27068
+D2
+~
+~
+0 0 27066
+S
+#27066
+0 0
+~
+~
+~
+0 0 0
+`mA Circle of Pinks``~
+Viewing these indian pink carnations causes a ripple to flow through
+one's heart.  They are beautiful but in a chilly way.  Their scent faintly
+reminds one of death, perhaps it is because carnations are often used at
+funerals and wakes.  They may honor the dead, but surely to cause a flower
+to be disliked for its memory of use is cruel to the floral kingdom.  There
+is a clear view of the way out of this area and a rush to leave is felt by
+all.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27065
+D1
+~
+~
+0 0 27067
+S
+#27067
+0 0
+~
+~
+~
+0 0 0
+Flowers in sight...~
+A veritable array of flowers and other flora surround the area.  Looking
+in any direction, color can be seen in the distance.  The crisp, dainty
+smell of the greenery wafts through the air, cleansing the nostrils of all
+who pass by.  These plants show much love from the earth, and reflect that
+in their beauty and scent for any who care to appreciate it.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27068
+D1
+~
+~
+0 0 27060
+D3
+~
+~
+0 0 27066
+S
+#27068
+0 0
+~
+~
+~
+0 0 0
+`jCenter of the Greenery``~
+`cA small field of green grass flourishes here, not far from the lush
+vividness of many flowers.  It is a restful place to sit and just admire the
+scenery.  The lush green grass is very cushiony, almost like a bed of down
+feathers.  Its scent can be smelled, as if newly cut.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 27063
+D1
+~
+~
+0 0 27061
+D2
+~
+~
+0 0 27067
+D3
+~
+~
+0 0 27065
+S
+#0
+
+#RESETS
+M 0 27002  25 27022  3	* `ja gardener's apprentice``
+M 0 27001  25 27062  2	* `ja master gardener``
+M 0 27002  25 27061  2	* `ja gardener's apprentice``
+M 0 27009   6 27001  6	* `jtree surgeon``
+M 0 27009   6 27002  6	* `jtree surgeon``
+M 0 27003   5 27060 20	* `ldevotee of the shrine``
+M 0 27003   5 27048 20	* `ldevotee of the shrine``
+M 0 27013   1 27024  1	* `jthe green man``
+E 0 27003   -1    6	* item to `jthe green man``
+M 0 27012   1 27060  1	* `jthe green lady``
+E 0 27004   -1    0	* item to `jthe green lady``
+M 0 27010   1 27048  1	* `nshade of the glanconer``
+E 0 27005   -1   12	* item to `nshade of the glanconer``
+M 0 27009   2 27003  6	* `jtree surgeon``
+E 0 27006   -1   17	* item to `jtree surgeon``
+O 0 27008   0 27005 -1	* `ba`` `kbu```bn```kch`` `iof tasty`` `bo```krange```bs`` at `jPath of the Trees``
+M 0 27004   2 27053 25	* Flower lover
+E 0 27009   -1    7	* item to Flower lover
+M 0 27001   2 27031 20	* `ja master gardener``
+M 0 27002   1 27031 25	* `ja gardener's apprentice``
+E 0 27010   -1   15	* item to `ja gardener's apprentice``
+M 0 27003   5 27024 20	* `ldevotee of the shrine``
+E 0 27011   -1   14	* item to `ldevotee of the shrine``
+M 0 27006   3 27051 25	* `oyouth in love``
+E 0 27012   -1    1	* item to `oyouth in love``
+O 0 27013   0 27007 -1	* `ofountain of the white lady`` at `oFountain of the White Lady``
+O 0 27014   0 27006 -1	* `ofountain of the white lady`` at `oFountain of the White Lady``
+O 0 27007   0 27040 -1	* `athe fideal`` `jpond`` `alies`` `lcool,`` `adark,`` `eand deep.`` at `eThe Fideal Pond``
+M 0 27015   1 27064  1	* `na lithe sylph``
+O 0 27015   0 27064 -1	* `na hovering curtain of water flowly softly towards the earth.`` at `nSylph in the Mist``
+O 0 27017   0 27028 -1	* `kkoi fish`` `nswim around in a pool skimmed with algae.`` at `jPool of Algae``
+E 0 27002   -1   19	* item to `na lithe sylph``
+E 0 27002   -1   19	* item to `na lithe sylph``
+M 0 27003   5 27036 20	* `ldevotee of the shrine``
+E 0 27018   -1   11	* item to `ldevotee of the shrine``
+M 0 27011   1 27036  1	* `lnicnivin``
+E 0 27002   -1   19	* item to `lnicnivin``
+O 0 27016   0 27052 -1	* `ha leather bell pull dangles from this shrine, perhaps to call the gods.`` at `lForgotten Shrine``
+O 0 27019   0 27015 -1	* `ja lovely garden bench.`` at `jA Garden Bench``
+O 0 27019   0 27014 -1	* `ja lovely garden bench.`` at `jA Garden Bench``
+O 0 27019   0 27018 -1	* `ja lovely garden bench.`` at `jA Garden Bench``
+O 0 27019   0 27019 -1	* `ja lovely garden bench.`` at `jA Garden Bench``
+E 0 27020   -1    3	* item to `lnicnivin``
+E 0 27020   -1    3	* item to `lnicnivin``
+M 0 27014   1 27040  1	* `athe fideal faery``
+E 0 27020   -1    3	* item to `athe fideal faery``
+M 0 27007   2 27012 10	* `brose tender``
+E 0 27021   -1    9	* item to `brose tender``
+M 0 27007   2 27008 10	* `brose tender``
+E 0 27021   -1    9	* item to `brose tender``
+M 0 27007   2 27009 10	* `brose tender``
+E 0 27021   -1    9	* item to `brose tender``
+M 0 27007   2 27010 10	* `brose tender``
+E 0 27021   -1    9	* item to `brose tender``
+M 0 27007   2 27011 10	* `brose tender``
+E 0 27021   -1    9	* item to `brose tender``
+M 0 27002   2 27041 25	* `ja gardener's apprentice``
+E 0 27022   -1    8	* item to `ja gardener's apprentice``
+O 0 27023   0 27001 -1	* A cute little snail at `jPath of the Trees``
+O 0 7   0 27064 -1	* The symbol at `nSylph in the Mist``
+M 0 27008   4 27011  4	* `mdog-rose`` `jplant``
+E 0 27001   -1   16	* item to `mdog-rose`` `jplant``
+G 0 27024 -1		* `ia single petal of the dogrose plant`` to `mDog-Rose`` `jPlant``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 27011 spec_breath_frost		* `lNicnivin``
+S
+
+#OT
+#27024
+(null)~
+$whensmashed~
+32768
+68
+at 27011 reset area~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

@@ -1,0 +1,7 @@
+Possum
+pirate|pirates:>1:-1:Arrrr!  I be a pirate, so ye best be watchin' what ye says about pirates, ye hear?;CMD poke $name
+pirate|pirates:<2:1:Enough of your poison tongue, ye scurvey land lubber!  Show yer steel!;CMD bash $name
+yo&ho:>0:+1:Yo ho!  Yo ho!  A pirate's life for me!;CMD emote dances a quick little jig and bursts into jolly laughter.
+rum:>0:+2:CMD gasp $name;Do ye know where I could be findin' some rum!?
+guard|guards:>0:-:CMD snarl;Where have you seen a guard?  I'll keel-haul him!
+tylor|Tylor:>0:-:CMD scan;That one knows how to fight he does.;I'd be steerin' clear of him if yer lookin' to throw down.

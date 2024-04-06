@@ -6,7 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-ExodusMudClient-144949e4-e004-4c05-9293-87ca03174254</UserSecretsId>
   </PropertyGroup>
-
+<PropertyGroup>
+  <!-- Set warning level to 0 to suppress all warnings -->
+  <WarningLevel>0</WarningLevel>
+</PropertyGroup>
+<ItemGroup>
+  <PackageReference Include="TinyMCE.Blazor" Version="1.0.4" />
+</ItemGroup>
   <ItemGroup>
     <Compile Remove="wwwroot\AreaFiles\corpses\**" />
     <Content Remove="wwwroot\AreaFiles\corpses\**" />
@@ -23,8 +29,8 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="MudBlazor" Version="6.17.0" />
-    <PackageReference Include="MudBlazor.ThemeManager" Version="1.0.8" />
+    <PackageReference Include="MudBlazor" Version="6.19.1" />
+    <PackageReference Include="MudBlazor.ThemeManager" Version="1.0.9" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 

@@ -1,0 +1,18 @@
+* File: sheep.scr
+* Mob: sheep(21064)
+
+#TRIGGER appalachia
+Type 3
+Sc
+wfunc %behind% random 0 5
+if (%behind% >= 4)
+emote bleats contentedly and munches on a tuft of grass.
+halt once~
+Sc
+if (%behind% == 0)
+say baaa.
+halt once~
+End
+
+#END
+

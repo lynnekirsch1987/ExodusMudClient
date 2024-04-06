@@ -1,0 +1,14 @@
+* File: cav.scr
+* Mob Cavalry(11382)
+
+#TRIGGER regulator
+Type 10
+Sc
+mount hardr
+wfunc %drewl% random 0 50
+if (%drewl% == 42)
+say REGULATORS MOUNT UP!
+halt once~
+End
+
+#END

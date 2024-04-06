@@ -1,0 +1,382 @@
+#PLAYER
+Name Nyte~
+Id   935947831
+LogF 955876035
+LogO 955876035
+Vers 6
+Desc `aThe young man before has a slouched and defeated posture that does not suit an adventurer of his age.
+He is a fairly handsome young man with brown hair and bright green eyes.
+His attire seems more suited for speed rather then protection.
+As he walks away, you notice a tattoo on the back of his neck.  It looks to be some form of symbol: *{R}*``
+~
+Prom `n<`cHP:%h `cMA:%m `cMV:%v `cXP:`g%X`n> `i%S ~
+Race elf~
+Sex  1
+Cla  2
+Levl 9
+AALevl 2
+MBKill 2
+MHKill 328
+Hero 0
+Depty 0
+Sec  0
+Plyd 24387
+Bank_Gold 0
+Bank_Silv 0
+Email Foo234@aol.com~
+Host ABD8922D.ipt.aol.com~
+Not  946535742 948170611 0 948688855 940388408 947711025 932009729
+Scro 22
+Room 21237
+HMV  64 64 73 73 138 138
+Hand 2
+Gold 1
+Silv 1949
+Exp  39019
+Act  CDEFGHQ
+AfBy J
+Comm GNOQS
+Pos  8
+Save  -4
+Alig  1000
+Hit   15
+Dam   13
+ACs 38 32 40 64
+Wimp  11
+Attr 6 18 18 23 9 6
+AMod 6 0 0 1 4 -5
+Pass NyBeF.5luX/zM~
+Bcry  `a says, "You are as ugly as my former master!"~
+Plan  `` Still only a young man, Nyte searches for the truth.  The truth about
+his existance, his past.  With no real memories of his parents or his home,
+Nyte wanders the realms searching for answers.  All that Nyte knows is the
+life he left behind.  Painful memories of being a slave to the evil Nyjx.  
+~
+Layhands 0
+Exorcise 0
+Titl  of `bN`h'`aKree`.~
+Pnts 73
+TSex 1
+LLev 6
+Loner 0
+HMVP 61 118 138
+Cnd  -16 -7 15 20
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Sk 69 'dagger'
+Sk 1 'kai'
+Sk 62 'backstab'
+Sk 1 'circle'
+Sk 37 'dirt kicking'
+Sk 60 'dodge'
+Sk 1 'envenom'
+Sk 1 'assassinate'
+Sk 60 'throwing'
+Sk 1 'conceal'
+Sk 40 'haggle'
+Sk 1 'hide'
+Sk 1 'stalk'
+Sk 60 'lore'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 60 'sneak'
+Sk 1 'track'
+Sk 31 'steal'
+Sk 1 'palm'
+Gr 'rom basics'
+End
+
+#O
+Vnum 4293
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 5652
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 11535
+Nest 0
+ExtF 8388672
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 559
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+ExtF 8388609
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 5653
+Nest 0
+Cond 0
+Wear 14
+Cost 10
+End
+
+#O
+Vnum 4145
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 16
+Lev  19
+Cost 50
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+End
+
+#O
+Vnum 20966
+Enchanted
+Nest 0
+ExtF 8650816
+Cond 0
+Wear 5
+Lev  16
+Cost 0
+Affc 'enchant armor'   1  82  -1  -1  17          0 0 ''
+Affc 'reserved'   1  15  -1   1   5          0 0 ''
+End
+
+#O
+Vnum 21072
+Nest 0
+Cond 0
+Wear 1
+Cost 12
+End
+
+#O
+Vnum 21072
+Nest 0
+ExtF 8388608
+Cond 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 4153
+Nest 0
+Cond 0
+Wear 12
+Cost 176
+End
+
+#O
+Vnum 20959
+Nest 0
+Cond 0
+Wear 8
+Cost 53
+End
+
+#O
+Vnum 5118
+Enchanted
+Nest 0
+ExtF 8388673
+Cond 0
+Wear -1
+Lev  18
+Cost 0
+Affc 'enchant weapon'   1  90  -1   4  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 5611
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 14302
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 4145
+Nest 1
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5635
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21070
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 20956
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 21086
+Nest 0
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+Val  60 12 0 0 0 0 0
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 0
+Cond 0
+Wear -1
+Time 118
+Cost 30
+End
+
+#END

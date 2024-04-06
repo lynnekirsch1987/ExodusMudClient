@@ -1,0 +1,757 @@
+#PLAYER
+Name Malphaeus~
+Id   1248114433
+LogF 1249914506
+LogO 1249914506
+Vers 8
+Desc Your eyes fall on a willowy elf that has seen, perhaps, twenty four
+winters in his life.  His silver hair frames a face that could be beautiful,
+though there is a quality to this elf's eyes that seems to make even the
+most benign of expressions preverse or threatening.  His body seems too
+slender, comprised of lean sinew adorned in pale skin that has an unhealthy
+greay cast to it.  Clad mostly in the motely gear of a young adventurer, he
+grasps in his right hand a black bladed longsword that is etched with red
+runes that suggest blasphemy.  The air around this elf smells of copper and
+rot, and as a whole, he seems to give an aura of mania, loathing, and
+unwholesome humors.  
+~
+Prom <`lHP`g:%h/%H `lM`g:%m/%M `lMV`g:%v/%V>%c<%xxp %g> ~
+Race elf~
+Sex  1
+Cla  8
+Cla2  8
+Cla3  8
+Levl 38
+ODeaths 4
+MBKill 8
+MHKill 1713
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 336731
+NPlyd 0
+NAge 0
+Bank_Gold 2371
+Bank_Silv 9410
+Email malphaeus@gmail.com~
+Referrer mud connect~
+Souls 1739
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 9
+PointsNh 0
+PointsQ 0
+Avatar_Type 2
+Race_Old -1
+Class_Old -1
+New_Style 1
+Totalxp 62336003
+TotalS 18740
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 2
+TQHAttempt 1
+TotalCGL 0
+TotalCGW 0
+MPC 0
+Host pooled-193-48.lib.UMBC.EDU~
+Not  1249063263 1249741849 0 1241758847 1248808763 1249869565 0 0
+Scro 22
+Room 4056
+HMV  427 427 270 270 232 236
+Hand 2
+Gold 61
+Silv 5040
+Exp  2922420
+Act  DGHb
+Blok -1
+AfBy EFJ
+Comm NOSX
+Com2 A
+Pos  8
+Alig  -368
+Hit   40
+Dam   37
+ACs 59 59 59 62
+Wimp  74
+Attr 18 21 6 13 15 8
+AMod 6 0 1 5 0 0
+Pass MaQmKJFTkv/tA~
+Pret `aDeath `oS`ha`ai`hn`ot````~
+Bcry  smiles sardonically as he strikes with `aMournblade`h~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  Umbrata, `aWeaver of Woe`h~
+Pnts 6
+TSex 1
+LLev 79
+Loner 0
+HMVP 438 265 236
+Cd  -16 -16 -9 -16 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias bc butcher corpse~
+Alias em eat meat~
+Alias rpn rpnote +~
+Sk 46 'sense good'
+Sk 1 'sense hidden'
+Sk 81 'unholy smirk'
+Sk 1 'scorch metal'
+Sk 56 'sense alignment'
+Sk 71 'aura of evil'
+Sk 76 'shocking blade'
+Sk 71 'frost blade'
+Sk 81 'flaming blade'
+Sk 1 'chaotic blade'
+Sk 1 'apathy blade'
+Sk 71 'lightning burst'
+Sk 1 'ice burst'
+Sk 1 'fire burst'
+Sk 1 'unholy burst'
+Sk 56 'summon sword'
+Sk 96 'invocation'
+Sk 66 'shield block'
+Sk 100 'sword'
+Sk 71 'riding'
+Sk 1 'disarm'
+Sk 95 'dodge'
+Sk 83 'enhanced damage'
+Sk 61 'swimming'
+Sk 66 'kick'
+Sk 96 'parry'
+Sk 1 'rescue'
+Sk 81 'trip'
+Sk 1 'door bash'
+Sk 81 'butcher'
+Sk 1 'redirect'
+Sk 96 'second attack'
+Sk 1 'third attack'
+Sk 84 'fast healing'
+Sk 1 'sneak'
+Sk 71 'fishing'
+Sk 81 'repulse'
+Sk 1 'tempt'
+End
+
+#O
+Vnum 78
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 79
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4406
+Nest 0
+WearL -1
+Cost 1
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+End
+
+#O
+Vnum 4409
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4107
+Nest 0
+WearL -1
+Cost 320
+End
+
+#O
+Vnum 20961
+Nest 0
+WearL -1
+Cost 0
+ExDe papermsg~ ~
+ExDe note~ `bThe red dog runs in the storm...``
+~
+End
+
+#O
+Vnum 4302
+Nest 0
+WearL -1
+Cost 55
+End
+
+#O
+Vnum 7075
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4174
+Nest 1
+ExF 0 8650752
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4410
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 1
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 7262
+Nest 1
+ExF 0 2567
+WearL -1
+Cost 1600
+End
+
+#O
+Vnum 7262
+Nest 1
+ExF 0 2567
+WearL -1
+Cost 1600
+End
+
+#O
+Vnum 4364
+Nest 0
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 12923
+Nest 0
+Name sparkling newbie box `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `d[`kA Sparkling Newbie Box`d]``~
+Desc `kA sparkling newbie box from`o Iverath`k is here, stuffed with newbish items.``~
+WeaF 1
+WearL -1
+Lev  1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 27003
+Nest 1
+ExF 0 8652099
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 18956
+Nest 1
+WearL -1
+Cost 7403
+End
+
+#O
+Vnum 27018
+Nest 1
+WearL -1
+Cost 350
+End
+
+#O
+Vnum 4150
+Nest 1
+WearL -1
+Cost 265
+End
+
+#O
+Vnum 20964
+Nest 0
+Name pants newbie cavalry~
+ShD  `ba pair of`k (`cnewbie`k)`b pants``~
+WearL 32
+Lev  20
+Cost 140
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+WearL 1048576
+Lev  10
+Cost 10
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+WearL 4096
+Lev  10
+Cost 10
+End
+
+#O
+Vnum 114
+Nest 0
+Name forest green cloak newbie~
+ShD  `kA`c Fo`kre`cst`k (`cnewbie`k) Cl`co`kak``~
+Wt   0
+WearL 1024
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 12923
+Nest 0
+WearL -1
+Cost 15
+End
+
+#O
+Vnum 1737
+Nest 1
+WearL -1
+Cost 200000
+ExDe ice~ Ice encompasses this lily's deep purple petals, leaving them untouched by time.
+~
+End
+
+#O
+Vnum 1737
+Nest 1
+ExF 0 393216
+WearL -1
+Cost 200000
+ExDe ice~ Ice encompasses this lily's deep purple petals, leaving them untouched by time.
+~
+End
+
+#O
+Vnum 12952
+Nest 0
+ExF 0 85196800
+WearL 16384
+Cost 50000
+End
+
+#O
+Vnum 12936
+Nest 0
+ExF 0 8650755
+WearL 16
+Cost 0
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExF 0 67
+WearL 128
+Lev  21
+Cost 5000
+Affc 'enchant weapon'   1  90  -1   7  19          0 0 ''
+Affc 'enchant weapon'   1  90  -1   7  18          0 0 ''
+End
+
+#O
+Vnum 1078
+Nest 0
+WearL 262144
+Cost 675
+End
+
+#O
+Vnum 1079
+Nest 0
+WearL 64
+Cost 675
+End
+
+#O
+Vnum 1077
+Nest 0
+WearL 2048
+Cost 225
+End
+
+#O
+Vnum 1078
+Nest 0
+WearL 2
+Cost 675
+End
+
+#O
+Vnum 12219
+Nest 0
+WearL 8
+Cost 5000
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 20389
+Nest 0
+ExF 0 8650752
+WearL 256
+Cost 0
+End
+
+#O
+Vnum 20387
+Nest 0
+WearL 8388608
+Cost 500
+End
+
+#O
+Vnum 20386
+Nest 0
+WearL -1
+Cost 5000
+End
+
+#O
+Vnum 7265
+Nest 0
+ExF 0 3
+WearL 65536
+Cost 1500
+End
+
+#O
+Vnum 4307
+Nest 0
+WearL -1
+Cost 155
+End
+
+#O
+Vnum 5038
+Nest 0
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 1081
+Nest 0
+ExF 0 8650754
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade '`aMournblade`h`h'``~
+Desc `hThis Reaver blade bares the inscription '`aMournblade`h`h'.``~
+ExF 0 119443459
+Cardslot 2
+WearL 8192
+Cost 0
+Vlues  1 6 9 3 0 0 0 0 0 0 0 0 0
+Affc 'armor'   1  35  -1   9  18          0 0 ''
+Affc 'armor'   1  34  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 7251
+Nest 0
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 7929
+Nest 0
+WearL -1
+Cost 200
+End
+
+#O
+Vnum 21
+Nest 0
+WearL 2097152
+Cost 0
+End
+
+#O
+Vnum 1627
+Nest 0
+ExF 0 262144
+Ityp 9
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 12221
+Nest 0
+ExF 0 16779776
+WearL 524288
+Cost 0
+ExDe neck guard~ A black Falcon is emblazoned on this plate.
+~
+End
+
+#O
+Vnum 12221
+Nest 0
+ExF 0 25168385
+WearL 4
+Cost 0
+ExDe neck guard~ A black Falcon is emblazoned on this plate.
+~
+End
+
+#O
+Vnum 20
+Nest 0
+Name wispy cotton candy~
+ShD  `fwispy cotton candy``~
+Desc `dYou don't think that this `fwispy cotton candy`d could fill any belly but a sidhe's.``~
+WearL -1
+Cost 0
+Vlues  37 75 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Name wispy cotton candy~
+ShD  `fwispy cotton candy``~
+Desc `dYou don't think that this `fwispy cotton candy`d could fill any belly but a sidhe's.``~
+WearL -1
+Cost 0
+Vlues  37 75 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#RoomRLE   100 1 226 1 273 1 4 1 1 3 2 5 23 10 14 1 411 15 408 19 2 4 3 2 4 3 2 4 3 3 1 6 4 4 1 4 736 1 30 1 6 2 266 1 10 2 11 1 9 3 6 6 9 3 5 7 300 1 415 12 4 2 1 1 1 6 1 4 1 1 566 10 24 2 7 2 1 55 1 20 2 8 1 4 1 2 2 12 1 2 1 1 1 3 3 8 3 2 4 1 1 1 14 1 9 1 2 1 3 5 2 2 19 3 82 22 1 2 1 1 44 1 2 2 13 2 7 1 35 4 3 1 228 1 161 2 5 1 2 9 1 1 1 1 1 5 1 5 1 1 5 2 1 4 1 7 17 1 5 3 83 1 4 6 4 12 7 3 3 6 474 3 1700 27 623 19 2 2 4 27 1 9 3393 2 1 2 1553 1 1 3 1 3 1 1 1 6 1 2 1 2 3 1 1 1 3 1 3 1 1 5 3 1 2 4 5 5 5 5 5 2 1 1 6 2 1 1 6 2 1 1 6 2 1 1 6 4 6 3 7 4 6 6 4 3 2 2 3 3 3 1 2 13 3 3 1 1 4 6 1 6 8 2 8 2 8 2 3 8 1 1 5 1 1 1 5 1 1 1 5 1 1 1 5 1 1 1 5 1 1 1 5 1 1 1 5 1 1 1 5 1 1 1 2 4 1 1 2 1 2 1 1 15 792 3 2239 1 498 1 10 20 70 1 140 1 36 2 22 1 39 9 176 11 1569 5 1 1 1 2 20 9 1 5 35 3 2 4 1 1 2 4 39 4 20 7 1 5 1 1 1 1 1 1 5 3 3 1 43 1 19 1 1786 31 1 7 7 1 10 1 4 1 38 4 4 18 3 2 1 1 2 2 1 13 1 1 2 18 2 2 1 5 1 8 3 7 2 8 4 2 1 15 4 16 6 12 8 17 3 5 1 7 4 6 2 6 1 1 4 1 1 3 5 1 1 1 2 1 7 2 4 7 8 1 2 1 1 8 7 2 1 3 3 5 6 2 1 1 6 1 2 1 19 2 19 1 1 3 568 1 80 1 723 1 3 1 67 1 2137 1 19 1 18 1 8 1 5 1 133 1 262 1 155 1 549 1 308 1 145 1 17 1 15 6 21 1 128 1 11 7 1 6 1 1 1 4 1 2 20 1 125 1 1 10 2 7 1 8 2 7 1 6 167 1 4435 1 301 1 97 3 97 3 60 1 1 1 33 1 163 1 1 1 98 1 423 2 93 1 32503 -1
+
+#QbitsRLE   999 -1
+
+
+#SWORD
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade '`aMournblade`h`h'``~
+Desc `hThis Reaver blade bares the inscription '`aMournblade`h`h'.``~
+ExF 0 119443459
+BS2Cap 2 2 2 0 0 0 0
+BS2Char 0 0 0 0 0 0 0
+BBCap 0 0 0 0 0
+BBChar 0 0 0 0 0
+Cardslot 2
+WearL -1
+Cost 0
+Vlues  1 6 9 3 0 0 0 0 0 0 0 0 0
+Affc 'armor'   1  34  -1   6  19          0 0 ''
+Affc 'armor'   1  35  -1   9  18          0 0 ''
+End
+
+#END

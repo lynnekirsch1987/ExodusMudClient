@@ -1,0 +1,19 @@
+* File: newbieeleven.scr
+* Mob: Bat Newbie (vnum 6975)
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+  cmd say `bRAAAaaaWWwwrgh! You've killed me, `h%killer%`b!``
+  cmd say `dBut take my equipment, you have earned it.``
+  cmd pecho %killer% ``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% `hType '`jget all corpse`h' and then '`jwear wrist`h'``
+  cmd pecho %killer% `hYour PROMPT displays your HP's, Mana, and Moves!
+  cmd pecho %killer% `hLearn how to change it by typing `jhelp prompt`h.``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% ``
+  halt once~
+End
+#END

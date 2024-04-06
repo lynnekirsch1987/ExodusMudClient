@@ -1,0 +1,9955 @@
+#AREA
+ 6~
+adesert.are~
+`dThe Desert of Ath'Tanar``~
+{10 50} Exodus  `dThe Desert of Ath'Tanar``~
+~
+18304 18754
+25 0 0
+0 0
+desert~
+#MOBILES
+#18304
+red-tailed scorpion~
+A red-tailed scorpion~
+A scorpion with a fat red tail scuttles by you.
+~
+~
+lizard~
+0 0 0 0
+ABG 0 -500 0
+10 10 3d22+96 10d10+100 2d5+5 sting
+4 4 4 999 7
+0 -1 0 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium scales~
+0 0 0 100
+1
+~
+~
+#18305
+blue-tailed scorpion~
+A blue-tailed scorpion~
+A brown scorpion with a long blue tail wanders here.
+~
+~
+lizard~
+0 0 0 0
+ABG 0 0 0
+12 12 4d25+110 12d10+100 2d5+10 sting
+3 3 3 999 7
+0 -1 0 0 L I
+stand stand neutral 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18306
+sidewinder~
+A painted sidewinder~
+An oddly-colored sidewinder makes tracks in the sand here.
+~
+~
+snake~
+0 0 0 0
+ABG V -10 0
+15 15 5d30+161 0d0+0 3d5+8 bite
+4 4 4 999 7
+0 -1 M 0 L I
+stand stand either 0
+AGXYc ADEFKLQVXa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18307
+desert rat~
+A desert rat~
+A scruffy desert rat roots around here, looking for food.
+~
+~
+rabbit~
+0 0 0 0
+ABG P -400 0
+13 13 4d26+110 0d0+0 3d5+5 bite
+3 3 4 999 8
+0 -1 FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+2
+~
+~
+#18308
+sandworm worm garland~
+A large sand-worm~
+A sand-worm bursts out from beneath the desert surface!
+~
+~
+unique~
+0 0 0 0
+ABGMe FP -800 0
+30 30 10d50+860 3d40+200 5d6+15 grep
+-10 -10 -10 999 -6
+0 -1 MOV H L I
+rest stand either 0
+AGXc ACDEFHKQV 12 12 12 12 12 12 0
+giant earth~
+1 2 6000 100
+4
+~
+~
+#18309
+rock tortoise~
+A gray rock tortoise~
+A large shelled tortoise plods through the sand, looking for water.
+~
+~
+lizard~
+0 0 0 0
+ABG bde 500 0
+18 18 7d30+200 0d0+0 3d5+10 bite
+5 5 5 999 7
+0 -1 0 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18310
+red orange fish~
+A red and orange fish~
+A red and orange fish bubbles about in the water here.
+~
+~
+lizard~
+0 0 0 0
+ABG Vbe 0 0
+10 10 3d22+96 0d0+0 2d5+5 peck
+4 4 4 999 7
+0 -1 F 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18311
+long yellow fish~
+A long yellow fish~
+A long yellow fish darts through the currents here.
+~
+~
+lizard~
+0 0 0 0
+ABG Vbe 0 0
+10 10 3d22+96 0d0+0 2d5+2 peck
+4 4 4 999 7
+0 -1 F 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18312
+baby turtle~
+A baby turtle~
+A tiny turtle smiles and swims here.
+~
+~
+lizard~
+0 0 0 0
+ABG Vbe 0 0
+10 10 3d22+96 0d0+0 2d5+2 peck
+4 4 4 999 7
+0 -1 F 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18313
+apple fish~
+An applefish~
+A bright red fish swims slowly through the water here.
+~
+~
+lizard~
+0 0 0 0
+ABG Vbe 0 0
+10 10 3d22+96 0d0+0 2d5+2 peck
+4 4 4 999 7
+0 -1 F 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18314
+gray chimpanzee~
+A gray chimpanzee~
+A gray-furred chimp hangs from a tree here.
+~
+~
+human~
+0 0 0 0
+ABG QV 100 0
+20 20 8d50+300 20d10+100 4d5+10 claw
+-2 -2 -2 999 4
+0 -1 FM 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18315
+warthog~
+A spiny warthog~
+A strange spined warthog charges about through the brush.
+~
+~
+pig~
+0 0 0 0
+ABG V -220 0
+10 10 3d22+100 0d0+0 2d5+5 charge
+0 0 0 999 0
+0 -1 V 0 0 0
+stand stand either 0
+AGV ACDEFHJKa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18316
+anaconda~
+A striped anaconda~
+An odd striped anaconda hangs from a tree here.
+~
+~
+lizard~
+0 0 0 0
+ABG V -1000 0
+20 20 8d50+300 0d0+0 4d5+10 bite
+-2 -2 -2 999 4
+0 -1 0 0 L I
+stand stand male 0
+AGXc ACDEFHKQVa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+2
+~
+~
+#18317
+goldenback ape~
+A goldenbacked ape~
+A huge ape with stark white-yellow hair plods about the area here.
+~
+~
+unique~
+0 0 0 0
+ABG P -200 0
+40 40 10d120+600 0d0+0 5d8+16 pound
+-15 -15 -15 999 -2
+0 -1 C 0 E 0
+stand stand male 0
+0 0 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18318
+red crab~
+A red crab~
+A bright red crab shuffles through the sand.
+~
+~
+lizard~
+0 0 0 0
+ABG 0 0 0
+10 10 3d22+96 0d0+0 2d5+5 pierce
+5 5 5 999 7
+0 -1 0 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18319
+blue crab~
+A blue crab~
+A dark blue crab waves his pincers menacingly at you!
+~
+~
+lizard~
+0 0 0 0
+ABG 0 0 0
+11 11 3d22+96 0d0+0 2d5+2 pierce
+5 5 5 999 7
+0 -1 0 0 L I
+stand stand male 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18320
+bird paradise~
+A bird of paradise~
+A large, multicolored bird spreads its wings and takes to the sky.
+~
+~
+song bird~
+0 0 0 0
+ABG T 1000 0
+17 17 7d50+200 0d0+0 3d5+10 peck
+-2 -2 -2 999 4
+0 -1 FH 0 C 0
+stand stand female 0
+AGW ACDEFHKPZa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18321
+desert nomad~
+A desert nomad~
+A haggard man ambles through the sand, shielding himself from sunlight.
+~
+There is not much you can see about this man through his many headwraps and
+rags.
+~
+human~
+0 0 0 0
+ABG V -500 0
+35 35 10d80+800 1d3+100 5d6+15 slice
+-10 -10 -10 999 -1
+0 -1 FI 0 HI 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#18322
+ividian toucan~
+An Ividian toucan~
+A short bird with a slightly hooked beak stands on a branch here.
+~
+~
+song bird~
+0 0 0 0
+ABG T 0 0
+0 15 5d30+161 0d0+0 3d5+8 claw
+4 4 4 999 7
+0 -1 FH 0 0 0
+stand stand either 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18323
+wastrel man~
+A desert wastrel~
+A man rolls over in the sand, attempting to draw you closer.
+~
+Bearded and dirty, this desert dweller preys on hapless adventurers that
+would attempt to attack him while down.
+~
+human~
+0 0 0 0
+ACG BJPQV -1000 0
+30 30 10d53+300 10d20+200 5d5+9 punch
+-5 -5 -5 999 2
+0 -1 H 0 I 0
+stand stand male 50
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#18324
+blur sand wraith~
+A sand wraith~
+A blur of sand whirls around here, then seems to die off.
+~
+~
+unique~
+0 0 0 0
+ABG FOTV -1000 0
+34 34 10d60+749 1d40+100 5d5+13 sting
+-6 -6 -6 999 -6
+0 -1 H HIPT 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK 13 13 13 13 13 13 0
+medium earth~
+0 0 0 100
+0
+~
+~
+#18325
+renegade nomad~
+A renegade nomad~
+A desperate nomad, outcast from the nomad clans, skulks about here.
+~
+Ragged and filthy, this man bears the mark of a nomad outcast, not only
+in the vivid brand upon his forehead, poorly hidden by his greasy hair, but
+in the desperation and lonely hate in his eyes.  He clutches a sharp saber,
+and clearly intends to treat others as he feels he has been mistreated.  
+~
+human~
+0 0 0 0
+ACGHc DEQ -400 0
+45 45 20d86+900 45d100+200 4d11+29 slash
+-15 -16 -14 999 -9
+0 -1 CGVW B CR 0
+stand stand male 2
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#18326
+sand gull chelt'an~
+A sand-barred chelt'an~
+A bird with markings the color of sand hunts for food here.
+~
+~
+song bird~
+0 0 0 0
+ACG JTe 600 12
+16 16 5d30+200 1d1+100 3d5+5 peck
+2 2 2 999 1
+0 -1 FH 0 0 B
+stand stand either 0
+AGW ACDEFHKPQZa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#18327
+fish sal'anar orange~
+A quick sal'anar~
+`eIn a colorful flash of `borange`e scales, a fish evades a predator.``
+~
+~
+unique~
+0 0 0 0
+ABG Qe 200 0
+12 12 4d24+115 10d10+50 3d4+3 thwack
+2 2 2 999 5
+0 -1 H R 0 0
+stand stand either 65
+Ab ADEFKOQX 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#18328
+oval alth'ohl fish~
+A toothy alth'ohl~
+`aAn oval fish with lots of teeth hunts for prey here.``
+~
+~
+snake~
+0 0 0 0
+ABFG be 150 0
+21 21 7d40+240 10d10+50 4d5+4 shbite
+-3 -3 -3 999 4
+0 -1 DFK 0 L I
+stand stand either 420
+AGXYc ABCDEFGHIJKLQVXa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#18329
+hermit priestess~
+A hermit priestess~
+A maiden skillfully fishes here, clad only in the briefest of garments.
+~
+Dark-eyed and haired, this slender maiden has left the comforts of the
+city to better serve goals only she is sure of.  Based on the patterns she
+has painted on herself, she felt a religious pull to abandon her former
+life.  She wields a fishing spear with apparent ease and a great deal of
+grace.  
+~
+human~
+0 0 0 0
+ABGXc Hce 0 0
+65 20 10d90+3640 65d10+100 6d7+6 stab
+-19 -22 -19 999 -13
+0 -1 DEFINW AB C H
+stand stand female 0
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+3
+~
+~
+#18330
+horse stallion~
+A `opi`ieb`oal`id s`ota`ill`oio`in``~
+A piebald stallion races the wind.
+~
+What a beautiful animal!  A long mane tosses in the wind as this spirited
+beast tries to outrace the wind and almost succeeds!  
+~
+pig~
+0 0 0 0
+ANWe 0 0 18330
+40 40 5d20+1200 14d9+200 5d20+5 bite
+-15 -15 -15 999 -12
+0 -1 CDINVY 0 B H
+stand stand male 0
+AGV ACDEFHJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 4000 600
+0
+~
+~
+#18331
+horse mare~
+`ea graceful mare``~
+`eA graceful mare keeps pace with the herd stallion.
+~
+With a delicacy of a true artist, this lovely mare ducks her head and
+follows the herd stallion in a series of dancing steps.  
+~
+pig~
+0 0 0 0
+ANWe 0 0 18330
+40 40 5d20+1200 14d9+200 5d20+5 bite
+-15 -15 -15 999 -12
+0 -1 CDINVY 0 B H
+stand stand male 0
+AGV ACDEFHJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 4000 550
+0
+~
+~
+#0
+
+#OBJECTS
+#18304
+dusty cloth shroud~
+a heavy cloth shroud~
+A dusty cloth flutters in the wind.~
+cloth~
+0
+clothing 2
+JS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+26 30 0 G
+A
+2 -2
+A
+5 1
+A
+13 5
+#18305
+embroidered gloves~
+worn embroidered gloves~
+A worn pair of embroidered gloves lie here, ancient patterns just visible through the grime.~
+soft leather~
+0
+armor 2
+ST
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A A A B 0
+0
+0
+45 40 40 P
+A
+26 -2
+A
+24 -2
+#18306
+cacti cactus~
+a cactus~
+A solitary cactus offers forth a single blossom.~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+You smash the top off of the cactus, and see the cool, blessed water within.~
+~
+~
+-1 0 G ABEHLO L
+0
+0
+10 5000 0 P
+#18307
+cacti cactus~
+a cactus~
+The top has been smashed in on this cactus, exposing the sweet water within.~
+unknown~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+You smash the top off of the cactus, and see the cool, blessed water within.~
+~
+~
+0 0 0 0 0
+0
+0
+10 5000 0 P
+#18308
+fishing spear~
+a sharp fishing spear~
+Someone has abandoned a cleverly made spear here.~
+bamboo~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC ABC BC ABD DI
+0
+0
+65 50 30 P
+A
+26 2
+A
+24 -2
+A
+19 1
+A
+12 20
+#18436
+coin gold roll~
+`da roll of gold coins marked`a '`k20`a'``~
+`dA coin roll lies here.``~
+gold~
+0
+money 2
+TY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 CE 0 0 0
+0
+0
+1 200 2100 P
+#0
+
+#ROOMS
+#18432
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18417
+D1
+~
+~
+0 0 18433
+D2
+~
+~
+0 0 18447
+D3
+~
+~
+0 0 18431
+S
+#18433
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18418
+D1
+~
+~
+0 0 18434
+D2
+~
+~
+0 0 18448
+D3
+~
+~
+0 0 18432
+S
+#18434
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18419
+D1
+~
+~
+0 0 18435
+D2
+~
+~
+0 0 18449
+D3
+~
+~
+0 0 18433
+S
+#18435
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18420
+D1
+~
+~
+0 0 18436
+D2
+~
+~
+0 0 18450
+D3
+~
+~
+0 0 18434
+S
+#18436
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18421
+D2
+~
+~
+0 0 18451
+D3
+~
+~
+0 0 18435
+S
+#18437
+0 0
+~
+~
+~
+0 0 0
+Entangled within a thick jungle~
+Tropical vegetation surrounds you closely in every direction, evoking
+slight, but previously dormant feelings of claustrophobia.  Huge, majestic    
+snakes curl down tree branches overhead and prepare to snap at their prey,    
+possibly you.  In an attempt to nimbly avoid them, you find yourself          
+struggling to free your feet from a morass of sand and vine growth that       
+wrap around your feet.                                                        
+~
+0 0 14
+0
+~
+I 0 D2
+~
+~
+0 0 18438
+D3
+~
+~
+0 0 18424
+S
+#18438
+0 0
+~
+~
+~
+0 0 0
+Entangled within a thick jungle~
+Reclusive predators snarl quietly from behind the cloak of tropical shadows
+that cover this area as you pass them.  The wailing cry of a downed animal    
+quickly draws their attention elsewhere, leaving you to face this tangle      
+of plants without having to deal with their intervention.  Fernlike leaves    
+spiral downward to interlock with vines that seem to tie onto roots and       
+fallen tree branches, making it quite a task to move anywhere.                
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18437
+D3
+~
+~
+0 0 18439
+S
+#18439
+0 0
+~
+~
+~
+0 0 0
+Entangled within a thick jungle~
+Strange splintered cries of jungle predators cause you to move with an almost
+intense trepidation, throwing yourself against the near-impenetrable barrier  
+of thick-leafed plants that block your way.  Hardened and exposed tree roots  
+act as anchors to ground and sky vines, forming a three dimensional net that  
+takes several skillful attempts to bypass.  Leaning against a spongy tree,    
+you take a moment's rest from the torturous exercise of movement before       
+continuing your journey.                                                      
+~
+0 0 14
+0
+~
+I 0 D1
+~
+~
+0 0 18438
+D2
+~
+~
+0 0 18558
+D3
+~
+~
+0 0 18440
+S
+#18440
+0 0
+~
+~
+~
+0 0 0
+A Triangular Sandbar~
+Currents wash over jagged red rocks and through loose piles of sand, sifting
+the briny water and sending it to the river beyond.  Piles of pumice and
+sandstone act as natural sluices, catching and holding salt until animals
+come to lick it away.  Far off in the distance you can see waves crashing
+against the remote shoals of this continent, far out on a shallow plateau
+of sand.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 18409
+D1
+~
+~
+0 0 18439
+D2
+~
+~
+0 0 18544
+D3
+~
+~
+0 0 18454
+S
+#18441
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A spray of water lightly coats your face as large ocean waves tower
+upwards and come crashing down on the surface of the beach, sending turtles
+and crabs plodding away for cover.  Beach grass and sea plants tangle
+messily at the water's edge, forming a small organic reef that reaches into
+the blue-green fluid, housing several colorful fish and animals.  Walking
+along, you notice a strange feeling of displacement as the sea winds cool
+you on one side and the beating sun heats you on the other.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18426
+D1
+~
+~
+0 0 18442
+D2
+~
+~
+0 0 18456
+D3
+~
+~
+0 0 35265
+S
+#18442
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18427
+D1
+~
+~
+0 0 18443
+D2
+~
+~
+0 0 18457
+D3
+~
+~
+0 0 18441
+S
+#18443
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18428
+D1
+~
+~
+0 0 18444
+D2
+~
+~
+0 0 18458
+D3
+~
+~
+0 0 18442
+S
+#18444
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18429
+D1
+~
+~
+0 0 18445
+D2
+~
+~
+0 0 18459
+D3
+~
+~
+0 0 18443
+S
+#18445
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18430
+D1
+~
+~
+0 0 18446
+D2
+~
+~
+0 0 18460
+D3
+~
+~
+0 0 18444
+S
+#18446
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Luxuriously silky water spins into mad little whirlpools of warm water that
+die off almost as soon as they generate.  Clouds of powderlike sediment
+billow underwater, changing the strange bluish fluid into a bleeding brown
+and blue mess.  As you make your way along you notice birds standing at
+riverside ducking their large needlebeaks into the water and coming out
+with small, oval-shaped toothed fish.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18431
+D1
+~
+~
+0 0 18447
+D2
+~
+~
+0 0 18461
+D3
+~
+~
+0 0 18445
+S
+#18447
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18432
+D1
+~
+~
+0 0 18448
+D2
+~
+~
+0 0 18462
+D3
+~
+~
+0 0 18446
+S
+#18448
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18433
+D1
+~
+~
+0 0 18449
+D2
+~
+~
+0 0 18463
+D3
+~
+~
+0 0 18447
+S
+#18449
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18434
+D1
+~
+~
+0 0 18450
+D2
+~
+~
+0 0 18464
+D3
+~
+~
+0 0 18448
+S
+#18450
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18435
+D1
+~
+~
+0 0 18451
+D2
+~
+~
+0 0 18465
+D3
+~
+~
+0 0 18449
+S
+#18451
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18436
+D1
+~
+~
+0 0 18452
+D2
+~
+~
+0 0 18466
+D3
+~
+~
+0 0 18450
+S
+#18452
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 18453
+D2
+~
+~
+0 0 18467
+D3
+~
+~
+0 0 18451
+S
+#18453
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D2
+~
+~
+0 0 18468
+D3
+~
+~
+0 0 18452
+S
+#18454
+0 0
+~
+~
+~
+0 0 0
+Entangled within a thick jungle~
+Tropical vegetation surrounds you closely in every direction, evoking
+slight, but previously dormant feelings of claustrophobia.  Huge, majestic    
+snakes curl down tree branches overhead and prepare to snap at their prey,    
+possibly you.  In an attempt to nimbly avoid them, you find yourself          
+struggling to free your feet from a morass of sand and vine growth that       
+wrap around your feet.                                                        
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18393
+D1
+~
+~
+0 0 18440
+D2
+~
+~
+0 0 18543
+D3
+~
+~
+0 0 18514
+S
+#18455
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A pebbly shore smooths into a flat stretch of fine golden sand that
+extends as far as the eye can see.  Arcs of water propel themselves onto the
+coast, grasping it for a brief second before being dragged back into their
+mother sea.  Spikelets of erect crowded clusters of grass grow close to the
+water, soaking up leftover moisture from the tide.  As you slide along,
+leaving scattered foot trails, you notice a strange abundance of seaside
+life manuvering around, the only semblance of thriving nature for miles.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 35265
+D1
+~
+~
+0 0 18456
+D2
+~
+~
+0 0 18470
+D3
+~
+~
+0 0 35364
+S
+#18456
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18441
+D1
+~
+~
+0 0 18457
+D2
+~
+~
+0 0 18471
+D3
+~
+~
+0 0 18455
+S
+#18457
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18442
+D1
+~
+~
+0 0 18458
+D2
+~
+~
+0 0 18472
+D3
+~
+~
+0 0 18456
+S
+#18458
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18443
+D1
+~
+~
+0 0 18459
+D2
+~
+~
+0 0 18473
+D3
+~
+~
+0 0 18457
+S
+#18459
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18444
+D1
+~
+~
+0 0 18460
+D2
+~
+~
+0 0 18474
+D3
+~
+~
+0 0 18458
+S
+#18460
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18445
+D1
+~
+~
+0 0 18461
+D2
+~
+~
+0 0 18475
+D3
+~
+~
+0 0 18459
+S
+#18461
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18446
+D1
+~
+~
+0 0 18462
+D2
+~
+~
+0 0 18476
+D3
+~
+~
+0 0 18460
+S
+#18462
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18447
+D1
+~
+~
+0 0 18463
+D2
+~
+~
+0 0 18477
+D3
+~
+~
+0 0 18461
+S
+#18463
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18448
+D1
+~
+~
+0 0 18464
+D2
+~
+~
+0 0 18478
+D3
+~
+~
+0 0 18462
+S
+#18464
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18449
+D1
+~
+~
+0 0 18465
+D2
+~
+~
+0 0 18479
+D3
+~
+~
+0 0 18463
+S
+#18465
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18450
+D1
+~
+~
+0 0 18466
+D2
+~
+~
+0 0 18480
+D3
+~
+~
+0 0 18464
+S
+#18466
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18451
+D1
+~
+~
+0 0 18467
+D2
+~
+~
+0 0 18481
+D3
+~
+~
+0 0 18465
+S
+#18467
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18452
+D1
+~
+~
+0 0 18468
+D2
+~
+~
+0 0 18482
+D3
+~
+~
+0 0 18466
+S
+#18468
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18453
+D2
+~
+~
+0 0 18483
+D3
+~
+~
+0 0 18467
+S
+#18469
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+Red stones blend in with coarse yellow sand at the water's edge, and then
+fade into smooth underwater layers of the grainy stuff, spreading out
+endlessly into the ocean beyond.  Overhead, the sun beats down on the
+moisture-soaked sand, baking it into a strange slosh-sift mess near the
+ocean border.  Strips of torn kelp and moss wash onto the shore from time to
+time, littering the coast temporarily until the strong waves wash up to
+reclaim them.  As you walk about, the cries of seabirds, startled at the
+sight of sentient life, draw your attention upwards to the cloudless blue
+sky.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 35364
+D1
+~
+~
+0 0 18470
+D2
+~
+~
+0 0 18484
+D3
+~
+~
+0 0 35463
+S
+#18470
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18455
+D1
+~
+~
+0 0 18471
+D2
+~
+~
+0 0 18485
+D3
+~
+~
+0 0 18469
+S
+#18471
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18456
+D1
+~
+~
+0 0 18472
+D2
+~
+~
+0 0 18486
+D3
+~
+~
+0 0 18470
+S
+#18472
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18457
+D1
+~
+~
+0 0 18473
+D2
+~
+~
+0 0 18487
+D3
+~
+~
+0 0 18471
+S
+#18473
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18458
+D1
+~
+~
+0 0 18474
+D2
+~
+~
+0 0 18488
+D3
+~
+~
+0 0 18472
+S
+#18474
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18459
+D1
+~
+~
+0 0 18475
+D2
+~
+~
+0 0 18489
+D3
+~
+~
+0 0 18473
+S
+#18475
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18460
+D1
+~
+~
+0 0 18476
+D2
+~
+~
+0 0 18490
+D3
+~
+~
+0 0 18474
+S
+#18476
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Large sandstone deposits at the bottom of this narrow river strip act as
+small coves for hordes of vicious wetland river animals.  Tiny stirrings
+of sand mark the darting of some small predator fish to his prey, and
+a tiny cloud of blood rising to the surface a few feet away confirm his
+skill as a river hunter.  Above, birds circle nervously, looking for
+a safe meal in the stream below.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18461
+D1
+~
+~
+0 0 18477
+D2
+~
+~
+0 0 18491
+D3
+~
+~
+0 0 18475
+S
+#18477
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18462
+D1
+~
+~
+0 0 18478
+D2
+~
+~
+0 0 18492
+D3
+~
+~
+0 0 18476
+S
+#18478
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18463
+D1
+~
+~
+0 0 18479
+D2
+~
+~
+0 0 18493
+D3
+~
+~
+0 0 18477
+S
+#18479
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18464
+D1
+~
+~
+0 0 18480
+D2
+~
+~
+0 0 18494
+D3
+~
+~
+0 0 18478
+S
+#18480
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18465
+D1
+~
+~
+0 0 18481
+D2
+~
+~
+0 0 18495
+D3
+~
+~
+0 0 18479
+S
+#18481
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18466
+D1
+~
+~
+0 0 18482
+D2
+~
+~
+0 0 18496
+D3
+~
+~
+0 0 18480
+S
+#18482
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18467
+D1
+~
+~
+0 0 18483
+D2
+~
+~
+0 0 18497
+D3
+~
+~
+0 0 18481
+S
+#18483
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18468
+D2
+~
+~
+0 0 18498
+D3
+~
+~
+0 0 18482
+S
+#18484
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A pebbly shore smooths into a flat stretch of fine golden sand that
+extends as far as the eye can see.  Arcs of water propel themselves onto the
+coast, grasping it for a brief second before being dragged back into their
+mother sea.  Spikelets of erect crowded clusters of grass grow close to the
+water, soaking up leftover moisture from the tide.  As you slide along,
+leaving scattered foot trails, you notice a strange abundance of seaside
+life manuvering around, the only semblance of thriving nature for miles.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18469
+D1
+~
+~
+0 0 18485
+D2
+~
+~
+0 0 18499
+D3
+~
+~
+0 0 35563
+S
+#18485
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18470
+D1
+~
+~
+0 0 18486
+D2
+~
+~
+0 0 18500
+D3
+~
+~
+0 0 18484
+S
+#18486
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18471
+D1
+~
+~
+0 0 18487
+D2
+~
+~
+0 0 18501
+D3
+~
+~
+0 0 18485
+S
+#18487
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18472
+D1
+~
+~
+0 0 18488
+D2
+~
+~
+0 0 18502
+D3
+~
+~
+0 0 18486
+S
+#18488
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18473
+D1
+~
+~
+0 0 18489
+D2
+~
+~
+0 0 18503
+D3
+~
+~
+0 0 18487
+S
+#18489
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18474
+D1
+~
+~
+0 0 18490
+D2
+~
+~
+0 0 18504
+D3
+~
+~
+0 0 18488
+S
+#18490
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18475
+D1
+~
+~
+0 0 18491
+D2
+~
+~
+0 0 18505
+D3
+~
+~
+0 0 18489
+S
+#18491
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Luxuriously silky water spins into mad little whirlpools of warm water that
+die off almost as soon as they generate.  Clouds of powderlike sediment
+billow underwater, changing the strange bluish fluid into a bleeding brown
+and blue mess.  As you make your way along you notice birds standing at
+riverside ducking their large needlebeaks into the water and coming out
+with small, oval-shaped toothed fish.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18476
+D1
+~
+~
+0 0 18492
+D2
+~
+~
+0 0 18506
+D3
+~
+~
+0 0 18490
+S
+#18492
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18477
+D1
+~
+~
+0 0 18493
+D2
+~
+~
+0 0 18507
+D3
+~
+~
+0 0 18491
+S
+#18493
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18478
+D1
+~
+~
+0 0 18494
+D2
+~
+~
+0 0 18508
+D3
+~
+~
+0 0 18492
+S
+#18494
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18479
+D1
+~
+~
+0 0 18495
+D2
+~
+~
+0 0 18509
+D3
+~
+~
+0 0 18493
+S
+#18495
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18480
+D1
+~
+~
+0 0 18496
+D2
+~
+~
+0 0 18510
+D3
+~
+~
+0 0 18494
+S
+#18496
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18481
+D1
+~
+~
+0 0 18497
+D2
+~
+~
+0 0 18511
+D3
+~
+~
+0 0 18495
+S
+#18497
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18482
+D1
+~
+~
+0 0 18498
+D2
+~
+~
+0 0 18512
+D3
+~
+~
+0 0 18496
+S
+#18498
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18483
+D2
+~
+~
+0 0 18513
+D3
+~
+~
+0 0 18497
+S
+#18499
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A spray of water lightly coats your face as large ocean waves tower
+upwards and come crashing down on the surface of the beach, sending turtles
+and crabs plodding away for cover.  Beach grass and sea plants tangle
+messily at the water's edge, forming a small organic reef that reaches into
+the blue-green fluid, housing several colorful fish and animals.  Walking
+along, you notice a strange feeling of displacement as the sea winds cool
+you on one side and the beating sun heats you on the other.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18484
+D1
+~
+~
+0 0 18500
+D2
+~
+~
+0 0 35764
+D3
+~
+~
+0 0 35663
+S
+#18500
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18485
+D1
+~
+~
+0 0 18501
+D2
+~
+~
+0 0 18515
+D3
+~
+~
+0 0 18499
+S
+#18501
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18486
+D1
+~
+~
+0 0 18502
+D2
+~
+~
+0 0 18516
+D3
+~
+~
+0 0 18500
+S
+#18502
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18487
+D1
+~
+~
+0 0 18503
+D2
+~
+~
+0 0 18517
+D3
+~
+~
+0 0 18501
+S
+#18503
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18488
+D1
+~
+~
+0 0 18504
+D2
+~
+~
+0 0 18518
+D3
+~
+~
+0 0 18502
+S
+#18504
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18489
+D1
+~
+~
+0 0 18505
+D2
+~
+~
+0 0 18519
+D3
+~
+~
+0 0 18503
+S
+#18505
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18490
+D1
+~
+~
+0 0 18506
+D2
+~
+~
+0 0 18520
+D3
+~
+~
+0 0 18504
+S
+#18506
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18491
+D1
+~
+~
+0 0 18507
+D2
+~
+~
+0 0 18521
+D3
+~
+~
+0 0 18505
+S
+#18507
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18492
+D1
+~
+~
+0 0 18508
+D2
+~
+~
+0 0 18522
+D3
+~
+~
+0 0 18506
+S
+#18508
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18493
+D1
+~
+~
+0 0 18509
+D2
+~
+~
+0 0 18523
+D3
+~
+~
+0 0 18507
+S
+#18509
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18494
+D1
+~
+~
+0 0 18510
+D2
+~
+~
+0 0 18524
+D3
+~
+~
+0 0 18508
+S
+#18510
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18495
+D1
+~
+~
+0 0 18511
+D2
+~
+~
+0 0 18525
+D3
+~
+~
+0 0 18509
+S
+#18511
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18496
+D1
+~
+~
+0 0 18512
+D2
+~
+~
+0 0 18526
+D3
+~
+~
+0 0 18510
+S
+#18512
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18497
+D1
+~
+~
+0 0 18513
+D2
+~
+~
+0 0 18527
+D3
+~
+~
+0 0 18511
+S
+#18513
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18498
+D2
+~
+~
+0 0 18528
+D3
+~
+~
+0 0 18512
+S
+#18514
+0 0
+~
+~
+~
+0 0 0
+Entangled within a thick jungle~
+Reclusive predators snarl quietly from behind the cloak of tropical shadows
+that cover this area as you pass them.  The wailing cry of a downed animal 
+quickly draws their attention elsewhere, leaving you to face this tangle
+of plants without having to deal with their intervention.  Fernlike leaves 
+spiral downward to interlock with vines that seem to tie onto roots and 
+fallen tree branches, making it quite a task to move anywhere. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18392
+D1
+~
+~
+0 0 18454
+S
+#18515
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A pebbly shore smooths into a flat stretch of fine golden sand that
+extends as far as the eye can see.  Arcs of water propel themselves onto the
+coast, grasping it for a brief second before being dragged back into their
+mother sea.  Spikelets of erect crowded clusters of grass grow close to the
+water, soaking up leftover moisture from the tide.  As you slide along,
+leaving scattered foot trails, you notice a strange abundance of seaside
+life manuvering around, the only semblance of thriving nature for miles.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18500
+D1
+~
+~
+0 0 18516
+D2
+~
+~
+0 0 18530
+D3
+~
+~
+0 0 35764
+S
+#18516
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18501
+D1
+~
+~
+0 0 18517
+D2
+~
+~
+0 0 18531
+D3
+~
+~
+0 0 18515
+S
+#18517
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18502
+D1
+~
+~
+0 0 18518
+D2
+~
+~
+0 0 18532
+D3
+~
+~
+0 0 18516
+S
+#18518
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18503
+D1
+~
+~
+0 0 18519
+D2
+~
+~
+0 0 18533
+D3
+~
+~
+0 0 18517
+S
+#18519
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18504
+D1
+~
+~
+0 0 18520
+D2
+~
+~
+0 0 18534
+D3
+~
+~
+0 0 18518
+S
+#18520
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18505
+D1
+~
+~
+0 0 18521
+D2
+~
+~
+0 0 18535
+D3
+~
+~
+0 0 18519
+S
+#18521
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18506
+D1
+~
+~
+0 0 18522
+D2
+~
+~
+0 0 18536
+D3
+~
+~
+0 0 18520
+S
+#18522
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18507
+D1
+~
+~
+0 0 18523
+D2
+~
+~
+0 0 18537
+D3
+~
+~
+0 0 18521
+S
+#18523
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18508
+D1
+~
+~
+0 0 18524
+D2
+~
+~
+0 0 18538
+D3
+~
+~
+0 0 18522
+S
+#18524
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18509
+D1
+~
+~
+0 0 18525
+D2
+~
+~
+0 0 18539
+D3
+~
+~
+0 0 18523
+S
+#18525
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18510
+D1
+~
+~
+0 0 18526
+D2
+~
+~
+0 0 18540
+D3
+~
+~
+0 0 18524
+S
+#18526
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18511
+D1
+~
+~
+0 0 18527
+D2
+~
+~
+0 0 18541
+D3
+~
+~
+0 0 18525
+S
+#18527
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18512
+D1
+~
+~
+0 0 18528
+D2
+~
+~
+0 0 18542
+D3
+~
+~
+0 0 18526
+S
+#18528
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18513
+D3
+~
+~
+0 0 18527
+S
+#18529
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing glare of
+light reflected off countless grains reaches the eye.  Intense waves of heat
+rise from below, distorting and blurring the sloping hills and rolling
+valleys of shifting sand.  The ground itself is constantly in motion,
+footsteps falling on unstable ground, a tiny avalanche sliding away with
+each, light breezes carrying fine sheets of sand across the dunes - only the
+occasional cactus or desert flower holds steady in the constant motion.  
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 18530
+S
+#18530
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18515
+D1
+~
+~
+0 0 18531
+D2
+~
+~
+0 0 18545
+D3
+~
+~
+0 0 18529
+S
+#18531
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18516
+D1
+~
+~
+0 0 18532
+D2
+~
+~
+0 0 18546
+D3
+~
+~
+0 0 18530
+S
+#18532
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18517
+D1
+~
+~
+0 0 18533
+D2
+~
+~
+0 0 18547
+D3
+~
+~
+0 0 18531
+S
+#18533
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18518
+D1
+~
+~
+0 0 18534
+D2
+~
+~
+0 0 18548
+D3
+~
+~
+0 0 18532
+S
+#18534
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.    
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18519
+D1
+~
+~
+0 0 18535
+D2
+~
+~
+0 0 18549
+D3
+~
+~
+0 0 18533
+S
+#18535
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18520
+D1
+~
+~
+0 0 18536
+D2
+~
+~
+0 0 18550
+D3
+~
+~
+0 0 18534
+S
+#18536
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18521
+D1
+~
+~
+0 0 18537
+D2
+~
+~
+0 0 18551
+D3
+~
+~
+0 0 18535
+S
+#18537
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18522
+D1
+~
+~
+0 0 18538
+D2
+~
+~
+0 0 18552
+D3
+~
+~
+0 0 18536
+S
+#18538
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18523
+D1
+~
+~
+0 0 18539
+D2
+~
+~
+0 0 18553
+D3
+~
+~
+0 0 18537
+S
+#18539
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18524
+D1
+~
+~
+0 0 18540
+D2
+~
+~
+0 0 18554
+D3
+~
+~
+0 0 18538
+S
+#18540
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18525
+D1
+~
+~
+0 0 18541
+D2
+~
+~
+0 0 18555
+D3
+~
+~
+0 0 18539
+S
+#18541
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18526
+D1
+~
+~
+0 0 18542
+D2
+~
+~
+0 0 18556
+D3
+~
+~
+0 0 18540
+S
+#18542
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18527
+D2
+~
+~
+0 0 18557
+D3
+~
+~
+0 0 18541
+S
+#18543
+0 0
+~
+~
+~
+0 0 0
+Upon the olive coast~
+Trees of all kinds wall in the foreboding jungle here, rimmed by an outer
+layer of reddish sand and rock formations that jut into the sea.  Water
+washes up along the rocks and occasionally through the closer trees, soaking
+the area with the briny smell of the ocean.  Blue crayfish make their way
+down the shore to the water's edge as you approach, leaving small trails
+in the sand.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18454
+D1
+~
+~
+0 0 18544
+S
+#18544
+0 0
+~
+~
+~
+0 0 0
+At the mouth of the river Ividu~
+Sparkling dark blue water rushes in from the Ividu river here, over piles
+of sand and varied rocks, before sliding out into the ocean beyond.  White
+piles of foam gather at the water's edge, where the near-freshwater meets
+the salty ocean and hemmorhages, bleeding white blood.  River fish slam
+their tails madly in an attempt to leave this place and nestle back into
+the soft currents of the Ividu, before being dragged out into the sea.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18440
+D1
+~
+~
+0 0 18558
+D2
+~
+~
+0 0 36172
+D3
+~
+~
+0 0 18543
+S
+#18545
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region an
+aberrant feel of unnatural life.  Whirls of sand stirred into motion by
+searing eastern winds spin about and then die, lending their potential
+energy to spawn other small sand spirals in a seemingly neverending process.
+As you lift your legs slowly and carefully, plodding through the sift, you
+notice small desert creatures following and eyeing you carefully, as if
+merely waiting for your inevitable demise.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18530
+D1
+~
+~
+0 0 18546
+S
+#18546
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18531
+D1
+~
+~
+0 0 18547
+D2
+~
+~
+0 0 18561
+D3
+~
+~
+0 0 18545
+S
+#18547
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18532
+D1
+~
+~
+0 0 18548
+D2
+~
+~
+0 0 18562
+D3
+~
+~
+0 0 18546
+S
+#18548
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18533
+D1
+~
+~
+0 0 18549
+D2
+~
+~
+0 0 18563
+D3
+~
+~
+0 0 18547
+S
+#18549
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of    
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.     
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18534
+D1
+~
+~
+0 0 18550
+D2
+~
+~
+0 0 18564
+D3
+~
+~
+0 0 18548
+S
+#18550
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.     
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18535
+D1
+~
+~
+0 0 18551
+D2
+~
+~
+0 0 18565
+D3
+~
+~
+0 0 18549
+S
+#18551
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18536
+D1
+~
+~
+0 0 18552
+D2
+~
+~
+0 0 18566
+D3
+~
+~
+0 0 18550
+S
+#18552
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18537
+D1
+~
+~
+0 0 18553
+D2
+~
+~
+0 0 18567
+D3
+~
+~
+0 0 18551
+S
+#18553
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18538
+D1
+~
+~
+0 0 18554
+D2
+~
+~
+0 0 18568
+D3
+~
+~
+0 0 18552
+S
+#18554
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18539
+D1
+~
+~
+0 0 18555
+D2
+~
+~
+0 0 18569
+D3
+~
+~
+0 0 18553
+S
+#18555
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18540
+D1
+~
+~
+0 0 18556
+D2
+~
+~
+0 0 18570
+D3
+~
+~
+0 0 18554
+S
+#18556
+91 40
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with
+strain as the humid air continually deposits moisture on their surfaces. 
+Walking by, you are greeted with an almost continuous sprinkle of water as
+you trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony.  
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18541
+D1
+~
+~
+0 0 18557
+D2
+~
+~
+0 0 18571
+D3
+~
+~
+0 0 18555
+S
+#18557
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18542
+D2
+~
+~
+0 0 18572
+D3
+~
+~
+0 0 18556
+S
+#18558
+0 0
+~
+~
+~
+0 0 0
+Upon the olive coast~
+Clusters of olive-green trees mark this area and lend their name to it,
+acting as signals for those who would consider landing in this dangerous
+place.  Large red rocks stand midway along the tide points, halfway
+immersed after the sun sets and protruding from the sand in the daytime.
+As you scan along this land you notice an abundance of fur-covered creatures
+that scamper up trees and cackle down at you with an odd semblance of
+pseudointelligence.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18439
+D3
+~
+~
+0 0 18544
+S
+#18561
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18546
+D1
+~
+~
+0 0 18562
+D2
+~
+~
+0 0 8800
+S
+#18562
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18547
+D1
+~
+~
+0 0 18563
+D2
+~
+~
+0 0 8802
+D3
+~
+~
+0 0 18561
+S
+#18563
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 O none~
+D0
+~
+~
+0 0 18548
+D1
+~
+~
+0 0 18564
+D3
+~
+~
+0 0 18562
+S
+#18564
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18549
+D1
+~
+~
+0 0 18565
+D3
+~
+~
+0 0 18563
+S
+#18565
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18550
+D1
+~
+~
+0 0 18566
+D2
+~
+~
+0 0 18378
+D3
+~
+~
+0 0 18564
+S
+#18566
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18551
+D1
+~
+~
+0 0 18567
+D2
+~
+~
+0 0 18379
+D3
+~
+~
+0 0 18565
+S
+#18567
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18552
+D1
+~
+~
+0 0 18568
+D2
+~
+~
+0 0 18392
+D3
+~
+~
+0 0 18566
+S
+#18568
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18553
+D1
+~
+~
+0 0 18569
+D2
+~
+~
+0 0 18393
+D3
+~
+~
+0 0 18567
+S
+#18569
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Luxuriously silky water spins into mad little whirlpools of warm water that
+die off almost as soon as they generate.  Clouds of powderlike sediment
+billow underwater, changing the strange bluish fluid into a bleeding brown
+and blue mess.  As you make your way along you notice birds standing at
+riverside ducking their large needlebeaks into the water and coming out
+with small, oval-shaped toothed fish.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18554
+D1
+~
+~
+0 0 18570
+D2
+~
+~
+0 0 18409
+D3
+~
+~
+0 0 18568
+S
+#18570
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Large sandstone deposits at the bottom of this narrow river strip act as
+small coves for hordes of vicious wetland river animals.  Tiny stirrings
+of sand mark the darting of some small predator fish to his prey, and
+a tiny cloud of blood rising to the surface a few feet away confirm his
+skill as a river hunter.  Above, birds circle nervously, looking for
+a safe meal in the stream below.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18555
+D1
+~
+~
+0 0 18571
+D3
+~
+~
+0 0 18569
+S
+#18571
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18556
+D1
+~
+~
+0 0 18572
+D3
+~
+~
+0 0 18570
+S
+#18572
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18557
+D1
+~
+~
+0 0 19160
+D3
+~
+~
+0 0 18571
+S
+#18574
+0 0
+~
+~
+~
+0 0 0
+Travelling through the Ividian Wetforest~
+Exotic birds chirp strange songs from above as you wander beneath their
+roosts.  Shade from the tall trees is only a slight relief from the
+humidity that this area boasts, a boon to the growth of odd and mysterious
+life.  As you walk through you notice several colorful plants of kinds
+you cannot place.
+~
+0 0 14
+0
+~
+I 0 D1
+~
+~
+0 0 18575
+D2
+~
+~
+0 0 18576
+D3
+~
+~
+0 0 18408
+S
+#18575
+0 0
+~
+~
+~
+0 0 0
+Travelling through the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D1
+~
+~
+0 0 10754
+D2
+~
+~
+0 0 18577
+D3
+~
+~
+0 0 18574
+S
+#18576
+0 0
+~
+~
+~
+0 0 0
+Within the folds of a humid wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain  
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you 
+trigger the release of strands of water by simply touching them.  Birds 
+chirp short arias and sonatas in synch, filling the air with a distorted 
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18574
+D1
+~
+~
+0 0 18577
+D3
+~
+~
+0 0 18423
+S
+#18577
+0 0
+~
+~
+~
+0 0 0
+Within the folds of a humid wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully  
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little
+amphibians that fade into their backdrop.  
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18575
+D1
+~
+~
+0 0 18578
+D3
+~
+~
+0 0 18576
+S
+#18578
+0 0
+~
+~
+~
+0 0 0
+Within the folds of a humid wetforest~
+Flexible waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.  
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent 
+odor of broken plantlife hangs heavy in the humid air, clinging to your  
+clothes and armor as you pass. 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 10754
+D3
+~
+~
+0 0 18577
+S
+#18579
+50 500
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to
+look around for any avenue of escape and find none.  Wizened cacti provide a
+brief prophetic glimpse of exactly what your further journeying into this
+desert will be like.  Arid winds remove moisture from your face as you turn
+to face the remaining expanses of parched land.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18457
+D1
+~
+~
+0 0 18473
+D2
+~
+~
+0 0 18487
+D3
+~
+~
+0 0 18471
+S
+#18305
+0 0
+~
+~
+~
+0 0 0
+The verdant coast~
+Sharp, piercing pebbles make it necessary to watch your step as you tread
+across this weedy land.  Triangular trees spiral upwards to form drooping
+canopies of shade, where small furred desert rats and crabs search for food
+underneath.  The saline smell of the air acts as a testament to the relative
+nearness of the ocean, which you can hear as clearly as if it were right in
+front of you.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18319
+D1
+~
+~
+0 0 18351
+D2
+~
+~
+0 0 18308
+D3
+~
+~
+0 0 34366
+S
+#18306
+0 0
+~
+~
+~
+0 0 0
+The edge of the vast desert~
+Shafts of sunlight distort and disperse as they sift through the net of
+liquid-like walls of heat, to fall and heat the now-still sands that litter
+this seemingly endless desert.  This stillness is soon disturbed as
+sweltering gusts of wind exacerbate the climate, making swift travel
+difficult and uncomfortable.  As you make your way through this forsaken pit
+of desolation, you notice small sparkles off in the distance, perhaps
+hinting of some end to this barrenness.  
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 18307
+D2
+~
+~
+0 0 18321
+S
+#18307
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 18308
+D2
+~
+~
+0 0 18322
+D3
+~
+~
+0 0 18306
+S
+#18308
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18305
+D1
+~
+~
+0 0 18309
+D2
+~
+~
+0 0 18323
+D3
+~
+~
+0 0 18307
+S
+#18309
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18351
+D1
+~
+~
+0 0 18310
+D2
+~
+~
+0 0 18324
+D3
+~
+~
+0 0 18308
+S
+#18310
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D1
+~
+~
+0 0 18311
+D2
+~
+~
+0 0 18325
+D3
+~
+~
+0 0 18309
+S
+#18311
+0 0
+~
+~
+~
+0 0 0
+At the head of the river Ividu~
+A large swirl of water flows slowly in a spiral, curving outwards to the
+south to blend into a slightly raised riverbed.  Plants hug the shore,
+growing either right at the water's edge or actually in the water, to
+compensate for the anhydrous climate.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18363
+D1
+~
+~
+0 0 18312
+D2
+~
+~
+0 0 18326
+D3
+~
+~
+0 0 18310
+S
+#18312
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 18313
+D2
+~
+~
+0 0 18327
+D3
+~
+~
+0 0 18311
+S
+#18313
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18377
+D1
+~
+~
+0 0 18314
+D2
+~
+~
+0 0 18328
+D3
+~
+~
+0 0 18312
+S
+#18314
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 18315
+D2
+~
+~
+0 0 18329
+D3
+~
+~
+0 0 18313
+S
+#18315
+0 0
+~
+~
+~
+0 0 0
+On the Banks of the river Ividu~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.  
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent 
+odor of broken plantlife hangs heavy in the humid air, clinging to your  
+clothes and armor as you pass. 
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 18316
+D2
+~
+~
+0 0 18330
+D3
+~
+~
+0 0 18314
+S
+#18316
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 18317
+D2
+~
+~
+0 0 18331
+D3
+~
+~
+0 0 18315
+S
+#18317
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 18318
+D2
+~
+~
+0 0 18332
+D3
+~
+~
+0 0 18316
+S
+#18318
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 10815
+D2
+~
+~
+0 0 18333
+D3
+~
+~
+0 0 18317
+S
+#18319
+0 0
+~
+~
+~
+0 0 0
+The verdant coast~
+Tall weeds grow out of the disarray of sand and grass here, and border
+small trees bearing coconuts and palm leaves.  The sounds of exotic birds
+and animals interact with the constant sound of ocean water, creating a
+strange dissonance that somehow seems appropriate.  A cloudless sky acts as
+a poor shield for the rays of sunlight that filter down through the leaves
+to heat you uncomfortably.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 34167
+D1
+~
+~
+0 0 18348
+D2
+~
+~
+0 0 18305
+D3
+~
+~
+0 0 34266
+S
+#18320
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+Cooling breezes of ocean air provide a temporary relief from the
+sweltering heat that pervades this area.  White-crested waves crest quickly
+and extend onto the beach, causing the dark stained patch of sand to creep
+slowly outwards.  Tiny bright red crabs scuttle into quickly-forged holes as
+the water sweeps over the beach, and then stick out eyestalks to see exactly
+how safe it is to return to their position of foraging.  
+~
+0 0 17
+0
+~
+I 0 D1
+~
+~
+0 0 18321
+D2
+~
+~
+0 0 18335
+D3
+~
+~
+0 0 34464
+S
+#18321
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18306
+D1
+~
+~
+0 0 18322
+D2
+~
+~
+0 0 18336
+D3
+~
+~
+0 0 18320
+S
+#18322
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18307
+D1
+~
+~
+0 0 18323
+D2
+~
+~
+0 0 18337
+D3
+~
+~
+0 0 18321
+S
+#18323
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18308
+D1
+~
+~
+0 0 18324
+D2
+~
+~
+0 0 18338
+D3
+~
+~
+0 0 18322
+S
+#18324
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18309
+D1
+~
+~
+0 0 18325
+D2
+~
+~
+0 0 18339
+D3
+~
+~
+0 0 18323
+S
+#18325
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18310
+D1
+~
+~
+0 0 18326
+D2
+~
+~
+0 0 18340
+D3
+~
+~
+0 0 18324
+S
+#18326
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18311
+D1
+~
+~
+0 0 18327
+D2
+~
+~
+0 0 18341
+D3
+~
+~
+0 0 18325
+S
+#18327
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18312
+D1
+~
+~
+0 0 18328
+D2
+~
+~
+0 0 18342
+D3
+~
+~
+0 0 18326
+S
+#18328
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18313
+D1
+~
+~
+0 0 18329
+D2
+~
+~
+0 0 18343
+D3
+~
+~
+0 0 18327
+S
+#18329
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18314
+D1
+~
+~
+0 0 18330
+D2
+~
+~
+0 0 18344
+D3
+~
+~
+0 0 18328
+S
+#18330
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18315
+D1
+~
+~
+0 0 18331
+D2
+~
+~
+0 0 18345
+D3
+~
+~
+0 0 18329
+S
+#18331
+0 0
+~
+~
+~
+0 0 0
+The River Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18316
+D1
+~
+~
+0 0 18332
+D2
+~
+~
+0 0 18346
+D3
+~
+~
+0 0 18330
+S
+#18332
+0 0
+~
+~
+~
+0 0 0
+On the Banks of the river Ividu~
+Exotic flora forms a virtual wall around you as you make your way carefully  
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little
+amphibians that fade into their backdrop.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18317
+D1
+~
+~
+0 0 18333
+D2
+~
+~
+0 0 18347
+D3
+~
+~
+0 0 18331
+S
+#18333
+0 0
+~
+~
+~
+0 0 0
+On the Banks of the river Ividu~
+Flexible waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.  
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent 
+odor of broken plantlife hangs heavy in the humid air, clinging to your  
+clothes and armor as you pass. 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18318
+D3
+~
+~
+0 0 18332
+S
+#18334
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A spray of water lightly coats your face as large ocean waves tower upwards
+and come crashing down on the surface of the beach, sending turtles and
+crabs plodding away for cover.  Beach grass and sea plants tangle messily
+at the water's edge, forming a small organic reef that reaches into the
+blue-green fluid, housing several colorful fish and animals.  Walking along,
+you notice a strange feeling of displacement as the sea winds cool you on one
+side and the beating sun heats you on the other.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 34464
+D1
+~
+~
+0 0 18335
+D2
+~
+~
+0 0 18349
+D3
+~
+~
+0 0 34563
+S
+#18335
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18320
+D1
+~
+~
+0 0 18336
+D2
+~
+~
+0 0 18350
+D3
+~
+~
+0 0 18334
+S
+#18336
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18321
+D1
+~
+~
+0 0 18337
+D2
+~
+~
+0 0 8701
+D3
+~
+~
+0 0 18335
+S
+#18337
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18322
+D1
+~
+~
+0 0 18338
+D3
+~
+~
+0 0 18336
+S
+#18338
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18323
+D1
+~
+~
+0 0 18339
+D2
+~
+~
+0 0 18353
+D3
+~
+~
+0 0 18337
+S
+#18339
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18324
+D1
+~
+~
+0 0 18340
+D2
+~
+~
+0 0 18354
+D3
+~
+~
+0 0 18338
+S
+#18340
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18325
+D1
+~
+~
+0 0 18341
+D2
+~
+~
+0 0 18355
+D3
+~
+~
+0 0 18339
+S
+#18341
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18326
+D1
+~
+~
+0 0 18342
+D2
+~
+~
+0 0 18356
+D3
+~
+~
+0 0 18340
+S
+#18342
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18327
+D1
+~
+~
+0 0 18343
+D2
+~
+~
+0 0 18357
+D3
+~
+~
+0 0 18341
+S
+#18343
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18328
+D1
+~
+~
+0 0 18344
+D2
+~
+~
+0 0 18358
+D3
+~
+~
+0 0 18342
+S
+#18344
+0 0
+~
+~
+~
+0 0 0
+On the Banks of the river Ividu~
+Every tree, every plant, and every blade of grass seems to bend with strain  
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you 
+trigger the release of strands of water by simply touching them.  Birds 
+chirp short arias and sonatas in synch, filling the air with a distorted 
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18329
+D1
+~
+~
+0 0 18345
+D2
+~
+~
+0 0 18359
+D3
+~
+~
+0 0 18343
+S
+#18345
+0 0
+~
+~
+~
+0 0 0
+On the Banks of the river Ividu~
+Exotic flora forms a virtual wall around you as you make your way carefully  
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little
+amphibians that fade into their backdrop.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18330
+D1
+~
+~
+0 0 18346
+D2
+~
+~
+0 0 18360
+D3
+~
+~
+0 0 18344
+S
+#18346
+0 0
+~
+~
+~
+0 0 0
+On the Banks of the river Ividu~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.  
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent 
+odor of broken plantlife hangs heavy in the humid air, clinging to your  
+clothes and armor as you pass. 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18331
+D1
+~
+~
+0 0 18347
+D3
+~
+~
+0 0 18345
+S
+#18347
+0 0
+~
+~
+~
+0 0 0
+On the Banks of the river Ividu~
+Every tree, every plant, and every blade of grass seems to bend with strain  
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you 
+trigger the release of strands of water by simply touching them.  Birds 
+chirp short arias and sonatas in synch, filling the air with a distorted 
+musical harmony. 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18332
+D3
+~
+~
+0 0 18346
+S
+#18348
+0 0
+~
+~
+~
+0 0 0
+The Ogouzo Bay~
+Crystalline clear water pulls in and out of a strange depression in the
+ground, feeding into a narrow strip of land leading downhill to another
+swirling pool of liquid.  Dark red crustaceans tumble into the bay pool
+with every push of the tide, and rush to turn themselves over to scuttle
+back out to the ocean before the next slosh of water pushes them into the
+riverhead.  Vulpine, silver-furred animals stand over the side of the
+inlet, dipping claws into the water periodically in futile attempts to
+catch one of the influx of sea fish that swim around.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 34168
+D1
+~
+~
+0 0 18361
+D2
+~
+~
+0 0 18351
+D3
+~
+~
+0 0 18319
+S
+#18349
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+Cooling breezes of ocean air provide a temporary relief from the
+sweltering heat that pervades this area.  White-crested waves crest quickly
+and extend onto the beach, causing the dark stained patch of sand to creep
+slowly outwards.  Tiny bright red crabs scuttle into quickly-forged holes as
+the water sweeps over the beach, and then stick out eyestalks to see exactly
+how safe it is to return to their position of foraging.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18334
+D1
+~
+~
+0 0 18350
+D2
+~
+~
+0 0 18364
+D3
+~
+~
+0 0 34663
+S
+#18350
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18335
+D1
+~
+~
+0 0 8701
+D2
+~
+~
+0 0 18365
+D3
+~
+~
+0 0 18349
+S
+#18351
+0 0
+~
+~
+~
+0 0 0
+The verdant coast~
+The thick trunks of segmented trees climb upward conically to meet at a
+drooping pinpoint, where thick scimitar-shaped leaves offer a small
+percentage of shade to any below.  Gray rocks litter the area, surrounded by
+clumps of grass and thin strips of sandy ground.  Far off in the distance
+you can see a strange simian creature ascending a fruit tree to harvest a
+thick-skinned edible.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18348
+D1
+~
+~
+0 0 18352
+D2
+~
+~
+0 0 18309
+D3
+~
+~
+0 0 18305
+S
+#18352
+0 0
+~
+~
+~
+0 0 0
+The Ogouzo Bay~
+A small sandbar formed by the ever-moving action of the water entering the
+bay traps wide, circular crabs and starfish, leaving them open to any
+predator that might happen along.  Bars of sunlight stream down to hit the
+clear blue water here, then refracting perpendicularly to cascade off in
+wavy doppelgangers of themselves.  As you stride around the satiny edge
+of the water trap, you notice recently-dug holes marring the otherwise
+marble-smooth surface.  Tiny turtles snap their heads out after each rush
+of water, and amble down to the bay to search for any stray fish.
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18361
+D1
+~
+~
+0 0 18363
+D3
+~
+~
+0 0 18351
+S
+#18353
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18338
+D1
+~
+~
+0 0 18354
+D2
+~
+~
+0 0 18368
+S
+#18354
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18339
+D1
+~
+~
+0 0 18355
+D2
+~
+~
+0 0 18369
+D3
+~
+~
+0 0 18353
+S
+#18355
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18340
+D1
+~
+~
+0 0 18356
+D2
+~
+~
+0 0 18370
+D3
+~
+~
+0 0 18354
+S
+#18356
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18341
+D1
+~
+~
+0 0 18357
+D2
+~
+~
+0 0 18371
+D3
+~
+~
+0 0 18355
+S
+#18357
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Luxuriously silky water spins into mad little whirlpools of warm water that
+die off almost as soon as they generate.  Clouds of powderlike sediment
+billow underwater, changing the strange bluish fluid into a bleeding brown
+and blue mess.  As you make your way along you notice birds standing at
+riverside ducking their large needlebeaks into the water and coming out
+with small, oval-shaped toothed fish.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18342
+D1
+~
+~
+0 0 18358
+D2
+~
+~
+0 0 18372
+D3
+~
+~
+0 0 18356
+S
+#18358
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18343
+D1
+~
+~
+0 0 18359
+D2
+~
+~
+0 0 18373
+D3
+~
+~
+0 0 18357
+S
+#18359
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18344
+D1
+~
+~
+0 0 18360
+D2
+~
+~
+0 0 18374
+D3
+~
+~
+0 0 18358
+S
+#18360
+0 0
+~
+~
+~
+0 0 0
+A lightly humid wetforest~
+Tall deciduous trees tower over smaller exotic plants, lending their shade
+in an unsuccessful attempt to cool the area.  Heat and shade soak the
+atmosphere with a thick humidity that seems to encourage all forms of life
+to spring forth from the damp floor.  A large purplish plant hangs high
+from the trunk of a shade-tree, glowing quietly with a strange phosporic
+inner light and lighting the path you walk down.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18345
+D2
+~
+~
+0 0 18375
+D3
+~
+~
+0 0 18359
+S
+#18361
+0 0
+~
+~
+~
+0 0 0
+The Ogouzo Bay~
+Seawater slides into a small depression in the ground, shifting sand forward
+as it flows inwards, and pulling it back as the remainder goes back into
+the ocean.  A slight slope carries the mass of water to a pool off in the
+distance south, where it coalesces into a narrow river.  Rocks and conical
+trees border the bay, offering a shady solitude to the many animals that
+come here to hunt, and the animals that come to hunt them.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 34169
+D1
+~
+~
+0 0 18362
+D2
+~
+~
+0 0 18352
+D3
+~
+~
+0 0 18348
+S
+#18362
+0 0
+~
+~
+~
+0 0 0
+The Ogouzo Bay~
+Crystalline clear water pulls in and out of a strange depression in the
+ground, feeding into a narrow strip of land leading downhill to another
+swirling pool of liquid.  Dark red crustaceans tumble into the bay pool
+with every push of the tide, and rush to turn themselves over to scuttle
+back out to the ocean before the next slosh of water pushes them into the
+riverhead.  Vulpine, silver-furred animals stand over the side of the
+inlet, dipping claws into the water periodically in futile attempts to
+catch one of the influx of sea fish that swim around.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 34170
+D1
+~
+~
+0 0 18367
+D2
+~
+~
+0 0 18363
+D3
+~
+~
+0 0 18361
+S
+#18363
+0 0
+~
+~
+~
+0 0 0
+The Ogouzo Bay~
+A small sandbar formed by the ever-moving action of the water entering the
+bay traps wide, circular crabs and starfish, leaving them open to any
+predator that might happen along.  Bars of sunlight stream down to hit the
+clear blue water here, then refracting perpendicularly to cascade off in
+wavy doppelgangers of themselves.  As you stride around the satiny edge
+of the water trap, you notice recently-dug holes marring the otherwise
+marble-smooth surface.  Tiny turtles snap their heads out after each rush
+of water, and amble down to the bay to search for any stray fish.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 18362
+D1
+~
+~
+0 0 18366
+D2
+~
+~
+0 0 18311
+D3
+~
+~
+0 0 18352
+S
+#18364
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A pebbly shore smooths into a flat stretch of fine golden sand that
+extends as far as the eye can see.  Arcs of water propel themselves onto the
+coast, grasping it for a brief second before being dragged back into their
+mother sea.  Spikelets of erect crowded clusters of grass grow close to the
+water, soaking up leftover moisture from the tide.  As you slide along,
+leaving scattered foot trails, you notice a strange abundance of seaside
+life manuvering around, the only semblance of thriving nature for miles.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18349
+D1
+~
+~
+0 0 18365
+D2
+~
+~
+0 0 34864
+D3
+~
+~
+0 0 34763
+S
+#18365
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18350
+D2
+~
+~
+0 0 18380
+D3
+~
+~
+0 0 18364
+S
+#18366
+0 0
+~
+~
+~
+0 0 0
+The verdant coast~
+Tall weeds grow out of the disarray of sand and grass here, and border
+small trees bearing coconuts and palm leaves.  The sounds of exotic birds
+and animals interact with the constant sound of ocean water, creating a
+strange dissonance that somehow seems appropriate.  A cloudless sky acts as
+a poor shield for the rays of sunlight that filter down through the leaves
+to heat you uncomfortably.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 18367
+D1
+~
+~
+0 0 18377
+D3
+~
+~
+0 0 18363
+S
+#18367
+0 0
+~
+~
+~
+0 0 0
+The Ogouzo Bay~
+Seawater slides into a small depression in the ground, shifting sand forward
+as it flows inwards, and pulling it back as the remainder goes back into
+the ocean.  A slight slope carries the mass of water to a pool off in the
+distance south, where it coalesces into a narrow river.  Rocks and conical
+trees border the bay, offering a shady solitude to the many animals that
+come here to hunt, and the animals that come to hunt them.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 34171
+D1
+~
+~
+0 0 18376
+D2
+~
+~
+0 0 18366
+D3
+~
+~
+0 0 18362
+S
+#18368
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18353
+D1
+~
+~
+0 0 18369
+D2
+~
+~
+0 0 18383
+S
+#18369
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18354
+D1
+~
+~
+0 0 18370
+D2
+~
+~
+0 0 18384
+D3
+~
+~
+0 0 18368
+S
+#18370
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18355
+D1
+~
+~
+0 0 18371
+D2
+~
+~
+0 0 18385
+D3
+~
+~
+0 0 18369
+S
+#18371
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18356
+D1
+~
+~
+0 0 18372
+D2
+~
+~
+0 0 18386
+D3
+~
+~
+0 0 18370
+S
+#18372
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18357
+D1
+~
+~
+0 0 18373
+D2
+~
+~
+0 0 18387
+D3
+~
+~
+0 0 18371
+S
+#18373
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18358
+D1
+~
+~
+0 0 18374
+D2
+~
+~
+0 0 18388
+D3
+~
+~
+0 0 18372
+S
+#18374
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18359
+D1
+~
+~
+0 0 18375
+D2
+~
+~
+0 0 18389
+D3
+~
+~
+0 0 18373
+S
+#18375
+0 0
+~
+~
+~
+0 0 0
+A lightly humid wetforest~
+Tall oaks glisten oddly as light flickers through their moving upper
+branches and strike the moisture-soaked bark.  Large and unique plants
+grow from every angle off of the forest floor, filling in the gaps between
+the large leafy trees that reach towards the sky.  Colorful fauna interact
+with chipmunks and squirrels in a strange transposition of forest and
+rainforest.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18360
+D2
+~
+~
+0 0 18390
+D3
+~
+~
+0 0 18374
+S
+#18376
+0 0
+~
+~
+~
+0 0 0
+The verdant coast~
+Tall weeds grow out of the disarray of sand and grass here, and border
+small trees bearing coconuts and palm leaves.  The sounds of exotic birds
+and animals interact with the constant sound of ocean water, creating a
+strange dissonance that somehow seems appropriate.  A cloudless sky acts as
+a poor shield for the rays of sunlight that filter down through the leaves
+to heat you uncomfortably.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 34172
+D1
+~
+~
+0 0 34273
+D2
+~
+~
+0 0 18377
+D3
+~
+~
+0 0 18367
+S
+#18377
+0 0
+~
+~
+~
+0 0 0
+The verdant coast~
+Sharp, piercing pebbles make it necessary to watch your step as you tread
+across this weedy land.  Triangular trees spiral upwards to form drooping
+canopies of shade, where small furred desert rats and crabs search for food
+underneath.  The saline smell of the air acts as a testament to the relative
+nearness of the ocean, which you can hear as clearly as if it were right in
+front of you.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 18376
+D1
+~
+~
+0 0 34373
+D2
+~
+~
+0 0 18313
+D3
+~
+~
+0 0 18366
+S
+#18378
+0 0
+~
+~
+~
+0 0 0
+Along a sandy shore~
+Cooling breezes of ocean air provide a temporary relief from the sweltering
+heat that pervades this area.  White-crested waves crest quickly and
+extend onto the beach, causing the dark stained patch of sand to creep 
+slowly outwards.  Tiny bright red crabs scuttle into quickly-forged holes 
+as the water sweeps over the beach, and then stick out eyestalks to 
+see exactly how safe it is to return to their position of foraging. 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18565
+D1
+~
+~
+0 0 18379
+S
+#18379
+0 0
+~
+~
+~
+0 0 0
+Along a sandy shore~
+Red stones blend in with coarse yellow sand at the water's edge, and then
+fade into smooth underwater layers of the grainy stuff, spreading out  
+endlessly into the ocean beyond.  Overhead, the sun beats down on the  
+moisture-soaked sand, baking it into a strange slosh-sift mess near the
+ocean border.  Strips of torn kelp and moss wash onto the shore from
+time to time, littering the coast temporarily until the strong waves wash 
+up to reclaim them.  As you walk about, the cries of seabirds, startled
+at the sight of a human, draw your attention upwards to the cloudless  
+blue sky.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18566
+D1
+~
+~
+0 0 18392
+D3
+~
+~
+0 0 18378
+S
+#18380
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A pebbly shore smooths into a flat stretch of fine golden sand that
+extends as far as the eye can see.  Arcs of water propel themselves onto the
+coast, grasping it for a brief second before being dragged back into their
+mother sea.  Spikelets of erect crowded clusters of grass grow close to the
+water, soaking up leftover moisture from the tide.  As you slide along,
+leaving scattered foot trails, you notice a strange abundance of seaside
+life manuvering around, the only semblance of thriving nature for miles.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 18365
+D1
+~
+~
+0 0 18381
+D2
+~
+~
+0 0 18395
+D3
+~
+~
+0 0 34864
+S
+#18381
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Shafts of sunlight distort and disperse as they sift through the net of      
+liquid-like walls of heat, to fall and heat the now-still sands that litter  
+this seemingly endless desert.  This stillness is soon disturbed as          
+sweltering gusts of wind exacerbate the climate, making swift travel         
+difficult and uncomfortable.  As you make your way through this forsaken     
+pit of desolation, you notice small sparkles off in the distance, perhaps    
+hinting of some end to this barrenness.                            
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 18382
+D2
+~
+~
+0 0 18396
+D3
+~
+~
+0 0 18380
+S
+#18382
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat.
+A few cacti manage to cling to life and grow here, producing large fleshy
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the
+distance, through waves of heat, you can almost make out a clump of trees
+surrounding an oasis.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 8755
+D1
+~
+~
+0 0 18383
+D2
+~
+~
+0 0 18397
+D3
+~
+~
+0 0 18381
+S
+#18383
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18368
+D1
+~
+~
+0 0 18384
+D2
+~
+~
+0 0 18398
+D3
+~
+~
+0 0 18382
+S
+#18384
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18369
+D1
+~
+~
+0 0 18385
+D2
+~
+~
+0 0 18399
+D3
+~
+~
+0 0 18383
+S
+#18385
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18370
+D1
+~
+~
+0 0 18386
+D2
+~
+~
+0 0 18400
+D3
+~
+~
+0 0 18384
+S
+#18386
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18371
+D1
+~
+~
+0 0 18387
+D2
+~
+~
+0 0 18401
+D3
+~
+~
+0 0 18385
+S
+#18387
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Large sandstone deposits at the bottom of this narrow river strip act as
+small coves for hordes of vicious wetland river animals.  Tiny stirrings
+of sand mark the darting of some small predator fish to his prey, and
+a tiny cloud of blood rising to the surface a few feet away confirm his
+skill as a river hunter.  Above, birds circle nervously, looking for
+a safe meal in the stream below.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18372
+D1
+~
+~
+0 0 18388
+D2
+~
+~
+0 0 18402
+D3
+~
+~
+0 0 18386
+S
+#18388
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18373
+D1
+~
+~
+0 0 18389
+D2
+~
+~
+0 0 18403
+D3
+~
+~
+0 0 18387
+S
+#18389
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18374
+D1
+~
+~
+0 0 18390
+D2
+~
+~
+0 0 18404
+D3
+~
+~
+0 0 18388
+S
+#18390
+0 0
+~
+~
+~
+0 0 0
+A lightly humid wetforest~
+Broad-leafed ferns fan out from holes in the ancient trees that loom
+high in the air, stringing downward to dangle precariously above the
+mossy forest floor.  The shrill sounds of exotic birds echo through
+the canopy, their strange melodies offering a backdrop to the oddly
+humid forest.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18375
+D1
+~
+~
+0 0 18391
+D2
+~
+~
+0 0 18405
+D3
+~
+~
+0 0 18389
+S
+#18391
+0 0
+~
+~
+~
+0 0 0
+A lightly humid wetforest~
+Tall oaks glisten oddly as light flickers through their moving upper
+branches and strike the moisture-soaked bark.  Large and unique plants
+grow from every angle off of the forest floor, filling in the gaps between
+the large leafy trees that reach towards the sky.  Colorful fauna interact
+with chipmunks and squirrels in a strange transposition of forest and
+rainforest.
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 18406
+D3
+~
+~
+0 0 18390
+S
+#18392
+0 0
+~
+~
+~
+0 0 0
+Entangled within a thick jungle~
+Strange splintered cries of jungle predators cause you to move with an almost
+intense trepidation, throwing yourself against the near-impenetrable barrier  
+of thick-leafed plants that block your way.  Hardened and exposed tree roots  
+act as anchors to ground and sky vines, forming a three dimensional net that  
+takes several skillful attempts to bypass.  Leaning against a spongy tree, 
+you take a moment's rest from the torturous exercise of movement before 
+continuing your journey.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18567
+D1
+~
+~
+0 0 18393
+D2
+~
+~
+0 0 18514
+D3
+~
+~
+0 0 18379
+S
+#18393
+0 0
+~
+~
+~
+0 0 0
+Entangled within a thick jungle~
+Waves of consternation wash over you as you stumble and hit the ground hard,
+only to pull your head up to see a pair of narrow yellow eyes watching you 
+from the shadows.  Stepping heavily, you move through this thick mass of
+confusion, hacking the tangled vines and plants away as you move.  As the  
+jumble of greenery closes tightly around you, it becomes harder and harder 
+to see much farther forward than you can swing with your weapon.  
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18568
+D1
+~
+~
+0 0 18409
+D2
+~
+~
+0 0 18454
+D3
+~
+~
+0 0 18392
+S
+#18394
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+Red stones blend in with coarse yellow sand at the water's edge, and then
+fade into smooth underwater layers of the grainy stuff, spreading out
+endlessly into the ocean beyond.  Overhead, the sun beats down on the
+moisture-soaked sand, baking it into a strange slosh-sift mess near the
+ocean border.  Strips of torn kelp and moss wash onto the shore from time to
+time, littering the coast temporarily until the strong waves wash up to
+reclaim them.  As you walk about, the cries of seabirds, startled at the
+sight of sentient life, draw your attention upwards to the cloudless blue
+sky.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 34864
+D1
+~
+~
+0 0 18395
+D2
+~
+~
+0 0 35064
+D3
+~
+~
+0 0 34963
+S
+#18395
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18380
+D1
+~
+~
+0 0 18396
+D2
+~
+~
+0 0 18410
+D3
+~
+~
+0 0 18394
+S
+#18396
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18381
+D1
+~
+~
+0 0 18397
+D2
+~
+~
+0 0 18411
+D3
+~
+~
+0 0 18395
+S
+#18397
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18382
+D1
+~
+~
+0 0 18398
+D2
+~
+~
+0 0 18412
+D3
+~
+~
+0 0 18396
+S
+#18398
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18383
+D1
+~
+~
+0 0 18399
+D2
+~
+~
+0 0 18413
+D3
+~
+~
+0 0 18397
+S
+#18399
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18384
+D1
+~
+~
+0 0 18400
+D2
+~
+~
+0 0 18414
+D3
+~
+~
+0 0 18398
+S
+#18400
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18385
+D1
+~
+~
+0 0 18401
+D2
+~
+~
+0 0 18415
+D3
+~
+~
+0 0 18399
+S
+#18401
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Large sandstone deposits at the bottom of this narrow river strip act as
+small coves for hordes of vicious wetland river animals.  Tiny stirrings
+of sand mark the darting of some small predator fish to his prey, and
+a tiny cloud of blood rising to the surface a few feet away confirm his
+skill as a river hunter.  Above, birds circle nervously, looking for
+a safe meal in the stream below.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18386
+D1
+~
+~
+0 0 18402
+D2
+~
+~
+0 0 18416
+D3
+~
+~
+0 0 18400
+S
+#18402
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18387
+D1
+~
+~
+0 0 18403
+D2
+~
+~
+0 0 18417
+D3
+~
+~
+0 0 18401
+S
+#18403
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18388
+D1
+~
+~
+0 0 18404
+D2
+~
+~
+0 0 18418
+D3
+~
+~
+0 0 18402
+S
+#18404
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18389
+D1
+~
+~
+0 0 18405
+D2
+~
+~
+0 0 18419
+D3
+~
+~
+0 0 18403
+S
+#18405
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18390
+D1
+~
+~
+0 0 18406
+D2
+~
+~
+0 0 18420
+D3
+~
+~
+0 0 18404
+S
+#18406
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18391
+D1
+~
+~
+0 0 18407
+D2
+~
+~
+0 0 18421
+D3
+~
+~
+0 0 18405
+S
+#18407
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The heat from the sun is oppressive, leaving your skin feeling dry and about 
+to crack, your mouth parched with the taste of only dust and sand.  The slight
+breeze provides no comfort, only blowing sand grains through the air, forcing 
+you to squint at the dunes and cloudless sky stretching off into the distance.
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 18408
+D2
+~
+~
+0 0 18422
+D3
+~
+~
+0 0 18406
+S
+#18408
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 18574
+D2
+~
+~
+0 0 18423
+D3
+~
+~
+0 0 18407
+S
+#18409
+0 0
+~
+~
+~
+0 0 0
+At the emptying mouth of the river Ividu~
+Thick seawater rushes to grab the river fluid that flows down and outwards
+here to meet the ocean again and become salt-filled once more.  Hybrid
+starfish and other strange creatures that live in both freshwater and
+salt water gather here and live for the most part in peace, not having
+to worry about predators from either realm.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18569
+D1
+~
+~
+0 0 18424
+D2
+~
+~
+0 0 18440
+D3
+~
+~
+0 0 18393
+S
+#18410
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+Cooling breezes of ocean air provide a temporary relief from the
+sweltering heat that pervades this area.  White-crested waves crest quickly
+and extend onto the beach, causing the dark stained patch of sand to creep
+slowly outwards.  Tiny bright red crabs scuttle into quickly-forged holes as
+the water sweeps over the beach, and then stick out eyestalks to see exactly
+how safe it is to return to their position of foraging.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18395
+D1
+~
+~
+0 0 18411
+D2
+~
+~
+0 0 18425
+D3
+~
+~
+0 0 35064
+S
+#18411
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+A torrid blast of wind sends your dust-covered face into a parched fever as
+you walk directly into the rear of a small, concentrated sandstorm.       
+Clearing your face and sidling away from the swirl, you glimpse a view       
+of the flat landscape for miles in every direction.  Streams of heat         
+waver up from the ground, distorting your immediate vision and invoking      
+immediate frantic perspiration whenever you walk through them.               
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18396
+D1
+~
+~
+0 0 18412
+D2
+~
+~
+0 0 18426
+D3
+~
+~
+0 0 18410
+S
+#18412
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+No shadows manage to escape the relentless sun, only the blazing
+glare of light reflected off countless grains reaches the eye. Intense 
+waves of heat rise from below, distorting and blurring the sloping hills 
+and rolling valleys of shifting sand. The ground itself is constantly in 
+motion, footsteps falling on unstable ground, a tiny avalanche sliding 
+away with each, light breezes carrying fine sheets of sand across the 
+dunes - only the occasional cactus or desert flower holds steady in the 
+constant motion.
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18397
+D1
+~
+~
+0 0 18413
+D2
+~
+~
+0 0 18427
+D3
+~
+~
+0 0 18411
+S
+#18413
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18398
+D1
+~
+~
+0 0 18414
+D2
+~
+~
+0 0 18428
+D3
+~
+~
+0 0 18412
+S
+#18414
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18399
+D1
+~
+~
+0 0 18415
+D2
+~
+~
+0 0 18429
+D3
+~
+~
+0 0 18413
+S
+#18415
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18400
+D1
+~
+~
+0 0 18416
+D2
+~
+~
+0 0 18430
+D3
+~
+~
+0 0 18414
+S
+#18416
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+The warm riverbed sandwiches the cold flow of inlet water between itself and
+the heated overcurrent that the sweltering overhead sun creates.  As a result
+of this overlap of water temperatures, the water here swirls madly, mixing
+into a warm, then cold brew that tugs you down the soft path of this narrow
+stream.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18401
+D1
+~
+~
+0 0 18417
+D2
+~
+~
+0 0 18431
+D3
+~
+~
+0 0 18415
+S
+#18417
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Large, waxlike leaves that drooped low with clinging perspiration snap,
+almost springlike, back to their original position as you brush by them.
+The constant drip of water from the canopy adds an infrequent note to
+the cacophony of sounds and voices that ring out periodically.  The pungent
+odor of broken plantlife hangs heavy in the humid air, clinging to your
+clothes and armor as you pass.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18402
+D1
+~
+~
+0 0 18418
+D2
+~
+~
+0 0 18432
+D3
+~
+~
+0 0 18416
+S
+#18418
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little  
+amphibians that fade into their backdrop.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18403
+D1
+~
+~
+0 0 18419
+D2
+~
+~
+0 0 18433
+D3
+~
+~
+0 0 18417
+S
+#18419
+0 0
+~
+~
+~
+0 0 0
+A lightly humid wetforest~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+Tall deciduous trees tower over smaller exotic plants, lending their shade
+in an unsuccessful attempt to cool the area.  Heat and shade soak the
+atmosphere with a thick humidity that seems to encourage all forms of life
+to spring forth from the damp floor.  A large purplish plant hangs high
+from the trunk of a shade-tree, glowing quietly with a strange phosporic
+inner light and lighting the path you walk down.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18404
+D1
+~
+~
+0 0 18420
+D2
+~
+~
+0 0 18434
+D3
+~
+~
+0 0 18418
+S
+#18420
+0 0
+~
+~
+~
+0 0 0
+A lightly humid wetforest~
+Tall oaks glisten oddly as light flickers through their moving upper
+branches and strike the moisture-soaked bark.  Large and unique plants
+grow from every angle off of the forest floor, filling in the gaps between
+the large leafy trees that reach towards the sky.  Colorful fauna interact
+with chipmunks and squirrels in a strange transposition of forest and
+rainforest.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18405
+D1
+~
+~
+0 0 18421
+D2
+~
+~
+0 0 18435
+D3
+~
+~
+0 0 18419
+S
+#18421
+0 0
+~
+~
+~
+0 0 0
+A lightly humid wetforest~
+Tall deciduous trees tower over smaller exotic plants, lending their shade
+in an unsuccessful attempt to cool the area.  Heat and shade soak the
+atmosphere with a thick humidity that seems to encourage all forms of life
+to spring forth from the damp floor.  A large purplish plant hangs high
+from the trunk of a shade-tree, glowing quietly with a strange phosporic
+inner light and lighting the path you walk down.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 18406
+D1
+~
+~
+0 0 18422
+D2
+~
+~
+0 0 18436
+D3
+~
+~
+0 0 18420
+S
+#18422
+0 0
+~
+~
+~
+0 0 0
+Within the folds of a humid wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain  
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you 
+trigger the release of strands of water by simply touching them.  Birds 
+chirp short arias and sonatas in synch, filling the air with a distorted 
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18407
+D1
+~
+~
+0 0 18423
+D3
+~
+~
+0 0 18421
+S
+#18423
+0 0
+~
+~
+~
+0 0 0
+Within the folds of a humid wetforest~
+Exotic flora forms a virtual wall around you as you make your way carefully  
+through the thick tangle of vinery and plants.  Creatures of all types 
+scatter through the tropical evergreens as you stumble through the thick
+congealing organic barriers.  Looking around, you are greeted with curios
+of all sorts, ranging from brightly-colored birds to strange little
+amphibians that fade into their backdrop.  
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18408
+D1
+~
+~
+0 0 18576
+D3
+~
+~
+0 0 18422
+S
+#18424
+0 0
+~
+~
+~
+0 0 0
+Entangled within a thick jungle~
+Dense clusters of greenery seem to entangle themselves into the surrounding
+thicket, creating an interlocked net of motion impairment with the vines
+and ferns that droop from jumbled canopy trees in the distance above.  The 
+symphony of voices that bellow through the framework of the jungle is not  
+in the least way comforting to you, and the howls echoing off in the distance 
+set off a primeval fear deep within you.  As you cut your way through the  
+almost solid wall of plantlife, the clear sap-blood of your nonaware victims  
+splashes to stain your armor. 
+~
+0 0 14
+0
+~
+I 0 D1
+~
+~
+0 0 18437
+D3
+~
+~
+0 0 18409
+S
+#18425
+0 0
+~
+~
+~
+0 0 0
+Along a desolate stretch of beach~
+A spray of water lightly coats your face as large ocean waves tower
+upwards and come crashing down on the surface of the beach, sending turtles
+and crabs plodding away for cover.  Beach grass and sea plants tangle
+messily at the water's edge, forming a small organic reef that reaches into
+the blue-green fluid, housing several colorful fish and animals.  Walking
+along, you notice a strange feeling of displacement as the sea winds cool
+you on one side and the beating sun heats you on the other.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18410
+D1
+~
+~
+0 0 18426
+D2
+~
+~
+0 0 35265
+D3
+~
+~
+0 0 35164
+S
+#18426
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+The desert sands surround you, desolate and burning with light and heat. 
+A few cacti manage to cling to life and grow here, producing large fleshy 
+orange blossoms amidst the long spines. Some small birds perch atop the
+cacti, looking about for insects to provide them with food. Off in the 
+distance, through waves of heat, you can almost make out a clump of trees 
+surrounding an oasis.
+
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18411
+D1
+~
+~
+0 0 18427
+D2
+~
+~
+0 0 18441
+D3
+~
+~
+0 0 18425
+S
+#18427
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Trudging steadily through this desiccated wasteland of sand, you turn to     
+look around for any avenue of escape and find none.  Wizened cacti           
+provide a brief prophetic glimpse of exactly what your further journeying    
+into this desert will be like.  Arid winds remove moisture from your         
+face as you turn to face the remaining expanses of parched land.             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18412
+D1
+~
+~
+0 0 18428
+D2
+~
+~
+0 0 18442
+D3
+~
+~
+0 0 18426
+S
+#18428
+0 0
+~
+~
+~
+0 0 0
+Upon the savage desert~
+Disturbing lifeless shifts of disintegrating dunes give this region          
+an aberrant feel of unnatural life.  Whirls of sand stirred into motion      
+by searing eastern winds spin about and then die, lending their potential    
+energy to spawn other small sand spirals in a seemingly neverending process. 
+As you lift your legs slowly and carefully, plodding through the sift,       
+you notice small desert creatures following and eyeing you carefully,        
+as if merely waiting for your inevitable demise.                             
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 18413
+D1
+~
+~
+0 0 18429
+D2
+~
+~
+0 0 18443
+D3
+~
+~
+0 0 18427
+S
+#18429
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18414
+D1
+~
+~
+0 0 18430
+D2
+~
+~
+0 0 18444
+D3
+~
+~
+0 0 18428
+S
+#18430
+0 0
+~
+~
+~
+0 0 0
+Within the Ividian Wetforest~
+Every tree, every plant, and every blade of grass seems to bend with strain
+as the humid air continually deposits moisture on their surfaces.  Walking
+by, you are greeted with an almost continuous sprinkle of water as you
+trigger the release of strands of water by simply touching them.  Birds
+chirp short arias and sonatas in synch, filling the air with a distorted
+musical harmony. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 18415
+D1
+~
+~
+0 0 18431
+D2
+~
+~
+0 0 18445
+D3
+~
+~
+0 0 18429
+S
+#18431
+0 0
+~
+~
+~
+0 0 0
+Immersed in the river Ividu~
+Water sloshes slowly onto the shores, which are cracked from the drastically
+fast amphibious changes that result from the sun's torture and the water's
+closeness.  As you cross the soft riverbed, shadows of strange fish and
+other animals dart quickly out of your way, giving you a clear path to pass
+through their territory.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 18416
+D1
+~
+~
+0 0 18432
+D2
+~
+~
+0 0 18446
+D3
+~
+~
+0 0 18430
+S
+#0
+
+#RESETS
+M 0 18320  10 18432  1	* A bird of paradise
+M 0 18320  10 18433  1	* A bird of paradise
+M 0 18322  10 18433  1	* An ividian toucan
+M 0 18304  20 18434  1	* A red-tailed scorpion
+M 0 18305  20 18435  2	* A blue-tailed scorpion
+M 0 18306  20 18436  1	* A painted sidewinder
+M 0 18317   5 18437  1	* A goldenbacked ape
+M 0 18315  20 18438  1	* A spiny warthog
+M 0 18315  20 18439  1	* A spiny warthog
+M 0 18309  10 18440  1	* A gray rock tortoise
+M 0 18309  10 18441  1	* A gray rock tortoise
+M 0 18312  15 18441  1	* A baby turtle
+M 0 18318  20 18441  1	* A red crab
+M 0 18308   5 18442  1	* A large sand-worm
+M 0 18304  20 18442  1	* A red-tailed scorpion
+M 0 18321   5 18443  1	* A desert nomad
+M 0 18320  10 18444  1	* A bird of paradise
+M 0 18316  10 18444  1	* A striped anaconda
+M 0 18316  10 18445  1	* A striped anaconda
+M 0 18310  10 18446  1	* A red and orange fish
+M 0 18310  10 18447  1	* A red and orange fish
+M 0 18311  10 18447  1	* A long yellow fish
+M 0 18316  10 18448  1	* A striped anaconda
+M 0 18322  10 18449  1	* An ividian toucan
+M 0 18305  20 18450  1	* A blue-tailed scorpion
+M 0 18307  20 18450  1	* A desert rat
+M 0 18307  20 18451  1	* A desert rat
+M 0 18307  20 18452  1	* A desert rat
+M 0 18306  20 18452  1	* A painted sidewinder
+M 0 18321  20 18453  1	* A desert nomad
+M 0 18317   5 18454  1	* A goldenbacked ape
+M 0 18318  20 18455  1	* A red crab
+M 0 18308   5 18456  1	* A large sand-worm
+M 0 18322  20 18479  1	* An ividian toucan
+M 0 18306  10 18480  1	* A painted sidewinder
+M 0 18307  20 18480  1	* A desert rat
+M 0 18309  20 18481  1	* A gray rock tortoise
+M 0 18304  20 18482  1	* A red-tailed scorpion
+M 0 18305  20 18482  1	* A blue-tailed scorpion
+M 0 18318  20 18484  2	* A red crab
+M 0 18312  20 18484  1	* A baby turtle
+M 0 18316  20 18489  2	* A striped anaconda
+M 0 18315  20 18489  1	* A spiny warthog
+M 0 18312  20 18491  1	* A baby turtle
+M 0 18311  20 18491  1	* A long yellow fish
+M 0 18310  20 18491  1	* A red and orange fish
+M 0 18316  20 18493  1	* A striped anaconda
+M 0 18304  20 18497  1	* A red-tailed scorpion
+M 0 18306  20 18497  1	* A painted sidewinder
+M 0 18305  20 18498  1	* A blue-tailed scorpion
+M 0 18309  20 18499  1	* A gray rock tortoise
+M 0 18318  20 18499  3	* A red crab
+M 0 18311  20 18522  2	* A long yellow fish
+M 0 18310  20 18522  2	* A red and orange fish
+M 0 18322  10 18523  1	* An ividian toucan
+M 0 18320  20 18523  1	* A bird of paradise
+M 0 18304  20 18527  1	* A red-tailed scorpion
+M 0 18307  20 18527  2	* A desert rat
+M 0 18305  20 18532  1	* A blue-tailed scorpion
+M 0 18306  20 18532  1	* A painted sidewinder
+M 0 18308   5 18533  1	* A large sand-worm
+M 0 18309  10 18534  1	* A gray rock tortoise
+M 0 18322  20 18535  1	* An ividian toucan
+M 0 18320  20 18536  1	* A bird of paradise
+M 0 18310  20 18537  1	* A red and orange fish
+M 0 18311  20 18538  1	* A long yellow fish
+M 0 18312  20 18538  2	* A baby turtle
+M 0 18317   5 18543  1	* A goldenbacked ape
+M 0 18316  20 18576  1	* A striped anaconda
+M 0 18322  20 18577  1	* An ividian toucan
+M 0 18320  20 18578  1	* A bird of paradise
+M 0 18321  10 18307  1	* A desert nomad
+M 0 18304  20 18308  1	* A red-tailed scorpion
+M 0 18305  20 18308  1	* A blue-tailed scorpion
+M 0 18311  20 18312  1	* A long yellow fish
+M 0 18312  20 18312  1	* A baby turtle
+M 0 18313  20 18312  1	* An applefish
+M 0 18313  20 18313  4	* An applefish
+M 0 18313  20 18314  2	* An applefish
+M 0 18311  20 18314  1	* A long yellow fish
+M 0 18319  20 18315  1	* A blue crab
+M 0 18309  20 18348  2	* A gray rock tortoise
+M 0 18310  20 18348  2	* A red and orange fish
+M 0 18321  20 18353  1	* A desert nomad
+M 0 18304  20 18354  1	* A red-tailed scorpion
+M 0 18305  20 18354  1	* A blue-tailed scorpion
+M 0 18309  20 18361  1	* A gray rock tortoise
+M 0 18310  20 18362  1	* A red and orange fish
+M 0 18313  20 18362  3	* An applefish
+M 0 18322  20 18384  1	* An ividian toucan
+M 0 18320  20 18385  1	* A bird of paradise
+M 0 18316  10 18392  1	* A striped anaconda
+M 0 18317   5 18393  1	* A goldenbacked ape
+M 0 18315  20 18419  1	* A spiny warthog
+M 0 18316  20 18420  1	* A striped anaconda
+M 0 18320  20 18421  1	* A bird of paradise
+M 0 18322  20 18421  1	* An ividian toucan
+M 0 18319  20 18425  3	* A blue crab
+M 0 18321  10 18426  1	* A desert nomad
+M 0 18310  20 18431  2	* A red and orange fish
+M 0 18311  20 18431  1	* A long yellow fish
+M 0 18312  20 18431  1	* A baby turtle
+M 0 18313  20 18431  2	* An applefish
+M 0 18318  20 18364  3	* A red crab
+M 0 18323  20 18434  1	* A desert wastrel
+M 0 18324  20 18435  1	* A sand wraith
+M 0 18324  20 18443  1	* A sand wraith
+M 0 18323  20 18450  1	* A desert wastrel
+M 0 18324  20 18451  1	* A sand wraith
+M 0 18323  20 18458  1	* A desert wastrel
+M 0 18323  20 18459  1	* A desert wastrel
+M 0 18324  20 18471  3	* A sand wraith
+M 0 18324  20 18481  1	* A sand wraith
+M 0 18323  20 18488  1	* A desert wastrel
+M 0 18324  20 18498  1	* A sand wraith
+M 0 18324  20 18512  1	* A sand wraith
+M 0 18323  20 18517  1	* A desert wastrel
+M 0 18324  20 18518  1	* A sand wraith
+M 0 18323  20 18529  1	* A desert wastrel
+M 0 18324  20 18530  1	* A sand wraith
+M 0 18323  20 18541  2	* A desert wastrel
+M 0 18324  20 18546  1	* A sand wraith
+M 0 18323  20 18562  1	* A desert wastrel
+M 0 18324  20 18563  2	* A sand wraith
+M 0 18323  20 18308  1	* A desert wastrel
+M 0 18324  20 18350  1	* A sand wraith
+M 0 18323  20 18369  1	* A desert wastrel
+M 0 18324  20 18383  1	* A sand wraith
+M 0 18323  20 18398  1	* A desert wastrel
+M 0 18324  20 18404  2	* A sand wraith
+M 0 18323  20 18412  1	* A desert wastrel
+M 0 18323  20 18480  1	* A desert wastrel
+E 0 18304   -1    6	* item to A desert wastrel
+M 0 18323  20 18500  1	* A desert wastrel
+E 0 18304   -1    6	* item to A desert wastrel
+O 0 18307   0 18579 -1	* A cactus at Upon the savage desert
+M 0 18325   2 18412  1	* A renegade nomad
+E 0 18305   -1    9	* item to A renegade nomad
+M 0 18326   5 18394  5	* A sand-barred chelt'an
+O 0 18306   0 18472 -1	* A cactus at Upon the savage desert
+M 0 18327   4 18401  2	* A quick sal'anar
+M 0 18327   4 18476  2	* A quick sal'anar
+M 0 18328   6 18476  2	* A toothy alth'ohl
+M 0 18328   6 18357  1	* A toothy alth'ohl
+M 0 18328   6 18387  2	* A toothy alth'ohl
+M 0 18328   6 18569  1	* A toothy alth'ohl
+M 0 18329   1 18341  1	* A hermit priestess
+E 0 18308   -1   16	* item to A hermit priestess
+M 0 18330   1 18457  1	* A `opi`ieb`oal`id s`ota`ill`oio`in``
+M 0 18331   5 18457  5	* `ea graceful mare``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#0
+#$

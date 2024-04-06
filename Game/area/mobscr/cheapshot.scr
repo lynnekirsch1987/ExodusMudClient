@@ -1,0 +1,26 @@
+* File: cheapshot.scr
+* Mob: ????(????)
+
+#TRIGGER exit
+Type 6
+Sc
+  mfunc %exit-from% %name% name
+  cmd at 1 load obj 4145
+  cmd set obj stiletto timer 1
+  cmd string obj stiletto name blade
+  cmd string obj blade short `aa shadowy blade``
+  cmd string obj blade long `aYou have a hard time discerning this shadowy weapon.``
+  cmd vis
+  cmd throw blade %name%
+  wait 2~
+Sc
+  cmd sneak
+  cmd hide
+  cmd at 1 wizi 92
+  wait 10~
+Sc
+  cmd at 1 wizi
+  halt once~
+End
+
+#END

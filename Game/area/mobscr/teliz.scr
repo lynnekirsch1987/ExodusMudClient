@@ -1,0 +1,22 @@
+* File: teliz.scr
+* Mob: Teliz(5325)
+
+#TRIGGER sighand
+Type 8
+Sc
+     signal 5326 imhere
+     wait 2~
+Sc
+  emote removes some of Sonia's clothing.
+  wait 2~
+Sc
+  caress sonia
+  wait 2~
+Sc
+  emote notices he and Sonia are not alone.
+  kill %sighand-arg%
+  halt once~
+End
+
+#END
+

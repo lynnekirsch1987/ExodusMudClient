@@ -1,0 +1,6869 @@
+#AREA
+ 6~
+auvyron.are~
+`bThe Hell of Auvyron``~
+{80 91} Mithra  `bThe Hell of Auvyron``~
+~
+400 500
+50 F 0
+0 0
+~
+#MOBILES
+#400
+auvyron evil mage heretic~
+The heretic mage `bAuvyron``~
+`bAuvyron, the heretic mage lurks here, preparing to escape his prison.``
+~
+`aThe Heretic Mage.  The Evil One.  Destroyer of Faiths.  All these
+epithets and more too gruesome to tell have been said of this man over the
+centuries he has plagued these realms.  Of a medium build, and taller than
+most, `bAuvyron `afloats a foot or so off the polished floor.  Dressed in a
+`ibloodred `arobe inlaid with sparkling yellow `krunes`a around the hood, he
+glows with an otherworldly light.  Of course, you didn't need to know that
+this was evil incarnate.  Perhaps the incense that wafts a smell of old,
+dried blood across the stifling hot air precludes any thought of redeeming
+this man, or reimprisoning him.  Perhaps it is the sight of his `msoul
+`achained to the lone supporting pillar.  Perhaps it is this man's eyes,
+which are mere pits into a `ksulfurous `ihell`a.  
+~
+human~
+0 0 0 0
+ABFGOQRT DFHJNOTV -1000 0
+95 100 1d1+19999 100d20+2000 1d1+0 magic
+-40 -40 -40 999 -40
+0 -1 ACDEFGHIKNOX ABHK BCDEFGHIJKLMNPQRTXYZ NO
+stand stand male 50000
+AHMV ABCDEFGHIJKWa 26 26 26 26 26 26 30312
+large flesh~
+0 0 0 100
+1
+~
+auvyron.scr~
+#401
+deranged brother~
+`aA deranged brother``~
+A deranged brother shuffles around the maze here.``
+~
+`oThis Brother of Erion was one of the earlier visitors to the `bHell of
+Auvyron`o.  As the maze became warped to the evil of Auvyron's soul, some
+members of the Abbey entered the maze to try and correct the growing chaos. 
+This wretched soul is one example of what happens to those of weak faith
+that enter this place.  It is obvious that this monk's  mind has been eaten
+away, and his body has been changed to suit Auvyron's purposes.  A
+`m`jsnake`o `otongue darts out over drooling lips, and small, dirty brown
+scales cover his body.  A feral light enters this abandoned soul's eyes as
+you notice him, and he springs at you, trying in vain to exorcise his own
+demons.  
+~
+human~
+0 0 0 0
+ACFMQ HNVXc -750 401
+85 90 150d12+7000 85d10+500 12d8+30 shock
+-45 -60 -40 999 -75
+0 -1 FHIOU Ba CNO 0
+stand stand male 3500
+AHMV ABCDEFGHIJKLXa 23 23 23 23 23 23 0
+medium flesh~
+0 0 0 100
+1
+~
+~
+#402
+deranged brother~
+`aA deranged brother``~
+A deranged brother shuffles around the maze here.``
+~
+`oThis Brother of Erion was one of the earlier visitors to the `bHell of
+Auvyron`o.  As the maze became warped to the evil of Auvyron's soul, some
+members of the Abbey entered the maze to try and correct the growing chaos. 
+This wretched soul is one example of what happens to those of weak faith
+that enter this place.  It is obvious that this monk's mind has been eaten
+away, and his body has been changed to suit Auvyron's purposes.  A
+`m`jsnake`o `otongue darts out over drooling lips, and small, dirty brown
+scales cover his body.  A feral light enters this abandoned soul's eyes as
+you notice him, and he springs at you, trying in vain to exorcise his own
+demons.  
+~
+human~
+0 0 0 0
+ACFMQ HNVXc -750 0
+85 90 150d12+7000 85d10+500 12d8+12 shock
+-45 -60 -40 999 -75
+0 -1 FHIOU Ba CNO 0
+stand stand male 3500
+AHMV ABCDEFGHIJKLXa 23 23 23 23 23 23 0
+medium flesh~
+0 0 0 100
+1
+~
+~
+#403
+amazed mazed minotaur~
+`dAn Amazed Minotaur``~
+`dAn amazed Minotaur is here, seeking the lair of `bAuvyron`d.``
+~
+`dThis hulking beast stands before you, looking as if carved out of the
+bole of some gnarled, mountainside tree that was struck by a bolt of
+`klightning`d.  He is dressed all in boiled leather, with straps holding
+some implements of navigating this maze.  From the pointy horns atop his
+flea-bitten head to his slightly cloven hooves, he stands about ten feet
+tall.  Some legends would have it that this beast is little more than a
+brute, killing machine, but there seems to be a glint of cunning and purpose
+in his yellowed eyes.  
+~
+troll~
+0 0 0 0
+AFMSTc FHJVZac 0 0
+77 90 150d15+7500 87d5+200 15d10+30 cleave
+-40 -40 -40 999 -40
+0 -1 CDEFHJKNPVWY AQa BEI HK
+stand stand male 1000
+ABHMV ABCDEFGHIJKUVa 22 22 22 22 22 22 0
+large hard leather~
+0 0 0 100
+0
+~
+~
+#404
+soul auvyron~
+`mThe Soul of Auvyron``~
+`mThe Soul of Auvyron `astalks you, as inevitable as the grave.``
+~
+`aAs more and more of the lifeforce of Auvyron was expended in the
+corrputing of his prison, he finally broke down and set his soul itself to
+wander the maze alone, searching for those who would thwart its master's
+plans.  On this plane, it does not even exist, but instead, `lpervades
+`athis place.  It shows itself in the slight deadening of drips of water, in
+the cruel lifelesness of the air, and mirrored in the deeps of the mad, mad
+sky.  
+~
+unique~
+0 0 0 0
+AEFOQX BFHOPQTVc -1000 0
+90 100 10d100+9000 90d100+500 25d25+20 drain
+-20 -40 -30 999 -60
+0 -1 EFGHK ABCMOa DQ 0
+stand stand neutral 500
+K 0 24 24 24 24 24 24 0
+medium air~
+0 0 0 500
+1
+~
+~
+#405
+transformed novice~
+`bA Transformed Novice``~
+A transformed novice is here, a sorry amalgam of chaotic parts.
+~
+`lPeople who fail to complete the `bHell of Auvyron `ltend to end up
+looking like this.  After wandering the maze for uncounted time, the chaos
+took its effect on this once humble novice, transforming him into the
+monstrosity you see before you.  `jLime green `lfins sprout from his back,
+and flaming, `iruby red `leyes jut from this piteous soul's elongated face. 
+Dressed in a dark, `asoot-colored `lcloak and hood, he avoids joining with
+his former brethren in singing their praises to their new master,
+`bAuvyron`l.  `` 
+~
+human~
+0 0 0 0
+AGNQc BHTa 400 405
+80 80 15d50+6000 20d20+400 15d20+15 chomp
+-25 -25 -25 999 -20
+0 -1 BFHKU 0 AKQR 0
+stand stand neutral 7500
+AHMV ABCDEFGHIJKMOPQVa 22 22 22 22 22 22 0
+medium flesh~
+0 0 0 100
+2
+~
+~
+#406
+nalaxin demon nalax~
+`ha `iN`ca`il`ca`ix`ci`in `hDemon``~
+`cA mass of teeth, spines, and thorns, a demon from the `ifiery`c plane of `bNalax`c hovers above.``
+~
+`lOne of the first extraplanar excursions `bAuvyron `ltook after escaping
+from the forces of the `kArgent Lance `lwas to the fiery plane of
+`iNalaxos`l.  The inhabitants of that place are demons, and the very few
+tales that have come out of that place, usually shared by retired mages in
+the shadows and warmth of the mage guild, are that the denizens look like a
+cross between a jellyfish and a she-wolf.  In exchange for some of their
+people's aid in conquering his prison, `bAuvyron `lpromised them mortal
+hosts.  This demon floats through the air lazily, as if surveying prey,
+possibly you.  
+~
+dragon~
+0 0 0 0
+AFGQSc HJT -850 7101
+85 90 20d50+3500 85d10+1000 10d10+10 slime
+-20 -40 -30 999 -60
+0 -1 ABGH ABCa BEH FI
+stand stand neutral 4000
+AHZ ACDEFGHIJKPQUVXa 23 23 23 23 23 23 0
+large slime~
+0 0 0 100
+2
+~
+~
+#407
+corrupt paladin~
+`oA corrupted `kPaladin``~
+`oA corrupted `kPaladin `ostands here, willfully serving his new god, `bAuvyron`o.``
+~
+`oThis forgotten soul was once a proud `kpaladin `oof the Argent Lance
+Order before foolishly vowing at a feast to slay the heretic mage `bAuvyron
+`oin single combat.  Seemingly untouched physically by the terror of this
+place, nevertheless this paladin now worships `bAuvyron `oas his savior.  He
+stands a little shy of six feet tall, and has sandy blonde hair, but the
+unhealthy greenish tint to his eyes betrays his presence as familiar to this
+place.  
+~
+human~
+0 0 0 0
+ABEGMQT DFHOVXZ -750 0
+80 100 50d20+4000 50d20+500 0d0+0 punch
+-55 -60 -55 999 -50
+0 -1 EFHJV BN IZ 0
+stand stand male 8500
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium flesh~
+4 5 500 150
+2
+~
+~
+#408
+green acolyte~
+`cA `jgreen-fringed `cacolyte``~
+`aAn acolyte of `bAuvyron `alies in wait here, draped in dark robes and the silent darkness.``
+~
+`cThis lustful follower of `bAuvyron `c was rewarded with his rank upon
+`bAuvyron's`c corruption of his jail.  A young, frenetic man, he holds a
+shimmering, oaken cudgel in one hand, as he reaches for a `adull iron
+`cpoiniard tied loosely into his sash.  `cHis face is horribly scarred, with
+one vivid streak nearly bisecting his face from top to bottom, which gives
+this acolyte a terribly evil sneer.  
+~
+hobgoblin~
+0 0 0 0
+AFGNQc BFHJV -450 408
+75 80 50d20+5000 100d10+1000 8d10+10 slime
+-20 -20 -20 999 -20
+0 -1 FHKNRU La LQ 0
+stand stand male 2500
+AHMV ABCDEFGHIJKYa 21 21 21 21 21 21 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#409
+red acolyte~
+`bA `ired-fringed `bacolyte``~
+`aAn acolyte of `bAuvyron `alies in wait here, draped in dark robes and the silent darkness.``
+~
+`bThis lustful follower of `iAuvyron `bwas rewarded with her rank upon
+`iAuvyron's `bcorruption of his jail.  Dressed in sooty robes like all the
+other acolytes here, she seems unremarkable at first glance.  However,
+further inspection reveals the subtle scents of a mage, which some liken to
+a death from spicy rose petals.  She wears a webbed bandolier across her
+ample chest, which bodes ill for those who challenge her might in this
+place.  
+~
+hobgoblin~
+0 0 0 0
+AFGMNRc BEFHJNOQTV -250 0
+85 80 50d20+6200 50d10+1000 5d8+15 shock
+-20 -20 -20 999 -20
+0 -1 FHKRU AHOa BLQ IM
+stand stand female 9000
+ACHMV ABCDEFGHIJKYa 23 23 23 23 23 23 0
+medium flesh~
+0 0 0 200
+1
+~
+~
+#410
+purple acolyte~
+`fA `mpurple-fringed `facolyte``~
+`aAn acolyte of `bAuvyron `alies in wait here, draped in dark robes and the silent darkness.``
+~
+`fThis lustful follower of `bAuvyron `fwas rewarded with his rank for his
+assistance in trapping `kMalrezni, beloved of the light`f.  Standing a
+warped five feet tall, this evil man would be much taller if not for the
+hunch in his back.  His dark robes are specially cut to fit his physique,
+and a palpable fear surrounds him.  `fHe clutches a `mglowing `famulet in
+one palsied hand, and prepares to smite you with the power of his twisted
+soul.  
+~
+hobgoblin~
+0 0 0 0
+ACGMNOR HJVc -900 0
+90 80 50d20+6800 50d10+1200 0d0+0 pierce
+-20 -20 -20 999 -20
+0 -1 AFGHKNRU B ACLQ NS
+stand stand male 15000
+AHMV ABCDEFGHIJKYa 24 24 24 24 24 24 0
+medium flesh~
+0 0 0 100
+2
+~
+~
+#411
+evil guardian~
+`kThe Guardian of Evil``~
+`aA hulking Vro'ath is here, engaged in a bizarre and deadly struggle.``
+~
+`oThis creature was once a hideous `aVro'ath `owho came to pledge his
+services to the heretic mage, `bAuvyron`o.  True to his evil nature, the
+beast was immediately chosen to receive a `iN`ca`il`ca`ix`ci`in`o spirit
+into his body.  Unfortunately, `bAuvyron`o did not ponder the possibility
+that the melding of beast and demonic spirit would not take.  The sorry
+result of this you see before you.  Standing around twelve feet tall, and
+covered in a phosphorescent orange goo, it sprouts both limp tentacles from
+its upper arms and a row of thorny spikes that jut from its spinal column. 
+Alternately writhing on the floor in pain and striking itself with a bared
+fist, this is not a creature anyone in their right mind should approach.  
+~
+vro'ath~
+0 0 0 0
+ABFTc BDFOTVa -1000 0
+92 100 100d50+9000 92d10+1500 10d15+10 slime
+-80 -80 -80 999 -75
+0 -1 CDEFHKMVY ABEa 0 NP
+stand stand male 23000
+AHMV ABCDEFGHIJKa 25 25 25 25 25 25 0
+large slime~
+0 0 0 100
+2
+~
+~
+#412
+mad shrike~
+`gA `jmad `gshrike``~
+`gA `jmad `gshrike is here, twisted and filled with hate by the power of `bAuvyron`g.``
+~
+`gThis noble bird of prey once roamed the skies above `bAuvyron's
+`gprison.  Upon his escape, however, `bAuvyron `gmanaged to lure a small
+fraction of the animal life placed into his prison into his laboratory, and
+subsequently experimented on those unfortunate enough to survive.  This
+malign beast is one example.  It radiates the stench of evil, and its most
+evident feature is a large third eye centered in its forehead.  It seems to
+be wounded: twisted out of its natural cycle to become a fearsome reminder
+of the power of evil.  It flaps heavily toward you, tormented but deadly.  
+~
+song bird~
+0 0 0 0
+AFGMN FHTVa 0 7101
+70 70 20d50+2000 70d10+500 10d5+10 flbite
+-25 -30 -25 999 -30
+0 -1 DFGHU AHa B I
+stand stand neutral 2500
+AGW ACDEFHKPZa 20 20 20 20 20 20 0
+small feather~
+0 0 0 250
+1
+~
+~
+#413
+elanor shopkeeper syvin woman young~
+`cThe syvin shopkeeper, Elanor``~
+`cA young woman reclines in her hammock here, waiting for guests.``
+~
+`dA young, almost innocent syvin stretches out lazily in a hammock strung
+between the two poles of her tent.  She wears a small, `cgreen`d dress that
+seems to be made of feathers and leaves, that reflect all the colors of
+nature.  She gazes outside her haven with a weary look in her eyes at all
+the madness, as if to say 'Outside this place, I have so little power; but
+here, I am freed of the fetters on my soul and have been appointed to do
+what I can'.  Her beautiful, `gc`nl`oo`gu`ld`oy `nb`ll`gu`ee`d eyes know
+suffering and patience, and she has dedicated her life to sharing the beauty
+of her soul with those graced enough to find her.  
+~
+human~
+0 0 0 0
+ABa 0 1000 0
+80 0 20d20+100 0d0+0 0d0+0 wrath
+0 0 0 999 0
+0 -1 0 ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#414
+oozing mount~
+`jAn oozing mount``~
+`jA huge, spongy, oozing beast is here, waiting for its master.``
+~
+`jThis....  Thing seems to be a hulking pile of goo!  It has a sticky
+surface that has a faint glow to it, and has created a hardened place around
+its middle so that those denizens of Auvyron who must travel his jail
+quickly can ride on it.  It manages to move by extending part of itself
+forward, and retracting itself behind, almost as if pouring itself out in a
+sickening fashion.  It's smell reeks of rot, dirt, and some synthetic,
+unnatural odor.  
+~
+unique~
+0 0 0 0
+AZ HVXa 0 0
+60 60 40d50+1000 60d10+500 5d5+10 none
+-20 -20 -20 999 -40
+0 -1 CDFHJKMOVY 0 0 I
+stand stand neutral 0
+0 0 18 18 18 18 18 18 0
+large jelly~
+8 5 5000 100
+0
+~
+~
+#415
+spined perignar~
+`fA spined perignar``~
+`fA nightmare of horn and shell charges at you!``
+~
+`fEven if you had time to get a good look at this beast before it was
+upon you, it would be nearly impossible to describe.  It has a `kgolden
+`fcolor, but that may be the dust it raises to hide itself from view against
+the hard, baked earth.  Gleaming, purple-whorled shell protects this monster
+from the attacks of all but the most seasoned warrior.  Virulent, `bred
+`feyes peer out at you from deep underneath this mass of armor, radiating
+cunning.  
+~
+lizard~
+0 0 0 0
+ACFG FQ 0 0
+70 80 30d50+2500 70d10+500 15d20+25 suction
+-10 -10 -10 999 -10
+0 -1 JKVY a DL I
+stand stand neutral 500
+AGXc ACDEFHKQVa 20 20 20 20 20 20 0
+medium horn~
+0 0 0 150
+1
+~
+~
+#416
+galnorin~
+`eGalnorin, a brother of Erion``~
+`eGalnorin, a brother of Erion stands before you, shaking his head sadly.``
+~
+`lOnce a fierce paladin in the service of the `kArgent Lance`l, Galnorin
+was one of the few lucky ones who survived the `bAuvyron `lcampaign.  The
+sights he witnessed during those heroic days, from `ifire `lflowing like
+water to stalk and kill his troops to the End of things Holy, as the daemon
+`kZatel`l opened the Gate of Sorrow changed him forever.  He retired to this
+place and this duty: To ward the prison of `bAuvyron`l against those who
+would open it as long as he lived.  He wears the `hwhite`l robes of the
+Erion Order, and the `gazure`l cloak and `ablack steel`l gauntlets of a
+paladin.  He still carries his heft well, but his tonsure is rimed with a
+`osilver frost`l, showing his age.  
+~
+human~
+0 0 0 0
+ABG 0 0 0
+80 0 50d20+2000 1d1+1 0d0+0 wrath
+-100 -100 -100 999 -100
+0 -1 0 BCD 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#417
+gallant squire~
+`dA gallant squire``~
+`dA man stands here, willing to journey with you to face `bAuvyron`d.``
+~
+`dThis young man stands about five and a half feet tall.  Born into a
+life of bowing and scraping to a new petty lordlet every week, he decided to
+chance descending into the bowels of the earth and offer his assistance to
+those willing to face `bAuvyron`d.  His face is deeply tanned from his time
+outdoors, and even though the Brothers feed and clothe him better than he
+ever could have on the surface, a certain roughness of voice and propensity
+to gather around the gaming tables in the festhall in back demonstrates that
+he is of a lesser class than most.  
+~
+human~
+0 0 0 0
+AIT KV 800 0
+80 80 50d30+2500 80d10+100 10d10+10 punch
+-20 -20 -20 999 -10
+0 -1 EFHKN 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium flesh~
+0 0 0 250
+0
+~
+~
+#418
+trusty knight~
+`gA trusty knight``~
+`gA battle-hardened veteran of Galnorin's company stands ready.``
+~
+`lThis gentleman stands just under six feet tall, and wears the
+broad-bladed sword and`a black chain armor`l of the Knights of the `kArgent
+Lance`l as if he's held them for years.  He is heavily muscled and in the
+prime of life but his face bears the psychic scars of witnessing events that
+normal men should not.  He shoulders his pack and prepares to descend deep
+into the maze.  
+~
+human~
+0 0 0 0
+AIT KNVa 900 0
+85 90 30d20+5400 80d10+200 8d12+12 slash
+-25 -30 -25 999 -10
+0 -1 CDFIK 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 23 23 23 23 23 23 0
+medium flesh~
+0 0 0 300
+0
+~
+~
+#419
+wizened paladin~
+`kA wizened paladin``~
+`kAn elderly Paladin of Erion waits patiently for the end.``
+~
+`cSome wonder what drove this elegant, old man underground - and what
+horrors he witnessed that urge him to stay here and offer his services as
+protector and guide to those audacious enough to enter this place.  He wears
+the robes and cloak of a paladin easily, and his only weapon is his
+`dpenitent's staff`c that he clutches in one, trembling hand.  But to look
+at his outward appearance and scoff would be foolhardy, for this man alone
+among his brethren had the strength of will and purity of mind to force
+closed the Gate of Sorrow.  `` 
+~
+human~
+0 0 0 0
+AIQ FHKV 1000 0
+90 90 50d20+6500 90d20+1000 10d13+15 divine
+-40 -40 -40 999 -50
+0 -1 DEFHIK 0 NO 0
+stand stand male 2500
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium flesh~
+0 0 0 500
+0
+~
+~
+#420
+Malrezni being luminous~
+`kMalrezni, beloved of the light``~
+`kA luminous being stands here, chained to the pillar with fetters of `airon`k.``
+~
+`kA demigod in her own right, Malrezni chose to give up some of her
+life-force to aid in the permanence of `bAuvyron's`k prison.  As his hate is
+unbounded for those who would thwart his designs, `bAuvyron's`k first move
+was to enchain this blissful spirit within the `apillar`k that until
+recently housed his `msoul`k.  Only the weakening of `bAuvyron's`k spirit
+allowed her to reach this plane, so what you can see is more dreamlike than
+not.  She still has no form; just a presence: The majesty of a
+`gs`at`eo`gr`am`a-`ei`gn`af`el`ga`am`ee`ad`k ocean, the peace of an old
+churchyard, the love that the eternal `cForest`k feels for its Rangers. 
+Malrezni encompasses those and more, and her light illumines the room and
+your soul.  `` 
+~
+human~
+0 0 0 0
+ABQR BHTVa 1000 0
+92 100 50d40+6000 92d10+2000 13d10+10 divine
+-50 -50 -50 999 -60
+0 -1 FGHKS AB 0 M
+stand stand female 4000
+AHLMV ABCDEFGHIJKPa 25 25 25 25 25 25 0
+medium ethereal~
+0 0 0 100
+0
+~
+malrezni.scr~
+#421
+brother erion~
+A Brother of Erion~
+A Brother of Erion wanders around, contemplating life... and death.
+~
+~
+human~
+0 0 0 0
+ABQ HW 100 0
+55 55 50d10+1500 50d10+1500 3d10+3 divine
+-20 -20 -20 999 -20
+0 -1 FK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+6
+~
+auvybrother.scr~
+#422
+shambling beast~
+`dA shambling beast``~
+`dAnother denizen of `bThe Hell of Auvyron `dslumps toward you.``
+~
+`dAnother one of `bAuvyron's`d creations shambles toward you.  It could
+be nearly anything.  It's really big, and seems to be made of mud that was
+shaped with an eye towards unholiness.  To allow this construct to move, its
+joints have been animated with an evil `jgreen`d light.  Its approach makes
+the ground shake as it shambles toward you.  
+~
+unique~
+0 0 0 0
+AFGc DFHPQVa 0 401
+70 80 50d50+3500 70d20+500 10d8+15 claw
+-20 -20 -20 999 -20
+0 -1 ADFK ABKa 0 0
+stand stand neutral 1500
+0 0 20 20 20 20 20 20 0
+large clay~
+0 0 0 100
+1
+~
+~
+#423
+transformed novice~
+`bA Transformed Novice``~
+A transformed novice is here, a sorry amalgam of chaotic parts.
+~
+`lPeople who fail to complete the `bHell of Auvyron `ltend to end up
+looking like this.  After wandering the maze for uncounted time, the chaos
+took its effect on this once humble novice, transforming him into the
+monstrosity you see before you.  `jLime green `lfins sprout from his back,
+and flaming, `iruby red `leyes jut from this piteous soul's elongated face. 
+Dressed in a dark, `asoot-colored `lcloak and hood, he avoids joining with
+his former brethren in singing their praises to their new master,
+`bAuvyron`l.  `` 
+~
+human~
+0 0 0 0
+AGNQc BHTa 400 405
+80 80 15d50+6000 20d20+400 15d20+15 chomp
+-20 -20 -20 999 -20
+0 -1 BFHKU 0 AKQR 0
+stand stand neutral 7500
+AHMV ABCDEFGHIJKMOPQVa 22 22 22 22 22 22 0
+medium flesh~
+0 0 0 100
+2
+~
+~
+#424
+resurrected bones~
+`aResurrected Bones``~
+`aA `ihellish`a construct of old, blasted death is here.``
+~
+`aThis jumbled pile of bones makes a quiet clicking sound as it
+approaches.  Created by the power of evil, it seems to have the snout and
+fangs of a wolf, the tail of some long-dead lizard, the legs of an elephant,
+and the torso of a human.  Sickly `mpurple`a light plays about its skeletal
+joints, providing not only motive power, but freedom of movement to crush
+the foes of `bAuvyron`a.  `` 
+~
+unique~
+0 0 0 0
+ACEGHMNOWZ DFHKOcd -600 0
+80 90 20d50+3500 80d10+400 15d10+12 chomp
+-20 -20 -20 999 -20
+0 -1 CEJU AB FG E
+stand stand neutral 5000
+AGHMV ABCDEFGHIJK 22 22 22 22 22 22 0
+large bone~
+0 0 0 850
+2
+~
+~
+#425
+glowing orb~
+`lA glowing orb``~
+`lA `kglowing`l orb floats here, displaying shimmering fractal patterns.
+~
+One of the strangest sights in this unholy place, a smallish ball of some
+shiny metal floats just out of reach.  Imprinted all over its surface with
+tiny, glinting runes that ebb and flow in fractal patterns, mesmerizing even
+the most pensive person.  At first glance, these glowing spheres might be
+taken as lights, but the thought that goes into the creation of the patterns
+whorling on the surface of these things requires sentience.  
+~
+unique~
+0 0 0 0
+AGSX DFHNPTV 0 405
+75 90 20d101+3000 40d10+100 10d15+5 shbite
+-20 -20 -20 999 -20
+0 -1 CFKV 0 BP 0
+stand stand neutral 7500
+AHMV ABCDEFGHIJK 21 21 21 21 21 21 0
+medium electrum~
+0 0 0 200
+1
+~
+~
+#426
+do not use~
+Do not use~
+`gA `jmad`g shrike is here, glaring at you cunningly.``
+~
+`gThis noble bird of prey once roamed the skies above `bAuvyron's`g
+prison.  Upon his escape, however, `bAuvyron`g managed to lure a small
+fraction of the animal life placed into his prison into his laboratory, and
+subsequently experimented on those unfortunate enough to survive.  This
+malign beast is one example.  It radiates the stench of evil, and its most
+evident feature is a large third eye centered in its forehead.  It seems to
+be wounded: twisted out of its natural cycle to become a fearsome reminder
+of the power of evil.  It flaps heavily toward you, tormented but deadly.  
+~
+song bird~
+0 0 0 0
+A FHTVa 0 0
+70 3 20d50+2000 70d10+500 10d5+10 flbite
+-25 -30 -25 999 -30
+0 -1 DFGH ACDH 0 I
+stand stand neutral 2500
+AGHMVW ABCDEFGHIJKPZa 20 20 20 20 20 20 0
+small feather~
+0 0 0 250
+0
+~
+~
+#427
+do not use~
+Do not use~
+Salnorin is here
+~
+~
+human~
+0 0 0 0
+ABG 0 0 0
+80 0 50d20+2000 1d1+1 0d0+0 wrath
+-100 -100 -100 999 -100
+0 -1 0 BCD 0 0
+stand stand neutral 50000
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#428
+mad shrike~
+`gA `jmad `gshrike``~
+`gA `jmad`g shrike is here, watching you silently.``
+~
+`gThis noble bird of prey once roamed the skies above `bAuvyron's
+`gprison.  Upon his escape, however, `bAuvyron `gmanaged to lure a small
+fraction of the animal life placed into his prison into his laboratory, and
+subsequently experimented on those unfortunate enough to survive.  This
+malign beast is one example.  It radiates the stench of evil, and its most
+evident feature is a large third eye centered in its forehead.  It seems to
+be wounded: twisted out of its natural cycle to become a fearsome reminder
+of the power of evil.  It flap`ls`g heavily toward you, tormented but deadly.  
+~
+song bird~
+0 0 0 0
+ABG FHTVa 0 7101
+70 80 20d50+2000 70d10+500 10d5+10 flbite
+-20 -20 -20 999 -20
+0 -1 DFGH AH 0 I
+stand stand neutral 2500
+AGW ACDEFHKPZa 20 20 20 20 20 20 0
+small feather~
+0 0 0 250
+1
+~
+~
+#429
+resurrected bones~
+`aResurrected Bones``~
+`aA`i hellish`a construct seems to have a purpose in waiting for you here.
+~
+`aThis jumbled pile of bones makes a quiet clicking sound as it
+approaches.  Created by the power of evil, it seems to have the snout and
+fangs of a wolf, the tail of some long-dead l`li`azard, the legs of an elephant,
+and the torso of a human.  Sickly `mpurple`a light plays about its skeletal
+joints, providing not only motive power, but freedom of movement to crush
+the foes of `bAuvyron`a.  `` 
+~
+unique~
+0 0 0 0
+ABCEGMNOW DFHKOcd -600 0
+80 90 20d50+3500 80d10+400 15d10+15 chomp
+-20 -20 -20 999 -20
+0 -1 CEJ AB FG E
+stand stand neutral 5000
+AGHMV ABCDEFGHIJK 22 22 22 22 22 22 0
+large bone~
+0 0 0 850
+2
+~
+~
+#430
+transformed novice~
+`bA Transformed Novice``~
+This monstrous beast should not be able to speak, but does.
+~
+`l`oPeople who fail to complete the `bHell of Auvyron`o `l`otend to end up
+looking like this.  After wandering the maze for uncounted time, the chaos
+took its effect on this once humble novice, transforming him into the
+monstrosity you see before you.  `jLime `jgreen`o `l`ofins sprout from his back,
+and flaming, `iruby `ired`o `l`oeyes jut from this piteous soul's elongated face. 
+`oDressed in a dark, `asoot-colored`o cloak and hood, he avoids joining with
+his former brethren in singing their praises to their new master,
+`bAuvyron`o.   This one, however, has a bit of an amused e`lx`opression
+on its mutilated face.  `` 
+~
+human~
+0 0 0 0
+ABGQc BHTa 400 0
+80 90 15d50+6000 20d20+400 15d20+15 chomp
+-25 -25 -25 999 -20
+0 -1 BFHK 0 AKQR 0
+stand stand neutral 7500
+AHMV ABCDEFGHIJKMOPQVa 22 22 22 22 22 22 0
+medium flesh~
+0 0 0 100
+2
+tnovie~
+~
+#431
+glowing orb~
+`cA glowing orb``~
+`cA `kglowing`c orb floats here, displaying shimmering fractal `lp`catterns.``
+~
+One of the strangest sights in this unholy place, a smallish ball of some
+shiny metal floats just out of reach.  Imprinted all over its surface with
+tiny, glinting runes that ebb and flow in fractal patterns, mesmerizing even
+the most pensive person.  At first glance, these glowing spheres might be
+taken as lights, but the thought that goes into the creation of the patterns
+whorling on the surface of these things requires sentience.  
+~
+unique~
+0 0 0 0
+ABGS DFHNPTV 0 405
+75 80 20d101+3000 40d10+100 10d15+10 shbite
+-20 -20 -20 999 -20
+0 -1 CFKV 0 BP 0
+stand stand neutral 7500
+AHMV ABCDEFGHIJK 21 21 21 21 21 21 0
+medium electrum~
+0 0 0 200
+1
+~
+~
+#432
+oozing mount~
+`jAn oozing mount``~
+`jA huge, spongy, oozing beast is here, waiting for its master.``
+~
+`jThis....  Thing seems to be a hulking pile of goo!  It has a sticky
+surface that has a faint glow to it, and has `lc`jreated a hardened place around
+its middle so that those denizens of Auvyron who must travel his jail
+quickly can ride on it.  It manages to move by extending part of itself
+forward, and retracting itself behind, almost as if pouring itself out in a
+sickening fashion.  It's smell reeks of rot, dirt, and some synthetic,
+unnatural odor.  
+~
+unique~
+0 0 0 0
+ABG HVXa 0 0
+60 60 40d50+1000 60d10+500 5d5+5 none
+-20 -20 -20 999 -40
+0 -1 CDFHJKMOVY 0 0 I
+stand stand neutral 0
+0 0 18 18 18 18 18 18 0
+large jelly~
+0 0 0 100
+0
+~
+~
+#433
+spirit glassine~
+`oA glassine spirit``~
+`hA spirit emtombed in`a smoky`h glass floats about.``
+~
+`hAt first, it seems like a huge, `lv`hulture-like thing.  As it
+approaches, floating rather unsteadily on the heated air currents of this
+damned place, you can see the entrapped spirit within.  It may be best to
+keep this thing at arm's reach, for the edges of its wings, and most of its
+other surfaces seem razor sharp.  
+~
+unique~
+0 0 0 0
+ABG FNOc 0 0
+65 70 20d50+1500 0d0+0 3d8+5 slice
+-20 -20 -20 999 -20
+0 -1 0 AB F EH
+stand stand neutral 1500
+0 0 19 19 19 19 19 19 0
+medium glass~
+0 0 0 100
+2
+~
+~
+#434
+transformed novice~
+`bA Transformed Novice``~
+This monstrous beast should not be able to speak, but does.
+~
+`l`oPeople who fail to complete the `bHell of Auvyron`o `l`otend to end up
+looking like this.  After wandering the maze for uncounted time, the chaos
+took its effect on this once humble novice, transforming him into the
+monstrosity you see before you.  `jLime `jgreen`o `l`ofins sprout from his back,
+and flaming, `iruby `ired`o `l`oeyes jut from this piteous soul's elongated face. 
+`oDressed in a dark, `asoot-colored`o cloak and hood, he avoids joining with
+his former brethren in singing their praises to their new master,
+`bAuvyron`o.   This one, however, has a bit of an amused expression``
+`oon its mutilated face.  ``
+~
+human~
+0 0 0 0
+ABGQc BHTa 400 0
+80 90 15d50+6000 20d20+400 15d20+15 chomp
+-20 -20 -20 999 -20
+0 -1 BFHK 0 AKQR 0
+stand stand neutral 7500
+AHMV ABCDEFGHIJKMOPQVa 22 22 22 22 22 22 0
+medium flesh~
+0 0 0 100
+2
+~
+~
+#0
+
+#OBJECTS
+#400
+reed wand~
+`cA reed wand``~
+`cA wand crafted from a water reed lies here, humming faintly.~
+unknown~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABDG AC AC BCH 'reserved'
+0
+0
+65 1 500 P
+#401
+counter wooden~
+`dA rough wooden counter``~
+`dA rough wooden counter stands here, with worn spots from countless elbows.``~
+wood~
+0
+trash 2
+ST
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 500 0 P
+#402
+soul pillar~
+Auvyron's Soul Pillar~
+`aA pitted rock pillar seems to contain an oozing, `mpurple`a glow.``~
+stone~
+0
+trash 2
+RSTa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 500 0 P
+#403
+dias auvyron~
+a low dias~
+`oA low dias is here, where the heretic mage `bAuvyron`o lies in wait for you.``~
+stone~
+0
+trash 2
+RSTa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 500 0 P
+#404
+hood auvyron~
+`iThe hood of Auvyron``~
+`dA `icrimson`d hood inlaid with sparking `kyellow`d runes lies in a heap here.``~
+silk~
+0
+armor 2
+AES
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BE BE BE DE 0
+0
+0
+85 5 8000 P
+A
+18 9
+#405
+heart auvyron~
+`bThe `iHeart`b of Auvyron``~
+`bThe ancient heart of evil twitches slowly.``~
+flesh~
+0
+treasure 2
+EM
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 1 15000 P
+A
+26 -5
+A
+19 11
+A
+5 -2
+#406
+pillar~
+(no short description)~
+~
+clay~
+0
+portal 2
+RSTa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`a$n enters the `mpurple`a glow of the upright pillar.``~
+`aAs you enter the evil `mpurple`a glow, the fires of a million torments cover you, then are extinguished.``~
+~
+~
+-1 0 G ABCDFGHI A
+0
+0
+1 500 500 P
+#407
+scourge holy~
+`jThe Scourge of the `kHoly``~
+`jA glittering emanation of otherworldly force is here.``~
+ethereal~
+0
+weapon 2
+ACEFMSUZ
+0
+AN
+0
+BCDEFMN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 AD ABC AF CH
+0
+0
+90 5 95000 P
+A
+18 9
+A
+26 -5
+A
+3 -3
+#408
+Fleshbite axe~
+`bF`dlesh`bB`dite``~
+`dA wicked looking long axe with marks carved into the wooden handle is here.``~
+steel~
+0
+weapon 2
+GH
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC D ABC ACE DE
+0
+0
+77 400 15500 P
+A
+2 -2
+A
+19 8
+A
+18 4
+#409
+portal escape~
+something~
+`nA `kgolden`n shimmer fills this room.``~
+unknown~
+0
+portal 2
+ARSTY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n looks relieved as $e escapes the Hell of Auvyron.~
+You feel a new sense of hope now that you have escaped the Hell of Auvyron.~
+With a gust of stale air, a portal appears before you. $n steps out, with a look of relief on his face.``~
+~
+-1 0 AG CFG A
+0
+0
+80 25000 500 P
+#410
+dirty robe~
+a dirty linen robe~
+A long robe of dirty linen lies here, spoiled from sweat and dust.~
+cloth~
+0
+clothing 2
+ACEGJS
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+75 6 500 P
+A
+26 -1
+A
+24 -4
+#411
+holy defiled symbol~
+`ha `ad`oe`af`oi`al`oe`ad `hholy symbol``~
+`bThis once holy symbol has been defiled by the powers of Auvyron.``~
+brass~
+0
+jewelry 2
+MSY
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 10 2500 P
+A
+17 -30
+#412
+tooled leather collar~
+a tooled leather collar~
+`dA boiled leather collar has been engraved with some sharp object.``~
+hard leather~
+0
+armor 2
+SY
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+ABC ABC ABC 0 0
+0
+0
+70 15 1500 P
+#413
+a compass~
+a compass~
+`cA tool for navigating a maze lies here, pointing north.``~
+iron~
+0
+warp_stone 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+63 1 20000 P
+#414
+drip water~
+a chilly drip~
+`nWater drips in a steady stream from light-filled regions above.``~
+stone~
+0
+fountain 2
+RSTa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5000 500 P
+#415
+sooty cloak~
+`aa sooty cloak``~
+`aA cloak the color of soft coal shimmers softly here.``~
+coal~
+0
+armor 2
+EGLPST
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+E E E BCDE 0
+0
+0
+70 6 1500 P
+A
+2 1
+A
+4 1
+#416
+ball of ice~
+A ball of ice~
+`oA `kmagical`o ball of ice is here, melting slowly.``~
+ice~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BDEG 'Quiet Mountain Lake' 'lightning breath' 'lightning breath' 'reserved'
+0
+0
+80 1 3500 P
+#417
+corruption~
+`aCorruption``~
+`aA field of chaotic evil is here, poisoning the land.``~
+void~
+0
+treasure 2
+EJLQSa
+0
+AQ
+0
+ABCDEF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+65 1 7500 P
+A
+24 5
+A
+19 4
+A
+18 8
+#418
+`jA lime-green fin``~
+`jA lime green fin``~
+`jThe brightly `jm`ko`jt`kt`jl`ke`jd`j fin of a novice squirms here.``~
+scales~
+0
+armor 2
+GMS
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+-18 -18 -18 -18 0
+0
+0
+76 5 5000 P
+A
+19 3
+A
+18 -3
+#419
+nalaxin tentacle~
+`cA`i Nalaxin`c Tentacle``~
+`cThe stinging growth of a `iNalaxin`c demon drips deadly venom.``~
+biochemical~
+0
+weapon 2
+EGJS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B C BCD ABCDE DH
+0
+0
+75 20 12500 P
+A
+19 -1
+A
+18 6
+A
+2 2
+#420
+respite~
+`gA respite``~
+`gThis will take one player only to the beginning of `bHell`g.``~
+void~
+0
+portal_book 2
+AHS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+$n escapes this hellish place.~
+You take a respite from the turbulence of `bHell``.~
+~
+~
+B BDFGHI 0 0 0
+0
+0
+50 1 25000 P
+#421
+pewter chalice~
+`aA pewter chalice``~
+`aA pewter chalice with `brosy`a whorls of gems catches your eye.``~
+pewter~
+0
+drink 2
+CIW
+0
+AO
+0
+0
+0
+421
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D D ACE 0 0
+0
+0
+74 50 7500 P
+A
+19 2
+A
+24 -3
+#422
+lion head shield~
+`kA lion-embossed shield``~
+`dA `hsilvery`d shield embossed with a `kgolden`d lion's head rests here, gleaming.``~
+electrum~
+0
+armor 2
+KT
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BE BE BE CE 0
+0
+0
+78 150 3500 P
+A
+2 -1
+A
+1 2
+#423
+whip compulsion~
+`fThe whip of compulsion``~
+`fYou know you want to have this whip cracked across your bare back.``~
+hard leather~
+0
+weapon 2
+JS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BC D BC ABF EH
+0
+0
+70 20 100 P
+A
+18 4
+A
+5 -2
+A
+2 1
+#424
+dull iron poiniard~
+`aA dull iron poiniard``~
+`aThis blade reflects very little light.``~
+iron~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B ABC ABC ABD D
+0
+0
+67 100 1500 P
+A
+19 1
+A
+3 2
+A
+26 -3
+#425
+mark auvyron~
+`bThe `iMark`b of Auvyron``~
+An evil mark is here, burned into the shoulders of the followers of Auvyron.~
+fire~
+0
+armor 2
+EJLMSZ
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+D D D D 0
+0
+0
+72 1 500 P
+A
+1 1
+A
+24 5
+A
+19 3
+#426
+velvet bandolier~
+`aA black velvet bandolier``~
+`aA velvet strap with slots for magical implements is here.``~
+velvet~
+0
+clothing 2
+PST
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+65 5 500 P
+A
+24 -2
+A
+1 1
+A
+5 2
+#427
+pitted gold wand~
+`kA pitted gold wand``~
+`kAn ancient wand is here, made of gold fallen from the `nskies`k.``~
+gold~
+0
+wand 2
+B
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EG CE CE CH 'reserved'
+0
+0
+71 50 8000 A
+#428
+loaf wayfarer bread~
+`dA loaf of wayfarer bread``~
+A warm loaf just pulled from the oven is here.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABCE ACD BEF 0 0
+0
+0
+70 1 125 P
+#429
+evil charm~
+`mAn evil charm``~
+`mA charm against the powers of good resonates here.``~
+cloth~
+0
+jewelry 2
+AEGJLS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+83 2 15000 P
+A
+3 -2
+A
+2 -1
+A
+19 4
+A
+17 -6
+#430
+crystalline tear~
+`nA Crystalline Tear``~
+`nThe tear of some long-dead goddess shines faintly here.``~
+water~
+0
+potion 2
+AS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABDG 'penance' 'penance' 'holy word' 'reserved'
+0
+0
+85 1 4300 P
+#431
+light belief~
+`gThe Light of Belief``~
+`gA shimmering field of light rests gently here.``~
+ethereal~
+0
+light 2
+KS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+81 1 6400 P
+A
+24 -10
+A
+17 -20
+A
+18 10
+A
+19 10
+A
+26 2
+A
+3 2
+A
+13 25
+A
+12 25
+A
+2 2
+A
+5 2
+A
+1 2
+A
+4 2
+#432
+lavender wand~
+`fA lavender pill``~
+`fA small sprig of lavender emits an arousing aroma.``~
+cotton~
+50
+pill 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AG 'word of recall' 'plague' 'reserved' 'reserved'
+0
+0
+60 1 7500 P
+#433
+a shard of amethyst~
+`fA shard of`m amethyst``~
+`fA glowing shard of purple crystal is here.``~
+crystal~
+0
+treasure 2
+EGJLSa
+0
+AO
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 0 25000 P
+A
+24 -3
+A
+2 2
+A
+13 18
+#434
+blood paladin~
+`iThe blood of a `kholy`i paladin``~
+`dA small vial of `aebon`d crystal is here, filled with an even darker liquid.``~
+ebony~
+0
+potion 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AG 'fire breath' 'damnation' 'stone skin' 'reserved'
+0
+0
+78 1 5000 P
+#435
+tight perignar leather pants~
+`fTight perignar-leather pants``~
+`fTight pants made from a skinned perignar are here, bristles and all.``~
+soft leather~
+0
+armor 2
+S
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+75 40 2500 P
+A
+5 1
+A
+19 1
+#436
+eye mad shrike~
+`dthe `gthird`d eye of a `bmad`d shrike``~
+`gA glaring eye floats and circles warily here.``~
+flesh~
+0
+jewelry 2
+EGSa
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 2 4500 P
+A
+24 -4
+A
+18 7
+A
+19 -3
+#437
+gloves heretic~
+`athe `bgloves`a of the `bH`ie`br`ie`bt`ii`bc``~
+Gloves of the most sinister red float gently above the ground.~
+cloth~
+0
+clothing 2
+GJLS
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 59 9302 P
+A
+18 2
+A
+19 3
+A
+24 -4
+A
+12 100
+A
+1 3
+#438
+scourge holy~
+`jThe Scourge of the `kHoly``~
+`jA glittering emanation of otherworldly force is here.``~
+ethereal~
+0
+weapon 2
+AES
+0
+AN
+B
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C AD ABC AF ACDEH
+0
+0
+80 5 95000 P
+A
+18 9
+A
+19 12
+#0
+
+#ROOMS
+#400
+0 0
+~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored`a
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 E
+moss~
+`bThis growth certainly looks unhealthy.  It has a massed clump of sticky
+`btendril`ls`b that anchor it to the wall of the room, and some `osilvery`b,
+mouthlike, waving `bcups that attract the flies and other small insects that
+infest this place.  `` 
+~
+D0
+~
+~
+0 0 405
+D1
+~
+~
+0 0 401
+D2
+~
+~
+0 0 402
+D3
+~
+~
+0 0 405
+D4
+~
+~
+0 0 432
+S
+#401
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 407
+D1
+~
+~
+0 0 402
+D2
+~
+~
+0 0 409
+D3
+~
+~
+0 0 400
+D4
+~
+~
+0 0 430
+S
+#402
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 422
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 413
+D3
+~
+~
+0 0 401
+D4
+~
+~
+0 0 444
+S
+#403
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a f`lu`anereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 408
+D1
+~
+~
+0 0 409
+D2
+~
+~
+0 0 421
+D3
+~
+~
+0 0 402
+D4
+~
+~
+0 0 439
+S
+#404
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 409
+D1
+~
+~
+0 0 425
+D2
+~
+~
+0 0 411
+D3
+~
+~
+0 0 420
+D4
+~
+~
+0 0 442
+S
+#405
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanter`ln`as with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 416
+D1
+~
+~
+0 0 406
+D2
+~
+~
+0 0 400
+D3
+~
+~
+0 0 415
+D4
+~
+~
+0 0 445
+S
+#406
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 E
+char~
+`aThis thick streak of char was made not too long ago by a car`le`aless
+minion of `bAuvyron`a who neglected his duties in keeping the lanterns that
+are brought out for ceremonies are well-tended.  Undoubtedly, he is roasting
+in an unpleasant place right now.  
+~
+D0
+~
+~
+0 0 411
+D1
+~
+~
+0 0 417
+D2
+~
+~
+0 0 422
+D3
+~
+~
+0 0 405
+D4
+~
+~
+0 0 454
+S
+#407
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 412
+D1
+~
+~
+0 0 404
+D2
+~
+~
+0 0 413
+D3
+~
+~
+0 0 410
+D4
+~
+~
+0 0 459
+S
+#408
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lantern`ls`a with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 419
+D1
+~
+~
+0 0 409
+D2
+~
+~
+0 0 403
+D3
+~
+~
+0 0 416
+D4
+~
+~
+0 0 438
+S
+#409
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 414
+D1
+~
+~
+0 0 429
+D2
+~
+~
+0 0 404
+D3
+~
+~
+0 0 408
+D4
+~
+~
+0 0 441
+S
+#410
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 400
+D1
+~
+~
+0 0 411
+D2
+~
+~
+0 0 401
+D3
+~
+~
+0 0 407
+D4
+~
+~
+0 0 440
+S
+#411
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well `lt`arimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 422
+D1
+~
+~
+0 0 421
+D2
+~
+~
+0 0 406
+D3
+~
+~
+0 0 410
+D4
+~
+~
+0 0 438
+S
+#412
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 417
+D1
+~
+~
+0 0 413
+D2
+~
+~
+0 0 407
+D3
+~
+~
+0 0 425
+D4
+~
+~
+0 0 437
+S
+#413
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 AN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 413
+D1
+~
+~
+0 0 414
+D2
+~
+~
+0 0 418
+D3
+~
+~
+0 0 412
+D4
+~
+~
+0 0 433
+S
+#414
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 417
+D1
+~
+~
+0 0 410
+D2
+~
+~
+0 0 409
+D3
+~
+~
+0 0 413
+D4
+~
+~
+0 0 452
+S
+#415
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 420
+D1
+~
+~
+0 0 408
+D2
+~
+~
+0 0 419
+D3
+~
+~
+0 0 416
+D4
+~
+~
+0 0 458
+S
+#416
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 401
+D1
+~
+~
+0 0 417
+D2
+~
+~
+0 0 409
+D3
+~
+~
+0 0 406
+D4
+~
+~
+0 0 455
+S
+#417
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 419
+D1
+~
+~
+0 0 414
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 416
+D4
+~
+~
+0 0 435
+S
+#418
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of cha`lr`a is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 428
+D1
+~
+~
+0 0 419
+D2
+~
+~
+0 0 423
+D3
+~
+~
+0 0 415
+D4
+~
+~
+0 0 436
+S
+#419
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 424
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 409
+D3
+~
+~
+0 0 418
+D4
+~
+~
+0 0 444
+S
+#420
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 427
+D1
+~
+~
+0 0 421
+D2
+~
+~
+0 0 415
+D3
+~
+~
+0 0 424
+D4
+~
+~
+0 0 457
+S
+#421
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 426
+D1
+~
+~
+0 0 414
+D2
+~
+~
+0 0 418
+D3
+~
+~
+0 0 420
+D4
+~
+~
+0 0 433
+S
+#422
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 427
+D1
+~
+~
+0 0 423
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 413
+D4
+~
+~
+0 0 447
+S
+#423
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 428
+D1
+~
+~
+0 0 427
+D2
+~
+~
+0 0 425
+D3
+~
+~
+0 0 422
+D4
+~
+~
+0 0 444
+S
+#424
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 E
+air~
+`eEven the air here conspires against those who would destroy this place.
+War`lm`eer than it really should be, it exudes moisture, leaving leather
+armor molded and the grips of weapons slippery.  
+~
+D0
+~
+~
+0 0 429
+D1
+~
+~
+0 0 408
+D2
+~
+~
+0 0 419
+D3
+~
+~
+0 0 407
+D4
+~
+~
+0 0 452
+S
+#425
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 409
+D1
+~
+~
+0 0 418
+D2
+~
+~
+0 0 415
+D3
+~
+~
+0 0 412
+D4
+~
+~
+0 0 448
+S
+#426
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 408
+D1
+~
+~
+0 0 427
+D2
+~
+~
+0 0 421
+D3
+~
+~
+0 0 425
+D4
+~
+~
+0 0 432
+S
+#427
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 406
+D1
+~
+~
+0 0 407
+D2
+~
+~
+0 0 422
+D3
+~
+~
+0 0 426
+D4
+~
+~
+0 0 431
+S
+#428
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, g`lr`aay stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nHumidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 420
+D1
+~
+~
+0 0 429
+D2
+~
+~
+0 0 423
+D3
+~
+~
+0 0 412
+D4
+~
+~
+0 0 458
+S
+#429
+0 0
+(null)~
+~
+~
+0 0 0
+`bThe Lower Hall``~
+`aThick, gray stone walls lean in claustrophobically as this passage, like
+all the others, disappears into the horizon.  `nH`lu`nmidity `aclogs the air,
+and the sound of water dripping into small patches of odd, `bred-colored
+`amoss does nothing to alleviate the feeling of dread here.  Every so often,
+an odd streak of char is evident on the side of a wall, as if lanterns with
+their wicks not well trimmed once smoked and guttered in this maze.  There
+are very few landmarks in the godforsaken maze, for even the low chanting
+that is everpresent here somehow blends with the echoing drip of water and
+takes on a funereal air.``  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 424
+D1
+~
+~
+0 0 421
+D2
+~
+~
+0 0 424
+D3
+~
+~
+0 0 428
+D4
+~
+~
+0 0 443
+S
+#430
+0 0
+~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 435
+D1
+~
+~
+0 0 437
+D2
+~
+~
+0 0 434
+D3
+~
+~
+0 0 447
+D4
+~
+~
+0 0 462
+D5
+~
+~
+0 0 404
+S
+#431
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `lA`buvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  `dThe
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 436
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 438
+D3
+~
+~
+0 0 441
+D4
+~
+~
+0 0 480
+D5
+~
+~
+0 0 401
+S
+#432
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inf`ll`dict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 451
+D1
+~
+~
+0 0 457
+D3
+~
+~
+0 0 431
+D4
+~
+~
+0 0 484
+D5
+~
+~
+0 0 403
+S
+#433
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 439
+D1
+~
+~
+0 0 434
+D2
+~
+~
+0 0 440
+D3
+~
+~
+0 0 441
+D4
+~
+~
+0 0 486
+D5
+~
+~
+0 0 402
+S
+#434
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 444
+D1
+~
+~
+0 0 454
+D2
+~
+~
+0 0 434
+D3
+~
+~
+0 0 433
+D4
+~
+~
+0 0 487
+D5
+~
+~
+0 0 418
+S
+#435
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 440
+D1
+~
+~
+0 0 436
+D2
+~
+~
+0 0 430
+D3
+~
+~
+0 0 445
+D4
+~
+~
+0 0 472
+D5
+~
+~
+0 0 423
+S
+#436
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+`dgrou`ln`dd without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 441
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 431
+D3
+~
+~
+0 0 435
+D4
+~
+~
+0 0 466
+D5
+~
+~
+0 0 428
+S
+#437
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 442
+D1
+~
+~
+0 0 438
+D2
+~
+~
+0 0 448
+D3
+~
+~
+0 0 457
+D4
+~
+~
+0 0 474
+D5
+~
+~
+0 0 408
+S
+#438
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground wit`lh`dout notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 448
+D1
+~
+~
+0 0 439
+D2
+~
+~
+0 0 451
+D3
+~
+~
+0 0 437
+D4
+~
+~
+0 0 476
+D5
+~
+~
+0 0 408
+S
+#439
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 444
+D1
+~
+~
+0 0 456
+D2
+~
+~
+0 0 454
+D3
+~
+~
+0 0 438
+D4
+~
+~
+0 0 479
+D5
+~
+~
+0 0 409
+S
+#440
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack `la`dny glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 457
+D1
+~
+~
+0 0 441
+D2
+~
+~
+0 0 443
+D3
+~
+~
+0 0 446
+D4
+~
+~
+0 0 460
+D5
+~
+~
+0 0 410
+S
+#441
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 E
+ground~
+`dNothing in this place is a friend of the Earth.  Warped and cracked by
+the immense power of `bAuvyron`d, it too has become a for of those `ll`ducky
+few who attempt to destroy the evil of this place.  Sometimes, without prior
+warning, earthquakes rumble up from nowhere, wreaking havoc upon all life. 
+`` 
+~
+D0
+~
+~
+0 0 446
+D1
+~
+~
+0 0 447
+D2
+~
+~
+0 0 440
+D3
+~
+~
+0 0 440
+D4
+~
+~
+0 0 461
+D5
+~
+~
+0 0 411
+S
+#442
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 431
+D1
+~
+~
+0 0 443
+D2
+~
+~
+0 0 437
+D3
+~
+~
+0 0 449
+D4
+~
+~
+0 0 471
+D5
+~
+~
+0 0 418
+S
+#443
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 430
+D1
+~
+~
+0 0 447
+D2
+~
+~
+0 0 446
+D3
+~
+~
+0 0 442
+D4
+~
+~
+0 0 481
+D5
+~
+~
+0 0 417
+S
+#444
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 449
+D1
+~
+~
+0 0 458
+D2
+~
+~
+0 0 439
+D3
+~
+~
+0 0 448
+D4
+~
+~
+0 0 483
+D5
+~
+~
+0 0 421
+S
+#445
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 430
+D1
+~
+~
+0 0 446
+D2
+~
+~
+0 0 457
+D3
+~
+~
+0 0 441
+D4
+~
+~
+0 0 488
+D5
+~
+~
+0 0 412
+S
+#446
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recogniti`lo`dn.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 432
+D1
+~
+~
+0 0 449
+D2
+~
+~
+0 0 441
+D3
+~
+~
+0 0 445
+D4
+~
+~
+0 0 476
+D5
+~
+~
+0 0 411
+S
+#447
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 452
+D1
+~
+~
+0 0 448
+D2
+~
+~
+0 0 433
+D3
+~
+~
+0 0 443
+D4
+~
+~
+0 0 462
+D5
+~
+~
+0 0 413
+S
+#448
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 434
+D1
+~
+~
+0 0 448
+D2
+~
+~
+0 0 458
+D3
+~
+~
+0 0 447
+D4
+~
+~
+0 0 463
+D5
+~
+~
+0 0 418
+S
+#449
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 454
+D1
+~
+~
+0 0 459
+D2
+~
+~
+0 0 444
+D3
+~
+~
+0 0 440
+D4
+~
+~
+0 0 468
+D5
+~
+~
+0 0 406
+S
+#450
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all `ll`dack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 431
+D1
+~
+~
+0 0 451
+D2
+~
+~
+0 0 432
+D3
+~
+~
+0 0 494
+D4
+~
+~
+0 0 479
+D5
+~
+~
+0 0 414
+S
+#451
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+`lb`deyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 456
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 436
+D3
+~
+~
+0 0 450
+D4
+~
+~
+0 0 477
+D5
+~
+~
+0 0 427
+S
+#452
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 E
+tree~
+`cSnarling up out of the blasted earth rise a sta`ln`cd of something
+vaguely called trees.  Even the act of existing obviously pains these
+things, because their struggle can be seen in the way their branches grow. 
+It has been said that rangers will stop at this spot to weep gently for the
+pain of the world, for it surely emanates from this spot.  
+~
+D0
+~
+~
+0 0 457
+D1
+~
+~
+0 0 459
+D2
+~
+~
+0 0 447
+D3
+~
+~
+0 0 441
+D4
+~
+~
+0 0 461
+D5
+~
+~
+0 0 428
+S
+#453
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 493
+D1
+~
+~
+0 0 454
+D2
+~
+~
+0 0 458
+D3
+~
+~
+0 0 441
+D4
+~
+~
+0 0 469
+D5
+~
+~
+0 0 426
+S
+#454
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 437
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 449
+D3
+~
+~
+0 0 453
+D4
+~
+~
+0 0 468
+D5
+~
+~
+0 0 424
+S
+#455
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 436
+D1
+~
+~
+0 0 456
+D2
+~
+~
+0 0 446
+D3
+~
+~
+0 0 440
+D4
+~
+~
+0 0 484
+D5
+~
+~
+0 0 407
+S
+#456
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 E
+pit~
+`dPits such as these are the result of the evil that is `bAu`lv`byron`d
+seeping up through the ground and contaminating it.  Some of these pits are
+large enough to stumble into, and there are certainly enough nasty surprises
+at the bottom to prove deadly.  
+~
+D0
+~
+~
+0 0 433
+D1
+~
+~
+0 0 442
+D2
+~
+~
+0 0 451
+D3
+~
+~
+0 0 455
+D4
+~
+~
+0 0 480
+D5
+~
+~
+0 0 408
+S
+#457
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 438
+D1
+~
+~
+0 0 448
+D2
+~
+~
+0 0 452
+D3
+~
+~
+0 0 437
+D4
+~
+~
+0 0 461
+D5
+~
+~
+0 0 414
+S
+#458
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Ear`lt`dh groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+I 0 D0
+~
+~
+0 0 433
+D1
+~
+~
+0 0 435
+D2
+~
+~
+0 0 449
+D3
+~
+~
+0 0 436
+D4
+~
+~
+0 0 488
+D5
+~
+~
+0 0 428
+S
+#459
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Despair of the Holy``~
+`dThe evils of the heretic mage `bAuvyron `dhave warped this place almost
+beyond recognition.  This place, like most of the others here, is
+nightmarish.  `dSome twisted, misshapen `ctrees `dseem `d to writhe with the
+torments that only a man that has defied all that is holy can inflict.  The
+very Earth groans and cries out in torment, as evidenced by smoking pits
+filled with `jglowing green `dacid, and `ifires `dthat spring out of the
+ground without notice.  Every path seems similar, for that is the nature of
+the Maze of Auvyron, and all lack any glimmer of hope.  
+~
+0 ADN 0
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 435
+D1
+~
+~
+0 0 435
+D2
+~
+~
+0 0 438
+D3
+~
+~
+0 0 437
+D4
+~
+~
+0 0 467
+D5
+~
+~
+0 0 422
+S
+#460
+0 0
+~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 465
+D1
+~
+~
+0 0 469
+D2
+~
+~
+0 0 479
+D3
+~
+~
+0 0 489
+D5
+~
+~
+0 0 436
+S
+#461
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 475
+D1
+~
+~
+0 0 462
+D2
+~
+~
+0 0 460
+D3
+~
+~
+0 0 477
+D5
+~
+~
+0 0 437
+S
+#462
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 467
+D1
+~
+~
+0 0 463
+D2
+~
+~
+0 0 468
+D3
+~
+~
+0 0 461
+D5
+~
+~
+0 0 435
+S
+#463
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 473
+D1
+~
+~
+0 0 463
+D2
+~
+~
+0 0 469
+D3
+~
+~
+0 0 462
+D5
+~
+~
+0 0 431
+S
+#464
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 472
+D2
+~
+~
+0 0 471
+D3
+~
+~
+0 0 470
+D5
+~
+~
+0 0 430
+S
+#465
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 480
+D1
+~
+~
+0 0 466
+D2
+~
+~
+0 0 460
+D3
+~
+~
+0 0 481
+D5
+~
+~
+0 0 458
+S
+#466
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+I 0 E
+cloud~
+`aThe clouds that fill the sky are no puffy, lazy afternoon in the fields
+kind of clouds.  These are the physical manifes`lt`aations of `bAuvyron's`a
+hate, present in this benighted world in the form of thick, sludgy nimbus
+formations.  The bottoms of these unpleasant things nearly touch your head,
+and look like they might rain enough toxicity to kill any life that is able
+to survive the more general corruption in this place.  
+~
+D0
+~
+~
+0 0 471
+D1
+~
+~
+0 0 467
+D2
+~
+~
+0 0 481
+D3
+~
+~
+0 0 465
+D5
+~
+~
+0 0 438
+S
+#467
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magic`la`nl skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+I 0 D0
+~
+~
+0 0 466
+D1
+~
+~
+0 0 468
+D2
+~
+~
+0 0 462
+D3
+~
+~
+0 0 466
+D5
+~
+~
+0 0 444
+S
+#468
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+I 0 D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 488
+D2
+~
+~
+0 0 482
+D3
+~
+~
+0 0 467
+D5
+~
+~
+0 0 438
+S
+#469
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 474
+D1
+~
+~
+0 0 479
+D2
+~
+~
+0 0 464
+D3
+~
+~
+0 0 488
+D5
+~
+~
+0 0 454
+S
+#470
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 476
+D1
+~
+~
+0 0 479
+D2
+~
+~
+0 0 465
+D3
+~
+~
+0 0 477
+D5
+~
+~
+0 0 443
+S
+#471
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 474
+D1
+~
+~
+0 0 472
+D2
+~
+~
+0 0 466
+D3
+~
+~
+0 0 481
+D5
+~
+~
+0 0 441
+S
+#472
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 477
+D1
+~
+~
+0 0 468
+D2
+~
+~
+0 0 484
+D3
+~
+~
+0 0 471
+D5
+~
+~
+0 0 446
+S
+#473
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 478
+D1
+~
+~
+0 0 474
+D2
+~
+~
+0 0 471
+D3
+~
+~
+0 0 470
+D5
+~
+~
+0 0 443
+S
+#474
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 473
+D1
+~
+~
+0 0 483
+D2
+~
+~
+0 0 469
+D3
+~
+~
+0 0 473
+D5
+~
+~
+0 0 452
+S
+#475
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The st`li`nnk of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+I 0 D0
+~
+~
+0 0 480
+D1
+~
+~
+0 0 476
+D2
+~
+~
+0 0 481
+D3
+~
+~
+0 0 482
+D5
+~
+~
+0 0 437
+S
+#476
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`a`lm`aetallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+I 0 D0
+~
+~
+0 0 478
+D1
+~
+~
+0 0 480
+D2
+~
+~
+0 0 473
+D3
+~
+~
+0 0 475
+D5
+~
+~
+0 0 457
+S
+#477
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 488
+D1
+~
+~
+0 0 483
+D2
+~
+~
+0 0 472
+D3
+~
+~
+0 0 479
+D5
+~
+~
+0 0 448
+S
+#478
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 483
+D1
+~
+~
+0 0 481
+D2
+~
+~
+0 0 473
+D3
+~
+~
+0 0 471
+D5
+~
+~
+0 0 437
+S
+#479
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 483
+D1
+~
+~
+0 0 482
+D2
+~
+~
+0 0 489
+D3
+~
+~
+0 0 463
+D5
+~
+~
+0 0 438
+S
+#480
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+I 0 D0
+~
+~
+0 0 485
+D1
+~
+~
+0 0 481
+D2
+~
+~
+0 0 475
+D3
+~
+~
+0 0 461
+D5
+~
+~
+0 0 434
+S
+#481
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+I 0 E
+bird~
+`nSome of the pseudo-avian life that frequents the higher realms of the
+maze can be viewed by t`lh`nose intrepid (or stupid) enough to wait.  All of
+the typical songbirds found in shady trees back in the lighted realms above
+are here twisted into killing, stunted shapes.  Murderously sharp beaks,
+sharpened talons, and huge wingspans are frequent, and some of them seem
+large enough to carry off a full-grown ox.  
+~
+D0
+~
+~
+0 0 461
+D1
+~
+~
+0 0 482
+D2
+~
+~
+0 0 470
+D3
+~
+~
+0 0 480
+D5
+~
+~
+0 0 458
+S
+#482
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to h`lo`nrizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+I 0 D0
+~
+~
+0 0 477
+D1
+~
+~
+0 0 480
+D2
+~
+~
+0 0 474
+D3
+~
+~
+0 0 481
+D5
+~
+~
+0 0 452
+S
+#483
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 484
+D2
+~
+~
+0 0 478
+D3
+~
+~
+0 0 471
+D5
+~
+~
+0 0 458
+S
+#484
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 489
+D1
+~
+~
+0 0 465
+D2
+~
+~
+0 0 467
+D3
+~
+~
+0 0 483
+D5
+~
+~
+0 0 448
+S
+#485
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 462
+D1
+~
+~
+0 0 461
+D2
+~
+~
+0 0 480
+D3
+~
+~
+0 0 462
+D5
+~
+~
+0 0 432
+S
+#486
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+I 0 D0
+~
+~
+0 0 468
+D1
+~
+~
+0 0 487
+D2
+~
+~
+0 0 461
+D3
+~
+~
+0 0 485
+D5
+~
+~
+0 0 456
+S
+#487
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra be`la`nks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+I 0 D0
+~
+~
+0 0 481
+D1
+~
+~
+0 0 488
+D2
+~
+~
+0 0 488
+D3
+~
+~
+0 0 486
+D5
+~
+~
+0 0 447
+S
+#488
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABN 9
+0
+~
+I 0 E
+wind~
+`fEven the wind in this place cuts to the bone.  Originally made soft,
+warm, and inviting by the Bro`lt`fhers of Erion so that `bAuvyron`f could
+recall the simple comforts of life in his prison, he quickly corrupted it to
+suit the dark designs of his evil soul.  
+~
+D0
+~
+~
+0 0 479
+D1
+~
+~
+0 0 481
+D2
+~
+~
+0 0 483
+D3
+~
+~
+0 0 487
+D5
+~
+~
+0 0 459
+S
+#489
+0 0
+(null)~
+~
+~
+0 0 0
+`cThe Creator's Tears``~
+`nEven in the air above Auvyron's Hell, the carnage is little different
+than that below.  Mad streaks of `fpurple `nand`n `kgold `nshow that Auvyron has
+tried to break his prison using his considerable magical skills.  Thick,
+`ametallic `nclouds scud from horizon to horizon, blown by ill, unnatural
+winds.  The stink of evil is heavy up this high, `nand`n twisted birds of
+unknown origin, some sprouting three eyes, or extra beaks, dot the sky. 
+Even from this great vantage, the magics that built this place warp any
+sense of direction, or perspective, making all paths seem one.  
+~
+0 ABDN 9
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 460
+D2
+~
+~
+0 0 484
+D3
+~
+~
+0 0 463
+D5
+~
+~
+0 0 442
+S
+#490
+0 0
+~
+~
+~
+0 0 0
+`kThe `iLast `kChance``~
+`cThis rather bland room acts as a haven for those about to challenge
+`bAuvyron's Hell`c```c.  Soft, verdant grass carpets the floor, and there is a
+natural light here, shining from a few cunningly placed refractive mirrors`c. 
+A huge, `agray steel `cdoor is planted deep into the north wall`c.  Its
+mechanism consists of a rusty winch that seems to be frozen solid`c. 
+Unfortunately, that is not the case, for there is a Brother here who shakes
+his head foolishly at your request for entry to the maze`c.  
+~
+0 CDG 0
+0
+~
+I 0 E
+steel~
+`aA great, steel door has been sunk into the living `dearthrock`a.  Upon
+its brilliant finish is etched in `kholy`a runes the `iSeal of Galnorin`a. 
+This seal is said to contain the spell that keeps Auvyron in this place, so
+perhaps it would not be a good idea to mar this blessed work with your grimy
+hands.  `` 
+~
+E
+seal~
+`k'
+                         `k'`ns`k'``
+                        `k'`ni`l*`nn`k'``
+                       `k'`nb`l***`ne`k'``
+                      `k'`nu`l*****`nt`k'``
+                     `k'`ns`l******* `k'``
+                    `k' `l*********`nx`k'``
+                   `k'`nh`l***********`na`k'``
+                  `k'`ns`l*************`nl`k'``
+                 `k'`na   `iTHE  HELL   `no`k'``
+                `k'`nt       `iOF        `nm`k'``
+               `k'`nn      `iAUVYRON      `ni`k'``
+              `k'`na`l*********************`np`k'``
+              `k'`nl`l*********************`nh`k'``
+               `k' `l*******************`no`k'``
+                 `k'`ni`l****************`nn`k'``
+                  `k'`nl`l*************** `k'``
+                   `k'`nb`l*************`nc`k'``
+                    `k'`ne`l***********`na`k'``
+                     `k'`nv`l*********`nr`k'``
+                      `k'`na`l*******`na`k'``
+                       `k'`nt`l*****`nm`k'``
+                        `k' `l*** `k'``
+                         `k'`nt`l*`nu`k'``
+                          `k'`nr`k'``
+                           `k'``
+~
+D0
+~
+door~
+4193 0 432
+D1
+~
+~
+0 0 491
+D4
+~
+~
+0 0 7970
+S
+#491
+0 0
+~
+~
+~
+0 512 0
+`nGalnorin's Mercenaries for Hire``~
+`nA `kholy `nfeeling of peace and contentment wash over your body as you
+enter this small shop.  A rough wooden counter divides the room neatly in
+half, and the low mutter of soldiers emanates from a passage to the east. 
+The legend has it that Galnorin was one of the original creators if the
+`iHell of Auvyron`n, and retired to this spot soon afterwards to provide
+solace and assistance to those intrepid enough to brave this place of
+madness.  Galnorin taps his pipe out on the counter and gestures vaguely at
+the back room, where low calls for wenches or ale can be heard.  `` 
+~
+0 DGKMN 0
+0
+~
+I 0 D3
+~
+~
+0 0 490
+S
+#492
+0 0
+~
+~
+~
+0 0 0
+`nGalnorin's Pets `iSTORAGE``~
+`iIF YOU'RE HERE, YOU SHOULDN'T BE.  IT'S ILLEGAL TO BE IN HERE, AND THE
+GODS WILL CURSE YOU AND YOUR PROGENY FOREVER.  THANKS A LOT.... 
+`K-->Mithra, Building Admin 
+~
+0 CDGKNP 0
+0
+~
+I 0 S
+#493
+0 0
+~
+~
+~
+0 0 0
+`kA Return to Normalcy``~
+`lTaking a small break from the `ihell `lsurrounding this place, you duck
+into a welcoming tent that has been erected over one of the spots that the
+Brothers of Erion Abbey have been able to exert their mastery over, wresting
+it from the heretic mage `bAuvyron`l.  The proprietoress, a young syvin named
+Elanor, was selected by the masters of the Abbey to descend into this place
+and aid those brave enough to reach this far into the maze.  To this end,
+she protects this place with her magics, and sells magical items to
+adventurers who must shoulder their packs and trudge back into the madness
+of the maze.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 453
+S
+#494
+0 0
+~
+~
+north delete~
+0 0 0
+`aThe Vestibule of `bAuvyron``~
+`aAfter the wearing madness of the `bHell of Auvyron `a, this place seems
+slightly confusing.  `a Calm, gray stone spirals up out of view overhead,
+and the sheer precision of this place suggests the keen intellect of a
+madman.  The walls and floor betray no fault of craftsmanship, and no wear,
+as if time slows to a crawl in this place while the world falls into ruins
+in the outside world.  `lI`aron sconces placed high up overhead and filled
+with scented candles cast bewildering shadows over all four walls. 
+Stretching from floor to ceiling in the middle of this room is an ancient
+pillar of volcanic rock, scored with time and the strain of holding the
+`msoul`a of `bAuvyron`a.  Its evil glow reaches out for your own soul and
+gently tugs at it, pulling you physically forward.  `` 
+~
+0 AN 0
+0
+~
+I 0 D1
+~
+~
+0 0 450
+S
+#495
+90 1750
+`iCongratulations. You have solved the Hell of Auvyron. You gain 1750 experience points.``~
+~
+~
+0 0 0
+`bThe `iHell `bof Auvyron``~
+`aThis egg-shaped chamber in the heart of the maze was where `bAuvyron
+`awas originally imprisoned.  Once being captured in secret so many years
+ago, he was spirited underground to this place and his `msoul`a (or what was
+left of it at that time) was nailed into one of the stone pillars that form
+the supports for the roof using nails specially prepared for this event.  As
+the years passed, `bAuvyron `awas able to expand his spirit and affect the
+reality of his immediate surroundings.  Unfortunately, it left his `msoul`a
+bound to the gutrock of the Earth, where it could in time warp the reality
+of this place, imposed by holy prayer and the order set forth by the Creator
+herself. A low dias has been set up in the far end of the chamber,
+for this is the place that the dread `bAuvyron `alurks, in waiting for those
+brave few who would dare challenge his greatness.  
+~
+0 ACDNb 0
+100
+~
+I 0 S
+#496
+0 0
+(null)~
+~
+~
+0 0 0
+`kMithra's Respite``~
+`cThis is where Mithra pops into when he's tired of building cool areas
+for ungrateful lv 90s on the live port.  An acoustically perfect sound
+system plays Perahia's version of Bach's 'Goldberg Variations' at a medium
+volume in a corner.  A comfy overstuffed brown leather chair with matching
+ottoman sits in another corner next to a short bookcase full of his favorite
+books (ask for details!)  A pair of wrought iron candlesticks sit high up on
+the wall, full of a liquid fiery substance, perfect for throwing a calm
+light into the chamber.  The only other decorations are a few Maxfield
+Parrish prints hanging on the wall.  A huge mahogany desk dominates this
+place, overspilling with maps, graph paper, colored and regular pencils, and
+anything else that will spark Mithra's imagination.  
+~
+0 CDNP 3
+0
+~
+H125
+I 0 M125
+S
+#497
+0 0
+~
+~
+~
+0 0 0
+`kMalrezni's Storage``~
+`iAgain, this room is part of the internal level mechanics. If you are here,
+and not Mithra, or another immortal, leave now, or you will be slain.``
+`kThanks for your cooperation,
+Mithra, Building Admin``
+~
+0 ACDGJNP 0
+0
+~
+I 0 S
+#0
+
+#RESETS
+D 0  490   0    1	* `kThe `iLast `kChance`` [north]
+M 0  417   1  492  1	* `da gallant squire``
+M 0  418   1  492  1	* `ga trusty knight``
+M 0  419   1  492  1	* `ka wizened paladin``
+O 0 401   0 491 -1	* `da rough wooden counter`` at `nGalnorin's Mercenaries for Hire``
+M 0  416   1  491  1	* `egalnorin, a brother of erion``
+O 0 402   0 494 -1	* Auvyron's soul pillar at `aThe Vestibule of `bAuvyron``
+O 0 403   0 495 -1	* A low dias at `bThe `iHell `bof Auvyron``
+M 0  414   3  412  1	* `jan oozing mount``
+M 0  420   1  497  1	* `kmalrezni, beloved of the light``
+M 0  415   4  431  1	* `fa spined perignar``
+M 0  422   6  448  1	* `da shambling beast``
+M 0  424   4  430  1	* `aresurrected bones``
+M 0  424   4  450  1	* `aresurrected bones``
+M 0  424   4  445  1	* `aresurrected bones``
+O 0 406   0 494 -1	* (no short description) at `aThe Vestibule of `bAuvyron``
+M 0  404   1  494  1	* `mthe soul of auvyron``
+M 0  401   6  400  1	* `aa deranged brother``
+E 0  410   -1    5	* item to `aa deranged brother``
+E 0  411   -1    4	* item to `aa deranged brother``
+M 0  405   2  407  1	* `ba transformed novice``
+E 0  418   -1   12	* item to `ba transformed novice``
+E 0  417   -1   19	* item to `ba transformed novice``
+M 0  408   5  409  1	* `ca `jgreen-fringed `cacolyte``
+E 0  424   -1   17	* item to `ca `jgreen-fringed `cacolyte``
+M 0  407   1  412  1	* `oa corrupted `kpaladin``
+E 0  422   -1   11	* item to `oa corrupted `kpaladin``
+E 0  423   -1   16	* item to `oa corrupted `kpaladin``
+M 0  411   1  418  1	* `kthe guardian of evil``
+E 0  419   -1   17	* item to `kthe guardian of evil``
+E 0  425   -1   10	* item to `kthe guardian of evil``
+M 0  423   4  425  1	* `ba transformed novice``
+E 0  415   -1   12	* item to `ba transformed novice``
+M 0  410   5  429  1	* `fa `mpurple-fringed `facolyte``
+E 0  433   -1   18	* item to `fa `mpurple-fringed `facolyte``
+M 0  403   2  444  1	* `dan amazed minotaur``
+G 0  413 -1		* A compass to `dAn Amazed Minotaur``
+E 0  408   -1   16	* item to `dan amazed minotaur``
+E 0  412   -1    3	* item to `dan amazed minotaur``
+M 0  403   2  452  1	* `dan amazed minotaur``
+G 0  413 -1		* A compass to `dAn Amazed Minotaur``
+E 0  408   -1   16	* item to `dan amazed minotaur``
+E 0  412   -1    3	* item to `dan amazed minotaur``
+M 0  406   6  465  1	* `ha `in`ca`il`ca`ix`ci`in `hdemon``
+E 0  419   -1   17	* item to `ha `in`ca`il`ca`ix`ci`in `hdemon``
+E 0  416   -1   18	* item to `ha `in`ca`il`ca`ix`ci`in `hdemon``
+M 0  425   5  467  1	* `la glowing orb``
+G 0  420 -1		* `ga respite`` to `lA glowing orb``
+M 0  425   5  476  1	* `la glowing orb``
+G 0  420 -1		* `ga respite`` to `lA glowing orb``
+M 0  406   6  482  1	* `ha `in`ca`il`ca`ix`ci`in `hdemon``
+E 0  419   -1   17	* item to `ha `in`ca`il`ca`ix`ci`in `hdemon``
+E 0  416   -1   18	* item to `ha `in`ca`il`ca`ix`ci`in `hdemon``
+M 0  421   1  490  1	* A brother of erion
+E 0 7901   -1    5	* item to A brother of erion
+M 0  413   1  493  1	* `cthe syvin shopkeeper, elanor``
+G 0  429 -1		* `man evil charm`` to `cThe syvin shopkeeper, Elanor``
+G 0  430 -1		* `na crystalline tear`` to `cThe syvin shopkeeper, Elanor``
+G 0  431 -1		* `gthe light of belief`` to `cThe syvin shopkeeper, Elanor``
+G 0  432 -1		* `fa lavender pill`` to `cThe syvin shopkeeper, Elanor``
+G 0  434 -1		* `ithe blood of a `kholy`i paladin`` to `cThe syvin shopkeeper, Elanor``
+G 0  428 -1		* `da loaf of wayfarer bread`` to `cThe syvin shopkeeper, Elanor``
+M 0  400   1  495  1	* The heretic mage `bauvyron``
+E 0  404   -1    6	* item to The heretic mage `bauvyron``
+E 0  405   -1   18	* item to The heretic mage `bauvyron``
+E 0  407   -1   16	* item to The heretic mage `bauvyron``
+G 0  409 -1		* Something to The heretic mage `bAuvyron``
+G 0  421 -1		* `aa pewter chalice`` to The heretic mage `bAuvyron``
+M 0  409   3  414  1	* `ba `ired-fringed `bacolyte``
+E 0  400   -1   18	* item to `ba `ired-fringed `bacolyte``
+E 0  426   -1   12	* item to `ba `ired-fringed `bacolyte``
+G 0  427 -1		* `ka pitted gold wand`` to `bA `ired-fringed `bacolyte``
+M 0  415   4  436  1	* `fa spined perignar``
+E 0  435   -1    7	* item to `fa spined perignar``
+M 0  412   6  470  1	* `ga `jmad `gshrike``
+E 0  436   -1   19	* item to `ga `jmad `gshrike``
+M 0  412   3  474  1	* `ga `jmad `gshrike``
+E 0  436   -1   19	* item to `ga `jmad `gshrike``
+M 0  428   1  468  1	* `ga `jmad `gshrike``
+M 0  429   1  401  1	* `aresurrected bones``
+M 0  430   1  410  1	* `ba transformed novice``
+M 0  431   1  480  1	* `ca glowing orb``
+M 0  432   1  447  1	* `jan oozing mount``
+M 0  433   1  487  1	* `oa glassine spirit``
+M 0  434   1  402  1	* `ba transformed novice``
+O 0 414   0 490 -1	* A chilly drip at `kThe `iLast `kChance``
+S
+
+#SHOPS
+413  1 33 26 19 10 	100 100 	0 24	* `cThe syvin shopkeeper, Elanor``
+416  0  0  0  0  0 	100 100 	0  0	* `eGalnorin, a brother of Erion``
+427  0  0  0  0  0 	100 100 	0 24	* Do not use
+0
+
+#SPECIALS
+M 400 spec_breath_any		* The heretic mage `bAuvyron``
+M 404 spec_cast_cleric		* `mThe Soul of Auvyron``
+M 408 spec_cast_undead		* `cA `jgreen-fringed `cacolyte``
+M 409 spec_cast_mage		* `bA `ired-fringed `bacolyte``
+M 410 spec_cast_adept		* `fA `mpurple-fringed `facolyte``
+M 412 spec_breath_fire		* `gA `jmad `gshrike``
+M 416 spec_cast_cleric		* `eGalnorin, a brother of Erion``
+M 419 spec_cast_cleric		* `kA wizened paladin``
+M 420 spec_cast_adept		* `kMalrezni, beloved of the light``
+M 426 spec_breath_fire		* Do not use
+M 428 spec_breath_fire		* `gA `jmad `gshrike``
+S
+
+#OT
+#421
+Pewter Chalice~
+$char_hp_pct 5~
+8
+65
+pecho $name `oYou are transported away from danger.``~
+100
+0
+teleport $name 4200~
+100
+0
+set obj chalice extra melt_drop~
+100
+0
+force $name drop chalice~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+20
+#0
+#$

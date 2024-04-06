@@ -1,0 +1,18 @@
+* File: skeeper.scr
+* Mob: Saloonkeeper(8809)
+
+
+#TRIGGER hithere
+Type 10
+Sc
+mfunc %hithere-from% %rupoor% gold
+mfunc %hithere-from% %poorru% silver
+if ( %rupoor% < 20 ) && ( %poorru% < 200 )
+   say Get outta here, you cheap drunkard!
+   MOB PUSH %hithere-from% east
+~
+End
+
+
+#END
+

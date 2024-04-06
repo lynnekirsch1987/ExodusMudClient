@@ -1,0 +1,3163 @@
+#AREA
+ 6~
+gauntlet.are~
+The Gauntlet~
+{ 5 25} Ragnar  The Gauntlet~
+gauntlet~
+800 900
+5 0 0
+0 0
+~
+#MOBILES
+#800
+bugbear~
+a vicious bugbear~
+A vicious bugbear slides out of the shadows.
+~
+About seven feet tall, muscular, with yellow-brown skin and brick
+red hair, this bugbear looks pretty fierce.
+~
+human~
+0 0 0 0
+ABFGN 0 -255 0
+6 6 5d3+30 0d0+0 2d3+4 claw
+4 4 4 999 7
+0 -1 C 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJKLVa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#801
+elite bugbear leader~
+an elite bugbear leader~
+A bugbear leader mans the door here, guarding for intruders.
+~
+This bugbear looks a bit more defined and rough-hewn than the others,
+and has striking blonde hair that offsets dark peach and brown skin.
+~
+human~
+0 0 0 0
+ABFG V -500 0
+8 8 3d22+96 1d1+100 2d5+3 claw
+4 4 4 999 7
+0 -1 CKV 0 0 0
+stand stand male 15
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#802
+bugbear chief~
+the bugbear chief~
+A bugbear clothed in strange raiment sits here.
+~
+This bugbear is over nine feet tall, with chiseled features and bright
+bluish-red hair.  His nose is jagged, which draws attention away from his
+bright red eyes.
+~
+human~
+0 0 0 0
+ABG OV -700 0
+10 10 4d22+96 1d1+100 2d5+5 crush
+4 4 4 999 7
+0 -1 CE 0 0 0
+stand stand male 17
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#803
+phase guardian ~
+a phase guardian~
+A phase guardian stands here, guarding the gate.
+~
+Fading in and out of the scenery, this pale-faced greenskin stares at
+you contemplatively, wondering how you plan to pass him.
+~
+human~
+0 0 0 0
+ABG H 0 0
+11 11 3d24+100 1d1+100 2d5+5 wrath
+4 0 4 999 0
+0 -1 0 0 0 0
+stand stand male 17
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#804
+slicer trap~
+a slicer trap~
+A slicer trap slides out of the wall to cut you in half!
+~
+The gauntlet is filled with nasty traps like the slicer, a large
+sequence of axes that raises and falls.  Breaking it or running
+from it is the only way to get by.
+~
+human~
+0 0 0 0
+ABFG BPQ 0 0
+8 8 3d22+96 1d23+100 3d5+8 slice
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+slicer.scr~
+#805
+doppelganger~
+a doppelganger~
+A doppelganger stands before you...and then is you!
+~
+You're looking at yourself.
+~
+human~
+0 0 0 0
+ABG P -200 0
+13 13 5d30+140 1d1+100 3d5+6 slap
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#806
+doppelganger pseudolord~
+a doppelganger pseudolord~
+A doppelganger fades in and out of the scenery here, mysteriously.
+~
+~
+human~
+0 0 0 0
+ABG PQV -100 0
+16 16 5d33+180 1d1+100 3d5+10 slice
+0 0 0 999 0
+0 -1 CEFK 0 0 0
+stand stand none 18
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+dganger.scr~
+#807
+swinging mace trap~
+swinging mace trap~
+Maces cascade out of the wall suddenly!
+~
+~
+human~
+0 0 0 0
+ABFG 0 0 0
+19 19 8d30+170 1d1+100 4d5+10 crush
+0 0 0 999 0
+0 -1 F 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#808
+water spear~
+water-spear trap~
+Spears thrust out of the water at you from underneath!
+~
+~
+human~
+0 0 0 0
+ABFG Ube 0 0
+22 22 7d30+200 1d1+100 5d5+10 stab
+0 0 0 999 0
+0 -1 F 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#809
+aquatic elf~
+an aquatic elf~
+An elf swims here, minding his own business.
+~
+The elf smiles sagely at you, then speaks in a bubbly elf-language:
+"I too am a minion of Alamanion... if you seek exit from the
+gauntlet, take the path less traveled ahead.  Doors are for those
+who seek adventure."
+~
+human~
+0 0 0 0
+ABG Vbe 0 0
+20 20 9d56+200 1d1+100 4d5+10 slice
+0 0 0 999 0
+0 -1 CEFK 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#810
+elf lord~
+the elf-lord~
+An elf swims here, meditating in silence.
+~
+He smiles at you with a glint in his eye.
+~
+human~
+0 0 0 0
+ABGM Obe 100 0
+23 23 6d50+340 1d1+100 5d5+2 wrath
+0 0 0 999 0
+0 -1 EFK 0 0 0
+stand stand male 15
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#811
+sun dragon~
+The Sun Dragon~
+A golden sun dragon flies about here.
+~
+This dragon is very bright, and almost exactly the color of platinum.
+~
+human~
+0 0 0 0
+ABFG DHV -1000 0
+27 27 10d70+1239 10d20+230 5d7+20 claw
+-9 -9 -9 999 0
+0 -1 EFKMO 0 N 0
+stand stand male 25
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#812
+shadow dragon~
+The Shadow Dragon~
+A dark dragon dives throughout the shadows here.
+~
+You can't really see anything but darkness.
+~
+human~
+0 0 0 0
+ABFG HV -1000 0
+27 27 10d61+420 3d5+340 5d6+15 claw
+-9 -9 -9 999 0
+0 -1 0 0 N 0
+stand stand none 25
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#813
+serpent dragon~
+The Serpent Dragon~
+A serpentine dragon slithers around here, displaying huge fangs.
+~
+It looks almost exactly like a big snake, and gives you the willies you
+would get if you were looking at a big snake.
+~
+human~
+0 0 0 0
+ABFG HV -1000 0
+27 27 15d60+300 1d3+100 5d6+15 claw
+-9 -9 -9 999 0
+0 -1 CE 0 0 0
+stand stand none 25
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#814
+blue dragon~
+The Blue Dragon~
+A blue dragon snores silently here.
+~
+Very regal, majestic, and also very evil, this lightning-fast and
+lightning-spewing dragon would kill you in a second if you bothered it.
+~
+human~
+0 0 0 0
+ABFG HV -1000 0
+27 27 15d60+400 4d5+240 5d6+15 claw
+-9 -9 -9 999 0
+0 -1 CE 0 0 0
+stand stand none 25
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#815
+Alamanion~
+Alamanion~
+Alamanion sits here.
+~
+Alamanion, the creator of the Gauntlet, stands here, looking impressed
+that you actually made it out.
+~
+human~
+0 0 0 0
+ABG HV 1000 0
+55 55 10d90+1549 10d60+430 6d6+20 wrath
+-15 -15 -15 999 2
+0 -1 CDEFIKO ABE CD 0
+stand stand male 30
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+6
+~
+~
+#816
+wandering gremlin~
+a wandering gremlin~
+A gremlin wanders about here.
+~
+~
+human~
+0 0 0 0
+ABG 0 -1000 0
+8 8 3d18+90 1d1+100 2d4+4 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#822
+arrow axe trap~
+a wicked arrow-and-axe trap~
+Arrows and axes fly out of the walls!
+~
+~
+human~
+0 0 0 0
+ABFG BFPQV 0 0
+45 45 10d165+800 1d1+100 5d6+18 slice
+-45 -45 -45 999 -45
+0 -1 0 CE 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#900
+three eyed mutant~
+A three eyed mutant~
+A strange looking person shambles along here...does he have three eyes?!
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 25 100d20+50 100d20+50 5d5+5 none
+5 5 5 999 5
+0 60 2 0 0 0 0
+stand stand neutral 300
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#800
+wooden sign~
+a wooden sign~
+A wooden sign is leaning against the wall here.
+~
+wood~
+0
+trash 2
+OR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1000 0 P
+E
+wooden~
+Welcome to the Gauntlet!
+------------------------
+ 
+Below you is a true test for anyone that wants to prove themself
+the true adventurer.  Stations throughout the Gauntlet will provide
+you with necessary items for your quest -- as you progress, you should
+make a note, even map how you're doing, for future reference.
+ 
+Should you proceed into the depths below, you WILL NOT be able to exit
+this place the same way you came -- you will have to find your own way
+out.  You will also be PROHIBITED FROM RECALLING if you make your way
+down.  Be forewarned.
+ 
+Rules for Survival:
+-------------------
+-  Treasure chests are almost always in close proximity to either:
+-  a) an exit.
+-  b) a new phase of the challenge structure : ie, a new level.
+ 
+-  Guardians often carry potions that may be of help to you within the
+-  depths of the Gauntlet.
+ 
+-  Wizards, Warriors, Thieves, and Clerics will most likely act
+-  accordingly.  Beware.
+ 
+-  Not all creatures in the Gauntlet are designed to hinder you, though
+-  being a gauntlet, the majority are.  Make sure to examine everyone
+-  before you kill them.
+ 
+-  Keys and doors are color-coded.
+ 
+-  You will know if you have survived the entire Gauntlet if you should
+-  come upon a man named Alamanion.  He will direct you out.
+ 
+Have fun!
+~
+E
+sign~
+Welcome to the Gauntlet!
+ 
+Please type "look wooden" for more details about the Gauntlet.
+~
+#801
+crudely forged widesword steel~
+a crudely-forged steel widesword~
+A wicked-looking sword lies here.
+~
+steel~
+0
+weapon 2
+B
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A AC B AB 0
+0
+0
+5 12 0 P
+#802
+iron off-hand club~
+an off-hand iron club~
+A club lies here.
+~
+iron~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C B C ABC 0
+0
+0
+5 50 0 P
+A
+18 1
+A
+19 1
+#803
+torn leather footwrap~
+a pair of torn leather footwraps~
+Footwraps lie in a puddle of blood here.
+~
+hard leather~
+0
+armor 2
+B
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A A A 0 0
+0
+0
+5 15 14 W
+A
+14 15
+#804
+wicked jagged longknife~
+a wicked jagged longknife~
+A wicked-looking knife is here.~
+metal~
+0
+weapon 2
+A
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B AC B B H
+0
+0
+7 15 55 P
+A
+19 3
+#805
+hamfists of the bugbear~
+hamfists of the bugbear~
+Heavy metal gauntlets lie here.
+~
+metal~
+0
+armor 2
+AB
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A A A A 0
+0
+0
+10 15 56 P
+A
+1 2
+E
+gauntlets~
+Some real real real real real real powerful frickin' gauntlets are here.
+~
+#806
+leather flask~
+a leather flask~
+A leather flask is here.
+~
+liquid~
+0
+potion 2
+B
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD 'create water' -1 -1 -1 0
+0
+10 15 15 P
+#807
+ritual sword bugbear~
+the ritual sword of the bugbear~
+A heavily-decorated sword leans against a wall.
+~
+metal~
+0
+weapon 2
+AB
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A BC B AB 0
+0
+0
+10 50 50 P
+A
+18 1
+A
+13 15
+#808
+bright white paper slip~
+`oa slip of paper``~
+`oA white piece of paper is here.``~
+paper~
+0
+key 2
+AHP
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 5 50 P
+A
+3 1
+E
+paper~
+In goblin:
+"Man this tunnel.  You will be rewarded.  Embedded in wax
+at the bottom of this document is a key, should you need to
+escape, south of the pit there is a secret door that it will
+unlock.  Good luck.
+    -- Alamanion."
+~
+#809
+green key~
+`ca green key``~
+`cA green key is here.``~
+unknown~
+0
+key 2
+HP
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 5 12 P
+#810
+embroidered blue jacket~
+`lan embroidered blue jacket``~
+A blue jacket sits here.
+~
+cloth~
+0
+clothing 2
+B
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+12 50 15 P
+A
+3 2
+A
+13 10
+A
+1 -3
+#811
+mirror aura shimmering~
+`ha shimmering mirror aura``~
+A shimmering mirror sits here.
+~
+glass~
+0
+light 2
+ABGS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+13 150 100 P
+A
+18 1
+A
+24 -2
+#812
+purple fringed card~
+`fa purple fringed card``~
+`fA purple fringed card is here.``~
+stone~
+0
+key 2
+BHPZ
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+14 15 0 P
+#813
+clear water blue key~
+`na clear water-blue key``~
+`nA key made of water is here.``~
+water~
+0
+key 2
+HP
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+19 15 14 P
+#814
+treasure chest~
+a treasure chest~
+A treasure chest sits here on a ledge.
+~
+unknown~
+0
+container 2
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DHIJM A 0 DHIJM 0
+0
+0
+0 0 0 P
+#815
+shield of adventurer~
+the Shield of the Adventurer~
+A sturdy-looking shield sits here.
+~
+metal~
+0
+armor 2
+AB
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C C C C 0
+0
+0
+20 25 0 P
+A
+17 -4
+#816
+flay dagger three pronged~
+a three-pronged flay dagger~
+A dagger crackles here.
+~
+metal~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 ABC B BD G
+0
+0
+21 26 150 G
+A
+18 3
+A
+19 2
+#817
+grate key~
+`aa grate key``~
+A key is here.
+~
+unknown~
+0
+key 2
+BHPZ
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+26 15 0 P
+#818
+grate key~
+`aa grate key``~
+A key is here.
+~
+metal~
+0
+key 2
+AHPZ
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+26 15 0 P
+#819
+grate key~
+`aa grate key``~
+A key is here.
+~
+metal~
+0
+key 2
+HPZ
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+26 0 0 P
+#820
+grate key~
+`aa grate key``~
+A key is here.
+~
+metal~
+0
+key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+26 15 0 P
+#821
+tiny sun~
+`ka tiny sun``~
+`kA tiny golden globe floats here.``~
+energy~
+0
+warp_stone 2
+AT
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 250 0 P
+#822
+drape of darkness~
+`aa drape of darkness``~
+Darkness floats here.
+~
+unknown~
+0
+wand 2
+C
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CE B B EG 'reserved'
+0
+0
+25 4 0 P
+#823
+concentrated gas~
+concentrated gas~
+Gas floats here.
+~
+unknown~
+0
+wand 2
+B
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CE B B BDG 'reserved'
+0
+0
+25 0 0 P
+#824
+jagged lightning bolt~
+`oa jagged lightning bolt``~
+Lightning crackles here.
+~
+energy~
+0
+wand 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE B B ABG 'reserved'
+0
+0
+20 4 0 P
+#825
+lantern gauntlet~
+The Lantern of the Gauntlet~
+A lantern sits here.
+~
+glass~
+0
+light 2
+AB
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 DHIJM 0 0
+0
+0
+55 40 830 A
+A
+12 30
+A
+13 30
+A
+18 3
+A
+19 3
+#826
+adventurer steel wings~
+Steel Wings of the Adventurer~
+Metal wings sit here.
+~
+steel~
+0
+armor 2
+AB
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BC BC BC BC 0
+0
+0
+30 15 0 P
+A
+1 -1
+A
+14 25
+A
+2 -1
+#827
+adventurer sandals~
+Sandals of the Adventurer~
+Strange looking sandals sit here.
+~
+hard leather~
+0
+armor 2
+AB
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB AB AB AB 0
+0
+0
+30 15 0 P
+A
+2 1
+#828
+adventurer helmet~
+Helmet of the Adventurer~
+A small helmet lies here.
+~
+metal~
+0
+armor 2
+AB
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AB AB AB AB 0
+0
+0
+30 30 0 P
+A
+12 7
+A
+13 7
+A
+14 7
+#829
+ring cheater~
+the Ring-Key of the Cheater~
+I wouldn't wear this ring..if I were you.
+~
+unknown~
+0
+key 2
+ABCEGMTZa
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+A 0 0 0 0
+0
+0
+30 20 0 P
+A
+18 1
+A
+19 2
+A
+12 -20
+A
+13 -20
+A
+3 -2
+A
+26 -1
+A
+2 -3
+A
+4 -3
+A
+1 -5
+#830
+adventurer potion~
+Adventurer's Potion~
+A queer-looking potion sits here.
+~
+glass~
+0
+potion 2
+AB
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC 'penance' -1 -1 -1 0
+0
+10 10 0 G
+#0
+
+#ROOMS
+#800
+25 300
+~
+~
+~
+0 512 0
+A Platinum Arch~
+A large spiked half-oval made of gleaming platinum stands here, each foot
+buried in a small hill.  The valley in between them (and underneath the
+arch) leads towards a strange-looking structure that sprouts out of the
+ground to your north.
+~
+0 A 0
+0
+~
+I 0 D0
+~
+~
+0 0 801
+D3
+~
+~
+0 0 13430
+S
+#801
+0 0
+~
+~
+~
+0 512 0
+The Bamboo Bridge~
+An unsturdy bamboo bridge leads the way north, into a strange-looking
+building that seems to emerge from the ground itself.  Below you is a
+large chasm that sprawls into unknown depths.
+~
+0 A 4
+0
+~
+I 0 D0
+~
+~
+0 0 802
+D2
+~
+~
+0 0 800
+S
+#802
+0 0
+~
+~
+~
+0 512 0
+The Bamboo Bridge~
+An unsturdy bamboo bridge leads the way north, into a strange-looking
+building that seems to emerge from the ground itself.  Below you is a
+large chasm that sprawls into unknown depths.
+~
+0 A 4
+0
+~
+I 0 D0
+~
+~
+0 0 803
+D2
+~
+~
+0 0 801
+S
+#803
+0 0
+~
+~
+~
+0 512 0
+Entrance to the Structure~
+A diagonal, ragged portal with no visible door is the only way inside.
+From here, you can see virtually nothing -- it seems excruciatingly dark.
+To your south, a thin bamboo bridge goes towards a platinum arch.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 804
+D2
+~
+~
+0 0 802
+S
+#804
+0 0
+~
+~
+~
+0 512 0
+The Loche~
+Wood-and-silver walls, badly constructed, provide a poor shelter from
+anything.  A hole in the earth is the only visible feature of this
+room, excepting for a large wooden sign hanging on the wall.
+~
+0 X 0
+0
+~
+I 0 D2
+~
+~
+0 0 803
+D5
+~
+~
+0 0 805
+S
+#805
+25 200
+For stepping into the gauntlet, your bravery shall be rewarded with 200 experience points.~
+~
+~
+0 512 45
+A Low Stone Hallway~
+Green, slime-covered granite forms a very low ceiling, forcing you to
+duck downwards as you scramble around on slick, seemingly oil-covered
+marble here.  The floor is covered with some oily substance and slopes
+slightly downward, forcing you north and making the way back null.
+~
+0 ACN 0
+0
+~
+I 0 D0
+~
+~
+0 0 806
+S
+#806
+0 0
+~
+~
+~
+0 512 0
+A Low Stone Hallway~
+Green, slime-covered granite forms a very low ceiling, forcing you to
+duck downwards as you scramble around on slick, seemingly oil-covered
+marble here.  The floor is covered with some oily substance and slopes
+slightly downward, forcing you north and making the way back null.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 807
+S
+#807
+0 0
+~
+~
+~
+0 512 0
+Sliding Towards the Pit~
+The hallway drops sharply off into a black pit here!  If you managed to
+find some way to scramble upwards before you slid downward, you could
+traverse the high route -- or alternately, you could brave the pit.
+~
+0 AN 18
+0
+~
+I 0 D4
+~
+~
+0 0 808
+D5
+~
+~
+0 0 809
+S
+#808
+0 0
+~
+~
+~
+0 512 0
+The Narrow Ledge~
+Your fingertips barely graze the ledge as you make your leap across the
+pit.  From this vantage, you can see several creatures, all screaming at
+you, inside the pit.  If you feel robust enough, you can still slide
+down the rockface into the pit, or you can pull yourself up and continue
+north.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 810
+D5
+~
+~
+0 0 809
+S
+#809
+0 0
+~
+~
+~
+0 512 0
+The Pit~
+This pit is about fifteen feet deep, with slick walls that cascade
+inwards, making it impossible to climb back up.  Climbing back up
+seems to be the least of your worries here, though... as you land
+on the floor, a small switch triggers two doors to open, allowing
+whatever might lie behind them to enter..
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 811
+D2
+~
+brightwhite~
+4161 808 812
+S
+#810
+0 0
+~
+~
+~
+0 512 0
+A Dank Hall~
+You are now at the start of a long, dark musty hall.  Far to your north
+you can see a glowing green door.  Torches flicker on and off, bracketing
+the way forward.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 813
+S
+#811
+0 0
+~
+~
+~
+0 512 0
+An Enclosure~
+The pit dips downwards here, revealing a tiny room filled with old
+skins, weapons, and the sort.  Small notes written in pseudo-goblin
+dialect seem to be from someone else to the bugbears...a mystery.
+~
+0 AN 18
+0
+~
+I 0 D2
+~
+~
+0 0 809
+S
+#812
+0 0
+~
+~
+~
+0 512 0
+A Secret Passage~
+This earthen passage reeks of a mixture of blood and alcohol.  The
+moist dirt walls seem to be slowly caving in as you make your way
+upwards, giving you a strong feeling of claustrophobia.
+~
+0 AN 0
+0
+~
+I 0 D0
+~
+door~
+4161 0 809
+D4
+~
+~
+0 0 810
+S
+#813
+0 0
+~
+~
+~
+0 512 0
+A Dank Hall~
+Low moans erupt from the eerie silence as you proceed down this hall,
+a low-ceilinged, moss-covered structure of stone and mortar.  Small
+passages jut off to your east and west every few steps, and large
+openings in the wall and floor hint at something a little more than
+the standard passageway...
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 816
+D1
+~
+~
+0 0 814
+D3
+~
+~
+0 0 815
+S
+#814
+0 0
+~
+~
+~
+0 512 0
+An Offshoot~
+This small cove is just large enough for a person to duck into to escape
+the terrors of the Gauntlet hallway.
+~
+0 AN 18
+0
+~
+I 0 D3
+~
+~
+0 0 813
+S
+#815
+0 0
+~
+~
+~
+0 512 0
+An Offshoot~
+This small cove is just large enough for a person to duck into to escape
+the terrors of the Gauntlet hallway.
+~
+0 AN 18
+0
+~
+I 0 D1
+~
+~
+0 0 813
+S
+#816
+0 0
+~
+~
+~
+0 512 0
+A Dank Hall~
+Low moans erupt from the eerie silence as you proceed down this hall,
+a low-ceilinged, moss-covered structure of stone and mortar.  Small
+passages jut off to your east and west every few steps, and large
+openings in the wall and floor hint at something a little more than
+the standard passageway...
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 819
+D1
+~
+~
+0 0 817
+D2
+~
+~
+0 0 813
+D3
+~
+~
+0 0 818
+S
+#817
+0 0
+~
+~
+~
+0 512 0
+An Offshoot~
+This small cove is just large enough for a person to duck into to escape
+the terrors of the Gauntlet hallway.
+~
+0 AN 18
+0
+~
+I 0 D3
+~
+~
+0 0 816
+S
+#818
+0 0
+~
+~
+~
+0 512 0
+An Offshoot~
+This small cove is just large enough for a person to duck into to escape
+the terrors of the Gauntlet hallway.
+~
+0 AN 18
+0
+~
+I 0 D1
+~
+~
+0 0 816
+S
+#819
+0 0
+~
+~
+~
+0 512 0
+A Dank Hall~
+Low moans erupt from the eerie silence as you proceed down this hall,
+a low-ceilinged, moss-covered structure of stone and mortar.  Small
+passages jut off to your east and west every few steps, and large
+openings in the wall and floor hint at something a little more than
+the standard passageway...
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 822
+D1
+~
+~
+0 0 820
+D2
+~
+~
+0 0 816
+D3
+~
+~
+0 0 821
+S
+#820
+0 0
+~
+~
+~
+0 512 0
+An Offshoot~
+This small cove is just large enough for a person to duck into to escape
+the terrors of the Gauntlet hallway.
+~
+0 AN 18
+0
+~
+I 0 D3
+~
+~
+0 0 819
+S
+#821
+0 0
+~
+~
+~
+0 512 0
+An Offshoot~
+This small cove is just large enough for a person to duck into to escape
+the terrors of the Gauntlet hallway.
+~
+0 AN 18
+0
+~
+I 0 D1
+~
+~
+0 0 819
+S
+#822
+0 0
+~
+~
+~
+0 512 0
+A Circle Cove~
+The Hall ends here, and so do the traps.  A star-shaped panel acts as
+a mat for the bright green door to your north.  Shadows cloak the
+room in darkness.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+green~
+4161 809 823
+D2
+~
+~
+0 0 819
+S
+#823
+0 0
+~
+~
+~
+0 512 0
+The Lower Chambers - Arena~
+The lower chambers of the phase gauntlet extend in a wide circle,
+reminiscent of an arena.  Adding to the effect is blood-stained
+sand that covers the floor.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 825
+D1
+~
+~
+0 0 824
+D2
+~
+green~
+4161 809 822
+D3
+~
+~
+0 0 829
+S
+#824
+0 0
+~
+~
+~
+0 512 0
+The Lower Chambers - Arena~
+The lower chambers of the phase gauntlet extend in a wide circle,
+reminiscent of an arena.  Adding to the effect is blood-stained
+sand that covers the floor.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 826
+D1
+~
+~
+0 0 829
+D3
+~
+~
+0 0 823
+S
+#825
+0 0
+~
+~
+~
+0 512 0
+The Lower Chambers - Arena~
+The lower chambers of the phase gauntlet extend in a wide circle,
+reminiscent of an arena.  Adding to the effect is a blood-stained
+floor covered with sand.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 827
+D1
+~
+~
+0 0 826
+D2
+~
+~
+0 0 823
+D3
+~
+~
+0 0 828
+S
+#826
+0 0
+~
+~
+~
+0 512 0
+The Lower Chambers - Arena~
+The lower chambers of the phase gauntlet extend in a wide circle,
+reminiscent of an arena.  Adding to the effect is blood-stained
+sand that covers the floor.
+~
+0 AN 0
+0
+~
+I 0 D0
+~
+~
+0 0 828
+D1
+~
+~
+0 0 827
+D2
+~
+~
+0 0 824
+D3
+~
+~
+0 0 825
+S
+#827
+0 0
+~
+~
+~
+0 512 0
+The Lower Chambers - Arena~
+The lower chambers of the phase gauntlet extend in a wide circle,
+reminiscent of an arena.  Adding to the effect is blood-stained
+sand that covers the floor.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 829
+D1
+~
+~
+0 0 828
+D2
+~
+~
+0 0 825
+D3
+~
+~
+0 0 826
+S
+#828
+0 0
+~
+~
+~
+0 512 0
+The Lower Chambers - Arena~
+The lower chambers of the phase gauntlet extend in a wide circle,
+reminiscent of an arena.  Adding to the effect is blood-stained
+sand that covers the floor.
+~
+0 AN 18
+0
+~
+I 0 D1
+~
+~
+0 0 825
+D2
+~
+~
+0 0 826
+D3
+~
+~
+0 0 827
+S
+#829
+0 0
+~
+~
+~
+0 512 0
+The Lower Chambers - Arena~
+The lower chambers of the phase gauntlet extend in a wide circle,
+reminiscent of an arena.  Adding to the effect is blood-stained
+sand that covers the floor.
+~
+0 ADN 18
+0
+~
+I 0 D0
+~
+purplefringe~
+4161 812 830
+D1
+~
+~
+0 0 823
+D2
+~
+~
+0 0 827
+D3
+~
+~
+0 0 824
+S
+#830
+0 0
+~
+~
+$n slides down the slope at a breakneck speed.~
+0 512 0
+A Wet Slope~
+Water bursts from the walls here, trickling over the smooth marble
+that forms the circular tunnel leading downwards, apparently to some
+sort of water body below.
+~
+0 AN 18
+0
+~
+I 0 D2
+~
+door~
+4161 0 829
+D5
+~
+~
+0 0 831
+S
+#831
+0 0
+~
+~
+$n slides down the slope at a breakneck speed.~
+0 512 0
+A Vertical Fall~
+The marble here is coated with a thick oil substance, designed to keep
+you moving in one direction -- down, with the flow of the water.  In
+a similar construct as the moldy halls, you feel yourself sliding over
+holes and slits in the marble...be careful!
+~
+0 AN 18
+0
+~
+I 0 D5
+~
+~
+0 0 832
+S
+#832
+0 0
+~
+~
+$n slides down the slope at a breakneck speed.~
+0 512 0
+A Vertical Fall~
+The marble here is coated with a thick oil substance, designed to keep
+you moving in one direction -- down, with the flow of the water.  In
+a similar construct as the moldy halls, you feel yourself sliding over
+holes and slits in the marble...be careful!
+~
+0 AN 18
+0
+~
+I 0 D5
+~
+~
+0 0 833
+S
+#833
+0 0
+~
+$n flies into the room from a water-spewing chute!~
+~
+0 512 0
+River Run~
+You are face-deep in murky, rushing waters.  Although it is dark and the
+space to move seems very enclosed, you can sense shapes lurking in the
+depths below and ahead of you...  a bright blue door is visible in the
+distance north.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 834
+S
+#834
+0 0
+~
+$n floats into the room.~
+$n swims against the $T current.~
+0 512 0
+River Run~
+You are face-deep in murky, rushing waters.  Although it is dark and the
+space to move seems very enclosed, you can sense shapes lurking in the
+depths below and ahead of you...  a bright blue door is visible in the
+distance north.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 835
+S
+#835
+0 0
+~
+~
+~
+0 512 0
+River Run~
+You are face-deep in murky, rushing waters.  Although it is dark and the
+space to move seems very enclosed, you can sense shapes lurking in the
+depths below and ahead of you...  a bright blue door is visible in the
+distance north.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 836
+S
+#836
+0 0
+~
+~
+~
+0 512 0
+Whirlpool~
+Here, the river ends and a gigantic whirlpool spirals around, threatening
+to suck you downwards if you tarry here too long.  A blue door is inset
+in the stone to your north.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+door~
+4161 813 837
+D5
+~
+~
+0 0 838
+S
+#837
+0 0
+~
+~
+~
+0 512 0
+Descending the Shaft~
+You now find yourself in a tight squeeze - literally!  A tunnel carved
+out of soil and braced by wooden beams leads directly downwards.
+The air here lingers with the fresh smell of ionization juxtaposed with
+the smell of burning wood.
+~
+0 AN 18
+0
+~
+I 0 D2
+~
+door~
+4161 0 836
+D5
+~
+~
+0 0 839
+S
+#838
+0 0
+~
+~
+~
+0 512 0
+A Hidden Passage~
+You are in a small, dark chamber.  To your north lies a platinum arch.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 800
+D4
+~
+~
+0 0 836
+S
+#839
+0 0
+~
+~
+~
+0 512 0
+Descending the Shaft~
+You now find yourself in a tight squeeze - literally!  A tunnel carved
+out of soil and braced by wooden beams leads directly downwards.
+The air here lingers with the fresh smell of ionization juxtaposed with
+the smell of burning wood.
+~
+0 AN 18
+0
+~
+I 0 D4
+~
+~
+0 0 837
+D5
+~
+~
+0 0 840
+S
+#840
+0 0
+~
+~
+~
+0 512 0
+A Razed Circle~
+You are pretty deep underground, if judging by the low ceilings, the
+moisture and the lack of light.  A grate below you seems to lead to a drier
+passageway.  Passageways lead in every direction.  A dry rusted grate lies
+directly above you.  It seems to be positioned to match the space where the
+treasure-chest lies.  
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 841
+D1
+~
+~
+0 0 845
+D2
+~
+~
+0 0 843
+D3
+~
+~
+0 0 847
+D5
+~
+door~
+4161 817 849
+S
+#841
+0 0
+~
+~
+~
+0 512 0
+One Hot Chamber~
+This chamber is overwhelmingly hot!  The intense heat runs over you in
+waves, almost knocking you down.  A bright chamber is directly north
+of here, and the nexus is south.
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 842
+D2
+~
+~
+0 0 840
+S
+#842
+0 0
+~
+~
+~
+0 512 0
+One Bright and Hot Chamber~
+This room is unbearably bright and unbearably hot!  There is no good
+explanation for this intense light, other than...what's that moving
+in the center of the room?
+~
+0 AN 18
+0
+~
+I 0 D2
+~
+~
+0 0 841
+S
+#843
+0 0
+~
+~
+~
+0 512 0
+Darkness~
+This room has no light source whatsoever.  Directly to your south,
+you can see a well of complete darkness.  Creepy.
+~
+0 N 18
+0
+~
+I 0 D0
+~
+~
+0 0 840
+D2
+~
+~
+0 0 844
+S
+#844
+0 0
+~
+~
+~
+0 512 0
+Well of Darkness~
+It's hard to even see your hand in front of your face... your light
+seems to be containing itself to a less than adequate range.  Scraping
+sounds hint at something else in this room...
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 843
+S
+#845
+0 0
+~
+~
+~
+0 512 0
+A Bland Room~
+This room smells of stale air...it is quite hard to breathe here, with
+the exception of the occasional blasts of wickedly ionized air that
+come randomly down this hall.  East of here is a chamber filled with
+thick clouds of gas.
+~
+0 AN 18
+0
+~
+I 0 D1
+~
+~
+0 0 846
+D3
+~
+~
+0 0 840
+S
+#846
+0 0
+~
+~
+~
+0 512 0
+Foggy Gas~
+This room is quite extremely hard to breathe in, due to the huge
+billowing clouds of poisonous gas that float around here.  Occasional
+gusts of pure air from the west keep you from passing out.
+~
+0 AN 18
+0
+~
+I 0 D3
+~
+~
+0 0 845
+S
+#847
+0 0
+~
+~
+~
+0 512 0
+A Prickly Cold Cavern~
+This outlet is extremely cool, and the air here is almost ozone -- it
+is completely clean, stripped of all detractors.  To your west, you can
+see a large blue shape lying on the floor.
+~
+0 0 18
+0
+~
+I 0 D1
+~
+~
+0 0 840
+D3
+~
+~
+0 0 848
+S
+#848
+0 0
+~
+~
+~
+0 512 0
+A Small Alcove~
+This room is completely featureless -- the walls are smoothed to a
+gem-like perfection, and the air is the cleanest you've ever breathed.
+East of here lies the nexus.
+~
+0 0 18
+0
+~
+I 0 D1
+~
+~
+0 0 847
+S
+#849
+0 0
+~
+~
+~
+0 512 0
+A Passage~
+The passage leads downwards.
+A grate is below you, rusted shut.
+~
+0 AN 18
+0
+~
+I 0 D4
+~
+door~
+4161 817 840
+D5
+~
+door~
+4161 818 850
+S
+#850
+0 0
+~
+~
+~
+0 512 0
+A Passage~
+The passage leads down.  A grate is below you, rusted shut.
+Above you is another grate.
+~
+0 AN 18
+0
+~
+I 0 D4
+~
+door~
+4161 818 849
+D5
+~
+door~
+4161 819 851
+S
+#851
+0 0
+~
+~
+~
+0 512 0
+A Passage~
+The passage leads down.
+A rusted grate is shut below you.
+~
+0 AN 18
+0
+~
+I 0 D4
+~
+door~
+4161 819 850
+D5
+~
+door~
+4161 820 852
+S
+#852
+0 0
+~
+~
+~
+0 512 0
+Passage End~
+A grate is above you, and a majestic room lies to your north.  All
+around you, light cascades from cracks and from above.  Perhaps you're
+near the exit?
+~
+0 AN 18
+0
+~
+I 0 D0
+~
+~
+0 0 853
+D4
+~
+door~
+4161 0 851
+S
+#853
+0 0
+~
+~
+~
+0 512 0
+A Vicious Trap~
+This room was designed to lure you in, to kill you!  False light sources
+play from flickering will-o'the-wisps that fly madly about the room.
+A ladder leads up from here.
+~
+0 AN 18
+0
+~
+I 0 D2
+~
+~
+0 0 852
+D4
+~
+~
+0 0 854
+S
+#854
+50 500
+Congratulations!  You have survived the gauntlet.~
+~
+~
+0 512 0
+A Bright Room~
+You are in a brightly-lit room filled with silver and gold statues.
+A throne sits in the center of the room here, and a man sits on it,
+staring at you approvingly.
+~
+0 DHNX 18
+0
+~
+I 0 D0
+~
+~
+0 0 800
+S
+#875
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#0
+
+#RESETS
+D 0  809   2    2	* The Pit [south]
+D 0  812   0    2	* A Secret Passage [north]
+D 0  822   0    2	* A Circle Cove [north]
+D 0  823   2    2	* The Lower Chambers - Arena [south]
+D 0  829   0    2	* The Lower Chambers - Arena [north]
+D 0  830   2    2	* A Wet Slope [south]
+D 0  836   0    2	* Whirlpool [north]
+D 0  837   2    2	* Descending the Shaft [south]
+D 0  840   5    2	* A Razed Circle [down]
+D 0  849   4    2	* A Passage [up]
+D 0  849   5    2	* A Passage [down]
+D 0  850   4    2	* A Passage [up]
+D 0  850   5    2	* A Passage [down]
+D 0  851   4    2	* A Passage [up]
+D 0  851   5    1	* A Passage [down]
+D 0  852   4    1	* Passage End [up]
+O 0 800   0 804 -1	* A wooden sign at The Loche
+M 0  816   5  805  2	* A wandering gremlin
+M 0  816   5  806  2	* A wandering gremlin
+M 0  816   5  806  2	* A wandering gremlin
+M 0  816   5  807  2	* A wandering gremlin
+M 0  800   3  809 15	* A vicious bugbear
+E 0  803   -1    8	* item to A vicious bugbear
+E 0  802   -1   17	* item to A vicious bugbear
+E 0  801   -1   16	* item to A vicious bugbear
+M 0  800   3  809 15	* A vicious bugbear
+E 0  803   -1    8	* item to A vicious bugbear
+E 0  802   -1   17	* item to A vicious bugbear
+E 0  801   -1   16	* item to A vicious bugbear
+M 0  800   3  809 15	* A vicious bugbear
+E 0  803   -1    8	* item to A vicious bugbear
+E 0  802   -1   17	* item to A vicious bugbear
+E 0  801   -1   16	* item to A vicious bugbear
+M 0  802   1  811  1	* The bugbear chief
+E 0  807   -1   16	* item to The bugbear chief
+E 0  805   -1    9	* item to The bugbear chief
+E 0  802   -1   17	* item to The bugbear chief
+E 0  803   -1    8	* item to The bugbear chief
+G 0  806 -1		* A leather flask to the bugbear chief
+G 0  808 -1		* `oa slip of paper`` to the bugbear chief
+M 0  801   2  811  2	* An elite bugbear leader
+E 0  804   -1   16	* item to An elite bugbear leader
+E 0  802   -1   17	* item to An elite bugbear leader
+E 0  803   -1    8	* item to An elite bugbear leader
+M 0  801   2  811  2	* An elite bugbear leader
+E 0  803   -1    8	* item to An elite bugbear leader
+E 0  804   -1   16	* item to An elite bugbear leader
+E 0  802   -1   17	* item to An elite bugbear leader
+M 0  804   1  813  1	* A slicer trap
+M 0  803   1  822  1	* A phase guardian
+E 0  809   -1   17	* item to A phase guardian
+M 0  805  10  823  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  823  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  824  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  824  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  825  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  825  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  826  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  827  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  828  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  805  10  828  2	* A doppelganger
+E 0  810   -1    5	* item to A doppelganger
+M 0  806   1  829  1	* A doppelganger pseudolord
+E 0  811   -1    0	* item to A doppelganger pseudolord
+E 0  810   -1    5	* item to A doppelganger pseudolord
+E 0  812   -1   17	* item to A doppelganger pseudolord
+O 0 814   0 829 -1	* A treasure chest at The Lower Chambers - Arena
+P 0 830 -1 814 1
+M 0  807  10  831  1	* Swinging mace trap
+M 0  807  10  832  1	* Swinging mace trap
+M 0  808  10  833  1	* Water-spear trap
+M 0  809   7  833  2	* An aquatic elf
+M 0  809   7  833  2	* An aquatic elf
+M 0  808  10  834  1	* Water-spear trap
+M 0  809   7  834  2	* An aquatic elf
+E 0  816   -1   16	* item to An aquatic elf
+M 0  808  10  835  1	* Water-spear trap
+M 0  809   7  835  2	* An aquatic elf
+E 0  816   -1   16	* item to An aquatic elf
+M 0  809   7  835  2	* An aquatic elf
+E 0  816   -1   16	* item to An aquatic elf
+M 0  810   1  836  1	* The elf-lord
+E 0  813   -1   17	* item to The elf-lord
+E 0  816   -1   16	* item to The elf-lord
+M 0  809   7  836  2	* An aquatic elf
+E 0  816   -1   16	* item to An aquatic elf
+O 0 814   0 836 -1	* A treasure chest at Whirlpool
+P 0 815 -1 814 1
+O 0 814   0 840 -1	* A treasure chest at A Razed Circle
+P 0 829 20 814 1
+M 0  811   1  842  1	* The sun dragon
+E 0  819   -1   17	* item to The sun dragon
+G 0  821 -1		* `ka tiny sun`` to The Sun Dragon
+M 0  812   1  844  1	* The shadow dragon
+E 0  817   -1   17	* item to The shadow dragon
+G 0  822 -1		* `aa drape of darkness`` to The Shadow Dragon
+M 0  813   1  846  1	* The serpent dragon
+E 0  820   -1   17	* item to The serpent dragon
+G 0  823 -1		* Concentrated gas to The Serpent Dragon
+M 0  814   1  848  1	* The blue dragon
+E 0  818   -1   17	* item to The blue dragon
+G 0  824 -1		* `oa jagged lightning bolt`` to The Blue Dragon
+O 0 814   0 849 -1	* A treasure chest at A Passage
+P 0 826 -1 814 1
+O 0 814   0 850 -1	* A treasure chest at A Passage
+P 0 827 -1 814 1
+O 0 814   0 851 -1	* A treasure chest at A Passage
+P 0 828 -1 814 1
+M 0  822   3  853  3	* A wicked arrow-and-axe trap
+M 0  822   3  853  3	* A wicked arrow-and-axe trap
+M 0  822   3  853  3	* A wicked arrow-and-axe trap
+M 0  815   1  854  1	* Alamanion
+E 0  825   -1    0	* item to Alamanion
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 811 spec_breath_fire		* The Sun Dragon
+M 812 spec_nasty		* The Shadow Dragon
+M 813 spec_poison		* The Serpent Dragon
+M 814 spec_breath_lightning		* The Blue Dragon
+M 815 spec_breath_acid		* Alamanion
+S
+
+#OT
+#0
+#$

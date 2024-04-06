@@ -1,0 +1,3159 @@
+#AREA
+rhuidean.enc~
+Rhuidean~
+{ 1 100} Goldmund  Rhuidean~
+~
+8800 8900
+0 0
+0 0
+~
+#MOBILES
+#8800
+gara~
+a yellow striped gara~
+A yellow striped, bronze scaled gara stares at you.
+~
+A reptile about two feet long stands here, with bronze scales and yellow
+stripes running down its back.  A clear, oily fluid drips from the edge of
+the creatures mouth.  
+~
+lizard~
+0 0 0 0
+AF 0 -200 0
+30 20 8d50+200 10d5+10 5d6+10 scratch
+-14 -14 -14 0
+FHM 0 L I
+stand stand neutral 0
+AGHMVXc ABCDEFGHIJKPQUVX small unknown~
+0 0 0 100
+0
+~
+~
+#8801
+man shadow black~
+a shadow man~
+A featureless shadowy man, black as pitch, forms from the dust here.
+~
+A dark featureless man formed from dust and evil.  His face holds no
+expression and his fingers are replaced with sharp claws.  
+~
+human~
+0 0 0 0
+AFG DFQ -800 0
+32 0 10d100+500 29d10+100 4d8+15 wrath
+-9 -9 -9 0
+H K D CN
+stand stand neutral 0
+AHLMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8802
+crystal star azure~
+a pulsing azure crystal~
+A pulsing, azurine, star-shaped crystal floats here.
+~
+The crystal hums slightly, and glitters surprisingly bright in the pale
+light of Rhuidean.  
+~
+modron~
+0 0 0 0
+AR HJT 0 0
+36 25 10d90+670 60d10+100 5d8+5 blast
+-14 -14 -14 -2
+FQR BLMNPQ GHIK O
+stand stand neutral 0
+HL ABCGHJK small unknown~
+0 0 0 100
+0
+~
+~
+#8803
+mist spirit fog~
+a mist spirit~
+The mists shift with unusual intensity here.
+~
+The mists swirl wildly within a strange shapeless figure, formed from the
+fog and evil...  
+~
+human~
+0 0 0 0
+AF BT -100 0
+30 18 10d70+400 26d10+100 1d20+10 digestion
+-12 -11 -10 0
+J BILQ DE CH
+stand stand neutral 0
+AHMSV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8804
+builder spirit ghost~
+a builder~
+A spirit of one of the builders hammers at the empty air here.
+~
+This spirit hammers silently, forever repeating until the next age.
+~
+human~
+0 0 0 0
+AQ BN 0 0
+41 28 10d160+700 40d10+100 5d8+20 pound
+-20 -20 -20 -5
+FHK IQ C Y
+stand stand neutral 0
+AHIMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8805
+Wolf Ter'angreal statue~
+a ter'angreal wolf~
+A wolf statue begins to move as you enter the room.
+~
+A statue, made of white marble, of a proud wolf.  The ter'angreal moves
+with surprising grace for a creature of stone.  The energy of the One Power
+hangs in the air as it watches you calmly.  
+~
+dog~
+0 0 0 0
+AF HVZ 0 0
+38 26 10d70+500 37d10+100 5d8+20 chomp
+-17 -18 -10 -12
+FH JLPQR CD 0
+stand stand neutral 0
+AGJV ACDEFHJKQUV medium unknown~
+0 0 0 100
+0
+~
+~
+#8806
+Eelfinn Guide Fox Man ~
+an eelfinn guide~
+A tall sinewy man, with tufted red hair, and big colorless eyes set into a fox-like face stands here, grinning with teeth as sharp as razors.
+~
+The man is tall, taller than an Aiel, and sinewy, but with shoulders too
+wide for his narrow waist.  Skin as white as the finest paper.  Pale leather
+straps cross his arms and bare chest.  His reddish hair stands atop his head
+like a brush, and he stares inhumanly with big deepset, colorless eyes.  
+~
+fox~
+0 0 0 0
+AS DFVZ -100 0
+45 28 10d175+900 48d10+100 5d9+20 slash
+-20 -20 -20 -3
+EFHK BIP 0 0
+stand stand neutral 0
+AGHMV ABCDEFGHIJKQV medium unknown~
+0 0 0 100
+0
+~
+~
+#8807
+eelfinn judge fox man warrior~
+an eelfinn judge~
+A muscular eelfinn judge stares coldly from his pedastal.
+~
+The man is tall, taller than an Aiel, and sinewy, but with shoulders too
+wide for his narrow waist.  His skin is as white as the finest paper.  His
+reddish hair stands up in a tuft atop his head and falls down his back.  
+~
+fox~
+0 0 0 0
+AT DFVZ -100 0
+47 40 10d160+900 47d10+100 5d10+17 slash
+-25 -25 -26 -3
+CDEFHIKLNR BIP 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQV medium unknown~
+0 0 0 100
+0
+~
+~
+#8808
+man fox priest eelfinn cleric~
+an eelfinn priest~
+A thin eelfinn priest watches silently.
+~
+A tall sinewy woman, skin as white as snow, stares with colorless eyes. 
+Her reddish hair rises in a tuft above her head and falls down her back. 
+She stares at you like fox stares at a chicken.  
+~
+fox~
+0 0 0 0
+AQ HZ -100 0
+49 34 10d169+920 50d10+100 5d10+22 chomp
+-28 -28 -28 -4
+FHR BIP K 0
+stand stand female 500
+AGV ACDEFHJKQV medium unknown~
+0 0 0 100
+0
+~
+~
+#8809
+justice high eelfinn fox man~
+an eelfinn high justice~
+The eelfinn high justice stands at the center pedastal.
+~
+This man stands even taller than the rest, his gaze through his colorless
+eyes is steady.  His red hair rises is a tuft above his head, and falls down
+over his paper white skin.  You feel certain he can see straight into your
+mind, and is not particularily impressed.  
+~
+fox~
+0 0 0 0
+AR DFHTVZ -100 0
+54 39 175d10+1200 60d10+200 5d10+35 blast
+-29 -29 -29 -8
+FHKR BIP KMN 0
+stand stand male 3000
+AGV ACDEFHJKQV medium unknown~
+0 0 0 100
+0
+~
+~
+#8810
+therin telamon kinslayer dragon~
+Lews Therin Kinslayer~
+Lews Therin Kinslayer stands here, armor soaked in blood, screaming at the heavens.
+~
+The man's eyes dart about rapidly, screams and sobs escape his lips; the
+sounds of a broken man.  Blood coats his armor, and he leans on his sword
+barely able to stand.  The one power hums in the air, as he shouts and
+mumbles, "why must i destroy everything?  Why?  Ilyena.  Ilyena..."  
+~
+human~
+0 0 0 0
+AFRT DFHTV 0 0
+60 55 12d200+3000 30d100+100 10d6+30 slash
+-34 -34 -34 -12
+ACDFHIJKN BCILPQ D 0
+stand stand male 1400
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8811
+sedai male mad~
+a male sedai~
+A male sedai, mad with the taint, burns down a building here.
+~
+Once reserved and proud, this man, likely one of the hundred companions,
+has lost his mind.  The taint drives him, and nothing else matters.  
+~
+human~
+0 0 0 0
+AFR HNT 0 0
+56 37 10d169+900 60d10+100 5d10+20 blast
+-21 -21 -21 -6
+AFH 0 C 0
+stand stand male 325
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8812
+companion sedai male 100~
+a Male sedai companion~
+One of the Hundred Companions, a male Sedai, stands ready for more battles.
+~
+This male sedai, one of the hundred finest of the age, stands proudly. 
+He is quiet sane, and has apparently just finished off a group of trollocs
+who lie in a burning heap behind him.  
+~
+human~
+0 0 0 0
+ABRT HTV 800 0
+50 36 10d169+1000 10d60+100 10d5+10 pierce
+-24 -25 -24 -7
+AFHK 0 C 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8813
+myrddraal fade~
+a myrddraal~
+A Myrddraal moves swiftly and silently towards you.
+~
+Wrapped in an unmoving black cloak, the fade moves about killing
+silently.  It turns its eyeless gaze to you.  
+~
+human~
+0 0 0 0
+ABFT BDFNPQV -950 0
+50 31 10d180+1000 50d10+100 5d10+25 slash
+-21 -21 -21 -5
+FGHK LQ BGHK J
+stand stand neutral 450
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8814
+aiel chief~
+an Aiel chief~
+An aiel, a golden dragon on his right arm, stands looking thoughtfully at the valley below.
+~
+This noble looking Aiel appears to be directing a group of Aiel down into
+the valley.  His veil is lowered, but he appears entirely calm, movements
+totally smooth.  
+~
+human~
+0 0 0 0
+ABT DFHPQV 100 0
+50 38 10d200+850 49d10+100 2d40+20 pierce
+-29 -28 -28 -4
+CEFHIKN 0 I 0
+stand stand neutral 760
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8815
+laman's royal guard~
+Laman's royal guard~
+One of Laman's royal guard, the best soldiers in Cairhien, stares at you.
+~
+The man looks bloodied from battle, his eyes are sharp however and he
+refuses to give up.  
+~
+human~
+0 0 0 0
+ABT 0 -200 0
+35 22 10d150+320 35d10+100 7d5+18 stab
+-14 -14 -15 -2
+CFHJKU 0 0 0
+stand stand neutral 175
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8816
+aiel warrior~
+an Aiel warrior~
+An Aiel Warrior watches from the shadows.
+~
+The Aiel move gracefully and silently, approaching his next kill.  
+~
+human~
+0 0 0 0
+AT PQ 100 0
+38 23 10d100+700 37d10+100 7d7+20 pierce
+-19 -20 -19 0
+CEIKNU 0 I 0
+stand stand neutral 15
+AGHMV ABCDEFGHIJKQ medium unknown~
+0 0 0 100
+0
+~
+~
+#8817
+king laman~
+King Laman~
+King Laman, ruler of Cairhien, stands here.
+~
+The king looks as if he, too, has been in battle.  You notice a deep gash
+in his arm, and a number of the aiel's black veils tucked into his belt,
+presumably from those he killed.  This is the man the Aiel call oathbreaker,
+treekiller.  
+~
+human~
+0 0 0 0
+ABFGT DFHNTac -750 0
+58 40 10d200+1000 50d10+100 5d10+50 cleave
+-19 -20 -19 -4
+ACDFHIKN IJKM C 0
+stand stand neutral 990
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8818
+trolloc~
+a trolloc~
+A rampaging trolloc growls at you.
+~
+The trollocs move about madly, whiped on by fades, eating whatever or
+whoever crosses their path.  Each is a disgusting mixtures of animals,
+hulking, deformed, and strong as several men.  
+~
+unique~
+0 0 0 0
+AF FJc -1000 0
+40 27 10d180+1000 10d10+100 4d10+25 charge
+-14 -14 -14 -1
+DE 0 BE HK
+stand stand neutral 10
+ABHMV ABCDEFGHIJKUV medium unknown~
+0 0 0 100
+0
+~
+~
+#8819
+dreadlord~
+a dreadlord~
+A Dreadlord, a person who serves the Dark, orders the Trollocs     about here.
+~
+Rather than face "gentling" at the hands of the sedai, this man chose to
+join the dark.  His face is cold as he orders his trollocs to attack.  
+~
+unique~
+0 0 0 0
+ABRT FHJNVc -800 0
+52 42 10d210+1100 40d100+300 10d6+10 slash
+-24 -25 -24 -6
+DEFHKR 0 BE HK
+stand stand male 450
+ABHMV ABCDEFGHIJKUV medium unknown~
+0 0 0 100
+0
+~
+~
+#8820
+manetheren soldier~
+a Manetheren soldier~
+A Manetheren soldier rallies to the red eagle banner.
+~
+Blood and sweat cover this soldier, he is clearly nearly too tired to
+stand.  He is fighting, however, and ready to face his death.  
+~
+human~
+0 0 0 0
+ABT N 1000 0
+43 31 10d169+900 40d10+120 5d9+18 none
+-26 -26 -25 -4
+CFHKLR 0 0 0
+stand stand male 3
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8821
+imperial guard~
+an imperial guard~
+An imperial guard stand here, staring stoically.
+~
+His face is set in stone, decorations cover his armor, showing his
+capability in battle.  
+~
+human~
+0 0 0 0
+ABT 0 50 0
+40 27 10d150+750 10d10+100 8d8+20 slash
+-18 -17 -18 0
+EFHK 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8822
+art hawking hawk emporer~
+Artur Hawkwing~
+The Emporer himself, Artur Hawkwing, waits here.
+~
+The man looks quite lost in thought.  You sense that his mind is working
+quite fast, though his face is entirely calm.  
+~
+human~
+0 0 0 0
+ABFT DFHNPTVa -200 0
+60 47 12d200+1500 56d10+100 8d20+60 slice
+-28 -29 -28 -6
+ACEFHIJKN C 0 0
+stand stand male 4500
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#8800
+Thick aiel legbone~
+legbone~
+A long Aiel legbone lies on the floor.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+exotic 9 3 crush F
+30 20 0 P
+#8801
+Azure Star~
+an Azure star~
+A azure-crystal star hums quietly here.~
+unknown~
+0
+wand 0 AO
+6
+~
+~
+~
+~
+40 6 6 'continual light' 0
+40 4 205 P
+A
+4 2
+A
+12 20
+#8802
+fine black dust~
+fine dust~
+A fine black dust lies in a pile here.~
+unknown~
+0
+pill F AO
+6
+~
+~
+~
+~
+10 'haste' 'blindness' 'poison' ''
+30 1 50 P
+#8803
+builder hammer mace~
+a Builder's hammer~
+A long silver workman's hammer of ancient design rests here.~
+unknown~
+0
+weapon ABGKM AN
+6
+~
+~
+~
+~
+mace 5 9 pound 0
+40 20 4200 P
+A
+18 6
+A
+19 4
+A
+1 2
+#8804
+foot figurine woman~
+a figurine of a woman~
+A small white heartstone figurine of a woman lies here.~
+unknown~
+0
+key ABMN AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+60 25 10000 P
+A
+12 150
+A
+13 -150
+A
+1 -2
+A
+5 -5
+A
+2 -5
+A
+14 -100
+#8805
+gateway~
+a twisted gateway~
+A polished redstone gateway, impossibly twisted, stands sparkling to the East.~
+unknown~
+0
+furniture BG 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+50 5000 0 P
+#8806
+a thick black kilt~
+black kilt~
+A thick black kilt, patterned in browns and blues, lies here.~
+unknown~
+0
+armor G AF
+6
+~
+~
+~
+~
+11 12 12 2 0
+45 10 1000 P
+A
+2 1
+A
+18 1
+#8807
+thin white robe robes lace~
+white eelfinn robes~
+Thin lace white robes lie here in a pile.~
+unknown~
+0
+armor A AK
+6
+~
+~
+~
+~
+12 13 13 5 0
+47 5 2500 P
+A
+12 30
+A
+3 2
+#8808
+bronze knife blade thin~
+an Eelfinn bronze knife~
+A razor-sharp bronze knife glitters in the light.~
+unknown~
+0
+weapon BG AN
+6
+~
+~
+~
+~
+dagger 7 7 slice D
+47 10 4200 P
+A
+18 3
+A
+19 3
+A
+2 2
+#8809
+red square key~
+a strange reddish square key~
+A square, reddish key lies here.~
+unknown~
+0
+key 0 A
+6
+~
+~
+~
+~
+0 0 0 0 0
+50 1 0 P
+#8810
+silver foxheaded medallion~
+a Silver foxheaded medallion~
+A shining slivery medallion of a foxhead lies here.~
+unknown~
+0
+armor G AC
+6
+~
+~
+~
+~
+13 13 13 20 0
+50 5 6400 P
+A
+24 -5
+A
+19 2
+#8811
+raven spear black~
+a Raven black spear~
+A long, black shafted spear, engraved with ravens, lies here.~
+unknown~
+0
+weapon ABGH AN
+6
+~
+~
+~
+~
+exotic 15 3 pierce E
+50 30 7800 P
+A
+18 3
+A
+19 3
+A
+3 3
+#8812
+aiel statue wax~
+a frozen aiel~
+An Aiel stands here, his face frozen in fear and rage, his veil            half-lowered...still as a statue, the fate of those who died in Rhuidean.~
+unknown~
+0
+furniture 0 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+30 0 0 P
+#8813
+white ivory heron blade~
+a white heron-marked blade~
+A shining white heron-marked blade lies here.~
+unknown~
+0
+weapon ABKM AN
+6
+~
+~
+~
+~
+sword 8 7 slash D
+50 30 9700 P
+A
+12 50
+A
+19 7
+A
+13 35
+A
+18 7
+#8814
+heartstone cuendillar shield~
+a heartstone shield~
+A Heartstone shield, engraved with twisting dragons was left here.~
+unknown~
+0
+armor A AJ
+6
+~
+~
+~
+~
+14 15 15 4 0
+50 40 5400 P
+A
+18 2
+A
+13 10
+A
+19 2
+A
+17 -5
+#8815
+heartstone plate breastplate~
+a heartstone breastplate~
+A beautiful engraved breastplate, made of heartstone, lies discarded here.~
+unknown~
+0
+armor A AD
+6
+~
+~
+~
+~
+14 14 13 4 0
+50 45 5600 P
+A
+18 3
+A
+17 -5
+A
+24 -1
+A
+19 3
+#8816
+ring sedai saidin angreal~
+a Grey angreal ring~
+A Grey ring, an angreal used by one of the 100 companions, lies here.~
+unknown~
+0
+armor AG AB
+6
+~
+~
+~
+~
+10 10 10 1 0
+45 2 2100 P
+A
+17 -5
+A
+19 2
+A
+12 20
+#8817
+jeweled lantern blue~
+a Jeweled blue-flame lantern~
+A glittering jeweled lantern lies here.~
+unknown~
+0
+light AB A
+6
+~
+~
+~
+~
+0 0 999 0 0
+50 10 1200 P
+A
+12 15
+A
+3 1
+A
+4 1
+#8818
+shocklance~
+a Shocklance~
+A Silvery shocklance buzzes and hums on the floor here.~
+unknown~
+0
+wand B AO
+6
+~
+~
+~
+~
+48 4 6 'lightning breath' 0
+50 5 1000 P
+#8819
+black angreal ring~
+a Black angreal ring~
+A Black angreal ring engraved with an eagle rests here~
+unknown~
+0
+armor AG AB
+6
+~
+~
+~
+~
+9 9 10 2 0
+49 1 1200 P
+A
+18 2
+A
+13 20
+#8820
+unmoving black cloak~
+an Unmoving black cloak~
+A pitch black cloak lies here in an unmoving pile.~
+unknown~
+0
+armor CEGJ AK
+6
+~
+~
+~
+~
+11 11 11 4 0
+45 35 2400 P
+A
+2 2
+A
+19 2
+#8821
+black sword~
+a Black sword~
+A black sword, shadowrought, lies here.~
+unknown~
+0
+weapon ABEJ AN
+6
+~
+~
+~
+~
+sword 10 4 slice 0
+45 25 2450 P
+A
+18 3
+A
+19 3
+#8822
+Avendesora leaf~
+an Avendesora leaf~
+A wide trefoil leaf lies on the ground.~
+unknown~
+0
+staff KL AO
+6
+~
+~
+~
+~
+30 3 3 'calm' 0
+30 3 0 P
+#8823
+black veil~
+a Black veil~
+A black veil worn by aiel lies here.~
+unknown~
+0
+armor 0 AE
+6
+~
+~
+~
+~
+9 7 8 0 0
+30 5 760 P
+A
+14 30
+A
+19 2
+A
+2 1
+#8824
+grey cadin'sor shirt~
+grey cadin'sor shirt~
+A grey shirt lies in a pile here.~
+unknown~
+0
+armor 0 AD
+6
+~
+~
+~
+~
+8 7 9 0 0
+40 10 450 P
+A
+14 10
+A
+17 -15
+A
+19 2
+#8825
+golden spear~
+a Golden aiel spear~
+A shining golden spear lies on the ground.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+exotic 4 11 pierce 0
+40 15 2300 P
+A
+13 35
+A
+18 4
+A
+19 5
+#8826
+cadin'sor grey breeches~
+grey cadin'sor breeches~
+Grey breeches lie here in a pile.~
+unknown~
+0
+armor 0 AF
+6
+~
+~
+~
+~
+9 10 10 0 0
+40 12 970 P
+A
+14 25
+A
+2 3
+#8827
+heavy iron key~
+a Heavy iron key~
+A large iron key gathers dust here.~
+unknown~
+0
+key 0 A
+6
+~
+~
+~
+~
+0 0 0 0 0
+35 6 0 P
+#8828
+wide axe~
+a Wide bladed axe~
+A weighted axe rests here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+axe 3 13 cleave 0
+35 14 400 P
+#8829
+chain sleeves~
+chain mail sleeves~
+Some chain mail sleeves lie here.~
+unknown~
+0
+armor 0 AI
+6
+~
+~
+~
+~
+10 10 10 0 0
+35 15 950 P
+#8830
+chain leggings~
+chain mail leggings~
+Some chain mail leggings lie here.~
+unknown~
+0
+armor 0 AF
+6
+~
+~
+~
+~
+10 10 10 0 0
+35 17 910 P
+#8831
+chain shirt~
+chain mail shirt~
+A chain mail shirt lies here.~
+unknown~
+0
+armor 0 AD
+6
+~
+~
+~
+~
+10 10 10 0 0
+0 30 890 P
+A
+5 1
+#8832
+chain gauntlets~
+chain mail gauntlets~
+A pair of chain mail gauntlets lie here.~
+unknown~
+0
+armor 0 AH
+6
+~
+~
+~
+~
+10 10 10 0 0
+35 10 1020 P
+A
+1 1
+#8833
+a Red spear~
+a Red aiel spear~
+A long red spear used by Aiel lies here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+exotic 13 2 pierce 0
+37 10 290 P
+A
+18 3
+A
+19 1
+#8834
+blood oathbreaker axe~
+oathbreaker's axe~
+A blood-red axe gleams in the light.~
+unknown~
+0
+weapon EJM AN
+6
+~
+~
+~
+~
+axe 11 4 cleave 0
+50 25 2100 P
+A
+13 30
+A
+18 5
+A
+19 5
+A
+1 2
+A
+4 -2
+#8835
+golden sun ring~
+a golden sun ring~
+A ring with the image of a golden sun rising.~
+unknown~
+0
+armor AEJ AB
+6
+~
+~
+~
+~
+6 5 5 2 0
+50 2 5600 P
+A
+19 1
+A
+18 2
+A
+13 25
+#8836
+Red eagle banner~
+a red eagle banner~
+A banner with a red eagle in flight, symbol of manetheren.~
+unknown~
+0
+armor A AO
+6
+~
+~
+~
+~
+10 11 11 0 0
+40 0 0 P
+A
+18 1
+A
+13 20
+#8837
+ice blue bracelet~
+ice blue bracelet~
+A shiny ice blue bracelet gleams here.~
+unknown~
+0
+armor A AM
+6
+~
+~
+~
+~
+9 9 9 0 0
+48 7 1345 P
+A
+19 2
+A
+3 2
+#8838
+black murky potion~
+a black murky potion~
+A black murky potion lies here.~
+unknown~
+0
+potion 0 A
+6
+~
+~
+~
+~
+45 'cure critical' 'invisibility' 'fly' ''
+48 3 600 P
+#8839
+twisted wooden wand~
+a twisted wooden wand~
+A long, twisted piece of wood lies here.~
+unknown~
+0
+wand A AO
+6
+~
+~
+~
+~
+50 6 5 'teleport' 0
+45 5 430 P
+#8840
+polished imperial sword~
+an imperial sword~
+A polished imperial sword was left here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+sword 3 10 slice 0
+40 15 720 P
+A
+19 2
+A
+18 2
+#8841
+red heron blade~
+a red heron-marked blade~
+A red blade, a heron marked into the pommel, lies here.~
+unknown~
+0
+weapon AM AN
+6
+~
+~
+~
+~
+sword 5 10 slice D
+50 20 9800 P
+A
+13 45
+A
+19 6
+A
+18 6
+#8842
+hawk talon pendant~
+a hawk talon pendant~
+A silver chain with a hawk's talon hanging from it lies here.~
+unknown~
+0
+armor AEJ AC
+6
+~
+~
+~
+~
+11 11 11 1 0
+50 8 1700 P
+A
+4 2
+A
+3 2
+A
+13 20
+A
+12 20
+#8843
+Sea green potion~
+a Sea green potion~
+A sea green potion lies here.~
+unknown~
+0
+potion 0 A
+6
+~
+~
+~
+~
+50 'bless' 'calm' '' ''
+40 5 0 P
+#8845
+Star Sapphire~
+a Star sapphire~
+A dust-covered sapphire lies here.~
+unknown~
+0
+treasure 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+50 2 7800 P
+A
+13 10
+#8898
+spear short~
+a short hafted stabbing spear~
+A short hafted Aiel spear is lying here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+exotic 20 3 stab F
+1 1 0 P
+A
+17 -25
+A
+14 50
+A
+2 3
+A
+19 10
+A
+18 6
+#8899
+shirt scale mail~
+scale mail~
+A scale mail shirt has been left here.~
+unknown~
+0
+armor ARU AD
+6
+~
+~
+~
+~
+15 15 15 15 0
+50 0 10000 P
+A
+1 10
+A
+3 10
+A
+4 10
+A
+2 10
+A
+5 10
+A
+18 10
+A
+19 10
+A
+17 -20
+#8900
+thingy~
+the thingy~
+The thingy is here~
+unknown~
+0
+weapon AG AN
+6
+~
+~
+~
+~
+dagger 100 100 sting -99
+1 1 10000 P
+A
+24 -5
+A
+17 -100
+A
+18 100
+A
+3 10
+A
+5 10
+A
+4 10
+A
+2 10
+A
+13 100
+A
+19 10
+A
+1 10
+A
+13 1000
+#0
+
+#ROOMS
+#8800
+~
+~
+0 0 0
+At the Top of the Valley~
+There is a slight breeze stirring the dry air at the edge of the valley
+of Rhuidean. The earth is cracked and broken, and a good foothold is hard
+to find among the stones littering the slopes.
+~
+0 0 10
+D1
+~
+~
+0 0 8801
+D3
+~
+~
+0 0 8802
+D5
+~
+~
+0 0 8803
+S
+#8801
+~
+~
+0 0 0
+Broken Hills~
+These rough hills stand just near the foot of the jagged mount
+Chaendaer.  Just to the west a grayish brown ridge rises marking the edge of
+the valley of Rhuidean.  Through the haze to the east, several small Aiel
+encampments can be seen.  
+
+~
+0 0 10
+D3
+~
+~
+0 0 8800
+S
+#8802
+~
+~
+0 0 0
+The Fallen Stones~
+A thick gray stone column angles out of the ground here, scoured by
+windblown sand it appears to have been here for quite some time.  Just
+beyond a rugged sharp-sided hill you can see a long, barren valley far
+below.  In the center of the valley a dense fogs hangs, mysteriously thick
+in the face of the arid air and scorching sun.  
+~
+0 0 10
+D1
+~
+~
+0 0 8800
+S
+#8803
+~
+~
+0 0 0
+Rocky Slope~
+The valley slopes steadily downward, spotted by jagged hills.  Below, in
+the center of the barren valley looms a dense fog, billowing like clouds
+despite the dry air and burning sun.  The faint outlines of massive
+structures can barely be made out in the fog.  
+~
+0 0 10
+D1
+~
+~
+0 0 8805
+D3
+~
+~
+0 0 8804
+D4
+~
+~
+0 0 8800
+D5
+~
+~
+0 0 8811
+S
+#8804
+~
+~
+0 0 0
+Rocky Slope~
+The slope levels out somewhat here to a grayish plateau, a reddish vein
+of iron threading its way through the rock underfoot.  Below, in the center
+of the barren valley looms a dense fog, billowing like clouds despite the
+dry air and burning sun.  The faint outlines of massive buildings can be
+made out through the mists.  
+~
+0 0 10
+D1
+~
+~
+0 0 8803
+D5
+~
+~
+0 0 8810
+S
+#8805
+~
+~
+0 0 0
+Gravel Slope~
+Small stones cover the slopes here, sliding slightly and rumbling
+underfoot with each step.  Below, in the center of the barren valley looms a
+dense fog, billowing like clouds despite the dry air and burning sun.  The
+faint outlines of massive structures can barely be made out in the mists.  
+~
+0 0 10
+D2
+~
+~
+0 0 8806
+D3
+~
+~
+0 0 8803
+D5
+~
+tunnel~
+1 0 8808
+S
+#8806
+~
+~
+0 0 0
+Steep Slope~
+A narrow ledge winds along the edge of the cliff here, down closer to the
+mists at the bottom of the valley.  The brown-gray clay crumbles slightly
+with each step, and quite some time passes before the fallen pebbles strike
+the earth below the cliff.  Below, in the center of the valley, you can make
+out the faint outlines of massive buildings shrouded in the mists.  
+~
+0 C 0
+D0
+~
+~
+0 0 8805
+D1
+~
+~
+0 0 8807
+D3
+~
+~
+0 0 8807
+D5
+~
+~
+0 0 8809
+S
+#8807
+~
+~
+0 0 0
+The Bottom of the Cliff~
+*THUD* A cloud of dust fills the air as you reach the bottom of the
+cliff.  Large, jagged slabs of stone jut up from the ground covering small
+caves leading into the cliff face.  
+~
+0 0 10
+D1
+A narrow passage into the cliff, covered largely by a slab of stone.
+~
+passage~
+1 0 8808
+S
+#8808
+~
+~
+0 0 0
+A Gara's Cave~
+The ceiling angles sharply in the dry cave, thick natural columns of
+quartz and limestone create thick shadows.  A small amount of light trickles
+in through unseen cracks in the ceiling, allowing you to see faint shapes
+moving in the darkness.   
+~
+0 A 10
+D3
+~
+passage~
+1 0 8807
+D4
+~
+tunnel~
+1 0 8805
+S
+#8809
+~
+~
+0 0 0
+In the Mists~
+You can not see your hands before your face as you walk through the swirling mists.
+~
+0 0 10
+D1
+~
+~
+0 0 8816
+D2
+~
+~
+0 0 8818
+D3
+~
+~
+0 0 8813
+D4
+~
+~
+0 0 8806
+S
+#8810
+~
+~
+0 0 0
+Edge of the Mists~
+The ground slopes down to the south, disappearing in billowing clouds of
+mist.  The mists swirl about your feet as you approach the bottom of the
+valley.  
+~
+0 C 10
+E
+ground~
+~
+D1
+~
+~
+0 0 8811
+D2
+~
+~
+0 0 8812
+D4
+~
+~
+0 0 8804
+S
+#8811
+~
+~
+0 0 0
+Edge of the Mists~
+The ground slopes down to the south, disappearing in billowing clouds of
+mist.  The mists swirl about your feet as you approach the bottom of the
+valley.  
+~
+0 C 10
+D3
+~
+~
+0 0 8810
+D4
+~
+~
+0 0 8803
+D5
+~
+~
+0 0 8813
+S
+#8812
+~
+~
+0 0 0
+In the Mists~
+The mists surrounding the ancient city swirl as if alive, twisting about
+your legs.  Yet they add no moisture, and the air still draws the water from
+your body.  Just to the south, the walls of Rhuidean can be seen faintly.  
+~
+0 0 10
+D0
+~
+~
+0 0 8810
+D1
+~
+~
+0 0 8813
+D3
+~
+~
+0 0 8814
+S
+#8813
+~
+~
+0 0 0
+In the Mists~
+The sky and earth are all solid white, you have the vague feeling of
+flying as you walk through the mists.  
+~
+0 0 10
+D1
+~
+~
+0 0 8809
+D2
+~
+~
+0 0 8817
+D3
+~
+~
+0 0 8812
+D4
+~
+~
+0 0 8811
+S
+#8814
+~
+~
+0 0 0
+Edge of the Mists~
+The mists surrounding the ancient city swirl as if alive, twisting about
+your legs.  Yet they add no moisture, and the air still draws the water from
+your body.  Just to the south, the walls of Rhuidean can be seen faintly.  
+~
+0 0 10
+D0
+~
+~
+0 0 8815
+D1
+~
+~
+0 0 8812
+S
+#8815
+~
+~
+0 0 0
+Edge of the Mists~
+The mists swirl about you feet, and tower far above your head to the
+south.  
+~
+0 0 10
+D2
+~
+~
+0 0 8814
+S
+#8816
+~
+~
+0 0 0
+In the Mists~
+You can not see your hands before your face as you walk through the
+swirling mists.  
+~
+0 0 0
+D2
+~
+~
+0 0 8819
+D3
+~
+~
+0 0 8809
+S
+#8817
+~
+~
+0 0 0
+In the Mists~
+The sky and ground are pure white, and you have the vague sense of
+floating as you wander through the mists.  
+~
+0 0 0
+D0
+~
+~
+0 0 8813
+D1
+~
+~
+0 0 8818
+S
+#8818
+~
+~
+0 0 0
+In the Mists~
+The sky and ground are pure white, and you have the vague sense of
+floating as you wander through the mists.  
+~
+0 0 0
+D0
+~
+~
+0 0 8809
+D1
+~
+~
+0 0 8819
+D3
+~
+~
+0 0 8817
+S
+#8819
+~
+~
+0 0 0
+In the Mists~
+The sky and ground are pure white, and you have the vague sense of
+floating as you wander through the mists.  
+~
+0 0 10
+D0
+~
+~
+0 0 8816
+D1
+~
+~
+0 0 8820
+D2
+~
+~
+0 0 8821
+D3
+~
+~
+0 0 8818
+S
+#8820
+~
+~
+0 0 0
+In the Mists~
+You are lost in the mists, only the marble walls of Rhuidean to the south gives you direction.
+~
+0 0 10
+D3
+~
+~
+0 0 8819
+S
+#8821
+~
+~
+0 0 0
+The Gateway to Rhuidean~
+The fog clears suddenly, and you step out into a peculiar shadowless
+light.  The mists make an enormous hollow dome hiding the sky, its bubbling
+inner surface glowing in a sharp pale blue.  Massive stones make up the grey
+marble archway which rises over your head and a wide, empty street leads to
+the south into the city proper.  
+~
+0 C 10
+D0
+~
+~
+0 0 8819
+D2
+~
+~
+0 0 8822
+S
+#8822
+~
+~
+0 0 0
+Wide Avenue~
+Huge buildings flank the sides of this wide street, odd flat-sided
+palaces of marble and crystal ascending hundreds of feet in steps or sheer
+walls.  Everything is on a massive scale, there is nothing small about
+Rhuidean.  However, for all its grandeur, the city has never been finished. 
+Towers to nowhere, open walls; colored glass makes images in some huge
+windows: serenely majestic men and women thirty feet tall or more, sunrises
+and starry night skies,...  Others gape emptily.  The pale, shadowless light
+falls on a city unfinished and long deserted.  
+~
+0 0 10
+D0
+~
+~
+0 0 8821
+D2
+~
+~
+0 0 8823
+S
+#8823
+~
+~
+0 0 0
+Wide Avenue~
+At the center of the street the heavy stone blocks give way to a wide
+strip of dry earth, as if trees once lined the center of the road.  To the
+east is the unfinished gateway of a sparkling blue crystal palace, smooth as
+glass.  To the south the road continues to a large square surrounding a dry
+fountain.  
+~
+0 C 10
+D0
+~
+~
+0 0 8822
+D1
+~
+~
+0 0 8825
+D2
+~
+~
+0 0 8824
+S
+#8824
+~
+~
+0 0 0
+Fountain Square~
+At the center of this square stands a elaborate granite and quartz
+fountain.  No water flows through the holes behind the head of the statue of
+a tall and serenely beautiful woman who stands, arms out-stretched at the
+center of the basin.  A strange, shifting wind rises as you enter the
+square...  
+~
+0 0 10
+D0
+~
+~
+0 0 8823
+D1
+~
+~
+0 0 8835
+D2
+~
+~
+0 0 8837
+D3
+~
+~
+0 0 8830
+S
+#8825
+~
+~
+0 0 0
+Gateway of the Crystal Palace~
+You enter the sparkling blue azurite gateway to a massive palace.  The
+archway rises high above your head.  It is, however, unfinished, and the
+sharp, pale light fills the courtyard to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 8826
+D3
+~
+~
+0 0 8823
+S
+#8826
+~
+~
+0 0 0
+Courtyard~
+This courtyard contains a beautiful fountain carved in green-black
+marble, surrounded by dry, lifeless earth that may have once been an
+elaborate garden.  The wall to the east is mostly unfinished and the
+swirling mists that mark the border of Rhuidean can be seen not far off.  A
+stairway can be made out to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 8827
+D1
+~
+~
+0 0 8820
+D3
+~
+~
+0 0 8825
+S
+#8827
+~
+~
+0 0 0
+Crystal Hall~
+This wide hall is dominated by a staircase upwards to the second floor
+The cieling of the second floor is missing, as are the walls on the landing
+atop the stairs.  For a brief moment you have the feeling of being watched. 
+~
+0 C 0
+D2
+~
+~
+0 0 8826
+D4
+~
+~
+0 0 8828
+S
+#8828
+~
+~
+0 0 0
+Landing~
+This landing has no ceiling or walls, save one; to the west a bronze
+doorway with the image of the tree of life is set into the blue crystal
+wall.  A wide staircase leads down towards the courtyard.  
+~
+0 0 0
+D3
+~
+door~
+1 0 8829
+D5
+~
+~
+0 0 8827
+S
+#8829
+~
+~
+0 0 0
+Throne Room in the Crystal Palace~
+The light coming from above is focused through the thick colored glass on
+the ceiling.  The pale, ghostly beam of light strikes a star-shaped azurite
+crystal behind the tall throne set into the floor.  The light scatters from
+the star, creating a radiant crown around the throne.  
+~
+0 0 0
+D1
+~
+door~
+1 0 8828
+S
+#8830
+~
+~
+0 0 0
+Fountain Avenue~
+This street is a good bit smaller than the main avenue, you feel dwarfed
+by the massive structures on both sides.  A beautiful fountain can be seen
+off to the east.  The pale, ghostly light casts no shadows.  
+~
+0 C 10
+D1
+~
+~
+0 0 8824
+D3
+~
+~
+0 0 8831
+S
+#8831
+~
+~
+0 0 0
+Fountain Avenue~
+An black, spiraled tower stands to the north of the road here.  The peak
+of the tower reaches high above the grand walls of the surrounding
+buildings.  The street continues east towards a square, and west to the edge
+of Rhuidean.  
+ 
+~
+0 0 10
+D0
+~
+~
+0 0 8833
+D1
+~
+~
+0 0 8830
+D3
+~
+~
+0 0 8832
+S
+#8832
+~
+~
+0 0 0
+Fountain Avenue~
+The street disappears into the mists to the west.  To the east, it
+continues into the city, past a shining black tower and a grand palace with
+tall, fluted columns.  
+~
+0 0 10
+D1
+~
+~
+0 0 8831
+D3
+~
+~
+0 0 8814
+S
+#8833
+~
+~
+0 0 0
+The Spiral Tower~
+You stand in the empty chamber at the bottom of the tower.  The walls are
+made of shiny black stone, and the room in entirely empty save for some
+bookshelves carved into the wall and a spiral staircase leading up. 
+Strangely, you hear a faint clanging from above.  
+~
+0 C 0
+D2
+~
+~
+0 0 8831
+D4
+~
+~
+0 0 8834
+S
+#8834
+~
+~
+0 0 0
+Top of Tower~
+The shiny black walls of this chamber are lined with empty bookshelves. 
+At the center of the room, carved from the same stone as the rest of the
+tower, is a black table.  The air is quite still, and a feeling of
+loneliness and emptiness fills the room.  
+~
+0 0 0
+D5
+~
+~
+0 0 8833
+S
+#8835
+~
+~
+0 0 0
+Fountain Avenue~
+This narrower street leads between more giant palaces and majestic
+towers.  To the west, a beautiful fountain can be seen.  The pale,
+shadowless light casts a ghostly glow.  
+~
+0 C 0
+D1
+~
+~
+0 0 8836
+D3
+~
+~
+0 0 8824
+S
+#8836
+~
+~
+0 0 0
+Fountain Avenue~
+The road disappears into the mist to the east.  The buildings in the area
+seem barely even started; a solid marble foundation rests to the south as
+smooth as glass.  
+~
+0 0 0
+D1
+~
+~
+0 0 8820
+D3
+~
+~
+0 0 8835
+S
+#8837
+~
+~
+0 0 0
+Wide Avenue~
+The wide avenue continues south towards the heart of Rhuidean.  The pale
+light and still air make these majestic palaces seem particularily lonely. 
+A beautiful fountain can be seen to the north, dry as the air is here.  
+~
+0 C 10
+D0
+~
+~
+0 0 8824
+D2
+~
+~
+0 0 8838
+S
+#8838
+~
+~
+0 0 0
+Wide Avenue~
+The wide avenue opens into the main square to the south.  The square is
+surrounded by the largest palaces yet, with fluted columns a hundred feet
+tall, arches spanning three hundred.  At the center of the square you can
+see a tree, taller even than the buildings of Rhuidean.  The pale light
+casts no shadows.  
+~
+0 0 10
+D0
+~
+~
+0 0 8837
+D2
+~
+~
+0 0 8839
+S
+#8839
+~
+~
+0 0 0
+North Great Plaza~
+The street ends suddenly in a great plaza, almost a mile across and
+surrounded by palaces of marble and crystal.  Just to the south stands a
+huge tree, impossibly green and healthy in the pale light of Rhuidean. 
+South and east of the tree stand what appear to be concentric rings of
+clear, glittering glass columns, thin as needles compared to their height,
+nearly as tall as the tree.  Scattered throughout the plaza are statues,
+spires, weapons, as well as any number of mysterious objects; Ter'angreal:
+some as small as a bee, some as large as a horse.  
+~
+0 C 10
+D0
+~
+~
+0 0 8838
+D1
+~
+~
+0 0 8840
+D2
+~
+~
+0 0 8843
+D3
+~
+~
+0 0 8841
+S
+#8840
+~
+~
+0 0 0
+Northeast Great Plaza~
+To the southwest stands a beautiful wide-leafed tree, dominating the
+center of the great plaza.  Directly south a winding path leads over the
+dusty white stones to a ring of thin sparkling columns.  The wide crystal
+and marble towers cast no shadows in the pale light of Rhuidean.  
+~
+0 0 10
+D1
+~
+~
+0 0 8848
+D2
+~
+~
+0 0 8844
+D3
+~
+~
+0 0 8839
+S
+#8841
+~
+~
+0 0 0
+Northwest Great Plaza~
+The corner of the plaza is flanked by two round marble towers, each with
+no apparent entrance.  The ground is scattered with objects of unknown
+design, covering much of the dusty white paving stones from view..  To the
+southeast can be seen a wide-leafed tree.  
+~
+0 0 10
+D1
+~
+~
+0 0 8839
+D2
+~
+~
+0 0 8842
+S
+#8842
+~
+~
+0 0 0
+West Great Plaza~
+A small path runs east from here, over the dusty white paving stones
+towards the wide-leafed tree dominating the center of the square. 
+Flat-sided grand marble palaces mark the west side, many unfinished with
+walls open to the pale light of Rhuidean.  
+~
+0 C 10
+D0
+~
+~
+0 0 8841
+D1
+~
+~
+0 0 8843
+D2
+~
+~
+0 0 8845
+S
+#8843
+~
+~
+0 0 0
+At the Tree of Life~
+As you approach the center of the plaza the leaves of the impossibly
+green tree come into view, trefoil leaves, the leaves of Avendesora; the
+tree of life.  You suddenly feel perfectly content, bothered by nothing. 
+You remember childhood stories of Ghoetam, sitting beneath Avendesora for 40
+years, and they no longer seem so unlikely.  You feel this would be the
+perfect place for a rest.  To the east then south a path leads to a ring of
+sparkling columns, thin and as tall as the tree itself.  
+~
+0 CK 0
+D0
+~
+~
+0 0 8839
+D1
+~
+~
+0 0 8844
+D2
+~
+~
+0 0 8846
+D3
+~
+~
+0 0 8842
+S
+#8844
+~
+~
+0 0 0
+East Great Plaza~
+A small path leads over the dusty white paving stones west to the great
+tree and south to a ring of columns.  The columns to the south glitter
+brilliantly in the pale light, each of them reaching a hundred feet into the
+air.  
+~
+0 0 10
+D0
+~
+~
+0 0 8840
+D2
+~
+~
+0 0 8847
+D3
+~
+~
+0 0 8843
+S
+#8845
+~
+~
+0 0 0
+Southwest Great Plaza~
+This corner of the plaza appears to be the sight of an explosion.  The
+white paving stone are blackened and small chunks lie scattered about with
+ter'angreal.  Mixed among the rubble, you can make out some skeletal bodies.
+The surrounding buildings appear unaffected, and are just as sparkling and
+grand as the rest of Rhuidean.  
+~
+0 0 0
+D0
+~
+~
+0 0 8842
+D1
+~
+~
+0 0 8846
+S
+#8846
+~
+~
+0 0 0
+South Great Plaza~
+You are now south of the great tree, a small path leads from here to the
+foot of the massive trunk.  Just to the east you see the outermost ring of
+sparkling columns, so tightly placed as to prevent passage in that
+direction.  
+~
+0 0 10
+D0
+~
+~
+0 0 8843
+D3
+~
+~
+0 0 8845
+S
+#8847
+~
+~
+0 0 0
+Outside the Stone Circle~
+You stand just outside the circle of glittering columns.  They are thin,
+tall as a tree, and closely spaced allowing no room to move between them;
+save through one small opening just to the south.  As you approach this
+entrance, you hear a steady humming and you feel a tingle rise up your
+spine.  
+~
+0 0 10
+D0
+~
+~
+0 0 8844
+D2
+~
+~
+0 0 8853
+S
+#8848
+~
+~
+0 0 0
+Star Shaped Chamber~
+You stand in the center of a star-shaped chamber, filled with thick
+columns, each deeply fluted with eight ridges, the sharp edges yellow and
+gleaming softly in the light.  They rise from the floor into the murky gloom
+far overhead where even the yellow stripes fade away.  The air has a musty
+smell, and your footprints make clear marks in the dust.  
+~
+0 C 0
+D1
+~
+~
+0 0 8849
+S
+#8849
+~
+~
+0 0 0
+Black Glass Corridor~
+The floors and bent walls of this corridor are black and like glass,
+though they feel like stone to the touch.  Mirror images of the star-shaped
+chamber can be seen in every direction.  
+~
+0 C 0
+D0
+~
+~
+0 0 8852
+D1
+~
+~
+0 0 8848
+D2
+~
+~
+0 0 8848
+D3
+~
+~
+0 0 8848
+S
+#8850
+~
+~
+0 0 0
+Black Glass Corridor~
+The floors and bent walls of this corridor are black and look like glass,
+though they feel like stone to the touch.  Mirror images of the star-shaped
+chamber can be seen in every direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 8848
+D1
+~
+~
+0 0 8848
+D2
+~
+~
+0 0 8851
+D3
+~
+~
+0 0 8848
+S
+#8851
+~
+~
+0 0 0
+Star Shaped Chamber~
+This white floored star-shaped chamber is clearly unlike the ones you
+have been in before.  There are no columns, only flat shiny black pedastals
+rising from the floor.  Glowing yellow strips run along the edges of the
+pedastal and the room.  You have the strong impression of being watched.  A
+five sided red doorway rests in an alcove in the southern wall.  
+~
+0 0 0
+D2
+~
+~
+1 4209 8840
+S
+#8852
+~
+~
+0 0 0
+Star Shaped Chamber~
+You stand in the center of a star-shaped chamber, filled with thick
+columns, each deeply fluted and gleaming softly in the light.  They rise
+from the floor into the murky gloom far overhead where even the yellow
+stripes fade away.  The air has a musty smell, and your footprints make
+clear marks in the dust.  
+~
+0 0 0
+D1
+~
+~
+0 0 8850
+S
+#8853
+~
+~
+0 0 0
+Lost in History~
+You find yourself in a room with dusty white hallways leading off in all
+directions, and wishing you had gotten the permission of the Aiel wise ones
+to enter Rhuidean.  The air is cooler here, though it does little to calm
+your head.  Time and space feel distorted, you cant be quite sure if the
+floor is solid.  
+~
+0 C 0
+D0
+~
+~
+0 0 8860
+D1
+~
+~
+0 0 8858
+D2
+~
+~
+0 0 8874
+D3
+~
+~
+0 0 8855
+D4
+~
+~
+0 0 8870
+D5
+~
+~
+0 0 8859
+S
+#8854
+~
+~
+0 0 0
+Lost in History: a Grave~
+You come upon a bare hill, one twisted tree crowning its top.  A slight
+breeze brings the smell of the sea.  A statue of a beautiful woman stands
+atop a gravestone, on which is carved the following: 
+"but if a living dance upon dead minds
+and being here imprisoned, tortured here
+love everywhere exploded maims and blinds
+(but surely does not forget, perish, sleep...
+-Who wields a poem huger than the grave?
+from Whom shall time no refuge keep
+though all the weird worlds must be opened?"
+(eec)
+Engraved beneath, in a script too fine to be anything but the one power,
+"Ilyena, ever and always the Dragon's heart"
+~
+0 J 4
+D0
+~
+~
+0 0 8853
+S
+#8855
+~
+~
+0 0 0
+Lost in History: The Time of Madness~
+The ground is blackened and broken, in the distance you can see a volcano
+spewing ash into the air.  The earth shakes every few seconds and the rubble
+littering the surrounding hills moves with it, occasionally falling into
+great chasms that open.  A fierce hot wind strikes your face, and you hear
+screams in the distance.  
+~
+0 C 10
+D0
+~
+~
+0 0 8855
+D2
+~
+~
+0 0 8857
+D3
+~
+~
+0 0 8855
+S
+#8856
+~
+~
+0 0 0
+Lost in History: Broken hills~
+These hills are lifeless, the grass and trees singed away leaving only
+glowing embers.  The air is smoky and hot.  The ground shakes violently
+every few minutes, causing your footing to slip.  
+~
+0 C 10
+D0
+~
+~
+0 0 8855
+D1
+~
+~
+0 0 8855
+D3
+~
+~
+0 0 8854
+S
+#8857
+~
+~
+0 0 0
+Lost in History: Broken City~
+You stand amongst the rubble and burning wreckage of a city.  The waves
+of the ocean have swallowed half of the streets, the rest burn brightly.  A
+foul stench of cooking flesh fills your nose, and screams of madness and
+suffering crowd the hot air.  
+~
+0 0 10
+D0
+~
+~
+0 0 8855
+D1
+~
+~
+0 0 8855
+D3
+~
+~
+0 0 8856
+S
+#8858
+~
+~
+0 0 0
+Lost in History: Hawking's Empire~
+You stand in a grassy plain, just outside an encampment of soldiers.  In
+the distance can be seen a town, and judging from the large white tower at
+its center, the town is Tar Valon.  Troops, bearing the crest of the golden
+hawk, move about quickly.  
+~
+0 C 10
+D1
+~
+~
+0 0 8859
+D2
+~
+~
+0 0 8867
+S
+#8859
+~
+~
+0 0 0
+Lost in History: The War of the Shadow~
+Rolling thick black clouds fill the sky, blocking out the sun entirely. 
+The air smells of death and fire, and many of the dark clouds rise from the
+ground itself.  You stand at the base of a mountain you can only assume is
+Shayol Ghul, future prison of the Dark One.  
+~
+0 C 5
+D2
+~
+~
+0 0 8861
+S
+#8860
+~
+~
+0 0 0
+Lost in History: the Aiel War~
+You stand on the slopes of the Spine of the world, looking down at the
+surrounding valleys.  Among the brush you occasionally glance a figure
+moving quickly, taller than a human, face covered in a black veil.  You can
+not get a good look at any of them individually, but you have the impression
+of great numbers.  This city of Cairhien can be seen in the distance, smoke
+rising from it.  
+~
+0 C 5
+D0
+~
+~
+0 0 8864
+S
+#8861
+~
+~
+0 0 0
+Lost in History: the Slopes of Shayol Ghul~
+You stand on the slopes of Shayol Ghul, the earth is blasted by fire and
+death.  Through the smoky black air you can see the movements of trollocs
+and men.  The ground shudders occasionally, as if the mountain is not quite
+stable.  
+~
+0 0 5
+D0
+~
+~
+0 0 8859
+D1
+~
+~
+0 0 8862
+D2
+~
+~
+0 0 8859
+D3
+~
+~
+0 0 8862
+S
+#8862
+~
+~
+0 0 0
+Lost in History: The Slopes of Shayol Ghul~
+The blasted slopes of Shayol Ghul continue up, you can see bright flashes
+from the summit.  Strange winged creatures fly through the blackened air,
+and howls can be heard as the prison begins to close on the dark one.  
+~
+0 0 5
+D0
+~
+~
+0 0 8863
+D1
+~
+~
+0 0 8859
+D2
+~
+~
+0 0 8861
+D3
+~
+~
+0 0 8861
+S
+#8863
+~
+~
+0 0 0
+Lost in History: At the Seals~
+Not so far above you towers of spark and flame fly high into the air as
+the gates to the dark ones prison begin to close.  Fighting rages all about,
+and the figures are masked by clouds of fine ash which fall about you.  
+~
+0 0 5
+D1
+~
+~
+0 0 8853
+S
+#8864
+~
+~
+0 0 0
+Lost in History: At the Foot of the Spine~
+The air is warmer in the foothills at the base of the mountains.  The
+sound of war drums echos through the air, coming from the city of Cairhien
+to the northeast.  A few thin trails of smoke rise from within the city.  
+~
+0 C 4
+D1
+~
+~
+0 0 8865
+D2
+~
+~
+0 0 8860
+S
+#8865
+~
+~
+0 0 0
+Lost in History: Outside Cairhien~
+The gates of Cairhien have yet to fall, and Aiel and Cairhien soldiers
+fight all along the wall and in front of the gate.  The cries of battle and
+suffering rise from within the city, fires have spread through much of the
+northern half.  In several places, the walls themselves have begun to fail,
+and Aiel pour into the city through the breach.  
+~
+0 0 1
+D0
+~
+gate~
+1 4227 8866
+D3
+~
+~
+0 0 8864
+S
+#8866
+~
+~
+0 0 0
+Lost in History: the Heart of Cairhien~
+The central courtyard of the square is filled with the King's Guards,
+looking scared and formed in tight ranks.  At the center of the square rests
+the reason for the war, a stump, the remains of the tree that was
+Avendoraldera.  Given by the Aiel as a gift to Cairhien centuries before,
+cut down by King Laman to make a throne.  
+~
+0 0 1
+D2
+~
+gate~
+1 0 8865
+D3
+~
+~
+0 0 8853
+S
+#8867
+~
+~
+0 0 0
+Lost in History: The Siege of Tar Valon~
+You stand outside the walls of Tar Valon.  Artur Hawking's soldiers
+surround the city, blocking all traffic in and out.  The result of the
+Amyrlin, Bonwhin's, attempt to control Artur, emporer.  The soldiers appear
+fairly relaxed, and dont look particularly concerned with the sedai in the
+tower.  
+~
+0 0 10
+D0
+~
+~
+0 0 8858
+D2
+~
+~
+0 0 8868
+D3
+~
+~
+0 0 8859
+S
+#8868
+~
+~
+0 0 0
+Lost in History: an Imperial Camp~
+You stand among the tents of the officers in Hawking's army.  Soldiers
+move about busily, as well as servants carrying food to the tents.  An
+espically large tent can be seen just to your west, golden hawk banners
+waving high above.  
+~
+0 0 10
+D0
+~
+~
+0 0 8867
+D3
+~
+door~
+1 0 8869
+S
+#8869
+~
+~
+0 0 0
+The Abode of the Hawkwing~
+This tent is quite modestly decorating, particularily considering its
+occupant.  The walls and tables are covered with maps of the realm.  At the
+far end, a oval table with several plush chairs appears to be set for a
+meeting of some sort.  Also, i a glass rack off to the side, are the flags
+of each nation and city captured by Artur...  Quite a few.  
+~
+0 J 10
+D0
+~
+~
+0 0 8853
+D1
+~
+door~
+1 0 8868
+S
+#8870
+~
+~
+0 0 0
+Lost in History: The Trolloc Wars~
+You stand in a wasteland, perhaps once a lush field, perhaps not so long
+ago.  In the distance in every direction you see smoke rising from burning
+towns and villages.  Packs of trollocs can also be seen, some moving
+quickly, some gathered around ...  Eating.  
+~
+0 0 10
+D1
+~
+~
+0 0 8871
+S
+#8871
+~
+~
+0 0 0
+Lost in History:The Blasted Lands~
+This clearly was a forest, the burned and fallen trunks of the tree lie
+scattered.  Smoke twirls up, and not far off you see the remains of a
+village.  The houses are burned to the ground and a pile of bite-marked
+bones lies in what once was the village square.  
+~
+0 0 10
+D0
+~
+~
+0 0 8872
+D3
+~
+~
+0 0 8870
+S
+#8872
+~
+~
+0 0 0
+Lost in History: a Battlefield~
+Clearly a battle recently took place here, bodies dot the fields.  Many
+of them are trollocs, or occasionally the still twisting and kicking body of
+a fade...  But more, far more, are human; men, women, and children
+overwhelmed by the invaders.  
+~
+0 C 10
+D0
+~
+~
+0 0 8873
+D2
+~
+~
+0 0 8871
+S
+#8873
+~
+~
+0 0 0
+Lost in History: Manetheren's Last Stand~
+You see, in the distance, a number of people fleeing towards the south. 
+They seem to be escaping, the trollocs have their attention elsewhere.  A
+small circle of men, bloody and tired, have gathered to make their last
+stand, to allow the others to escape.  The trollocs begin to surround them
+in overwhelming numbers.  
+~
+0 0 10
+D1
+~
+~
+0 0 8853
+D2
+~
+~
+0 0 8872
+S
+#8874
+~
+~
+0 0 0
+The Path of the Aiel: The Jenn~
+You stand once again in the central square of Rhuidean, only now the
+city is just begun.  Jenn Aiel, the true Aiel, move about the streets. 
+Dermon, an aging Jenn, is speaking to a group of spear-wielding Aiel,
+"Whoever will lead among you must come to Rhuidean and learn where we came
+from, and why you do not carry swords.  Who cannot learn, will not live."  
+~
+0 0 1
+D2
+~
+~
+0 0 8875
+S
+#8875
+~
+~
+0 0 0
+The Path of the Aiel: The Way and the Spear~
+Two young Aiel, unarmed, stand near a campfire, Lewin and Maigran.  Both
+of them have clothes spattered in blood, and Maigran speaks shyly to an old
+Aiel by the fire.  "The bad men came to hurt us...  And...  Lewin, he came
+and killed them."  Adan, rises in pain and rage and screams at Lewin,
+"You...  Killed?  What of the covenant?  We harm no one!  No one!"  Adan
+cuts Lewin off before he can speak again "I had a son once, with a face like
+that, i do not wish to see it on a killer.  Leave us!"  
+ 
+Lewin, left alone as the others walk away, screaming at the night,
+"I am still Aiel" The wind rising, blowing dust towards him he veils his face,
+"I am Aiel!"
+~
+0 0 3
+D2
+~
+~
+0 0 8876
+S
+#8876
+~
+~
+0 0 0
+The path of the Aiel: The Song~
+You stand in a city unlike any you have ever seen.  Huge metallic wasps,
+armored chariots, buzz about the area.  A group of heavily armed Ogier sit
+atop one of the chariots.  Gathered in the center of the square are two
+concentric circles, one of Ogier, one of Aiel.  The circles face the fields,
+and they begin to sing.  The song grows and fills the air, the fallow field
+sprouts into life.  As the song fades from the air, you notice the field is
+full of healthy stalks.  
+~
+0 0 2
+D2
+~
+~
+0 0 8844
+S
+#0
+
+#RESETS
+D 0 8805   5    1	* Gravel Slope [down]
+D 0 8807   1    1	* The Bottom of the Cliff [east]
+D 0 8808   3    1	* A Gara's Cave [west]
+D 0 8808   4    1	* A Gara's Cave [up]
+D 0 8828   3    1	* Landing [west]
+D 0 8829   1    1	* Throne Room in the Crystal Palace [east]
+D 0 8851   2    2	* Star Shaped Chamber [south]
+D 0 8865   0    2	* Lost in History: Outside Cairhien [north]
+D 0 8866   2    2	* Lost in History: the Heart of Cairhien [south]
+D 0 8868   3    1	* Lost in History: an Imperial Camp [west]
+D 0 8869   1    1	* The Abode of the Hawkwing [east]
+M 0 8800   1 8804  1	* A yellow striped gara
+M 0 8800   1 8808  1	* A yellow striped gara
+O 0 8845   0 8808 -1	* A star sapphire at A Gara's Cave
+M 0 8803   1 8812  1	* A mist spirit
+M 0 8803   1 8813  1	* A mist spirit
+M 0 8803   1 8816  1	* A mist spirit
+M 0 8803   1 8817  1	* A mist spirit
+M 0 8803   1 8817  1	* A mist spirit
+M 0 8803   1 8818  1	* A mist spirit
+M 0 8803   1 8820  1	* A mist spirit
+M 0 8801   1 8824  1	* A shadow man
+E 0 8802   -1   17	* item to A shadow man
+M 0 8802   1 8829  1	* A pulsing azure crystal
+E 0 8801   -1   17	* item to A pulsing azure crystal
+M 0 8804   1 8834  1	* A builder
+E 0 8803   -1   16	* item to A builder
+O 0 8805   0 8840 -1	* A twisted gateway at Northeast Great Plaza
+M 0 8805   1 8841  1	* A ter'angreal wolf
+O 0 8822   0 8843 -1	* An avendesora leaf at At the Tree of Life
+O 0 8800   0 8845 -1	* Legbone at Southwest Great Plaza
+O 0 8800   0 8845 -1	* Legbone at Southwest Great Plaza
+O 0 8804   0 8846 -1	* A figurine of a woman at South Great Plaza
+M 0 8806   1 8848  1	* An eelfinn guide
+E 0 8806   -1    7	* item to An eelfinn guide
+M 0 8807   1 8851  1	* An eelfinn judge
+M 0 8808   1 8851  1	* An eelfinn priest
+M 0 8809   1 8851  1	* An eelfinn high justice
+E 0 8807   -1   12	* item to An eelfinn high justice
+E 0 8808   -1   16	* item to An eelfinn high justice
+G 0 8809 -1		* A strange reddish square key to an eelfinn high justice
+E 0 8810   -1    3	* item to An eelfinn high justice
+E 0 8811   -1   16	* item to An eelfinn high justice
+O 0 8812   0 8853 -1	* A frozen aiel at Lost in History
+O 0 8812   0 8853 -1	* A frozen aiel at Lost in History
+O 0 8812   0 8853 -1	* A frozen aiel at Lost in History
+M 0 8810   1 8854  1	* Lews therin kinslayer
+E 0 8813   -1   16	* item to Lews therin kinslayer
+E 0 8814   -1   11	* item to Lews therin kinslayer
+E 0 8815   -1    5	* item to Lews therin kinslayer
+M 0 8811   1 8857  1	* A male sedai
+E 0 8817   -1    0	* item to A male sedai
+E 0 8816   -1    2	* item to A male sedai
+M 0 8814   1 8860  1	* An aiel chief
+E 0 8823   -1    6	* item to An aiel chief
+E 0 8826   -1    7	* item to An aiel chief
+E 0 8824   -1    5	* item to An aiel chief
+E 0 8825   -1   16	* item to An aiel chief
+M 0 8812   1 8861  1	* A male sedai companion
+E 0 8818   -1   17	* item to A male sedai companion
+E 0 8819   -1    2	* item to A male sedai companion
+G 0 8843 -1		* A sea green potion to a Male sedai companion
+M 0 8813   1 8862  1	* A myrddraal
+E 0 8820   -1   12	* item to A myrddraal
+E 0 8821   -1   16	* item to A myrddraal
+M 0 8815   1 8865  1	* Laman's royal guard
+G 0 8827 -1		* A heavy iron key to Laman's royal guard
+E 0 8828   -1   16	* item to Laman's royal guard
+E 0 8829   -1   10	* item to Laman's royal guard
+E 0 8830   -1    7	* item to Laman's royal guard
+E 0 8831   -1    5	* item to Laman's royal guard
+E 0 8832   -1    9	* item to Laman's royal guard
+M 0 8816   1 8865  1	* An aiel warrior
+E 0 8823   -1    6	* item to An aiel warrior
+E 0 8824   -1    5	* item to An aiel warrior
+E 0 8826   -1    7	* item to An aiel warrior
+E 0 8833   -1   16	* item to An aiel warrior
+M 0 8817   1 8866  1	* King laman
+E 0 8834   -1   16	* item to King laman
+E 0 8835   -1    2	* item to King laman
+M 0 8821   1 8868  1	* An imperial guard
+E 0 8831   -1    5	* item to An imperial guard
+E 0 8840   -1   16	* item to An imperial guard
+M 0 8822   1 8869  1	* Artur hawkwing
+E 0 8841   -1   16	* item to Artur hawkwing
+E 0 8842   -1    3	* item to Artur hawkwing
+M 0 8818   1 8870  1	* A trolloc
+M 0 8819   1 8873  1	* A dreadlord
+E 0 8839   -1   17	* item to A dreadlord
+G 0 8838 -1		* A black murky potion to a dreadlord
+E 0 8837   -1   15	* item to A dreadlord
+M 0 8820   1 8873  1	* A manetheren soldier
+E 0 8836   -1   17	* item to A manetheren soldier
+M 0 8818   1 8873  1	* A trolloc
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 8800 spec_poison		* a yellow striped gara
+M 8802 spec_breath_lightning		* a pulsing azure crystal
+M 8804 spec_cast_cleric		* a builder
+M 8808 spec_cast_cleric		* an eelfinn priest
+M 8809 spec_cast_mage		* an eelfinn high justice
+M 8810 spec_breath_any		* Lews Therin Kinslayer
+M 8811 spec_breath_gas		* a male sedai
+M 8812 spec_cast_adept		* a Male sedai companion
+M 8817 spec_breath_gas		* King Laman
+M 8819 spec_cast_mage		* a dreadlord
+M 8822 spec_cast_mage		* Artur Hawkwing
+S
+
+#$

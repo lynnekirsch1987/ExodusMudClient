@@ -1,0 +1,97 @@
+* File: necrolich.scr
+* Mob: Necromancer as part of lich remort quest(7289)
+* Creator: Minax
+* Last Modified: Tuesday, January 20, 2004
+
+#TRIGGER give
+Type 5
+Sc
+mfunc %give-from% %name% name
+mfunc %give-from% %level% level
+mfunc %give-from% %class% class
+ofunc %give-arg% %ovnum% vnum
+ofunc %give-arg% %objname% name
+if ( %level% < 90 )
+  tell %name% Come back later when you have more experience.
+  drop %objname%
+  halt once~
+Sc
+if ( %ovnum% != 7280 )
+  say I have no use for this.
+  drop %objname%
+  halt once~
+Sc
+if ( %ovnum% == 7280 )
+  emote examines the gem carefully.
+  sigh
+  say Are you sure you wish to proceed with this?
+  pecho %give-from% `oSay `iyes`o if you wish to proceed.``
+  cmd set char self mood 8
+  halt once~
+End
+
+#TRIGGER step1
+Type 99
+Sc
+if (%step1-from% cmp %give-from%)
+  say Do you understand what you are about to become?
+  pecho %give-from% `oSay `iI understand`o if you wish to proceed.``
+  cmd set char necro mood 7
+  halt once~
+End
+
+#TRIGGER step2
+Type 99
+Sc
+if (%step2-from% cmp %give-from%)
+  say This is your last chance. If I continue, the results will be irreversible.
+  say Do you want me to continue?
+  pecho %give-from% `oSay `icontinue`o if you wish to proceed.``
+  cmd set char necro mood 6
+  halt once~
+End
+
+#TRIGGER makenecro
+Type 99
+Sc
+if (%makenecro-from% !cmp %give-from%)
+  halt once~
+Sc
+  pecho %give-from% The necromancer beings chanting and you feel your muscles freeze.
+  cmd freeze %give-from%
+  emote places the gem in the palm of his hand and begins an arcane chant.
+  wait 2~
+Sc
+  cmd trecho %give-from% As the necromancer chants louder, blue flames apear around him and %give-from%.
+  cmd pecho %give-from% As the necromancer chants louder, blue flames appear around him and you.
+  wait 2~
+Sc
+  cmd zecho The ground trembles and dirt rains down from the tunnel roof.
+  wait 2~
+Sc
+  say By all that is unholy, I forsake %give-from% and curse %give-from% to eternal damnation.
+  wait 2~
+Sc
+  cmd echo The red gem spins wildly and darts around the room chaotically!
+  wait 2~
+Sc
+  trecho %give-from% As the necromancer finishes his chant, the gem flies like an arrow into %give-from%'s chest.
+  pecho %give-from% As the necromancer finishes his chant, the gem flies like an arrow into your chest.
+  wait 2~
+Sc
+  trecho %give-from% %give-from% screams in agony as flesh shrinks and rots away.
+  pecho %give-from% You scream in agony as your flesh shrinks and rots away.
+  wait 1~
+Sc
+  trecho %give-from% %give-from% slumps to the floor.
+  pecho %give-from% You slump to the floor.
+  cmd makelich %give-from%
+  cmd unfreeze %give-from%
+  say Rise, %give-from%.  You are now of the undead.  You are forever forsaken by all that is good and just.
+  say The powers you wield are in the service of evil.  The life you knew before is over.
+  say You shall find only fear and violence if you dare to enter civilized society.
+  say Those of your kind may hone their abilities within the catacombs east of this room.
+  halt once~
+End
+
+#END

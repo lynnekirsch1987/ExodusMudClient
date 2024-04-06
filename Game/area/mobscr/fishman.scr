@@ -1,0 +1,40 @@
+* File: fishman.scr
+* Mob: Fisherman man(11550)
+
+#TRIGGER fish1
+Type 3
+Sc
+wfunc %rndnum% random 0 4
+getch %name%
+if ( %name% cmp "0" )
+   halt once~
+Sc
+if ( %rndnum% == 0 )
+   AT 1 load obj 11551
+   emote reels in his line, and pulls a fish out of the water.
+   say Here you go, buddy.
+   give trout %name%
+   halt once~
+Sc
+   eat trout
+   eat trout
+   eat trout
+if ( %rndnum% == 1 )
+   say The blue-tongued lizards make good bait!
+halt once~
+
+End
+
+#END
+
+
+
+
+
+
+
+
+
+
+
+

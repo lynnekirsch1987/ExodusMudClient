@@ -1,0 +1,67 @@
+* Baxan in thesden 4399 *
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %class% class
+mfunc %enter-from% %name% name
+wait 2~
+Sc
+if ( %class% != 5 ) 
+   emote bows with a grand flourish.
+   say Greetings wondrous beings! I shall astonish you with my repertoire of amazing skills.
+   halt once~
+Sc
+   shake %name%
+   emote exclaims, `a'`kAlways so joyous to encounter another dedicated to the art of entertaining!`a'``
+~
+End
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 4
+mfunc %cmb-from% %name% name
+if (%rndnum% == 0)
+   smote With amazing speed and accuracy, Baxan's knife finds in you a tender place.
+   halt once~
+Sc
+if (%rndnum% == 1)
+   emote laughs merrily as he deftly dodges your attack.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 3
+if ( %rndnum% == 0 )
+   emote does a quick handspring, his feet barely missing the tip of your nose.
+   halt once~
+Sc
+getch %name%  
+mfunc %name% %sex% sex
+if ( %rndnum% == 1 )
+   emote deftly pulls three knives from under his hat and juggles them with amazing accuracy.
+   wink %name%
+   halt once~
+Sc 
+if ( %rndnum% == 2 ) && ( %sex% == 2)
+  say You are so beautiful my lady, I cannot resist...
+  rose %name%
+  emote smiles, a mischievious twinkle in his eye.
+  halt once~
+End
+
+#END
+
+
+
+
+
+
+
+
+
+
+

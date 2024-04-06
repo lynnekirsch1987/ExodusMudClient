@@ -1,0 +1,60 @@
+* File: Drow3.scr
+* Mob: Drow Scout (mob 5125)
+* NOTE: This is part of a larger Thesden Invasion event
+
+#TRIGGER tick
+Type 3
+Sc
+  walkto 4056
+wfunc %rnd% random 0 5
+if (%rnd% == 1)
+    cmd yell Attention citizens!
+    cmd yell Thesden is now under the occupation of the Drow army led by General Shaladar.
+    cmd yell We demand that you submit to our authority and you will not be killed.
+    cmd yell You are all now servants of the Drow empire.
+    halt once~ 
+Sc
+if (%rnd% == 2)
+    cmd yell Attention citizens!
+    cmd yell King Athanmere is a scoundrel!  His words are lies!
+    cmd yell Bow down before your new masters, the Drow Empire!
+    cmd yell Serve your new masters well and you will be rewarded!
+    halt once~ 
+Sc
+if (%rnd% == 3)
+    cmd yell Attention citizens!
+    cmd yell Your town is weak.  Give up now!
+    cmd yell If you attack us, you will be killed.
+    cmd yell Our army is great and powerful.  You cannot defeat us.
+    halt once~ 
+End
+
+#TRIGGER start
+Type 8
+Sc
+chobj self %shield% 12234
+if (%start-arg% cmp "start" && %shield% == 0)
+  cmd load obj 12233
+  cmd wear breast
+  cmd load obj 12234
+  cmd wear shield
+  cmd load obj 12235
+  cmd wield longsword
+  halt triggers~
+End
+
+#TRIGGER enters
+Type 10
+Sc
+  walkto 4056
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+  walkto 4056
+  halt once~
+End
+
+#END

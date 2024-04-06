@@ -1,0 +1,37 @@
+* zoo patron
+* mob vnum 4214
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %name% name
+   pecho %name% A zoo patron trails you slowly, trying to see if you've found a new exhibit.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 4
+getch %name%
+if ( %rndnum% == 0 )
+   echo You can barely contain your composure as you observe a zoo patron contorting its face into gruesome mockery of the simians in the cages before you.
+   halt once~
+Sc
+if ( %rndnum% == 2 ) 
+  emote peers intently into the cage, apparently hoping to gain insight into universal truths from these primates' quotidian habitudes.
+  halt once~
+End
+
+#END
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+* File: Azaran.scr
+* Mob: Azaran (4238)
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 14
+if (%rndnum% == 13)
+  getpc %target%
+  msign %target% align -1000
+  pecho %target% `aYou feel the shock of pure evil run through your body.``
+halt once~
+End
+
+#END
+

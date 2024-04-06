@@ -1,0 +1,54 @@
+* Mob: Asrac (4123)
+* Room: 4218
+
+
+#TRIGGER ahoy
+Type 10
+Sc 
+mfunc %ahoy-from% %name% name
+mfunc %ahoy-from% %matey% class
+wfunc %rnd% random 0 4
+if ( %rnd% != 3 )
+   halt once~
+Sc
+ tip %name%
+ cmd sigh
+ if ( %matey% == 0 )
+ emote whispers something to himself about 'another cursed mage'...
+ say If I can ... help you ... with anything, just type list to get my attention.
+ halt once~
+Sc
+if ( %matey% == 1 )
+ emote whispers something to himself about 'another cursed cleric'...
+ say If I can ... help you ... with anything, just type list to get my attention.
+ halt once~
+Sc
+if ( %matey% == 2 )
+ emote whispers something to himself about 'another cursed thief'...
+ say If I can ... help you ... with anything, just type list to get my attention.
+ halt once~
+Sc
+if ( %matey% == 3 )
+ emote whispers something to himself about 'another cursed warrior'...
+ say If I can ... help you ... with anything, just type list to get my attention.
+ halt once~
+Sc
+if ( %matey% == 4 )
+ emote whispers something to himself about 'another cursed ranger'...
+ say If I can ... help you ... with anything, just type list to get my attention.
+ halt once~
+Sc
+if ( %matey% == 5 )
+ emote whispers something to himself about 'another cursed bard'...
+ say If I can ... help you ... with anything, just type list to get my attention.
+ halt once~
+Sc
+if ( %matey% == 6 )
+ emote whispers something to himself about 'another cursed paladin'...
+ say If I can ... help you ... with anything, just type list to get my attention.
+ halt once~
+End
+
+#END
+
+

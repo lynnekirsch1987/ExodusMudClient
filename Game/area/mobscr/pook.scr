@@ -1,0 +1,192 @@
+#TRIGGER born  
+Type 4  
+Sc  
+  let %haspack% == 0  
+  let %courier% == 0  
+  halt once~  
+End  
+  
+#TRIGGER cmb  
+Type 2  
+Sc  
+wfunc %rndnum% random 0 4  
+mfunc %cmb-from% %name% name  
+if (%rndnum% == 0)  
+   stand  
+   cmd dirt  
+   halt once~  
+Sc  
+if (%rndnum% == 1)  
+   stand  
+   CMD at 1 load obj 4145  
+   throw stiletto %name%  
+   halt once~  
+Sc  
+if (%rndnum% == 2)  
+   emote easily dodges your clumsy attacks.  
+   halt once~  
+Sc  
+if (%rndnum% == 3)  
+   say Is that the best you can do?  
+   halt once~  
+End  
+  
+#TRIGGER give  
+Type 5  
+Sc  
+mfunc %give-from% %name% name  
+ofunc %give-arg% %what% vnum  
+ofunc %give-arg% %objname% name  
+if ( %what% == 20417 )  
+  say You have killed Jericka?  
+  say Or is this some cheap fake head from Heads 'r' Us?  
+  emote chuckles at his own joke.  
+  say One less jealous female to handle, here is your reward  
+  cmd set obj jericka timer 1  
+  cmd at 1 drop head  
+  cmd at 1 load obj 4353  
+  give gold %name%  
+  halt once~
+Sc  
+if ( %what% == 4345 )  
+  cmd set obj courier timer 1  
+  cmd at 1 drop head  
+  say If you betray The Hand, the punishment is death.  
+  emote holds out`d the head of the courier`` at an arms length.  
+  say To eat or not to eat, that is the question.  
+  say What do you say, Ransak?  
+  wait 3~  
+Sc  
+if ( %what% == 4345 )  
+  cmd echo Ransak mechanically grunts`a '`kE A T`a'``  
+  wait 2~  
+Sc  
+if ( %what% == 4345 )  
+  say Very well, here you go  
+  emote throws`d the head of the courier`` to Ransak.  
+  cmd echo Ransak catches the head in a gigantic fist and proceeds to eat the head.  
+  cmd echo The sounds of bone snapping and slurping of fluids are heard.  
+  wait 2~  
+Sc  
+if ( %what% == 4345 )  
+  cmd echo Crunching sounds are heard as Ransak crushes the head between his massive teeth.  
+  grin %name%  
+  say Lovely pet I have, don't you agree?  
+  wait 7~  
+Sc  
+if ( %what% == 4345 )  
+  cmd echo Ransak burps loudly.  
+  halt once~  
+Sc  
+if ( %haspack% == 1 )  
+  say My new courier %courier% already returned the package.  
+  emote looks inside the package and discovers the gems.  
+  say But.. I think I will keep this, just in case.  
+  set obj package timer 1  
+  cmd at 1 drop package  
+  halt once~  
+Sc  
+if ( %what% == 4344 )  
+  let %haspack% == 1  
+  let %courier% == %name%  
+  cmd noble %name% `aCourier 
+  say Thanks for delivering the package  
+  say I knew the minute I laid my eyes on you that you were made of the right stuff for being a member of The Hand  
+  say Work hard and it will happen one day  
+  wait 2~ 
+Sc  
+if ( %what% == 4344 )  
+  say Oh, I almost forgot your reward.  
+  say Here you go  
+  cmd at 1 load obj 4352  
+  give ceramic %name%  
+  drop ceramic  
+  halt once~  
+Sc  
+  say If I wanted that, I would steal it from you.  
+  grin %name%  
+  give %objname% %name%  
+  drop %objname%  
+  halt once~  
+End  
+  
+#TRIGGER pooktalk  
+Type 3  
+Sc  
+wfunc %rndnum% random 0 6 
+getpc %victim%  
+if ( %rndnum% == 0 )  
+   say Where IS that courier?  
+   say Did he run off with the package he was to deliver?  
+   say In that case, he has to die  
+   emote nods to himself.  
+   halt once~  
+Sc  
+if ( %rndnum% == 1 )  
+   emote weighs a throwing-dagger in his hand.  
+   say This has gone too far  
+   say I must have Jericka killed  
+   halt once~  
+Sc  
+if ( %rndnum% == 2 )  
+   cmd steal 1. %victim%  
+   cmd steal gold %victim%  
+   halt once~  
+Sc  
+if ( %rndnum% == 3 )  
+   say Greetings %victim%  
+   say How I know your name?  
+   say Oh, I have my sources  
+   halt once~  
+Sc  
+if ( %rndnum% == 4 )  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  halt once~  
+Sc  
+if ( %rndnum% == 5 )  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  north  
+  east  
+  south  
+  halt once~  
+End  
+  
+#TRIGGER enter   
+Type 10   
+Sc   
+mfunc %enter-from% %target% name   
+chobj %enter-from% %hasit% 4349   
+if ( %hasit% == 1 )   
+   say How did you get a hold of my boots?  
+   say Die traitor!  
+   cmd backstab %target%  
+   cmd kill %target%  
+   halt once~  
+End  
+  
+#END

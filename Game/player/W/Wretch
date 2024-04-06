@@ -1,0 +1,753 @@
+#PLAYER
+Name Wretch~
+Id   928547824
+LogF 1050873240
+LogO 1050873240
+Vers 7
+Prom <hp:%h/%H ma:%m/%M s:%s g:%g xp:%X>%S{%r} ~
+Race syvin~
+Sex  1
+Cla  1
+Levl 53
+PBKill 3
+MBKill 1
+PHKill 6
+MHKill 837
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 365511
+Bank_Gold 500
+Bank_Silv 20000
+Email cyberdumy@hotmail.com~
+Souls 0
+Host 156.26.5.139~
+Not  1010387742 952722511 0 956546495 951955933 1010366696 0
+Scro 22
+Room 4135
+HMV  502 502 347 593 354 354
+Hand 1
+Gold 14
+Silv 30
+Exp  344909
+Act  CDEFGH
+AfBy DHTZ
+Comm LMNOS
+Pos  8
+Prac 35
+Save  -8
+Alig  1000
+Hit   21
+Dam   15
+ACs 7 7 7 16
+Wimp  56
+Attr 18 17 21 17 20 8
+AMod 2 3 0 9 0 1
+Pass WrVJs4UjUXqpA~
+Bcry  screams and attacks!~
+Layhands 0
+Exorcise 0
+Titl  `h~
+Pnts 81
+TSex 1
+LLev 96
+Loner 1
+HMVP 439 553 354
+Cnd  -16 -4 22 22
+Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias eg enter gate~
+Alias f flee~
+Alias 3 o all rescue wretch~
+Alias cr p 'cure critical'~
+Alias bl p bless~
+Alias cs p 'conservancy'~
+Alias 5 o all rescue~
+Alias lp p continual~
+Alias hl p heal~
+Alias cf p 'sustenance'~
+Alias dv p divine~
+Alias cb p 'cure blind'~
+Alias pf p flamestrike~
+Alias note oocnote~
+Alias sum p 'evocation'~
+Alias dinv p true~
+Alias fr p frenzy~
+Alias spr p 'holy water'~
+Alias cdis p 'cure disease'~
+Alias cbl p 'cure blindness'~
+Alias cp p 'cure poison'~
+Alias id p 'revelation'~
+Alias loc p 'celestial sight'~
+Alias san p sanctuary~
+Alias pg p 'protection good'~
+Alias pe p 'protection evil'~
+Alias pp but cor~
+Sk 77 'purification'
+Sk 1 'halo of seraphs'
+Sk 1 'illumination'
+Sk 1 'cause critical'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 57 'continual light'
+Sk 76 'cure blindness'
+Sk 59 'heroes feast'
+Sk 81 'cure critical'
+Sk 75 'cure disease'
+Sk 1 'cure light'
+Sk 76 'cure poison'
+Sk 1 'cure serious'
+Sk 75 'demonfire'
+Sk 1 'detect evil'
+Sk 77 'edification'
+Sk 77 'penance'
+Sk 76 'deconsecrate'
+Sk 1 'detect good'
+Sk 70 'true sight'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'earthquake'
+Sk 80 'flamestrike'
+Sk 1 'harm'
+Sk 94 'heal'
+Sk 1 'greater heal'
+Sk 1 'restore'
+Sk 78 'know alignment'
+Sk 1 'mass healing'
+Sk 79 'plague'
+Sk 77 'nexus'
+Sk 75 'evocation'
+Sk 75 'heavenly cloak'
+Sk 76 'protection evil'
+Sk 56 'protection good'
+Sk 75 'soul fire'
+Sk 1 'hallowed vision'
+Sk 77 'celestial sight'
+Sk 74 'sustenance'
+Sk 75 'holy water'
+Sk 79 'revelation'
+Sk 81 'levitation'
+Sk 76 'ray of truth'
+Sk 75 'renewal'
+Sk 86 'sanctuary'
+Sk 75 'damnation'
+Sk 77 'divine protection'
+Sk 1 'haven'
+Sk 1 'holy sphere'
+Sk 1 'mass levitation'
+Sk 1 'calm'
+Sk 75 'frenzy'
+Sk 1 'holy word'
+Sk 88 'bless'
+Sk 83 'conservancy'
+Sk 75 'remove curse'
+Sk 100 'flail'
+Sk 78 'dodge'
+Sk 1 'exorcism'
+Sk 12 'fast healing'
+Sk 1 'lore'
+Sk 34 'meditation'
+Sk 1 'track'
+Sk 1 'scrolls'
+Gr 'rom basics'
+Gr 'transcendence'
+Gr 'prophecy'
+Gr 'wrath'
+Gr 'miracles'
+Gr 'determination'
+Gr 'restoration'
+Gr 'piety'
+Affc 'bless'   0  44   1  -6  24          0 0 ''
+Affc 'bless'   0  40   1   6  18          0 0 ''
+Affc 'divine protection'   0  46  28 -40  17          0 0 ''
+Affc 'divine protection'   0  51  28  -2  24          0 0 ''
+Affc 'true sight'   0  45  28   0   0          8 0 ''
+Affc 'levitation'   0  46  38   0   0     524288 0 ''
+Affc 'sanctuary'   0  53   3   0   0        128 0 ''
+GStats  8 6 837 3 1 89 101 344909 499 
+End
+
+#O
+Vnum 561
+Nest 0
+ExtF 262145
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 114
+Enchanted
+Nest 0
+ExtF 262209
+Cond 0
+Wear 12
+Lev  31
+Cost 0
+Affc 'enchant armor'   1  90  -1  -1  17          0 0 ''
+Affc 'reserved'   1  30  -1   2   2          0 0 ''
+Affc 'reserved'   1  30  -1   1  18          0 0 ''
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 12234
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 561
+Nest 0
+ExtF 262145
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 20964
+Nest 0
+ExtF 262145
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 20389
+Nest 0
+ExtF 262145
+Cond 0
+Wear 10
+Cost 142
+End
+
+#O
+Vnum 7265
+Nest 0
+ExtF 3
+Cond 0
+Wear 19
+Cost 1500
+End
+
+#O
+Vnum 8725
+Nest 0
+ExtF 67
+Cond 0
+Wear 2
+Cost 0
+ExDe sandy ring~ The ring is small, smooth, sandy-colored and unremarkable, save that
+it gives off a continuous low humming noise that tickles your fingertips.
+~
+End
+
+#O
+Vnum 8725
+Nest 0
+ExtF 67
+Cond 0
+Wear 1
+Cost 0
+ExDe sandy ring~ The ring is small, smooth, sandy-colored and unremarkable, save that
+it gives off a continuous low humming noise that tickles your fingertips.
+~
+End
+
+#O
+Vnum 5319
+Nest 0
+ExtF 265281
+Cond 0
+Wear 6
+Cost 14965
+End
+
+#O
+Vnum 7071
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 7071
+Nest 0
+ExtF 8388609
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16325
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+Cond 0
+Wear -1
+Cost 504
+Spell 1 'holy word'
+End
+
+#O
+Vnum 8833
+Nest 1
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+Spell 1 'holy word'
+End
+
+#O
+Vnum 1502
+Nest 1
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4114
+Nest 1
+Cond 0
+Wear -1
+Cost 345
+End
+
+#O
+Vnum 4114
+Nest 1
+Cond 0
+Wear -1
+Cost 345
+Val  150 38 0 0 0 0 0
+End
+
+#O
+Vnum 4114
+Nest 1
+Cond 0
+Wear -1
+Cost 345
+Val  150 150 0 0 0 0 0
+End
+
+#O
+Vnum 4097
+Nest 1
+Cond 0
+Wear -1
+Cost 21000
+End
+
+#O
+Vnum 18983
+Nest 0
+ExtF 8650753
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 7074
+Nest 0
+ExtF 8650755
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 22005
+Enchanted
+Nest 0
+ExtF 8388675
+Cond 0
+Wear 17
+Lev  47
+Cost 0
+Affc 'enchant weapon'   1  83  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  83  -1   6  18          0 0 ''
+End
+
+#O
+Vnum 18978
+Nest 0
+ExtF 262145
+Cond 0
+Wear 9
+Cost 3243
+End
+
+#O
+Vnum 720
+Nest 0
+ExtF 262145
+Cond 0
+Wear 0
+Cost 5000
+End
+
+#O
+Vnum 12219
+Nest 0
+ExtF 84148225
+Cond 0
+Wear 5
+Cost 0
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 12233
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4102
+Nest 0
+Cond 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 5619
+Nest 1
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 4309
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12918
+Nest 1
+ExtF 8650753
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12918
+Nest 1
+ExtF 8650753
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20974
+Nest 1
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 7905
+Nest 1
+ExtF 8650754
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12915
+Enchanted
+Nest 0
+ExtF 0
+Cond 0
+Wear -1
+Lev  38
+Cost 0
+End
+
+#O
+Vnum 12952
+Nest 0
+ExtF 85196800
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12952
+Nest 0
+ExtF 85196800
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12929
+Enchanted
+Nest 0
+ExtF 8388675
+Cond 0
+Wear -1
+Lev  29
+Cost 0
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+End
+
+#O
+Vnum 8835
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 4145
+Nest 0
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4145
+Nest 0
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4145
+Nest 0
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7071
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4166
+Nest 0
+Cond 0
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 723
+Nest 0
+Cond 0
+Wear -1
+Cost 8309
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+End
+
+#PET
+Vnum 5598
+Name cat phoenix~
+LogO 1050873240
+Desc From the consuming fire returns the phoenix.  The lazy gaze of this
+creature seems to imply that a smart animal would not only avoid catching on
+fire, but would rise from the ashes more glorious than before if forced.  
+A neck tag says 'I belong to Wretch'.
+~
+Sex  2
+HMV 1160 1160 98 98 400 400
+Silv 10
+AfBy HJNOSTZ
+Comm UVW
+Pos  8
+Save 58
+ACs  -160 -160 -160 -30
+Attr 25 21 22 24 24 22
+AMod 0 0 0 0 0 0
+End
+#RoomRLE   730 6 15 1 2 2 2644 1 647 3 1 1 1 18 1 15 1 1 1 3 40 2 13 1 2 1 8 1 16 1 21 1 14 1 187 4 3494 1 13175 1 19 1 19 1 19 1 19 1 19 1 19 1 19 1 14 6 3767 1 11 1 89 1 19 1 5 1 1 1 47 1 19 1 279 1 538 2 39511 -1
+
+#END

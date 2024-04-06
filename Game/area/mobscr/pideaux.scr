@@ -1,0 +1,33 @@
+* File: pideaux.scr
+* Mob: Pideaux(536)
+
+#TRIGGER showhole
+Type 99
+Sc
+   say sure...what the heck!
+   cmd smile
+   load obj 536
+   halt once~
+End
+
+#TRIGGER soc
+Type 7
+Sc
+mfunc self %mood% mood
+if ( %soc-arg% cmp "kiss" ) || ( %soc-arg% cmp "hug" ) || ( %soc-arg% cmp "embrace" ) || ( %soc-arg% cmp "peck" ) || ( %soc-arg% cmp "french" ) || ( %soc-arg% cmp "love" ) || ( %soc-arg% cmp "comfort" )  || ( %soc-arg% cmp "nuzzle" ) || ( %soc-arg% cmp "cuddle" )
+  let %mood% += 1
+  jump 2~
+Sc
+if ( %soc-arg% cmp "slap" ) || ( %soc-arg% cmp "laugh" ) || ( %soc-arg% cmp "flip" ) || ( %soc-arg% cmp "whap" ) || ( %soc-arg% cmp "liver" ) || ( %soc-arg% cmp "accuse" ) || ( %soc-arg% cmp "puke" ) || ( %soc-arg% cmp "pound" ) || ( %soc-arg% cmp "tease" )
+   let %mood% -= 1~
+Sc
+if ( %mood% < 0 )
+   halt once~
+Sc
+if ( %mood% > 7 )
+   halt once~
+Sc
+msign self %mood% mood~
+End
+
+#END

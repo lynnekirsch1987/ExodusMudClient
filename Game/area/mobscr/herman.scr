@@ -1,0 +1,26 @@
+#TRIGGER herman    
+Type 5    
+Sc    
+mfunc self %hp% hit   
+ofunc %herman-arg% %objtype% item_type    
+ofunc %herman-arg% %objname% name      
+ofunc %herman-arg% %objshort% short  
+if ( %hp% <= 2000 )    
+emote appears to be full!    
+halt once~    
+Sc    
+if (%objtype% == 7)    
+cmd emote ribbits happily.    
+Cmd quaff %objname%    
+cmd burp    
+halt once~    
+  
+Sc    
+cmd emote ribbits happily.    
+Cmd emote eats %objshort%.    
+cmd at 1 drop %objname%  
+cmd burp  
+halt once~  
+End  
+   
+#END

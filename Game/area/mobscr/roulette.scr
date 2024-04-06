@@ -1,0 +1,38 @@
+#TRIGGER pickpocket  
+Type 10  
+Sc  
+wfunc %rndnum% random 0 1 
+if ( %rndnum% == 0 )  
+  cmd echo You recognize the emblem of the Merchant's Guild on the door to the east.  
+  cmd echo As you knock on the door a hatch slides aside, and eyes peer out at you.  
+  cmd echo A voice from the other side of the door asks`a '`kWhat is the password?`a'``  
+  halt once~  
+  
+Sc  
+if ( %rndnum% == 1 )  
+  cmd echo Cheers and laughter can be heard from the east.  
+  halt once~  
+End  
+  
+#TRIGGER opendoor  
+Type 99  
+Sc  
+   cmd echo A voice from the other side of the door asks`a '`kYou may enter`a'``  
+   cmd emote on the other side slides the door open for you. 
+   MOB OPEN east 
+   wait 5~  
+Sc  
+   MOB close east  
+   MOB lock east 
+   cmd echo With a clank the heavy iron door closes. 
+   halt once~  
+End  
+  
+#TRIGGER born  
+Type 4  
+Sc  
+  cmd at 1 wizi 92  
+  halt once~  
+End  
+  
+#END

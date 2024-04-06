@@ -1,0 +1,621 @@
+#PLAYER
+Name Ythaz~
+Id   866566215
+LogF 895768788
+LogO 895768788
+Vers 5
+Desc Ythaz looks abnormally tall for a dwarf.  Also, his beard is kind of thin,
+despite his youthful appearance.  He also seems more comfortable around
+humans and elves than most dwarves you have met.
+
+He has steely-blue eyes, sandy-brown hair, a few scars on his face, arms,
+and legs, and large calloused hands.  He walks with a slight limp.
+~
+Prom *Ythaz*[%h/%H][%m][%v]*[%g %s]*[%X]* %S ~
+Race dwarf~
+Sex  1
+Cla  3
+Levl 24
+MBKill 1
+MHKill 1052
+Depty 0
+Sec  0
+Plyd 148812
+Bank_Gold 151
+Bank_Silv 27416
+Email jmueller@ic.owatonna.mn.us~
+Host 206.156.170.138~
+Not  874426058 874424447 0 874309621 866656689
+Scro 22
+Room 21005
+HMV  420 420 146 146 189 189
+Hand 2
+Gold 2
+Silv 293
+Exp  145745
+Act  DGHQ
+AfBy J
+Comm LMNOQS
+Pos  4
+Prac 5
+Alig  1000
+Hit   14
+Dam   14
+ACs -23 -29 -23 51
+Wimp  101
+Attr 23 16 11 8 21 6
+AMod 2 4 -1 5 0 0
+Pass Yt4TvLPmW6Amk~
+Bcry  wearily raises his weapon to kill another living thing.~
+Plan  Ythaz is not your typical dwarf.  Killing makes him sad.  After all, what is
+the point of ending another creature's life just to become a better killer?
+Sometimes for no explicable reason he may encounter a bout of sadness.  He
+may need a bit of support from his friends during this time, but he does get
+over it.  Usually when he is feeling this way, a small incident may set him off.
+There are often signs he is feeling down.  Sometimes you can tell by looking at
+him.  Other times he may stare at his feet abnormally.  Or he may treat combat
+like a punishment, ignoring his abilities to overbear and kick
+his opponents.  Maybe it is just too lonely for him, always killing.
+Perhaps more wisdom and experience will give Ythaz the means to deal with this
+conflict he feels within himself, but perhaps not.  Only time will tell.
+~
+Layhands 0
+Exorcise 0
+Titl  is contemplating the meaning of battle.~
+Pnts 85
+TSex 1
+LLev 40
+Loner 0
+HMVP 392 146 189
+Cnd  -16 12 10 38
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Alias rr order all rescue Ythaz~
+Alias oo order Squawkbeak~
+Alias x examine~
+Alias px practice~
+Alias ds drink skin~
+Alias gac get all corpse~
+Alias bb bash~
+Alias kk kick~
+Alias mm butcher corpse~
+Alias ss order Squawkbeak emote squawks: `k~
+Alias pp order Squawkbeak pmote pecks~
+Alias aa order Squawkbeak kill~
+Alias xx rescue squawkbeak~
+Alias tt order squawkbeak emote SQUAWKS!~
+Alias sad emote stares halfheartedly at a speck of dust on his sandles.~
+Alias uu uppercut~
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 8 'flail'
+Sk 92 'mace'
+Sk 1 'polearm'
+Sk 11 'sword'
+Sk 1 'uppercut'
+Sk 71 'dual wield'
+Sk 85 'bash'
+Sk 1 'berserk'
+Sk 65 'dodge'
+Sk 1 'fisticuffery'
+Sk 92 'enhanced damage'
+Sk 30 'hand to hand'
+Sk 63 'kick'
+Sk 66 'parry'
+Sk 62 'rescue'
+Sk 71 'butcher'
+Sk 72 'second attack'
+Sk 64 'third attack'
+Sk 67 'fast healing'
+Sk 60 'blindfighting'
+Gr 'rom basics'
+Gr 'weaponsmaster'
+End
+
+#O
+Vnum 11533
+Nest 0
+Cond 0
+Wear 15
+Cost 230
+End
+
+#O
+Vnum 11533
+Nest 0
+Cond 0
+Wear 14
+Cost 230
+End
+
+#O
+Vnum 4099
+Nest 0
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 4099
+Nest 0
+Cond 0
+Wear -1
+Cost 25
+Val  60 44 0 0 0 0 0
+End
+
+#O
+Vnum 4291
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4413
+Nest 1
+Cond 0
+Wear -1
+Cost 405
+End
+
+#O
+Vnum 5548
+Enchanted
+Nest 1
+ExtF 262208
+Cond 0
+Wear -1
+Lev  19
+Cost 2500
+Affc 'enchant weapon'   0  59  -1   4  18          0 0 ''
+Affc 'enchant weapon'   1  59  -1   4  19          0 0 ''
+End
+
+#O
+Vnum 12926
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 0
+ExtF 8388608
+Cond 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 553
+Nest 0
+Cond 0
+Wear 4
+Cost 300
+End
+
+#O
+Vnum 553
+Nest 0
+Cond 0
+Wear 3
+Cost 300
+End
+
+#O
+Vnum 20956
+Nest 0
+Cond 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 114
+Nest 0
+Cond 0
+Wear 12
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 7000
+Nest 0
+ExtF 262146
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 9
+Lev  22
+Cost 0
+Affc 'enchant weapon'   1  59  -1   5  19          0 0 ''
+Affc 'enchant weapon'   0  59  -1   5  18          0 0 ''
+End
+
+#O
+Vnum 7916
+Nest 0
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 7907
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 16
+Lev  34
+Cost 0
+Affc 'enchant weapon'   0  59  -1   3  18          0 0 ''
+Affc 'enchant weapon'   1  59  -1   3  19          0 0 ''
+End
+
+#O
+Vnum 827
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 815
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21086
+Nest 0
+Name canteen water~
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 8714
+Nest 0
+Cond 0
+Wear -1
+Cost 1232
+ExDe ankh~ The ankh is a small brass symbol of an ancient religion.
+It glows with a soft bright light that is soothing to you.
+~
+End
+
+#O
+Vnum 4141
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 12220
+Nest 0
+Wear -1
+Cost 0
+ExDe shield~ This shield bears the Falcon of Widrak's Unholy Order.
+~
+End
+
+#O
+Vnum 7902
+Nest 0
+ExtF 8651072
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12233
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 4164
+Nest 0
+ExtF 8388608
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 4151
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 17
+Lev  23
+Cost 102
+Affc 'enchant weapon'   1  59  -1   2  19          0 0 ''
+Affc 'enchant weapon'   1  59  -1   3  18          0 0 ''
+End
+
+#O
+Vnum 4102
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4206
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4154
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21070
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 11515
+Nest 1
+ExtF 343932929
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4024
+Nest 1
+Cond 0
+Wear -1
+Cost 6
+Val  0 0 28 0 0 0 0
+End
+
+#O
+Vnum 21063
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4099
+Nest 1
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 21110
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12926
+Nest 1
+Cond 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 12928
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4413
+Nest 1
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4319
+Nest 1
+Cond 0
+Wear -1
+Cost 355
+End
+
+#O
+Vnum 7907
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4146
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  34
+Cost 0
+Affc 'enchant weapon'   0  64  -1   4  18          0 0 ''
+Affc 'enchant weapon'   1  64  -1   4  19          0 0 ''
+End
+
+#O
+Vnum 4166
+Nest 1
+Cond 0
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 4165
+Nest 0
+Cond 0
+Wear 6
+Cost 2503
+End
+
+#O
+Vnum 12926
+Nest 0
+Cond 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 12926
+Nest 0
+Cond 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 12926
+Nest 0
+Cond 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 12926
+Nest 0
+Cond 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 12219
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 828
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5350
+Nest 0
+Cond 0
+Wear -1
+Cost 890
+End
+
+#O
+Vnum 4040
+Nest 0
+Cond 0
+Wear -1
+Cost 1089
+Spell 3 'plague'
+End
+
+#O
+Vnum 4152
+Nest 0
+Cond 0
+Wear -1
+Cost 625
+End
+
+#O
+Vnum 4260
+Nest 0
+Cond 0
+Wear -1
+Cost 2980
+End
+
+#O
+Vnum 4119
+Nest 0
+Cond 0
+Wear -1
+Cost 540
+End
+
+#END

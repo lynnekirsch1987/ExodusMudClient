@@ -1,0 +1,5 @@
+Ragnar
+alms&give:<8:+1:If I am understanding you right, you wish to give alms?;Great!;CMD em smiles and holds out his hand.
+kill&you:<4:-1:I cannot allow you to threaten me!;CMD em narrows his eyes as holy energy surges through his body.;CMD em raises his glowing hands and begins a fierce chant!;kill $name
+hi&father|hi&priest|hi|hello:>4:+1:Hello!  If you're not one with Kami-Sama, feel free to tell me to 'teach you'!;CMD smile $name
+teach&me:>1:+1:Kami-Sama is a god of peace!;CMD em waves his hands about in the air.;However, peace sometimes comes through war.;CMD frown;CMD give flower $name;Study the flower, there you will find Kami.

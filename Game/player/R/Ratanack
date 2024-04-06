@@ -1,0 +1,107 @@
+#PLAYER
+Name Ratanack~
+Id   959993065
+LogF 964742195
+LogO 964742195
+Vers 7
+Prom <%h/%H %m/%M %v/%V %X> ~
+Race vro'ath~
+Sex  1
+Cla  3
+Levl 21
+AALevl 2
+MHKill 1252
+Hero 0
+Depty 0
+Sec  0
+Plyd 59561
+Bank_Gold 70
+Bank_Silv 3000
+Email syberdude8@aol.com~
+Host 172.160.21.197~
+Not  0 0 0 948938698 0 960480218 0
+Scro 22
+Room 4056
+HMV  357 357 90 90 195 195
+Hand 2
+Gold 7
+Silv 1589
+Exp  113756
+Act  CDGHQ
+Comm EFGNORS
+Pos  8
+Alig  -1000
+Hit   8
+Dam   8
+ACs 100 100 100 100
+Attr 24 10 9 12 21 6
+AMod 0 -1 0 0 0 -9
+Pass Ra.c4OMYXEt06~
+Layhands 0
+Exorcise 0
+Titl  Warrior of Death~
+Pnts 82
+TSex 1
+LLev 16
+Loner 0
+HMVP 357 140 195
+Cnd  -16 -16 12 25
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias ff kick~
+Alias dd bash~
+Sk 1 'flail'
+Sk 1 'polearm'
+Sk 56 'shield block'
+Sk 88 'sword'
+Sk 1 'uppercut'
+Sk 1 'riding'
+Sk 21 'dual wield'
+Sk 39 'bash'
+Sk 27 'dodge'
+Sk 1 'fisticuffery'
+Sk 67 'enhanced damage'
+Sk 13 'hand to hand'
+Sk 41 'kick'
+Sk 52 'parry'
+Sk 22 'door bash'
+Sk 36 'butcher'
+Sk 62 'second attack'
+Sk 56 'third attack'
+Sk 43 'fast healing'
+Sk 1 'fishing'
+Gr 'rom basics'
+End
+
+#O
+Vnum 5650
+Nest 0
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 12220
+Nest 0
+Wear -1
+Cost 6930
+ExDe shield~ This shield bears the Falcon of Widrak's Unholy Order.
+~
+End
+
+#PET
+Vnum 4005
+Name falcon~
+LogO 964742195
+Desc A neck tag says 'I belong to Ratanack'.
+~
+Sex  2
+HMV 377 377 187 187 100 100
+AfBy ST
+Comm UVW
+Pos  8
+ACs  0 0 0 40
+Attr 13 14 14 16 14 14
+AMod 0 0 0 0 0 0
+End
+#END

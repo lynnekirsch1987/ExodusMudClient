@@ -1,0 +1,4788 @@
+#AREA
+ 6~
+sjungle.are~
+The Jungle~
+{10 25} Mithra  The Jungle~
+~
+4862 5022
+10 0 4008
+0 0
+~
+#MOBILES
+#4862
+tiger~
+the tiger~
+A ferocious tiger pounces out of the darkness upon its prey... YOU !
+~
+This tiger is bored and hungry!  Watch out!
+~
+unique~
+0 0 0 0
+ABCFTU PQZ 0 0
+18 18 40d2+200 1d1+100 4d4+2 claw
+-1 -1 -1 999 -1
+0 -1 EFN 0 0 0
+stand stand female 0
+AGV AFUV 9 9 9 9 9 9 0
+huge flesh~
+0 0 0 100
+0
+~
+~
+#4863
+fanged spider~
+a fanged spider~
+A Huge Fanged Spider eyes your throat.
+~
+This spider is repulsive.  It is about the size of a dwarf, and has 
+a sickly brown color.  It has large fangs that is uses for feeding...
+hopefully not on you!
+~
+unique~
+0 0 0 0
+ACGHTU DFQZ 0 0
+12 12 2d20+120 10d10+100 4d2+2 bite
+2 2 2 999 2
+0 -1 0 0 0 0
+stand stand neutral 0
+BGO FV 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4864
+black snake~
+a black spotted snake~
+A black spotted snake lunges at you.
+~
+A large snake with black spots  is here and it looks like 
+it has not eaten in quite a while.
+~
+snake~
+0 0 0 0
+ACFHU Q 0 0
+12 12 3d10+140 10d10+100 5d3+1 bite
+1 1 1 999 1
+0 -1 0 0 L I
+stand stand neutral 0
+ABGXYc ADEFKLQVXa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4865
+giant vulture~
+a giant vulture~
+A giant vulture flies above you.
+~
+The giant vulture has a wide wingspan.  It's head is bald and 
+pink and its feathers are a dark brown and black.
+~
+unique~
+0 0 0 0
+ABCFU T 0 0
+14 14 2d15+150 10d10+100 2d6+2 peckb
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand neutral 0
+AGW AP 8 8 8 8 8 8 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#4866
+lizard man~
+a lizard man~
+A Lizard Man stands here motioning for you to go home.
+~
+The Lizard Man is slightly taller than a human man.  His 
+complexion is scaly, and he is of green and brown color.
+He wants you to leave him alone.
+~
+unique~
+0 0 0 0
+ACGU 0 0 0
+15 15 2d10+200 1d10+100 1d5+4 slice
+-2 -2 -2 999 -2
+0 -1 0 0 FL HI
+stand stand male 50
+AGHMVXc ABCDEFGHIJKQVa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4867
+lizard woman~
+a lizard woman~
+A Lizard Woman stands here, motioning for you to go home.
+~
+The Lizard Woman is slightly taller than a human woman.  Her 
+complexion is scaly, and she is of green and brown color.
+She wants you to leave her alone.
+~
+unique~
+0 0 0 0
+ACGU 0 0 0
+15 15 5d10+250 10d10+100 1d5+3 slice
+-5 -5 -5 999 -5
+0 -1 0 0 FL HI
+stand stand female 75
+AGHMVXc ABCDEFGHIJKQVa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4868
+lizard child~
+a lizard child~
+A Lizard Child is here sucking its thumb.
+~
+This child is small and scaly.  It smells rather swampy,
+and looks very messy.
+~
+unique~
+0 0 0 0
+ACGU 0 0 0
+13 13 4d20+100 2d4+100 1d3+2 none
+0 0 0 999 0
+0 -1 0 0 FL HI
+stand stand neutral 1
+AEGHMVXc ABCDEFGHIJKQVa 8 8 8 8 8 8 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#4869
+chief lizard~
+the Chief~
+The Chief of the Lizard people sits here.
+~
+The Chief is an extremely tall Lizard Man.  He wears a large 
+headdress and holds a glowing ember which illuminates the 
+room.  You can tell that you are disturbing him in deep
+meditation.
+~
+unique~
+0 0 0 0
+AB H 0 0
+24 24 3d20+500 10d10+300 4d4+3 divine
+-4 -4 -4 999 -4
+0 -1 FKNPR A BFL HI
+rest rest male 300
+AGHMVXc ABCDEFGHIJKQVa 11 11 11 11 11 11 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#4870
+lizard soldier~
+A Lizard Person Soldier~
+A soldier of the Lizard people guards his village here.
+~
+This soldier was picked to guard the entrance to the village due to his
+strength, skill, and paranoid attitude.  Although he seems alien, the way he
+hefts his sharp club and tenses his muscles shows that he knows his
+business.  
+~
+unique~
+0 0 0 0
+AGT 0 0 0
+20 20 5d10+400 10d10+100 3d10+5 pound
+-3 -3 -3 999 -3
+0 -1 CENR A FL HI
+stand stand male 50
+AGHMVXc ABCDEFGHIJKQVa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+3
+~
+~
+#4871
+lizard soldier~
+A Lizard Person Soldier~
+A soldier of the Lizard people guards her village here.
+~
+This soldier was picked to guard the entrance to the village due to her
+strength, skill, and paranoid attitude. Although she seems alien, the way
+she hefts her sharp club and tenses her muscles shows that she knows her
+business 
+~
+unique~
+0 0 0 0
+AGT 0 0 0
+20 20 5d10+425 10d10+100 3d14+5 pound
+-5 -5 -5 999 -5
+0 -1 CENR A FL HI
+stand stand female 50
+AGHMVXc ABCDEFGHIJKQVa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+3
+~
+~
+#4872
+medicine man~
+the medicine man~
+The Village Medicine Man is here, brewing strange potions.
+~
+This Lizard Man is short and looks emaciated from fasting.  
+He spends most of his time either brewing potions or
+meditating at his secret shrine.
+~
+lizard~
+0 0 0 0
+ABa 0 0 0
+20 20 1d10+100 1d110+500 1d1+10 slice
+0 0 0 999 0
+0 -1 0 0 L I
+stand stand male 1000
+AGHXc ACDEFHKQVa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4873
+wild fern~
+a wild fern~
+A wild fern is here.
+~
+This fern is large and has very sharp leaves.  You think you
+might have seen it move...but you might have just blinked.
+~
+unique~
+0 0 0 0
+AGU V 0 0
+13 13 2d10+150 1d1+200 2d4+2 scratch
+3 3 3 999 3
+0 -1 NRU AB 0 G
+stand stand neutral 40
+A M 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#4874
+venus~
+a venus fly trap~
+A venus fly trap plant considers you for dinner.
+~
+This HUGE plant is repulsive to look at, especially since it
+eyes you for dinner.
+~
+unique~
+0 0 0 0
+ABGU V 0 0
+20 20 10d2+440 1d1+100 3d5+2 bite
+-3 -3 -3 999 -3
+0 -1 NRU AB 0 D
+rest rest neutral 0
+A A 10 10 10 10 10 10 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#4875
+giant lizard~
+a giant lizard~
+A Giant Lizard sticks its long tongue out at you.
+~
+This lizard is giant and slimy.  Its tongue is long and repulsive.
+~
+lizard~
+0 0 0 0
+AGU 0 0 0
+9 9 2d8+90 1d1+100 1d7+0 digestion
+5 5 5 999 5
+0 -1 NRU A L I
+stand stand neutral 0
+AGXc ABCDEFHKQVa 7 7 7 7 7 7 0
+huge flesh~
+0 0 0 100
+0
+~
+~
+#4876
+preying mantis~
+a giant preying mantis~
+A hungry looking, giant Preying Mantis is here.
+~
+This insect is about the same size as a dwarf, only even
+MORE repulsive looking.  It eyes you for lunch.
+~
+unique~
+0 0 0 0
+AGU 0 0 0
+12 12 2d20+150 1d1+100 2d4+5 bite
+-5 -5 -5 999 -5
+0 -1 NRU A 0 0
+stand stand neutral 0
+AO ABCDEF 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#4877
+hummingbird bird~
+A hummingbird~
+A hummingbird buzzes by you.
+~
+This tiny bird is rather cute.  You would feel like major
+SCUM if you harmed it.
+~
+song bird~
+0 0 0 0
+AGU T 0 0
+1 1 1d10+15 1d1+100 1d1+0 peck
+0 0 0 999 0
+0 -1 FHR 0 0 S
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#4878
+hawk~
+the hawk~
+A hawk soars above you, challenging you to fly and race it.
+~
+This hawk has a wide wingspan.  It is brown in color and 
+fierce in nature.
+~
+unique~
+0 0 0 0
+AGU T 0 0
+14 14 1d20+240 1d1+100 1d8+2 peck
+-1 -1 -1 999 -1
+0 -1 DR 0 0 0
+stand stand male 0
+AW ACEP 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#4879
+petrified tree~
+the petrified tree~
+A long since petrified tree is here, somehow blocking your path.
+~
+This tree is very tall and rock hard.  You would be surprised if
+you could even put a dent into it.
+~
+unique~
+0 0 0 0
+ABGU 0 0 0
+22 22 10d10+400 1d1+100 4d9+6 smash
+-25 -25 -25 999 -25
+0 -1 K AB 0 HIJK
+stand stand male 0
+A 0 10 10 10 10 10 10 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#4880
+hermit~
+the hermit~
+`k(Golden Aura) `cThis hermit awaits the coming of his god in peace.
+~
+This lizard just sits and meditates.  Perhaps his god will show himself
+in a vision, or perhaps this hermit will pass on into the spirit world
+without the fulfillment of his quest.  
+~
+lizard~
+0 0 0 0
+ABQ CDFV 600 0
+20 20 2d25+300 10d100+200 4d8+2 slice
+-10 -10 -10 999 -10
+0 -1 FK AB L I
+rest rest male 1
+AGHXc ABCDEFGHKQVa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4881
+grocer lizard~
+the Lizard Village Grocer~
+The Grocer of the Lizard Village is here.
+~
+This Lizard Man is old and looks rather weary.  He challenges
+you to test all of his items.
+~
+unique~
+0 0 0 0
+AB 0 0 0
+1 1 1d10+100 1d10+100 1d10+10 slice
+0 0 0 999 0
+0 -1 0 0 FL HI
+stand stand male 100
+AGHMVXc ABCDEFGHIJKQVa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4882
+lizard lich~
+the Lizard Man Lich~
+You see a skeletal looking Lizard Man.
+~
+This Lizard Man was the only one from the village to experiment
+with the arcane arts.  The results were disastrous.  This man is
+decaying as he breathes.  He reeks of death and destruction.  You
+think that you better leave.
+~
+unique~
+0 0 0 0
+ABFOR Z 0 0
+30 30 2d49+450 100d2+300 2d10+7 wrath
+-10 -10 -10 999 -10
+0 -1 EF AB CF HI
+stand stand neutral 150
+ACHMVX ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4883
+piranha fish~
+a piranha~
+A small bony looking fish is biting through your boots.
+~
+This tiny prehistoric looking fish is vicious and hungry.
+~
+unique~
+0 0 0 0
+ABF BDFPQVab 0 0
+15 15 20d5+170 1d1+100 4d4+5 bite
+-2 -2 -2 999 -2
+0 -1 EF A 0 0
+stand stand neutral 0
+Cb AOX 9 9 9 9 9 9 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#4884
+jungle pixie~
+a jungle pixie~
+A jungle pixie floats by you.
+~
+This pixie is almost perfectly camouflaged in the jungle.  It has 
+pale green skin and light brown hair.  It smiles, and flies by you,
+propelling itself with its translucent wings.
+~
+unique~
+0 0 0 0
+ACRU QT 0 0
+17 17 20d2+240 10d10+200 1d6+1 magic
+-3 -3 -3 999 -3
+0 -1 EFN 0 0 0
+stand stand female 100
+HM ABCDEP 9 9 9 9 9 9 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#4885
+wild jungle beast~
+the wild jungle beast~
+A wild jungle beast lunges at you!
+~
+This beast is DISGUSTING!  You cringe in fear!  It smells so bad you
+have no idea what it looks like because your eyes are too filled with
+tears!
+~
+unique~
+0 0 0 0
+ACTU Q 0 0
+22 22 20d3+300 1d10+100 2d8+2 bite
+-2 -2 -2 999 -2
+0 -1 DEMN 0 0 0
+stand stand female 0
+HM ABCDEF 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4886
+leopard~
+a spotted leopard~
+A spotted leopard stands here.
+~
+This leopard charms you with its beautiful spots.  You want to
+walk up to it to pet it, but you remember that it is a wild beast.
+~
+unique~
+0 0 0 0
+ACUe 0 0 0
+16 16 10d3+150 1d10+100 2d6+1 bite
+-1 -1 -1 999 -1
+0 -1 0 0 0 0
+stand stand female 0
+F ABCDG 9 9 9 9 9 9 0
+small flesh~
+0 0 30000 100
+0
+~
+~
+#4887
+river dragon~
+a huge river dragon~
+A huge river dragon snarls at you.
+~
+The river dragon has a blue-grey tint to its scales.  It is huge,
+and does not like visitors very much.
+~
+dragon~
+0 0 0 0
+ABCFU JT 0 0
+18 18 20d2+250 1d10+200 1d8+2 bite
+-2 -2 -2 999 -2
+0 -1 0 0 BEH FI
+stand stand female 0
+AHZ ACDEFGHIJKPQUVXa 9 9 9 9 9 9 0
+huge flesh~
+0 0 0 100
+0
+~
+~
+#4888
+jungle adventurer~
+the jungle adventurer~
+A jungle adventurer hacks at the wild growth with his machete.
+~
+This man's face is weather beaten and very leathery.  He constantly 
+hacks at the wild growth, trying to create a new path.
+~
+human~
+0 0 0 0
+ABCT H 0 0
+25 25 10d5+340 1d10+100 3d6+8 slice
+-10 -10 -10 999 -10
+0 -1 DFK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#4889
+jungle nymph~
+a jungle nymph~
+A jungle nymph is here singing.
+~
+This nymph is the epitome of magical.  She looks at you with 
+bright eyes... you do not think you could do her any harm.
+~
+unique~
+0 0 0 0
+ACGRU 0 0 0
+7 7 2d6+65 2d10+200 1d4+1 magic
+4 4 4 999 4
+0 -1 R 0 0 0
+stand stand female 25
+CHM ABCDEF 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#4890
+jungle spider~
+a jungle spider~
+A jungle spider is here spinning a web.
+~
+This green spider blends into its surroundings.  It appears
+to be spinning a web, although the web is a most unusual green.
+~
+unique~
+0 0 0 0
+ABU 0 0 0
+12 12 3d7+200 1d10+100 2d10+4 bite
+0 0 0 999 0
+0 -1 P 0 0 0
+stand stand neutral 0
+BG ACDF 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#4891
+A quicksand worm~
+A quicksand worm~
+A slippery worm guards its buried treasure from all who would take it.
+~
+~
+snake~
+0 0 0 0
+ABF 0 -50 0
+35 35 30d30+500 5d5+20 5d3+0 shbite
+-1 -1 -1 999 0
+0 -1 CFHM a L I
+stand stand none 100
+AGXYc ABDEFKLQVXa 13 13 13 13 13 13 0
+small scales~
+0 0 0 100
+1
+~
+~
+#4892
+a young aspirant~
+A youthful aspirant~
+A young aspirant from the City of the Sun awaits his turn at conquering Jungle Island.
+~
+~
+human~
+0 0 0 0
+ABT DFQ 1000 0
+40 40 30d30+900 10d10+500 10d10+20 wrath
+-1 -1 -1 999 -1
+0 -1 CDEHIJK ABN B 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+3
+aspirant.voc~
+~
+#4893
+Egavanos shadow worm~
+Egavanos, bane of life~
+Egavanos the worm is here, the terror of man.
+~
+`aThe mist writhes and ripples here, coiling in one place.  Slowly, the
+form of this great worm appears.  The Bane of Man and the Scourge of Jungle
+Island, this great, grey beast is the source of the nightmarish terrors that
+infect this section of the Island.  Of its many weapons, the one most feared
+is its fang, able to rip flesh from bones more quickly than the dread
+pirahna.  
+~
+centipede~
+0 0 0 0
+ABFGHNRTX BDFTVZac -750 0
+40 40 20d15+750 10d20+500 3d10+15 slime
+-22 -15 -9 999 -20
+0 -1 FGHK ABDR CFI EO
+stand stand neutral 5000
+ABGHKMORV ABCDEFGHIJKLPVa 14 14 14 14 14 14 0
+large scales~
+0 0 0 250
+1
+~
+~
+#4894
+young hunter ~
+`cA `iP`la`ai`in`lt`ae`id`` `chunter``~
+`cA `iP`la`ai`in`lt`ae`id `chunter is here, crouching in the undergrowth.``
+~
+`cThis young hunter has yet to earn his Eagle's circlet, the mark of a
+hunter that has conquered Jungle Island.  Dressed in `dbrown `cleather and
+decorated with odd bits of feathers, shells, and colorful mud, this young
+boy is often overlooked, as he hides off the main paths, waiting for his
+turn to kill Egavanos.  
+~
+human~
+0 0 0 0
+AEGW Q 250 6801
+7 7 3d10+70 5d5+10 2d7+5 whip
+6 6 6 999 7
+0 -1 U 0 H I
+stand stand male 150
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+4
+~
+~
+#4895
+Eagle guard~
+`dan Eagle Guard``~
+`dAn Eagle Guard is here, making sure you follow the rules of the test.
+~
+`c This older hunter has just earned his `dEagle's Circlet`c, having
+finished his ordeal in Jungle Island.  He now enjoys the right granted by
+his elders in the City of the Sun to judge others in this place.  He is
+dressed from head to toe in soft, black leather, and wears his circlet very
+proudly.  
+~
+human~
+0 0 0 0
+AEGW CPQV 250 6801
+16 16 10d5+300 5d5+10 3d6+3 punch
+-2 -2 -2 999 -4
+0 -1 0 0 HL I
+stand stand male 150
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#0
+
+#OBJECTS
+#4862
+tigerskin tiger skin~
+a Tigerskin~
+The skin of a jungle tiger looks fearsome, even after its death.~
+fur~
+0
+armor 2
+0
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B AB AB 0 0
+0
+0
+14 5 6500 P
+A
+2 1
+#4863
+spider fang~
+a spider fang~
+The hollow fang of this spider has been shaped into a wicked weapon.~
+~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B ABD BD 0
+0
+0
+14 2 6500 P
+A
+19 1
+#4864
+snakeskin bracelet skin~
+a snakeskin bracelet~
+This shiny bracelet has been crafted from the skin of rare jungle snakes.~
+scales~
+0
+armor 2
+0
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A 0 0
+0
+0
+13 1 4500 P
+A
+2 1
+#4865
+vulture feather~
+a vulture feather~
+You see a feather of a vulture.~
+feather~
+0
+armor 2
+0
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A 0 0
+0
+0
+15 1 5500 P
+A
+13 5
+#4866
+chief headdress~
+the Headdress of the Lizard People Chieftain~
+You see a beautiful headdress.~
+feather~
+0
+armor 2
+0
+0
+AEX
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B 0 0
+0
+0
+24 8 8500 P
+A
+13 5
+A
+5 1
+A
+4 1
+A
+12 5
+#4867
+ember light~
+a glowing ember~
+You see a glowing ember.  It looks like it might burn you.~
+coal~
+0
+light 2
+A
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 ABCDIJKN 0 0
+0
+0
+24 1 9500 P
+A
+12 5
+A
+3 1
+#4868
+club jungle~
+a heavy jungle club~
+You see a VERY heavy club here.~
+~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C B ABCD ABC 0
+0
+0
+26 15 7500 P
+A
+19 3
+A
+18 -1
+#4869
+snakeskin coat skin~
+a snakeskin coat~
+A snake's skin has been turned inside out for use as a jacket.~
+scales~
+0
+armor 2
+0
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B 0 0
+0
+0
+20 10 9500 P
+A
+5 1
+A
+13 10
+A
+19 2
+#4870
+foaming green vial~
+A foaming green vial~
+A green vial is here, filled with a foamy liquid.~
+glass~
+0
+potion 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CE 'detect hidden' 'detect invis' 'invisibility' 'teleport'
+0
+0
+20 1 700 P
+#4871
+pale blue potion~
+a pale blue potion~
+You see a container filled with a pale blue liquid.~
+~
+0
+potion 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD 'fireshield' 'reserved' 'reserved' 'reserved'
+0
+0
+10 1 400 P
+#4872
+salve~
+a healing salve~
+A healing salve is here.~
+~
+0
+potion 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE 'fly' 'herbal lore' 'reserved' 'reserved'
+0
+0
+10 1 800 P
+#4873
+full~
+a full container~
+This container looks full of good food and drink.~
+~
+0
+potion 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD 'heroes feast' 'reserved' 'reserved' 'reserved'
+0
+0
+10 1 1000 P
+#4874
+lizardhead snake head figurine~
+a lizardhead figurine~
+A fearsome figurine of a striking lizard sits here.~
+metal~
+0
+wand 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD B B G 'reserved'
+0
+0
+10 1 500 P
+#4875
+vine ring~
+a ring made of entwined vines~
+You see a ring made of entwined vines.~
+wood~
+0
+jewelry 2
+S
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 1 1000 P
+A
+5 1
+A
+19 1
+A
+18 1
+#4876
+necklace thorns~
+a necklace of thorns~
+A necklace made of entertwined thorns waits to pierce your neck.~
+wire~
+0
+jewelry 2
+0
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 3 3500 P
+#4877
+jar vegetable juice~
+a jar of vegetable juice~
+You see a jar full of a greenish liquid.~
+~
+0
+potion 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE 'cause light' 'reserved' 'reserved' 'reserved'
+0
+0
+20 1 2500 P
+#4878
+dark amber potion~
+a dark amber potion~
+This bottle contains a thick, golden brown liquid.~
+~
+0
+potion 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABF 'heal' 'curse' 'reserved' 'reserved'
+0
+0
+28 1 2500 P
+#4879
+hawk eye~
+A hawk's eye~
+You see an eye of a hawk here.~
+flesh~
+0
+treasure 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+14 1 3500 P
+A
+18 1
+A
+14 25
+#4880
+hermit bracelet~
+the hermit's bracelet~
+You see the bracelet that belongs to the hermit.~
+cloth~
+0
+jewelry 2
+0
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 3 5000 P
+A
+24 -1
+A
+13 5
+A
+18 2
+#4881
+hermit shirt~
+the hermit's oily tattered shirt~
+You see a tattered shirt that belongs to the hermit.~
+cloth~
+0
+clothing 2
+0
+B
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 6 6000 P
+#4882
+tiger steak~
+a tiger steak~
+You see a large hunk of meat here.  It looks like a BIG meal.~
+~
+0
+food 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BCD 0 0 0 0
+0
+0
+1 5 50 P
+#4883
+foliage sandwich~
+a foliage sandwich~
+You see a sandwich made of a variey of vegetables in the jungle.~
+~
+0
+food 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC 0 0 0 0
+0
+0
+1 1 25 P
+#4884
+lizard skin jug~
+a lizard skin jug~
+You see a jug made from the skin of a lizard.~
+~
+0
+drink 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+FH FH 0 0 0
+0
+0
+1 2 1500 P
+#4885
+amulet scale~
+a reptile scale amulet~
+You see a reptile scale amulet.~
+scales~
+0
+jewelry 2
+0
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 1 7500 P
+A
+13 15
+A
+18 1
+#4886
+axe jungle~
+a heavy jungle axe~
+You see a jungle axe here.~
+~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC B D ABC 0
+0
+0
+20 15 7500 P
+A
+19 3
+A
+18 1
+#4887
+jungle polearm pole arm~
+a tall jungle polearm~
+A tall polearm used to cut foliage and people is here.~
+~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC AB BD ABC 0
+0
+0
+28 24 7500 P
+#4888
+altar~
+the sacrificial altar~
+A sacrifical altar is here, smelling of burning flesh.~
+~
+0
+container 2
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE A 0 C 0
+0
+0
+0 0 0 A
+#4889
+tarnished silver bracelet~
+a tarnished and slightly burned silver bracelet~
+A tarnished and slightly burned silver bracelet is here.~
+silver~
+0
+jewelry 2
+0
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 1 100 P
+A
+4 1
+#4890
+jungle pixie wings~
+a pair of jungle pixie wings~
+A pair of jungle pixie wings are here.~
+scales~
+0
+armor 2
+G
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B B 0
+0
+0
+25 1 1000 P
+A
+3 1
+A
+14 10
+A
+12 10
+#4891
+leopard spots~
+a bunch of leopard spots~
+A bunch of leopard spots are gathered here.~
+~
+0
+armor 2
+0
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A 0 0
+0
+0
+15 1 2000 P
+A
+5 1
+#4892
+beast hooves~
+the wild beast's hooves~
+The hooves of the wild beast are here.~
+horn~
+0
+armor 2
+0
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B 0 0
+0
+0
+25 1 1500 P
+A
+13 10
+#4893
+vine belt~
+a belt made of vines~
+A belt made of green vine is here.~
+wood~
+0
+armor 2
+0
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B 0 0
+0
+0
+24 1 1000 P
+A
+5 1
+A
+18 1
+A
+19 1
+A
+13 5
+#4894
+dragonscale scale shield~
+a dragon scaled shield~
+A dragonscaled shield from a river dragon is here.~
+scales~
+0
+armor 2
+0
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC BC BC BC 0
+0
+0
+30 1 5000 P
+A
+5 1
+A
+18 2
+A
+19 2
+#4895
+machete~
+a machete~
+A machete is here.~
+~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A B BCD A 0
+0
+0
+32 7 1000 P
+A
+19 2
+A
+18 1
+A
+5 -1
+#4896
+An ugly stick~
+An ugly stick~
+A ugly looking stick sits here..... you shudder at the thought of it hitting you.~
+energy~
+0
+weapon 2
+ABIS
+0
+ANP
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 BEF BEF BCD ACDGHI
+0
+0
+100 0 5000 P
+A
+18 100
+A
+19 100
+#4897
+A silver sun necklace~
+a silver sun necklace~
+This pendant remains free from tarnish... It is in the likeness of a grinning sun.~
+silver~
+0
+jewelry 2
+BIS
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 5 7500 P
+A
+2 -1
+A
+19 1
+#4898
+a sandy key~
+a short key covered in sand~
+A short key covered in sand sits here.~
+unknown~
+0
+key 2
+SY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 10 0 P
+#4899
+fang worm egavanos~
+`aThe Worm's Fang``~
+`aThe fang of the worm Egavanos writhes slowly here.``~
+bone~
+150
+weapon 2
+CSY
+0
+AN
+CFI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B AD AC ABD DH
+0
+0
+57 20 750 P
+A
+19 5
+A
+18 3
+A
+1 -2
+#4900
+`dThe Eagle's Circlet``~
+`dAn Eagle's Circlet``~
+`dA coronet woven from the feathers of jungle eagles rests lightly here.``~
+feather~
+0
+armor 2
+AS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+35 1 500 P
+A
+2 1
+A
+26 1
+A
+13 15
+A
+18 3
+#4901
+bridge~
+A bridge lookout~
+~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n leaps from a bridge into the chilly waters of the ocean!~
+You leap from a bridge.... why?~
+~
+~
+-1 0 G BEGHIP H
+0
+0
+90 500 0 P
+#4902
+bridge~
+A bridge lookout~
+~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n leaps from a bridge into the chilly waters of the ocean!~
+You leap from a bridge..... why?~
+~
+~
+-1 0 G BCDFGIP H
+0
+0
+90 500 0 P
+#4903
+bridge~
+a bridge lookout~
+~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n leaps from a bridge into the chilly waters of the ocean!~
+You leap from a bridge.... why?~
+~
+~
+-1 0 G BDIP H
+0
+0
+90 500 0 P
+#4904
+bridge~
+the `agreystone`` bridge~
+A beautiful `agreystone`` bridge stretches out into the distance to the south.~
+stone~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCDGIJM A
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#4862
+0 0
+~
+~
+~
+0 0 0
+Entrance to Jungle Island~
+`cCrossing an old stone bridge, you come to an island.  Bathed on all
+sides by `locean `cwaters, and nourished by the unforgiving `ksun`c, this
+place has sprouted all manner of trees and ferns, some of which resent the
+eventual intrusion of bipedal things such as you.  There is a path that
+wends off somewhat to the south, and smoke that is just vaguely visible far
+away.  An odd, meaty smell emanates from the undergrowth to the west. 
+`dThere is a sign here, driven half way into the earth.  `` 
+~
+0 0 3
+0
+~
+I 0 E
+sign~
+You see a tall wooden sign.
+It reads:
+         If you are under level 10 proceed at your own risk.
+         There are some hungry animals and plants that love
+         to devour newbies.
+         Be careful...
+     -The Captains of the Eagle and Ocelot Orders, City of the Sun
+~
+D0
+~
+~
+0 0 4944
+D2
+~
+~
+0 0 4863
+S
+#4863
+0 0
+~
+~
+~
+0 0 0
+A Path in the Jungle~
+Wild ferns, bright green trees, and many exotic plants that you have
+never seen before line the path.  The path appears to have once been well
+traveled, but now it seems that soon the foliage will grow over the path
+soon.  The air here seems moist, and nature waiting, as if a test has begun
+without your knowing it.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4862
+D1
+~
+~
+0 0 4864
+D2
+~
+~
+0 0 4869
+D3
+~
+~
+0 0 4865
+S
+#4864
+0 0
+~
+~
+~
+0 0 0
+A Path in the Jungle~
+Wild ferns, bright green trees, and many exotic plants that you have
+never seen before line the path.  The path seems to have once been well
+travelled, but it seems that soon the foliage will overtake the path.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 4919
+D3
+~
+~
+0 0 4863
+S
+#4865
+0 0
+~
+~
+~
+0 0 0
+A Bridge~
+You look out over a narrow pass over the raging Vestimbar River.  There
+is an ancient bridge that looks as if it's seen better days, but still may
+have enough life in it to see you safely across to the opposite bank.  Some
+of the planks are missing, and there seem to be sharp gray rocks at the
+bottom, so be careful.  
+~
+0 0 3
+0
+~
+I 0 E
+bridge~
+This wooden bridge looks like it is going to fall apart
+soon.  You feel that you should tip toe across.
+~
+D1
+~
+~
+0 0 4863
+D3
+~
+~
+0 0 4867
+S
+#4866
+0 0
+~
+~
+~
+0 0 0
+Lost in the Foliage~
+What once was a path is now completely overgrown.  You are lost, and wish
+you had not strayed from the path.  Unfortunately, all exits seem equally
+dismal, and the mist is only getting thicker, further obscuring the hope of
+escape.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4868
+S
+#4867
+0 0
+~
+~
+~
+0 0 0
+Overgrown Path~
+This path must have been used in the past, but forgotten for some reason.
+As the people from the Lizard Village moved south, the trail fell into
+disrepair.  To the east is a worn old bridge, and in all other directions,
+the terrain becomes wildly chaotic.  Huge liana vines carpet the floor, and
+waxy ferns brush your legs, leaving wet streaks in their wake.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4866
+D1
+~
+~
+0 0 4865
+D2
+~
+~
+0 0 4871
+D3
+~
+~
+0 0 4868
+S
+#4868
+0 0
+~
+~
+~
+0 0 0
+Lost in the Foliage~
+What once was a path is not completely overgrown.  You are lost, and wish
+you had not strayed from the path.  Every possible way to go just seems to
+lead further into the misty maze you find yourself in.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4866
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4871
+D3
+~
+~
+0 0 4926
+S
+#4869
+0 0
+~
+~
+~
+0 0 0
+A Path in the Jungle~
+Wild ferns, bright green trees, and many exotic plants that you have
+never seen before line the path.  The path seems to have once been well
+traveled, but it seems that the foliage will grow over the path.  To your
+west you can see the fast moving Vestimbar River, but there is no place to
+cross, and the current moves much to fast for you to swim.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4863
+D1
+~
+~
+0 0 4929
+D2
+~
+~
+0 0 4892
+S
+#4870
+90 200
+Remebering the wisdom of your teachers, you gain 200 experience.~
+~
+~
+0 0 0
+A Muddy Pit~
+Upon entering this room, your boots begin to sink slowly into the muck.
+You remember the wisdom of your teachers and slowly float your way toward
+the exit.
+~
+0 ACD 0
+0
+~
+H90
+I 0 M90
+D1
+~
+~
+0 0 4862
+S
+#4871
+0 0
+~
+~
+~
+0 0 0
+Lost in the Foliage~
+What once was a path is now completely overgrown.  You are lost, and wish
+you had not strayed from the path.  Unfortunately, all exits seem equally
+dismal, and the mist is only getting thicker, further obscuring the hope of
+escape.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4866
+D3
+~
+~
+0 0 4868
+S
+#4872
+0 0
+~
+~
+~
+0 0 0
+A Sturdy Bridge~
+This bridge crosses the dark and muddy Vestimbar River.  You see a well
+kept path to the west and the path to the east leads to a dark part of the
+jungle.  Tall trees line both sides of the path, not only scenting the wet
+air with a delicate, primeval perfume, but also hiding rare `lbirds`c, such
+as the toucan, the parrot, and the paradise wren.  Their calls and displays
+remind even the most intrepid explorer than they are far from the comforts
+of home.  
+~
+0 0 3
+0
+~
+I 0 E
+bridge~
+This bridge is well kept, and seems rather sturdy.
+~
+D1
+~
+~
+0 0 4892
+D3
+~
+~
+0 0 4873
+S
+#4873
+0 0
+~
+~
+~
+0 0 0
+A New Path Begins~
+`cThis path seems rather new and well kept. To the east is an arching `agrey
+`cstone bridge that evidently goes to some place rather important, for
+stone is not a native material on this island. The `lVestimbar River `cfoams
+and rushes loudly underneath the bridge, and the path that leads away to the
+south seems well cared for.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 4872
+D2
+~
+~
+0 0 4874
+S
+#4874
+0 0
+~
+~
+~
+0 0 0
+Well Kept Path~
+This path is rather new and well kept.  To the east you can hear the roar
+of the Vestimbar River, and to the south a well cared for path continues. 
+Where does this path lead?  Drums can be heard close by, and what seems to
+be the skeletons of animals are partially hidden by the lush, unforgiving
+vegetation. 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4873
+D2
+~
+~
+0 0 4875
+S
+#4875
+0 0
+~
+~
+~
+0 0 0
+Path to the Village of the Lizard People~
+You are on a well cared for path.  The path continues north and east. 
+You can barely hear the roar of the Vestimbar River which is far to the
+east.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4874
+D1
+~
+~
+0 0 4876
+S
+#4876
+0 0
+~
+~
+~
+0 0 0
+Path to the Village of the Lizard People~
+The jungle seems to be cut back here.  To the south a the path widens a
+little bit.  The incessant drip of water from the waxy leaves of the taller
+trees has crystallized into the pleasing sounds of flutes, drums and
+strings.  Whoever built this path also took the time to locate water drips
+and stretch taut skins of jungle animals under them.  Small wooden flutes
+hang suspended from low branches where the unceasing wind can blow through
+them.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 4877
+D3
+~
+~
+0 0 4875
+S
+#4877
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Village of the Lizard People~
+You see the Village of the Lizard People to the south.  The path is
+wider, and obviously the Lizard People put a great effort into keeping the
+jungle from encroaching on their homes.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4876
+D2
+~
+~
+0 0 4878
+S
+#4878
+0 0
+~
+~
+~
+0 0 0
+Village Road~
+You are in a wide clearing of the Jungle in which this village was built.
+You notice huts to your east and west, and to the south you will continue
+through the village.  North leads out of the village.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4877
+D1
+You see a door.
+~
+door~
+1 0 4881
+D2
+~
+~
+0 0 4879
+D3
+~
+~
+0 0 4882
+S
+#4879
+0 0
+~
+~
+~
+0 0 0
+Village Road~
+You are the main road that leads through the Village of the Lizard
+People.  To the east you see a market or such, with many people passing
+through.  The exotic sights, sounds and smells remind even the most seasoned
+traveller that they are far away from home.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4878
+D1
+You see a door.
+~
+door~
+1 0 4884
+D2
+~
+~
+0 0 4880
+S
+#4880
+0 0
+~
+~
+~
+0 0 0
+Village Road~
+You are on the main road that goes through the Village of the Lizard
+People.  You notice a small hut to your east, an altar of some sort to the
+west, and the road continues north to south.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4879
+D1
+You see a door.
+~
+door~
+1 0 4885
+D2
+~
+~
+0 0 4887
+D3
+~
+~
+0 0 4886
+S
+#4881
+0 0
+~
+~
+~
+0 0 0
+A small hut~
+You are in a small hut in which most of the Lizard families live in. 
+The hut reeks of a weird stench that you cannot place.  The walls and floor
+feel oily to you,  and the ceiling is no more than some rude palm fronds
+lashed with a bit of fraying rope over a frame of sticks.  Small cooking
+utensils hang from pegs driven into the earthen walls.  
+~
+0 AD 0
+0
+~
+I 0 D3
+You see a door.
+~
+door~
+1 0 4878
+S
+#4882
+0 0
+~
+~
+~
+0 0 0
+The hut of the witch doctor~
+This hut looks a bit larger that most of the others in the Lizard Village,
+seeing that most of the people here are in awe of the powers at his command
+and fear that they may be next. Small bony-looking birds perch in the
+rafters, and there is a strange smell emanating from the floor.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 4878
+D5
+You see a secret door.
+~
+secret~
+1 0 4883
+S
+#4883
+0 0
+~
+~
+~
+0 0 0
+The witch doctor's shrine~
+This cramped space has been carved from the ancient trunk of a dead tree.
+The wood has been smoothed and shaped by successive generations of Lizard
+Shamans into a livable space that holds innumerable mystic objects, some
+of which look vaguely like bodily organs.
+~
+0 ADJ 0
+0
+~
+I 0 D4
+You see a secret door.
+~
+secret~
+1 0 4882
+S
+#4884
+0 0
+~
+~
+~
+0 0 0
+Open Air Market~
+Various carts that are full of many types of vegetables, fruits, and 
+dried meats are here. You see many lizard people in line waiting to 
+buy food.
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 4879
+S
+#4885
+0 0
+~
+~
+~
+0 0 0
+A small hut~
+You are in a small hut in which most of the Lizard families live in. 
+The hut reems of a wierd stench that you cannot place. The walls and floor
+feel oily to you  And the ceiling is no more than some rude palm fronds
+lashed with a bit of fraying rope over a frame of sticks.  Small cooking
+utensils hang from pegs driven into the earthen walls.  
+~
+0 AD 0
+0
+~
+I 0 D3
+You see a door.
+~
+door~
+1 0 4880
+S
+#4886
+0 0
+~
+~
+~
+0 0 0
+Village Sacrificial Altar~
+There is a large wooden altar with the head of a giant lizard woman
+sitting on top of it.  You see ashes all over the ground, and there is a
+terrible stench.  You think it might be human...  Possibly that last
+adventurer who wandered through here.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 4880
+S
+#4887
+0 0
+~
+~
+~
+0 0 0
+Village Road~
+You are on the main road that goes through the Village of the Lizard
+People.  To the east you see an extra large hut, to the west a hut that has
+burned down, and the road continues north and south.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4880
+D1
+You see a door.
+~
+door~
+1 0 4889
+D2
+~
+~
+0 0 4890
+D3
+~
+~
+0 0 4888
+S
+#4888
+0 0
+~
+~
+~
+0 0 0
+Burned down hut~
+As you enter this place, you realize that it must have caught fire long ago.
+Actually, you realize that is nearly impossible, seeing that the air here
+is so wet that your clothing nearly drips off you.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 4887
+S
+#4889
+0 0
+~
+~
+~
+0 0 0
+Chief's Hut~
+This hut is much larger that the others in the Village.  You know that
+someone important lives here.  Many statues of Lizards in heroic poses line
+the walls of the hut.  A few of the Chief's toadies wait here to serve him. 
+~
+0 0 3
+0
+~
+I 0 D3
+You see a door.
+~
+door~
+1 0 4887
+S
+#4890
+0 0
+~
+~
+~
+0 0 0
+Village Road~
+You are on the main road that goes through the Village of the Lizard
+People.  You see a hut to your east, and the road continues north to south. 
+You see the heavy jungle to your west, but there is no path in that
+direction.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4887
+D1
+You see a door.
+~
+door~
+1 0 4891
+D2
+~
+~
+0 0 4916
+S
+#4891
+0 0
+~
+~
+~
+0 0 0
+A small hut~
+You are in a small hut in which most of the Lizard families live in.  The
+hut reeks of a weird stench that you cannot place.  The walls and floor feel
+oily to you, and the ceiling is no more than some rude palm fronds lashed
+with a bit of fraying rope over a frame of sticks.  Small cooking utensils
+hang from pegs driven into the earthen walls.  
+~
+0 AD 0
+0
+~
+I 0 D3
+You see a door.
+~
+door~
+1 0 4890
+S
+#4892
+0 0
+~
+~
+~
+0 0 0
+Deep into the Jungle~
+Tropical trees surround you and block out almost all light.  It is very
+dark, but you can make out exits to the west where you think you see a
+bridge, as well as a path that runs north and south.  
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 4869
+D2
+~
+~
+0 0 4893
+D3
+~
+~
+0 0 4872
+S
+#4893
+0 0
+~
+~
+~
+0 0 0
+Before a Huge Tree~
+The path ends at a huge tree.  The tree has low branches and you think
+you might be able to climb up them.  The tree also appears to be have a hole
+in it that might be an entrance.  You think you see a path that goes around
+the tree to the east.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4892
+D1
+~
+~
+0 0 4894
+D2
+~
+~
+0 0 4917
+D4
+~
+~
+0 0 4896
+S
+#4894
+0 0
+~
+~
+~
+0 0 0
+An Opening to a Clearing~
+The jungle seems to be thinning out a bit here.  The sun, a rare venturer
+into this foliage-benighted realm, shines forth even more bravely.  A few
+thin, wispy clouds peek through the few branches.  Even fewer things block
+the warmth to the south.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 4895
+D3
+~
+~
+0 0 4893
+S
+#4895
+0 0
+~
+~
+~
+0 0 0
+A New Path Opens~
+The trees have thinned, although many different types of shrubs and ferns
+surround you.  The sky above is very clear, and you notice vultures flying
+above.  One tall tree stands in the center of the clearing, with easily
+grasped branches.  Perhaps you should climb it and see what is above the
+riot of green life on the ground.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4894
+D2
+~
+~
+0 0 4898
+D4
+~
+~
+0 0 4897
+S
+#4896
+0 0
+~
+~
+~
+0 0 0
+A branch of the tree~
+You are on a branch of the huge tree.  The many sharp green leaves limit
+your visibility.  You think you hear an animal growling, but you are not
+sure if it is real, or if you are just paranoid.  
+~
+0 A 0
+0
+~
+I 0 D5
+~
+~
+0 0 4893
+S
+#4897
+0 0
+~
+~
+~
+0 0 0
+On top of the Jungle~
+You are flying above the jungle.  The tops of the trees are beautiful,
+and you can hear many birds flying above.  A line of connecting branches
+lays out a lithe path for those daring (and slender!)  enough to take it.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 4900
+D1
+~
+~
+0 0 4902
+D2
+~
+~
+0 0 4899
+D5
+~
+~
+0 0 4895
+S
+#4898
+0 0
+~
+~
+~
+0 0 0
+By the River~
+The Vestimbar River is below you to your southeast.  A path continues to
+the banks of the river to your south, and you see a clearing in the jungle
+to your north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4895
+D2
+~
+~
+0 0 4904
+S
+#4899
+0 0
+150~
+~
+~
+0 0 0
+On top of the Jungle~
+You are flying above the jungle.  The tops of the trees are beautiful,
+and you can hear many birds flying above.  A line of connecting branches
+lays out a lithe path for those daring (and slender!)  Enough to take it.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 4897
+D1
+~
+~
+0 0 4903
+S
+#4900
+0 0
+~
+~
+~
+0 0 0
+On top of the Jungle~
+You are flying above the jungle.  The tops of the trees are beautiful,
+and you can hear many birds flying above.  A line of connecting branches
+lays out a lithe path for those daring (and slender!)  enough to take it.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 4901
+D2
+~
+~
+0 0 4897
+S
+#4901
+0 0
+~
+~
+~
+0 0 0
+On top of the Jungle~
+You are flying above the jungle.  The tops of the trees are beautiful,
+and you can hear many birds flying above.  A line of connecting branches
+lays out a lithe path for those daring (and slender!)  enough to take it.  
+~
+0 0 9
+0
+~
+I 0 D2
+~
+~
+0 0 4902
+D3
+~
+~
+0 0 4900
+S
+#4902
+0 0
+~
+~
+~
+0 0 0
+On top of the Jungle~
+You are flying above the jungle.  The tops of the trees are beautiful,
+and you can hear many birds flying above.  A line of connecting branches
+lays out a lithe path for those daring (and slender!)  enough to take it.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 4901
+D2
+~
+~
+0 0 4903
+S
+#4903
+0 0
+~
+~
+~
+0 0 0
+On top of the Jungle~
+You are flying above the jungle.  The tops of the trees are beautiful,
+and you can hear many birds flying above.  A line of connecting branches
+lays out a lithe path for those daring (and slender!)  enough to take it.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 4902
+D3
+~
+~
+0 0 4899
+S
+#4904
+0 0
+~
+~
+~
+0 0 0
+River Bank~
+You are on the bank of the fast paced Vestimbar River.  The roar of the
+river almost hurts your ears.  The bank continues to the east, and there is
+a path to the north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4898
+D1
+~
+~
+0 0 4905
+S
+#4905
+0 0
+~
+~
+~
+0 0 0
+The Carved Bridge~
+Your heart begins to lift as you notice more frequent signs of (somewhat)
+human life. Peering out over the Vestimbar River, you see a bridge that
+has been deeply carved with the likenesses of trees that certainly have
+never grown in this hot, humid land.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4923
+D2
+~
+~
+0 0 4907
+D3
+~
+~
+0 0 4904
+S
+#4906
+0 0
+~
+~
+~
+0 0 0
+A Warrior's Covert~
+This room has a warm fire and a few supplies needed by aspirants to the
+Orders of the Eagle and Ocelot. This place, hidden away from all, is a 
+haven for those who are too weary or hurt to continue.
+~
+0 AN 0
+0
+~
+H105
+I 0 M105
+D1
+~
+door~
+1 0 4941
+D3
+~
+~
+0 0 4923
+S
+#4907
+0 0
+~
+~
+~
+0 0 0
+A Log Bridge~
+As you press on, undaunted in your task of piercing the secrets of this
+dread island, you come upon a lesser part of a large village hidden in the
+scrub trees. There is a large log that provides access to these huts, if you
+can pass the Lizard Soldier blocking your way.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4905
+D2
+~
+~
+0 0 4908
+D5
+~
+~
+0 0 4932
+S
+#4908
+0 0
+~
+~
+~
+0 0 0
+A Steep Incline~
+The path climbs over a small hill.  The path is narrow and is surrounded 
+by sounds and sights of the jungle.  You think you see an opening between
+two trees to the east, but you are unsure.  In fact, you really think
+that you should not go to the east.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4907
+D1
+~
+~
+0 0 4925
+D2
+~
+~
+0 0 4909
+D5
+~
+~
+0 0 4936
+S
+#4909
+0 0
+~
+~
+~
+0 0 0
+Narrow Path~
+The path narrows, and you are forced to walk single file.  To the sides
+of this thin walkway, large plants grow, including some that might consider
+you dinner!  These types of plants have been seen by few people, and they
+are usually kept by rich retired adventurer, safely under glass.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4908
+D3
+~
+~
+0 0 4910
+S
+#4910
+0 0
+~
+~
+~
+0 0 0
+A Side Path~
+You are on a side path that goes through the outskirts of the village. 
+Wild ferns, bushes and tall trees with brown trunks and bright green leaves
+make travel almost impossible.  You notice many varieties of flowers,
+covering almost the entire spectrum of color.  You see a very small hut to
+your east, and the path continues south.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 4909
+D2
+~
+~
+0 0 4912
+S
+#4911
+0 0
+~
+~
+~
+0 0 0
+A Very Small Hut~
+This hut is even smaller than the others.  It appears that only two could
+fit here, and maybe three if you tried real hard to squeeze in.  Obviously,
+this Lizardman withdrew from his village to persue a personal vision, given
+to him by whatever diety the Lizardmen choose to worship that season.  This
+hermit is so far gone that now he just sits and gently rocks back and forth
+slowly, awaiting the coming of his god, or a slow death due to neglect.  
+~
+0 AJ 0
+0
+~
+I 0 D3
+~
+~
+0 0 4912
+S
+#4912
+0 0
+~
+~
+~
+0 0 0
+Side Path~
+You are on a side path that goes through the outskirts of the village. 
+Wild ferns, bushes and tall trees with brown trunks and bright green leaves
+make travel almost impossible.  You notice many varieties of flowers,
+covering almost the entire spectrum of color.  You see a very small hut to
+your east, and the path continues north and south.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4910
+D1
+~
+~
+0 0 4911
+D2
+~
+~
+0 0 4914
+S
+#4913
+0 0
+~
+~
+~
+0 0 0
+A Small Abandoned Hut~
+You are in a small hut in which most of the Lizard families lived in. 
+The hut reeks of a weird stench that you cannot place.  The walls and floor
+feel oily to you.  However, it appears that no one has lived here for some
+time as the door is broken and other than the smell, there is no other trace
+of life here.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 4914
+S
+#4914
+0 0
+~
+~
+~
+0 0 0
+Side Path~
+You are on a side path that goes through the outskirts of the village. 
+Wild ferns, bushes and tall trees with brown trunks and bright green leaves
+make travel almost impossible.  You notice many varieties of flowers,
+covering almost the entire spectrum of color.  You see a small hut to your
+east, and the path continues north and west.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4912
+D1
+~
+~
+0 0 4913
+D3
+~
+~
+0 0 4915
+S
+#4915
+0 0
+~
+~
+~
+0 0 0
+Side Path~
+You are on a side path that goes through the outskirts of the village. 
+Wild ferns, bushes and tall trees with brown trunks and bright green leaves
+make travel almost impossible.  You notice many varieties of flowers,
+covering almost the entire spectrum of color.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 4914
+D3
+~
+~
+0 0 4916
+S
+#4916
+0 0
+~
+~
+~
+0 0 0
+End of the Road~
+You are on the end of the main road that goes through the Village of the
+Lizard People.  You see a small path through the encroaching jungle to your
+east, and to your north you see the main parts of the village.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4890
+D1
+~
+~
+0 0 4915
+S
+#4917
+0 0
+~
+~
+~
+0 0 0
+Inside the Tree~
+You are inside the tree.  The tree appears to have been hollowed
+out.  Perhaps someone lived here once.  Other than the smooth
+walls, there is nothing of notice here.
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 4893
+D5
+You see a secret door.
+~
+secret~
+1 0 4918
+S
+#4918
+0 0
+~
+~
+~
+0 0 0
+A Rotting Library~
+Everything in this room appears to be decaying.  The walls are
+lined with books that are moldy, a few crumbling scrolls are on
+a desk that appears to have rotted all the way through.  The room
+smells really terrible.
+~
+0 AD 0
+0
+~
+I 0 D4
+You see a secret door.
+~
+secret~
+1 0 4917
+S
+#4919
+0 0
+~
+~
+~
+0 0 0
+Narrow Path~
+The path narrows and the jungle seems to be almost growing on you.  You
+can feel nasty insects biting you, and you see strange ferns and flowers all
+over.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 4920
+D2
+~
+~
+0 0 4921
+D3
+~
+~
+0 0 4864
+S
+#4920
+0 0
+~
+~
+~
+0 0 0
+Thick Jungle~
+The Jungle is virtually impenetrable here.  The path is non-existent and
+you realize that you must turn back.  You think you see a possible trail to
+the south, but you cannot be sure.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 4922
+D3
+~
+~
+0 0 4919
+S
+#4921
+0 0
+~
+~
+~
+0 0 0
+A Trail Intersection~
+You are on a trail that exits in all directions.  The path seems clear to
+the south, and to the east the jungle seems thicker.  You can travel west,
+but some tall ferns make you unsure what lurks over there.  In fact
+something does not smell right to the west, making you think that going in
+that direction is a really bad idea.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4919
+D1
+~
+~
+0 0 4922
+D2
+~
+~
+0 0 4923
+D3
+~
+~
+0 0 4870
+S
+#4922
+0 0
+~
+~
+~
+0 0 0
+Thick Jungle~
+The Jungle is virtually impenetrable here.  The path is non-existent and
+you realize that you must turn back.  You think you see a possible trail to
+the west, but you cannot be sure.  Insects are really bothering you.  Right
+now you wish you were in a nice dry insect-free environment.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 4920
+D3
+~
+~
+0 0 4921
+S
+#4923
+0 0
+~
+~
+~
+0 0 0
+Deeper into the Jungle~
+As you push deeper into the jungle, you see less obvious signs of 
+civilization (not as if you had seen a lot of it anyway). To the south,
+you hear the Vestimbar River faintly, and to the southwest, you feel drums
+pulsing under your feet.
+~
+0 A 3
+0
+~
+I 0 D0
+~
+~
+0 0 4921
+D2
+~
+~
+0 0 4905
+S
+#4924
+0 0
+~
+~
+~
+0 0 0
+Clearing~
+For once you see more that just trees below you.  You notice a clearing
+below you. 
+~
+0 0 9
+0
+~
+I 0 D5
+~
+~
+0 0 4862
+S
+#4925
+0 0
+~
+~
+~
+0 0 0
+Quicksand!~
+SINKING!
+
+
+GASPING FOR BREATH!
+
+
+CHOKE COUGH GASP!!!
+
+
+You scream for help!
+
+
+NO ONE CAN HEAR YOU.
+(you should have been more careful)
+
+
+
+~
+0 ACDN 0
+0
+~
+H80
+I 0 M80
+D5
+`aGoing limp, you let the incessant pull of gravity take you to lightless
+worlds below.  `` 
+~
+~
+0 0 4941
+S
+#4926
+0 0
+~
+~
+~
+0 0 0
+Utterly Lost``~
+`aSomething dread stalks these swampy grounds.  The few fireside tales
+brave men have told about this place have been mistaken as mere fantasy. 
+Would it be that their tales were false.  `kMosquitos `aas big as silver
+pieces suck at every inch of your body.  Dank, waterlogged trees hang sickly
+vines that look as if they are bleeding sap.  Wounded animals, some with
+strange `bburns`a as if from some acid crawl up on the banks, only to be
+sucked back down by some mysterious force.  The mist is more prevalent here,
+and strange flashes of light only add to the sheer terror that is this
+place.  
+~
+0 A 14
+0
+~
+I 0 D0
+~
+~
+0 0 4930
+D1
+~
+~
+0 0 4928
+D2
+~
+~
+0 0 4866
+D3
+~
+~
+0 0 4927
+S
+#4927
+0 0
+(null)~
+~
+~
+0 0 0
+`aUtterly Lost``~
+`aSomething dread stalks these swampy grounds.  The few fireside tales
+brave men have told about this place have been mistaken as mere fantasy. 
+Would it be that their tales were false.  `kMosquitos `aas big as silver
+pieces suck at every inch of your body.  Dank, waterlogged trees hang sickly
+vines that look as if they are bleeding sap.  Wounded animals, some with
+strange `bburns`a as if from some acid crawl up on the banks, only to be
+sucked back down by some mysterious force.  The mist is more prevalent here,
+and strange flashes of light only add to the sheer terror that is this
+place.  
+~
+0 A 14
+0
+~
+I 0 D0
+~
+~
+0 0 4929
+D1
+~
+~
+0 0 4926
+D2
+~
+~
+0 0 4928
+D3
+~
+~
+0 0 4927
+S
+#4928
+0 0
+(null)~
+~
+~
+0 0 0
+`aUtterly Lost``~
+`aSomething dread stalks these swampy grounds.  The few fireside tales
+brave men have told about this place have been mistaken as mere fantasy. 
+Would it be that their tales were false.  `kMosquitos `aas big as silver
+pieces suck at every inch of your body.  Dank, waterlogged trees hang sickly
+vines that look as if they are bleeding sap.  Wounded animals, some with
+strange `bburns`a as if from some acid crawl up on the banks, only to be
+sucked back down by some mysterious force.  The mist is more prevalent here,
+and strange flashes of light only add to the sheer terror that is this
+place.  
+~
+0 A 14
+0
+~
+I 0 D0
+~
+~
+0 0 4930
+D1
+~
+~
+0 0 4929
+D2
+~
+~
+0 0 4871
+D3
+~
+~
+0 0 4927
+S
+#4929
+0 0
+(null)~
+~
+~
+0 0 0
+`aUtterly Lost``~
+`aSomething dread stalks these swampy grounds.  The few fireside tales
+brave men have told about this place have been mistaken as mere fantasy. 
+Would it be that their tales were false.  `kMosquitos `aas big as silver
+pieces suck at every inch of your body.  Dank, waterlogged trees hang sickly
+vines that look as if they are bleeding sap.  Wounded animals, some with
+strange `bburns`a as if from some acid crawl up on the banks, only to be
+sucked back down by some mysterious force.  The mist is more prevalent here,
+and strange flashes of light only add to the sheer terror that is this
+place.  
+~
+0 A 14
+0
+~
+I 0 D0
+~
+~
+0 0 4929
+D2
+~
+~
+0 0 4929
+D3
+~
+~
+0 0 4871
+S
+#4930
+0 0
+(null)~
+~
+~
+0 0 0
+`aUtterly Lost``~
+`aSomething dread stalks these swampy grounds.  The few fireside tales
+brave men have told about this place have been mistaken as mere fantasy. 
+Would it be that their tales were false.  `kMosquitos `aas big as silver
+pieces suck at every inch of your body.  Dank, waterlogged trees hang sickly
+vines that look as if they are bleeding sap.  Wounded animals, some with
+strange `bburns`a as if from some acid crawl up on the banks, only to be
+sucked back down by some mysterious force.  The mist is more prevalent here,
+and strange flashes of light only add to the sheer terror that is this
+place.  
+~
+0 A 14
+0
+~
+I 0 D0
+~
+~
+0 0 4927
+D1
+~
+~
+0 0 4930
+D2
+~
+~
+0 0 4926
+D3
+~
+~
+0 0 4929
+S
+#4932
+0 0
+~
+~
+~
+0 0 0
+Wading the Vestimbar River~
+You are wading through the Vestimbar River.  The water is not deep here
+and is not moving that fast.  The river flows east to west here, and you
+notice a path leading up out of the river.  
+~
+0 C 6
+0
+~
+I 0 D1
+~
+~
+0 0 4933
+D3
+~
+~
+0 0 4935
+D4
+~
+~
+0 0 4907
+S
+#4933
+0 0
+~
+~
+~
+0 0 0
+On the River~
+You are wading through the Vestimbar River.  The water is not deep here
+and is not moving that fast.  The river flows east to west here.  You think
+you notice something swimming below you...  Is that what is nibbling at your
+ankles?  
+~
+0 0 6
+0
+~
+I 0 D1
+~
+~
+0 0 4934
+D3
+~
+~
+0 0 4932
+S
+#4934
+0 0
+~
+~
+~
+0 0 0
+Rapids~
+You are wading through the Vestimbar River.  Ahead to your east are
+rapids which you do not think you can pass.  You can travel west on the
+river.  
+~
+0 0 6
+0
+~
+I 0 D3
+~
+~
+0 0 4933
+S
+#4935
+0 0
+~
+~
+~
+0 0 0
+Perilous Rapids~
+You are wading through the Vestimbar River.  Ahead to your west are
+rapids which you do not think you can pass.  You can travel east on the
+river.  
+~
+0 0 6
+0
+~
+I 0 D1
+~
+~
+0 0 4932
+S
+#4936
+0 0
+~
+~
+~
+0 0 0
+A hole in the ground~
+You seem to have stumbled into a hole in the ground, dug here by eager
+Lizard hunters trying to catch the fearsome tigers that roam the island.
+You hope that these youthful hunters don't like the idea that YOU could
+take the place of their toothy trophy.
+~
+0 AD 0
+0
+~
+I 0 D4
+~
+~
+0 0 4908
+S
+#4938
+0 0
+~
+~
+~
+0 0 0
+Freshly Cut Path~
+This section of the path seems to be freshy cut.  You can see slashed
+vines littering the ground.  The remains of these once proud guardians
+writhe slowly, as if still trying to defend their earthy home.  The ones
+that survived the assault are much more wary, and seem to crowd the path,
+hungry for violence.  
+~
+0 0 6
+0
+~
+I 0 D1
+~
+~
+0 0 4916
+D3
+~
+~
+0 0 4939
+S
+#4939
+0 0
+~
+~
+~
+0 0 0
+Freshly Cut Path~
+This section of the path seems to be freshy cut.  You can see slashed
+vines littering the ground.  You see the jungle open up into the Wasteland
+to the west...  You think it would be best not to go in that direction.  
+~
+0 0 6
+0
+~
+I 0 D1
+~
+~
+0 0 4938
+D2
+~
+~
+0 0 4940
+S
+#4940
+0 0
+~
+~
+~
+0 0 0
+Freshly Cut Path~
+This section of the path seems to be freshy cut.  You can see slashed
+vines littering the ground.  The remains of these once proud guardians
+writhe slowly, as if still trying to defend their earthy home.  The ones
+that survived the assault are much more wary, and seem to crowd the path,
+hungry for violence. 
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 4939
+S
+#4941
+0 0
+250~
+~
+~
+0 0 0
+Under the Quicksand~
+As you slowly sink in this muddy hole, you realize that you can see
+and breathe. Maybe there's something down here you might like.... or maybe
+you'll just keep sinking down into the lightless depths.
+~
+0 A 18
+0
+~
+H80
+I 0 M80
+D3
+~
+door~
+1 4898 4906
+S
+#4942
+0 0
+~
+~
+~
+0 0 0
+`oAn arching, greystone bridge``~
+`a  This stone bridge arches up over the whitecapped ocean, high enough for
+great ships to sail under.  The carved handrail feels reassuring under your
+hands, and this structure looks wide and stable enough to resist even the
+most fierce of nature's storms.  From the south, a humid breeze blows,
+bringing wild, exotic scents from the depths of an overgrown island. 
+Looking over the side of this bridge may not be a wise idea, as the great
+height induces vertigo in all but the most seasoned sailors.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 4943
+D2
+~
+~
+0 0 4944
+S
+#4943
+0 0
+(null)~
+~
+~
+0 0 0
+`oAn arching, greystone bridge``~
+`a  This stone bridge arches up over the whitecapped ocean, high enough for
+great ships to sail under.  The carved handrail feels reassuring under your
+hands, and this structure looks wide and stable enough to resist even the
+most fierce of nature's storms.  From the south, a humid breeze blows,
+bringing wild, exotic scents from the depths of an overgrown island. 
+Looking over the side of this bridge may not be a wise idea, as the great
+height induces vertigo in all but the most seasoned sailors.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 21091
+D2
+~
+~
+0 0 4942
+S
+#4944
+0 0
+~
+~
+~
+0 0 0
+`oAn arching, greystone bridge``~
+`a  As the bridge nears the solid `dearth`a again, you notice that it falls
+into a bit of disrepair.  The stone handrail is missing in a few places, and
+through the gaps, the murky ocean roll is visible.  Immediately to the south
+are the testing grounds of Jungle Island.  The heat, humidity, and stench of
+riotous `cvegetation`a nearly overwhelms you, but to turn back now would be
+to admit defeat.  If you choose to do so, return north to the safety of the
+known world.  
+~
+0 C 0
+0
+~
+I 0 D0
+~
+~
+0 0 4942
+D2
+~
+~
+0 0 4862
+S
+#0
+
+#RESETS
+M 0 4862   1 4896  1	* The tiger
+E 0 4862   -1    5	* item to The tiger
+M 0 4863   1 4869  1	* A fanged spider
+E 0 4863   -1   16	* item to A fanged spider
+M 0 4864   1 4871  1	* A black spotted snake
+E 0 4864   -1   14	* item to A black spotted snake
+M 0 4864   1 4864  1	* A black spotted snake
+E 0 4864   -1   15	* item to A black spotted snake
+M 0 4865   2 4897  1	* A giant vulture
+E 0 4865   -1    6	* item to A giant vulture
+M 0 4865   2 4899  1	* A giant vulture
+E 0 4865   -1    6	* item to A giant vulture
+M 0 4865   3 4897  1	* A giant vulture
+E 0 4865   -1   17	* item to A giant vulture
+D 0 4878   1    1	* Village Road [east]
+D 0 4881   3    1	* A small hut [west]
+D 0 4880   1    1	* Village Road [east]
+D 0 4885   3    1	* A small hut [west]
+D 0 4882   5    1	* The hut of the witch doctor [down]
+D 0 4883   4    1	* The witch doctor's shrine [up]
+D 0 4887   1    1	* Village Road [east]
+D 0 4889   3    1	* Chief's Hut [west]
+D 0 4890   1    1	* Village Road [east]
+D 0 4891   3    1	* A small hut [west]
+M 0 4869   1 4889  1	* The chief
+E 0 4866   -1    6	* item to The chief
+E 0 4867   -1   17	* item to The chief
+M 0 4870   7 4877  1	* A lizard person soldier
+M 0 4870   7 4877  1	* A lizard person soldier
+E 0 4868   -1   16	* item to A lizard person soldier
+E 0 4869   -1   12	* item to A lizard person soldier
+M 0 4871   7 4877  1	* A lizard person soldier
+E 0 4868   -1   16	* item to A lizard person soldier
+E 0 4869   -1   12	* item to A lizard person soldier
+M 0 4870   7 4880  1	* A lizard person soldier
+E 0 4868   -1   16	* item to A lizard person soldier
+M 0 4871   7 4880  1	* A lizard person soldier
+E 0 4887   -1   16	* item to A lizard person soldier
+M 0 4870   7 4889  1	* A lizard person soldier
+E 0 4868   -1   16	* item to A lizard person soldier
+E 0 4869   -1   12	* item to A lizard person soldier
+M 0 4871   7 4889  1	* A lizard person soldier
+E 0 4886   -1   16	* item to A lizard person soldier
+E 0 4869   -1   12	* item to A lizard person soldier
+M 0 4870   7 4886  1	* A lizard person soldier
+E 0 4887   -1   16	* item to A lizard person soldier
+M 0 4871   7 4890  1	* A lizard person soldier
+E 0 4886   -1   16	* item to A lizard person soldier
+E 0 4869   -1   12	* item to A lizard person soldier
+M 0 4866   3 4881  1	* A lizard man
+M 0 4867   3 4881  1	* A lizard woman
+M 0 4868   3 4881  1	* A lizard child
+M 0 4866   3 4885  1	* A lizard man
+M 0 4867   3 4885  1	* A lizard woman
+M 0 4868   3 4885  1	* A lizard child
+M 0 4866   3 4891  1	* A lizard man
+M 0 4867   3 4891  1	* A lizard woman
+M 0 4868   3 4891  1	* A lizard child
+M 0 4880   1 4911  1	* The hermit
+E 0 4880   -1   15	* item to The hermit
+E 0 4881   -1    5	* item to The hermit
+M 0 4873   8 4863  1	* A wild fern
+M 0 4873   8 4863  1	* A wild fern
+E 0 4875   -1    1	* item to A wild fern
+M 0 4873   5 4868  1	* A wild fern
+E 0 4893   -1   13	* item to A wild fern
+M 0 4873   8 4904  1	* A wild fern
+E 0 4875   -1    1	* item to A wild fern
+M 0 4873   8 4894  1	* A wild fern
+E 0 4893   -1   13	* item to A wild fern
+M 0 4873   8 4912  1	* A wild fern
+M 0 4873   8 4919  1	* A wild fern
+M 0 4873   8 4920  1	* A wild fern
+M 0 4873   9 4892  1	* A wild fern
+M 0 4874   1 4909  1	* A venus fly trap
+E 0 4876   -1    3	* item to A venus fly trap
+M 0 4875  10 4892  1	* A giant lizard
+M 0 4875  10 4921  1	* A giant lizard
+E 0 4877   -1   -1	* item to A giant lizard
+M 0 4875  10 4874  1	* A giant lizard
+M 0 4875  10 4904  1	* A giant lizard
+E 0 4877   -1   -1	* item to A giant lizard
+M 0 4875  10 4862  1	* A giant lizard
+M 0 4875  10 4916  1	* A giant lizard
+M 0 4875  10 4880  1	* A giant lizard
+E 0 4877   -1   -1	* item to A giant lizard
+M 0 4876   2 4866  1	* A giant preying mantis
+M 0 4876   2 4909  1	* A giant preying mantis
+M 0 4877   2 4897  1	* A hummingbird
+M 0 4877   2 4903  1	* A hummingbird
+M 0 4878   1 4900  1	* The hawk
+E 0 4879   -1   17	* item to The hawk
+M 0 4879   1 4893  1	* The petrified tree
+E 0 4878   -1   -1	* item to The petrified tree
+M 0 4881   1 4884  1	* The lizard village grocer
+G 0 4882 -1		* A tiger steak to the Lizard Village Grocer
+G 0 4883 -1		* A foliage sandwich to the Lizard Village Grocer
+G 0 4884 -1		* A lizard skin jug to the Lizard Village Grocer
+M 0 4882   1 4918  1	* The lizard man lich
+E 0 4885   -1    3	* item to The lizard man lich
+D 0 4917   5    1	* Inside the Tree [down]
+D 0 4918   4    1	* A Rotting Library [up]
+M 0 4883   6 4933  1	* A piranha
+M 0 4883   6 4933  1	* A piranha
+M 0 4883   6 4933  1	* A piranha
+M 0 4883   6 4933  1	* A piranha
+M 0 4883   6 4933  1	* A piranha
+M 0 4883   6 4933  1	* A piranha
+O 0 4888   0 4886 -1	* The sacrificial altar at Village Sacrificial Altar
+P 0 4889 1 4888 -1
+M 0 4884   1 4907  1	* A jungle pixie
+E 0 4890   -1   12	* item to A jungle pixie
+M 0 4885   1 4936  1	* The wild jungle beast
+E 0 4892   -1    8	* item to The wild jungle beast
+M 0 4886   1 4922  1	* A spotted leopard
+E 0 4891   -1   10	* item to A spotted leopard
+M 0 4887   1 4935  1	* A huge river dragon
+E 0 4894   -1   11	* item to A huge river dragon
+M 0 4888   1 4940  1	* The jungle adventurer
+E 0 4895   -1   16	* item to The jungle adventurer
+M 0 4889   6 4898  1	* A jungle nymph
+M 0 4889   6 4898  1	* A jungle nymph
+M 0 4889   6 4904  1	* A jungle nymph
+M 0 4889   6 4905  1	* A jungle nymph
+M 0 4889   6 4869  1	* A jungle nymph
+M 0 4889   6 4892  1	* A jungle nymph
+M 0 4890  10 4863  1	* A jungle spider
+M 0 4890  10 4863  1	* A jungle spider
+M 0 4890  10 4864  1	* A jungle spider
+M 0 4890  10 4864  1	* A jungle spider
+M 0 4890  10 4919  1	* A jungle spider
+M 0 4890  10 4920  1	* A jungle spider
+M 0 4890  10 4865  1	* A jungle spider
+M 0 4890  10 4871  1	* A jungle spider
+M 0 4890  10 4921  1	* A jungle spider
+M 0 4890  10 4922  1	* A jungle spider
+M 0 4891   1 4941  1	* A quicksand worm
+G 0 4898 -1		* A short key covered in sand to A quicksand worm
+M 0 4892   1 4906  1	* A youthful aspirant
+E 0 4897   -1    3	* item to A youthful aspirant
+D 0 4941   3    2	* Under the Quicksand [west]
+D 0 4906   1    2	* A Warrior's Covert [east]
+M 0 4893   1 4929  1	* Egavanos, bane of life
+E 0 4899   -1   16	* item to Egavanos, bane of life
+M 0 4894   2 4865  1	* `ca `ip`la`ai`in`lt`ae`id`` `chunter``
+M 0 4894   2 4866  1	* `ca `ip`la`ai`in`lt`ae`id`` `chunter``
+M 0 4894   1 4872  1	* `ca `ip`la`ai`in`lt`ae`id`` `chunter``
+M 0 4895   3 4875  1	* `dan eagle guard``
+E 0 4900   -1    6	* item to `dan eagle guard``
+M 0 4895   2 4867  1	* `dan eagle guard``
+E 0 4900   -1    6	* item to `dan eagle guard``
+M 0 4895   2 4874  1	* `dan eagle guard``
+E 0 4900   -1    6	* item to `dan eagle guard``
+M 0 4872   1 4882  1	* The medicine man
+G 0 4870 -1		* A foaming green vial to the medicine man
+G 0 4871 -1		* A pale blue potion to the medicine man
+G 0 4872 -1		* A healing salve to the medicine man
+G 0 4873 -1		* A full container to the medicine man
+G 0 4874 -1		* A lizardhead figurine to the medicine man
+O 0 4903   0 4943 -1	* A bridge lookout at `oAn arching, greystone bridge``
+O 0 4902   0 4942 -1	* A bridge lookout at `oAn arching, greystone bridge``
+O 0 4901   0 4944 -1	* A bridge lookout at `oAn arching, greystone bridge``
+O 0 7   0 4941 -1	* The symbol at Under the Quicksand
+S
+
+#SHOPS
+4872  2  3  4 10  0 	100  60 	0 24	* the medicine man
+4881  0  0  0  0  0 	100 100 	7 20	* the Lizard Village Grocer
+0
+
+#SPECIALS
+M 4869 spec_cast_cleric		* the Chief
+M 4880 spec_cast_cleric		* the hermit
+M 4882 spec_cast_mage		* the Lizard Man Lich
+M 4884 spec_cast_mage		* a jungle pixie
+M 4889 spec_cast_mage		* a jungle nymph
+M 4893 spec_cast_mage		* Egavanos, bane of life
+S
+
+#OT
+#0
+#$

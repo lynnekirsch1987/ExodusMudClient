@@ -1,0 +1,76 @@
+* File: vryce.scr
+* Mob: Lord Vryce(20974)
+
+#TRIGGER head
+Type 5
+Sc
+ofunc %head-arg% %what% vnum
+ofunc %head-arg% %objname% name
+if ( %what% == 21004 )
+  cmd at 1 eat head
+  cmd peace
+  cmd gasp %head-from%
+  say What is this?
+  wait 1~
+Sc
+if ( %what% == 21004 )
+  say You have killed that upstart Simon Demontfort!!
+  wait 1~
+Sc
+if ( %what% == 21004 )
+  say Maybe I was wrong about you, %head-from%.
+  wait 2~
+Sc
+if ( %what% == 21004 )
+  say I think you are fit to be my lackey, %head-from%.
+  gecho The rebellion is quashed, and %head-from% has delivered the proof to Lord Vryce.
+  pecho %head-from% `oFor killing Simon and crushing the revolution, you are awarded
+25000 experience points.``
+  cmd reward %head-from% 25000
+  cmd string char %head-from% title is a pawn in Lord Vryce's oppressive rule.
+  cmd noble %head-from% `kLackey``
+  wait 3~
+Sc
+if ( %what% == 21004 )
+  say Now it's official.
+  wait 1~
+Sc
+if ( %what% == 21004 )
+  say Now begone from my sight, peasant.
+  halt once~
+Sc
+if ( %what% != 21004 )
+  say What is this?
+  wait 1~
+Sc
+if ( %what% != 21004 )
+  say I have no need for your peasant gifts!
+  drop %objname%
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+  emote gets a disgusted look on his face.
+  wait 4~
+Sc 
+  say What are doing in here, common-born scum?
+  wait 3~
+Sc
+  say Leave now before I give you the thrashing of your life!
+  wait 5~
+Sc
+  kill %enter-from%
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  cmd at 1 load obj 21003
+  cmd set obj head owner %death-from%
+  halt once~
+End
+
+#END

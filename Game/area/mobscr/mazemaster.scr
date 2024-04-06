@@ -1,0 +1,27 @@
+* File: mazemaster.scr
+* Mob: Mazemaster(8824)
+
+#TRIGGER born
+Type 4
+Sc
+  cmd at 1 wizi 92
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+*
+Sc 
+wfunc %mix% random 0 999999
+wfunc %randomroom% random 8800 8831
+mfunc %enter-from% %name% name
+if (%mix% > 666666)
+  halt once~
+Sc
+  pecho %enter-from% You feel momentarily disoriented by the swirling sands.
+  MOB TRANS %enter-from% %randomroom%
+  halt once~
+End
+
+#END
+

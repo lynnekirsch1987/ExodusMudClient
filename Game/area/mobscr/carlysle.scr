@@ -1,0 +1,42 @@
+* File: carlysle.scr
+* Mob: Carlysle(11368)
+#TRIGGER ring
+Type 5
+Sc
+mfunc %ring-from% %name% name
+mfunc %ring-from% %align% align
+mfunc %ring-from% %race% race
+mfunc %ring-from% %level% level
+ofunc %ring-arg% %ovnum% vnum
+ofunc %ring-arg% %objname% name
+if ( %ovnum% != 7710 )
+  emote looks at %name% and scowls doubtfully.
+  say What is this trickery?  I'll have none of it!
+  drop %objname%
+  halt once~
+Sc
+if ( %ovnum% == 7710 )
+  say This it the signet of the Lithsen order.  You have brought me help from the north.
+  cmd wear ring
+  emote utters a few holy words.
+  wait 3~
+Sc
+  echo A swirling circle of mist appears in the room.
+  wait 2~
+Sc
+  emote steps into the circle of mist.
+  cmd goto 1243
+  cmd at 11420 echo The circle of mist fades away.
+  wait 5~
+Sc
+  cmd tell %name% I have arrived safely at my destination.  Thank you for rescuing me.
+  cmd at 11420 echo %name% has completed the Paladin Rescue Quest.
+if (%level% < 90)
+  cmd at %name% pecho %name% `oYou have received 100 experience points for rescuing Carlysle from the evil Vro'ath.``
+  mfunc %ring-from% %exp% exp
+  let %exp% += 100
+  msign %ring-from% %exp% exp
+  halt once~
+End
+
+#END

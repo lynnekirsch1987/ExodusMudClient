@@ -17,12 +17,14 @@ builder.Services.AddMudServices();
 builder.Services.AddCascadingAuthenticationState();
 
 /** APPLICATION SERVICES **/
-builder.Services.AddScoped<ITcpService,TcpService>();
-builder.Services.AddScoped<IAreaFileConverter,AreaFileConverter>();
-builder.Services.AddScoped<IDataService,JsonFileDataService>();
+builder.Services.AddScoped<ITcpService, TcpService>();
+builder.Services.AddScoped<IAreaFileConverter, AreaFileConverter>();
+builder.Services.AddScoped<IHelpFileConverter, HelpFileConverter>();
+builder.Services.AddScoped<IDataService, JsonFileDataService>();
 
 
-builder.Services.AddAuthentication(options => {
+builder.Services.AddAuthentication(options =>
+{
     options.DefaultScheme = IdentityConstants.ApplicationScheme;
     options.DefaultSignInScheme = IdentityConstants.ExternalScheme;
 })
@@ -34,10 +36,13 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment()) {
+if (app.Environment.IsDevelopment())
+{
     app.UseMigrationsEndPoint();
-} else {
-    app.UseExceptionHandler("/Error",createScopeForErrors: true);
+}
+else
+{
+    app.UseExceptionHandler("/Error", createScopeForErrors: true);
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }

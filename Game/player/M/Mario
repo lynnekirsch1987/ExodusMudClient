@@ -1,0 +1,522 @@
+#PLAYER
+Name Mario~
+Id   951817513
+LogF 1048128976
+LogO 1048128976
+Vers 7
+Prom <hp:%h/%H ma:%m/%M s:%s g:%g xp:%X>%S{%r}%e ~
+Race human~
+Sex  1
+Cla  0
+Levl 45
+MBKill 6
+MHKill 1133
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 235857
+Bank_Gold 7700
+Bank_Silv 23000
+Email xanthos21@hotmail.com~
+Souls 0
+Host 156.26.5.186~
+Not  1002276677 1002585767 0 1030925226 1009768231 1011032075 1002276681
+Scro 22
+Room 4161
+HMV  426 426 636 636 261 261
+Hand 2
+Gold 107
+Silv 561
+Exp  369177
+Act  DEFGH
+AfBy DFT
+Comm LMNOS
+Pos  8
+Prac 6
+Save  -1
+Alig  1000
+Hit   11
+Dam   9
+ACs 63 65 61 57
+Wimp  59
+Attr 18 18 17 9 18 8
+AMod 5 1 0 5 2 10
+Pass Mah9Q0KuRc.3k~
+Bcry  makes someone eat their own poopoo!~
+Layhands 0
+Exorcise 0
+Titl  `h~
+Pnts 96
+TSex 1
+LLev 63
+Loner 0
+HMVP 376 611 261
+Cnd  -16 -16 4 4
+Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias f flee~
+Alias 3 o all rescue mario~
+Alias p but cor~
+Alias eg enter gate~
+Alias note oocnote~
+Alias dinv c 'detect invis'~
+Alias cf c 'create food'~
+Alias spr c 'create spring'~
+Alias dhid c 'detect hidden'~
+Alias id c identify~
+Alias loc c locate~
+Alias ch c charm~
+Alias dp c 'dispel magic'~
+Alias sum c summon~
+Alias au autoassist~
+Alias fr c fireball~
+Alias cwt c 'create water'~
+Alias gat c gate~
+Alias ob o all bash~
+Alias oab o all bash~
+Alias fb c fireball~
+Sk 76 'armor'
+Sk 75 'acid blast'
+Sk 75 'fireshield'
+Sk 79 'blindness'
+Sk 1 'web'
+Sk 75 'burning hands'
+Sk 76 'cancellation'
+Sk 75 'chain lightning'
+Sk 76 'change sex'
+Sk 100 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 87 'create food'
+Sk 1 'create rose'
+Sk 76 'create spring'
+Sk 77 'create water'
+Sk 75 'curse'
+Sk 85 'detect hidden'
+Sk 80 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 79 'dispel magic'
+Sk 1 'firestorm'
+Sk 76 'energy drain'
+Sk 76 'fireball'
+Sk 1 'fireproof'
+Sk 84 'fly'
+Sk 75 'floating disc'
+Sk 79 'giant strength'
+Sk 92 'haste'
+Sk 1 'heat metal'
+Sk 75 'identify'
+Sk 75 'infravision'
+Sk 77 'invisibility'
+Sk 1 'mirror'
+Sk 1 'lightning bolt'
+Sk 76 'locate object'
+Sk 1 'magic missile'
+Sk 75 'mass invis'
+Sk 75 'pass door'
+Sk 75 'poison'
+Sk 1 'portal'
+Sk 75 'summon'
+Sk 78 'gate'
+Sk 76 'refresh'
+Sk 75 'shield'
+Sk 1 'shocking grasp'
+Sk 75 'sleep'
+Sk 75 'slow'
+Sk 75 'stone skin'
+Sk 75 'teleport'
+Sk 77 'ventriloquate'
+Sk 75 'weaken'
+Sk 1 'acid breath'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 75 'aqua breathe'
+Sk 75 'channel electricity'
+Sk 75 'ice beam'
+Sk 75 'electrical charge'
+Sk 95 'staff'
+Sk 1 'riding'
+Sk 1 'dodge'
+Sk 75 'meditation'
+Sk 13 'scribe'
+Sk 75 'scrolls'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'creation'
+Gr 'detection'
+Gr 'draconian'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Gr 'elemental'
+Affc 'detect invis'   0  36  11   0   0          8 0 ''
+Affc 'detect hidden'   0  35  11   0   0         32 0 ''
+Affc 'fly'   0  40  18   0   0     524288 0 ''
+GStats  8 0 1133 0 6 962 65 369177 583 
+End
+
+#O
+Vnum 20956
+Nest 0
+Cond 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 21072
+Nest 0
+Cond 0
+Wear 2
+Cost 12
+End
+
+#O
+Vnum 720
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 159
+Enchanted
+Nest 0
+ExtF 262211
+Cond 0
+Wear 16
+Lev  27
+Cost 0
+Affc 'enchant weapon'   1  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 4102
+Nest 0
+Cond 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 7916
+Nest 1
+ExtF 8388928
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18935
+Nest 1
+Cond 0
+Wear -1
+Cost 743
+End
+
+#O
+Vnum 18935
+Nest 1
+Cond 0
+Wear -1
+Cost 743
+End
+
+#O
+Vnum 18935
+Nest 1
+Cond 0
+Wear -1
+Cost 743
+End
+
+#O
+Vnum 18935
+Nest 1
+Cond 0
+Wear -1
+Cost 743
+End
+
+#O
+Vnum 18935
+Nest 1
+Cond 0
+Wear -1
+Cost 743
+End
+
+#O
+Vnum 18935
+Nest 1
+ExtF 8396802
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18972
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 11533
+Nest 0
+Cond 0
+Wear -1
+Cost 230
+End
+
+#O
+Vnum 12222
+Nest 0
+Cond 0
+Wear 4
+Cost 10493
+ExDe necklace~ This is the necklace of Marcus Thalominus. It is covered in jewels.
+~
+End
+
+#O
+Vnum 109
+Enchanted
+Nest 0
+ExtF 25165889
+Cond 0
+Wear -1
+Lev  32
+Cost 0
+Affc 'enchant armor'   1  90  -1  -3  17          0 0 ''
+Affc 'reserved'   1  30  -1   1   1          0 0 ''
+Affc 'reserved'   1  30  -1   1  26          0 0 ''
+Affc 'reserved'   1  30  -1   1  19          0 0 ''
+End
+
+#O
+Vnum 4280
+Nest 0
+Cond 0
+Wear 3
+Cost 100
+End
+
+#O
+Vnum 4290
+Nest 0
+Cond 0
+Wear 6
+Cost 150
+End
+
+#O
+Vnum 115
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 9
+Cost 0
+ExDe gloves~ These gloves have been made from the finest and smoothest satin material,
+a beautiful feeling on the hands.  They do not look like they were made for
+very difficult labor, they are showpieces to be sure.  
+~
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20964
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 12948
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 18935
+Nest 0
+Cond 0
+Wear -1
+Cost 743
+End
+
+#O
+Vnum 12220
+Nest 0
+ExtF 25428019
+Wear 11
+Cost 0
+ExDe shield~ ~
+End
+
+#O
+Vnum 110
+Nest 0
+ExtF 25460736
+Cond 0
+Wear 12
+Cost 0
+ExDe gown~ The gown seems to shimmers as it envelops itself and the air that it
+encapsulates.  Bubbles of air seem to be trapped inside the very fabric of
+the cloth.  
+~
+End
+
+#O
+Vnum 4114
+Nest 0
+Cond 0
+Wear -1
+Cost 345
+Val  150 150 0 0 0 0 0
+End
+
+#O
+Vnum 4114
+Nest 0
+Cond 0
+Wear -1
+Cost 345
+Val  150 150 0 0 0 0 0
+End
+
+#O
+Vnum 11533
+Nest 0
+Cond 0
+Wear -1
+Cost 230
+End
+
+#O
+Vnum 4433
+Nest 0
+ExtF 262144
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20963
+Nest 0
+Cond 0
+Wear -1
+Cost 78
+Val  0 0 177 0 0 0 0
+End
+
+#O
+Vnum 2619
+Nest 0
+ExtF 262145
+Cond 0
+Wear 15
+Cost 200
+End
+
+#O
+Vnum 551
+Nest 0
+ShD  `aA `oR`hic`oe `aFlail``~
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2619
+Nest 0
+ExtF 262145
+Cond 0
+Wear 14
+Cost 200
+End
+
+#O
+Vnum 7916
+Nest 0
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 12219
+Nest 0
+ShD  `athe `barmor `aof `hmight``~
+Desc `aA pile of spiked `barmor `alies on the ground.``~
+ExtF 92536832
+Cond 0
+Wear 5
+Cost 0
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#RoomRLE   100 2 6 1 7 1 63 1 42 1 13 1 54 2 27 1 2 4 192 1 3 6 270 8 1 6 1 1 2 1 2 19 8 6 650 5 6 1 13 2 3 1 17 5 1 2 4 1 734 3 2 2 1 3 3 1 2 2 3 1 2 2 3 4 3 1 1 3 3 2 1053 1 599 6 1 7 1 4 4 1 3 18 1 62 2 16 1 1 2 1 3 4 4 2 1 3 1 1 1 1 1 1 2 3 1 4 10 2 2 1 7 2 1 2 2 1 6 1 4 1 11 1 1 8 18 4 81 1 3 12 3 3 49 1 2 2 694 5 1 10 1 8 1 9 15 1 1 2 450 1 2296 2 1 14 1 6 1 35 2 1 1 1 4273 2 1 1 2 2 690 2 8 2 8 2 7 3 7 3 3 1 3 3 2 4 1 3 2 1 4 9 1 9 1 3 2 4 1 3 2 4 1 9 1 9 1 9 1 89 19 1 1 3 3 3 1 1 3 1 1 1 1 1 3 1 1 1 1 1 2 2 1 1 1 9 2 4 2 25 158 1 4 1 4 1 4 1 4 1 4 1 4 1 4 8 98 2 1 2 1 5 5372 3 5 8 30 6 1 2 1 5 1 1 13 2 6 1 3 3 3 3 9 3 1 7 9 1 8 2 4 1 1 1 1 3 1 3 59 1 1795 12 1 7 1 42 39 1 6 1 4 3 2 1 2 5 3 5 1 1 5 10 3 2 3 1 1 10 3 1 5 10 4 5 1 10 5 1 1 2 1 10 3 3 1 1 2 11 2 3 1 1 2 18 2 10 1 5 7 2 1 2 1 1 1 1 1 2 3 1 5 3 2 5 12 7 13 2 18 3 17 1 73 1 4 1 562 1 3007 1 82 2 40 1 1 1 5 1 36 1 2 1 21 2 8 1 21 1 3 1 2 1 37 3 5 1 27 1 51 1 105 2 14 1 1 1 17 1 25 1 50 1 28 1 131 5 27 1 8 1 38 2 34 1 259 1 121 1 5966 1 1 1 3 1 93 1 1 1 97 1 1 1 1 1 94 1 33022 -1
+
+#END

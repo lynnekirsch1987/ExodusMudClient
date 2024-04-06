@@ -1,0 +1,25 @@
+* Mob Vnum: 20362
+* Mob Name: sleepy
+* Room Vnum: 20445
+
+#TRIGGER sleep
+Type 3
+
+Sc
+wfunc %rnd% random 0 7
+if (%rnd% == 0)
+ emote yawns broadly, displaying an array of sordid yellow teeth.
+ halt once~
+Sc
+if (%rnd% == 1)
+ emote stumbles along quietly, not giving any great caution to direction.
+ halt once~
+Sc
+if (%rnd% == 7)
+ cmd yawn
+ say What a day I've had!
+ cmd yawn
+ halt once~
+End
+
+#END

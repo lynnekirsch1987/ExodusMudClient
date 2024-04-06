@@ -1,0 +1,38 @@
+* File: circle8.scr
+* Mob: Undead Necromancer(7296)
+* Creator: Minax
+* Last Modified: Thursday, January 22, 2004
+
+#TRIGGER give
+Type 5
+Sc
+ofunc %give-arg% %ovnum% vnum
+ofunc %give-arg% %objname% name
+say This is for you, not for me.
+drop %objname%
+halt once~
+End
+
+#TRIGGER evil
+Type 99
+Sc
+mfunc %evil-from% %name% name
+mfunc %evil-from% %level% level
+chobj %evil-from% %hasit% 421
+if ( %level% < 90 )
+   say Come back later when you have more experience, %name%.
+   halt once~
+Sc
+if ( %hasit% != 1)
+   say Take the chalice of life from the dark lord deep in hell, %name%.
+   say You may not yet pass.
+   halt once~
+Sc
+if ( %hasit% == 1 )
+   say You have passed my test, %name%.  You may proceed.
+   MOB trans %name% 7312
+   echo %name% disappears with a *POP* and a cloud of smoke.
+   halt once~
+End
+
+#END

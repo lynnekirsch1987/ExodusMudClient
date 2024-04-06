@@ -1,0 +1,96 @@
+* File: novice.scr
+* Mob: Novices of Erion (mobs 7918, 7921)
+
+#TRIGGER combat
+Type 2
+Sc
+if ( %zombie% == 1 )
+  halt once~
+Sc
+mfunc self %hp% hit
+if (%hp% < 700)
+  cmd pray 'cure light' self
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+if ( %zombie% == 1 )
+  getpc %randomdude%
+  cmd kill %randomdude%
+  cmd kill abbot
+  halt once~
+Sc
+mfunc self %hp% hit
+if (%hp% < 700)
+  cmd pray 'cure light' self
+  halt once~
+End
+
+#TRIGGER enter
+Type 5
+Sc
+if ( %zombie% == 1 )
+  getpc %randomdude%
+  cmd kill %randomdude%
+  cmd kill abbot
+  halt once~
+Sc
+mfunc self %hp% hit
+if (%hp% < 700)
+  cmd pray 'cure light' self
+  halt once~
+End
+
+#TRIGGER novicezombie
+* Novices become zombies and attack Sarrendale Farm.
+Type 8
+Sc
+if ( %novicezombie-arg% cmp "novicezombie" )
+ofunc %novicezombie-arg% %what% vnum
+ofunc %novicezombie-arg% %objname% name
+  let %zombie% == 1
+  cmd at 1 load obj 7904
+  cmd at 1 wear medallion
+  cmd set mob novice align -666
+  cmd at 1 string mob novice short `aa zombified novice``
+  cmd at 1 string mob novice long `aA zombified novice is here, wandering the countryside.``
+  cmd at 1 string mob novice name novice zombie
+  emote looks over at you with sunken eyes and deathly pale skin and starts to moan incoherently.
+  walkto 7916
+  halt once~
+End
+
+#TRIGGER backtonormal
+Type 8
+* The necromancer has been killed.  Novices return to normal.
+Sc
+if ( %backtonormal-arg% cmp "backtonormal" )
+  let %zombie% == 0
+  cmd at 1 remove medallion
+  cmd at 1 drop medallion
+  cmd at 1 chant 'skeletal mutation' self
+  cmd set mob novice hp 1
+  cmd at 1 restore
+  walkto 7929
+  halt once~
+End
+
+#TRIGGER moves
+Type 11
+* The zombies attack the abbot as soon as they find him.
+Sc
+if ( %zombie% == 1 )
+  getpc %randomdude%
+  cmd kill %randomdude%
+  cmd kill abbot
+  halt once~
+Sc
+mfunc self %hp% hit
+if (%hp% < 700)
+  cmd pray 'cure light' self
+  halt once~
+End
+
+#END

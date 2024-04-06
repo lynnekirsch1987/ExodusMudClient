@@ -1,0 +1,33 @@
+* File: cond.scr
+* Mob: Cond Man(4081)
+
+#TRIGGER sighand
+Type 8
+Sc
+  say For giving me my life, I give you my most valuable possessions.
+  wait 1~
+Sc
+  give paper %sighand-arg%
+  give key %sighand-arg%
+  wait 2~
+Sc
+  emote wanders off happily into the crowd.
+  MOB TRANS condemned 1
+  halt once~
+End
+
+#TRIGGER cm1
+Type 3
+Sc
+wfunc %rndnum% random 0 3
+if ( %rndnum% == 0 )
+   say I have been falsely accused, I am no thief!
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   cmd sob
+   say I don't want to die... help me!
+   halt once~
+End
+
+#END

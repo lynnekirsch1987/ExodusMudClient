@@ -1,0 +1,824 @@
+#PLAYER
+Name Whelm~
+Id   874002721
+LogF 888310288
+LogO 888312507
+Vers 5
+Prom HP:%h MA:%m MV:%v Align:%a Exp:%X %S ~
+Race dwarf~
+Sex  1
+Cla  3
+Levl 24
+PBKill 1
+PHKill 1
+MHKill 1017
+Depty 0
+Sec  0
+Plyd 77749
+Bank_Gold 22
+Bank_Silv 11040
+Email gstanley@lynx.neu.edu~
+Host lynx02.dac.neu.edu~
+Not  888310111 887596355 0 888310107 863509127
+Scro 22
+Room 13102
+HMV  167 393 146 146 210 217
+Hand 2
+Gold 1
+Silv 118
+Exp  99744
+Act  DGHQ
+AfBy JV
+Comm FGNOQS
+Pos  8
+Alig  22
+Hit   4
+Dam   17
+ACs 14 18 -1 63
+Wimp  75
+Attr 23 9 10 15 21 7
+AMod 2 4 0 4 2 0
+Pass WhEfe1oiE3o8o~
+Layhands 0
+Exorcise 0
+Titl  the Uncaring~
+Pnts 71
+TSex 1
+LLev 19
+Loner 0
+HMVP 393 146 217
+Cnd  -16 -16 13 13
+Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Alias 1 butcher corpse~
+Alias 2 bash~
+Alias 3 rescue~
+Alias 0 order all rescue whelm~
+Alias 4 order snake kill~
+Sk 57 'axe'
+Sk 60 'dagger'
+Sk 61 'shield block'
+Sk 86 'sword'
+Sk 57 'dual wield'
+Sk 1 'bash'
+Sk 45 'charge'
+Sk 1 'berserk'
+Sk 59 'dodge'
+Sk 90 'enhanced damage'
+Sk 1 'sweep'
+Sk 61 'parry'
+Sk 60 'rescue'
+Sk 57 'door bash'
+Sk 1 'butcher'
+Sk 1 'redirect'
+Sk 66 'second attack'
+Sk 59 'third attack'
+Sk 65 'fast healing'
+Gr 'rom basics'
+Affc 'haste'   0  19   4   2   2    2097152 0 ''
+End
+
+#O
+Vnum 21
+Nest 0
+ExtF 8388609
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 21083
+Nest 0
+Cond 0
+Wear 8
+Cost 15
+End
+
+#O
+Vnum 12928
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+Cond 0
+Wear 4
+Cost 300
+End
+
+#O
+Vnum 553
+Nest 0
+Cond 0
+Wear 3
+Cost 300
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExtF 322
+Cond 0
+Wear 9
+Lev  19
+Cost 0
+Affc 'enchant weapon'   1  77  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  77  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 20389
+Nest 0
+Cond 0
+Wear 10
+Cost 142
+End
+
+#O
+Vnum 4173
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 12233
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+ExDe plate arm~ This armor bears the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 20956
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 4319
+Enchanted
+Nest 0
+ExtF 8388673
+Cond 0
+Wear 7
+Lev  37
+Cost 0
+Affc 'reserved'   1  35  -1   1  18          0 0 ''
+Affc 'reserved'   1  35  -1   1   2          0 0 ''
+Affc 'enchant armor'   1  17  -1  -4  17          0 0 ''
+End
+
+#O
+Vnum 11533
+Nest 0
+ExtF 8388672
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 11533
+Nest 0
+ExtF 8388672
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 12923
+Nest 0
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 20963
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+Val  0 0 198 0 0 0 0
+End
+
+#O
+Vnum 4433
+Nest 1
+ExtF 262144
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 5619
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12918
+Nest 1
+Cond 0
+Wear -1
+Cost 2039
+End
+
+#O
+Vnum 12918
+Nest 1
+ExtF 8650753
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12234
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 4152
+Nest 1
+Cond 0
+Wear -1
+Cost 625
+End
+
+#O
+Vnum 4150
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  24
+Cost 265
+Affc 'enchant weapon'   0  77  -1   6  18          0 0 ''
+Affc 'enchant weapon'   1  77  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 20390
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 20390
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 20390
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 20390
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 20390
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 20390
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 20390
+Nest 1
+Cond 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 12223
+Nest 1
+Cond 0
+Wear -1
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 12223
+Nest 1
+Cond 0
+Wear -1
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 0
+Wear -1
+Time 203
+Cost 0
+Val  11 22 240 0 0 0 0
+End
+
+#O
+Vnum 4032
+Nest 1
+Cond 0
+Wear -1
+Time 85
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 1
+Cond 0
+Wear -1
+Time 85
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 1
+Cond 0
+Wear -1
+Time 84
+Cost 30
+End
+
+#O
+Vnum 4032
+Nest 1
+Cond 0
+Wear -1
+Time 84
+Cost 30
+End
+
+#O
+Vnum 4099
+Nest 1
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 4099
+Nest 1
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 4158
+Nest 0
+Cond 0
+Wear 16
+Cost 3400
+End
+
+#O
+Vnum 7257
+Nest 0
+Cond 0
+Wear 17
+Cost 1500
+End
+
+#END

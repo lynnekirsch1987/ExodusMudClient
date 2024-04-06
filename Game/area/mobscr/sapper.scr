@@ -1,0 +1,34 @@
+* File: sapper.scr
+* Mob: Arachnid Sapper 1080
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   emote pulls a crude explosive from the satchel on it's back and places it securly within the rubble.
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   emote suddenly emites a shrill squeek followed by a series of clicks as it fumbles with a sapper charge.
+   echo The tunnel errupts in activity as all sorts of spiderkin flee for cover.
+   wait 2~
+   emote uncover's its head and peers over the sapper charge before resuming it's work.
+   halt once~
+Sc
+if ( %rndnum% == 2 )
+   emote pauses and emits a series of clicks and high-pitched tones.
+   echo A flood of smaller spiders approach the sapper with scraps of food.
+   halt once~
+Sc
+if ( %rndnum% == 3 )
+	halt once~
+Sc
+if ( %rndnum% == 4 )
+	halt once~
+Sc
+if ( %rndnum% == 5 )
+	halt once~
+End
+
+#END

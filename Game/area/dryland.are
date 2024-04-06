@@ -1,0 +1,1699 @@
+#AREA
+ 6~
+dryland.are~
+Harrissahne Drylands~
+{10 40} Exodus  Harrissahne Drylands~
+~
+2300 2350
+11 0 0
+0 0
+ragnar~
+#MOBILES
+#2300
+shadow chimaera~
+A shadow chimaera~
+A chimaera rises out of a sinkhole in the ground to glare at you.
+~
+A strange hybrid of grassland goat, mountain dragon, and plains lion.
+~
+unique~
+0 0 0 0
+ABHWe TV -110 0
+30 30 10d61+500 30d10+100 5d6+15 claw
+-5 -5 -5 999 5
+0 -1 IM 0 0 0
+stand stand either 110
+0 0 12 12 12 12 12 12 0
+large oldstyle~
+3 1 5500 100
+0
+~
+~
+#2301
+brush scuttler~
+A brush scuttler~
+A brush scuttler waves tiny claws at you as you tread over its land.
+~
+A small, scorpion-like crab assesses you angrily as you tread over its
+plants.
+~
+centipede~
+0 0 0 0
+AC VZ -10 0
+15 15 5d30+161 15d10+100 3d5+8 claw
+0 0 0 999 5
+0 -1 0 0 FI E
+stand stand male 0
+ABGO ACKa 9 9 9 9 9 9 0
+small oldstyle~
+0 0 0 100
+4
+~
+~
+#2302
+stripe snake serpent gigantic~
+A gigantic stripe snake~
+A gigantic red serpent with huge golden stripes towers menacingly above you.
+~
+This giant specimen is at least 10 feet taller than you, with a huge flaring
+neck crest that flaps outward as you approach.
+~
+snake~
+0 0 0 0
+ABe PV -110 0
+30 30 10d61+420 30d10+100 5d6+15 bite
+-9 -9 -9 999 0
+0 -1 FW 0 L I
+stand stand either 0
+AGXYc ADEFKLQVXa 12 12 12 12 12 12 0
+large oldstyle~
+0 2 0 100
+1
+~
+~
+#2303
+ferret~
+A ferret~
+A ferret ruts around in the dirt here, looking for a meal.
+~
+~
+fox~
+0 0 0 0
+AH Z 110 0
+11 11 3d22+96 0d0+0 2d5+5 claw
+4 4 4 999 7
+0 -1 FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#2304
+strange man mage nomad~
+A disheveled nomad mage~
+A strange nomad twitches as he examines a tiny shrub.
+~
+This haggard man looks as if he has lived in a state of insanity for the
+majority of his lifetime.  A long, patchy beard extends from his face,
+adding even more to the look of oddity.
+~
+human~
+0 0 0 0
+ACRX HV -440 0
+36 36 10d90+600 36d10+100 5d8+10 magic
+-13 -13 -13 999 -1
+0 -1 H 0 C 0
+stand stand male 700
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+1
+~
+~
+#2305
+huge large rat~
+A huge rat~
+A horse-sized rat growls and throws itself upon you!
+~
+~
+rabbit~
+0 0 0 0
+ACFM 0 -1000 0
+12 12 3d24+100 0d0+0 3d5+5 bite
+1 1 1 999 10
+0 -1 FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKa 8 8 8 8 8 8 0
+large fur~
+0 0 0 100
+0
+~
+~
+#2306
+blue vulture~
+A long-necked blue vulture~
+A long-necked vulture with slick blue feathers feeds on carrion here.
+~
+~
+water fowl~
+0 0 0 0
+ACHW Tb -10 0
+15 15 5d30+170 0d0+0 3d5+7 peck
+0 0 0 999 5
+0 -1 FH 0 R 0
+stand stand either 0
+AGW ACDEFHKPZa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#2350
+hkitten kitten~
+`f*`mHaylie's kitten!`f*``~
+`m*`fHaylie's kitten is here, perhaps you could bring him home?`m*``
+~
+~
+human~
+0 0 0 0
+A 0 1000 0
+5 5 0d0+0 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#2300
+no name~
+(no short description)~
+~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#2300
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2331
+D1
+~
+~
+0 0 2301
+D2
+~
+~
+0 0 2308
+S
+#2301
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Sun-scorched earth meets dense tufts of parched grass, interconnecting
+to form a strange surreal landscape, a juxtaposition of waste and
+grassland.  Crumbling blocks of hardened dirt litter your way as you
+walk, creating barriers for the small vicious insects that crawl about,
+looking for carrion to devour.  As you walk about, the dry breeze causes
+you to blink slowly, bringing moisture to your eyes and temporarily
+blurring the sight of the dying, wasted land before you.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2332
+D1
+~
+~
+0 0 2302
+D2
+~
+~
+0 0 2309
+D3
+~
+~
+0 0 2300
+S
+#2302
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Sun-scorched earth meets dense tufts of parched grass, interconnecting
+to form a strange surreal landscape, a juxtaposition of waste and
+grassland.  Crumbling blocks of hardened dirt litter your way as you
+walk, creating barriers for the small vicious insects that crawl about,
+looking for carrion to devour.  As you walk about, the dry breeze causes
+you to blink slowly, bringing moisture to your eyes and temporarily
+blurring the sight of the dying, wasted land before you.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2333
+D1
+~
+~
+0 0 2303
+D2
+~
+~
+0 0 2310
+D3
+~
+~
+0 0 2301
+S
+#2303
+40 500
+~
+~
+~
+0 0 0
+The Valasse Trade Route~
+`dThe soil is cracked and dry, scorched from the sun and desparate for
+rain.  Hardy grasses and wildflowers cling to the soil, mixed wirh low
+wind-blown shrubs with twisted trunks.  The arid breeze saps the moisture
+from your skin, leaving your skin cracked and your lips chapped, feeling
+like the plants look.  The trade route continues to the north towards the
+forest and to the east further into the scrubland.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2334
+D1
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2311
+D3
+~
+~
+0 0 2302
+S
+#2304
+0 0
+~
+~
+~
+0 0 0
+The Valasse Trade Route~
+`dThe lands surrounding the trade route here are desolate, only shrubs
+and dry grasses desparate for water and turning brown.  The lonely packed
+dirt road underfoot marks a clear, wide, line thouigh the lands.  An arid
+wind whip over the grasses and across the road, stirring up tiny dust storms
+on the road, twirling about your feet.  `d`` `dThe road`d`` `dturns here,
+running from west to south.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2335
+D1
+~
+~
+0 0 2305
+D2
+~
+~
+0 0 2312
+D3
+~
+~
+0 0 2303
+S
+#2305
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Sun-scorched earth meets dense tufts of parched grass, interconnecting
+to form a strange surreal landscape, a juxtaposition of waste and
+grassland.  Crumbling blocks of hardened dirt litter your way as you
+walk, creating barriers for the small vicious insects that crawl about,
+looking for carrion to devour.  As you walk about, the dry breeze causes
+you to blink slowly, bringing moisture to your eyes and temporarily
+blurring the sight of the dying, wasted land before you.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2336
+D1
+~
+~
+0 0 2306
+D2
+~
+~
+0 0 2313
+D3
+~
+~
+0 0 2304
+S
+#2306
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Arid waves of heat wash over your entire body as you stride through this
+almost desert-like land.  Bits of cracked land find their way into all
+sorts of places in your armor, and billowing clouds of dust soil your
+clothes in full.  Browned patches of grass and other plant life rise out
+of jagged slits in the land, soaking up whatever moisture they can wring
+out of the dry air.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2337
+D1
+~
+~
+0 0 2307
+D2
+~
+~
+0 0 2314
+D3
+~
+~
+0 0 2305
+S
+#2307
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Sun-scorched earth meets dense tufts of parched grass, interconnecting
+to form a strange surreal landscape, a juxtaposition of waste and
+grassland.  Crumbling blocks of hardened dirt litter your way as you
+walk, creating barriers for the small vicious insects that crawl about,
+looking for carrion to devour.  As you walk about, the dry breeze causes
+you to blink slowly, bringing moisture to your eyes and temporarily
+blurring the sight of the dying, wasted land before you.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2338
+D2
+~
+~
+0 0 2315
+D3
+~
+~
+0 0 2306
+S
+#2308
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2300
+D1
+~
+~
+0 0 2309
+S
+#2309
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Sun-scorched earth meets dense tufts of parched grass, interconnecting
+to form a strange surreal landscape, a juxtaposition of waste and
+grassland.  Crumbling blocks of hardened dirt litter your way as you
+walk, creating barriers for the small vicious insects that crawl about,
+looking for carrion to devour.  As you walk about, the dry breeze causes
+you to blink slowly, bringing moisture to your eyes and temporarily
+blurring the sight of the dying, wasted land before you.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2301
+D1
+~
+~
+0 0 2310
+D2
+~
+~
+0 0 2317
+D3
+~
+~
+0 0 2308
+S
+#2310
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Sun-scorched earth meets dense tufts of parched grass, interconnecting
+to form a strange surreal landscape, a juxtaposition of waste and
+grassland.  Crumbling blocks of hardened dirt litter your way as you
+walk, creating barriers for the small vicious insects that crawl about,
+looking for carrion to devour.  As you walk about, the dry breeze causes
+you to blink slowly, bringing moisture to your eyes and temporarily
+blurring the sight of the dying, wasted land before you.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2302
+D1
+~
+~
+0 0 2311
+D2
+~
+~
+0 0 2318
+D3
+~
+~
+0 0 2309
+S
+#2311
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2303
+D1
+~
+~
+0 0 2312
+D2
+~
+~
+0 0 2319
+D3
+~
+~
+0 0 2310
+S
+#2312
+0 0
+~
+~
+~
+0 0 0
+The Valasse Trade Route~
+`dThe soil is cracked and dry, scorched from the sun and 
+desparate for rain. Hardy grasses and wildflowers cling
+to the soil, mixed wirh low wind-blown shrubs with twisted
+trunks. The arid breeze saps the moisture from your skin,
+leaving your skin cracked and your lips chapped, feeling 
+like the plants look. The trade route continues to the north
+towards the forest and to the south the scrublands continue.````
+
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2304
+D1
+~
+~
+0 0 2313
+D2
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2311
+S
+#2313
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2305
+D1
+~
+~
+0 0 2314
+D2
+~
+~
+0 0 2321
+D3
+~
+~
+0 0 2312
+S
+#2314
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Arid waves of heat wash over your entire body as you stride through this
+almost desert-like land.  Bits of cracked land find their way into all
+sorts of places in your armor, and billowing clouds of dust soil your
+clothes in full.  Browned patches of grass and other plant life rise out
+of jagged slits in the land, soaking up whatever moisture they can wring
+out of the dry air.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2306
+D1
+~
+~
+0 0 2315
+D2
+~
+~
+0 0 2322
+D3
+~
+~
+0 0 2313
+S
+#2315
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2307
+D3
+~
+~
+0 0 2314
+S
+#2317
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2309
+D1
+~
+~
+0 0 2318
+D2
+~
+~
+0 0 2325
+S
+#2318
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Arid waves of heat wash over your entire body as you stride through this
+almost desert-like land.  Bits of cracked land find their way into all
+sorts of places in your armor, and billowing clouds of dust soil your
+clothes in full.  Browned patches of grass and other plant life rise out
+of jagged slits in the land, soaking up whatever moisture they can wring
+out of the dry air.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2310
+D1
+~
+~
+0 0 2319
+D2
+~
+~
+0 0 2326
+D3
+~
+~
+0 0 2317
+S
+#2319
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Arid waves of heat wash over your entire body as you stride through this
+almost desert-like land.  Bits of cracked land find their way into all
+sorts of places in your armor, and billowing clouds of dust soil your
+clothes in full.  Browned patches of grass and other plant life rise out
+of jagged slits in the land, soaking up whatever moisture they can wring
+out of the dry air.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2311
+D1
+~
+~
+0 0 2320
+D2
+~
+~
+0 0 2327
+D3
+~
+~
+0 0 2318
+S
+#2320
+0 0
+~
+~
+~
+0 0 0
+The Valasse Trade Route~
+`dThe lands surrounding the trade route here are desolate, only shrubs
+and dry grasses desparate for water and turning brown.  The lonely packed
+dirt road underfoot marks a clear, wide, line thouigh the lands.  An arid
+wind whip over the grasses and across the road, stirring up tiny dust storms
+on the road, twirling about your feet.  `` `dThe route cuts across this dry
+land from north to south.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2312
+D1
+~
+~
+0 0 2321
+D2
+~
+~
+0 0 2328
+D3
+~
+~
+0 0 2319
+S
+#2321
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Sun-scorched earth meets dense tufts of parched grass, interconnecting
+to form a strange surreal landscape, a juxtaposition of waste and
+grassland.  Crumbling blocks of hardened dirt litter your way as you
+walk, creating barriers for the small vicious insects that crawl about,
+looking for carrion to devour.  As you walk about, the dry breeze causes
+you to blink slowly, bringing moisture to your eyes and temporarily
+blurring the sight of the dying, wasted land before you.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2313
+D1
+~
+~
+0 0 2322
+D2
+~
+~
+0 0 2329
+D3
+~
+~
+0 0 2320
+S
+#2322
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2314
+D2
+~
+~
+0 0 2330
+D3
+~
+~
+0 0 2321
+S
+#2325
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Arid waves of heat wash over your entire body as you stride through this
+almost desert-like land.  Bits of cracked land find their way into all
+sorts of places in your armor, and billowing clouds of dust soil your
+clothes in full.  Browned patches of grass and other plant life rise out
+of jagged slits in the land, soaking up whatever moisture they can wring
+out of the dry air.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2317
+D1
+~
+~
+0 0 2326
+D2
+~
+~
+0 0 13461
+S
+#2326
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2318
+D1
+~
+~
+0 0 2327
+D2
+~
+~
+0 0 13462
+D3
+~
+~
+0 0 2325
+S
+#2327
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Low gusts of hot wind stir up hardened packets of gravelly soil, making
+tiny thunderheads of dust roil out of the ground.  Tumbleweeds skim swiftly
+through the dusty clouds, cutting soil trails of their own as the wind
+undercurrents sweep and turn them about.  Tufts of bright green grass
+sprout up in isolated bunches, lending a fresher air to this otherwise
+bleak land.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2319
+D1
+~
+~
+0 0 2328
+D2
+~
+~
+0 0 13567
+D3
+~
+~
+0 0 2326
+S
+#2328
+0 0
+~
+~
+~
+0 0 0
+The Valasse Trade Route~
+`dThe winds whipping across the trade route are more humid here than off
+to the north, the shrubs and grasses look greener and healthier.  Further to
+the south, the land gets increasingly hilly, gently rolling slopes with
+rounded tops.  The road meanders off in that direction, leading to more
+pleasant lands.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2320
+D1
+~
+~
+0 0 2329
+D2
+~
+~
+0 0 13568
+D3
+~
+~
+0 0 2327
+S
+#2329
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Arid waves of heat wash over your entire body as you stride through this
+almost desert-like land.  Bits of cracked land find their way into all
+sorts of places in your armor, and billowing clouds of dust soil your
+clothes in full.  Browned patches of grass and other plant life rise out
+of jagged slits in the land, soaking up whatever moisture they can wring
+out of the dry air.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2321
+D1
+~
+~
+0 0 2330
+D2
+~
+~
+0 0 13569
+D3
+~
+~
+0 0 2328
+S
+#2330
+0 0
+~
+~
+~
+0 0 0
+The Harrissahne Drylands~
+Arid waves of heat wash over your entire body as you stride through this
+almost desert-like land.  Bits of cracked land find their way into all
+sorts of places in your armor, and billowing clouds of dust soil your
+clothes in full.  Browned patches of grass and other plant life rise out
+of jagged slits in the land, soaking up whatever moisture they can wring
+out of the dry air.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 2322
+D2
+~
+~
+0 0 13570
+D3
+~
+~
+0 0 2329
+S
+#2331
+0 0
+~
+The winds swirl around $n's feet as $e strides through the plains.~
+~
+0 0 0
+Fields Through the Sparse Forest~
+The gigantic trees of the Fierense forest fade into a background oblivion,
+making way for a scattered clearing of dry grass and old oak trees.  Beams
+of sunlight that once enriched this part of the land now seem to sap life
+out of it, turning the trees slightly browner than normal due to the lack
+of moisture.  Dry winds spiral in from the south, carrying a legacy of
+dust and other revelations of the change in climate to come.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 2339
+D1
+~
+~
+0 0 2332
+D2
+~
+~
+0 0 2300
+S
+#2332
+0 0
+~
+$n arrives, kicking up browned pine needles as $e approaches.~
+Scanning to $s $T, $n readies $s armor and continues $s travels.~
+0 0 0
+Fields Through the Sparse Forest~
+The comfortable cool climate of the shade of the Fierense woodlands
+changes subtly here as arid winds sweep over the land.  The concentration
+of trees that was the forest now becomes a scattered clearing of small
+trees, not nearly tall or robust enough to eke out a normal lifespan.
+To your south, the woodlands die off almost completely in favor of small
+ground plants more suited to life in this part of the world.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 2340
+D1
+~
+~
+0 0 2333
+D2
+~
+~
+0 0 2301
+D3
+~
+~
+0 0 2331
+S
+#2333
+0 0
+~
+The winds swirl around $n's feet as $e strides through the plains.~
+Picking up $s pace, $n travels to the $T in search of new terrain.~
+0 0 0
+Fields Through the Sparse Forest~
+The gigantic trees of the Fierense forest fade into a background oblivion,
+making way for a scattered clearing of dry grass and old oak trees.  Beams
+of sunlight that once enriched this part of the land now seem to sap life
+out of it, turning the trees slightly browner than normal due to the lack
+of moisture.  Dry winds spiral in from the south, carrying a legacy of
+dust and other revelations of the change in climate to come.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 2341
+D1
+~
+~
+0 0 2334
+D2
+~
+~
+0 0 2302
+D3
+~
+~
+0 0 2332
+S
+#2334
+0 0
+~
+$n arrives, kicking up browned pine needles as $e approaches.~
+Scanning to $s $T, $n readies $s armor and continues $s travels.~
+0 0 0
+The Valasse Trade Route~
+`dThe lands surrounding the trade route here are mixed, only a few groups
+of oak and pine trees stand starkly among shrubs and dry grasses.  In the
+northerly direction, the trees get increasingly dense, whereas to the south,
+dry scrublands sprawl out as far as the eye can see, the lonely packed dirt
+road of the Valasse wandering across it.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 2342
+D1
+~
+~
+0 0 2335
+D2
+~
+~
+0 0 2303
+D3
+~
+~
+0 0 2333
+S
+#2335
+0 0
+~
+$n arrives, kicking up browned pine needles as $e approaches.~
+Scanning to $s $T, $n readies $s armor and continues $s travels.~
+0 0 0
+Fields Through the Sparse Forest~
+The comfortable cool climate of the shade of the Fierense woodlands
+changes subtly here as arid winds sweep over the land.  The concentration
+of trees that was the forest now becomes a scattered clearing of small
+trees, not nearly tall or robust enough to eke out a normal lifespan.
+To your south, the woodlands die off almost completely in favor of small
+ground plants more suited to life in this part of the world.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 2343
+D1
+~
+~
+0 0 2336
+D2
+~
+~
+0 0 2304
+D3
+~
+~
+0 0 2334
+S
+#2336
+0 0
+~
+The winds swirl around $n's feet as $e strides through the plains.~
+Picking up $s pace, $n travels to the $T in search of new terrain.~
+0 0 0
+Fields Through the Sparse Forest~
+The gigantic trees of the Fierense forest fade into a background oblivion,
+making way for a scattered clearing of dry grass and old oak trees.  Beams
+of sunlight that once enriched this part of the land now seem to sap life
+out of it, turning the trees slightly browner than normal due to the lack
+of moisture.  Dry winds spiral in from the south, carrying a legacy of
+dust and other revelations of the change in climate to come.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 2344
+D1
+~
+~
+0 0 2337
+D2
+~
+~
+0 0 2305
+D3
+~
+~
+0 0 2335
+S
+#2337
+0 0
+~
+The winds swirl around $n's feet as $e strides through the plains.~
+Picking up $s pace, $n travels to the $T in search of new terrain.~
+0 0 0
+Fields Through the Sparse Forest~
+The gigantic trees of the Fierense forest fade into a background oblivion,
+making way for a scattered clearing of dry grass and old oak trees.  Beams
+of sunlight that once enriched this part of the land now seem to sap life
+out of it, turning the trees slightly browner than normal due to the lack
+of moisture.  Dry winds spiral in from the south, carrying a legacy of
+dust and other revelations of the change in climate to come.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 2345
+D1
+~
+~
+0 0 2338
+D2
+~
+~
+0 0 2306
+D3
+~
+~
+0 0 2336
+S
+#2338
+0 0
+~
+$n arrives, kicking up browned pine needles as $e approaches.~
+Scanning to $s $T, $n readies $s armor and continues $s travels.~
+0 0 0
+Fields Through the Sparse Forest~
+The comfortable cool climate of the shade of the Fierense woodlands
+changes subtly here as arid winds sweep over the land.  The concentration
+of trees that was the forest now becomes a scattered clearing of small
+trees, not nearly tall or robust enough to eke out a normal lifespan.
+To your south, the woodlands die off almost completely in favor of small
+ground plants more suited to life in this part of the world.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 2346
+D2
+~
+~
+0 0 2307
+D3
+~
+~
+0 0 2337
+S
+#2339
+0 0
+~
+$n arrives, kicking up browned pine needles as $e approaches.~
+Scanning to $s $T, $n readies $s armor and continues $s travels.~
+0 0 0
+Fields Through the Sparse Forest~
+The comfortable cool climate of the shade of the Fierense woodlands
+changes subtly here as arid winds sweep over the land.  The concentration
+of trees that was the forest now becomes a scattered clearing of small
+trees, not nearly tall or robust enough to eke out a normal lifespan.
+To your south, the woodlands die off almost completely in favor of small
+ground plants more suited to life in this part of the world.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 13156
+D1
+~
+~
+0 0 2340
+D2
+~
+~
+0 0 2331
+S
+#2340
+0 0
+~
+The winds swirl around $n's feet as $e strides through the plains.~
+Picking up $s pace, $n travels to the $T in search of new terrain.~
+0 0 0
+Fields Through the Sparse Forest~
+The gigantic trees of the Fierense forest fade into a background oblivion,
+making way for a scattered clearing of dry grass and old oak trees.  Beams
+of sunlight that once enriched this part of the land now seem to sap life
+out of it, turning the trees slightly browner than normal due to the lack
+of moisture.  Dry winds spiral in from the south, carrying a legacy of
+dust and other revelations of the change in climate to come.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 13157
+D1
+~
+~
+0 0 2341
+D2
+~
+~
+0 0 2332
+D3
+~
+~
+0 0 2339
+S
+#2341
+0 0
+~
+The winds swirl around $n's feet as $e strides through the plains.~
+Picking up $s pace, $n travels to the $T in search of new terrain.~
+0 0 0
+Fields Through the Sparse Forest~
+The gigantic trees of the Fierense forest fade into a background oblivion,
+making way for a scattered clearing of dry grass and old oak trees.  Beams
+of sunlight that once enriched this part of the land now seem to sap life
+out of it, turning the trees slightly browner than normal due to the lack
+of moisture.  Dry winds spiral in from the south, carrying a legacy of
+dust and other revelations of the change in climate to come.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 13158
+D1
+~
+~
+0 0 2342
+D2
+~
+~
+0 0 2333
+D3
+~
+~
+0 0 2340
+S
+#2342
+0 0
+~
+The winds swirl around $n's feet as $e strides through the plains.~
+Picking up $s pace, $n travels to the $T in search of new terrain.~
+0 0 0
+The Valasse Trade Route~
+`dThe hard packed road leads into the shade of the forest to the north. 
+Here, only a few trees dot the grassy scrub.  High in the cloudless sky, a
+few hawks ride thermals rising in spirals towards the sun.  An arid wind
+blows across the grasses and over the road, sapping strength and water from
+the leafy plants.  The route leads deeper into the scrub to the south.``  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 13159
+D1
+~
+~
+0 0 2343
+D2
+~
+~
+0 0 2334
+D3
+~
+~
+0 0 2341
+S
+#2343
+0 0
+~
+The winds swirl around $n's feet as $e strides through the plains.~
+Picking up $s pace, $n travels to the $T in search of new terrain.~
+0 0 0
+Fields Through the Sparse Forest~
+The gigantic trees of the Fierense forest fade into a background oblivion,
+making way for a scattered clearing of dry grass and old oak trees.  Beams
+of sunlight that once enriched this part of the land now seem to sap life
+out of it, turning the trees slightly browner than normal due to the lack
+of moisture.  Dry winds spiral in from the south, carrying a legacy of
+dust and other revelations of the change in climate to come.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 13160
+D1
+~
+~
+0 0 2344
+D2
+~
+~
+0 0 2335
+D3
+~
+~
+0 0 2342
+S
+#2344
+0 0
+~
+$n arrives, kicking up browned pine needles as $e approaches.~
+Scanning to $s $T, $n readies $s armor and continues $s travels.~
+0 0 0
+Fields Through the Sparse Forest~
+The comfortable cool climate of the shade of the Fierense woodlands
+changes subtly here as arid winds sweep over the land.  The concentration
+of trees that was the forest now becomes a scattered clearing of small
+trees, not nearly tall or robust enough to eke out a normal lifespan.
+To your south, the woodlands die off almost completely in favor of small
+ground plants more suited to life in this part of the world.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 13161
+D1
+~
+~
+0 0 2345
+D2
+~
+~
+0 0 2336
+D3
+~
+~
+0 0 2343
+S
+#2345
+0 0
+~
+$n arrives, kicking up browned pine needles as $e approaches.~
+Scanning to $s $T, $n readies $s armor and continues $s travels.~
+0 0 0
+Fields Through the Sparse Forest~
+The comfortable cool climate of the shade of the Fierense woodlands
+changes subtly here as arid winds sweep over the land.  The concentration
+of trees that was the forest now becomes a scattered clearing of small
+trees, not nearly tall or robust enough to eke out a normal lifespan.
+To your south, the woodlands die off almost completely in favor of small
+ground plants more suited to life in this part of the world.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 13162
+D1
+~
+~
+0 0 2346
+D2
+~
+~
+0 0 2337
+D3
+~
+~
+0 0 2344
+S
+#2346
+0 0
+~
+$n arrives, kicking up browned pine needles as $e approaches.~
+Scanning to $s $T, $n readies $s armor and continues $s travels.~
+0 0 0
+Fields Through the Sparse Forest~
+The comfortable cool climate of the shade of the Fierense woodlands
+changes subtly here as arid winds sweep over the land.  The concentration
+of trees that was the forest now becomes a scattered clearing of small
+trees, not nearly tall or robust enough to eke out a normal lifespan.
+To your south, the woodlands die off almost completely in favor of small
+ground plants more suited to life in this part of the world.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 13163
+D2
+~
+~
+0 0 2338
+D3
+~
+~
+0 0 2345
+S
+#0
+
+#RESETS
+M 0 2300   4 2300  1	* A shadow chimaera
+M 0 2301  15 2301  2	* A brush scuttler
+M 0 2305  15 2307  1	* A huge rat
+M 0 2306  15 2307  1	* A long-necked blue vulture
+M 0 2303  15 2309  1	* A ferret
+M 0 2303  15 2311  1	* A ferret
+M 0 2302   4 2313  1	* A gigantic stripe snake
+M 0 2306  15 2315  1	* A long-necked blue vulture
+M 0 2300   4 2317  1	* A shadow chimaera
+M 0 2301  15 2319  1	* A brush scuttler
+M 0 2303  15 2321  1	* A ferret
+M 0 2301  15 2325  1	* A brush scuttler
+M 0 2305  15 2327  1	* A huge rat
+M 0 2306  15 2327  1	* A long-necked blue vulture
+M 0 2300   4 2330  1	* A shadow chimaera
+M 0 2300   4 2302  1	* A shadow chimaera
+M 0 2302   4 2310  1	* A gigantic stripe snake
+M 0 2306  15 2319  1	* A long-necked blue vulture
+M 0 2305  15 2319  2	* A huge rat
+M 0 2301  15 2329  3	* A brush scuttler
+M 0 2304   1 2305  1	* A disheveled nomad mage
+E 0 12952   -1   18	* item to A disheveled nomad mage
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 2302 spec_poison		* A gigantic stripe snake
+M 2304 spec_cast_mage		* A disheveled nomad mage
+S
+
+#OT
+#0
+#$

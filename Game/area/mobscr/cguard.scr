@@ -1,0 +1,30 @@
+* File: cguard.scr
+* Mob: Cityguards[Midgaard](3060)
+
+#TRIGGER sighand
+Type 8
+Sc
+if ( %sighand-arg% cmp "backwork" )
+  wfunc %rndrm% random 3001 3100
+  yell gonna go to %rndrm%
+  walkto %rndrm%
+  halt once~
+Sc
+wfunc %rndnum% random 0 2
+cheer
+yell 
+if ( %rndnum% == 0 )
+  yell Ye-haw!
+  jump 4~
+Sc
+if ( %rndnum% == 1 )
+  yell ALRIGHT! 
+  jump 4~
+Sc
+if ( %rndnum% == 2 )
+  yell WOO !  WOO  !~
+Sc
+  walkto 3007~
+End
+
+#END

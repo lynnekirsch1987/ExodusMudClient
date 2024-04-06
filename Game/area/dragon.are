@@ -1,0 +1,4538 @@
+#AREA
+ 6~
+dragon.are~
+`kDragon's Flight``~
+{75 95} Serenity  `kDragon's Flight``~
+~
+21501 21700
+0 0 0
+0 1
+~
+#MOBILES
+#21501
+Sea Dragon~
+A sea dragon~
+Two great coral eyes from a Sea Dragon are looking up from the depths of the ocean.
+~
+Dragons of the Sea are a lovely iridescent shade of blue-green with
+coral-colored eyes.  They are 15 to 25 meters in length and have graceful
+flippers along the sides of their sleek, scaly bodies in place of wings. 
+They have no feet but can slide across the shore at very fast speeds,
+bringing with them the water of the ocean in great, destuctive tidal waves. 
+They will not venture far upon land, however, never getting out of sight of
+the blue water that is their home.  
+~
+dragon~
+0 0 0 0
+ABFT DHJTb -750 85
+85 10 50d10+6300 50d10+250 10d8+45 bite
+-45 -45 -45 999 -18
+0 -1 ACDMOV ABEIKLMNOPQRSTXZ BEH FHI
+stand stand neutral 5000
+AHZ ACDEFGHIJKPQUVXa 23 23 23 23 23 23 0
+giant oldstyle~
+0 0 0 100
+1
+~
+~
+#21502
+Night Dragon~
+A night dragon~
+Two great red eyes from a Night Dragon stare at you from the shadows.
+~
+Dragon of the Night are jet black with eyes that are cold red.  They are
+20 to 25 meters in lenth.   Their wings, when unfolded, project tiny
+pinpoints of light that mimic stars.  Thus the Dragon of the Night can blend
+in with the night sky when swooping down upon an enemy.  
+~
+dragon~
+0 0 0 0
+ABR DHJQTa -800 0
+80 10 50d10+5000 50d10+500 10d7+42 sting
+-40 -40 -40 999 -15
+0 -1 ACDOV ABCHJLMNOPQRTXZ BEH FIS
+stand stand neutral 8000
+AHZ ACDEFGHIJKPQUVXa 22 22 22 22 22 22 0
+giant oldstyle~
+0 0 0 100
+3
+~
+~
+#21503
+Sand Dragon~
+A Sand Dragon~
+A Sand Dragon sleeps here while camouflaged with the desert sand.
+~
+The Dragons of the Sand have the ability to take on the color and
+consistency of the ground.  They are 10 to 15 meters in lenth.  Since almost
+all will be found in the desert, they are sandy colored and their skin feels
+gritty to the touch.  They have long, wormlike bodies and no wings that
+might impede their tunneling.  
+~
+dragon~
+0 0 0 0
+ABC DHJQT 750 0
+90 13 50d10+6700 50d10+250 11d9+48 bite
+-50 -50 -50 999 -20
+0 -1 ACDMOV ABCHIJKOPRSTXZ BEH FIN
+stand stand neutral 10000
+AHZ ACDEFGHIJKPQUVXa 24 24 24 24 24 24 0
+giant oldstyle~
+0 0 0 100
+4
+~
+~
+#21504
+Sun Dragon~
+A sun dragon~
+The eyes of the sun dragon illuminate through the lids of the sleeping dragon.
+~
+Dragons of the Sun are a flaming orange-red color, about 30 to 35 meters
+in length with two huge wings.  They have yellow, glowing eyes.  It is
+impossible to look at them directly without risking blindness.  
+~
+dragon~
+0 0 0 0
+AB DHJTa -800 0
+95 13 50d10+7100 50d10+300 11d10+50 flbite
+-52 -52 -52 999 -20
+0 -1 ACDMOV ABCJKLNOPRSTXZ BEH FI
+stand sleep neutral 15000
+AHZ ACDEFGHIJKPQUVXa 26 26 26 26 26 26 0
+giant oldstyle~
+0 0 0 100
+2
+~
+~
+#21505
+Gore~
+A snake-like creature~
+The Gore, a snake-like creatue slithers on its belly towards you!
+~
+`nThe gore are about 3 meters in length.  They have the slender body of a
+snake, which splits into several heads, depending on the age of the
+creature.  Gore apparently add one head per each ten years of life.  The
+gore are generally grey in color.  When attacking, the gore rears its upper
+body off the ground, its head fanning out like a cobra's hood to get a good
+look at its enemy.  The heads strike independently of each other, making
+them ever more dangerous.  
+~
+lizard~
+0 0 0 0
+ACS KM -100 0
+75 10 50d10+5625 50d10+200 9d7+40 bite
+-34 -34 -34 999 -12
+0 -1 BCDMV B L I
+stand stand none 0
+AGXc ACDEFHKQVa 21 21 21 21 21 21 0
+medium oldstyle~
+0 0 0 100
+3
+~
+~
+#21506
+Hunterkill~
+A large dark hound~
+The hunterkill, resembling a large hound stares at you viciously.
+~
+`iDuring the Cold Wars, the Hunterkills were breed as assasins.  They
+have a tremendous talent for survival.  Once set on its course, a Hunterkill
+will pursue its prey relentlessly, traveling far if need be.  The
+Hunterkills have a long head with strong, snapping jaws and knife-edged
+teeth.  They have a long tail with a barb at the end, and two muscular legs
+and clawed feet.  Most Hunterkills measure 4 meters in length and 3 meters
+at the shoulders.  Their shining, dark eyes are contrasted from their short,
+night-black hair.  `` 
+~
+dog~
+0 0 0 0
+AM DZ -1000 0
+84 13 50d10+6300 50d10+250 10d8+45 shbite
+-42 -42 -42 999 -16
+0 -1 CDH B 0 S
+stand stand neutral 0
+AGV ACDEFHJKUVa 23 23 23 23 23 23 0
+medium oldstyle~
+0 0 0 100
+1
+~
+~
+#21507
+Basilisk~
+A large lizard~
+A Basilisk considers you intently.
+~
+The basilisk was shaped from the same large reptiles that later became
+dragons.  Basilisks live primarily in the desert.  They resemble large
+lizards with flat, bullish faces and long, flat, powerful tails.  Their
+coloration tends to be brownish, making it difficult to see them in the
+sand.  Their gaze is said to turn any object to stone.  
+~
+lizard~
+0 0 0 0
+AT 0 -750 0
+82 7 50d10+6150 50d10+100 10d8+44 grep
+-40 -40 -40 999 -15
+0 -1 ACM B L CI
+stand stand neutral 0
+AGXc ACDEFHKQVa 23 23 23 23 23 23 0
+medium oldstyle~
+0 0 0 100
+3
+~
+~
+#21508
+Chimera~
+The three headed beast.~
+A chimera with three heads stand here stoicly surveying the surroundings.
+~
+`nChimeras have three heads: one of a goat, one of a lion, and one of a
+dragon.  They have the body and hind legs of a lion, the forelegs of a goat,
+and the barbed tail of a dragon.  Chimeras regenerate by means of a larva
+spawned from within their own corpses when they die.  Of the larvas spawned,
+only 1/3 reach maturity.  
+~
+dragon~
+0 0 0 0
+AT JTd 450 0
+92 10 50d10+6900 50d10+240 11d9+49 peckb
+-45 -45 -45 999 -17
+0 -1 AIMV B BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVXa 25 25 25 25 25 25 0
+large oldstyle~
+0 0 0 100
+4
+~
+~
+#21509
+Wildrover~
+A dark canine~
+A Wildrover growls and snarls are you menacingly!
+~
+These canines are not as silent as the Hunterkills and are even less
+discriminate in their choices of target.  The Wildrovers are fierce and
+swift in combat.  Traveling in packs of four, they will hunt and kill
+relentlessly or be killed.  
+ 
+~
+dog~
+0 0 0 0
+A DZa -750 0
+84 10 50d10+5300 50d10+100 10d8+35 bite
+-40 -40 -40 999 -15
+0 -1 HU B 0 0
+stand stand none 0
+AGV ACDEFHJKUVa 23 23 23 23 23 23 0
+medium oldstyle~
+0 0 0 100
+1
+~
+~
+#21510
+Desert nomad~
+A desert nomad~
+A dark-skinned person stands against the horizon.
+~
+~
+human~
+0 0 0 0
+AC 0 300 0
+87 15 50d10+6525 50d10+350 11d9+46 beating
+-42 -42 -42 999 0
+0 -1 EFJN ABHS 0 0
+stand stand neutral 75000
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#21515
+Shade~
+The Shade~
+A Shade floats here caught between two worlds
+~
+The Shade is a shimmering form, hardly discernable.
+~
+human~
+0 0 0 0
+AO BDFQTUZ 0 0
+95 0 50d100+7000 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 G ABCDEFGHIJKLMQRSTXYZ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 100
+4
+shade.voc~
+~
+#21516
+Prophetess~
+The Seer~
+The Prophetess sits here interpreting her dreams
+~
+~
+human~
+0 0 0 0
+A HW 1000 0
+100 35 50d100+5000 0d0+0 10d11+45 divine
+-50 -50 -50 999 -30
+0 -1 0 ABCD 0 0
+stand stand female 0
+ADHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium oldstyle~
+0 0 0 100
+7
+prophetess.voc~
+~
+#0
+
+#OBJECTS
+#21501
+Dragon's Flight history~
+a floating piece of wood~
+`oA floating piece of drift `gwood `owith some inscription floats here.``~
+hardwood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+wood~
+`gThe inscription reads: `oAlthough it is not known for certain,
+undoubtedly Serenity, Gaudess of the Great Passage brought with her dragons
+from her ancient homeland.  The lives of these wondrous creatures were
+imperiled on Earth, and it is plausible that Serenity might have attempted
+to save some of their kind by bringing them to a new world where they could
+live in peace.  Unfortunately, as with almost all other dreams of those
+ancient beings, this one, too, was shattered by time.  
+ 
+ 
+~
+#21502
+tunnel to sea dragon~
+a tunnel~
+`gThe gentle winds of the sea have strengthened by the narrowing of the passage into a small `ktunnel.``~
+oldstyle~
+0
+portal 2
+R
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 KL G ABCKMO A
+0
+0
+0 0 0 P
+#21503
+east_tunnel~
+a tunnel to the east~
+~
+oldstyle~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ADKMO B
+0
+0
+0 0 0 P
+#21504
+tunnel 3~
+a tunnel to the sea dragon~
+`jThe tunnel leading back to the sea dragon's lair.``~
+oldstyle~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCKMO A
+0
+0
+0 0 0 P
+#21505
+cave~
+cave~
+`gA cave hidden deep in the Outland marshes.``~
+oldstyle~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G BCEKMO A
+0
+0
+0 0 0 P
+#21506
+cave~
+cave~
+`gA tunnel leading out of this cave.``~
+oldstyle~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G BCFKMO B
+0
+0
+0 0 0 P
+#21507
+burrow~
+burrow~
+`nA burrow leading downward into a dark chasm.``~
+oldstyle~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABFKMO F
+0
+0
+0 0 0 P
+#21508
+burrow~
+burrow~
+`nA burrow leading out.``~
+oldstyle~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCEFKMO F
+0
+0
+0 0 0 P
+#21509
+portal~
+portal to top of volcano~
+Tired of the long trek, the pious Merics have created a portal to the top of the mountain.~
+oldstyle~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ADFGKMO A
+0
+0
+0 0 0 P
+#21510
+portal ~
+portal to hidden chamber~
+A portal leading back to the hidden chambers.~
+oldstyle~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G DFGKMO B
+0
+0
+0 0 0 P
+#21511
+crystal platform~
+hovering crystal platform~
+A crystal platform levitating above the volcanoe.~
+oldstyle~
+0
+elevator 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BDFGKMO B GJOQRST 0 0
+0
+0
+0 0 0 P
+#21512
+button~
+ensigna of dragon~
+`kA glowing ensigna of a dragon.``~
+oldstyle~
+0
+ebutton 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCKMO A ABDFGKMO 0 0
+0
+0
+0 0 0 P
+#21513
+Button 2~
+Button  to call platform~
+Stone to call platform~
+oldstyle~
+0
+ebutton 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The platform moves to the edge of the mouth~
+The platforms slowly arrives~
+The platforms leaves~
+The platform leaves~
+ABCKMO A ADFGKMO 0 0
+0
+0
+0 0 0 P
+#21514
+button~
+a rock to summon the platform~
+A rock to summon the platform.~
+oldstyle~
+0
+ebutton 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCKMO A ADFGKMO 0 0
+0
+0
+0 0 0 P
+#21515
+button to volcano~
+button to volcano~
+`iAn ensigna of a volcano.``~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCKMO B ADFGKMO 0 0
+0
+0
+0 0 0 P
+#21516
+Flaming Sun Sword~
+`iFlaming`k Sun`` Sword~
+The flaming sun sword~
+steel~
+0
+weapon 2
+BISY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 D AD AB A
+0
+0
+85 7 12000 P
+#21517
+Illumine~
+`oIllumine``~
+`oA sword is here illuminating a blinding white light.``~
+crystal~
+0
+weapon 2
+ABKS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 D D CE E
+0
+0
+80 10 10000 P
+#21518
+Sword of Aquian~
+Sword of `lAquian``~
+A shimmering sword lies here having no definite shape, yet it cuts through stone!~
+oldstyle~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 B B ABE 0
+0
+0
+90 12 15000 P
+#21519
+Dark Sword~
+`gDark Sword``~
+A sword lays hidden in the shadows...absorbing all light.~
+quartz~
+0
+weapon 2
+BCS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 AD D AF C
+0
+0
+90 15 17000 P
+#21520
+Treasure chest~
+Treasure chest of Sea Dragon~
+A rusted chest is protruding out of the shallow waters.~
+iron~
+0
+container 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ADE ABCD AEKMO ADE A
+0
+0
+0 0 0 P
+#21521
+Key ~
+A key~
+A rusty key is enduring the weather.~
+oldstyle~
+0
+key 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1 0 P
+#21522
+Treasure Chest~
+The Treasure Chest~
+A Treasure Chest is buried into the sand.~
+wood~
+0
+container 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ADE ABCD ABEKMO ADE A
+0
+0
+0 0 0 P
+#21523
+key~
+A key~
+A key to the Sand Dragon's treasure chest~
+iron~
+0
+key 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1 0 P
+#21524
+west_tunnel~
+west tunnel to Dark Waters~
+`oA tunnel leading back to Dark Water``~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+-1 0 G BDKMO B
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#21504
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21509
+D1
+~
+~
+0 0 21510
+D2
+~
+~
+0 0 21505
+D3
+~
+~
+0 0 21503
+S
+#21505
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21504
+D1
+~
+~
+0 0 21512
+D2
+~
+~
+0 0 21510
+D3
+~
+~
+0 0 21510
+S
+#21506
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21503
+D1
+~
+~
+0 0 21501
+D2
+~
+~
+0 0 21508
+D3
+~
+~
+0 0 21501
+S
+#21507
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21501
+D1
+~
+~
+0 0 21508
+D2
+~
+~
+0 0 21502
+D3
+~
+~
+0 0 21508
+S
+#21508
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21506
+D1
+~
+~
+0 0 21507
+D2
+~
+~
+0 0 21503
+D3
+~
+~
+0 0 21507
+S
+#21509
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21510
+D1
+~
+~
+0 0 21502
+D2
+~
+~
+0 0 21504
+S
+#21510
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21505
+D1
+~
+~
+0 0 21505
+D2
+~
+~
+0 0 21509
+D3
+~
+~
+0 0 21504
+S
+#21511
+0 0
+~
+~
+~
+0 0 0
+Dragon of the Sea~
+`oWhen the Merics-those beings living in Serenity's ancient world-were
+drawn into the Cold Wars, they enslaved and slaughtered creatures who were
+either shaped by them or discovered living under the ocean.  These became
+known, therefore, as `D`kDragons' of the Sea.  `oWhen the Cold Wars ended, the
+Merics returned to their homeland and so did the few `kDragons of the Sea
+`oBoth Meric and sea dragon have rarely been seen together.  Through years
+of cruelty by the Merics, the sea dragons have grown hostile to most
+creatures.  
+ 
+``
+~
+0 C 0
+0
+~
+I 0 S
+#21512
+0 0
+~
+~
+~
+0 0 0
+Vision of land~
+The maddening waves have driven even the best of navigators insane.  Many
+have surrendered to the constant cries and wails of the wind.  The once
+calm, gentle clouds teasing a traveller's imagination with images of beauty
+have transformed into angry visions of death.  The once artful hues of pink,
+purple, red and orange that colored the horizon has been consummed by a
+large, dark image of some mass.  Is that distant mass an illusion?  Will you
+finally seek salvation from the madness through death?  The answer will all
+too soon be revealed...  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 21519
+D3
+~
+~
+0 0 21505
+S
+#21513
+0 0
+~
+~
+~
+0 0 0
+Field of Glory~
+`jThe grasses of the plain are tall and soft-feeling.  They wave like a
+sea of green during the day.  Yet, as anyone who passes the plains will tell
+you, they are the home of terrifying things-both alive and dead!  You
+tremble to think what might happen to you at night without the watchful eye
+of the sun.  `` `jTo the east spans the mountain, starting from the Great
+Passage to as far as the eye can see.  Hot erupting lava to the south draws
+your attention to a volcanoe, emminating a regal and powerful presence on
+this small humble island.  To the east is a The Outland, a dense wasteland,
+a gathering place for renegades, rebels, and outcasts.  
+~
+0 0 2
+0
+~
+I 0 D2
+~
+~
+0 0 21517
+S
+#21514
+0 0
+~
+~
+~
+0 0 0
+Great Passage~
+`kFrom the brink of madness, your futile hope of salvation has rekindled
+upon witnessing a marvel of natural beauty.  Looming beside you are two
+peaks forming a narrow passage large enough for a few ships.  The passage
+recieves its light from crystals mounted along the mountain peaks.  The
+crystals radiate light slower than they absorb it, and in this way they
+continue to glow through the night if need be.  Wind, warmed or cooled to a
+pleasant temperature, rushes through tunnels shaped into the rock,
+delivering fresh air throughout the passage.  The overall effect is
+pleasant-the passage is well lit, there is plenty of fresh sea air-far from
+the horrors of the `lDark Sea.  `` 
+~
+0 0 7
+0
+~
+I 0 D3
+~
+~
+0 0 21520
+S
+#21515
+0 0
+~
+~
+~
+0 0 0
+Broken dreams~
+`k You slip.......
+`k You slip.......
+`k You slip.......
+`k You slip.......
+`k You slip.......
+`k You slip.......
+`k You slip.......
+`k You slip.......
+`k You slip.......
+`k You slip.......
+`g Voices. Visions. Light. Dark. Struggling to fight and suppress your insanity, you slip on some pebbles and fall down a steep hill.
+~
+0 Cb 0
+0
+~
+I 0 D5
+~
+~
+0 0 21533
+S
+#21516
+0 0
+~
+~
+~
+0 0 0
+Ghastly Images~
+`g The dimness around you is maddening.  There is light enough for you to
+discern shapes, yet it is too dark to identify anything.  You get the
+impression that the floor curved several times in different directions. 
+Like a `oghost `gthe shapes flicker before you.  `` 
+~
+0 A 14
+0
+~
+I 0 D1
+~
+~
+0 0 21540
+D4
+~
+~
+0 0 21538
+S
+#21517
+0 0
+~
+~
+~
+0 0 0
+Field of Glory~
+`jThe grasses of the plain are tall and soft-feeling.  They wave like a
+sea of green during the day.  Yet, as anyone who passes the plains will tell
+you, they are the home of terrifying things-both alive and dead!  You
+tremble to think what might happen to you at night without the watchful eye
+of the sun.  `` `jTo the east spans the mountain, starting from the Great
+Passage to as far as the eye can see.  Hot erupting lava to the south draws
+your attention to a volcanoe, emminating a regal and powerful presence on
+this small humble island.  To the east is a The Outland, a dense wasteland,
+a gathering place for renegades, rebels, and outcasts.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 21513
+D1
+~
+~
+0 0 21517
+D2
+~
+~
+0 0 21518
+D3
+~
+~
+0 0 21517
+S
+#21518
+0 0
+~
+~
+~
+0 0 0
+Field of Glory~
+`jThe grasses of the plain are tall and soft-feeling.  They wave like a
+sea of green during the day.  Yet, as anyone who passes the plains will tell
+you, they are the home of terrifying things-both alive and dead!  You
+tremble to think what might happen to you at night without the watchful eye
+of the sun.  `` `jTo the east spans the mountain, starting from the Great
+Passage to as far as the eye can see.  Hot erupting lava to the south draws
+your attention to a volcanoe, emminating a regal and powerful presence on
+this small humble island.  To the east is a The Outland, a dense wasteland,
+a gathering place for renegades, rebels, and outcasts.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 21517
+D1
+~
+~
+0 0 21521
+D2
+~
+~
+0 0 21522
+D3
+~
+~
+0 0 21521
+S
+#21519
+0 0
+~
+~
+~
+0 0 0
+Vision of land~
+The maddening waves have driven even the best of navigators insane.  Many
+have surrendered to the constant cries and wails of the wind.  The once
+calm, gentle clouds teasing a traveller's imagination with images of beauty
+have transformed into angry visions of death.  The once artful hues of pink,
+purple, red and orange that colored the horizon has been consummed by a
+large, dark image of some mass.  Is that distant mass an illusion?  Will you
+finally seek salvation from the madness through death?  The answer will all
+too soon be revealed...  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 21520
+D3
+~
+~
+0 0 21512
+S
+#21520
+0 0
+~
+~
+~
+0 0 0
+Vision of land~
+The maddening waves have driven even the best of navigators insane.  Many
+have surrendered to the constant cries and wails of the wind.  The once
+calm, gentle clouds teasing a traveller's imagination with images of beauty
+have transformed into angry visions of death.  The once artful hues of pink,
+purple, red and orange that colored the horizon has been consummed by a
+large, dark image of some mass.  Is that distant mass an illusion?  Will you
+finally seek salvation from the madness through death?  The answer will all
+too soon be revealed...  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 21514
+D3
+~
+~
+0 0 21519
+S
+#21521
+0 0
+~
+~
+~
+0 0 0
+Field of Glory~
+`jThe grasses of the plain are tall and soft-feeling.  They wave like a
+sea of green during the day.  Yet, as anyone who passes the plains will tell
+you, they are the home of terrifying things-both alive and dead!  You
+tremble to think what might happen to you at night without the watchful eye
+of the sun.  `` `jTo the east spans the mountain, starting from the Great
+Passage to as far as the eye can see.  Hot erupting lava to the south draws
+your attention to a volcanoe, emminating a regal and powerful presence on
+this small humble island.  To the east is a The Outland, a dense wasteland,
+a gathering place for renegades, rebels, and outcasts.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 21521
+D1
+~
+~
+0 0 21518
+D2
+~
+~
+0 0 21521
+D3
+~
+~
+0 0 21518
+S
+#21522
+0 0
+~
+~
+~
+0 0 0
+Roads of Destiny~
+Three paths lie before you.  Taking the wrong path will likely resolve in
+your death.  A path of broken stones leads across unkept ground to the west
+in what use to be called the Westlund.  Since the Cold Wars, however, the
+road has been overtaken by the Outland wilderness, and now only bandits and
+thieves and worse walk these paths.  The eastroad runs across the
+grasslands.  This road, made of magically fitted stones, once ran through
+the very heart of the plains.  Now the shining black stones of that road
+exist only in broken patches extending along its original route.  And the
+spewing lavas of the volcanoes grow more intense, seemingly glowing to the
+south.  The towering peaks of the volcanoes cast long shadows over the
+plains.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 21518
+D1
+~
+~
+0 0 21524
+D2
+~
+~
+0 0 21525
+D3
+~
+~
+0 0 21523
+S
+#21523
+0 0
+~
+~
+~
+0 0 0
+West road to Outland~
+`lWestward.  `oLight `land `nshadow.  `oLight `land `nshadow.  `lAgain
+and again they appear through your eyes.  Your groggy mind hear voices in
+the distance.  Your back and neck ache as you dodge imaginary creatures of
+the night.  `oLight `land `nshadow.  `lThe voices are clearer now?  `` 
+~
+0 b 0
+0
+~
+I 0 D1
+~
+~
+0 0 21522
+D2
+~
+~
+0 0 21527
+S
+#21524
+0 0
+~
+~
+~
+0 0 0
+East road~
+`oThe Borderland desert starts beyond the mountains to the east where the
+grasses of the plains quickly become short and rough.  Within serveral miles
+the ground turns to barren desert with only sparse vegetation..  Swirling
+winds of `ired `oand `borange `ostruggle frantically, each nurished by the
+same hot sun.  Their cries of victory and defeat result in a dry whistling
+sound.  Will the victor of the battle be merciful and grant you death?  At
+least all would be over, much better than dying of thirst and starvation in
+the desert.  `` 
+~
+0 b 10
+0
+~
+I 0 D0
+~
+~
+0 0 21546
+D1
+~
+~
+0 0 21544
+D2
+~
+~
+0 0 21546
+D3
+~
+~
+0 0 21522
+S
+#21525
+0 0
+~
+~
+~
+0 0 0
+South road~
+The broken stones quickly turn to pebbles and soft sand from the frequent
+eruptions of the volcanoe.  You dance slightly with every step, trying to
+escape from the hot springs that seep up from below.  Acrid fumes of sulfur
+blown from the wind are compounded with the hot vents forming a gaseous
+cloud.  The unbearable smell will make even the worst of olfactories keen. 
+The sky above, once pleasing to the mind and body has transformed into
+`ngrey clouds` `i seemingly devouring its former self.  
+``
+~
+0 b 5
+0
+~
+I 0 D0
+~
+~
+0 0 21522
+D2
+~
+~
+0 0 21579
+S
+#21526
+0 0
+~
+~
+~
+0 0 0
+Dragon of the Night~
+`nAfter the Wars, the `lDragons of the Night `nfled the world of light
+that they hated, retreating into lairs deep beneath the ground.  Once the
+dragons have found a dwelling, they work frantically to block out any
+possible source of light.  They venture into the world only on moonless
+nights to hunt for food.  They are carnivorous and will enjoy an occasional
+warrior that has stumbled into it's cave.  `` 
+~
+0 C 0
+0
+~
+I 0 S
+#21527
+0 0
+~
+~
+~
+0 0 0
+West road to Outland~
+`lWestward.  `oLight `land `nshadow.  `oLight `land `nshadow.  `lAgain
+and again they appear through your eyes.  Your groggy mind hear voices in
+the distance.  Your back and neck ache as you dodge imaginary creatures of
+the night.  `oLight `land `nshadow.  `lThe voices are clearer now?  `` 
+~
+0 b 0
+0
+~
+I 0 D0
+~
+~
+0 0 21523
+D3
+~
+~
+0 0 21528
+S
+#21528
+0 0
+~
+~
+~
+0 0 0
+West road to Outland~
+`lWestward.  `oLight `land `nshadow.  `oLight `land `nshadow.  `lAgain
+and again they appear through your eyes.  Your groggy mind hear voices in
+the distance.  Your back and neck ache as you dodge imaginary creatures of
+the night.  `oLight `land `nshadow.  `lThe voices are clearer now?  `` 
+~
+0 b 0
+0
+~
+I 0 D1
+~
+~
+0 0 21527
+D3
+~
+~
+0 0 21529
+S
+#21529
+0 0
+~
+~
+~
+0 0 0
+West road to Outland~
+`lWestward.  `oLight `land `nshadow.  `oLight `land `nshadow.  `lAgain
+and again they appear through your eyes.  Your groggy mind hear voices in
+the distance.  Your back and neck ache as you dodge imaginary creatures of
+the night.  `oLight `land `nshadow.  `lThe voices are clearer now?  `` 
+~
+0 b 0
+0
+~
+I 0 D1
+~
+~
+0 0 21528
+D2
+~
+~
+0 0 21530
+S
+#21530
+0 0
+~
+~
+~
+0 0 0
+West road to Outland~
+`lWestward.  `oLight `land `nshadow.  `oLight `land `nshadow.  `lAgain
+and again they appear through your eyes.  Your groggy mind hear voices in
+the distance.  Your back and neck ache as you dodge imaginary creatures of
+the night.  `oLight `land `nshadow.  `lThe voices are clearer now?  `` 
+~
+0 b 0
+0
+~
+I 0 D0
+~
+~
+0 0 21529
+D3
+~
+~
+0 0 21531
+S
+#21531
+0 0
+~
+~
+~
+0 0 0
+West road to Outland~
+`lWestward.  `oLight `land `nshadow.  `oLight `land `nshadow.  `lAgain
+and again they appear through your eyes.  Your groggy mind hear voices in
+the distance.  Your back and neck ache as you dodge imaginary creatures of
+the night.  `oLight `land `nshadow.  `lThe voices are clearer now?  `` 
+~
+0 b 0
+0
+~
+I 0 D1
+~
+~
+0 0 21530
+D3
+~
+~
+0 0 21532
+S
+#21532
+0 0
+~
+~
+~
+0 0 0
+West road to Outland~
+`lWestward.  `oLight `land `nshadow.  `oLight `land `nshadow.  `lAgain
+and again they appear through your eyes.  Your groggy mind hear voices in
+the distance.  Your back and neck ache as you dodge imaginary creatures of
+the night.  `oLight `land `nshadow.  `lThe voices are clearer now?  `` 
+~
+0 b 0
+0
+~
+I 0 D1
+~
+~
+0 0 21531
+D3
+~
+~
+0 0 21515
+S
+#21533
+0 0
+~
+~
+~
+0 0 0
+Madness~
+`n Hmm...  It may seem strange, no matter where you go, what you do,
+whether it was day or night, you often feel a presence.  That's the only way
+to describe it.  You keep thinking someone is watching you, yet whenever you
+look around, no one is there.  You are startled by a touch on your shoulder,
+only to find yourself alone.  You answer a voice, only to find no one has
+spoken.  Your nerves quiver with every breath and step orchestrating an
+almost rhythmic dance.  
+~
+0 AN 14
+0
+~
+I 0 D0
+~
+~
+0 0 21537
+D1
+~
+~
+0 0 21534
+D2
+~
+~
+0 0 21537
+D3
+~
+~
+0 0 21535
+S
+#21534
+0 0
+~
+~
+~
+0 0 0
+Madness~
+`n Hmm...  It may seem strange, no matter where you go, what you do,
+whether it was day or night, you often feel a presence.  That's the only way
+to describe it.  You keep thinking someone is watching you, yet whenever you
+look around, no one is there.  You are startled by a touch on your shoulder,
+only to find yourself alone.  You answer a voice, only to find no one has
+spoken.  Your nerves quiver with every breath and step orchestrating an
+almost rhythmic dance.  
+~
+0 AN 14
+0
+~
+I 0 D0
+~
+~
+0 0 21538
+D1
+~
+~
+0 0 21535
+D2
+~
+~
+0 0 21538
+D3
+~
+~
+0 0 21533
+S
+#21535
+0 0
+~
+~
+~
+0 0 0
+Madness~
+`n Hmm...  It may seem strange, no matter where you go, what you do,
+whether it was day or night, you often feel a presence.  That's the only way
+to describe it.  You keep thinking someone is watching you, yet whenever you
+look around, no one is there.  You are startled by a touch on your shoulder,
+only to find yourself alone.  You answer a voice, only to find no one has
+spoken.  Your nerves quiver with every breath and step orchestrating an
+almost rhythmic dance.  
+~
+0 AN 14
+0
+~
+I 0 D0
+~
+~
+0 0 21536
+D1
+~
+~
+0 0 21533
+D2
+~
+~
+0 0 21536
+D3
+~
+~
+0 0 21534
+S
+#21536
+0 0
+~
+~
+~
+0 0 0
+Madness~
+`n Hmm...  It may seem strange, no matter where you go, what you do,
+whether it was day or night, you often feel a presence.  That's the only way
+to describe it.  You keep thinking someone is watching you, yet whenever you
+look around, no one is there.  You are startled by a touch on your shoulder,
+only to find yourself alone.  You answer a voice, only to find no one has
+spoken.  Your nerves quiver with every breath and step orchestrating an
+almost rhythmic dance.  
+~
+0 AN 14
+0
+~
+I 0 D0
+~
+~
+0 0 21535
+D1
+~
+~
+0 0 21537
+D2
+~
+~
+0 0 21535
+D3
+~
+~
+0 0 21538
+S
+#21537
+0 0
+~
+~
+~
+0 0 0
+Madness~
+`n Hmm...  It may seem strange, no matter where you go, what you do,
+whether it was day or night, you often feel a presence.  That's the only way
+to describe it.  You keep thinking someone is watching you, yet whenever you
+look around, no one is there.  You are startled by a touch on your shoulder,
+only to find yourself alone.  You answer a voice, only to find no one has
+spoken.  Your nerves quiver with every breath and step orchestrating an
+almost rhythmic dance.  
+~
+0 AN 14
+0
+~
+I 0 D0
+~
+~
+0 0 21533
+D1
+~
+~
+0 0 21538
+D2
+~
+~
+0 0 21533
+D3
+~
+~
+0 0 21536
+S
+#21538
+0 0
+~
+~
+~
+0 0 0
+Madness~
+`n Hmm...  It may seem strange, no matter where you go, what you do,
+whether it was day or night, you often feel a presence.  That's the only way
+to describe it.  You keep thinking someone is watching you, yet whenever you
+look around, no one is there.  You are startled by a touch on your shoulder,
+only to find yourself alone.  You answer a voice, only to find no one has
+spoken.  Your nerves quiver with every breath and step orchestrating an
+almost rhythmic dance.  
+~
+0 AN 14
+0
+~
+I 0 D0
+~
+~
+0 0 21534
+D1
+~
+~
+0 0 21536
+D2
+~
+~
+0 0 21534
+D3
+~
+~
+0 0 21537
+D5
+~
+~
+0 0 21516
+S
+#21539
+0 0
+~
+~
+~
+0 0 0
+Dragon of the Sand~
+`nDragon's of the Sand, `olike the other dragons were captured and
+enslaved during the Cold Wars.  Although `nDragon's of the Sand `o can
+tunnel through any type of soil, they prefer sand, and when the Wars ended,
+most sought refuge in the desert.  Burrowing through ground with incredible
+speed, it leaves behind large tunnels, close to the surface, that will
+collapse beneath the weight of a human.  Entire castles have been known to
+tumble to ruin when undermined by these dragons.  
+~
+0 C 10
+0
+~
+I 0 S
+#21540
+0 0
+~
+~
+~
+0 0 0
+Ghastly Images~
+`g The dimness around you is maddening.  There is light enough for you to
+discern shapes, yet it is too dark to identify anything.  You get the
+impression that the floor curved several times in different directions. 
+Like a `oghost `gthe shapes flicker before you.  `` 
+~
+0 A 14
+0
+~
+I 0 D0
+~
+~
+0 0 21541
+D1
+~
+~
+0 0 21543
+D2
+~
+~
+0 0 21542
+D3
+~
+~
+0 0 21516
+S
+#21541
+0 0
+~
+~
+~
+0 0 0
+Ghastly Images~
+`g The dimness around you is maddening.  There is light enough for you to
+discern shapes, yet it is too dark to identify anything.  You get the
+impression that the floor curved several times in different directions. 
+Like a `oghost `gthe shapes flicker before you.  `` `B`nBlindly walking, you
+stump into a tree.  The trunk of the tree lifts the branches to the heavens
+above bringing light and reflection to this forsaken place.  
+~
+0 A 14
+0
+~
+I 0 D2
+~
+~
+0 0 21540
+D4
+~
+~
+0 0 21578
+S
+#21542
+0 0
+~
+~
+~
+0 0 0
+Ghastly Images~
+`g The dimness around you is maddening.  There is light enough for you to
+discern shapes, yet it is too dark to identify anything.  You get the
+impression that the floor curved several times in different directions. 
+Like a `oghost `gthe shapes flicker before you.  `` 
+~
+0 A 14
+0
+~
+I 0 D0
+~
+~
+0 0 21540
+S
+#21543
+0 0
+~
+~
+~
+0 0 0
+Ghastly Images~
+`g The dimness around you is maddening.  There is light enough for you to
+discern shapes, yet it is too dark to identify anything.  You get the
+impression that the floor curved several times in different directions. 
+Like a `oghost `gthe shapes flicker before you.  `` 
+~
+0 A 14
+0
+~
+I 0 D3
+~
+~
+0 0 21540
+S
+#21544
+0 0
+~
+~
+~
+0 0 0
+East road~
+`oThe Borderland desert starts beyond the mountains to the east where the
+grasses of the plains quickly become short and rough.  Within serveral miles
+the ground turns to barren desert with only sparse vegetation..  Swirling
+winds of `ired `oand `borange `ostruggle frantically, each nurished by the
+same hot sun.  Their cries of victory and defeat result in a dry whistling
+sound.  Will the victor of the battle be merciful and grant you death?  At
+least all would be over, much better than dying of thirst and starvation in
+the desert.  `` 
+~
+0 b 10
+0
+~
+I 0 D0
+~
+~
+0 0 21547
+D1
+~
+~
+0 0 21545
+D2
+~
+~
+0 0 21547
+D3
+~
+~
+0 0 21524
+S
+#21545
+0 0
+~
+~
+~
+0 0 0
+East road~
+`oThe Borderland desert starts beyond the mountains to the east where the
+grasses of the plains quickly become short and rough.  Within serveral miles
+the ground turns to barren desert with only sparse vegetation..  Swirling
+winds of `ired `oand `borange `ostruggle frantically, each nurished by the
+same hot sun.  Their cries of victory and defeat result in a dry whistling
+sound.  Will the victor of the battle be merciful and grant you death?  At
+least all would be over, much better than dying of thirst and starvation in
+the desert.  `` 
+~
+0 b 10
+0
+~
+I 0 D0
+~
+~
+0 0 21548
+D1
+~
+~
+0 0 21549
+D2
+~
+~
+0 0 21548
+D3
+~
+~
+0 0 21544
+S
+#21546
+0 0
+~
+~
+~
+0 0 0
+East road~
+`oThe Borderland desert starts beyond the mountains to the east where the
+grasses of the plains quickly become short and rough.  Within serveral miles
+the ground turns to barren desert with only sparse vegetation..  Swirling
+winds of `ired `oand `borange `ostruggle frantically, each nurished by the
+same hot sun.  Their cries of victory and defeat result in a dry whistling
+sound.  Will the victor of the battle be merciful and grant you death?  At
+least all would be over, much better than dying of thirst and starvation in
+the desert.  `` 
+~
+0 b 10
+0
+~
+I 0 D0
+~
+~
+0 0 21524
+D1
+~
+~
+0 0 21547
+D2
+~
+~
+0 0 21524
+D3
+~
+~
+0 0 21548
+S
+#21547
+0 0
+~
+~
+~
+0 0 0
+East road~
+`oThe Borderland desert starts beyond the mountains to the east where the
+grasses of the plains quickly become short and rough.  Within serveral miles
+the ground turns to barren desert with only sparse vegetation..  Swirling
+winds of `ired `oand `borange `ostruggle frantically, each nurished by the
+same hot sun.  Their cries of victory and defeat result in a dry whistling
+sound.  Will the victor of the battle be merciful and grant you death?  At
+least all would be over, much better than dying of thirst and starvation in
+the desert.  `` 
+~
+0 b 10
+0
+~
+I 0 D0
+~
+~
+0 0 21544
+D1
+~
+~
+0 0 21548
+D2
+~
+~
+0 0 21544
+D3
+~
+~
+0 0 21546
+S
+#21548
+0 0
+~
+~
+~
+0 0 0
+East road~
+`oThe Borderland desert starts beyond the mountains to the east where the
+grasses of the plains quickly become short and rough.  Within serveral miles
+the ground turns to barren desert with only sparse vegetation..  Swirling
+winds of `ired `oand `borange `ostruggle frantically, each nurished by the
+same hot sun.  Their cries of victory and defeat result in a dry whistling
+sound.  Will the victor of the battle be merciful and grant you death?  At
+least all would be over, much better than dying of thirst and starvation in
+the desert.  `` 
+~
+0 b 10
+0
+~
+I 0 D0
+~
+~
+0 0 21545
+D1
+~
+~
+0 0 21546
+D2
+~
+~
+0 0 21545
+D3
+~
+~
+0 0 21547
+S
+#21549
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21550
+D1
+~
+~
+0 0 21564
+D2
+~
+~
+0 0 21551
+D3
+~
+~
+0 0 21545
+S
+#21550
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21566
+D1
+~
+~
+0 0 21565
+D2
+~
+~
+0 0 21549
+S
+#21551
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21549
+D1
+~
+~
+0 0 21552
+S
+#21552
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21564
+D1
+~
+~
+0 0 21553
+D2
+~
+~
+0 0 21555
+D3
+~
+~
+0 0 21551
+S
+#21553
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21563
+D1
+~
+~
+0 0 21562
+D2
+~
+~
+0 0 21554
+D3
+~
+~
+0 0 21552
+S
+#21554
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21553
+D1
+~
+~
+0 0 21561
+D2
+~
+~
+0 0 21560
+D3
+~
+~
+0 0 21555
+S
+#21555
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21552
+D1
+~
+~
+0 0 21554
+D2
+~
+~
+0 0 21556
+S
+#21556
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21555
+D1
+~
+~
+0 0 21560
+D2
+~
+~
+0 0 21557
+S
+#21557
+0 0
+~
+~
+~
+0 0 0
+Borderland~
+`nAll that there is-all that lives-exists within the Border.  No other
+place is life possible.  Beyond the Border is a realm of Death.  To step
+beyond means to step into oblivion.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21556
+D1
+~
+~
+0 0 21558
+S
+#21558
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21560
+D2
+~
+~
+0 0 21559
+D3
+~
+~
+0 0 21557
+S
+#21559
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21558
+S
+#21560
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21554
+D1
+~
+~
+0 0 21568
+D2
+~
+~
+0 0 21558
+D3
+~
+~
+0 0 21556
+S
+#21561
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21562
+D1
+~
+~
+0 0 21576
+D2
+~
+~
+0 0 21568
+D3
+~
+~
+0 0 21554
+S
+#21562
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21569
+D1
+~
+~
+0 0 21575
+D2
+~
+~
+0 0 21561
+D3
+~
+~
+0 0 21553
+S
+#21563
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21573
+D1
+~
+~
+0 0 21569
+D2
+~
+~
+0 0 21553
+D3
+~
+~
+0 0 21564
+S
+#21564
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21565
+D1
+~
+~
+0 0 21563
+D2
+~
+~
+0 0 21552
+D3
+~
+~
+0 0 21549
+S
+#21565
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21570
+D1
+~
+~
+0 0 21573
+D2
+~
+~
+0 0 21564
+D3
+~
+~
+0 0 21550
+S
+#21566
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 21570
+D2
+~
+~
+0 0 21550
+D3
+~
+~
+0 0 21571
+S
+#21567
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21571
+S
+#21568
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21561
+D1
+~
+~
+0 0 21577
+D2
+~
+~
+0 0 21569
+D3
+~
+~
+0 0 21560
+S
+#21569
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21568
+D1
+~
+~
+0 0 21574
+D2
+~
+~
+0 0 21562
+D3
+~
+~
+0 0 21563
+S
+#21570
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 21572
+D2
+~
+~
+0 0 21565
+D3
+~
+~
+0 0 21566
+S
+#21571
+0 0
+~
+~
+~
+0 0 0
+Border~
+`kThe border appears different, yet it is the same wherever it is
+encountered.  Some places, such as by the sea, it is a solid wall of fog. 
+The Border is filled with smoke, as if the forest has caught fire.  In the
+midst of the desert the BOrder turns in gentle patterns of swirling mists
+that seem cool and inviting.  Overhead, the Border is clear and allows the
+sun and stars to shine.  `` 
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 21566
+D2
+~
+~
+0 0 21567
+S
+#21572
+0 0
+~
+~
+~
+0 0 0
+Beyond into Oblivion~
+`Y`oYour mind and body is lost, lost in a vast space of unknown dimensions. 
+Everything illuminates with a `ldeep blue light `othat seem to fade into
+infinity.  At the very edge of your vision are a few dozen flickering
+lights, calling, luring, summoning you into empty space.  
+``
+~
+0 0 10
+0
+~
+I 0 D2
+~
+~
+0 0 21573
+D3
+~
+~
+0 0 21570
+S
+#21573
+0 0
+~
+~
+~
+0 0 0
+Beyond into Oblivion~
+`Y`oYour mind and body is lost, lost in a vast space of unknown dimensions. 
+Everything illuminates with a `ldeep blue light `othat seem to fade into
+infinity.  At the very edge of your vision are a few dozen flickering
+lights, calling, luring, summoning you into empty space.  
+``
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21572
+D2
+~
+~
+0 0 21563
+D3
+~
+~
+0 0 21565
+S
+#21574
+0 0
+~
+~
+~
+0 0 0
+Beyond into Oblivion~
+`Y`oYour mind and body is lost, lost in a vast space of unknown dimensions. 
+Everything illuminates with a `ldeep blue light `othat seem to fade into
+infinity.  At the very edge of your vision are a few dozen flickering
+lights, calling, luring, summoning you into empty space.  
+``
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21577
+D2
+~
+~
+0 0 21575
+D3
+~
+~
+0 0 21569
+S
+#21575
+0 0
+~
+~
+~
+0 0 0
+Beyond into Oblivion~
+`Y`oYour mind and body is lost, lost in a vast space of unknown dimensions. 
+Everything illuminates with a `ldeep blue light `othat seem to fade into
+infinity.  At the very edge of your vision are a few dozen flickering
+lights, calling, luring, summoning you into empty space.  
+``
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21574
+D2
+~
+~
+0 0 21576
+D3
+~
+~
+0 0 21562
+S
+#21576
+0 0
+~
+~
+~
+0 0 0
+Beyond into Oblivion~
+`Y`oYour mind and body is lost, lost in a vast space of unknown dimensions. 
+Everything illuminates with a `ldeep blue light `othat seem to fade into
+infinity.  At the very edge of your vision are a few dozen flickering
+lights, calling, luring, summoning you into empty space.  
+``
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21575
+D2
+~
+~
+0 0 21577
+D3
+~
+~
+0 0 21561
+S
+#21577
+0 0
+~
+~
+~
+0 0 0
+Beyond into Oblivion~
+`Y`oYour mind and body is lost, lost in a vast space of unknown dimensions. 
+Everything illuminates with a `ldeep blue light `othat seem to fade into
+infinity.  At the very edge of your vision are a few dozen flickering
+lights, calling, luring, summoning you into empty space.  
+``
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 21576
+D2
+~
+~
+0 0 21574
+D3
+~
+~
+0 0 21568
+S
+#21578
+0 0
+~
+~
+~
+0 0 0
+Tree of life~
+Gripping the tree with your knuckles white and your body tense, you begin
+to appreciate it.  Up close, you notice the brances of the trees twine
+together to form a knot of incredible beauty and intricate design.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 21530
+D5
+~
+~
+0 0 21541
+S
+#21579
+0 0
+~
+~
+~
+0 0 0
+South road~
+The broken stones quickly turn to pebbles and soft sand from the frequent
+eruptions of the volcanoe.  You dance slightly with every step, trying to
+escape from the hot springs that seep up from below.  Acrid fumes of sulfur
+blown from the wind are compounded with the hot vents forming a gaseous
+cloud.  The unbearable smell will make even the worst of olfactories keen. 
+The sky above, once pleasing to the mind and body has transformed into
+`ngrey clouds` `i seemingly devouring its former self.  
+``
+~
+0 b 5
+0
+~
+I 0 D0
+~
+~
+0 0 21525
+D2
+~
+~
+0 0 21580
+S
+#21580
+0 0
+~
+~
+~
+0 0 0
+South road~
+The broken stones quickly turn to pebbles and soft sand from the frequent
+eruptions of the volcanoe.  You dance slightly with every step, trying to
+escape from the hot springs that seep up from below.  Acrid fumes of sulfur
+blown from the wind are compounded with the hot vents forming a gaseous
+cloud.  The unbearable smell will make even the worst of olfactories keen. 
+The sky above, once pleasing to the mind and body has transformed into
+`ngrey clouds` `i seemingly devouring its former self.  
+``
+~
+0 b 5
+0
+~
+I 0 D0
+~
+~
+0 0 21579
+D2
+~
+~
+0 0 21581
+S
+#21581
+0 0
+~
+~
+~
+0 0 0
+South road~
+The broken stones quickly turn to pebbles and soft sand from the frequent
+eruptions of the volcanoe.  You dance slightly with every step, trying to
+escape from the hot springs that seep up from below.  Acrid fumes of sulfur
+blown from the wind are compounded with the hot vents forming a gaseous
+cloud.  The unbearable smell will make even the worst of olfactories keen. 
+The sky above, once pleasing to the mind and body has transformed into
+`ngrey clouds` `i seemingly devouring its former self.  
+``
+~
+0 b 5
+0
+~
+I 0 D0
+~
+~
+0 0 21580
+D2
+~
+~
+0 0 21582
+S
+#21582
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21581
+D1
+~
+~
+0 0 21583
+D3
+~
+~
+0 0 21593
+S
+#21583
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 21584
+D3
+~
+~
+0 0 21582
+S
+#21584
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D2
+~
+~
+0 0 21585
+D3
+~
+~
+0 0 21583
+S
+#21585
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21584
+D2
+~
+~
+0 0 21586
+S
+#21586
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21585
+D2
+~
+~
+0 0 21587
+S
+#21587
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21586
+D3
+~
+~
+0 0 21588
+S
+#21588
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D0
+~
+door~
+1 0 21608
+D1
+~
+~
+0 0 21587
+D3
+~
+~
+0 0 21589
+D4
+~
+~
+0 0 21594
+S
+#21589
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 21588
+D3
+~
+~
+0 0 21590
+S
+#21590
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21591
+D1
+~
+~
+0 0 21589
+S
+#21591
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21592
+D2
+~
+~
+0 0 21590
+S
+#21592
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21593
+D2
+~
+~
+0 0 21591
+S
+#21593
+0 0
+~
+~
+~
+0 0 0
+Base of volcanoe~
+`gStanding at the base of the volcanoe, you stare up in wonder.  High
+clouds streak the sky with long fingers of `ired lava.  `gThey drift quietly
+above the mountain.  Standing beneath it, you feel as though its weight is
+crushing you into the ground.  You feel as insignificant as worthless as the
+dust on your boots.  
+
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 21582
+D2
+~
+~
+0 0 21592
+S
+#21594
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 C 5
+0
+~
+I 0 D1
+~
+~
+0 0 21595
+D5
+~
+~
+0 0 21588
+S
+#21595
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21596
+D3
+~
+~
+0 0 21594
+S
+#21596
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21597
+D2
+~
+~
+0 0 21595
+S
+#21597
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21598
+D2
+~
+~
+0 0 21596
+S
+#21598
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D2
+~
+~
+0 0 21597
+D3
+~
+~
+0 0 21599
+S
+#21599
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D0
+~
+door~
+1 0 21594
+D1
+~
+~
+0 0 21598
+D3
+~
+~
+0 0 21600
+S
+#21600
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 21599
+D3
+~
+~
+0 0 21601
+S
+#21601
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 21600
+D2
+~
+~
+0 0 21602
+S
+#21602
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21601
+D2
+~
+~
+0 0 21603
+S
+#21603
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21602
+D2
+~
+~
+0 0 21604
+S
+#21604
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 21603
+D1
+~
+~
+0 0 21605
+S
+#21605
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D3
+~
+~
+0 0 21604
+D4
+~
+~
+0 0 21606
+S
+#21606
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 21607
+D5
+~
+~
+0 0 21605
+S
+#21607
+0 0
+~
+~
+~
+0 0 0
+On a hot trail~
+`oYou stumble onto a trail leading up the volcanoe.  Feeling every pebble
+and rock stir beneath your footing, you carefully and cautiously work
+yourself up the volcanoe.  The gentle brushing winds that once offered
+respite from the hot sun now threaten your life with every step you take. 
+The intense rage and heat from the volcanoe surges through your hand as you
+grasp the rocks for support.  Your first sensation is a euphoric tingling of
+the fingers which abruptly transforms to a burning, boiling feeling.  You
+endure the pain and risk losing a hand rather than slip and plummet to your
+death.  
+``
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 21596
+D3
+~
+~
+0 0 21606
+S
+#21608
+0 0
+~
+~
+~
+0 0 0
+Hidden chamber~
+`oMany Merics believed that the gods were angry and brought civil war
+among them.  Many religions sprung during the Cold Wars, hoping that their
+faithfulness would appease the gods.  The Cold Wars continued, the desparate
+pious Merics sought new methods of worship.  The practice of sacrifice was
+born, born from a dying race trying to survive.  A mountains rage was
+thought to reflect the god's anger.  The one solution was to satiate it's
+fury with a pure soul thus enhancing the equilibrium of good and bad.  
+``
+~
+0 AB 5
+0
+~
+I 0 D2
+~
+door~
+0 0 21588
+S
+#21609
+0 0
+~
+~
+~
+0 0 0
+Faced with Anger~
+HEAT.  RAGE.  They engulf you, cloaking your body like a robe of entense
+red atmosphere.  The foul mouth of the mountain roars with intensity, hungry
+for souls and angered at life.  Deep within the red mist floats a crystal
+platform several feet in length and width.  A glowing aura surrounds it
+protecting the platform from the heat.  
+~
+0 BCX 5
+0
+~
+I 0 S
+#21610
+0 0
+~
+You manage to leap onto the platform.~
+~
+0 0 0
+Crystal platform~
+`oThe blinding aura of the platform envelops and cradles you from the heat of the volcanoe.
+~
+0 CH 0
+0
+~
+I 0 S
+#21611
+0 0
+~
+~
+~
+0 0 0
+Dragon of the Sun~
+`oFollowing the Cold Wars, the `kDragons of the Suns `ofled to the
+highest active volcanoes they could find, yearning always to be near the
+warmth and light they crave.  Whenever the sun shines, they will be out in
+it.  By night they retreat to their lairs, where the light of the molten
+lava dispels the darkness that they fear and detest.  
+``
+~
+0 BC 5
+0
+~
+I 0 S
+#21501
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically.  With little
+hope, you hope that keeping vigil here in prayer will aid in your salvation
+before you unfortunately encounter the reason behind the receding ocean.  ``
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21502
+D1
+~
+~
+0 0 21506
+D2
+~
+~
+0 0 21507
+D3
+~
+~
+0 0 21506
+S
+#21502
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21507
+D1
+~
+~
+0 0 21503
+D2
+~
+~
+0 0 21501
+D3
+~
+~
+0 0 21509
+S
+#21503
+0 0
+~
+~
+~
+0 0 0
+Dark Waters~
+`jYou can see a vast body of water surrouding you, which extends clear
+into the effervescent, `oc`fo`ilo`or`ff`iu`ol `jhorizon reflected by the
+sun's rays.  `` `jThe ambience is quite magnificent, belying the hidden
+dangers of the sea.  Noticing some mollusks on a nearby rock protruding out
+of the sea as if they were trying to escape from some unforseen danger, you
+realize that the water in this sea has receded drastically With little hope,
+a tight vigil and some prayer will aid in salavation before you
+misfortunately encounter the reason behind the mollusk's fear.  
+~
+0 ABCNX 7
+0
+~
+I 0 D0
+~
+~
+0 0 21508
+D1
+~
+~
+0 0 21504
+D2
+~
+~
+0 0 21506
+D3
+~
+~
+0 0 21502
+S
+#0
+
+#RESETS
+O 0 21501   0 21501 -1	* A floating piece of wood at Dark Waters
+O 0 21502   0 21514 -1	* A tunnel at Great Passage
+O 0 21504   0 21513 -1	* A tunnel to the sea dragon at Field of Glory
+O 0 21505   0 21542 -1	* Cave at Ghastly Images
+O 0 21506   0 21526 -1	* Cave at Dragon of the Night
+O 0 21507   0 21559 -1	* Burrow at Border
+D 0 21588   0    1	* Base of volcanoe [north]
+O 0 21509   0 21608 -1	* Portal to top of volcano at Hidden chamber
+O 0 21510   0 21609 -1	* Portal to hidden chamber at Faced with Anger
+O 0 21512   0 21610 -1	* Ensigna of dragon at Crystal platform
+O 0 21513   0 21609 -1	* Button  to call platform at Faced with Anger
+O 0 21515   0 21610 -1	* Button to volcano at Crystal platform
+O 0 21511   0 21609 -1	* Hovering crystal platform at Faced with Anger
+M 0 21502   1 21526  1	* A night dragon
+M 0 21504   1 21611  1	* A sun dragon
+O 0 21514   0 21611 -1	* A rock to summon the platform at Dragon of the Sun
+M 0 21505   4 21546  1	* A snake-like creature
+M 0 21505   4 21544  1	* A snake-like creature
+M 0 21505   4 21545  2	* A snake-like creature
+M 0 21506   3 21528  1	* A large dark hound
+M 0 21506   3 21531  1	* A large dark hound
+M 0 21507   5 21555  1	* A large lizard
+M 0 21507   5 21557  1	* A large lizard
+M 0 21507   5 21554  2	* A large lizard
+M 0 21507   5 21550  1	* A large lizard
+D 0 21599   0    1	* On a hot trail [north]
+M 0 21508   4 21595  1	* The three headed beast.
+M 0 21508   4 21599  1	* The three headed beast.
+M 0 21508   4 21602  1	* The three headed beast.
+M 0 21508   4 21605  1	* The three headed beast.
+M 0 21509   5 21534  1	* A dark canine
+M 0 21509   5 21535  2	* A dark canine
+M 0 21509   5 21540  2	* A dark canine
+G 0 21521 -1		* A key to A dark canine
+P 0 21518 -1 21520 1
+M 0 21515   1 21535  1	* The shade
+G 0 21517 -1		* `oillumine`` to The Shade
+O 0 21520   0 21511 -1	* Treasure chest of sea dragon at Dragon of the Sea
+P 0 21518 -1 21520 1
+M 0 21501   1 21511  1	* A sea dragon
+G 0 21521 -1		* A key to A sea dragon
+O 0 21503   0 21511 -1	* A tunnel to the east at Dragon of the Sea
+O 0 21508   0 21539 -1	* Burrow at Dragon of the Sand
+O 0 21522   0 21539 -1	* The treasure chest at Dragon of the Sand
+P 0 21519 -1 21522 1
+M 0 21503   1 21539  1	* A sand dragon
+G 0 21523 -1		* A key to A Sand Dragon
+O 0 21524   0 21511 -1	* West tunnel to dark waters at Dragon of the Sea
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 21504 spec_breath_fire		* A sun dragon
+M 21502 spec_breath_acid		* A night dragon
+S
+
+#OT
+#0
+#$

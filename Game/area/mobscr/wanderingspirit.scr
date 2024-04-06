@@ -1,0 +1,67 @@
+* File; ghost.scr
+* Mob: Wandering Ghost (92)
+
+#TRIGGER tick
+Type 3
+Sc
+let %movetimer% += 1
+* If he hasn't moved in 4 ticks, he's probably stuck
+if %movetimer% > 4)
+  CMD at 1243 cast 'teleport' self
+  let %movetimer% == 0
+  skip 1~
+Sc
+* Let everyone in this area know the wandering spirit is here
+  CMD zecho A chill wind howls around you.  The wandering spirit must be in this area.
+* Remind the leader the spirit is still assigned to him
+  CMD pecho %enter-from% The wandering spirit is still looking to you for guidance.  Be sure not to leave it behind.
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+if (%start-arg% cmp "start")
+  CMD im (gecho) A wandering spirit has found its way to Exodus.  Find it and lead it back to Thesden for a reward.
+  let %movetimer% == 0
+  CMD at 1 wizi 92
+  CMD at 1243 cast 'teleport' self
+  halt once~
+End
+  
+
+#TRIGGER enter
+Type 10
+Sc
+* If a person of mob enters the room, the wandering spirit will stalk him
+  CMD stalk %enter-from%
+* This lets the person know the spirit is following him.
+  CMD pecho %enter-from% The wandering spirit begins to follow you.  Lead it back to the church in Thesden.
+  halt once~
+End
+
+
+#TRIGGER move
+Type 11
+Sc
+mfunc self %rvnum% room
+* if the spirit has moved, the teleport timer resets.
+let %movetimer% == 0
+if (%rvnum% == 4149)
+* If it's in Thesden's Cathedral Entrance, then SUCCESS!
+  CMD echo A holy light shines in through the stained glass windows.
+  CMD wizi
+  say Thank you, %enter-from% for bringing me to this peaceful place.
+  say Now I can finally rest in peace.
+  CMD im reward %enter-from% 500000 For completing the wandering spirit quest.
+  CMD at 1 load obj 1292
+  CMD give token %enter-from%
+  CMD drop token
+  CMD at 1 wizi 92
+  CMD goto 1
+  CMD im gecho The wandering spirit has found its way to Thesden's Cathedral.
+  CMD im double 10
+  halt once~
+End
+
+#END

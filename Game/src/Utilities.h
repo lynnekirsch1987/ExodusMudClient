@@ -1,0 +1,9 @@
+bool is_metal(OBJ_DATA *obj);
+bool is_iron(OBJ_DATA *obj);
+char *escape_color(char *str);
+bool is_char_in_natural_sector(CHAR_DATA *ch);
+bool is_char_in_water_sector(CHAR_DATA *ch);
+bool is_animal(CHAR_DATA *ch);
+int find_damage_number_by_noun(char *noun);
+bool is_switched_pk_pc(CHAR_DATA *ch);
+bool is_switched_pc(CHAR_DATA *ch);

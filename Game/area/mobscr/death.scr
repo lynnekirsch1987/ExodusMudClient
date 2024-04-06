@@ -1,0 +1,38 @@
+* File: Death.scr
+* Mob: Death (954)
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-from% %name% name
+mfunc %enter-from% %level% level
+  say I have been waiting for you, %enter-from%.  Are you prepared to face my judgement?
+halt once~
+End
+
+#TRIGGER judge
+Type 99
+Sc
+if (%level% > 91)
+  say Your life is beyond my judgement.
+halt once~
+Sc
+  wfunc %lucky% random 0 9999
+  say All your life's work decided in a flip of the coin.
+  wait 5~
+Sc
+if (%lucky% > 3333)
+  say It appears that luck is on your side this time.
+  say We'll meet again.
+  MOB trans %name% 1025
+  halt once~
+Sc
+if (%lucky% < 3334)
+  emote smiles darkly.
+  say Better luck next lifetime.
+  CMD at %name% slay %name%
+  CMD im %name% just got pwned EZ.
+  halt once~
+End
+
+#END

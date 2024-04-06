@@ -1,0 +1,20 @@
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %class% class
+mfunc %enter-from% %race% race
+mfunc %enter-from% %name% name
+wait 2~
+Sc
+if ( %class% != 8 ) || ( %race% != 11)
+   emote emits a piercing wail!
+   kill %name%
+   halt once~
+Sc
+   emote flits eerily about the room.
+   halt once~
+End
+
+#END
+
+

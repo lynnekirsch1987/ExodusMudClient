@@ -1,0 +1,132 @@
+* File: cyril.scr
+* Mob: Cyril the rat-collector (mob 4236)
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %tick% random 0 9
+if (%tick% == 9)
+  emote sniffs the air for rats.
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %count% == 0
+  walkto 4156
+  halt once~
+End
+
+#TRIGGER give
+Type 5
+Sc
+mfunc %give-from% %name% name
+ofunc %give-arg% %what% vnum
+ofunc %give-arg% %objname% name
+if ( %what% == 1503 )
+  say Hey thanks, %name%!  That's one less squirrel I have to worry about.
+  cmd at 1 eat ear
+  cmd give 15 gold %name%
+  let %count% += 1
+  halt once~
+Sc
+if ( %what% == 4518 )
+  say Hey thanks, %name%!  That's one less mouse I have to worry about.
+  cmd at 1 eat ear
+  cmd give 10 gold %name%
+  let %count% += 1
+  halt once~
+Sc
+if ( %what% == 4519 )
+  say Hey thanks, %name%!  That's one less rat I have to worry about.
+  cmd at 1 eat ear
+  cmd give 15 gold %name%
+  let %count% += 1
+  halt once~
+Sc
+if ( %what% == 21114 )
+  say Hey thanks, %name%!  That's one less mouse I have to worry about.
+  cmd at 1 eat ear
+  cmd give 10 gold %name%
+  let %count% += 1
+  halt once~
+Sc
+if ( %what% == 21115 )
+  say Hey thanks, %name%!  That's one less rat I have to worry about.
+  cmd at 1 eat ear
+  cmd give 15 gold %name%
+  let %count% += 1
+  halt once~
+Sc
+  cmd drop all
+  halt once~
+End
+
+#TRIGGER ratquest
+Type 8
+Sc
+if ( %ratquest-arg% cmp "ratquest" )
+  cmd yell Thesden is being overrun by rats!
+  cmd yell Please help me quell the rodent scourge by killing all the rats and mice in town.
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1243 load mob 4056
+  cmd at 1243 load mob 4200
+  cmd at 1 load obj 1292
+  cmd at 1 load obj 1292
+  cmd at 1243 drop all.token
+  signal 4056 moveout
+  signal 4200 moveout
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+  cmd kill mouse
+  cmd kill rat
+  halt once~
+End
+
+#TRIGGER count
+Type 99
+Sc
+if (%count% < 10)
+  say Business is kind of slow.  People have only brought in %count% ears.
+  halt once~
+Sc
+if (%count% < 25)
+  say It's been better.  I've gotten %count% ears so far.
+  halt once~
+Sc
+if (%count% < 50)
+  say Business has been pretty good.  I have %count% ears that have been brought to me.
+  halt once~
+Sc
+if (%count% < 100)
+  say Those rodents are feeling the squeeze for sure.  People have brought in %count% ears.
+  halt once~
+Sc
+if (%count% > 99)
+  say It's fucking unbelieveable!  I have %count% rodent ears!
+  halt once~
+End
+
+#END

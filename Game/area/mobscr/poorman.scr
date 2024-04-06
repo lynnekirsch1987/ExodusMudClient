@@ -1,0 +1,23 @@
+* Mob Vnum: 19091
+* Mob Name: poor man
+* Room Vnum: 19067
+
+#TRIGGER illm
+Type 10
+Sc
+wfunc %booya% random 0 3
+if ( %booya% != 2 )
+   halt once~
+Sc
+ mfunc %illm-from% %name% name
+ echo %illm-from% A poor man looks you up and down.
+ say I had heard you were in the city, %name%.
+ wait 2~
+Sc
+ emote moans as he clutches his stomach.
+ say You should leave this wretched slum while you still can!
+ halt once~
+End
+
+#END
+

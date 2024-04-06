@@ -1,0 +1,13 @@
+* File: nerix.scr
+* Mob: The Nerix (vnum 3214)
+* Creator: Minax
+* Last Modified: Tuesday, February 10, 2004
+
+#TRIGGER nerix
+Type 99
+Sc
+  cmd makenerix %nerix-from%
+  halt once~
+End
+
+#END

@@ -1,0 +1,22 @@
+* File: shea.scr
+* Mob: shea(10755)
+
+#TRIGGER shea
+Type 10
+Sc
+mfunc %shea-from% %sex% sex
+if ( %sex% == 2 )
+   cmd blush
+   halt once~
+Sc
+   say Hello %shea-from%, can I play something for you?
+   halt once~
+End
+
+#END
+
+
+
+
+
+

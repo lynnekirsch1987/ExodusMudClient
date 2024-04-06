@@ -1,0 +1,104 @@
+#TRIGGER cage
+Type 5  
+Sc
+ofunc %cage-arg% %ovnum% vnum
+ofunc %herman-arg% %objname% name    
+mfunc %cage-from% %align% align
+mfunc %cage-from% %name% name
+mfunc %cage-from% %race% race
+mfunc %cage-from% %class% class
+if (%ovnum% != 6289)
+  halt once~
+Sc
+if ( %race% == 2 ) || (%race% == 5)
+   Cmd at 1 load obj 6321
+   Cmd string obj herbs short `h%name%'s `cc`bh`ce`bc`ck`be`cd`h bag of herbs``
+   Cmd thank %name%
+   say `jHere is a little something for the trouble
+   Cmd give herbs %name%
+   Cmd drop all.herbs
+   halt once~
+Sc
+if ( %class% == 4)
+   Cmd at 1 load obj 6321
+   Cmd string obj herbs short `h%name%'s `cc`bh`ce`bc`ck`be`cd`h bag of herbs``
+   Cmd give herbs %name%
+   Cmd drop all.herbs
+   say `jA little present from one ranger to another!
+   wait 0~
+Sc
+   Cmd at 1 eat cage
+   Cmd at 1 trans oinker
+   Cmd at 1 slay oinker
+   Cmd at 1 load mob 6308
+   Cmd at 1 load obj 6320
+   Cmd string obj cagequestreward short `hA neck tag saying '`kI belong to %name%`h'``
+   Cmd at 1 give cagequestreward oinker
+   Cmd at 1 sing 'falkentynes' oinker
+   Cmd at 1 set mob oinker align %align%
+   say `jYou found Herman!
+   say `jHow can I ever repay you?
+   Cmd ponder
+   Cmd lightbulb
+   say `jI will lend you my most trusted (and feared) pet
+   Cmd yell `jOINKER! COME HERE BOY!``
+   Cmd echo A large swine comes barging through the door!
+   cmd trans oinker
+   cmd say `jNow be a good little pig and take care of %name%, you hear?
+   signal 6308 follow
+   halt once~  
+End  
+
+#TRIGGER combat
+Type 2
+Sc
+wfunc %rndnum% random 0 20
+getpc %unlucky%
+if (%rndnum% == 0)
+   cast 'bee swarm' %combat-from%
+   halt once~
+Sc
+if (%rndnum% == 1)
+   dirt %combat-from%
+   halt once~
+Sc
+if (%rndnum% == 2)
+   cmd at 1 load obj 6324
+   cmd string obj fthrower short `bA big puffy leech``
+   cmd string obj fthrower long `bA leech is crawling around here.``
+   cmd string obj fthrower name leech puffy
+   cmd throw leech %unlucky%
+   halt once~
+Sc
+if (%rndnum% == 3)
+   cmd at 1 load obj 6324
+   cmd string obj fthrower short `dA curled up hedgehog``
+   cmd string obj fthrower long `bA hedgehog is curled into a ball here.``
+   cmd string obj fthrower name hedgehog
+   cmd throw hedgehog %unlucky%
+   halt once~
+Sc
+if (%rndnum% == 4)
+   Cmd at 1 load obj 6324
+   Cmd emote picks up a chair and throws it at you!
+   cmd string obj fthrower short `dA chair``
+   cmd string obj fthrower long `bA broken chair stands on three legs here.``
+   cmd string obj fthrower name chair
+   cmd throw chair %unlucky%
+   halt once~
+Sc
+if (%rndnum% == 5)
+   cmd at 1 load obj 6324
+   Cmd Emote snatches a flowerpot from the table and throws it at you!
+   cmd string obj fthrower short `bA `mf`ol`jo`mw`oe`jr`mp`oo`jt``
+   cmd string obj fthrower long `bA `mf`ol`jo`mw`oe`jr`mp`oo`jt`b lies broken here.``
+   cmd string obj fthrower name flowerpot
+   cmd throw flowerpot %unlucky%
+   halt once~
+Sc
+if (%rndnum% == 6)
+   Cmd Emote yawns, apparently this "fight" is boring him.
+   halt once~
+End
+
+#END

@@ -1,0 +1,24 @@
+* File: istian.scr
+* Mob: Lord Istian (4122)
+
+#TRIGGER marque
+Type 5
+Sc
+mfunc %marque-from% %name% name
+ofunc %marque-arg% %ovnum% vnum
+if ( %ovnum% != 4625 )
+   say I have no use for this.
+   drop %objname%
+   halt once~
+Sc
+if ( %ovnum% == 4625 )
+   cmd look %name%
+   say I see.  You wish to rescind your nobility.  So be it.
+   cmd yell Hear ye!  Hear ye!  On this day, %name% has officially rescinded all rights to nobility!
+   cmd noble %name% none
+   say Now begone, commoner.
+   cmd at 1 eat marque
+   halt once~
+End
+
+#END

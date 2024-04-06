@@ -1,0 +1,19 @@
+* File: dganger.scr
+* Mob: Doppleganger(806)
+
+#TRIGGER mimic
+Type 10
+Sc
+mfunc %mimic-from% %name% name
+let %long% == %name% stands here, smirking at you.
+msign doppelganger %long% long
+cmd twiddle
+wait 1~
+Sc
+cmd yawn
+wait 1~
+Sc
+cmd stretch~
+End
+
+#END

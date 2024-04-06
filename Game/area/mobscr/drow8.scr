@@ -1,0 +1,41 @@
+* File: Drow8.scr
+* Mob: Drow East Gate Guard (mob 5130)
+* NOTE: This is part of a larger Thesden Invasion event
+
+#TRIGGER tick
+Type 3
+Sc
+  say Give me your weapons and you MIGHT be allowed to enter Thesden.
+  say Follow our laws and you will not be harmed.  Fight back and be destroyed.
+  walkto 21232
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+chobj self %shield% 12234
+if (%start-arg% cmp "start" && %shield% == 0)
+  cmd load obj 12233
+  cmd wear breast
+  cmd load obj 12234
+  cmd wear shield
+  cmd load obj 12235
+  cmd wield longsword
+  wait 30~
+Sc
+if ( %start-arg% cmp "start" )
+  cmd at 1 wizi 92
+  cmd goto 21232
+  cmd at 1 wizi
+  halt triggers~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  signal 5122 eastgatedies
+  halt once~
+End
+
+#END

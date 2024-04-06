@@ -1,0 +1,376 @@
+#AREA
+pocket.enc~
+Pocket Dimension~
+{ 1 10} Rockerwigger  Pocket Dimension~
+~
+400 450
+0 0
+0 0
+~
+#MOBILES
+#400
+cockroach~
+blue cockroach~
+A small blue cockroach is trying to scurry away from you.
+~
+The years have not been easy upon this poor little insect.  His antennae droop with the sorrows of ages past.  His carapace is cracked with old age and the scars of previous wars.
+He looks up at you and grins a knowing smile, nods his head, and continues on his way.
+~
+human~
+0 0 0 0
+ACEHT JPQVc 0 0
+2 0 10d10+50 0d0+0 2d4+0 bite
+0 0 0 0
+DFJK BHIK CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK tiny oldstyle~
+0 0 10 100
+4
+cockroach~
+~
+#401
+mote tiny light~
+a tiny mote of light~
+A tiny blue mote of light flies about you, singing Show Tunes.
+~
+Why are you looking at a mote of light you moron? There is NOTHING to look at! Its a freaking _MOTE_ for god's sake!
+~
+human~
+0 0 0 0
+ACH BQTV 0 0
+0 0 1d1+0 0d0+0 10d1+0 wrath
+0 0 0 0
+0 BCDE 0 H
+stand stand none 0
+AHMV ABCDEFGHIJK tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#402
+peach~
+a huge peach~
+A monstrous peach is here, apparently looking for someone called "James."
+~
+Your mouth waters as you gaze at the beautiful luscious peach.  Except, it seems like someone has been eating from it.  The words "James was here" is carved into the soft pink flesh.
+ 
+~
+human~
+0 0 0 0
+A Ad 0 0
+20 0 10d10+0 0d0+0 0d0+0 none
+0 0 0 0
+0 R 0 CD
+stand stand none 0
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+0
+~
+~
+#403
+runaway ralph~
+Runaway Ralph~
+A little mouse is here riding around the room in a small motorcycle.
+~
+This small brown mouse looks damn cool in his leather jacket and riding helmet.
+ 
+~
+human~
+0 0 0 0
+A J 200 0
+10 0 3d22+90 10d10+10 1d10+5 peck
+0 0 0 5
+0 R 0 E
+stand stand male 0
+AHMV ABCDEFGHIJK tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#400
+tunnel~
+the tunnel~
+The entrance to a small tunnel lays here like the open maw of an exotic         fish.~
+plastic~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G AEHI F
+0
+0
+0 0 0 P
+#401
+Cockroach battle armor~
+Cockroach battle armor~
+A tiny suit of metal armor made of intricate little plates lies here.~
+steel~
+0
+armor Y AB
+5
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+0 1 100 P
+A
+14 100
+A
+17 -20
+A
+24 -1
+A
+2 2
+#403
+no name~
+(no short description)~
+~
+oldstyle~
+0
+trash S 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#400
+~
+~
+0 0 0
+A clearing in the ancient Carpathian forest~
+You stand in a small, dark clearing that almost seems like the bottom of
+a pit due to the immensity of the lush trees that surround you.  
+~
+0 C 3
+0
+~
+S
+#401
+~
+~
+0 0 0
+a long dark tunnel~
+You stand in a narrow tunnel made of some sort of soft plastic material
+that stretches beneath your feet.  Even though you haven't gone far, you
+cannot see the entrance you came in through.  Ahead of you the dark tunnel
+seems to go off forever.  
+~
+0 A 0
+0
+~
+D0
+~
+~
+0 0 402
+S
+#402
+~
+~
+0 0 0
+a long dark tunnel~
+This tunnel seems to go on forever.
+~
+0 0 0
+0
+~
+E
+stitch~
+There seems to be a small tear in the fabric beneath your feet.
+~
+D0
+~
+~
+0 0 405
+D2
+~
+~
+0 0 401
+D5
+~
+stitch~
+1 0 403
+S
+#403
+~
+~
+0 0 0
+a little purple room~
+You are in a small purple bubble with barely enough room for you to
+breath in.  In fact, the bubble seems to contract every time you breath.  
+~
+0 J 0
+0
+~
+E
+stitch~
+There is a small stitch in the bubble that could be an opening.
+~
+D4
+~
+stitch~
+1 0 402
+S
+#404
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 402
+S
+#405
+~
+~
+0 0 0
+a long dark tunnel~
+This tunnel seems to go on forever.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 406
+D2
+~
+~
+0 0 402
+S
+#406
+~
+~
+0 0 0
+end of the tunnel~
+Is it a mirage?  Or have you finally come to the end of this horrific
+tunnel?  You can't seem to think straight for some reason, maybe it will go
+away when you get out of the tunnel.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 407
+D2
+~
+~
+0 0 405
+S
+#407
+~
+~
+0 0 0
+blue divinity~
+As you enter the room, your body is bathed by a strong blue light that
+seems to wipe every thought from your mind except the color blue.  You feel
+your very identity slip away as you yearn to become a part of the blue
+light....  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 408
+D2
+~
+~
+0 0 406
+D4
+~
+~
+0 0 409
+S
+#408
+~
+~
+0 0 0
+YA room.~
+Something seems very familiar about this room.  Dear god!  The characters
+from the books of your youth have come to life!  The room looks like a
+normal gradeschool classroom, dirty carpeting and all.  
+~
+0 DGT 0
+0
+~
+D2
+~
+~
+0 0 407
+S
+#409
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D4
+~
+~
+0 0 410
+D5
+~
+~
+0 0 407
+S
+#410
+~
+~
+0 0 0
+Play Doh room.~
+~
+0 0 0
+0
+~
+D5
+~
+~
+0 0 409
+S
+#0
+
+#RESETS
+M 0  400   1  401  1	* Blue cockroach
+G 0  401 -1		* Cockroach battle armor to blue cockroach
+M 0  401   1  407  1	* A tiny mote of light
+M 0  400   1  401  1	* Blue cockroach
+O 0 400   0 400 -1	* The tunnel at A clearing in the ancient Carpathian forest
+D 0  402   5    1	* a long dark tunnel [down]
+D 0  403   4    1	* a little purple room [up]
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

@@ -1,0 +1,110 @@
+* File: Auvyron.scr
+* Mob: Auvyron (400)
+
+#TRIGGER cmb
+Type 2
+Sc
+getpc %name%
+mfunc self %hit% hit
+wfunc %rnd% random 0 99
+if ( %hit% > 10000 )
+  jump 2~
+Sc
+if ( %malrenzi% == 0 )
+  echo `oAs `iAuvyron's`o grip on his domain is wekened, `kMalrezni`o is freed from her bondage and comes to join the fight.``
+  signal 420 auvyron
+  let %malrenzi% == 1
+  halt once~
+Sc
+if ( %rnd% < 5 )
+  cmd cast 'dispel magic' %name%
+  halt once~
+Sc
+if ( %rnd% < 10 )
+  cmd cast 'blind' %name%
+  halt once~
+Sc
+if ( %rnd% < 15)
+  cmd cast 'poison' %name%
+  halt once~
+Sc
+if ( %rnd% < 20 )
+  cmd cast 'chill touch' %name%
+  halt once~
+Sc
+if ( %rnd% < 25 )
+  cmd cast 'weak' %name%
+  halt once~
+Sc
+if ( %rnd% < 30 )
+  cmd cast 'slow' %name%
+  halt once~
+Sc
+if ( %rnd% < 35 )
+  cmd cast 'heat metal' %name%
+  wait 2~
+Sc
+if ( %rnd% < 35 )
+  cmd get all
+  halt once~
+Sc
+if ( %rnd% < 60 )
+  cmd cast 'acid blast' %name%
+  halt once~
+End
+
+#TRIGGER Tick
+Type 3
+Sc
+wfunc %tick% random 0 99
+if (%tick% < 10)
+  cmd wake
+  cmd cast 'armor' self
+  halt once~
+Sc
+if (%tick% < 20)
+  cmd wake
+  cmd cast 'shield' self
+  halt once~
+Sc
+if (%tick% < 30)
+  cmd wake
+  cmd cast 'stone' self
+  halt once~
+Sc
+if (%tick% < 40)
+  cmd wake
+  cmd cast 'fireshield' self
+  halt once~
+Sc
+if (%tick% < 50)
+  cmd wake
+  cmd cast 'armor' self
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  gecho `oHideous screams echo forth from the depths below.  `iAuvyron`o has been defeated!``
+  emote snarls 'You've won this time, but we'll meet again, %death-from%!'
+  cmd set obj chalice owner %death-from%
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-from% %name% name
+  cmd at 1 cast 'cancel' auvyron
+  cmd at 1 cast 'armor' auvyron
+  cmd at 1 cast 'shield' auvyron
+  cmd at 1 cast 'stone' auvyron
+  cmd at 1 cast 'fireshield' auvyron
+  cmd at 1 cast 'haste' auvyron
+  cmd at 1 cast 'giant' auvyron
+  cmd at 1 cast 'fly' auvyron
+  halt once~
+End
+
+#END

@@ -1,0 +1,43 @@
+* script mkitten.scr
+* Kitten on the roof in Merossa
+
+#TRIGGER tick
+Type 3
+Sc
+mfunc %tick-to% %rvnum% room
+  if (%rvnum% == 14012)
+  emote meows loudly.
+  signal 14013 Iamhere
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-from% %name% name
+  cmd follow %name%
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+mfunc %move-to% %rvnum% room
+  if (%rvnum% == 14012)
+  emote meows loudly.
+  signal 14013 Iamhere
+  halt once~
+End
+
+#TRIGGER tosscollar
+Type 8
+Sc
+if (%tosscollar-arg% cmp "tosscollar")
+  cmd at 1 wizi 92
+  cmd goto 1
+  cmd wizi
+  cmd fol self  
+  halt all~
+End
+
+#END

@@ -1,0 +1,913 @@
+#PLAYER
+Name Godiva~
+Id   989538572
+LogF 1339901933
+LogO 1339901933
+Vers 8
+Desc `nAs you stand in her presence, you feel the cool breeze of the ocean air as it
+runs through `kGodiva's`n knee-length cyan hair as it falls in soft curls around
+her.  Her skin shimmers with an iridescent teal.  Her fingers and toes are
+webbed, and if you look closely enough behind her ears, you notice small
+delicate gills that flutter with every breath she takes.  Your eyes become
+captured by her face, with her ice-blue eyes that seem almost colorless, long
+nose leading to full darker teal lips, and you become entranced and begin to
+wonder whether it's her beauty or a spell of charm that's been cast over you.``
+~
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race canthi~
+Sex  2
+Cla  0
+Cla2  0
+Cla3  0
+Levl 90
+EInBR 4
+ODeaths 9
+PBKill 12
+MBKill 44
+BBKill 15
+MHKill 443
+BHKill 2
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 2998549
+NPlyd 0
+NAge 0
+Bank_Gold 23648
+Bank_Silv 0
+Email alida_pancioli@hotmail.com~
+Referrer ~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 1
+PointsNh 0
+PointsQ 7
+Avatar_Type 0
+Race_Old -1
+Class_Old -1
+New_Style 1
+Totalxp 760258971
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 1
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+TotalCGL 0
+TotalCGW 0
+MPC 0
+Host c-76-30-252-238.hsd1.tx.comcast.net~
+Not  1216613548 1216613548 1216613548 1216613548 1216613548 1216613548 1216613548 1216613548
+Scro 28
+Room 4056
+HMV  508 508 1298 1298 363 363
+Hand 2
+Gold 34
+Silv 74
+Exp  4528421
+Act  CDG
+Blok -1
+AfBy Te
+Comm FLMNOQS
+Com2 A
+Pos  8
+Save  -2
+Alig  403
+Dam   2
+ACs 86 86 86 90
+Wimp  60
+Attr 13 19 19 9 13 8
+AMod 0 0 0 0 1 0
+Pass GoXy6vUrSDl6A~
+Pret `eG`go`ed`gd`ee`gs`es````~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  `eG`go`eb`gb`el`ge`er `go`ef `gt`eh`ge `eC~
+Pnts 56
+TSex 2
+LLev 807
+Loner 0
+HMVP 492 1298 363
+Cd  -16 5 29 30 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 9 12 5 8 13 12 0 0
+Alias di cast 'detect invis'~
+Alias dh cast 'detect hidden'~
+Alias infra cast 'infravision'~
+Alias f cast 'fly'~
+Alias cs cast 'create spring'~
+Alias cf cast 'create food'~
+Alias sm cast 'summon'~
+Alias ww cast 'weaken' ~
+Alias sk cast 'stone skin'~
+Alias a cast 'armor'~
+Alias sh cast 'shield'~
+Alias sl cast 'sleep' ~
+Alias h cast 'haste' ~
+Alias g cast 'gate' ~
+Alias ew cast 'enchant weapon'~
+Alias id cast 'identify'~
+Alias i cast 'invis' ~
+Alias c cast 'charm' ~
+Alias ss ooc sings "~
+Alias fff cast 'faerie fire' ~
+Alias gs cast 'giant strength'~
+Alias fs cast 'fireshield' ~
+Alias hm cast 'heat metal'~
+Alias ab cast 'acid blast'~
+Alias wb cast 'web'~
+Alias dd cast 'dispel' ~
+Alias fb cast 'fire breath' ~
+Alias bb brew 'haste' vial~
+Alias ff cast 'faerie fog'~
+Alias mm cast 'mirror' ~
+Alias t cast 'teleport' ~
+Alias p cast 'portal' ~
+Alias oo say octopusgarden~
+Alias ea cast 'enchant armor' ~
+Alias dis cast 'dispel' ~
+Alias bbb put vial bag~
+Sk 1 'reserved'
+Sk 76 'armor'
+Sk 100 'acid blast'
+Sk 100 'fireshield'
+Sk 76 'blindness'
+Sk 100 'web'
+Sk 1 'burning hands'
+Sk 1 'bee sting'
+Sk 1 'bee swarm'
+Sk 1 'call lightning'
+Sk 76 'cancellation'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 1 'chain lightning'
+Sk 66 'change sex'
+Sk 1 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'continual light'
+Sk 1 'control weather'
+Sk 81 'create food'
+Sk 1 'create rose'
+Sk 81 'create spring'
+Sk 1 'create water'
+Sk 1 'cure poison'
+Sk 76 'curse'
+Sk 1 'sense good'
+Sk 86 'detect hidden'
+Sk 1 'sense hidden'
+Sk 100 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel good'
+Sk 100 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'firestorm'
+Sk 76 'enchant armor'
+Sk 91 'enchant weapon'
+Sk 1 'energy drain'
+Sk 76 'faerie fire'
+Sk 96 'faerie fog'
+Sk 1 'farsight'
+Sk 100 'fireball'
+Sk 1 'fireproof'
+Sk 1 'flamestrike'
+Sk 76 'fly'
+Sk 1 'floating disc'
+Sk 1 'floating letters'
+Sk 76 'giant strength'
+Sk 100 'haste'
+Sk 1 'greater heal'
+Sk 100 'heat metal'
+Sk 1 'scorch metal'
+Sk 76 'identify'
+Sk 76 'infravision'
+Sk 76 'invisibility'
+Sk 96 'mirror'
+Sk 1 'know alignment'
+Sk 1 'sense alignment'
+Sk 1 'lightning bolt'
+Sk 76 'locate object'
+Sk 1 'magic missile'
+Sk 1 'mass healing'
+Sk 1 'mass invis'
+Sk 76 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 100 'portal'
+Sk 100 'summon'
+Sk 100 'gate'
+Sk 1 'levitation'
+Sk 1 'ray of truth'
+Sk 1 'recharge'
+Sk 76 'refresh'
+Sk 1 'renewal'
+Sk 76 'shield'
+Sk 1 'shocking grasp'
+Sk 1 'sleep'
+Sk 76 'slow'
+Sk 76 'stone skin'
+Sk 96 'teleport'
+Sk 1 'ventriloquate'
+Sk 96 'weaken'
+Sk 1 'acid breath'
+Sk 66 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 91 'aqua breathe'
+Sk 1 'channel electricity'
+Sk 1 'ice beam'
+Sk 1 'electrical charge'
+Sk 1 'invocation'
+Sk 1 'axe'
+Sk 100 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'shield block'
+Sk 76 'staff'
+Sk 1 'sword'
+Sk 1 'mask'
+Sk 1 'riding'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 83 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'swimming'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'throwing'
+Sk 1 'composition'
+Sk 1 'butcher'
+Sk 1 'redirect'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'influence'
+Sk 1 'stalk'
+Sk 1 'lore'
+Sk 100 'meditation'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 1 'fishing'
+Sk 1 'camping'
+Sk 1 'foraging'
+Sk 76 'brew'
+Sk 76 'scribe'
+Sk 1 'steal'
+Sk 1 'palm'
+Sk 76 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Affc 'fly'   0  86  54   0   0     524288 0 ''
+End
+
+#O
+Vnum 78
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 79
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 7068
+Nest 0
+WearL 8
+Cost 0
+End
+
+#O
+Vnum 7076
+Nest 0
+WearL 2048
+Cost 920
+End
+
+#O
+Vnum 4186
+Nest 0
+WearL 16384
+Cost 7800
+Vlues  30 2 2 83 0 0 0 0 0 0 0 0 0
+Spell 3 'locate object'
+End
+
+#O
+Vnum 21112
+Enchanted
+Nest 0
+Name cowboy hat~
+ShD  Godiva's cowboy hat~
+Desc Yeeehaw!  Godiva's cowboy hat is here!~
+WearL 16
+Cost 0
+Affc 'reserved'   1  14  -1   1   5          0 0 ''
+End
+
+#O
+Vnum 30006
+Nest 0
+ShD  `dSome saddlebags marked with '`h`iGodiva's ``Wardrobe and spare `ksocks```d'``~
+WearL -1
+Cost 0
+Vlues  100 1 0 300 99 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 16325
+Nest 0
+WearL -1
+Cost 0
+Vlues  150 1 0 100 75 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 5352
+Nest 1
+ExF 0 8650753
+Wt   275
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 1
+ExF 0 8388609
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 16320
+Nest 1
+WearL -1
+Cost 75
+End
+
+#O
+Vnum 21
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4046
+Nest 1
+ShD  iveraths pitchfork~
+WearL -1
+Cost 30000
+End
+
+#O
+Vnum 4041
+Nest 1
+WearL -1
+Cost 251
+End
+
+#O
+Vnum 61
+Nest 1
+Name eye Naslander~
+ShD  The eye of`b Naslander``~
+Desc A ripped-out eye stares at you from the ground.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 22011
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 30031
+Nest 1
+Name green leechleaf cup~
+ShD  `da cup made of green leechleaf wood``~
+Desc `dA cup made of green leechleaf wood, marked by the sign of 'Amadahy'.``~
+Wt   2
+Cond 92
+WearL -1
+Cost 0
+Vlues  170 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 18
+Nest 1
+ShD  the feather of `ba servant devil``~
+Desc The feather of `ba servant devil`` is lying here.~
+WearL -1
+Cost 1500
+End
+
+#O
+Vnum 21
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 1
+ShD  the feather of A three striped tern~
+Desc The feather of A three striped tern is lying here.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 22000
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 12936
+Nest 1
+WearL -1
+Cost 750
+End
+
+#O
+Vnum 61
+Nest 1
+Name eye Calyx~
+ShD  The eye of`b Calyx``~
+Desc A ripped-out eye stares at you from the ground.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25078
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4141
+Nest 1
+WearL -1
+Cost 5
+End
+
+#O
+Vnum 7251
+Nest 1
+WearL -1
+Cost 1000
+End
+
+#O
+Vnum 736
+Nest 1
+WearL -1
+Cost 5332
+Spell 3 'penance'
+End
+
+#O
+Vnum 16345
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4140
+Nest 1
+Name iron flask haste~
+ShD  an iron flask of haste~
+WearL -1
+Lev  90
+Cost 451
+Vlues  70 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 4140
+Nest 1
+Name iron flask haste~
+ShD  an iron flask of haste~
+WearL -1
+Lev  90
+Cost 451
+Vlues  70 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 4140
+Nest 1
+Name iron flask haste~
+ShD  an iron flask of haste~
+WearL -1
+Lev  90
+Cost 451
+Vlues  -1 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4140
+Nest 1
+Name iron flask haste~
+ShD  an iron flask of haste~
+WearL -1
+Lev  90
+Cost 451
+Vlues  70 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 7264
+Nest 1
+Name magical portal pants `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `k*>*`b A Magical Portal Leading Straight Into Iverath's Pants`k *<*``~
+Desc `k*>*`b A Magical Portal Leading Straight Into Iverath's Pants is here`k *<*``~
+ExF 0 0
+WearL -1
+Cost 1560
+End
+
+#O
+Vnum 30008
+Nest 1
+ShD  `athe eye of `hDuiwelGees`` `adangles on a string``~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 3186
+Nest 1
+WearL -1
+Cost 20490
+End
+
+#O
+Vnum 6241
+Nest 1
+ExF 0 25431296
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1344
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4264
+Nest 1
+WearL -1
+Cost 0
+ExDe papermsg~ Greetings young traveler, Welcome to the Realms of..`b
+           ___                            
+          / (_)             |             
+          \__        __   __|          ,  
+          /    /\/  /  \_/  |  |   |  / \_
+          \___/ /\_/\__/ \_/|_/ \_/|_/ \/ 
+``
+``
+                 Adventure Awaits!
+``
+``
+But before you start, it is strongly recommended for you
+to read this  manifesto.  It will  give you  the general 
+knowledge you  need to survive and  prosper here.  Also, 
+please note that everything covered  in this document is
+also pursued at greater length in the help files. Please
+also type story to read something of Exodus history. 
+``
+The  manifesto  is divided  into several  categories. To 
+read the different parts, just type look `kkeyword``. 
+``
+    [`kYou``] [The `kworld``] [Other `kplayers``] [Your `kPlace``] 
+~
+ExDe you~ `o[`iYou`o]`h                                                                 
+You are the center of your universe.  There are many ways in which you        
+can make your character unique, aside from the customization you have         
+already undertaken in choosing your skills and attributes.  You can           
+change your title [help title], give yourself a description [help description],
+formulate a battlecry [help battlecry]  -- and you can do it all in color    
+[help color].                                                   
+               
+When your character is born, he/she/it receives a set of low level
+equipment. To see what you are wearing, type equipment.  To see what you are 
+holding, type inventory.  Exodus supports full abbreviation, so if you don't 
+want to type out these full commands, you can use 'eq' and 'i', respectively. 
+If you should ever lose your newbie gear, you can type outfit to re-eq.      
+
+Your character's attributes and nuances are important to your evolution as     
+you rise in power and knowledge.  To see your character's score sheet,        
+type score.  To see quickly how wealthy your character is, or how much        
+experience you require to level, type worth.  The experience you receive      
+from killing non-player-characters (NPCs), exploring the world, or            
+participating in both built-in area and immortal run quests determines        
+your level. [help experience, help level]                                     
+~
+ExDe world~ `o[`iThe world around you`o]`h     
+There are many things in the world that you will become aware of as you       
+wander about.  The world of Exodus is vast, comprised of many mystical        
+lands.  [help areas]    
+A few commands are necessary to master if you want to experience the    
+full impact of Exodus: look, where, and who. [help look] [help where] &       
+[help who] have extensive information concerning these important commands.    
+    
+`o[`hobjects`o]`h                                                              
+Mundane and arcane items alike can be found, bought, or battled for in    
+the realms of Exodus.  Although you may discover a proliferation of
+telluric items within its sprawls, the luckiest adventurers may sometimes     
+come across fabled treasures, rare beyond description.                        
+                                                                              
+`o[`hmobiles`o]`h                                                              
+Unlike many other foriegn environments, the extensive lands of Exodus are   
+inhabited by both intelligent players, and...intelligent monsters.          
+Instinctual animals may not offer much of a challenge, but cognizant           
+creatures with actual aspects of sentience (for example, city guards,       
+farmers, or soldiers) may just surprise you -- look at them, talk to them,  
+do what you deem to be wise around them to see how they react.  And should  
+you choose to engage in combat with them and find yourself over your head,  
+you may just find that enraged farmer or cityguard hunting you down to      
+finish the job.                                                                
+~
+ExDe player players~ `o[`iother players`o]`h                                                        
+Although most of the inhabitants of Exodus may appear to be friendly,          
+it is always advisable to take everything with a grain of salt and             
+view the world through a cynic's eyes -- even the most harmless-looking      
+player can evolve into a vicious enemy in the span of a few seconds.           
+Exploring the large universe that Exodus provides is a very good way          
+to avoid messy conflicts with other violent players, and is strongly          
+encouraged, especially to new players.                                        
+                                                                             
+This advice does not directly apply to players level 1 - 8 (as these        
+lower-level players are protected by immortal intervention), but it           
+is advisable that you begin exploring the planet early on, to get a            
+grasp of the terrain and places to adventure.                                
+   
+Player-killing outside of the 10-level range established by the               
+creators of the lands of Exodus will result in the garnering of a              
+wanted flag, and possibly a trial [help justice, help laws].                   
+~
+ExDe place~ [Your place in the world]
+After establishing your persona within the Realms of Exodus, you will
+most likely be tempted to exercise your freedom and broaden your 
+horizens by taking advantage of the many built-in features of the world:
+  
+[Clans]
+Clans are groups of like-minded players that have both the willpower and
+the manpower to organize themselves in objectives that may include
+conquering areas, warring with other clans, and/or promoting 
+a specific goal or cause. See [help clan and clan war].
+  
+[Homes]
+You can establish private sectors for yourself, your clan, or your loved
+one(s) in certain areas in the world of Exodus, for a price. This is best
+done after you have become an experienced adventurer and amassed
+some money. Refer to [help homes] for more information.
+  
+[Transportation]
+The forms of transport in the Realm of Exodus are many and varied.
+Elevator mechanisms coupled with moving battle machines, boats,
+mounts, and magical means of transport are ways to move yourself 
+around all kinds of terrain. For traditionalists, you can also walk to 
+most places. Please read the following files:
+[help boat, help mount, help transportation].
+  
+[Good places to go]
+A good place for newbies to start is the Thesden Animal Exhibition 
+Gardens, informally called the zoo. It is located on Welford Road,
+on the far east side of Thesden. Once the pleasures of the Zoo have 
+begun to pall, you can explore, hunt wabbits!, or satisfy your 
+bloodthirst at Ashton Gardens (near the center of Thesden), or 
+in the Eastern Plains or Sarrendale Farms (outside of the East
+Gate of Thesden).
+~
+End
+
+#O
+Vnum 4406
+Nest 1
+WearL -1
+Cost 1
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+End
+
+#O
+Vnum 21006
+Nest 1
+WearL -1
+Cost 50
+Spell 3 'fireball'
+End
+
+#O
+Vnum 21
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 9386
+Nest 0
+Name living bat earrings~
+ShD  `aLiving bat earrings``~
+Desc `aA pair of living bats have been tied up with spider silk here.``~
+Ityp 13
+WearL 16777216
+Cost 1000
+End
+
+#O
+Vnum 21
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+WearL 2097152
+Cost 0
+End
+
+#RoomRLE   100 2 30 1 392 2 2 8 24 1 1 1 49 3 1 1 23 3 5 14 2 1 41 8 2 8 2 4 1 3 4 3 9 5 8 1 1 1 11 3 19 8 1 5 2 1 2 1 2 2 1 1 1 11 1 16 368 1 19 1 24 1 1 1 1 1 3 1 11 1 211 11 5 1 11 4 2 2 16 4 4 1 4 2 1 1 2 1 1 1 3 3 5 3 3 2 708 3 1 1 1 1 1 3 1 3 1 3 1 2 2 3 1 2 1 15 264 1 11 2 10 2 10 1 8 4 5 7 5 1 5 1 502 1 21 13 1 5 2 5 1 4 1 2 11 27 56 4 60 6 2 1 2 1 8 1 108 1 36 2 3 1 8 1 7 2 4 1 8 2 1 1 1 1 9 1 3 1 7 3 5 4 2 6 27 8 14 9 22 1 9 1 136 1 9 4 7 1 101 17 5 2 2 1 4 5 7 2 1 86 1 8 1 12 1 4 1 4 2 10 1 2 2 3 1 3 1 1 3 1 6 1 4 1 7 1 3 3 1 5 1 1 17 3 7 1 74 1 70 1 2 2 14 1 9 1 22 1 14 1 1 2 390 7 35 2 1 1 11 5 8 1 9 3 104 1 50 16 1 2 2 5 26 2 1 1 144 4 9 4 18 2 2 2 25 1 19 5 2 1 4 1 102 1 2 1 7 2 2 1 3 8 24 5 1 4 24 2 14 1 5 1 4 4 2 1 1 1 5 1 5 1 3 1 75 1 349 10 1 1 1 1 1 6 566 1 353 1 2 1 2 1 15 6 1 2 13 2 43 7 4 1 20 1 9 2 114 53 405 1 3 1 9 1 3 1 9 1 3 1 9 1 3 1 9 1 2 2 12 1 12 2 12 1 91 7 2 11 1 3 1 39 6 1 737 6 9 15 2 2 3 2 5 3 44 1 1 3 1 7 1 1 3 1 1 1 5 1 1 1 2 7 2 2 1 10 38 1 5 2 1855 1 25 1 9 3 9 6 7 5 7 1 1 2 4 2 2 4 5 1 3 3 11 1 11 1 11 1 11 1 11 1 335 1 107 6 4 4 78 1 1 1 60 1 23 1 13 1 24 1 4 1 12 1 4 1 2 1 323 1 134 1 4 1 145 8 8 2 5 2 2 2 1 1 5 1 1 1 1 2 2 1 5 1 4 1 95 1 6 1 1 1 17 1 1 1 8 1 5 1 2 1 4 1 3 1 3 4 9 1 21 1 3 1 453 1 1 7 1 1 1 1 3 2 2 3 3 2 2 3 3 2 2 3 3 2 2 3 3 2 1 9 1 4 2 3 1 4 3 7 4 6 4 13 1 3 3 3 1 9 1 2 4 3 1 2 4 100 4 4 4 4 4 4 4 1 2 1 4 1 1 2 4 4 4 1 1 3 3 6 2 1 1 3 3 13 154 5 2 1 1 1 2 1 1 1 2 1 1 1 2 1 1 1 2 3 2 3 2 12 2 1 9 1 3 10 70 7 1 4 1 4 9 1 413 8 1 6 2 2 2 4 2 5 3 4 1 6 2 2 1 6 12 26 4 31 6 3 12 7 273 45 1826 59 1 10 429 1 10 21 80 1 48 1 80 1 23 1 2 12 2 1 6 1 12 1 11 1 4 1 5 5 7 1 4 20 6 18 21 1 109 21 105 1 2 1 32 1 4 8 16 1 6 2 3 12 35 1 5 17 1 2 7 18 182 1 4 1 51 1 466 1 6 1 2 9 3 1 4 1 1 2 6 2 5 2 5 5 2 3 4 1 1 6 1 3 1 5 1 2 5 1 1 4 2 3 4 1 1 2 4 1 1 3 2 1 1 4 2 1 1 1 4 1 1 4 2 1 1 1 4 1 1 4 2 1 1 1 4 6 1 2 1 2 3 1 1 4 1 2 1 1 4 1 1 18 2 7 1 5 3 12 1 4 2 1 325 2 2 29 1 28 2 1 11 2 3 2 1 22 1 3 1 5 1 20 1 12 1 4 8 23 1 4 2 2 43 1 6 10 1200 21 7 4 1 1 2 5 1 2 6 2 1 3 4 1 2 1 2 2 3 1 13 4 2 3 7 5 1 3 480 4 1 11 1 11 18 1 9 1 44 2 6 10 3 5 3 30 2 10 9 11 4 3 2 16 1 1 2 11 6 2 1 31 1 4 1 25 1 8 1 2 2 5 2 8 1 6 1 2 5 1 10 1 2 1 5 12 8 1 9 2 8 1 9 3 5 1 13 1 19 1 20 1 10 1 1 1 555 14 1 5 3 2 1 12 7 1 3 4 2 1 1 1 2 2 2 8 9 12 2 3 2 21 1 1 2 1 1 4 1 2 3 1 696 1 165 1 24 1 1978 1 2 2 6 1 2 1 11 1 8 1 11 1 2 1 1 2 5 1 5 1 13 1 7 3 16 1 6 1 15 1 1 1 3 1 1 1 2 2 4 1 5 1 10 2 14 1 1 1 9 1 2 1 4 1 22 1 12 1 2 1 4 1 28 4 7 2 6 1 3 1 23 1 39 1 4 2 48 1 47 1 7 2 14 3 6 3 24 2 3 1 20 1 15 3 7 1 2 1 7 1 3 3 1 4 2 2 1 1 15 1 73 1 51 3 6 1 30 1 21 2 13 1 2 1 13 1 7 1 1 1 18 1 5 1 17 3 1 2 29 1 32 1 139 1 20 1 18 1 18 3 7 1 60 1 1 1 10 1 3 1 13 2 2 1 4 1 13 3 5 4 1 5 1 2 1 6 37 2 15 2 43 2 49 1 82 1 7 1 25 1 418 7 5 5 3 18 6 4 152 7 1 1 1 2 796 1 3 2 11 1 1 2 1 4 1 4 4 1 3 1 29 1 1 2 1 1 2 1 705 1 2855 1 200 1 99 12 87 1 10 2 87 1 10 2 2 2 25 2 19 1 1 1 1 1 3 3 25 2 10 2 2 2 25 3 17 2 1 1 1 1 4 2 25 25 18 3 3 1 13 2 1 1 1 1 1 1 2 2 25 29 14 3 3 1 13 12 26 25 2 1 14 7 13 12 1 4 21 19 3 1 4 1 14 7 13 14 2 1 21 11 1 5 5 1 4 1 14 7 13 12 4 1 22 10 1 5 5 1 19 7 13 12 4 1 9 1 12 6 5 5 5 1 19 7 14 2 1 8 4 1 7 2 15 1 2 1 5 5 5 1 17 9 15 1 1 8 4 1 6 3 15 4 5 5 5 1 17 9 13 3 1 8 4 1 6 3 12 1 5 1 5 5 5 1 17 7 16 11 4 1 7 1 13 1 5 5 1 5 5 1 17 7 16 2 7 2 4 1 21 1 9 1 1 5 5 1 17 6 27 3 2 1 21 1 9 7 5 1 17 6 27 6 21 1 11 5 5 1 17 3 29 2 4 1 21 1 11 5 5 1 17 3 30 1 26 1 11 5 5 1 17 3 30 1 26 1 11 11 17 3 30 1 26 1 11 6 22 10 23 1 26 1 11 6 24 1 6 1 23 1 26 1 11 6 24 8 23 1 26 1 11 6 24 8 7 2 14 1 26 1 11 5 23 10 23 1 26 1 11 4 24 9 24 1 26 1 11 2 28 1 5 1 24 1 26 1 11 2 27 8 51 1 11 2 2 1 83 16 96 2 98 2 98 2 16 1 81 2 16 1 81 2 16 1 285 1 904 1 99 1 99 1 99 1 99 1 99 1 99 1 7 1 91 1 7 1 91 1 7 1 8 1 75 1 6 1 4 1 2 1 1 1 1 1 4 1 200 1 325 1 27421 -1
+
+#QbitsRLE   999 -1
+
+#END

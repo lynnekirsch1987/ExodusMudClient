@@ -1,0 +1,571 @@
+#PLAYER
+Name Corbite~
+Id   1028352806
+LogF 1065076984
+LogO 1065076993
+Vers 8
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race human~
+Sex  1
+Cla  2
+Cla2  2
+Cla3  2
+Levl 25
+WTime 999998
+MBKill 9
+MHKill 1155
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 185332
+Bank_Gold 1900
+Bank_Silv 0
+Email hammster@hotmail.com~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+New_Style 0
+Totalxp 420
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+Host 216-54-159-161.gen.twtelecom.net~
+Not  0 0 0 0 0 0 0 0
+Scro 22
+Room 4256
+HMV  255 255 157 157 209 209
+Hand 2
+Gold 28
+Silv 98
+Exp  80900
+Act  CDEFGHQa
+Blok -1
+AfBy Q
+Comm FGNOQRS
+Pos  8
+Save  -4
+Alig  -13
+Hit   9
+Dam   10
+ACs 33 37 34 87
+Wimp  29
+Attr 10 17 18 12 18 8
+AMod 5 0 0 2 3 0
+Pass CoWSvuvGV0mXw~
+Layhands 0
+Exorcise 0
+Titl  the blank.~
+Pnts 62
+TSex 1
+LLev 46
+Loner 0
+HMVP 255 152 199
+Cnd  -16 14 45 46
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias , get all corpse~
+Alias [ say ivan sent me~
+Alias \ sac corpse~
+Alias / circle~
+Alias . hide~
+Sk 1 'axe'
+Sk 93 'dagger'
+Sk 62 'shield block'
+Sk 1 'sword'
+Sk 38 'elusiveness'
+Sk 1 'kai'
+Sk 64 'backstab'
+Sk 61 'circle'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 72 'dodge'
+Sk 1 'fisticuffery'
+Sk 44 'enhanced damage'
+Sk 1 'swimming'
+Sk 1 'envenom'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 62 'parry'
+Sk 1 'trip'
+Sk 1 'throwing'
+Sk 1 'conceal'
+Sk 1 'butcher'
+Sk 1 'redirect'
+Sk 63 'second attack'
+Sk 1 'haggle'
+Sk 94 'hide'
+Sk 1 'stalk'
+Sk 28 'lore'
+Sk 60 'peek'
+Sk 14 'pick lock'
+Sk 100 'sneak'
+Sk 1 'track'
+Sk 1 'fishing'
+Sk 11 'steal'
+Sk 1 'palm'
+Sk 1 'wands'
+Gr 'rom basics'
+GStats  8 0 1155 0 9 1038 51 420 179 
+End
+
+#O
+Vnum 16325
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Wear -1
+Cost 320
+Val  110 110 0 0 0 0 0
+End
+
+#O
+Vnum 4159
+Nest 0
+ExtF 8388608
+Wear 14
+Cost 0
+Val  7 4 7 3 0 0 0
+End
+
+#O
+Vnum 4320
+Nest 0
+ExtF 8388610
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 4318
+Enchanted
+Nest 0
+ExtF 8388672
+Cond 100
+Wear 11
+Lev  38
+Cost 0
+Affc 'enchant armor'   1  45  -1  -3  17          0 0 ''
+End
+
+#O
+Vnum 20389
+Nest 0
+ExtF 8650752
+Cond 100
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 4862
+Nest 0
+ExtF 8388608
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 16325
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4145
+Enchanted
+Nest 1
+ExtF 67
+Wear -1
+Lev  19
+Cost 50
+Affc 'enchant weapon'   0  90  -1   7  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4083
+Nest 1
+Wear -1
+Cost 8790
+End
+
+#O
+Vnum 4088
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4874
+Nest 1
+ExtF 8388608
+Wear -1
+Cost 0
+Val  10 2 2 67 0 0 0
+Spell 3 'giant strength'
+End
+
+#O
+Vnum 4304
+Nest 1
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 4262
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8801
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+Spell 1 'fireball'
+Spell 2 'curse'
+ExDe solution~ A small piece of burned parchment with the legend:
+unsweessuswwsusseensu
+ 
+Wonder what it means.
+~
+End
+
+#O
+Vnum 4084
+Nest 1
+Wear -1
+Cost 6783
+Spell 1 'infravision'
+Spell 2 'curse'
+End
+
+#O
+Vnum 27021
+Nest 1
+ExtF 25428032
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20975
+Nest 0
+Wear 6
+Cost 75
+End
+
+#O
+Vnum 720
+Nest 0
+Wear 0
+Cost 5000
+End
+
+#O
+Vnum 6
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12915
+Nest 0
+ExtF 1
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 20959
+Nest 0
+ExtF 8650752
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 21072
+Nest 0
+Wear 2
+Cost 12
+End
+
+#O
+Vnum 21072
+Nest 0
+Wear 1
+Cost 12
+End
+
+#O
+Vnum 4400
+Nest 0
+ExtF 8650752
+Wear 18
+Cost 0
+Val  5 2 2 0 0 0 0
+End
+
+#O
+Vnum 8810
+Nest 0
+ExtF 8388608
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 5652
+Nest 0
+Wear 7
+Cost 1
+End
+
+#O
+Vnum 4096
+Nest 0
+Wear -1
+Cost 1354
+End
+
+#O
+Vnum 4274
+Nest 0
+ExtF 8388928
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 4159
+Nest 0
+Wear 15
+Cost 2900
+End
+
+#O
+Vnum 4065
+Nest 0
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 4065
+Nest 0
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 4065
+Nest 0
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 4065
+Nest 0
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4519
+Nest 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4518
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4149
+Nest 0
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 4150
+Nest 0
+Wear -1
+Cost 265
+End
+
+#O
+Vnum 4518
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4518
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4518
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4518
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4151
+Nest 0
+Wear -1
+Cost 102
+End
+
+#RoomRLE   100 2 513 1 1 1 24 2 21 1 834 4 1 2 793 2 1 1 1 3 6 2 6 1 7 5 1 11 1053 6 2 1 2 32 557 9 2 1 21 3 7 2 1 54 2 30 2 3 5 12 1 4 1 4 2 11 1 2 3 1 1 1 14 1 10 1 5 10 18 3 8 1 73 1 3 1 1 10 2 4 49 1 2 2 2244 1 1250 17 1 1 2 2 2 27 4 3 4976 3 7 3 8 3 6 6 4 3 2 1 3 14 3 3 1 3 3 3 1 9 1 4 2 8 2 1 2 6 1 1 2 6 1 1 2 5 2 1 2 5 2 8 3 22 2 2 2 4 4 6 4 1 2 3 4 1 2 3 4 1 2 3 55 9 7 3 5 3 2 1 2 10 201 2 12 1 92 2 3 2 425 7 1 4 1 1 3 4 2 1 4 3 2 8 1 1 2 1 5 7 1 3 6297 21 7 3 1 1 3 9 5 4 23 1 4 8 1 2 8 4 485 42 1 2 1 17 38 4 4 18 3 120 1 88 1 3 4 12 2 2 4 10 1 1 3 1 1 2 1 12 3 6 3 4 1 4 2 4 6 8 15 5 16 1 1 3 568 2 3006 1 6 1 23 1 29 1 13 1 7 2 24 1 15 1 1 1 3 1 1 1 41 1 11 1 3 1 3 1 7 1 30 1 1 1 61 1 2 2 16 1 224 1 275 1 9 1 13 1 271 1 26 1 10 2 1 1 835 16 1 3 24 8 2 2 155 1 4435 1 100 3 296 1 162 1 1 1 1 1 3 1 91 1 1 1 1 1 3 1 91 1 1 1 3 1 1 1 27 1 64 1 1 1 3 1 29 1 199 1 187 3 92 6 2 1 9 1 82 1 16 1 32385 -1
+
+#END

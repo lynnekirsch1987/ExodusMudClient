@@ -1,0 +1,31 @@
+* File: eswan.scr
+* Mob: Evyln Swan(4034)
+
+#TRIGGER ms1
+Type 3
+Sc
+wfunc %rndnum% random 0 4
+if ( %rndnum% == 0 )
+   emote strums her lute thoughtfully, producing a single sustaining perfect chord.
+   halt once~
+Sc
+getch %name%
+if ( %rndnum% == 1 )
+   emote points to a beautiful harp hanging on the wall.
+   say How about this one, %name%, it seems to suit you.
+   halt once~
+Sc
+if ( %rndnum == 2 )
+   emote sings quietly to herself as she waits for the next customer.
+   halt once~
+End
+
+#TRIGGER ms2
+Type 10
+Sc
+  say Greetings, %ms2-from%, welcome to Swan's Feather Music!
+  halt once~
+End
+
+#END
+

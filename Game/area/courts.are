@@ -1,0 +1,4819 @@
+#AREA
+ 6~
+courts.are~
+`iCrimson Courts``~
+{ 1 90} Colin  `iCrimson Courts``~
+laws court~
+581 699
+0 0 0
+1 0
+amber~
+#MOBILES
+#601
+Red Bailiff~
+Red the bailiff~
+Red, the trusted bailiff, stands here stoically.
+~
+Red follows the orders of the judge...without fail. It's best to do what
+he asks, and don't ask alot of questions. He's not here to give you answers.
+And giving him any trouble could be your downfall.
+~
+human~
+0 0 0 0
+AB 0 0 0
+95 100 50d20+8000 0d0+0 16d10+35 none
+-35 -35 -35 999 -35
+0 -1 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+large oldstyle~
+0 0 0 100
+7
+baliff.voc~
+red.scr~
+#608
+Spink vendor~
+Spink the vendor~
+A small food vendor is here to wait on you.
+~
+The small man bakes up some of the most delectible meat pies in the realm,
+and they are so warm and filling. Just don't be too inquisitive about the
+ingredients. You might loose your desire to eat...
+ 
+Bon Appetite!
+~
+human~
+0 0 0 0
+AB 0 0 0
+60 60 60d100+20 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#616
+guard keeper~
+The gate guard~
+The keeper of the gaol gate stands here.
+~
+The gatekeeper doesn't seem to be a mean fellow, but it is doubtful that he
+would take any guff from people coming to the gaol. He isn't exactly polite,
+and he wasn't given this job to be that way...
+~
+human~
+0 0 0 0
+AB 0 100 1
+85 80 50d15+12000 5d5+100 6d15+35 punch
+-10 -10 -10 999 -10
+D -1 FIKW A B P
+stand stand male 2000
+AHMV ABCDEFGHIJKa 23 23 23 23 23 23 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#619
+warden~
+The gaol warden~
+The warden of the gaol looks at you menacingly!
+~
+The warden looks to be in fantastic shape for spending his days down in this
+hole. He has seen many battles and riots, and fears no one. He has many scars
+to show for his battles to the death, and yet he is still here.
+~
+human~
+0 0 0 0
+ABFT 0 -100 1
+91 90 50d20+14000 10d10+100 12d10+45 slash
+-10 -20 -10 999 -20
+D -1 0 a 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJKa 25 10 25 20 20 25 0
+medium flesh~
+0 0 0 100
+1
+~
+~
+#623
+lift guard~
+A lift guard~
+A guard stands watch over the gaol.
+~
+The lift guard is here to watch over the prisoners and to keep outsiders from
+entering the prison for any unlawful reasons. They tend to dislike this
+assignment, but it's all part of the job. They do take great pride in keeping
+any prisoners from escaping...
+~
+human~
+0 0 0 0
+ABFTX 0 -100 0
+80 80 60d12+11000 10d10+100 10d12+40 none
+-20 -20 -20 999 -10
+0 -1 EKL AB G HS
+stand stand male 1000
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#624
+man liftmaster master~
+The Liftmaster~
+There is a hulking man here watching the prisoners labor.
+~
+The liftmaster is a huge man dressed in studded leather. He is a complete
+and total slavemaster without compassion. If you end up battling with him,
+don't expect mercy...you won't get it.
+~
+human~
+0 0 0 0
+ABFNT DF -500 0
+88 88 70d12+8500 0d0+0 12d12+40 none
+-20 -20 -20 999 -10
+0 -1 FIV AB EZ CK
+stand stand male 4500
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#625
+patrol guard gaol~
+A gaol guard~
+A gaol guard is taking a well-deserved break here.
+~
+This big fellow certainly dislikes being roused from sleep to deal with
+problems in the gaol. Ever hear of the old adage involving sleeping dogs?
+~
+human~
+0 0 0 0
+AFTX 0 -100 0
+80 65 60d12+11000 10d10+100 10d12+10 none
+-12 -12 -12 999 -22
+0 -1 EKL AB G HS
+stand stand male 1000
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#626
+prisoner~
+A prisoner~
+There is a worn and bedragled prisoner eyeing you.
+~
+You can only wonder what crime this poor wretch commited to be sentanced to
+this foul place. It seems as if he has been here for quite some time. You can
+only hope that your stay here will not be as long...
+~
+human~
+0 0 0 0
+AHS 0 -100 0
+60 60 20d10+2500 40d10+100 3d5+35 punch
+-3 -2 -3 999 -2
+0 -1 I A B EI
+stand stand male 0
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#627
+prisoner~
+A prisoner~
+There is a scrawny prisoner here who is being forced to move the wheel.
+~
+The prisoner begs for your help...you MUST be here on a rescue mission.
+He thinks he can help you! you might ask him the secrets of the gaol...
+~
+human~
+0 0 0 0
+ABHS 0 -100 0
+60 60 50d10+9500 40d10+100 8d6+8 punch
+-3 -2 -3 999 -2
+0 -1 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+5
+prisoner.voc~
+~
+#643
+gregg~
+Gregg~
+Gregg, the community guildmaster is here.
+~
+Greggory is trained in all professions but is a master of none of them. 
+He will be able to help you gain some levels, but for practicing your
+skills, you're better off heading to thesden.  Once a youth of many
+aspirations, time has worn this man down.  He wears shabby clothes and is
+missing some teeth.  Since he never really completed a specific profession,
+he wound up poor, living under this bridge.  Poor Greggory.  
+~
+human~
+0 0 0 0
+ABJKb 0 0 0
+0 0 1000d1+0 0d0+0 0d0+0 none
+0 0 0 999 0
+DR 0 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#657
+professor teacher~
+The professor~
+The professor of the General Law of Exodus sits at her desk.
+~
+The law professor is well versed in the court system and proceedures. You can
+learn quite a bit from this individual if you take the time to ask the proper
+questions. As in most cases, the quality of your education depends on you...
+~
+human~
+0 0 0 0
+ABV 0 0 0
+99 1 10d15+8000 10d10+10 1d1+5 none
+-4 -4 -4 999 -4
+0 -1 0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 100
+5
+law.voc~
+~
+#658
+professor teacher~
+The professor~
+The professor of Courtroom Procedure stands at the blackboard
+~
+The law professor is well versed in the court system and procedures.  You
+can learn quite a bit from this individual if you take the time to ask the
+proper questions.  As in most cases, the quality of your education depends
+on you...  
+~
+human~
+0 0 0 0
+ABV 0 0 0
+99 1 10d15+8000 10d10+10 1d1+1 none
+-4 -4 -4 999 -4
+0 -1 0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 100
+5
+proceed.voc~
+~
+#659
+professor teacher~
+The professor~
+The professor teaching the Pre-trial Motion class stands before you.
+~
+The law professor is well versed in the court system and proceedures. You can
+learn quite a bit from this individual if you take the time to ask the proper
+questions. As in most cases, the quality of your education depends on you...
+~
+human~
+0 0 0 0
+ABV 0 0 0
+99 1 10d15+8000 10d10+10 1d1+1 none
+-4 -4 -4 999 -4
+0 -1 0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 100
+5
+pre.voc~
+~
+#660
+professor teacher~
+The professor~
+The instructor of Jury Selection proceedure sits at his desk.
+~
+The law professor is well versed in the court system and proceedures. You can
+learn quite a bit from this individual if you take the time to ask the proper
+questions. As in most cases, the quality of your education depends on you...
+~
+human~
+0 0 0 0
+ABV 0 0 0
+99 1 10d15+8000 10d10+10 1d1+1 none
+-4 -4 -4 999 -4
+0 -1 0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 100
+5
+jury.voc~
+~
+#661
+professor teacher~
+The professor~
+The Common Objections class professor waits patiently at his desk.
+~
+The law professor is well versed in the court system and proceedures. You can
+learn quite a bit from this individual if you take the time to ask the proper
+questions. As in most cases, the quality of your education depends on you...
+~
+human~
+0 0 0 0
+ABV 0 0 0
+99 1 10d15+8000 10d10+10 1d1+1 none
+-4 -4 -4 999 -4
+0 -1 0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 100
+7
+object.voc~
+~
+#662
+professor teacher~
+The professor~
+The professor of the Barrister Ethics class waits to give instruction.
+~
+The law professor is well versed in the court system and proceedures. You can
+learn quite a bit from this individual if you take the time to ask the proper
+questions. As in most cases, the quality of your education depends on you...
+~
+human~
+0 0 0 0
+ABV 0 0 0
+99 1 10d15+8000 10d10+10 1d1+1 none
+-4 -4 -4 999 -4
+0 -1 0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 100
+5
+bar.voc~
+~
+#663
+registrar~
+The registrar~
+The Registrar waits behind a counter to enroll you in the Law School.  
+~
+The registrar is a older woman who regards the new students pensively. She
+realizes that the fate of some will rest in the hands of those who pass these
+doors. She also wonders if you have ever been in trouble with the law...
+~
+human~
+0 0 0 0
+AB 0 0 0
+0 0 1d1+10 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#664
+dean~
+The Dean of Exodus Law School~
+The Dean of Exodus Law School welcomes you.
+~
+The Dean is here to discuss the future of prospective students. She is a kind
+woman who has all the credentials to handle the job. She is easy to talk with,
+and even easier to like.
+~
+human~
+0 0 0 0
+AB 0 0 0
+90 0 30d30+6000 10d10+10 5d20+30 none
+-4 -4 -4 999 -4
+0 -1 0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#665
+shaft~
+Shafts' cock ring~
+(no long description)
+~
+Shaft the pimp is one heck of a dude...
+`hShaft the pimp is in excellent condition.
+ 
+Shaft the pimp is using:
+<worn on penis>    `dA monstrous cock ring
+ 
+ 
+~
+human~
+0 0 0 0
+A 0 0 0
+91 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 25 25 25 25 25 25 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#601
+bench~
+a long bench~
+There is a long mahogany bench for spectators.~
+oldstyle~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CD JMRTUVW E 0 0
+0
+0
+0 0 0 P
+#602
+box jury~
+the jury box~
+There is a raised box for the jury.~
+oldstyle~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+(null)~
+(null)~
+(null)~
+(null)~
+AC 0 F 0 0
+0
+0
+0 0 0 P
+#603
+stand witness~
+the witness stand~
+There is a raised witness stand at the front of the courtroom.~
+oldstyle~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A EIJKN E 0 0
+0
+0
+0 0 0 P
+#604
+law~
+the `aJudge's Bench``~
+The `kBench `dof the `kJudge `drises grandly at the front and center of the room.``~
+oldstyle~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A EIJKN E 0 0
+0
+0
+92 0 0 P
+#606
+subpoena sub~
+`iA SUBPOENA``~
+There is a `iSUBPOENA`` here...~
+oldstyle~
+15
+portal 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A BCDEGJ AH
+0
+0
+0 0 0 P
+#607
+couch~
+a comfortable couch~
+A comfortable looking, and well used, leather couch is against the wall.~
+oldstyle~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B 0 EK CE CE
+0
+0
+0 0 0 P
+#608
+diploma bar~
+a Bar Exam diploma~
+The diploma of the Exodus Bar exam lays here.~
+oldstyle~
+0
+key 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 0 0 0
+0
+0
+25 5 0 P
+#609
+meat pie~
+a large meat pie~
+A steaming hot meat pie has been set here.~
+meat~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BE D BEF 0 0
+0
+0
+5 100 40 P
+#610
+marble fountain~
+a small white marble fountain~
+`oA small marble `ndrinking fountain `otrickles `nwater `ointo a basin.``~
+oldstyle~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#611
+exodus penal code~
+The Exodus penal code~
+There is a book of the `kExodus Penal Code `don a low shelf.~
+oldstyle~
+0
+trash 2
+RSY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#612
+no name~
+a book of court procedure~
+There is a book titled Court Procedure on a high shelf.~
+oldstyle~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#613
+no name~
+a book of common objections~
+There is a book titled `kCommon Objections `don a middle shelf.``~
+oldstyle~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#616
+cage~
+the metal cage~
+~
+oldstyle~
+0
+elevator 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ACFGJ BC GHIJKNQT 0 0
+0
+0
+0 0 0 P
+#617
+3~
+a copper lever~
+There is a copper lever that is marked '3' upon the cage wall.~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The grinding of the gears cease and the wire mesh doors bang open.~
+The creaking metal cage arrives and the mesh doors bang open.~
+The mesh doors slam shut and the cage gears groan as they begin to move.~
+The wire mesh doors bang shut and the cage groans to a start.~
+DFGJ C BFGJ B 0
+0
+0
+0 0 0 P
+#618
+2~
+a copper lever~
+There is a copper lever that is marked '2' upon the cage wall.~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The grinding of the gears cease and the wire mesh doors bang open.~
+The creaking metal cage arrives and the mesh doors bang open.~
+The mesh doors slam shut and the cage gears groan as they begin to move.~
+The wire mesh doors bang shut and the cage groans to a start.~
+DFGJ AB BCFGJ B 0
+0
+0
+0 0 0 P
+#619
+1~
+a copper lever~
+There is a copper lever that is marked '1' upon the cage wall.~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The grinding of the gears cease and the wire mesh doors bang open.~
+The creaking metal cage arrives and the mesh doors bang open.~
+The mesh doors slam shut and the cage gears groan as they begin to move.~
+The wire mesh doors bang shut and the cage groans to a start.~
+DFGJ A ABCFGJ B 0
+0
+0
+0 0 0 P
+#620
+b~
+a copper lever~
+There is a copper lever that is marked 'B' upon the cage wall.~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The grinding of the gears cease and the wire mesh doors bang open.~
+The creaking metal cage arrives and the mesh doors bang open.~
+The mesh doors slam shut and the cage gears groan as they begin to move.~
+The wire mesh doors bang shut and the cage groans to a start.~
+DFGJ A DFGJ B 0
+0
+0
+0 0 0 P
+#621
+lever copper button~
+a copper lever~
+There is a copper lever on the wall.~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The grinding of the gears cease and the wire mesh doors bang open.~
+The creaking metal cage arrives and the mesh doors bang open.~
+The mesh doors slam shut and the cage gears groan as they begin to move.~
+The wire mesh doors bang shut and the cage groans to a start.~
+DFGJ C BFGJ B 0
+0
+0
+0 0 0 P
+#622
+lever copper button~
+a copper lever~
+There is a copper lever on the wall.~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The grinding of the gears cease and the wire mesh doors bang open.~
+The creaking metal cage arrives and the mesh doors bang open.~
+The mesh doors slam shut and the cage gears groan as they begin to move.~
+The wire mesh doors bang shut and the cage groans to a start.~
+DFGJ AB BCFGJ B 0
+0
+0
+0 0 0 P
+#623
+lever copper button~
+a copper lever~
+There is a copper lever on the wall.~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The grinding of the gears cease and the wire mesh doors bang open.~
+The creaking metal cage arrives and the mesh doors bang open.~
+The mesh doors slam shut and the cage gears groan as they begin to move.~
+The wire mesh doors bang shut and the cage groans to a start.~
+DFGJ B ABCFGJ AB 0
+0
+0
+0 0 0 P
+#624
+lever copper button~
+a copper lever~
+There is a copper lever on the wall.~
+oldstyle~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The grinding of the gears cease and the wire mesh doors bang open.~
+The creaking metal cage arrives and the mesh doors bang open.~
+The mesh doors slam shut and the cage gears groan as they begin to move.~
+The wire mesh doors bang shut and the cage groans to a start.~
+DFGJ A DFGJ B 0
+0
+0
+0 0 0 P
+#625
+key master~
+Master Gaol Key~
+A large iron key lays here...waiting to unlock all the Gaol doors.~
+iron~
+0
+key 2
+Uc
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 5 2 P
+#626
+liftmaster whip bull~
+the Liftmaster whip~
+There is a long bullwhip lying here~
+hard leather~
+0
+weapon 2
+GS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BC D AD C I
+0
+0
+78 16 0 P
+A
+1 1
+A
+19 5
+A
+18 4
+#627
+warden sword~
+Wardens sword~
+A sword with the etchings from the gaol of the courts lays here.~
+steel~
+0
+weapon 2
+GIT
+0
+ANR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A ABC D AB F
+0
+0
+55 100 3000 P
+A
+18 4
+A
+19 4
+#628
+entry gate key~
+gaol entry key~
+There is a large key laying on the floor.~
+oldstyle~
+0
+key 2
+HSUZc
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 5 20 P
+#631
+robe~
+`athe Black Robes of the Judge``~
+There is a long black robe hanging here.~
+cloth~
+0
+clothing 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 0 P
+#633
+gavel~
+a large gavel~
+A large gavel has been left here.~
+oldstyle~
+0
+key 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 0 P
+#663
+table~
+a small metal table~
+`gA small metal `ntable `gwith a pair of metal `nchairs `gare set in room.``~
+metal~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C EFGIJKM BDKN BD BD
+0
+0
+0 0 0 P
+#664
+bench~
+a cold metal bench~
+`gA long metal bench is bolted to the north wall.``~
+metal~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB EFGIJKM EHK BD BD
+0
+0
+0 0 0 P
+#665
+bench~
+a cold metal bench~
+`gA long metal bench is bolted to the west wall.``~
+metal~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB EFGIJKM EHK BD BD
+0
+0
+0 0 0 P
+#666
+key~
+Bailiff's key~
+The key to the courts is here.~
+oldstyle~
+0
+key 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 0 0 P
+#667
+gaol boots~
+gaol guard boots~
+There is a pair of the guards boots here.~
+hard leather~
+0
+armor 2
+S
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CD CD CD CD 0
+0
+0
+84 98 7500 P
+A
+2 2
+A
+14 30
+#668
+gaol helmet~
+gaol guard helmet~
+A helmet from one of the gaol guards has been left here.~
+steel~
+0
+armor 2
+0
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+D D D 0 0
+0
+0
+85 102 3000 P
+#669
+gaol sword~
+gaol guard sword~
+A sword from a gaol guard lies here.~
+steel~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A BC D AB 0
+0
+0
+64 130 1000 P
+A
+19 4
+#670
+gaol mail~
+gaol guard mail~
+A pile of chain mail has been tossed here.~
+steel~
+0
+armor 2
+0
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+80 544 9000 P
+#671
+vial~
+a small vial~
+A small vial of true sight has been forgotten here.~
+oldstyle~
+40
+potion 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+EG 'hallowed vision' 'renewal' 'detect invis' 'reserved'
+0
+0
+78 5 1000 P
+#672
+daboard~
+chalkboard~
+`oThere is a `achalkboard `ohanging on the front wall.``~
+oldstyle~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#673
+desk~
+the professors desk~
+The desk of the professor sets at the front of the classroom.~
+oldstyle~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 N 0 0
+0
+0
+0 0 0 P
+#674
+seat~
+the professors seat~
+There is a swivel seat behind the desk of the professor.~
+oldstyle~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 E 0 0
+0
+0
+0 0 0 P
+#675
+chair~
+the student chair~
+A chair has been set out for a student of the school.~
+oldstyle~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A DEFHIJL E BCDE BCDE
+0
+0
+0 0 0 P
+#676
+registration~
+Law School Registration~
+A registration book for law school is here~
+parchment~
+0
+room_key 2
+HPSU
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 4 20000 P
+#677
+blue book~
+A blue composition book~
+There is a blue composition book here.~
+paper~
+0
+writing_paper 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CEFGHI 0 0 0 0
+0
+0
+25 3 50 P
+#678
+lead pencil~
+a lead pencil~
+A pencil has fallen to the floor here.~
+softwood~
+0
+writing_instrument 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 1 30 P
+#679
+pipe~
+The old sewer pipe seems full...~
+~
+oldstyle~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n has climbed into the pipe.~
+You climb into a foul smelling sewer pipe.~
+~
+~
+-1 A G ACFHJ A
+0
+0
+0 0 0 P
+#680
+none~
+a kiosk~
+There is a small kiosk here with a guide to the building.~
+oldstyle~
+0
+map 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#681
+sign~
+(no short description)~
+`oThere is a `bWARNING `osign hanging on the wall.~
+oldstyle~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#682
+oath~
+the oath~
+`oThe `iOath `oof the `iBarrister `ohangs in a frame on the wall.``~
+parchment~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+oath~
+Written in script on an old parchment is the oath taken by the Barrister.
+ 
+    I, <state your name>, am ready and willing to take the vows which will
+assign unto me the power of legal council to another in this realm.
+ 
+    With right hand raised, do you swear, as an emissary of the court to
+uphold the laws of Exodus to the fullest extent of your capabilities?
+ 
+    And do you further swear to maintain, as your professional goal, to
+serve those in your charge with your complete capacity? 
+ 
+    And will you, as council, keep secret any information divulged unto
+you by a client which deems that information as confidential?
+ 
+    And will you further the profession you have chosen by maintaining 
+proper protocol when having any dealings with the Court of Exodus?
+ 
+    Now, with the vested authority of this realm, I hearby welcome you
+to the Court of Exodus. Fare well in your duties as Barrister.
+~
+#0
+
+#ROOMS
+#601
+90 500
+Judge Malakai grants you 500 experience points for discovering the courtroom.~
+~
+~
+0 64 0
+`iThe Crimson Courtroom``~
+`oThe courtroom is a majestic place created in the finest traditions. The
+panelling is solid mahogany as are the furnishings in the room. The ceilings
+are of great height. Two Giants standing upon one another would not reach
+its limit. There is a tall bench for the judge who will rule over all of 
+the proceedings here. And Beyond, the flags which represent all of the
+realms of Exodus are flown. In the center of the colors, a gold seal which
+reads "Regnat Populus". To the right of the bench, there is a half wall,
+which separates the jury from the remainder of the room. The rear of the
+chamber has the seating area for the spectators who are sure to come...
+~
+0 DKN 0
+0
+~
+I 0 D0
+~
+panel~
+1 0 603
+D1
+~
+door~
+1 666 602
+D2
+~
+doors~
+1 0 606
+D3
+~
+cell~
+97 666 666
+S
+#602
+0 0
+~
+~
+~
+0 0 0
+Sequester Room~
+The jury room is rather stark compared to the majesty of the main courtroom.
+Although the materials of construction remain the same, there are no banners
+or flags here. There is a large board for the jurors to write upon, and some
+furnishings which include a large table and chairs. But it is obvious that
+this room isn't built for comfort...it is here for work.
+~
+0 DK 0
+0
+~
+I 0 D3
+~
+door~
+1 0 601
+S
+#603
+0 0
+~
+~
+~
+0 0 0
+Hallway~
+The corridor leading to and from the courtroom is lavish indeed. It seems
+it was created for the elite of the legal profession. While the entire
+building is made of fine materials, this area has added amenities such as
+solid brass hardware and exotic dark marble flooring. The floor is polished
+to a sheen that relects the ensconced lighting that lines the hall. Just
+south is a panel that leads to the courtroom proper, and there are several
+doors to the north.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 604
+D2
+~
+panel~
+1 0 601
+S
+#604
+0 0
+~
+~
+~
+0 0 0
+Hallway~
+This is about the middle of the corridor. A couple of steps to the north
+or south, you see a large door and a sliding panel, respectively. Directly
+west there is a large conference room. To the east, there is a room packed
+full of books and such. This portion of the courts is usually open only to
+barristers and members of the court. Be aware of this.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 605
+D1
+~
+door~
+1 0 612
+D2
+~
+~
+0 0 603
+D3
+~
+door~
+1 0 611
+S
+#605
+0 0
+~
+~
+~
+0 0 0
+Hallway~
+The corridor extends to the south, and to the north is a large wooden door.
+It is, of course, constructed of mahogany, and has a brass plate mounted at 
+eye level. The hall is also panelled with the fine wood, and is in fine
+combination with the dark surface of the polished marble floor. The floor
+reflects the low lighting of the hallway which eminates from shell shaped
+sconces mounted on the walls.
+~
+0 D 0
+0
+~
+I 0 E
+brass~
+`d____________________________
+                  |                            |
+                  |   `kCHAMBERS OF THE JUDGES```d   |
+                  |____________________________|
+~
+D0
+~
+door~
+97 633 631
+D2
+~
+~
+0 0 604
+S
+#606
+0 0
+~
+~
+~
+0 0 0
+Outside the Courtroom Doors~
+At the end of this long marble hallway, there are two huge mahogany doors
+which lead into the Crimson Court of Exodus. If you are coming to watch a
+trial, you may enter and be seated. Be aware that the courtroom is a serious
+place, and disrespect will not be tolerated. If you have been subpeoned by
+the courts, you must wait here to be called in by the baliff. Make yourself
+comfortable, and you may make use of the snack room to the east.
+~
+0 DS 0
+0
+~
+I 0 D0
+~
+doors~
+1 0 601
+D1
+~
+~
+0 0 608
+D2
+~
+~
+0 0 609
+D3
+~
+door~
+97 608 607
+S
+#607
+0 0
+~
+~
+~
+0 0 0
+Vestibule of the Barrister~
+`hThis small room is dedicated to the men and women who are council for the
+defense. These are the only persons allowed here, and unless you legally
+posess an Exodus Bar Exam diploma, you'd best be leaving. The hallway is
+to the east, and to the north, is the holding cell where the barristers may
+meet with their clients. Make `bSURE`` that the hall door is `bCLOSED`` and `bLOCKED``,
+before entering the cell, and lock the cell door behind you. Barristers are
+responsible for clients being held for trial.
+ 
+~
+0 DS 0
+0
+~
+I 0 D0
+~
+cell~
+97 608 666
+D1
+~
+door~
+97 608 606
+S
+#608
+0 0
+~
+~
+~
+0 0 0
+Snack Room~
+The snack room is a small alcove where you may purchase inexpensive foods
+while waiting on the trial. The floors and walls are finished in marble and
+mahogany, as are most of the rooms on this floor. It may seem a bit much
+just for a little vending stand, but it fits... You best not tarry here for
+long if you are waiting to be called as a witness.
+~
+0 DS 0
+0
+~
+I 0 D3
+~
+~
+0 0 606
+S
+#609
+0 0
+~
+~
+~
+0 0 0
+Hallway~
+The middle of the windowless corridor echos with every footstep. The dark
+marble flooring picks up every click of the heels and throws it off the 
+finely crafted mahogany woodwork. There is a large set of double doors to
+the north with seating benches on its flanks. To the south, there is a large
+metal gate which closes of the lift shaft to prevent falls. The sconces on
+the walls shed quite a bit of light and makes the hallway bright.
+~
+0 DS 0
+0
+~
+I 0 D0
+~
+~
+0 0 606
+D2
+~
+~
+0 0 610
+S
+#610
+0 0
+~
+~
+~
+0 0 0
+Third Floor Hallway~
+The top floor of the Courts Building is the most elegant of all. The floors
+are of the finest dark marble, the woodwork in mahogany, and the lighting
+fixtures are of crystal. There was no expense spared in the construction of
+the structure. Discussion in the place is most often done in hushed tones
+even though the soft voices still carry quite far. Off to the north, there
+is a large set of doors, and directly to the south is a metal cage which
+leads to a lift for travel between floors. 
+~
+0 DS 0
+0
+~
+I 0 D0
+~
+~
+0 0 609
+S
+#611
+0 0
+~
+~
+~
+0 0 0
+Conference Room~
+This room, even in splendor, is built for business. The large area is 
+filled in part by a large table that will seat quite a few people. The 
+north and west walls light the space generously during the day, and afford
+a spectacular view of the city lights at night. But most often, the 
+occupants of the place have other things to discuss.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 604
+S
+#612
+0 0
+~
+~
+~
+0 0 0
+Law Library~
+The library has the musty smell that is often associated with old legal books
+and papers. The leather bound volumes are well oiled by use, however, and so
+are the tall back leather chairs meant for the readers. The wise and prudent
+barrister studies the case history and precedent set forth here. There are
+also several publications on the legal proceedure for the Court of Exodus.
+Being farmiliar with the workings of the court will certainly win points with
+the bench...
+ 
+The books here are not to leave the room.
+
+
+~
+0 D 0
+0
+~
+I 0 E
+court~
+The Court of Exodus expects any Barrister who will practice law in the court
+to follow the poceedure set forth in this manual. There will be penalties for
+participants who do not adhere to the following:
+ 
+1) Submittal of a witness list - Prior to the trial, witnesses, if any, will be
+    passed between Barristers with the presiding Judge present. There will be
+    a short length of time for the opposing Barrrister to depose a witness.
+    The defendant may not be deposed.
+ 
+2) Jury Selection - Prior to the trial, a jury of five (5) will be selected.
+    No clan members of the defendant will be permitted on the jury, but the
+    jury will be selected at random. The prosecution may dismiss one (1)
+    juror, while the defense may dismiss two (2). Replacements are random.
+ 
+3) Pre-Trial Motions - These will be heard at this time.
+ 
+4) Opening Arguments - Prosecution will begin and defense follows. Basically,
+    the Court will only wish to hear WHAT will be presented in the case. Some
+    latitude will be given for suppostion...but not much.
+ 
+5) Case for the Prosecution - Presentation of witnesses and evidence with
+    cross-examination of any witnesses.
+ 
+6) Case for the Defense - Presentation of witnesses and evidence with cross-
+    examination of any witnesses.
+ 
+NOTE: The ONLY persons speaking in the court during the presentation of cases
+    will be the BARRISTER, WITNESS, and JUDGE. The opposing barrister may
+    make objections, but the rest of the courtroom will be SILENT.
+ 
+7) Closing Arguments - Prosecution followed by Defense.
+ 
+8) Jury Sequester and Deliberations - court will be recessed.
+ 
+9) Jury Finding and Sentencing - court will remain in session until dismissal.
+~
+E
+common~
+In this volume, some of the more common objections to proceedings can be
+found. They are in no way a complete list, but they are applicable in
+this Court.
+ 
+Badgering a witness - Questioning a witness to harrass or degrade, while not
+      moving toward any possible goal.
+ 
+Leading a witness - Questioning a witness in a way that leads in only ONE
+      possible direction. 
+ 
+Hearsay - Any secondhand knowledge. This is non-admissable. All witness
+      testimony must be in the firsthand.
+ 
+Speculation - No question may be asked for which a witness must draw a
+      conclusion or give opinion. (There will be no "expert witness"
+      testimony in the Courts of Exodus)
+ 
+Relevancy - A barrister may challenge the relation of the questioning of
+      the witness to the matter at hand. 
+ 
+Admissability - A barrister may challenge the allowance into the Court of
+      any piece of evidence or testimony.
+
+Vague or Compound Question - All questions must be asked in a manner which
+      is specific and calls for a single answer. 
+
+Lack of Foundation - A line of questioning must be built in such a fashion            that a question has a basis for being asked. In the same manner, it is
+      not allowable to ask questions that deal with non-admissible evidence.
+~
+E
+penal~
+**Illegal PK**
+1st: Fine + replacement of whatever the victim may have lost.
+2nd: (1) + one week of community service.
+3rd: (1) + Jail for one week.
+4th: Replace loss of victim + Slaying and loss of all gold and equipment.
+5th: (4) + Loss of 50% of levels.
+6th: (5) + Site ban one week. (Of increasing lengths till it's permanent.)
+**Cheating**
+1st: Loss of benefit and deficit in that area + Jail for 48 hours.
+2nd: Loss of all gold and equipment + jail for one week.
+3rd: Loss of all gold and equipment + Public freezing for 2 weeks.
+4th: Deletion of character.
+5th: Permanent siteban.
+**Channel Abuse**
+1st: Loss of abused channel for 24 hours.
+2nd: Loss of all channels for 1 week.
+3rd: Permanent loss of all channels + title kept saying why.
+**Harassment**
+1st: Public apology + fine.
+2nd: Public apology + loss of all channels for 1 week + loss of all gold.
+3rd: Public apology + loss of all gold + public freezing for 1 week.
+4th: (3) + Permanent loss of all channels and title saying why.
+~
+D3
+~
+door~
+1 0 604
+S
+#613
+0 0
+~
+~
+.~
+0 64 0
+The Lift~
+The old cage looks as if may plummet to the bottom of the building at any
+minute.  But, surprisingly, it holds all the weight that is piled into it. 
+The motion of the lift is very erratic, and one may wonder what gives it
+power...  
+~
+0 CDHS 0
+0
+~
+I 0 S
+#614
+0 0
+~
+~
+~
+0 0 0
+Second Floor~
+The second floor of the Courts Building houses the Law School of Exodus. If
+you aren't intent on obtaining a degree in jurisprudence and passing the exam
+that will allow you to practice in the realm, then this place is not for you.
+The registrar of the school is just north, and the lift is back to the south.
+~
+0 CDS 0
+0
+~
+I 0 D0
+~
+~
+0 0 649
+S
+#615
+0 0
+~
+~
+~
+0 0 0
+Main Lobby~
+The main lobby is the crossroads of the Courts Building. People of all races
+and sizes pass one another to attend to business in the building. The common
+factor they all have is that the business is most likely legal in nature,
+although it varies from there. The decor of the building is certainly stunning
+in its materials and workmanship. There is a set of mesh doors directly to
+the south which protect the public from the lift shaft. The main lobby
+continues to the north.
+~
+0 CDS 0
+0
+~
+I 0 D0
+~
+~
+0 0 617
+S
+#616
+0 0
+~
+~
+~
+0 0 0
+The Gaol~
+The first impression of the prison is the assault of the putrid air upon
+the olfactory nerves. The light from the shaft which houses the lift radiates
+into a small circle, but beyond that it is difficult to see. As eyes are
+adjusting to the dim light, the small sounds of the old gaol are heard. The
+faint dripping of water adds to the clammy feel of the air, and low sounds
+from small animals are present. Then the eyes begin to focus, and the way
+north can be seen, but the small room in that direction is blocked by thick
+metal bars. Without a key, it is impassable...
+~
+0 DNS 18
+0
+~
+I 0 E
+sign~
+`bWARNING!       WARNING!       WARNING!``
+ 
+`oThis gaol has a NO VISITORS policy. Any intrusion into this keep will
+not be tolerated. The guards are trained to kill, and will not hesitate
+in the event of an escape attempt. Entry is at your own risk and peril.
+~
+D0
+~
+gate~
+4193 628 619
+S
+#617
+0 0
+~
+~
+~
+0 0 0
+Center of the Main Lobby~
+The lobby of the Courts Building is stunning in its elegance. Hanging from
+a barrel vaulted ceiling, which runs the length of the lobby, is a candlelit
+chandelier. It sheds light on the dark mahogany panelling and woodwork of the
+walls and trim, and reflects from the polished marble floors. This rich decor
+is carried out through most of the building that is visited by the general
+public. There are a few furnishings about the room, some seating areas that
+are decorated with indoor plants imported from more tropical lands, and nooks
+that provide a private place to discuss the business of the courts. The lobby
+runs north and south with the length of the structure.
+~
+0 DS 0
+0
+~
+I 0 E
+kiosk~
+COURTS BUILDING
+ 
+Lower Level: The gaol of Exodus (No Unauthorized Visitors)
+ 
+First Floor: Main Lobby
+             Hall of Barristers
+ 
+Second Floor: Law School of Exodus
+              Admissions / Registrar
+              Bar Exam Testing Room
+ 
+Third Floor: Superior Courtroom
+             Vestibule of the Barristers
+             Law Library
+             Conference Room
+
+
+~
+D0
+~
+~
+0 0 641
+D1
+~
+~
+0 0 643
+D2
+~
+~
+0 0 615
+D3
+~
+~
+0 0 642
+S
+#618
+0 0
+~
+~
+~
+0 0 0
+Antechamber~
+This room is a bit larger than the gated checkpoint which houses guards to
+the south. To the east and west, there are unmarked doors created from large
+timbers and strapped with iron. A smaller corridor runs north, and along it,
+there are many doors which appear to be made entirely of metal. The hallway
+is much darker, and it is difficult to see the entire length from this place
+which is lighted by several wall mounted torches.
+~
+0 DS 18
+0
+~
+I 0 D0
+~
+~
+0 0 620
+D1
+~
+door~
+4161 0 627
+D2
+~
+door~
+4193 628 619
+D3
+~
+door~
+4161 0 621
+S
+#619
+0 0
+~
+~
+~
+0 0 0
+The Guard Room~
+A small gust of fresh air from above momentarily blows away the putrid smell
+of the prison. The stovepipe from a small cookstove leads upward into a small
+hole where the outside air finds its way into the room. The cookstove takes
+the chill off of the people who spend time in this room, and even provide the
+creature comforts of a warm meal or drink. Being one of the prison guards has
+very few benefiets, but it is much better than residing here as one of the
+prisoners... This area has barred gates to the north and south, and the walls
+are chisled from solid bedrock. Escaping from this place is next to impossible
+without some kind of assistance.
+~
+0 DNS 18
+3
+There's too many people in there already!~
+I 0 D0
+~
+door~
+4193 628 618
+D2
+~
+gate~
+4193 628 616
+S
+#620
+0 0
+~
+~
+~
+0 0 0
+Dark Corridor~
+The passage is poorly lit by torches which are hanging upon the walls. The
+flickering illumination gives brief glimpses into the dank cells which are
+closed and locked on both sides of the corridor. From off in the distance,
+there is the sound of dripping water, but it doesn't seem possible to place
+the exact location. Aside from barely audibly moans that occasionally
+eminate from one of the cells, and the squeek of the rodents, the place is
+quiet. But it's the unnerving type of quiet that places butterflies in the 
+pit of your stomach...
+~
+0 DNS 18
+0
+~
+I 0 D0
+~
+~
+0 0 628
+D1
+~
+cell~
+4193 625 633
+D2
+~
+~
+0 0 618
+D3
+~
+cell~
+4193 625 632
+S
+#621
+0 0
+~
+~
+~
+0 0 0
+A Small Passage~
+The passage off of the antechamber is a bit tight. It is also darker than the
+other rooms of the gaol, making it impossible to see the way south. You can
+feel that the tunnel not only narrows, but slopes downward in that direstion.
+The walls are hewn from the bedrock, but they aren't sharp. It's as if they
+have been worn down over time, but it's a wonder what wore them down. The
+door back to the antechamber is a thick and solid wooden door with a small
+barred rectangle at eye level. One might ponder as to its unlocked state...
+~
+0 ANS 18
+4
+That room isn't big enough for another person!~
+I 0 D1
+~
+door~
+4161 0 618
+D2
+~
+~
+0 0 622
+S
+#622
+0 0
+~
+~
+~
+0 0 0
+A Small Passage~
+The small throat of the tunnelway is barely wide enough to allow a large man
+to pass without turning to the side. The small size of the space, along with
+the lack of light, would make fighting difficult. The slope of the floor may
+give some advantage if you meet a foe face to face, but it would be best not
+to have one come at you from the north. It looks as if the adit widens both
+to the north and south, and not a moment too soon...
+~
+0 ADNS 18
+4
+You can only move in single file down this tunnel.~
+I 0 D0
+~
+~
+0 0 621
+D2
+~
+~
+0 0 623
+S
+#623
+0 0
+~
+~
+~
+0 64 0
+The Workings of the Lift~
+The passage turns to the west and opens into a larger cavern. Although
+is darker in the larger space, flashes of light illuminate what appears to
+be a large spoked wheel. The occasional light comes from a small board on
+the wheel. The machinery, it turns out, powers the lift that is used to
+travel between the floors of the building. The force used to turn the wheel
+defies decency...it is moved by the pitiful men being held in this horrid
+place!
+~
+0 ADNS 18
+3
+The tunnel is too small for you to fit...~
+I 0 D0
+~
+~
+0 0 622
+D1
+~
+~
+0 0 624
+S
+#624
+0 0
+~
+~
+~
+0 0 0
+Under the Lift~
+The circular pit of the lift mill is several feet below the grade of the
+other parts of this level. The arms of the wheel, to which the prisoners are
+chained, are about six feet long. Just long enough to give the men enough
+leverage to move the large machine. The entire pit might be fifteen or sixteen
+feet in diameter, with just enough space for a sizable person to stand, back
+against the wall, and stay clear of the wheel arms as they move. The noisy
+grinding of the gears and mechanisms slows to a stop as you enter...
+~
+0 DNS 18
+7
+The wheel pit is too crowded for you to jump down...~
+I 0 D1
+~
+~
+0 0 625
+D3
+~
+~
+0 0 623
+S
+#625
+0 0
+~
+~
+~
+0 64 0
+The Workings of the Lift~
+The passage turns to the west and opens into a larger cavern. Although it
+is darker in the larger space, flashes of light illuminate what appears to
+be a large spoked wheel. The occasional light comes from a small board on
+the wheel. The machinery, it turns out, powers the lift that is used to
+travel between the floors of the building. The force used to turn the wheel
+defies decency...it is moved by the pitiful men being held in this horrid
+place!
+~
+0 ADNS 18
+4
+The tunnel is too small for you to fit...~
+I 0 D0
+~
+~
+0 0 626
+D3
+~
+~
+0 0 624
+S
+#626
+0 0
+~
+~
+~
+0 0 0
+A Small Passage~
+The tunnelway is barely passable for two men. In fact, two men passing one
+another is this tight place is almost impossible. The problem that visitors 
+face, however, is that none of the men that habit the dank underground are
+willing to allow others to pass. Any visitors to this prison may end up as
+permanant residents if they cannot fight their way out. And feeling the 
+rough stone walls of the tunnel, one might realize that overwhelming these
+guards is the only way out...
+~
+0 ADS 18
+4
+You can only move in single file down the tunnel.~
+I 0 D0
+~
+~
+0 0 627
+D2
+~
+~
+0 0 625
+S
+#627
+0 0
+~
+~
+~
+0 0 0
+A Small Passage~
+The small room carved out of the earth leads south into a tunnelway that
+slopes downward. The west entry to the room has a large wooden door that looks
+as if it has been carved from a solid slad of wood. The door has a barred
+rectangle from which a person could look out into the antechamber. The light
+is dim in the gaol to begin with, but this area seems to be completely without
+torches to illuminate the way. Moving south through the tunnel will require
+a light to be held in front of the body, making things very difficult.
+~
+0 ADS 18
+4
+That little room can only hold two people...~
+I 0 D2
+~
+~
+0 0 626
+D3
+~
+door~
+4161 0 618
+S
+#628
+0 0
+~
+~
+~
+0 0 0
+Dark Corridor~
+Quiet footsteps and whispers seem to echo through the halls as stomping and
+shouting. It is difficult to keep from running or hiding, but it is imperative
+that one keeps a cool head. The fewer people that know your whereabouts the
+better. The flickering of the torches flashes shadows that pull hushed gasps
+from the lungs and make the hair rise on the back of the neck. The reason 
+for intruding into the prison had best be worth the effort...
+~
+0 ADNS 18
+0
+~
+I 0 D0
+~
+~
+0 0 629
+D1
+~
+cell~
+4193 625 635
+D2
+~
+~
+0 0 620
+D3
+~
+cell~
+4193 625 634
+S
+#629
+0 0
+~
+~
+~
+0 0 0
+Dark Corridor~
+Towards the middle of the corridor, it becomes quite difficult to discern
+one end of the hall from the other. It would be best if a visitor in this
+part of the gaol did not lose their way. Getting directions mixed up could
+certainly end in tragedy. The unnerving quiet is relentless, and what few
+sounds occur seem to fade and strengthen in volume. It is hard to imagine
+that any of the prison guards could be close by...
+~
+0 ADNS 18
+0
+~
+I 0 D0
+~
+~
+0 0 630
+D1
+~
+cell~
+4193 625 637
+D2
+~
+~
+0 0 628
+D3
+~
+cell~
+4193 625 636
+S
+#630
+0 0
+~
+~
+~
+0 0 0
+Dark Corridor~
+At the far northern end of the hallway, there is another large wood slab door
+with a rectangular viewing portal. Although it is of solid construction, it is
+not of the same unbreakable materials as the cell doors. It is also unlocked,
+which might lead a person to believe that it isn't one of the safest places
+in the prison. Sneaking up to the portal, you can hear movement and sounds
+coming from the other side. It seems to be occupied. There is also a slight
+breeze blowing fresh air from the slot in the door.  It is quite a relief from
+the fetid air that hangs thickly over the prison.
+~
+0 ADNS 18
+0
+~
+I 0 D0
+~
+door~
+1 0 640
+D1
+~
+cell~
+4193 625 639
+D2
+~
+~
+0 0 629
+D3
+~
+cell~
+4193 625 638
+S
+#631
+0 0
+~
+~
+~
+0 0 0
+`aThe Chamber of the Judge``~
+The private room of the presiding Judge is surprisingly sparse for the
+amount of time that must be spent here. There is a large desk which is
+covered with a clutter of papers, and a comfortable looking chair. The
+walls about the room are mostly fronted by bookshelves which rise almost
+to the height of the ceiling. There are a few knick-knacks that top the
+cases. There is also a couch and a few chairs scattered about the room
+for the persons who are brought to the chamber for discussion. You might
+want to wait for an invitation to be seated...
+~
+0 CD 0
+0
+~
+I 0 D2
+~
+door~
+97 0 605
+S
+#632
+0 0
+~
+~
+~
+0 0 0
+Gaol Cell~
+What a wretched place! The poor souls kept in this dungeon are not given
+the treatment one would give an animal. Foul water from above drips down the
+slime covered walls onto a floor which is constantly wet. And on the floor,
+there is a rodent gnawed and lice infested mat made from straw. There are
+unreadable scrawls scratched into the water softened face of the large stones
+which comprise the walls separating the adjoining cells. If those walls could
+speak...
+~
+0 ACDGNT 18
+0
+~
+H10
+I 0 M10
+D1
+~
+door~
+4193 0 620
+S
+#633
+0 0
+~
+~
+~
+0 0 0
+Gaol Cell~
+What a wretched place! The poor souls kept in this dungeon are not given
+the treatment one would give an animal. Foul water from above drips down the
+slime covered walls onto a floor which is constantly wet. And on the floor,
+there is a rodent gnawed and lice infested mat made from straw. There are
+unreadable scrawls scratched into the water softened face of the large stones
+which comprise the walls separating the adjoining cells. If those walls could
+speak...
+~
+0 ACDGNT 18
+0
+~
+H10
+I 0 M10
+D3
+~
+door~
+4193 0 620
+S
+#634
+0 0
+~
+~
+~
+0 0 0
+Gaol Cell~
+What a wretched place! The poor souls kept in this dungeon are not given
+the treatment one would give an animal. Foul water from above drips down the
+slime covered walls onto a floor which is constantly wet. And on the floor,
+there is a rodent gnawed and lice infested mat made from straw. There are
+unreadable scrawls scratched into the water softened face of the large stones
+which comprise the walls separating the adjoining cells. If those walls could
+speak...
+~
+0 ACDGNT 18
+0
+~
+H10
+I 0 M10
+D1
+~
+door~
+4193 0 628
+S
+#635
+0 0
+~
+~
+~
+0 0 0
+Gaol Cell~
+What a wretched place! The poor souls kept in this dungeon are not given
+the treatment one would give an animal. Foul water from above drips down the
+slime covered walls onto a floor which is constantly wet. And on the floor,
+there is a rodent gnawed and lice infested mat made from straw. There are
+unreadable scrawls scratched into the water softened face of the large stones
+which comprise the walls separating the adjoining cells. If those walls could
+speak...
+~
+0 ACDGNT 18
+0
+~
+H10
+I 0 M10
+D3
+~
+door~
+4193 0 628
+S
+#636
+0 0
+~
+~
+~
+0 0 0
+Gaol Cell~
+What a wretched place! The poor souls kept in this dungeon are not given
+the treatment one would give an animal. Foul water from above drips down the
+slime covered walls onto a floor which is constantly wet. And on the floor,
+there is a rodent gnawed and lice infested mat made from straw. There are
+unreadable scrawls scratched into the water softened face of the large stones
+which comprise the walls separating the adjoining cells. If those walls could
+speak...
+~
+0 ACDGNT 18
+0
+~
+H10
+I 0 M10
+D1
+~
+door~
+4193 0 629
+S
+#637
+0 0
+~
+~
+~
+0 0 0
+Gaol Cell~
+What a wretched place! The poor souls kept in this dungeon are not given
+the treatment one would give an animal. Foul water from above drips down the
+slime covered walls onto a floor which is constantly wet. And on the floor,
+there is a rodent gnawed and lice infested mat made from straw. There are
+unreadable scrawls scratched into the water softened face of the large stones
+which comprise the walls separating the adjoining cells. If those walls could
+speak...
+~
+0 ACDGNT 18
+0
+~
+H10
+I 0 M10
+D3
+~
+door~
+4193 0 629
+S
+#638
+0 0
+~
+~
+~
+0 0 0
+Gaol Cell~
+What a wretched place! The poor souls kept in this dungeon are not given
+the treatment one would give an animal. Foul water from above drips down the
+slime covered walls onto a floor which is constantly wet. And on the floor,
+there is a rodent gnawed and lice infested mat made from straw. There are
+unreadable scrawls scratched into the water softened face of the large stones
+which comprise the walls separating the adjoining cells. If those walls could
+speak...
+~
+0 ACDGNT 18
+0
+~
+H10
+I 0 M10
+D1
+~
+door~
+4193 0 630
+D5
+~
+stone~
+1 0 668
+S
+#639
+0 0
+~
+~
+~
+0 0 0
+Gaol Cell~
+What a wretched place! The poor souls kept in this dungeon are not given
+the treatment one would give an animal. Foul water from above drips down the
+slime covered walls onto a floor which is constantly wet. And on the floor,
+there is a rodent gnawed and lice infested mat made from straw. There are
+unreadable scrawls scratched into the water softened face of the large stones
+which comprise the walls separating the adjoining cells. If those walls could
+speak...
+~
+0 DGNT 18
+0
+~
+H10
+I 0 M10
+D3
+~
+door~
+4193 0 630
+S
+#640
+90 200
+~
+~
+~
+0 0 0
+Guard Room~
+Oh My! This is the room where the guards who are not on duty come to sleep!
+The good news is that more often than not, when the guards are here in the 
+room, they're asleep! The noise heard from outside the door was snoring and
+restless sleep. The first instinct is to just slip back out of here, but the
+wonderful fresh air coming from a shaft in the ceiling fills your lungs. 
+After being down here for a few minutes, one can almost forget how pleasant
+the outdoor air can be! Then you notice the size of the covered shapes that
+lie on the metal bunks lining the walls...
+~
+0 ADNS 18
+13
+That room is too full for you to slip in...~
+I 0 D2
+~
+door~
+1 0 630
+S
+#641
+0 0
+~
+~
+~
+0 0 0
+Main Lobby~
+The main lobby is the crossroads of the Courts Building. People of all races
+and sizes pass one another to attend to business in the building. The common
+factor they all have is that the business is most likely legal in nature,
+although it varies from there. The decor of the building is certainly stunning
+in its materials and workmanship. To the north, a set of glass paned doors
+leads to the hall of Barristers, which houses law firms of the realm. The
+main lobby continues on to the south.
+~
+0 DS 0
+0
+~
+I 0 D0
+~
+door~
+1 0 644
+D2
+~
+~
+0 0 617
+S
+#642
+0 0
+~
+~
+~
+0 64 0
+Entrance of the Courts Building~
+The twin sets of double doors all stand wide open to the public. It seems
+that this building is open to all comers, but it may not be so easy for the
+persons who wish to leave...at least the ones who have committed a crime.
+The surrounding in the building are much more regal in their style than the
+other buildings in this part of town. It seems that the designers of this
+structure spared little expense in the construction. Off to the west is
+Old Cobble Road, and the main lobby of the Courts Building is east.
+~
+0 BS 0
+0
+~
+I 0 D1
+~
+~
+0 0 617
+D3
+~
+~
+0 0 4003
+S
+#643
+0 0
+~
+~
+~
+0 0 0
+Entrance of the Courts Building~
+The twin sets of double doors all stand wide open to the public. It seems
+that this building is open to all comers, but it may not be so easy for the
+persons who wish to leave...at least the ones who have committed a crime.
+The surrounding in the building are much more regal in their style than the
+other buildings in this part of town. It seems that the designers of this
+structure spared little expense in the construction. An old cobbled path
+leads south to Gallows Square, and west is the main lobby.
+~
+0 BS 0
+0
+~
+I 0 D2
+~
+~
+0 0 665
+D3
+~
+~
+0 0 617
+S
+#644
+0 0
+~
+~
+~
+0 0 0
+The Hall of Barristers~
+The main floor of the Courts Building is dedicated to the people who have 
+completed the rigorous education and testing that is required to practice law
+in the realms of Exodus. They are the only persons who are allowed to build
+offices along this hall. If a player finds themselves in trouble with the
+law, this is the place to come. There are office doors on either side of the
+hallway which house the various barristers, and signs hang from the ceiling
+with the names of their firms.
+~
+0 DSZ 0
+0
+~
+I 0 D0
+~
+~
+0 0 645
+D2
+~
+door~
+1 0 641
+S
+#645
+0 0
+~
+~
+~
+0 0 0
+The Hall of Barristers~
+The main floor of the Courts Building is dedicated to the people who have 
+completed the rigorous education and testing that is required to practice law
+in the realms of Exodus. They are the only persons who are allowed to build
+offices along this hall. If a player finds themselves in trouble with the
+law, this is the place to come. There are office doors on either side of the
+hallway which house the various barristers, and signs hang from the ceiling
+with the names of their firms.
+~
+0 DSZ 0
+0
+~
+I 0 O none~
+D0
+~
+~
+0 0 646
+D2
+~
+~
+0 0 644
+S
+#646
+0 0
+~
+~
+~
+0 0 0
+The Hall of Barristers~
+The main floor of the Courts Building is dedicated to the people who have 
+completed the rigorous education and testing that is required to practice law
+in the realms of Exodus. They are the only persons who are allowed to build
+offices along this hall. If a player finds themselves in trouble with the
+law, this is the place to come. There are office doors on either side of the
+hallway which house the various barristers, and signs hang from the ceiling
+with the names of their firms.
+~
+0 DS 0
+0
+~
+I 0 D0
+~
+~
+0 0 647
+D2
+~
+~
+0 0 645
+S
+#647
+0 0
+~
+~
+~
+0 0 0
+The Hall of Barristers~
+The main floor of the Courts Building is dedicated to the people who have 
+completed the rigorous education and testing that is required to practice law
+in the realms of Exodus. They are the only persons who are allowed to build
+offices along this hall. If a player finds themselves in trouble with the
+law, this is the place to come. There are office doors on either side of the
+hallway which house the various barristers, and signs hang from the ceiling
+with the names of their firms.
+~
+0 DSZ 0
+0
+~
+I 0 D0
+~
+~
+0 0 648
+D2
+~
+~
+0 0 646
+S
+#648
+0 0
+~
+~
+~
+0 0 0
+The Hall of Barristers~
+The main floor of the Courts Building is dedicated to the people who have 
+completed the rigorous education and testing that is required to practice law
+in the realms of Exodus. They are the only persons who are allowed to build
+offices along this hall. If a player finds themselves in trouble with the
+law, this is the place to come. There are office doors on either side of the
+hallway which house the various barristers, and signs hang from the ceiling
+with the names of their firms.
+~
+0 DSZ 0
+0
+~
+I 0 D2
+~
+~
+0 0 647
+S
+#649
+0 0
+~
+~
+~
+0 0 0
+Registration~
+The corridor leading from the south widens into a room which houses the office
+of the registrar of the school. There are some nice wall hangings and plants
+brighten the windowless room. There are a few pieces of tasteful furniture
+scattered about for waiting students. It seems as if the registrar also acts
+as secretary to the Dean of the school. This school is very small, but it is
+also the most highly regarded.
+~
+0 DKS 0
+0
+~
+I 0 D0
+~
+~
+0 0 650
+D2
+~
+~
+0 0 614
+S
+#650
+0 0
+~
+~
+~
+0 0 0
+Reception Area~
+The Law School has a fine reception area for meeting guests and alumni, but
+it is also where the Dean of the school confers with the students who are
+entering the school. He tries to prepare them for the ardous journey on which
+they are about to embark. The room is comfortable with soft lighting, and it
+is a place for the students to feel at home...because it will seem that way
+until graduation. It is not uncommon to find one of the law students asleep
+on the couch in the middle of the night.
+~
+0 DKS 0
+0
+~
+I 0 D0
+~
+door~
+1 676 651
+D2
+~
+~
+0 0 649
+S
+#651
+0 0
+~
+~
+~
+0 0 0
+Law School of Exodus~
+The halls of the school are elegant without the smallest hint of pomposity.
+The marble floors and finely crafted woodwork reflect the materials of the
+other parts of the building, but there is an atmosphere in the place. It feels
+as if the opulent surroundings beckon the student to work towards the day
+when they might walks these hallways as a barrister. There are glass paned
+doors on either side of the hall, and a solid wood door at the north end.
+~
+0 DKS 0
+0
+~
+I 0 D0
+~
+door~
+0 0 652
+D2
+~
+door~
+0 0 650
+S
+#652
+0 0
+~
+~
+~
+0 0 0
+Law School Hallway~
+The hall is built from all of the materials made to assemble the rest of the
+building, except for the doors which are paned with glass. All of them except
+for the solid door at the halls end. Each of the windowed doors is one of the
+entrances to a classroom. As you visit the rooms, gain the knowledge you will
+need to pass the exam. The solid door at the end of the hall is the exam room.
+The Members of the Judicatory Board of Exodus wish you the best in your study.
+~
+0 DKS 0
+0
+~
+I 0 D0
+~
+~
+0 0 653
+D1
+~
+door~
+1 0 658
+D2
+~
+door~
+0 0 651
+D3
+~
+door~
+1 0 657
+S
+#653
+0 0
+~
+~
+~
+0 0 0
+Law School Hallway~
+The hall is built from all of the materials made to assemble the rest of the
+building, except for the doors which are paned with glass. All of them except
+for the solid door at the halls end. Each of the windowed doors is one of the
+entrances to a classroom. As you visit the rooms, gain the knowledge you will
+need to pass the exam. The solid door at the end of the hall is the exam room.
+The Members of the Judicatory Board of Exodus wish you the best in your study
+~
+0 DKS 0
+0
+~
+I 0 D0
+~
+~
+0 0 654
+D1
+~
+door~
+1 0 660
+D2
+~
+~
+0 0 652
+D3
+~
+door~
+1 0 659
+S
+#654
+0 0
+~
+~
+~
+0 0 0
+Law School Hallway~
+The hall is built from all of the materials made to assemble the rest of the
+building, except for the doors which are paned with glass. All of them except
+for the solid door at the halls end. Each of the windowed doors is one of the
+entrances to a classroom. As you visit the rooms, gain the knowledge you will
+need to pass the exam. The solid door at the end of the hall is the exam room.
+The Members of the Judicatory Board of Exodus wish you the best in your study.
+~
+0 DKS 0
+0
+~
+I 0 D0
+~
+~
+0 0 655
+D1
+~
+door~
+1 0 662
+D2
+~
+~
+0 0 653
+D3
+~
+door~
+1 0 661
+S
+#655
+0 0
+~
+~
+~
+0 0 0
+Law School Hallway~
+The hall is built from all of the materials made to assemble the rest of the
+building, except for the doors which are paned with glass. All of them except
+for the solid door at the halls end. Each of the windowed doors is one of the
+entrances to a classroom. As you visit the rooms, gain the knowledge you will
+need to pass the exam. The solid door at the end of the hall is the exam room.
+The Members of the Judicatory Board of Exodus wish you the best in your study.
+~
+0 DKS 0
+0
+~
+I 0 D0
+~
+door~
+1 0 656
+D2
+~
+~
+0 0 654
+S
+#656
+0 0
+~
+~
+~
+0 0 0
+Exam Room~
+In sharp contrast to he other parts of the lavish building, this room is
+stark, and all business. It is windowless, but well lit. It has furnishings, 
+but nothing that looks comfortable. Once you feel you are ready for the exam
+that will allow you to practice law, contact an immortal on the judiciary
+board to administer your test. Be prepared by purchasing your exam booklet
+and pencil at the reception area. Good Luck!
+~
+0 DKS 0
+0
+~
+I 0 D2
+~
+door~
+1 0 655
+S
+#657
+0 0
+~
+$n has entered the classroom.~
+$n has left the classroom.~
+0 0 0
+Classroom~
+The room is filled with the common furnishings of a place of teaching. There
+is a large desk at the front of the room, and smaller desks and chairs fill
+most of the remainder of the space. The odd feature of the rooms in the Law
+School is the lack of windows. The staff of the college must be trying to
+avoid all outside interference in the learning process. After all, the fine
+instruction received here is not cheap.
+~
+0 DKS 0
+0
+~
+I 0 E
+chalkboard~
+GENERAL LAW OF EXODUS
+ 
+     - Law Categories
+     - Penal code
+     - Other minor law
+~
+E
+reference~
+**Illegal PK**
+1st: Fine + replacement of whatever the victim may have lost.
+2nd: (1) + one week of community service.
+3rd: (1) + Jail for one week.
+4th: Replace loss of victim + Slaying and loss of all gold and equipment.
+5th: (4) + Loss of 50% of levels.
+6th: (5) + Site ban one week. (Of increasing lengths till it's permanent.)
+**Cheating**
+1st: Loss of benefit and deficit in that area + Jail for 48 hours.
+2nd: Loss of all gold and equipment + jail for one week.
+3rd: Loss of all gold and equipment + Public freezing for 2 weeks.
+4th: Deletion of character.
+5th: Permanent siteban.
+**Channel Abuse**
+1st: Loss of abused channel for 24 hours.
+2nd: Loss of all channels for 1 week.
+3rd: Permanent loss of all channels + title kept saying why.
+**Harassment**
+1st: Public apology + fine.
+2nd: Public apology + loss of all channels for 1 week + loss of all gold.
+3rd: Public apology + loss of all gold + public freezing for 1 week.
+4th: (3) + Permanent loss of all channels and title saying why.
+
+
+~
+E
+penal~
+**Illegal PK**
+1st: Fine + replacement of whatever the victim may have lost.
+2nd: (1) + one week of community service.
+3rd: (1) + Jail for one week.
+4th: Replace loss of victim + Slaying and loss of all gold and equipment.
+5th: (4) + Loss of 50% of levels.
+6th: (5) + Site ban one week. (Of increasing lengths till it's permanent.)
+**Cheating**
+1st: Loss of benefit and deficit in that area + Jail for 48 hours.
+2nd: Loss of all gold and equipment + jail for one week.
+3rd: Loss of all gold and equipment + Public freezing for 2 weeks.
+4th: Deletion of character.
+5th: Permanent siteban.
+**Channel Abuse**
+1st: Loss of abused channel for 24 hours.
+2nd: Loss of all channels for 1 week.
+3rd: Permanent loss of all channels + title kept saying why.
+**Harassment**
+1st: Public apology + fine.
+2nd: Public apology + loss of all channels for 1 week + loss of all gold.
+3rd: Public apology + loss of all gold + public freezing for 1 week.
+4th: (3) + Permanent loss of all channels and title saying why.
+~
+D1
+~
+door~
+1 0 652
+S
+#658
+0 0
+~
+$n has entered the classroom.~
+$n has left the classroom.~
+0 0 0
+Classroom~
+The room is filled with the common furnishings of a place of teaching. There
+is a large desk at the front of the room, and smaller desks and chairs fill
+most of the remainder of the space. The odd feature of the rooms in the Law
+School is the lack of windows. The staff of the college must be trying to
+avoid all outside interference in the learning process. After all, the fine
+instruction received here is not cheap.
+~
+0 DKS 0
+0
+~
+I 0 E
+chalkboard~
+The courtroom is a VERY structured environment...here is the order of events:
+ 
+1) Submittal of witness lists      2) Jury selection
+3) Pre trial motions               4) Opening Arguments
+5) Case for the Prosecution        6) Case for the Defense
+7) Closing Arguments               8) Jury Sequester and Deliberations
+9) Jury findings and Sentencing
+ 
+Please note...The ONLY persons speaking in the court are Barristers, Judges, and witnesses. They will speak IN TURN, and as directed by the presiding Judge...
+ 
+~
+D3
+~
+door~
+1 0 652
+S
+#659
+0 0
+~
+$n has entered the classroom.~
+$n has left the classroom.~
+0 0 0
+Classroom~
+The room is filled with the common furnishings of a place of teaching. There
+is a large desk at the front of the room, and smaller desks and chairs fill
+most of the remainder of the space. The odd feature of the rooms in the Law
+School is the lack of windows. The staff of the college must be trying to
+avoid all outside interference in the learning process. After all, the fine
+instruction received here is not cheap.
+~
+0 DKS 0
+0
+~
+I 0 E
+chalkboard~
+BASIC PRE-TRIAL MOTIONS
+ 
+These fall under two basic categories:
+ 
+Suppression
+Discovery
+~
+D1
+~
+door~
+1 0 653
+S
+#660
+0 0
+~
+$n has entered the classroom.~
+$n has left the classroom.~
+0 0 0
+Classroom~
+The room is filled with the common furnishings of a place of teaching. There
+is a large desk at the front of the room, and smaller desks and chairs fill
+most of the remainder of the space. The odd feature of the rooms in the Law
+School is the lack of windows. The staff of the college must be trying to
+avoid all outside interference in the learning process. After all, the fine
+instruction received here is not cheap.
+~
+0 DKS 0
+0
+~
+I 0 E
+chalkboard~
+JURY SELECTION - 101
+ 
+Jury selection is an important part of the Courtroom proceedings!
+Learn the basics!  
+                      1) Dismissal
+                      2) Who can be on a jury
+                      3) What is a deadlock
+ 
+HINT: Read the jury help file first!
+~
+D3
+~
+door~
+1 0 653
+S
+#661
+0 0
+~
+$n has entered the classroom.~
+$n has left the classroom.~
+0 0 0
+Classroom~
+The room is filled with the common furnishings of a place of teaching. There
+is a large desk at the front of the room, and smaller desks and chairs fill
+most of the remainder of the space. The odd feature of the rooms in the Law
+School is the lack of windows. The staff of the college must be trying to
+avoid all outside interference in the learning process. After all, the fine
+instruction received here is not cheap.
+~
+0 DKS 0
+0
+~
+I 0 E
+blackboard~
+These are the most common courtroom objections:
+   Badgering a witness         Hearsay
+   Leading a witness           Speculation
+   Vague or Compound question  Admissibility
+   Relevancy                   
+ 
+You had BETTER know these...for your clients sake!
+~
+E
+chalkboard~
+These are the most common courtroom objections:
+   Badgering a witness         Hearsay
+   Leading a witness           Speculation
+   Vague or Compound question  Admissibility
+   Lack of Foundation          Relevancy                   
+ 
+You had BETTER know these...for your clients sake!
+~
+D1
+~
+door~
+1 0 654
+S
+#662
+0 0
+~
+$n has entered the classroom.~
+$n has left the classroom.~
+0 0 0
+Classroom~
+The room is filled with the common furnishings of a place of teaching. There
+is a large desk at the front of the room, and smaller desks and chairs fill
+most of the remainder of the space. The odd feature of the rooms in the Law
+School is the lack of windows. The staff of the college must be trying to
+avoid all outside interference in the learning process. After all, the fine
+instruction received here is not cheap.
+~
+0 DKS 0
+0
+~
+I 0 E
+chalkboard~
+BARRISTER RESPONSIBILITY
+                     ------------------------
+ 
+Topics for the class:
+     1) Law and the Barrister
+     2) Client confidentiality
+     3) Use of Barrister skills
+ 
+This may be the MOST IMPORTANT class you take at this school!
+~
+D3
+~
+door~
+1 0 654
+S
+#665
+0 0
+~
+~
+~
+0 0 0
+Pathway to the Courts Building~
+An old cobbled pathway has been built between the Gallows Square and the
+Courts Building. It isn't very wide, but it would seem that, if needed, three
+men could walk abreast. It might make you wonder just how many people have
+been dragged from the building out to the square with a guard on each arm.
+The building is quite a bit longer north and south than east and west, and
+rises three stories. It is made from quarried stone, and is windowed on the
+first and third floors.
+~
+0 S 1
+0
+~
+I B D0
+~
+~
+0 0 643
+D2
+~
+~
+0 0 4005
+S
+#666
+0 0
+~
+~
+~
+0 0 0
+`iTHE HOLDING CELL``~
+`oThis room has none of the fine wood finish of the rest of the building. It
+is the same hewn stone that makes up the exterior face of the building. The
+only furnishings are long benches which line the west and north walls, and a 
+table and chairs in the center of the room. These affects are all made of
+metal, which is not in keeping with the decor, but in this circumstance it
+is quite understandable. If you find yourself being held here, the chances
+are that your on your way to court...be on your best behavior.
+
+
+~
+0 DKNT 0
+0
+~
+H50
+I 0 M50
+D1
+~
+door~
+97 0 601
+D2
+~
+door~
+97 608 607
+S
+#667
+0 0
+~
+~
+~
+0 0 0
+End of the Pipe~
+Glub! Oh no...the end of the pipe is submurged! Well, there is no turning
+back at this point. You best grab the biggest lungfull of foul air that you
+can manage, and push your way out. At this point, you wonder whether the
+escapees before you made it to safety, or whether your bones will become a
+part of a long testament to the futile efforts of escape from the gaol.
+~
+0 ADNc 11
+1
+The pipe ahead is occupied.~
+H25
+I 0 M25
+D1
+~
+~
+0 0 678
+D3
+~
+~
+0 0 4019
+S
+#668
+0 0
+~
+~
+~
+0 0 0
+An Escape Tunnel~
+Looks like someone has been busy! There are hand dug tunnels under the 
+floor of one of the cells. It doesn't seem that there has been any work
+done recently, and it may be that it's due to the lack of a cellmate. Once
+down in the tunnel, it is impossible to climb back up alone. It would take
+some kind of rope or a strong hand to get back to the cell. The larger
+tunnel runs to the north and south, and a side tunnel runs off to the west.
+~
+0 ADNc 0
+4
+The tunnel is too small for another person.~
+H45
+I 0 M50
+D0
+~
+~
+0 0 669
+D2
+~
+~
+0 0 670
+D3
+~
+~
+0 0 671
+S
+#669
+0 0
+~
+~
+~
+0 0 0
+An Escape Tunnel~
+the hastily built tunnel is surprisingly passable. You would think that the
+speed in which the prisoners were working would lead to a cramped space,
+but it looks as if the loose dirt permitted some ease in digging. The soil
+has fallen quite a bit from the roof of the adit, but it looks like it should
+hold for the time being. Waiting around in this passage, however, would not
+be advised. The passage opens up and tees to the north.
+~
+0 ADNc 0
+4
+The tunnel is too small for another person.~
+H45
+I 0 M50
+D0
+~
+~
+0 0 673
+D2
+~
+~
+0 0 668
+S
+#670
+0 0
+~
+~
+~
+0 0 0
+An Escape Tunnel~
+the hastily built tunnel is surprisingly passable. You would think that the
+speed in which the prisoners were working would lead to a cramped space,
+but it looks as if the loose dirt permitted some ease in digging. The soil
+has fallen quite a bit from the roof of the adit, but it looks like it should
+hold for the time being. Waiting around in this passage, however, would not
+be advised.
+~
+0 ADNc 0
+4
+The tunnel is too small for another person.~
+H45
+I 0 M50
+D0
+~
+~
+0 0 668
+D2
+~
+~
+0 0 679
+S
+#671
+0 0
+~
+~
+~
+0 0 0
+An Escape Tunnel~
+The western adit of the secretly built tunnel system is a little slick. It
+looks as if some water seeps through the walls and floor. Getting dirty
+and covered with cobwebs is part of the other tunnel, and it looks as if
+getting muddy is part of this one. The tunnel slopes downward a bit, so you
+may want to watch your step...
+~
+0 ADNc 0
+4
+The tunnel is too small for another person.~
+H45
+I 0 M50
+D1
+~
+~
+0 0 668
+D3
+~
+~
+0 0 672
+S
+#672
+0 0
+~
+~
+~
+0 0 0
+Flooded Tunnel~
+Splash!  Well, the slick mud turned to muddy water, and it's another dead
+end.  The creators of the tunnel system certainly ran into troubles.  It
+looks as if the excavation work had to end due to the proximity ofthe river
+to the west of the gaol.  It must be that they hoped to find daylight at the
+edge of the river bank, but instead found the river.  You look to see if
+there is a shaft leading upward, but alas, there is none.  The fear of a
+cave-in of the wet earth must have been too great.  
+~
+0 ADN 0
+0
+~
+H40
+I 0 M50
+D1
+~
+~
+0 0 671
+S
+#673
+0 0
+~
+~
+~
+0 0 0
+An Old Passage~
+The passage built by the prisoners has punched through to what looks like
+an old utility tunnel. There are places on the walls where torches may have
+been lodges, and a few long forgotten tools rust on the floor. The walls
+have been notched in a manner that allows for old clay piping to be lain
+with the length of the passage. In many places the wall has fallen, covering
+the pipe with the reddish brown dirt, but it looks like the pipe is intact.
+By the fall of the pipe, it isn't difficult to imagine what this pipe did,
+or may still, carry to the river.
+~
+0 ADNc 0
+4
+The tunnel is too small for another person.~
+H45
+I 0 M50
+D1
+~
+~
+0 0 674
+D2
+~
+~
+0 0 669
+D3
+~
+~
+0 0 675
+S
+#674
+0 0
+~
+~
+~
+0 0 0
+An Old Passage~
+The old utility tunnel runs roughly in an east and west direction. It looks
+like no one has been here in quite some time. The place is covered with all
+types of cobwebs and the last people here left some cloth items that are
+rotted to almost nothing. The way to the east is blocked by a cave-in which
+may explain why there has been no activity. The large pipe that runs with
+the passage seems intact as far as you can see. Although there is not a foul
+smell in the air, it is certainly quite stale. 
+~
+0 ADNc 0
+4
+The tunnel is too small for another person.~
+H45
+I 0 M50
+D3
+~
+~
+0 0 673
+S
+#675
+0 0
+~
+~
+~
+0 0 0
+An Old Passage~
+The old utility tunnel runs roughly in an east and west direction. It looks
+like no one has been here in quite some time. The place is covered with all
+types of cobwebs and the last people here left some cloth items that are
+rotted to almost nothing. The pipe that runs along the tunnel has been been 
+broken by someone. It is the top that has been cracked and broken in, so no
+effluent runs out. But, it is easy to tell by the smell, this is the pipe
+that carries waste away from the building. It looks large enough in diameter
+to fit you, and it looks like the only way out...
+~
+0 ADNc 0
+4
+The tunnel is too small for another person.~
+H45
+I 0 M50
+D1
+~
+~
+0 0 673
+S
+#677
+0 0
+~
+~
+~
+0 0 0
+In the Old Sewer Pipe~
+Phew! As you cram your way down the disgusting pipe you no longer wonder
+about the cost of freedom. Right now, its about the cost of the lunch you
+are trying to hold down. The stench is horrific, but the worst part is not 
+being able to see the end of the pipe. By the fall, you know your heading
+in the right direction...but if there is no way out, there is also no way
+back.
+~
+0 ACDN 0
+2
+That pipe isn't big enough!~
+H25
+I 0 M25
+D3
+~
+~
+0 0 678
+S
+#678
+0 0
+~
+~
+~
+0 0 0
+In the Old Sewer Pipe~
+Although the muck in the pipe makes sliding along easy, you wonder if the
+pipe contains enough air for you to make it to the end. You forget just how
+foul smelling the pipe has become, and gasp for the rancid air as if it were
+a fresh spring morning. You might be able to slip back a bit...but you would
+never make it back out of the pipe. Your only hope is to press on toward
+what ominously sounds like rushing water.
+~
+0 ACDN 0
+1
+That pipe isn't big enough!~
+H25
+I 0 M25
+D1
+~
+~
+0 0 677
+D3
+~
+~
+0 0 667
+S
+#679
+0 0
+~
+~
+~
+0 0 0
+Dead End~
+The south portion of the tunnel ends here, and it is easy to see the reason.
+It seems the tunnelers struck a large boulder which made this direction
+impassable. There are marks around the edges of the stone made by the futile
+efforts to move the stone. There is only one option, return the same way as
+you entered, just as the people before you must have done.
+~
+0 ADNc 0
+3
+The tunnel is too small for you to fit...~
+H45
+I 0 M50
+D0
+~
+~
+0 0 670
+S
+#0
+
+#RESETS
+D 0  601   1    2	* `iThe Crimson Courtroom`` [east]
+D 0  602   3    2	* Sequester Room [west]
+D 0  601   3    2	* `iThe Crimson Courtroom`` [west]
+D 0  666   1    2	* `iTHE HOLDING CELL`` [east]
+D 0  601   2    1	* `iThe Crimson Courtroom`` [south]
+D 0  606   0    1	* Outside the Courtroom Doors [north]
+D 0  601   0    1	* `iThe Crimson Courtroom`` [north]
+D 0  603   2    1	* Hallway [south]
+M 0  601   1  601  1	* Red the bailiff
+G 0  666 -1		* Bailiff's key to Red the bailiff
+D 0  607   0    2	* Vestibule of the Barrister [north]
+D 0  666   2    2	* `iTHE HOLDING CELL`` [south]
+O 0 607   0 607 -1	* A comfortable couch at Vestibule of the Barrister
+O 0 665   0 666 -1	* A cold metal bench at `iTHE HOLDING CELL``
+O 0 664   0 666 -1	* A cold metal bench at `iTHE HOLDING CELL``
+O 0 663   0 666 -1	* A small metal table at `iTHE HOLDING CELL``
+D 0  606   3    2	* Outside the Courtroom Doors [west]
+D 0  607   1    2	* Vestibule of the Barrister [east]
+O 0 616   0 613 -1	* The metal cage at The Lift
+O 0 620   0 613 -1	* A copper lever at The Lift
+O 0 619   0 613 -1	* A copper lever at The Lift
+O 0 618   0 613 -1	* A copper lever at The Lift
+O 0 617   0 613 -1	* A copper lever at The Lift
+O 0 621   0 610 -1	* A copper lever at Third Floor Hallway
+O 0 622   0 614 -1	* A copper lever at Second Floor
+O 0 623   0 615 -1	* A copper lever at Main Lobby
+O 0 624   0 616 -1	* A copper lever at The Gaol
+O 0 601   0 601 -1	* A long bench at `iThe Crimson Courtroom``
+O 0 602   0 601 -1	* The jury box at `iThe Crimson Courtroom``
+O 0 603   0 601 -1	* The witness stand at `iThe Crimson Courtroom``
+O 0 604   0 601 -1	* The `ajudge's bench`` at `iThe Crimson Courtroom``
+D 0  618   3    1	* Antechamber [west]
+D 0  619   0    2	* The Guard Room [north]
+D 0  618   2    2	* Antechamber [south]
+D 0  618   1    1	* Antechamber [east]
+D 0  627   3    1	* A Small Passage [west]
+M 0  608   1  608  1	* Spink the vendor
+G 0  609 -1		* A large meat pie to Spink the vendor
+O 0 610   0 608 -1	* A small white marble fountain at Snack Room
+D 0  616   0    2	* The Gaol [north]
+D 0  619   2    2	* The Guard Room [south]
+D 0  628   3    2	* Dark Corridor [west]
+D 0  634   1    2	* Gaol Cell [east]
+D 0  628   1    2	* Dark Corridor [east]
+D 0  635   3    2	* Gaol Cell [west]
+D 0  629   3    2	* Dark Corridor [west]
+D 0  636   1    2	* Gaol Cell [east]
+D 0  629   1    2	* Dark Corridor [east]
+D 0  637   3    2	* Gaol Cell [west]
+D 0  630   3    2	* Dark Corridor [west]
+D 0  638   1    2	* Gaol Cell [east]
+D 0  630   1    2	* Dark Corridor [east]
+D 0  639   3    2	* Gaol Cell [west]
+D 0  620   3    2	* Dark Corridor [west]
+D 0  632   1    2	* Gaol Cell [east]
+D 0  620   1    2	* Dark Corridor [east]
+D 0  633   3    2	* Gaol Cell [west]
+M 0  624   1  624  1	* The liftmaster
+E 0  626   -1   16	* item to The liftmaster
+D 0  640   2    1	* Guard Room [south]
+D 0  630   0    1	* Dark Corridor [north]
+M 0  623   6  621  1	* A lift guard
+E 0  668   -1    6	* item to A lift guard
+E 0  667   -1    8	* item to A lift guard
+E 0  669   -1   16	* item to A lift guard
+E 0  670   -1    5	* item to A lift guard
+E 0  671   -1   18	* item to A lift guard
+M 0  623   6  622  1	* A lift guard
+E 0  667   -1    8	* item to A lift guard
+E 0  668   -1    6	* item to A lift guard
+E 0  669   -1   16	* item to A lift guard
+E 0  670   -1    5	* item to A lift guard
+E 0  671   -1   18	* item to A lift guard
+M 0  623   6  623  1	* A lift guard
+E 0  667   -1    8	* item to A lift guard
+E 0  668   -1    6	* item to A lift guard
+E 0  669   -1   16	* item to A lift guard
+E 0  670   -1    5	* item to A lift guard
+E 0  671   -1   18	* item to A lift guard
+M 0  623   6  625  1	* A lift guard
+E 0  667   -1    8	* item to A lift guard
+E 0  668   -1    6	* item to A lift guard
+E 0  669   -1   17	* item to A lift guard
+E 0  670   -1    5	* item to A lift guard
+E 0  671   -1   18	* item to A lift guard
+M 0  623   6  626  1	* A lift guard
+E 0  667   -1    8	* item to A lift guard
+E 0  668   -1    6	* item to A lift guard
+E 0  669   -1   16	* item to A lift guard
+E 0  670   -1    5	* item to A lift guard
+E 0  671   -1   18	* item to A lift guard
+M 0  623   6  627  1	* A lift guard
+E 0  667   -1    8	* item to A lift guard
+E 0  668   -1    6	* item to A lift guard
+E 0  669   -1   16	* item to A lift guard
+E 0  670   -1    5	* item to A lift guard
+E 0  671   -1   18	* item to A lift guard
+M 0  625   9  640  9	* A gaol guard
+E 0  668   -1    6	* item to A gaol guard
+E 0  667   -1    8	* item to A gaol guard
+E 0  669   -1   16	* item to A gaol guard
+E 0  670   -1    5	* item to A gaol guard
+E 0  671   -1   18	* item to A gaol guard
+M 0  626   4  632  1	* A prisoner
+M 0  626   4  634  1	* A prisoner
+M 0  626   4  637  1	* A prisoner
+M 0  626   4  638  1	* A prisoner
+D 0  644   2    1	* The Hall of Barristers [south]
+D 0  641   0    1	* Main Lobby [north]
+D 0  650   0    2	* Reception Area [north]
+D 0  657   1    1	* Classroom [east]
+D 0  652   3    1	* Law School Hallway [west]
+M 0  616   1  616  1	* The gate guard
+E 0  628   -1   18	* item to The gate guard
+D 0  655   0    1	* Law School Hallway [north]
+D 0  656   2    1	* Exam Room [south]
+D 0  654   3    1	* Law School Hallway [west]
+D 0  661   1    1	* Classroom [east]
+D 0  654   1    1	* Law School Hallway [east]
+D 0  662   3    1	* Classroom [west]
+D 0  653   3    1	* Law School Hallway [west]
+D 0  659   1    1	* Classroom [east]
+D 0  653   1    1	* Law School Hallway [east]
+D 0  660   3    1	* Classroom [west]
+D 0  652   1    1	* Law School Hallway [east]
+D 0  658   3    1	* Classroom [west]
+O 0 675   0 657 -1	* The student chair at Classroom
+O 0 674   0 657 -1	* The professors seat at Classroom
+O 0 673   0 657 -1	* The professors desk at Classroom
+O 0 672   0 657 -1	* Chalkboard at Classroom
+M 0  657   1  657  1	* The professor
+O 0 675   0 658 -1	* The student chair at Classroom
+O 0 674   0 658 -1	* The professors seat at Classroom
+O 0 673   0 658 -1	* The professors desk at Classroom
+O 0 672   0 658 -1	* Chalkboard at Classroom
+M 0  658   1  658  1	* The professor
+O 0 675   0 660 -1	* The student chair at Classroom
+O 0 674   0 660 -1	* The professors seat at Classroom
+O 0 673   0 660 -1	* The professors desk at Classroom
+O 0 672   0 660 -1	* Chalkboard at Classroom
+M 0  660   1  660  1	* The professor
+O 0 675   0 659 -1	* The student chair at Classroom
+O 0 674   0 659 -1	* The professors seat at Classroom
+O 0 673   0 659 -1	* The professors desk at Classroom
+O 0 672   0 659 -1	* Chalkboard at Classroom
+M 0  659   1  659  1	* The professor
+O 0 675   0 662 -1	* The student chair at Classroom
+O 0 674   0 662 -1	* The professors seat at Classroom
+O 0 673   0 662 -1	* The professors desk at Classroom
+O 0 672   0 662 -1	* Chalkboard at Classroom
+M 0  662   1  662  1	* The professor
+O 0 675   0 661 -1	* The student chair at Classroom
+O 0 674   0 661 -1	* The professors seat at Classroom
+O 0 673   0 661 -1	* The professors desk at Classroom
+O 0 672   0 661 -1	* Chalkboard at Classroom
+M 0  661   1  661  1	* The professor
+M 0  663   1  649  1	* The registrar
+G 0  676 -1		* Law school registration to The registrar
+G 0  677 -1		* A blue composition book to The registrar
+G 0  678 -1		* A lead pencil to The registrar
+O 0 610   0 650 -1	* A small white marble fountain at Reception Area
+O 0 607   0 650 -1	* A comfortable couch at Reception Area
+M 0  664   1  650  1	* The dean of exodus law school
+D 0  638   5    1	* Gaol Cell [down]
+O 0 611   0 612 -1	* The exodus penal code at Law Library
+O 0 612   0 612 -1	* A book of court procedure at Law Library
+O 0 613   0 612 -1	* A book of common objections at Law Library
+O 0 611   0 657 -1	* The exodus penal code at Classroom
+O 0 680   0 617 -1	* A kiosk at Center of the Main Lobby
+O 0 681   0 616 -1	* (no short description) at The Gaol
+O 0 679   0 675 -1	* The old sewer pipe seems full... at An Old Passage
+M 0  627   1  624  1	* A prisoner
+D 0  605   0    2	* Hallway [north]
+D 0  631   2    2	* `aThe Chamber of the Judge`` [south]
+D 0  621   1    1	* A Small Passage [east]
+O 0 607   0 631 -1	* A comfortable couch at `aThe Chamber of the Judge``
+O 0 682   0 656 -1	* The oath at Exam Room
+M 0  619   1  619  1	* The gaol warden
+E 0  627   -1   16	* item to The gaol warden
+E 0  625   -1   18	* item to The gaol warden
+S
+
+#SHOPS
+608  0 19  0  0  0 	100 100 	0 23	* Spink the vendor
+663  0 31 40 41  0 	100 100 	7 20	* The registrar
+0
+
+#SPECIALS
+S
+
+#OT
+#633
+teddy~
+$whenopened~
+8192
+68
+$name pecho `hThe room begins to swirl...``~
+100
+2
+trans $name 9001~
+100
+0
+trans $name sallana~
+100
+30
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

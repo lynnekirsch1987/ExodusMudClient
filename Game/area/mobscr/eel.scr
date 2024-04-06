@@ -1,0 +1,19 @@
+* File: eel.scr
+* Mob: electric eel(5337)
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 3
+mfunc %cmb-from% %name% name
+if (%rndnum% == 0)
+   cast 'channel electricity' %name%
+   halt once~
+Sc
+if (%rndnum% == 1)
+   cast 'electrical charge' %name%
+   halt once~
+End
+
+#END
+

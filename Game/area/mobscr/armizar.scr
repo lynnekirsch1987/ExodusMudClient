@@ -1,0 +1,29 @@
+* File: armizar.scr
+* Mob: Armizar(11389)
+
+#TRIGGER eyutlk
+Type 8
+Sc
+emote glances over his shoulder, checking on his lord.
+halt once~
+End
+
+#TRIGGER spiff
+Type 3
+Sc
+wfunc %camel% random 0 10
+if (%camel% == 9)
+signal 11366 lkeyu
+halt once~
+Sc
+if (%camel% == 2)
+emote turns his head sharply, looking for intruders.
+halt once~
+Sc
+if (%camel% == 6)
+emote glances slowly over to the corner of the room, detecting a presence.
+growl
+halt once~
+End
+
+#END

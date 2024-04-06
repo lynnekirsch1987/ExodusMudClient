@@ -1,0 +1,42 @@
+* ividian tiger 
+* mob vnum 4219
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %name% name
+   pecho %name% A magnificent feline creature springs from its bed of leaves and aims for your throat!
+   halt once~
+End
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 4
+if (%rndnum% == 0)
+   smote The massive haunches of an Ividian tiger tense while anticipating your next move.
+   halt once~
+Sc
+if (%rndnum% == 1)
+   emote leaps forward and slashes at you with its razor sharp claws.
+   halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+   emote emits a dying roar so faint, you can only feel the rumbling around you.
+   halt once~
+End
+#END
+
+
+
+
+
+
+
+
+
+
+

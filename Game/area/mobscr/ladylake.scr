@@ -1,0 +1,12 @@
+* File: ladylake.scr
+* Mob: Lady of the Lake(10354)
+
+#TRIGGER enter
+Type 10
+Sc 
+ say Hola.  Welcome to Unicorn Point.  Are you in need of some healing?
+ halt once~
+End
+
+#END
+

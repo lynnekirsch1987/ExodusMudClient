@@ -1,0 +1,9341 @@
+#AREA
+ 6~
+ebondown.are~
+The town of Ebon Downs~
+{20 50} Exodus  The town of Ebon Downs~
+~
+20361 20486
+13 0 4000
+0 0
+ragnar~
+#MOBILES
+#20362
+villager sleepy~
+a sleepy villager~
+A sleepy looking villager is here, lounging about.
+~
+This dirtily clad man looks and smells like he could use a bath.  His
+droopy eyes hang underneath his bushy eyebrows, giving him an almost obscene
+appearance.  
+~
+human~
+0 0 0 0
+AGHT 0 100 20362
+22 22 6d40+320 2d10+100 4d5+10 slash
+0 0 0 999 6
+0 -1 EFNU 0 0 0
+stand stand male 94
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+sleepy.scr~
+#20363
+ugly villager~
+an ugly villager~
+An ugly villager is here, running to the market.
+~
+This man is terribly ugly and dirty!  He rushes to the market in the
+thought that what he has to accomplish today is actually important.  
+~
+human~
+0 0 0 0
+ABHNT 0 100 20363
+21 21 5d40+260 1d10+100 4d5+9 slash
+1 1 1 999 5
+0 -1 EFNU 0 0 0
+stand stand male 73
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20364
+swarthy fisherman man~
+A swarthy fisherman~
+A burly fisherman stands here, waiting to unload his ship.
+~
+Before you stands a large and very hairy man that waits to unload his
+boat of the wares that he has caught during the day.  He eyes you
+suspiciously, then returns to work.  
+~
+human~
+0 0 0 0
+ABGHNTc 0 100 20364
+23 23 10d40+310 2d10+100 4d5+12 pound
+-3 -3 -3 999 0
+0 -1 EFNU 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20365
+boy small~
+A small boy~
+A small boy stands here, hoping to learn some of the tricks of the trade.
+~
+He is a small sandy haired youth with the exuberance that only children
+seem to possess.  He hangs around the pier so he can gain some glimpse of
+what all the grown up men are doing.  
+~
+human~
+0 0 0 0
+AGH 0 100 20365
+14 14 5d30+175 3d10+100 2d5+7 pierce
+1 1 1 999 7
+0 -1 EFNU 0 0 0
+stand stand male 15
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20366
+guardian canthi man~
+A guardian of the Canthi Seers~
+A guardian of the Sea Folk stands here, guarding the ship.
+~
+This man does not even blink when you look at him, he is a fearsome
+looking man that is not ashamed by his naked condition.  He stands right in
+the way of the ramp leading on board the ship, so you'll have to get by him
+to do anything.  
+~
+canthi~
+0 0 0 0
+ABGNTc DHVe 500 20366
+32 32 10d70+754 3d10+100 5d7+20 slap
+-5 -5 -5 999 3
+0 -1 EFHNU R H I
+stand stand male 940
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20367
+villager surprised~
+a surprised villager~
+A villager stands here, surprised by your intrusion.
+~
+The villager blinks in surprise as you enter his home?  What the hell are
+you doing in here, he asks?  You almost feel bad about the incident until
+you realize that this scum is trying to steal gold from your purse!  
+~
+human~
+0 0 0 0
+AGHMN 0 100 20367
+23 23 6d42+298 3d10+100 4d5+12 pound
+0 0 0 999 6
+0 -1 EFNU 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20368
+small child~
+a small child~
+A small child runs about here, needing a bath.
+~
+He's just a small child looking for something to do, no more, no less.  
+~
+human~
+0 0 0 0
+AGH 0 100 0
+9 9 3d22+100 3d10+100 2d5+3 pierce
+8 8 8 999 9
+0 -1 EFNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20369
+black smith burly~
+a burly blacksmith~
+A burly blacksmith stands here, pounding at his forge.
+~
+This man is covered in sweat from head to toe.  His arms ripple with
+muscles that can only be made from hours and hours of toil and the anvil. 
+He blinks up at you with his bushy eyebrows and scowls only slightly, wipes
+the sweat from his brow, and continues back to work.  
+~
+human~
+0 0 0 0
+ABGNT 0 0 0
+43 43 10d80+780 2d10+100 5d8+20 pound
+-13 -12 -13 999 0
+0 -1 EFNU 0 H 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20370
+man water wheel~
+a waterwheel worker~
+A man is here, tending to the waterwheel.
+~
+A man that tends to the daily ministrations of the water wheel, his dark
+brown hair is wet and matted from the constant mist that pervades the room. 
+~
+human~
+0 0 0 0
+ABGNT 0 100 20370
+38 38 10d70+650 3d10+100 6d4+16 pound
+-3 -3 -3 999 0
+0 -1 EFNU 0 0 0
+stand stand male 840
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20371
+deckhand canthi~
+a Sea Folk deckhand~
+A Sea Folk deckhand is going about his duties here.
+~
+This man is naked from the waist up, his muscles rippling as he goes
+about his duties.  He carries a serious demeanor with him, and looks only
+slightly surprised at your intrusion onto the ship.  
+~
+canthi~
+0 0 0 0
+ABGN be 100 20371
+40 40 10d100+1302 10d40+340 5d10+22 pound
+-10 -10 -10 999 0
+0 -1 EFNUW R H I
+stand stand male 500
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20372
+deckhand canthi~
+a Sea Folk deckhand~
+A female deck hand is here, naked from the waist up!
+~
+Your eyes keep tracking down to her breasts as you stare at this
+wonderfully endowed deck hand.  As you try to stuff your tongue back into
+your mouth, the deck hand moves away, and goes about her duties.  
+~
+canthi~
+0 0 0 0
+ABGN be 100 20371
+39 39 10d130+1420 10d30+345 5d8+19 slash
+-10 -10 -10 999 0
+0 -1 EFNU R H I
+stand stand female 40
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20373
+beggar filthy man naheed~
+a filthy beggar~
+A filthy beggar is here, wallowing in his own feces.
+~
+This man has reached the very pits of human existence.  Naheed is so filthy
+that the dirt is caked upon his skin in sheets, much like the bark of a
+tree.  He is so malnourished that he does not even have the strength to lift
+himself out of the feces that he lays in.  In all, he is a pathetic sight,
+and you long to both help him, and leave his disgusting presence.  
+~
+human~
+0 0 0 0
+ABH I -640 0
+25 25 6d50+201 9d10+100 3d5+8 pierce
+4 4 4 999 7
+0 -1 EFNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20374
+seth bartender~
+Seth the Bartender~
+Seth, the owner of the Salty Pork Rind, serves drinks here.
+~
+The man who stands before you has spent too long behind the bar, and with
+his treasured bottles of ale and spirits.  His gut hangs over his dirt caked
+waist line like a snowbank ready to avalanche.  He leers at you and asks you
+what you'll be drinking.  
+~
+human~
+0 0 0 0
+AB DF 0 0
+50 50 30d30+2059 4d50+300 10d5+45 none
+-10 -10 -10 999 -4
+0 -1 CEFIKN ABCO 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20375
+receptionist~
+a receptionist~
+A disheveled receptionist sits here, taking down guest's names.
+~
+Before you stands a receptionist that looks like she has had too much
+work to do over the last few days.  Her hair is in complete disarray and her
+clothes are a complete mess.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+40 40 30d40+1450 30d4+203 5d20+10 slap
+-15 -15 -15 999 -3
+0 -1 FIK 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20376
+clerk check~
+a check in clerk~
+A check in clerk stands behind the counter here.
+~
+~
+human~
+0 0 0 0
+ABN DF 0 0
+50 50 10d200+1609 10d30+500 7d5+38 punch
+-10 -10 -10 999 -4
+0 -1 FK ABC 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20377
+villager lost~
+A lost villager~
+A villager is here, lost and quite disturbed.
+~
+This man is quite a pathetic sight indeed, he clutches his head in
+frustration as he struggles to overcome his drunkeness and find his way
+home!  
+~
+human~
+0 0 0 0
+AGH P 0 0
+26 26 6d64+230 1d10+100 2d7+10 beating
+-3 -3 -3 999 3
+0 -1 FK 0 0 0
+stand stand male 40
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20378
+squatter~
+a squatter~
+A pathetic squatter is here, trying to eke out an existence.
+~
+Before you sits a filthy squatter, a life long resident of the pits of
+Ebon Downs.  He is an unkempt man, and looks as if the last vestiges of
+self esteem left his body long ago.  
+~
+human~
+0 0 0 0
+ABG 0 100 0
+19 19 5d30+360 1d10+100 4d4+9 pound
+4 4 4 999 8
+0 -1 F 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20379
+mayor Ebon Downs~
+The Mayor of Ebon Downs~
+The Mayor of Ebon Downs stands here, campaigning for next term.
+~
+He is the leader of this seaport town, a man that thinks very highly of
+himself.  His gut hangs down over his belt, belying a pathetic attempt to
+hide the increase in weight over the years.  The added girth has given him
+more resonance in his voice however, and he bellows loudly at the podium,
+trying to gain votes.  
+~
+human~
+0 0 0 0
+ABGNT 0 200 0
+42 42 10d150+1450 2d30+200 6d11+20 pierce
+-12 -12 -12 999 -7
+0 -1 CFIK 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20380
+mugger man~
+a mugger~
+A man stands here, waiting to take all your valuables.
+~
+This man has grown hard over the years, having to struggle for every bite
+to eat and every scrap of clothing he owns.  He has had to fight for it too,
+and is prepared to fight you for your posessions.  
+~
+human~
+0 0 0 0
+ABGc P -500 0
+29 29 10d60+500 10d2+100 5d6+18 stab
+0 0 0 999 3
+0 -1 BFJKN 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 200
+0
+~
+~
+#20381
+ruffian man~
+a ruffian~
+A man stands here silently, waiting to rough you up!
+~
+Before you stands an unshaved man, dirty from the long absence from any
+type of water.  He glares at you sullenly for an instance, then realizes
+that you probably have a lot of cash on you.  
+~
+human~
+0 0 0 0
+AGMc 0 -300 0
+32 32 12d10+540 1d10+100 5d5+13 beating
+-10 -10 -10 999 2
+0 -1 CFK 0 0 0
+stand stand neutral 100
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20382
+whore strumpet woman vaginal asshole~
+The surly srumpet~
+The surly strumpet stands here, waiting both on and for her next customer.
+~
+This lady has had her share of hardships. She struts around with an air
+of self importance, but you know that deep down inside, she is a seething pit
+of hurt, and nothing in her crub face or lean thighs can hide that from
+your all seeing eyes
+~
+human~
+0 0 0 0
+AGH 0 -210 20382
+26 26 10d50+300 10d2+140 4d6+11 slap
+-3 -4 -3 999 1
+0 -1 FK 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+strumpet.scr~
+#20383
+female woman pimp~
+a female pimp~
+A woman stands here, controlling business for her prostitutes.
+~
+Before you stands a self assured woman who has made it in a business
+traditionally held by men.  She is a pimp!  And proud of it!  A thick red
+girdle helps to keep her aging gut in, and all in all, she is quite
+disgusting, but she knows her business.  
+~
+human~
+0 0 0 0
+AGMR 0 -200 20382
+36 36 10d70+793 2d50+130 5d8+21 slap
+-10 -10 -10 999 0
+0 -1 FIKV 0 B 0
+stand stand female 4000
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+4
+pimp.voc~
+~
+#20384
+patron bar man~
+a bar patron~
+A patron of the Rest sits comfortably at a table here.
+~
+He is a man that looks like he spends much of his time here at the
+Wayfarer's Rest.  His well worn breeches and mundane clothes mark him as a
+man who comes here after a day of work.  He looks tired though, and seems to
+enjoy his privacy.  
+~
+human~
+0 0 0 0
+ABG 0 300 0
+38 38 10d100+943 2d10+203 5d7+18 punch
+-13 -12 -12 999 0
+0 -1 FK 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 140
+0
+~
+~
+#20385
+waitress serving girl~
+a serving girl~
+A serving girl scuttles about here, trying to take orders.
+~
+She is a pretty young girl with plain brown eyes and hair, that scuttles
+to and fro, trying to take everyone's order, and get everyone's meal.  
+~
+human~
+0 0 0 0
+ABGH 0 500 0
+25 25 10d54+429 1d20+120 4d6+12 slap
+1 1 1 999 3
+0 -1 0 0 0 B
+stand stand female 210
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20386
+worker retired~
+a retired worker~
+A man that is finished with working rests here.
+~
+Before you stands a man that has retired from normal life, and now has
+time to kick back and relax.  He sports a greying beard, and looks as if he
+needs to trim his eyebrows a bit.  He looks up at you in surprise, and goes
+back to his drink.  
+~
+human~
+0 0 0 0
+ABGT 0 100 0
+23 23 10d50+400 2d4+100 1d10+3 punch
+0 0 0 999 7
+0 -1 0 0 0 0
+stand stand male 42
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium unknown~
+0 0 0 100
+0
+~
+~
+#20387
+seer canthi~
+a Canthi Seer~
+A wizened Seer of the ship is here, convening a gathering of the four winds.
+~
+~
+canthi~
+0 0 0 0
+ABGNR DFVe 400 0
+43 43 10d130+1540 20d10+403 5d9+21 wrath
+-13 -13 -13 999 -1
+0 -1 EFK R H I
+stand stand female 943
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 32503
+medium flesh~
+0 0 0 350
+0
+~
+~
+#20388
+mate canthi first~
+First Mate of the Canthi Seers~
+The First Mate of the Seers ship stands here, working out.
+~
+He is a large, burly man that glistens with sweat as he works out to get
+into shape.  He is naked from the waist up, exposing his chiseled chest and
+stomach.  He stares back at you with steely grey eyes, and you decide that
+you would not want to mess with this man.  
+~
+canthi~
+0 0 0 0
+ABGT TVe 300 0
+42 42 10d103+1540 10d30+250 30d1+14 beating
+-15 -15 -15 999 0
+0 -1 FIKO R H I
+stand stand male 750
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20389
+cook canthi~
+a Sea Folk cook~
+The Sea Folk cook stands here, preparing the next meal.
+~
+This Sea Folk man is an aberration of the Sea Folk norm, he is quite
+corpulent and does not take off his shirt like most of the other men or
+women.  He chops furiously away at onions that will go into the ship's next
+meal.  He glances up at you quickly and decides that you aren't worth the
+trouble.  
+~
+canthi~
+0 0 0 0
+ABGT be 300 0
+35 35 10d70+689 2d30+100 5d6+18 cleave
+-10 -10 -10 999 0
+0 -1 CFK R H I
+stand stand male 500
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 150
+0
+~
+~
+#20390
+captain canthi~
+Captain of the Canthi Seers~
+The Captain of the Canthi Seers pores over ocean maps here.
+~
+This man is a dark and scowly man, scarred by the voyages across seas and
+oceans.  He is naked from the waist up, and seems to have no self
+consciousness in his cleanly shaved and chiseled face when you stare at his
+rippling pectoral muscles.  He grins and goes back to studying his maps.  
+~
+canthi~
+0 0 0 0
+ABGMT Vbe 100 0
+52 52 2300d1+32 10d2+215 5d10+32 charge
+0 0 0 999 0
+0 -1 CFIKV R EH I
+stand stand male 2049
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20391
+water snake~
+a water snake~
+A water snake slithers menacingly in the depths here.
+~
+~
+snake~
+0 0 0 0
+AEFG e -300 0
+14 14 5d30+210 1d19+40 2d3+9 bite
+2 2 2 999 8
+0 -1 0 0 L I
+stand stand neutral 0
+AGHMRVXYc ADEFKLQVXa 8 8 8 8 8 8 0
+tiny unknown~
+0 0 0 100
+0
+~
+~
+#20392
+adventurer man~
+a relaxing adventurer~
+An adventurer is here, kicking up his heels and relaxing after a long day.
+~
+Before you stands a gruff looking man, face covered with the stubble of a
+beard that has gone too long unshaved.  His scarred face covers what seems
+to be a joyful and endearing personality, but nevertheless, you have walked
+into his room, and disturbed his peace!  
+~
+human~
+0 0 0 0
+ABGNT 0 0 0
+31 31 10d70+636 3d10+150 5d6+17 beating
+-8 -8 -8 999 1
+0 -1 FK 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20393
+keeper man~
+A Shadow Keeper~
+Before you, a man with gleaming green eyes, clad in black stands idly.
+~
+His green eyes gleam at you with a feral gaze, chilling you to the bone
+as you realize that this man is the very embodiment of the Shadow inside
+man.  A shadow keeper to the very roots of his soul.  He slicks back his jet
+black hair, and licks his lips and smiles.  Gesturing you into his parlor,
+he snickers with the coldness of someone all knowing.  
+~
+human~
+0 0 0 0
+ABFGNSc DFHJ -1000 0
+49 49 10d170+1503 2d40+210 3d10+31 pierce
+-10 -10 -10 999 -2
+0 -1 BFKN B 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+1
+~
+~
+#20394
+courier man~
+A Shadow Courier~
+A man looks at you nervously as he clutches his robes to his body.
+~
+This man is clad entirely in black, and stares at you with a shifty gaze
+as he clutches his clothing close to his body.  
+~
+human~
+0 0 0 0
+ABFGMNc 0 -1000 0
+26 26 10d60+420 10d2+100 5d6+13 pierce
+-6 -6 -6 999 1
+0 -1 FKN 0 0 0
+stand stand male 210
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20395
+surprised villager~
+a surprised villager~
+A villager looks up at you with surprise as you enter his home!
+~
+He is just like any other coddled villager you have ever seen, born with
+a silver spoon in his mouth, and arrogant beyond all rankings.  
+~
+human~
+0 0 0 0
+ABGH 0 140 0
+23 23 10d9+340 1d3+100 4d5+15 punch
+-8 -7 -7 999 -4
+0 -1 FK 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20396
+surprised villager~
+a surprised villager~
+The villager looks up with surprise at your sudden entrance!
+~
+This woman looks up at you with surprise as you have intruded her
+afternoon nap!  She sneers at you with an arrogance unbecoming to anyone,
+and you immediately decide you do not like the woman.  
+~
+human~
+0 0 0 0
+ABGH 0 200 0
+23 23 20d9+342 1d4+100 4d5+15 slap
+-8 -7 -8 999 -1
+0 -1 FK 0 0 0
+stand stand female 409
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20397
+borlin~
+Borlin, the bass master~
+A gruff and deeply tanned man is here, skinning a fish.
+~
+~
+human~
+0 0 0 0
+AB FVb 40 0
+48 48 20d30+3019 20d1+140 13d4+35 beating
+-14 -15 -14 999 -4
+0 -1 CFIKN ABCER S 0
+stand stand male 950
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20398
+Salena~
+Salena~
+A woman of vigorous health is beheading some broccoli behind her counter.
+~
+~
+human~
+0 0 0 0
+ABG DH 940 0
+45 45 10d20+2059 3d40+130 5d13+35 none
+-10 -10 -10 999 -4
+0 -1 FKN ABCE 0 0
+stand stand female 452
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20399
+mustang horse~
+A mustang~
+A mustang rears and snorts angrily as you enter his stall.
+~
+~
+unique~
+0 0 0 0
+AGe 0 -100 0
+15 15 2d35+176 1d10+100 2d5+2 charge
+1 1 1 999 5
+0 -1 FHI 0 0 R
+stand stand male 0
+AV ACDEF 9 9 9 9 9 9 0
+medium flesh~
+0 1 345 400
+0
+~
+~
+#20400
+villager man old~
+The old man~
+An old man hums and whistles a tune to himself.
+~
+~
+human~
+0 0 0 0
+AG Y 649 0
+22 22 7d40+146 2d10+140 4d5+10 beating
+0 0 0 999 6
+0 -1 0 BNP 0 0
+stand stand male 16
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20401
+sailor drunk~
+A drunk sailor~
+In port for the day, a sailor is enjoying the town's bars, drunk off his ass.
+~
+~
+human~
+0 0 0 0
+AGS 0 -120 20401
+30 30 10d61+430 1d10+100 5d6+14 punch
+-6 -6 -6 999 1
+0 -1 0 0 0 BP
+stand stand male 3
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20402
+old woman~
+A feeble old woman~
+A sightless old woman walks carefully to the marketplace.
+~
+~
+human~
+0 0 0 0
+AGH A 320 0
+19 19 6d10+250 3d4+100 3d5+10 slap
+0 0 0 999 7
+0 -1 0 0 0 IQ
+stand stand female 61
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20403
+fisherman~
+A fisherman~
+A fisherman stands here, gazing out over the water searchingly.
+~
+~
+human~
+0 0 0 0
+ABN 0 215 0
+31 31 10d70+530 1d30+100 5d6+15 punch
+-6 -7 -7 999 -5
+0 -1 FK 0 R 0
+stand stand male 16
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#20404
+Jericka master assassin~
+`aJericka, the master assassin``~
+`aThe master assassin rests comfortably in her chair.``
+~
+`aJericka is a tall woman, standing nearly six feet, though she can appear much
+shorter when the situation calls for it.  She is thinly built, but with a lean
+muscularity.  Her black hair falls to her shoulders, framing her dark face.
+With high cheekbones and angular facial features, she looks as though she could
+have been carved from ebony.  Her expression is generally relaxed and the calm
+in her eyes gives away nothing of her profession.``
+~
+human~
+0 0 0 0
+ABJKNSTUb 0 -1000 0
+100 100 50d10+19500 1d1+19999 10d10+120 pierce
+-30 -30 -30 999 -30
+0 -1 ABDEFHIN BCLbcd D 0
+rest stand female 1243
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 30053
+medium flesh~
+0 0 0 100
+5
+~
+~
+#20405
+Baldor Shopkeeper~
+`aBaldor the shopkeeper``~
+`aBaldor is here for all your black market needs.``
+~
+~
+human~
+0 0 0 0
+AB DF 0 0
+100 0 1d1+19999 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 ABC 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#20406
+thug shady individual~
+`aA shady individual``~
+`aA shady individual is crouching over his latest victim: a newbie with poor dodging skills.``
+~
+`aWell, this is a shady individual, thanks to all the shadows and stuff he remains that way.``
+~
+doll~
+0 0 0 0
+ABCENYc JUYd -1000 0
+1 1 700d1+7 0d0+0 0d0+0 punch
+-5 -1 -1 999 40
+0 -1 BF ABILMNPQR DEFS GHJKO
+stand stand neutral 15
+EJMc ABCGHKa 6 6 6 6 6 6 0
+tiny oldstyle~
+0 0 0 100
+1
+~
+~
+#20407
+foreign merchant~
+a foreign merchant~
+A merchant from distant lands is standing here.
+~
+You smell a vague scent of salty sea air mixed with a faint trace of
+spices as he passes by you, giving you no more than a quick, disintrested
+glance.  He wears white cotton robes, and a thick, square black beard.  
+~
+human~
+0 0 0 0
+AT 0 24 0
+28 28 10d54+375 10d10+50 5d6+5 punch
+-7 -7 -7 999 1
+0 -1 DEHIK 0 0 0
+stand stand male 650
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+thesmerchant.scr~
+#20408
+boy blerp canthi~
+Blerp~
+A canthi boy is resting against the far wall, waiting for a customer.
+~
+~
+human~
+0 0 0 0
+AB DF 700 0
+91 100 10000d1+1 1000d1+1 10d10+100 none
+1 1 1 999 1
+D 0 0 ABC 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+small oldstyle~
+0 0 0 100
+4
+blerp.voc~
+~
+#20409
+squinty crosseye canthi~
+Squinty Cross-eye~
+An old canthi sits on a three-legged stool here, inspecting his needles.
+~
+`gThis is old Squinty Cross-eye, the canthi pirates and sailors from far
+and wide come to to get their tattoos.  He peers up at you through his thick
+glasses, seemingly expecting something from you.  `` 
+~
+canthi~
+0 0 0 0
+AB CDEFGJZe 800 0
+89 50 10000d1+1 2000d1+1 10d1+120 pierce
+0 0 0 999 0
+DRZ 0 0 R H I
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#0
+
+#OBJECTS
+#20361
+desk~
+desk oaken~
+A large oaken desk sits in the center of the room here.~
+hardwood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB BCDEGI EN BCDFG BCDFG
+0
+0
+34 9999 9 P
+#20362
+bar~
+a bar~
+A slimy bar made from cheap brass is on the west wall here.~
+brass~
+0
+treasure 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+32 9999 10 P
+#20363
+anvil~
+an anvil~
+A massive, beaten anvil glows with a red light here.~
+steel~
+0
+weapon 2
+A
+0
+N
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 AC BC BC 0
+0
+0
+34 200 960 P
+A
+19 4
+A
+18 1
+#20364
+desk counter~
+a check in counter~
+A long, thin, check in counter stands in front of a ladder here.~
+hardwood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B AGI EN CFG CFG
+0
+0
+35 9999 60 P
+#20365
+waterwheel~
+a waterwheel~
+A massive, oaken waterwheel churns through the Ilangollen here.~
+wood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+33 9999 0 P
+#20366
+podium~
+a podium~
+A podium has been erected here for speakers to use.~
+wood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 CFG N 0 0
+0
+0
+33 9999 0 P
+#20367
+bottle specialty local~
+a bottle of local specialty~
+A bottle of the Salty Pork Rind's specialty is on the ground here.~
+glass~
+0
+potion 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+ABCE 'damnation' 'blindness' -1 -1 0
+0
+23 10 4259 P
+#20368
+boots~
+`dSturdy Leather Boots``~
+`dA pair of comfortable looking boots lies on the ground here.``~
+hard leather~
+0
+armor 2
+S
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+31 20 690 G
+A
+5 2
+#20369
+ring sigiled~
+a sigiled ring~
+A ring inscribed with ancient symbols lies on the ground here.~
+metal~
+0
+jewelry 2
+0
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+23 1 94 P
+#20370
+splinted mail armor~
+splinted mail armor~
+A pile of interlocked strips of metal lies on the ground here.~
+metal~
+0
+armor 2
+0
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+D D D B 0
+0
+0
+40 140 900 P
+#20371
+fountain~
+a fountain~
+A brass fountain shaped into the form of a leaping fish gurgles here.~
+stone~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 10000 100 P
+#20372
+bonfire~
+a bonfire~
+A crackling bonfire illuminates the party here.~
+wood~
+0
+trash 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 9999 0 P
+#20373
+padded knee pads~
+padded knee pads~
+A pair of strap on knee pads lies on the ground here.~
+cloth~
+0
+clothing 2
+S
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 30 245 G
+A
+2 1
+#20374
+amulet~
+amulet of the `lC`nanthi `lS`neers``~
+A stylishly crafted amulet has been carelessly left on the ground here.~
+metal~
+0
+jewelry 2
+0
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 26 650 P
+A
+4 1
+A
+3 1
+#20375
+satin sash aquamarine~
+`nAn Aquamarine Satin Sash``~
+`hA thin bolt of `nsatin `hlies on the ground here.``~
+satin~
+0
+clothing 2
+AS
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+31 10 500 P
+A
+1 1
+A
+13 4
+#20376
+rags filthy~
+filthy rags~
+A pile of filthy rags lies on the ground here.~
+cloth~
+0
+clothing 2
+M
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 20 0 W
+#20377
+dulled long sword~
+a dulled longsword~
+A rusty piece of metal lies on the ground here.~
+steel~
+0
+weapon 2
+B
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A AC AC AB 0
+0
+0
+35 80 100 P
+A
+1 1
+#20378
+chalk potion alabaster~
+an alabaster chalk potion~
+A milky white potion lies on the ground here.~
+glass~
+0
+potion 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+ACF 'pass door' 'faerie fog' -1 -1 0
+0
+36 14 439 P
+#20379
+sign post~
+a sign post~
+A sign has been erected on a wooden post in the middle of the road here.~
+wood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 9999 0 P
+E
+sign~
+Welcome to Ebon Downs!  Home of many fish and fine women!  Up ahead, we
+think you'll find many new and exciting experiences, so please stay a while.
+Brought to you by the Ebon Downs City Council.  
+~
+E
+adasdsa~
+Thank you for visting Ebon Downs, up ahead you will find many new and
+exciting experiences!  Hope you enjoy your stay!  Brought to you by the
+Ebon Downs City Council 
+~
+#20380
+hammer blacksmith~
+a blacksmith's hammer~
+A hammer made from thick blacksteel and oak rests on the ground here.~
+steel~
+0
+weapon 2
+B
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+C BD AB CD 0
+0
+0
+38 89 840 P
+A
+19 3
+A
+18 3
+#20381
+bar scroll~
+a scroll bar~
+A thin piece of parchment lies crumpled on the ground here.~
+parchment~
+0
+scroll 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ADE 'faerie fog' -1 -1 -1 0
+0
+29 25 503 P
+#20382
+thick black sap blackjack~
+`aA Thick Black Sap``~
+`aA thick club of black wood lies on the ground here.``~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 ABC AB 0 0
+0
+0
+33 68 12500 P
+A
+5 2
+A
+18 1
+#20383
+pile vomit~
+`dA `cPile `dof `cReeking `dV`co`bm`ci`dt``~
+`dA huge pile of festering `cvomit `dreeks up the room.``~
+unknown~
+0
+pill 2
+S
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CE 'poison' 'plague' -1 -1 0
+0
+21 30 0 A
+#20384
+emerald eyepiece eye~
+`jan emerald eyepiece``~
+An eyepiece crafted from a single emerald has been abandoned here.~
+stone~
+0
+armor 2
+JS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C C C C 0
+0
+0
+40 24 5000 P
+A
+12 15
+A
+3 1
+#20385
+chest sturdy iron~
+a sturdy iron chest~
+A sturdy iron chest has been fastened to the ground here.~
+iron~
+0
+container 2
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CFG ABCD BFHIJKLO 0 0
+0
+0
+40 9999 0 P
+#20386
+key turquoise~
+`ga turquoise key``~
+A key fashioned from a semi precious gem lies on the ground here.~
+stone~
+0
+key 2
+AS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+37 10 5000 P
+#20387
+mask sea folk~
+`ca`l C`nanthi`l S`neers`c mask``~
+A mask of a Canthi God lies on the ground here.~
+unknown~
+0
+treasure 2
+S
+0
+AX
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+38 53 500 P
+A
+1 1
+#20388
+pants bright blue~
+`lbright blue pants``~
+A pair of bright blue pants lies in a crumpled heap here.~
+cloth~
+0
+clothing 2
+IS
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+22 53 100 P
+A
+24 -3
+A
+5 1
+#20389
+bracers gauntlets canthi seers~
+`gGa`huntle`gts of the `lC`nanth`li `lS`neer`ls``~
+A pair of leather bracers lies on the ground here.~
+soft leather~
+0
+armor 2
+S
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+24 36 142 G
+A
+19 2
+A
+12 30
+#20390
+silver spoon~
+`hA Silver Spoon``~
+`hA spoon made from fine silver lies on the ground here.``~
+silver~
+0
+treasure 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 1 3000 P
+#20391
+batch strawberries~
+`ia batch of fresh `bs`it`br`ia`bw`ib`be`ir`br`ii`be`is``~
+A batch of freshly picked strawberries has been left on the ground here.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AD C ABCD 0 0
+0
+0
+3 20 6 P
+#20392
+sliced canteloupe~
+a sliced canteloupe~
+A wedge of fresh canteloupe has been left here for you to eat!~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C AC 0 0
+0
+0
+6 25 5 P
+#20393
+antibiotic medicine~
+an antibiotic~
+A tube of antibiotic medicine lies on the ground here.~
+unknown~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BCDE AB AB F 'reserved'
+0
+0
+27 16 1000 P
+#20394
+mug pewter~
+a pewter mug~
+A mug fashioned from pewter has been discarded here.~
+pewter~
+0
+drink 2
+S
+B
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC C 0 0 0
+0
+0
+14 50 5 P
+#20395
+sign post~
+a sign~
+`kA sign warns you, `b"`iDon't go any further west!`b"``~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+4 9999 0 P
+#20396
+pinion rolling~
+a rolling pinion~
+A thick wooden dowel, used for holding down ropes has been left here.~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 A ABE BC 0
+0
+0
+34 59 0 P
+A
+18 2
+#20397
+knife butcher~
+a butcher knife~
+A butcher knife lies on the ground here.~
+steel~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+B A ABCD A 0
+0
+0
+35 39 140 P
+A
+19 3
+#20398
+charter town document~
+the Ebon Downs Town Charter~
+A neatly rolled document has been carelessly left here.~
+parchment~
+0
+scroll 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BCDE 'create water' 'create rose' -1 -1 0
+0
+35 24 3040 P
+E
+charter~
+Ebon Downs established: (nobody knows when)
+Village founded by: (nobody knows who)
+Village population: 5000
+Ruling Mayor, Vinion Bran
+ 
+(miscellaneous political jargon)
+ 
+Signed, the Council of Ebon Downs
+~
+#20399
+bait worms~
+a can of worms~
+A wriggly mass of worms attempts to escape a small tin can.~
+scales~
+0
+bait 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+14 13 16 G
+#20400
+tin pail~
+a rusted tin pail~
+A rusted pail lays here, its sides corroded by the sea air.~
+metal~
+0
+container 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABF 0 0 BCD BDEG
+0
+0
+16 21 45 P
+#20401
+metal hook~
+a large metal hook~
+You step gingerly around a large metal hook that lays on the ground.~
+metal~
+0
+weapon 2
+L
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B AB BC AC 0
+0
+0
+26 57 304 P
+#20402
+necklace kelp~
+`oA Necklace Made of `dSe`ca`dw`ce`ded `oand `hCoral``~
+`oA slender rope fashioned out of `dseaweed `oand `hcoral `olies here.``~
+coral~
+0
+jewelry 2
+IS
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+18 14 540 P
+A
+24 -1
+#20403
+harmonica~
+a harmonica~
+A small harmonica begs you to play it.~
+wood~
+0
+instrument 2
+BIS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+21 9 5 G
+A
+12 3
+#20404
+cliff cliffs~
+the cliffs~
+~
+stone~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n scales the cliff face, using rock indentations as hand holds.~
+Clinging to grooves in the sunbleached rocks with all your might, you scale the cliff face successfully.~
+~
+~
+-1 0 G ACEFGHIJKLO G
+0
+0
+0 0 0 P
+#20405
+cliff cliffs~
+the cliffs~
+~
+stone~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n climbs down the cliff, taking care not to fall and get smashed against the rocks below.~
+You climb down the cliff face, taking extra care not to fall and slam yourself into the rocks below.~
+~
+~
+-1 0 G BCEFGHIJKLO E
+0
+0
+0 0 0 P
+#20406
+canopied bed~
+a canopied bed~
+A sturdy little bed, decorated with velvet canopies sits in the middle of the room.~
+iron~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A CEFGHI EHK CFG BCDFG
+0
+0
+30 9999 0 P
+#20407
+small iron bed~
+a small iron bed~
+A small iron bed matches perfectly with the other spartan adornments of this room.~
+iron~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A CEFGHI EHK ADFG ABCDEG
+0
+0
+30 9999 0 P
+#20408
+daybed couch white~
+a daybed~
+A small white daybed is nestled against the far wall.~
+iron~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B CEFGHI EHK ADFG ABCDEG
+0
+0
+30 9999 0 P
+#20409
+rocking chair old wooden~
+an old rocking chair~
+An old wooden rocking chair squeaks softly as it rocks back and forth.~
+iron~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A CEFGHI EH BDEG BCDFG
+0
+0
+30 9999 0 P
+#20410
+VD~
+her pussy~
+~
+flesh~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DGH 'plague' 'reserved' 'reserved' 'reserved'
+0
+0
+0 0 0 P
+#20411
+houseboat boat~
+`othe houseboat``~
+`oA large houseboat is here, painted with a bright `ob`ko`ol`kt of `klightning`o.``~
+wood~
+0
+ctransport 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+GHOQ EFIKMNO AFHJKNO ABCDGHJKNO B
+AC
+EGHJKNO
+100 30000 0 P
+#20412
+portal~
+`ha magical swirling portal``~
+`hA large portal of swirling clouds takes up the entire southern wall of the alley.``~
+ethereal~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n steps into the swirling portal and vanishes.~
+You step into the portal and the swirling mists engulf you completely.~
+$n appears in the room.~
+You feel firm ground beneath your feet and find yourself back in Thesden.~
+-1 K G BCFM A
+0
+0
+0 0 0 P
+#20413
+tripwire rope~
+tripwire rope~
+A coil of thin rope lies at your feet.~
+hemp~
+0
+trash 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 3000 P
+#20414
+fountain~
+`aa simple fountain``~
+`aA simple fountain trickles water in the center of the alley.``~
+stone~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#20415
+leather strap poisoned~
+`aA leather strap holding a`c poisoned`a dagger``~
+`aA dagger lies here, rolled into a leather strap.``~
+soft leather~
+0
+container 2
+CRST
+0
+AM
+I
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD 0 0 BD 0
+0
+0
+70 1 666 P
+A
+17 -10
+A
+14 50
+A
+13 30
+A
+19 2
+#20416
+yellowed ivory dirk~
+`aA Yellowed`h Ivory`a Dirk``~
+`aAn`h ivory dirk`a lies here, a thin`o mithril`a thread is attached to the handle, perfect for retrieving the thrown weapon.``~
+ivory~
+0
+weapon 2
+ERSTY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B BCE B BE DEH
+0
+0
+80 5 1 P
+A
+18 10
+E
+mithril~
+`aThis`o mithril thread`a is often used by the master assassin, to strangle people.``
+~
+E
+thread~
+`aThis`o mithril thread`a is often used by the master assassin, to strangle people.``
+~
+#20417
+head jericka~
+`dthe severred head of Jericka``~
+`dYuck, a head lies here, some people will forget just about anything.``~
+unknown~
+30
+trash 2
+QSY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+9 6 2 P
+#20418
+counterooni~
+the counter~
+A long glass counter is here, displaying all the available tattoos.~
+wood~
+0
+furniture 2
+RSTYa
+0
+0
+0
+0
+0
+20418
+20410
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B EFIKMNO A CFG CFG
+0
+0
+1 0 0 P
+#20419
+picture big red heart~
+`hA picture of a tattoo: `iA big red heart``~
+A picture of a big red heart is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20419
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 50000 P
+#20420
+set needles~
+a set of needles~
+A set of needles is here.~
+steel~
+0
+weapon 2
+RSTYa
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 A A 0 D
+0
+0
+1 0 0 P
+#20421
+bottles ink~
+many multicolored bottles of ink~
+Many multicolored bottles of ink are here.~
+unknown~
+0
+trash 2
+RSTYa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#20422
+tattootemplate~
+tattoo template~
+This tattoo will be a part of you for the rest of your life!~
+unknown~
+0
+trash 2
+MRSTYZa
+DM
+AW
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#20423
+picture anchor~
+`hA picture of a tattoo:`a An anchor``~
+A picture of an anchor is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20423
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20424
+picture beautiful mermaid~
+`hA picture of a tattoo:`c A`g b`he`ca`gu`ht`ci`gf`hu`cl`g m`he`cr`gm`ha`ci`gd``~
+A picture of a beautiful mermaid is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20424
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20425
+picture liverbite spider~
+`hA picture of a tattoo: `bA`d L`ci`av`de`cr`ab`di`ct`ae`b spider``~
+A picture of a hairy liverbite spider is here, the most poisonous of all.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20425
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20426
+picture naked woman~
+`hA picture of a tattoo: `hA naked woman wearing nothing but a`c f`ji`cg`h`j l`ce`ja`cf``~
+A picture of a alluring woman poses naked here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20426
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20427
+picture your mothers face~
+`hA picture of a tattoo: `mYour mother's face``~
+What the heck! It's your mother's face!~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20427
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20428
+picture bat~
+`hA picture of a tattoo named "Bat": `a(/^\-`i'`aV`i'`a-/^\)``~
+A picture of a pitch-black bat is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20428
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20429
+picture crossed swords~
+`hA picture of a tattoo: `cTwo `iC`br`ao`os`as`be`id`c Swords``~
+A picture of two bloodied and crossed swords is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20429
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20430
+picture thorned rose~
+`hA picture of a tattoo: `oA `it`bh`io`br`in`be`id`o rose``~
+A picture of a single rose with thorns is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20430
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20431
+picture symbol continuum order~
+`hA picture of a tattoo: `kThe symbol of the Continuum order``~
+A picture of the well-known symbol of the Continuum order is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20431
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20432
+picture unholy cross neshajh~
+`hA picture of a tattoo: `bThe Unholy`i Cross`b of`i Ne'Shajh``~
+``A picture (drawn by`h Devlish)`` of the well-known symbol of the Continuum order is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20432
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20433
+picture unblinking eye caedes~
+`hA picture of a tattoo: `gThe`n Unblinking`o Eye`g of the`o C`na`oe`nd`oe`ns``~
+``A picture (drawn by`h Devlish)`` of the unblinking eye of the Twilight elders is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20433
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20434
+picture battle scene eyunel~
+`hA picture of a tattoo: `oA battle scene depicting the fall of`i E`ly`iu`ln`ie`ll``~
+A large picture of a battle scene depicting the fall of eyunel is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20434
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20435
+picture revenge~
+`hA picture of a tattoo: `i|`a\_`h-RE`oVEN`hGE-`a_/`i|``~
+This picture is drawn by Devlish.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20435
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20436
+picture stonerose~
+`hA picture of a tattoo named "Stonerose": `o/`h^`o(`h^`o\`h-`o{`i@`o}`h-`o/`h^`o)`h^`o\``~
+This picture is drawn by Devlish.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20436
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20437
+picture shooting star~
+`hA picture of a tattoo: `eA `ks`nh`ko`no`kt`ni`kn`ng`e star``~
+A picture of a shooting star is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20437
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20438
+picture pearl white butterfly~
+`hA picture of a tattoo: `oA pearl white `hb`ou`ht`ot`he`or`hf`ol`hy``~
+A picture of a shooting star is here.~
+paper~
+0
+writing_paper 2
+PRSTUYa
+0
+A
+0
+0
+0
+20438
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20439
+picture fragile pink lily~
+`hA picture of a tattoo: `fA fragile`m pink`f lily``~
+A beautiful lily is drawn on this piece of paper.~
+paper~
+0
+writing_paper 2
+PRTUYa
+0
+A
+0
+0
+0
+20439
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20440
+picture leafed vine~
+`hA picture of a tattoo: `dA`j l`ce`ja`cf`je`cd`d vine``~
+A beautiful lily is drawn on this piece of paper.~
+paper~
+0
+writing_paper 2
+PRTUYa
+0
+A
+0
+0
+0
+20440
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20441
+picture angels wings~
+`hA picture of a tattoo: `oAn angel's wings``~
+Some angel wings are drawn on a sheet of paper here.~
+paper~
+0
+writing_paper 2
+PTUYa
+0
+A
+0
+0
+0
+20441
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20442
+picture grinning skull~
+`hA picture of a tattoo: `aA grinning skull``~
+A skull grins back at you from this paper.~
+paper~
+0
+writing_paper 2
+PTUYa
+0
+A
+0
+0
+0
+20442
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20443
+picture unicorn flesh jagged horn~
+`hA picture of a tattoo: `hA`o unicorn ripping into`b f`il`be`is`bh`o with its jagged`h horn``~
+A picture draw by Excaliber portrays a unicorn.~
+paper~
+0
+writing_paper 2
+PTUYa
+0
+A
+0
+0
+0
+20443
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20444
+picture skull snake socket~
+`hA picture of a tattoo: `oA skull with a`c snake`o emerging from the eye socket``~
+A picture draw by Excaliber portrays a skull.~
+paper~
+0
+writing_paper 2
+PTUYa
+0
+A
+0
+0
+0
+20444
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20445
+picture silver cross~
+`hA picture of a tattoo: `aA`o silver`a cross``~
+A picture draw by Excaliber portrays a skull.~
+paper~
+0
+writing_paper 2
+PTUYa
+0
+A
+0
+0
+0
+20445
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#20446
+picture ogopogo~
+`hA picture of a tattoo named "Ogopogo": `g^`n$`g^``~
+A picture drawn by Vivi portrays a winged wyrm.~
+paper~
+0
+writing_paper 2
+PTUYa
+0
+A
+0
+0
+0
+20446
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 100000 P
+#0
+
+#ROOMS
+#20361
+0 0
+~
+~
+~
+0 0 0
+A slender dirt road~
+`dMounds of flattened red soil are encroached by thick tufts of clover
+and grass, creating a traversable, if narrow path through the area here. 
+West- ward, the sounds of industry and civilization fill the air, and to
+your east you can see a continuation of the road, leading to a flat plateau
+of rock.  `` 
+~
+0 b 12
+0
+~
+I 0 D1
+~
+~
+0 0 20465
+D3
+~
+~
+0 0 20464
+S
+#20362
+0 0
+~
+~
+~
+0 0 0
+At the piers of Ebon Downs~
+You stand among the long, majestic piers of Ebon Downs.  Ships ranging
+from thin, seafolk cruisers, to fat and bulky merchant river traders are
+docked here, ready to unload their cargo.  Men and women alike hustle to and
+fro here, trying to get their business done for the day.  The main road
+leading into Ebon Downs proper heads off to the north here.  
+~
+0 0 17
+0
+~
+I 0 D0
+The path continues toward the village.
+~
+~
+0 -1 20363
+D1
+~
+~
+0 0 20471
+D2
+~
+~
+0 0 34115
+D3
+~
+~
+0 0 20391
+S
+#20363
+0 0
+~
+~
+~
+0 0 0
+The Piers of Ebon Downs~
+As you walk steadily towards the center of Ebon Downs, the population
+increases steadily, and you are jostled about a few times by rude locals. 
+The air here smells of stale fish, and the sound of hoarse yelling and wood
+banging on wood fills the air.  The main road winds its way between numerous
+encampments that have sprung up around the trading of the piers.  
+~
+0 D 1
+0
+~
+I 0 D0
+~
+~
+0 0 20366
+D2
+The dimly lit path.
+~
+~
+0 -1 20362
+S
+#20364
+0 0
+~
+~
+~
+0 0 0
+Bridge Street~
+You now stand on the main street that winds its way through the heart of
+Ebon Downs.  Small homes and businesses line the street to either side,
+busy with the influx of the trading vessels.  Just to the north of here, you
+can see what appears to be the central circle of the town, dominated by a
+wide brass fountain.  The fountain is shaped into the form of a massive
+leaping fish, water spewing from both its mouth and gills.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 20365
+D1
+~
+door~
+1 0 20396
+D2
+~
+~
+0 0 20367
+D3
+~
+door~
+1 0 20395
+S
+#20365
+0 0
+~
+~
+~
+0 0 0
+Ebon Downs Circle~
+This is the center of the entire town of Ebon Downs.  The circle offers
+roads that lead off in all four cardinal directions, and is dominated by a
+massive brass fountain that stands in the center of the circle.  The
+fountain is shaped in the form of a leaping fish, water spewing from its
+mouth and gills.  Truthfully, it is not a very pretty statue, but you
+suppose the locals find some sort of value in it.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 20369
+D1
+~
+~
+0 0 20368
+D2
+~
+~
+0 0 20364
+D3
+~
+~
+0 0 20390
+S
+#20366
+0 0
+~
+~
+~
+0 0 0
+Bridge Street~
+You walk along the main 'avenue', if you would call it that, of Ebon
+Downs.  In reality, it is not much more than a hard-packed dirt road that
+has had ruts worn in it by too many overloaded ox carts.  The road winds its
+way through a series of shops and homes, sturdy, but not very affluent
+looking.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20367
+D1
+~
+~
+0 0 20382
+D2
+~
+~
+0 0 20363
+D3
+~
+~
+0 0 20381
+S
+#20367
+0 0
+~
+~
+~
+0 0 0
+Bridge Street~
+The main road of Ebon Downs continues to the north and south here,
+making its way through a smattering of buildings that could probably be used
+for either residential use or commerce.  The buildings are made of a think
+looking wood, and looks very suited to the port type town that Ebon Downs
+has become to be known as.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20364
+D1
+~
+~
+0 0 20477
+D2
+~
+~
+0 0 20366
+D3
+~
+~
+0 0 20380
+S
+#20368
+0 0
+~
+~
+~
+0 0 0
+High Street~
+You are on a slightly elevated plot of dirt that serves as a road that
+dissects Ebon Downs in half.  For the most part, the buildings that line
+the hard packed dirt are fairly old, and look as if they could use some
+renovation.  High Street comes back to a normal elevation a short ways off
+to the west, where you can see the famous leaping fish fountain of
+Ebon Downs.  
+~
+0 C 1
+0
+~
+I 0 D1
+~
+~
+0 0 20463
+D3
+~
+~
+0 0 20365
+S
+#20369
+0 0
+~
+~
+~
+0 0 0
+Bridge Street~
+The main road extending through the center of Ebon Downs continues to
+the north and south here.  Just to the south, you can see what appears to be
+the center of town, a circle dominated by a massive brass fountain, shaped
+to resemble a leaping fish.  As for the buildings along the street itself,
+they are not immense in size, but they look fair enough for a village of
+this size.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 -1 20370
+D1
+~
+~
+0 0 20398
+D2
+~
+~
+0 0 20365
+D3
+~
+door~
+1 0 20399
+S
+#20370
+0 0
+~
+~
+~
+0 0 0
+Ilangollen Street~
+You have arrived at the intersection between Ilangollen and Bridge Streets.
+Ilangollen Street has been named after the river that plies Ebon Downs's
+trade, although you can see no particular reason why it has been thusly
+called.  It seems like any other road in the town, hard packed dirt, and if
+you are lucky, a think sprinkling of gravel on top.  Ilangollen Street runs to
+the east and west here, where you can see more buildings and shops lining
+the street.  
+~
+0 0 1
+0
+~
+I 0 E
+smurfy well~
+A small well is here.  Just the right size if you're a smurf.  But big
+enough for you to get some water from.  I'm sure the smurfs wont mind.
+~
+D0
+~
+~
+0 0 20450
+D1
+~
+~
+0 0 20375
+D2
+~
+~
+0 -1 20369
+D3
+~
+~
+0 0 20376
+S
+#20371
+0 0
+~
+~
+~
+0 0 0
+An alleyway in Ebon Downs~
+The alleyway continues onwards here, cutting through a number of
+buildings and bathing you in their shadows.  Trash litters the street, and
+the stench of rotting food items assails your nose.  Off to the west here,
+you can see a collection of boxes that have been set up.  You can't make out
+what they are exactly in the darkness, but you can see Bridge Street off
+to the east.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20372
+D1
+~
+~
+0 0 20380
+D3
+~
+~
+0 0 20374
+S
+#20372
+0 0
+~
+~
+~
+0 0 0
+An alleyway in Ebon Downs~
+You stand at the end of the darkened alleyway.  To the north and east
+stand the back of buildings, the back doors barred and sealed shut long ago.
+Off to the west, you can see what all the boxes and wooden beams have been
+used to construct.  It is a literal encampment of the homeless, a sullied
+and bedraggled bunch of folk that make you feel both sick and sad at the
+same time.  They sit under their makeshift shelters and you walk by,
+pretending that they don't exist.  
+~
+0 0 1
+0
+~
+I 0 D2
+~
+~
+0 0 20371
+D3
+~
+~
+0 0 20373
+S
+#20373
+0 0
+~
+~
+~
+0 0 0
+Shantyville~
+Here among the broken down boxes and wooden planks that try to support
+the sagging structures, you can't but help find the compassionate side in
+you.  There are only so many children's pouting eyes that you can look into
+before you cave in, and decide to give them a few coins.  
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 20372
+D2
+~
+~
+0 0 20374
+S
+#20374
+0 0
+~
+~
+~
+0 0 0
+Shantyville~
+The smell here is not a pleasant one to say the least.  It is a toxic
+mixture of sweat, month old dirt, and blood and urine that seeps into your
+nose and leaves a bad taste in your mouth.  Nevertheless, you can't help but
+feel pity and compassion for the huddled creatures who are forced to dwell
+here, and you think that maybe it wouldn't be a stretch to give them a few
+coins.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20373
+D1
+~
+~
+0 0 20371
+S
+#20375
+0 0
+~
+~
+~
+0 0 0
+Ilangollen Street~
+Ilangollen Street runs off the east here, taking a bend to the north and
+disappearing shortly out of view.  The buildings lining the street here are
+much like any other you have encountered in Andor, and made of the same
+sturdy construction.  A short ways off to the west, you can make out where
+Ilangollen Street intersects with the main road, Bridge Street.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20411
+D3
+~
+~
+0 0 20370
+S
+#20376
+0 0
+~
+~
+~
+0 0 0
+Ilangollen Street~
+Ilangollen Street continues to run to the west here, where a short distance
+off, you can see where it intersects with yet another dirt road.  Small
+houses predominantly line this street, hugging each other wall to wall in an
+effort to steal a little bit extra space.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+door~
+1 0 20449
+D1
+~
+~
+0 0 20370
+D3
+~
+~
+0 0 20377
+S
+#20377
+0 0
+~
+~
+~
+0 0 0
+Ilangollen Street~
+Ilangollen Street runs off to the east and west here, bounded by a number
+of small homes that are connected wall to wall.  The homes are mostly one
+story in construction, cheap places that look as if they have been mass
+produced.  In any case, the flow of traffic on the road is light, and you
+can go either way down the street.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+door~
+1 0 20448
+D1
+~
+~
+0 0 20376
+D3
+~
+~
+0 0 20378
+S
+#20378
+0 0
+~
+~
+~
+0 0 0
+Taranel and Ilangollen~
+You have arrived at the intersection of Taranel and Ilangollen.  The
+intersection is not particularly busy, no more so than any other
+intersection you have seen here.  Besides a few shops that sell food and
+drink, the corner is bounded by homes and what appear to be office buildings
+of some type.  The air here smells a bit like stale fish, and as you look
+off to the west and the Ilangollen River, you can guess why.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+door~
+1 0 20447
+D1
+~
+~
+0 0 20377
+D2
+~
+~
+0 0 20379
+S
+#20379
+0 0
+~
+~
+~
+0 0 0
+Taranel Road~
+Taranel Road runs to the north and south here, a shady looking district
+that seems to house every overbearing and threatening looking soul in the
+entire town.  A short distance off to the north, the hard packed dirt road
+intersects with Ilangollen Street, and off to mthe south, slopes slightly
+downward to meet the intersection with the Low Road.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20378
+D1
+~
+~
+0 0 20446
+D2
+~
+~
+0 0 20389
+S
+#20380
+0 0
+~
+~
+~
+0 0 0
+An alleyway in Ebon Downs~
+A small alleyway cuts in between a pair of buildings here on the main
+road of Ebon Downs.  Although the surrounding buildings are not very tall
+at all, they seem to cast shadows across the alleyway, even during the peak
+hours of the day.  Shady characters creep about around each corner here, and
+you think that maybe you are wandering into a bad part of town.  
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 20367
+D3
+~
+~
+0 0 20371
+S
+#20381
+0 0
+~
+~
+~
+0 0 0
+The Salty Pork Rind~
+The dimness of this tavern is such that it hurts your eyes.  The paradox
+of that statement is lost on you as you are engulfed in the embrace of a
+group of swarthy men reeking of alcohol and smoke.  The room itself is large
+enough to house a good twenty round tables, and a long bar on the west end
+of the chamber.  The entire atmosphere is fairly seedy, and you definitely
+think you would not recommend this bar to any newbie!  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+panel~
+1 0 20388
+D1
+~
+~
+0 0 20366
+S
+#20382
+0 0
+~
+~
+~
+0 0 0
+The River Bed and Breakfast~
+This room is brightly lit by enclosed lanterns that hang on either side
+of the chamber.  They frame a long receptionist's desk along the east wall,
+where a man stands, taking reservations for rooms in the inn upstairs.  The
+walls are plainly decorated with mundane paintings of landscapes, and
+trophies of fish caught in the local river.  It isn't the most exciting inn
+that you have ever seen, but it definitely is not the worst either.  Behind
+the counter, you can see where a ladder leads the way up to the second
+floor, and to what you presume are the bedchambers.  
+~
+0 0 1
+0
+~
+I 0 D3
+~
+~
+0 0 20366
+D4
+~
+~
+0 0 20383
+S
+#20383
+0 0
+~
+~
+~
+0 0 0
+A bedroom alcove~
+The ladder from downstairs deposits you here in a small, cubical alcove
+that is bordered by a door to each of its four sides.  A pair of lanterns
+provide the lighting here, and the associated shadows are accompanied by a
+smell wafting through the air.  It is quite pleasant actually, and smells of
+lavenders blooming in the fall.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+door~
+1 0 20384
+D1
+~
+door~
+1 0 20387
+D2
+~
+door~
+1 0 20386
+D3
+~
+door~
+1 0 20385
+D5
+~
+~
+0 0 20382
+S
+#20384
+50 100
+~
+~
+~
+0 0 0
+A bedroom at The River Bed~
+You stand in a small cubicle of a chamber that is barely large enough to
+fit the bed and the dresser that exist there.  As you glance around the
+unadorned room, you wonder where you can go to the bathroom in this inn.  As
+you glance out the tiny window in the north wall, you realize that the
+bathroom is a small shack that stands a good fifty feet away from the rear
+of the building.  
+~
+0 0 1
+0
+~
+I 0 D2
+~
+door~
+1 0 20383
+S
+#20385
+0 0
+~
+~
+~
+0 0 0
+A bedroom at The River Bed~
+The room that you have walked into is a tiny cubicle, barely large enough
+for human survival.  In fact, besides the bed and the dresser in the room,
+you would be lucky if you could even carry your bags into the room.  The
+room is dimly lit and smells faintly of lavender and an undercurrent of
+sweat.  Maybe that would explain why the innkeepers would want to burn those
+scented candles...  
+~
+0 J 1
+0
+~
+I 0 D1
+~
+door~
+1 0 20383
+S
+#20386
+0 0
+~
+~
+~
+0 0 0
+A bedroom at The River Bed~
+You stand in the doorway of a tiny room, that you can barely fit your
+buttocks into.  A bed and a dresser standing adjacent to it are the
+furnishings in the room, leaving perhaps enough room to lay down your pack. 
+The room smells faintly of sweat, and the bed sheets are littered with the
+occassional piece of caked mud.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+door~
+1 0 20383
+S
+#20387
+0 0
+~
+~
+~
+0 0 0
+A bedroom at The River Bed~
+The lighting in this room is provided by a single flickering lantern that
+hangs from a hook in the ceiling.  A bed and a dresser are about the only
+things that can fit in this tiny cubicle of a room, it is disgustingly small
+and actually smells a bit like breeches that have not been washed in a
+month.  
+~
+0 0 1
+0
+~
+I 0 D3
+~
+door~
+1 0 20383
+S
+#20388
+0 0
+~
+~
+~
+0 0 0
+The backroom at the Salty Pork Rind~
+You stand in the back room of The Salty Pork Rind, and at first glance,
+it does not appear any cleaner than the main room.  Ale has been spilled
+onto the ground, forming a rather odiferous stench.  Sharp looking knives
+have been jammed into the wooden walls here with great force, and by
+inference, you assume that this is where some of the men come to play at
+knives and darts.  
+~
+0 0 1
+0
+~
+I 0 D2
+~
+panel~
+1 0 20381
+S
+#20389
+0 0
+~
+~
+~
+0 0 0
+Taranel and Low Intersection~
+The Low Road intersects Taranel Road here.  Although the Low Road seems
+to be one of the busiest streets in Ebon Downs, this intersection itself
+does not seem to direct much traffic.  The banks of the Ilangollen flow to the
+south and west here, making you wonder what insane builder would place the
+town right along the shores of the waters.  An embankment has been built up
+against the river side, but it seems to be a tenuous position nevertheless. 
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20379
+D1
+~
+~
+0 0 20397
+D2
+~
+~
+0 0 20445
+D3
+~
+~
+0 0 20462
+S
+#20390
+0 0
+~
+~
+~
+0 0 0
+The Low Road~
+You stand on a road that seems slightly depressed in comparison to the
+main road of Ebon Downs.  Hence, the name Low Road most likely.  In any
+case, the hard packed dirt road extends off to the west here, where it meets
+another street running north and south.  Most of the buildings lining this
+street seem to be businesses, plying their trade.  A short distance off to
+the east, you can see the massive fish fountain that seems to almost
+characterize Ebon Downs.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 20438
+D1
+~
+~
+0 0 20365
+D3
+~
+~
+0 0 20397
+S
+#20391
+0 0
+~
+~
+~
+0 0 0
+On a pier at Ebon Downs~
+The pier under your feet seems to creak with every step you take, even
+though the wood seems to have been treated in some way.  At the end of this
+pier in particular, you can make out the sails of a Sea Folk cutter, its
+thin hull floating majestically above the murky waters of the river below. 
+There are no railings on the pier, and you wonder what would happen if
+someone took the plummet down to the river below.  
+~
+0 0 17
+0
+~
+I 0 D1
+~
+~
+0 0 20362
+D2
+~
+~
+0 0 20459
+D3
+~
+~
+0 0 20392
+D5
+~
+~
+0 0 20393
+S
+#20392
+0 0
+~
+~
+~
+0 0 0
+On a pier at Ebon Downs~
+You have reached the end of the pier, at which a Sea Folk cutter is tied.
+You can't make out anything inside the darkened vessel that looms to the
+north, and the slender Canthi man standing in front of the loading ramp 
+does not seem inclined to let you have a closer look.  Nevertheless, the 
+sight is a majestic one.  If only you could get a peek inside...  
+~
+0 d 17
+0
+~
+I 0 D0
+~
+~
+0 0 20394
+D1
+~
+~
+0 0 20391
+D2
+~
+~
+0 0 34113
+D3
+~
+~
+0 0 20458
+S
+#20393
+0 0
+~
+~
+~
+0 0 0
+The Ilangollen River~
+You're not sure exactly how you fell off the pier, but you won't have
+much time to ponder the subject before you fall into the swirling river. 
+Hopefully, you're a good swimmer and things will turn out for the best.  
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 20460
+D2
+~
+~
+0 0 20457
+D4
+~
+~
+0 0 20391
+S
+#20394
+0 0
+~
+~
+~
+0 0 0
+Ramp to a Sea Folk vessel~
+You stand on a thin wooden plank that has been placed at an angle to
+allow you access to the Sea Folk vessel moored at the pier.  The creaking
+wood of the ramp does not seem like it would support your weight, but
+nevertheless it does, and you can see where the ramp disappears into the
+ship itself.  The waters of the Ilangollen River slosh underneath the ramp
+here, lapping up against the hull of the boat in cyclic waves.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20415
+D2
+~
+~
+0 0 20392
+D3
+~
+~
+0 0 33912
+S
+#20395
+0 40
+91~
+~
+~
+0 0 0
+A quaint home~
+You have walked into a small home, essentially a one room cabin.  It is
+quaintly decorated in sublime greens and violets, and for the stauncher
+masculine warrior types, it almost makes you feel sick.  Pieces of furniture
+have been carefully laid around the room in an effort to maximize space and
+minimize the clutter.  Gently brushed portrait plates hang from the walls in
+between carefully placed reed bundles, all adding to the down home image.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20364
+S
+#20396
+0 0
+~
+~
+~
+0 0 0
+A Visitor's Reception Desk~
+You stand in a small room that has a desk planted in its center.  Behind
+the desk sits a waspy faced man, eager to write down your hometown and
+destination.  Other than the large oak desk, the room is unadorned, and so
+drab it makes you want to vomit.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+door~
+1 0 20364
+S
+#20397
+0 0
+~
+~
+~
+0 0 0
+The Low Road~
+The Low Road continues both to the east and west here, cutting through a
+busy commercial area.  Vendors and shop owners hawk their wares here,
+bumping into you in an effort to get your attention.  It's almost
+claustrophobic here, and you decide you want to get out of this area as
+quickly as possible.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20443
+D1
+~
+~
+0 0 20390
+D2
+~
+~
+0 0 20444
+D3
+~
+~
+0 0 20389
+S
+#20398
+0 0
+~
+~
+~
+0 0 0
+The Body Shop~
+The door opens up into a small front chamber bathed in a think pink
+light.  The room is garishly decorated in pink and light blues, and
+everything seems to be either frilly or puffy.  A number of ladies lounge
+about here, waiting to pick up their next job, which might be you from the
+looks of things!  An open doorway leads off to the east here, to where, your
+naive mind can only wonder.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20400
+D3
+~
+~
+0 0 20369
+S
+#20399
+0 0
+~
+~
+~
+0 0 0
+The Wayfarer's Rest~
+You stand just inside one of the more reputable inns in Ebon Downs, The
+Wayfarer's Rest.  There is nothing visibly special about the inn, except
+perhaps the fact that it is nearly spotless.  Tables of various shapes and
+sizes are scattered about the room, with accompanying chairs.  A bar has
+been established a little bit further to the west here, offering their
+supply of home brew.  The atmosphere here is pleasant, and although the
+smell of smoke is strong, and the conversation loud, you almost feel at home
+here.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20369
+D2
+~
+~
+0 0 20405
+D3
+~
+~
+0 0 20403
+S
+#20400
+0 0
+~
+~
+~
+0 0 0
+The Service Hallway~
+You stand in a short hallway, lit by candles burning in sconces on each
+wall.  A pair of open doorways are partially obscured by silk screens both
+to the north and south here.  Judging from the moaning and squeaking going
+on behind the screens, you think that it might be a good idea to get out of
+here.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 20401
+D2
+~
+door~
+1 0 20402
+D3
+~
+~
+0 0 20398
+S
+#20401
+0 0
+~
+~
+~
+0 0 0
+A seedy bedroom~
+You have entered a room that has as furniture a single bed that rests in
+the middle of the room.  The sheets on the bed are rumpled, and smell of
+sweat, woman, and man.  A soft but garish lantern emanates its pink light
+across the length of the otherwise bare room, the owners of this fine
+establishment spared no expense it seems.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+door~
+1 0 20400
+S
+#20402
+0 0
+~
+~
+~
+0 0 0
+A seedy bedroom~
+Just beyond the silk screen is a room that is bathed in pink light, much
+like the rest of the building.  The floor is uncovered and the only piece of
+furniture here is a small bed in the center.  The sheets on the bed are
+rumpled and are stained yellow in a number of places.  All in all, the scene
+is a gruesome one and you are inclined to turn around and leave.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 20400
+S
+#20403
+0 0
+~
+~
+~
+0 0 0
+The Bar at the Wayfarer's Rest~
+You stand before a brass bar that separates you from the bartender here. 
+Various people stand here, trying to get information, or just looking to buy
+a mug of the Wayfarer's rest home brew.  As you peruse the selection written
+on a piece of slate behind the bar, you are taken aback at the prices of the
+ale here.  Then again you think, money isn't always what it seems here.  Off
+to the south and east, you can see where tables and chairs have been set up,
+and to the southeast, you can see where a small area has been cleared for
+the possibility of a performing gleeman.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20399
+D2
+~
+~
+0 0 20404
+S
+#20404
+0 0
+~
+~
+~
+0 0 0
+The Common Room at The Wayfarer's Rest~
+You stand amidst the tables and chairs that have been placed here in the
+common room.  Serving girls run to and fro, trying to get everyone's order
+and drinks.  The floor here is remarkably clean, and like the furniture, is
+made from a deep, uncracked oak.  Off to the east, you can see where a
+hopeful and enthusiastic audience has cleared a place for any wandering
+gleeman to play.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20403
+D1
+~
+~
+0 0 20405
+D4
+~
+~
+0 0 20406
+S
+#20405
+0 0
+~
+~
+~
+0 0 0
+The Common Room at the Wayfarer's Rest~
+This is the southeast corner of the common room, a bit darker than the
+rest of the main chamber.  A small place has been cleared among the tables
+and chairs here, and a slight platform has been inserted.  You can only
+assume that this is where gleeman perform when the inn has the good fortune
+of obtaining one's services.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20399
+D3
+~
+~
+0 0 20404
+S
+#20406
+0 0
+~
+~
+~
+0 0 0
+Sleeping Chambers at The Wayfarer's Rest~
+You have arrived at the top of the dimly lit staircase.  Off to the
+north, a hallway runs that ends a short ways off in a collection of three
+doors.  The hallway itself is adorned with a few, rather boring paintings
+that seem to be placed there because there was simply nothing else to
+decorate with.  The staircase leads the way down here, back into the smoke
+and ruckus of the common room.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20407
+D5
+~
+~
+0 0 20404
+S
+#20407
+0 0
+~
+~
+~
+0 0 0
+Sleeping Chambers at The Wayfarer's Rest~
+This is the end of the hallway on the second floor.  Doors made from a
+thick, heavy wood confront you to the north, east, and west.  It is amusing
+to look at the architecture of the rooms, since the doors swing outwards,
+two people can't leave their rooms at the same time.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 20408
+D1
+~
+door~
+1 0 20410
+D2
+~
+~
+0 0 20406
+D3
+~
+door~
+1 0 20409
+S
+#20408
+0 0
+~
+~
+~
+0 0 0
+A bedroom~
+Before you is a small chamber, that holds a bed, a small table, a desk,
+and a dresser.  For the money that you have to pay to room in this inn, it
+is not a bad deal at all.  The walls have been thoughtfully decorated with
+small trinkets from Linden, a banner with the lions of Athanmere for
+example.  A small chamberpot sits in the corner of the room, ready to be
+filled.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 20407
+S
+#20409
+0 0
+~
+~
+~
+0 0 0
+A bedroom~
+You stand in a small bedroom here in the Wayfarer's Rest.  A small bed
+stands against the back of the room, framed on either side by a dresser and
+table.  All in all, the room is pretty nondescipt, cozy, but not with any
+extravagant features.  A chamberpot sits in the corner of the room as well,
+saving you a trip to the outhouse that smells up the street outside.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20407
+S
+#20410
+0 0
+~
+~
+~
+0 0 0
+A bedroom~
+This is a small bedroom that you stand in.  It contains a smallish bed, a
+dresser, and most importantly, a brass chamberpot that smells of freshly
+pruned hedges.  The walls of the room have been decorated with various
+banners from various provinces, ranging from Promeria, to that the grand
+capital of Thesden itself.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+door~
+1 0 20407
+S
+#20411
+0 0
+~
+~
+~
+0 0 0
+An alleyway in Ebon Downs~
+You stand in a dark alleyway that extends off to the north here,
+enshrouded in darkness and debris.  Shady looking characters pace back and
+forth here and lounge against the building walls, in anticipation of a
+traveler walking alone.  The air smells of week old rotting meat, and
+assails your nostrils with the force of a sledge hammer driving a nail into
+your nose.  It is sickening, and you decide you probably don't want to stay
+here much longer.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20412
+D2
+~
+~
+0 0 20375
+S
+#20412
+0 0
+~
+~
+~
+0 0 0
+An alleyway in Ebon Downs~
+You have arrived at an intersection in the alleyway, that allows you to
+head either east or west.  The alleyway ends a short ways off to the east,
+in a pile of rubble and broken wooden beams.  Off to the west, you can see a
+worn down looking door, wood grey from water damage and general old age. 
+The building to which the door leads is delapidated looking.  You are amazed
+that it can stand on its own.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20413
+D2
+~
+~
+0 0 20411
+D3
+~
+~
+0 0 20414
+S
+#20413
+91 20
+~
+~
+~
+0 0 0
+A dead end in the alleyway~
+You have arrived at a dead end in the alley here.  A building that was
+not maintained very well has collapsed in front of you, and its bricks and
+supporting trusses have been strewn across the alleyway.  Garbage has been
+intermixed among the debris, making the entire situation one in which you
+want to get out of.   
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20472
+D3
+~
+~
+0 0 20412
+S
+#20414
+0 0
+~
+~
+~
+0 0 0
+Before a rickety house~
+You stand before a rickety looking house, mauled with the passing of
+years and the damage from the elements.  The door that leads into the
+building is grey and worn, but somehow still looks strong, reinforced by
+black steel bars placed across its width.  The windows of the building have
+been boarded shut, though you thought you could see eyes watching you
+through cracks in the slats.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20412
+D3
+~
+door~
+1 0 20452
+S
+#20415
+0 0
+~
+~
+~
+0 0 0
+On a ship of the Canthi Seers~
+You stand on the main deck of the boat, at the edge where a ramp leads
+down to the pier of Ebon Downs.  The deck seems to be made of a deep
+darkened wood, cured and treated so it shines with a peculiar glossy finish.
+The main deck continues off to the north, east.  And west, and a thin rope
+ladder allows you to climb up into the crow's nest.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20416
+D1
+~
+~
+0 0 20418
+D2
+~
+~
+0 0 20394
+D3
+~
+~
+0 0 20417
+D4
+~
+~
+0 0 20435
+S
+#20416
+0 0
+~
+~
+~
+0 0 0
+On the main deck~
+The deck sways slightly under your feet as it adjusts for the swells that
+come into Ebon Downs off the Ilangollen River.  However, the grippy texture
+of the deck enables you to keep your balance easily.  It is a wonder that
+the deck offers such a foothold because at first glance, it appears to be a
+slippery sheen of wood/ice.  Ropes and boxes litter the deck, as the Sea
+Folk prepare for their next trading port-of-call.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20419
+D2
+~
+~
+0 0 20415
+D3
+~
+~
+0 0 20420
+D5
+~
+~
+0 0 20421
+S
+#20417
+0 0
+~
+~
+~
+0 0 0
+On the main deck~
+You stand on the deck of a ship of the Canthi Seers, the fabled Sea
+Folk.  It's a wonder that you have made it this far onto the vessel, with
+all the mysteries that they keep and all.  The wood of the ship is a deep
+brownish black hue, and does not contain the normal grains that you expect
+out of wood.  Also, despite its glossy appearance, the deck provides an
+almost tacky gripping for your feet to dig in, even among the wet
+enbironment of the high seas.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20420
+D1
+~
+~
+0 0 20415
+S
+#20418
+0 0
+~
+~
+~
+0 0 0
+On the main deck~
+This is the main deck of the Sea Folk ship.  The wood of the deck seems
+to be made of some material you have never seen before, a deep blackish
+brown hue that almost does not seem like wood at all.  Although it shines
+with a primordal gleam, it offers the solid foothold necessary when sailing
+on the high seas.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20419
+D3
+~
+~
+0 0 20415
+D4
+~
+~
+0 0 20440
+S
+#20419
+0 0
+~
+~
+~
+0 0 0
+On the main deck~
+You stand at the corner of the main deck here.  A space has been cleared
+among the numerous lines and boxes on the deck for the ladder that leads up
+to the foredeck.  The ladder looks spindly, and you doubt that it could hold
+your weight.  As you look over the edge of the boat, you can see the
+beautiful bends of the Ilangollen River, as it bends away towards Thesden to
+one side, and Promeria to the other.  The sight is an inspiring one, but you
+think that if you stand on this rocking boat much longer, you may have to
+vomit.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 20418
+D3
+~
+~
+0 0 20416
+D4
+~
+~
+0 0 20439
+S
+#20420
+0 0
+~
+~
+~
+0 0 0
+On the main deck~
+You stand on the main deck of a Sea Folk trading clipper, a sleek and
+well designed boat that is capable of cutting through any height of wave and
+water.  The deck itself is made of a brownish black wood that grips your
+feet despite the slippery appearance.  At first glance, ropes and various
+nets and boxes have been strewn haphazardly across the deck, but on closer
+inspection, everything is within easy reach, and filed according to their
+functions.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20416
+D2
+~
+~
+0 0 20417
+S
+#20421
+0 0
+~
+~
+~
+0 0 0
+A Hallway in a Sea Folk Vessel~
+This is a quaintly set up hallway in the center of the Sea Folk ship,
+deep brown wooden panels brightly lit up by softly muted lanterns that glow
+along both the walls and from the ceiling.  There are doors to the south
+west and east here, presumably to what are the bedding chambers of the crew.
+The doors to the east and west require you to walk a bit further down the
+hallway though.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 20423
+D2
+~
+door~
+1 0 20432
+D3
+~
+~
+0 0 20422
+D4
+~
+~
+0 0 20416
+D5
+~
+trapdoor~
+1 0 20424
+S
+#20422
+0 0
+~
+~
+~
+0 0 0
+A Hallway in a Sea Folk Vessel~
+You stand at the western end of a nicely set up hallway inside the
+Atha'an Miere ship.  Doors made from the same deep brown wooden paneling as
+the hallway stand both to the west and south here.  The doors themselves are
+slightly reinforced with bars of black steel that run across their middles. 
+The entire scene makes you feel at home for some reason, a very comfortable
+and pleasing ambience.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 20421
+D2
+~
+door~
+1 0 20433
+D3
+~
+door~
+1 0 20434
+S
+#20423
+0 0
+~
+~
+~
+0 0 0
+A Hallway in a Sea Folk Vessel~
+You have arrived at the eastern end of the hallway here.  Softly glowing
+lanterns provide a sublime lighting that emphasizes the smoothness of the
+wooden panels on the walls, and the artistic construction of the doors
+standing to your east and south.  The doors are reinforced with bands of
+black steel riveted across their middles, but the bands do little to lessen
+the comfortable atmosphere that is present here.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20430
+D2
+~
+door~
+1 0 20431
+D3
+~
+~
+0 0 20421
+S
+#20424
+0 500
+~
+~
+~
+0 0 0
+The Hold of a Sea Folk Vessel~
+You stand in the hold of the Sea Folk vessel, a dark and dank chamber
+that is dominated by the sheer number of boxes and chests that have been
+secured to the walls and the ground here.  Dim, flickering lanterns cast
+their shadows across the low ceilinged hold, making you duck and creep in
+the slosh of water at your feet.  Small cracks of light seep in through the
+rifts of a trap door that sits closed above your head here.  
+~
+0 AD 6
+0
+~
+I 0 D1
+~
+~
+0 0 20426
+D2
+~
+~
+0 0 20428
+D3
+~
+~
+0 0 20425
+D4
+~
+trapdoor~
+1 0 20421
+S
+#20425
+50 100
+~
+~
+~
+0 0 0
+The Hold of a Sea Folk Vessel~
+You stand in the dark and damp hold of the ship, complete with the
+mildewy smell and think layer of water covering the floorboards.  You
+weren't sure if you expected something different, this being a Sea Folk ship
+and all, but nevertheless, it is nothin special.  A darkened large room that
+is lit by the only occassional lantern carefully hooded on the walls.  It is
+quite hard to see down here, and you thought you felt something brush
+against your leg.  
+~
+0 AD 7
+0
+~
+I 0 D1
+~
+~
+0 0 20424
+D2
+~
+~
+0 0 20429
+S
+#20426
+0 0
+~
+~
+~
+0 0 0
+The Hold of a Sea Folk Vessel~
+You stand in a room that is dark and humid as well.  A thin layer of
+water sloshes about your feet, lapping over the chests and boxes that have
+been secured to the ground and to the walls.  You hope those chests are
+waterproof!  Shadows play across your vision as the lanterns on the walls
+flicker on and off, on and off.  You are somewhat disappointed by the entire
+scene, you somehow expected more from the Sea Folk.  
+~
+0 AD 7
+0
+~
+I 0 D2
+~
+~
+0 0 20427
+D3
+~
+~
+0 0 20424
+S
+#20427
+0 0
+~
+~
+~
+0 0 0
+The Hold of a Sea Folk Vessel~
+This is the darkest and wettest corner of the storage hold.  Water seems
+to flow in this direction, soaking you up to your ankles.  The chests and
+boxes strapped to the floor here have been almost completely covered, you
+hope for the Sea Folk's sake that they are waterproof.  Small lanterns
+provide the illumniation for the hold, casting their shadows across the
+area, and making the entire ambience rather ghostly.  
+~
+0 AD 7
+0
+~
+I 0 D0
+~
+~
+0 0 20426
+D3
+~
+~
+0 0 20428
+S
+#20428
+0 500
+~
+~
+~
+0 0 0
+The Hold of a Sea Folk Vessel~
+You stand in the hold of a murky and dim Sea Folk ship.  Shadows play
+across your face and arms as the tiny lanterns fastened to the walls flicker
+back and forth.  A number of chests and boxes clutter the area here,
+fastened to the walls and floor with strong looking rope.  Somehow, you are
+profoundly disappointed with how the hold looks, you expected more from the
+legendary Sea Folk.  
+~
+0 AD 6
+0
+~
+I 0 D0
+~
+~
+0 0 20424
+D1
+~
+~
+0 0 20427
+D3
+~
+~
+0 0 20429
+S
+#20429
+0 0
+~
+~
+~
+0 0 0
+The Hold of a Sea Folk Vessel~
+You stand in the storage hold of the Sea Folk ship, somehow you expected
+it to look differently.  It is dark and the humidity causes perspiration to
+immediately form on your face.  A thin layer of water covers the floor here,
+lapping up to and over the chests and boxes that have been secured to the
+walls and floors here.  In all, the scene is not impressive, and becomes
+even less so when you feel something brush up against your leg.  
+~
+0 AD 7
+0
+~
+I 0 D0
+~
+~
+0 0 20425
+D1
+~
+~
+0 0 20428
+S
+#20430
+0 0
+~
+~
+~
+0 0 0
+A cabin in a Sea Folk Vessel~
+This room is small relative to any normal room in a normal house in a
+normal land.  However, when you think of where you stand, in a boat, you
+think that this mush be a sumptuous quarter indeed.  The room is large
+enough to fit in the swinging hammock in the corner, and a number of metal
+foot lockers.  The room itself is contructed from the same demure wood as
+was used outside in the hallway.  Light is provided from small balls that
+hang from the ceiling, glowing with a soft light.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+door~
+1 0 20423
+S
+#20431
+0 0
+~
+~
+~
+0 0 0
+A cabin in a Sea Folk Vessel~
+The doorway opens up into a smallish looking chamber that is made from
+the same soft wooden material as the paneling outside in the hallway.  A
+single glowing ball hanging from the ceiling provides the illumination in
+the room, casting its soft light to each corner of the room.  A hammock
+swings slowly to and fro in one corner of the room, while a small dresser
+occupies another corner.  It has been quaintly done, and does not have very
+much in the way of furnishings.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 20423
+S
+#20432
+50 100
+The captain shares his ocean maps with you. Your experience increases by 100 points.~
+~
+~
+0 0 0
+The captain's quarters~
+This room is at the very center of the majestic Canthi ship.  As you step
+through the doorway, the room opens up into a spacious bowl, slightly
+depressed at the center, where a full sized bed rests, bolted tightly
+against the floor.  All around the walls of the room, paintings and ornate
+tapestries hang from golden rods strung across the ceiling.  Other various
+pieces of furniture lie around here, everything secured to the ground by
+bolts and small clasps.  It is a beautiful room, especially inside a ship as
+it is.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 20421
+S
+#20433
+0 0
+~
+~
+~
+0 0 0
+A cabin in a Sea Folk Vessel~
+You stand in yet another cabin in the ship of the Canthi Seers.  It is
+like the other rooms you have been in before, small with a hammock in one
+corner and a dresser rounding out the furnishings.  The light is provided by
+a small ball that hangs from the ceiling, illuminating the deep brown wooden
+paneling that graces the room.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 20422
+S
+#20434
+0 0
+~
+~
+~
+0 0 0
+A cabin in a Sea Folk Vessel~
+You stand in a small room that is made from the same soft, deep brown
+wood that the panels in the hallway are made from.  A single large glowing
+ball hangs suspended from a fine wire from the ceiling, providing the
+illumination in the room.  A hammock has been strung up between two poles in
+one of he corners, the rest of the room is spent by pieces of furniture and
+other basic living utilities.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20422
+S
+#20435
+0 0
+~
+~
+~
+0 0 0
+Climbing the mast~
+You cling tenunously to the rope ladder that wavers in the wind and
+swings with your every weight shift.  You wonder about the craziness of the
+Canthis and their refusal to stabilize this rope ladder.  You take
+comfort only in the fact that it is a shorter fall than it is to climb to
+the top.  And a small comfort that is.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 20436
+D5
+~
+~
+0 0 20415
+S
+#20436
+0 0
+~
+~
+~
+0 0 0
+Climbing the mast~
+You continue your perilous ascent up the rope ladder and consider
+yourself lucky that you have gotten even this far.  The wind shear is
+terrible, and you feel as if your limbs are being torn from your body.  But
+you might as well continue, because the crow's nest of the ship is only a
+short ways upwards.  
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 20437
+D5
+~
+~
+0 0 20435
+S
+#20437
+0 0
+~
+~
+~
+0 0 0
+A crow's nest~
+Phew!  At last you are out of the danger of the dangling rope ladder, and
+into the relatively sheltered confines of the crow's nest.  However, after
+you sit here and rest for a moment, you realize that the entire mast is
+swaying in the heavy winds blowing from inland.  You start to think that
+although the view from here is stunning, it wasn't such a great idea after
+all.  
+~
+0 JT 0
+0
+~
+I 0 D5
+~
+~
+0 0 20436
+S
+#20438
+0 0
+~
+~
+~
+0 0 0
+A blacksmith's shop~
+You stand in a small building, essentially one large room that rings with
+the sound of a hammer clanging on an anvil.  A blaze of a furnace is lit
+towards the back of the room, further fed by a foot worked bellow.  Various
+metal workings hang from the walls here, ranging from horse shoes to poorly
+crafted swords.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 20390
+S
+#20439
+0 0
+~
+~
+~
+0 0 0
+On the foredeck~
+You stand on a slightly raised part of the vessel's deck, constructed of
+the same material as the main deck.  Off a short ways to the east, you can
+see where a small steering wheel has been fastened to the rail of the ship,
+also made form the same brownish black wood.  A frail looking ladder leads
+the way down to the main deck here as well.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20441
+D2
+~
+~
+0 0 20440
+D5
+~
+~
+0 0 20419
+S
+#20440
+0 0
+~
+~
+~
+0 0 0
+On the foredeck~
+You stand on the foredeck of the Canthi Seers' ship, elevated slightly
+from the main deck and accessible through the ladder that you have just
+climbed up.  The foredeck all in all is very similar to the main deck except
+for the fact that the clutter of the main deck does not exist here.  Also,
+you can see that at the very point of the ship, a disc shaped wheel has been
+fastened to the railing, presumably the steering mechanism for this ship.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20439
+D1
+~
+~
+0 0 20442
+D5
+~
+~
+0 0 20418
+S
+#20441
+0 0
+~
+~
+~
+0 0 0
+On the foredeck~
+You stand at the very tip of the Sea Folk ship, at the point where the
+helmsman steers the boat with the small disc of a wheel that has been
+fastened to the railing of the ship.  You can see almost directly down onto
+the water from here, and it gives you the feeling that at the first ocean
+swell, you will fall out of the boat.  The view must be magnificent though. 
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 20442
+D3
+~
+~
+0 0 20439
+S
+#20442
+0 0
+~
+~
+~
+0 0 0
+On the foredeck~
+You stand on the elevated foredeck of the ship, constructed from the same
+brownish black wood as the rest of the vessel.  In contrast to the main deck
+below, the foredeck is clear of any type of debris, as the helmsman surely
+needs room to maneuver.  The view off the ship here is magnificent, as you
+can look almost directly down upon the water.  It gives you the feeling of
+being suspended in mid air, and a feeling of nausea as well.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20441
+D3
+~
+~
+0 0 20440
+S
+#20443
+0 0
+~
+~
+~
+0 0 0
+A farmer's market~
+People run to and fro here, as they race each other to buy the freshest
+fruits and vegetables that the market has to offer.  The smell of freshly
+picked greens permeates through the air, and you decide that you might want
+to go ahead and buy something.  Or steal something, since that's what it
+seems everyone else is doing.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 20397
+S
+#20444
+0 0
+~
+~
+~
+0 0 0
+Fish and Tackle Shop~
+This is perhaps one of the more important shops in the entire
+Ebon Downs, as it helps to promote one of its most major industries,
+fishing.  All sorts of hooks and lines hang from the walls here, and the
+entire place smells peculiarly of fish and seafood.  A seedy looking man
+looks at you from behind a counter on the east wall, waiting to service you.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20397
+S
+#20445
+0 0
+~
+~
+~
+0 0 0
+The Waterwheel~
+The sound of rushing water is almost deafening here, as the rushing
+current of the Ilangollen River spins the massive wooden wheel in front of
+you.  The spray of water patters against your face, if you let it, it will
+soak you through in no time.  You aren't sure what is done with the wheel as
+it turns, but then again, you never were an electrical engineer.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 20389
+D5
+~
+~
+0 0 20460
+S
+#20446
+0 0
+~
+~
+~
+0 0 0
+The stables~
+The stench of horse dung is overpowering as you walk into the stables
+here at Ebon Downs.  Hay that has gone green with age and rot litters the
+ground as well as the intermixed droppings of horses.  A number of not so
+fine animals stand in stalls here, and you think that it is no wonder
+Ebon Downs is known as a port town, and not for their horses.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 20379
+S
+#20447
+0 0
+~
+~
+~
+0 0 0
+A small house~
+You stand just inside a small house, plainly decorated and quite boring
+in fact.  The vast majority of homes in Ebon Downs look almost exactly like
+this one.  Sturdy wood, sparse furnishings, and just a general feeling of
+unkemptness.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 20378
+S
+#20448
+0 0
+~
+~
+~
+0 0 0
+A small house~
+You stand just inside a small house in Ebon Downs.  The walls are made
+from sturdy wood and have been painted a plain white, matching the almost
+plain and boring charisma of this town.  The furnishings are sparse as well,
+consisting of a bed, dresser, and a few other minor amenities.  All in all,
+the home is fairly boring, much like the population of the town.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 20377
+S
+#20449
+0 0
+~
+~
+~
+0 0 0
+A small house~
+This is yet another small house in Ebon Downs.  The walls are made from
+the typical sturdy wood of Ebon Downs, and also typically boring with its
+sparse furnishings and unadorned walls.  It gives you the feeling of living
+in a shelter made for refugees, a generic home made quickly in a time of
+need.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 20376
+S
+#20450
+0 0
+~
+~
+~
+0 0 0
+Town Meeting Hall~
+You have entered a large, spacious chamber that opens up on both sides,
+and contains rows and rows of plain wooden benches.  A podium has been
+erected at the front of the room, presumably for speakers to project their
+voices better.  The walls are adorned with the portraits of the famous
+people of Ebon Downs, evidently they were not too famous, because you have
+never heard of them before.  A hole has been cut in the ceiling and replaced
+with glass in this room, allowing sunlight to add to the already brightly
+lit room.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 20370
+S
+#20451
+91 100
+~
+~
+~
+0 0 0
+How the hell did you get here?~
+~
+0 C 0
+0
+~
+I 0 S
+#20452
+0 0
+~
+~
+~
+0 0 0
+A darkened foyer~
+You stand in the foyer of a home that must once have been a magnificent
+one.  The gold that used to plate the walls has peeled off and looks more
+like brass than any other precious metal.  Small candles burn on the walls
+here, softly illuminating the square chamber.  A large tapetestry hangs to
+the north, worn on its right side by the passage of time.  
+~
+0 A 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20414
+D3
+~
+tapestry~
+1 0 20453
+D4
+~
+grate~
+1 0 20456
+S
+#20453
+0 0
+~
+~
+~
+0 0 0
+A darkened hallway~
+You stand in a darkened hallway in the house, an unadorned passage that
+seems to swallow up your light.  The hallway continues off to the west, and
+opens up into the foyer through the secret door to the east.  
+~
+0 A 0
+0
+~
+I 0 D1
+~
+tapestry~
+1 0 20452
+D3
+~
+door~
+1 0 20454
+S
+#20454
+0 0
+~
+~
+~
+0 0 0
+A darkened hallway~
+You stand in a darkened hallway that runs off to the east and west. 
+There is absolutely no lighting here at all, you would have to be familiar
+with the area to walk through here without any difficulty at all.  A large
+oaken doorr stands slightly ajar to the west here, hiding who knows what.  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20453
+D3
+~
+door~
+1 0 20455
+S
+#20455
+0 0
+~
+~
+~
+0 0 0
+A dingy hideout~
+You stand in a darkened room, littered with empty food containers and a
+number of other wastes.  It smells stale in here, perhaps due to the fact
+that there is no ventilation anywhere to be found.  A small table is the
+only furnishing of the room, covered with a collection of books and maps. 
+This is the hideout for the criminal element in town, darkfriends and normal
+ruffians alike.  A door off to the east stands slightly ajar, you can see
+where it leads off into a darkened hallway beyond the door.  
+~
+0 A 0
+0
+~
+I 0 D1
+~
+door~
+1 0 20454
+S
+#20456
+50 300
+~
+~
+~
+0 0 0
+A murder hole~
+You stand on top a thick metal grating, through which you can look down
+upon the entrance to the house.  In case you are not too perceptive, this
+allows you to rain fire and acid, and arrows down upon potential intruders. 
+It is dark here, as dark as the hallway below.  The grating has hinges that
+open up to the left, and a thin wire ladder that leads back down to the
+hallway below.  
+~
+0 A 0
+0
+~
+I 0 D5
+~
+grate~
+1 0 20452
+S
+#20457
+0 0
+~
+~
+~
+0 0 0
+The Ilangollen River~
+You find yourself floating lazily along the Ilangollen River, buoyed by its
+rippling white currents, racing through the clean cut banks of the river. 
+You find that although you are buoyed above the currents, you are being
+soaked through to the skin, and the water is cold!  
+~
+0 C 7
+0
+~
+I 0 D0
+~
+~
+0 0 20393
+S
+#20458
+0 0
+~
+~
+~
+0 0 0
+At the end of a pier~
+The pier under your feet seems to creak with every step you take, even
+though the wood seems to have been treated in some way.  Close by to the
+northeast, the distinctive mast and sails of a Sea Folk cutter can be seen,
+with its thin hull floating majestically above the murky waters of the river
+inlet below.  There are no railings on the pier, and you wonder what would
+happen if someone took the plummet down to the river below.
+~
+0 d 17
+0
+~
+I 0 D0
+~
+~
+0 0 33912
+D1
+~
+~
+0 0 20392
+D2
+~
+~
+0 0 34112
+D3
+~
+~
+0 0 34011
+S
+#20459
+0 0
+~
+~
+~
+0 0 0
+On a pier at Ebon Downs~
+The pier under your feet seems to creak with every step you take, even
+though the wood seems to have been treated in some way.  Close by to the
+northwest, the distinctive mast and sails of a Sea Folk cutter can be seen, 
+with its thin hull floating majestically over the murky waters of the river
+inlet below.  There are no railings on the pier, and you wonder what would
+happen if someone took the plummet down to the river below.
+~
+0 d 0
+0
+~
+I 0 D0
+~
+~
+0 0 20391
+D1
+~
+~
+0 0 34115
+D2
+~
+~
+0 0 20467
+D3
+~
+~
+0 0 34113
+S
+#20460
+0 0
+~
+~
+~
+0 0 0
+The Ilangollen River~
+You have reached a bend in the Ilangollen River here, as it curves gently
+to the east.  The waters themselves are anything but gentle though, as the
+rapids buffet you and toss you about the width of the river.  You can see
+the town of Ebon Downs overlooking the river off to the east, you wonder if
+anyone in town would be willing to help you out.  
+~
+0 C 7
+0
+~
+I 0 D2
+~
+~
+0 0 20393
+D3
+~
+~
+0 0 20461
+D4
+~
+~
+0 0 20445
+S
+#20461
+0 0
+~
+~
+~
+0 0 0
+The Ilangollen River~
+The Ilangollen River runs to the south of the town of Ebon Downs here, its
+rapids directing you to the south and downstream.  You are already soaked
+through, and you can only think of getting out of these chilly waters as
+soon as possible.  
+~
+0 C 7
+0
+~
+I 0 D1
+~
+~
+0 0 20460
+D3
+~
+~
+0 0 13491
+D4
+~
+~
+0 0 13506
+S
+#20462
+0 0
+~
+~
+~
+0 0 0
+On the Outskirts of Ebon Downs~
+You come down off the Ebon Downs itself, and can see the town proper
+nestled cozily up against the river bend up ahead.  The road you travel on
+now is hard packed dirt, and little seems to change as you enter the town. 
+The road winds its way east, into the small homes and businesses that have
+been erected along the river.  All in all, the town is nothing amazing,
+especially in view of the dazzling bridge just to its west.  
+~
+0 C 0
+0
+~
+I 0 D0
+~
+~
+0 0 13464
+D1
+~
+~
+0 0 20389
+D3
+~
+~
+0 0 13477
+S
+#20463
+0 0
+~
+~
+~
+0 0 0
+High Street~
+High Street continues both to the east and west here.  Off to the east,
+you can see where it merges to become the Eastern Road, on its way to the
+fabled city of Promeria.  The High Road has gotten its name because the hard
+packed dirt that you stand on seems to have been lumped over time and time
+again, and has thus become higher than the surrounding terrain.  The
+buildings on either side of High Street look fairly old, and it makes
+Ebon Downs look pretty shabby from this perspective.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20464
+D3
+~
+~
+0 0 20368
+S
+#20464
+0 0
+~
+~
+~
+0 0 0
+On the Outskirts of Ebon Downs~
+You stand on the outskirts of the town called Ebon Downs, a collection
+of small businesses, homes, and most importantly, a port town.  The Eastern
+Road winds its way through small homes and the occasional shack on its way
+into the city proper.  As you walk towards the city, you notice that the
+elevation is getting slightly higher, as the perspective on the surrounding
+terrain changes.  In any case, Ebon Downs is just off to the west, as is
+the Ilangollen River, so you may as well have a looksee.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 20361
+D3
+~
+~
+0 0 20463
+S
+#20465
+0 0
+~
+~
+~
+0 0 0
+Upon the Sunbleached Cliffs~
+You find yourself ascending as you travel a path that skirts the
+sunbleached cliffs of Ebon Downs.  The rocks that you climb have been
+bleached a crystalized white by the unrelentless sun.  The interminable
+ocean swells and forths beneath you to the south and the east.  
+~
+0 BX 4
+0
+~
+I 0 D1
+~
+~
+0 0 20466
+D3
+~
+~
+0 0 20361
+S
+#20466
+0 0
+~
+~
+~
+0 0 0
+Upon the Sunbleached Cliffs~
+You take extra care to monitor your footing as the path you travel is no
+longer a real path.  Instead, you find yourself climbing the marbelized
+rocks that make up this cliff face, all the while enjoying the beautiful
+view that this altitude is affording you.  
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 20468
+D3
+~
+~
+0 0 20465
+S
+#20467
+0 0
+~
+~
+~
+0 0 0
+On a pier at Ebon Downs~
+The pier under your feet seems to creak with every step you take, even
+though the wood seems to have been treated in some way.  Nearby to the
+northwest, the distinctive mast and sails of a Sea Folk cutter can be seen,
+with its thin hull floating majestically above the murky waters of the river
+inlet below.  There are no railings on the pier, and you wonder what would
+happen if someone took the plummet down to the river below.
+~
+0 d 0
+0
+~
+I 0 D0
+~
+~
+0 0 20459
+D1
+~
+~
+0 0 34215
+D2
+~
+~
+0 0 34314
+D3
+~
+~
+0 0 34213
+S
+#20468
+0 0
+~
+~
+~
+0 0 0
+Upon the Sunbleached Cliffs~
+The view from this incline is spectacular, with the ocean stretched out
+before you in three directions.  Looking down below, you can see the
+whitewater created by angry waves pummeling the side of the cliffs.  
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 20469
+D2
+~
+~
+0 0 20466
+S
+#20469
+0 0
+~
+~
+~
+0 0 0
+Upon the Sunbleached Cliffs~
+You stand at the pinnacle of these gleaming sunbleached cliffs.  Battered
+over time by sun and sea, the surface of these rocks are smooth and
+edgeless.  The ocean stretches out before you, an endless wave of cerulean
+blue.  Looking down, you see a small cove that you think you might be able
+to reach by scaling the cliff face, though you take great precaution for one
+false move could send you smashed against the rock face.  
+~
+0 B 4
+0
+~
+I 0 D3
+~
+~
+0 0 20468
+S
+#20470
+0 0
+~
+~
+~
+0 0 0
+Dead Man's Cove~
+Clinging to the side of the rock face with all your might, it becomes
+evident why locals call this place Dead Man's Cove.  Completely unprotected
+from the ocean and weather, this easternmost point of exposed land suffers
+the brutality of vicious wind and unrelentless waves.  To the west, you spy
+a cave entrance, though you can't tell from here how deep it goes.  You can
+also attempt to scale the cliffs above, and see what lays above ground.  
+~
+0 B 17
+0
+~
+I 0 D1
+~
+~
+0 0 33621
+D2
+~
+~
+0 0 33720
+D3
+~
+door~
+1 0 12212
+S
+#20471
+0 0
+~
+~
+~
+0 0 0
+On a pier at Ebon Downs~
+The pier under your feet seems to creak with every step you take, even though
+the wood seems to have been treated in some way.  Far to the west, the
+distinctive mast and sails of a Sea Folk cutter can be seen, with its thin
+hull floating majestically over the murky waters of the river inlet below.
+There are no railings on the pier, and you wonder what would happen if someone
+took the plummet down to the river below.
+~
+0 d 17
+0
+~
+I 0 D1
+~
+~
+0 0 34017
+D2
+~
+~
+0 0 34116
+D3
+~
+~
+0 0 20362
+S
+#20472
+0 0
+~
+~
+~
+256 512 0
+`aEntrance to the Assassin's Guild``~
+`aAs you walk further onth the darkness of the alley, the sounds of the
+city fade away behind you.  It is clear that you have entered a part of the
+alley where few citizens dare to tread, as evidenced by the rather abrupt
+dropoff in the litter lying around.  The wind howls around you, blowing the
+occasional scrap of paper across your feet.  You may retreat back towards
+the safety of the town to your south, or continue down this alley as it
+turns eastward.  `` 
+~
+0 N 0
+0
+~
+I 0 D1
+~
+~
+0 0 20473
+D2
+~
+~
+0 0 20413
+S
+#20473
+0 0
+~
+~
+~
+256 512 0
+`aAnother curve in the alley``~
+`aThe alley takes a turn to the south here, wrapping itself around wall
+that lies to the southwest, almost as though the wall was built for the sole
+purpose of hiding what is on this side of it.  A simple doorway in the north
+wall leads to a room beyond.  The garbage-strewn alley you initially passed
+through was clearly nothing more than a ruse, because this part of the alley
+is immaculate.  `` 
+~
+0 N 0
+0
+~
+I 0 D0
+~
+door~
+4193 0 20475
+D1
+~
+~
+0 0 20476
+D2
+~
+~
+0 0 20474
+D3
+~
+~
+0 0 20472
+S
+#20474
+0 0
+~
+~
+~
+256 512 0
+`aA dead end in the alley``~
+The alley comes to an end here, most likely because there wassimply no
+obvious reason for it to continue.  The only physical exit is to the north,
+where the alleyway turns west out of sight.  You are surrounded by walls in
+all other directions.  The only noteworthy fixture in this room also happens
+to be one of the most remarkable fixtures you have ever seen.  A massive
+portal in the shape of a circle, ten feet across takes up the entire south
+wall.  Within it is a maelstrom of swirling grey mists.  The portal looks as
+though it has been here for quite some time and it looks very stable.  
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 20473
+S
+#20475
+0 0
+~
+~
+~
+256 512 0
+`aShrine of the Master Killer``~
+You find yourself in a comfortable room adorned in a simple, yet
+respectable fashion.  The obsidian floor has been polished to a mirror
+finish and you gaze down into it to see a shadowy reflection of yourself. 
+Along the walls, torches have been mounted to cast a soft glow on the room. 
+The only exit is by means of a doorway to the south.  In the middle of the
+north wall sits an overstuffed leather chair.  This room is the shrine of
+the master assassin, and it's where assassins come to be educated in the
+ways of killing.  
+~
+0 DN 0
+0
+~
+H150
+I 0 M150
+D2
+~
+door~
+4193 0 20473
+S
+#20476
+0 0
+~
+~
+~
+256 512 0
+`aAssassins' Black Market``~
+~
+0 N 0
+0
+~
+I 0 D3
+~
+~
+0 0 20473
+S
+#20477
+0 0
+~
+~
+~
+0 0 0
+Squinty Cross-eye's Tattoo Parlor~
+`bThis is the tattoo parlor, the place you want to go if you want to scar
+your skin for the rest of your life.  Pictures of various tattoos hang on
+the walls, everything from pretty little birds to nude women in compromising
+poses.``
+``
+`bA sign placed on the counter reads: '`kTATTOOS ARE PERMANENT`b'``
+~
+0 D 1
+0
+~
+I 0 E
+warning~
+`bA tattoo is a permanent thing, there is no turning back once it is on
+your skin.  It will stick with you through life and death.``
+``
+`kOOC
+`bOnce you pick a tattoo and it's inked to your character it will not 
+come off, and you will NOT be able to restring it at a later date.``
+~
+D1
+~
+door~
+4097 0 20478
+D3
+~
+~
+0 0 20367
+S
+#20478
+0 0
+~
+~
+~
+0 0 0
+`bThe Inker's room``~
+`aSmoke whirls around this dimly lit room as you enter, a small candle
+flutters on a table next to an old canthi - probably the owner of this shop.
+~
+0 D 1
+0
+~
+I 0 D3
+~
+door~
+4097 0 20477
+S
+#0
+
+#RESETS
+D 0 20364   1    1	* Bridge Street [east]
+D 0 20364   3    1	* Bridge Street [west]
+D 0 20369   3    1	* Bridge Street [west]
+D 0 20376   0    1	* Ilangollen Street [north]
+D 0 20377   0    1	* Ilangollen Street [north]
+D 0 20378   0    1	* Taranel and Ilangollen [north]
+D 0 20381   0    1	* The Salty Pork Rind [north]
+D 0 20383   0    1	* A bedroom alcove [north]
+D 0 20383   1    1	* A bedroom alcove [east]
+D 0 20383   2    1	* A bedroom alcove [south]
+D 0 20383   3    1	* A bedroom alcove [west]
+D 0 20384   2    1	* A bedroom at The River Bed [south]
+D 0 20385   1    1	* A bedroom at The River Bed [east]
+D 0 20386   0    1	* A bedroom at The River Bed [north]
+D 0 20387   3    1	* A bedroom at The River Bed [west]
+D 0 20388   2    1	* The backroom at the Salty Pork Rind [south]
+D 0 20395   1    1	* A quaint home [east]
+D 0 20396   3    1	* A Visitor's Reception Desk [west]
+D 0 20399   1    1	* The Wayfarer's Rest [east]
+D 0 20400   0    1	* The Service Hallway [north]
+D 0 20400   2    1	* The Service Hallway [south]
+D 0 20401   2    1	* A seedy bedroom [south]
+D 0 20402   0    1	* A seedy bedroom [north]
+D 0 20407   0    1	* Sleeping Chambers at The Wayfarer's Rest [north]
+D 0 20407   1    1	* Sleeping Chambers at The Wayfarer's Rest [east]
+D 0 20407   3    1	* Sleeping Chambers at The Wayfarer's Rest [west]
+D 0 20408   2    1	* A bedroom [south]
+D 0 20409   1    1	* A bedroom [east]
+D 0 20410   3    1	* A bedroom [west]
+D 0 20414   3    1	* Before a rickety house [west]
+D 0 20421   2    1	* A Hallway in a Sea Folk Vessel [south]
+D 0 20421   5    1	* A Hallway in a Sea Folk Vessel [down]
+D 0 20422   2    1	* A Hallway in a Sea Folk Vessel [south]
+D 0 20422   3    1	* A Hallway in a Sea Folk Vessel [west]
+D 0 20423   1    1	* A Hallway in a Sea Folk Vessel [east]
+D 0 20423   2    1	* A Hallway in a Sea Folk Vessel [south]
+D 0 20424   4    1	* The Hold of a Sea Folk Vessel [up]
+D 0 20430   3    1	* A cabin in a Sea Folk Vessel [west]
+D 0 20431   0    1	* A cabin in a Sea Folk Vessel [north]
+D 0 20432   0    1	* The captain's quarters [north]
+D 0 20433   0    1	* A cabin in a Sea Folk Vessel [north]
+D 0 20434   1    1	* A cabin in a Sea Folk Vessel [east]
+D 0 20447   2    1	* A small house [south]
+D 0 20448   2    1	* A small house [south]
+D 0 20449   2    1	* A small house [south]
+D 0 20452   1    1	* A darkened foyer [east]
+D 0 20452   3    1	* A darkened foyer [west]
+D 0 20452   4    1	* A darkened foyer [up]
+D 0 20453   1    1	* A darkened hallway [east]
+D 0 20453   3    1	* A darkened hallway [west]
+D 0 20454   1    1	* A darkened hallway [east]
+D 0 20454   3    1	* A darkened hallway [west]
+D 0 20455   1    1	* A dingy hideout [east]
+D 0 20456   5    1	* A murder hole [down]
+M 0 20368   1 20363  1	* A small child
+O 0 20371   0 20365 -1	* A fountain at Ebon Downs Circle
+M 0 20362   1 20365  1	* A sleepy villager
+M 0 20365   1 20365  1	* A small boy
+M 0 20368   1 20366  1	* A small child
+M 0 20362   1 20367  1	* A sleepy villager
+M 0 20380   1 20371  1	* A mugger
+E 0 20382   -1   17	* item to A mugger
+M 0 20373   1 20372  1	* A filthy beggar
+M 0 20378   1 20373  1	* A squatter
+E 0 20376   -1    5	* item to A squatter
+O 0 20383   0 20373 -1	* `da `cpile `dof `creeking `dv`co`bm`ci`dt`` at Shantyville
+M 0 20378   1 20374  1	* A squatter
+E 0 20376   -1    5	* item to A squatter
+O 0 20383   0 20374 -1	* `da `cpile `dof `creeking `dv`co`bm`ci`dt`` at Shantyville
+M 0 20363   1 20375  1	* An ugly villager
+M 0 20363   1 20376  1	* An ugly villager
+M 0 20365   1 20376  1	* A small boy
+M 0 20363   1 20378  1	* An ugly villager
+O 0 20362   0 20381 -1	* A bar at The Salty Pork Rind
+M 0 20374   1 20381  1	* Seth the bartender
+G 0 20367 -1		* A bottle of local specialty to Seth the Bartender
+M 0 20384   1 20381  1	* A bar patron
+E 0 20394   -1   17	* item to A bar patron
+O 0 20364   0 20382 -1	* A check in counter at The River Bed and Breakfast
+M 0 20375   1 20382  1	* A receptionist
+M 0 20392   1 20384  1	* A relaxing adventurer
+E 0 20370   -1    5	* item to A relaxing adventurer
+M 0 20364   1 20391  1	* A swarthy fisherman
+M 0 20366   1 20394  1	* A guardian of the canthi seers
+E 0 20388   -1    7	* item to A guardian of the canthi seers
+E 0 20375   -1   13	* item to A guardian of the canthi seers
+O 0 20361   0 20396 -1	* Desk oaken at A Visitor's Reception Desk
+M 0 20376   1 20396  1	* A check in clerk
+M 0 20362   1 20397  1	* A sleepy villager
+M 0 20383   1 20398  1	* A female pimp
+E 0 20393   -1   17	* item to A female pimp
+M 0 20384   1 20399  1	* A bar patron
+E 0 20394   -1   17	* item to A bar patron
+M 0 20385   1 20399  1	* A serving girl
+M 0 20382   1 20401  1	* The surly srumpet
+M 0 20382   1 20402  1	* The surly srumpet
+M 0 20384   1 20403  1	* A bar patron
+E 0 20394   -1   17	* item to A bar patron
+M 0 20386   1 20403  1	* A retired worker
+M 0 20384   1 20404  1	* A bar patron
+E 0 20394   -1   17	* item to A bar patron
+M 0 20385   1 20404  1	* A serving girl
+G 0 20378 -1		* An alabaster chalk potion to a serving girl
+M 0 20384   1 20405  1	* A bar patron
+E 0 20394   -1   17	* item to A bar patron
+M 0 20385   1 20405  1	* A serving girl
+O 0 20381   0 20408 -1	* A scroll bar at A bedroom
+M 0 20373   1 20411  1	* A filthy beggar
+M 0 20380   1 20412  1	* A mugger
+E 0 20382   -1   17	* item to A mugger
+M 0 20380   1 20413  1	* A mugger
+M 0 20372   1 20416  1	* A sea folk deckhand
+E 0 20388   -1    7	* item to A sea folk deckhand
+M 0 20372   1 20418  1	* A sea folk deckhand
+E 0 20388   -1    7	* item to A sea folk deckhand
+M 0 20391   1 20424  1	* A water snake
+O 0 20385   0 20427 -1	* A sturdy iron chest at The Hold of a Sea Folk Vessel
+P 0 20387 1 20385 1
+M 0 20391   1 20428  1	* A water snake
+M 0 20387   1 20430  1	* A canthi seer
+E 0 20374   -1    3	* item to A canthi seer
+M 0 20388   1 20431  1	* First mate of the canthi seers
+E 0 20396   -1   16	* item to First mate of the canthi seers
+M 0 20390   1 20432  1	* Captain of the canthi seers
+E 0 20389   -1   10	* item to Captain of the canthi seers
+G 0 20386 -1		* `ga turquoise key`` to Captain of the Canthi Seers
+M 0 20389   1 20433  1	* A sea folk cook
+E 0 20397   -1   16	* item to A sea folk cook
+M 0 20371   1 20437  1	* A sea folk deckhand
+E 0 20388   -1    7	* item to A sea folk deckhand
+O 0 20363   0 20438 -1	* An anvil at A blacksmith's shop
+M 0 20369   1 20438  1	* A burly blacksmith
+E 0 20380   -1   16	* item to A burly blacksmith
+M 0 20371   1 20441  1	* A sea folk deckhand
+E 0 20388   -1    7	* item to A sea folk deckhand
+M 0 20371   1 20442  1	* A sea folk deckhand
+E 0 20388   -1    7	* item to A sea folk deckhand
+O 0 20365   0 20445 -1	* A waterwheel at The Waterwheel
+M 0 20370   1 20445  1	* A waterwheel worker
+M 0 20395   1 20447  1	* A surprised villager
+E 0 20390   -1    9	* item to A surprised villager
+M 0 20367   1 20448  1	* A surprised villager
+E 0 20390   -1    9	* item to A surprised villager
+M 0 20396   1 20449  1	* A surprised villager
+E 0 20390   -1    9	* item to A surprised villager
+O 0 20366   0 20450 -1	* A podium at Town Meeting Hall
+M 0 20394   1 20453  1	* A shadow courier
+E 0 20373   -1    7	* item to A shadow courier
+M 0 20393   1 20455  1	* A shadow keeper
+E 0 20384   -1    6	* item to A shadow keeper
+E 0 20369   -1    1	* item to A shadow keeper
+O 0 20379   0 20462 -1	* A sign post at On the Outskirts of Ebon Downs
+O 0 20379   0 20464 -1	* A sign post at On the Outskirts of Ebon Downs
+M 0 20379   1 20450  1	* The mayor of ebon downs
+E 0 20398   -1   18	* item to The mayor of ebon downs
+M 0 20397   1 20444  1	* Borlin, the bass master
+G 0 20399 -1		* A can of worms to Borlin, the bass master
+G 0 20400 -1		* A rusted tin pail to Borlin, the bass master
+G 0 20401 -1		* A large metal hook to Borlin, the bass master
+G 0 20402 -1		* `oa necklace made of `dse`ca`dw`ce`ded `oand `hcoral`` to Borlin, the bass master
+M 0 20398   1 20443  1	* Salena
+G 0 20391 -1		* `ia batch of fresh `bs`it`br`ia`bw`ib`be`ir`br`ii`be`is`` to Salena
+G 0 20392 -1		* A sliced canteloupe to Salena
+M 0 20399   2 20446  1	* A mustang
+M 0 20400   1 20377  1	* The old man
+E 0 20403   -1   18	* item to The old man
+M 0 20401   2 20390  1	* A drunk sailor
+M 0 20402   1 20463  1	* A feeble old woman
+M 0 20403   1 20362  1	* A fisherman
+O 0 20404   0 20470 -1	* The cliffs at Dead Man's Cove
+O 0 20405   0 20469 -1	* The cliffs at Upon the Sunbleached Cliffs
+D 0 20470   3    1	* Dead Man's Cove [west]
+M 0 20392   1 20387  1	* A relaxing adventurer
+E 0 20377   -1   17	* item to A relaxing adventurer
+O 0 20406   0 20385 -1	* A canopied bed at A bedroom at The River Bed
+O 0 20407   0 20410 -1	* A small iron bed at A bedroom
+O 0 20408   0 20409 -1	* A daybed at A bedroom
+O 0 20409   0 20408 -1	* An old rocking chair at A bedroom
+O 0 20411   0 20471 -1	* `othe houseboat`` at On a pier at Ebon Downs
+O 0 20412   0 20474 -1	* `ha magical swirling portal`` at `aA dead end in the alley``
+D 0 20473   0    0	* `aAnother curve in the alley`` [north]
+M 0 20405   1 20476  1	* `abaldor the shopkeeper``
+G 0 20382 -1		* `aa thick black sap`` to `aBaldor the shopkeeper``
+G 0 20413 -1		* Tripwire rope to `aBaldor the shopkeeper``
+M 0 20381   1 20372  1	* A ruffian
+G 0 20413 -1		* Tripwire rope to a ruffian
+O 0 20414   0 20473 -1	* `aa simple fountain`` at `aAnother curve in the alley``
+O 0 50   0 20438 -1	* A grinding stone at A blacksmith's shop
+M 0 20406   1 20472  1	* `aa shady individual``
+G 0 20417 -1		* `dthe severred head of jericka`` to `aA shady individual``
+G 0 20417 -1		* `dthe severred head of jericka`` to `aA shady individual``
+O 0 7   0 20365 -1	* The symbol at Ebon Downs Circle
+D 0 20477   1    1	* Squinty Cross-eye's Tattoo Parlor [east]
+D 0 20478   3    1	* `bThe Inker's room`` [west]
+O 0 20418   0 20477 -1	* The counter at Squinty Cross-eye's Tattoo Parlor
+M 0 20409   1 20478  1	* Squinty cross-eye
+E 0 20421   -1   18	* item to Squinty cross-eye
+E 0 20420   -1   16	* item to Squinty cross-eye
+M 0 20409   1 20478  1	* Squinty cross-eye
+M 0 20408   1 20477  1	* Blerp
+G 0 20419 -1		* `ha picture of a tattoo: `ia big red heart`` to Blerp
+G 0 20423 -1		* `ha picture of a tattoo:`a an anchor`` to Blerp
+G 0 20424 -1		* `ha picture of a tattoo:`c a`g b`he`ca`gu`ht`ci`gf`hu`cl`g m`he`cr`gm`ha`ci`gd`` to Blerp
+G 0 20425 -1		* `ha picture of a tattoo: `ba`d l`ci`av`de`cr`ab`di`ct`ae`b spider`` to Blerp
+G 0 20426 -1		* `ha picture of a tattoo: `ha naked woman wearing nothing but a`c f`ji`cg`h`j l`ce`ja`cf`` to Blerp
+G 0 20427 -1		* `ha picture of a tattoo: `myour mother's face`` to Blerp
+G 0 20428 -1		* `ha picture of a tattoo named "bat": `a(/^\-`i'`av`i'`a-/^\)`` to Blerp
+G 0 20429 -1		* `ha picture of a tattoo: `ctwo `ic`br`ao`os`as`be`id`c swords`` to Blerp
+G 0 20430 -1		* `ha picture of a tattoo: `oa `it`bh`io`br`in`be`id`o rose`` to Blerp
+G 0 20431 -1		* `ha picture of a tattoo: `kthe symbol of the continuum order`` to Blerp
+G 0 20432 -1		* `ha picture of a tattoo: `bthe unholy`i cross`b of`i ne'shajh`` to Blerp
+G 0 20433 -1		* `ha picture of a tattoo: `gthe`n unblinking`o eye`g of the`o c`na`oe`nd`oe`ns`` to Blerp
+G 0 20434 -1		* `ha picture of a tattoo: `oa battle scene depicting the fall of`i e`ly`iu`ln`ie`ll`` to Blerp
+G 0 20435 -1		* `ha picture of a tattoo: `i|`a\_`h-re`oven`hge-`a_/`i|`` to Blerp
+G 0 20436 -1		* `ha picture of a tattoo named "stonerose": `o/`h^`o(`h^`o\`h-`o{`i@`o}`h-`o/`h^`o)`h^`o\`` to Blerp
+G 0 20437 -1		* `ha picture of a tattoo: `ea `ks`nh`ko`no`kt`ni`kn`ng`e star`` to Blerp
+G 0 20438 -1		* `ha picture of a tattoo: `oa pearl white `hb`ou`ht`ot`he`or`hf`ol`hy`` to Blerp
+G 0 20439 -1		* `ha picture of a tattoo: `fa fragile`m pink`f lily`` to Blerp
+G 0 20440 -1		* `ha picture of a tattoo: `da`j l`ce`ja`cf`je`cd`d vine`` to Blerp
+G 0 20441 -1		* `ha picture of a tattoo: `oan angel's wings`` to Blerp
+G 0 20442 -1		* `ha picture of a tattoo: `aa grinning skull`` to Blerp
+G 0 20443 -1		* `ha picture of a tattoo: `ha`o unicorn ripping into`b f`il`be`is`bh`o with its jagged`h horn`` to Blerp
+G 0 20444 -1		* `ha picture of a tattoo: `oa skull with a`c snake`o emerging from the eye socket`` to Blerp
+G 0 20445 -1		* `ha picture of a tattoo: `aa`o silver`a cross`` to Blerp
+G 0 20446 -1		* `ha picture of a tattoo named "ogopogo": `g^`n$`g^`` to Blerp
+M 0 20404   1 20475  1	* `ajericka, the master assassin``
+S
+
+#SHOPS
+20374  0 10  0  0  0 	150  50 	3 23	* Seth the Bartender
+20376  0  0  0  0  0 	100 100 	12 12	* a check in clerk
+20397  0  0  0  0  0 	120 140 	5 18	* Borlin, the bass master
+20398 19 17  0  0  0 	125 130 	6 18	* Salena
+20405  5 13  0  0  0 	100 100 	0 23	* `aBaldor the shopkeeper``
+20408  0  0  0  0  0 	100 100 	0 23	* Blerp
+0
+
+#SPECIALS
+M 20362 spec_thief		* a sleepy villager
+M 20363 spec_thief		* an ugly villager
+M 20364 spec_thief		* A swarthy fisherman
+M 20365 spec_thief		* A small boy
+M 20367 spec_thief		* a surprised villager
+M 20371 spec_cast_mage		* a Sea Folk deckhand
+M 20372 spec_cast_mage		* a Sea Folk deckhand
+M 20373 spec_thief		* a filthy beggar
+M 20380 spec_nasty		* a mugger
+M 20385 spec_janitor		* a serving girl
+M 20387 spec_cast_mage		* a Canthi Seer
+M 20391 spec_poison		* a water snake
+M 20404 spec_nasty		* `aJericka, the master assassin``
+S
+
+#OT
+#20410
+`dTattoo parlor - `iWARNING``~
+$entersroom~
+1
+68
+force blerp emote points at the big`i WARNING`` noted on the wall.~
+100
+10
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20418
+`dTattoo parlor - canthi boy``~
+$entersroom~
+1
+68
+force blerp emote opens his eyes as he hears the bell of the door.~
+100
+1
+force blerp stand counterooni~
+100
+1
+force blerp say How can I help you?~
+100
+3
+set obj counterooni objtrigg 20418~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20419
+`dTattoo: Heart``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `iA big red heart``~
+100
+0
+string obj tattootemplate long This heart seems to be beating as you manlily flex your muscles.~
+100
+0
+string obj tattootemplate name heart `iDONTRESTRING``~
+100
+0
+palm heart~
+100
+0
+plant heart $3vict~
+100
+0
+force squinty emote needles the tattoo into your skin!~
+100
+0
+force $3vict wear heart~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20420
+IBLISTEST~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+5
+string obj tattootemplate short `iA big red heart``~
+100
+0
+string obj tattootemplate long This heart seems to be beating as you manily flex your muscles.~
+100
+0
+string obj tattootemplate name heart `iDONTRESTRING~
+100
+0
+force squinty palm heart~
+100
+0
+force squinty plant heart $3vict~
+100
+0
+force squinty emote This works now foo!~
+100
+0
+force squinty plant heart~
+100
+0
+force squinty opurge heart~
+100
+0
+force squinty say hi $3vict~
+100
+0
+force $3vict wear heart~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20423
+`dTattoo - anchor``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `aAn achor``~
+100
+0
+string obj tattootemplate long This anchor makes you feel like a real pirate.~
+100
+0
+string obj tattootemplate name anchor `iDONTRESTRING``~
+100
+0
+palm anchor~
+100
+0
+plant anchor $3vict~
+100
+0
+force squinty emote needles the tattoo into your skin!~
+100
+0
+force $3vict wear anchor~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20424
+`dTattoo - mermaid``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `cA`g b`he`ca`gu`ht`ci`gf`hu`cl`g m`he`cr`gm`ha`ci`gd``~
+100
+0
+string obj tattootemplate long The bane of the sailor, the mermaid. Such a beautiful... woman... must go to her...~
+100
+0
+string obj tattootemplate name beautiful mermaid `iDONTRESTRING``~
+100
+0
+palm mermaid~
+100
+0
+plant mermaid $3vict~
+100
+0
+force squinty emote needles the tattoo into your skin!~
+100
+0
+force $3vict wear mermaid~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20425
+`dTattoo - liverbite spider``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `bA`d L`ci`av`de`cr`ab`di`ct`ae`b spider``~
+100
+0
+string obj tattootemplate long This is the most poisonous animal in all of the realms, scary!~
+100
+0
+string obj tattootemplate name liverbite spider `iDONTRESTRING``~
+100
+0
+palm liverbite~
+100
+0
+plant liverbite $3vict~
+100
+0
+force squinty emote needles the tattoo into your skin!~
+100
+0
+force $3vict wear liverbite~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20426
+`dTattoo - naked woman``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `hA naked woman wearing nothing but a`c f`ji`cg`h`j l`ce`ja`cf``~
+100
+0
+string obj tattootemplate long This is the most poisonous animal in all of the realms, scary!~
+100
+0
+string obj tattootemplate name naked woman `iDONTRESTRING``~
+100
+0
+palm naked~
+100
+0
+plant naked $3vict~
+100
+0
+force squinty emote needles the tattoo into your skin!~
+100
+0
+force $3vict wear naked~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20427
+`dTattoo - your mother``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `m$3vict's mother's face``~
+100
+0
+string obj tattootemplate long Mommy!~
+100
+0
+string obj tattootemplate name mothers face `iDONTRESTRING``~
+100
+0
+palm mothers~
+100
+0
+plant mothers $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear mothers~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20428
+`dTattoo - bat``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `a(/^\-`i'`aV`i'`a-/^\)``~
+100
+0
+string obj tattootemplate long The red eyes of this bat gleams against the black creature.~
+100
+0
+string obj tattootemplate name bat `iDONTRESTRING``~
+100
+0
+palm bat~
+100
+0
+plant bat $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear bat~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20429
+`dTattoo - crossed swords``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `cTwo`i C`br`ao`os`as`be`id`c Swords``~
+100
+0
+string obj tattootemplate long These two swords are jagged and bloody, only the meanest fighter would have THIS tattoo!~
+100
+0
+string obj tattootemplate name thorned rose `iDONTRESTRING``~
+100
+0
+palm crossed~
+100
+0
+plant crossed $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear crossed~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20430
+`dTattoo - thorned rose``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `oA `it`bh`io`br`in`be`id`o rose``~
+100
+0
+string obj tattootemplate long A red, and very thorny, rose, how girly.~
+100
+0
+string obj tattootemplate name thorned rose `iDONTRESTRING``~
+100
+0
+palm thorned~
+100
+0
+plant thorned $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear thorned~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20431
+`dTattoo - Continuum symbol``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `kThe symbol of the Continuum order``~
+100
+0
+string obj tattootemplate long Only a true member of the Continuum order would dare to have this tattoo.~
+100
+0
+string obj tattootemplate name continuum order symbol `iDONTRESTRING``~
+100
+0
+palm continuum~
+100
+0
+plant continuum $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear continuum~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20432
+`dTattoo - unholy cross Ne'Shajh``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `bThe Unholy`i Cross`b of`i Ne'Shajh``~
+100
+0
+string obj tattootemplate long The unholy symbol of Ne'Shajh, the vro'ath god, emanates pure evil.~
+100
+0
+string obj tattootemplate name neshajh unholy cross `iDONTRESTRING``~
+100
+0
+palm neshajh~
+100
+0
+plant neshajh $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear neshajh~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20433
+`dTattoo - unblinking eye caedes``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `gThe`n Unblinking`o Eye`g of the`o C`na`oe`nd`oe`ns``~
+100
+0
+string obj tattootemplate long This is the symbol of the Twilight elders.~
+100
+0
+string obj tattootemplate name unblinking eye caedes `iDONTRESTRING``~
+100
+0
+palm caedes~
+100
+0
+plant caedes $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear caedes~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20434
+`dTattoo - battle scene: fall of eyunel``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `oA battle scene depicting the fall of`i E`ly`iu`ln`ie`ll``~
+100
+0
+string obj tattootemplate long This depicts a battle scene where the vro'ath hordes break into the castle of Eyunel.~
+100
+0
+string obj tattootemplate name battle scene eyunel `iDONTRESTRING``~
+100
+0
+palm eyunel~
+100
+0
+plant eyunel $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear eyunel~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20435
+`dTattoo - revenge``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `i|`a\_`h-RE`oVEN`hGE-`a_/`i|``~
+100
+0
+string obj tattootemplate long Someone has carved "REVENGE" into your skin! What the...~
+100
+0
+string obj tattootemplate name revenge `iDONTRESTRING``~
+100
+0
+palm revenge~
+100
+0
+plant revenge $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear revenge~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20436
+`dTattoo - Stonerose``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `o/`h^`o(`h^`o\-`o{`i@`o}`h-`o/`h^`o)`h^`o\``~
+100
+0
+string obj tattootemplate long Swirls and spikes and lines and stuff.~
+100
+0
+string obj tattootemplate name stonerose `iDONTRESTRING``~
+100
+0
+palm stonerose~
+100
+0
+plant stonerose $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear stonerose~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20437
+`dTattoo - shooting star``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `eA `ks`nh`ko`no`kt`ni`kn`ng`e star``~
+100
+0
+string obj tattootemplate long This is a silver shooting star falling out of the dark blue night sky.~
+100
+0
+string obj tattootemplate name shooting star `iDONTRESTRING``~
+100
+0
+palm shooting~
+100
+0
+plant shooting $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear shooting~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20438
+`dTattoo - butterfly``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `oA pearl white `hb`ou`ht`ot`he`or`hf`ol`hy``~
+100
+0
+string obj tattootemplate long A completely white butterfly shimmers in the light.~
+100
+0
+string obj tattootemplate name butterfly `iDONTRESTRING``~
+100
+0
+palm butterfly~
+100
+0
+plant butterfly $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear butterfly~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20439
+`dTattoo - pink lily``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `fA fragile`m pink`f lily``~
+100
+0
+string obj tattootemplate long This pink lily seems to shimmer with dew.~
+100
+0
+string obj tattootemplate name fragile pink lily `iDONTRESTRING``~
+100
+0
+palm fragile~
+100
+0
+plant fragile $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear fragile~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20440
+`dTattoo - leafed vine``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `dA`j l`ce`ja`cf`je`cd`d vine``~
+100
+0
+string obj tattootemplate long Tiny triangular leaves jut out from this slithering vine.~
+100
+0
+string obj tattootemplate name leafed vine `iDONTRESTRING``~
+100
+0
+palm leafed~
+100
+0
+plant leafed $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear leafed~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20441
+`dTattoo - angel's wings``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `oAn angel's wings``~
+100
+0
+string obj tattootemplate long The gossamer wings of an angel almost seems tangiable.~
+100
+0
+string obj tattootemplate name angels wings `iDONTRESTRING``~
+100
+0
+palm angels~
+100
+0
+plant angels $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear angels~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20442
+`dTattoo - grinning skull``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `aA grinning skull``~
+100
+0
+string obj tattootemplate long The grin of this deformed skull is trly terrible.~
+100
+0
+string obj tattootemplate name grinning skull `iDONTRESTRING``~
+100
+0
+palm grinning~
+100
+0
+plant grinning $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear grinning~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20443
+`dTattoo - unicorn``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `hA`o unicorn ripping into`b f`il`be`is`bh`o with its jagged`h horn``~
+100
+0
+string obj tattootemplate long This unicorns rips through flesh as if it was paper with its jagged horn.~
+100
+0
+string obj tattootemplate name unicorn flesh jagged horn `iDONTRESTRING``~
+100
+0
+palm unicorn~
+100
+0
+plant unicorn $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear unicorn~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20444
+`dTattoo - skull with snake``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `oA skull with a`c snake`o emerging from the eye socket``~
+100
+0
+string obj tattootemplate long A green serpent snakes through both eye sockets of this skull.~
+100
+0
+string obj tattootemplate name skull snake socket `iDONTRESTRING``~
+100
+0
+palm socket~
+100
+0
+plant socket $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear socket~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20445
+`dTattoo - silver cross``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `aA`o silver`a cross``~
+100
+0
+string obj tattootemplate long This silver cross gleams in the light.~
+100
+0
+string obj tattootemplate name silver cross `iDONTRESTRING``~
+100
+0
+palm cross~
+100
+0
+plant cross $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear cross~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20446
+`dTattoo - ogopogo``~
+$obj_given_char 20409~
+4096
+96
+load obj 20422~
+100
+0
+palm tattootemplate~
+100
+0
+string obj tattootemplate short `g^`n$`g^``~
+100
+0
+string obj tattootemplate long This is the symbol of a great dragon.~
+100
+0
+string obj tattootemplate name wyrm ogopogo `iDONTRESTRING``~
+100
+0
+palm ogopogo~
+100
+0
+plant ogopogo $3vict~
+100
+0
+force squinty emote needles the tattoo into $3vict's skin!~
+100
+0
+force $3vict wear ogopogo~
+100
+0
+force squinty plant picture~
+100
+0
+opurge picture~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

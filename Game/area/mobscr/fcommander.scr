@@ -1,0 +1,30 @@
+* File: fcommander.scr
+* Mob: Flaming Commander(5350)
+
+#TRIGGER enter
+Type 10
+Sc
+yell CHEATER!
+stand
+kill warrior
+halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc 
+   sit chair
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+   sit chair
+   halt once~
+
+End
+
+
+#END
+

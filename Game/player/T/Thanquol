@@ -1,0 +1,787 @@
+#PLAYER
+Name Thanquol~
+Id   859517433
+LogF 935097965
+LogO 935097965
+Vers 6
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race elf~
+Sex  1
+Cla  0
+Levl 86
+PBKill 5
+MBKill 73
+PHKill 3
+MHKill 1253
+Hero 0
+Depty 0
+Sec  0
+Plyd 1100076
+Bank_Gold 4899
+Bank_Silv 107200
+Email olavka@ifi.uio.no~
+Host 148.122.212.118~
+Not  932704191 882911144 0 931838142 930441293 933099897 0
+Scro 22
+Room 4056
+HMV  320 320 1461 1461 426 426
+Hand 2
+Gold 90
+Silv 8995
+Exp  482151
+Act  DGHQ
+AfBy DFJ
+Comm GNOQRS
+Pos  8
+Prac 12
+Save  -4
+Alig  1000
+Hit   6
+Dam   6
+ACs 44 44 44 48
+Wimp  150
+Attr 10 24 18 11 15 15
+AMod 0 0 2 0 1 9
+Pass Thw2T77KijjSM~
+Layhands 0
+Exorcise 0
+Titl  the grey seer~
+Pnts 83
+TSex 1
+LLev 230
+Loner 0
+HMVP 320 1426 426
+Cnd  -16 19 36 36
+Color 1 7 1 23 3 14 6 10 12 6 6 10 2 12 5 8 13 5
+Alias ci c invis~
+Alias gc get all corpse~
+Alias food cast 'create food'~
+Alias q cast 'lightning breath'~
+Alias enchant cast 'enchant weapon'~
+Alias id cast 'identify'~
+Alias charm cast 'charm person'~
+Alias dh c 'detect hidden'~
+Alias di c 'detect invis'~
+Alias fb c fireball~
+Alias a o all resc thanquol~
+Alias z order eagle bash~
+Alias ab cast 'acid blast'~
+Alias ff cast 'faerie fire'~
+Sk 94 'armor'
+Sk 100 'acid blast'
+Sk 88 'fireshield'
+Sk 83 'blindness'
+Sk 76 'web'
+Sk 91 'burning hands'
+Sk 75 'call lightning'
+Sk 81 'cancellation'
+Sk 75 'chain lightning'
+Sk 71 'change sex'
+Sk 100 'charm person'
+Sk 87 'chill touch'
+Sk 100 'colour spray'
+Sk 77 'control weather'
+Sk 100 'create food'
+Sk 71 'create rose'
+Sk 91 'create spring'
+Sk 75 'create water'
+Sk 79 'curse'
+Sk 96 'detect hidden'
+Sk 94 'detect invis'
+Sk 75 'detect magic'
+Sk 71 'detect poison'
+Sk 75 'dispel magic'
+Sk 76 'firestorm'
+Sk 77 'enchant armor'
+Sk 97 'enchant weapon'
+Sk 71 'energy drain'
+Sk 80 'faerie fire'
+Sk 88 'faerie fog'
+Sk 92 'fireball'
+Sk 75 'fireproof'
+Sk 80 'fly'
+Sk 75 'floating disc'
+Sk 82 'giant strength'
+Sk 94 'haste'
+Sk 75 'heat metal'
+Sk 97 'identify'
+Sk 75 'infravision'
+Sk 100 'invisibility'
+Sk 76 'mirror'
+Sk 93 'lightning bolt'
+Sk 89 'locate object'
+Sk 72 'magic missile'
+Sk 78 'mass invis'
+Sk 81 'pass door'
+Sk 75 'poison'
+Sk 41 'portal'
+Sk 96 'summon'
+Sk 100 'gate'
+Sk 75 'recharge'
+Sk 84 'refresh'
+Sk 91 'shield'
+Sk 91 'shocking grasp'
+Sk 75 'sleep'
+Sk 82 'slow'
+Sk 80 'stone skin'
+Sk 95 'teleport'
+Sk 64 'ventriloquate'
+Sk 71 'weaken'
+Sk 78 'acid breath'
+Sk 76 'fire breath'
+Sk 75 'frost breath'
+Sk 75 'gas breath'
+Sk 100 'lightning breath'
+Sk 88 'aqua breathe'
+Sk 73 'channel electricity'
+Sk 71 'ice beam'
+Sk 71 'electrical charge'
+Sk 88 'staff'
+Sk 100 'meditation'
+Sk 1 'sneak'
+Sk 81 'brew'
+Sk 85 'scribe'
+Sk 76 'scrolls'
+Sk 43 'staves'
+Sk 76 'wands'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'creation'
+Gr 'detection'
+Gr 'draconian'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Gr 'weather'
+Gr 'elemental'
+Affc 'detect hidden'   0  76  28   0   0         32 0 ''
+Affc 'detect invis'   0  75  28   0   0          8 0 ''
+End
+
+#O
+Vnum 7716
+Nest 0
+ExtF 25168897
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 5342
+Nest 0
+Cond 0
+Wear 6
+Cost 15000
+End
+
+#O
+Vnum 115
+Nest 0
+ShD  `hElegant White Gloves``~
+Desc `hA pair of prissy looking white gloves has been left here.``~
+Cond 0
+Wear 9
+Cost 763
+ExDe gloves~ These gloves have been made from the finest and smoothest satin material,
+a beautiful feeling on the hands.  They do not look like they were made for
+very difficult labor, they are showpieces to be sure.  
+~
+End
+
+#O
+Vnum 16320
+Nest 0
+Cond 0
+Wear 10
+Cost 75
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3691
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 16
+Lev  89
+Cost 0
+Affc 'enchant weapon'   1  84  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  84  -1   6  18          0 0 ''
+End
+
+#O
+Vnum 7711
+Nest 0
+Cond 0
+Wear 3
+Cost 1059
+End
+
+#O
+Vnum 10370
+Nest 0
+Cond 0
+Wear 2
+Cost 450
+End
+
+#O
+Vnum 3224
+Nest 0
+ExtF 8391683
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16325
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 783
+Nest 1
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 725
+Nest 1
+Cond 0
+Wear -1
+Cost 2200
+Val  45 4 2 58 0 0 0
+Spell 3 'farsight'
+End
+
+#O
+Vnum 2243
+Nest 1
+Cond 0
+Wear -1
+Cost 5500
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 726
+Nest 1
+Cond 0
+Wear -1
+Cost 2500
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 773
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  50 10 7 18 0 0 0
+Spell 3 'change sex'
+End
+
+#O
+Vnum 3503
+Nest 1
+ShD  `aA `hWhite `aMetal Arm Chain``~
+Desc `hA series of white chains connected by links lies here.``~
+Cond 0
+Wear -1
+Cost 5430
+End
+
+#O
+Vnum 5601
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 721
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 774
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  50 10 8 112 0 0 0
+Spell 3 'frost breath'
+End
+
+#O
+Vnum 718
+Nest 1
+Desc Some saliva drips all over the place.~
+Cond 0
+Wear -1
+Cost 550
+Spell 1 'acid breath'
+Spell 2 'plague'
+End
+
+#O
+Vnum 724
+Nest 1
+Cond 0
+Wear -1
+Cost 1100
+Spell 3 'faerie fire'
+End
+
+#O
+Vnum 115
+Nest 1
+ShD  `hElegant White Gloves``~
+Desc `hA pair of prissy looking white gloves has been left here.``~
+Cond 0
+Wear -1
+Cost 763
+ExDe gloves~ These gloves have been made from the finest and smoothest satin material,
+a beautiful feeling on the hands.  They do not look like they were made for
+very difficult labor, they are showpieces to be sure.  
+~
+End
+
+#O
+Vnum 7260
+Nest 1
+ShD  `hA `kHoly `iWar `hBanner``~
+Desc `hA `iwar `hbanner is here.``~
+Cond 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 776
+Nest 1
+Cond 0
+Wear -1
+Cost 200
+Spell 3 'create food'
+End
+
+#O
+Vnum 776
+Nest 1
+Cond 0
+Wear -1
+Cost 200
+Spell 3 'create food'
+End
+
+#O
+Vnum 776
+Nest 1
+Cond 0
+Wear -1
+Cost 200
+Spell 3 'create food'
+End
+
+#O
+Vnum 3693
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+Val  60 0 3 0 0 0 0
+End
+
+#O
+Vnum 28008
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 16329
+Nest 1
+Cond 0
+Wear -1
+Cost 4000
+Val  250 250 0 0 0 0 0
+End
+
+#O
+Vnum 12236
+Nest 1
+Cond 0
+Wear -1
+Cost 19430
+Val  40 10 9 113 0 0 0
+Spell 3 'gas breath'
+ExDe staff~ This is a dumb looking little stick of rock.
+~
+End
+
+#O
+Vnum 12236
+Nest 1
+Cond 0
+Wear -1
+Cost 19430
+Val  40 10 8 113 0 0 0
+Spell 3 'gas breath'
+ExDe staff~ This is a dumb looking little stick of rock.
+~
+End
+
+#O
+Vnum 774
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Spell 3 'frost breath'
+End
+
+#O
+Vnum 776
+Nest 1
+Cond 0
+Wear -1
+Cost 200
+Spell 3 'create food'
+End
+
+#O
+Vnum 16325
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25203
+Nest 1
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25201
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25202
+Nest 1
+Name key room~
+ShD  key to MiCherie's room~
+Desc A metal key to 'The Devils Cauldron``' is here.~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5343
+Nest 1
+Cond 0
+Wear -1
+Cost 9804
+End
+
+#O
+Vnum 11540
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 11540
+Enchanted
+Nest 1
+Cond 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 11540
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 1
+Cond 0
+Wear -1
+Cost 6403
+End
+
+#O
+Vnum 7714
+Nest 1
+ExtF 3329
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16307
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  82
+Cost 500
+Affc 'enchant armor'   1  86  -1  -3  17          0 0 ''
+End
+
+#O
+Vnum 7712
+Nest 1
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 7717
+Nest 1
+Cond 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 5342
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 11540
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7705
+Nest 1
+ShD  `hA `kGlowing `hSigil``~
+Desc `hStrange runes depict the torture of men and women.``~
+Cond 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 5553
+Nest 1
+Cond 0
+Wear -1
+Cost 230
+Spell 3 'recharge'
+End
+
+#O
+Vnum 18931
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  80
+Cost 0
+Affc 'enchant weapon'   1  58  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  58  -1   6  18          0 0 ''
+End
+
+#O
+Vnum 4097
+Nest 1
+Cond 0
+Wear -1
+Cost 21000
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of pass door~
+Cond 0
+Wear -1
+Lev  86
+Cost 750
+Val  79 0 0 0 0 0 0
+Spell 0 'pass door'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of pass door~
+Cond 0
+Wear -1
+Lev  86
+Cost 750
+Val  79 0 0 0 0 0 0
+Spell 0 'pass door'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of teleport~
+Cond 0
+Wear -1
+Lev  86
+Cost 593
+Val  106 0 0 0 0 0 0
+Spell 0 'teleport'
+End
+
+#O
+Vnum 8830
+Nest 0
+Cond 0
+Wear -1
+Cost 4039
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 22
+Cost 0
+Val  43 86 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 42
+Cost 0
+Val  43 86 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 228
+Cost 0
+Val  43 86 240 0 0 0 0
+End
+
+#END

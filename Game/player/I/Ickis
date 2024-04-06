@@ -1,0 +1,774 @@
+#PLAYER
+Name Ickis~
+Id   1056192905
+LogF 1056707213
+LogO 1056708788
+Vers 7
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race human~
+Sex  1
+Cla  8
+Cla2  8
+Cla3  8
+Levl 9
+MBKill 2
+MHKill 196
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 19331
+Bank_Gold 0
+Bank_Silv 0
+Email mista_white@gotmail.com~
+Souls 13
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+New_Style 1
+Totalxp 89618
+Dam_Type 17
+Prevent_Escape 0
+Host 203-109-149-78.ihug.net~
+Not  0 0 0 0 0 0 0
+Scro 22
+Room 4056
+HMV  129 129 46 156 127 140
+Hand 1
+Gold 10
+Silv 281
+Exp  14430
+Act  CDQ
+Comm NO
+Pos  8
+Alig  -338
+Hit   9
+Dam   11
+ACs 86 86 86 96
+Wimp  25
+Attr 21 6 9 13 18 13
+AMod 6 0 0 6 2 0
+Pass Ic81JAsQCizqI~
+Layhands 0
+Exorcise 0
+Titl  `i` the `j` lightswitch `a` of `o` doom.~
+Pnts 0
+TSex 1
+LLev 3
+Loner 0
+HMVP 126 149 140
+Cnd  -16 -16 24 -3
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Sk 1 'sense good'
+Sk 1 'unholy smirk'
+Sk 1 'scorch metal'
+Sk 1 'sense alignment'
+Sk 1 'aura of evil'
+Sk 26 'shocking blade'
+Sk 1 'frost blade'
+Sk 1 'lightning burst'
+Sk 1 'ice burst'
+Sk 41 'summon sword'
+Sk 61 'invocation'
+Sk 47 'shield block'
+Sk 52 'sword'
+Sk 1 'riding'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'swimming'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 31 'trip'
+Sk 1 'door bash'
+Sk 46 'butcher'
+Sk 1 'redirect'
+Sk 1 'second attack'
+Sk 1 'fast healing'
+Sk 1 'fishing'
+GStats  8 0 196 0 2 289 4 89618 120 
+End
+
+#O
+Vnum 4196
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21063
+Nest 0
+Name fox black tails newbie~
+ShD  `aBlack-Tipped`k (`cnewbie`k)`a Tails``~
+ExtF 8650752
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 114
+Nest 0
+Name forest green cloak newbie~
+ShD  `kA`c Fo`kre`cst`k (`cnewbie`k) Cl`co`kak``~
+Wt   0
+Cond 0
+Wear 12
+Lev  1
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 20959
+Nest 0
+Name slippers gymnast newbie~
+ShD  `ga pair of`k (`cnewbie`k)`g slippers``~
+Cond 0
+Wear 8
+Lev  1
+Cost 53
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+Cond 0
+Wear 15
+Cost 10
+End
+
+#O
+Vnum 20956
+Nest 0
+Name red silk sash newbie~
+ShD  `aA`i R`be`id`k (`cnewbie`k)`b S`ias`bh``~
+Cond 0
+Wear 13
+Lev  1
+Cost 50
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+Cond 0
+Wear 4
+Lev  1
+Cost 300
+End
+
+#O
+Vnum 21072
+Nest 0
+Name tarnished silver newbie ring~
+ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
+Cond 0
+Wear 2
+Lev  1
+Cost 12
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+Cond 0
+Wear 3
+Lev  1
+Cost 300
+End
+
+#O
+Vnum 20964
+Nest 0
+Name pants newbie cavalry~
+ShD  `ba pair of`k (`cnewbie`k)`b pants``~
+Cond 0
+Wear 7
+Lev  1
+Cost 140
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+Name brass knuckles newbie~
+ShD  `k (`cNewbie`k)`k K`on`huck`ole`ks``~
+Wt   0
+Cond 0
+Wear 9
+Lev  1
+Cost 0
+Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
+Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 5637
+Nest 0
+Name cougarskin skin jacket newbie~
+ShD  `da`k (`cnewbieskin`k)`d jacket``~
+ExtF 262144
+Cond 0
+Wear 5
+Lev  1
+Cost 15
+End
+
+#O
+Vnum 12922
+Nest 0
+ExtF 8388610
+Cond 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+ExtF 8388609
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 559
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 6221
+Nest 0
+Name white iron rod newbie~
+ShD  `oA`k (`cnewbie`k)`o iron rod``~
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 4293
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 4316
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4118
+Nest 0
+ExtF 8388608
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 4102
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade 'DeathWish`h'``~
+Desc `hThis Reaver blade bares the inscription 'DeathWish`h'.``~
+Cond 0
+Wear 17
+Cost 0
+Val  1 2 4 3 0 0 0
+Affc 'armor'   1   4  -1   1  19          0 0 ''
+End
+
+#O
+Vnum 4107
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+Val  110 30 0 0 0 0 0
+End
+
+#O
+Vnum 1292
+Nest 0
+Name charm lucky patented `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `kIverath's patented`d Charm of Luck(tm)``~
+Desc `kLucky!``~
+Cond 0
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 7265
+Nest 0
+Name spirit chaos annoying newbie~
+ShD  `hThe`n S`gpiri`nt`h of`k (`cthe annoying newbie`k)``~
+ExtF 0
+Cond 0
+Wear 19
+Lev  1
+Cost 1500
+End
+
+#O
+Vnum 12923
+Nest 0
+Name sparkling newbie box `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `d[`kA Sparkling Newbie Box`d]``~
+Desc `kA sparkling newbie box from`o Iverath`k is here, stuffed with newbish items.``~
+Cond 0
+Wear -1
+Lev  1
+Cost 15
+End
+
+#O
+Vnum 4279
+Nest 1
+Name hard leather boots newbie~
+ShD  `dHard`k (`cnewbie`k)`d Boots``~
+Wt   0
+Cond 0
+Wear -1
+Lev  1
+Cost 0
+End
+
+#O
+Vnum 559
+Nest 1
+Name cypress shield newbie~
+ShD  `dA`k (`cnewbie`k)`d S`ch`di`ce`dl`cd``~
+Wt   0
+Cond 0
+Wear -1
+Lev  1
+Cost 400
+End
+
+#O
+Vnum 4863
+Enchanted
+Nest 1
+Name newbie stiletto `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `da`k (`cnewbie`k)`d stiletto``~
+Desc `da`k (`cnewbie`k)`d stiletto lies here in all its glory.``~
+Cond 0
+Wear -1
+Lev  1
+Cost 6500
+Affc 'enchant weapon'   0  74  -1   3  18          0 0 ''
+Affc 'enchant weapon'   1  74  -1   4  19          0 0 ''
+End
+
+#O
+Vnum 4569
+Nest 1
+Name book noob speak how `f*`mHwo2speekNoob`f*`` `oByHaylie``~
+ShD  "How to Speak Noob"`k - By Haylie BoBaylie``~
+Desc `dA book is here, it says`m How to Speak Noob`d on the cover.``~
+Cond 0
+Wear -1
+Cost 50
+ExDe papermsg~ ``Hello! And Welcome to how to speak noob! Reading this book will make you an 
+expert when it comes to dealing with noobs! Lord knows they're hard to
+understand!
+Here are some simple word translations to get you on your way to mastering noobish!
+``
+`hu  - You, often used in sentences about another noob.
+`hr - Are, commonly used following 'u'.
+`hkow - Know, used when claiming the noob actually contains some knowlege.
+`h4 - For, used when asking for something, such as eq, or quad.
+`hplz - Please, used when begging for something they can't do on their own.
+`hsry - Sorry, often used after the imms yell at them.
+`hwat - What, ie: wat r u doin?
+`hdat - That, when asking for something they often refer to it as 'dat'.
+`hdem - Them, the plural of 'dat'.
+`hmeen - Mean, refering to more intelligent players upon insult.
+`htot - Thought, I'm not quite sure when this is used, since they never think.
+`hlvl - Level, something they will all beg you to do for them.
+`hok - Okay, no real reason for them to use it, they just..do.``
+``
+Alright, now, you've got a basic knowlege of the language. 
+Try to translate the following sentences:
+``
+`gu r meen, iverath!
+`gu r gonna lvl me ok?
+`gam i ur frend? (friend, not noted above since there is a complete lack of noob friends.)
+`gi even got good eq u should lvl me
+`ghey can u give us quad???
+`gi am not 12
+`gwat is it 4??
+`gu kow where my corpse is????
+`gur going to get my corpse right?
+``
+Please purchase volume two, to become a true noobspeaking master.``
+~
+End
+
+#O
+Vnum 4570
+Nest 1
+Name book noob speak how volume`f *`mHwo2speekNoobVloume2`f* `oByHaylie``~
+ShD  `d"How to Speak Noob Volume II"`k - By Haylie BoBaylie``~
+Desc `d A book is here, it says`m How to Speak Noob Volume II`d on the cover.``~
+Cond 0
+Wear -1
+Cost 500
+ExDe papermsg~ ``Welcome to Volume Two!! Once you finish this you will be a fluent in noob
+and able to walk amongst them unnoticed! Good luck, study hard.
+``
+Vocabulary for Volume Two:
+`h cuz - Because, like, cuz ur dum
+`h tho - Though,  used in situations like, i have no money tho
+`h c - See, annoyingly used when you see an imm or something.
+`h 2 - To, Too, Two.
+`h sum - Some, as in some eq.
+``
+In this volume, Im going to teach you how to react to certain situations. 
+Making you a professional Noobie.
+``
+`nSituation:`g You died.
+`nReaction:`g IMMEDIATELY OOC: i need an imm OOC: iverath r u there???? 
+OOC: clive can u get my stuff??? OOC: minax send me a tell when u r here 
+OOC: ok. Proceed with such until some gets your things.
+``
+`nSituation:`g You cannot find your things.
+`nReaction:`g Automatically assume you were looted. Demand a reimbursment from Iverath.
+``
+`nSituation:`g You indeed were looted.
+`nReaction:`g OOC all sorts of profanities spelled incorrectly. Try to get nochanned, 
+it can only get better from there.
+``
+`nSituation:`g Youd like to level.
+`nReaction:`g Find the nearest player to you. SAY ur going to lvl me FOLLOW them 
+then SAY ok SAY i have good eq SAY letz go
+``
+`nSituation:`g You cant find your way back to town.
+`nReaction:`g TELL Haylie: can u trans me?? i am stuck TELL Iverath: i am stuck 
+will u help me?? TELL Entangler: can u log on charmer and summon me 
+(Yes, even though Charmer does not have summon, still ask for him to be logged.)
+``
+`nSituation:`g You want new eq.
+`nReaction:`g TELL Clyve: can u get me some eq?? TELL Eran: do u have any eq??? 
+OOC: hey can u guyz get me sum eq??
+``
+Congratulations! You have now become a master of the Noob! 
+Please be sure to share the wealth and teach others your ways!
+~
+End
+
+#O
+Vnum 4289
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4264
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+ExDe papermsg~ `lWelcome to the realms of `nExodus`h.  Upon entering our world,
+you will notice that there is no traditional mud school or newbie zone.
+It is our intention to immerse players immediately, the world around you being
+your entire 'newbie area'.  Thus, reading this `bNeophyte Manifesto`h becomes
+monumentally important to your prosperity and survival here.  Note that   
+everything covered in this document is pursued at greater length in the  
+help files. Please also type story to read something of Exodus history.
+
+The manifesto is divided into several categories.  
+To read the different parts, just type look `kkeyword`h.
+
+`o[`kYou`o] [`hThe `kworld `haround you`o] [`hOther `kplayers`o] [`hYour `kplace`h in the world`o]`h               
+~
+ExDe you~ `o[`iYou`o]`h                                                                 
+You are the center of your universe.  There are many ways in which you        
+can make your character unique, aside from the customization you have         
+already undertaken in choosing your skills and attributes.  You can           
+change your title [help title], give yourself a description [help description],
+formulate a battlecry [help battlecry]  -- and you can do it all in color    
+[help color].                                                   
+               
+When your character is born, he/she/it receives a set of low level
+equipment. To see what you are wearing, type equipment.  To see what you are 
+holding, type inventory.  Exodus supports full abbreviation, so if you don't 
+want to type out these full commands, you can use 'eq' and 'i', respectively. 
+If you should ever lose your newbie gear, you can type outfit to re-eq.      
+
+Your character's attributes and nuances are important to your evolution as     
+you rise in power and knowledge.  To see your character's score sheet,        
+type score.  To see quickly how wealthy your character is, or how much        
+experience you require to level, type worth.  The experience you receive      
+from killing non-player-characters (NPCs), exploring the world, or            
+participating in both built-in area and immortal run quests determines        
+your level. [help experience, help level]                                     
+~
+ExDe world~ `o[`iThe world around you`o]`h     
+There are many things in the world that you will become aware of as you       
+wander about.  The world of Exodus is vast, comprised of many mystical        
+lands.  [help areas]    
+A few commands are necessary to master if you want to experience the    
+full impact of Exodus: look, where, and who. [help look] [help where] &       
+[help who] have extensive information concerning these important commands.    
+    
+`o[`hobjects`o]`h                                                              
+Mundane and arcane items alike can be found, bought, or battled for in    
+the realms of Exodus.  Although you may discover a proliferation of
+telluric items within its sprawls, the luckiest adventurers may sometimes     
+come across fabled treasures, rare beyond description.                        
+                                                                              
+`o[`hmobiles`o]`h                                                              
+Unlike many other foriegn environments, the extensive lands of Exodus are   
+inhabited by both intelligent players, and...intelligent monsters.          
+Instinctual animals may not offer much of a challenge, but cognizant           
+creatures with actual aspects of sentience (for example, city guards,       
+farmers, or soldiers) may just surprise you -- look at them, talk to them,  
+do what you deem to be wise around them to see how they react.  And should  
+you choose to engage in combat with them and find yourself over your head,  
+you may just find that enraged farmer or cityguard hunting you down to      
+finish the job.                                                                
+~
+ExDe player players~ `o[`iother players`o]`h                                                        
+Although most of the inhabitants of Exodus may appear to be friendly,          
+it is always advisable to take everything with a grain of salt and             
+view the world through a cynic's eyes -- even the most harmless-looking      
+player can evolve into a vicious enemy in the span of a few seconds.           
+Exploring the large universe that Exodus provides is a very good way          
+to avoid messy conflicts with other violent players, and is strongly          
+encouraged, especially to new players.                                        
+                                                                             
+This advice does not directly apply to players level 1 - 8 (as these        
+lower-level players are protected by immortal intervention), but it           
+is advisable that you begin exploring the planet early on, to get a            
+grasp of the terrain and places to adventure.                                
+   
+Player-killing outside of the 10-level range established by the               
+creators of the lands of Exodus will result in the garnering of a              
+wanted flag, and possibly a trial [help justice, help laws].                   
+~
+ExDe place~ [Your place in the world]
+After establishing your persona within the Realms of Exodus, you will
+most likely be tempted to exercise your freedom and broaden your 
+horizens by taking advantage of the many built-in features of the world:
+  
+[Clans]
+Clans are groups of like-minded players that have both the willpower and
+the manpower to organize themselves in objectives that may include
+conquering areas, warring with other clans, and/or promoting 
+a specific goal or cause. See [help clan and clan war].
+  
+[Homes]
+You can establish private sectors for yourself, your clan, or your loved
+one(s) in certain areas in the world of Exodus, for a price. This is best
+done after you have become an experienced adventurer and amassed
+some money. Refer to [help homes] for more information.
+  
+[Transportation]
+The forms of transport in the Realm of Exodus are many and varied.
+Elevator mechanisms coupled with moving battle machines, boats,
+mounts, and magical means of transport are ways to move yourself 
+around all kinds of terrain. For traditionalists, you can also walk to 
+most places. Please read the following files:
+[help boat, help mount, help transportation].
+  
+[Good places to go]
+A good place for newbies to start is the Thesden Animal Exhibition 
+Gardens, informally called the zoo. It is located on Welford Road,
+on the far east side of Thesden. Once the pleasures of the Zoo have 
+begun to pall, you can explore, hunt wabbits!, or satisfy your 
+bloodthirst at Ashton Gardens (near the center of Thesden), or 
+in the Eastern Plains or Sarrendale Farms (outside of the East
+Gate of Thesden).
+~
+End
+
+#O
+Vnum 4264
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+ExDe papermsg~ `lWelcome to the realms of `nExodus`h.  Upon entering our world,
+you will notice that there is no traditional mud school or newbie zone.
+It is our intention to immerse players immediately, the world around you being
+your entire 'newbie area'.  Thus, reading this `bNeophyte Manifesto`h becomes
+monumentally important to your prosperity and survival here.  Note that   
+everything covered in this document is pursued at greater length in the  
+help files. Please also type story to read something of Exodus history.
+
+The manifesto is divided into several categories.  
+To read the different parts, just type look `kkeyword`h.
+
+`o[`kYou`o] [`hThe `kworld `haround you`o] [`hOther `kplayers`o] [`hYour `kplace`h in the world`o]`h               
+~
+ExDe you~ `o[`iYou`o]`h                                                                 
+You are the center of your universe.  There are many ways in which you        
+can make your character unique, aside from the customization you have         
+already undertaken in choosing your skills and attributes.  You can           
+change your title [help title], give yourself a description [help description],
+formulate a battlecry [help battlecry]  -- and you can do it all in color    
+[help color].                                                   
+               
+When your character is born, he/she/it receives a set of low level
+equipment. To see what you are wearing, type equipment.  To see what you are 
+holding, type inventory.  Exodus supports full abbreviation, so if you don't 
+want to type out these full commands, you can use 'eq' and 'i', respectively. 
+If you should ever lose your newbie gear, you can type outfit to re-eq.      
+
+Your character's attributes and nuances are important to your evolution as     
+you rise in power and knowledge.  To see your character's score sheet,        
+type score.  To see quickly how wealthy your character is, or how much        
+experience you require to level, type worth.  The experience you receive      
+from killing non-player-characters (NPCs), exploring the world, or            
+participating in both built-in area and immortal run quests determines        
+your level. [help experience, help level]                                     
+~
+ExDe world~ `o[`iThe world around you`o]`h     
+There are many things in the world that you will become aware of as you       
+wander about.  The world of Exodus is vast, comprised of many mystical        
+lands.  [help areas]    
+A few commands are necessary to master if you want to experience the    
+full impact of Exodus: look, where, and who. [help look] [help where] &       
+[help who] have extensive information concerning these important commands.    
+    
+`o[`hobjects`o]`h                                                              
+Mundane and arcane items alike can be found, bought, or battled for in    
+the realms of Exodus.  Although you may discover a proliferation of
+telluric items within its sprawls, the luckiest adventurers may sometimes     
+come across fabled treasures, rare beyond description.                        
+                                                                              
+`o[`hmobiles`o]`h                                                              
+Unlike many other foriegn environments, the extensive lands of Exodus are   
+inhabited by both intelligent players, and...intelligent monsters.          
+Instinctual animals may not offer much of a challenge, but cognizant           
+creatures with actual aspects of sentience (for example, city guards,       
+farmers, or soldiers) may just surprise you -- look at them, talk to them,  
+do what you deem to be wise around them to see how they react.  And should  
+you choose to engage in combat with them and find yourself over your head,  
+you may just find that enraged farmer or cityguard hunting you down to      
+finish the job.                                                                
+~
+ExDe player players~ `o[`iother players`o]`h                                                        
+Although most of the inhabitants of Exodus may appear to be friendly,          
+it is always advisable to take everything with a grain of salt and             
+view the world through a cynic's eyes -- even the most harmless-looking      
+player can evolve into a vicious enemy in the span of a few seconds.           
+Exploring the large universe that Exodus provides is a very good way          
+to avoid messy conflicts with other violent players, and is strongly          
+encouraged, especially to new players.                                        
+                                                                             
+This advice does not directly apply to players level 1 - 8 (as these        
+lower-level players are protected by immortal intervention), but it           
+is advisable that you begin exploring the planet early on, to get a            
+grasp of the terrain and places to adventure.                                
+   
+Player-killing outside of the 10-level range established by the               
+creators of the lands of Exodus will result in the garnering of a              
+wanted flag, and possibly a trial [help justice, help laws].                   
+~
+ExDe place~ [Your place in the world]
+After establishing your persona within the Realms of Exodus, you will
+most likely be tempted to exercise your freedom and broaden your 
+horizens by taking advantage of the many built-in features of the world:
+  
+[Clans]
+Clans are groups of like-minded players that have both the willpower and
+the manpower to organize themselves in objectives that may include
+conquering areas, warring with other clans, and/or promoting 
+a specific goal or cause. See [help clan and clan war].
+  
+[Homes]
+You can establish private sectors for yourself, your clan, or your loved
+one(s) in certain areas in the world of Exodus, for a price. This is best
+done after you have become an experienced adventurer and amassed
+some money. Refer to [help homes] for more information.
+  
+[Transportation]
+The forms of transport in the Realm of Exodus are many and varied.
+Elevator mechanisms coupled with moving battle machines, boats,
+mounts, and magical means of transport are ways to move yourself 
+around all kinds of terrain. For traditionalists, you can also walk to 
+most places. Please read the following files:
+[help boat, help mount, help transportation].
+  
+[Good places to go]
+A good place for newbies to start is the Thesden Animal Exhibition 
+Gardens, informally called the zoo. It is located on Welford Road,
+on the far east side of Thesden. Once the pleasures of the Zoo have 
+begun to pall, you can explore, hunt wabbits!, or satisfy your 
+bloodthirst at Ashton Gardens (near the center of Thesden), or 
+in the Eastern Plains or Sarrendale Farms (outside of the East
+Gate of Thesden).
+~
+End
+
+#RoomRLE   100 2 6 1 7 1 9 1 10 1 10 1 10 1 164 1 3075 7 1 15 9 3 2 6 600 2 1 5 1 16 1 10 7 1 2 5 34 1 4 4 7 1 1 1 2 4 3 1 4 1 16 1 21 1 2 1 9 1 3 1 111 2 70 1 2 2 58 4 2 2 577 1 12 1 2838 1 3 1 4 3 1 3 22 1 3 3 4 1 13 1 5129 1 164 3 7690 1 99 2 16 8 12 11 8 11 9 6 2 1 1 1 11 7 1 1 11 9 12 8 10 10 10 1 1 8 12 5 1 2 12 3 3 3 11 2 4 2 12 2 4 2 13 1 1 2 1 8 7 6 3 9 2 4 6 2 2 4 15 2 23 1 3576 1 83 1 24 1 15 1 1 1 170 1 2 2 517 1 23 1 483 1 875 1 5723 1 95 1 2 1 96 1 32402 -1
+
+
+#SWORD
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade 'DeathWish`h'``~
+Desc `hThis Reaver blade bares the inscription 'DeathWish`h'.``~
+BSCap 1 0 0 0 0 0
+BSChar 0 0 0 0 0 0
+BBCap 0 0 0 0 0
+BBChar 0 0 0 0 0
+Cond 0
+Wear -1
+Cost 0
+Val  1 2 4 3 0 0 0
+Affc 'armor'   1   4  -1   1  19          0 0 ''
+End
+
+#END

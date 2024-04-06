@@ -1,0 +1,201 @@
+* File: Anouen.scr
+* Mob: Anouen Forudal (vnum 11375)
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc %combat-from% %name% name
+mfunc %combat-from% %victim% name
+wfunc %acombat% random 0 99
+getpc %player%
+cmd peace
+cmd kill %player%
+let %mood% == 1
+let %tickcounter% == 1
+* get the charmies out of the way.
+cmd slay cb
+if ( %acombat% < 10 )
+  cmd cast 'dispel magic' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% < 20 )
+  cmd cast 'acid blast' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% < 30 )
+  getch %target1%
+  cmd cast 'teleport' %target1%
+  getch %target2%
+  cmd cast 'teleport' %target2%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% < 40 )
+  cmd cast 'blind' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% < 50 )
+  cmd cast 'web' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% < 60 )
+  cmd cast 'weak' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% < 70 )
+  cmd cast 'slow' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% < 80 )
+  cmd peace
+  cmd cast 'sleep' %name%
+  cmd steal 1. %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% <85 )
+  cmd peace
+  cmd cast 'charm' %name%
+  cmd order %name% remove all
+  cmd order %name% drop all
+  cmd get all.parch
+  cmd at 1 drop all.parch
+  cmd get all.flask
+  cmd at 1 drop all.flask
+  cmd get all.vial
+  cmd at 1 drop all.vial
+  cmd get all
+  cmd cast 'floating disc'
+  cmd put all disc
+  cmd cast 'teleport' %name%
+  halt once~
+Sc
+if ( %acombat% < 90 )
+  cmd cast 'heat metal' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %acombat% < 100 )
+  cmd cast 'poison' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+End
+
+#TRIGGER Tick
+Type 3
+Sc
+wfunc %anouentick% random 0 9
+let %tickcounter% += 1
+cmd string mob anouen long Here stands Anouen Forudal the Prophet, `ienraged`` at your intrusion!
+if (%tickcounter% > 25)
+  let mood == 4
+  cmd string mob anouen long Here stands Anouen Forudal the Prophet, seer of the infinite truths.
+  halt once~
+Sc
+if (%anouentick% == 0)
+  cmd wake
+  cmd cast 'armor' anouen
+  halt once~
+Sc
+if (%anouentick% == 1)
+  cmd wake
+  cmd cast 'shield' anouen
+  halt once~
+Sc
+if (%anouentick% == 2)
+  cmd wake
+  cmd cast 'stone' anouen
+  halt once~
+Sc
+if (%anouentick% == 3)
+  cmd wake
+  cmd cast 'fireshield' anouen
+  halt once~
+Sc
+if (%anouentick% == 4)
+  cmd wake
+  cmd cast 'armor' anouen
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %enter-from% %name% name
+  say You've won this time, but I am not defeated.
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-from% %name% name
+  cmd at 1 cast 'cancel' anouen
+  cmd at 1 cast 'cancel' anouen
+  cmd at 1 cast 'armor' anouen
+  cmd at 1 cast 'shield' anouen
+  cmd at 1 cast 'stone' anouen
+  cmd at 1 cast 'fireshield' anouen
+  cmd at 1 cast 'haste' anouen
+  cmd at 1 cast 'giant' anouen
+  cmd at 1 cast 'fly' anouen
+  halt once~
+End
+
+#END

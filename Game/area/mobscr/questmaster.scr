@@ -1,0 +1,117 @@
+* File: questmaster.scr
+* Mob: Questmaster(1230)
+
+#TRIGGER tick
+Type 3
+Sc
+mfunc self %rvnum% room
+if (%room% != 1280)
+  cmd goto 1280
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  cmd load obj 14024
+  cmd at 14136 drop malevolent
+  cmd load obj 14026
+  cmd at 14079 give malevolent pirate
+  cmd load obj 14028
+  cmd at 14033 drop malevolent
+  cmd load obj 14029
+  cmd at 14098 drop malevolent
+  cmd load obj 14030
+  cmd at 14146 drop malevolent
+  halt triggers~
+End
+
+#TRIGGER events
+Type 99
+Sc
+  say To start an event, simply speak the keyword out loud to me
+  say Currently, I am set up to run any of the following events:
+  say ==========================================================
+  say 1) Thesden Rodent Infestation            (keyword: rodent)
+  say 2) Zombies Invade Erion Abbey            (keyword: zombie)
+  say 3) The Bank Robber in Thesden            (keyword: robber)
+  say 4) Exodus Cup Soccer Match-up            (keyword: soccer)
+  say 5) Monkey Business in Thesden            (keyword: monkey)
+  say 6) Invasion of the Clone Army            (keyword: clones)
+  say 7) Drow Army Thesden Invasion            (keyword: attack)
+  say ==========================================================
+halt once~
+End
+
+#TRIGGER ratquest
+Type 99
+Sc
+  cmd im %ratquest-from% has started the Thesden Rat Quest.
+  signal 4236 ratquest
+halt once~
+End
+
+#TRIGGER zombie
+Type 99
+Sc
+  cmd im %zombie-from% has started the Erion Zombie Quest.
+  signal 7928 start
+halt once~
+End
+
+#TRIGGER robber
+Type 99
+Sc
+  cmd im %robber-from% has started the Bank Robber event.
+  at 1 purge robber
+  at 1 load mob 4182
+  signal 4182 start
+halt once~
+End
+
+#TRIGGER soccer
+Type 99
+Sc
+  cmd im %soccer-from% has started the Exodus Cup Soccer event.
+  signal 27200 start
+halt once~
+End
+
+#TRIGGER monkey
+Type 99
+Sc
+  cmd im %monkey-from% feels like starting up some monkey business.
+  at 1 purge zookeeper
+  at 1 load mob 4242
+  signal 4242 monkey
+halt once~
+End
+
+#TRIGGER clones
+Type 99
+Sc
+  cmd im %clones-from% has started the clones event.
+  cmd for mortals at 1243 load mob 1234 #
+  cmd for mortals at 1243 string mob clone name #
+  signal 1234 activate
+halt once~
+End
+
+#TRIGGER attack
+Type 99
+Sc
+  cmd im %attack-from% has started the Drow invasion quest.  God help us all.
+  at 1 load mob 5122
+  signal 5122 start
+halt once~
+End
+
+#TRIGGER plana
+Type 99
+Sc
+  cmd im %plana-from% has initiated Player Assistance Plan A.
+  signal 155 plana
+halt once~
+End
+
+#END

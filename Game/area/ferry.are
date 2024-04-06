@@ -1,0 +1,523 @@
+#AREA
+ 6~
+ferry.are~
+`gOcean Ferry``~
+{ 1 10} Minax  `gOcean Ferry``~
+~
+1051 1076
+0 0 0
+0 1
+~
+#MOBILES
+#1051
+aquimos canthi captain~
+Aquimos, the Canthi Captain~
+Aquimos, the ferry captain, is here.
+~
+~
+canthi~
+0 0 0 0
+AB e 0 0
+100 1000 1d1+29999 0d0+0 100d100+1000 claw
+0 0 0 999 0
+BD -1 FHK ABR H I
+stand stand male 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+0
+~
+aquimos.scr~
+#1052
+Stevis croupier~
+Stevis~
+Stevis, the croupier, invites you to place a bet.
+~
+~
+human~
+0 0 0 0
+-1610088381 DFJVZc 0 0
+100 100 1d1+19999 0d0+0 10d20+10 scratch
+-2000 -2000 -2000 999 -2000
+P -1 BEFK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+2
+~
+stevis.scr~
+#0
+
+#OBJECTS
+#1051
+ferry~
+the Thesden-City of the Sun ferry~
+The mighty Thesden-City of the Sun ferry floats nearby.~
+wood~
+0
+ctransport 2
+RSYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BGHOQR FGIJNOPRSU ABDEK CDEK B
+0
+0
+40 30000 57290 P
+#1052
+barrel~
+a barrel of water~
+A barrel of fresh water has been placed on the deck for the passengers.~
+wood~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#1053
+ferry~
+a poodle~
+~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`i$n exits the ferry, a terrible scream follows!``~
+~
+`kOMG! It is $n!``~
+`kCoS? You had expected something worse.``~
+-1 0 G CDEHJLO B
+0
+0
+10 0 1 P
+#1054
+ferry~
+a poodle~
+~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n jumps overboard!~
+~
+$n steps out of the ghost ship, obviously shaken, but not stirred.~
+Home at last!``~
+-1 0 G ABCEHM B
+0
+0
+10 0 3434 P
+#0
+
+#ROOMS
+#1051
+0 0
+~
+~
+~
+0 0 0
+Main deck of the ferry~
+~
+0 CIS 0
+0
+~
+I 0 D0
+~
+~
+0 0 1053
+D2
+~
+~
+0 0 1054
+D4
+~
+door~
+4193 0 1052
+D5
+~
+~
+0 0 1055
+S
+#1052
+0 0
+~
+~
+~
+0 576 0
+Behind the Wheel~
+~
+0 CIN 0
+0
+~
+I 0 D5
+~
+door~
+4193 0 1051
+S
+#1053
+0 0
+~
+~
+~
+0 0 0
+Foredeck of the ferry~
+~
+0 CIS 0
+0
+~
+I 0 D2
+~
+~
+0 0 1051
+S
+#1054
+0 0
+~
+~
+~
+0 0 0
+Aft deck of the ferry~
+~
+0 I 0
+0
+~
+I 0 D0
+~
+~
+0 0 1051
+S
+#1055
+0 0
+~
+~
+~
+0 0 0
+Below deck within the ferry~
+~
+0 CDIS 0
+0
+~
+I 0 D0
+~
+~
+0 0 1056
+D4
+~
+~
+0 0 1051
+S
+#1056
+0 0
+(null)~
+~
+~
+0 0 0
+`kYe Olde Gambling Roome``~
+No sooner had Minax brought the great Thesden ferry into service than
+clan Jhereg had begun working on setting up an offshire gambling racket
+below deck.  This room is lavishly decorated with cushioned chairs in a
+circle around the roulette table, which is obviously the center of attention
+in this room.  Stevis stands at the table, wearing a pirate hat and a silly
+grin, having found great humor in the speed with which he was whisked away
+to the new location.  
+~
+0 CDIQSXbe 0
+0
+~
+I 0 E
+mirror~
+You look deep into the mirror, but see only your reflection.  
+~
+D2
+~
+~
+0 0 1055
+S
+#1057
+0 0
+~
+~
+~
+0 64 0
+`kIverath's temporary ferry that will actually take you to hell``~
+~
+0 CN 0
+0
+~
+I A J IT'S MOVING!~
+K You realize that this ferry isn't working either.~
+L60
+N1058
+Q (null)~
+S
+#1058
+0 0
+~
+~
+~
+0 64 0
+`kAnd the ship sailed on``~
+~
+0 CN 0
+0
+~
+I A J *Sail*~
+K Iverath is good.~
+L70
+N1059
+Q (null)~
+S
+#1059
+0 0
+~
+~
+~
+0 64 0
+`kDown the well in the abbey``~
+~
+0 CN 0
+0
+~
+I A J *Sail*~
+K Iverath is great.~
+L40
+N1060
+Q (null)~
+S
+#1060
+0 0
+~
+~
+~
+0 64 0
+`kDescending...descending...uh oh!``~
+~
+0 CN 0
+0
+~
+I A J *Sail*~
+K Iverath is sexy.~
+L50
+N1061
+Q (null)~
+S
+#1061
+0 0
+~
+~
+~
+0 64 0
+`kInto the underworld... WTF?``~
+~
+0 CN 0
+0
+~
+I A J *Sail*~
+K (null)~
+L60
+N1062
+Q (null)~
+S
+#1062
+0 0
+~
+~
+~
+0 64 0
+`kDangit, you are screwed now!``~
+`oJust wait a little while and it will start moving.``
+~
+0 CN 0
+0
+~
+I A J *Leaves CoS*~
+K Looks like its soon time to leave.~
+L30
+N1063
+Q (null)~
+S
+#1063
+0 0
+~
+~
+~
+0 64 0
+`kGoing back to Thesden``~
+~
+0 CN 0
+0
+~
+I A J *Sail*~
+K Iverath is sexy.~
+L30
+N1064
+Q (null)~
+S
+#1064
+0 0
+~
+~
+~
+0 64 0
+`k"IT STOPPED MOVING! HELP IMM!"``~
+~
+0 CN 0
+0
+~
+I A J *Sail*~
+K Yup, you are now trapped here, FOREVER!~
+L120
+N1065
+Q (null)~
+S
+#1065
+0 0
+~
+~
+~
+0 64 0
+`kYou check out the hairy sailors``~
+~
+0 CN 0
+0
+~
+I A J *Sail*~
+K You realize that you want to be Iverath.~
+L60
+N1066
+Q (null)~
+S
+#1066
+0 0
+~
+~
+~
+0 64 0
+`kHey! Is that...!``~
+~
+0 CN 0
+0
+~
+I A J You have arrived already? AGAIN! AGAIN!~
+K You realize that you want to become swedish.~
+L60
+N1057
+Q (null)~
+S
+#0
+
+#RESETS
+M 0 1051   1 1051  1	* Aquimos, the canthi captain
+O 0 1052   0 1054 -1	* A barrel of water at Aft deck of the ferry
+M 0 1052   1 1056  1	* Stevis
+D 0 1051   4    2	* Main deck of the ferry [up]
+D 0 1052   5    2	* Behind the Wheel [down]
+O 0 1054   0 1057 -1	* A poodle at `kIverath's temporary ferry that will actually take you to hell``
+S
+
+#SHOPS
+1051  0  0  0  0  0 	100 100 	0 23	* Aquimos, the Canthi Captain
+0
+
+#SPECIALS
+M 1052 spec_nasty		* Stevis
+S
+
+#OT
+#0
+#$

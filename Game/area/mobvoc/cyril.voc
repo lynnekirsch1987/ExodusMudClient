@@ -1,0 +1,8 @@
+Minax
+rats|rat|mouse|mice:>1:-:The rats are everywhere...filthy little vermin.  We have to catch them all.; CMD pmote nods in agreement with himself.;You'll help me, won't you?  Say you'll help me!  Please!
+help:>1:6:Oh, you're too kind!; CMD thank $name; Just bring me back the ears of the rats and mice and I'll buy them.
+task:>1:6:Ah yes yes, the task.  We mustn't forget the task, must we?;CMD rub;You know about the rats, right?
+hello|hi|hail:>1:-:CMD smile $name;Hello there, $name.  Can you help me with my task?
+DEFAULT:>1:-:CMD look $name;CMD Hi, $name!  Want to make some money?
+yes|yeah|sure:>1:-:Here's how to make some money.  Kill the rats and mice around Thesden and bring me their ears.  I'll buy them!
+no|nope:>1:-:CMD frown

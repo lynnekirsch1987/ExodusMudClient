@@ -1,0 +1,108 @@
+* File: dracolich.scr
+* Mob: The Dracolich (7297)
+* Creator: Minax
+* Last Modified: Tuesday, January 20, 2004
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc %combat-from% %name% name
+mfunc %combat-from% %victim% name
+wfunc %zcombat% random 0 149
+* get the charmies out of the way.
+cmd slay cb
+if ( %zcombat% < 10 )
+  cmd cast 'fire breath' %name%
+  halt once~
+Sc
+if ( %zcombat% < 20 )
+  cmd cast 'fireball' %name%
+  halt once~
+Sc
+if ( %zcombat% < 30 )
+  cmd cast 'burning hands' %name%
+  halt once~
+Sc
+if ( %zcombat% < 40 )
+  cmd cast 'blind' %name%
+  halt once~
+Sc
+if ( %zcombat% < 50 )
+  cmd cast 'web' %name%
+  halt once~
+Sc
+if ( %zcombat% < 60 )
+  cmd cast 'weak' %name%
+  halt once~
+Sc
+if ( %zcombat% < 70 )
+  cmd cast 'slow' %name%
+  halt once~
+Sc
+if ( %zcombat% < 80 )
+  cmd peace
+  cmd cast 'sleep' %name%
+  cmd steal 1. %name%
+  cmd steal 1. %name%
+  cmd steal 1. %name%
+  cmd steal 1. %name%
+  cmd steal 1. %name%
+  halt once~
+Sc
+if ( %zcombat% < 90 )
+  cmd cast 'heat metal' %name%
+  halt once~
+Sc
+if ( %zcombat% < 100 )
+  cmd cast 'poison' %name%
+  halt once~
+Sc
+if ( %zcombat% < 110 )
+  cmd cast 'curse' %name%
+  halt once~
+Sc
+if ( %zcombat% < 120 )
+  cmd pray 'flamestrike' %name%
+  halt once~
+Sc
+if ( %zcombat% < 130 )
+  cmd cast 'firestorm' %name%
+  halt once~
+Sc
+if ( %zcombat% < 140 )
+  cmd cast 'faerie fire' %name%
+  halt once~
+Sc
+if ( %zcombat% > 147 )
+  cmd peace
+  cmd cast 'charm' %name%
+  cmd order %name% remove all
+  cmd order %name% drop all
+  cmd get all
+  cmd cast 'floating disc'
+  cmd put all disc
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+  getpc %unlucky%
+  cmd cast 'frost breath' %unlucky%
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  cmd gecho `o%death-from% has slain the Dracolich.``
+  cmd pecho %death-from% `kYou must find the necromancer below Thesden who can transform you.``
+  cmd pecho %death-from% `k*** The Dracolich's gemstone will crumble in 30 game hours.  ACT QUICKLY! ***``
+  cmd at 1 load obj 7280
+  cmd set obj dracogem timer 30
+  cmd set obj dracogem owner %death-from%
+  cmd at 1 load obj 7281
+  halt once~
+End
+
+#END

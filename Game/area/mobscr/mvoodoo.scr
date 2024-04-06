@@ -1,0 +1,21 @@
+* script: mvoodoo.scr
+* Merossa Voodoo Priest(14010)
+
+#TRIGGER tick
+Type 3
+Sc
+  walkto 14046
+  cmd pray 'heal' pirate
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+* When a pirate enters the room, the priest assumes he is hurt and begins healing him. 
+Sc
+  walkto 14046
+  cmd pray 'heal' pirate
+  halt once~
+End
+
+#END

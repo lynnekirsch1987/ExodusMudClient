@@ -1,0 +1,322 @@
+#PLAYER
+Name Evilknight~
+Id   1005010357
+LogF 1005010590
+LogO 1005010590
+Vers 7
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race human~
+Sex  1
+Cla  6
+Levl 1
+Hero 0
+Depty 0
+Sec  0
+Plyd 233
+Bank_Gold 0
+Bank_Silv 0
+Email dbrown@qservices.cvom~
+Host msy650poydrassw.cypresscom.net~
+Not  0 0 0 0 0 0 0
+Scro 98
+Room 4134
+HMV  20 20 100 100 100 100
+Hand 2
+Gold 0
+Silv 60
+Exp  2000
+Act  DQ
+Comm EFGNOR
+Pos  8
+Prac 5
+Trai 2
+Alig  1000
+Hit   1
+Dam   2
+ACs 87 89 89 97
+Attr 9 16 10 6 13 16
+AMod 0 0 0 0 0 0
+Pass EvvkICDW1.E.I~
+Plan  ``Class:      Dark Knights
+Races:      Human, Canthi Elf, Syvin, Dwarf, Vro'ath
+Alignment:  Evil only (penalty for going above 0)
+``
+(This idea is not mine.  I borrowed HEAVILY from a guild in another mud I once
+played.  However, this guild has not existed in that mud for over 8 years, so
+I don't mind suggesting it here.)
+``
+Dark Knights are a group who have devoted their lives to the worship of evil
+and the mastery of the dark blade, their God has cursed them with.  They can
+wield no other weapon than this blade and it grows with the knight.  Knights
+who are starting out have a weak weapon and it is up to the knight to make it
+more powerful by killing the forces of good around him.  Should the knight be
+so foolish as to stray from the path of evil, his sword will be confiscated
+by the God of evil until the knight has redeemed himself and returned to the
+dark ways of his craft.
+``
+When the knight takes a life, he can steal the soul of his victim by claiming
+it with his sword.  The more powerful the victim, the more essence the corpse
+contains.  This energy is stored in the sword and can be used to improve the
+blade at the Dark Knight guild hall.
+``
+The sword is a part of the knight and it cannot be removed or disarmed.  If
+the knight is killed, the sword rots, but can be summoned later with a spell.
+If the weapon is someone gotten away from the knight, (should be impossible)
+no other guild may wield it, nor may any other knight, nor any mob.
+``
+------------------------------------------------------------------------------
+Ideally, I would like this to be a remort-only class, meaning that it is
+available only to players who have reached level 90 in another class.  An imm
+would have to set the player to this class and then demote him to level 1 so
+he can start anew.  This would also give some of the bored 90's something to do.
+``
+Dark Knights require the blood of the innocent to satisfy their God and to
+advance within their own ranks.  For this reason, to advance to the next level,
+the knight must increase his kill count by 100.  Therefore, a level 10 knight
+would need a kc of 900 and a level 90 would need 8900.  This is designed to
+prevent anyone from rising quickly through the ranks.  This guild is very strong
+and as a result, will require patience, hard work, and TIME.
+``
+The knights are similar in many respects to the Paladin guild and should have
+roughly the same hitpoints and spellpoints as a Paladin.  This guild should NOT
+be as sturdy as the Rangers or Warriors, but it is capable of doing more damage
+in combat than either of these.
+``
+The knights should have the following warrior-type skills:  Sword, Second attack,
+Third Attack, Enhanced Damage, Fast Heal, Shield Block, Bash, Kick, Trip, Disarm,
+Dodge, Parry, Riding, Door Bash, Rescue.
+``
+The knights should NOT have the following warrior-type skills:  Dual Wield, Charge,
+Butcher, Berserk, Throwing.  These skills would unfairly take away from the other
+fighting classes.
+``
+Enhancing the sword are sword spells, which can give the sword temporary flags.
+Flaming Blade, Frost Blade, Shocking Blade, Vorpal Blade, and Vampiric Blade are
+all spells that can be learned at HIGHER levels, allowing the knight to inflict
+even greater damage upon his enemies.  Certain "burst" spells can also be cast,
+which affect everyone in the room who is not evil.  Flame Burst, Frost Burst,
+and Lightning Burst are spells that are available at HIGHER levels.  These
+spells come at a great cost to the knight.
+``
+These are the only spells/prayers the knight should have.  One option might
+be to have a 'call evil mount' skill and give the swords the LANCE flag.
+``
+Level 1 knights have a sword that does 1d1 damage.  As the knight kills things,
+he can buy improvements to the sword by spending energy points (ep) which are
+determined by the level of the kill.  A level 1 kill has 1 ep and a level 100
+kill has 100.  The knight MUST be the one who strikes the killing blow or else
+the corpse is worthless.  Eight is the magic number for the Dark Knights and
+you will see why.
+~
+Layhands 0
+Exorcise 0
+Titl  the Neophyte~
+Pnts 3
+TSex 1
+LLev 0
+Loner 0
+HMVP 20 100 100
+Cnd  -4 40 44 44
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Sk 40 'sword'
+Gr 'rom basics'
+End
+
+#O
+Vnum 4202
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 126 0 0 0 0
+End
+
+#O
+Vnum 4263
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 4262
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 4200
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 4196
+Nest 0
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 4201
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 4059
+Nest 0
+Cond 0
+Wear -1
+Time 56
+Cost 9
+End
+
+#O
+Vnum 4059
+Nest 0
+Cond 0
+Wear -1
+Time 56
+Cost 9
+End
+
+#O
+Vnum 4407
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4264
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+ExDe papermsg~ `lWelcome to the realms of `nExodus`h.  Upon entering our world,
+you will notice that there is no traditional mud school or newbie zone.
+It is our intention to immerse players immediately, the world around you being
+your entire 'newbie area'.  Thus, reading this `bNeophyte Manifesto`h becomes
+monumentally important to your prosperity and survival here.  Note that   
+everything covered in this document is pursued at greater length in the  
+help files. Please also type story to read something of Exodus history.
+
+The manifesto is divided into several categories.  
+To read the different parts, just type look `kkeyword`h.
+
+`o[`kYou`o] [`hThe `kworld `haround you`o] [`hOther `kplayers`o] [`hYour `kplace`h in the world`o]`h               
+~
+ExDe you~ `o[`iYou`o]`h                                                                 
+You are the center of your universe.  There are many ways in which you        
+can make your character unique, aside from the customization you have         
+already undertaken in choosing your skills and attributes.  You can           
+change your title [help title], give yourself a description [help description],
+formulate a battlecry [help battlecry]  -- and you can do it all in color    
+[help color].                                                   
+               
+When your character is born, he/she/it receives a set of low level
+equipment. To see what you are wearing, type equipment.  To see what you are 
+holding, type inventory.  Exodus supports full abbreviation, so if you don't 
+want to type out these full commands, you can use 'eq' and 'i', respectively. 
+If you should ever lose your newbie gear, you can type outfit to re-eq.      
+
+Your character's attributes and nuances are important to your evolution as     
+you rise in power and knowledge.  To see your character's score sheet,        
+type score.  To see quickly how wealthy your character is, or how much        
+experience you require to level, type worth.  The experience you receive      
+from killing non-player-characters (NPCs), exploring the world, or            
+participating in both built-in area and immortal run quests determines        
+your level. [help experience, help level]                                     
+~
+ExDe world~ `o[`iThe world around you`o]`h     
+There are many things in the world that you will become aware of as you       
+wander about.  The world of Exodus is vast, comprised of many mystical        
+lands.  [help areas]    
+A few commands are necessary to master if you want to experience the    
+full impact of Exodus: look, where, and who. [help look] [help where] &       
+[help who] have extensive information concerning these important commands.    
+    
+`o[`hobjects`o]`h                                                              
+Mundane and arcane items alike can be found, bought, or battled for in    
+the realms of Exodus.  Although you may discover a proliferation of
+telluric items within its sprawls, the luckiest adventurers may sometimes     
+come across fabled treasures, rare beyond description.                        
+                                                                              
+`o[`hmobiles`o]`h                                                              
+Unlike many other foriegn environments, the extensive lands of Exodus are   
+inhabited by both intelligent players, and...intelligent monsters.          
+Instinctual animals may not offer much of a challenge, but cognizant           
+creatures with actual aspects of sentience (for example, city guards,       
+farmers, or soldiers) may just surprise you -- look at them, talk to them,  
+do what you deem to be wise around them to see how they react.  And should  
+you choose to engage in combat with them and find yourself over your head,  
+you may just find that enraged farmer or cityguard hunting you down to      
+finish the job.                                                                
+~
+ExDe player players~ `o[`iother players`o]`h                                                        
+Although most of the inhabitants of Exodus may appear to be friendly,          
+it is always advisable to take everything with a grain of salt and             
+view the world through a cynic's eyes -- even the most harmless-looking      
+player can evolve into a vicious enemy in the span of a few seconds.           
+Exploring the large universe that Exodus provides is a very good way          
+to avoid messy conflicts with other violent players, and is strongly          
+encouraged, especially to new players.                                        
+                                                                             
+This advice does not directly apply to players level 1 - 8 (as these        
+lower-level players are protected by immortal intervention), but it           
+is advisable that you begin exploring the planet early on, to get a            
+grasp of the terrain and places to adventure.                                
+   
+Player-killing outside of the 10-level range established by the               
+creators of the lands of Exodus will result in the garnering of a              
+wanted flag, and possibly a trial [help justice, help laws].                   
+~
+ExDe place~ [Your place in the world]
+After establishing your persona within the Realms of Exodus, you will
+most likely be tempted to exercise your freedom and broaden your 
+horizens by taking advantage of the many built-in features of the world:
+  
+[Clans]
+Clans are groups of like-minded players that have both the willpower and
+the manpower to organize themselves in objectives that may include
+conquering areas, warring with other clans, and/or promoting 
+a specific goal or cause. See [help clan and clan war].
+  
+[Homes]
+You can establish private sectors for yourself, your clan, or your loved
+one(s) in certain areas in the world of Exodus, for a price. This is best
+done after you have become an experienced adventurer and amassed
+some money. Refer to [help homes] for more information.
+  
+[Transportation]
+The forms of transport in the Realm of Exodus are many and varied.
+Elevator mechanisms coupled with moving battle machines, boats,
+mounts, and magical means of transport are ways to move yourself 
+around all kinds of terrain. For traditionalists, you can also walk to 
+most places. Please read the following files:
+[help boat, help mount, help transportation].
+  
+[Good places to go]
+A good place for newbies to start is the Thesden Animal Exhibition 
+Gardens, informally called the zoo. It is located on Welford Road,
+on the far east side of Thesden. Once the pleasures of the Zoo have 
+begun to pall, you can explore, hunt wabbits!, or satisfy your 
+bloodthirst at Ashton Gardens (near the center of Thesden), or 
+in the Eastern Plains or Sarrendale Farms (outside of the East
+Gate of Thesden).
+~
+End
+
+#RoomRLE   4134 1 61400 -1
+
+#END

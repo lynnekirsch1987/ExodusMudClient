@@ -1,0 +1,25 @@
+* File: unicorn.scr
+* Mob: Unicorn(12936)
+
+#TRIGGER enter
+Type 10
+*
+Sc 
+mfunc %enter-from% %name% name
+mfunc %enter-from% %align% align
+wfunc %rndnum% random 12915 13415
+if ( %align% < 600 )
+    cast blind %name%
+    halt once~
+Sc
+if ( %align% > 900 )
+   pray bless %name%~
+Sc
+   wait 3~
+Sc
+   walkto %rndnum%
+   halt once~
+End
+
+#END
+

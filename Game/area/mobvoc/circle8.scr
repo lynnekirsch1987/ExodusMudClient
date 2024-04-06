@@ -1,0 +1,30 @@
+* File: circle8.scr
+* Mob: Undead Necromancer(7296)
+* Creator: Minax
+* Last Modified: Monday, January 19, 2004
+
+#TRIGGER give
+Type 5
+Sc
+mfunc %give-from% %name% name
+mfunc %give-from% %level% level
+ofunc %give-arg% %ovnum% vnum
+ofunc %give-arg% %objname% name
+if ( %level% < 90 )
+   tell %name% Come back later when you have more experience.
+   halt once~
+Sc
+if ( %ovnum% != 421 )
+   say This is not that which I seek.  Begone with it!
+   drop %objname%
+   halt once~
+Sc
+if ( %ovnum% == 421 )
+   say You have passed my test, %name%.  You may proceed.
+   cmd at 1 eat %objname%
+   MOB teleport %name% 7312
+   echo %name% disappears with a *POP* and a cloud of smoke.
+   halt once~
+End
+
+#END

@@ -1,0 +1,35 @@
+* File: sickgirl.scr
+* Mob: Sick Girl(4301)
+
+#TRIGGER snake
+Type 5
+Sc
+mfunc %snake-from% %name% name
+mfunc self %myname% name
+mfunc self %short% short
+mfunc self %long% long
+ofunc %snake-arg% %oname% name
+ofunc %snake-arg% %vnum% ovnum
+if (%vnum% != 4088)
+  cmd drop %oname%
+  halt once~
+Sc
+if ( %level% > 7)
+   tell %snake-from% Your level is too high to participate in this quest.
+   halt once~
+Sc
+  cmd eat pill
+  wait 3~
+Sc
+  say Thank you for rescuing me, %name%.
+  pecho %name% `oYou receive 100 experience points for curing the sick girl.``
+  mfunc %snake-from% %exp% exp   
+  let %exp% += 100
+  msign %snake-from% %exp% exp
+  msign self "young girl" name
+  msign self "a girl" short
+  msign self "A young girl is playing with a toy wooden sword." long
+  halt once~
+End
+
+#END

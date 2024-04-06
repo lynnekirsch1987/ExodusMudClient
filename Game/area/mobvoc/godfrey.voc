@@ -1,0 +1,8 @@
+Minax
+hi|hello|hail:>2:-:CMD pmote salutes $name sharply.
+how&are&you:>2:-:I feel great, $name.  How about yourself?
+Athanmere:>2:-:How is our Lord, the King, these days?
+I&will&kill|fight&you:>2:-1:CMD frown;You're trying my patience.;CMD pray frenzy godfrey;CMD pray 'cure serious' godfrey;CMD push $name west;CMD stand;CMD east
+I&will&fight|kill&you:<3:6:CMD sigh;Is there no other way?;CMD yell $name just doesn't know when to quit!;CMD call mount;CMD mount dragon;CMD kill $name;CMD disarm $name;CMD get all;CMD pray ray $name
+fuck|shit|ass|bitch|dick|cunt:>2:-1:CMD gasp;Such language!;And in this church, no less!;CMD pray frenzy godfrey;CMD pray 'cure serious' godfrey;CMD push $name w;CMD stand;CMD east
+fuck|shit|ass|bitch|dick|cunt:<3:6:This time you've gone too far, $name.;CMD yell $name just doesn't know when to quit!;CMD call mount;CMD mount dragon;CMD kill $name;CMD disarm $name;CMD get all;CMD pray ray $name

@@ -1,0 +1,29 @@
+* File: rtmother.scr
+* Mob: Tired mother(13432)
+
+#TRIGGER news
+Type 5
+Sc
+ofunc %news-arg% %objvnum% vnum
+mfunc %news-from% %pname% name
+if ( %objvnum% == 5121 )
+   cmd gasp
+   at 1 load obj 5122
+   give pacifier %pname%
+   say Please give this to my child if you have truly found him...
+   halt once~
+End
+
+#TRIGGER reward
+Type 8
+Sc
+if (%reward-arg% cmp "reward")
+   cmd hug child
+   cmd thank %pname%
+   cmd at 1 load obj 5123
+   cmd give wand %name%
+   say A gift given to me long ago, it is now yours.
+   halt once~
+End
+
+#END

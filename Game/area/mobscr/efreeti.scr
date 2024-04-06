@@ -1,0 +1,16 @@
+* File: efreeti.scr
+* Mob: efreeti(8709)
+
+#TRIGGER laugh
+Type 5
+Sc
+mfunc %laugh-from% %name% name
+wfunc %dirl% random 0 2
+if (%dirl% == 1)
+emote bellows quite loudly, sending a stream of fire coursing through the room.
+say What business have you here, %name%?
+~
+End
+
+#END
+

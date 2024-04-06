@@ -1,0 +1,106 @@
+* File: verris.scr
+* Mob: Verris the Blacksmith or Merossa (vnum 14009)
+
+#TRIGGER tick
+Type 3
+Sc
+cmd at 1 restore
+wfunc %rndnum% random 0 5
+if (%timer% > 1)
+  emote studies the red hide before him and then makes some adjustments.
+  let %timer% -= 1
+halt once~
+Sc
+if (%timer% == 1)
+  cmd tell %winner% Your prize is ready.  Come by and ask if it's ready and I'll give it to you.
+  let %armorready% == 1
+halt once~
+Sc
+if ( %rndnum% == 0 )
+  emote glances out his front door for would-be looters.
+  halt once~
+Sc 
+if ( %rndnum% == 1 )
+  say Those pirates think they're tough, but let's see them try to loot my shop!
+  halt once~
+Sc 
+if ( %rndnum% == 2 )
+  say Our town guard is powerful.  We'll beat those pirates back to the sea.
+  halt once~
+Sc
+if ( %rndnum% > 2 )
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %armorready% == 0
+  let %timer% == 0
+  halt once~
+End
+
+#TRIGGER create
+Type 5
+Sc
+mfunc %create-from% %name% name
+ofunc %create-arg% %what% vnum
+ofunc %create-arg% %objname% name
+if (%what% != 14011 )
+  say What do you expect me to do with this?
+  cmd drop %objname%
+  halt once~
+Sc
+if (%timer% > 1)
+  say I'm sorry, but I'm very busy working on some armor.
+  say I don't have time for this right now.
+  cmd drop %objname%
+halt once~
+Sc
+if (%QuestHasBeenDone% == 1)
+  say I don't understand.  I have already been given the dragon's hide.  This one must be fake.
+  cmd drop %objname%
+  halt once~
+Sc
+  mfunc %create-from% %winner% name
+  say I don't know how you defeated the dragon, but working with this hide is the least I can do.
+  cmd at 1 eat hide
+  wait 1~
+Sc
+  cmd look %name%
+  pecho %name% Verris looks you up and down to get your approximate measurements.
+  wait 2~
+Sc
+  emote turns to his workbench and begins to fashion the scaly hide into armor.
+  wait 3~
+Sc
+  say This is going to take me a while.  I'll let you know when it's ready.
+  emote turns back to the task at hand, hammering and shaping the hide.
+  let %timer% == 24
+  halt once~
+End
+
+#TRIGGER ready
+Type 99
+Sc
+if (%QuestHasBeenDone% == 1)
+  say The hide has already been fashioned into armor.
+  halt once~
+Sc
+if (%timer% > 1)
+  say I am still busy working.  Come back later.
+halt once~
+Sc
+if (%timer% == 1)
+  cmd at 1 load obj 14107
+  cmd permaff dharkkum sanctuary 100
+  cmd give cloak %winner%
+  cmd set obj dharkkum extra nodrop
+  cmd set obj dharkkum owner %winner%
+  let %armorready% == 0
+  let %timer% == 0
+  let %QuestHasBeenDone% == 1
+halt triggers~
+End
+
+#END

@@ -1,0 +1,13 @@
+Minax
+hi|hello|hail:>2:-:Hi, $name!  I haven't seen anyone in a while.;How are you?
+good|great|fine|thanks|thank:>2:-:CMD smile $name
+I&will&kill|fight&you:6:-1:CMD frown;Now why would you say something like that?;CMD cast cancel
+I&will&kill|fight&you:5:-1:So you say.;You're beginning to sound downright unfriendly.;CMD cast armor;CMD cast shield;CMD cast stone
+I&will&kill|fight&you:4:-1:I'm serious.  That kind of talk only leads to violence, $name;CMD pray 'protection evil';CMD pray 'protection good'
+I&will&kill|fight&you:3:-1:CMD snarl $name;If you say that one more time, you're going to regret it!;CMD cast cancel $name;CMD cast fireshield
+I&will&kill|fight&you:<3:6:CMD shout Ah, visitors!;CMD shout Stay a while, $name.  Stay FOREVER!!!;CMD close east;CMD lock east;CMD cast web $name;CMD cast blind $name;CMD cast weaken $name;CMD cast dispel $name;CMD cast heat metal $name;CMD get all;CMD wear all
+fuck|shit|ass|bitch|dick|cunt|whore|slut|dick:6:-1:CMD frown;Now why would you say something like that?;CMD cast cancel
+fuck|shit|ass|bitch|dick|cunt|whore|slut|dick:5:-1:You're beginning to sound downright unfriendly.;CMD cast armor;CMD cast shield;CMD cast stone
+fuck|shit|ass|bitch|dick|cunt|whore|slut|dick:4:-1:I'm serious.  I don't want to hear that language in here, $name;CMD pray 'protect evil';CMD pray 'protection good'
+fuck|shit|ass|bitch|dick|cunt|whore|slut|dick:3:-1:CMD snarl $name;If you say that one more time, you're going to regret it!;CMD cast cancel $name;CMD cast fireshield
+fuck|shit|ass|bitch|dick|cunt|whore|slut|dick:<3:6:CMD shout Ah, visitors!;CMD shout Stay a while, $name.  Stay FOREVER!!!;CMD close east;CMD lock east;CMD cast web $name;CMD cast blind $name;CMD cast weaken $name;CMD cast dispel $name;CMD cast heat metal $name;CMD get all;CMD wear all

@@ -1,0 +1,27 @@
+* File: overseer.scr
+* Mob: Overseerer(11521)
+
+#TRIGGER over1
+Type 3
+Sc
+wfunc %rndnum% random 0 2
+if ( %rndnum% == 0 )
+   cmd grumble
+   say How could we have lost track of 60 crates in the last month!?
+   cmd scream
+   halt once~
+End
+
+#END
+
+
+
+
+
+
+
+
+
+
+
+

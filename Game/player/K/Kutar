@@ -1,0 +1,1169 @@
+#PLAYER
+Name Kutar~
+Id   893390688
+LogF 1061422045
+LogO 1061422234
+Vers 8
+Prom <HP:%h/%H MP:%m MV:%v/%V s:%s g:%g tnl:%X>%S(%r)%e ~
+Race human~
+Sex  1
+Cla  6
+Cla2  6
+Cla3  6
+Levl 84
+WTime 999994
+LPray 1
+PBKill 10
+MBKill 14
+PHKill 9
+MHKill 2037
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 1223151
+Bank_Gold 10374
+Bank_Silv 15500
+Email acmarsha@wsuhub.uc.twsu.edu~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+New_Style 0
+Totalxp 420
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+Host ip68-102-108-207.ks.ok.cox.net~
+Not  1061413901 1061399466 1061345221 1061345221 1061345221 1061418734 1061420286 1061345221
+Scro 22
+Room 4255
+HMV  1131 1131 439 439 480 480
+Hand 2
+Gold 132
+Silv 1157
+Exp  235911
+Act  CDGHa
+Blok -1
+AfBy DF
+Comm GLMNOS
+Pos  8
+Save  -5
+Alig  -908
+Hit   30
+Dam   45
+ACs -242 -240 -244 -261
+Wimp  50
+Attr 18 14 18 18 18 18
+AMod 5 0 0 7 0 -5
+Pass KunpO/YimQsaA~
+Bcry  says 'Master of all swords, cut energy! Night Sword!~
+Plan  `h `h Kutar grow up in the church, learning how to become a paladin.  His
+father was a grand paladin of Argent, and he made sure his son was trained
+well.  When Kutar was 19, Argent send a group of knights against an
+encroaching Vro'ath army.  Kutar went as a squire to his father.  During the
+fierce battle Kutar's father was struck down.  He was mortally wounded, but
+could have been saved by any of the other paladins or clerics. 
+Unfortunately no one saw or was able to get to him in time except Kutar who
+was still too inexperience to heal.  Kutar yelled, screamed and cried in
+vain to get anyone to hel his father.  The battle was consider a victory for
+Argent, and they along with the neighboring towns that were saved,
+celeberated.  But in Kutar's mind, they were celebrating his father's death.
+Kutar lost his faith in the church and left after his father's burial.  In
+the years followed, Kutar heavily studied the arcane arts and alchemy.  He
+also worked hard to perfect his swordmanship that he started in teh church. 
+Despite leaving the church, honor is still very much apart of Kutar.  Yet,
+he now follows he own sense of justice.  
+~
+Layhands 0
+Exorcise 0
+Titl  `bthe Dark Lord`d, <Bounty Hunter>`h~
+Pnts 56
+TSex 1
+LLev 326
+Loner 1
+HMVP 1013 364 480
+Cnd  -16 -16 42 16
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias al alias~
+Alias f flee~
+Alias b butcher corpse~
+Alias q bash~
+Alias a mount silver~
+Alias 2 wear javelin right~
+Alias 3 wear maligner right~
+Alias 4 wear wrath right~
+Alias z trample~
+Alias 0 trample quicksilver~
+Alias 9 trample polychronos~
+Alias x kill regen~
+Alias p k xeroth~
+Alias 1 wear dog right~
+Alias m kill xeroth~
+Alias c trample regen~
+Sk 1 'cause serious'
+Sk 1 'heroes feast'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure light'
+Sk 1 'cure serious'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'dispel evil'
+Sk 1 'harm'
+Sk 1 'heal'
+Sk 1 'greater heal'
+Sk 1 'know alignment'
+Sk 1 'sense alignment'
+Sk 1 'protection evil'
+Sk 1 'ray of truth'
+Sk 1 'calm'
+Sk 1 'frenzy'
+Sk 1 'holy word'
+Sk 1 'bless'
+Sk 1 'remove curse'
+Sk 1 'axe'
+Sk 100 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 100 'polearm'
+Sk 95 'shield block'
+Sk 100 'sword'
+Sk 100 'riding'
+Sk 100 'bash'
+Sk 1 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'swimming'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 72 'sweep'
+Sk 100 'parry'
+Sk 15 'rescue'
+Sk 100 'leadership'
+Sk 70 'layhands'
+Sk 1 'butcher'
+Sk 100 'trample'
+Sk 100 'second attack'
+Sk 98 'third attack'
+Sk 100 'fast healing'
+Sk 1 'blindfighting'
+Sk 1 'influence'
+Sk 1 'fishing'
+Sk 56 'call mount'
+Gr 'rom basics'
+Affc 'detect hidden'   0  75  34   0   0         32 0 ''
+Affc 'detect invis'   0  81  34   0   0          8 0 ''
+GStats  8 9 2037 10 14 2575 339 420 536 
+End
+
+#O
+Vnum 18930
+Enchanted
+Nest 0
+ExtF 65
+Cond 100
+Wear 16
+Lev  75
+Cost 0
+Val  7 5 8 11 640 0 0
+Affc 'enchant weapon'   1  90  -1   4  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 3688
+Nest 0
+Cond 100
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 27001
+Nest 0
+Wear -1
+Cost 35000
+End
+
+#O
+Vnum 22023
+Nest 0
+Wear 8
+Cost 29380
+End
+
+#O
+Vnum 22025
+Nest 0
+Name holy wand~
+ShD  `oa mithril wand``~
+Desc `oA holy wand made of mithril lies here.``~
+Wear 18
+Cost 0
+Val  100 3 3 147 0 0 0
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 22024
+Nest 0
+Name holy breastplate~
+ShD  `oholy breastplate of the Defender``~
+Desc `oA breastplate glows with a holy aura.``~
+Wear 5
+Cost 0
+Val  100 100 100 100 0 0 0
+End
+
+#O
+Vnum 7253
+Enchanted
+Nest 0
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12404
+Nest 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExtF 323
+Wear 9
+Lev  20
+Cost 0
+Val  0 4 4 27 0 0 0
+Affc 'enchant weapon'   0  85  -1   6  18          0 0 ''
+Affc 'enchant weapon'   1  85  -1   8  19          0 0 ''
+End
+
+#O
+Vnum 28006
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 3194
+Enchanted
+Nest 0
+ExtF 8388673
+Cond 100
+Wear 10
+Lev  76
+Cost 0
+Affc 'enchant armor'   1  83  -1  -4  17          0 0 ''
+Affc 'reserved'   1  73  -1   3   1          0 0 ''
+End
+
+#O
+Vnum 27001
+Nest 0
+Wear -1
+Cost 35000
+End
+
+#O
+Vnum 722
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 27009
+Nest 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3692
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 2619
+Nest 0
+ShD  `dA `hWolfbane `dAbraxas``~
+Desc `hA small trinket made from bone and `dwood `hlies here.``~
+ExtF 262145
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 2619
+Nest 0
+ShD  `dA `hWolfbane `dAbraxas``~
+Desc `hA small trinket made from bone and `dwood `hlies here.``~
+ExtF 262145
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 7075
+Nest 0
+ShD  `aA `bRed-Fringed `aBlack-Belt Sash``~
+Desc `hA ream of `asilk `hlies here.``~
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 7025
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5335
+Nest 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 7255
+Enchanted
+Nest 0
+ExtF 67
+Wear -1
+Lev  80
+Cost 0
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 7264
+Nest 0
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 12221
+Nest 0
+ShD  `athe `bneckguard `aof `hmight``~
+Desc `aA black `bneckplate `ais tossed in the corner.``~
+ExtF 17041952
+Wear 4
+Cost 0
+ExDe neck guard~ A black Falcon is emblazoned on this plate.
+~
+End
+
+#O
+Vnum 12221
+Nest 0
+ShD  `athe `bneckguard `aof `hmight``~
+Desc `aA black `bneckplate `ais tossed in the corner.``~
+ExtF 17041952
+Wear 3
+Cost 0
+ExDe neck guard~ A black Falcon is emblazoned on this plate.
+~
+End
+
+#O
+Vnum 3696
+Nest 0
+Cond 100
+Wear -1
+Cost 670
+End
+
+#O
+Vnum 4086
+Nest 1
+Wear -1
+Time 347
+Cost 20394
+Spell 1 'heal'
+Spell 2 'cure critical'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 4086
+Nest 1
+Wear -1
+Time 711
+Cost 20394
+Spell 1 'heal'
+Spell 2 'cure critical'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 4086
+Nest 1
+Wear -1
+Time 679
+Cost 20394
+Spell 1 'heal'
+Spell 2 'cure critical'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 4086
+Nest 1
+Wear -1
+Time 710
+Cost 20394
+Spell 1 'heal'
+Spell 2 'cure critical'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 4086
+Nest 1
+Wear -1
+Time 382
+Cost 20394
+Spell 1 'heal'
+Spell 2 'cure critical'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 4086
+Nest 1
+Wear -1
+Time 374
+Cost 20394
+Spell 1 'heal'
+Spell 2 'cure critical'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 4094
+Nest 1
+Wear -1
+Cost 100000
+Spell 1 'sanctuary'
+Spell 2 'heavenly cloak'
+Spell 3 'cure blindness'
+End
+
+#O
+Vnum 4094
+Nest 1
+Wear -1
+Cost 100000
+Spell 1 'sanctuary'
+Spell 2 'heavenly cloak'
+Spell 3 'cure blindness'
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 715
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 715
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 715
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 710
+Nest 1
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 710
+Nest 1
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 710
+Nest 1
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Wear -1
+Lev  90
+Cost 450
+Val  -1 0 0 0 0 0 0
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Wear -1
+Lev  90
+Cost 450
+Val  47 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Wear -1
+Lev  90
+Cost 450
+Val  47 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Wear -1
+Lev  90
+Cost 450
+Val  47 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Wear -1
+Lev  90
+Cost 450
+Val  47 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Wear -1
+Lev  90
+Cost 450
+Val  47 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 25811
+Nest 1
+Wear -1
+Cost 1000
+Spell 1 'flamestrike'
+Spell 2 'fireshield'
+End
+
+#O
+Vnum 25811
+Nest 1
+Wear -1
+Cost 1000
+Spell 1 'flamestrike'
+Spell 2 'fireshield'
+End
+
+#O
+Vnum 4107
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+Val  110 38 3 0 0 0 0
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect hidden~
+Wear -1
+Lev  90
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect hidden'
+End
+
+#O
+Vnum 4102
+Nest 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 4162
+Nest 1
+Wear -1
+Cost 3429
+End
+
+#O
+Vnum 12219
+Nest 1
+ShD  `athe `barmor `aof `hmight``~
+Desc `aA pile of spiked `barmor `alies on the ground.``~
+ExtF 92536832
+Wear -1
+Cost 0
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 12219
+Nest 1
+ShD  `athe `barmor `aof `hmight``~
+Desc `aA pile of spiked `barmor `alies on the ground.``~
+ExtF 92536832
+Wear -1
+Cost 0
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 12220
+Nest 1
+ShD  `athe `bshield `aof `hmight``~
+Desc `aA `hsilver shield `asits against the wall.``~
+ExtF 25428019
+Wear -1
+Cost 0
+ExDe shield~ ~
+End
+
+#O
+Vnum 12220
+Nest 1
+ShD  `athe `bshield `aof `hmight``~
+Desc `aA `hsilver shield `asits against the wall.``~
+ExtF 25428019
+Wear -1
+Cost 0
+ExDe shield~ ~
+End
+
+#O
+Vnum 12220
+Nest 1
+ExtF 25428019
+Wear -1
+Cost 0
+ExDe shield~ ~
+End
+
+#O
+Vnum 5356
+Nest 1
+ExtF 92536897
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5356
+Nest 1
+ExtF 92540993
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4166
+Nest 1
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 4166
+Nest 1
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 4165
+Nest 0
+Wear -1
+Cost 2503
+End
+
+#O
+Vnum 4166
+Nest 0
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 4166
+Nest 0
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 4163
+Nest 0
+Wear -1
+Cost 6100
+End
+
+#O
+Vnum 4102
+Nest 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 4166
+Nest 1
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 4165
+Nest 1
+Wear -1
+Cost 2503
+End
+
+#O
+Vnum 4164
+Nest 1
+Wear -1
+Cost 3549
+End
+
+#O
+Vnum 4162
+Nest 1
+Wear -1
+Cost 3429
+End
+
+#O
+Vnum 4163
+Nest 1
+Wear -1
+Cost 6100
+End
+
+#O
+Vnum 4166
+Nest 1
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 4164
+Nest 1
+Wear -1
+Cost 3549
+End
+
+#O
+Vnum 4163
+Nest 1
+Wear -1
+Cost 6100
+End
+
+#O
+Vnum 4164
+Nest 1
+Wear -1
+Cost 3549
+End
+
+#RoomRLE   100 2 1 2 3 3 5 3 8 2 9 3 370 1 8 10 7 14 8 1 1 3 146 5 1 1 2 3 8 1 1 2 17 1 1 3 22 3 724 5 6 1 13 2 3 1 17 5 1 2 4 1 735 1 1 5 1 1 1 5 1 1 1 4 2 8 1 7 1 5 259 1 11 1 67 5 709 5 3 1 2 1 4 3 2 2 9 3 2 1 562 6 1 2 25 2 7 1 2 42 1 11 2 24 1 2 1 2 1 4 1 1 3 5 1 2 1 3 2 3 1 3 3 1 7 2 2 1 21 1 4 1 6 2 1 1 1 2 25 2 9 1 52 1 93 5 893 21 1 42 2 4 12 12 2 4 1 4 1 10 4 1 19 2 2 1 1 3 3 6 1566 7 1 1 4 6 8 4 4 1 47 3 29 1 111 18 632 1 8 8 1 1 8 3 6 5 1 8 6 3 4 7 784 1 2753 1 2 3 1 1 3 1 4 2 3 14 1 2 4 5 2 1 2 7 1 1 1 3 1 10 1 1 8 2 2 4 7 4 447 1 4 1 2 4 1 5 2 1 1 3 12 4 2 1 107 8 7 6 2 3 1 1 1 2 1 3 1 1 114 10 1 1 10 1 15 1 5 2 1 1 1 2 1 2 2 1 3 4 9 1 21 1 3 1 2 1 1 1 1 1 493 2 8 2 8 2 8 2 8 2 8 2 8 2 8 2 9 1 9 1 9 1 8 2 8 2 1 50 1 11 1 16 7 1 7 1 7 1 7 6 2 58 194 6 1 2 9 2 1 1 10 3 11 3 64 3 2 13 2716 37 1 21 1 9 1933 5 9 6 9 2 2 3 7 6 1 1 5 5 2 1 1 1 9 8 6 7 1 1 7 6 1 2 6 10 6 13 1 12 1 28 1 17 1 14 2 1 1 10 3 1 3 8 3 12 333 1 3 10 1 3 2 3 3 3 5 9 1 13 2 3 14 2 3 2 1 11 3 2 1 5 3 1 1 1 1 2 2 6 3 2 10 6 20 1 3 2 1 6 1 8 1 4 2 2 55 5 1200 8 20 2 6 1 64 5 1 4 479 4 2 2 2 1 2 1 3 1 1 1 1 8 17 3 1 6 45 2 6 11 2 5 3 2 2 5 4 6 9 9 1 1 9 1 1 12 8 1 1 7 2 1 8 9 2 1 8 9 2 1 7 15 5 19 2 2 2 13 1 1 2 1 5 11 3 1 5 12 2 2 4 12 3 1 4 12 3 6 3 9 12 8 15 5 16 1 1 3 568 8 1 5 1 5 2 3 2 14 1 2 1 20 7 13 1 5 2 12 7 23 865 2 1 13 1 1 1 2 4 1 1974 1 1 3 1 2 2 1 3 2 3 1 25 1 2 1 1 2 1 2 1 2 5 1 4 2 2 1 7 1 2 1 7 4 15 1 4 3 2 3 3 1 6 1 1 2 1 2 1 1 9 1 6 1 10 1 3 1 4 1 2 1 1 1 2 1 2 1 7 1 5 1 9 2 1 1 1 1 5 1 8 3 6 1 6 1 13 1 16 3 10 2 3 1 16 1 3 3 2 1 1 1 3 1 2 1 3 1 4 1 6 1 18 1 49 1 12 1 34 2 4 1 1 5 7 1 2 4 4 5 1 2 6 1 11 2 1 2 2 2 4 1 3 1 3 2 2 5 69 1 4 1 120 3 6 1 23 1 31 1 11 1 2 2 32 2 13 1 3 1 1 8 42 1 29 1 66 1 91 1 23 1 6 1 10 1 40 2 4 1 40 10 739 11 993 5 1 4 1 2 3 2 3 2 58 1 202 2 99 2 99 2 99 2 99 2 99 2 98 3 98 3 98 3 98 3 98 4 98 3 99 2 99 2 99 2 99 2 99 1 99 1 99 1 99 1 98 2 97 2 97 2 97 2 97 2 98 1 98 1 98 2 97 2 97 2 97 2 98 1 98 2 97 2 97 2 97 2 78 3 16 2 78 2 1 2 15 1 78 2 3 2 14 1 77 2 5 2 12 2 19 1 56 2 7 2 10 2 4 1 71 2 9 2 8 2 6 2 68 2 1 21 75 2 2 1 10 2 82 2 3 27 52 4 11 2 17 2 11 1 55 2 9 2 19 2 10 5 52 2 7 2 4 33 39 1 9 1 3 2 5 2 5 1 13 1 72 2 3 2 6 1 13 1 62 2 2 1 6 2 1 2 7 1 13 1 62 2 2 1 7 3 8 1 13 1 30 1 31 2 2 1 7 26 57 58 33 19 5 2 11 1 28 1 26 8 11 7 4 2 12 1 28 1 24 76 24 5 1 1 16 2 2 1 3 1 14 1 49 81 46 2 2 11 9 1 1 28 46 2 2 3 7 1 38 1 46 2 2 3 7 1 85 21 79 20 35 1 44 20 35 1 44 20 35 1 44 21 34 1 48 1 6 1 2 6 35 1 48 1 6 1 43 1 48 17 34 1 55 1 9 1 33 1 55 1 7 2 34 1 55 1 22 22 55 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 20 99 2 99 2 99 2 99 2 99 2 99 2 99 2 99 2 99 2 99 2 99 2 99 2 99 2 99 2 99 2 27345 -1
+
+#END

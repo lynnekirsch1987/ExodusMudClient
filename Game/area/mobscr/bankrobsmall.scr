@@ -1,0 +1,155 @@
+* File: bankrobber.scr
+* Mob: Bankrobber (4162)
+
+#TRIGGER combat
+Type 2
+Sc
+  emote beats a hasty retreat.
+  cmd stand
+  cmd flee
+  cmd flee
+  cmd flee
+  cmd flee
+  cmd flee
+  wait 5~
+Sc
+  cmd sneak
+  cmd hide
+halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+mfunc self %lootgold% gold
+mfunc self %lootsilver% silver
+mfunc self %rvnum% room
+if (%rvnum% == 21232) || (%rvnum% == 21233) || (%rvnum% == 21212) || (%rvnum% == 21213) || (%rvnum% == 21252) || (%rvnum% == 21253) || (%rvnum% == 13256) || (%rvnum% == 13257) || (%rvnum% == 13258) || (%rvnum% == 13248) || (%rvnum% == 13249) || (%rvnum% == 13250) || (%rvnum% == 13103) || (%rvnum% == 13104) || (%rvnum% == 13113) || (%rvnum% == 13114) || (%rvnum% == 4245) || (%rvnum% == 4163) || (%rvnum% == 4147) || (%rvnum% == 4219)
+  cmd vis
+  cmd shout I've made it out of the city!  So long suckers!
+  cmd shout By the way, thanks for %lootgold% gold and %lootsilver% silver!
+  cmd at 1 wizi 92
+  cmd goto 1
+  cmd at 1 wizi
+  halt once~
+Sc
+if (%rvnum% == 665) || (%rvnum% == 642) || (%rvnum% == 617) || (%rvnum% == 643)
+  say Whoah!  I don't want to be here!
+  walkto 21232
+  halt once~
+Sc
+if (%rvnum% == 4009) || (%rvnum% == 4010) || (%rvnum% == 4027) || (%rvnum% == 4021) || (%rvnum% == 4022 4042))
+  emote splashes around madly trying to get back onto the bridge.
+  walkto 13104
+  halt once~
+Sc
+if (%rvnum% == 4090)
+  say Somehow I dont think this is the right way out of town.
+  cmd sneak
+  cmd hide
+  walkto 13257
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+if ( %start-arg% cmp "start" )
+  cmd at 1 wizi 92
+  cmd goto 4161
+  cmd at 1 wizi
+  say This is a robbery!  Everybody down on the floor!  Teller, give me all your money!
+  signal 4055 robbery
+  wait 600~
+Sc
+  walkto 21232
+  halt once~
+End
+
+#TRIGGER escape
+Type 8
+Sc
+if ( %escape-arg% cmp "escape" )
+  cmd at 1 load obj 4541
+  walkto 4056
+  signal 4055 help
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+mfunc self %deathgold% gold
+mfunc self %deathsilver% silver
+  emote gasps one last breath and falls over in a heap.
+  cmd im %killer% just killed me.  I had %deathgold% gold and %deathsilver% silver on me when I died.
+  signal 4055 robberdead  
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-from% %victim% name
+mfunc %enter-from% %gold% gold
+mfunc %enter-from% %level% level
+mfunc %enter-from% %silver% silver
+mfunc self %mygold% gold
+mfunc self %mysilver% silver
+if ( %level% < 20 ) || ( %level% > 91 )
+  pecho %victim% The robber considers trying to take your money, but decides it's not a good idea.
+  halt once~
+Sc
+if ( %gold% < 1 ) && (%silver% < 1 )
+  cmd frown %victim%
+  halt once~
+Sc
+if (%gold% > 0 ) || (%silver > 0 )
+  emote smiles as he bounces %victim%'s coin purse in his hand.
+  cmd at 1 drop %mygold% gold
+  msign self %gold% gold
+  cmd at 1 get all.coins
+  msign %enter-from% 0 gold
+  cmd at 1 drop %mysilver% silver
+  msign self %silver% silver
+  cmd at 1 get all.coins
+  msign %enter-from% 0 silver
+  pecho %victim% Your coin purse feels a bit lighter.
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+mfunc self %lootgold% gold
+mfunc self %lootsilver% silver
+mfunc self %rvnum% room
+if (%rvnum% == 21232) || (%rvnum% == 21233) || (%rvnum% == 21212) || (%rvnum% == 21213) || (%rvnum% == 21252) || (%rvnum% == 21253) || (%rvnum% == 13256) || (%rvnum% == 13257) || (%rvnum% == 13258) || (%rvnum% == 13248) || (%rvnum% == 13249) || (%rvnum% == 13250) || (%rvnum% == 13103) || (%rvnum% == 13104) || (%rvnum% == 13113) || (%rvnum% == 13114) || (%rvnum% == 4245) || (%rvnum% == 4163) || (%rvnum% == 4147) || (%rvnum% == 4219)
+  cmd vis
+  cmd shout I've made it out of the city!  So long suckers!
+  cmd shout By the way, thanks for %lootgold% gold and %lootsilver% silver!
+  cmd at 1 wizi 92
+  cmd goto 1
+  cmd at 1 wizi
+  halt once~
+Sc
+if (%rvnum% == 665) || (%rvnum% == 642) || (%rvnum% == 617) || (%rvnum% == 643)
+  say Whoah!  I don't want to be here!
+  walkto 21232
+  halt once~
+Sc
+if (%rvnum% == 4009) || (%rvnum% == 4010) || (%rvnum% == 4027) || (%rvnum% == 4021) || (%rvnum% == 4022 4042))
+  emote splashes around madly trying to get back onto the bridge.
+  walkto 13104
+  halt once~
+Sc
+if (%rvnum% == 4090)
+  say Somehow I dont think this is the right way out of town.
+  cmd sneak
+  cmd hide
+  walkto 13257
+  halt once~
+End
+
+#END

@@ -1,0 +1,5615 @@
+#AREA
+ 6~
+draconia.are~
+`nKeep of Lesser Dragons``~
+{30 70} LadyWinter  `nKeep of Lesser Dragons``~
+~
+2200 2299
+0 0 0
+0 1
+LadyWinter~
+#MOBILES
+#2200
+thief sidhe man~
+`athe sidhe thief``~
+`aA grey-clad sidhe studies you thoughtfully.``
+~
+Having discovered the potential profit that the draconian species could
+make, this thief long ago set up shop with his brother here in seeking more
+and better profit.  His face, however, lacks the fluid mobility of most of
+his winged kind, and he murmurs to himself occasionally as if considering
+something that's gotten him upset.  
+~
+sidhe~
+0 0 0 0
+ABGSc JPQTU -400 0
+68 70 10d60+3030 68d10+100 5d7+16 stab
+-20 -22 -20 999 -18
+0 -1 BEFGHN BE BP FOS
+stand stand male 100
+ACDHM ABCDEFGHIJKPa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2201
+large dark fish~
+`6a large dark fish``~
+`eA large dark fish considers everything hungrily, as it searches for food.``
+~
+At first seeming to be a ripple in the water, this darkness shapes itself
+to be a large, dark fish, scales only one shade darker than the water that
+surrounds it.  Large white teeth jut from an aggressive jaw.  Overall, this
+aquatic creature is obviously not a plant-eater.  
+~
+unique~
+0 0 0 0
+AGHW be -900 0
+30 30 7d40+200 10d30+60 2d5+8 bite
+-2 -3 -4 999 3
+0 -1 EGV R 0 0
+stand stand either 100
+Abc ADEFKOQX 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2202
+naga woman snake~
+`cthe `fn`ba`gg`ja``~
+`dA `fn`ba`gg`ja `dlooks angrily at you, drawing up on her tail threateningly.``
+~
+The last of her kind, the naga has come here to the Keep of Lesser
+Dragons to await her death, and the death of her species.  Once, rumor has
+it, the naga were a fertile and joyous race that lived happily in the high
+mountains and were rarely seen by any other creatures.  When the sidhe went
+away, so did most of the naga, save this one, lonely, naga.  The Sidhe have
+returned...  But the naga remain missing.  
+~
+dragon~
+0 0 0 0
+ABFG JTV -1000 0
+55 55 50d10+1300 50d10+1000 5d10+4 smash
+-40 -40 -40 999 -30
+0 -1 EFHN AB BEH FIN
+stand stand female 30
+AHMZ ABCDEFGHIJKPQUVXa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2203
+man mage sidhe wizard~
+`ean unscrupulous Sidhe mage``~
+An unscrupulous mage moves silently, in search of profit.
+~
+This mage found out a long time ago that the draconian species can create
+a large amount of profit for individuals willing to discard such minor
+things as ethics.  As a result, he lurks around the Keep of Lesser Dragons,
+constantly waiting for his chances to steal that valuable item, or kidnap
+that young dragon to sell it into slavery.  
+~
+human~
+0 0 0 0
+AGRc BDHOT -1000 0
+65 100 10d60+3000 65d10+100 6d7+15 none
+-20 -20 -20 999 -18
+0 -1 FHJ BE 0 N
+stand stand male 1000
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+4
+drsidhem~
+~
+#2204
+syvin paladin nanny~
+`bA Syvin Paladin``~
+`iClad in deep, red, gleaming armor, a syvin paladin stands alertly at ready.``
+~
+`hClad in fine armor of a deep, rich `iruby`h tint and gleam, this
+paladin stands alertly at ready, guarding the chasm, or perhaps what lies
+beyond.  His eyes are a little lined and weary beneath his helm, but his
+unquestionable goodness and nobility of heart shines through.  The emblem of
+a dragon is emblazoned on his proud armor in `kgold`h and `ired`h.  
+~
+elf~
+0 0 0 0
+ABGQT CDEFHJVZ 1000 0
+70 38 15d60+5650 70d10+789 10d15+50 slice
+-40 -40 -40 999 -40
+0 -1 EHIKVW AB BCX Z
+stand stand male 100
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 32512
+medium flesh~
+0 0 0 100
+3
+drpaladin.voc~
+~
+#2205
+alliguin creature doodoo~
+An alliguin~
+`cArmored `lscales`c scrape across the sands as this `icreature`c approaches.``
+~
+`cIt's interesting how something can waddle and yet still have a lazy,
+dangerous grace to it.  This odd creature, covered in brilliant `ired `cand
+`lblue `cscales`c, resembles a penguin in most of its musculature and in the
+upright walk it moves in.  However, the sharp teeth that jut from its beak
+and poised tail that cleaves a path in the sand behind it resemble more an
+alligator.  Although this creature has the ungainly waddle of both bird and
+reptile, it gives the impression of being capable of moving much faster if
+necessary.``  
+~
+wyvern~
+0 0 0 0
+ABGW DFTbe -900 0
+30 30 38d19+998 30d10+100 3d6+12 bite
+-8 -8 -10 999 -1
+0 -1 CFHN LR Q S
+stand stand male 5
+ABGMXZ ACDEFHJKQVXa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2206
+alliguin creature~
+`can alliguin``~
+`cArmored scales scrape across the sands as this creature approaches.``
+~
+It's interesting how something can waddle and yet still have a lazy,
+dangerous grace to it.  This odd creature, covered in scales, resembles a
+penguin in most of its musculature and in the upright walk it moves in. 
+However, the sharp teeth that jut from its beak and poised tail that cleaves
+a path in the sand behind it resemble more an alligator.  Although this
+creature has the ungainly waddle of both bird and reptile, it gives the
+impression of being capable of moving much faster if necessary.  
+~
+wyvern~
+0 0 0 0
+AGHW DFTabe -800 0
+32 32 40d20+1002 30d10+100 3d7+12 none
+-8 -8 -10 999 -1
+0 -1 CFHN LR Q S
+stand stand female 5
+ABGMXZ ACDEFHJKQVXa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2207
+drake guardian guard green~
+`na guardian drake``~
+`nA small green drake circles alertly in the air here as it keeps guard.``
+~
+~
+dragon~
+0 0 0 0
+ABG CDJT 100 0
+37 37 5d15+900 10d37+100 5d19+9 bite
+-12 -12 -12 999 -8
+0 -1 EFHNU B BEH FI
+stand stand either 250
+AHMVZ ACDEFGHIJKPQUVXa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2208
+blue dragon ~
+`ea blue wyvern``~
+`eWings spred slightly for balance, a wyvern-like dragon perches restlessly.``
+~
+`eCool, dark scales of midnight blue scrape slightly together as this
+creature shifts restlessly.  A long tail, tipped with a stinger, and the
+slightly flared wings of this draconian creature afford it balance.  Seeming
+almost half-bird and half-snake, this winged creature is nonetheless lovely,
+for all that its fangs and armor leave no doubt that it is a dangerous
+beauty to know.  `` 
+~
+wyvern~
+0 0 0 0
+AGTWe DFJNOTVa 0 0
+65 70 10d35+4002 65d10+100 10d4+45 bite
+-40 -40 -40 999 -35
+0 -1 CFHIK L BC DS
+stand stand either 230
+ABGHZ ABCDEFHJKQVXa 19 19 19 19 19 19 0
+large flesh~
+0 1 10000 100
+5
+~
+~
+#2209
+biting fly dragonfly ~
+`fa biting dragonfly``~
+A tiny dragonfly searches for something to bite.
+~
+It's a bug.  It bites, and lives in a fetid marsh.  That's a Bug's Life
+for you, eh?  
+~
+bat~
+0 0 0 0
+AG TZe -300 0
+20 20 5d30+161 1d1+100 2d6+2 bite
+-1 -1 -1 999 1
+0 -1 FH R 0 ES
+stand stand either 0
+AGOV ACDEFHJKLPa 10 10 10 10 10 10 0
+tiny flesh~
+0 0 0 100
+2
+~
+none~
+#2210
+lemming scaly rodent~
+`ca scaly lemming``~
+`cA wee green rodent scurries along.``
+~
+The wee rodent looks at you with bright black eyes as it nibbles on
+something grasped in tiny green paws.  Plump and almost cute, it looks like
+a cross between a lemming and a reptile, with the appearance of the rodent,
+but with a snake-like tail, scales instead of fur, and a turtle-like shell. 
+From the cautious way it eyes you, you can easily guess its kind are often
+food for other creatures.  
+~
+snake~
+0 0 0 0
+AG a 400 0
+32 32 10d61+375 1d1+300 5d6+5 slash
+-9 -9 -9 999 -1
+0 -1 FHI 0 L FI
+stand stand either 1
+AGXYc ACDEFHJKLQVXa 12 12 12 12 12 12 0
+small flesh~
+0 0 0 100
+0
+~
+none~
+#2220
+young greater dragon~
+A young Greater Dragon~
+`cA `asilver `cand `jgreen `cdragon bounces around in an ungainly manner.``
+~
+A huge dragon is here, with scales of alternating `asilver`` and
+`jgreen``.  While it is the largest dragon you have seen here, it looks
+curiously...  unfinished.  Stubby wings protrude from its back, but the
+wings are far too small to lift such a massive creature.  The way that the
+dragon is eyeing you reminds you of the curious look of a child who is
+trying to decide whether worms should be eaten or played with.  
+~
+dragon~
+0 0 0 0
+ABGN DFHJTc 700 0
+70 80 15d50+5600 26d9+100 10d16+49 flame
+-20 -20 -20 999 -20
+0 -1 CEFHNY ABC BCDEH FI
+stand stand either 2500
+AHMVZ ABCDEFGHIJKPQUVXa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2221
+salamander fire ~
+`ia salamander``~
+`bFlames lick and rustle along the skin of this `isalamander`b.``
+~
+Although small for its race, this creature still burns, hot enough to
+create a small cloud of light and heat with every sharp movement that it
+makes.  
+~
+dragon~
+0 0 0 0
+ABFG DFJT -1000 2220
+45 45 25d10+3000 22d9+100 8d4+16 none
+-15 -15 -15 999 4
+0 -1 EFN ABH BEH FI
+stand stand either 500
+AHZ ACDEFGHIJKPQUVXa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2222
+air drake dragon~
+`ean air drake``~
+~
+This air drake is an amazing, but rare creature.  Interestingly enough,
+it is transparent against the sky and sands, indeed, nothing save the
+occasional glitter of a cold, inhuman eye, and a quiver of a shadow upon the
+sands gives away its presence.  
+~
+dragon~
+0 0 0 0
+AG BJT 1000 0
+45 45 10d90+2250 40d10+580 5d7+20 bite
+-36 -36 -36 999 -32
+0 -1 EFN B BEH FI
+stand stand either 10
+AHZ ACDEFGHIJKPQUVXa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2223
+faded dragon whitened~
+`ha whitened dragon``~
+Scales faded and scarred from years of service, this white dragon now seeks only to nap. 
+~
+Humongous scales, once mercury, but now resembling calcite more, overlap
+in a crisscross jigsaw.  As this dragon moves a little, you see that age and
+hard service, marked by the disfiguring scars on the massive scales, have
+not completely allowed this dragon's muscles to atrophy.  Intelligent, but
+tired eyes assess you knowingly.  You sense instinctively that this dragon
+would require a gentle hand rather than the harsh mastery of a song or
+spell.  
+~
+dragon~
+0 0 0 0
+ABGe DFJT 0 0
+61 80 10d150+4350 60d100+400 7d7+50 none
+-20 -20 -20 999 -20
+0 -1 EFN ABI BEH FIJ
+stand stand either 0
+AHZ ACDEFGHIJKPQUVXa 18 18 18 18 18 18 0
+medium flesh~
+0 1 20000 700
+0
+~
+~
+#2225
+slimy toad creature~
+`ca `dslimy `rtoad``~
+`cA huge, `dslimy `rtoad creature`c sits here, some kind of `hooze`c dripping slowly off it.``
+~
+Mistaking this creature at first for a pile of moldy manure, you take
+another look and are horrified to see that it is instead some enormous kind
+of toad.  It must've been dropped up here as a tiny toad, and slowly grown
+to such a prodigious size that the flying reptiles were unable to move it
+back to the ground.  As you watch, the warts on this thing slowly ooze out a
+black, slimy looking fluid that hisses and steams as it falls into the pool
+of water the toad crouches in.  
+~
+dragon~
+0 0 0 0
+ABFG DFJTc -1000 0
+41 41 25d10+2000 20d9+100 4d8+14 slime
+-14 -14 -14 999 4
+0 -1 EFN L BEH FIN
+stand stand male 1000
+AHZ ACDEFGHIJKPQUVXa 14 14 14 14 14 14 0
+huge flesh~
+0 0 0 30
+0
+~
+~
+#2226
+huge snake~
+A `ghuge `es`cn`ea`ck`ee``~
+`dA long dark object floats menacingly at you through the water!``
+~
+This enormous snake is obviously at least 8 feet long, and covered in
+large, diamond-shaped scales that glimmer blue and green in the light.  Some
+kind of brown, venomous substance drips delicately from one fang as it rears
+its massive head to strike.  It does not look friendly.  
+~
+snake~
+0 0 0 0
+AFG e -800 0
+30 30 3d9+283 9d9+100 2d7+4 none
+-3 -3 -3 999 7
+0 -1 EFU R L I
+stand stand neutral 250
+AGHMVXYc ADEFKLQVXa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2227
+iguana greater~
+`can iguana``~
+`cAn enormous iguana suns himself here, amid his larger relatives.``
+~
+This enormous iguana is easily the size of a calf or a colt, but still
+acts like an iguana.  That said, he likes to lie out in the sun and warm his
+slow-moving and slower-thinking self.  The fact that he's utterly convinced
+that his larger, draconian relatives will defend him if necessary is a clear
+indication of why his kind no longer exists outside of these walls.  
+~
+lizard~
+0 0 0 0
+AGW d 0 0
+30 30 10d10+512 10d30+100 5d6+12 none
+6 6 6 999 9
+0 -1 EFJN 0 L I
+stand stand male 5
+AGHMVXc ABCDEFHKQVa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2228
+drake maiden lieutenant~
+`la `hDrake-maiden `lLieutenant``~
+`lA `hDrake-maiden `lLieutenant glares at you.``
+~
+`lThe drake maiden is both elegant and yet that of a hardened warrior,
+built to`` `l cling to the back of soaring drake wielding a heavy
+`kDragonLance`l.  `` 
+~
+elf~
+0 0 0 0
+ABCFGT DEFHJV 350 0
+55 45 25d10+3000 22d9+100 8d4+8 slice
+-15 -15 -15 999 4
+L 0 EINc ABEc BCHIJ LQZ
+stand stand female 7589
+AHMV ABCDEFGHIJKa 17 14 12 17 17 17 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2229
+warrior drake maiden norrah~
+`lThe `hDrake-maiden `lCaptain, `kNorrah``~
+`lThe `hDrake-maiden `lCaptain, `kNorrah`l, tends to her drake `jBenxymos`l.``
+~
+`lThe drake maiden is both elegant and yet that of a hardened warrior,
+built to`` `l cling to the back of soaring drake wielding a heavy
+`kDragonLance`l.  `` 
+~
+elf~
+0 0 0 0
+ABCFGT DEFHJV 350 2229
+55 45 25d11+3100 22d9+100 8d5+9 slice
+-15 -15 -15 999 4
+L 0 EINc ABEc BCHIJ LQZ
+stand stand female 7589
+AHMV ABCDEFGHIJKa 17 14 12 17 17 17 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2230
+green drake benxymos~
+`jBenxymos the Emerald Drake``~
+`jthe emerald drake, Benxymos, the charge of Norrah, gazes at you lazily.``
+~
+Although it has the smooth, dangerous lines and scales of its larger
+draconian cousins, this drake is much smaller, and seems to lack the aura so
+distinctive of dragons.  It flies easily through the air, and glares about
+with eyes the color of molten gold.  Clearly, it is not very big, and
+possibly not all that effective as a fighter, but it is fast, mean, and more
+than capable of sounding an alarm.  
+~
+dragon~
+0 0 0 0
+ABG CDJT 100 2229
+55 37 7d17+1050 10d37+100 5d20+6 bite
+-12 -12 -12 999 -8
+0 0 EFHNU B BEH FI
+stand stand either 2500
+AHMVZ ACDEFGHIJKPQUVXa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2240
+syvin knight young~
+`na syvin knight``~
+`gThis young `nsyvin knight`g is too intent on his tasks to notice you.``
+~
+His inexperience plain on his face, this youthful syvin wears his armor
+awkwardly, though proudly.  This is not the case for the hoe that he wields
+diligently as he weeds the small garden of the Keep.  He's much more
+proficient with it than a warrior normally is, but seems to resent having to
+use it.  The emblem of a dragon is emblazoned on his armor in gold and red. 
+~
+syvin~
+0 0 0 0
+ABGMT CZ 600 0
+61 80 11d80+4000 70d10+789 10d5+27 charge
+-35 -40 -41 999 -31
+0 -1 EFN 0 BX Z
+stand stand male 75
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+2
+drknight.voc~
+~
+#2241
+blue air drake~
+`la young drake``~
+`lA young, blue drake flits around, delightedly exploring his home.``
+~
+Never having known the terror of being hunted, this young drake soars
+gracefully within the sheltering arms of the mountain, ignorant of the fate
+that befalls his frosty cousins of Thesden.  While still young, freedom has
+allowed him to grow somewhat larger than many other drakes.  
+~
+dragon~
+0 0 0 0
+AGH DFJT 1000 0
+41 41 11d90+160 10d41+200 5d8+12 none
+-16 -16 -16 999 -3
+0 -1 EFNVY 0 BEHS FI
+stand stand either 250
+AHZ ACDEFGHIJKPQUVXa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2242
+komodo dragon~
+A komodo dragon~
+A komodo dragon surveys you quietly.
+~
+Big lizard.  Very big lizard.  While dragon is a misnomer, considering
+the massive size of this creature, it's not surprising that they were
+mistaken for their larger draconian relatives.  This one looks as if it is
+10 feet long and rather enjoying its nap.  
+~
+lizard~
+0 0 0 0
+AGHW DF 100 0
+54 54 46d10+1400 2d9+100 3d10+2 charge
+-38 -37 -35 999 -6
+0 -1 FJNO A BCL I
+stand stand either 0
+AGXc ACDEFHJKQVa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2243
+smelly old mage dwarf~
+`dthe `bdwarven mage``~
+`dA filthy, immensely old `bdwarf`d leers and gibbers slightly in a corner.``
+~
+This filthy, rank-smelling old heap of bones was a dwarf once, but now...
+Ugh.  A long, stringy beard hangs to the ground and lies limply around his
+bare, callused, hairy things that are probably feet.  It is difficult to
+tell.  What little is visible of his face is immensely wrinkled, making him
+indubitably one of the oldest dwarves still alive.  Blue eyes look blankly
+out of his face with a childlike innocence.  
+~
+dwarf~
+0 0 0 0
+ABGc DFJTYd 1000 0
+61 70 10d50+3843 10d50+100 6d7+17 none
+-20 -18 -18 999 -17
+0 -1 EFNV AB BLQ R
+stand stand male 1
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+4
+dwarfmage.voc~
+~
+#2244
+frost drake~
+`nan escaped frost drake``~
+`nA battered-looking frost drake circles wearily in the air here.``
+~
+This small dragon is no larger than a cat.  It is covered in blue scales,
+and flys on bat-like wings.  Once a captive of the Thesden mage guild, this
+clever drake managed to escape when its owner got distracted by something
+else and made its way here.  It's obvious from the determined look on its
+face that this drake has no intentions of ever allowing itself to be
+enslaved again.  
+~
+dragon~
+0 0 0 0
+AGN JTe 400 0
+35 35 10d90+535 10d10+50 5d7+5 frbite
+-12 -12 -12 999 -1
+0 -1 FM BI BCEHI FHI
+stand stand either 1
+AHMZ ACDEFGHIJKPQUVXa 13 13 13 13 13 13 0
+small flesh~
+0 0 0 400
+0
+~
+~
+#2245
+desert dragon~
+A `bdesert dragon``~
+`hA `bserpentine dragon`h basks lazily in the sun here.``
+~
+Long and snakelike, this small dragon is an obvious cousin of the
+unintelligent dragons of the Kayinn-Karin Shale Peaks.  However, this dragon
+was smart enough to flee before the clever but drunken dwarves of the Peaks
+could enslave them.  You somehow doubt the dragon would appreciate you
+interrupting their nap.  
+~
+dragon~
+0 0 0 0
+AGT DFJTa 500 0
+40 40 10d90+1020 34d10+100 10d4+23 claw
+-10 -10 -10 999 -5
+0 -1 CFHKV 0 BEHLQ FI
+rest rest either 0
+AHMZ ABCDEFGHIJKPQUVXa 14 14 14 14 14 14 0
+small scales~
+0 0 0 600
+0
+~
+~
+#2246
+drake maiden initiate~
+`la `hDrake-maiden `linitiate``~
+`lA `hDrake-maiden `linitiate goes about her duties.``
+~
+`lThe drake maiden is both elegant and yet that of a hardened warrior,``
+`lbuilt to  cling to the back of soaring drake wielding a heavy``
+`kDragonLance`l.``
+~
+elf~
+0 0 0 0
+AG CDEFJNO 100 0
+53 37 6d16+1000 10d37+100 5d19+5 slice
+-12 -12 -12 999 -8
+V 0 EFINZc B BCEHK FLOPZ
+stand stand female 250
+AHMV ABCDEFGHIJKa 15 11 11 15 15 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2247
+drake maiden warrior~
+`la warrior `hDrake-maiden``~
+`lA warrior `hDrake-maiden `lstands watchs over the courtyard.``
+~
+`lThe drake maiden is both elegant and yet that of a hardened warrior,``
+`lbuilt to  cling to the back of soaring drake wielding a heavy``
+`kDragonLance`l.``
+~
+elf~
+0 0 0 0
+AG CDEFJNO 100 0
+54 38 6d17+1050 10d37+100 5d20+6 slice
+-13 -13 -13 999 -9
+V 0 EFINZc B BCEHK FLOPZ
+stand stand female 250
+AHMV ABCDEFGHIJKa 16 11 11 16 15 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#2257
+fish grey gray~
+`aa small fish``~
+`aA tiny sharp-toothed fish leaps out of the water, snapping at a fly.``
+~
+Clad in armor-like scales of dull grey, this small fish has enormous
+eyes, slitted like an alligator's, undoubtedly to help it see in the waters
+in which it makes its home.  Tiny sharp teeth jut aggressively from a little
+jaw, making it clear that even this small creature is a carnivore.  
+~
+unique~
+0 0 0 0
+ABGH be 0 0
+30 30 5d19+901 14d9+203 5d18+3 bite
+-15 -15 -15 999 -10
+0 -1 FHKV R 0 H
+stand stand either 0
+AHMb ADEFKLMQX 12 12 12 12 12 12 0
+tiny meat~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#2200
+paladins polearm lance~
+`bthe Paladin's Lance``~
+`hThe `bRed Lance`h of the `gDragon Paladin`h gleams slightly.``~
+diamond~
+0
+weapon 2
+IKLSY
+0
+AN
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABC ABC D B DI
+0
+0
+79 100 2345 P
+A
+19 5
+A
+24 -5
+A
+4 1
+A
+18 5
+#2201
+golden nugget~
+`ka golden nugget``~
+Glittering golden in the light, this small, crudely melted chunk lies here. ~
+gold~
+0
+treasure 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+22 30 2000 P
+#2202
+dragon tooth ~
+`ka `hdragon's tooth``~
+`cSome large creature has lost an enormous, sharp tooth.``~
+bone~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B AC BC ABD DJ
+0
+0
+25 12 100 P
+A
+2 1
+A
+19 2
+#2203
+manacle shattered ~
+`aa shattered manacle``~
+`aAlmost lost amidst the shadows of the floor, a broken manacle lies abandoned.``~
+iron~
+0
+armor 2
+0
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BC BC BC AB 0
+0
+0
+50 150 400 P
+A
+26 -3
+#2204
+worn pallet reeds~
+`da worn pallet of reeds``~
+`dDark reeds are scattered here to make up a crude pallet.``~
+bamboo~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B EIJKN BEHK CFG ABEFG
+0
+0
+17 250 20 P
+A
+5 2
+#2205
+shell~
+a wee shell~
+The deserted shell of some tiny creature curves to create a tiny bowl.~
+bone~
+0
+drink 2
+Q
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ACD ACD 0 0 0
+0
+0
+32 2 400 P
+#2206
+diamond rough uncut~
+`oa diamond in the rough``~
+`oThe prism of an enormous diamond lights the area in a rainbow display.``~
+diamond~
+0
+treasure 2
+RSY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10000 10000 P
+#2207
+stone bridge~
+`aa narrow stone bridge``~
+`aChasm winds howl around a narrow stone bridge.``~
+stone~
+0
+portal 2
+PYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n cautiously crawls across a narrow stone bridge.~
+You carefully crawl across the narrow bridge.~
+Buffeted by the chasm winds, $n steps off a narrow bridge with a relieved sigh.~
+Chasm winds howl around you, dying only when you step off the bridge.~
+-1 0 AG ACDGHL F
+0
+0
+5 1000 360 P
+#2208
+flail naga worn~
+a worn flail~
+The sinuous coils of the naga's flail lie here.~
+unknown~
+0
+weapon 2
+AGI
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BC BC BC BDE 0
+0
+0
+55 30 1000 P
+A
+19 2
+A
+18 1
+#2209
+small simple table~
+`da small table``~
+`dA small, simple table stands in the corner.``~
+wood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 EG MNO 0 0
+0
+0
+20 999 10 P
+E
+small~
+The unmistakeable hand of syvin artisans can be seen in the smooth curves
+of this table, and the seamless way that the legs join the top.  
+~
+#2210
+hot springs bath~
+`1bubbling hot springs``~
+`lWithin the arms of the rock floor, a `1bubbling hot spring`l looks inviting.``~
+water~
+0
+furniture 2
+R
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC FHJKPQ CFIL ABEFG CFG
+0
+0
+20 10000 1 P
+#2211
+handful soap sand~
+`xa handful of soap sand``~
+`bPiled carefully, a `xhandful of soap sand`b sits in a wee heap.``~
+sugar~
+0
+food 2
+PS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A CE 0 0
+0
+0
+20 50 3 P
+#2212
+wooden hoe knight~
+a dull hoe~
+A dull hoe~
+wood~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AB B BC 0 0
+0
+0
+5 10 100 G
+A
+18 2
+A
+19 1
+#2213
+glyph rune stone~
+a mysterious glyph~
+A glyph glows against the stone of the cliff face.~
+stone~
+0
+portal 2
+ARYa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+In a breath of trees, $n disappears.~
+The glyph flares into brightness beneath your hands!~
+In a soft green glow, $n appears.~
+The scent of trees surrounds you. ~
+-1 0 AG FJKM K
+0
+0
+5 1000 360 P
+#2220
+dragon shell fragment~
+`ka golden shell fragment``~
+`kA fragment of a dragon shell gleams golden here.``~
+gold~
+0
+treasure 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 10 2243 P
+#2221
+solid iron chest~
+`dan `airon chest``~
+`dAn `airon chest`d has been melded into the ground.``~
+iron~
+0
+container 2
+R
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CEFGHI ACD CFGHL CDFI ABFG
+0
+0
+21 10000 200 P
+#2222
+chain shell delicate~
+`ha delicate `gs`hh`ge`hl`gl``~
+`hA delicate `kgolden `hchain pierces an exquisite `gs`hh`ge`hl`gl`h.``~
+coral~
+0
+armor 2
+AHKM
+L
+AC
+BEFGHKQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BC BC BC BC 0
+0
+0
+52 80 3300 P
+A
+18 3
+A
+26 2
+#2223
+stone walls rocks~
+`athe chasm walls``~
+`aRocky, uneven chasm walls loom overhead.``~
+stone~
+0
+portal 2
+R
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n stubbornly begins to scale the wall, using what pitiful handholds are available.~
+You dig your fingers into the unforgiving stone and slowly inch upwards.~
+Gasping for breath, $n crawls over the edge and flops down.~
+With a tearing pain in every muscle in your body, you flop over the ledge at the top. ~
+-1 0 A ACDGHL CFG
+0
+0
+18 10000 940 P
+#2224
+rotting meat flesh~
+a pile of rotting meat~
+A decaying chunk of unidentifiable flesh rots slowly on the ground.~
+meat~
+0
+food 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 BCDE A 0
+0
+0
+20 50 2 P
+#2230
+innate sneakiness +thief +assassin~
+`ainnate sneakiness``~
+`aShadows hide an essential thief quality.``~
+air~
+0
+armor 2
+SY
+0
+AG
+CI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC ABC ABC ABC 0
+0
+0
+50 9 1000 P
+A
+2 1
+A
+24 -4
+A
+18 1
+A
+17 -10
+#2231
+tiny waterfall~
+`ea tiny waterfall``~
+`eA tiny waterfall cascades over some rocks into this clear, sparkling pool.``~
+water~
+0
+fountain 2
+R
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 10000 1 P
+#2232
+chasm gaping~
+`ea `fgaping chasm``~
+`eA `fgaping chasm`e separates you from the other side of this cave.``~
+air~
+0
+portal 2
+R
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n shrugs, and leaps recklessly into the chasm...missing the other side.~
+You attempt to leap across the chasm, but miss the opposite edge.~
+$n falls from the sky. ~
+You hurtle downwards, and are only stopped by a very solid obstacle. ~
+-1 0 G ADEGHL H
+0
+0
+20 10000 0 P
+#2233
+dank weed~
+`da dank clump of weeds``~
+`dA dank clump of weeds trails up from the depths of the lake.``~
+hemp~
+0
+trash 2
+0
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 10 0 P
+#2234
+driftwood dark object~
+`da hunk of driftwood``~
+`dA long, dark object floats menacingly towards you through the water!``~
+wood~
+0
+trash 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 10 5 P
+#2235
+contraption vial mist~
+`aa contraption holding a vial of mist``~
+`aA contraption holding a vial of mist is here.``~
+glass~
+0
+roomtrap 2
+QSY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CDF ABDEF BDEG 0 0
+CE
+0 0 ABE 0 0 0 0 
+40 10 1000 P
+E
+specmessage~
+`bA red mist surrounds $n!``
+~
+E
+victmessage~
+`bA red mist surrounds you!``
+~
+#2237
+pool water black~
+a stagnant and befouled pool~
+Black and completely opaque, this pool of water is barely visible.~
+water~
+0
+drink 2
+ERS
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EIJKN EIJKN 0 A 0
+0
+0
+10 10000 1 P
+#2240
+pile sand golden~
+`ka pile of golden sand``~
+For some reason, someone has accumulated a small pile of `kgolden sand.``~
+gold~
+0
+treasure 2
+Q
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 80 500 P
+#2241
+white waterlily lily~
+a `hwhite waterlily``~
+`cA `hwhite waterlily`c is light against the green shadow of its leaves.``~
+flesh~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 B AC A 0
+0
+0
+20 10 40 P
+#2242
+reeds river black ~
+`aa handful of dark reeds``~
+`aInky black reeds poke up through the dark waters of the marsh.``~
+bamboo~
+0
+trash 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 40 0 P
+#2243
+wall rocks edge~
+the rocky walls~
+~
+stone~
+0
+portal 2
+RTYa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`d$n is slammed against a wall, and manages, gasping, to inch upwards a little.``~
+`dYou barely manage to crawl up the rocks.``~
+`dA`b bloody`d hand appears at the edge of the ledge, and dripping, $n hauls himself up.``~
+`dYour hands `bred and raw`d, you finally reach a ledge to rest on.``~
+-1 0 A ADEGHL CFG
+0
+0
+10 1000 1 P
+#2244
+blanched lily flower~
+a `hblanched `olily``~
+`hBlanched of color, an odd, toothed flower lies motionless.``~
+wheat~
+0
+food 2
+AG
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AE AE EFGH 0 0
+0
+0
+14 50 1032 P
+#2245
+cliff face ~
+the cliff face~
+The steep walls of the cliff rise upwards impassibly. ~
+ore~
+0
+portal 2
+R
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+$n leaps, and manages to cling to a handhold on the cliff face, and then begins to scrabble upwards.~
+You leap and catch a handhold, and scrabble upwards, your fingers burning with effort.~
+As $n attempts to clamber higher, $s slips and falls back to the ground, loosing a shower of small pebbles. ~
+Your fingers slip and you slide back down to the ground, dislodging several small pebbles that bounce off your head.~
+-1 0 0 ACGHL CG
+0
+0
+15 10000 10 P
+#2246
+rock stone big~
+a large rock~
+A large rock leans against the north wall, almost concealing the dark opening beneath.~
+stone~
+0
+portal 2
+R
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+$n pushes at the massive stone, and as it rocks in place, manages to squeeze inside.~
+You shove the rock, and as it rocks, you slip into the cave beyond.~
+$n squeezes through the gap before the stone falls back in place.~
+Oh crap! The smell, the smell!~
+-1 0 G ABCDEFHL K
+0
+0
+25 10000 0 P
+#2247
+rock stone big~
+a large rock~
+A large rock blocks the south wall, air bleeding through faintly.~
+stone~
+0
+portal 2
+R
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+$n hastily shoves the massive rock aside and dashes out!~
+You shove the rock aside, and escape!~
+You are blasted by foul smelling air as $n emerges from under the rock. ~
+Oh yes! Real air!~
+-1 0 G BCDEFHL K
+0
+0
+25 10000 0 P
+#2250
+simple vegetables~
+`ca few simple vegetables``~
+`cA few simple vegetables are here, piled carefully.``~
+food~
+0
+food 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB CEH 0 0
+0
+0
+20 10 25 P
+#2251
+alliguin blood~
+`ialliguin blood``~
+`aA small pool of `ialliguin blood`a spreads here, smoking slightly.``~
+slime~
+0
+potion 2
+Q
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+F 'farsight' 'haste' 'refresh' 'burning hands'
+0
+0
+32 10 20 P
+#2252
+dragon tears bottle~
+`edragon tears``~
+`hA small bottle glimmers here, a `esmall dragon engraving`h on it the only mark.``~
+liquid~
+0
+potion 2
+QU
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BEF 'cure disease' 'renewal' 'heal' 'sanctuary'
+0
+0
+30 10 600 P
+#2254
+nest feather enormous~
+the dragonet's nest~
+`hAn `cenormous nest `kglitters `hfaintly in the dim light.``~
+feather~
+0
+furniture 2
+ARY
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D EIJKN CFILO CFG CFG
+0
+0
+20 10000 300 P
+#2260
+naga mark +cleric~
+`ythe naga's mark``~
+A single red mark lies on the floor like a drop of blood.~
+scales~
+0
+armor 2
+AT
+0
+AE
+B
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC AC AC BC 0
+0
+0
+55 100 2500 P
+A
+12 5
+A
+4 1
+A
+24 -5
+#2261
+slave collar manacle~
+`aa slave collar``~
+`fA circular `ametal band`f has been abandoned here.``~
+steel~
+0
+jewelry 2
+GMYa
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 100 10 P
+A
+12 25
+A
+3 -3
+A
+19 -2
+#2270
+teddy bear max steel teeth trap~
+`da teddy bear with a large open maw full of steel teeth``~
+A button-eyed teddy bear sits here, its steel teeth gleaming wickedly.~
+paper~
+0
+roomtrap 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BDF BE AD AE 0
+ABCD
+0 0 ABD 0 0 0 0 
+50 10 1000 P
+E
+victmessage~
+`bThe steel jaws of an inconspicuous teddy bear snaps shut around your leg!``
+~
+E
+specmessage~
+`bThe steel jaws of an inconspicuous teddy bear snaps shut around $n's leg!``
+~
+#2271
+scaly hand plates~
+scaly hand plates~
+Cleverly strung together scales form gleaming hand plates.~
+scales~
+0
+armor 2
+TY
+0
+AH
+BCEFHI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B B B B 0
+0
+0
+36 50 300 P
+#2275
+chasm darkness ~
+`finto the darkness``~
+`2You see only `fdarkness `2within the `fchasm `2depths.``~
+air~
+0
+portal 2
+RTa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+-1 0 G BDEGHL H
+0
+0
+20 10000 4100 P
+A
+13 15
+#2276
+thick iron key~
+a thick iron key~
+An iron key. How exciting. ~
+iron~
+0
+key 2
+Q
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 0 0 0
+0
+0
+16 100 10 P
+#2280
+dark sack~
+`aa `6dark`a sack``~
+`aA `6dark`a sack of unidentifiable material falls open slightly.``~
+hemp~
+0
+container 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+EGHIJK AC 0 ADFG ABFG
+0
+0
+20 5 870 P
+#2281
+dragon scale ring~
+`ca dragon scale``~
+`cA small dragon scale has a perfect hole in the center.``~
+diamond~
+0
+jewelry 2
+AST
+0
+AB
+CE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+62 120 7307 P
+A
+1 1
+A
+13 20
+A
+24 -1
+#2282
+emerald drake eye ring~
+`hAn `jE`gm`je`gr`ja`gl`jd `nDrake-eye `hRing``~
+`hA mithril ring adorned with an emerald drake's eye.``~
+mithril~
+0
+jewelry 2
+MS
+0
+AB
+CEFHIJKO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+48 2 28000 P
+A
+18 2
+A
+19 2
+A
+4 -3
+A
+26 -2
+A
+13 25
+A
+12 -5
+#2283
+emerald drake scale belt~
+`kAn `jE`gm`je`gr`ja`gl`jd `jDrake Scale `kBelt``~
+`hA belt fashioned from the scales of the emerald drakes lays here.``~
+scales~
+0
+clothing 2
+MS
+0
+AL
+CEFHIJKO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 16 17500 P
+A
+5 -1
+A
+2 2
+A
+18 4
+A
+13 10
+#2284
+imbued crystal drake eye~
+`fImbued `hCrystal `jDrake `fEye``~
+`fan imbued crystal drake eye gently balances in the air in front of you.``~
+unknown~
+0
+container 2
+BMS
+N
+AQ
+ABFGHJLOQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CEFGHI AC 0 BEF BCEG
+0
+0
+52 0 50000 P
+A
+26 2
+A
+12 50
+#2285
+big lumpy bed~
+a stony bed~
+A few desultory reeds make a poor, rank-smelling bed on a lumpy rock.~
+stone~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B EIJKN BEK -115 -115
+0
+0
+24 10000 1530 P
+#2286
+dragon horn crystalline object~
+`ea`f d`er`fa`eg`fo`en`f h`eo`fr`en``~
+`jA gleaming crystalline object, curved like an enormous animal `fh`eo`fr`en`j, has been dropped here.``~
+electrum~
+0
+weapon 2
+GY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C BC AC ABCF B
+0
+0
+52 120 750 P
+A
+12 15
+#2287
+stone bridge~
+`aa narrow stone bridge``~
+`aChasm winds howl around a narrow stone bridge.``~
+stone~
+0
+portal 2
+Ya
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n cautiously crawls across a narrow stone bridge.~
+You carefully crawl across the narrow bridge.~
+Buffeted by the chasm winds, $n steps off a narrow bridge with a relieved sigh.~
+Chasm winds howl around you, dying only when you step off the bridge.~
+-1 0 AG ABGHL F
+0
+0
+5 1000 360 P
+#2288
+frost scale drake mantle~
+`nF`or`no`os`nt`os`nc`oa`nl`oe `nDrake `aMantle``~
+`na set of shoulderpads with a long, flowing cloak made from the scales of a frost drake lays here.``~
+cloth~
+0
+armor 2
+MS
+K
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+D D D D 0
+0
+0
+50 0 19000 P
+A
+1 1
+A
+18 2
+A
+2 1
+#2289
+red drake scale shield~
+`ia Red Drake-scale Shield``~
+`iA red shield forged of red drakescales lays here.``~
+scales~
+0
+armor 2
+BIMS
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+45 10 350 P
+A
+12 40
+A
+24 -3
+#2298
+holy legguards light runicset~
+`kholy leg gaurds of light``~
+`kThese leg guards glow with a radiant holy light.``~
+energy~
+0
+armor 2
+AIKLRSTYad
+BJKL
+AF
+0
+0
+0
+2298
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+1 0 100000 P
+A
+19 5
+A
+18 5
+A
+12 15
+A
+13 15
+A
+24 -4
+A
+26 1
+A
+4 1
+A
+3 1
+A
+5 1
+A
+2 1
+A
+1 1
+#2299
+seed plant~
+a small seed~
+A speck looks out of place.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 A 0 0 0
+0
+0
+10 5 0 P
+#0
+
+#ROOMS
+#2200
+0 0
+~
+~
+~
+0 0 0
+Interior Hallway~
+From the massive archway to the south, a surge of heat blasts from the
+warm, glittering sands of the courtyard.  This large, curved hallway seems
+to be almost a natural hollow in the stone of the Keep, leading further into
+the mountain.  The top of the ceiling has swirling, artistic marks on it,
+and the flat nubs where stalactites have broken off.  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 2251
+D2
+~
+~
+0 0 2271
+S
+#2201
+0 0
+~
+~
+~
+0 0 0
+`lLake``~
+A massive, square keep rises out of the water, casting an even darker
+shadow across the dark, cold lake.  Some kind of strange bellowing and other
+assorted odd noises drift through the lit entry to the keep, which is
+extremely small, so that only one or two may pass at a given time.  A warm
+breeze carries the distinctive scent of reptile from the entry, and a nimble
+form is barely visible inside.  
+~
+0 X 7
+0
+~
+I 0 E
+gate~
+The gate is tall and secure.  Whoever built it values privacy.
+~
+D0
+~
+~
+0 0 2202
+D1
+~
+~
+0 0 2249
+D2
+~
+~
+0 0 2244
+D3
+~
+~
+0 0 2248
+S
+#2202
+0 0
+~
+~
+~
+0 0 0
+The Foyer~
+To the south, dark waters ripple silently as unseen denizens wend their
+ways through the murky waters.  Overhead and to the east and west, stone
+soars, unmarked by anything other than the passage of time.  This room, open
+to the north and south, is not so much a room as a pause in the walls of the
+Keep, which must be at least 10 feet thick.  A reptilian scent hangs heavily
+in the air, mixing with the scent of brimstone.  The only decoration in this
+room is on the wall, a colorful but grim `ipainting.  `` 
+~
+0 CDX 0
+0
+~
+I 0 E
+painting~
+In grim detail, this painting...  No, magical image...  Displays the
+brutal decimation of young dragons perpetrated by humans, elves, and the
+other bipedal races of Exodus.  This image contains a collage of images,
+from a Vro'ath warrior munching casually on a hatchling, to a mage ordering
+young dragons into combat.  The searing images of terrified young and small
+dragons being abused, mutilated, and killed are powerful ones.  
+~
+D0
+You see a long hallway. 
+~
+~
+0 -1 2203
+D2
+~
+~
+0 0 2201
+S
+#2203
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+The walls of the Keep rise to the south, and the Keep Foyer is within
+sight.  Beneath your feet, warm sands shift and fall away.  Various
+draconian and reptilian forms are scattered across this enormous courtyard
+and in mid-air.  The walls of the Keep look very high and very thick from
+here, and the exit breathes the scent of water and freedom...  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2204
+D1
+~
+~
+0 0 2216
+D2
+You see the foyer. 
+~
+~
+0 -1 2202
+D3
+~
+~
+0 0 2214
+D4
+~
+~
+0 0 2225
+S
+#2204
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+In the language of the draconian species that inhabit this Keep, this
+place is known merely as the Keep.  Outside sources, however few and rare
+those may be, have called this hidden place the Keep of Lesser Dragons, for
+the creatures that roam it.  The use of Lesser, though, implies that perhaps
+there is a place inhabited by the Greater Dragons...  A formidable thought. 
+~
+0 0 10
+0
+~
+I 0 E
+sign~
+The sign says "NURSERY" in bold letters.     
+~
+E
+inscription~
+It says "STORAGE"
+~
+D0
+~
+~
+0 0 2207
+D1
+~
+~
+0 0 2213
+D2
+~
+~
+0 0 2203
+D3
+~
+~
+0 0 2215
+D4
+~
+~
+0 0 2226
+S
+#2205
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+The north wall of the Keep seems to rise almost endlessly upwards.  Upon
+closer examination, it is apparent that the wall is not, after all, a wall. 
+It is instead the mountain itself, rising steeply in a cliff skywards, and
+then slanting upwards to a snow-capped peak just faintly visible through
+crowds.  Further up in the wall, a dark opening gapes in the wall of the
+Keep.  
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 2217
+D2
+~
+~
+0 0 2206
+D3
+~
+~
+0 0 2212
+D4
+~
+~
+0 0 2229
+S
+#2206
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+The courtyard sprawls out in every direction, the warm sand shifting
+underfoot.  The reptilian inhabitants of the Keep can be seen basking, not
+only on the ground, but also basking as they fly lazily about in the open
+sky above you as well.  At first, it looks as if the Keep is only loosely
+defended, but the sheer number of creatures armed with tooth and claw, clad
+in the armor of their scales makes that idea less teniable.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2205
+D1
+~
+~
+0 0 2209
+D2
+~
+~
+0 0 2207
+D3
+~
+~
+0 0 2208
+D4
+~
+~
+0 0 2228
+S
+#2207
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+The courtyard of the Keep sprawls out in all of the cardinal directions
+around you.  The largely recumbent forms of the reptilian inhabitants of the
+Keep can be seen in a variety of poses, some seeming almost boneless in
+their flexibility.  Above, some of the winged creatures circle aimlessly in
+something that almost looks like a defensive pattern.  It's a good thing
+animals don't have defensive flight formations...  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2206
+D1
+~
+~
+0 0 2210
+D2
+~
+~
+0 0 2204
+D3
+~
+~
+0 0 2211
+D4
+~
+~
+0 0 2227
+S
+#2208
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+The warm breezes and heated sands underfoot combine to keep anyone,
+visitor or otherwise, from ever becoming too cold.  The temperature seems
+perfect for the cold-blooded, as many reptilian forms seem to pullulate
+actively about, pursuing their activities.  The sky is clear immediately
+above, although clouds hover around the tips of the mountains that
+protectively enfold this small enclave.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2212
+D1
+~
+~
+0 0 2206
+D2
+~
+~
+0 0 2211
+D3
+~
+~
+0 0 2270
+D4
+~
+~
+0 0 2236
+S
+#2209
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+In the shadow of the great Keep wall that looms to the east, the expanse
+of the Keep of Lesser Dragons is apparent, and the variety of lizard and
+reptilian forms that inhabit it.  On the wall nearby some scratches have
+been gouged in the sheer rock of the wall, as if by a mighty claw idly
+running down it.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2217
+D2
+~
+~
+0 0 2210
+D3
+~
+~
+0 0 2206
+D4
+~
+~
+0 0 2219
+S
+#2210
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+A flight of reptilian forms flash by overhead, a momentary distraction
+from the courtyard that speads out in all directions save east, where the
+thick, immutable walls of the Keep rise skyward impressively.  The warm
+sands of the Courtyard emanate a heat felt even through footgear, and
+something sparkles amidst the grains that crunch faintly underfoot.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2209
+D2
+~
+~
+0 0 2213
+D3
+~
+~
+0 0 2207
+D4
+~
+~
+0 0 2220
+S
+#2211
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+Trampled under the feet, coils, and trailing tails of an unknown number
+of inhabitants, still the sand retains a gleam even in the lowest light. 
+Here and there, the dark irregularity of a scale interrupts the smooth flow
+of sand.  The Courtyard opens in all directions, though the wall is near to
+the west.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2208
+D1
+~
+~
+0 0 2207
+D2
+~
+~
+0 0 2215
+D3
+~
+~
+0 0 2269
+D4
+~
+~
+0 0 2235
+S
+#2212
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+The silent mountain ascends towards the peaks shrouded by clouds, the
+surface unforgiving of attempts to climb.  Where the golden sands of the
+Keep meet the mount, however, an irregular splotch of wetness dulls the
+gleams of the ground.  From the remains of vegetable, untouched by the
+largely carnivorous Keep inhabitants, perhaps it was some kind of soup,
+thrown from the dark entry to the northwest.  In all other directions, the
+uneven sands provide a clear view of the rest of the Courtyard.  
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 2205
+D2
+~
+~
+0 0 2208
+D3
+~
+~
+0 0 2271
+D4
+~
+~
+0 0 2237
+S
+#2213
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+In this remote location, hidden by the mountains and surrounded by water,
+the smaller draconian species can live in relative peace and freedom.  Above
+the courtyard, the winged species can be seen relaxing in the warm breezes. 
+Warm, golden sand glitters slightly underfoot, reflecting off the cool,
+white walls of the Keep to the east.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2210
+D2
+You see the court.
+~
+~
+0 -1 2216
+D3
+~
+~
+0 0 2204
+D4
+~
+~
+0 0 2221
+S
+#2214
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+South, the thick, high walls of the Keep rise skywards, and there is
+little room to walk to the west before another impassive wall blocks
+progress.  North and east, the sands open out into the rest of this open-air
+courtyard.  The air is redolent of warm reptile and things reptilian.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2215
+D1
+~
+~
+0 0 2203
+D3
+~
+~
+0 0 2278
+D4
+~
+~
+0 0 2233
+S
+#2215
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+The Keep extends a little further west before the thick, high walls begin
+again, rising as high as possible before disappearing into the clouds above.
+The warm sands of the courtyard shimmer with a golden sparkle, the heat
+reflecting off the armored scales of the Keep denizens.  The granite of the
+nearby wall promises a cooler respite from the heated courtyard, and less
+crowded by the small, reptilian forms of inhabitants, all of whom seem to
+have very sharp teeth.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2211
+D1
+~
+~
+0 0 2204
+D2
+~
+~
+0 0 2214
+D3
+~
+~
+0 0 2268
+D4
+~
+~
+0 0 2234
+S
+#2216
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+In this corner of the Keep, to the north and west, the golden sands of
+the Courtyard spread out before you.  The light is particularly focused in
+this corner, and the sands gleam richly, with an almost metallic pattern to
+the flecks.  The cool, high walls of the Keep rise silently upwards, keeping
+the secrets of the Lesser Dragons through the millenia.  
+~
+0 0 10
+0
+~
+I 0 E
+sand~
+Examining the sand closely, you see that small, metallic flecks are mixed
+in with the coarser grained sand grains.  From the shine and color, it looks
+as if part of the courtyard sand...  Is pure gold!  Now, if only there was a
+way to refine all this sand!  If there were, you'd surely become a very
+wealthy adventurer.  
+~
+E
+sand~
+Leaning down, you touch the sand, and immediately jerk your hand away
+from the hot, burning sands.  The metallic flecks are more obvious in the
+sand now, and shine a suspiciously yellow tint.  Some things you just need
+to take the time to think about.  
+~
+D0
+You see the court.
+~
+~
+0 -1 2213
+D3
+~
+~
+0 0 2203
+D4
+~
+~
+0 0 2222
+S
+#2217
+0 0
+~
+~
+~
+0 0 0
+Courtyard~
+The golden sands of the Courtyard gleam underfoot, and a slight breeze
+carries the definitely reptilian scent of the Keep inhabitants.  To the
+north and east, the high, cool walls of the keep rise upwards.  Water
+trickles softly somewhere nearby, but is not visible.  
+~
+0 0 10
+0
+~
+I 0 D2
+~
+~
+0 0 2209
+D3
+~
+~
+0 0 2205
+D4
+~
+~
+0 0 2218
+S
+#2218
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+The fresh scent and whispering sounds of water trickling can be smelt and
+heard from the dark recesses of the niche that gapes to the north.  The
+mountain rises protectively over the blackness.  Below, the golden sands of
+the courtyard sparkle in the light.  The reptilian forms of the Keep
+inhabitants flicker in the air as they restlessly move.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2242
+D2
+~
+~
+0 0 2219
+D3
+~
+~
+0 0 2229
+D5
+~
+~
+0 0 2217
+S
+#2219
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+To the east, the heavy walls of the Keep rise silently overhead.  For
+some reason, the wall seems somehow ...  As if it might awaken from an eons
+old slumber and speak to you, as perhaps it has done in the past.  Then
+again, perhaps such musings are foolishness, brought about by the coolness
+of this spot along the wall, the glistening Court sands and the lithe forms
+that almost dance in mid-air.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2218
+D2
+~
+~
+0 0 2220
+D3
+~
+~
+0 0 2228
+D5
+~
+~
+0 0 2209
+S
+#2220
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+Here, the shadows of the walls no longer cast a cooling shade.  Looking
+east, a wide, strong ledge soaks up the shade.  The wall seems to extrude
+itself slightly to form the ledge, and then curve upwards at such an unusual
+angle as to prevent the ledge from being overshadowed.  A tiny, elegant
+lizard launches itself off the ledge and flies away.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2219
+D1
+~
+~
+0 0 2230
+D2
+~
+~
+0 0 2221
+D3
+~
+~
+0 0 2227
+D5
+~
+~
+0 0 2210
+S
+#2221
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+The ledge to the east looks to be a portion of the wall, a natural
+depression, or the work of picks (or magic) so fine as to leave no traces. 
+The edges of the ledge are curved smoothly, naturally, and yet the slight
+depressions native to stone remain.  Odd.  Below, the Courtyard sands
+gleam, and in all other directions, the air above the Courtyard opens out.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2220
+D1
+~
+~
+0 0 2231
+D2
+~
+~
+0 0 2222
+D3
+~
+~
+0 0 2226
+D5
+~
+~
+0 0 2213
+S
+#2222
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+An obvious hazard of soaring over the warm golden sands of the courtyard
+is the flying forms that whiz by, some almost invisible against the blue
+sky.  The walls of the keep rise upwards a little while away, though to the
+south a large niche of some sort seems to open up and offer a place to land.
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2221
+D2
+~
+~
+0 0 2223
+D3
+~
+~
+0 0 2225
+D5
+~
+~
+0 0 2216
+S
+#2223
+0 0
+~
+~
+~
+0 0 0
+Niche~
+The Keep walls curve protectively over this large room, which is
+obviously meant to shelter the flying Keep inhabitants from storms or just
+provide them with a place to rest.  However, this corner of the large room
+is somewhat dusty and has an unpleasant odor.  To the west is dark pool and
+what appears to be a huge, green pile of manure, and to the north, the ledge
+drops away and the open air of the Courtyard is accessible.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 2222
+D3
+~
+~
+0 0 2224
+S
+#2224
+0 0
+~
+$n chokes slightly as $e comes closer.~
+Shaking $s head, $n escapes this place.~
+0 0 0
+Niche Pool~
+In this part of the niche in the wall, a once-clear pool of water has
+become muddied and foul from the disgusting ooze of the creature that lives
+here.  Whatever the stuff is that it secretes, it has permanently ruined a
+pool that was probably quite drinkable at some point.  The Keep walls rise
+overhead, sheltering any creature that decides to take up shelter here, from
+the elements.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 2225
+D1
+~
+~
+0 0 2223
+D3
+~
+~
+0 0 2232
+S
+#2225
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+Above the golden sands of the courtyard, the many and varied forms of the
+flying reptilians seem to be enjoying flying aimlessly all around the
+courtyard.  A careful observer might notice that they seem to be in some
+kind of point formation, as if they are practicing defensive maneuvers.  To
+the south, a large heap of what looks like manure is in some kind of niche
+in the wall.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2226
+D1
+~
+~
+0 0 2222
+D2
+~
+~
+0 0 2224
+D3
+~
+~
+0 0 2233
+D5
+~
+~
+0 0 2203
+S
+#2226
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+Above the golden, heated sands of the courtyard, the sky is crowded with
+the many and varied forms of the winged Keep inhabitants.  The sky opens out
+in all directions, though the thick walls of the Keep still rise steeply
+here, too high to fly over.  Nothing but the Keep is visible from here.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2227
+D1
+~
+~
+0 0 2221
+D2
+~
+~
+0 0 2225
+D3
+~
+~
+0 0 2234
+D5
+~
+~
+0 0 2204
+S
+#2227
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+The skies are so crowded here that it is often necessary to duck the
+overly active and less than careful draconian forms that whiz through this
+room at incredible speeds.  From this position above the golden sands of the
+Keep, a collision would surely result in broken bones and at least one of
+those involved spitting out sand.  Various forms glimmer in the light as the
+Keep inhabitants go about their daily business.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2228
+D1
+~
+~
+0 0 2220
+D2
+~
+~
+0 0 2226
+D3
+~
+~
+0 0 2235
+D5
+~
+~
+0 0 2207
+S
+#2228
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+A slight breeze is generated as a tiny lizard, too speedy to even see
+clearly, passes on some incomprehensible saurian errand.  Perhaps seeking
+food?  Or a race?  Here, at least, the lizards know they are relatively free
+from the burdens of the merciless hunting and enslavement lurking in the
+outside world, so it's possible it was merely at play.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2229
+D1
+~
+~
+0 0 2219
+D2
+~
+~
+0 0 2227
+D3
+~
+~
+0 0 2236
+D5
+~
+~
+0 0 2206
+S
+#2229
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+North, a cave-like ledge has been hollowed out of the Keep walls, or
+perhaps simply came into existence at the whim of the mind that shaped this
+small, strange Keep of the embattled and beset Lesser Dragons.  If the
+latter, perhaps it is best that such a being who could so casually make a
+mountain change and shift form, molding it more easily than a child creates
+a sand castle is not disturbed.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2241
+D1
+~
+~
+0 0 2218
+D2
+~
+~
+0 0 2228
+D3
+~
+~
+0 0 2237
+D5
+~
+~
+0 0 2205
+S
+#2230
+0 0
+~
+~
+~
+0 0 0
+A Ledge in the Wall~
+High and cool and smooth, the ancient rock of the Keep wall forms a rocky
+ledge here, the top opening up endlessly skywards.  Convenient, for the
+saurian denizens at least, that the walls permit them such wide, comfortable
+(if rock can be comfortable) places to sunbathe on clear days.  To the west,
+the air above the Courtyard of the Keep opens up before you.  
+~
+0 0 10
+0
+~
+I 0 D2
+~
+~
+0 0 2231
+D3
+~
+~
+0 0 2220
+S
+#2231
+0 0
+~
+~
+~
+0 0 0
+A Ledge in the Wall~
+The not-so-elegant odor du Dragon lingers here.  This ledge was seemingly
+extruded from the Keep walls for a purpose you can only guess at.  The Keep
+inhabitants, however, seem to be fond of sunbathing here.  This ledge
+continues to the north, and drops off into the courtyard to the west.  By
+some odd marvel of engineering (or magic) no shadows fall on this ledge from
+the walls to the East.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2230
+D3
+~
+~
+0 0 2221
+S
+#2232
+0 0
+~
+~
+~
+0 0 0
+Niche~
+Seemingly carved out of pure, endless rock itself, this niche provides a
+large room where the flying dragons may safely land and rest, or take
+shelter from storms, if this strange realm ever storms.  The keep walls
+curve protectively overhead, and to the east is a dark pool and what looks
+like a greenish pile of manure.  Northwards, the courtyard opens out.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 2233
+D1
+~
+~
+0 0 2224
+S
+#2233
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+As the walls of the Keep loom high to the south, the rest of the
+courtyard opens out to the north and the east.  South, a niche has been
+carved out of the massive stone walls, where a moment's rest is available. 
+As the warm breezes of this location permeate warmth throughout the air, it
+is obvious why the cold-blooded kin to dragons chose this place for their
+home.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2234
+D1
+~
+~
+0 0 2225
+D2
+~
+~
+0 0 2232
+D3
+~
+~
+0 0 2276
+D5
+~
+~
+0 0 2214
+S
+#2234
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+The air above the Courtyard is clean, and fresh, despite the subtle
+undertone of lizard.  South, some distance away, the shadow of a niche in
+the wall is visible, but the distance is too great to make out what lies
+within.  Below, the sands of the ground sparkle faintly in the light.  A
+shadow passes overhead, but is gone before identification is possible.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2235
+D1
+~
+~
+0 0 2226
+D2
+~
+~
+0 0 2233
+D3
+~
+~
+0 0 2275
+D5
+~
+~
+0 0 2215
+S
+#2235
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+Below, the golden keep sands gleam in even the lowest of light, a slight
+sparkle tracing through the sand in random patterns.  The air above the Keep
+floor opens out in all directions, though a wall looms nearby to the west. 
+Frequently crowded even above the ground, the Keep is rarely still or silent
+for long, even above the ground.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2236
+D1
+~
+~
+0 0 2227
+D2
+~
+~
+0 0 2234
+D3
+~
+~
+0 0 2274
+D5
+~
+~
+0 0 2211
+S
+#2236
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+Here above the flaxen Courtyard, the air offers plenty of room in all
+directions to maneuver, or perhaps perform impromptu aerial acrobatics, as
+some of the natives seem to do at a whim.  The surrounding walls and
+mountains are all visible, of course, but none close enough to touch.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2237
+D1
+~
+~
+0 0 2228
+D2
+~
+~
+0 0 2235
+D3
+~
+~
+0 0 2273
+D5
+~
+~
+0 0 2208
+S
+#2237
+0 0
+~
+~
+~
+0 0 0
+Mid-Air~
+Although many of the saurians soar through the air here, the lack of
+walls in the immediate vicinity allows a certain amount of physical freedom.
+Occasionally, a creature below may hiss as a hovering creature throws shade
+upon their sunbathing, but most denizens seem content to coexist, save for
+hunting the small lemmings for food now and again.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2240
+D1
+~
+~
+0 0 2229
+D2
+~
+~
+0 0 2236
+D3
+~
+~
+0 0 2272
+D5
+~
+~
+0 0 2212
+S
+#2238
+0 0
+~
+~
+~
+0 0 0
+A Small Ledge~
+A small ledge juts out from the west wall of the Keep of Lesser Dragons. 
+To the north, a foul-smelling rock leans against a wall, roughly the size of
+a person.  Eastwards, the air above the Keep opens out, and south, you meet
+an uncompromising wall of rock.  Gravel crunches slightly beneath your foot.
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 2275
+S
+#2239
+0 0
+~
+$n gags a little, entering.~
+Gagging, $n rushes out!~
+0 0 0
+A Hole In The Wall~
+The interior of this cave smells incredibly bad.  It smells like - never
+mind what it smells like - it is an incredibly noxious stench at which
+Vro'ath would even cringe.  Poorly furnished with a pile of rags, a couple
+pots, and some charcoal sticks, it is clearly the home of some impoverished
+creature.  As your light reveals the interior of this dank and unwelcoming
+place, you note that the walls are covered in hundreds, perhaps thousands of
+crude `gpictures``.  
+~
+0 ACDN 5
+4
+There's not enough room in this hole in the ground for another person!~
+I 0 E
+pictures~
+Hrm.  Judging from the positions of these stick figures, one stick
+figure, the one with the big smiley face on top, seems to be killing hordes
+of other stick figures and then doing something with another stick figure
+wearing a skirt...  Someone's obviously been alone a wee bit too long.  
+~
+S
+#2240
+0 0
+~
+~
+~
+0 0 0
+Northwest Keep Corner - MidAir~
+In this corner of the Keep, wall blends into mountain in a curve so
+smooth that the moment where it stops being wall and becomes mountain is
+invisible.  The mountain and wall are too steep to climb, but there seems to
+be plenty of room to fly above the Keep courtyard sands to the south and
+east.  Below, the mountain juts out to cover this corner of the courtyard.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 2241
+D2
+~
+~
+0 0 2237
+S
+#2241
+0 0
+~
+~
+~
+0 0 0
+North Ledge~
+This large, flat ledge juts out smoothly from the north mountain wall. 
+Overhead, the ledge is sheltered from any variation in climate by the roof
+of this cave, again thick, mineral-mottled stone like the mountain that
+quietly bears the Keep.  To the east, a breeze wafts the scent of fresh
+water from the rest of this ledge.  To the south, the open air above the
+courtyard stretches out, with small, agile forms dancing on the wind.  
+~
+0 A 0
+0
+~
+I 0 D1
+~
+~
+0 0 2242
+D2
+~
+~
+0 0 2229
+D3
+~
+~
+0 0 2240
+S
+#2242
+0 0
+~
+$n pauses for a moment.~
+$n glides $T.~
+0 0 0
+North Ledge~
+Beneath the cooling shade of the rocky overhang, this large, flat ledge
+provides a observation point from which the Courtyard can be assessed.  A
+faintly sulphuric smell mixes with the scent of fresh water, rising from the
+mineral spring that begins here and extends further into the mountain to the
+north.  To the south, the open air of the Keep of Lesser Dragons opens out,
+an open invitation to glide.  From the claw marks in the edge of the ledge,
+it is entirely possible that other, less homid creatures, have taken the
+invitation.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 2250
+D2
+~
+~
+0 0 2218
+D3
+~
+~
+0 0 2241
+S
+#2243
+0 0
+~
+~
+~
+0 0 0
+The Nest~
+In the still cavern air, redolent with the scent of reptile and rotting
+meat, slight breeze is  generated as something large moves.  Beyond the
+paladin-guardians, something has made its home.  A massive mound glitters
+faintly from one corner of the room, where it has been arranged carefully,
+even woven together, however sloppily.  
+~
+0 AD 0
+0
+~
+I 0 E
+mound~
+Although it is too dark to see clearly, it looks like something large,
+that glitters faintly, and covers a good-sized portion of the floor to the
+north.  
+~
+D0
+~
+~
+0 0 2267
+S
+#2244
+0 0
+~
+$n swims into view, a haunted look hovering in the back of $s eyes.~
+With a determined look, $n swims $T. ~
+0 0 0
+`lLake``~
+This dark, and somehow disturbing lake is filled with debris and the
+murky water allows no sight of what it contains.  The currents shift gently,
+stirred by the motions of the life within the water allows no sight of what
+To the north, a massive keep rises out of the water, the mountains
+surrounding it on all other sides.  
+~
+0 X 7
+0
+~
+I 0 D0
+~
+~
+0 0 2201
+D1
+~
+~
+0 0 2246
+D2
+~
+~
+0 0 2245
+D3
+~
+~
+0 0 2247
+S
+#2245
+0 0
+~
+$n sloshes into view. ~
+Taking a deep breath, $n plunges into the shadowed aquifer.~
+0 0 0
+Ledge~
+The sheer, forbidding cliffs of the mountain rise steeply, clearly making
+exit up the walls impassible.  This small ledge juts out from the mountain
+wall, an edge of a wide, dark lake bordered by desultory vegetation and
+black reeds.  The water ends in front of a massive stone edifice, that looks
+as if part of the mountain spontaneously shifted position to form it. 
+Something moves in the shadowed waters of the lake, and above the keep more
+shadows fly.  
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 2244
+S
+#2246
+0 0
+~
+$n appears amidst the dark waters, $s face oddly vulnerable. ~
+$n swims $T, looking a little pale. ~
+0 0 0
+Lake~
+Sheltered by the mountains, and hidden from the outside world, things in
+this area are subtly different from the expectations fostered by knowledge
+of the outside world.  A common water lily blooms here, a spot of vibrant
+color against the murky water, but instead of the usual innocuous blossoms,
+this bloom has sharp, stinging teeth edging the otherwise silky looking
+petals.  The lake laps softly against the mountain walls, providing no exit
+from the water.  
+~
+0 X 7
+0
+~
+I 0 D0
+~
+~
+0 0 2249
+D3
+~
+~
+0 0 2244
+S
+#2247
+0 0
+~
+$n swims into sight, a welcome respite from the eerie waters.~
+As $n swims onwards, the waters rustle in a dark farewell.~
+0 0 0
+Lake~
+In the dark waters of this eerie place, something moves unseen through
+the waters, noticible only by the ripples as they pass, and the occasional,
+unpleasant feel of something cold and slimy.  Never more than the slightest
+touch, it is still unnerving, especially as the mountains offer no escape
+from the lake here.  
+~
+0 X 7
+0
+~
+I 0 D0
+~
+~
+0 0 2248
+D1
+~
+~
+0 0 2244
+S
+#2248
+0 0
+~
+$n swims through the dark lake, ripples cascading away from the disturbance.~
+As $n leaves, the waters whisper a dark farewell. ~
+0 0 0
+Lake~
+This chill, dark lake, nestled in the passless mountains has an almost
+primordial feel, as if Time has forgotten the existence of this place, and
+it has become a microcosm of ancient history.  The waters ripple very
+slightly with your passage, and the unseen passage of the lake denizens. 
+~
+0 X 7
+0
+~
+I 0 D0
+~
+~
+0 0 2256
+D1
+~
+~
+0 0 2201
+D2
+~
+~
+0 0 2247
+S
+#2249
+0 0
+~
+The water roils in disturbance as $n swims into view.~
+Again disturbing the dark waters, $n is swallowed from sight.~
+0 0 0
+Lake~
+The chilled, lightless waters of the lake ripple slightly with all
+movement, including that of unseen others below the waters, before even the
+ripples die and fade away.  Looming to the north, a high, thick wall
+strangles the light, making this dismal place even drearier.  The ominous
+wall is almost flawless, save for the flawed and incomplete carving in it of
+a single `iword.  `` 
+~
+0 X 7
+0
+~
+I 0 E
+word~
+R E M E M B E R
+~
+D1
+~
+~
+0 0 2261
+D2
+~
+~
+0 0 2246
+D3
+~
+~
+0 0 2201
+S
+#2250
+0 0
+~
+$n dives into the water with a splash!~
+Dripping, $n exits the soothing waters.~
+0 0 0
+A Small Hot Spring~
+This pool of bubbling, hot water is almost too hot to bear, but just hot
+enough to soothe and comfort muscles worn by travel and hardship.  From the
+scales floating in the water, it is obvious that others have partaken of the
+respite offered by this pool of water.  The mountain swoops down low
+overhead, so the options for this secluded pool are limited to standing or
+swimming in the water.  Flying is clearly impossible.  
+~
+0 ACQc 6
+0
+~
+I 0 M115
+D2
+~
+~
+0 0 2242
+S
+#2251
+0 0
+~
+~
+~
+0 0 0
+Interior Hallway~
+This massive cavern yawns overhead, the top of the cave again scraped
+clean in whirling, artistic swirls.  Shattered stalagtites seem to have been
+neatly piled on either side of this cavern.  From the darkness to the north,
+a faint whistling sound emanates, and light to the west is faintly apparent.
+Almost lost behind a stalagmite, a small, human-sized opening leaks light
+out of the eastern wall.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 2253
+D1
+~
+~
+0 0 2252
+D3
+~
+~
+0 0 2200
+S
+#2252
+0 0
+~
+$n strides in. ~
+$n heads $T cautiously.~
+0 0 0
+`fSmall Room``~
+This small room is, oddly enough, furnished with fairly normal looking
+furniture.  A sturdy table stands in the center of the room, with a couple
+chairs, and a small selection of cooking items stand next to a `fpantry`l in
+the corner.  An odd perch, too big for a bird also sits next to the table,
+where a pack of elaborately drawn cards has been discarded.  A small opening
+leads into another small cave to the east, and northwards the faint scent of
+sulphur drifts from beneath a small wooden door.  A small, glowing ball of
+magic lights this room...  `` 
+~
+0 Dc 0
+0
+~
+I 0 E
+pantry~
+`dOpening the simple wooden pantry, you see a wide selection of tubers
+and vegetables, along with a little cheese, wine, and a few worn eating
+utensils.  You also see a few of the carnivorous lilies from the lake
+outside the keep hanging dead and motionless, with a curious blanched color
+to them.  `` 
+~
+D0
+~
+door~
+1 0 2255
+D1
+~
+~
+0 0 2254
+D3
+~
+~
+0 0 2251
+S
+#2253
+0 0
+~
+A light appears in the darkness, and $n appears.~
+Light recedes as $n heads off.~
+0 0 0
+Mouth of a Cave~
+Even more massive than the preceding cave, this gargantuan cavern seems
+to soak up light without ever becoming any clearer.  Stalagtites and
+stalagmites seem to have been cleared in a huge swath leading north and
+south.  The deep tear of a rift in the cavern floor divides you from the
+other side of this cavern.  
+~
+0 AD 0
+0
+~
+I 0 D2
+~
+~
+0 0 2251
+S
+#2254
+0 0
+~
+Carefully lifting the faded cloth that serves as door, $n slips in.~
+Pushing aside the ragged cloth that serves as a door, $n heads out. ~
+0 0 0
+Sleeping Chambers~
+This sparsely furnished room contained only a couple of stands for armor,
+a couple simple pallets of reeds, and occasionally, a sleeping paladin
+resting from their duties.  Each pallet is reeds spread over stone, and not
+enough padding to hide the rockiness of the bed.  Surely there is a reason
+that these knights have been sent to this remote and lonely Keep, perhaps a
+punishment for crimes so long ago that no one remembers them?  
+~
+0 ABQc 0
+0
+~
+I 0 D3
+~
+~
+0 0 2252
+S
+#2255
+0 0
+~
+$n stops at the edge of the springs and gazes into the warm, bubbling water. ~
+Careful to avoid slipping on the wet rock, $n makes $s way out.~
+0 0 0
+Bathing Chambers~
+Within this chamber, a small hot springs bubbles up somewhere in the rock
+floor of this chamber.  A few worn cloth towels hang on the walls, clinging
+to natural outcroppings in the rocks.  As in the outer chamber, a small ball
+of magic lights the room economically.  A bar of `hsoap`l that smells of
+exotic spices and looks to be embedded with small sand particles sits in a
+hollow of the rock by the springs, in easy reaching distance for arms longer
+than those of a dwarf.  `` 
+~
+0 BDQc 0
+0
+~
+I 0 D2
+~
+door~
+1 0 2252
+S
+#2256
+0 0
+~
+As $n swims through the dark lake, tiny ripples shiver away from $s body. ~
+With the rustling whisper of movement, $n swims $T. ~
+0 0 0
+Lake~
+From the caliginous waters of the gelid lake, the walls of the Keep and
+the mountains rise up to the north and east.  Westwards, inky reeds crowd
+what may be a shallower area of the lake, and one or two small fish are even
+visible occasionally as they leap from the water.  
+~
+0 0 7
+0
+~
+I 0 D2
+~
+~
+0 0 2248
+D3
+~
+~
+0 0 2257
+S
+#2257
+0 0
+~
+Reeds and water splash as $n wades in. ~
+A small fish narrowly misses $n as $e goes $T.~
+0 0 0
+Lake Shore~
+Growing thickly here, piceous reeds crowd this quiet shore, as the lake
+becomes shallower and leads to land further westwards.  Small fish, dull
+gray in color, occasionally leap from the water to catch a bug.  Eastwards,
+the lightless lake meets the lofty Keep walls, and southwards and
+northwards, the unspeaking mountains tower.  
+~
+0 0 6
+0
+~
+I 0 D1
+~
+~
+0 0 2256
+D3
+~
+~
+0 0 2258
+S
+#2258
+0 0
+~
+~
+~
+0 0 0
+Marsh~
+Redolent with the odor of dead fish and other marshland goodness, the fen
+is a warm and humid place.  Small bugs rise in dusty clouds here, and fish
+the same size as the bugs make their home in the low waters.  The reeds are
+thick here as well, strangling out any other plant life that attempts to
+grow.  To the west, higher ground has been neatly regimented into sections. 
+The dark waters of the lake ripple slowly eastwards, squeezing between the
+mountain walls.  
+~
+0 0 14
+0
+~
+I 0 D1
+~
+~
+0 0 2257
+D3
+~
+~
+0 0 2259
+S
+#2259
+0 0
+~
+~
+~
+0 0 0
+Small Garden~
+Nestled deeply in the mountain crevice, this small garden contains a
+variety of common vegetables and other useful simples such as are necessary
+for a small home.  Each plant stands guard in a little row of similar
+plants, and each type of plant is set apart from other plants with a
+precision that is almost military.  This small area is, oddly enough, rather
+brighter than the rest of the area.  
+~
+0 0 12
+0
+~
+I 0 D1
+~
+~
+0 0 2258
+D4
+~
+~
+0 0 2260
+S
+#2260
+0 0
+~
+~
+~
+0 0 0
+Above the Garden~
+Above the strictly marshalled rows of the small garden, the air is
+slightly less humid and moist, though it grows increasingly warmer. 
+Although the light has increased exponentially, the reason for the extreme
+brightness of the garden becomes clear.  An enormous gemstone, an uncut`o
+diamond`n of remarkable size and clarity seems to have been extruded from
+the walls of the mountain and the light pours through the natural prism,
+magnified.  The mountains loom ever closer together, though, and even were
+the gem removed, nothing larger than a cat could fit through.  
+~
+0 0 9
+0
+~
+I 0 E
+diamond~
+Through natural or magical processes, this enormous gem is free enough of
+the stones surrounding it to bathe in light and give the small garden
+beneath the light necessary to grow.  Although uncut, this rock sparkles
+brightly, but the clever observer might note the number of stones
+precariously balanced to fall were it moved.  
+~
+E
+extra~
+~
+D5
+~
+~
+0 0 2259
+S
+#2261
+0 0
+~
+$n holds onto a rock for a moment, gasping as water splashes $m.~
+$n lets go of the rock, and heads $T.~
+0 0 0
+Lake~
+The tenebrous waters of the lake ripple and push a little harder here, as
+the water rushes against the walls of the mountains and barrels down a
+narrow crevice.  Jagged rocks like dark fingers grasp upwards through the
+waters that rush into the opening eastwards.  
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 2262
+D3
+~
+~
+0 0 2249
+S
+#2262
+0 0
+(null)~
+$n's head emerges from beneath a wave, before $e is hidden again by the spray.~
+As you watch, a wave hides $n from view, and then $e is gone.~
+0 0 0
+`oWhitewater``~
+Water crashes against the forbidding rocks that strike out sharply
+upwards from the surface of the dark waters, creating small, frothing
+whitecaps that churn and boil as the water speeds up.  All around, the sheer
+cliff faces slowly close in, crowding closer and closer together.  To the
+east, the relentless water is a mass of white foam and a dull booming sound
+echoes.  
+~
+0 0 7
+0
+~
+H50
+I 0 M50
+D1
+~
+~
+0 0 2263
+D3
+~
+~
+0 0 2261
+S
+#2263
+0 0
+(null)~
+You catch a glimpse of $n amid the turbulence.~
+$n disappears from view and does not reappear.~
+0 0 0
+`oWhitewater``~
+Liquid smashes against solid, unmoving granite as waves of water from the
+lake crash against the solid mountain walls on three sides.  White foam
+sprays everywhere as the water bursts, and the undertow is horribly strong. 
+The rhythmic low boom of the water is almost deafening, accompanied by the
+snarling of the whitecaps.  
+~
+0 0 7
+0
+~
+H-120
+I 0 M-30
+D3
+~
+~
+0 0 2262
+D5
+~
+~
+0 0 2264
+S
+#2264
+0 0
+~
+The undertow throws $n against the grate. ~
+Kicking strongly, $n swims from sight.~
+0 0 0
+`1Under the Waters``~
+The fierce pull of the water draws you under the turbulent waves, and
+shoves you roughly towards a watery tunnel.  Fortunately, an old grate,
+covered in algae and littered with tiny fish corpses blocks the entrance so
+not everything is sucked into the stony heart of the mountain.  The water,
+however, has no such safeguard and travels through the grate and into the
+stone easily.  
+~
+0 c 7
+0
+~
+I 0 D4
+~
+~
+0 0 2263
+S
+#2265
+0 0
+~
+The ledge becomes a little more crowded as $n pushes in. ~
+$n takes a deep breath, and heads out. ~
+0 0 0
+Chasm Ledge~
+Rock shifts a little underfoot.  To the south, cold, hard stone rises
+upwards, while in all other directions an abyss yawns darkly.  Nothing grows
+here, not even lichen, in the absolute darkness.  While you can hear the
+faint sounds of the bridge sentinel greeting travellers, he does not appear
+to hear or otherwise respond to any sounds you make.  
+~
+0 CD 0
+0
+~
+I 0 S
+#2266
+0 0
+~
+There's a loud splash as $n falls into the water. ~
+$n disappears. ~
+0 0 0
+In an Underground River~
+Dark, foul-tasting water churns and rushes along, making it impossible to
+fly out of here, slamming all objects and beings hapless enough to be caught
+in the greedy grasp of the rushing currents against the unforgiving rock
+`ewalls of the chasm.  Jagged, irregular`a rocks`e stab upwards through the
+fast-moving waters of this underwater passage, the edges sharp enough to
+cut.  
+~
+0 CD 11
+0
+~
+H-200
+I 0 M-200
+S
+#2267
+0 0
+~
+Something crunches underfoot as $n proceeds in.~
+Moving carefully over the strands of the nest, $n heads $T.~
+0 0 0
+The Nest~
+The cave here is largely taken up by a large nest, built of logs, marble
+columns, statuary, and other assorted materials.  Here and there, the
+tell-tale golden gleam of metal hints at treasure beneath the tangled
+strands of this nest, but amount and weight of materials used to create it
+preclude getting at it.  The scent of reptile mixes with meat and sulphur,
+not the most pleasant of combinations, and the air is cool.  
+~
+0 AD 0
+0
+~
+I 0 D2
+~
+~
+0 0 2243
+S
+#2268
+0 0
+(null)~
+~
+~
+0 0 0
+Courtyard~
+To the west, the thick, high walls of the Keep rise gracefully overhead,
+disappearing into the clouds casting shadows as they drift by.  The warm
+sands of the courtyard shimmer with a golden sparkle, the heat reflecting
+off the armored scales of the Keep denizens.  The cool granite scent of the
+nearby wall is a subtle undertone of the courtyard, overpowered by the scent
+of the small, reptilian forms in sight, all of whom seem to have very sharp
+teeth.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2269
+D1
+~
+~
+0 0 2215
+D2
+~
+~
+0 0 2278
+D4
+~
+~
+0 0 2275
+S
+#2269
+0 0
+(null)~
+~
+~
+0 0 0
+Courtyard~
+Although the sands of the Courtyard are still warm, they are cooled
+slightly by the high, smooth wall that rises skywards to the west.  While
+the wall seems to have no paint or other artificial marks, it is still
+flawlessly smooth and unpocked.  From the odd mottling effect that the walls
+display, almost like mineral veins, it seems as if part of the mountain
+decided to reach out in a seeming embrace and form the Keep.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2270
+D1
+~
+~
+0 0 2211
+D2
+~
+~
+0 0 2268
+D4
+~
+~
+0 0 2274
+S
+#2270
+0 0
+(null)~
+~
+~
+0 0 0
+Courtyard~
+The warm sands of the Courtyard sparkle, almost alive with reflected
+light.  To the west, the thick stone walls of the Keep rise up into the sky
+and, oddly enough, melt into the impassive face of the mountain that cradles
+this remote outpost.  To the east and north, the Courtyard opens out, and to
+the north, a breeze carrying the scent of dust unwinds from a dark hole
+against the mountain that makes up the north wall.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2271
+D1
+~
+~
+0 0 2208
+D2
+~
+~
+0 0 2269
+D4
+~
+~
+0 0 2273
+S
+#2271
+0 0
+(null)~
+~
+~
+0 0 0
+Courtyard~
+To the north, a dark opening yawns from the sheer face of the mountain. 
+The entrance bears none of the scars associated with stoneworking, but
+rather seems to have merely opened, with no jagged edges, other than some
+unusual scratches at the top of the mouth.  As the opening is much taller
+than even the tallest of Vro'ath or a dwarf on stilts (it was a shortlived
+fad amongst the dwarven inhabitants of Thesden some centuries ago), it is a
+little worrisome as to what could have scraped the top and left its mark on
+the undeniably stone walls.  The Courtyard of the Keep opens to the south
+and east, with all other directions leading into the mountain or into the
+thick walls.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2200
+D1
+~
+~
+0 0 2212
+D2
+~
+~
+0 0 2270
+D4
+~
+~
+0 0 2272
+S
+#2272
+0 0
+(null)~
+~
+~
+0 0 0
+Mid-Air~
+To the west, the thick walls of the Keep rises skywards in an massive,
+but seemingly effortless movement.  Below, the saurians crawl or sunbathe as
+the whim strikes them.  Most don't pass directly below, though, as the
+slight shade thrown by the wall prevents a truly effective sunning.  The air
+above the Courtyard spreads out in most directions, inviting exploration.  
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 2237
+D2
+~
+~
+0 0 2273
+D5
+~
+~
+0 0 2271
+S
+#2273
+0 0
+(null)~
+~
+~
+0 0 0
+Mid-Air~
+Westwards, the Keep wall turns and seems to melt into the embrace of the
+mountain.  Hovering in mid-air above the golden sands of the Courtyard, the
+air opens out in all directions save where the wall blocks further egress. 
+The agile reptilian forms of the Keep inhabitants fly, soar, crawl, or just
+lie motionless.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2272
+D1
+~
+~
+0 0 2236
+D2
+~
+~
+0 0 2274
+D5
+~
+~
+0 0 2270
+S
+#2274
+0 0
+(null)~
+~
+~
+0 0 0
+Mid-Air~
+Here, the shade thrown out by the thick, high walls of the Keep reduces
+the heat thrown out by the sands.  Fewer of the draconian inhabitants of the
+Keep venture here because the cooler temperature is not pleasing to their
+essentially heat-loving selves.  To the north, south, and east, the air of
+the Keep opens out, and below, the golden keep sands gleam in the light.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2273
+D1
+~
+~
+0 0 2235
+D2
+~
+~
+0 0 2275
+D5
+~
+~
+0 0 2269
+S
+#2275
+0 0
+(null)~
+~
+~
+0 0 0
+Mid-Air~
+The west wall curves away, opening out a bit, granting the ability to see
+more of the Courtyard.  To the south, a distance away, some kind of niche in
+the wall is visible, but the shadow is too great to make out what lies
+within.  Below, the sands of the ground sparkle faintly in the light.  A
+shadow passes overhead, but is gone before identification is possible.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2274
+D1
+~
+~
+0 0 2234
+D2
+~
+~
+0 0 2276
+D3
+~
+~
+0 0 2238
+D5
+~
+~
+0 0 2268
+S
+#2276
+0 0
+(null)~
+~
+~
+0 0 0
+Mid-Air~
+As the walls of the Keep loom high to the west and south, the rest of the
+courtyard opens out to the north and the east.  South, a wrinkle broadens
+out as it continues east along the massive stone walls, where a moment's
+rest is available.  As the warm caress of air currents carries only the
+sound of the Keep inhabitants, it is understandable why the hunted and
+harried draconians chose this peaceful and quiet place.  
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 2275
+D1
+~
+~
+0 0 2233
+D5
+~
+~
+0 0 2278
+S
+#2278
+0 0
+(null)~
+~
+~
+0 0 0
+Courtyard~
+In an oddly graceful sweep upwards, the south and west walls meet here in
+a smooth, seamless collusion that curves rather than corners the Keep. 
+North and east, the Courtyard spreads out, sands glistening in the light.  A
+small pile of fewmets has been buried here, but fortunately seems not to
+offend your olfactory senses too much.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 2268
+D1
+~
+~
+0 0 2214
+D4
+~
+~
+0 0 2276
+S
+#0
+
+#RESETS
+O 0 2237   0 2224 -1	* A stagnant and befouled pool at Niche Pool
+M 0 2225   1 2224  1	* `ca `dslimy `rtoad``
+M 0 2222   5 2221  1	* `ean air drake``
+O 0 2247   0 2239 -1	* A large rock at A Hole In The Wall
+O 0 2210   0 2255 1	* `1bubbling hot springs`` at Bathing Chambers
+D 0 2255   2    1	* Bathing Chambers [south]
+D 0 2252   0    1	* `fSmall Room`` [north]
+O 0 2211   0 2255 20	* `xa handful of soap sand`` at Bathing Chambers
+O 0 2245   0 2245 1	* The cliff face at Ledge
+M 0 2257   2 2257  2	* `aa small fish``
+O 0 2275   0 2265 1	* `finto the darkness`` at Chasm Ledge
+O 0 2232   0 2253 1	* `ea `fgaping chasm`` at Mouth of a Cave
+O 0 2223   0 2265 1	* `athe chasm walls`` at Chasm Ledge
+O 0 2241   0 2246 4	* A `hwhite waterlily`` at Lake
+O 0 2250   0 2259 10	* `ca few simple vegetables`` at Small Garden
+O 0 2243   0 2266 1	* The rocky walls at In an Underground River
+M 0 2209   4 2258  4	* `fa biting dragonfly``
+M 0 2201   4 2249  4	* `6a large dark fish``
+O 0 2234   0 2244 2	* `da hunk of driftwood`` at `lLake``
+M 0 2226   1 2201  1	* A `ghuge `es`cn`ea`ck`ee``
+O 0 2233   0 2247 30	* `da dank clump of weeds`` at Lake
+M 0 2245   4 2206  2	* A `bdesert dragon``
+M 0 2245   4 2230  2	* A `bdesert dragon``
+M 0 2207   4 2202  2	* `na guardian drake``
+M 0 2207   4 2200  2	* `na guardian drake``
+M 0 2227   3 2207  1	* `can iguana``
+O 0 2204   0 2254 1	* `da worn pallet of reeds`` at Sleeping Chambers
+O 0 2242   0 2258 10	* `aa handful of dark reeds`` at Marsh
+M 0 2227   3 2210  2	* `can iguana``
+M 0 2223   2 2241  1	* `ha whitened dragon``
+M 0 2244  10 2220  2	* `nan escaped frost drake``
+M 0 2210  10 2207  3	* `ca scaly lemming``
+E 0 2205   -1   18	* item to `ca scaly lemming``
+M 0 2210  10 2216  3	* `ca scaly lemming``
+G 0 2299 -1		* A small seed to `ca scaly lemming``
+O 0 2206   0 2260 1	* `oa diamond in the rough`` at Above the Garden
+M 0 2208  10 2215  5	* `ea blue wyvern``
+O 0 2203   0 2230 40	* `aa shattered manacle`` at A Ledge in the Wall
+E 0 2201   -1   18	* item to `ea blue wyvern``
+E 0 2201   -1   18	* item to `ea blue wyvern``
+O 0 2224   0 2224 2	* A pile of rotting meat at Niche Pool
+O 0 2254   0 2267 1	* The dragonet's nest at The Nest
+O 0 2231   0 2255 1	* `ea tiny waterfall`` at Bathing Chambers
+M 0 2205   2 2211  1	* An alliguin
+M 0 2206   2 2211  2	* `can alliguin``
+G 0 2251 -1		* `ialliguin blood`` to `can alliguin``
+M 0 2240   1 2259  1	* `na syvin knight``
+E 0 2212   -1   16	* item to `na syvin knight``
+E 0 2222   -1    3	* item to `na syvin knight``
+O 0 2261   0 2242 -1	* `aa slave collar`` at North Ledge
+O 0 2207   0 2243 -1	* `aa narrow stone bridge`` at The Nest
+M 0 2221   1 2243  1	* `ia salamander``
+M 0 2220   1 2267  1	* A young greater dragon
+G 0 2252 -1		* `edragon tears`` to A young Greater Dragon
+M 0 2243   1 2239  1	* `dthe `bdwarven mage``
+G 0 2276 -1		* A thick iron key to `dthe `bdwarven mage``
+E 0 2281   -1    1	* item to `dthe `bdwarven mage``
+O 0 2221   0 2239 -1	* `dan `airon chest`` at A Hole In The Wall
+P 0 2270 1 2221 1
+P 0 2201 1 2221 1
+O 0 2285   0 2239 -1	* A stony bed at A Hole In The Wall
+M 0 2242   4 2214  4	* A komodo dragon
+E 0 2286   -1   16	* item to A komodo dragon
+M 0 2203   1 2276  1	* `ean unscrupulous sidhe mage``
+E 0 2202   -1   17	* item to `ean unscrupulous sidhe mage``
+E 0 2280   -1   18	* item to `ean unscrupulous sidhe mage``
+M 0 2202   1 2217  1	* `cthe `fn`ba`gg`ja``
+E 0 2260   -1    6	* item to `cthe `fn`ba`gg`ja``
+E 0 2208   -1   16	* item to `cthe `fn`ba`gg`ja``
+O 0 2209   0 2252 -1	* `da small table`` at `fSmall Room``
+O 0 2244   0 2252 -1	* A `hblanched `olily`` at `fSmall Room``
+O 0 2287   0 2253 -1	* `aa narrow stone bridge`` at Mouth of a Cave
+O 0 2213   0 2245 -1	* A mysterious glyph at Ledge
+G 0 2220 -1		* `ka golden shell fragment`` to `cthe `fn`ba`gg`ja``
+G 0 2220 -1		* `ka golden shell fragment`` to `cthe `fn`ba`gg`ja``
+O 0 2246   0 2238 -1	* A large rock at A Small Ledge
+M 0 2200   1 2237  1	* `athe sidhe thief``
+E 0 2230   -1    8	* item to `athe sidhe thief``
+G 0 2235 -1		* `aa contraption holding a vial of mist`` to `athe sidhe thief``
+M 0 2228   1 2252  1	* `la `hdrake-maiden `llieutenant``
+E 0 2282   -1    2	* item to `la `hdrake-maiden `llieutenant``
+M 0 2230   1 2250  1	* `jbenxymos the emerald drake``
+E 0 2283   -1   13	* item to `jbenxymos the emerald drake``
+E 0 2284   -1   19	* item to `jbenxymos the emerald drake``
+M 0 2229   1 2250  1	* `lthe `hdrake-maiden `lcaptain, `knorrah``
+E 0 2288   -1   12	* item to `lthe `hdrake-maiden `lcaptain, `knorrah``
+M 0 2246  10 2271  2	* `la `hdrake-maiden `linitiate``
+M 0 2247   6 2205  1	* `la warrior `hdrake-maiden``
+E 0 2289   -1   11	* item to `la warrior `hdrake-maiden``
+M 0 2246  10 2209  2	* `la `hdrake-maiden `linitiate``
+M 0 2247   6 2269  1	* `la warrior `hdrake-maiden``
+E 0 2289   -1   11	* item to `la warrior `hdrake-maiden``
+M 0 2246  10 2213  2	* `la `hdrake-maiden `linitiate``
+M 0 2246  10 2278  2	* `la `hdrake-maiden `linitiate``
+M 0 2247   6 2268  1	* `la warrior `hdrake-maiden``
+E 0 2289   -1   11	* item to `la warrior `hdrake-maiden``
+M 0 2246  10 2203  2	* `la `hdrake-maiden `linitiate``
+M 0 2204   1 2253  1	* `ba syvin paladin``
+E 0 2271   -1    9	* item to `ba syvin paladin``
+E 0 2200   -1   16	* item to `ba syvin paladin``
+G 0 2298 -1		* `kholy leg gaurds of light`` to `bA Syvin Paladin``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 2200 spec_thief		* `athe sidhe thief``
+M 2203 spec_cast_mage		* `ean unscrupulous Sidhe mage``
+M 2205 spec_breath_any		* An alliguin
+M 2208 spec_poison		* `ea blue wyvern``
+M 2220 spec_breath_any		* A young Greater Dragon
+M 2221 spec_breath_fire		* `ia salamander``
+M 2222 spec_breath_acid		* `ean air drake``
+M 2223 spec_breath_frost		* `ha whitened dragon``
+M 2225 spec_poison		* `ca `dslimy `rtoad``
+M 2226 spec_poison		* A `ghuge `es`cn`ea`ck`ee``
+M 2241 spec_breath_gas		* `la young drake``
+M 2243 spec_cast_adept		* `dthe `bdwarven mage``
+M 2244 spec_breath_frost		* `nan escaped frost drake``
+S
+
+#OT
+#2298
+(null)~
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

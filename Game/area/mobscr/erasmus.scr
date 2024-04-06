@@ -1,0 +1,46 @@
+* File: erasmus.scr
+* Mob: Erasmus, the chip cash-out person
+
+#TRIGGER payoff
+Type 5
+Sc
+mfunc self %gold% gold
+ofunc %payoff-arg% %what% vnum
+ofunc %payoff-arg% %objname% name
+ofunc %payoff-arg% %value% cost
+if (%what% < 6652 ) || (%what% > 6655)
+  say I don't know what this is, but I have no use for it.
+  drop all
+  halt once~
+Sc
+if (%what% == 6652)
+  say Cashing out one red chip for %value% silver.
+  cmd at 1 eat chip
+  msign self %value% silver
+  cmd give %value% silver %payoff-from%
+  cmd drop %value% silver
+  halt once~
+*Sc
+*if (%what% == 6653)
+*  say Cashing out one black chip for %value% gold.
+*  cmd at 1 eat chip
+*  msign self %value% gold
+*  cmd give %value% gold %name%
+*  halt once~
+*Sc
+*if (%what% == 6654)
+*  say Cashing out one gold chip for %value% gold.
+*  cmd at 1 eat chip
+*  msign self %value% gold
+*  cmd give %value% gold %name%
+*  halt once~
+*Sc
+*if (%what% == 6655)
+*  say Cashing out one blue chip for %value% gold.
+*  cmd at 1 eat chip
+*  msign self %value% gold
+*  cmd give %value% gold %name%
+*  halt once~
+End
+
+#END

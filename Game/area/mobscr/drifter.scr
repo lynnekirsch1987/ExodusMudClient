@@ -1,0 +1,69 @@
+* File: drifter.scr
+* Mob: Drifter(4420)
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc %combat-from% %name% name
+mfunc %combat-from% %hp% hit
+wfunc %random% random 0 99
+if ( %random% < 10 )
+  emote narrows her eyes and strikes out at you swiftly.
+  halt once~
+Sc
+if ( %random% > 97 )
+  pecho %name% The drifter feints to the side and slashes you across the chest.
+  msign %combat-from% 25 hit
+halt once~
+End
+
+#TRIGGER quest
+Type 99
+Sc
+  say I have come from the north, where an order of Paladins searches for a member who has been lost.
+  wait 3~
+Sc
+  say If you think you know where he might be, such information might be helpful to the Paladins of the Lithsen order.
+  wait 3~
+Sc
+  say Go far to the north, to the snowy peaks and when you find the Paladin, give him this dagger.
+  cmd remove dagger
+  cmd set obj dagger timer 48
+  cmd give dagger %combat-from%
+  wait 2~
+Sc
+  say Be quick, though.  I have placed a curse upon this blade, lest you try to trick me into giving it up.
+  say If the blade is not given to the paladin within two days from right now, it will crumble to dust.
+  wait 3~
+Sc
+  say If your intentions are true and your wish is to help find the Paladin's lost brother-in-arms, I wish you speed and luck.
+  halt once~
+End
+
+#TRIGGER newbie
+Type 99
+Sc
+mfunc %newbie-from% %level% level
+mfunc %newbie-from% %class% class
+if (%level% > 20)
+  cmd tell %newbie-from% Free rides are for newbies.  Get out there and find your hall.
+  halt once~
+Sc
+if (%class% != 7)
+  cmd You're no assassin!  You're lucky I don't put my dagger in your back right now.
+  halt once~
+Sc
+if (%class% == 7)
+  cmd at 1 wizi 92
+  MOB trans %newbie-from% 20365
+  cmd goto 20365
+  cmd at 1 wizi
+  pecho %newbie-from% The drifter leads you around many turns and through several dark alleys.
+  cmd tell %newbie-from% Walk 2n, e, 2n, e and your guild hall will be to the north.
+  cmd at 1 wizi 92
+  cmd goto 4166
+  cmd at 1 wizi
+  halt once~
+End
+
+#END

@@ -1,0 +1,35 @@
+﻿@using ExodusMudClient.Data.Game.Models
+@inject IAreaFileConverter AreaConverter
+@if (selectedArea != null)
+{
+    <MudPaper Class="d-flex align-center pa-5">
+        <MudText Typo="Typo.h4">
+            @(new MarkupString($"{AreaConverter.ConvertExodusColor(selectedArea.AreaName)}"))
+        </MudText>
+        <MudSpacer />
+        <MudIconButton Icon="@Icons.Material.Filled.Close"
+            OnClick="@(EventCallback.Factory.Create(this, () => CloseArea()))"></MudIconButton>
+    </MudPaper>
+    <MudDivider></MudDivider>
+    <__MobileList mobiles="selectedArea.Mobiles"></__MobileList>
+    <__RoomList rooms="selectedArea.Rooms"></__RoomList>
+    <__ObjectList objects="selectedArea.Objects"></__ObjectList>
+}
+
+@code {
+
+    [Parameter]
+    public AreaFile? selectedArea { get; set; }
+
+    // Define an EventCallback for when the area is closed
+    [Parameter]
+    public EventCallback<bool> OnAreaClosed { get; set; }
+
+    private void CloseArea()
+    {
+        if (OnAreaClosed.HasDelegate)
+        {
+            OnAreaClosed.InvokeAsync();
+        }
+    }
+}

@@ -1,0 +1,35 @@
+* File: xorkb.scr
+* Mob: Xorkb(4233)
+
+#TRIGGER snake
+Type 5
+Sc
+mfunc %snake-from% %name% name
+mfunc %snake-from% %level% level
+ofunc %snake-arg% %short% short
+*if ( %level% > 10)
+*   cmd telepath %snake-from% Your level is too high to participate in this quest.
+*   halt once~
+*Sc
+if ( %short% cmp "the head of `aa bog snake``" )
+   jump 2~
+Sc
+  cmd telepath %snake-from not the right item
+  halt once~
+Sc
+  cmd at 1 eat head
+  emote extracts the venom from `aa bog snake`` into a powder.
+  wait 2~
+Sc
+  emote rolls the powder up into a small pill.
+  emote intones the sacred words, 'xyxxy'.
+  echo The pill glows `mpurple``
+  wait 2~
+Sc
+  cmd at 1 load obj 4088
+  cmd give pill %snake-from%
+  tell %snake-from% give this pill to whomever was bitten and they will be cured.
+  halt once~
+End
+
+#END

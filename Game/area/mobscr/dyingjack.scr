@@ -1,0 +1,22 @@
+* File: dyingjack.scr
+* Mob: Diseased Lumberjack 1086
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   emote looks up at you begs you for a release from his tortured existance.
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   emote attempts to crawl across the floor to freedom but cannot muster the strength to go very far.
+   emote slumps back against the cold floor.
+   halt once~
+Sc
+if ( %rndnum% == 2 )
+   emote vomits blood and bile all over himself.
+   halt once~
+End
+
+#END

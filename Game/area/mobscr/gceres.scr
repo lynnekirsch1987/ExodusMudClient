@@ -1,0 +1,13 @@
+* File: gceres.scr
+* Mob: Ceres(11529)
+
+#TRIGGER over1
+Type 10
+Sc
+wfunc %rndnum% random 0 2
+if ( %rndnum% == 0 )
+  tell %over1-from% Watch out for Oglethorpe.  He threatened me simply for mentioning some missing records.
+  halt once~
+End
+
+#END

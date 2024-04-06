@@ -1,0 +1,15 @@
+* File: fwarrior.scr
+* Mob: Flaming Warrior(5351)
+
+#TRIGGER born
+Type 4
+Sc sit chair~
+End
+
+#TRIGGER tick
+Type 3
+Sc sit chair~
+End
+
+#END
+

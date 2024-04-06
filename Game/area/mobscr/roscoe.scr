@@ -1,0 +1,113 @@
+* File: roscoe.scr
+* Mob: Roscoe (mob 4422)
+
+*#TRIGGER tick
+*Type 3
+*Sc 
+*wfunc %rndnum% random 0 9
+*if ( %rndnum% == 0 )
+*  say Life is a game of chance.  You have to ask yourself:  "Do I feel lucky?"
+*  wait 5~
+*Sc
+*if ( %rndnum% == 0 )
+*  say Well?  Do you, punk?
+*  halt once~
+*End
+
+#TRIGGER born
+Type 4
+Sc
+  let %wins% == 0
+  let %losses% == 0
+  halt once~
+End
+
+#TRIGGER flipcoin
+Type 5
+Sc
+mfunc %flipcoin-from% %name% name
+ofunc %flipcoin-arg% %what% vnum
+ofunc %flipcoin-arg% %value% cost
+ofunc %flipcoin-arg% %objname% name
+wfunc %coin% random 0 9999
+ 
+if (%what% != 4555 )
+  cmd telepath %flipcoin-from% Hey!  That's not a flipping chip!
+  drop all
+  halt once~
+Sc
+if (%coin% < 5000) 
+  cmd telepath %flipcoin-from% OK, here we go.
+  wait 1~
+Sc
+if (%coin% < 5000)
+  cmd telepath %flipcoin-from% `oHEADS`` you win, `iTAILS`` I win.
+  emote flips the chip high into the air.
+  wait 2~
+Sc
+if (%coin% < 5000)
+  emote reaches up and grabs the chip out of the air.
+  wait 2~
+Sc
+if (%coin% >= 0) && (%coin% < 5000)
+  emote slowly opens his hand to reveal the chip lying `oHEADS`` up.
+  wait 1~
+Sc
+if (%coin% < 5000)
+  cmd sigh
+  cmd telepath %flipcoin-from% Congratulations, %name%.  It looks like you won this time.
+  cmd at 1 eat chip
+  cmd at 1 load obj 4553
+  cmd set obj payout cost %value%
+  cmd clone payout
+  cmd give payout %name%
+  cmd give payout %name%
+  let %losses% += 1
+  halt once~
+Sc
+if (%coin% > 4999)
+  cmd telepath %flipcoin-from% OK, here we go.
+  wait 1~
+Sc
+if (%coin% > 4999)
+  cmd telepath %flipcoin-from% `oHEADS`` you win, `iTAILS`` I win.
+  emote flips the chip high into the air.
+  wait 2~
+Sc
+if (%coin% > 4999)
+  emote reaches up and grabs the chip out of the air.
+  wait 2~
+Sc
+if (%coin% > 4999)
+  emote slowly opens his hand to reveal the chip lying `iTAILS`` up.
+  wait 1~
+Sc
+if (%coin% > 4999)
+  cmd smile
+  cmd telepath %flipcoin-from% Ouch.  Better luck next time, %name%.
+  cmd at 1 eat chip
+  let %wins% += 1
+  halt once~
+End
+
+#TRIGGER greet
+Type 10
+Sc
+wfunc %rand% random 0 9
+if (%rand% == 0)
+  cmd telepath %flipcoin-from% Hi.
+  halt once~
+Sc
+if (%rand% == 1)
+  cmd telepath %flipcoin-from% How's it going?
+  halt once~
+End
+
+#TRIGGER stats
+Type 99
+Sc
+  cmd telepath %stats-from% I have won %wins% times and lost %losses% times so far.
+halt once~
+End
+
+#END

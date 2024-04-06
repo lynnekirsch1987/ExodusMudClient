@@ -1,0 +1,109 @@
+﻿@inject IHelpFileConverter __converter;
+@using TinyMCE.Blazor;
+<MudDialog>
+    <DialogContent>
+        <MudContainer Style="max-height: 700px; overflow-y: scroll">
+            <Editor Id="HelpTextEditor" @bind-Value=entry.HelpText
+                ApiKey="gmz196ednjlh8ecuzg9erjbmo8h2lz139jdalzs13amytxd0" />
+            <MudDivider Class="mt-4 mb-4"></MudDivider>
+            <MudText Typo="Typo.h6">Tags</MudText>
+            <MudTextField @bind-Value="newTag" For="@(() => newTag)" Label="Add Search Tag" Variant="Variant.Outlined"
+                Immediate="true" OnKeyPress="@HandleKeyPress">
+            </MudTextField>
+            @if (entry.Tags != null)
+            {
+                foreach (var tag in entry.Tags)
+                {
+                    <MudChip Color="Color.Primary" OnClose="@(() => RemoveTag(tag))">@tag</MudChip>
+                }
+            }
+<br>
+<br>
+            <MudText Typo="Typo.h6">Related Tags</MudText>
+            <MudTextField @bind-Value="relatedTag" For="@(() => relatedTag)" Label="Add Related Tag"
+                Variant="Variant.Outlined" Immediate="true" OnKeyPress="@HandleKeyPressRelated">
+            </MudTextField>
+            @if (entry.RelatedTags != null)
+            {
+                foreach (var tag in entry.RelatedTags)
+                {
+                    <MudChip Color="Color.Primary" OnClose="@(() => RemoveRelatedTag(tag))">@tag</MudChip>
+                }
+            }
+<br>
+<br>
+<MudText Typo="Typo.h6">Category</MudText>
+            <MudSelect @bind-Value="entry.Category" For="@(() => entry.Category)" T="string" Label="Category"
+                Variant="Variant.Outlined" AnchorOrigin="Origin.BottomCenter">
+                @foreach (var cat in HelpEntry.Categories)
+                {
+                    <MudSelectItem T="string" Value="cat" />
+                }
+            </MudSelect>
+        </MudContainer>
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+        <MudButton Color="Color.Primary" Variant="Variant.Filled" OnClick="SaveHelp">Save</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+    [Parameter]
+    public HelpEntry entry { get; set; }
+    // Define an EventCallback for when the area is closed
+    [Parameter]
+    public EventCallback<bool> OnHelpSaved { get; set; }
+    private string newTag = string.Empty;
+    private string relatedTag = string.Empty;
+    private string cat = string.Empty;
+    private string htmlContent;
+
+    void Cancel() => MudDialog.Cancel();
+
+    private async Task SaveHelp()
+    {
+        await __converter.SaveHelp(entry);
+        MudDialog.Close(DialogResult.Ok(true));
+    }
+
+    void RemoveTag(string tag)
+    {
+        entry.Tags.Remove(tag);
+        StateHasChanged(); // Ensure the UI updates
+    }
+
+
+    void RemoveRelatedTag(string tag)
+    {
+        entry.RelatedTags.Remove(tag);
+        StateHasChanged(); // Ensure the UI updates
+    }
+
+    private void HandleKeyPress(KeyboardEventArgs e)
+    {
+        if (e.Code == "Enter" || e.Code == "NumpadEnter")
+        {
+            if (!string.IsNullOrWhiteSpace(newTag) && !entry.Tags.Contains(newTag))
+            {
+                entry.Tags.Add(newTag);
+                newTag = string.Empty; // Clear the input field immediately
+                StateHasChanged(); // Ensure the UI updates
+            }
+        }
+    }
+    private void HandleKeyPressRelated(KeyboardEventArgs e)
+    {
+        if (e.Code == "Enter" || e.Code == "NumpadEnter")
+        {
+            if (!string.IsNullOrWhiteSpace(relatedTag) && !entry.Tags.Contains(relatedTag))
+            {
+                entry.RelatedTags.Add(relatedTag);
+                relatedTag = string.Empty; // Clear the input field immediately
+                StateHasChanged(); // Ensure the UI updates
+            }
+        }
+    }
+
+}

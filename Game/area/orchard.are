@@ -1,0 +1,3378 @@
+#AREA
+ 6~
+orchard.are~
+Orchard~
+{ 1 10} Mort  Orchard~
+~
+11910 12060
+0 0 0
+0 1
+suicide~
+#MOBILES
+#11910
+butch gardener old~
+Butch, the old gardener~
+An old gardener carefully tends his trees.
+~
+The gardener ignores you in his pursuit of the perfect orchard.
+~
+human~
+0 0 0 0
+AG 0 100 0
+4 4 2d4+4 1d1+99 1d5+1 beating
+6 6 6 999 10
+0 -1 0 0 0 C
+stand stand male 23
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11911
+picker apple mike~
+Mike the apple picker~
+Tired and dirty the apple picker seems to hate his job.
+~
+The apple picker spends most of his time daydreaming.
+~
+human~
+0 0 0 0
+AG 0 0 0
+3 3 2d6+35 1d1+99 1d6+0 punch
+7 7 7 999 10
+0 -1 0 0 0 C
+stand stand male 17
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11912
+wasp~
+the buzzing wasp~
+A buzzing wasp fiies around your head.
+~
+The wasp is much baigger than wasps from your homeland.
+~
+human~
+0 0 0 0
+AG 0 -250 0
+4 4 2d7+46 1d1+99 1d5+1 sting
+6 6 6 999 10
+0 -1 0 0 0 C
+stand stand either 0
+ABGHMOVc ABCDEFGHIJKPa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11913
+weed green~
+the green weed~
+The orchard is overun with green weeds.
+~
+Thick weeds cover the ground and if you look, they seem to move.
+~
+human~
+0 0 0 0
+AG 0 0 0
+1 1 2d6+10 1d1+99 1d4+0 none
+10 10 10 999 10
+0 -1 0 0 0 C
+stand stand neutral 0
+AGHMVc ABCDEFGHIJKNa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11914
+beetle black large~
+the black beetle~
+A large black beetle slowly walks across the path.
+~
+If you bother it, the beetle warns you away with a hiss.
+~
+human~
+0 0 0 0
+AG 0 -250 0
+4 4 2d7+46 1d1+99 1d1+5 bite
+6 6 6 999 10
+0 -1 0 0 0 C
+stand stand either 0
+ABGHMOVc ABCDEFGHIJKPa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11915
+snake garter~
+the garter snake~
+A cute little gartersnake slithers by.
+~
+The greenish gartersnake has a slight attitude.
+~
+snake~
+0 0 0 0
+AG 0 -250 0
+1 1 2d6+10 1d1+99 1d4+0 bite
+9 9 9 999 10
+0 -1 0 0 L CI
+stand stand either 0
+AGXYc ADEFKLQVXa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11916
+fly black~
+the black fly~
+A black fly buzzes you.
+~
+A large, fat, black fly looks at you hungrily.
+~
+human~
+0 0 0 0
+AG 0 0 0
+1 1 2d6+10 1d1+99 1d4+0 bite
+10 10 10 999 10
+0 -1 0 0 0 C
+stand stand either 0
+AGHMVc ABCDEFGHIJKPa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11917
+caterpillar large~
+the large caterpillar~
+A huge green caterpillar crawls away.
+~
+The huge green caterpillar is plump from much eating.
+~
+centipede~
+0 0 0 0
+A Z 0 0
+1 1 2d6+10 1d1+99 1d4+0 bite
+10 10 10 999 10
+0 -1 0 0 FI CE
+stand stand either 0
+ABGO ACKa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11918
+fireant ant fire~
+the fireant~
+A red fireant wanders by.
+~
+The fireant is thinking about attacking you.
+~
+human~
+0 0 0 0
+AG 0 0 0
+2 2 2d6+15 1d1+99 1d5+0 bite
+10 10 10 999 10
+0 -1 0 0 0 C
+stand stand either 0
+AGHMOVc ABCDEFGHIJKa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11919
+mouse tiny~
+the tiny mouse~
+A tiny mouse peeks at you.
+~
+The tiny mouse tries to hide from you.
+~
+human~
+0 0 0 0
+AG 0 0 0
+2 2 2d6+15 1d1+99 1d5+0 bite
+8 8 8 999 10
+0 -1 0 0 0 C
+stand stand either 0
+AGHMV ABCDEFGHIJKQa 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11920
+squirrel hyper fatt~
+A fuzzy squirrel~
+An adorable, fuzzy squirrel runs to its home in a frenzy.
+~
+It is cute and furry.  You are filled with Gorelust!  KILL IT NOW.
+~
+unique~
+0 0 0 0
+AGW 0 0 0
+2 2 1d3+15 2d10+100 0d0+0 scratch
+0 0 0 999 0
+0 -1 HI K 0 0
+stand stand none 0
+0 ABCQ 6 6 6 6 6 6 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#11910
+apple red~
+a red `bapple``~
+A `bred apple`` looks delicious.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC CDEF 0 0
+0
+0
+1 1 5 G
+#11912
+well old~
+the old well~
+An old well draws your attention.~
+stone~
+0
+container 2
+O
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DFGHIJ 0 0 DFGHIJ CFG
+0
+0
+0 1000 0 G
+#11913
+rusty machette~
+the rusty machette~
+A rusty machette lays on the ground.~
+steel~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+d B B 0 0
+0
+0
+1 20 50 G
+#11914
+swingblade wicked~
+the swingblade~
+A wicked looking swingblade lays on the ground.~
+steel~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+d B AB 0 0
+0
+0
+2 100 100 G
+#11915
+bench wooden~
+the wooden bench~
+This wooden bench is under a shade branch.~
+wood~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B DHIJM BEHKN ACDEFG ACDEFG
+0
+0
+0 0 0 G
+#11916
+bucket water~
+the water bucket~
+A sloping full water bucket sits here.~
+wood~
+0
+drink 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+G G 0 0 0
+0
+0
+0 40 24 G
+#11917
+basket apple~
+the apple basket~
+A wooden apple basket sits here.~
+wood~
+0
+container 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BEF 0 0 AC CFG
+0
+0
+0 10 9 G
+#11918
+bone pipe~
+a bone pipe~
+An intricately carved bone pipe catches your attention.~
+bone~
+0
+armor 2
+A
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 10 G
+#11919
+sandals leather~
+a pair of leather sandals~
+A pair of leather sandals are thrown on the ground.~
+leather~
+0
+armor 2
+0
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B A AB B 0
+0
+0
+1 10 10 G
+#11920
+hat straw~
+straw hat~
+A large stained straw hat is on the ground.~
+hemp~
+0
+armor 2
+A
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB C AB B 0
+0
+0
+2 20 20 G
+#11921
+belt rope~
+a rope belt~
+A rope belt is thrown carelessly on the ground.~
+hemp~
+0
+armor 2
+0
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B AB A B 0
+0
+0
+5 10 10 G
+#11922
+shirt cotton~
+a cotton shirt~
+A white, hand woven shirt lays here.~
+cloth~
+0
+armor 2
+0
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C AB B AC 0
+0
+0
+2 20 20 G
+#11923
+sting wasp~
+a wasp sting~
+A wasp sting lies here ** Careful ** it's sharp.~
+bone~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ade B AB 0 0
+0
+0
+2 20 20 G
+A
+18 2
+A
+2 2
+#11924
+kiwi vine~
+`ca long, hard `jkiwi`c vine``~
+`cA shapely `jkiwi`c vine with a poops chunk towers over you.``~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DGH 0 0 CE BDEG
+0
+0
+0 0 0 P
+#11925
+stove fat ass~
+a holocaustal black iron stove~
+~
+iron~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+stove~
+An "AssMaster XT" logo is etched here, smudged with the ashes of Anne Franke.
+~
+#11926
+sign maggot crush~
+a sign of grave importance~
+~
+wood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+sign~
+There is a huge arrow on this sign pointing at you.
+On it is written, "You are here."
+ 
+Feel free to pick fruit at your leisure. 
+~
+#11927
+poster Nifilheim~
+an artifact of pure smart~
+~
+paper~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+poster~
+You are staring into the faces of Demon, Tyrant and Hellbutcher.  They
+are totally scary.  You are struck with fear from such vast intellect.  
+~
+#11928
+kiwi fruit~
+a tangy `jkiwi``~
+This is the freshest `jkiwi`` you have and will ever see.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC BC BEF 0 0
+0
+0
+0 2 0 P
+#11929
+shrubs plants tuft~
+`ca wide variety of plants``~
+`cA tuft of plants and shrubs bearing the finest of berries nestles here.``~
+oldstyle~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11930
+pineapple tree~
+a pineapple tree~
+A `kpineapple`` tree is here, blooming with luscious fruit.~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11931
+avocado tree~
+an avocado tree~
+A bulky tree grows here bearing fresh `javocados``.~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11932
+vine grapevine~
+a grapevine~
+`cMany long grapeinves grow in this yard.``~
+oldstyle~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11933
+apple tree~
+an enormous apple tree~
+An enormous tree stands proudly, bearing a plethora of delicious `bapples``.~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11934
+watermelon stalk~
+a watermelon stalk~
+`iWatermelon `cstalks sprout forth everywhere around you.``~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11935
+watermelon fruit~
+`ja juicy `iwatermelon``~
+A plump, juicy `iwatermelon`` hangs from a stalk.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCD ABCD CDEF 0 0
+0
+0
+0 10 0 P
+#11936
+tree trees~
+a group of trees~
+A series of trees producing various fruits resides here.~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11937
+cherry tree~
+a cherry tree~
+The `bcherries`` on this tree are irresistable so grab them while you can!~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11938
+rope noose~
+a tight rope~
+This is a thick noose for thick necks.  Use it in good taste.~
+hemp~
+0
+armor 2
+SY
+0
+C
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B B B A 0
+0
+0
+5 10 0 P
+A
+5 2
+#11939
+orange tree~
+an orange tree~
+An expertly grown orange tree sits here, surrounded by rich flowers.~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11940
+banana stalk~
+a banana stalk~
+`cMighty `kbanana `cstalks such as these are exclusive to this Orchard.``~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11941
+raspberry berry berries~
+`ca bunch of `braspberries``~
+`cMounds of `braspberries`c intensely grow in these shrubs.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB DF 0 0
+0
+0
+0 1 0 P
+#11942
+plant strawberry~
+`ca large `istrawberry `cplant``~
+`cA tall plant with thick leaves boasts delicious, sweet `istrawberries`c.``~
+oldstyle~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11943
+lily~
+`fa `ablackberry`f lily``~
+`fSmall, orange flowers with red spots bloom on this `ablackberry `flily.``~
+oldstyle~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11944
+mulberry tree~
+a `fmulberry`` tree~
+A rich, stout, fancy tree hailing tart `fmulberries`` occupies some space.~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11945
+blueberry blueberries~
+`la clump of `eblueberries``~
+`lThese delicious `eblueberries`l can do wonders for your taste buds.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB DF 0 0
+0
+0
+0 1 0 P
+#11946
+strawberry strawberries~
+`bsome rich `istrawberries``~
+`bRich `istrawberries `bawait to be devoured by a lucky soul.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC DF 0 0
+0
+0
+0 1 0 P
+#11947
+cranberry cranberries~
+some `bcranberries``~
+These sour `bcranberries`` are fit to fuel a warhorse.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB DF 0 0
+0
+0
+0 1 0 P
+#11948
+checkerberry~
+a phat `bcheckerberry``~
+This extremely phat `bcheckerberry`` was once the official food for gladiators.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D D DF 0 0
+0
+0
+0 0 0 P
+#11949
+boysenberry boysenberries~
+`aa small mass of `bboysenberries``~
+`bSomething resembling the brains of a bloody retard lay scattered here.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C DF 0 0
+0
+0
+0 0 0 P
+#11950
+gooseberry gooseberries~
+some sour `jgooseberries``~
+A conglomeration of `jgooseberries`` begs to please your tongue.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C DF 0 0
+0
+0
+0 0 0 P
+#11951
+mulberry mulberries~
+`ba myriad of `fmulberries``~
+`bTantalizing `fmulberries`b are grown here to feed fellow hatespawns.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D D DF 0 0
+0
+0
+0 3 0 P
+#11952
+huckleberry huckleberries~
+`fa cluster of `ehuckleberries``~
+`fThese `ehuckleberries `ftaste fantastic, so you best be eating them.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C DF 0 0
+0
+0
+0 1 0 P
+#11953
+loganberry loganberries~
+`facidic `bloganberries``~
+`fThese juicy `bLoganberries `fare guaranteed to make you viciously smart.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C DF 0 0
+0
+0
+0 2 0 P
+#11954
+blackberry blackberries~
+`fa bunch of `ablackberries``~
+`aBlackberries `fof this caliber are a force to be reckoned with.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC BC DF 0 0
+0
+0
+0 1 0 P
+#11955
+grapes~
+some fresh `fgrapes``~
+Plump `fgrapes`` that obviously had divine aid in cultivating lay here.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC BEF 0 0
+0
+0
+0 1 0 P
+#11956
+pineapple fruit~
+a luscious `kpineapple``~
+A luxurious `kpineapple`` assures you that there is hope for your appetite.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD CDEF 0 0
+0
+0
+0 0 0 P
+#11957
+avocado fruit~
+an `javocado``~
+Your consuming impulse drives you to finish this `javocado`` now!~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC BC CDEF 0 0
+0
+0
+0 0 0 P
+#11958
+tree pear~
+an abominable `cpear`` tree~
+A partridge is perched up comfortably here in this massive `cpear ``tree.~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11959
+pear green~
+a soft green `cpear~
+`dIf you truly care, you shall eat this `cpear`d.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC CDEF 0 0
+0
+0
+0 2 0 P
+#11960
+pear yellow~
+a soft yellow `kpear``~
+This `kpear`` melts in your mouth and sends a warm feeling down your spine.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC CDEF 0 0
+0
+0
+0 2 0 P
+#11961
+lemon fruit~
+a sour `klemon``~
+This lemon is lavishly juicy and explicitly sour.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C CDEF 0 0
+0
+0
+0 2 0 P
+#11962
+apple green granny~
+a savory granny `japple``~
+This is the type of `japple`` one can never have enough of.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC ABC CDEF 0 0
+0
+0
+0 2 0 P
+#11963
+persimmon fruit~
+a sweet `ipersimmon``~
+This beautiful orange-red fruit is one of the gardener's prize favorites.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C CDEF 0 0
+0
+0
+0 0 0 P
+#11964
+nectarine fruit~
+a `knectarine``~
+A smooth `knectarine`` existing for the sole purpose of consumption hangs here.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB CDEF 0 0
+0
+0
+0 1 0 P
+#11965
+plum fruit~
+`fa juicy `bplum``~
+This reddish `bplum`` is unsurpassed in taste and has a rather large seed.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB CDEF 0 0
+0
+0
+0 0 0 P
+#11966
+apricot fruit~
+an `kapricot``~
+This fruit is very addicting and filling, despite its small size.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB CDEF 0 0
+0
+0
+0 0 0 P
+#11967
+tangerine fruit~
+a `itangerine``~
+This convenient fruit is simple to peel and even easier to gorge.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C BEF 0 0
+0
+0
+0 2 0 P
+#11968
+pomegranate fruit~
+a `bpomegranate``~
+A juicy, acidic fruit with many seeds welcomes anyone with good taste.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C CDEF 0 0
+0
+0
+0 2 0 P
+#11969
+peach fruit~
+a tender `kpeach``~
+A hairy peach of perfect texture stares right at your stomach.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC CDEF 0 0
+0
+0
+0 0 0 P
+#11970
+tree mango~
+a sacred tree~
+A marvelous evergreen glistening with zesty `kmangos`` stands here.~
+wood~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11971
+mango fruit drool~
+a `kmango``~
+All who forsake the opportunity to eat this divine fruit should be killed.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CD CD EG 0 0
+0
+0
+0 3 0 P
+#11972
+lime fruit~
+`can elite lime``~
+These `climes`` are grwon especially for the very elite of fruit lovers.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB CDEF 0 0
+0
+0
+0 0 0 P
+#11973
+banana fruit~
+a `kbanana``~
+Such a delicious `kbanana`` would be a tragedy to waste.  Exhume to consume.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC CDEF 0 0
+0
+0
+0 3 0 P
+#11974
+orange fruit~
+a fresh orange~
+These oranges produce absolutely the best juice you will ever taste.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC ACDF 0 0
+0
+0
+0 0 0 P
+#11975
+cherry fruit cherries~
+`bsome wild cherries``~
+The best cherry pies are made from these very sweet `bcherries``!~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC ACDF 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#11910
+0 0
+~
+~
+~
+0 0 0
+New Orchard Entrance~
+You have arrived at the exquisite Orchard which puts all others to shame.
+Already you can see, smell and sense the freshness and extreme care given to
+this natural treasure.  What lies ahead is nothing short of Eden itself. 
+You are so happy with anticipation that you could just beat yourself bloody.
+There is a `dsign `cposted here.  `d`c `d `c `` 
+~
+0 0 2
+0
+~
+I 0 D0
+Orchard trail
+~
+~
+0 -1 11913
+S
+#11911
+0 0
+~
+~
+~
+0 0 0
+A Shaweet Cherry Tree~
+A lovely `bcherry`c tree sits here.  Pick some cherries and make a pie.  She's
+my cherry pie!
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11916
+D1
+~
+~
+0 0 11930
+S
+#11912
+0 0
+~
+~
+~
+0 0 0
+Brushing Past Large Kiwi Vines~
+This misty clearing leads to the Eastern end of the Orchard, where a more
+recreational setting lies as opposed to the work-oriented Western side.  The
+general vicinity is slighty moist, keeping you cool and relaxed as you
+venture through your fruit-picking animal-watching journey.  There are some
+large `j`j`jkiwi`c`c vines protruding here, making wicked-sick shadows and
+fresh, tasty `jkiwis`c for weary travellers.  `` 
+~
+0 0 2
+0
+~
+I 0 E
+smarts?~
+~
+D1
+~
+~
+0 -1 11914
+D3
+~
+~
+0 -1 11913
+S
+#11913
+0 0
+~
+~
+~
+0 0 0
+Main Orchard Path~
+You are walking on a `owhite gravel`c path that extends in all
+directions.  Lush trees and resplendent wildlife surround you, contributing
+to nothing but peace and appreciation for such an environment.  There seems
+to be an infinite number of mouth watering fruits growing here, ready to be
+picked and devoured at your discretion.  In addition, exotic plants and wild
+flowers help decorate the land with their vibrant colors.  You honestly
+cannot be disappointed for being here, no matter how much hate you can
+spread with a garden weasel.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11918
+D1
+~
+~
+0 -1 11912
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 0 11930
+S
+#11914
+0 0
+~
+~
+~
+0 0 0
+A Pond in the Orchard~
+`lThe `owhite gravel`l turns into a sandy ground as you arrive at the
+small, crystal clear pond here in the Eastern corner.  The water is nothing
+like you have ever seen before.  In either the bright daylight or somber
+moonlight, you can see your own reflection to almost every last detail.  A
+small fountain sculpted in the form of a gargoyle rests in the middle of the
+pond, purveying water in an admirable fashion.  You notice the words "THE
+TRAGICALLY HIP" inscribed in stone above it, and you feel relieved.  Fresh
+`istrawberries`l, `eblueberries`l, `braspberries`l and a multitude of other
+berries are growing here for your ardor pleasure, complementing the water
+with a fine, sweet taste.  If you can muster the will to move on, the path
+continues north towards Fruitland.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11915
+D3
+~
+~
+0 -1 11912
+S
+#11915
+0 0
+~
+~
+~
+0 0 0
+A Dirt Path~
+`c`dYou follow a dirt path that leads you among some burly `kpineapple
+`cand `javocado `ctrees.  Grape vines are also growing here, offering the
+most plump `fgrapes`c you will find this side of the city.  Violently pretty
+flowers add flavor and more life to this region, their beauty capable of
+putting a princess in a coma.  `` `` 
+~
+0 b 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11926
+D2
+~
+~
+0 -1 11914
+S
+#11916
+0 0
+~
+~
+~
+0 0 0
+The Sacred Ground~
+`dThis small yard is essentially the grandmaster gardener's front lawn,
+and is considered sacred by he and his fellow workers.  Here resides the
+majestic `kmango`d tree that constitutes a reason for many of these workers
+to live.  This fruit is regarded among the most supreme of divine creation,
+for in order to possess such magnificent flavor, texture and other
+qualities, it must have been bestowed as a very loving gift.  This ground
+exists so that those who have sense to appreciate it can pay homage to this
+tree and its blessed `kmangos`d.   
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11921
+D2
+~
+~
+0 -1 11911
+D3
+~
+~
+0 -1 11917
+S
+#11917
+0 0
+~
+~
+~
+0 0 0
+Gardener's Shack~
+You enter through an old wooden door into the head gardeners messy little
+haven.  An old bell used for summoning workers sits proudly on a counter.  A
+bed, several blankets and some stools lay in the far corner.  A wash basin
+and three drawer dresser are set directly across, allowing Butch the
+grandmaster gardener snappy access from bed to overalls.  Some kindling and
+cooking pots are set next to an old wood burning stove, ready to immolate a
+nearby trespasser or cook up a tasty squirrel dinner.  There seems to be
+something scrawled inside the stove.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 -1 11916
+S
+#11918
+0 0
+~
+~
+~
+0 0 0
+A Huge Apple Tree~
+`dYou are standing under the largest `c`bapple`d`d tree you have ever
+seen.  Its enormous size intimidates you like an impending math book, and
+you realize what a large world this tree must be to all the tiny ants,
+crickets, and other insects that inhabit it.  Up above, some workers have
+managed to construct a small tree house to relax and discuss their favorite
+lagers.  The path continues ahead to the north.  `` 
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 -1 11920
+D2
+~
+~
+0 -1 11913
+D4
+~
+~
+0 -1 11919
+S
+#11919
+0 0
+~
+~
+~
+0 0 0
+A Small Treehouse~
+`dThe young apple workers have put diligent effort into building this
+small tree house for themselves.  Here they can retreat from the rigors of
+work and the insects and creatures of the Orchard.  There is a comfortable
+bench to rest upon and some extra food available for a quick snack.  Also,
+there is an autographed Nifilheim `oposter`d`d mounted on the back wall.  ``
+~
+0 0 0
+0
+~
+I 0 D5
+~
+~
+0 -1 11918
+S
+#11920
+0 0
+~
+~
+~
+0 0 0
+An Orchard Clearing~
+You approach a very quiet, special place here in the center of the busy
+orchard.  An ancient well dominates the clearing and it shows sign of recent
+use.  A rope is coiled for use near the well's edge.  Ahead, the business of
+workers and other inhabitants scurrying about can be seen.  You could die in
+this place in peace by the pure captivation of such a scene.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11923
+D2
+~
+~
+0 -1 11918
+S
+#11921
+0 0
+~
+~
+~
+0 0 0
+The Trimming Ground~
+You come to a series of smaller trees that are being trimmed and relieved
+of their loose ends and branches.  There are yellow ribbons tied around
+certain branches both attached to trees and laying on the ground.  There are
+also some stumps of trees that have been finally chopped, as well as brand
+new trees growing along side them.  Hyper fatt squirrels are scampering up
+and down this place, bewildered by the many new spots they now have to
+create homes.  The gravel leads north towards the Western Corner and of
+course, back south toward the entrance.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11922
+D2
+~
+~
+0 -1 11916
+S
+#11922
+0 0
+~
+~
+~
+0 0 0
+The Western Path~
+The path continues along the western end of the Orchard.  There are some
+fascinating stalks blooming with delicious `k`kbananas`c, most of which are
+ready to pick and eat at your leisure.  Careful not to slip on any peels -
+the animals and workers here are sometimes neglectful and forget to clean up
+after themselves.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11925
+D2
+~
+~
+0 -1 11921
+S
+#11923
+0 0
+~
+~
+~
+0 0 0
+The Central Path~
+The `owhite gravel`c`c continues and brings you among some of the
+highlights offered by this tranquil environment.  Closeup you can observe
+birds chirping and singing, field mice squeaking and running rampant, and
+insects strolling about and buzzing by with their duties.  Rustling autumn
+leaves and ripe fruit add obnoxiously beautiful color to this place, as if
+nature was especially picky about perfecting itself.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11924
+D2
+~
+~
+0 -1 11920
+S
+#11924
+0 0
+~
+~
+~
+0 0 0
+A Weedy Patch~
+You stroll upon a rough path dominated by `iwatermelons`c.  Weeds are
+scattered everywhere with dedicated workers busy smiting them.  You begin to
+wonder how such a wide array of fruits can be grown in one place, but you
+decide to leave it be and appreciate this magical gift endowed upon you. 
+The melons are rejuvenating, and of course, there for your picking.  `` 
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 -1 11928
+D3
+~
+~
+0 -1 11923
+S
+#11925
+0 0
+~
+~
+~
+0 0 0
+The Western Corner~
+This is the Western corner of the orchard.  The trees are younger than
+those on the East side and produce less fruit, however they are well taken
+care of and provide entertainment for those who enjoy watching trees age. 
+If children were inclined to ever climb trees, these would be ideal due to their
+petite yet complex structure.  
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 -1 11929
+D2
+~
+~
+0 -1 11922
+S
+#11926
+0 0
+~
+~
+~
+0 0 0
+The Eastern Walkway~
+You are standing in the center of a circle of assorted trees, ranging
+from `bapple `cto `klemon `cto `ipersimmon`c.  Workers are promenading
+around, picking and gathering various fruit for resale at market.  A large,
+white wooden swing fit for two people hangs between two of the taller trees.
+It's a delightful treat for someone to sit and sway with the breeze, or even
+for two lovers to rest in each other's arms under the frosty moonlight.  `` 
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 -1 11928
+D2
+~
+~
+0 -1 11915
+S
+#11927
+0 0
+~
+~
+~
+0 0 0
+The Staging Area~
+Dozens of large apple crates have been stacked here at the back of the
+orchard.  There are small concentrations of ants and small birds snacking on
+apple cores and other remnants of stray fruit.  You begin to realize how a
+simple life dealing with apples can be so appealing, and even become jealous
+of the animals for an instant.  The path leads west towards more trees and
+other delightful sights.  
+~
+0 0 2
+0
+~
+I 0 D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11929
+S
+#11928
+0 0
+~
+~
+~
+0 0 0
+A Cozy Corner~
+After making your way through some thick bushes, you come upon a cozy
+plot of land left for people, mainly the workers, to sit, chat and create
+music.  The area is enclosed by topiary in the forms of geese, weasels,
+wolves, toads, and deer.  The splendid locale invites you to spend some time
+here, be it taking a nap to the soothing music or outright general
+fruitlust.  Trees bearing scrumptious `knectar`iines`c, `fplums`c,
+`kapricots`c, `itangerines`c, `b`bpomegranates`c and `k`kpeaches`c `n `c
+supply yummy nourishment.  `` 
+~
+0 F 2
+0
+~
+I 0 D2
+~
+~
+0 -1 11926
+D3
+~
+~
+0 -1 11924
+S
+#11929
+0 0
+~
+~
+~
+0 0 0
+A Crowded Path~
+You stumble upon an extremely dense concentration of trees.  This area is
+filled with fallen fruit, leaves, and small homes created by the many
+animals.  The community is very heart-warming, welcoming and comforting to
+be a part of, even though it resides mostly under the darkness of the cool
+shade.  At night it can be a bit difficult to find your way across, however
+with faith and perseverance, and utter contempt for life metal, you'll
+eventually succeed.  
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 -1 11927
+D3
+~
+~
+0 -1 11925
+S
+#11930
+0 0
+~
+~
+~
+0 0 0
+In Front of an Orange Tree~
+YOU ARE IN FRONT OF A HUGE ORANGE TREE.  IT HAS ORANGES.  THE TRAGICALLY HIP.
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 11913
+D3
+~
+~
+0 0 11911
+S
+#12050
+0 0
+~
+~
+~
+0 0 0
+TestRoom~
+~
+0 CDZ 1
+0
+~
+I 0 O Iblis~
+S
+#0
+
+#RESETS
+M 0 11910   1 11917  1	* Butch, the old gardener
+E 0 11918   -1   17	* item to Butch, the old gardener
+E 0 11919   -1    8	* item to Butch, the old gardener
+E 0 11920   -1    6	* item to Butch, the old gardener
+E 0 11921   -1   13	* item to Butch, the old gardener
+E 0 11922   -1    5	* item to Butch, the old gardener
+E 0 11914   -1   16	* item to Butch, the old gardener
+M 0 11911   1 11916  1	* Mike the apple picker
+E 0 11913   -1   16	* item to Mike the apple picker
+M 0 11911   1 11927  1	* Mike the apple picker
+M 0 11912   1 11915  1	* The buzzing wasp
+M 0 11912   1 11923  1	* The buzzing wasp
+E 0 11923   -1   16	* item to The buzzing wasp
+M 0 11914   1 11911  1	* The black beetle
+M 0 11914   2 11924  2	* The black beetle
+M 0 11914   1 11928  1	* The black beetle
+M 0 11915   2 11916  2	* The garter snake
+M 0 11916   1 11911  1	* The black fly
+M 0 11917   2 11921  2	* The large caterpillar
+M 0 11917   2 11925  3	* The large caterpillar
+M 0 11918   2 11928  2	* The fireant
+M 0 11919   1 11913  1	* The tiny mouse
+O 0 11910   0 11925 -1	* A red `bapple`` at The Western Corner
+O 0 11915   0 11924 -1	* The wooden bench at A Weedy Patch
+O 0 11917   0 11927 -1	* The apple basket at The Staging Area
+M 0 11918   2 11926  2	* The fireant
+M 0 11919   1 11926  1	* The tiny mouse
+M 0 11914   1 11920  1	* The black beetle
+M 0 11917   1 11927  1	* The large caterpillar
+M 0 11913   1 11929  1	* The green weed
+M 0 11915   1 11922  1	* The garter snake
+M 0 11916   1 11916  1	* The black fly
+M 0 11916   1 11916  1	* The black fly
+M 0 11919   1 11913  1	* The tiny mouse
+O 0 11926   0 11910 -1	* A sign of grave importance at New Orchard Entrance
+M 0 11916   2 11910  1	* The black fly
+M 0 11920   3 11917  1	* A fuzzy squirrel
+O 0 11930   0 11915 -1	* A pineapple tree at A Dirt Path
+O 0 11931   0 11915 -1	* An avocado tree at A Dirt Path
+O 0 11932   0 11915 -1	* A grapevine at A Dirt Path
+O 0 11933   0 11918 -1	* An enormous apple tree at A Huge Apple Tree
+O 0 11927   0 11919 -1	* An artifact of pure smart at A Small Treehouse
+O 0 11910   0 11919 -1	* A red `bapple`` at A Small Treehouse
+O 0 11915   0 11919 -1	* The wooden bench at A Small Treehouse
+O 0 11934   0 11924 -1	* A watermelon stalk at A Weedy Patch
+O 0 11936   0 11928 -1	* A group of trees at A Cozy Corner
+O 0 11936   0 11926 -1	* A group of trees at The Eastern Walkway
+O 0 11937   0 11911 -1	* A cherry tree at A Shaweet Cherry Tree
+M 0 11920   3 11921  2	* A fuzzy squirrel
+O 0 11925   0 11917 -1	* A holocaustal black iron stove at Gardener's Shack
+O 0 11940   0 11922 -1	* A banana stalk at The Western Path
+O 0 11912   0 11920 -1	* The old well at An Orchard Clearing
+O 0 11958   0 11923 -1	* An abominable `cpear`` tree at The Central Path
+O 0 11942   0 11914 -1	* `ca large `istrawberry `cplant`` at A Pond in the Orchard
+O 0 11944   0 11914 -1	* A `fmulberry`` tree at A Pond in the Orchard
+O 0 11943   0 11914 -1	* `fa `ablackberry`f lily`` at A Pond in the Orchard
+O 0 11929   0 11914 -1	* `ca wide variety of plants`` at A Pond in the Orchard
+O 0 11924   0 11912 -1	* `ca long, hard `jkiwi`c vine`` at Brushing Past Large Kiwi Vines
+O 0 11939   0 11930 -1	* An orange tree at In Front of an Orange Tree
+O 0 11970   0 11916 -1	* A sacred tree at The Sacred Ground
+D 0 25945   3    2	* `lIblis's Place`` [west]
+D 0 25945   3    0	* `lIblis's Place`` [west]
+D 0 25945   3    1	* `lIblis's Place`` [west]
+D 0 25945   3    1	* `lIblis's Place`` [west]
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#0
+#$

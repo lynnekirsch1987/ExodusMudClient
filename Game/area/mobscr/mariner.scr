@@ -1,0 +1,921 @@
+* Ancient Mariner
+* The Ancient Mariner (mob 1232)
+
+#TRIGGER born
+Type 4
+Sc
+  say `kIt is an ancient Mariner,
+  say `kAnd he stoppeth one of three.
+  say `k"By thy long grey beard and glittering eye,
+  say `kNow wherefore stopp'st thou me? 
+  wait 15~
+Sc
+  say `k"The Bridegroom's doors are opened wide,
+  say `kAnd I am next of kin;
+  say `kThe guests are met, the feast is set:
+  say `kMay'st hear the merry din." 
+  wait 15~
+Sc
+  say `kHe holds him with his skinny hand,
+  say `k"There was a ship," quoth he.
+  say `k"Hold off! unhand me, grey-beard loon!"
+  say `kEftsoons his hand dropt he. 
+  wait 15~
+Sc
+  say `kHe holds him with his glittering eye -- 
+  say `kThe Wedding-Guest stood still,
+  say `kAnd listens like a three years child:
+  say `kThe Mariner hath his will. 
+  wait 15~
+Sc
+  say `kThe Wedding-Guest sat on a stone:
+  say `kHe cannot chuse but hear;
+  say `kAnd thus spake on that ancient man,
+  say `kThe bright-eyed Mariner. 
+  wait 15~
+Sc
+  say `kThe ship was cheered, the harbour cleared,
+  say `kMerrily did we drop
+  say `kBelow the kirk, below the hill,
+  say `kBelow the light-house top. 
+  wait 15~
+Sc
+  say `kThe Sun came up upon the left,
+  say `kOut of the sea came he!
+  say `kAnd he shone bright, and on the right
+  say `kWent down into the sea. 
+  wait 15~
+Sc
+  say `kHigher and higher every day,
+  say `kTill over the mast at noon -- 
+  say `kThe Wedding-Guest here beat his breast,
+  say `kFor he heard the loud bassoon. 
+  wait 15~
+Sc
+  say `kThe bride hath paced into the hall,
+  say `kRed as a rose is she;
+  say `kNodding their heads before her goes
+  say `kThe merry minstrelsy. 
+  wait 15~
+Sc
+  say `kThe Wedding-Guest he beat his breast,
+  say `kYet he cannot chuse but hear;
+  say `kAnd thus spake on that ancient man,
+  say `kThe bright-eyed Mariner. 
+  wait 15~
+Sc
+  say `kAnd now the `oStorm-Blast`k came, and he
+  say `kWas tyrannous and strong:
+  say `kHe struck with his o'ertaking wings,
+  say `kAnd chased south along. 
+  wait 15~
+Sc
+  say `kWith sloping masts and dipping prow,
+  say `kAs who pursued with yell and blow
+  say `kStill treads the shadow of his foe
+  say `kAnd forward bends his head,
+  say `kThe ship drove fast, loud roared the blast,
+  say `kAnd southward aye we fled. 
+  wait 15~
+Sc
+  say `kAnd now there came both mist and snow,
+  say `kAnd it grew wondrous cold:
+  say `kAnd ice, mast-high, came floating by,
+  say `kAs green as emerald. 
+  wait 15~
+Sc
+  say `kAnd through the drifts the snowy clifts
+  say `kDid send a dismal sheen:
+  say `kNor shapes of men nor beasts we ken -- 
+  say `kThe ice was all between. 
+  wait 15~
+Sc
+  say `kThe ice was here, the ice was there,
+  say `kThe ice was all around:
+  say `kIt cracked and growled, and roared and howled,
+  say `kLike noises in a swound! 
+  wait 15~
+Sc
+  say `kAt length did cross an Albatross:
+  say `kThorough the fog it came;
+  say `kAs if it had been a Christian soul,
+  say `kWe hailed it in God's name. 
+  wait 15~
+Sc
+  say `kIt ate the food it ne'er had eat,
+  say `kAnd round and round it flew.
+  say `kThe ice did split with a thunder-fit;
+  say `kThe helmsman steered us through! 
+  wait 15~
+Sc
+  say `kAnd a good south wind sprung up behind;
+  say `kThe Albatross did follow,
+  say `kAnd every day, for food or play,
+  say `kCame to the mariners' hollo! 
+  wait 15~
+Sc
+  say `kIn mist or cloud, on mast or shroud,
+  say `kIt perched for vespers nine;
+  say `kWhiles all the night, through fog-smoke white,
+  say `kGlimmered the white Moon-shine. 
+  wait 15~
+Sc
+  say `k"God save thee, ancient Mariner!
+  say `kFrom the fiends, that plague thee thus! -- 
+  say `kWhy look'st thou so?" -- With my cross-bow
+  say `kI shot the `oAlbatross`k.
+  wait 15~
+Sc
+  say `kThe Sun now rose upon the right:
+  say `kOut of the sea came he,
+  say `kStill hid in mist, and on the left
+  say `kWent down into the sea. 
+  wait 15~
+Sc
+  say `kAnd the good south wind still blew behind
+  say `kBut no sweet bird did follow,
+  say `kNor any day for food or play
+  say `kCame to the mariners' hollo! 
+  wait 15~
+Sc
+  say `kAnd I had done an hellish thing,
+  say `kAnd it would work 'em woe:
+  say `kFor all averred, I had killed the bird
+  say `kThat made the breeze to blow.
+  say `kAh wretch! said they, the bird to slay
+  say `kThat made the breeze to blow! 
+  wait 15~
+Sc
+  say `kNor dim nor red, like God's own head,
+  say `kThe glorious Sun uprist:
+  say `kThen all averred, I had killed the bird
+  say `kThat brought the fog and mist.
+  say `k'Twas right, said they, such birds to slay,
+  say `kThat bring the fog and mist. 
+  wait 15~
+Sc
+  say `kThe fair breeze blew, the white foam flew,
+  say `kThe furrow followed free:
+  say `kWe were the first that ever burst
+  say `kInto that silent sea. 
+  wait 15~
+Sc
+  say `kDown dropt the breeze, the sails dropt down,
+  say `k'Twas sad as sad could be;
+  say `kAnd we did speak only to break
+  say `kThe silence of the sea! 
+  wait 15~
+Sc
+  say `kAll in a hot and copper sky,
+  say `kThe bloody Sun, at noon,
+  say `kRight up above the mast did stand,
+  say `kNo bigger than the Moon. 
+  wait 15~
+Sc
+  say `kDay after day, day after day,
+  say `kWe stuck, nor breath nor motion;
+  say `kAs idle as a painted ship
+  say `kUpon a painted ocean. 
+  wait 15~
+Sc
+  say `kWater, water, every where,
+  say `kAnd all the boards did shrink;
+  say `kWater, water, every where,
+  say `kNor any drop to drink. 
+  wait 15~
+Sc
+  say `kThe very deep did rot: O Christ!
+  say `kThat ever this should be!
+  say `kYea, slimy things did crawl with legs
+  say `kUpon the slimy sea. 
+  wait 15~
+Sc
+  say `kAbout, about, in reel and rout
+  say `kThe death-fires danced at night;
+  say `kThe water, like a witch's oils,
+  say `kBurnt green, and blue and white. 
+  wait 15~
+Sc
+  say `kAnd some in dreams assured were
+  say `kOf the spirit that plagued us so:
+  say `kNine fathom deep he had followed us
+  say `kFrom the land of mist and snow. 
+  wait 15~
+Sc
+  say `kAnd every tongue, through utter drought,
+  say `kWas withered at the root;
+  say `kWe could not speak, no more than if
+  say `kWe had been choked with soot. 
+  wait 15~
+Sc
+  say `kAh! well a-day! what evil looks
+  say `kHad I from old and young!
+  say `kInstead of the cross, the Albatross
+  say `kAbout my neck was hung. 
+  wait 15~
+Sc
+  say `kThere passed a weary time. Each throat
+  say `kWas parched, and glazed each eye.
+  say `kA weary time! a weary time!
+  say `kHow glazed each weary eye,
+  say `kWhen looking westward, I beheld
+  say `kA something in the sky. 
+  wait 15~
+Sc
+  say `kAt first it seemed a little speck,
+  say `kAnd then it seemed a mist:
+  say `kIt moved and moved, and took at last
+  say `kA certain shape, I wist. 
+  wait 15~
+Sc
+  say `kA speck, a mist, a shape, I wist!
+  say `kAnd still it neared and neared:
+  say `kAs if it dodged a water-sprite,
+  say `kIt plunged and tacked and veered. 
+  wait 15~
+Sc
+  say `kWith throats unslaked, with black lips baked,
+  say `kWe could not laugh nor wail;
+  say `kThrough utter drought all dumb we stood!
+  say `kI bit my arm, I sucked the blood,
+  say `kAnd cried, A sail! a sail! 
+  wait 15~
+Sc
+  say `kWith throats unslaked, with black lips baked,
+  say `kAgape they heard me call:
+  say `kGramercy! they for joy did grin,
+  say `kAnd all at once their breath drew in,
+  say `kAs they were drinking all. 
+  wait 15~
+Sc
+  say `kSee! see! (I cried) she tacks no more!
+  say `kHither to work us weal;
+  say `kWithout a breeze, without a tide,
+  say `kShe steadies with upright keel! 
+  wait 15~
+Sc
+  say `kThe western wave was all a-flame
+  say `kThe day was well nigh done!
+  say `kAlmost upon the western wave
+  say `kRested the broad bright Sun;
+  say `kWhen that strange shape drove suddenly
+  say `kBetwixt us and the Sun. 
+  wait 15~
+Sc
+  say `kAnd straight the Sun was flecked with bars,
+  say `k(Heaven's Mother send us grace!)
+  say `kAs if through a dungeon-grate he peered,
+  say `kWith broad and burning face. 
+  wait 15~
+Sc
+  say `kAlas! (thought I, and my heart beat loud)
+  say `kHow fast she nears and nears!
+  say `kAre those her sails that glance in the Sun,
+  say `kLike restless gossameres! 
+  wait 15~
+Sc
+  say `kAre those her ribs through which the Sun
+  say `kDid peer, as through a grate?
+  say `kAnd is that Woman all her crew?
+  say `kIs that a `odeath`k? and are there two?
+  say `kIs `odeath`k that woman's mate? 
+  wait 15~
+Sc
+  say `kHer lips were red, her looks were free,
+  say `kHer locks were yellow as gold:
+  say `kHer skin was as white as leprosy,
+  say `kThe Night-Mare `oLife-in-Death`k was she,
+  say `kWho thicks man's blood with cold. 
+  wait 15~
+Sc
+  say `kThe naked hulk alongside came,
+  say `kAnd the twain were casting dice;
+  say `k"The game is done! I've won! I've won!"
+  say `kQuoth she, and whistles thrice. 
+  wait 15~
+Sc
+  say `kThe Sun's rim dips; the stars rush out:
+  say `kAt one stride comes the dark;
+  say `kWith far-heard whisper, o'er the sea.
+  say `kOff shot the spectre-bark. 
+  wait 15~
+Sc
+  say `kWe listened and looked sideways up!
+  say `kFear at my heart, as at a cup,
+  say `kMy life-blood seemed to sip! 
+  wait 15~
+Sc
+  say `kThe stars were dim, and thick the night,
+  say `kThe steersman's face by his lamp gleamed white;
+  say `kFrom the sails the dew did drip -- 
+  say `kTill clombe above the eastern bar
+  say `kThe horned Moon, with one bright star
+  say `kWithin the nether tip. 
+  wait 15~
+Sc
+  say `kOne after one, by the star-dogged Moon
+  say `kToo quick for groan or sigh,
+  say `kEach turned his face with a ghastly pang,
+  say `kAnd cursed me with his eye. 
+  wait 15~
+Sc
+  say `kFour times fifty living men,
+  say `k(And I heard nor sigh nor groan)
+  say `kWith heavy thump, a lifeless lump,
+  say `kThey dropped down one by one. 
+  wait 15~
+Sc
+  say `kThe souls did from their bodies fly, -- 
+  say `kThey fled to bliss or woe!
+  say `kAnd every soul, it passed me by,
+  say `kLike the whizz of my `oCross-Bow`k! 
+  wait 15~
+Sc
+  say `k"I fear thee, ancient Mariner!
+  say `kI fear thy skinny hand!
+  say `kAnd thou art long, and lank, and brown,
+  say `kAs is the ribbed sea-sand. 
+  wait 15~
+Sc
+  say `k"I fear thee and thy glittering eye,
+  say `kAnd thy skinny hand, so brown." -- 
+  say `kFear not, fear not, thou Wedding-Guest!
+  say `kThis body dropt not down. 
+  wait 15~
+Sc
+  say `kAlone, alone, all, all alone,
+  say `kAlone on a wide wide sea!
+  say `kAnd never a saint took pity on
+  say `kMy soul in agony. 
+  wait 15~
+Sc
+  say `kThe many men, so beautiful!
+  say `kAnd they all dead did lie:
+  say `kAnd a thousand thousand slimy things
+  say `kLived on; and so did I 
+  wait 15~
+Sc
+  say `kI looked upon the rotting sea,
+  say `kAnd drew my eyes away;
+  say `kI looked upon the rotting deck,
+  say `kAnd there the dead men lay. 
+  wait 15~
+Sc
+  say `kI looked to Heaven, and tried to pray:
+  say `kBut or ever a prayer had gusht,
+  say `kA wicked whisper came, and made
+  say `kmy heart as dry as dust. 
+  wait 15~
+Sc
+  say `kI closed my lids, and kept them close,
+  say `kAnd the balls like pulses beat;
+  say `kFor the sky and the sea, and the sea and the sky
+  say `kLay like a load on my weary eye,
+  say `kAnd the dead were at my feet. 
+  wait 15~
+Sc
+  say `kThe cold sweat melted from their limbs,
+  say `kNor rot nor reek did they:
+  say `kThe look with which they looked on me
+  say `kHad never passed away. 
+  wait 15~
+Sc
+  say `kAn orphan's curse would drag to Hell
+  say `kA spirit from on high;
+  say `kBut oh! more horrible than that
+  say `kIs a curse in a dead man's eye!
+  say `kSeven days, seven nights, I saw that curse,
+  say `kAnd yet I could not die. 
+  wait 15~
+Sc
+  say `kThe moving Moon went up the sky,
+  say `kAnd no where did abide:
+  say `kSoftly she was going up,
+  say `kAnd a star or two beside. 
+  wait 15~
+Sc
+  say `kHer beams bemocked the sultry main,
+  say `kLike April hoar-frost spread;
+  say `kBut where the ship's huge shadow lay,
+  say `kThe charmed water burnt alway
+  say `kA still and awful red. 
+  wait 15~
+Sc
+  say `kBeyond the shadow of the ship,
+  say `kI watched the water-snakes:
+  say `kThey moved in tracks of shining white,
+  say `kAnd when they reared, the elfish light
+  say `kFell off in hoary flakes. 
+  wait 15~
+Sc
+  say `kWithin the shadow of the ship
+  say `kI watched their rich attire:
+  say `kBlue, glossy green, and velvet black,
+  say `kThey coiled and swam; and every track
+  say `kWas a flash of golden fire. 
+  wait 15~
+Sc
+  say `kO happy living things! no tongue
+  say `kTheir beauty might declare:
+  say `kA spring of love gushed from my heart,
+  say `kAnd I blessed them unaware:
+  say `kSure my kind saint took pity on me,
+  say `kAnd I blessed them unaware. 
+  wait 15~
+Sc
+  say `kThe self same moment I could pray;
+  say `kAnd from my neck so free
+  say `kThe Albatross fell off, and sank
+  say `kLike lead into the sea. 
+  wait 15~
+Sc
+  say `kOh sleep! it is a gentle thing,
+  say `kBeloved from pole to pole!
+  say `kTo Mary Queen the praise be given!
+  say `kShe sent the gentle sleep from Heaven,
+  say `kThat slid into my soul. 
+  wait 15~
+Sc
+  say `kThe silly buckets on the deck,
+  say `kThat had so long remained,
+  say `kI dreamt that they were filled with dew;
+  say `kAnd when I awoke, it rained. 
+  wait 15~
+Sc
+  say `kMy lips were wet, my throat was cold,
+  say `kMy garments all were dank;
+  say `kSure I had drunken in my dreams,
+  say `kAnd still my body drank. 
+  wait 15~
+Sc
+  say `kI moved, and could not feel my limbs:
+  say `kI was so light -- almost
+  say `kI thought that I had died in sleep,
+  say `kAnd was a blessed ghost. 
+  wait 15~
+Sc
+  say `kAnd soon I heard a roaring wind:
+  say `kIt did not come anear;
+  say `kBut with its sound it shook the sails,
+  say `kThat were so thin and sere. 
+  wait 15~
+Sc
+  say `kThe upper air burst into life!
+  say `kAnd a hundred fire-flags sheen,
+  say `kTo and fro they were hurried about!
+  say `kAnd to and fro, and in and out,
+  say `kThe wan stars danced between. 
+  wait 15~
+Sc
+  say `kAnd the coming wind did roar more loud,
+  say `kAnd the sails did sigh like sedge;
+  say `kAnd the rain poured down from one black cloud;
+  say `kThe Moon was at its edge. 
+  wait 15~
+Sc
+  say `kThe thick black cloud was cleft, and still
+  say `kThe Moon was at its side:
+  say `kLike waters shot from some high crag,
+  say `kThe lightning fell with never a jag,
+  say `kA river steep and wide. 
+  wait 15~
+Sc
+  say `kThe loud wind never reached the ship,
+  say `kYet now the ship moved on!
+  say `kBeneath the lightning and the Moon
+  say `kThe dead men gave a groan. 
+  wait 15~
+Sc
+  say `kThey groaned, they stirred, they all uprose,
+  say `kNor spake, nor moved their eyes;
+  say `kIt had been strange, even in a dream,
+  say `kTo have seen those dead men rise. 
+  wait 15~
+Sc
+  say `kThe helmsman steered, the ship moved on;
+  say `kYet never a breeze up blew;
+  say `kThe mariners all 'gan work the ropes,
+  say `kWere they were wont to do:
+  say `kThey raised their limbs like lifeless tools -- 
+  say `kWe were a ghastly crew. 
+  wait 15~
+Sc
+  say `kThe body of my brother's son,
+  say `kStood by me, knee to knee:
+  say `kThe body and I pulled at one rope,
+  say `kBut he said nought to me. 
+  wait 15~
+Sc
+  say `k"I fear thee, ancient Mariner!"
+  say `kBe calm, thou Wedding-Guest!
+  say `k'Twas not those souls that fled in pain,
+  say `kWhich to their corses came again,
+  say `kBut a troop of spirits blest: 
+  wait 15~
+Sc
+  say `kFor when it dawned -- they dropped their arms,
+  say `kAnd clustered round the mast;
+  say `kSweet sounds rose slowly through their mouths,
+  say `kAnd from their bodies passed. 
+  wait 15~
+Sc
+  say `kAround, around, flew each sweet sound,
+  say `kThen darted to the Sun;
+  say `kSlowly the sounds came back again,
+  say `kNow mixed, now one by one. 
+  wait 15~
+Sc
+  say `kSometimes a-dropping from the sky
+  say `kI heard the sky-lark sing;
+  say `kSometimes all little birds that are,
+  say `kHow they seemed to fill the sea and air
+  say `kWith their sweet jargoning! 
+  wait 15~
+Sc
+  say `kAnd now 'twas like all instruments,
+  say `kNow like a lonely flute;
+  say `kAnd now it is an angel's song,
+  say `kThat makes the Heavens be mute. 
+  wait 15~
+Sc
+  say `kIt ceased; yet still the sails made on
+  say `kA pleasant noise till noon,
+  say `kA noise like of a hidden brook
+  say `kIn the leafy month of June,
+  say `kThat to the sleeping woods all night
+  say `kSingeth a quiet tune. 
+  wait 15~
+Sc
+  say `kTill noon we quietly sailed on,
+  say `kYet never a breeze did breathe:
+  say `kSlowly and smoothly went the ship,
+  say `kMoved onward from beneath. 
+  wait 15~
+Sc
+  say `kUnder the keel nine fathom deep,
+  say `kFrom the land of mist and snow,
+  say `kThe spirit slid: and it was he
+  say `kThat made the ship to go.
+  say `kThe sails at noon left off their tune,
+  say `kAnd the ship stood still also. 
+  wait 15~
+Sc
+  say `kThe Sun, right up above the mast,
+  say `kHad fixed her to the ocean:
+  say `kBut in a minute she 'gan stir,
+  say `kWith a short uneasy motion -- 
+  say `kBackwards and forwards half her length
+  say `kWith a short uneasy motion. 
+  wait 15~
+Sc
+  say `kThen like a pawing horse let go,
+  say `kShe made a sudden bound:
+  say `kIt flung the blood into my head,
+  say `kAnd I fell down in a swound. 
+  wait 15~
+Sc
+  say `kHow long in that same fit I lay,
+  say `kI have not to declare;
+  say `kBut ere my living life returned,
+  say `kI heard and in my soul discerned
+  say `kTwo `oVoices`k in the air. 
+  wait 15~
+Sc
+  say `k"Is it he?" quoth one, "Is this the man?
+  say `kBy him who died on cross,
+  say `kWith his cruel bow he laid full low,
+  say `kThe harmless Albatross. 
+  wait 15~
+Sc
+  say `k"The spirit who bideth by himself
+  say `kIn the land of mist and snow,
+  say `kHe loved the bird that loved the man
+  say `kWho shot him with his bow." 
+  wait 15~
+Sc
+  say `kThe other was a softer voice,
+  say `kAs soft as honey-dew:
+  say `kQuoth he, "The man hath penance done,
+  say `kAnd penance more will do." 
+  wait 15~
+Sc
+  say `kBut tell me, tell me! speak again,
+  say `kThy soft response renewing -- 
+  say `kWhat makes that ship drive on so fast?
+  say `kWhat is the `oOcean`k doing? 
+  wait 15~
+Sc
+  say `kStill as a slave before his lord,
+  say `kThe `oOcean`k hath no blast;
+  say `kHis great bright eye most silently
+  say `kUp to the Moon is cast -- 
+  wait 15~
+Sc
+  say `kIf he may know which way to go;
+  say `kFor she guides him smooth or grim
+  say `kSee, brother, see! how graciously
+  say `kShe looketh down on him. 
+  wait 15~
+Sc
+  say `kBut why drives on that ship so fast,
+  say `kWithout or wave or wind? 
+  wait 15~
+Sc
+  say `kThe air is cut away before,
+  say `kAnd closes from behind. 
+  wait 15~
+Sc
+  say `kFly, brother, fly! more high, more high
+  say `kOr we shall be belated:
+  say `kFor slow and slow that ship will go,
+  say `kWhen the Mariner's trance is abated. 
+  wait 15~
+Sc
+  say `kI woke, and we were sailing on
+  say `kAs in a gentle weather:
+  say `k'Twas night, calm night, the Moon was high;
+  say `kThe dead men stood together. 
+  wait 15~
+Sc
+  say `kAll stood together on the deck,
+  say `kFor a charnel-dungeon fitter:
+  say `kAll fixed on me their stony eyes,
+  say `kThat in the Moon did glitter. 
+  wait 15~
+Sc
+  say `kThe pang, the curse, with which they died,
+  say `kHad never passed away:
+  say `kI could not draw my eyes from theirs,
+  say `kNor turn them up to pray. 
+  wait 15~
+Sc
+  say `kAnd now this spell was snapt: once more
+  say `kI viewed the ocean green.
+  say `kAnd looked far forth, yet little saw
+  say `kOf what had else been seen -- 
+  wait 15~
+Sc
+  say `kLike one that on a lonesome road
+  say `kDoth walk in fear and dread,
+  say `kAnd having once turned round walks on,
+  say `kAnd turns no more his head;
+  say `kBecause he knows, a frightful fiend
+  say `kDoth close behind him tread. 
+  wait 15~
+Sc
+  say `kBut soon there breathed a wind on me,
+  say `kNor sound nor motion made:
+  say `kIts path was not upon the sea,
+  say `kIn ripple or in shade. 
+  wait 15~
+Sc
+  say `kIt raised my hair, it fanned my cheek
+  say `kLike a meadow-gale of spring -- 
+  say `kIt mingled strangely with my fears,
+  say `kYet it felt like a welcoming. 
+  wait 15~
+Sc
+  say `kSwiftly, swiftly flew the ship,
+  say `kYet she sailed softly too:
+  say `kSweetly, sweetly blew the breeze -- 
+  say `kOn me alone it blew. 
+  wait 15~
+Sc
+  say `kOh! dream of joy! is this indeed
+  say `kThe light-house top I see?
+  say `kIs this the hill? is this the kirk?
+  say `kIs this mine own countree! 
+  wait 15~
+Sc
+  say `kWe drifted o'er the harbour-bar,
+  say `kAnd I with sobs did pray -- 
+  say `kO let me be awake, my God!
+  say `kOr let me sleep alway. 
+  wait 15~
+Sc
+  say `kThe harbour-bay was clear as glass,
+  say `kSo smoothly it was strewn!
+  say `kAnd on the bay the moonlight lay,
+  say `kAnd the shadow of the moon. 
+  wait 15~
+Sc
+  say `kThe rock shone bright, the kirk no less,
+  say `kThat stands above the rock:
+  say `kThe moonlight steeped in silentness
+  say `kThe steady weathercock. 
+  wait 15~
+Sc
+  say `kAnd the bay was white with silent light,
+  say `kTill rising from the same,
+  say `kFull many shapes, that shadows were,
+  say `kIn crimson colours came. 
+  wait 15~
+Sc
+  say `kA little distance from the prow
+  say `kThose crimson shadows were:
+  say `kI turned my eyes upon the deck -- 
+  say `kOh, Christ! what saw I there! 
+  wait 15~
+Sc
+  say `kEach corse lay flat, lifeless and flat,
+  say `kAnd, by the holy rood!
+  say `kA man all light, a seraph-man,
+  say `kOn every corse there stood. 
+  wait 15~
+Sc
+  say `kThis seraph band, each waved his hand:
+  say `kIt was a heavenly sight!
+  say `kThey stood as signals to the land,
+  say `kEach one a lovely light: 
+  wait 15~
+Sc
+  say `kThis seraph-band, each waved his hand,
+  say `kNo voice did they impart -- 
+  say `kNo voice; but oh! the silence sank
+  say `kLike music on my heart. 
+  wait 15~
+Sc
+  say `kBut soon I heard the dash of oars;
+  say `kI heard the Pilot's cheer;
+  say `kMy head was turned perforce away,
+  say `kAnd I saw a boat appear. 
+  wait 15~
+Sc
+  say `kThe Pilot, and the Pilot's boy,
+  say `kI heard them coming fast:
+  say `kDear Lord in Heaven! it was a joy
+  say `kThe dead men could not blast. 
+  wait 15~
+Sc
+  say `kI saw a third -- I heard his voice:
+  say `kIt is the Hermit good!
+  say `kHe singeth loud his godly hymns
+  say `kThat he makes in the wood.
+  say `kHe'll shrieve my soul, he'll wash away
+  say `kThe Albatross's blood. 
+  wait 15~
+Sc
+  say `kThis Hermit good lives in that wood
+  say `kWhich slopes down to the sea.
+  say `kHow loudly his sweet voice he rears!
+  say `kHe loves to talk with marineres
+  say `kThat come from a far countree. 
+  wait 15~
+Sc
+  say `kHe kneels at morn and noon and eve -- 
+  say `kHe hath a cushion plump:
+  say `kIt is the moss that wholly hides
+  say `kThe rotted old oak-stump. 
+  wait 15~
+Sc
+  say `kThe skiff-boat neared: I heard them talk,
+  say `k"Why this is strange, I trow!
+  say `kWhere are those lights so many and fair,
+  say `kThat signal made but now?" 
+  wait 15~
+Sc
+  say `k"Strange, by my faith!" the Hermit said -- 
+  say `k"And they answered not our cheer!
+  say `kThe planks looked warped! and see those sails,
+  say `kHow thin they are and sere!
+  say `kI never saw aught like to them,
+  say `kUnless perchance it were 
+  wait 15~
+Sc
+  say `k"Brown skeletons of leaves that lag
+  say `kMy forest-brook along;
+  say `kWhen the ivy-tod is heavy with snow,
+  say `kAnd the owlet whoops to the wolf below,
+  say `kThat eats the she-wolf's young." 
+  wait 15~
+Sc
+  say `k"Dear Lord! it hath a fiendish look -- 
+  say `k(The Pilot made reply)
+  say `kI am a-feared" -- "Push on, push on!"
+  say `kSaid the Hermit cheerily. 
+  wait 15~
+Sc
+  say `kThe boat came closer to the ship,
+  say `kBut I nor spake nor stirred;
+  say `kThe boat came close beneath the ship,
+  say `kAnd straight a sound was heard. 
+  wait 15~
+Sc
+  say `kUnder the water it rumbled on,
+  say `kStill louder and more dread:
+  say `kIt reached the ship, it split the bay;
+  say `kThe ship went down like lead. 
+  wait 15~
+Sc
+  say `kStunned by that loud and dreadful sound,
+  say `kWhich sky and ocean smote,
+  say `kLike one that hath been seven days drowned
+  say `kMy body lay afloat;
+  say `kBut swift as dreams, myself I found
+  say `kWithin the Pilot's boat. 
+  wait 15~
+Sc
+  say `kUpon the whirl, where sank the ship,
+  say `kThe boat spun round and round;
+  say `kAnd all was still, save that the hill
+  say `kWas telling of the sound. 
+  wait 15~
+Sc
+  say `kI moved my lips -- the Pilot shrieked
+  say `kAnd fell down in a fit;
+  say `kThe holy Hermit raised his eyes,
+  say `kAnd prayed where he did sit.
+  wait 15~
+Sc
+  say `kI took the oars: the Pilot's boy,
+  say `kWho now doth crazy go,
+  say `kLaughed loud and long, and all the while
+  say `kHis eyes went to and fro.
+  say `k"Ha! ha!" quoth he, "full plain I see,
+  say `kThe Devil knows how to row." 
+  wait 15~
+Sc
+  say `kAnd now, all in my own countree,
+  say `kI stood on the firm land!
+  say `kThe Hermit stepped forth from the boat,
+  say `kAnd scarcely he could stand. 
+  wait 15~
+Sc
+  say `k"O shrieve me, shrieve me, holy man!"
+  say `kThe Hermit crossed his brow.
+  say `k"say `kquick," quoth he, "I bid thee say `k-- 
+  say `kWhat manner of man art thou?" 
+  wait 15~
+Sc
+  say `kForthwith this frame of mine was wrenched
+  say `kWith a woeful agony,
+  say `kWhich forced me to begin my tale;
+  say `kAnd then it left me free. 
+  wait 15~
+Sc
+  say `kSince then, at an uncertain hour,
+  say `kThat agony returns;
+  say `kAnd till my ghastly tale is told,
+  say `kThis heart within me burns. 
+  wait 15~
+Sc
+  say `kI pass, like night, from land to land;
+  say `kI have strange power of speech;
+  say `kThat moment that his face I see,
+  say `kI know the man that must hear me:
+  say `kTo him my tale I teach. 
+  wait 15~
+Sc
+  say `kWhat loud uproar bursts from that door!
+  say `kThe wedding-guests are there:
+  say `kBut in the garden-bower the bride
+  say `kAnd bride-maids singing are:
+  say `kAnd hark the little vesper bell,
+  say `kWhich biddeth me to prayer! 
+  wait 15~
+Sc
+  say `kO Wedding-Guest! this soul hath been
+  say `kAlone on a wide wide sea:
+  say `kSo lonely 'twas, that God himself
+  say `kScarce seemed there to be. 
+  wait 15~
+Sc
+  say `kO sweeter than the marriage-feast,
+  say `k'Tis sweeter far to me,
+  say `kTo walk together to the kirk
+  say `kWith a goodly company! -- 
+  wait 15~
+Sc
+  say `kTo walk together to the kirk,
+  say `kAnd all together pray,
+  say `kWhile each to his great Father bends,
+  say `kOld men, and babes, and loving friends,
+  say `kAnd youths and maidens gay! 
+  wait 15~
+Sc
+  say `kFarewell, farewell! but this I tell
+  say `kTo thee, thou Wedding-Guest!
+  say `kHe prayeth well, who loveth well
+  say `kBoth man and bird and beast. 
+  wait 15~
+Sc
+  say `kHe prayeth best, who loveth best
+  say `kAll things both great and small;
+  say `kFor the dear God who loveth us
+  say `kHe made and loveth all. 
+  wait 15~
+Sc
+  say `kThe Mariner, whose eye is bright,
+  say `kWhose beard with age is hoar,
+  say `kIs gone: and now the Wedding-Guest
+  say `kTurned from the bridegroom's door. 
+  wait 15~
+Sc
+  say `kHe went like one that hath been stunned,
+  say `kAnd is of sense forlorn:
+  say `kA sadder and a wiser man,
+  say `kHe rose the morrow morn. 
+  halt once~
+End
+
+#END

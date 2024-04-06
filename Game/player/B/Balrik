@@ -1,0 +1,963 @@
+#PLAYER
+Name Balrik~
+Id   885048245
+LogF 1136684789
+LogO 1136685219
+Vers 8
+Desc You find yourself face to face with a tall, silver-haired human.  Dressed
+in dignified black, he has the graceful carriage of an elf.  Cloaked in
+darkness you are still able to see many details of his figure.  He has deep
+blue eyes that stand out from the rest of his figure.  He has dark tanned
+skin that goes well with his hair and eye color.  He is slender but very
+well built.  If you try to look at his face closely, you will not make out
+any distinguishing marks, but just the handsome elegance of his innocent
+face.  
+~
+Prom hp %h ma %m mv %v <gld:%g slv:%s>%S<%r(%e)> ~
+Race human~
+Sex  1
+Cla  0
+Cla2  0
+Cla3  0
+Levl 90
+Wants 4
+WTime 999999
+PBKill 9
+MBKill 16
+PHKill 78
+MHKill 1024
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 1947262
+NPlyd 0
+NAge 0
+Bank_Gold 147215
+Bank_Silv 264997
+Email dungman@hotmail.com~
+Referrer ~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 0
+Race_Old -1
+Class_Old -1
+New_Style 0
+Totalxp 844
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+TotalCGL 0
+TotalCGW 0
+MPC 0
+Host PURGED-LD~
+Not  1044541542 1055397327 0 1030925226 1041229828 1081054984 1041396369 0
+Scro 22
+Room 4255
+HMV  1248 1248 1578 1578 506 506
+Hand 1
+Gold 221
+Silv 61
+Exp  396844
+Act  DEFGHa
+Blok -1
+AfBy DFT
+Comm LNOSX
+Com2 A
+Pos  8
+Save  -34
+Alig  750
+Hit   15
+Dam   5
+ACs -67 -69 -73 -72
+Wimp  200
+Attr 18 21 18 18 18 12
+AMod 106 105 0 6 8 0
+Pass BaPNEk6VuDd9A~
+Plan  You think you can kill me? Try me.
+~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  ``        `l<-`e-- `b--`i->`.~
+Pnts 74
+TSex 1
+LLev 300
+Loner 1
+HMVP 956 1563 456
+Cd  -16 -16 46 33 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias oar order all rescue balrik~
+Alias ca cast acid~
+Alias cl cast locate~
+Alias ci cast identify~
+Alias cb cast 'lightning breath'~
+Alias dis cast 'dispel magic'~
+Alias 4 get all.jingle box~
+Alias 5 #5 eat jingle~
+Alias 1 recite par clive~
+Alias f flee~
+Alias 2 recite 2.par clive~
+Sk 88 'armor'
+Sk 100 'acid blast'
+Sk 97 'fireshield'
+Sk 95 'blindness'
+Sk 100 'web'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 97 'cancellation'
+Sk 79 'chain lightning'
+Sk 3 'change sex'
+Sk 100 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'control weather'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 98 'curse'
+Sk 98 'detect hidden'
+Sk 96 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 92 'dispel magic'
+Sk 75 'firestorm'
+Sk 1 'enchant armor'
+Sk 1 'enchant weapon'
+Sk 75 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 99 'fly'
+Sk 1 'floating disc'
+Sk 100 'giant strength'
+Sk 97 'haste'
+Sk 79 'heat metal'
+Sk 95 'identify'
+Sk 1 'infravision'
+Sk 100 'invisibility'
+Sk 80 'mirror'
+Sk 1 'lightning bolt'
+Sk 100 'locate object'
+Sk 1 'magic missile'
+Sk 1 'mass invis'
+Sk 87 'pass door'
+Sk 79 'poison'
+Sk 100 'portal'
+Sk 100 'summon'
+Sk 100 'gate'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 78 'shield'
+Sk 1 'shocking grasp'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 86 'teleport'
+Sk 1 'ventriloquate'
+Sk 93 'weaken'
+Sk 100 'acid breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 97 'aqua breathe'
+Sk 100 'channel electricity'
+Sk 1 'ice beam'
+Sk 76 'electrical charge'
+Sk 1 'dagger'
+Sk 100 'staff'
+Sk 100 'riding'
+Sk 100 'dodge'
+Sk 1 'swimming'
+Sk 1 'throwing'
+Sk 1 'butcher'
+Sk 100 'meditation'
+Sk 100 'fishing'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'scrolls'
+Sk 1 'staves'
+Sk 100 'wands'
+MSk -100 'armor'
+MSk -100 'fireshield'
+MSk -100 'shield'
+MSk -100 'stone skin'
+Affc 'stone skin'   0  67   6 -40  17          0 0 ''
+Affc 'shield'   0  72  14 -20  17          0 0 ''
+Affc 'fly'   0  78   8   0   0     524288 0 ''
+Affc 'giant strength'   0  71   5   4   1          0 0 ''
+Affc 'detect hidden'   0  76   5   0   0         32 0 ''
+Affc 'detect invis'   0  73   5   0   0          8 0 ''
+End
+
+#O
+Vnum 7264
+Nest 0
+ShD  `aThe `hSpirit `aof `hLaw``~
+Desc `hA strange stone floats here.``~
+WearL 65536
+Cost 0
+End
+
+#O
+Vnum 6
+Nest 0
+Name rune convergence tag#derli1~
+WearL 16384
+Cost 0
+End
+
+#O
+Vnum 5319
+Nest 0
+WearL 16
+Cost 14965
+End
+
+#O
+Vnum 11377
+Nest 0
+WearL 2048
+Cost 0
+ExDe belt endera~ This is a belt.
+~
+End
+
+#O
+Vnum 7715
+Nest 0
+WearL 64
+Cost 1500
+End
+
+#O
+Vnum 18971
+Nest 0
+WearL 262144
+Cost 0
+End
+
+#O
+Vnum 18971
+Nest 0
+WearL 2
+Cost 23049
+End
+
+#O
+Vnum 11373
+Nest 0
+ExF 0 16777569
+WearL 524288
+Cost 0
+ExDe necklace gaea~ This necklace will gain you back your health.
+~
+End
+
+#O
+Vnum 11373
+Nest 0
+ExF 0 16777569
+WearL 4
+Cost 0
+ExDe necklace gaea~ This necklace will gain you back your health.
+~
+End
+
+#O
+Vnum 2619
+Nest 0
+ShD  `dA `hWolfbane `dAbraxas``~
+Desc `hA small trinket made from bone and `dwood `hlies here.``~
+ExF 0 262145
+WearL 1048576
+Cost 500000
+End
+
+#O
+Vnum 2619
+Nest 0
+ShD  `dA `hWolfbane `dAbraxas``~
+Desc `hA small trinket made from bone and `dwood `hlies here.``~
+ExF 0 262145
+WearL 4096
+Cost 500000
+End
+
+#O
+Vnum 5335
+Nest 0
+WearL 512
+Cost 34920
+End
+
+#O
+Vnum 5320
+Nest 0
+WearL 32
+Cost 14958
+End
+
+#O
+Vnum 11371
+Nest 0
+ShD  `nThe breastplate of Bluesilver``~
+WearL 8
+Cost 13029
+ExDe breastplate bluesilver~ This is a plate dented out with insignia of a hawk.
+~
+End
+
+#O
+Vnum 4276
+Enchanted
+Nest 0
+ExF 0 262209
+Cond 100
+WearL 128
+Lev  14
+Cost 0
+Affc 'enchant armor'   1  74  -1  -3  17          0 0 ''
+Affc 'reserved'   1  12  -1   5  13          0 0 ''
+Affc 'reserved'   0   0  -1 -25  24          0 0 ''
+End
+
+#O
+Vnum 723
+Nest 0
+WearL 2097152
+Cost 8309
+End
+
+#O
+Vnum 11387
+Nest 0
+ExF 0 17563971
+WearL 131072
+Cost 0
+End
+
+#O
+Vnum 21103
+Nest 0
+Cond 100
+WearL -1
+Cost 10
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of web and dispel magic~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 5 50 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of weaken and acid blast~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 108 2 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of chain lightning and chain lightning~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 17 17 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of chain lightning and chain lightning~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 17 17 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of dispel magic and blindness~
+WearL -1
+Lev  90
+Cost 980
+Vlues  90 50 4 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of dispel magic and blindness~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 50 4 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 3720
+Nest 0
+WearL -1
+Cost 90000
+Vlues  80 10 10 78 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 25264
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25336
+Nest 0
+Name key room~
+ShD  key to Balrik's room~
+Desc A metal key to '`iBalrik's `6Hidden `oSanctuary````' is here.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25335
+Nest 0
+Name key room~
+ShD  key to Balrik's room~
+Desc A metal key to '`iBalrik's `6Hidden `oSanctuary````' is here.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 713
+Nest 0
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 25237
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4097
+Nest 0
+WearL -1
+Cost 21000
+End
+
+#O
+Vnum 713
+Nest 0
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of lightning breath and lightning breath~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of web and blindness~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 5 4 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 18980
+Nest 0
+WearL -1
+Cost 190
+End
+
+#O
+Vnum 5357
+Nest 0
+Name suit armor~
+WearL -1
+Cost 35094
+End
+
+#O
+Vnum 7037
+Nest 0
+ExF 0 16908288
+WearL -1
+Cost 10490
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of channel electricity and channel electricity~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of channel electricity and channel electricity~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 116 116 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 16325
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of detect invis~
+WearL -1
+Lev  58
+Cost 750
+Vlues  47 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 25237
+Nest 1
+Name key room~
+ShD  key to Balrik's room~
+Desc A metal key to '`iBalrik's `6Underground `oSanctuary````' is here.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25084
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25264
+Nest 1
+Name key room~
+ShD  key to Balrik's room~
+Desc A metal key to '`ePassageway to the `eFour Corners of the Realm````' is here.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25264
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25811
+Nest 1
+Name a shot of dwarven spirits~
+ShD  `i`0A shot of dwarven spirits``~
+Desc `iWARNING: `bOnly the stoutest of body can handle this potent brew!``~
+WearL -1
+Cost 1000
+Spell 1 'flamestrike'
+Spell 2 'fireshield'
+End
+
+#O
+Vnum 3195
+Nest 1
+ShD  The Plan of acid blast and acid blast~
+Cond 100
+WearL -1
+Lev  89
+Cost 0
+Vlues  89 2 2 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 722
+Nest 1
+WearL -1
+Cost 8640
+End
+
+#O
+Vnum 25096
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25188
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25188
+Nest 1
+Name key room~
+ShD  key to Flanch's room~
+Desc A metal key to '`bC`lo`bn`lf`bu`ls`bi`lo`bn `lC`be`ln`bt`lr`ba`ll``' is here.~
+ExF 0 8388608
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of teleport~
+ExF 0 8388608
+WearL -1
+Lev  90
+Cost 0
+Vlues  114 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'teleport'
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 713
+Nest 1
+WearL -1
+Cost 1440
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of dispel magic and web~
+WearL -1
+Lev  90
+Cost 9980
+Vlues  90 50 5 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 25104
+Nest 1
+ExF 0 8388608
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25264
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25264
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25335
+Nest 1
+Name key room~
+ShD  key to Balrik's room~
+Desc A metal key to '`iBalrik's `6Hidden `oSanctuary````' is here.~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 25264
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 175
+Nest 1
+Cond 100
+WearL -1
+Cost 0
+ExDe papermsg~ `aGreetings from the Lords of the Castle Dunluce``
+~
+End
+
+#O
+Vnum 4044
+Nest 1
+WearL -1
+Cost 9980
+End
+
+#O
+Vnum 4044
+Nest 1
+WearL -1
+Cost 9980
+End
+
+#RoomRLE   766 1 12 1 463 1 1446 1 1313 2 2 1 34 1 2 3 1 12 14 1 5 6 1 1 1 6 15 6 6 2 5 1 1 1 1 1 17 1 7 1 55 1 26 2 9 3 1075 1 5 1 6226 1 546 1 990 1 5841 2 2 2 13 3 14 2 3 2 1 3 2 2 7 1 72 1 3 2 1 1 3915 1 2053 1 8 1 5 1 113 1 19 1 416 1 172 1 172 1 2 1 39565 -1
+
+#QbitsRLE   999 -1
+
+#END

@@ -1,0 +1,36 @@
+#TRIGGER moves  
+Type 11  
+*Villeh the thief's trigger  
+Sc  
+mfunc %move-to% %rvnum% room  
+if ( %rvnum% == 6260 ) || ( %rvnum% == 6261 )  
+   walkto 6262  
+   halt once~  
+Sc  
+if (%rvnum% == 6262)  
+   cmd emote slams his fists against the big rock.  
+   halt once~  
+Sc  
+getpc %name%  
+if ( %rvnum% == 6263 )  
+   cmd string mob villeh long `cVilleh, the thief, is now a free man.``
+   cmd string mob villeh short Villeh, the free
+   cmd echo Villeh's eyes tears up and he breathes in the crisp night air.  
+   cmd echo Villeh says`a '`kFree at last`a'``  
+   wait 2~   
+Sc  
+   cmd at 1 load obj 6243  
+   cmd echo Villeh says`a '`kHere is a small token of my gratitude`k`a'``  
+   cmd echo Villeh pulls out a piece of paper from a sleeve.  
+   cmd give paper %name%  
+   cmd remove all  
+   cmd drop all  
+   wait 1~  
+Sc  
+   cmd echo Villeh says`a '`kLinden! Here I come!`k`a'``  
+   cmd echo Villeh runs off to the south.  
+   cmd at 1 wizi 92  
+   MOB transfer villeh 1  
+   halt once~  
+End  
+#END

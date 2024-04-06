@@ -1,0 +1,19 @@
+* File: newbieten.scr
+* Mob: Handfish Newbie (vnum 6980)
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+  cmd say `bRAAAaaaWWwwrgh! You've killed me, `h%killer%`b!``
+  cmd say `dBut take my equipment, you have earned it.``
+  cmd pecho %killer% ``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% `hType '`jget all corpse`h' and then '`jwear spirit`h'``
+  cmd pecho %killer% `iC`do`kl`jo`nr`ms`h are fun!
+  cmd pecho %killer% `hType `jhelp colors`h to learn more about them.
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% ``
+  halt once~
+End
+#END

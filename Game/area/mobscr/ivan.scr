@@ -1,0 +1,46 @@
+* File: Ivan.scr
+* Mob: Ivan One-Eye(4112)
+
+#TRIGGER ivan
+Type 2
+Sc
+mfunc %ivan-from% %name% name
+wfunc %bonk% random 0 99
+  say %bonk%
+if ( %bonk% < 10 )
+  emote steps back into the shadows, emerging again from behind you.
+  cmd disarm %name%
+  halt once~
+Sc
+if ( %bonk% > 9 ) && ( %bonk% < 40 )
+* cmd dirt %name%
+  halt once~
+Sc
+if ( %bonk% > 96 )
+  cmd grin %name%
+  pecho %name% Ivan quickly steps around you and burries his blade between your shoulders.
+  mfunc %ivan-from% %heh% hit
+  msign %ivan-from% 25 hit
+  halt once~
+End
+
+#TRIGGER Tick
+Type 3
+Sc
+wfunc %rndnum% random 0 10
+if (%rndnum% == 0)
+    emote coats his blade with a nasty substance taken from a pouch on his belt.
+    cmd envenom dagger
+    halt once~
+Sc
+if (%rndnum% == 1)
+    emote looks around the room with shifty eyes.
+    cmd scan
+    halt once~
+Sc
+if (%rndnum% == 2)
+    cmd get all
+    halt once~
+End
+
+#END

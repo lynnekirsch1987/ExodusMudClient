@@ -1,0 +1,95 @@
+BUILD
+Syntax: build <direction>
+Syntax: build
+
+
+   The build command allows you to build your own room within the realms of
+Exodus.  Rooms do not come cheap and they cannot be built everywhere.
+If you wish to build your own room, you must acquire enough money to buy
+the room, and must find a suitable development area in which to stake
+your claim.  Once you find this area, you can use the build command with
+a directional argument to build your room in that direction from the
+current room.
+
+   Your room starts out in a very minimal, bare state.  In order to customize
+the room to your tastes, you should enter the room and type the build command
+again, without any arguments.  This will put you into a build menu that
+allows you to easily and quickly change your room to match your tastes,
+assuming you can afford the changes.  The prices for each change will be
+listed on the build menu.
+
+   The main building menu presents you with six choices:
+
+     (1) Remodel your room    : Allows you to change the description of you
+                                room, so that players see a different message
+                                when they 'look' in your room.
+
+     (2) Rename your room     : Allows you to change the name of your room 
+                                that appears above your room description when
+                                players type 'look' in your room.
+
+     (3) Edit room flags      : Allows you to add or remove special flags
+                                in your room.
+   
+     (4) Edit room keywords   : Allows you to create and remove special room
+                                keywords, so that when players type 
+                                'look <keyword>' in your room, they see the
+                                description you supplied.
+
+     (5) Edit room doors/keys : Allows you to create or remove doors and keys
+                                from your room, to limit access.
+
+     (6) Exit building menu   : Exits the building menu and brings you back
+                                to the main exodus prompt.
+
+
+   If you choose the remodeling room option, you will be placed into a
+small text editor that you can use to enter the new description of your room.
+When you are finished, you should type the '@' key and hit return on an
+otherwise blank line.
+
+   If you choose the rename room option, you will be prompted for the new
+room name.  Enter it carefully, as the line you enter will become your new
+room name unless you choose to buy a new one.
+
+   If you choose the edit room flags option, you will be placed in a submenu
+that allows you to easily add and remove flags.  To add a flag, simply
+type 'A' followed by the number of the room flag to add (shown on the menu)
+and return.  If you have enough money to buy the room flag, it will be
+added to your room.  If you change your mind, you can delete flags you have
+added by selecting '2' followed by the number of the room flag to remove
+(also shown on the menu) and return.  You may leave this submenu and go back
+to the main menu by typing '3' followed by return.  The flags available
+for adding to your room include: Room is dark (the room is always dark,
+those without light sources cannot see inside it), No Mobs Allowed (mobs
+cannot enter your room), Room is Private (only two people may be in your
+room at one time), No Mounts Allowed (no mounted mobibles will be allowed
+in your room), Room is Indoors (the room is indoors and its inside will
+not be affected by the weather or time of day).
+
+   If you choose the edit keyword option, you will be placed in a submenu
+that allows you to add and remove keywords.  To add a keyword, select
+'1' at this menu.  You will be prompted for the keyword name and for
+the description that should be shown when this keyword is looked at.
+If you later change your mind, you can use the '2' option at this menu
+to delete the keyword.  You may leave this submenu and go back to the main
+menu by typing '3' followed by return.
+
+
+  If you choose the doors/key edit option, you will be placed in a submenu
+that allows you to add and remove doors and keys.  To add a lockable door
+to your room, select '1' followed the the letter for the room direction
+(supplied on the menu) and return.  The door will be created for you.  
+If you change your mind and wish to delete a door, select '2' at this menu
+followed by the letter for the room direction and return.  If you want to
+make a single key for a door you have created, to limit access to your
+room, select '3' at this menu.  You may leave this submenu and go back to
+the manu menu by typing '4' followed by return.
+
+  You may leave the build menu and return to the normal exodus prompt by
+typing '6' at the main menu.
+
+
+
+** CLAN STUFF: ?? UH DUNNO ??
+

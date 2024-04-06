@@ -1,0 +1,33 @@
+* File: Drow1.scr
+* Mob: Drow Elite Bodyguard (mob 5123)
+* NOTE: This is part of a larger Thesden Invasion event
+
+#TRIGGER start
+Type 8
+Sc
+chobj self %shield% 12234
+if (%start-arg% cmp "start" && %shield% == 0)
+  cmd load obj 12233
+  cmd wear breast
+  cmd load obj 12234
+  cmd wear shield
+  cmd load obj 12235
+  cmd wield longsword
+  halt triggers~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+  walkto 4177
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+  walkto 4177
+  halt once~
+End
+
+#END

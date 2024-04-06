@@ -1,0 +1,118 @@
+* Alden
+* mob vnum 9675
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %race% race
+mfunc %enter-from% %name% name
+if ( %race% == 1 )
+   jump 8~
+Sc
+if ( %race% == 2 )
+   jump 8~
+Sc
+if ( %race% == 3 )
+   jump 8~
+Sc
+if ( %race% == 4 )
+   jump 8~
+Sc 
+if ( %race% == 5 )
+   jump 8~
+Sc 
+if ( %race% == 6 )
+   jump 8~
+Sc 
+if ( %race% == 7 )
+   jump 8~
+Sc
+   halt once~
+Sc
+   wait 6~
+Sc
+   emote looks up at you, and gets a toothless grin across his face.
+   wait 2~
+Sc
+   say So another comes to fight me for the title of Hero.
+   wait 3~
+Sc
+   emote looks at you critically.
+   wait 4~
+Sc
+   say You do not look the Hero type to me...
+   wait 3~
+Sc
+   emote shows you another toothless grin.
+   wait 4~
+Sc
+   say I will crush you quickly, small one.
+   wait 2~
+Sc
+   kill %name%
+   halt once~
+
+End
+#TRIGGER winner
+Type 2
+Sc
+mfunc self %condition% hit
+if (%condition% < 1000)
+   echo Alden is DEAD!!
+   echo You receive 45 experience points.
+   echo Alden's chilling death cry sends a shiver up your spine.
+   cmd peace
+   cmd restore alden
+   wait 3~
+Sc
+if (%condition% < 1000)
+   emote stands up, brushes himself off, and looks at you.
+   wait 4~
+Sc
+if (%condition% < 1000)
+   say So it seems that indeed you are worthy of the title Hero.
+   wait 5~
+Sc
+if (%condition% < 1000)
+   emote shakes your hand.
+   wait 2~
+Sc
+if (%condition% < 1000)
+   say Congratulations! You have bested me in combat and you are a worthy advesary.
+   wait 3~
+Sc
+if (%condition% < 1000)
+   emote shows you yet another toothless grin.
+   wait 60~
+Sc
+if (%condition% < 1000)
+   say Now go claim your title, before I change my mind and give you a lesson you will not soon forget.
+   wait 30~
+Sc
+if (%condition% < 1000)
+   say What are you waiting for! You've won. Now leave an old man in peace.
+   wait 15~
+Sc
+if (%condition% < 1000)
+   say I told you to get out!
+   wait 2~
+Sc
+if (%condition% < 1000)
+   push %name% south
+   wait 10~
+Sc
+if (%condition% < 1000)
+   sigh
+   wait 2~
+Sc
+if (%condition% < 1000)
+   say I warned you...
+   wait 3~
+Sc
+if (%condition% < 1000)
+   slay %name%
+   halt once~
+
+End
+
+#END

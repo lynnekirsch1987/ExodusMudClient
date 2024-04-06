@@ -1,0 +1,6730 @@
+#AREA
+ 6~
+cove.are~
+`lCove``~
+{ 1 50} Damian  `lCove``~
+~
+700 799
+10 0 0
+0 0
+~
+#MOBILES
+#700
+rainbow fish trout~
+A rainbow trout~
+A rainbow colored fish swims quickly through the water here.
+~
+Light glints beautifully off its scales as it glides gracefully through
+the water.  Its tail moves gently back and forth to guide it, and its gills
+move in and out in pulsating waves, physical evidence that the fish still
+breathes (You could probably have assumed this fact anyway).  
+~
+snake~
+0 0 0 0
+ABG be 0 0
+5 5 5d5+2 0d0+0 1d3+2 suction
+0 0 0 999 0
+0 -1 F 0 LR I
+stand stand none 0
+AGWXYbc ACDEFHKLPQVXa 7 7 7 7 7 7 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#701
+fish silver back silverback~
+A silverback fish~
+A silver backed fish swims quickly through the water.
+~
+THis fish glints with the brightest flashes of silver as it streaks
+through the clear, crisp water with a subtle swish of its tail.  
+~
+snake~
+0 0 0 0
+AB be 0 0
+5 5 5d5+2 0d0+0 1d3+1 suction
+0 0 0 999 0
+0 -1 F 0 LR I
+stand stand none 0
+AGWXYbc ACDEFHKLPQVXa 7 7 7 7 7 7 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#702
+dockworker dock worker man robed~
+A robed dockworker~
+A robed dockworker moves carefully about the docks here.
+~
+~
+human~
+0 0 0 0
+AB P 0 0
+20 20 20d10+10 0d0+0 8d1+5 punch
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand male 15
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#703
+robed villager~
+A robed villager~
+A villager walks pensively here, face hidden by his brown robes.
+~
+~
+human~
+0 0 0 0
+A NOW 0 0
+45 45 10d20+5 0d0+0 4d2+3 wrath
+0 0 0 999 0
+0 -1 KU 0 0 0
+stand stand none 3
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#704
+silent villager~
+A silent villager~
+A villager stands here silently, regarding you quizzically.
+~
+The villager seems very in place here, at one with the silence and
+whirlwind of emotions that pass through the air and the streets of Cove. 
+His demeanor of silence is not unusual in this environment, as it would be
+in another time or place.  
+~
+human~
+0 0 0 0
+AB NOW 0 0
+10 10 10d20+5 0d0+0 4d2+4 wrath
+0 0 0 999 0
+0 -1 KU 0 0 0
+stand stand none 3
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#705
+seeress~
+The seeress~
+The seeress of Cove sits here, mumbling unintelligibly.
+~
+The wrinkles on her face and hands betray the age that was undeterminable
+simply by looking into her eyes.  Deep blue pools of radiance gaze out from
+those pale sockets, penetrating and fixating you at the same time.  Her hair
+has been tightly pulled back over her head with a thin, purple sash, its
+color matching the robes that float heavily over her body.  
+~
+human~
+0 0 0 0
+ABG DEFH 0 0
+50 50 50d20+1000 0d0+0 10d2+30 slap
+-15 -15 -15 999 -15
+0 -1 FK 0 C 0
+stand stand female 200
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#706
+swarthy fisherman~
+A swarthy fisherman~
+A swarthy fisherman walks slowly through the streets here.
+~
+You are surprised when this man makes eye contact with you, unlike most
+of the other citizens of this small village.  His eyes glint a deep dark
+blue, blue that matches the waters where he plies his trade.  Bulging
+muscles jut out from underneath the trimming on his tunic, naturally toned
+from many hours of work on the ships and on the lines.  
+~
+human~
+0 0 0 0
+AG 0 100 0
+15 15 15d10+30 0d0+0 1d3+4 punch
+0 0 0 999 0
+0 -1 CFK 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#707
+sick child~
+A sick child~
+A child lies in a heap here, obviously sick and shivering.
+~
+His hair is matted against his forehead, a tribute to the battle that
+rages in his insides, a battle against the one thing that most people fear,
+not death or loss from battle, but the insideous clutches of a disease that
+eats at your innards, convulsing them into a bloody pulp that shows
+externally only as a series of faint bruises.  
+~
+human~
+0 0 0 0
+ABG X 200 0
+5 5 5d20+5 0d0+0 1d3+3 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#708
+woodland squirrel~
+A woodland squirrel~
+A woodland squirrel has wandered into town here.
+~
+Hair bristles up the back of this little furry animal, a little thing
+that seems to have gotten lost somewhere during the course of its
+wanderings.  It looks cautiously at you with its beady black eyes, curiosity
+obviously overcoming his desire to run away.  
+~
+rabbit~
+0 0 0 0
+AGW F 0 0
+3 3 3d10+4 0d0+0 1d2+2 bite
+10 10 10 999 10
+0 -1 FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKUVa 6 6 6 6 6 6 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#709
+silent bird~
+A silent bird~
+A silent bird sits on the tree branches here, pensively mute.
+~
+~
+song bird~
+0 0 0 0
+ABG T 100 0
+3 3 3d5+5 0d0+0 0d0+0 peck
+5 5 5 999 5
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#710
+meditative man~
+A meditative man~
+A man sits on the ground cross legged, lost in his own reverie.
+~
+The faintest shade of today's facial hair growth is evident along this
+man's gaunt chin and cheeks, tight skin that is pulled taut over the bones
+of his skull.  In fact, you can see just how skinny this man is by the loose
+way his clothes hang on his body.  His eyes seem glazed over with that
+distant stare of one who does not live in the present, you wonder if perhaps
+his man has forgotten to eat at some point in his sad existence.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+10 10 10d15+5 0d0+0 0d0+0 none
+10 10 10 999 10
+0 -1 I 0 0 0
+sit stand male 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#711
+three tail spinner~
+A three tail spinner~
+A curious fish with three spindly tails swims gracefully here.
+~
+Light flashes off this fish's gills and scales as it glides effortlessly
+through the water, using its three tails for balance, and propulsion.  Like
+most fish, it does not appear to be very intelligent, its black beady eyes
+glazed over in the depths of the water.  
+~
+snake~
+0 0 0 0
+A be 0 0
+5 5 5d5+2 0d0+0 1d3+1 suction
+0 0 0 999 0
+0 -1 F 0 LR I
+stand stand none 0
+AGWXYbc ACDEFHKLPQVXa 7 7 7 7 7 7 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#712
+seeker truth~
+The Seeker~
+The Seeker of Truth stands here, resplendent in its fine robes.
+~
+Long flowing whiskers frame his old and wizened face, giving him the look
+of age old perfection and virtue.  On second thought however, you realize
+that the Seeker may not be a man after all, on third thought, you realize
+you have no chance in hell of determining its sex, short of feeling its
+crotch.  In any case, he exudes virtue, and you cannot help but feel guilty
+at his presence.  
+~
+human~
+0 0 0 0
+ABG DFHV 0 0
+50 50 50d100+100 0d0+0 10d5+20 wrath
+0 0 0 999 0
+0 -1 0 C D 0
+stand stand neutral 2000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#713
+penitent man~
+A penitent man~
+A penitent man lies prone on the ground here, praying.
+~
+His form fades in and out, solid then transparent.  It is almost as if
+this man is on the cusp of the world, his existence in the balance.  It also
+may be his ascendence into a higher plane, as you have heard avatars advance
+to.  In any case, he is ethereal in appearance, and frankly, it's a little
+frightening.  
+~
+human~
+0 0 0 0
+ABGQ DFU 1000 0
+35 35 80d20+10 100d20+100 5d5+10 divine
+-5 -5 -5 999 -5
+0 -1 F G BG 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#714
+wild novena bird~
+Wild novena bird~
+A wild novena bird sits in the treetops here, chirping madly.
+~
+It chirps madly and with reckless abandon, a seemingly insane look on its
+blue and red striped face.  It is difficult to determine just why you think
+this bird has lost its marbled, but it just doesn't seem right, it's a
+little too frisky.  
+~
+song bird~
+0 0 0 0
+ABFG T 100 0
+3 3 3d5+5 0d0+0 0d0+0 peck
+5 5 5 999 5
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#715
+shadra alchemist~
+Shadra~
+Shadra the wizened alchemist of Cove waits patiently here.
+~
+Her wrinkled face looks back at you with tistase as she mixes her herbs
+and other foreign substances.  Although she appears dour and quite
+unintelligible, you have the feeling that she possesses great intelligence. 
+~
+human~
+0 0 0 0
+ABG DF 0 0
+50 50 50d20+10 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 C B 0
+stand stand female 5000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#716
+patric man~
+Patric~
+Patric the master crystal artist of Cove sits behind the counter here.
+~
+He is a short man, facial hair hanging roughly over his face.  His
+features are indelicate to say the least, but as you watch him work, you
+realize the brilliant elegance of his fingers, of his arms, and the way he
+molds crystals into the forms that he desires.  He looks up quietly, smiles
+warmly, and goes back to work.  
+~
+human~
+0 0 0 0
+ABG 0 0 0
+50 50 50d100+50 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 C 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#717
+mockingbird mocking bird~
+A mockingbird~
+A mockingbird flits to and fro, singing merrily.
+~
+~
+song bird~
+0 0 0 0
+AG T 100 0
+3 3 3d5+5 0d0+0 0d0+0 peck
+5 5 5 999 5
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#718
+wild lady woman~
+A Lady of the Wild~
+A woman clad in white floats serenely over the water here.
+~
+Her diaphanous clothes flow over her body gently as she stands quietly in
+the center of the lake.  She seems to float, to dance and flicker over the
+slightly rippling surface, oblivious of all that she sees around her. 
+Except you of course, who she smiles at benevolently.  
+~
+human~
+0 0 0 0
+ABGT DFHTVb 1000 0
+60 60 250d20+200 100d20+10 5d5+30 none
+0 0 0 999 0
+0 -1 AFK 0 CD 0
+stand stand female 0
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+5
+wildlady~
+~
+#719
+atsu scribe~
+Atsu~
+Atsu, master scribe of Cove sits at his desk writing.
+~
+His back is hunched over from countless years of sitting at his desk, yet
+his eyes seem focused, and more importantly, intelligent.  His stares up at
+you from beneath his droopy eyelids and bushy eyebrows, his wizened face
+frowns for a moment, then brightens when he hears the jingle of coins in
+your pocket.  
+~
+human~
+0 0 0 0
+ABG 0 0 0
+50 50 100d30+1 100d30+1 30d14+50 none
+0 0 0 999 0
+0 -1 0 BC 0 0
+sit sit male 5000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#720
+wise man one~
+A Wise One~
+An elder wise one steps out of the diamond shaped light.
+~
+A beard graces this wizened man's face, long and flowing white that
+reaches down to his waist.  His benevolent smile does not say much about
+him, except that over the years, not even wisdom can preserve teeth without
+proper dental hygiene.  
+~
+human~
+0 0 0 0
+ABGT DFNTV 1000 0
+50 50 50d40+1000 100d100+100 6d6+25 slap
+-5 -5 -5 999 -5
+0 -1 FK 0 C 0
+stand stand male 50
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#721
+argent shipwright~
+Argent~
+Argent, the shipwright of Cove, stands here haughtily.
+~
+A big burly man stands in front of you, tattoos dotting his rippling arms
+and otherwise strong body.  A light growth of beard covers his chin,
+covering the acne problems that he has had most of his life.  However, you
+see that he has a keen eye for boats, as he expertly lashes together pieces
+of wood with polished reed in order to form a rudimentary but practical
+raft.  
+~
+human~
+0 0 0 0
+ABG 0 0 0
+50 50 50d10+50 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#722
+glittering blue dragon~
+A glittering blue dragon~
+A serpentine, glittering blue dragon eyes you hungrily.
+~
+It glares at you with menacing eyes, slightly slanted gold eyes placed
+just above facial whiskers that almost make the dragon look wise.  His body
+curls all about the chamber, a long thin snakelike thing that is covered in
+shiny blue scales.  The glittering obviously comes from the multitude of
+gems that are encrusted within those scales.  
+~
+dragon~
+0 0 0 0
+ABFGT DFHJOTV -1000 0
+55 55 1500d2+500 100d20+1000 9d9+20 none
+-10 -10 -10 999 -2
+0 -1 CFHKVW BL BEH FIS
+stand stand none 10000
+ABGHZ ACDEFGHIJKPQUVXa 17 17 17 17 17 17 0
+giant oldstyle~
+0 0 0 100
+0
+~
+~
+#723
+glittering bronze dragon~
+A glittering bronze dragon~
+An ancient, glittering bronze dragon glares at you here.
+~
+It glares at you with menacing eyes, slightly slanted gold eyes placed
+just above facial whiskers that almost make the dragon look wise.  His body
+curls all about the chamber, a long thin snakelike thing that is covered in
+shiny bronze scales.  The glittering obviously comes from the multitude of
+gems that are encrusted within those scales.  
+~
+wyvern~
+0 0 0 0
+ABFGT DFHNTV 1000 0
+55 55 1500d2+500 100d20+1000 9d9+9 none
+-10 -10 -10 999 -2
+0 -1 CFHKVW BL 0 IS
+stand stand none 10000
+ABGZ ACDEFHJKQVXa 17 17 17 17 17 17 0
+giant oldstyle~
+0 0 0 100
+0
+~
+~
+#724
+fawn deer~
+A fawn~
+A beautiful liquid-eyed fawn grazes here.
+~
+Small white spots dot this beautiful deer's back, her antlerless head
+perfectly created.  It is small and cute though, it looks at you with an
+innocence bred by years of easy life.  
+~
+bear~
+0 0 0 0
+AG 0 0 2
+10 10 10d20+10 0d0+0 3d3+2 none
+5 5 5 999 5
+0 -1 DEFOU 0 EI 0
+stand stand none 0
+AGNV ABCDEFHJKUVa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#725
+doe deer~
+A doe~
+A proud necked doe stands here with her family.
+~
+If you were a deer, you would be all over this gorgeously constructed
+doe.  Beautiful eyes and fine rippling muscles underneath its perfectly made
+skin make it the virtual paragon of all does, beautiful and innocent in this
+land of Cove.  
+~
+bear~
+0 0 0 0
+AG 0 0 2
+20 20 20d20+20 0d0+0 5d3+6 none
+0 0 0 999 0
+0 -1 DEFLOU 0 EI 0
+stand stand female 0
+AGNV ABCDEFHJKUVa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#726
+powerful deer~
+An antlered deer~
+A gracefully powerful deer stands here.
+~
+Majestic is the only word you can use to describe this antlered deer. 
+His antlers form a basket of bone above its head, reaching high up above him
+in this primordial salute to the powers that be.  He looks rather
+defensively at you, his rippling muscles tensing in the event that you
+attack his family.  
+~
+bear~
+0 0 0 0
+AG 0 0 2
+25 25 25d12+20 0d0+0 5d5+1 none
+-1 -1 -1 999 -1
+0 -1 DEFLOUV 0 EI 0
+stand stand male 0
+AGNV ABCDEFHJKUVa 11 11 11 11 11 11 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#727
+beam red light~
+A beam of red light~
+A beam of red light flashes towards you here.
+~
+Pure brilliance of red fire flares back into your eyes.  You cannot stare
+into its depths for very much longer, lest you find yourself blind, and
+saneless.  
+~
+human~
+0 0 0 0
+AB DFV 0 0
+40 40 40d10+100 0d0+0 0d0+0 none
+-15 -15 -15 999 0
+0 -1 F S 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#728
+beam orange light~
+A beam of orange light~
+A beam of orange light flashes towards you here.
+~
+At first you are reminded of a fruit, but that is probably just because
+of the sheer power of the orange color.  There is nothing citrusy about the
+light though: it is a burning, tearing orange harsher than an acid.  The
+closest comparison is to the brilliant feathers of a delila bird.  
+~
+human~
+0 0 0 0
+AB DFV 0 0
+40 40 40d10+100 0d0+0 0d0+0 none
+-15 -15 -15 999 0
+0 -1 F S 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#729
+beam yellow light~
+A beam of yellow light~
+A beam of yellow light flashes towards you here.
+~
+Yellow is the color of the sun, the color of the imaginary sunflowers
+that sprout in your imaginary ravings, the color your imaginary friend wears
+and the color of the dots that you try to blink out of your eyes as you look
+into the LIGHT.  
+~
+human~
+0 0 0 0
+AB DFV 0 0
+40 40 40d10+100 0d0+0 0d0+0 none
+-15 -15 -15 999 0
+0 -1 F S 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#730
+beam blue light~
+A beam of blue light~
+A beam of blue light flashes through the air here.
+~
+Blue as the deepest ocean, but blazing with the intensity of a hundred
+katsi bug lanterns that have been placed about like the Festival of Moons. 
+It is amazing, brilliant, a beautiful sight to behold.  Unfortunately, it is
+making you blind, so you had better look away soon.  
+~
+human~
+0 0 0 0
+AB DFV 0 0
+40 40 40d10+100 0d0+0 0d0+0 none
+-15 -15 -15 999 0
+0 -1 F S 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#731
+beam green light~
+A beam of green light~
+A beam of green light flashes at you here.
+~
+Although you have seen green seeded deeply in evil before, this light
+transcends your previous experiences.  It is a disgusting green, sewage-like
+impurity assaulting your senses.  Your stomach roils in disgust.  
+~
+human~
+0 0 0 0
+AB DFV 0 0
+40 40 40d10+100 0d0+0 0d0+0 none
+-15 -15 -15 999 0
+0 -1 F S 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#732
+beam indigo light~
+A beam of indigo light~
+A beam of indigo light streaks through the air here.
+~
+Previously, indigo was always an amorphous idea - a shade, indeterminate,
+between blue and purple without being truly either.  Indigo was always the
+amorphous area between right and wrong, shade but neither shadow nor light. 
+Now, however, in the scintillating glare of this room, you know indigo.  The
+light is so bright, it seems to burn through your eyelids, etching the color
+on your eyes, and certainly not soothing your offended ocular nerves.  
+~
+human~
+0 0 0 0
+AB DFV 0 0
+40 40 40d10+100 0d0+0 0d0+0 none
+-15 -15 -15 999 0
+0 -1 F S 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#733
+beam violet light~
+A beam of violet light~
+A beam of violet light flashes towards you here.
+~
+It's purple!  Why does everyone call it violet?  It's passionate, pouty
+purple light, brighter than even the most flowery and lurid of purple prose.
+The light pulsates with a life that you might previously have assumed was
+reserved for corporeal beings.  
+~
+human~
+0 0 0 0
+AB DFV 0 0
+40 40 40d10+100 0d0+0 0d0+0 none
+-15 -15 -15 999 0
+0 -1 F S 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#734
+fruit seller fruitseller man ~
+The fruitseller~
+A man in a brightly flowered tunic offers sell you some fruit, almost free!
+~
+~
+human~
+0 0 0 0
+ABGV DFZ 0 0
+0 0 100d100+10 100d100+3 0d0+0 none
+0 0 0 999 0
+0 -1 0 C 0 0
+stand stand male 120000
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#735
+three striped tern~
+A three striped tern~
+A three striped tern is perched on a branch high overhead.
+~
+~
+song bird~
+0 0 0 0
+ABG T 100 0
+3 3 3d5+5 0d0+0 0d0+0 peck
+5 5 5 999 5
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#736
+jin bird spotted~
+A spotted jin bird~
+A spotted jin bird flutters in the air here.
+~
+~
+song bird~
+0 0 0 0
+ABG T 100 0
+3 3 3d5+5 0d0+0 0d0+0 peck
+5 5 5 999 5
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#737
+tinseled moth bird mothbird~
+A tinseled mothbird~
+A tinseled mothbird hovers happily in the air here.
+~
+~
+song bird~
+0 0 0 0
+ABG T 100 0
+3 3 3d5+5 0d0+0 0d0+0 peck
+5 5 5 999 5
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#738
+hermit man cove~
+The Hermit of Cove~
+A hunch backed old man sits here reading.
+~
+His back hunched over permanently from too many years of reading, this
+eyes squinted from the lack of light.  He doesn't look like a very imposing
+figure.  Grey hair that has more than halfway fallen out, baggy skin that
+begs to be tucked in.  He is a veritable mess, soggy and old.  
+~
+human~
+0 0 0 0
+ABT DFHV 0 0
+45 45 45d20+500 100d100+100 10d3+30 none
+-10 -10 -10 999 -5
+0 -1 FK 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#739
+chill fish~
+A chill fish~
+A silver scaled chill fish glids through the water here.
+~
+Light glints beautifully off its scales as it glides gracefully through
+the water.  Its tail moves gently back and forth to guide it, and its gills
+move in and out in pulsating waves, physical evidence that the fish still
+breathes (You could probably have assumed this fact anyway).  
+~
+snake~
+0 0 0 0
+ABG be 0 0
+5 5 5d5+2 0d0+0 1d3+1 suction
+0 0 0 999 0
+0 -1 F 0 LR I
+stand stand none 0
+AGWXYbc ACDEFHKLPQVXa 7 7 7 7 7 7 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#740
+quiet soul villager~
+A quiet soul~
+The quiet soul of a villager paces the village here.
+~
+~
+human~
+0 0 0 0
+A NOW 0 0
+10 10 10d20+5 0d0+0 4d2+4 wrath
+0 0 0 999 0
+0 -1 KU 0 0 0
+stand stand none 3
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#700
+well~
+the chapel well~
+A well made of perfectly cut granite sits in the center of the circle.~
+stone~
+0
+fountain 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#701
+tree~
+tree~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n checks his footing and climbs swiftly up the tree.~
+You check your footing and climb up into the tree.~
+$n pulls $mself into the tree.~
+~
+-1 0 G CDEFGHJ C
+0
+0
+1 0 0 P
+#702
+tree~
+tree~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n clambers quickly down the tree trunk.~
+You quickly make your way out of the tree.~
+$n climbs out of the foliage of the tree.~
+~
+-1 0 G ABEFGHJ E
+0
+0
+1 0 0 P
+#703
+window~
+a stained glass window~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n crashes through a stained glass window!~
+You crash through the stained glass window!~
+~
+~
+-1 0 G ACDFGHJ A
+0
+0
+0 0 0 P
+#704
+rafters~
+wooden rafters~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n grunts and clambers up the wooden rafters.~
+You clamber up the wooden rafter beams.~
+$n heaves and pushes $mself over the last rafter.~
+~
+-1 0 G ABCEFGHJ C
+0
+0
+0 0 0 P
+#705
+rafters~
+wooden rafters~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n carefully lowers $mself down to the chapel.~
+You carefully lower yourself back down to the chapel.~
+$n drops with a thud from the rafters above.~
+~
+-1 0 G DFGHJ E
+0
+0
+0 0 0 P
+#706
+iron chest~
+an iron chest~
+An iron chest sits quietly in the corner of the loft.~
+iron~
+0
+container 2
+R
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CEFGHI ACD 0 CEFGHI 0
+0
+0
+0 0 0 P
+#707
+winespring well~
+a winespring well~
+A winespring well covered with ivy, bubbles gently in the chapel.~
+marble~
+0
+drink 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+FJKLO FJKLO B 0 0
+0
+0
+0 0 0 P
+#708
+straw mat bed~
+a straw mat bed~
+A bed made from mats of woven straw sits in the corner here.~
+unknown~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A EIJKN 0 ACDEFG ACDEFG
+0
+0
+0 0 0 P
+#709
+royal blue robe~
+a royal blue robe~
+A royal blue shimmers uncontrollably on the ground.~
+energy~
+0
+clothing 2
+AIS
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 1 100 P
+A
+12 20
+A
+3 2
+A
+4 2
+#710
+tin root~
+tin root~
+A bright twisted piece of root lies on the ground here.~
+tin~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BCDE 'bless' -1 -1 -1 0
+0
+29 3 750 P
+#711
+persimmon seed~
+a persimmon seed~
+A small, orange seed has been left here.~
+wood~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+DF 'protection evil' -1 -1 -1 0
+0
+19 2 700 P
+#712
+springtine stem~
+a springtine stem~
+A sprout of springtine stem has been discarded carelessly here.~
+bamboo~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BCDE 'cure critical' 'create rose' -1 -1 0
+0
+19 0 900 P
+#713
+jinglebug bark~
+`jJin`cgleBug B`jark``~
+A small shred of jinglebug bark lies on the ground here.~
+softwood~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BEF 'heal' 'sleep' -1 -1 0
+0
+19 2 1800 P
+#714
+water lils~
+water lils~
+A single pad of water lils has been left here.~
+paper~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ADE 'heavenly cloak' -1 -1 -1 0
+0
+19 0 7777 P
+#715
+golden fern frond~
+a golden fern frond~
+A golden fern frond has been dropped here.~
+feather~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DF 'levitation' 'invisibility' -1 -1 0
+0
+30 1 9000 P
+#716
+deep water flask~
+deep water~
+A flask of midnight blue water has been left here.~
+glass~
+0
+potion 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF 'aqua breathe' -1 -1 -1 0
+0
+30 3 3600 P
+#717
+dragon placenta~
+dragon placenta~
+A dragon's still pulsing placenta has been dropped here.~
+unknown~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AG 'fireshield' 'stone skin' -1 -1 0
+0
+35 5 26490 P
+#718
+geza saliva~
+geza saliva~
+Some saliva drips all over the place.~
+water~
+0
+potion 2
+SU
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+DF 'acid breath' 'plague' -1 -1 0
+0
+30 1 550 P
+#719
+abalone leaf~
+an abalone leaf~
+A leaf from the abalone tree has fallen to the ground here.~
+unknown~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BCDE 'detect invis' -1 -1 -1 0
+0
+20 1 1000 P
+#720
+star crested amethyst~
+`fa star crested amethyst``~
+`hA star shaped `fpurple `hgemstone lies on the ground here.``~
+diamond~
+0
+light 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+19 3 5000 P
+A
+18 2
+#721
+emerald swan figurine~
+an emerald swan figurine~
+~
+diamond~
+0
+light 2
+BS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+19 0 8000 P
+A
+17 -3
+A
+18 1
+#722
+amber orb~
+an amber orb~
+An orb made from pure amber has been left here.~
+quartz~
+0
+light 2
+AS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+45 3 12000 P
+A
+18 1
+A
+19 1
+#723
+sapphire moon~
+`ea sapphire moon``~
+`hA tiny `esapphire `hmoon gem lies on the ground here.``~
+diamond~
+0
+light 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+20 3 8309 P
+A
+3 2
+A
+17 -2
+#724
+pink quartz block~
+a pink quartz block~
+A hunk of pink quartz has been left here.~
+quartz~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+DF AC AC DEF 'reserved'
+0
+0
+19 3 1100 P
+#725
+bloodstone tickler~
+a bloodstone tickler~
+An unusual black and red rock has been dropped here.~
+unknown~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+ACDF C C ACDEF 'reserved'
+0
+0
+19 2 2200 P
+#726
+diamond capsulet~
+a diamond capsulet~
+A beautiful diamond cut has been carelessly left here.~
+diamond~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DF BC BC CDF 'reserved'
+0
+0
+30 3 2500 P
+#727
+ruby diamede~
+a ruby diamede~
+A ruby diamede has been carelessly left on the ground here.~
+diamond~
+0
+key 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+19 2 2000 P
+A
+1 1
+A
+2 2
+#728
+babbling brook stream water~
+a babbling brook~
+A babbling brook of the clearest water runs through the ravine here.~
+unknown~
+0
+fountain 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 0 P
+#729
+petrified root sword~
+a petrified root sword~
+A sword made from petrified tree roots lies on the ground here.~
+wood~
+0
+key 2
+T
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 15 0 P
+A
+4 1
+A
+13 15
+A
+18 2
+#730
+crystal spinaret~
+a crystal spinaret~
+A thin spidery, crystal spins rapidly in the air here.~
+diamond~
+0
+key 2
+S
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 3 100 P
+A
+17 -2
+A
+12 10
+#731
+lake~
+a quiet mountain lake~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n leaps into the quiet mountain lake!~
+You jump into the quiet mountain lake.~
+You hear the sound of an overhead splash as someone enters the water.~
+~
+-1 0 G EFGHJ A
+0
+0
+10 0 0 P
+#732
+lake~
+a quiet mountain lake~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+You hear a splash as someone leaves the quiet mountain lake.~
+You climb out of the brisk, quiet mountain lake.~
+$n climbs out of the quiet mountain lake.~
+~
+-1 0 G ACFGHJ B
+0
+0
+10 0 0 P
+#733
+cliff~
+a mountain cliff~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+Suddenly, $n slips and plummets to the ground far below.~
+You start to descend the treacherous cliff.~
+$n lands with a sickening thud.~
+AND PLUMMET TO THE ROCKY FLOOR BELOW!~
+-1 0 G CEGHJ E
+0
+0
+5 0 0 P
+#734
+skeleton~
+a skeleton~
+A sun bleached human skeleton rests in the gully corner.~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 400 0 P
+#735
+mahogany writing desk~
+a mahogany writing desk~
+A cluttered mahogany writing desk has been pushed up against the wall.~
+wood~
+0
+container 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DFGHIJ ABCD ABCEGHJ DEFHIJL 0
+0
+0
+0 1000 1000 P
+#736
+wand simple twig fir piety~
+a wand of piety~
+A simple twig of fir lies here.~
+wood~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BEF A A DF 'reserved'
+0
+0
+24 2 6666 P
+#737
+diamond studded quill~
+a diamond studded quill~
+A diamond studded quill has been dropped here.~
+feather~
+0
+writing_instrument 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 1 4000 P
+A
+18 1
+#738
+stack coins platinum~
+a stack of platinum coins~
+A stack of platinum coins has been left on the ground here.~
+platinum~
+0
+money 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 BCDE 0 0 0
+0
+0
+10 2 2000 P
+#739
+chest iron~
+an iron chest~
+An iron chest rests precariously between two rafters here.~
+iron~
+0
+portal 2
+R
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n tugs at the iron chest and sends it hurling to the chapel floor.~
+You pull the iron chest off the rafters!~
+The sun rises in the east.~
+And the chest slams to the chapel floor below!~
+-1 0 0 BDEFGHJ HK
+0
+0
+0 0 0 P
+#740
+rafters~
+wooden rafters~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n carefully lowers $mself down to the chapel.~
+You carefully lower yourself back down to the chapel.~
+$n drops with a thud from the rafters above.~
+~
+-1 0 G ADEFGHJ E
+0
+0
+0 0 0 P
+#741
+iron chest~
+an iron chest~
+The lock on an iron chest has shattered open on the floor here.~
+iron~
+0
+container 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EGHIJK A 0 EGHIJK 0
+0
+0
+50 2000 0 P
+#742
+winespring well~
+a winespring well~
+Wine spills from a winespring well shattered by the iron chest.~
+marble~
+0
+furniture 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#743
+ladder ~
+a rope ladder~
+A rope ladder leading up to the chapel steeple hangs here.~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n shimmies up the rope ladder into the open air above.~
+You climb up the ladder and into the fresh air.~
+$n climbs up out of the chapel and into the open air steeple.~
+~
+-1 0 G ABDEFGHJ C
+0
+0
+10 0 0 P
+#744
+ladder~
+a rope ladder~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n heads back down to the chapel resting chambers.~
+You carefully climb down the precarious rope ladder.~
+$n climbs down from the steeple.~
+~
+-1 0 G CDFGHJ E
+0
+0
+0 0 0 P
+#745
+bell~
+brass bell~
+A brass bell hangs from the steeple roof here.~
+brass~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n rings the brass bell and disappears!~
+You ring the brass bell and the earth moves!~
+$n appears in the middle of the air and falls with a thud.~
+~
+-1 0 0 ABCDEFGHJ J
+0
+0
+0 0 0 P
+#746
+fountain pen~
+a fountain pen~
+A spiny tipped fountain pen has been dropped here.~
+unknown~
+0
+writing_instrument 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+19 1 450 P
+#747
+lump graphite~
+a lump of graphite~
+A lump of graphite has been dropped here.~
+unknown~
+0
+writing_instrument 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+19 2 200 P
+#748
+velvet tours~
+a velvet wrapped tours~
+A small thin, velvet covered object has been left here.~
+unknown~
+0
+writing_instrument 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+19 1 1100 P
+A
+18 1
+#749
+velum~
+velum~
+A piece of perfectly cured velum lies on the ground here.~
+paper~
+0
+writing_paper 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CEFGHI 0 0 0 0
+0
+0
+19 1 250 P
+#750
+cured leather parchmen~
+cured leather parchment~
+A cured leather parchment has been left here.~
+paper~
+0
+scroll 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BEF 'bark skin' 'Path of the Nomad' 'frenzy' -1 0
+0
+25 2 6940 P
+#751
+silk lace paper~
+silk lace paper~
+Silk lacey paper has been dropped to the ground here.~
+paper~
+0
+writing_paper 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+FIJ 0 0 0 0
+0
+0
+10 1 380 P
+E
+papermsg~
+~
+#752
+broad palm leaf~
+a broad palm leaf~
+A broad palm leaf has fallen to the ground here.~
+paper~
+0
+scroll 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BEF 'remove curse' 'conservancy' -1 -1 0
+0
+30 1 1400 P
+#753
+cherry wood staff shillelagh~
+a cherry wood shillelagh~
+A cherry wood staff lies on the ground here.~
+wood~
+0
+weapon 2
+AS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AB AD C ABDE 0
+0
+0
+40 8 300 P
+A
+19 1
+A
+12 25
+#754
+blue lantern small~
+a blue flame lantern~
+A small blue flame lantern flickers uneasily at each door here.~
+unknown~
+0
+light 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+5 1 0 P
+#755
+mermaid tattoo~
+`aA `iD`br`ia`bg`io`bn `aT`ha`at`ht`ao`ho``~
+Blah shit~
+unknown~
+0
+trash 2
+MPSZ
+0
+AW
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+A
+17 -50
+A
+12 50
+#756
+concrete canoe~
+a concrete canoe~
+A concrete canoe has been left on the ground here.~
+unknown~
+0
+raft 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A CEFGHI EH GHOQR 0
+0
+0
+15 4000 490 P
+#757
+bamboo raft~
+a bamboo raft~
+A bamboo raft has been left here.~
+bamboo~
+0
+raft 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A DFGHIJ E GHOQR 0
+0
+0
+0 1000 800 P
+#758
+short trunked kayak~
+a short trunked kayak~
+A small wooden kayak has been left here.~
+wood~
+0
+raft 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A CEFGHI F GHQR 0
+0
+0
+10 1000 1100 P
+#759
+underwater mask~
+an underwater mask~
+A strange looking mask has been dropped here.~
+rubber~
+250
+gills 2
+S
+0
+AX
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 9000 P
+#760
+life preserver~
+a life preserver~
+A bloated elephant bladder has been left on the ground here.~
+unknown~
+200
+gills 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 20 6800 P
+#761
+robes ~
+villager's robes~
+A villager's robes have been discarded here.~
+silk~
+0
+clothing 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 5 40 P
+#762
+symbol arias~
+the symbol of Arias~
+A dark holy symbol on the ground here radiates evil.~
+unknown~
+0
+scroll 2
+FHJLSZa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BEF 'dispel good' 'sleep' 'blindness' -1 0
+0
+30 5 100 P
+A
+12 30
+#763
+silver bullion~
+a pile of silver bullion~
+A pile of silver bullion has been dropped here.~
+silver~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DEFHIJL 0 0 0 0
+0
+0
+1 0 0 P
+#764
+prismatic rod return~
+a rod of return~
+A prismatic rod lies on the ground here.~
+glass~
+0
+portal 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n shatters the prismatic rod and fades quickly from view.~
+You break the rod of return...~
+$n appears in the middle of the room.~
+And find yourself back in the Chapel.~
+B 0 0 DFGHJ L
+0
+0
+10 1 100 P
+#765
+key spectrum~
+a key of the spectrum~
+A key of brilliantly flaring light has been left here.~
+unknown~
+0
+key 2
+APS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+3 1 0 P
+#766
+key spectrum~
+a key of the spectrum~
+A key of brilliantly flaring light has been left here.~
+unknown~
+0
+key 2
+APS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+3 1 0 P
+#767
+key spectrum~
+a key of the spectrum~
+A key of brilliantly flaring light has been left here.~
+unknown~
+0
+key 2
+APS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+3 1 0 P
+#768
+key spectrum~
+a key of the spectrum~
+A key of brilliantly flaring light has been left here.~
+unknown~
+0
+key 2
+APS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+3 1 0 P
+#769
+key spectrum~
+a key of the spectrum~
+A key of brilliantly flaring light has been left here.~
+unknown~
+0
+key 2
+APS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+3 1 0 P
+#770
+key spectrum~
+a key of the spectrum~
+A key of brilliantly flaring light has been left here.~
+unknown~
+0
+key 2
+APS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+3 1 0 P
+#771
+key spectrum~
+a key of the spectrum~
+A key lies here.``~
+unknown~
+0
+key 2
+APS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+3 1 0 P
+#772
+cannister light~
+a cannister of light~
+A cannister of free flowing white light rests here.~
+unknown~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DFGHIJ ABCD ABIJ DFGHIJ 0
+0
+0
+0 0 0 P
+#773
+wand wonder~
+a wand of wonder~
+A glittering wand of light lies on the ground here.~
+unknown~
+0
+wand 2
+AS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BEF BD BD BE 'reserved'
+0
+0
+40 2 0 P
+#774
+wand dispersion~
+a wand of dispersion~
+A wand of twisted wood lies on the ground here.~
+unknown~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BEF AC AC ADEFG 'reserved'
+0
+0
+30 1 0 P
+#775
+crystal ocean~
+the crystal ocean~
+~
+unknown~
+0
+fountain 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#776
+paradise fruit~
+paradise fruit~
+A succulent piece of paradise fruit looks delicious. ~
+unknown~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+DF 'heroes feast' 'reserved' 'reserved' 'reserved'
+0
+0
+30 1 200 P
+#777
+brass bell~
+a brass bell~
+A brass bell hangs in midair here.~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n suddenly disappears from sight!~
+You ring the bell...~
+A bright white light appears, and $n appears in the room.~
+And find yourself back on the Chapel steeple.~
+-1 0 0 ABDEFGHJ J
+0
+0
+10 0 0 P
+#778
+tree~
+tree~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n checks his footing and climbs swiftly up the tree.~
+You check your footing and climb up into the tree.~
+$n pulls $mself into the tree.~
+~
+-1 0 G ADIJ C
+0
+0
+1 0 0 P
+#779
+tree~
+tree~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n clambers quickly down the tree trunk.~
+You quickly make your way out of the tree.~
+$n climbs out of the foliage of the tree.~
+~
+-1 0 G FGHJ E
+0
+0
+1 0 0 P
+#780
+burnt table leg~
+a burnt table leg~
+A burnt up chunk of wood lies on the ground here.~
+unknown~
+0
+weapon 2
+AS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AB ABC AC D G
+0
+0
+55 5 1 P
+A
+19 5
+A
+12 25
+#781
+pig bladder~
+a pig bladder~
+A bloated pig bladder has been dropped here.~
+unknown~
+0
+vial 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1 0 P
+#782
+crown thorns~
+a crown of thorns~
+A crown of thorns has been left on the ground here.~
+wood~
+0
+armor 2
+S
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+C C C C 0
+0
+0
+40 1 1 P
+A
+1 2
+#783
+tidal oil~
+tidal oil~
+A flask of tidal oil lies on the ground here.~
+unknown~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BEF 'create spring' 'create food' -1 -1 0
+0
+24 1 1 P
+#785
+straw mat bed~
+a straw mat bed~
+A bed made from mats of woven straw sits in the corner here.~
+unknown~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A EIJKN 0 ACDEFG ACDEFG
+0
+0
+0 0 0 P
+#786
+tarot card tower falling~
+`ma tarot card``~
+`mA vibrant `itarot card`m drifts onto your foot, waiting to be shoved off.``~
+paper~
+0
+portal 2
+RS
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n shoves a card off $s foot, and somehow falls INTO the card.~
+As you shove the card off your foot, the colors of the room glow incandescently!~
+$n stumbles out of the light. ~
+As the light clears, you find yourself, once more, in the chaotic world.~
+-1 0 AG CFJKMO K
+0
+0
+20 10000 1 P
+#787
+kiwi fruit~
+`ca kiwi fruit``~
+A succulent kiwi fruit tempts appetite.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C AC 0 0
+0
+0
+10 20 5 P
+#0
+
+#ROOMS
+#700
+0 0
+~
+~
+~
+0 0 0
+A forested inlet~
+With a sudden rush and a gurgle of lost air, you find yourself in a small
+river inlet that is shaded by the boughs of forest trees that overhang the
+water.  The flow of the water is from the east, a calm and collected pool
+that has lost much of its force since its inception somewhere off in the
+mountains.  Small wildlife flits about here, insects mostly, buzzing around
+in the still of the river.  There is a somewhat peculiar smell in the air, a
+faint acrid odor that reminds you of a pipe that has been burning a few
+hours too long.  
+~
+0 0 7
+0
+~
+H150
+I 0 M150
+D1
+~
+~
+0 0 701
+S
+#701
+0 0
+~
+~
+~
+0 0 0
+A calm inlet~
+The forested area suddenly gives way to clear banks complete with warm
+and soft looking grass.  It is a wonder you did not notice the forest
+opening up before, it is that dramatic of a change.  The grass gives you a
+sense of closure, or maybe it's not really the grass alone.  It is the entire
+sense of ARRIVING somewhere, of finally reaching the end of a long sought
+destination.  Maybe you were never looking for this place, maybe you were
+only looking for the next step of a long sequence of meaningless events in
+life.  But you are here, and it feels...  Right.  
+~
+0 0 7
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 702
+D3
+~
+~
+0 0 700
+S
+#702
+0 0
+~
+~
+~
+0 0 0
+A calm inlet~
+The calm inlet flows steadily inwards somewhere.  Just as before when you
+did not notice the forest clearing, you did not notice the mountain ranges
+that now slam out of the ground to frame the grass and trees that surround
+the water.  They raise themselves majestically, craggy peaks not unscalable,
+but certainly a difficult traverse for unprepared travelers.  The more
+inviting path of the river leads off to the east here, twisting and turning
+as only rivers can do.  
+~
+0 0 7
+0
+~
+H150
+I 0 M150
+D1
+~
+~
+0 0 704
+D2
+~
+~
+0 0 701
+S
+#703
+50 250
+~
+~
+~
+0 0 0
+Inside a prismatic sphere~
+You have arrived at the end of the brilliantly lighted path whose glare
+has been an assault on your optic senses.  A chest, woven of brilliant beams
+of light, rests on the ground here, apparently locked.  It is remarkable you
+can see the chest at all, with all the brilliant lights in your eyes.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 770 760
+S
+#704
+0 0
+~
+~
+~
+0 0 0
+A calm inlet~
+You find yourself twising and turning together with the winding of the
+river, feeling at one with the medium through which you travel.  It is a
+comfortable feeling of fluidity, flexibility, that makes you want to believe
+that you can do anything, go anywhere, conquer any unforeseen fear.  The
+mountains that rise up beyond the clearings of the river banks are hardly a
+distraction as the newfound internal nirvana you have found focuses on the
+swirls and eddies in the water, and on the river ahead and behind.  
+~
+0 0 7
+0
+~
+H150
+I 0 M150
+D2
+~
+~
+0 0 705
+D3
+~
+~
+0 0 702
+S
+#705
+0 0
+~
+~
+~
+0 0 0
+A calm inlet~
+The calm inlet runs north and south here, a smooth flowing river that
+glistens in the shade of the mountains that rear up just beyond its banks. 
+It has the color of the clearest glass, simply put, absolutely no color at
+all.  Splashes of water spray up from beneath your feet, grabbing flickers
+of light that have filtered down into the river valley.  Just to the south
+of here, the river runs under a massive construct of crystal, its impossible
+to make out exactly what it is though.  
+~
+0 0 16
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 704
+D2
+~
+~
+0 0 706
+S
+#706
+0 0
+~
+$n steps onto the glittering surface of the topaz docks.~
+$n leaves the docks to the $T.~
+0 0 0
+The topaz docks of Cove~
+You stand at a pair of dry docks that lie at the foot of what appears to
+be a small village.  The mechanisms that allow ships to come clean out of
+the water are not visible here, hidden by the shimmering structure of topaz
+that the docks are made out of.  Water flows lazily underneath the dock,
+from some upriver source in the mountains.  Stray light manages to streak in
+over the surrounding mountains, blinking and reflecting off the topaz.  A
+small road made from crushed marble runs off to the east here, off into a
+grove of trees and small buildings.  
+~
+0 0 17
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 705
+D1
+~
+~
+0 0 707
+S
+#707
+0 0
+~
+The crashing footsteps of $n temporarily disrupt your pure calm.~
+The wind whispers quietly as $n leaves to the $T.~
+0 0 0
+Tranquility~
+Marble crushes gently underneath your feet as you tread upon the path
+that it marks.  It seems blissfully quiet here, the only sounds are those of
+the nearby rushing water, and the swaying of leaves in the valley wind.  As
+you look down the length of the path to the east, it seems to shimmer and
+coalesce a short ways in the distance, like the rays of light that cloud
+your vision when you have been looking at the sun too long and colors start
+to dance in the corners of your eyes.  To the north of here is a small
+building, a sign hanging firmly from black metal spoors depicts a ship with
+gull winged sails and sleek hull.  
+~
+0 0 12
+0
+~
+H150
+I 0 M150
+D0
+~
+door~
+0 0 723
+D1
+~
+~
+0 0 708
+D3
+~
+~
+0 0 706
+S
+#708
+0 0
+~
+The crashing footsteps of $n temporarily disrupt your pure calm.~
+The wind whispers quietly as $n leaves to the $T.~
+0 0 0
+Tranquility~
+The path through town known as Tranquility to the natives intersects
+another 'street' here that heads off to the south through a copse of trees. 
+A blissful quiet has washed over you since you stepped onto Tranquility, a
+humbling calm that emanates from the marble beneath your feet, from the air
+that you are breathing, even from the very mixture of shadow and light that
+flows down from the mountains.  Just to the north of here is a small home,
+decorated on the outside as if the owner did not have a care in the world
+and probably not all that much contact with the world.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+door~
+1 0 715
+D1
+~
+~
+0 0 709
+D2
+~
+~
+0 0 742
+D3
+~
+~
+0 0 707
+S
+#709
+0 0
+~
+The crashing footsteps of $n temporarily disrupt your pure calm.~
+The wind whispers quietly as $n leaves to the $T.~
+0 0 0
+Tranquility~
+A warm hush fills the air here, a serene quiet that does not feel like
+the calm before the storm, does not feel like the forest holding its breath
+as fire passes its branches, does not feel like the uneasy silence that two
+people starting to fall in love have.  It is simply bliss, a soothing
+ambience that washes over you as you walk down the crushed marble street and
+past the doors of the home to the south of you.  
+~
+0 0 12
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 729
+D1
+~
+~
+0 0 710
+D2
+~
+door~
+1 0 717
+D3
+~
+~
+0 0 708
+S
+#710
+0 0
+~
+The crashing footsteps of $n temporarily disrupt your pure calm.~
+The wind whispers quietly as $n leaves to the $T.~
+0 0 0
+Tranquility~
+Tranquility is here.  Tranquility is now.  The inner peace that you feel
+as you step across the crushed marble path would be startling, if you didn't
+feel so much at ease with yourself.  It is difficult to say exactly where
+the feeling comes from, the air, the trees, the cold wind that blows down
+from the mountains that frame the valley?  Or maybe it is just you, finally
+feeling that what you are doing now is not just preparation for some blind
+future, not living for tomorrow anymore, understanding that today is not a
+prelude to the next day, but rather the epilogue to yesterday, and the
+stories of now.  On a lighter note, a building stands to the north, a small
+sign with a flickering blue flame on it hangs loosely above the entry door. 
+Off to the south runs another street, one that emanates a completely
+different set of emotions.  
+~
+0 0 12
+0
+~
+H150
+I 0 M150
+D0
+~
+door~
+33 730 716
+D1
+~
+~
+0 0 711
+D2
+~
+~
+0 0 719
+D3
+~
+~
+0 0 709
+S
+#711
+0 0
+~
+The crashing footsteps of $n temporarily disrupt your pure calm.~
+The wind whispers quietly as $n leaves to the $T.~
+0 0 0
+Tranquility~
+The crushed marble path continues to the east and west here, a blazon
+white swath of rock in the middle of an otherwise very quaint village. 
+There is a feeling of easy bliss in the air here, a complete and true
+harmony with everything that spins and flies and roams the world here.  At
+another time, the silence and stillness of the area would be troublesome,
+disconcerting.  But it just feels right somehow, as if this little village
+were always meant to be permanently isolated from the world that lies
+beyond.  A small cottage stands to the south here, doors open and welcome to
+visitors.  
+~
+0 0 12
+0
+~
+H150
+I 0 M150
+D1
+~
+~
+0 0 712
+D2
+~
+door~
+1 0 718
+D3
+~
+~
+0 0 710
+S
+#712
+0 0
+~
+$n crashes into view, obviously flustered.~
+$n leaves to the $T, leaving you to your reverie.~
+0 0 0
+The end of Tranquility~
+Tranquility suddenly comes to an end here, not in a calamitous roar or
+the physical end of the street.  No, it is the unimposing tinkling of
+bells that wafts through the air from the north.  It would not seem to be
+the ruiner of peace and harmony, but nevertheless, it does not quite fit, an
+anomaly that the mountain valley village of Cove does not cope with well. 
+In any case, a path leads off to the north where you can see a lonesome
+building glimmering in the ambient light.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 713
+D2
+~
+~
+0 0 753
+D3
+~
+~
+0 0 711
+S
+#713
+0 0
+~
+The brush parts as $n enters the garden path.~
+$n's footsteps fade away to the $T.~
+0 0 0
+A slim garden path~
+All about you, flowers and other flora sprout about, encasing the path
+that you walk on in a virtual wall of greens, reds, and yellows.  Up ahead a
+short distance, you can make out a small building, hut would be more
+accurate.  Small windows peek out from behind stray leaves, shuttered closed
+with thick slabs of deep black wood.  The air around the building seems to
+shimmer with a faint light, a golden hum that encapsulates whatever new
+adventure you will find inside.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 714
+D2
+~
+~
+0 0 712
+S
+#714
+0 0
+~
+$n pushes $s way past velvet drapes into the room.~
+$n ducks his head and leaves the Prophecy.~
+0 0 0
+The Prophecy~
+You stand in a chamber that is awash with the glow of a million stars, a
+million pinprick points of light that come together, and as one, are bright
+enough to blind.  Which leads you to wonder what stars are doing inside a
+building.  A table covered with a royal purple cloth rests near the far
+wall, a chair of matching wood resting behind it.  On the table rests a set
+of cards, and a pair of bracelets crafted from immolated steel.  
+~
+0 0 0
+0
+~
+H150
+I 0 M150
+D2
+~
+~
+0 0 713
+S
+#715
+0 0
+~
+~
+~
+0 0 0
+A terraced home~
+Naturally lit by the sun that streams through the bamboo fronds tied
+together as a makeshift roof, this home is both cool and comfy.  Completely
+unfurnished save for a cushion in the corner that must function as a bed,
+the straw and grass that comprise this home allow in ample light and sea
+breeze.  The sound of ocean waves crashing on the nearby docks float into
+this home unhampered and wild.  
+~
+0 D 3
+0
+~
+H150
+I 0 M150
+D2
+~
+door~
+1 0 708
+S
+#716
+0 0
+~
+~
+~
+0 0 0
+Crystals~
+Where the interior walls of this building should be are instead massive
+rows of crystals that seem to grow out of the ground you walk on.  Brilliant
+hues of blue and pink highlight the room, a myriad of colors that sends a
+likewise set of emotions running though your mind.  A man sits towards the
+back of the room on his chair, crafting a much smaller crystal in his hand. 
+Rumor has it that Cove produces magical crystals which have special effects,
+perhaps you should try one out.  
+~
+0 D 1
+0
+~
+I 0 D2
+~
+door~
+33 730 710
+S
+#717
+0 0
+~
+~
+~
+0 0 0
+A small hut~
+You stand in a small hut that is loosely decorated with a variety of
+grass made entrapments and glowing candles.  Bags of herbs and other scents
+hang from thin rope which in turn, dangle from thin wooden branch beams that
+arc gracefully with the ceiling.  A few pieces of furniture dot the room
+here, but otherwise, the hut seems pretty barren and uninviting.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 709
+D1
+~
+door~
+1 0 719
+S
+#718
+0 0
+~
+~
+~
+0 0 0
+A small hut~
+You stand in a small hut that is loosely decorated with a variety of
+grass made entrapments and glowing candles.  Bags of herbs and other scents
+hang from thin rope which in turn, dangle from thin wooden branch beams that
+arc gracefully with the ceiling.  A few pieces of furniture dot the room
+here, but otherwise, the hut seems pretty barren and uninviting.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 711
+D3
+~
+door~
+1 0 719
+S
+#719
+0 0
+~
+$n mumbles penitently as $e walks nearby.~
+$n leaves passively to the $T.~
+0 0 0
+Humility~
+You stand on a well shaded street that curves slightly to the east as you
+walk down its north south bearing.  Even more than anything you can see,
+hear, or touch, is the pervading feeling that this is a street meant for the
+pious, for the penitent man who wishes to walk in the light of reason and
+humility.  The crunch of the marble beneath your feet and the crackle of
+swaying brown leaves betrays the overwhelming repentance at your own pride
+that is marked by the silence that you bear.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 710
+D1
+~
+door~
+1 0 718
+D2
+~
+~
+0 0 720
+D3
+~
+door~
+1 0 717
+S
+#720
+0 0
+~
+$n mumbles penitently as $e walks nearby.~
+$n slips quietly to the $T.~
+0 0 0
+Humility~
+There are times when you think that everything in the world is yours, in
+the palm of your hand, to grab, to hold, and to cherish like a fine apple
+blossom that has bloomed when everything else is stagnant and brown.  And
+when that time comes, you feel happy, and tend to forget about the things
+that have happened in your existence.  Imagine you have found that apple
+blossom one day, and the next day, a storm hits and cracks that apple tree. 
+Imagine the despair that you feel upon the realization that no more apple
+blossoms will bloom from its limbs, and that you clutch, in vain, a single
+blossom that will wither, die, a memory that will have to suffice as food
+for your pride and happiness.  Imagine this, and you know the feeling that
+races through your heart at this instant, a heaviness that you will not be
+sorry to leave behind.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 719
+D1
+~
+door~
+33 729 721
+D2
+~
+door~
+1 0 722
+S
+#721
+0 0
+~
+Black light pours over $n as $e enters the alchemy.~
+$n is chased from the alchemy by black light.~
+0 0 0
+Shadra's Alchemy~
+You find yourself standing in a room awash in black light.  It isn't the
+odd black light that you are used to, purple lantern shade over a normal
+flame, but instead, a light that seems to suck out the shadows from every
+crack and crevice in the walls and floor.  Bags of herbs, spices, and other
+esoterica hang from thin strands of twine attached to the ceiling.  A thick
+mat of dull green grass grows on the floor of the shop here, an oddity that
+matches the strangeness of the store.  
+~
+0 D 1
+0
+~
+I 0 D3
+~
+door~
+33 729 720
+S
+#722
+0 0
+~
+~
+~
+0 0 0
+A leaf roof home~
+You stand in a small shady home that smells of earth, moss, and other
+natural aromas.  The ceiling of the house is actually a thick interleaving
+of branches and leaves that form a canopy, impenetrable by water and wind. 
+Small lanterns, carefully shuttered rest in sconces all around the room,
+casting a soft white glow across the sparse furnishings here.  A desk, and a
+bed are all that is here, apparently the desk doubles as a dining table, as
+a variety of cheeses and wine sits on the table.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 720
+S
+#723
+0 0
+~
+~
+~
+0 0 0
+The Pithy Shipwright~
+You stand in a small chamber that is dominated by a number of shuttered
+lanterns that cast their glow across the room.  A counter towards the back
+has been erected, where a man stands, gruff looking and not too hard at
+work.  Numerous massive stuffed fish hang from the walls, beautiful catches
+that presumably come from the ocean to the west.  A pad of paper and quill
+pen rest on the hard wood counter, ostensibly for you to draw up your ship
+specifications and desires.  Remember, this isn't called the pithy
+shipwright for nothing.  
+~
+0 D 1
+0
+~
+H150
+I 0 M150
+D2
+~
+door~
+1 0 707
+S
+#724
+0 0
+~
+~
+~
+0 0 0
+A battered and rocky gully~
+After your almost certain death has passed, you find yourself in a
+veritable rock garden.  Boulders and chunks of sandstone, limestone, and
+granite litter the area, a perversely diversified bunch of geological
+structures, all which a minute ago had been intent on shattering your skull.
+The skeleton that lies in the corner of the gully doesn't do much for your
+confidence either.  You realize suddenly, that perfectly smooth cliffs line
+the gully, you doubt you could get out if you tried.  
+~
+0 C 5
+0
+~
+H50
+I 0 M50
+S
+#725
+0 0
+~
+~
+~
+0 512 0
+In a prismatic sphere~
+Bright light shimmers all about you, flashing different colors all around
+your head and mind.  It is a cacophony of visual sound, a powerful
+arrangement of the spectrum that leaves you gripping for your sanity.  It is
+impossible to tell where you stand or where you are headed, it is all very
+chaotic.  
+~
+0 CD 0
+0
+~
+I 0 D1
+~
+door~
+1 766 758
+D2
+~
+door~
+1 765 749
+S
+#726
+0 0
+~
+~
+~
+0 0 0
+Deceit!~
+You have obviously told a lie somewhere before.  If you have the time to
+be reading this room description, you are a brave soul indeed.  
+~
+0 0 12
+0
+~
+I 0 D2
+~
+door~
+1 0 728
+S
+#727
+0 0
+~
+~
+~
+0 0 0
+Honesty~
+You stand at the end of Honesty, a metaphor that is aptly fitted to this
+time in the world of deception, hate, and misery.  Small doors lead to the
+east, north, and west, hopefully, you have told the truth by now, and will
+know which doors leads the way to fulfillment, and which way will make you
+stop breathing (ha ha ha).  The doors are unmarked slabs of solid oak,
+polished prettily but ungaudily.  A small blue flame lantern flickers
+uneasily at the side of each door, expectant of your next move.  
+~
+0 0 12
+0
+~
+H150
+I 0 M150
+D0
+~
+door~
+1 0 726
+D1
+~
+door~
+1 0 766
+D2
+~
+~
+0 0 728
+D3
+~
+door~
+1 0 765
+S
+#728
+0 0
+~
+~
+~
+0 0 0
+Honesty~
+What is the truth?  Is it not simply the comprehension of what is
+perceived and felt?  Is it not the way ideas and facts flow together to form
+what is WANTED, and not what is actually present?  It is a difficult
+question to be sure, but it is a question that somehow demands to be
+answered as you pace carefully down the emerald lined street.  Like a
+smith's hammer rocking against the interior of your skull, you feel this
+pulsating need to know the truth, to give the truth, and breathe the truth. 
+Sunlight smashes down onto your face, and the needs becomes more pressing.  
+~
+0 0 12
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 727
+D2
+~
+~
+0 0 729
+S
+#729
+0 0
+~
+~
+~
+0 0 0
+Honesty~
+There is a crisp brittle quality to the air here, a feeling of complete
+and utter dichotomy, right and wrong, good and evil.  Somehow it leaves your
+chest heaving for air, as you struggle to grasp that seed inside of
+yourself, that little seed that causes people to be deceptive, to hurt, to
+find it in themselves to lie, cheat, and steal.  You fear that if you do not
+yank that little festering seed out soon, something BAD might happen.  
+~
+0 0 12
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 728
+D2
+~
+~
+0 0 709
+S
+#730
+0 0
+~
+$n scrambles his way towards you over the ravine rocks.~
+$n assures his footing and scurries off to the $T.~
+0 0 0
+The forest~
+A small path leads through the forest here, a padded swath of dirt that
+winds its way through tall, towering aspen trees.  Cones have fallen to the
+ground, and a thick mat of grass covers the area not already entranced by
+trees.  Here and there, you can see the wildlife peeking out at you without
+pretension, oblivious to the madness and killing that people often bring
+with them.  Through the slats between trees and the light filtering down
+into the forest, you can see that you can head either north or east here.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 731
+D1
+~
+~
+0 0 732
+D3
+~
+~
+0 0 755
+S
+#731
+0 0
+~
+$n scrambles his way towards you over the ravine rocks.~
+$n assures his footing and scurries off to the $T.~
+0 0 0
+A forest ravine~
+The forest trail quickly takes a slope downwards here, emptying out into
+a ravine that is surrounded by aspen trees that still somehow grow straight
+into the air despite the angled terrain of the land.  The ravine runs north
+to south, making it very difficult to traverse the thick forest to either
+the east or west.  In any case, the sounds of animals in the forest and the
+other sounds of nature are unpredictable, distractions from negotiating the
+terrain.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 735
+D2
+~
+~
+0 0 730
+S
+#732
+0 0
+~
+$n scrambles his way towards you over the ravine rocks.~
+$n assures his footing and scurries off to the $T.~
+0 0 0
+A forest ravine~
+The forest trail runs down into a deep ravine here, cutting across the
+grain of the landscape at a northeast angle.  Aspen trees grow from the
+sides of the slopes, angling upwards precariously.  The footing here is a
+bit treacherous, small bits of rocky rubble have come to replace the soft
+mats of verdant grass that once inhabited the area beneath the trees.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 733
+D3
+~
+~
+0 0 730
+S
+#733
+0 0
+~
+$n scrambles his way towards you over the ravine rocks.~
+$n assures his footing and scurries off to the $T.~
+0 0 0
+A forest ravine~
+You find yourself in the bottom layer of the forest ravine, slopes
+reaching high up on either side of you.  Aspen trees grow at strange angles
+on those slopes, effectively blocking much of the sun that dares to filter
+down into the area.  The ground up ahead is damp with moisture, the normally
+rocky ground long since turned to mud.  Somewhere off to the north, you
+think you can hear the sounds of running water.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 734
+D1
+~
+~
+0 0 778
+D2
+~
+~
+0 0 732
+S
+#734
+0 0
+~
+$n's feet splash in the water as he climbs over the brook.~
+$n follows the curve of the brook to the $T, and disappears from view.~
+0 0 0
+A forest ravine~
+The forest ravine turns perpendicularly here, a sharp turn that you tend
+to think appears unnatural.  The entire scene is like a picture show, scenes
+flashing by as the sunn appears then disappears behind trees and clouds up
+ahead.  Shadows on the ground play across the joyful meandering of a
+babbling brook that runs through the ravine here.  It gurgles playfully to
+the east and south, as does the ravine itself.  Animals graze on the
+occasional moss and lichen that you see growing beneath the trees, oblivious
+of the danger that a leveling adventurer such as yourself possesses.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D2
+~
+~
+0 0 733
+D3
+~
+~
+0 0 735
+S
+#735
+0 0
+~
+$n's feet splash in the water as he climbs over the brook.~
+$n follows the curve of the brook to the $T, and disappears from view.~
+0 0 0
+A forest ravine~
+You stand in a deep forest ravine, towering aspen trees parting to either
+side of you.  The ground here is muddy, perhaps it has to do with the
+periodic flooding of the small stream that flows through the ravine.  The
+slopes that define the ravine allow you to head north or east or south here,
+more forest in every direction that you look.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 736
+D1
+~
+~
+0 0 734
+D2
+~
+~
+0 0 731
+S
+#736
+0 0
+~
+$n scrambles his way towards you over the ravine rocks.~
+$n assures his footing and scurries off to the $T.~
+0 0 0
+A forest ravine~
+Finally, you appear to be travelling upwards again, and out of the deep
+forest ravine.  Actually, come to think about it, the trees are thinning out
+as well, and you think you can make out the end/edge of the forest up ahead.
+The jutting and snow capped bare peak of a towering mountain shows itself
+between two trees that you walk past, confirming your suspicions.  
+~
+0 0 0
+0
+~
+H150
+I 0 M150
+D1
+~
+~
+0 0 737
+D2
+~
+~
+0 0 735
+S
+#737
+0 0
+~
+$n scrambles his way towards you over the ravine rocks.~
+$n assures his footing and scurries off to the $T.~
+0 0 0
+At the foot of a mountain trail~
+You stand at the foot of a mountain trail, a small path that cuts through
+the aspen trees and heads upwards to destinations unknown.  A small trail
+also leads off to the west and through the forest ravine.  It is very
+peaceful here, and if not for all the mosquitos and other small critters
+flitting about, you could probably stay here forever.  
+~
+0 0 5
+0
+~
+H150
+I 0 M150
+D3
+~
+~
+0 0 736
+D4
+~
+~
+0 0 738
+S
+#738
+0 0
+~
+$n trudges into sight on the mountain trail.~
+$n checks $s footing and leaves $T on the trail.~
+0 0 0
+A mountain trail~
+The mountain trail continues onwards here, a thin five foot wide path
+that is framed on one side by towering aspen trees and on the other by a
+steep cliff face that ends in a pile of rubble some 200 feet below.  The
+smell of pine needles in the air is overpowering, and the air has a crisp,
+dry quality to it.  It makes breathing both easier, and more difficult, but
+nevertheless, it feels peaceful here, quiet.  
+~
+0 0 5
+0
+~
+H150
+I 0 M150
+D1
+~
+~
+0 0 739
+D5
+~
+~
+0 0 737
+S
+#739
+0 0
+~
+$n trudges into sight on the mountain trail.~
+$n checks $s footing and leaves $T on the trail.~
+0 0 0
+A mountain trail~
+The mountain trail continues its ascent (or descent, depending on which
+way you want to look at it) here.  The trail clings to the side of the
+mountain, framed on one side by the plethora of aspen trees, and on the
+other by a cliff.  It isn't recommended that you try descending the cliff,
+its a long way down to be sure, and you don't think you'd be able to get
+back up if you tried.  
+~
+0 0 5
+0
+~
+H150
+I 0 M150
+D3
+~
+~
+0 0 738
+D4
+~
+~
+0 0 740
+S
+#740
+0 0
+~
+$n trudges into sight on the mountain trail.~
+$n checks $s footing and leaves $T on the trail.~
+0 0 0
+A mountain trail~
+The mountain trail winds its way slowly around the sides of the mountain,
+a path five feet wide and precariously unsupported on the side.  The
+overpowering scent of pine needles fills the air, massive aspen trees
+reaching straight for the sky, with lesser cousins clinging to the nap of
+the earth.  The trail leads off to the north, where you think you can make
+out the faint sounds of water running.  
+~
+0 0 5
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 741
+D5
+~
+~
+0 0 739
+S
+#741
+50 400
+~
+$n interrupts your serenity and walks into the clearing.~
+The lake is a little quiet as $n leaves to the $T.~
+0 0 0
+A quiet mountain lake~
+You stand in a quiet shelter high up on the slopes of the mountains. 
+Snow falls gently around the edges of the lake, melting almost as soon as
+they touch the ground.  The water itself is perfectly clear, the reflection
+of the sky, trees, and mountains virtual twins to their real life brethren. 
+Soft bladed green grass pads the shores of the lake, a flowing green mat
+that eases the pain in your feet and body.  A small trail winds its way
+south out of the clearing and away from the lake here.  
+~
+0 0 5
+0
+~
+H150
+I 0 M150
+D2
+~
+~
+0 0 740
+S
+#742
+0 0
+~
+$n appears through the mists of Spirituality.~
+The mists part as $n leaves to the $T.~
+0 0 0
+Spirituality~
+Although the street is made from the same crushed marble as Tranquility,
+from which it branches off from, the sensations you get from the waving
+trees, the small buildings, and the air itself, is completely different. 
+You feel a sense of, not belonging here, a if your soul is missing a part
+that material possessions and equipment and gold cannot make up.  It is odd
+that the primal sensations you feel quite easily dominate any physical
+sensations you receive.  You barely notice the beautiful craggy mountains
+that frame Cove, or the faint smell of sea water washing in from the coast. 
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 708
+D2
+~
+~
+0 0 743
+S
+#743
+0 0
+~
+$n appears through the mists of Spirituality.~
+The mists part as $n leaves to the $T.~
+0 0 0
+Spirituality~
+The sense of loneliness and unfulfillment that you feel seems foreign in
+this place, nestled in among the mountains.  It seems that being alone would
+not matter in a place like this.  But maybe it isn't exactly what you are
+feeling, this sense that you are missing something.  Maybe that missing
+something is off to the west, where a small path made from colorful mosaics
+curls away from the road.  More likely though, it can be found in the
+stained glass chapel that stands just to the south of here.  
+~
+0 0 12
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 742
+D2
+~
+~
+0 0 744
+D3
+~
+~
+0 0 745
+S
+#744
+0 0
+~
+Bells chime deeply as $n enters the chapel.~
+Bells jingle lightly as $n leaves $T.~
+0 0 0
+The Chapel~
+If it weren't for the stained glass that so elegantly graces this room's
+walls and ceiling, it would look like any other home in Cove.  Small, made
+from fresh wood, and with rows and rows of benches in front of an altar. 
+Apparently, this is the chapel of Cove.  The air is a bit musty here, as if
+people do not frequent this building very often.  A small ladder leads
+upwards here, the destination unknown and darkened.  
+~
+0 0 0
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 743
+D4
+~
+~
+0 0 748
+S
+#745
+0 0
+~
+~
+~
+0 0 0
+An inlaid path~
+You stand on a colorful mosaic path that does not seem to retain any of
+the dirt or mud that you thought you left on it.  Consequently, it sparkles
+like the midday sun as it curls away from the wall of the chapel, and into a
+grove of tall, thin trees whose leaves have turned yellow in anticipation of
+winter festivities.  The mosaic pattern itself is pretty boring, or at least
+you thought it was until you realized that you had been staring at it for
+minutes, hypnotizing isn't it?  
+~
+0 0 12
+0
+~
+I 0 D1
+~
+~
+0 0 743
+D3
+~
+~
+0 0 746
+S
+#746
+0 0
+~
+~
+~
+0 0 0
+An inlaid path~
+The mosaic path continues to the east and south here, a flowing,
+mezmerizing pattern that takes your time up as you stand there and examine
+it.  A small well stands to the south, among a small clearing in the trees
+that you are currently walking through.  It seems a bit out of place off in
+the corner of nowhere, but then again, things in Cove are never as they seem
+are they?  
+~
+0 0 12
+0
+~
+I 0 D1
+~
+~
+0 0 745
+D2
+~
+~
+0 0 747
+S
+#747
+0 0
+~
+~
+~
+0 0 0
+The chapel well~
+The path opens up into a forest clearing that has been built around a
+circle of perfectly cut granite.  In the center of the circle, elevated
+slightly by terraced steps leading up to it, is a well made from stone.  A
+small bucket hangs above the well, suspended with a rope that has been
+draped across the end of the well and anchored to a small metal pin.  The
+forest is thick here, inpenetrable to be exact.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 746
+S
+#748
+0 0
+~
+~
+~
+0 0 0
+Resting chambers~
+You stand in a circular room, panelled with loosely fitting pieces of
+wood that have been crafted from the cross section of trees that surround
+Cove.  Windows have been cut into the walls, clear glass that allows you to
+look out onto the forest to the west, south, and east, and the village of
+Cove to the north.  Small candles light the room, flickerless and scentless.
+A small ladder allows you to go back to the main level of the chapel.  
+~
+0 D 0
+0
+~
+H150
+I 0 M150
+D5
+~
+~
+0 0 744
+S
+#749
+0 0
+~
+~
+~
+0 0 0
+In a prismatic sphere~
+Flashes of light scream across your field of vision, a myriad of
+fantastic colors that daze, and blind you.  It is impossible to see where
+you are going in this wash of colors, in fact, it is impossible to see even
+where you stand.  Occasionally, a beam of light careens towards you, and the
+innate sense that you possess tells you that they are dangerous, and you
+might be in serious trouble here.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 765 725
+S
+#750
+0 0
+~
+~
+~
+0 0 0
+In a forest tree~
+~
+0 C 0
+0
+~
+I 0 S
+#751
+0 0
+~
+The room is a little more cramped as $n walks into the shop.~
+$n gets out of the way as he leaves the shop.~
+0 0 0
+A dimly lit room~
+You stand in a dimly lit room characterized by the mahogany desk that
+rests against the far wall of the room.  Illuminating the room is a series
+of parallel glowbulbs that seem to float unnaturally in the air.  The decor
+of the room is simple, oil paintings and reliefs from what you can only
+assume are famous book titles cover the walls, and a thick bearskin rug
+covers the floor.  
+~
+0 0 0
+0
+~
+H150
+I 0 M150
+D1
+~
+~
+0 0 754
+S
+#752
+0 0
+~
+~
+~
+0 0 0
+Inside a quiet mountain lake~
+Despite the apparent clarity of the water when looking at it from up
+above, the water in the quiet mountain lake is surprisingly murky, or
+"heavy" as some scribes like to call it.  Meaning the density of the water
+is such that light is unable to penetrate it at depths of more than ten
+feet.  In any case, even in the darkness, you can see the faint outline of
+white pillars far below.  Only the strongest of swimmers would be able to
+reach that point more than 100 feet deep, and truth be told, you are
+probably not one of them.  Besides, the water from the glacial run offs is
+bitterly cold, and you had probably get out of the lake before the chills
+sets in.  
+~
+0 CN 0
+0
+~
+H25
+I 0 M25
+S
+#753
+0 0
+~
+The trees hum quietly as $n walks near.~
+$n's footsteps echo on the marble as $e leaves to the $T.~
+0 0 0
+Harmony~
+Birds chirp in perfect intervals as you walk past them, a beautiful
+symphony of nature that flows easily and wraps itself in your ears, sight,
+and heart.  Trees sway listlessly to the music, the wind seems to want to
+play a part as well, whipping around your feet whenever the occasion calls
+for it.  The marble underneath your feet crunches slightly as you press
+against it with the soles of your feet, slightly springy but certainly
+comfortable.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 712
+D2
+~
+~
+0 0 754
+S
+#754
+0 0
+~
+The trees hum quietly as $n walks near.~
+$n's footsteps echo on the marble as $e leaves to the $T.~
+0 0 0
+Harmony~
+Harmony flows all about you in this serene but somehow ebullient street. 
+The forest erupts with life around you, a cascade of color and sound that
+although a definite contrast to the wafting silence of Tranquility that you
+have left behind, altogether as pleasant.  Birds flit to and fro as they
+prance their innate dance with each other, and random rainbows flit across
+the edges of your vision as you take in the panorama.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D0
+~
+~
+0 0 753
+D1
+~
+~
+0 0 755
+D3
+~
+~
+0 0 751
+S
+#755
+0 0
+~
+The trees hum quietly as $n walks near.~
+$n's footsteps echo on the marble as $e leaves to the $T.~
+0 0 0
+Harmony~
+You have reached an abrupt end to the marble street internally called
+Harmony.  It is strange, somehow you had felt that Harmony's end would be
+smoother, a more lucient transition into something else, something better
+maybe.  Instead, the road looks as if it were unfinished, aspen trees that
+tower up into the sky taking over where it leaves off.  In any case, a path
+leads off into the forest to the east, a small dirt trail that winds its way
+between tree trunks.  
+~
+0 0 3
+0
+~
+H150
+I 0 M150
+D1
+~
+~
+0 0 730
+D3
+~
+~
+0 0 754
+S
+#756
+0 0
+~
+~
+~
+0 0 0
+Inside a prismatic sphere~
+And then there was light!  It crashes down upon you like a smith's hammer
+to the anvil, heavy light, blinding light, powerful light that makes you
+wince in its splendor and gape at the splashes of color that now dot your
+armor, your weapon, your clothes.  The path you walk on is more brilliant
+then any gem-encrusted sceptre or palace you have ever seen.  Beauty
+incarnate.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 768 757
+D3
+~
+door~
+1 769 760
+S
+#757
+0 0
+~
+~
+~
+0 0 0
+Inside a prismatic sphere~
+Have you seen the colors of the rainbow today?  Have you seen it washing
+over your face like a hail of confetti on the day of a grand parade?  Have
+you wiped the sparkles, flashes of brightness out of your eyes yet?  Can you
+see the ribbon like path that you walk on in oblivious believing?  Searing
+light crashes into your questions and disperses them into a million shards
+of brilliance, fleeing to the corners of the sphere, fleeing from your mind
+and presence.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+door~
+1 767 758
+D3
+~
+door~
+1 768 756
+S
+#758
+0 0
+~
+~
+~
+0 0 0
+Inside a prismatic sphere~
+Various colors of the spectrum flow over you and sparkle your vision as
+you stand upon a narrow band of solidified light.  The air seems to shimmer
+and spiral upwards counterclockwise, whirling with a speed that dizzies the
+senses.  The path that you walk on continues off to the north and west here,
+ribbon and snake like in its convolutions and turns and twists.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 767 757
+D3
+~
+door~
+1 766 725
+S
+#759
+0 0
+~
+~
+~
+0 0 0
+In the chapel rafters~
+You stand amidst the chapel's thick wooden rafters, the musty smell up
+here overpowering.  Light filters through a small window in the north wall
+that allows you to see the street to the north of the chapel, but little
+else.  The window is cracked and unkempt, cobwebs creeping up on its
+corners.  Stuffed away in the corner of the room, balanced at the
+intersection of 2 rafters, is a sturdy iron chest, a shiny new lock in its
+center.  
+~
+0 C 0
+0
+~
+I 0 S
+#760
+0 0
+~
+~
+~
+0 0 0
+Inside a prismatic sphere~
+Light slashes in front of you like a visual sword, so bright it is almost
+audible.  Your head is starting to throb from the visual overload of the
+dancing lights of the spectrum.  Closing your eyes reduces, but does not
+remove the intense glare.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+door~
+1 769 756
+D2
+~
+door~
+1 770 703
+S
+#761
+0 0
+~
+Bells chime deeply as $n enters the chapel.~
+Bells jingle lightly as $n leaves $T.~
+0 0 0
+The Chapel~
+If it weren't for the stained glass that so elegantly graces this room's
+walls and ceiling, it would look like any other home in Cove.  Small, made
+from fresh wood, and with rows and rows of benches in front of an altar. 
+Apparently, this is the chapel of Cove.  The air is a bit musty here, as if
+people do not frequent this building very often.  A small ladder leads
+upwards here, the destination unknown and darkened.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 743
+D4
+~
+~
+0 0 748
+S
+#762
+0 0
+~
+~
+~
+0 0 0
+In the chapel rafters~
+You stand amidst the chapel's thick wooden rafters, the musty smell up
+here overpowering.  Light filters through a small window in the north wall
+that allows you to see the street to the north of the chapel, but little
+else.  The window is cracked and unkempt, cobwebs creeping up on its
+corners.  Stuffed away in the corner of the room, balanced at the
+intersection of 2 rafters, is a sturdy iron chest, a shiny new lock in its
+center.  
+~
+0 C 0
+0
+~
+I 0 S
+#763
+0 0
+~
+~
+~
+0 0 0
+The chapel steeple~
+You stand in a small rotunda, open air on every side, a magnificent view
+of the forest, land, and village with every direction you chooose to turn. 
+A swift pine scented breeze flows around and about you, carrying with it all
+the hopes and dreams that a thousand other people have felt upon standing in
+this very place.  A beautifully crafted brass bell hangs from the center of
+the rotunda, perfectly symmetrical and swaying ever so slightly in the wind.
+A thin hemp rope hangs from the bell, perfectly elegant in its simplicity
+and purpose.  
+~
+0 C 0
+0
+~
+I 0 S
+#764
+0 0
+~
+~
+~
+0 0 0
+Up in an aspen~
+You find yourself with precarious footing in a tall aspen tree, balanced
+between three or four branches that offer you some small foothold.  The
+smell of pine is overwhelming up here in the treetops, the occasional breeze
+the only thing that keeps you from fainting.  Birds chirp madly in the
+vicinity, little tykes that care little about your intrusion, and care less
+about what and where you want to go and go.  
+~
+0 C 0
+0
+~
+H150
+I 0 M150
+S
+#765
+0 0
+~
+~
+~
+0 0 0
+Trickery!~
+Fool, Honesty takes its tolls.  I seriously doubt if you have time to
+read this room description, if you are, then you will be dead shortly.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 728
+S
+#766
+0 0
+~
+~
+~
+0 0 0
+Truth~
+You have arrived in a smll chamber bathed in green sunlight.  It filters
+on down through a canopy of leaves overhead, a trees branches reaching over
+your head and to the doorway.  In the center of the room, a brilliant
+diamond shaped efervesence beams in on itself, something in its center
+seemingly attracting the light.  As you stare closer, you realize that
+perhaps it is a man, a woman, a something.  
+~
+0 0 0
+0
+~
+I 0 D3
+~
+door~
+0 0 727
+S
+#767
+0 0
+~
+The brass bell rings loudly as $n enters.~
+~
+0 0 0
+Paradiso~
+A magical land of paradise and respite, birds fly lovingly up above, the
+sun shines all day in a beautiful microcosm of heaven.  Waters lap at the
+nearby shores with calming regularity.  Trees sway gently in the seabreezes,
+giving you shade to rest in should you feel weary, a place to relax
+yourself, and be at one with the world.  What is even more important about
+this place of rest is that it has free food!  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D0
+~
+~
+0 0 768
+D1
+~
+~
+0 0 770
+D2
+~
+~
+0 0 771
+D3
+~
+~
+0 0 769
+S
+#768
+0 0
+~
+The warm sands part as $n steps onto the beach.~
+$n strolls off to the $T.~
+0 0 0
+Elysia~
+It is the wonderful land of paradise, or as close to paradise as you can
+get.  (In fact, Paradiso is only one step to the south, but you didn't hear
+that from me) Water here is beautiful, an ocean of enormous magnitude ,
+greatest magnitude to be precise.  Whoa, this just in, you love it here. 
+Film at 11.  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D1
+~
+~
+0 0 775
+D2
+~
+~
+0 0 767
+D3
+~
+~
+0 0 774
+S
+#769
+0 0
+~
+The warm sands part as $n steps onto the beach.~
+$n strolls off to the $T.~
+0 0 0
+Elysia~
+Waters lap up on the nearby shore, a vast expanse of ocean that stretches
+for as far as you can see.  The isle itself is wonder enough for you though,
+perfect calm and loving serenity are the emotions evoked here, a wonderful
+land where you can rest your troubles from the world, as heroes of long past
+have supposedly done.  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D0
+~
+~
+0 0 774
+D1
+~
+~
+0 0 767
+D2
+~
+~
+0 0 776
+S
+#770
+0 0
+~
+The warm sands part as $n steps onto the beach.~
+$n strolls off to the $T.~
+0 0 0
+Elysia~
+Water rolls up onto the shore here, crystal clear water that appears and
+smells drinkable despite the vast ocean expanse it comes from.  The isle
+that you stand on is a beautiful complement to the clear waters, trees sway
+in the midday sun ( it always appears to be midday here), the grass is a
+cushioned mattress beneath your feet (or derrierre, depending on what you're
+doing right now).  Birds soar high above you, not those merry chirping birds
+you have grown accustomed to in Cove, but the long, tall, elegant birds that
+seem to glide like paper in the wind.  It is beautiful.  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D0
+~
+~
+0 0 775
+D2
+~
+~
+0 0 772
+D3
+~
+~
+0 0 767
+S
+#771
+0 0
+~
+The warm sands part as $n steps onto the beach.~
+$n strolls off to the $T.~
+0 0 0
+Elysia~
+Sometimes, the only way to describe paradies is to let it slide over your
+body like a cool satin sheet.  Take it all in, breathe it like it is air,
+and let it conquer you, let your body slip into one of those everlasting
+slumbers that only adventurers rarely experience.  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D0
+~
+~
+0 0 767
+D1
+~
+~
+0 0 772
+D3
+~
+~
+0 0 776
+S
+#772
+0 0
+~
+The warm sands part as $n steps onto the beach.~
+$n strolls off to the $T.~
+0 0 0
+Elysia~
+Sometimes, words dont describe nor do they do justice to the meaning of
+paradise.  And thats very nearly where you are at.  In fact, this is Elysia,
+the place of heroes, idols, and all those that find themselves fortunate
+enough to make their way here, people who have found a respite from the
+worlds troubles.  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D0
+~
+~
+0 0 770
+D3
+~
+~
+0 0 771
+S
+#773
+0 0
+~
+~
+~
+0 0 0
+A Hermit's Shed~
+Small shelves clutter this tiny alcove of tree branches and artifically
+placed wood.  A tiny straw mat lies in the corner of the room, very
+uncomfortable looking but certainly space saving.  The entire alcove is lit
+only by a small hooded lantern that hangs from a hook in the tree trunk. 
+And overall, you'd have to say that you are not impressed with the abode one
+bit.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+door~
+1 0 777
+S
+#774
+0 0
+~
+The warm sands part as $n steps onto the beach.~
+$n strolls off to the $T.~
+0 0 0
+Elysia~
+Beautiful waves of crystal water laps up on the whote sanded shore here,
+a vast expanse of water that stretches as far as your eyes can see.  But it
+is not as if you would want to leave this isle of trees and springs and
+wildlife.  It is the perfect respite of adventureres such as yourself.  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D1
+~
+~
+0 0 768
+D2
+~
+~
+0 0 769
+S
+#775
+0 0
+~
+The warm sands part as $n steps onto the beach.~
+$n strolls off to the $T.~
+0 0 0
+Elysia~
+Have you ever lies on the green grass behind your home, just staring up
+at the star filled sky, wondering who and what and why all those clusters
+and shapes of twinkling lights have been put there, why they have been
+arranged just so, and what it all means?  Heroes have been carved into the
+night line, men and women and immortals who will go down into history with
+the best that any living being had to offer.  It was rumored that these
+heroes have a resting place they like to come to once in a while, it was
+called Elysia, home of the brave and sanctimonious, the proud and the weary.
+And here you are on its shores, beautiful beyond belief, with everything
+here that you might want, were it not for your insatiable drive for
+adventure.  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D2
+~
+~
+0 0 770
+D3
+~
+~
+0 0 768
+S
+#776
+0 0
+~
+The warm sands part as $n steps onto the beach.~
+$n strolls off to the $T.~
+0 0 0
+Elysia~
+Water creeps carefully to the white sanded shore here, a delicate balance
+of nature that seems to have achieved harmony with such ease.  The water
+from the vast expanse of ocean smells and looks drinkable, if you could tell
+that much from the simple sight of it.  Trees on the island sway gently in
+the seabreeze, fruit and meats magically hanging from their shade producing
+boughs.  Underfoot, when not standing on the warm sands of the beach, your
+feet are comforted by a thick mat of rolling green grass, perfect comfort
+and respite for your adventured out body.  
+~
+0 0 2
+0
+~
+H200
+I 0 M200
+D0
+~
+~
+0 0 769
+D1
+~
+~
+0 0 771
+S
+#777
+0 0
+~
+~
+~
+0 0 0
+Up in a tree~
+Warm sap runs down the tree trunk that you have so elegantly scaled.  It
+is a healthy tree, for lack of anything better to say, but what it DOES
+offer you is a wonderful view of the forest ravine.  You can see how the
+trail runs almost completely elliptical, a bubbling brook running through
+its center, winding and curling in its clarity.  The fresh scent of pine
+here is overwhelming, a true outdoor scent.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+1 0 773
+S
+#778
+0 0
+(null)~
+~
+~
+0 0 0
+A Commencement~
+Pushing through the closely nestled trees whose branches entertwine to
+form a mural of almost impassable vegetation, you emerge into this clearing
+devoid of brambles and snares.  The light shimmers down on the oddly shaped
+silver pebbles surrounding this clearing, twisting and molding light in
+fantastic formulations of beauty.  Your breath held, an anticipation of
+something surreal gathers in your senses, forcing you pensive and
+introspective.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 779
+D3
+~
+~
+0 0 733
+S
+#779
+0 0
+(null)~
+~
+~
+0 0 0
+Path of Enlightenment~
+Slowly, with breathless fragility, tendrils of life embrace you with the
+rhythmic swaying of tree branches in the vibrant air.  Not content with your
+acquiesence to the power of nature surrounding you, the wind caresses you
+not so gently, eliciting a mortal reminder of subservience.  Thousands of
+leagues from the herd, you feel the initially awkward yet invigorating
+comfort of being utterly alone.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 780
+D3
+~
+~
+0 0 778
+S
+#780
+0 0
+(null)~
+~
+~
+0 0 0
+Path of Enlightenment~
+Ironic that out here, in the middle of nowhere, amidst the hungry untamed
+beasts, you feel safer than in the madness of the city.  Here in this
+purity, animals abide by the laws of the jungle, logical and just.  From the
+insanity of people comes the unfathomable ugliness that has corrupted known
+civilization so as to have sent you searching for just this type of
+vividness.  
+~
+0 X 3
+0
+~
+I 0 D2
+~
+~
+0 0 779
+S
+#0
+
+#RESETS
+D 0  709   2    1	* Tranquility [south]
+D 0  717   0    1	* A small hut [north]
+D 0  719   3    1	* Humility [west]
+D 0  717   1    1	* A small hut [east]
+D 0  719   1    1	* Humility [east]
+D 0  718   3    1	* A small hut [west]
+D 0  710   0    2	* Tranquility [north]
+D 0  716   2    2	* Crystals [south]
+D 0  715   2    1	* A terraced home [south]
+D 0  708   0    1	* Tranquility [north]
+O 0 700   0 747 -1	* The chapel well at The chapel well
+D 0  722   0    1	* A leaf roof home [north]
+D 0  720   2    1	* Humility [south]
+M 0  712   1  728  1	* The seeker
+D 0  726   2    2	* Deceit! [south]
+M 0  713   1  722  1	* A penitent man
+O 0 703   0 744 -1	* A stained glass window at The Chapel
+O 0 704   0 744 -1	* Wooden rafters at The Chapel
+O 0 707   0 744 -1	* A winespring well at The Chapel
+O 0 708   0 748 -1	* A straw mat bed at Resting chambers
+M 0  700   6  702  3	* A rainbow trout
+M 0  701   6  700  3	* A silverback fish
+D 0  723   2    0	* The Pithy Shipwright [south]
+M 0  715   1  721  1	* Shadra
+E 0  709   -1   12	* item to Shadra
+G 0  710 -1		* Tin root to Shadra
+G 0  711 -1		* A persimmon seed to Shadra
+G 0  712 -1		* A springtine stem to Shadra
+G 0  713 -1		* `jjin`cglebug b`jark`` to Shadra
+G 0  714 -1		* Water lils to Shadra
+G 0  715 -1		* A golden fern frond to Shadra
+G 0  716 -1		* Deep water to Shadra
+G 0  717 -1		* Dragon placenta to Shadra
+G 0  718 -1		* Geza saliva to Shadra
+G 0  719 -1		* An abalone leaf to Shadra
+M 0  716   1  716  1	* Patric
+G 0  720 -1		* `fa star crested amethyst`` to Patric
+G 0  721 -1		* An emerald swan figurine to Patric
+G 0  722 -1		* An amber orb to Patric
+G 0  723 -1		* `ea sapphire moon`` to Patric
+G 0  724 -1		* A pink quartz block to Patric
+G 0  725 -1		* A bloodstone tickler to Patric
+G 0  726 -1		* A diamond capsulet to Patric
+G 0  727 -1		* A ruby diamede to Patric
+O 0 728   0 734 -1	* A babbling brook at A forest ravine
+D 0  720   1    2	* Humility [east]
+D 0  721   3    2	* Shadra's Alchemy [west]
+M 0  718   1  741  1	* A lady of the wild
+E 0  729   -1   18	* item to A lady of the wild
+E 0  730   -1    1	* item to A lady of the wild
+O 0 731   0 741 -1	* A quiet mountain lake at A quiet mountain lake
+O 0 733   0 739 -1	* A mountain cliff at A mountain trail
+O 0 733   0 738 -1	* A mountain cliff at A mountain trail
+O 0 734   0 724 -1	* A skeleton at A battered and rocky gully
+M 0  710   7  708  1	* A meditative man
+M 0  710   7  710  1	* A meditative man
+M 0  710   7  719  1	* A meditative man
+M 0  703   7  709  1	* A robed villager
+M 0  703   7  707  1	* A robed villager
+O 0 740   0 762 -1	* Wooden rafters at In the chapel rafters
+O 0 742   0 761 -1	* A winespring well at The Chapel
+O 0 741   0 761 -1	* An iron chest at The Chapel
+O 0 703   0 761 -1	* A stained glass window at The Chapel
+O 0 704   0 761 -1	* Wooden rafters at The Chapel
+O 0 705   0 759 -1	* Wooden rafters at In the chapel rafters
+O 0 743   0 748 -1	* A rope ladder at Resting chambers
+O 0 744   0 763 -1	* A rope ladder at The chapel steeple
+O 0 701   0 755 -1	* Tree at Harmony
+O 0 702   0 764 -1	* Tree at Up in an aspen
+O 0 728   0 735 -1	* A babbling brook at A forest ravine
+O 0 728   0 733 -1	* A babbling brook at A forest ravine
+O 0 732   0 752 -1	* A quiet mountain lake at Inside a quiet mountain lake
+G 0  720 -1		* `fa star crested amethyst`` to A robed villager
+G 0  721 -1		* An emerald swan figurine to A robed villager
+G 0  711 -1		* A persimmon seed to A robed villager
+G 0  712 -1		* A springtine stem to A robed villager
+G 0  713 -1		* `jjin`cglebug b`jark`` to A robed villager
+G 0  714 -1		* Water lils to A robed villager
+G 0  746 -1		* A fountain pen to A robed villager
+G 0  747 -1		* A lump of graphite to A robed villager
+G 0  748 -1		* A velvet wrapped tours to A robed villager
+G 0  749 -1		* Velum to A robed villager
+G 0  751 -1		* Silk lace paper to A robed villager
+M 0  714   4  764  1	* Wild novena bird
+M 0  717   4  764  1	* A mockingbird
+M 0  720   1  766  1	* A wise one
+E 0  753   -1   16	* item to A wise one
+O 0 754   0 727 -1	* A blue flame lantern at Honesty
+M 0  721   1  723  1	* Argent
+E 0  755   -1   10	* item to Argent
+G 0  756 -1		* A concrete canoe to Argent
+G 0  757 -1		* A bamboo raft to Argent
+G 0  758 -1		* A short trunked kayak to Argent
+G 0  759 -1		* An underwater mask to Argent
+G 0  760 -1		* A life preserver to Argent
+M 0  705   1  714  1	* The seeress
+M 0  722   1  726  1	* A glittering blue dragon
+D 0  727   0    2	* Honesty [north]
+M 0  723   1  765  1	* A glittering bronze dragon
+D 0  765   1    2	* Trickery! [east]
+D 0  727   3    2	* Honesty [west]
+D 0  727   1    2	* Honesty [east]
+P 0 762 -1 741 1
+P 0 763 -1 741 1
+O 0 739   0 759 -1	* An iron chest at In the chapel rafters
+D 0  703   0    2	* Inside a prismatic sphere [north]
+D 0  760   2    2	* Inside a prismatic sphere [south]
+D 0  756   3    2	* Inside a prismatic sphere [west]
+D 0  760   1    2	* Inside a prismatic sphere [east]
+D 0  756   1    2	* Inside a prismatic sphere [east]
+D 0  757   3    2	* Inside a prismatic sphere [west]
+D 0  757   2    2	* Inside a prismatic sphere [south]
+D 0  758   0    2	* Inside a prismatic sphere [north]
+D 0  758   3    2	* Inside a prismatic sphere [west]
+D 0  725   1    2	* In a prismatic sphere [east]
+D 0  725   2    2	* In a prismatic sphere [south]
+E 0  765   -1   18	* item to A glittering bronze dragon
+E 0  766   -1   18	* item to A glittering bronze dragon
+E 0  767   -1   18	* item to A glittering bronze dragon
+E 0  768   -1   18	* item to A glittering bronze dragon
+E 0  769   -1   18	* item to A glittering bronze dragon
+E 0  770   -1   18	* item to A glittering bronze dragon
+E 0  771   -1   18	* item to A glittering bronze dragon
+O 0 772   0 703 -1	* A cannister of light at Inside a prismatic sphere
+P 0 764 -1 772 1
+O 0 745   0 763 -1	* Brass bell at The chapel steeple
+O 0 775   0 774 -1	* The crystal ocean at Elysia
+O 0 775   0 768 -1	* The crystal ocean at Elysia
+O 0 775   0 775 -1	* The crystal ocean at Elysia
+O 0 775   0 770 -1	* The crystal ocean at Elysia
+O 0 775   0 772 -1	* The crystal ocean at Elysia
+O 0 775   0 771 -1	* The crystal ocean at Elysia
+O 0 775   0 776 -1	* The crystal ocean at Elysia
+O 0 775   0 769 -1	* The crystal ocean at Elysia
+M 0  707   1  718  1	* A sick child
+M 0  735   5  709  2	* A three striped tern
+M 0  735   5  753  1	* A three striped tern
+M 0  736   4  733  2	* A spotted jin bird
+M 0  736   4  736  2	* A spotted jin bird
+O 0 778   0 736 -1	* Tree at A forest ravine
+O 0 779   0 777 -1	* Tree at Up in a tree
+D 0  777   0    1	* Up in a tree [north]
+D 0  773   2    1	* A Hermit's Shed [south]
+M 0  737   2  777  2	* A tinseled mothbird
+M 0  738   1  773  1	* The hermit of cove
+E 0  780   -1   16	* item to The hermit of cove
+E 0  781   -1   18	* item to The hermit of cove
+E 0  782   -1    6	* item to The hermit of cove
+M 0  740   4  730  1	* A quiet soul
+M 0  740   4  733  1	* A quiet soul
+M 0  724   4  734  1	* A fawn
+M 0  725   4  735  1	* A doe
+M 0  726   4  736  1	* An antlered deer
+M 0  726   4  731  1	* An antlered deer
+M 0  724   4  732  1	* A fawn
+M 0  725   4  733  1	* A doe
+M 0  739   1  752  1	* A chill fish
+G 0  783 -1		* Tidal oil to A chill fish
+O 0 785   0 773 -1	* A straw mat bed at A Hermit's Shed
+O 0 786   0 714 1	* `ma tarot card`` at The Prophecy
+O 0 735   0 751 -1	* A mahogany writing desk at A dimly lit room
+M 0  719   1  751  1	* Atsu
+G 0  752 -1		* A broad palm leaf to Atsu
+G 0  750 -1		* Cured leather parchment to Atsu
+G 0  751 -1		* Silk lace paper to Atsu
+G 0  749 -1		* Velum to Atsu
+G 0  747 -1		* A lump of graphite to Atsu
+G 0  746 -1		* A fountain pen to Atsu
+G 0  748 -1		* A velvet wrapped tours to Atsu
+G 0  714 -1		* Water lils to Atsu
+G 0  713 -1		* `jjin`cglebug b`jark`` to Atsu
+G 0  712 -1		* A springtine stem to Atsu
+G 0  711 -1		* A persimmon seed to Atsu
+G 0  727 -1		* A ruby diamede to Atsu
+G 0  726 -1		* A diamond capsulet to Atsu
+G 0  725 -1		* A bloodstone tickler to Atsu
+G 0  720 -1		* `fa star crested amethyst`` to Atsu
+E 0  737   -1   18	* item to Atsu
+G 0  715 -1		* A golden fern frond to Atsu
+G 0  721 -1		* An emerald swan figurine to Atsu
+M 0  734   1  767  1	* The fruitseller
+G 0  776 -1		* Paradise fruit to The fruitseller
+G 0  787 -1		* `ca kiwi fruit`` to The fruitseller
+O 0 777   0 767 -1	* A brass bell at Paradiso
+G 0  736 -1		* A wand of piety to The fruitseller
+G 0  765 -1		* A key of the spectrum to The fruitseller
+M 0  727   1  749  1	* A beam of red light
+G 0  765 -1		* A key of the spectrum to A beam of red light
+M 0  728   1  725  1	* A beam of orange light
+G 0  766 -1		* A key of the spectrum to A beam of orange light
+O 0 774   0 758 -1	* A wand of dispersion at Inside a prismatic sphere
+M 0  729   1  758  1	* A beam of yellow light
+E 0  767   -1   18	* item to A beam of yellow light
+M 0  730   1  757  1	* A beam of blue light
+E 0  768   -1   18	* item to A beam of blue light
+O 0 773   0 756 -1	* A wand of wonder at Inside a prismatic sphere
+M 0  731   1  756  1	* A beam of green light
+E 0  769   -1   18	* item to A beam of green light
+M 0  732   1  760  1	* A beam of indigo light
+E 0  770   -1   18	* item to A beam of indigo light
+M 0  733   1  703  1	* A beam of violet light
+E 0  771   -1   18	* item to A beam of violet light
+S
+
+#SHOPS
+715  0 26 10  0  0 	120  80 	5 22	* Shadra
+716  0  1 18  3  0 	140  50 	5 22	* Patric
+719 14 26  1  0  0 	80 110 	6 22	* Atsu
+721  0 40 41  2  0 	150  80 	4 23	* Argent
+734  0 19  0  0  0 	80 100 	0 23	* The fruitseller
+0
+
+#SPECIALS
+M 705 spec_cast_mage		* The seeress
+M 720 spec_breath_any		* A Wise One
+M 722 spec_breath_lightning		* A glittering blue dragon
+M 723 spec_breath_lightning		* A glittering bronze dragon
+M 727 spec_breath_fire		* A beam of red light
+M 728 spec_breath_fire		* A beam of orange light
+M 730 spec_breath_lightning		* A beam of blue light
+M 731 spec_breath_lightning		* A beam of green light
+M 732 spec_breath_lightning		* A beam of indigo light
+M 733 spec_breath_lightning		* A beam of violet light
+M 738 spec_cast_mage		* The Hermit of Cove
+S
+
+#OT
+#0
+#$

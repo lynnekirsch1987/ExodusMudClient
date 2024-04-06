@@ -1,0 +1,13 @@
+* File: hedgehog.scr
+
+#TRIGGER sonic
+Type 10
+Sc
+wfunc %wtf% random 0 50
+if (%wtf% == 1) || (%wtf% == 49)
+emote spins into a blue ball of fur and blast processes out of the room!~
+End
+
+#END
+
+

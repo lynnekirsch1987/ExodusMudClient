@@ -1,0 +1,988 @@
+#AREA
+ 3~
+casino.are~
+`jThesden Casino Tower``~
+{99 100} Possum  `jThesden Casino Tower``~
+~
+6650 6700
+0 0
+1 1
+~
+#MOBILES
+#6652
+chip vender~
+Chip, the chip vender~
+Chip, the chip vender is here, selling betting chips.
+~
+Chip is a well-dressed human, who wears a constant smile.  Customer
+service seems to be his singular thought.  He holds an array of colored
+chips that he would absolutely love to sell you.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+~
+~
+#6653
+Erasmus~
+Erasmus~
+Erasmus sits behind the counter, ready to pay out for your chips.
+~
+Erasmus is an older gentleman who sits behind a lonely counter paying out
+money to people all day.  He seems content in his job, for it is much better
+than breaking rocks for a living, yet he looks as though he wishes he were
+somewhere else.  
+~
+human~
+0 0 0 0
+AB DF 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+erasmus.voc~
+erasmus.scr~
+#6654
+banker~
+The banker~
+A banker is here to provide access to your money.
+~
+This banker has no personality whatsoever.  He is completely professional
+and fulfills all transactions with machine-like effieiency and accuracy. 
+You have to wonder if he's even really human.  
+~
+human~
+0 0 0 0
+ABd 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+1 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+~
+~
+#6655
+security guard~
+A security guard~
+A casino security guard keeps an eye out for cheaters and criminals.
+~
+The guard looks fit and alert, looking about carefully for suspicious
+activity.  
+~
+human~
+0 0 0 0
+AGT DFV 0 0
+70 5 40d140+1234 70d100+10 9d6+5 pound
+-50 -50 -50 -30
+CFKT B BC 0
+stand stand either 150
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 300
+4
+~
+~
+#6656
+dealer~
+The dealer~
+A well-dressed dealer stands by, ready to play a game of chance.
+~
+The coin-flip dealer is dressed professionally in the clothes of a
+nobleman, although he doesn't seem completely comfortable in them.  The
+clothes are probably the required uniform for the position.  The dealer is
+well-versed in the rules of the coin-flip game, so if you have any questions
+about how to play, just ask him what the rules are.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+casinoflipper.voc~
+casinoflipper.scr~
+#6657
+dealer~
+The dealer~
+A well-dressed dealer stands by, ready to play a game of chance.
+~
+The coin-flip dealer is dressed professionally in the clothes of a
+nobleman, although he doesn't seem completely comfortable in them.  The
+clothes are probably the required uniform for the position.  The dealer is
+well-versed in the rules of the coin-flip game, so if you have any questions
+about how to play, just ask him what the rules are.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+casinoflipper.voc~
+casinoflipper.scr~
+#6658
+dealer~
+The dealer~
+A well-dressed dealer stands by, ready to play a game of chance.
+~
+The coin-flip dealer is dressed professionally in the clothes of a
+nobleman, although he doesn't seem completely comfortable in them.  The
+clothes are probably the required uniform for the position.  The dealer is
+well-versed in the rules of the coin-flip game, so if you have any questions
+about how to play, just ask him what the rules are.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+casinoflipper.voc~
+casinoflipper.scr~
+#6659
+dealer~
+The dealer~
+A well-dressed dealer stands by, ready to play a game of chance.
+~
+The coin-flip dealer is dressed professionally in the clothes of a
+nobleman, although he doesn't seem completely comfortable in them.  The
+clothes are probably the required uniform for the position.  The dealer is
+well-versed in the rules of the coin-flip game, so if you have any questions
+about how to play, just ask him what the rules are.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+casinoflipper.voc~
+casinoflipper.scr~
+#6660
+security guard~
+A security guard~
+A casino security guard keeps an eye out for cheaters and criminals.
+~
+The guard looks fit and alert, looking about carefully for suspicious
+activity.  
+~
+human~
+0 0 0 0
+AGT DFV 0 0
+70 5 40d140+1234 70d100+10 9d6+5 pound
+-50 -50 -50 -30
+CFKT B BC 0
+stand stand either 150
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 300
+4
+~
+~
+#6661
+dealer~
+The dealer~
+A well-dressed dealer stands by, ready to play a game of chance.
+~
+The coin-flip dealer is dressed professionally in the clothes of a
+nobleman, although he doesn't seem completely comfortable in them.  The
+clothes are probably the required uniform for the position.  The dealer is
+well-versed in the rules of the dice game, so if you have any questions
+about how to play, just ask him what the rules are.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+casinodice.voc~
+casinodice.scr~
+#6662
+dealer~
+The dealer~
+A well-dressed dealer stands by, ready to play a game of chance.
+~
+The coin-flip dealer is dressed professionally in the clothes of a
+nobleman, although he doesn't seem completely comfortable in them.  The
+clothes are probably the required uniform for the position.  The dealer is
+well-versed in the rules of the dice game, so if you have any questions
+about how to play, just ask him what the rules are.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+casinodice.voc~
+casinodice.scr~
+#6663
+dealer~
+The dealer~
+A well-dressed dealer stands by, ready to play a game of chance.
+~
+The coin-flip dealer is dressed professionally in the clothes of a
+nobleman, although he doesn't seem completely comfortable in them.  The
+clothes are probably the required uniform for the position.  The dealer is
+well-versed in the rules of the dice game, so if you have any questions
+about how to play, just ask him what the rules are.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+casinodice.voc~
+casinodice.scr~
+#6664
+dealer~
+The dealer~
+A well-dressed dealer stands by, ready to play a game of chance.
+~
+The coin-flip dealer is dressed professionally in the clothes of a
+nobleman, although he doesn't seem completely comfortable in them.  The
+clothes are probably the required uniform for the position.  The dealer is
+well-versed in the rules of the dice game, so if you have any questions
+about how to play, just ask him what the rules are.  
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 100 1d1+9999 1d1+9999 1d1+9999 divine
+0 0 0 0
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+4
+casinodice.voc~
+casinodice.scr~
+#0
+
+#OBJECTS
+#6650
+rules~
+a copy of the rules of the dice game~
+A copy of the rules of the dice game lie here.~
+paper~
+2
+trash S A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+E
+rules~
+`hThis game of dice is very simple.  You start off by purchasing a chip to play
+`hwith.  
+`h
+`h  l   m   h
+`h  o   i   i
+`h  w   d   g
+`h          h
+`h+---+---+---+
+`h| 1 | 3 | 5 |  odd
+`h+---+---+---+
+`h| 2 | 4 | 6 |  even
+`h+---+---+---+
+`h
+`h
+`k1, 2, 3, 4, 5, 6 each have a 1 in 6 chance of winning and pay off 6 to 1.
+`h
+`kHIGH, MID, and LOW each have a 1 in 3 chance of winning and pay off 3 to 1.
+`h
+`kODD and EVEN have a 1 in 2 chance of winning and pay off 2 to 1.
+`h
+`hOnce you've purchased your chip west of the lobby, give it to the dealer and
+`hhe'll ask you what you want to bet on.  Once you bet, the dealer will throw
+`hthe dice.  You can see what he rolled and if you won, he'll drop your winnings.
+`h
+`hIf you find any bugs or suspect someone is cheating the system, please inform
+`kMinax`h or any other immortal immediately and we will look into the matter.  If
+`hyou figure out a way to cheat the system, do not share it with other people.
+`hReport it to Minax and he will reward you for your discovery.  If an immortal
+`hcatches you cheating, they will reward you with jail time.  `wDO NOT CHEAT!``
+`h
+`hHave fun and good luck!
+`h
+`o-=*) Minax (*=-``
+~
+#6651
+fountain~
+the sparkling fountain~
+A glittering gold-colored fountain squirts a stream of ale into the air.~
+gold~
+0
+fountain RS 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 AB 0 0
+0
+0
+1 10000 0 P
+#6652
+red chip~
+a `ired chip`` worth `k250 gold``~
+A `ired chip`` worth `k250 gold`` lies here.~
+plastic~
+0
+treasure S A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 25000 P
+#6653
+black chip~
+a `ablack chip`` worth `k500 gold``~
+A `ablack chip`` worth `k500 gold`` lies here.~
+plastic~
+0
+treasure S A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 50000 P
+#6654
+gold chip~
+a `kgold chip`` worth `k1000 gold``~
+A `kgold chip`` worth `k1000 gold`` lies here.~
+plastic~
+0
+treasure S A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 100000 P
+#6655
+blue chip~
+a `lblue chip`` worth `k2000 gold``~
+A `lblue chip`` worth `k2000 gold`` lies here.~
+plastic~
+0
+treasure S A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 200000 P
+#6656
+sign~
+a sign~
+A sign is posted on the wall here.~
+wood~
+0
+trash S 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+sign~
+To cash chips out, just give them to Erasmus.  If there is a mistake and
+Erasmus does not cash out a chip, just give him something that is not a chip
+and he will drop everything he is holding.  
+~
+#0
+
+#ROOMS
+#6650
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Gambling Hall~
+The entrance to the casino tower has been made as flashy as possible,
+with magical torches mounted on the walls that burn in different colors,
+throwing odd shadows around the room.  Joyous music echoes within the walls,
+played by an unseen bard somewhere, which only adds to the festival-like
+atmosphere.  The exit to the casino is to the west, but all the action is
+happening above.  
+~
+0 CD 0
+0
+~
+I 0 D4
+~
+~
+0 0 6651
+S
+#6651
+0 0
+~
+~
+~
+0 0 0
+Gambling Hall Anteroom~
+This chamber is a hive of activity, as patrons travel to and from the
+games upstairs and through the entrance to the casino tower below.  To the
+west is the buy-in room, where you can purchase gambling chips.  To the east
+is the cash-out room, where you can redeem the chips you have for money.  To
+the south is an all-important bank, allowing prospective winners full access
+to their funds.  
+~
+0 CDX 0
+0
+~
+I 0 D1
+~
+~
+0 0 6653
+D2
+~
+~
+0 0 6654
+D3
+~
+~
+0 0 6652
+D4
+~
+~
+0 0 6655
+D5
+~
+~
+0 0 6650
+S
+#6652
+0 0
+~
+~
+~
+0 0 0
+Buy-In Room~
+The buy-in room is decorated very lavishly.  It is, after all, the second
+most important area of the asino, after the playing area.  Beautiful artwork
+hangs from the walls, depicting fine clothing and exotic locations, perhaps
+to remind people that fortune may only be minutes away.  The only exit is east
+to the casino anteroom.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6651
+S
+#6653
+0 0
+~
+~
+~
+0 0 0
+Cash-Out Room~
+The cash-out room is not quite as glorious.  As the buy-in room or the
+anteroom giving you the impression that the casino proprietors are not as
+excited about giving up money as they are about taking your money. 
+Nonetheless, a pleasant- looking fellow stands behind a counter, ready to
+pay you for your chips.  An exit leads west to the casino anteroom.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 6651
+S
+#6654
+0 0
+~
+~
+~
+0 0 0
+Bank~
+The bank is an important part of the casino tower, and as such, is
+located in a prominent position.  Just as in the buy-in room, beautiful
+artwork adorns the walls depicting the fabulous possessions you could own or
+the exciting locales you could travel to once you gamble (and win, of
+course) 
+~
+0 CDY 0
+0
+~
+I 0 D0
+~
+~
+0 0 6651
+S
+#6655
+0 0
+~
+~
+~
+0 0 0
+Casino Intersection~
+You stand at an intersection on the third floor of the casino tower. 
+This is the first level of gaming tables, and the simplest gambling games
+can be found around you, primarily the coin flip game.  To the north, south,
+east, and west are casino tables, each with a dealer.  Below is the casino
+anteroom and above is the fourth floor, where more complicated casino games
+can be found.  
+~
+0 CDSX 0
+0
+~
+I 0 D0
+~
+~
+0 0 6657
+D1
+~
+~
+0 0 6658
+D2
+~
+~
+0 0 6659
+D3
+~
+~
+0 0 6656
+D4
+~
+~
+0 0 6660
+D5
+~
+~
+0 0 6651
+S
+#6656
+0 0
+~
+~
+~
+0 0 0
+Coin-Flipping Room~
+You find yourself standing in from of a tidy table facing a well-dressed
+casino employee.  At this booth, the game is coin-flip.  If you don't
+already know the rules to this simple game, just ask the dealer what the
+rules are and he'll tell you.  
+~
+0 CDHS 0
+2
+That table occupied.  Try another one or come back later.~
+I 0 D1
+~
+~
+0 0 6655
+S
+#6657
+0 0
+~
+~
+~
+0 0 0
+Coin-Flipping Room~
+You find yourself standing in from of a tidy table facing a well-dressed
+casino employee.  At this booth, the game is coin-flip.  If you don't
+already know the rules to this simple game, just ask the dealer what the
+rules are and he'll tell you.  
+~
+0 CDHS 0
+2
+That table occupied.  Try another one or come back later.~
+I 0 D2
+~
+~
+0 0 6655
+S
+#6658
+0 0
+~
+~
+~
+0 0 0
+Coin-Flipping Room~
+You find yourself standing in from of a tidy table facing a well-dressed
+casino employee.  At this booth, the game is coin-flip.  If you don't
+already know the rules to this simple game, just ask the dealer what the
+rules are and he'll tell you.  
+~
+0 CDHS 0
+2
+That table occupied.  Try another one or come back later.~
+I 0 D3
+~
+~
+0 0 6655
+S
+#6659
+0 0
+~
+~
+~
+0 0 0
+Coin-Flipping Room~
+You find yourself standing in from of a tidy table facing a well-dressed
+casino employee.  At this booth, the game is coin-flip.  If you don't
+already know the rules to this simple game, just ask the dealer what the
+rules are and he'll tell you.  
+~
+0 CDHS 0
+2
+That table occupied.  Try another one or come back later.~
+I 0 D0
+~
+~
+0 0 6655
+S
+#6660
+0 0
+~
+~
+~
+0 0 0
+Casino Intersection~
+On the fourth floor, you are surrounded by even more excitement.  All
+around you, you can hear the clatter of dice, as well as the occasional
+cheer of a winner.  The ever-present festive music is louder here, and you
+find your spirits lightened by this environment of fun and the promise of
+riches.  In all directions are tables for the dice game.  The dice game is
+not complex, but not as simple as the coin-flip.  It also offers more
+possibilities for betting.  You can walk north, south, east, or west and ask
+a dealer about the rules and he will tell you everything you need to know. 
+A stairway also leads down into the lower parts of the casino.  
+~
+0 CDSX 0
+0
+~
+I 0 D0
+~
+~
+0 0 6662
+D1
+~
+~
+0 0 6663
+D2
+~
+~
+0 0 6664
+D3
+~
+~
+0 0 6661
+D5
+~
+~
+0 0 6655
+S
+#6661
+0 0
+~
+~
+~
+0 0 0
+Dice Game Room~
+You find yourself standing in from of a tidy table facing a well-dressed
+casino employee.  At this booth, the game is dice.  If you don't already
+know the rules to this game, just ask the dealer what the rules are and
+he'll tell you what you need to know.  
+~
+0 CDH 0
+2
+~
+I 0 D1
+~
+~
+0 0 6660
+S
+#6662
+0 0
+~
+~
+~
+0 0 0
+Dice Game Room~
+You find yourself standing in from of a tidy table facing a well-dressed
+casino employee.  At this booth, the game is dice.  If you don't already
+know the rules to this game, just ask the dealer what the rules are and
+he'll tell you what you need to know.  
+~
+0 CDHS 0
+2
+~
+I 0 D2
+~
+~
+0 0 6660
+S
+#6663
+0 0
+~
+~
+~
+0 0 0
+Dice Game Room~
+You find yourself standing in from of a tidy table facing a well-dressed
+casino employee.  At this booth, the game is dice.  If you don't already
+know the rules to this game, just ask the dealer what the rules are and
+he'll tell you what you need to know.  
+~
+0 CDHS 0
+2
+~
+I 0 D3
+~
+~
+0 0 6660
+S
+#6664
+0 0
+~
+~
+~
+0 0 0
+Dice Game Room~
+You find yourself standing in from of a tidy table facing a well-dressed
+casino employee.  At this booth, the game is dice.  If you don't already
+know the rules to this game, just ask the dealer what the rules are and
+he'll tell you what you need to know.  
+~
+0 CDHS 0
+2
+~
+I 0 D0
+~
+~
+0 0 6660
+S
+#0
+
+#RESETS
+M 0 6654   1 6654  1	* The banker
+O 0 6651   0 6651 -1	* The sparkling fountain at Gambling Hall Anteroom
+M 0 6656   1 6656  1	* The dealer
+M 0 6657   1 6657  1	* The dealer
+M 0 6658   1 6658  1	* The dealer
+M 0 6659   1 6659  1	* The dealer
+M 0 6661   1 6661  1	* The dealer
+M 0 6652   1 6652  1	* Chip, the chip vender
+G 0 6652 -1		* A `ired chip`` worth `k250 gold`` to Chip, the chip vender
+M 0 6662   1 6662  1	* The dealer
+M 0 6663   1 6663  1	* The dealer
+M 0 6664   1 6664  1	* The dealer
+O 0 6656   0 6653 -1	* A sign at Cash-Out Room
+M 0 6655   1 6655  1	* A security guard
+M 0 6660   1 6660  1	* A security guard
+S
+
+#SHOPS
+6652  8  0  0  0  0 	100 100 	0 23	* Chip, the chip vender
+0
+
+#SPECIALS
+M 6655 spec_guard		* A security guard
+M 6660 spec_guard		* A security guard
+S
+
+#$

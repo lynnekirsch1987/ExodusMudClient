@@ -1,0 +1,14 @@
+Goldmund
+teach&me:>2:-:I will teach you, though you look like a slow learner.
+hello|hi:>2:-:Hello $name, are you here to learn?
+who&are&you:>2:-:I am Zeryn, teacher for foolish young apprentices like yourself.
+What&Order|what&crescent|what&moon:>2:-:Our order is the most powerful mage's guild left in the city of Thesden.
+what&thesden:>2:-:It is the city you are in, child. Maybe you are unfit to learn after all.
+DEFAULT:>2:-:Are you here to learn, or talk? I have more important things to do with my time.
+where&am:>2:-:You are in my chambers, in the tower of the Order of the Crescent Moon.
+DEFAULT:>3:-:If you are here to talk, I have more important concerns, so go elsewhere. The tower has other services to offer.
+services|tower:>3:-:The tower has a practice room on this floor, and a shop and meditation room on the third floor.;CMD ponder; CMD say 'oh, and don't disturb the master on the fourth floor, he wouldn't be pleased.'
+fuck|shit|ass|bitch|dick|cunt:>2:-1:CMD frown;You're trying my patience.
+I&will&kill|fight&you:>2:-1:CMD frown;You're trying my patience.
+I&will&kill|fight&you:<3:6:I see...;CMD yell Don't play with fire, $name.  You're gonna get BURNED!;CMD cast 'web' $name;CMD cast 'acid blast' $name
+fuck|shit|ass|bitch|dick|cunt:<3:6:I see...;CMD yell Don't play with fire, $name.  You're gonna get BURNED!;CMD cast 'web' $name;CMD cast 'acid blast' $name

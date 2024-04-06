@@ -1,0 +1,37 @@
+* File: midnight.scr
+* Mob: Midnight (mob 4121)
+
+#TRIGGER tick
+Type 3
+Sc
+mfunc self %gold% gold
+if ( %gold% > 100000 )
+  cmd yell You guys have been great!  I just made another 100,000 gold.
+  say Please excuse me.  I'll be right back in a moment.
+  cmd at 1243 drop 90000 gold
+  walkto 4135
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+mfunc self %rvnum% room
+wfunc %little% random 1 10
+  emote staggers clumsily, burdened by the vast amounts of gold he has made.
+  cmd drop %little% gold
+if (%rvnum% == 4135 )
+  emote buys `oa shining `ir`ja`ki`ln`nb`bo`mw `opotion``.
+  at 1 load obj 4094
+  walkto 4166
+  halt once~
+Sc
+if (%rvnum% == 4166 )
+  cmd yell To celebrate me being so rich and all, I bought a rainbow potion.
+  cmd yell Come pick up the potion at my smoke shop.  First one here gets it!
+  cmd yell I'll just leave it on the ground in here.
+  cmd drop rainbow
+  halt once~
+End
+
+#END

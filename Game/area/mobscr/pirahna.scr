@@ -1,0 +1,28 @@
+* Mob Vnum: 18921
+* Mob Name: piranha
+* Room Vnum: 18925
+
+
+#TRIGGER toothy
+Type 2
+Sc
+wfunc %rnd% random 0 6
+if (%rnd% == 0)
+  pecho %toothy-from% A Piranha circles around and attacks you from behind.
+  halt once~
+Sc
+if (%rnd% == 1)
+  pecho %toothy-from% A Piranha sinks its teeth into your leg.
+  halt once~
+Sc
+if (%rnd% == 2)
+  pecho %toothy-from% A Piranha shows you a mouth full of pointy teeth.
+  halt once~
+Sc
+if (%rnd% == 3)
+  pecho %toothy-from% A Piranha thrashes about in a frenzy and darts in to attack.
+  halt once~
+End
+
+#END
+

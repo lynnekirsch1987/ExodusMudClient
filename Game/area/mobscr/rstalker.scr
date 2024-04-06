@@ -1,0 +1,11 @@
+* File: rstalker.scr
+* Mob: Stalker(13419)
+
+#TRIGGER id
+Type 10
+Sc
+echo A shadow slides quickly out of your view.
+halt once~
+End
+
+#END

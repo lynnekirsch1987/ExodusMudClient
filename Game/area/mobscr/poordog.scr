@@ -1,0 +1,20 @@
+
+* Mob Vnum: 19094
+* Mob Name: poor dog
+* Room Vnum: 19067
+
+#TRIGGER pdg
+Type 3
+Sc
+wfunc %rnd% random 0 6
+if (%rnd% == 0)
+  emote staggers around in confusion then pees on your foot.
+  halt once~
+Sc
+if (%rnd% == 1)
+  emote whimpers pathetically.
+  halt once~
+End
+
+#END
+

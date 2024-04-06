@@ -1,0 +1,28 @@
+﻿@inject IJSRuntime JS
+@using TinyMCE.Blazor;
+
+<Editor Id="HelpTextEditor" @bind-Value=content ApiKey="gmz196ednjlh8ecuzg9erjbmo8h2lz139jdalzs13amytxd0" />
+<textarea @bind=content @bind:event="oninput"></textarea>
+@code {
+    [Parameter]
+    public string ElementId { get; set; } = "tinymce-editor";
+
+    [Parameter]
+    public string content { get; set; }
+
+    [Parameter]
+    public EventCallback<string> ContentChanged { get; set; }
+
+    public string Content
+    {
+        get => content;
+        set
+        {
+            if (content != value)
+            {
+                content = value;
+                ContentChanged.InvokeAsync(value);
+            }
+        }
+    }
+}

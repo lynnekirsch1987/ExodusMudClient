@@ -1,0 +1,4 @@
+f ( %level% >= 15 ) && ( %name% == "jimthetest" )
+   backstab %name%
+      halt once~
+      End

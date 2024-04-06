@@ -1,0 +1,14 @@
+* File: thesmerchant.scr
+* Mob: merchant (4083)
+
+#TRIGGER refuse
+Type 5
+Sc
+mfunc %refuse-from% %name% name
+ofunc %refuse-arg% %obj% name
+    give %obj% %name%
+    say I am not trading this day, friend.
+    cmd smile
+    halt once~
+End
+#END

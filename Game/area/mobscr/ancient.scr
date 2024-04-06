@@ -1,0 +1,29 @@
+* File: Ancient.scr
+* Mob: Ancient (958)
+* creator: Minax
+* Last modified: Friday, March 5, 2004
+
+#TRIGGER born
+Type 4
+Sc
+cmd sleep sarcophagus
+halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %lvl% level
+if (%lvl% < 90)
+  halt once~
+Sc
+  pecho %death-from% You feel fire streak through your veins as the ancient sinks his teeth into your neck.
+  cmd gecho `aThunder rumbles across the sky as %death-from% is accepted into the ranks of the Kalian.``
+  cmd im %death-from% just killed me.  Looks like we have a new Kalian.
+  cmd im Wait, that means I'm dead.   Oh shi
+  cmd makekalian %death-from%
+  cmd transfer %death-from% 4200
+  halt once~
+End
+
+#END

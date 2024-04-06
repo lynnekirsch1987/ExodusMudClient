@@ -1,0 +1,11 @@
+Possum
+pirate|pirates:>1:-:I will defeat these pirates!;I must rally my men and launch a counterattack!
+against:>1:+1:CMD smile $name;Any foe of the pirates is a friend of mine.  You may pass undisturbed.
+with:>1:-1:CMD emote narrows his eyes and reaches for his blade.;If you're with the pirates, then you're against us.;I dare you to tell me that again, $race
+hello|hi:>1:-:CMD look $name;`hAre you `kwith`h the pirates or `kagainst`h them, foreigner?
+with:<2:-1:You have some nerve coming into my city and sayin that to my face.;To arms with you!;CMD bash $name
+key:>1:-:Perhaps I should be asking what YOU know about my stolen key.;It was stolen by some wretched goblin who ran off into the night.
+goblin|goblins:>1:-:Goblins have been seen occasionally east of town near the volcano.;The one who stole my key was headed that way.
+lock|unlock|door:>1:-:I will not say what door the key unlocks, for that knowledge is very dangerous.;If you find the key, you may as well destroy it.
+dragon:>1:-:I have only heard stories of the dragon, but from what I have heard, I hope I never see it in person.  It attacked the village while I was gone.  When I came back and saw the damage, I led a group of my best warriors into a cave in the volcano.
+volcano|cave:>1:-:We sealed the door leading to the dragon's lair.  If we can force people to leave it alone, hopefully it will leave us alone.  It is sealed with a special lock that I alone posess the key to...or at least I did until it was stolen recently.

@@ -1,0 +1,13845 @@
+#AREA
+ 6~
+phalanx.are~
+`hTemple of the Phalanx``~
+{90 91} Iverath  `hTemple of the Phalanx``~
+~
+9935 10195
+80 BEGI 4004
+0 0
+~
+#MOBILES
+#9935
+statue limestone guardian~
+A limestone guardian~
+`bAll four arms spread, this statue effectively blocks the southern tunnel.``
+~
+`hThe neutral features of this almost contourless statue blends in well
+against this underground temple.  It would have blended in - if it was not
+blocking the passage south.  `` 
+~
+unique~
+0 0 0 0
+ABEN Z 0 0
+70 60 10000d1+1 500d1+1 40d3+20 crush
+-5 -5 -5 999 -5
+ADS 62 4 CEIK ABLQUb 0 JN
+stand stand neutral 0
+HM K 25 3 3 15 25 10 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9936
+statue limestone guardian~
+A limestone guardian~
+`bAnother great statue blocks the passage to the north.``
+~
+`hThe neutral features of this almost contourless statue blends in well
+against this underground temple.  It would have blended in - if it was not
+blocking the passage north.``
+~
+unique~
+0 0 0 0
+ABEN Z 0 0
+70 60 10000d1+1 500d1+1 40d3+20 wrath
+-5 -5 -5 999 -5
+A 60 4 CEIK ABLQUb 0 JN
+stand stand neutral 0
+HM K 25 10 10 15 25 5 0
+large stone~
+0 0 0 1000
+4
+~
+~
+#9937
+tangle snakes yellow striped~
+A tangle of snakes~
+`bThe floor crawls with yellow-striped snakes``
+~
+`hA tangle of yellow-striped snakes hisses menacingly as you approach. 
+It is hard to see the floor through the many coils of reptile bodies located
+here, perhaps you should have taken the other path.  `` 
+~
+lizard~
+0 0 0 0
+ABF Z 0 0
+50 30 1000d1+1 1d1+0 5d30+1 bite
+10 10 10 999 10
+D 60 3 AF Ua L I
+stand stand none 0
+AGXc ACDEFHKQVa 10 10 10 10 10 10 0
+small oldstyle~
+0 0 0 100
+1
+~
+~
+#9938
+explorer~
+An explorer~
+`bAn explorer sits here between many leather bags full of ancient artifacts looted from the temple.``
+~
+`hArmed to the teeth and clad in a diverse collection of enchanted
+leather armor this man looks rather content.  He sits in the middle of this
+room, catching his breath from carrying all the bags that surround him. 
+Each and every bag seem to be full of ancient artifacts and treasures
+collected from the temple below.  `` 
+~
+human~
+0 0 0 0
+AB 0 500 0
+90 50 10000d1+1 500d1+1 30d30+20 pierce
+0 0 0 999 0
+D 60 5 0 ABbc 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#9939
+diggingdwarf dwarf ~
+A digging dwarf~
+`bA dwarf is using his pick-axe to hack out artifacts from the wall.``
+~
+`hWith a grim smile on his bearded face, this sweating dwarf is hacking
+away at the unrelenting wall.  The pick-axe he is wielding has not even made
+a scratch no the ancient stone, but dwarves are known for being stubborn. 
+You wonder who will give in first.  `` 
+~
+dwarf~
+0 0 0 0
+AB JZ 500 0
+80 80 8000d1+1 300d1+1 15d15+20 crush
+-10 -10 -10 999 -12
+D 60 3 DEK B LQ R
+stand stand male 0
+AHMV ABCDEFGHIJKa 18 14 17 10 21 10 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#9940
+ancient stone wall~
+``the ancient stone wall~
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 0 30000d1+1 0d0+0 0d0+0 none
+0 0 0 999 0
+DS 60 0 0 ABCDUabcd 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 3 3 3 3 25 3 0
+medium oldstyle~
+0 0 0 1
+0
+~
+~
+#9941
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#9942
+tangle snakes yellow striped~
+A tangle of snakes~
+`bThe floor crawls with yellow-striped snakes``
+~
+`hA tangle of yellow-striped snakes hisses menacingly as you approach. 
+It is hard to see the floor through the many coils of reptile bodies located
+here, perhaps you should have taken the other path.  `` 
+~
+lizard~
+0 0 0 0
+ABF Z 0 0
+50 30 1000d1+1 1d1+0 5d30+5 bite
+10 10 10 999 10
+0 60 0 AF Ua L I
+stand stand none 0
+AGXc ACDEFHKQVa 10 5 5 20 10 5 0
+small oldstyle~
+0 0 0 100
+1
+~
+~
+#9943
+graverobber robber~
+A grave robber~
+`bA grave robber hides behind a clay vase.``
+~
+`hWearing grey and brown robes this thief can hardly be seen against the
+shadows in which he lurks.  He carries various tools in the hoops of a belt
+around his waist.  Tools which will, no doubt, be used to hack the gem-eyes
+out of old statues and mosaics.  `` 
+~
+elf~
+0 0 0 0
+ABHS EFJQV -200 0
+80 200 7000d1+1 100d1+40 20d20+20 pierce
+-10 -10 -10 999 0
+0 60 2 BFK B BC Z
+stand stand male 4000
+AHMV ABCDEFGHIJKa 15 10 10 23 15 17 0
+medium oldstyle~
+0 0 0 800
+4
+~
+~
+#9944
+swarm black flies~
+A swarm of black flies~
+`bThe air is black with swarming flies!``
+~
+`hBuzzing black flies surround you; burrowing into your flesh and trying
+to crawl into your nose and mouth!  Flee!  `` 
+~
+unique~
+0 0 0 0
+ABF J 0 0
+90 200 10000d1+1 0d0+0 5d3+2 digestion
+0 0 0 999 0
+DS 60 10 F ALQUacd D H
+stand stand neutral 0
+ADHOc 0 20 10 10 20 20 10 0
+medium oldstyle~
+0 0 0 1000
+0
+~
+~
+#9945
+illusion horrible lich~
+An illusion~
+`bA horrible lich is here, drooling and hissing.``
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+80 0 1d1+1 1d1+1 1d1+1 breath
+0 0 0 999 0
+CDS 0 0 0 0 0
+stand stand neutral 0
+ADHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#9946
+monstrous minotaur illusion~
+An illusion~
+`bA monstrous minotaur slams its club into the floor here.``
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+80 0 1d1+1 1d1+1 1d1+1 breath
+0 0 0 999 0
+D 60 0 0 0 0 0
+stand stand neutral 0
+ADHMV ABCDEFGHIJKa 0 0 0 0 0 0 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#9947
+reflection1~
+A reflection~
+`bYou see the reflection of yourself here.``
+~
+`hIt is you, obviously.``
+~
+unique~
+0 0 0 0
+ABFH 0 0 0
+80 50 8000d1+1 0d0+0 20d20+10 none
+-2 -2 -2 999 -20
+DSVWa 60 3 A BLQUab OS E
+stand stand neutral 0
+D 0 20 3 3 18 10 25 0
+medium oldstyle~
+0 0 0 600
+4
+~
+~
+#9948
+reflection2~
+A reflection~
+`bYou see the reflection of yourself here.``
+~
+`hIt is you, obviously.``
+~
+unique~
+0 0 0 0
+ABFH 0 0 0
+80 50 8000d1+1 0d0+0 20d20+20 crush
+-2 -2 -2 999 -20
+DSVWa 60 2 A BLQUab OS E
+stand stand neutral 0
+D 0 20 3 3 18 13 25 0
+large oldstyle~
+0 0 0 600
+4
+~
+~
+#9949
+cave stalker~
+A cave stalker~
+`bThis feline's fur shimmers with a green glow.``
+~
+`hA sleek cat sits on its hind legs watching you with its large yellow
+eyes.  Its fur emmits a soft green glow that somehow does not reflect in the
+floor or walls.  `` 
+~
+cat~
+0 0 0 0
+AI FUVZ -100 0
+70 70 3000d1+1 1d450+3 15d10+13 claw
+0 0 0 999 0
+0 60 2 FH ABc 0 S
+stand stand neutral 0
+AGV ACDEFHJKQUVa 17 12 10 20 14 13 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#9950
+animated mushroom~
+An animated mushroom~
+`bAn animated mushroom wobbles around on its newly aquired legs here.``
+~
+`hThis mushroom has legs, and it can barely use them.  Wobbling around on
+its two new legs it bumps into you, walls and doors.  `` 
+~
+unique~
+0 0 0 0
+AI d 0 0
+1 -100 15d1+0 0d0+0 1d1+0 none
+0 0 0 999 0
+W 60 1 0 0 0 CD
+stand stand neutral 1
+0 0 3 10 3 3 3 3 0
+tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#9951
+ranger~
+A ranger~
+`bA ranger has found a safe alcove here, away from the living mirror images.``
+~
+~
+human~
+0 0 0 0
+AB DFH 700 0
+90 100 10000d1+1 100d2+150 0d0+0 none
+-10 -10 -10 999 -10
+R 0 F ABUbc 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJKa 18 15 15 17 20 14 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#9952
+bringar dwarf~
+Bringar the dwarf~
+`bAn adventuring dwarf stands here protecting the treasures he has accumulated.``
+~
+`hBringar, the infamous adventurer that was the one that discovered the
+third continent.  He he known for his ruthlessness, but also his great
+affinity for finding treasures.  He never has any trouble finding people to
+join him on expiditions to uncharted lands.  `` 
+~
+dwarf~
+0 0 0 0
+ABN JOZ -700 666
+90 70 12000d1+1 500d1+1 20d20+30 drain
+-10 -10 -10 999 -5
+AD 62 3 DEFKV a LQ R
+stand stand male 20000
+AHMV ABCDEFGHIJKa 18 15 17 18 21 12 0
+medium oldstyle~
+0 0 0 700
+4
+~
+~
+#9953
+statue limestone guardian~
+A limestone guardian~
+`bA four-armed statue stands here, holding two shields and a pair of swords.``
+~
+`hThe neutral features of this almost contourless statue blends in well
+against this underground temple.``
+~
+unique~
+0 0 0 0
+ABEN Z 0 0
+80 60 10000d1+1 500d1+1 40d3+40 wrath
+-5 -5 -5 999 -5
+DS 60 2 CEIK ABLQUb 0 JN
+stand stand neutral 0
+HM K 25 0 3 15 20 5 0
+large stone~
+0 0 0 1000
+4
+~
+~
+#9954
+Smarg underling thief~
+Smarg the underling~
+`bA puny thief is hiding behind Bringar.``
+~
+`hA diminutive man hides behind his bigger friend - waiting for the right
+moment to strike at the opponents back.  His pockets bulge with trinkets
+that he has managed to palm before Bringar noticed them.  `` 
+~
+human~
+0 0 0 0
+ABS BJQVZ -700 666
+80 70 10000d1+1 400d1+1 15d15+15 pierce
+-5 -5 -5 999 -5
+D 60 2 BEFKNXb a 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJKa 14 10 10 20 14 10 0
+small oldstyle~
+0 0 0 600
+4
+~
+~
+#9955
+statue limestone guardian~
+A limestone guardian~
+`bA four-armed statue has come to life to protect the burial chamber!``
+~
+`hThe neutral features of this almost contourless statue blends in well
+against this underground temple.``
+~
+unique~
+0 0 0 0
+ABEFN JZ 0 0
+80 60 10000d1+1 500d1+1 40d3+40 wrath
+-5 -5 -5 999 -5
+S 60 3 CEIK ABLQUab 0 JN
+stand stand neutral 0
+HM K 20 3 3 15 20 10 0
+large stone~
+0 0 0 1000
+1
+~
+~
+#9956
+twoheaded snake~
+A two-headed snake~
+`bA huge snake slithers here, a fanged head in each end of its body.``
+~
+`hThe camouflage pattern of this two-headed monstrosity blends in with
+the mossy stone and all four green eyes stare at you, devoid of emotion. 
+Using a sidewinding motion to launch itself at you, the two-headed snake
+attacks!  `` 
+~
+lizard~
+0 0 0 0
+ABF JQZ 0 0
+80 100 5000d1+1 400d1+1 10d10+10 bite
+-10 -4 -2 999 -1
+D 60 3 AF a L I
+stand stand none 0
+AGXc ACDEFHKQVa 18 10 10 18 10 10 0
+large oldstyle~
+0 0 0 500
+1
+~
+~
+#9957
+living darkness~
+Living darkness~
+`bThe darkness has come alive here!``
+~
+~
+unique~
+0 0 0 0
+AF JUZ -700 0
+80 50 6666d1+1 500d1+1 10d10+10 chill
+5 5 5 999 5
+DV 60 5 0 LQa D C
+stand stand none 0
+D 0 15 15 15 15 15 15 0
+medium oldstyle~
+0 0 0 700
+0
+~
+~
+#9958
+greater darkness~
+Greater darkness~
+`bThe darkness has come alive here!``
+~
+~
+unique~
+0 0 0 0
+ABFN JUZ -700 0
+80 50 10000d1+1 500d1+1 12d12+12 chill
+5 5 5 999 5
+DV 60 5 0 LQa D C
+stand stand none 5000
+D 0 20 15 15 20 20 15 0
+medium oldstyle~
+0 0 0 700
+0
+~
+~
+#9959
+twoheaded snake~
+A two-headed snake~
+`bA huge snake slithers here, a fanged head in each end of its body.``
+~
+`hThe camouflage pattern of this two-headed monstrosity blends in with
+the mossy stone and all four green eyes stare at you, devoid of emotion. 
+Using a sidewinding motion to launch itself at you, the two-headed snake
+attacks!  `` 
+~
+lizard~
+0 0 0 0
+ABF JQZ 0 0
+80 100 6000d1+1 400d1+1 11d11+13 bite
+-10 -4 -2 999 -1
+D 60 4 AF a L I
+stand stand none 0
+AGXc ACDEFHKQVa 18 10 10 18 10 10 0
+large oldstyle~
+0 0 0 500
+1
+~
+~
+#9960
+silver fish~
+A silver fish~
+`aA silver fish leaves a trail of bubbles as it zooms through the green water.``
+~
+`gA silver flash of fish zooms around here, making funny trails of
+bubbles to impress the female fishies.  `` 
+~
+fish~
+0 0 0 0
+AFM JVZe 0 0
+1 30 100d1+1 1d1+1 1d10+4 scratch
+50 50 50 999 50
+SV 60 2 0 Ra H I
+stand stand none 0
+ADHMV ABCDEFGHIJKa 3 3 3 15 3 3 0
+tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#9961
+phalanx scientist~
+A phalanx scientist~
+`oA four-armed phalanx scientist stands here, working on some device with his platinum tools.``
+~
+`hA titanic man stands before you, four blue-hued arms jutting out from
+his enormous torso.  He looks down at you with his one eye, and suddenly you
+understand why the golems were formed in the way they were.  In two of his
+hands he holds some kind of clockwork device, the other two are gently
+manipulating the iron cogs inside the instrument.  `` 
+~
+unique~
+0 0 0 0
+AB DFZc 1000 0
+91 70 20000d1+2 10000d1+1 20d20+30 divine
+-5 -5 -5 999 -5
+DH 60 4 FK ABQUb C M
+stand stand male 50000
+0 0 21 15 20 17 18 16 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9962
+phalanx axemaster master~
+The phalanx axe master~
+`oThe arms of this phalanx are a blur as he swings platinum axes in intricate patterns.``
+~
+`hA bare-chested phalanx practices with his four axes here.  His
+technique is flawness and leaves no openings, especially not for a two-armed
+opponent.  `` 
+~
+unique~
+0 0 0 0
+ABT DFVZc 1000 0
+91 100 20000d1+2 10000d1+1 20d20+20 divine
+-5 -5 -5 999 -5
+D 60 4 ACDEFIK ABQUb C M
+stand stand male 50000
+0 0 21 15 20 17 18 16 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9963
+four armed golem~
+A four-armed golem~
+`bA golem is here to serve its masters.``
+~
+`hA golem made of white clay stands here, waiting for an order from its
+masters to rip intruders apart.  `` 
+~
+unique~
+0 0 0 0
+AF DFZ 0 44
+90 60 8000d1+1 300d1+1 20d20+20 crush
+-3 -4 -5 999 -6
+S 60 2 C ALQUab 0 C
+stand stand none 0
+0 0 25 10 10 15 20 3 0
+large oldstyle~
+0 0 0 500
+1
+~
+~
+#9964
+phalanx ceremony master~
+The phalanx ceremony master~
+`oAll four arms raised to the sky, this phalanx chants softly.``
+~
+`hThis is the master of ceremony of the phalanx, with a blissfull smile
+on his broad lips he chants to the powers that rule the universe.  His one
+eye is closed and he seems oblivious to your presence.  `` 
+~
+unique~
+0 0 0 0
+AB DFZc 1000 0
+91 100 20000d1+2 10000d1+1 20d20+20 divine
+-5 -5 -5 999 -5
+AD 61 4 AFa ABQUb C M
+stand stand male 50000
+0 0 21 15 20 17 18 16 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9965
+phalanxacolyte acolyte~
+A phalanx acolyte~
+`oA phalanx acolyte puts the holy items in their correct places here.``
+~
+`hAn acolyte makes quick work of sorting all the holy books and symbol in
+the large stone shelf that covers the western wall.  You find it hard to
+understand how one could operate so many arms with so few eyes.  `` 
+~
+unique~
+0 0 0 0
+ABFT DFVZc 1000 0
+80 100 5000d1+1 1200d1+1 15d15+15 divine
+0 0 0 999 0
+AD 65 3 AEFIKU ABQUab C M
+stand stand male 50000
+0 0 21 15 20 17 18 16 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9966
+phalanx swordfighter fighter warrior~
+A phalanx sword-fighter~
+`oThis warrior practices the advanced techniques that is phalanx swordfighting.``
+~
+`hThrusting, sweeping and blocking, this sword-fighter works all four
+blades flawlessly through the deadly ancient techniques of the phalanx
+warriors.  `` 
+~
+unique~
+0 0 0 0
+AFT DFVZc 999 0
+88 100 9000d1+1 3000d1+1 20d20+20 divine
+-5 -5 -5 999 -5
+V 60 4 ACDEFKb ABQUab C M
+stand stand male 50000
+0 0 21 15 20 17 18 16 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9967
+phalanx fistfighter titan boxer~
+A fist-fighting phalanx titan~
+`oBoxing in the air in front of her, this phalanx goes through the different stances of combat.``
+~
+`hGliding through the beautiful dance that is phalanx fist-fighting, this
+phalanx female put on an awesome display of quick jabs, blocks and hooks. 
+`` 
+~
+unique~
+0 0 0 0
+AF DFVZc 999 0
+88 100 10000d1+1 10000d1+1 14d13+10 divine
+-5 -5 -5 999 -5
+HV 60 4 AFIKb ABQUab C M
+stand stand female 30000
+0 0 21 15 20 17 18 16 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9968
+weaponmaster phalanx~
+The phalanx weaponmaster~
+`oThe weaponmaster of the phalanx stands here, all arms crossed.``
+~
+`hThe weaponmaster stands here, all arms crossed and a weapon in each
+hand.  A head (a big head, mind you) taller than the phalanx you have seen
+so far, this man is truly a giant.  `` 
+~
+unique~
+0 0 0 0
+ABFT DFVZc 999 0
+91 120 20000d1+1 3000d1+1 20d20+20 divine
+-7 -7 -7 999 -7
+AD 65 5 ACDEFK ABQUab CD M
+stand stand male 50000
+0 0 21 15 20 19 18 16 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9969
+phalanx meditator meditates meditating~
+The meditating phalanx~
+`oA phalanx has its eye closed in deep meditation.``
+~
+`hThis phalanx sits in the middle of the floor, meditating.  One of his
+arms is severred by the elbow and his torso is scarred by combat.  A serene
+smile plays on his hardened features.  `` 
+~
+unique~
+0 0 0 0
+ABFT DFZc 999 0
+91 100 20000d1+1 3000d1+1 200d200+200 divine
+-7 -7 -7 999 -7
+AD 60 2 ACDEFK ABQUab CD M
+stand stand male 50000
+0 0 21 15 20 19 18 16 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9970
+servant golem~
+A servant golem~
+`bA servant golem has arrived according to its masters summon.``
+~
+~
+unique~
+0 0 0 0
+AF 0 0 0
+50 40 2000d1+1 1d1+1 5d5+20 crush
+0 0 0 999 0
+S 60 3 0 BLQa 0 0
+stand stand neutral 0
+D 0 14 10 10 16 14 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#9971
+guardian golem~
+A guardian golem~
+`bA guardian golem stands here blocking the passage north.``
+~
+`hAnother golem that is blocking your path, this is getting old.  This
+golem is made of animated clay and like most of the golems in this temple
+this too has four arms.  `` 
+~
+unique~
+0 0 0 0
+A 0 0 0
+80 75 17000d1+1 10d15+234 20d20+200 divine
+-2 -2 -2 999 -2
+ADS 60 3 0 BLQa D C
+stand stand neutral 0
+D 0 20 10 10 13 20 10 0
+large clay~
+0 0 0 100
+0
+~
+~
+#9972
+sneakythief thief~
+A sneaky thief~
+`bA thief has made it this far into the temple thanks to his abilities in stealth and avoiding traps.``
+~
+`hUsing his dextrous manuevers to get past the traps and various
+guardians of this temple.  All along the way he has collected various
+trinkets and treasures that others has left behind (after having died from a
+big rock being dropped on their head for instance).  `` 
+~
+syvin~
+0 0 0 0
+ABS DFVZ 0 0
+90 120 20000d1+1 1000d1+1 30d30+40 pierce
+-10 -1 -10 999 -1
+D 60 2 BEFK Ub X Z
+stand stand male 20000
+AHMV ABCDEFGHIJKa 15 15 14 25 17 10 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#9973
+greenskinned phalanx~
+A green-skinned phalanx~
+`oA green-skinned phalanx woman sits here petting her wolves.``
+~
+`hThis phalanx appears to be green-skinned but as you look closer you see
+hair-thin lines tattooed on her white skin.  The lines draw up pictures and
+symbols in a huge disarray.  `` 
+~
+unique~
+0 0 0 0
+ABT DZc 998 0
+90 120 20000d1+1 2000d1+1 20d20+20 slash
+-5 -5 -5 999 -10
+D 60 3 ADFJKab Bb 0 0
+stand stand female 30000
+0 0 20 15 16 16 23 17 0
+large oldstyle~
+0 0 0 100
+4
+~
+~
+#9974
+grey wolf~
+A grey wolf~
+`bA grey wolf growls at you here.``
+~
+`hA grey grey wolf trots around here, sniffing in the air for food.``
+~
+human~
+0 0 0 0
+ABMN JZ 998 0
+50 50 1500d1+1 1d1+1 5d5+50 bite
+0 0 0 999 0
+S 60 2 Fb 0 0 Y
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 12 10 10 17 10 10 0
+small oldstyle~
+0 0 0 1000
+0
+~
+~
+#9975
+earthgrind worm grind~
+An earth-grind worm~
+`bAn earth-grind worm with a big circular mouth has made its lair inside the wall.``
+~
+`hA fat worm squeals aggressively as you enter its lair, perhaps this was
+a bad idea...  However, you notice that others have made the same mistake,
+pieces of armor lie scattered throughout this hole in the wall.  `` 
+~
+centipede~
+0 0 0 0
+AF Z 0 0
+80 100 10000d1+1 0d0+0 20d20+20 digestion
+0 0 0 999 0
+0 60 3 A BMNPQab FHIK E
+stand stand neutral 0
+ABGHO ACKa 10 10 10 10 10 10 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#9976
+limestone golem~
+A limestone golem~
+`bA limestone golem blocks the passage east.``
+~
+`hA large golem made of limestone has been ordered here, its sole purpose
+is now to prevent anyone going east.  Its four arms and four legs are spread
+wide, reminding you of a spider in its net.  `` 
+~
+unique~
+0 0 0 0
+AB JZ 0 44
+80 75 15000d1+1 500d1+1 20d15+20 wrath
+-10 -10 -10 999 -1
+ADS 61 4 ACK BLQ 0 0
+stand stand neutral 0
+D 0 23 3 4 16 20 10 0
+large oldstyle~
+0 0 0 100
+4
+~
+~
+#9977
+animated wall~
+An animated wall~
+`bAn animated wall is located to the south.``
+~
+`hThe stones of this wall has come alive, shifting among themselves but
+still keeping in place enough to block any passage south.  `` 
+~
+unique~
+0 0 0 0
+ABF HJZ 0 0
+80 133 20000d1+1 500d1+1 30d30+100 crush
+-10 -10 -10 999 -1
+ADS 62 2 AV BLQUa D C
+stand stand neutral 0
+D 0 23 3 4 16 25 10 0
+large oldstyle~
+0 0 0 1
+4
+~
+~
+#9978
+thrower tubes mazes complicated~
+A thrower~
+`bComplicated mazes of tubes and slots filled with sharpened iron rods is humming here.``
+~
+`hA humming machine sits here, in one end producing short bolts of iron,
+sharpened and deadly.  In the other end it has tubes that uses a
+catapult-mechanism to shoot these bolts at enemies quite a bit off.  `` 
+~
+unique~
+0 0 0 0
+AB BQ 0 0
+80 200 10000d1+1 100d1+1 1d1+1 pierce
+0 0 0 999 0
+D 60 1 X LQTUabc 0 0
+stand stand neutral 0
+D 0 10 10 10 20 10 10 0
+medium oldstyle~
+0 0 0 0
+4
+~
+~
+#9979
+statue limestone guardian~
+A limestone guardian~
+`bA four-armed statue has come to life to protect its masters!``
+~
+`hThe neutral features of this almost contourless statue blends in well
+against this underground temple.``
+~
+unique~
+0 0 0 0
+ABEFN JZ 0 0
+80 60 10000d1+1 500d1+1 40d3+40 wrath
+-5 -5 -5 999 -5
+S 60 3 CEIK ABLQUab 0 JN
+stand stand neutral 0
+HM K 20 3 3 15 20 10 0
+large stone~
+0 0 0 1000
+1
+~
+~
+#9980
+praying phalanx woman~
+A praying phalanx woman~
+`oPraying to greater powers, this phalanx woman mumbles to herself.``
+~
+`hA woman kneels here, praying to the higher powers, she is so absorbed
+in thist that she does not notice your presense.  She is wearing a strange
+bracelet that is connected to the belt at her waist by a thin red silk
+ribbon.  `` 
+~
+unique~
+0 0 0 0
+ABT DZc 998 0
+90 120 20000d1+1 2000d1+1 20d20+20 slash
+-5 -5 -5 999 -10
+D 60 3 AJKa Bb 0 0
+stand stand female 30000
+0 0 20 15 16 16 23 17 0
+large oldstyle~
+0 0 0 100
+4
+~
+~
+#9981
+Gustaf master thief~
+Gustaf, the master thief~
+`bA man clad in a gold cape inspects the jewels on the walls.``
+~
+`hClad in a luxurious set of clothes complete with white silk gloves,
+this man almost looks like a nobleman, almost.  The grace in his movements
+betrays his true profession - that of a thief.  He is Gustaf, one of the
+five master thieves in the realm.  `` 
+~
+human~
+0 0 0 0
+ABS FJPQTUZ 300 0
+90 200 15000d1+1 500d1+1 20d20+20 pierce
+-15 -35 -25 999 -25
+DZ 60 4 ABFKX QUb 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKa 18 10 10 25 17 10 0
+large flesh~
+0 0 0 1000
+0
+~
+~
+#9982
+swordgolem golem~
+A sword golem~
+`bA thin golem with swords instead of forearms stabs at everything that comes near.``
+~
+`hThin iron poles are put together in the form of a thin and very tall
+man, but instead of forearms and hands there are two hooked swords.  `` 
+~
+unique~
+0 0 0 0
+AHS DFJZ 0 0
+80 150 6666d1+1 200d1+1 20d20+20 slash
+-5 -5 -5 999 -30
+SV 60 2 BEF LQUb F 0
+stand stand neutral 0
+ADHMV ABCDEFGHIJKa 10 3 3 20 10 10 0
+medium oldstyle~
+0 0 0 7000
+4
+~
+~
+#9983
+limestone golem guard~
+A limestone golem~
+`bFeatures cut out of limestone, this golem guards the door behind it.``
+~
+`hA large man made completely out of limestone stands guard outside
+heavily bolted door here.  It is good that this golem lacks a mind, because
+the rapid babbling from behind the door would soon drive a person insane. 
+`` 
+~
+unique~
+0 0 0 0
+AB JZ 0 0
+90 75 20000d1+1 100d1+1 20d20+20 slash
+-20 -20 -20 999 -2
+DS 60 5 FKV LQb C 0
+stand stand none 0
+0 0 10 3 3 15 10 10 0
+large oldstyle~
+0 0 0 1000
+0
+~
+~
+#9984
+crazy dwarf~
+A crazy dwarf~
+`bA dwarf jumps around the cell here, giggling and babbling to himself.``
+~
+`hThis dwarf is babbling to itself all while running around the room on
+hands, feet or all fours.  He rolls his eyes, trying to look in each and
+every direction, looking for where all the voices are comming from.  As you
+enter the cell, he stops in its tracks, limbs frozen like some silly
+dwarf/dog statue, then he giggles and jumps at you!  `` 
+~
+dwarf~
+0 0 0 0
+AF JZc -1000 0
+90 60 20000d1+1 3000d1+1 7d7+13 slap
+-30 30 -30 999 30
+DW 60 10 FI QUab LQ R
+stand stand male 5000
+AHMV ABCDEFGHIJKa 10 15 15 10 10 10 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#9985
+talking balloon~
+`ka talking`l b`ba`dl`kl`io`mo`jn``~
+`mA talking balloon floats around here, bouncing against the walls and you.``
+~
+`iA talking balloon, eh?  You know they can't be trusted and you don't
+listen to anything it has got to say to you, that will show it!.  `` 
+~
+human~
+0 0 0 0
+A T 1000 0
+1 1 1d34+3 5000d1+1 1d1+1 none
+100 100 100 999 100
+X 60 1 0 0 0 D
+stand stand none 0
+AHMV ABCDEFGHIJKa 3 10 3 3 3 3 0
+tiny oldstyle~
+0 0 0 100
+4
+~
+~
+#9986
+thief~
+THIEFLY MOB~
+(no long description)
+~
+~
+unique~
+0 0 0 0
+AB 0 1000 777
+91 200 25000d1+52 10000d1+1 30d30+30 divine
+-10 -10 -10 999 -10
+A 62 5 Face LQUbd D X
+stand stand male 70000
+0 0 25 19 19 20 23 17 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9987
+thief~
+THIEFLY MOB~
+(no long description)
+~
+~
+unique~
+0 0 0 0
+AB 0 1000 777
+91 200 25000d1+52 10000d1+1 30d30+30 divine
+-10 -10 -10 999 -10
+A 60 5 Face LQUbd D X
+stand stand male 70000
+0 0 25 19 19 20 23 17 0
+large oldstyle~
+0 0 0 1000
+4
+~
+~
+#9988
+firlis warrior phoenix order~
+Firlis, a warrior of the Phoenix Order~
+`bA warrior of the phoenix order stands here, awaiting a challenger.``
+~
+`hFirlis, one of the few remaining litans of the Phoenix Order.  Few know
+of him, but those who do realize the wisdom in staying out of his way. 
+Using techniques based on the flickers of a flame and the flight of a
+phoenix bird, few warriors can rival this elite litan band.  `` 
+~
+unique~
+0 0 0 0
+ABFT FHJTZ 1000 0
+95 100 30000d1+1 3000d1+1 20d20+20 flame
+-20 -20 -20 999 -20
+DZ 60 5 DEFKVe HUab 0 RZ
+stand stand neutral 0
+0 0 10 10 10 19 20 10 0
+large oldstyle~
+0 0 0 100
+4
+~
+~
+#9989
+agitated lizard~
+An agitated lizard~
+`gAn agitated lizard runs around here.``
+~
+~
+lizard~
+0 0 0 0
+AMN JZ 0 0
+1 200 300d1+1 0d0+0 2d7+3 bite
+30 30 30 999 30
+S 60 2 F a L I
+stand stand neutral 0
+AGXc ACDEFHKQVa 10 3 3 15 10 10 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#9990
+ethos~
+Ethos~
+`oEthos is here, talking to his brother in the language of the phalanx.``
+~
+`hThis is Ethos, one of the two leaders of the phalanx and also one of
+the fiercest fighters.  His white skin is tinted slightly with a shade of
+grey and the eye that sits under a heavy brow is of a steel blue.  All three
+fingers on each of his four hands are crowded by large rings that, aside
+from a phalanx, would only fit a vro'ath.  `` 
+~
+unique~
+0 0 0 0
+ABS DFJVZe 998 0
+95 200 30000d1+1 10000d1+1 30d30+100 divine
+-20 -20 -1 999 -20
+ADWZ 62 4 AFKbc QUbd 0 X
+stand stand male 50000
+0 0 25 20 20 20 23 17 0
+large oldstyle~
+0 0 0 2000
+4
+~
+~
+#9991
+pathos~
+Pathos~
+`oPathos leisurely leans against the wall, keeping his watchful eye on the door.``
+~
+`hPathos, the brother of Ethos, no less the warrior than his brother but
+specializing in a different field of fighting.  Unlike his brother Pathos's
+skin is more red than grey.  `` 
+~
+unique~
+0 0 0 0
+ABFS DFJZe 998 0
+95 200 30000d1+1 10000d1+1 30d30+30 divine
+-20 -20 -1 999 -20
+ADWZ 63 4 AFKLbe QUabd D X
+stand stand male 50000
+0 0 25 20 20 20 23 17 0
+large oldstyle~
+0 0 0 2000
+4
+~
+~
+#10101
+ice devil feline cat~
+An ice devil~
+`oAn ice devil prowls the halls, sniffing the air for prey.``
+~
+`hThis is the ice devil, a large feline known for its highly aggressive
+nature.  Its fur is white, dotted with red specks all over.  Some say that
+these red spots are from prey killed,other say that it is to simulate blood
+in the snow, to lure lesser predators closer.  `` 
+~
+cat~
+0 0 0 0
+ABCFGH FPQZ -200 0
+90 100 10000d1+1 2d10+100 14d15+16 claw
+-5 -5 -5 999 -5
+0 59 4 FHR Iab 0 H
+stand stand none 0
+ABGV ABCDEFHJKPQUVa 20 11 11 20 11 11 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#10102
+ice golem~
+The ice golem~
+`oAn ice golem blocks the path here.``
+~
+`hA huge golem made completely out of transparent ice hulks under the
+(for the golem) low ceiling.  In the mouth that covers the front of its
+head, it keeps its sole eye between its blocky teeth.  The is perfectly
+spherical and the ice that it is made of is of a red hue.  `` 
+~
+unique~
+0 0 0 0
+AG 0 0 0
+90 100 20000d1+1 2d10+200 20d20+30 chill
+-10 -10 -10 999 -10
+ADS 65 4 A ABIRUb J H
+stand stand female 10000
+D 0 25 3 3 15 25 11 0
+huge ice~
+0 0 0 1000
+4
+~
+~
+#10103
+snow wyrm~
+A snow wyrm~
+`oA white-scaled wyrm looks at you with its golden eyes.``
+~
+`hWhat first appears to be a pile of snow is actually the coils of a
+gigantic snow wyrm protecting its gold stash.  Its saucer-sized golden eyes
+eye you suspiciously as you come closer.  `` 
+~
+dragon~
+0 0 0 0
+ABN DFHJTZ -400 0
+35 200 15000d1+1 10d20+150 20d20+20 lclaw
+-11 -11 -11 999 -11
+D 59 2 AKR AIQbc BEH FHI
+stand stand female 50000
+ABHMZ ABCDEFGHIJKPQUVXa 25 18 18 20 25 18 0
+huge flesh~
+0 0 0 1000
+4
+~
+~
+#10104
+grey fin bluestriped shark~
+A blue-striped shark~
+`aA jagged grey fin sticks out of the water.``
+~
+`gYou find yourself staring into the hand-sized and emotionless eyes of a
+great blue-striped shark.  Its tell-tale jagged fins barely moving in the
+green water, but you can tell that it is only moments away from attacking. 
+`` 
+~
+fish~
+0 0 0 0
+ABT DFJZbe 0 0
+80 100 10000d1+1 1d10+100 20d20+10 bite
+-2 -2 -2 999 -2
+DS 59 3 FR R HI IJ
+stand stand none 0
+AHMV ABCDEFGHIJKa 25 3 10 18 12 12 0
+huge flesh~
+0 0 0 700
+0
+~
+~
+#10105
+miler eel~
+A "miler" eel~
+`aThe thigh-thick coils of an eel slithers around you.``
+~
+`gThis eel, named the "miler" by the few fishermen that has actually seen
+it.  It got its name because of its extreme length.  Old stories tell of
+whales that have been washed ashore, killed by a great constricting force,
+this creature was probably the reason for their demise.  `` 
+~
+fish~
+0 0 0 0
+ABFT DFJVZbe 0 0
+80 60 10000d1+1 1d10+100 10d10+1 digestion
+-10 -10 -10 999 -10
+S 59 6 F Ra H I
+stand stand none 0
+AGHLMV ABCDEFGHIJKa 25 3 3 20 14 3 0
+huge flesh~
+0 0 0 1000
+0
+~
+~
+#10106
+whirler octopus multicolored~
+A whirler~
+`aMulticolored lights blink under the slimy skin of this octopus.``
+~
+`gThis is the octopus known as the "swirler", its swirling act of defense
+with all its tentacles makes it a worrisome catch to net for fishermen.  It
+whips around with its limbs leaving gooey trails of slime all over.  `` 
+~
+fish~
+0 0 0 0
+AB Ze 0 0
+80 70 5000d1+1 10d10+100 4d6+6 slime
+-5 -5 -5 999 -5
+SV 59 15 DF Ra H IJ
+stand stand none 0
+AHMV ABCDEFGHIJKa 17 10 16 23 12 12 0
+tiny flesh~
+0 0 0 1000
+0
+~
+~
+#10107
+ancient canthi `gCanthis`cWill`gBe`cExtinct`gWhen`cNidae`gGets`cImplemented``~
+An ancient canthi~
+`aAn ancient canthi hermit has found an excellent home in this slimy cave.``
+~
+`gHaving grown tired of the busy overworld, this canthi adventurer
+decided to become a hermit in one of the most remote places in the entire
+world.  Down here he collects, or eats, whatever the currents bring to him. 
+He is wrinkled but muscled and fit, an entire life of adventuring makes this
+a competent opponent indeed.  `` 
+~
+canthi~
+0 0 0 0
+ABFG DFe -400 0
+90 200 20000d1+1 666d1+0 20d20+0 acbite
+-7 -7 -7 999 -7
+0 59 2 AFKa Ra H I
+stand stand none 50000
+AHMV ABCDEFGHIJKa 18 20 20 19 11 6 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#10108
+dust cloud~
+a poisonous dust cloud~
+A cloud of gas makes you choke.
+~
+A green dust cloud is here.  Your throat itches from it, and you
+begin to feel very ill.
+~
+unique~
+0 0 0 0
+AFG DFJT 0 0
+30 15 10d5+250 10d10+100 1d8+4 suction
+-10 -10 -10 999 -10
+0 -1 AR ABD 0 0
+stand stand none 0
+DK 0 12 12 12 12 12 12 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#10109
+wight~
+a wight~
+A wight sucks up the life of this room.
+~
+This hideous undead creature makes you cringe in fear.  You
+wish you had not entered its grave.
+~
+unique~
+0 0 0 0
+ABCFOQ DFHZc 0 0
+35 10 10d5+500 10d10+100 4d5+10 wrath
+-12 -12 -12 999 -12
+0 -1 EFKR ABLQ 0 N
+stand stand none 0
+DI ABCDEF 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10110
+mutant wanderer~
+a mutant wanderer~
+A three headed man wanders through the wastelands.
+~
+This man obviously has spent too much time in the wastelands.
+He has three heads, all of which are badly deformed.  One head
+has there eyes, the second has one eye, and the third none.  You
+feel sorry for this pathetic creature, but you quickly realize that he
+is far from friendly.
+~
+unique~
+0 0 0 0
+ACF 0 0 0
+30 8 10d5+400 2d10+100 2d8+12 punch
+-9 -9 -9 999 -9
+0 -1 IJ 0 0 0
+stand stand male 0
+BH AD 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10111
+mutant soldier~
+the mutant soldier~
+A four armed soldier defends the wasteland from intruders.
+~
+This soldier used to be in the army of the Dark Fortress.  However,
+during the experiments the Sorceress did in order to create a stronger
+soldier, he was drastically changed and no longer capable of such service.
+Now he wanders the wastelands, defending it from intruders.
+~
+unique~
+0 0 0 0
+ACFGT 0 -1000 0
+35 19 10d5+700 2d10+100 2d10+15 stab
+-11 -11 -11 999 -11
+0 -1 CDEFIJKRT AB 0 0
+stand stand male 0
+BG ABH 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10112
+mutant soldier~
+the mutant soldier~
+A one eyed mutant soldier stands here.
+~
+This soldier was one of the strongest in the army of the Dark
+Fortress, until the Sorceress tested some magic on her.  This
+woman lost an eye, and her remaining eye moved into the 
+center of her head.  She is a dangerous warrior, and is quite
+upset that she will have to spend the remainder of her life
+in the wastelands.
+~
+unique~
+0 0 0 0
+ACFGT 0 -1000 0
+39 18 10d10+850 2d10+100 2d15+18 stab
+-17 -17 -17 999 -17
+0 -1 CDEFIJKRT AB 0 0
+stand stand male 0
+BG ACDEFG 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10113
+mutant ferret~
+a mutant ferret-humanoid~
+A mutant ferret-humanoid is here.
+~
+This creature appears to be part human and part ferret.  It
+seems to be the creature that has created these tunnels.
+~
+unique~
+0 0 0 0
+ACFG DFPZ 0 0
+35 20 10d10+600 2d10+100 4d6+10 bite
+-12 -12 -12 999 -12
+0 -1 DFKMNR LOQ C 0
+stand stand none 0
+BG ABCDEF 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10114
+mutant foreman~
+the mutant foreman~
+A mutant foreman stands here cracking his whip.
+~
+This mutant looks much like the mutant ferret-humanoid
+but he has retained more of his human features.  He is 
+aggressive and violent. . . he wants his ferret-slaves working
+and hates interruptions!
+~
+unique~
+0 0 0 0
+ABCFT DFHP 0 0
+42 22 10d10+800 2d10+100 2d15+8 whip
+-17 -17 -17 999 -17
+0 -1 CDEFIMNR CLMNOPQ 0 0
+stand stand male 0
+BHM ABCDEF 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10115
+mutant dragon~
+the mutant dragon~
+The Mutant Dragon grins, thinking of how you will taste.
+~
+This is the most hideous of the Sorceress's experiements.  She
+took a very powerful dragon and twisted its lifeforce trying to
+make the ultimate mount for combat.  However, the dragon
+went insane.  Too powerful to be destroyed, she had this
+room built to cage it.  The mutant dragon continues to go 
+insane as it realizes that it will never escape this room.
+~
+unique~
+0 0 0 0
+ABCFR DFHJVZa 0 0
+51 30 15d10+1700 10d10+500 14d6+10 slash
+-30 -30 -30 999 -30
+0 -1 EFKM AB CDEFGHIJKLMNOPQ 0
+stand stand none 0
+0 0 16 16 16 16 16 16 0
+giant flesh~
+0 0 0 100
+0
+~
+~
+#10116
+mutant platypus~
+a mutant platypus~
+A strange looking platypus hovers an inch above the ground.
+~
+The Sorceress had hopes for this creature to be the ultimate 
+fighting machine.  Her hopes failed, as this rather tame
+creature looks sort of pathetic.
+~
+unique~
+0 0 0 0
+ABCS T 0 0
+28 8 6d20+450 1d10+100 2d10+4 bite
+-8 -8 -8 999 -8
+0 -1 MN 0 0 0
+sleep sleep none 0
+BG ADEF 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10117
+mutant drow mage~
+the mutant drow mage~
+A strange looking drow grins at you with malicious intent.
+~
+This dark elven sorcerer was hired by the Sorceress to help with
+some magical experiments.  Now he has 4 eyes and 3 arms and his 
+skin has turned deathly pale.
+~
+unique~
+0 0 0 0
+ABCFR DFHQT -1000 0
+36 15 6d10+600 10d10+400 2d10+15 magic
+-15 -15 -15 999 -15
+0 -1 FK 0 CHIJKL 0
+stand stand male 125
+BHM ABCDEFGH 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#9935
+water pool urn~
+a pool of crystal clear water~
+The withered stone statue of a four-armed man pours water from an urn into a pool.~
+marble~
+0
+fountain 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9936
+water pool urn~
+a pool of crystal clear water~
+The withered stone statue of a four-armed man pours water from an urn into a pool.~
+marble~
+0
+fountain 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9937
+pair pyramidshaped dice~
+`da pair of pyramid-shaped dice``~
+Two small pyramid-shaped dice lie here, watch your step.~
+stone~
+0
+weapon 2
+S
+J
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CD BD C AF J
+ACF
+0
+80 10 50000 P
+A
+1 2
+A
+19 8
+S
+ 6 391 0 -1 15 'frog' 0
+#9938
+gilded arrow~
+`da gilded arrow``~
+A gilded arrow glints in the dust here.~
+gold~
+0
+weapon 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD AC B ABD 0
+0
+0
+50 0 2000 P
+#9939
+silver feather~
+`da silver feather``~
+This feather almost looks like it is made of white silver.~
+feather~
+0
+feather 2
+S
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 1 1000 P
+A
+19 4
+A
+18 4
+#9940
+white linen wrappings~
+`dwhite linen wrappings``~
+White mummy wrappings lie in a heap here.~
+cloth~
+0
+armor 2
+S
+H
+AD
+0
+N
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABCD ABCD ABCD ABCD 0
+0
+0
+70 20 10000 P
+S
+ 6 342 0 -1 10 'contaminate' 0
+A
+18 3
+#9941
+object trigger~
+OT~
+`hObject trigger``~
+unknown~
+0
+trash 2
+ST
+E
+0
+0
+0
+0
+9941
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9942
+pickaxe axe~
+`da pick-axe``~
+A dwarf's pick-axe lies here.~
+iron~
+0
+weapon 2
+Y
+0
+AN
+0
+B
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC BC ABC B DIJ
+0
+0
+80 200 50000 P
+#9943
+brown bush~
+`da brown bush``~
+A brown bush is growing from a pile of dirt in the corner.~
+wood~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9944
+red berry~
+`da red berry``~
+A red berry has rolled into a crack in the floor here.~
+food~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+EG 'chaos bolt' 'reserved' 'reserved' 'reserved'
+0
+0
+80 0 0 P
+#9945
+red berry~
+`da red berry``~
+Hanging off a slender twig this red berry looks rather delicious.~
+food~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EG 'heal' 'armor' 'fly' 'reserved'
+0
+0
+80 1 0 P
+#9946
+burning torch~
+`da burning torch``~
+Torch lies here. burning.``~
+wood~
+0
+weapon 2
+APS
+0
+AN
+C
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 CD A BCF A
+0
+0
+50 20 0 P
+#9947
+tooth-shaped opal~
+`da tooth-shaped opal``~
+A gleaming tooth lies here.~
+diamond~
+0
+gem 2
+QS
+0
+A
+0
+0
+0
+9947
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 10000 P
+#9948
+corpse~
+`da corpse crawling with maggots``~
+The corpse of a grave robber crawls with maggots.~
+flesh~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#9949
+first copper plate symbol~
+`dthe first copper plate``~
+~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9950
+second copper plate symbol~
+`dthe second copper plate``~
+~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9951
+floor earth gravel~
+`dthe earthy floor``~
+The floor has been stripped away here, exposing soft earth and gravel.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+9951
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n digs $s way through the soft floor and disappears out of sight.~
+~
+Falls down from the roof in a rain of dirt.~
+~
+-1 0 0 CDEGHJKN M
+0
+0
+1 0 0 P
+#9952
+silver bowl water~
+`da silver bowl``~
+A silver bowl of water sits unceremoniously on the quartz floor.~
+silver~
+0
+drink 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EIJKN EIJKN 0 A 0
+0
+0
+10 1000 0 P
+#9953
+disorientation trap~
+`da disorientation trap``~
+A disorientation trap is here.~
+unknown~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF BD BD A 0
+CE
+0 0 ABDE 0 0 0 CJ 
+90 0 0 P
+E
+victmessage~
+`bYou walk right into a mirror!``
+~
+E
+specmessage~
+`b$n walks right into a mirror!``
+~
+#9954
+empty mirror frame~
+`dAn empty mirror frame``~
+The empty bronze frame of a mirror lies here.~
+bronze~
+0
+wand 2
+QS
+J
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+EG AC AB BDFG 'reserved'
+0
+0
+90 50 5000 P
+#9955
+heavy stone shield~
+`da heavy stone shield``~
+`dA square slab of rock lies here.``~
+stone~
+0
+armor 2
+SY
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+80 900 0 P
+A
+19 5
+A
+18 4
+#9956
+great stone sword~
+`da great stone sword``~
+A gigantic stone sword lies here.``~
+stone~
+0
+weapon 2
+S
+J
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A ABC D ACE DGHI
+0
+0
+60 600 1000 P
+#9957
+stone sarcophagus~
+`dthe sarcophagus``~
+A great sarcophagus sits in the middle of a ring of statues.~
+stone~
+0
+container 2
+RSTYa
+0
+0
+0
+0
+0
+9957
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG AC 0 CFG 0
+0
+0
+90 2000 1 P
+#9958
+gigantic skeleton~
+a gigantic skeleton is here, four arms crossed over its rib cage~
+Bleh~
+bone~
+0
+armor 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 1 P
+#9959
+greenstone amulet~
+`da greenstone amulet``~
+A greenstone amulet lies in the dust here.~
+stone~
+0
+jewelry 2
+JKS
+H
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 50 10000 P
+A
+24 -3
+A
+17 -30
+#9960
+broad chain link belt~
+`da broad chain-link belt``~
+A leather belt reinforced with chain links lies here.~
+hard leather~
+0
+armor 2
+SY
+H
+AL
+0
+B
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BD BD BD CD 0
+0
+0
+80 40 10000 P
+A
+18 5
+A
+1 1
+A
+13 10
+#9961
+power resiliance~
+`dthe power of resiliance``~
+A glowing ball of energy floats here.~
+air~
+0
+gem 2
+S
+J
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 0 5600 P
+A
+5 2
+A
+18 3
+S
+ 6 239 0 -1 10 'fast healing' 0
+A
+17 -15
+#9962
+spiked iron buckler~
+`da spiked iron buckler``~
+A spiked iron buckler sits against a wall.~
+iron~
+0
+armor 2
+S
+HJ
+AJ
+C
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABCD ABCD ABCD ABCD 0
+0
+0
+70 50 500 P
+A
+18 5
+#9963
+white marble altar~
+`da white marble altar``~
+A white marble altar sits in the middle of a relief of a golden sun.~
+marble~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+9963
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+Shoving aside a panel in the altar $n slips through a secret opening.~
+~
+$n drops down from above.~
+~
+-1 0 G ACEFGHJKN K
+0
+0
+10 0 0 P
+#9964
+steeljaw jaw trap~
+`da steel jaw trap``~
+A steel jaw trap is here, just waiting to crush your legs in its mighty jaws.~
+steel~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF E ACD ABD 0
+AE
+0 0 ABD 0 0 0 0 
+90 0 0 P
+E
+specmessage~
+`bA steel jaw trap snaps shut around $N's leg!``
+~
+E
+victmessage~
+`bSteel jaws snap shut around your leg!``
+~
+#9965
+acid edge~
+`dThe Acid Edge``~
+A flexible whip-like blade lies here, dripping with acid.~
+silver~
+0
+weapon 2
+Ye
+HN
+AN
+EFO
+0
+0
+9965
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 ADE A ABCDE DIL
+0
+0
+70 30 40000 P
+A
+18 -5
+A
+19 3
+A
+13 -40
+A
+12 30
+#9966
+compact darkness~
+`dcompact darkness``~
+~
+air~
+0
+trash 2
+S
+JN
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 0 0 P
+S
+ 6 250 0 -1 20 'sneak' 0
+S
+ 6 243 0 -1 20 'hide' 0
+S
+ 0 243 90 -1 0 25 65536
+#9967
+onyx wristguard~
+`oA`hn `aOnyx `oW`hr`oi`hs`ot`hg`ou`ha`or`hd``~
+A wristguard adorned by an onyx stone lies here.~
+silver~
+0
+jewelry 2
+L
+JLN
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 5 5000 P
+A
+14 30
+A
+12 20
+A
+13 10
+A
+17 -5
+#9968
+flaming marble~
+`da flaming marble``~
+A tiny flaming marble lies in a corner here.~
+food~
+0
+pill 2
+SY
+N
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BDEG 'fire breath' 'reserved' 'reserved' 'reserved'
+0
+0
+90 1 5000 P
+#9969
+mace water~
+`da mace made of water``~
+A mace is here, and it is made of water...~
+water~
+0
+weapon 2
+SY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C DF A 0 B
+0
+0
+90 100 10000 P
+A
+18 5
+S
+ 6 203 0 -1 15 'swimming' 0
+A
+19 7
+#9970
+object trigger ot~
+`dOT``~
+`dOT``~
+water~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+9970
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9971
+axe phalanx holy white~
+`dwhite axe of the phalanx``~
+A white-hued platinum axe lies here.~
+platinum~
+0
+weapon 2
+KLSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC ACDE A CE DN
+0
+0
+95 200 10000 P
+#9972
+axe phalanx unholy dark~
+`ddark axe of the phalanx``~
+This axe is covered by black fumes.~
+platinum~
+0
+weapon 2
+KLSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC ACDE A AF DM
+0
+0
+95 200 10000 P
+#9973
+axe phalanx fire flaming~
+`dflaming axe of the phalanx``~
+This axe is enveloped by red flames.~
+platinum~
+0
+weapon 2
+KLSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC ACDE A BCF AD
+0
+0
+95 200 10000 P
+#9974
+axe phalanx wind smoking~
+`dsmoking axe of the phalanx``~
+Swirling smoke envelopes this phalanx axe.~
+platinum~
+0
+weapon 2
+KLSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC ACDE A 0 DL
+0
+0
+95 200 10000 P
+#9975
+white silk loincloth~
+`da white silk loincloth``~
+A long strip of white silk lies here in a heap.~
+silk~
+0
+clothing 2
+S
+HJ
+AFL
+K
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 2 0 P
+S
+ 0 69 90 -1 0 25 2097152
+A
+19 1
+A
+18 1
+#9976
+bronze gauntlet connected buckler~
+`da bronze gauntlet connected to a buckler``~
+This gauntlet is connected to a dented buckler by a thin mithril chain.~
+bronze~
+0
+armor 2
+0
+H
+AJO
+K
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE BCDE BCDE ADE 0
+0
+0
+70 80 0 P
+A
+19 12
+A
+18 12
+A
+13 30
+#9977
+platinum ring plain~
+`da platinum ring``~
+A plain platinum ring lies here.``~
+platinum~
+0
+jewelry 2
+Y
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 1 1000 P
+A
+17 -30
+#9978
+jagged trident silvet net~
+`da jagged trident and a silver net``~
+A jagged trident lies on a silver net here.~
+silver~
+0
+weapon 2
+Y
+H
+AJN
+EFH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC ACD C ABD DHI
+0
+0
+95 400 20000 P
+A
+17 -40
+A
+19 14
+A
+18 14
+#9979
+key weaponmasters~
+`dthe weaponmaster's key``~
+The key leading to the room of the weaponmaster is here.``~
+steel~
+0
+key 2
+QSYc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 1 P
+#9980
+full mesh armor Svifner~
+`dthe full mesh armor 'Svifner'``~
+The legendary mesh armor 'Svifner' floats here.~
+steel~
+0
+armor 2
+Sd
+JL
+ADFI
+EHJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ACDF ACDF ACDF ACDF 0
+0
+0
+95 600 50000 P
+S
+ 0 86 90 -1 0 25 1048576
+S
+ 0 48 90 -1 0 25 16
+A
+19 6
+A
+18 6
+A
+14 -100
+#9981
+ot object trigger~
+`dot``~
+OT~
+unknown~
+0
+trash 2
+NPRSTYa
+E
+A
+0
+0
+0
+9981
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#9982
+ot object trigger~
+`dot``~
+An object trigger is here, loading mobs to the east when you enter.~
+unknown~
+0
+trash 2
+RSTYa
+E
+0
+0
+0
+0
+9982
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9983
+bronze key~
+`dthe bronze key``~
+A key made of bronze glints dully here.~
+unknown~
+0
+key 2
+QYc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+A
+18 1
+#9984
+pair lacy white gloves~
+`da pair of lacy white gloves``~
+A pair of white lace gloves lies here.~
+silk~
+0
+armor 2
+QSYe
+H
+AHI
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD BD CE 0
+0
+0
+71 10 10000 P
+A
+13 20
+A
+12 100
+S
+ 6 247 0 -1 10 'meditation' 0
+#9985
+ot object trigger~
+`dot (on meditator)``~
+OT (on meditator)~
+unknown~
+0
+trash 2
+NPRSTYa
+E
+A
+0
+0
+0
+9985
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9986
+crush trap crushtrap~
+`dthe crush trap``~
+A big stone hangs over the heads of the unsuspecting mortals.~
+unknown~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF BDEFGH B 0 0
+CE
+0 0 ABDE 0 0 0 D 
+1 0 0 P
+E
+victmessage~
+`bAs you step on a loose floor stone a big rock falls down on your head!``
+~
+E
+specmessage~
+`bAs $n steps on a loose floor stone a big rock falls down on $s head!``
+~
+#9987
+ot object trigger~
+`dot (sneaky thief)``~
+Ot~
+unknown~
+0
+trash 2
+RSTYa
+E
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9988
+grey hooded cloak~
+`da grey hooded cloak``~
+A hooded cloak lies here, looking suspiciously thiefly.~
+cloth~
+0
+armor 2
+S
+J
+AEK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD BD 0 0
+0
+0
+71 20 50 P
+S
+ 6 257 0 -1 10 'steal' 0
+A
+18 10
+A
+19 10
+#9989
+silver key~
+`da silver key``~
+A silver key lies here.~
+silver~
+0
+key 2
+QRSTYac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#9990
+thiefs dagger~
+`da thief's dagger``~
+A dagger lies here.~
+bone~
+0
+weapon 2
+HMNRSTUYZa
+0
+AN
+C
+0
+0
+9990
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B BCDE A ABD D
+0
+0
+80 20 0 P
+#9991
+suit of grass~
+`da suit of grass``~
+A patch of grass is here.~
+wheat~
+0
+armor 2
+SY
+H
+ADF
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+66 200 0 P
+A
+2 2
+S
+ 6 244 0 -1 20 'camouflage' 0
+A
+19 7
+A
+18 12
+#9992
+ot object trigger~
+`dot``~
+This object trigger sets traps in the corridor and one west.~
+unknown~
+0
+trash 2
+RSTYa
+E
+0
+0
+0
+0
+9992
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9993
+stone~
+`aa stone``~
+~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n shoves aside a rock and enters a secret chamber.~
+You shove aside a rock and enters a secret chamber.~
+$n has arrived.~
+~
+-1 0 0 DEFGIJKN K
+0
+0
+10 0 0 P
+#9994
+secret~
+`da secret passage``~
+~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCEFGIJKN B
+0
+0
+10 0 0 P
+#9995
+demonred red rod~
+`da demon-red rod``~
+A short red rod lies here.~
+crystal~
+0
+weapon 2
+SU
+H
+ANO
+E
+0
+0
+9995
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AB A A D 0
+0
+0
+71 20 0 P
+S
+ 0 147 70 -1 0 25 128
+A
+18 -15
+A
+19 -15
+#9996
+ot object trigger~
+ot~
+Object trigger that makes the guy north throw at players in this room.~
+unknown~
+0
+trash 2
+RSTYa
+E
+0
+0
+0
+0
+9996
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#9997
+sharpened iron bolt~
+`da sharpened iron bolt``~
+A sharpened iron bolt lies here.~
+iron~
+0
+weapon 2
+Y
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB ABCD A ABD DJ
+0
+0
+50 30 10 P
+A
+19 6
+A
+18 6
+#9998
+fire trap firetrap~
+`da fire trap``~
+A fire trap is here, lucky are the litans.~
+wood~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF A EFHK CFG 0
+ABE
+0 0 BCF 0 0 0 D 
+80 0 0 P
+E
+victmessage~
+`bRoaring flames blast into your face!``
+~
+E
+specmessage~
+`bRoaring flames blast into $n's face!``
+~
+#9999
+spike trap~
+`da spike trap``~
+Another trap, a spike one this time around, is here.~
+wood~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF A CDEFHJ CFG 0
+ABE
+ABDEFGHJKN 0 ABD 0 0 0 D 
+80 0 0 P
+E
+specmessage~
+`bAs $n is pierced by iron spikes shooting out of the floor, a guardian golem arrives.``
+~
+E
+victmessage~
+`bSpikes pierce your skin and as you stand there suffering, a guardian golem walks into the room.``
+~
+#10000
+ot object trigger~
+`dot``~
+Ot~
+air~
+0
+trash 2
+NPRSTYa
+E
+A
+0
+0
+0
+10000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10001
+prayer bracelet silk ribbon thin belt~
+`da prayer bracelet connected by a silk ribbon to a thin belt``~
+A silver bracelet is connected to a thin white leather belt by a red silk ribbon.~
+silver~
+0
+armor 2
+0
+HJ
+ALM
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD BD ABCD 0
+0
+0
+75 10 5000 P
+A
+12 40
+A
+18 4
+A
+19 4
+#10002
+lever copper~
+`dthe copper lever``~
+A copper lever sticks out of the wall here.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+10002
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10003
+gold key~
+`da gold key``~
+The gold key lies here.~
+gold~
+0
+key 2
+QYc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10004
+hooked sword golem~
+`dthe hooked sword of a sword golem``~
+This is the forearm of a sword golem.~
+iron~
+0
+weapon 2
+0
+HJL
+AN
+C
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 ADE A ABD DL
+0
+0
+70 60 1000 P
+#10005
+ot backstab!~
+`dot``~
+Ot~
+unknown~
+0
+trash 2
+NPRSTYa
+E
+A
+0
+0
+0
+10005
+10004
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10006
+disorientation trap~
+a dart trap~
+A disorientation trap is here *cackle*.~
+wood~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF BD AC A 0
+ABCD
+0 0 ABD 0 0 0 DJ 
+90 0 1 P
+E
+specmessage~
+`bA huge log slices through the air, hitting $n square in the chest knocking $m back.``
+~
+E
+victmessage~
+`bA small dart hits your neck!``
+~
+#10007
+ot~
+`dot``~
+A pendulum blade swings back and forth here.~
+unknown~
+0
+trash 2
+RSTYa
+E
+0
+0
+0
+0
+10007
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10008
+iron key~
+`dan iron key``~
+An iron key lies here.~
+iron~
+0
+key 2
+Yc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#10009
+tight sleeved jumpsuit yellow leather~
+`ka tight sleeved jumpsuit made of yellow leather``~
+`kA fashionaly leather jumpsuit lies here.``~
+soft leather~
+0
+armor 2
+SY
+H
+ADFI
+O
+0
+0
+10009
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE CE CE BF 0
+0
+0
+90 0 0 P
+A
+13 100
+A
+12 100
+A
+2 1
+A
+26 5
+#10010
+ot~
+`dot``~
+Ot~
+unknown~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+10010
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10011
+ether flaming axe~
+`d"Ether" the flaming axe``~
+This axe is enveloped by swirling fire.~
+air~
+0
+weapon 2
+KSY
+H
+AN
+CF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC ACDE A BCF ADLN
+0
+0
+95 13 100000 P
+S
+ 0 86 90 -1 0 25 1048576
+A
+19 7
+A
+18 10
+#10012
+bell~
+`da golden bell``~
+~
+gold~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+As $n rings the bell, a wall turns and takes $m with it.~
+~
+$n arrives from behind a wall.~
+~
+-1 0 0 BCHIJKN J
+0
+0
+10 0 0 P
+#10013
+crest phoenix order~
+`bCrest of the Phoenix Order``~
+This crest proves that the wearer is a member of the litan Order of the Phoenix.~
+unknown~
+0
+treasure 2
+SY
+HIM
+AZ
+0
+L
+0
+10013
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 3 0 P
+#10014
+flaming wings of firlis~
+`bthe flaming wings of Firlis``~
+These are the magical wings of Firlis, a warrior of the Phoenix Order~
+fire~
+0
+armor 2
+SY
+HIM
+AK
+0
+L
+0
+10014
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A A A A 0
+0
+0
+95 100 100000 P
+S
+ 0 65 85 -1 0 25 524288
+#10015
+ot~
+`dot``~
+OT~
+unknown~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+10015
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10016
+mask shadows~
+`dthe mask of shadows``~
+A black mask is here, perfect for hiding ones identity.~
+unknown~
+0
+treasure 2
+S
+HJ
+AE
+CI
+0
+0
+10016
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 20 5000 P
+A
+18 1
+#10017
+no name~
+`da blood-red ruby``~
+A large ruby is the center piece of a mosaic depicting the end of the world.~
+diamond~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+10017
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10018
+trap glass bottle agitated lizard~
+`da glass bottle containing an agitated lizard``~
+An agitated lizard hisses from inside a green glass bottle here.~
+glass~
+0
+roomtrap 2
+QSY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BDF BE AD CDEF 0
+AB
+ACIJKN 0 ABD 0 0 0 0 
+50 40 0 P
+E
+victmessage~
+`bA glass bottle explodes and an agitated lizard is let loose!``
+~
+E
+specmessage~
+`bA glass bottle explodes and an agitated lizard is let loose!``
+~
+#10019
+traptrap~
+`da jaw trap``~
+Steel jaws are opened here, waiting for someone to walk into them.~
+glass~
+0
+roomtrap 2
+SY
+E
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BDF BE CD CDEF 0
+ABE
+0 0 ABD 0 0 0 H 
+50 40 0 P
+E
+specmessage~
+`bSteel jaws snap shut around $n's ankle!``
+~
+E
+victmessage~
+`bSteel jaws snap shut around your ankle!``
+~
+#10020
+ot~
+`dot``~
+OT~
+unknown~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+10020
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10021
+wristguard pathos~
+`dthe wristguard of Pathos``~
+Pathos's wristguard lies here.~
+diamond~
+0
+jewelry 2
+KLSY
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+95 10 10000 P
+S
+ 0 95 90 -1 0 25 8192
+A
+17 -10
+A
+19 2
+A
+18 1
+#10022
+ring~
+`dring of the phalanx``~
+A large ring lies here, inscribed with phalanx symbols.~
+marble~
+0
+jewelry 2
+SY
+HI
+AB
+0
+C
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+95 10 50000 P
+A
+17 -30
+A
+18 4
+#10023
+retreat~
+`dot - retreat!``~
+Pathos retreat~
+wood~
+0
+trash 2
+NRSTYa
+0
+A
+0
+0
+0
+10023
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 1 0 P
+#10024
+ot ethos~
+`dot - ethos fighting``~
+`dot - ethos fighting``~
+unknown~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+10024
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10025
+ot pathos~
+`dot - pathos fighting``~
+`dot - pathos fighting``~
+unknown~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+10025
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10026
+ethoss key~
+Ethos's key~
+A shimmering key lies here.~
+unknown~
+0
+key 2
+AQSYc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#10027
+marble fountain water~
+`da marble fountain``~
+~
+unknown~
+0
+fountain 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#10028
+spelunkerflerp~
+`da smaller swarm of green flies``~
+It's...THE SWARM!~
+unknown~
+0
+weapon 2
+HMNSYZ
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 BCDE A BCD DM
+0
+0
+20 0 0 P
+#10029
+portal~
+`da doorway``~
+Dots of yellow light swirl around inside this doorway.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+`cThe glass pillars glow momentarily as`h $n`c materializes.``~
+~
+-1 0 G ABDIJLM A
+0
+0
+10 0 0 P
+#10030
+valuable diamond~
+`da valuable diamond``~
+A valuable diamond has been left on the ice here.~
+unknown~
+0
+gem 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 50000 P
+#10031
+ot object trigger~
+`dot``~
+An object trigger is here, loading traps and mobs in the level above.~
+unknown~
+0
+trash 2
+RSTYa
+E
+0
+0
+0
+0
+10031
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 0 P
+#10032
+ladder~
+`da ladder``~
+A ladder stick out of a hole in the tunnel floor.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+10032
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n climbs down into the darkness below.~
+~
+$n climbs down the ladder.~
+~
+-1 0 G IJKN E
+0
+0
+10 0 0 P
+#10101
+glowing globe ice sphere~
+`da glowing globe of ice``~
+A bright light comes from within this sphere of ice.``~
+ice~
+0
+light 2
+0
+HK
+A
+HJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+80 20 2000 P
+A
+18 4
+A
+12 50
+#10102
+ice eye golem~
+`dthe eye of the ice golem``~
+A red-hued eye made of ice is the size of a fist here.~
+ice~
+0
+jewelry 2
+QY
+H
+AE
+CEFJO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 15 3500 P
+A
+13 -150
+A
+19 13
+A
+18 12
+A
+12 -50
+#10103
+flaming sword ice storm eye~
+`dthe flaming sword of ice named 'Storm Eye'``~
+A sword made of ice lies here, burning with yellow flames.~
+ice~
+0
+weapon 2
+Y
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A AB CE ABCF A
+0
+0
+90 30 12000 P
+A
+18 7
+#10104
+golden key~
+`da golden key``~
+A golden key lies here on the ice.~
+gold~
+0
+key 2
+HUZc
+0
+A
+0
+0
+0
+10104
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 4000 P
+#10105
+tooth~
+`dthe tooth of a blue-striped shark``~
+A foot-long shark tooth is here.~
+bone~
+0
+weapon 2
+Q
+HI
+AN
+0
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 ABF A ABD D
+0
+0
+80 5 5000 P
+#10106
+various bones teeth creatures~
+`dvarious bones and teeth from dead sea creatures``~
+A heap of bones lies here.~
+bone~
+0
+armor 2
+QY
+H
+ADI
+0
+C
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BCDE BCDE BCDE BCDE 0
+0
+0
+90 400 10000 P
+A
+18 7
+A
+19 5
+A
+1 2
+S
+ 6 194 0 -1 20 'bash' 0
+#10107
+slimy octopus thing~
+`da slimy octopus..thing``~
+A slimy "thing" lies here, you do not feel like touching it at all.~
+slime~
+0
+trash 2
+0
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 1 2000 P
+S
+ 6 203 0 -1 20 'swimming' 0
+#10108
+opening pocket air~
+`da pocket of air``~
+You see a pocket of air in front of an opening in the cavern floor.~
+air~
+0
+portal 2
+0
+0
+0
+0
+0
+0
+10108
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n drops down through the air pocket.~
+~
+$n drops down from the ceiling, dripping wet.~
+~
+-1 0 G BEGIJKN E
+0
+0
+10 5 1000 P
+#10109
+red silk pillows~
+`dsome red silk pillows``~
+The entire room is covered by red silk pillows with yellow tassels.~
+silk~
+0
+furniture 2
+RTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CD EFIKMNO BHK DGH DGH
+0
+0
+10 30000 0 P
+#10110
+white marble fountain bowls~
+`da white marble fountain``~
+A white marble fountain gurgles here, water spilling out of several golden bowls.~
+marble~
+0
+fountain 2
+RTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 5 0 P
+#10111
+ancient device~
+`dan ancient device``~
+You see a long, orange tongue.~
+porcelain~
+0
+wand 2
+KL
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BDEG BD BD ACEF 'reserved'
+0
+0
+90 2 10000 P
+A
+19 10
+A
+18 10
+A
+13 40
+#10112
+platinum tools~
+`dplatinum tools``~
+A pile of delicate platinum tools once used by a phalanx scientist lie here.~
+platinum~
+0
+weapon 2
+KLY
+H
+AN
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 D D CE N
+0
+0
+90 20 400 P
+#10113
+ochre spiked helm~
+`da silver key``~
+A tiny silver key lies here.~
+silver~
+0
+key 2
+UYc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 5 1000 P
+#10114
+golem trap golemtrap~
+`dan alarm trap``~
+A trap that will summon a golem is here.~
+wood~
+0
+roomtrap 2
+0
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADF A A A 0
+ABCD
+ABDFGHJKN 0 ABDE 0 0 0 0 
+90 3 1000 P
+E
+specmessage~
+`b$n steps on a stone that disappears into the floor... Peculiar.``
+~
+E
+victmessage~
+`bYou step on a stone that quietly disappears into the floor.  Footsteps approach.``
+~
+#10115
+blood stained whip~
+`dthe altar of the wind``~
+A white marble altar with yellow veins sits here.``~
+marble~
+0
+furniture 2
+RTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB EFIKMNO A CDH CDH
+0
+0
+90 5000 0 P
+#10116
+ceremonial garb~
+`da ceremonial garb``~
+Long white robes lie here, shimmering.~
+silk~
+0
+clothing 2
+I
+HJ
+AEK
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+95 7 150000 P
+A
+12 120
+A
+18 10
+A
+17 -80
+#10117
+ceremonial staff~
+`dthe ceremonial staff of the phalanx``~
+A crystal staff glows with holy energy.~
+crystal~
+0
+wand 2
+KL
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ACEG A A ABE 'reserved'
+0
+0
+95 3 3000 P
+#10118
+OT object trigger~
+`dOT``~
+`dOT``~
+air~
+0
+trash 2
+NPY
+E
+A
+0
+0
+0
+10118
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 5 2000 P
+#10119
+ceremonialcase leather case ~
+`da ceremonial case``~
+This leather case is marked with the circular symbols of the phalanx.~
+hard leather~
+0
+container 2
+Y
+0
+AO
+0
+0
+0
+10119
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BCEH AC 0 CFG ABDG
+0
+0
+85 5 5000 P
+#10120
+bronze simple fountain~
+`da simple bronze fountain``~
+A simple bronze fountain is mounted on the north wall here.``~
+bronze~
+0
+fountain 2
+RTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#10121
+notice~
+a notice to immortals~
+`iNotice to immortals:`b This area never resets on its own, only on mud boot-up.``~
+unknown~
+0
+trash 2
+SY
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 1 P
+#0
+
+#ROOMS
+#9935
+0 0
+~
+~
+~
+0 576 0
+`aEntering the Temple of the Phalanx``~
+`hDust swirls in air as you come down the stairs of this ancient temple. 
+And even though it seems to have been abandoned for a millenia, one should
+not underestimate ancient technology.  This temple is bound to be riddled by
+traps and perhaps even a magical guardian.  Further down the stairs darkness
+rules, yet the sounds of movement echo faintly from below.  `` 
+~
+0 BDN 18
+0
+~
+I DE D1
+~
+~
+0 0 9936
+D4
+~
+~
+0 0 6923
+S
+#9936
+0 0
+~
+~
+~
+0 512 0
+`aA Silent Hallway``~
+`hThe corridor here splits into two opposing paths: one leading to the
+south, the other one leading to the north.  Along the walls there are stone
+statues, almost invisible against the limestone walls.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9937
+D2
+~
+~
+0 0 9938
+D3
+~
+~
+0 0 9935
+S
+#9937
+0 0
+~
+~
+~
+0 512 0
+`aA Cramped Chamber``~
+`hThe illumination of this room originates from the strangely lit pool of
+water.  Light cascades through the gentle ripples of the crystal clear
+water, bathing this cramped chamber with an undulating blue hue.  `` 
+~
+0 BDN 18
+0
+~
+I DE D1
+~
+~
+0 0 9939
+D2
+~
+~
+0 0 9936
+S
+#9938
+0 0
+~
+~
+~
+0 576 0
+`aA Heated Chamber``~
+`hThis dark chamber is quite warm, perhaps because of volcanic activity
+deep below.  By the west wall there is a pool of water, opaque by green
+odorous algae.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9936
+D1
+~
+~
+0 0 9946
+S
+#9939
+0 0
+~
+~
+~
+0 512 0
+`aA Stone Passage``~
+`hThe walls seem to have withered in this passage, perhaps from water
+running in from above.  The stink in here is overwhelming, smelling like old
+and dried-up bodyparts.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9940
+D1
+~
+~
+0 0 9941
+D3
+~
+~
+0 0 9937
+S
+#9940
+0 0
+~
+~
+~
+0 512 0
+`aA Forest of Pillars``~
+`hPillars rise from the floor up to the far-off ceiling above like the
+trunks of pale white trees.  The tiles of the floor are crackled mosaic
+depicting a subtle maze pattern in green colors.  `` 
+~
+0 BDN 18
+0
+~
+I DE D2
+~
+~
+0 0 9939
+S
+#9941
+0 0
+~
+~
+~
+0 512 0
+`aThe Golden Desert Mosaic``~
+`hThe walls of this room are covered by great mosaics depicting gleaming
+gold sand dunes and above them a blue night sky dotted by diamond stars.  ``
+~
+0 BDN 18
+0
+~
+I DE D2
+~
+~
+0 0 9942
+D3
+~
+~
+0 0 9939
+S
+#9942
+0 0
+~
+~
+~
+0 576 0
+`aA Hallway That Smells Like Rot``~
+`hThe smell of rot nearly overwhelms you!  Either the last occupant of
+this chamber collected troll underwear or something, or rather many
+somethings died in here.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9941
+D1
+~
+~
+0 0 9944
+D2
+~
+~
+0 0 9945
+D3
+~
+~
+0 0 9943
+S
+#9943
+0 0
+~
+~
+~
+0 512 0
+`aThe Air Shaft``~
+`hThis air shaft is here to bring fresh air into the depths of the
+temple, as you look down you see only darkness, but the quiet howling sound
+makes you understand that it goes very far down.  `` 
+~
+0 DN 1
+0
+~
+I D D1
+~
+~
+0 0 9942
+S
+#9944
+0 0
+~
+~
+~
+0 512 0
+`aA Vandalized Chamber``~
+`hThis chamber is utterly destroyed by grave robbers, tiles in the floor
+has been removed and crushed.  Walls sport large cracks from which black
+earth and moss protrude.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 9942
+S
+#9945
+0 0
+~
+~
+~
+0 512 0
+`aCorridor of Vases``~
+`hA plain dark hallway leading to the west and the north, man-sized vases
+sit in rows along the walls, making you feel even more claustrophobic than
+before.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9942
+D3
+~
+~
+0 0 9946
+S
+#9946
+0 0
+~
+~
+~
+0 576 0
+`aA White Chamber``~
+`hPainted-white limestone surround you, it seems like this was once a
+chamber in which to eat and socialize, judging from the mosaics covering the
+roof.  A small opening in the south wall lets through white light.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 9945
+D2
+~
+~
+0 0 9947
+D3
+~
+~
+0 0 9938
+S
+#9947
+0 0
+~
+~
+~
+0 512 0
+`aUnder the Surface``~
+`hThe quartz ceiling of this earth-smelling chamber lets in white rays of
+sunlight, making it possible for plants to grow in here.  This is not a very
+hospitable place, though; only the most unyielding plants have survived the
+abandonment of the temple ruins.  `` 
+~
+0 BDN 18
+0
+~
+I DF D0
+~
+~
+0 0 9946
+S
+#9948
+0 0
+~
+~
+~
+0 576 0
+`aA Dead End``~
+`hThis hallway ends abruptly in a smooth stone wall.  A faint light seem
+to emanate from the solid quartz floor.  To the west you see the silver
+glint of a mirror.  `` 
+~
+0 BDN 1
+0
+~
+I D D3
+~
+~
+0 0 9950
+S
+#9949
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#9950
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9951
+D1
+~
+~
+0 0 9948
+D2
+~
+~
+0 0 9953
+D3
+~
+~
+0 0 9957
+S
+#9951
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9952
+D2
+~
+~
+0 0 9950
+D3
+~
+~
+0 0 9958
+S
+#9952
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D2
+~
+~
+0 0 9951
+D3
+~
+~
+0 0 9959
+S
+#9953
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9950
+D2
+~
+~
+0 0 9954
+D3
+~
+~
+0 0 9956
+S
+#9954
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9953
+D3
+~
+~
+0 0 9955
+S
+#9955
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9956
+D1
+~
+~
+0 0 9954
+D3
+~
+~
+0 0 9960
+S
+#9956
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9957
+D1
+~
+~
+0 0 9953
+D2
+~
+~
+0 0 9955
+S
+#9957
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9958
+D1
+~
+~
+0 0 9950
+D2
+~
+~
+0 0 9956
+D3
+~
+~
+0 0 9962
+D4
+~
+~
+0 0 9943
+S
+#9958
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D1
+~
+~
+0 0 9951
+D2
+~
+~
+0 0 9957
+D3
+~
+~
+0 0 9963
+S
+#9959
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D1
+~
+~
+0 0 9952
+D3
+~
+~
+0 0 9964
+S
+#9960
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 DN 18
+0
+~
+I DH D0
+~
+~
+0 0 9961
+D1
+~
+~
+0 0 9955
+D2
+~
+~
+0 0 9968
+S
+#9961
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9962
+D2
+~
+~
+0 0 9960
+D3
+~
+~
+0 0 9965
+S
+#9962
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9963
+D1
+~
+~
+0 0 9957
+D2
+~
+~
+0 0 9961
+D3
+~
+~
+0 0 9971
+S
+#9963
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D0
+~
+~
+0 0 9964
+D1
+~
+~
+0 0 9958
+D2
+~
+~
+0 0 9962
+S
+#9964
+0 0
+~
+$n walks up to you, eyeing you suspiciously.~
+$n stumbles off, hands out in front of $m.~
+0 576 0
+`aLost Among the Mirrors``~
+`hBronze-framed mirrors are all around you, making you lose your sense of
+direction.  You see yourself from all angles, almost making you doubt which
+one is the real you.  `` 
+~
+0 BDN 18
+0
+~
+I DH D1
+~
+~
+0 0 9959
+D2
+~
+~
+0 0 9963
+S
+#9965
+0 0
+~
+~
+~
+0 576 0
+`aA Short Passage``~
+`hThis passage leads from the mirror halls to the east, to some sort of
+altar room to the south.  Brown-grey stones make out the walls of this room,
+also the floor that is no longer made of shining quartz.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 9961
+D2
+~
+~
+0 0 9966
+S
+#9966
+0 0
+~
+~
+~
+0 576 0
+`aAltar of Sun Worship``~
+`hThis altar room seem to be for sun worship, the domed ceiling is
+spotted with gleaming with gold and sun-gems.  In the middle of the room a
+great golden sun reaches out towards the walls.  `` 
+~
+0 BDN 1
+0
+~
+I D D0
+~
+~
+0 0 9965
+S
+#9967
+0 0
+~
+~
+~
+0 576 0
+`aA Burial Chamber``~
+`hThe walls and domed ceiling of this room are covered with murals of
+golden birds flying over a starry sky towards a great white flame behind the
+great sarcophagus that sits on a dais on the far wall.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+door~
+4097 0 9970
+S
+#9968
+0 0
+~
+~
+~
+0 576 0
+`aA Long Passage``~
+`hThis long corridor goes on and on, the darkness makes it hard to know
+how far you have walked so far, but you are sure that you will find an end
+to this eventually.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9960
+D2
+~
+~
+0 0 9969
+S
+#9969
+0 0
+~
+~
+~
+0 576 0
+`aA Long Passage``~
+`hThis long corridor goes on and on, the darkness makes it hard to know
+how far you have walked so far, but you are sure that you will find an end
+to this eventually.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9968
+D2
+~
+~
+0 0 9970
+S
+#9970
+0 0
+~
+~
+~
+0 576 0
+`aThe End of the Passage``~
+`hYou are finally at the end of the long passageway, a thick slab of a
+door blocks off the chamber to the east.  Although it has a wide keyhole,
+you could probably pick this lock with nimble enough fingers.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9969
+D1
+~
+door~
+4097 0 9967
+S
+#9971
+0 0
+~
+~
+~
+0 0 0
+`aA Silent Alcove``~
+`hA ranger sits in this silent alcove, petting the animals that she has
+managed to tame in this accursed place.  All around are animals of different
+shapes and sizes, each one stranger than the other.  `` 
+~
+0 M 0
+0
+~
+I 0 D1
+~
+~
+0 0 9962
+S
+#9972
+0 0
+~
+~
+~
+0 512 0
+PET STORAGE~
+~
+0 CNT 0
+0
+~
+I 0 S
+#9973
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 9974
+S
+#9974
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 9973
+D5
+~
+~
+0 0 9975
+S
+#9975
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 9976
+D4
+~
+~
+0 0 9974
+S
+#9976
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 9975
+D5
+~
+~
+0 0 9977
+S
+#9977
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 9978
+D4
+~
+~
+0 0 9976
+S
+#9978
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 9979
+D3
+~
+~
+0 0 9977
+S
+#9979
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 9978
+D5
+~
+~
+0 0 9980
+S
+#9980
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 9981
+D4
+~
+~
+0 0 9979
+S
+#9981
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 9982
+D3
+~
+~
+0 0 9980
+S
+#9982
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hThis narrow passage leads farther down into the temple.  The air here
+is stale and centuries old.  The walls are dark from dry moss but its
+possible to see thanks to the occasional ball of light that fight for room
+with your head near the low ceiling.  `` 
+~
+0 BDN 18
+0
+~
+I D D2
+~
+~
+0 0 9983
+D3
+~
+~
+0 0 9981
+S
+#9983
+0 0
+~
+~
+~
+0 576 0
+`aThe End of the Passage``~
+`hThe darkness from below is even denser than the complete blackness of
+the tunnel to the west.  You ponder the futility in even bringing your light
+down there.  Whispers echo from the base of the small ladder reaching
+downwards.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 9982
+S
+#9984
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 0
+0
+~
+I CD D3
+~
+~
+0 0 9985
+S
+#9985
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9986
+D1
+~
+~
+0 0 9984
+D2
+~
+~
+0 0 9988
+D3
+~
+~
+0 0 9992
+S
+#9986
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9987
+D2
+~
+~
+0 0 9985
+S
+#9987
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D2
+~
+~
+0 0 9986
+D3
+~
+~
+0 0 9994
+S
+#9988
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9985
+D2
+~
+~
+0 0 9989
+D3
+~
+~
+0 0 9990
+S
+#9989
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9988
+S
+#9990
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9992
+D1
+~
+~
+0 0 9988
+D2
+~
+~
+0 0 9991
+D3
+~
+~
+0 0 9996
+S
+#9991
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9990
+D2
+~
+~
+0 0 9994
+D3
+~
+~
+0 0 9995
+S
+#9992
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 0
+0
+~
+I CD D0
+~
+~
+0 0 9993
+D1
+~
+~
+0 0 9985
+D2
+~
+~
+0 0 9990
+D4
+~
+~
+0 0 9957
+S
+#9993
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9994
+D2
+~
+~
+0 0 9992
+D3
+~
+~
+0 0 9997
+S
+#9994
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9991
+D1
+~
+~
+0 0 9987
+D2
+~
+~
+0 0 9993
+D3
+~
+~
+0 0 9998
+S
+#9995
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9996
+D1
+~
+~
+0 0 9991
+S
+#9996
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D1
+~
+~
+0 0 9990
+D2
+~
+~
+0 0 9995
+S
+#9997
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D1
+~
+~
+0 0 9993
+D2
+~
+~
+0 0 9999
+S
+#9998
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D1
+~
+~
+0 0 9994
+S
+#9999
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 9997
+D3
+~
+~
+0 0 10000
+S
+#10000
+0 0
+~
+~
+~
+0 576 0
+`aThe Darkness``~
+~
+0 BDN 18
+0
+~
+I CD D0
+~
+~
+0 0 10001
+D1
+~
+~
+0 0 9999
+S
+#10001
+0 0
+~
+~
+~
+0 576 0
+`aA Brightly Lit Chamber``~
+`hAs you step out of the compact darkess, this white room shines like the
+sun, when in fact it is only lit by a small ball of light that hovers near
+the ceiling.  `` 
+~
+0 BDN 1
+0
+~
+I D D2
+~
+~
+0 0 10000
+D5
+~
+~
+0 0 10002
+S
+#10002
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hYet another passage leading farther down into the temple.  You hear
+hissing sounds echoing through the darkess eastwards.  Maybe it is just the
+wind...  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10003
+D4
+~
+~
+0 0 10001
+S
+#10003
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hYet another passage leading farther down into the temple.  You hear
+hissing sounds echoing through the darkess eastwards.  Maybe it is just the
+wind...  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10004
+D3
+~
+~
+0 0 10002
+S
+#10004
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hYet another passage leading farther down into the temple.  You hear
+hissing sounds echoing through the darkess eastwards.  Maybe it is just the
+wind...  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 10003
+D5
+~
+~
+0 0 10005
+S
+#10005
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hYet another passage leading farther down into the temple.  You hear
+hissing sounds echoing through the darkess eastwards.  Maybe it is just the
+wind...  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10006
+D4
+~
+~
+0 0 10004
+S
+#10006
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hYet another passage leading farther down into the temple.  You hear
+hissing sounds echoing through the darkess eastwards.  Maybe it is just the
+wind...  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10007
+D3
+~
+~
+0 0 10005
+S
+#10007
+0 0
+~
+~
+~
+0 576 0
+`aA Sloping Passage``~
+`hYet another passage leading farther down into the temple.  You hear
+hissing sounds echoing through the darkess eastwards.  Maybe it is just the
+wind...  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 10006
+D5
+~
+~
+0 0 10008
+S
+#10008
+0 0
+~
+~
+~
+0 576 0
+`aThe Cold Halls``~
+`hThe air is misty and mountain cold, subdued echoes from cracking ice
+are heard from the west, making you understand that this place is not for
+the easily goosebumped.  `` 
+~
+0 BDNc 18
+0
+~
+I D D3
+~
+~
+0 0 10009
+D4
+~
+~
+0 0 10007
+S
+#10009
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10012
+D1
+~
+~
+0 0 10008
+D2
+~
+~
+0 0 10010
+D3
+~
+~
+0 0 10020
+S
+#10010
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10009
+D2
+~
+~
+0 0 10011
+D3
+~
+~
+0 0 10019
+S
+#10011
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10010
+D1
+~
+~
+0 0 10043
+D2
+~
+~
+0 0 10017
+D3
+~
+~
+0 0 10018
+S
+#10012
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D1
+~
+~
+0 0 10016
+D2
+~
+~
+0 0 10009
+D3
+~
+~
+0 0 10021
+S
+#10013
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10014
+D3
+~
+~
+0 0 10022
+S
+#10014
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10015
+D2
+~
+~
+0 0 10013
+D3
+~
+~
+0 0 10023
+S
+#10015
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10017
+D1
+~
+~
+0 0 10044
+D2
+~
+~
+0 0 10014
+D3
+~
+~
+0 0 10025
+S
+#10016
+0 0
+~
+~
+~
+0 576 0
+`aA Cold Corner``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D3
+~
+~
+0 0 10012
+S
+#10017
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10011
+D1
+~
+~
+0 0 10045
+D2
+~
+~
+0 0 10015
+D3
+~
+~
+0 0 10026
+S
+#10018
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10019
+D1
+~
+~
+0 0 10011
+D2
+~
+~
+0 0 10026
+D3
+~
+~
+0 0 10027
+S
+#10019
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10020
+D1
+~
+~
+0 0 10010
+D2
+~
+~
+0 0 10018
+D3
+~
+~
+0 0 10028
+S
+#10020
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10021
+D1
+~
+~
+0 0 10009
+D2
+~
+~
+0 0 10019
+D3
+~
+~
+0 0 10029
+S
+#10021
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10022
+D1
+~
+~
+0 0 10012
+D2
+~
+~
+0 0 10020
+S
+#10022
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10023
+D1
+~
+~
+0 0 10013
+D2
+~
+~
+0 0 10021
+D3
+~
+~
+0 0 10031
+S
+#10023
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10025
+D1
+~
+~
+0 0 10014
+D2
+~
+~
+0 0 10022
+D3
+~
+~
+0 0 10032
+S
+#10024
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#10025
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10026
+D1
+~
+~
+0 0 10015
+D2
+~
+~
+0 0 10023
+D3
+~
+~
+0 0 10033
+S
+#10026
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10018
+D1
+~
+~
+0 0 10017
+D2
+~
+~
+0 0 10025
+D3
+~
+~
+0 0 10034
+S
+#10027
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10028
+D1
+~
+~
+0 0 10018
+D2
+~
+~
+0 0 10034
+D3
+~
+~
+0 0 10035
+S
+#10028
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10029
+D1
+~
+~
+0 0 10019
+D2
+~
+~
+0 0 10027
+D3
+~
+~
+0 0 10036
+S
+#10029
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10030
+D1
+~
+~
+0 0 10020
+D2
+~
+~
+0 0 10028
+D3
+~
+~
+0 0 10037
+S
+#10030
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10031
+D2
+~
+~
+0 0 10029
+D3
+~
+~
+0 0 10038
+S
+#10031
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10032
+D1
+~
+~
+0 0 10022
+D2
+~
+~
+0 0 10030
+D3
+~
+~
+0 0 10039
+S
+#10032
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10033
+D1
+~
+~
+0 0 10023
+D2
+~
+~
+0 0 10031
+D3
+~
+~
+0 0 10040
+S
+#10033
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10034
+D1
+~
+~
+0 0 10025
+D2
+~
+~
+0 0 10032
+D3
+~
+~
+0 0 10041
+S
+#10034
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10027
+D1
+~
+~
+0 0 10026
+D2
+~
+~
+0 0 10033
+D3
+~
+~
+0 0 10042
+S
+#10035
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10036
+D1
+~
+~
+0 0 10027
+D2
+~
+~
+0 0 10042
+D3
+~
+~
+0 0 10043
+S
+#10036
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10037
+D1
+~
+~
+0 0 10028
+D2
+~
+~
+0 0 10035
+D3
+~
+~
+0 0 10044
+S
+#10037
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10038
+D1
+~
+~
+0 0 10029
+D2
+~
+~
+0 0 10036
+D3
+~
+~
+0 0 10045
+S
+#10038
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10039
+D1
+~
+~
+0 0 10030
+D2
+~
+~
+0 0 10037
+D3
+~
+~
+0 0 10046
+S
+#10039
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10040
+D1
+~
+~
+0 0 10031
+D2
+~
+~
+0 0 10038
+D3
+~
+~
+0 0 10047
+S
+#10040
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10041
+D1
+~
+~
+0 0 10032
+D2
+~
+~
+0 0 10039
+D3
+~
+~
+0 0 10048
+S
+#10041
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10042
+D1
+~
+~
+0 0 10033
+D2
+~
+~
+0 0 10040
+D3
+~
+~
+0 0 10049
+S
+#10042
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10035
+D1
+~
+~
+0 0 10034
+D2
+~
+~
+0 0 10041
+D3
+~
+~
+0 0 10050
+S
+#10043
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10044
+D1
+~
+~
+0 0 10035
+D2
+~
+~
+0 0 10050
+D3
+~
+~
+0 0 10011
+S
+#10044
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10045
+D1
+~
+~
+0 0 10036
+D2
+~
+~
+0 0 10043
+D3
+~
+~
+0 0 10015
+S
+#10045
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10046
+D1
+~
+~
+0 0 10037
+D2
+~
+~
+0 0 10044
+D3
+~
+~
+0 0 10017
+S
+#10046
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 DNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10047
+D1
+~
+~
+0 0 10038
+D2
+~
+~
+0 0 10045
+S
+#10047
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D1
+~
+~
+0 0 10039
+D2
+~
+~
+0 0 10046
+D3
+~
+~
+0 0 10051
+S
+#10048
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10049
+D1
+~
+~
+0 0 10040
+S
+#10049
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D0
+~
+~
+0 0 10050
+D1
+~
+~
+0 0 10041
+D2
+~
+~
+0 0 10048
+D3
+~
+~
+0 0 10015
+S
+#10050
+0 0
+~
+~
+~
+0 576 0
+`aA Patch of Snow``~
+`hA mound of snow has collected here and compared to the ice it is farily
+safe to walk here.  You leave crunching footprints in your wake as you
+continue to explore this cold dungeon.  `` 
+~
+0 BDNc 18
+0
+~
+I DJ D0
+~
+~
+0 0 10043
+D1
+~
+~
+0 0 10042
+D2
+~
+~
+0 0 10049
+D3
+~
+~
+0 0 10017
+S
+#10051
+0 0
+~
+~
+~
+0 576 0
+`aSkidding Along the Icy Floor``~
+`hThe floor here is covered by a slippery surface of wet ice, one would
+do best to thread carefull here.  The air in here is cold and misty, that
+combined with the far-off lights hanging from the ceiling makes it very hard
+to see very far.  `` 
+~
+0 DNc 18
+0
+~
+I DI D1
+~
+~
+0 0 10047
+D3
+~
+door~
+4193 10104 10052
+S
+#10052
+0 0
+~
+~
+~
+0 576 0
+`aAn Ice Garden``~
+`hThis was once a beautiful garden, but a sudden drop in temperature
+apparently froze it all, preserving the colors of the trees, the grass and
+the flowers, coated by a thin film of ice.  `` 
+~
+0 BDNc 18
+0
+~
+I DI D1
+~
+door~
+4193 10104 10051
+D5
+~
+~
+0 0 10053
+S
+#10053
+0 0
+~
+~
+~
+0 576 0
+`aThe Surface of a Water-filled Cavern``~
+`gFlickering lights shine through the surface of the water that is
+filling this cavern.  The walls are slimy with living and dead plant life,
+as if the water level rises now and then.  `` 
+~
+0 BDN 7
+0
+~
+I D D1
+~
+~
+0 0 10054
+D2
+~
+~
+0 0 10055
+D4
+~
+~
+0 0 10052
+S
+#10054
+0 0
+~
+~
+~
+0 576 0
+`aThe Surface of a Water-filled Cavern``~
+`gFlickering lights shine through the surface of the water that is
+filling this cavern.  The walls are slimy with living and dead plant life,
+as if the water level rises now and then.  `` 
+~
+0 BDN 7
+0
+~
+I D D2
+~
+~
+0 0 10056
+D3
+~
+~
+0 0 10053
+S
+#10055
+0 0
+~
+~
+~
+0 576 0
+`aThe Surface of a Water-filled Cavern``~
+`gFlickering lights shine through the surface of the water that is
+filling this cavern.  The walls are slimy with living and dead plant life,
+as if the water level rises now and then.  `` 
+~
+0 BDN 7
+0
+~
+I D D0
+~
+~
+0 0 10053
+D1
+~
+~
+0 0 10056
+S
+#10056
+0 0
+~
+~
+~
+0 576 0
+`aThe Surface of a Water-filled Cavern``~
+`gFlickering lights shine through the surface of the water that is
+filling this cavern.  The walls are slimy with living and dead plant life,
+as if the water level rises now and then.  `` 
+~
+0 BDN 7
+0
+~
+I D D0
+~
+~
+0 0 10054
+D3
+~
+~
+0 0 10055
+D5
+~
+~
+0 0 10057
+S
+#10057
+0 0
+~
+~
+~
+0 576 0
+`aSwimming Through an Underwater Cavern``~
+`gThe green water swirls and bubbles as dark shapes move around you. 
+There is something in this cavern, and you would rather swim on than stay
+and find out what it might be.  `` 
+~
+0 BDN 11
+0
+~
+I D D1
+~
+~
+0 0 10059
+D2
+~
+~
+0 0 10058
+D4
+~
+~
+0 0 10056
+S
+#10058
+0 0
+~
+~
+~
+0 576 0
+`aSwimming Through an Underwater Cavern``~
+`gThe green water swirls and bubbles as dark shapes move around you. 
+There is something in this cavern, and you would rather swim on than stay
+and find out what it might be.  `` 
+~
+0 BDN 11
+0
+~
+I D D0
+~
+~
+0 0 10057
+D1
+~
+~
+0 0 10060
+S
+#10059
+0 0
+~
+~
+~
+0 576 0
+`aSwimming Through an Underwater Cavern``~
+`gThe green water swirls and bubbles as dark shapes move around you. 
+There is something in this cavern, and you would rather swim on than stay
+and find out what it might be.  `` 
+~
+0 BDN 11
+0
+~
+I D D2
+~
+~
+0 0 10060
+D3
+~
+~
+0 0 10057
+S
+#10060
+0 0
+~
+~
+~
+0 576 0
+`aSwimming Through an Underwater Cavern``~
+`gThe green water swirls and bubbles as dark shapes move around you. 
+There is something in this cavern, and you would rather swim on than stay
+and find out what it might be.  `` 
+~
+0 BDN 11
+0
+~
+I D D0
+~
+~
+0 0 10059
+D3
+~
+~
+0 0 10058
+D5
+~
+~
+0 0 10061
+S
+#10061
+0 0
+~
+~
+~
+0 576 0
+`aSwimming Through an Underwater Cavern``~
+`gThe green water swirls and bubbles as dark shapes move around you. 
+There is something in this cavern, and you would rather swim on than stay
+and find out what it might be.  `` 
+~
+0 BDN 11
+0
+~
+I D D1
+~
+~
+0 0 10063
+D2
+~
+~
+0 0 10062
+D4
+~
+~
+0 0 10060
+S
+#10062
+0 0
+~
+~
+~
+0 576 0
+`aSwimming Through an Underwater Cavern``~
+`gThe green water swirls and bubbles as dark shapes move around you. 
+There is something in this cavern, and you would rather swim on than stay
+and find out what it might be.  `` 
+~
+0 BDN 11
+0
+~
+I D D0
+~
+~
+0 0 10061
+D1
+~
+~
+0 0 10064
+S
+#10063
+0 0
+~
+~
+~
+0 576 0
+`aSwimming Through an Underwater Cavern``~
+`gThe green water swirls and bubbles as dark shapes move around you. 
+There is something in this cavern, and you would rather swim on than stay
+and find out what it might be.  `` 
+~
+0 BDN 11
+0
+~
+I D D0
+~
+~
+0 0 10065
+D2
+~
+~
+0 0 10064
+D3
+~
+~
+0 0 10061
+S
+#10064
+0 0
+~
+~
+~
+0 576 0
+`aSwimming Through an Underwater Cavern``~
+`gThe green water swirls and bubbles as dark shapes move around you. 
+There is something in this cavern, and you would rather swim on than stay
+and find out what it might be.  `` 
+~
+0 BDN 11
+0
+~
+I D D0
+~
+~
+0 0 10063
+D3
+~
+~
+0 0 10062
+S
+#10065
+0 0
+~
+~
+~
+0 576 0
+`aA Smaller Cave``~
+`gThis is a cave inside the larger water-filled cavern, just as slimy and
+dark as the latter.  Sea-weed wave at you as you swim by like a seal into
+the maws of an orca.  `` 
+~
+0 ABDN 11
+0
+~
+I D D2
+~
+~
+0 0 10063
+S
+#10066
+0 0
+~
+~
+~
+0 576 0
+`aA Dead End``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D2
+~
+~
+0 0 10067
+S
+#10067
+0 0
+~
+~
+~
+0 576 0
+`aA White Corridor``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10066
+D1
+~
+~
+0 0 10069
+D2
+~
+door~
+4193 10113 10068
+D3
+~
+~
+0 0 10071
+S
+#10068
+0 0
+~
+~
+~
+0 576 0
+`aChamber of Preparation``~
+`hThis chamber looks to be some kind of chamber to prepare for
+ceremonies, silk robes hang from knobs on the wall and huge books with
+wooden covers sit in shelves among a big assortment of holy symbols.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+door~
+4193 10113 10067
+D5
+~
+~
+0 0 10080
+S
+#10069
+0 0
+~
+~
+~
+0 576 0
+`aA White Corridor``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10070
+D3
+~
+~
+0 0 10067
+S
+#10070
+0 0
+~
+~
+~
+0 576 0
+`aThe Altar of the Wind``~
+`hMurals of billowing white clouds cover the walls and in the domed
+ceiling there is an opening that seems to reach to the very surface of the
+world.  A white marble altar has been erected below that windy shaft.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 10069
+D4
+~
+~
+0 0 9943
+S
+#10071
+0 0
+~
+~
+~
+0 576 0
+`aA White Corridor``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10072
+D1
+~
+~
+0 0 10067
+S
+#10072
+0 0
+~
+~
+~
+0 576 0
+`aA White Corridor``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10073
+D2
+~
+~
+0 0 10071
+D3
+~
+door~
+4097 0 10074
+S
+#10073
+0 0
+~
+~
+~
+0 576 0
+`aA White Corridor``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10075
+D2
+~
+~
+0 0 10072
+S
+#10074
+0 0
+~
+~
+~
+0 576 0
+`aChamber of Ancient Technology``~
+`hAll over the tables and shelves that can be found everywhere in this
+room, strange devices lie.  Complex clockwork creations move and click as
+metal taps against metal.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+door~
+4097 0 10072
+S
+#10075
+0 0
+~
+~
+~
+0 576 0
+`aA White Corridor``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+door~
+1 0 10076
+D1
+~
+~
+0 0 10077
+D3
+~
+~
+0 0 10073
+S
+#10076
+0 0
+~
+~
+~
+0 576 0
+`aA Resting Chamber``~
+`hThe stone walls are colored in relaxing purples and reds, soft light
+shines from tiny niches, barely illuminating the pillow-covered floor.  `` 
+~
+0 BDN 18
+0
+~
+H150
+I D M150
+D2
+~
+door~
+1 0 10075
+S
+#10077
+0 0
+~
+~
+~
+0 576 0
+`aA White Corridor``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D2
+~
+~
+0 0 10078
+D3
+~
+~
+0 0 10075
+S
+#10078
+0 0
+~
+~
+~
+0 576 0
+`aA White Corridor``~
+`hSubdued blue mosaics create the illusion of a maze-patterned carpet on
+the floor, leading you through the white-washed walls of these luxurious
+living quarters.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10077
+D1
+~
+door~
+4097 0 10079
+S
+#10079
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Chamber``~
+`hHeavy weapons hang on weapon racks along the walls, leaving the middle
+of the room free for sparring.  There are no paddings on the weapons in this
+room.  This must be a place for weapon masters.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+door~
+4097 0 10078
+S
+#10080
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 0
+0
+~
+I D D0
+~
+~
+0 0 10082
+S
+#10081
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#10082
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10088
+D1
+~
+~
+0 0 10085
+D2
+~
+~
+0 0 10080
+D3
+~
+~
+0 0 10083
+S
+#10083
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls. 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10087
+D1
+~
+~
+0 0 10082
+D2
+~
+~
+0 0 10095
+D3
+~
+~
+0 0 10084
+S
+#10084
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls. 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10091
+D1
+~
+~
+0 0 10083
+D3
+~
+~
+0 0 10086
+S
+#10085
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10089
+D1
+~
+~
+0 0 10086
+D2
+~
+~
+0 0 10093
+D3
+~
+~
+0 0 10082
+S
+#10086
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10090
+D1
+~
+~
+0 0 10084
+D3
+~
+~
+0 0 10085
+S
+#10087
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10095
+D1
+~
+~
+0 0 10088
+D2
+~
+~
+0 0 10083
+D3
+~
+~
+0 0 10091
+S
+#10088
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10094
+D1
+~
+~
+0 0 10089
+D2
+~
+~
+0 0 10082
+D3
+~
+~
+0 0 10087
+S
+#10089
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10093
+D1
+~
+~
+0 0 10090
+D2
+~
+~
+0 0 10085
+D3
+~
+~
+0 0 10088
+S
+#10090
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10092
+D1
+~
+~
+0 0 10091
+D2
+~
+~
+0 0 10086
+D3
+~
+~
+0 0 10089
+S
+#10091
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls. 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10087
+D2
+~
+~
+0 0 10084
+D3
+~
+~
+0 0 10090
+S
+#10092
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+door~
+4097 0 10096
+D2
+~
+~
+0 0 10090
+D3
+~
+~
+0 0 10093
+S
+#10093
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10085
+D1
+~
+~
+0 0 10092
+D2
+~
+~
+0 0 10089
+D3
+~
+~
+0 0 10094
+S
+#10094
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 DN 18
+0
+~
+I D D0
+~
+~
+0 0 10098
+D1
+~
+~
+0 0 10093
+D2
+~
+~
+0 0 10088
+D3
+~
+~
+0 0 10095
+S
+#10095
+0 0
+~
+~
+~
+0 576 0
+`aThe Training Halls of the Phalanx``~
+`hThis is where the phalanx spar and train their fighting skills, and
+there are few things that are as scary as a titan wielding four swords
+charging at you.  Weapons with rings at the end of the handle hang off hooks
+from the ceiling, adding another hazard to these already dangerous halls.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10083
+D1
+~
+~
+0 0 10094
+D2
+~
+~
+0 0 10087
+D3
+~
+door~
+4129 9979 10097
+S
+#10096
+0 0
+~
+~
+~
+0 576 0
+`aA Quiet Chamber``~
+`hA bare room, just enough out-of-the-way to rest your sore bones.  A
+small fountain gurgles on the north wall, providing you with much needed
+liquid.  The sound of battle is heard to the south.  `` 
+~
+0 BDN 18
+0
+~
+H200
+I D D2
+~
+door~
+4097 0 10092
+S
+#10097
+0 0
+~
+~
+~
+0 576 0
+`aChamber of the Weaponmaster``~
+`hHuge weapons hang on display on the walls, gilded and adorned with many
+a precious stone.  Behind a screen by the far wall you see a simple bunk and
+a barrel on which a book lie.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+door~
+4129 9979 10095
+D5
+~
+~
+0 0 10099
+S
+#10098
+0 0
+~
+~
+~
+0 576 0
+`aBelow the Air Shaft``~
+`hA refreshing wind blows down from above, a welcome cool after the
+extensive fighting.  The tunnel disappears up into the darkess of the temple
+above.  `` 
+~
+0 BDN 18
+0
+~
+I D D2
+~
+~
+0 0 10094
+S
+#10099
+0 0
+~
+~
+~
+0 576 0
+`aTemple of the Phalanx``~
+`hGetting further and further down from the surface of the world, you
+feel more the pressure in the air around you.  The shadows in the corners
+seem a deeper black and the illumination a little less bright.  You get the
+feeling that this is as far down as the as journey will go.  `` 
+~
+0 DN 1
+0
+~
+I D D0
+~
+bronze~
+4193 9983 10102
+D1
+~
+silver~
+4193 9989 10109
+D2
+~
+gold~
+4193 10003 10119
+D3
+~
+door~
+1 0 10100
+S
+#10100
+0 0
+~
+~
+~
+0 576 0
+`aAn Ante-chamber``~
+`hHigh-set marble benches jut out from the walls of this room.  Too high
+up for a normal person, these benches must be made for the giant phalanx
+people.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+door~
+1 0 10099
+D3
+~
+~
+0 0 10101
+S
+#10101
+0 0
+~
+~
+~
+0 576 0
+`aThe Silent Chamber``~
+~
+0 BDGN 18
+0
+~
+I D D1
+~
+~
+0 0 10100
+S
+#10102
+0 0
+~
+~
+~
+0 576 0
+`aA Dark Corridor``~
+`hSparsely lit, the cracks between the stones in the walls seem deeper
+than they normally would.  And the light at the end of the passage seems so
+much further.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10103
+D2
+~
+door~
+4193 9983 10099
+S
+#10103
+0 0
+~
+~
+~
+0 576 0
+`aA Dark Corridor``~
+`hThe corridor continues, dark and forbidding and still that alluring
+light farther to the north.  Dirt has collected around the cracks of a stone
+on the west wall here.  Growling from some kind of animal can be heard to
+the north.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10105
+D2
+~
+~
+0 0 10102
+S
+#10104
+0 0
+~
+~
+secret~
+0 576 0
+`aLair of the Worm``~
+`hThis is the lair of teh earth-grind worm, a monster in the guise of a
+earth-burrower.  Old stories tell of these worms, saying that they live
+thousands of years underground until one day something triggers their
+transformation, turning them into a all-devouring swarm of black flies.  The
+entire swarm is one entity, sharing a mind that makes it all the more
+dangerous.  `` 
+~
+0 BCDNT 18
+0
+~
+I 0 S
+#10105
+0 0
+~
+~
+~
+0 576 0
+`aA Dark Corridor``~
+`hSparsely lit, the cracks between the stones in the walls seem deeper
+than they normally would.  And the light at the end of the passage seems so
+much further.``
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10106
+D2
+~
+~
+0 0 10103
+S
+#10106
+0 0
+~
+~
+~
+0 576 0
+`aA Fork in the Corridor``~
+`hSparsely lit, the cracks between the stones in the walls seem deeper
+than they normally would.  And the light at the end of the passage seems so
+much further.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10108
+D2
+~
+~
+0 0 10105
+D3
+~
+~
+0 0 10107
+S
+#10107
+0 0
+~
+~
+~
+0 576 0
+`aA Chamber Smelling of Forest``~
+`hBushes and trees greet surround you, and even though they are just
+painted on the irregular walls they almost appear to be a portal to the
+silver crescent woods.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10106
+S
+#10108
+0 0
+~
+~
+~
+0 576 0
+`aRoom of Prophecy``~
+`hThe images on this room show a fiery doom for the entire surface world,
+a red sun scorches the realms with wavy red flames, sparing nothing except
+those that live far underground.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 10106
+S
+#10109
+0 0
+~
+~
+~
+0 576 0
+`aA Hallway``~
+`hSparsely illuminated, this room seems to be in the less inhabited part
+of the complex.  A wash basin sits on a low piedestal in the center of the
+room.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10110
+D3
+~
+door~
+4193 9989 10099
+S
+#10110
+0 0
+~
+~
+~
+0 576 0
+`aA Intersection``~
+`hPassages lead in all the capital directions, east and south further
+into the temple and north seems to be a dead end.  The sound of scraping and
+the rattling of pulleys can be heard to the south.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10111
+D1
+~
+~
+0 0 10112
+D2
+~
+~
+0 0 10115
+D3
+~
+~
+0 0 10109
+S
+#10111
+0 0
+~
+~
+~
+0 576 0
+`aA Niche in the Wall``~
+`hWhat a strange place to store a machine.  This niche is barely
+separated from the intersection to the south by a thin veil made of some
+ancient silk.  Chains rattle through steel enforced openings in the wall
+making cogs spin.  `` 
+~
+0 BDN 18
+0
+~
+I D D2
+~
+~
+0 0 10110
+S
+#10112
+0 0
+~
+~
+~
+0 576 0
+`aA Passage in the Temple``~
+`hDifferently colored stepping stones are separated by small holes in the
+floor, each hole surrounded by a dull circle of ash.  The walls are
+similarly blackened, something is not right...  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10113
+D3
+~
+~
+0 0 10110
+S
+#10113
+0 0
+~
+~
+~
+0 576 0
+`aA Turn in the Corridor``~
+`hMuch like the room to the west, this chamber is riddled with small
+holes in the floor, ceiling and walls.  None of them blackened, but many of
+them reddened by blood.  `` 
+~
+0 BDN 18
+0
+~
+I D D2
+~
+~
+0 0 10114
+D3
+~
+~
+0 0 10112
+S
+#10114
+0 0
+~
+~
+~
+0 576 0
+`aChamber of Prayers``~
+`hA single candle flutters on the south wall, being the focus of the
+praying and meditating phalanx that come here to pray to their forefathers. 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10113
+S
+#10115
+0 0
+~
+~
+~
+0 576 0
+`aRoom of Levers``~
+`hA multitude of levers dominate the floor, making it hard to get past
+without accidently pulling one.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10110
+D2
+~
+~
+0 0 10116
+S
+#10116
+0 0
+~
+~
+~
+0 576 0
+`aThe Chamber of Tablets``~
+`hSeveral tablets adorned with gold-filled carvings make up the walls in
+this chamber.  They seem to make out some kind of creation story, judging
+from the discernable symbols.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10115
+D1
+~
+~
+0 0 10117
+S
+#10117
+0 0
+~
+~
+~
+0 576 0
+`aRoom of the Stars``~
+`hThe glitter of thousands of jewels greet anyone who enters this
+chamber.  A prayer bell hangs from a string in the middle of the room. 
+Looking to be some kind of treasure at first, you realize that each jewel
+represents a star, a sun, a moon or a planet.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+~
+0 0 10116
+S
+#10118
+0 0
+~
+~
+~
+0 512 0
+`aThe Room of Fire``~
+`hThis room is extremely hot, in fact, the only person who could ever
+live in such an enviorment would be a litan.  You feel your equipment
+turning warmer by the second, perhaps you should leave as soon as
+possible...  `` 
+~
+0 BDNTX 18
+0
+~
+I 0 D3
+~
+~
+0 0 10117
+S
+#10119
+0 0
+~
+~
+~
+0 576 0
+`aThe Endless Halls``~
+`hA forest of pillars surround you on all sides and seems to go on
+forever in each direction.  One could easily get lost in such a place as
+this.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+door~
+4193 10003 10099
+D1
+~
+~
+0 0 10121
+D2
+~
+~
+0 0 10123
+D3
+~
+~
+0 0 10120
+S
+#10120
+0 0
+~
+~
+~
+0 576 0
+`aThe Endless Halls``~
+`hA forest of pillars surround you on all sides and seems to go on
+forever in each direction.  One could easily get lost in such a place as
+this.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10119
+D2
+~
+~
+0 0 10124
+S
+#10121
+0 0
+~
+~
+~
+0 576 0
+`aThe Endless Halls``~
+`hA forest of pillars surround you on all sides and seems to go on
+forever in each direction.  One could easily get lost in such a place as
+this.  `` 
+~
+0 BDN 18
+0
+~
+I D D2
+~
+~
+0 0 10122
+D3
+~
+~
+0 0 10119
+S
+#10122
+0 0
+~
+~
+~
+0 576 0
+`aThe Endless Halls``~
+`hA forest of pillars surround you on all sides and seems to go on
+forever in each direction.  One could easily get lost in such a place as
+this.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10121
+D3
+~
+~
+0 0 10123
+S
+#10123
+0 0
+~
+~
+~
+0 576 0
+`aThe Endless Halls``~
+`hA forest of pillars surround you on all sides and seems to go on
+forever in each direction.  One could easily get lost in such a place as
+this.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10119
+D1
+~
+~
+0 0 10122
+D2
+~
+~
+0 0 10126
+D3
+~
+~
+0 0 10124
+S
+#10124
+0 0
+~
+~
+~
+0 576 0
+`aThe Endless Halls``~
+`hA forest of pillars surround you on all sides and seems to go on
+forever in each direction.  One could easily get lost in such a place as
+this.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10120
+D1
+~
+~
+0 0 10123
+D2
+~
+~
+0 0 10125
+S
+#10125
+0 0
+~
+~
+~
+0 576 0
+`aThe Endless Halls``~
+`hA forest of pillars surround you on all sides and seems to go on
+forever in each direction.  One could easily get lost in such a place as
+this.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10124
+D1
+~
+~
+0 0 10126
+S
+#10126
+0 0
+~
+~
+~
+0 576 0
+`aThe Endless Halls``~
+`hA forest of pillars surround you on all sides and seems to go on
+forever in each direction.  One could easily get lost in such a place as
+this.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10123
+D2
+~
+~
+0 0 10127
+D3
+~
+~
+0 0 10125
+S
+#10127
+0 0
+~
+~
+~
+0 576 0
+`aAn Ominous Passage``~
+`hYet another long corridor through the bedrock, but this one is somehow
+different...  A looming feeling of doom settles on you when you hear the
+subtle swishing and creaking of something moving nearby.  `` 
+~
+0 BDN 0
+0
+~
+I D D0
+~
+~
+0 0 10126
+D2
+~
+~
+0 0 10128
+S
+#10128
+0 0
+~
+~
+~
+0 576 0
+`aAn Ominous Passage``~
+`hYet another long corridor through the bedrock, but this one is somehow
+different...  A looming feeling of doom settles on you when you hear the
+subtle swishing and creaking of something moving nearby.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10127
+D1
+~
+door~
+4097 0 10131
+D2
+~
+~
+0 0 10129
+S
+#10129
+0 0
+~
+~
+~
+0 576 0
+`aAn Ominous Passage``~
+`hYet another long corridor through the bedrock, but this one is somehow
+different...  A looming feeling of doom settles on you when you hear the
+subtle swishing and creaking of something moving nearby.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+~
+0 0 10128
+D2
+~
+~
+0 0 10130
+S
+#10130
+0 0
+~
+~
+~
+0 576 0
+`aResting Chambers``~
+`hThe floor is cushioned here, making it a perfect place to rest after a
+day of dodging traps and the blades of enemies.  The room even has a
+fountain to quench one's thirst after having run through the deadly pendulum
+corridor to the north.  `` 
+~
+0 BDN 18
+0
+~
+H115
+I D M115
+D0
+~
+~
+0 0 10129
+D3
+~
+~
+0 0 10134
+S
+#10131
+0 0
+~
+~
+~
+0 576 0
+`aA Tunnel``~
+`hA tunnel leads through the bedrock, sloping downwards to the east. 
+From below echoes of screams and giggles can be heard.  Balls of light
+bounce against eachother as they float near the roof, that is strange, they
+usually never move on their own...  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+door~
+4097 0 10128
+D5
+~
+~
+0 0 10132
+S
+#10132
+0 0
+~
+~
+~
+0 576 0
+`aThe End of the Tunnel``~
+`hThis passage comes to an abrupt end at a big iron-clad door.  Laughter,
+giggles and screams come from the other side of it, how many people are
+locked in there?  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+door~
+4193 10008 10133
+D4
+~
+~
+0 0 10131
+S
+#10133
+0 0
+~
+~
+~
+0 576 0
+`aA Padded Cell``~
+`hThe once white paddings of this cell are now brown with caked blood. 
+Whoever lives here somehow managed to hurt him- or herself but slamming
+their body into the soft walls, quite a feat.  `` 
+~
+0 BDN 18
+0
+~
+I D D3
+~
+door~
+4193 10008 10132
+S
+#10134
+0 0
+~
+~
+~
+0 576 0
+`aThe Chambers of Ethos``~
+`hEven though the mirrors on the walls hang in gilded frames and great
+red tapestries cover large portions of the walls, this room is rather
+spartan.  A dented iron weapon rack is very out of place by the north-west
+corner.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10130
+D2
+~
+door~
+4193 10026 10135
+S
+#10135
+0 0
+~
+~
+~
+0 576 0
+`aPathos's Chambers``~
+`hRather than being spartan, like his brother, Pathos must have required
+much grander living quarters.  Gleaming swords hang on the walls richly
+adorned with heavy jewels and the scabbard painted in bright metallic
+colors.  On top of the marble desktop sits many trinkets that move on their
+own, emitting vague clinking sounds.  `` 
+~
+0 BDN 18
+0
+~
+I D D0
+~
+door~
+4193 10026 10134
+D3
+~
+~
+0 0 10136
+S
+#10136
+0 1000000
+`kIverath`c gives you a reward for having navigated this dungeon to the end.``~
+~
+~
+0 576 0
+`aThe End of the Journey``~
+`hA simple room tiled with white marble.  In each corner a brazier
+spreads a gentle glow over the room.  An empty stone doorway stands on a
+dais on the north wall.  Swirling lights shine inside the space within.  `` 
+~
+0 BDN 18
+0
+~
+I D D1
+~
+~
+0 0 10135
+S
+#0
+
+#RESETS
+O 0 9935   0 9937 -1	* A pool of crystal clear water at `aA Cramped Chamber``
+O 0 9936   0 9946 -1	* A pool of crystal clear water at `aA White Chamber``
+M 0 9936   1 9936  1	* A limestone guardian
+M 0 9935   1 9936  1	* A limestone guardian
+M 0 9937   2 9939  1	* A tangle of snakes
+M 0 9938   1 9940  1	* An explorer
+G 0 9937 -1		* `da pair of pyramid-shaped dice`` to An explorer
+G 0 9938 -1		* `da gilded arrow`` to An explorer
+G 0 9939 -1		* `da silver feather`` to An explorer
+G 0 9940 -1		* `dwhite linen wrappings`` to An explorer
+O 0 9941   0 9941 -1	* Ot at `aThe Golden Desert Mosaic``
+M 0 9940   1 9941  1	* ``the ancient stone wall
+M 0 9939   1 9941  1	* A digging dwarf
+E 0 9942   -1   16	* item to A digging dwarf
+O 0 9943   0 9947 -1	* `da brown bush`` at `aUnder the Surface``
+O 0 9944   0 9947 -1	* `da red berry`` at `aUnder the Surface``
+O 0 9945   0 9947 -1	* `da red berry`` at `aUnder the Surface``
+M 0 9942   1 9938  1	* A tangle of snakes
+O 0 9948   0 9942 -1	* `da corpse crawling with maggots`` at `aA Hallway That Smells Like Rot``
+O 0 9951   0 9944 -1	* `dthe earthy floor`` at `aA Vandalized Chamber``
+O 0 9952   0 9958 -1	* `da silver bowl`` at `aLost Among the Mirrors``
+O 0 9953   0 9956 -1	* `da disorientation trap`` at `aLost Among the Mirrors``
+M 0 9945   1 9950  1	* An illusion
+M 0 9946   1 9959  1	* An illusion
+M 0 9947   4 9957  1	* A reflection
+M 0 9947   4 9955  1	* A reflection
+M 0 9948   3 9953  1	* A reflection
+M 0 9948   3 9963  1	* A reflection
+M 0 9948   3 9964  1	* A reflection
+G 0 9954 -1		* `dan empty mirror frame`` to A reflection
+M 0 9947   4 9951  1	* A reflection
+G 0 9954 -1		* `dan empty mirror frame`` to A reflection
+M 0 9947   4 9961  1	* A reflection
+G 0 9954 -1		* `dan empty mirror frame`` to A reflection
+M 0 9950   1 9972  1	* An animated mushroom
+M 0 9949   1 9972  1	* A cave stalker
+M 0 9951   1 9971  1	* A ranger
+D 0 9970   1    2	* `aThe End of the Passage`` [east]
+D 0 9967   3    2	* `aA Burial Chamber`` [west]
+M 0 9953   1 9970  1	* A limestone guardian
+E 0 9955   -1   11	* item to A limestone guardian
+E 0 9955   -1   18	* item to A limestone guardian
+E 0 9956   -1   16	* item to A limestone guardian
+E 0 9956   -1   17	* item to A limestone guardian
+O 0 9957   0 9967 -1	* `dthe sarcophagus`` at `aA Burial Chamber``
+P 0 9958 1 9957 1
+M 0 9952   1 9965  1	* Bringar the dwarf
+E 0 9960   -1   13	* item to Bringar the dwarf
+E 0 9961   -1   19	* item to Bringar the dwarf
+M 0 9954   1 9965  1	* Smarg the underling
+E 0 9962   -1   11	* item to Smarg the underling
+O 0 9963   0 9966 -1	* `da white marble altar`` at `aAltar of Sun Worship``
+O 0 9964   0 9974 -1	* `da steel jaw trap`` at `aA Sloping Passage``
+O 0 9964   0 9976 -1	* `da steel jaw trap`` at `aA Sloping Passage``
+O 0 9964   0 9978 -1	* `da steel jaw trap`` at `aA Sloping Passage``
+O 0 9964   0 9981 -1	* `da steel jaw trap`` at `aA Sloping Passage``
+O 0 9964   0 9982 -1	* `da steel jaw trap`` at `aA Sloping Passage``
+M 0 9956   2 9979  1	* A two-headed snake
+M 0 9956   2 9980  1	* A two-headed snake
+M 0 9958   3 9998  1	* Greater darkness
+E 0 9965   -1   18	* item to Greater darkness
+M 0 9958   3 9989  1	* Greater darkness
+E 0 9966   -1   19	* item to Greater darkness
+M 0 9958   3 10000  1	* Greater darkness
+E 0 9967   -1   15	* item to Greater darkness
+E 0 9967   -1   14	* item to Greater darkness
+O 0 9968   0 9996 -1	* `da flaming marble`` at `aThe Darkness``
+M 0 9957   8 9995  1	* Living darkness
+M 0 9957   8 9990  1	* Living darkness
+M 0 9957   8 9992  1	* Living darkness
+M 0 9957   8 9997  1	* Living darkness
+M 0 9957   8 9994  1	* Living darkness
+M 0 9957   8 9987  1	* Living darkness
+M 0 9957   8 9985  1	* Living darkness
+O 0 9964   0 10003 -1	* `da steel jaw trap`` at `aA Sloping Passage``
+M 0 9959   2 10003  1	* A two-headed snake
+O 0 9964   0 10005 -1	* `da steel jaw trap`` at `aA Sloping Passage``
+M 0 9959   2 10006  1	* A two-headed snake
+M 0 10101   6 10020  1	* An ice devil
+G 0 10101 -1		* `da glowing globe of ice`` to An ice devil
+M 0 10101   6 10013  1	* An ice devil
+G 0 10101 -1		* `da glowing globe of ice`` to An ice devil
+M 0 10101   6 10050  1	* An ice devil
+G 0 10101 -1		* `da glowing globe of ice`` to An ice devil
+M 0 10101   6 10048  1	* An ice devil
+G 0 10101 -1		* `da glowing globe of ice`` to An ice devil
+M 0 10101   6 10043  1	* An ice devil
+G 0 10101 -1		* `da glowing globe of ice`` to An ice devil
+M 0 10101   6 10011  1	* An ice devil
+G 0 10101 -1		* `da glowing globe of ice`` to An ice devil
+M 0 10102   1 10052  1	* The ice golem
+G 0 10102 -1		* `dthe eye of the ice golem`` to The ice golem
+E 0 10103   -1   17	* item to The ice golem
+M 0 10103   1 10016  1	* A snow wyrm
+E 0 10104   -1    3	* item to A snow wyrm
+D 0 10051   3    2	* `aSkidding Along the Icy Floor`` [west]
+D 0 10052   1    2	* `aAn Ice Garden`` [east]
+M 0 10104   2 10054  1	* A blue-striped shark
+G 0 10105 -1		* `dthe tooth of a blue-striped shark`` to A blue-striped shark
+M 0 10104   2 10055  1	* A blue-striped shark
+G 0 10105 -1		* `dthe tooth of a blue-striped shark`` to A blue-striped shark
+M 0 10105   2 10059  1	* A "miler" eel
+G 0 10106 -1		* `dvarious bones and teeth from dead sea creatures`` to A "miler" eel
+M 0 10105   2 10058  1	* A "miler" eel
+G 0 10106 -1		* `dvarious bones and teeth from dead sea creatures`` to A "miler" eel
+M 0 10106   1 10063  1	* A whirler
+E 0 10107   -1    6	* item to A whirler
+M 0 10107   1 10065  1	* An ancient canthi
+G 0 9970 -1		* `dot`` to An ancient canthi
+E 0 9969   -1   17	* item to An ancient canthi
+O 0 10108   0 10064 -1	* `da pocket of air`` at `aSwimming Through an Underwater Cavern``
+D 0 10078   1    1	* `aA White Corridor`` [east]
+D 0 10079   3    1	* `aThe Training Chamber`` [west]
+D 0 10075   0    1	* `aA White Corridor`` [north]
+D 0 10076   2    1	* `aA Resting Chamber`` [south]
+D 0 10072   3    1	* `aA White Corridor`` [west]
+D 0 10074   1    1	* `aChamber of Ancient Technology`` [east]
+D 0 10067   2    2	* `aA White Corridor`` [south]
+D 0 10068   0    2	* `aChamber of Preparation`` [north]
+O 0 10109   0 10076 -1	* `dsome red silk pillows`` at `aA Resting Chamber``
+O 0 10110   0 10075 -1	* `da white marble fountain`` at `aA White Corridor``
+M 0 9961   1 10074  1	* A phalanx scientist
+E 0 10112   -1   18	* item to A phalanx scientist
+E 0 10111   -1   11	* item to A phalanx scientist
+M 0 9962   1 10079  1	* The phalanx axe master
+E 0 9971   -1   16	* item to The phalanx axe master
+E 0 9972   -1   17	* item to The phalanx axe master
+E 0 9973   -1   18	* item to The phalanx axe master
+E 0 9974   -1   11	* item to The phalanx axe master
+G 0 10113 -1		* `da silver key`` to The phalanx axe master
+O 0 10114   0 10071 -1	* `dan alarm trap`` at `aA White Corridor``
+O 0 10114   0 10073 -1	* `dan alarm trap`` at `aA White Corridor``
+O 0 10114   0 10077 -1	* `dan alarm trap`` at `aA White Corridor``
+O 0 10115   0 10070 -1	* `dthe altar of the wind`` at `aThe Altar of the Wind``
+M 0 9964   1 10069  1	* The phalanx ceremony master
+E 0 10116   -1   12	* item to The phalanx ceremony master
+E 0 10117   -1   18	* item to The phalanx ceremony master
+M 0 9965   1 10068  1	* A phalanx acolyte
+G 0 10118 -1		* `dot`` to A phalanx acolyte
+E 0 10119   -1   18	* item to A phalanx acolyte
+D 0 10092   0    1	* `aThe Training Halls of the Phalanx`` [north]
+D 0 10096   2    1	* `aA Quiet Chamber`` [south]
+D 0 10095   3    2	* `aThe Training Halls of the Phalanx`` [west]
+D 0 10097   1    2	* `aChamber of the Weaponmaster`` [east]
+O 0 10120   0 10096 -1	* `da simple bronze fountain`` at `aA Quiet Chamber``
+M 0 9967   4 10083  1	* A fist-fighting phalanx titan
+E 0 9975   -1   13	* item to A fist-fighting phalanx titan
+E 0 9976   -1   18	* item to A fist-fighting phalanx titan
+M 0 9967   4 10095  1	* A fist-fighting phalanx titan
+E 0 9975   -1   13	* item to A fist-fighting phalanx titan
+E 0 9976   -1   18	* item to A fist-fighting phalanx titan
+M 0 9966   4 10088  1	* A phalanx sword-fighter
+E 0 9977   -1    2	* item to A phalanx sword-fighter
+E 0 9978   -1   11	* item to A phalanx sword-fighter
+M 0 9966   4 10091  1	* A phalanx sword-fighter
+E 0 9977   -1    2	* item to A phalanx sword-fighter
+E 0 9978   -1   11	* item to A phalanx sword-fighter
+M 0 9966   4 10093  1	* A phalanx sword-fighter
+E 0 9977   -1    2	* item to A phalanx sword-fighter
+E 0 9978   -1   11	* item to A phalanx sword-fighter
+M 0 9966   4 10090  1	* A phalanx sword-fighter
+E 0 9977   -1    2	* item to A phalanx sword-fighter
+E 0 9978   -1   11	* item to A phalanx sword-fighter
+M 0 9967   4 10089  1	* A fist-fighting phalanx titan
+E 0 9975   -1   13	* item to A fist-fighting phalanx titan
+E 0 9976   -1    9	* item to A fist-fighting phalanx titan
+G 0 9979 -1		* `dthe weaponmaster's key`` to A fist-fighting phalanx titan
+M 0 9968   1 10097  1	* The phalanx weaponmaster
+E 0 9980   -1    5	* item to The phalanx weaponmaster
+G 0 9981 -1		* `dot`` to The phalanx weaponmaster
+O 0 9982   0 10101 -1	* `dot`` at `aThe Silent Chamber``
+D 0 10099   3    2	* `aTemple of the Phalanx`` [west]
+D 0 10100   1    2	* `aAn Ante-chamber`` [east]
+D 0 10099   0    2	* `aTemple of the Phalanx`` [north]
+D 0 10102   2    2	* `aA Dark Corridor`` [south]
+D 0 10099   1    2	* `aTemple of the Phalanx`` [east]
+D 0 10109   3    2	* `aA Hallway`` [west]
+D 0 10099   2    2	* `aTemple of the Phalanx`` [south]
+D 0 10119   0    2	* `aThe Endless Halls`` [north]
+M 0 9969   1 10101  1	* The meditating phalanx
+G 0 9985 -1		* `dot (on meditator)`` to The meditating phalanx
+G 0 9984 -1		* `da pair of lacy white gloves`` to The meditating phalanx
+G 0 9983 -1		* `dthe bronze key`` to The meditating phalanx
+M 0 9971   1 10102  1	* A guardian golem
+O 0 9986   0 10103 -1	* `dthe crush trap`` at `aA Dark Corridor``
+O 0 9986   0 10105 -1	* `dthe crush trap`` at `aA Dark Corridor``
+M 0 9973   1 10107  1	* A green-skinned phalanx
+E 0 9991   -1    5	* item to A green-skinned phalanx
+M 0 9974   5 10107  5	* A grey wolf
+M 0 9974   5 10107  5	* A grey wolf
+M 0 9974   5 10107  5	* A grey wolf
+O 0 9992   0 10108 -1	* `dot`` at `aRoom of Prophecy``
+O 0 9993   0 10103 -1	* `aa stone`` at `aA Dark Corridor``
+O 0 9994   0 10104 -1	* `da secret passage`` at `aLair of the Worm``
+M 0 9975   1 10104  1	* An earth-grind worm
+G 0 9995 -1		* `da demon-red rod`` to An earth-grind worm
+M 0 9977   1 10110  1	* An animated wall
+M 0 9976   1 10110  1	* A limestone golem
+O 0 9996   0 10110 -1	* Ot at `aA Intersection``
+M 0 9978   1 10111  1	* A thrower
+G 0 9997 -1		* `da sharpened iron bolt`` to A thrower
+G 0 9997 -1		* `da sharpened iron bolt`` to A thrower
+G 0 9997 -1		* `da sharpened iron bolt`` to A thrower
+G 0 9997 -1		* `da sharpened iron bolt`` to A thrower
+G 0 9997 -1		* `da sharpened iron bolt`` to A thrower
+G 0 9997 -1		* `da sharpened iron bolt`` to A thrower
+G 0 9997 -1		* `da sharpened iron bolt`` to A thrower
+G 0 9997 -1		* `da sharpened iron bolt`` to A thrower
+O 0 9996   0 10111 -1	* Ot at `aA Niche in the Wall``
+O 0 9998   0 10112 -1	* `da fire trap`` at `aA Passage in the Temple``
+O 0 9999   0 10113 -1	* `da spike trap`` at `aA Turn in the Corridor``
+O 0 10002   0 10115 -1	* `dthe copper lever`` at `aRoom of Levers``
+G 0 10003 -1		* `da gold key`` to A thrower
+M 0 9980   1 10114  1	* A praying phalanx woman
+G 0 10000 -1		* `dot`` to A praying phalanx woman
+E 0 10001   -1   15	* item to A praying phalanx woman
+G 0 10003 -1		* `da gold key`` to A praying phalanx woman
+M 0 9982   5 10120  1	* A sword golem
+E 0 10004   -1   16	* item to A sword golem
+G 0 10005 -1		* `dot`` to A sword golem
+M 0 9982   5 10119  1	* A sword golem
+E 0 10004   -1   16	* item to A sword golem
+G 0 10005 -1		* `dot`` to A sword golem
+M 0 9982   5 10122  1	* A sword golem
+E 0 10004   -1   16	* item to A sword golem
+G 0 10005 -1		* `dot`` to A sword golem
+M 0 9982   5 10126  1	* A sword golem
+E 0 10004   -1   16	* item to A sword golem
+G 0 10005 -1		* `dot`` to A sword golem
+M 0 9982   5 10125  1	* A sword golem
+E 0 10004   -1   16	* item to A sword golem
+G 0 10005 -1		* `dot`` to A sword golem
+O 0 10007   0 10127 -1	* `dot`` at `aAn Ominous Passage``
+O 0 10007   0 10128 -1	* `dot`` at `aAn Ominous Passage``
+O 0 10007   0 10129 -1	* `dot`` at `aAn Ominous Passage``
+D 0 10131   3    2	* `aA Tunnel`` [west]
+D 0 10128   1    2	* `aAn Ominous Passage`` [east]
+D 0 10132   1    2	* `aThe End of the Tunnel`` [east]
+D 0 10133   3    2	* `aA Padded Cell`` [west]
+M 0 9983   1 10132  1	* A limestone golem
+E 0 10008   -1   18	* item to A limestone golem
+M 0 9985   1 10133  1	* `ka talking`l b`ba`dl`kl`io`mo`jn``
+O 0 10006   0 10123 -1	* A dart trap at `aThe Endless Halls``
+M 0 9984   1 10133  1	* A crazy dwarf
+E 0 10009   -1    5	* item to A crazy dwarf
+G 0 10010 -1		* `dot`` to A crazy dwarf
+O 0 10012   0 10117 -1	* `da golden bell`` at `aRoom of the Stars``
+M 0 9988   1 10118  1	* Firlis, a warrior of the phoenix order
+E 0 10013   -1   18	* item to Firlis, a warrior of the phoenix order
+E 0 10014   -1   12	* item to Firlis, a warrior of the phoenix order
+G 0 10015 -1		* `dot`` to Firlis, a warrior of the Phoenix Order
+O 0 10017   0 10108 -1	* `da blood-red ruby`` at `aRoom of Prophecy``
+M 0 9972   1 10108  1	* A sneaky thief
+E 0 9988   -1   12	* item to A sneaky thief
+G 0 9989 -1		* `da silver key`` to A sneaky thief
+E 0 9990   -1   16	* item to A sneaky thief
+M 0 9981   1 10117  1	* Gustaf, the master thief
+G 0 10018 -1		* `da glass bottle containing an agitated lizard`` to Gustaf, the master thief
+G 0 10020 -1		* `dot`` to Gustaf, the master thief
+D 0 10135   0    1	* `aPathos's Chambers`` [north]
+O 0 10027   0 10130 -1	* `da marble fountain`` at `aResting Chambers``
+M 0 9944   1 9942  1	* A swarm of black flies
+E 0 10028   -1   16	* item to A swarm of black flies
+M 0 9943   1 9945  1	* A grave robber
+E 0 9946   -1   16	* item to A grave robber
+G 0 9947 -1		* `da tooth-shaped opal`` to A grave robber
+O 0 10029   0 10136 -1	* `da doorway`` at `aThe End of the Journey``
+O 0 10030   0 10034 -1	* `da valuable diamond`` at `aSkidding Along the Icy Floor``
+O 0 10031   0 10080 -1	* `dot`` at `aThe Training Halls of the Phalanx``
+O 0 10032   0 9983 -1	* `da ladder`` at `aThe End of the Passage``
+O 0 10121   0 9935 -1	* A notice to immortals at `aEntering the Temple of the Phalanx``
+D 0 10134   2    1	* `aThe Chambers of Ethos`` [south]
+M 0 9990   1 10134  1	* Ethos
+E 0 10011   -1   16	* item to Ethos
+G 0 10024 -1		* `dot - ethos fighting`` to Ethos
+E 0 10022   -1    2	* item to Ethos
+G 0 10026 -1		* Ethos's key to Ethos
+G 0 14118 -1		* `ha small `ngem `hentrapping `idharkkums `hsoul`` to Ethos
+M 0 9991   1 10134  1	* Pathos
+G 0 10023 -1		* `dot - retreat!`` to Pathos
+G 0 10025 -1		* `dot - pathos fighting`` to Pathos
+E 0 10021   -1   15	* item to Pathos
+O 0 7   0 9935 -1	* The symbol at `aEntering the Temple of the Phalanx``
+S
+
+#SHOPS
+9938  9  5 51  0  0 	50 100 	0 23	* An explorer
+9951 13  0  0  0  0 	100 100 	0 23	* A ranger
+0
+
+#SPECIALS
+M 9937 spec_poison		* A tangle of snakes
+M 9942 spec_poison		* A tangle of snakes
+S
+
+#OT
+#9941
+`hDwarf vs wall``~
+$entersroom~
+1
+68
+force diggingdwarf kill wall~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#9947
+`hgrave robber attack``~
+$entersroom~
+1
+66
+force graverobber backstab $randpc~
+100
+1
+force graverobber flee~
+100
+3
+force graverobber flee~
+100
+0
+force graverobber flee~
+100
+0
+force graverobber flee~
+100
+0
+force graverobber hide~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#9951
+reset limestone guardians~
+$whendug~
+32768
+64
+at 9936 purge limestone~
+100
+0
+at 9936 purge limestone~
+100
+0
+at 9936 load mob 9936~
+100
+0
+at 9936 load mob 9935~
+100
+0
+immtalk $name is entering the temple of the phalanx, prepare for messages of death.~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#9957
+Sarcophagus~
+$whenopened~
+8192
+64
+echo One of the statues come to life!~
+100
+0
+load mob 9955~
+100
+1
+force guardian kill $name~
+100
+0
+load obj 9959~
+1
+0
+force guardian palm greenstone~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#9963
+load trap and mobs on mirror level~
+$whenshoved~
+32768
+64
+at 9965 purge bringar~
+100
+0
+at 9965 purge smarg~
+100
+0
+at 9965 load mob 9952~
+100
+0
+at 9965 load mob 9954~
+100
+0
+at 9956 opurge disorient~
+100
+0
+at 9956 load obj 9953~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#9965
+The Acid Edge~
+$chance_on_hit~
+128
+72
+cast 'acid blast' $vict~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+3
+#9968
+marble~
+$when_pulled~
+0
+0
+echo You hear a ticking sound.~
+100
+3
+echo You hear a ticking sound.~
+100
+3
+echo The ticking stops.~
+100
+3
+cast 'fire breath' $3randch~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#9970
+`dSilver Fish Canthi``~
+$chance_on_round~
+256
+48
+force canthi emote whistles a bubbly whistle.~
+100
+0
+load mob 9960~
+100
+0
+damage $randpc 75 `bThe ancient canthi kicks you in the face!``~
+30
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#9981
+Phalanx Weaponmaster~
+$chance_on_round~
+256
+66
+trans $randpc 10092~
+100
+0
+at 10092 echo `bThe phalanx weaponmaster sends you sprawling with a mighty bash!``~
+100
+0
+$randpc 100 `bThe weaponmaster slams a huge fist into your head!``~
+20
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#9982
+load servant golems (final floor WEST)~
+$entersroom~
+1
+68
+at 10100 load mob 9970~
+100
+0
+at 10100 force servant west~
+20
+20
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+99
+#9985
+force attack meditator trigger thing!~
+$chance_on_round~
+256
+66
+force meditator emote closes his eyes and the room turns dark for a second.~
+100
+0
+peace~
+100
+0
+force $randpc kill $randpc~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+15
+#9990
+thiefly thief (backstabber with silver key)~
+$chance_on_round~
+256
+40
+peace~
+100
+0
+force sneakythief backstab $randpc~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+20
+#9992
+load traps in the corridor~
+$entersroom~
+1
+68
+at 10106 opurge crushtrap~
+100
+10
+at 10106 load obj 9986~
+100
+0
+at 10105 opurge crushtrap~
+100
+10
+at 10105 load obj 9986~
+100
+0
+at 10103 opurge crushtrap~
+100
+10
+at 10103 load obj 9986~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#9995
+Demon-red rod~
+$wearsobj~
+4
+64
+sieze demonred $name~
+100
+0
+set obj demonred extra rot-death~
+100
+0
+plant demonred $name~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#9996
+thrower~
+$chance_on_round~
+256
+68
+load obj 9997~
+10
+0
+at 10111 force thrower palm sharpened~
+100
+0
+at 10111 force thrower throw sharpened $name~
+40
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+90
+#10000
+attack eachother infidels!~
+$chance_on_round~
+256
+66
+force praying emote mumbles something to herself.~
+100
+0
+peace~
+100
+2
+force praying emote lets out a shout!~
+100
+0
+force $randpc kill $randpc~
+100
+0
+force $randpc kill $randpc~
+100
+0
+force praying kill $randpc~
+100
+0
+at 10112 opurge firetrap~
+100
+0
+at 10112 load obj 9998~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#10002
+Pull the lever and face the arrow trap!~
+$whenpulled~
+32768
+64
+echo That was a bad idea...~
+100
+1
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the back!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the groin!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the leg!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the face!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the foot!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the ear!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the hand!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the stomach!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the neck!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the arm!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the right buttock!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the left buttock!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the shoulder!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the chest!``~
+100
+0
+damage $randpc 50 `bAn arrow shoots out of the wall, hitting you in the hip!``~
+100
+0
+100
+#10004
+Sword golem 2~
+$chance_on_round~
+256
+66
+peace~
+100
+0
+force swordgolem backstab $randpc~
+100
+0
+force swordgolem disarm~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#10005
+Sword golem~
+$entersroom~
+1
+66
+force swordgolem backstab $randpc~
+100
+1
+peace~
+30
+5
+force swordgolem backstab $randpc~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10007
+Pendulum~
+$entersroom~
+1
+68
+echo A bladed pendulum barely misses your head!~
+100
+1
+damage $randpc 400 `bThe bladed pendulum slices through you!``~
+100
+4
+echo You hear the wind as the pendulum moves through the darkness to the west.~
+100
+2
+damage $randpc 400 `bThe bladed pendulum slices through you!``~
+100
+2
+echo You hear the wind as the pendulum moves through the darkness to the east.~
+100
+2
+damage $randpc 400 `bThe bladed pendulum slices through you!``~
+100
+2
+echo You hear the wind as the pendulum moves through the darkness to the west.~
+100
+3
+damage $randpc 400 `bThe bladed pendulum slices through you!``~
+100
+3
+echo You hear the wind as the pendulum moves through the darkness to the east.~
+100
+3
+damage $randpc 400 `bThe bladed pendulum slices through you!``~
+100
+3
+echo You hear the wind as the pendulum moves through the darkness to the west.~
+100
+3
+damage $randpc 400 `bThe bladed pendulum slices through you!``~
+100
+3
+echo You hear the wind as the pendulum moves through the darkness to the east.~
+100
+3
+damage $randpc 400 `bThe bladed pendulum slices through you!``~
+100
+3
+echo You hear the wind as the pendulum moves through the darkness to the west.~
+100
+3
+damage $randpc 400 `bThe bladed pendulum slices through you!``~
+100
+3
+100
+#10009
+yellow jumpsuit~
+$entersroom~
+1
+65
+trecho $wearer The yellow leather jumpsuit squeaks as $wearer moves around.~
+40
+15
+cast 'change sex' $wearer~
+100
+10
+cast 'giant strength' $wearer~
+20
+10
+cast 'armor' $wearer~
+20
+0
+cast 'shield' $wearer~
+20
+0
+cast 'sanctuary' $wearer~
+1
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#10010
+Crazy Dwarf~
+$chance_on_round~
+256
+66
+damage $randpc 100 `bThe crazy dwarf slaps you silly!``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+20
+#10013
+`blitan crest``~
+$wearsobj~
+4
+64
+trecho $name `k$name`b attaches the crest of the Phoenix Order on $s armor.``~
+100
+0
+pecho $name `bYou attach the crest of the Phoenix Order on your armor.``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10014
+`blitan wings``~
+$wearsobj~
+4
+64
+trecho $name `k$name`b is lets out a roar and fiery wings shoot out from $s back!``~
+100
+0
+pecho $name `bFiery`k wings`b shoot out of your back granting you the gift of flight.``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10015
+firlis~
+$chance_on_round~
+256
+66
+force firlis charge~
+10
+0
+damage $randpc 200 `bFirlis claws at your face with his hands.``~
+5
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+90
+#10016
+shadow mask~
+$char_flees~
+4194304
+73
+cast invis $wearer~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+98
+#10017
+sneakythief~
+$entersroom~
+1
+68
+force sneakythief emote tries to dig the ruby out of the wall with a chisel.~
+100
+3
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+5
+#10020
+gustaf~
+$chance_on_round~
+256
+66
+force gustaf flee~
+100
+0
+force gustaf flee~
+100
+0
+force gustaf flee~
+100
+0
+force gustaf flee~
+100
+0
+force gustaf flee~
+100
+0
+opurge traptrap~
+100
+1
+load obj 10019~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+15
+#10023
+Pathos - retreat~
+$char_hp_pct 50~
+8
+34
+force pathos emote retreats to the south!~
+100
+1
+trans pathos 10135~
+100
+0
+at 10135 restore pathos~
+100
+0
+at 10135 seize retreat pathos~
+100
+0
+at 1 drop retreat~
+100
+0
+at 1 purge~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10024
+Ethos~
+$chance_on_round~
+256
+34
+force ethos circle~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10025
+Pathos fighting~
+$chance_on_round~
+256
+66
+force pathos rescue ethos~
+100
+0
+force pathos rescue ethos~
+100
+0
+force pathos redirect $randpc~
+20
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+80
+#10031
+load traps and stuff in living quarters level~
+$entersroom~
+1
+68
+at 10071 opurge golemtrap~
+100
+0
+at 10071 load obj 10114~
+100
+0
+at 10073 opurge golemtrap~
+100
+0
+at 10073 load obj 10114~
+100
+0
+at 10077 opurge golemtrap~
+100
+0
+at 10077 load obj 10114~
+100
+0
+at 10068 purge phalanxacolyte~
+100
+0
+at 10068 load mob 9965~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10032
+load traps and two-headed snakes in passage before darkness~
+$whendescended~
+32768
+64
+at 9976 opurge steeljaw~
+100
+0
+at 9976 load obj 9964~
+100
+0
+at 9978 opurge steeljaw~
+100
+0
+at 9978 load obj 9964~
+100
+0
+at 9981 opurge steeljaw~
+100
+0
+at 9981 load obj 9964~
+100
+0
+at 9982 opurge steeljaw~
+100
+0
+at 9982 load obj 9964~
+100
+0
+at 9979 purge twoheaded~
+100
+0
+at 9979 load mob 9956~
+100
+0
+at 9980 purge twoheaded~
+100
+0
+at 9980 load mob 9956~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10103
+Storm Eye~
+$chance_on_hit~
+128
+65
+cast 'chill touch' $vict~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10104
+`oSnow Wyrm``~
+$chance_on_round~
+256
+97
+damage $vict 75 `bThe snow wyrm takes a large bite out of your arm!``~
+20
+0
+damage $vict 75 `bThe snow wyrm whips you with its tail!``~
+20
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+40
+#10108
+load water level mobs~
+$whendescended~
+32768
+68
+at 10054 purge shark~
+100
+0
+at 10055 purge shark~
+100
+0
+at 10054 load mob 10104~
+100
+0
+at 10055 load mob 10104~
+100
+0
+at 10059 purge miler~
+100
+0
+at 10058 purge miler~
+100
+0
+at 10058 load mob 10105~
+100
+1
+at 10059 load mob 10105~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#10118
+Phalanx Acolyte~
+$chance_on_round~
+256
+48
+force acolyte emote calls out for help!~
+100
+0
+load mob 9965~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#10119
+`dCeremonial Case``~
+$whenclosed~
+16384
+80
+seize ceremonialcase $name~
+100
+0
+cast curse ceremonialcase~
+100
+0
+at $name plant ceremonialcase $name~
+100
+0
+echo The ceremonial leather case glows with a malevolent light.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

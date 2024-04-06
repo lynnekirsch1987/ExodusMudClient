@@ -1,0 +1,28 @@
+* File: tpriest
+* Mob: Thesden Priest(4088)
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc self %hp% hit
+if (%hp% > 400)
+  cmd pray 'cure critical'
+  halt once~
+End
+
+#TRIGGER enters
+Type 10
+Sc
+  fondle boy
+  halt once~
+End
+
+#TRIGGER moves
+Type 11
+Sc
+  fondle boy
+  halt once~
+End
+
+#END
+

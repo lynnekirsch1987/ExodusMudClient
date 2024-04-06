@@ -1,0 +1,43 @@
+* File: clone.scr
+* Mob: clone(1234)
+
+#TRIGGER activate
+Type 8
+Sc
+if ( %activate-arg% cmp "activate" )
+mfunc self %activate-from% name
+cmd at 1 string mob 1. short a clone of %activate-from%
+cmd at 1 string mob 1. long A clone of %activate-from% wanders about, looking for trouble.
+cmd at 1 string mob 1. name clone
+cmd at 1 wizi 92
+cmd goto %activate-from%
+mfunc %activate-from% %sex% sex
+mfunc %activate-from% %race% race
+mfunc %activate-from% %class% class
+mfunc %activate-from% %level% level
+mfunc %activate-from% %align% align
+mfunc %activate-from% %maxhit% maxhit
+mfunc %activate-from% %hitroll% hitroll
+mfunc %activate-from% %damroll% damroll
+msign self %sex% sex
+msign self %race% race
+msign self %class% class
+msign self %level% level
+msign self %align% align
+msign self %maxhit% maxhit
+msign self %hitroll% hitroll
+msign self %damroll% damroll
+cmd at 1 restore
+cmd goto 1243
+cmd at 1 wizi
+halt triggers~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  cmd im %death-from% killed me!
+  halt once~
+End
+
+#END

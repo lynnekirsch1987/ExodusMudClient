@@ -1,0 +1,78 @@
+* File: testmaster.scr
+* Mob: Testmaster
+* The purpose of this script is to test the functionality of different commands.
+
+
+#TRIGGER MOB
+keywords mob~
+Type 0
+Sc
+if (%mob-from% !cmp "Minax")
+  pecho Minax %mob-from% tried to get me to do a MOB command.
+  halt once~
+Sc
+  pecho Minax I am about to execute the command 'MOB %MOB-arg%'
+  MOB %MOB-arg% 
+halt once~
+End
+
+#TRIGGER cmd
+keywords cmd~
+Type 0
+Sc
+if (%cmd-from% !cmp "Minax")
+  pecho Minax %cmd-from% just tried to make me do a CMD command.
+  halt once~
+Sc
+  pecho Minax I am about to execute the command 'cmd %cmd-arg%'
+  cmd %cmd-arg% 
+halt once~
+End
+
+#TRIGGER notetest
+keywords notetest~
+Type 0
+Sc
+  oocnote to minax
+  oocnote subject test
+  oocnote + This is a test
+  oocnote post
+  halt once~
+End
+
+#TRIGGER walkto
+keywords walkto~
+Type 0
+Sc
+  say Off I go then!
+  walkto %walkto-arg% 
+halt once~
+End
+
+#TRIGGER wound
+keywords wound~
+Type 0
+Sc
+  pecho %wound-arg% `iFire rains down from the sky leaving you nearly dead!``
+  msign %wound-arg% 1 hit
+halt once~
+End
+
+#TRIGGER smoke
+keywords smoke~
+Type 0
+Sc
+  pecho %smoke-arg% `iMinax appears and gives you a slappy.``
+  msign %smoke-arg% -9 hit
+halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-from% %name% name
+cmd at 1243 say Hello, %name%.
+halt once~
+End
+
+#END

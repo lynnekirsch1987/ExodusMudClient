@@ -1,0 +1,22 @@
+* File: tinkerer.scr
+* Mob: Tim the Tinkerer(4240)
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   say ``Amadeo's gems are perfect for mixing.  I've lost count of all the combinations.
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   say ``I found the `omoonstone``... now where did I put that stiletto?
+   cmd grumble
+   halt once~
+Sc
+if ( %rndnum% == 2 )
+   say ``Zeryn told me that `fcrystal `bdecanters ``are a good start for a lot of different potions.
+   halt once~
+End
+
+#END

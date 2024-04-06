@@ -1,0 +1,19 @@
+* File: eyunel
+* Mob: Eyunel(11366)
+
+#TRIGGER reply
+Type 8
+Sc
+mfunc self %condition% hit
+if (%condition% > 700) && (%reply-arg% cmp "lkeyu")
+yell Keep up the good work, Armizar!
+halt once~
+Sc
+if (%condition% < 699) && (%reply-arg% cmp "lkeyu")
+yell ARMIZAR, YOU WORTHLESS...
+signal 11389 helpme
+halt once~
+End
+
+#END
+

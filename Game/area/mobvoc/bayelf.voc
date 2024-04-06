@@ -1,0 +1,17 @@
+Colin
+who&what|are|you:>3:-:I am Pideaux, the elf of Bayou Teche
+bayou&teche:>3:-:The Bayou Teche is a nasty place.  Only I know all of its secrets.;CMD smirk
+elf:>1:-:I'm not just any elf!  I am Pideaux!
+can&i&friend:>2:-:I would like to be friends!
+i&would&friend:>4:-:CMD hug $name;CMD beam $name
+nice&can&i:>1:-:Only nice people can be my friends.
+may|can&i|we&treasure|secret:7:-:sure...what the heck!;CMD smile;TRIG showhole
+DEFAULT:>1:-:Wanna know a secret?;CMD snicker
+what|whats&your|the&secret:>4:-:Oh, i see!;CMD smile;You want to know ol' Pideauxs' secret!;Well, you had best be nice to this little elf...
+how&nice:>4:+1:I don't get many visitors here;CMD sigh;But it's nice to see you!;CMD hug $name;Now...wasn't THAT nice?
+you&hug:>4:+1:Oh yes!, Ol' Pideaux LOVES hugs and kisses....yes, indeed!
+hugs|kisses|kiss:>4:+1:Oh My! you mention hugs and kisses, and my little elf heart just pounds away!;CMD kiss $name;And...the happier I get, the more likely I am to help you!
+this&is&sick|gross|disgusting:>4:-1:CMD frown $name;CMD hug self
+you&want&kiss|hug:>4:-:CMD emote nods vigorously.
+are&you&gay:>1:-:CMD kill $name
+INCLUDE:badcuss.voc

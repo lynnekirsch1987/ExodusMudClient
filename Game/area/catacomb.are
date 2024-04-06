@@ -1,0 +1,2564 @@
+#AREA
+ 6~
+catacomb.are~
+Catacombs~
+{ 1 10} Bock  Catacombs~
+~
+22800 22950
+0 B 0
+0 0
+~
+#MOBILES
+#22900
+gigantic rat~
+A gigantic rat~
+Here is a friggin' big rat. It's too busy digging through the garbage piled all around to notice you.
+~
+You didn't think rodents of unusual size even existed!
+~
+unique~
+0 0 0 0
+AG 0 -1000 0
+40 20 5d20+2000 5d20+900 3d5+10 bite
+50 50 50 999 50
+V 60 2 0 0 0 0
+stand stand neutral 300
+0 0 15 6 6 6 20 6 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#22901
+three eyed mutant~
+A three eyed mutant~
+A strange looking person shambles along here...does he have three eyes?!
+~
+This is a pretty ugly guy! His eyes drop as you look at him,
+but you think you see something hidden in the shadows of his hood...
+Another eye?!
+~
+human~
+0 0 0 0
+AG 0 -600 0
+40 1 5d200+1000 100d20+50 5d5+10 punch
+10 10 10 999 10
+V 60 2 0 0 0 G
+stand stand male 300
+AHMV ABCDEFGHIJKa 13 15 12 15 25 6 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#22902
+mutant wader~
+A mutant wader~
+A mutant is hip deep in the filthy brownish water.
+~
+This mutant is wading in the most disgusting water you have ever seen(or smelled).
+He is pulling things out of the pool with a gaff almost as long as you are tall.
+Strangely, he doesn't seem to mind his work. In fact, judging by the stupid grin
+on his face, he genuinely enjoys it.
+~
+human~
+0 0 0 0
+AG 0 -600 0
+40 30 5d20+2000 5d20+2000 4d5+10 thrust
+10 10 10 999 10
+D 60 3 0 B C 0
+stand stand male 500
+AHMV ABCDEFGHIJKa 18 10 10 22 22 6 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#22903
+boss carver~
+Boss Carver~
+Shanty Town's second in command, Boss Carver, looks at you with contempt for invading his space.
+~
+Boss Carver is a pretty intimidating dude! He has no obvious mutations.
+However he is over 7 feet tall and he looks pissed as hell! His job
+is to supervize whatever is going on down here...recycling? Maybe.
+~
+human~
+0 0 0 0
+AFX DFH -900 0
+45 50 5d20+3000 5d20+3000 5d10+20 none
+5 5 5 999 5
+V 60 4 0 B F G
+stand stand neutral 10000
+AHMV ABCDEFGHIJKa 20 10 10 22 25 10 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#22904
+fat mutant woman~
+A fat mutant~
+An obese mutant carries dirty containers filled with water.
+~
+This mutant is grossly obese. She is carrying up dirty containers filled with
+what looks like pretty clean water. wonder where she got that?
+~
+human~
+0 0 0 0
+A 0 -550 0
+40 25 5d20+1500 5d20+1500 5d5+10 slap
+10 10 10 999 10
+0 60 2 0 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJKa 12 12 12 6 20 6 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#22905
+sleepy mutant guard~
+A sleepy guard~
+A sleepy guard is yawning here.
+~
+~
+human~
+0 0 0 0
+AG R -650 0
+55 50 2d5+3000 2d5+2000 2d5+30 slash
+-10 -10 -10 999 -10
+V 60 3 0 0 0 0
+rest rest none 400
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#22906
+Mistress Meena~
+Meena~
+Meena, the mayor's mistress is lying on the bed here.
+~
+Wow. This mutant is beautiful. Really the only way you can tell she
+is a mutant is the fact that she has a third breast right below the
+regular two. You can see that all three of them are spectacular
+through the thin wispy robe she is wearing. She looks up as you
+enter and smiles coyly.
+~
+human~
+0 0 0 0
+A 0 -400 0
+55 40 5d20+2500 5d20+2500 5d20+30 scratch
+-10 -10 -10 999 -10
+Q 60 1 0 B 0 M
+rest rest female 0
+AHMV ABCDEFGHIJKa 6 25 25 20 12 25 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#22907
+mayor~
+`othe mayor of `kShanty Town``~
+`oThe mayor of `kShanty Town `oStands here looking important.``
+~
+~
+human~
+0 0 0 0
+A HV -400 0
+65 70 5d20+3000 5d20+3000 10d20+20 punch
+-30 -30 -30 999 -30
+H 60 4 0 0 CD B
+stand stand male 5000
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#22919
+living ooze~
+Living ooze~
+A puddle of ooze seems to be moving of it's own accord here.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+20 500 1d1+0 1d1+0 10d10+100 slime
+10 10 10 999 10
+0 60 2 0 0 0 CD
+stand stand neutral 0
+ABHMSV ABCDEFGHIJKa 6 6 6 6 6 6 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#22924
+trap door guard~
+The trap door guard~
+A burly mutant stands here guarding the trap door.
+~
+~
+human~
+0 0 0 0
+AG 0 -650 0
+65 60 5d100+4000 5d100+1000 5d5+50 wrath
+-15 -15 -15 999 -15
+DV 65 4 0 B N M
+stand stand male 10000
+AHMV ABCDEFGHIJKa 20 10 10 20 20 10 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#22925
+mayors mutant guard~
+An ugly guard~
+An ugly guard is here protecting the mayor.
+~
+This ugly guard has a friendly face, but that doesn't mean he 
+can't take care of himself. The muscles bulging under his tunic
+demonstrate his strength.
+~
+human~
+0 0 0 0
+A V -600 0
+60 60 100d5+3000 100d5+3000 5d5+40 none
+0 0 0 999 0
+0 60 3 0 0 0 0
+stand stand none 500
+AHMV ABCDEFGHIJKa 25 10 10 19 19 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#22920
+luminescent mushroom~
+`ca `gluminescent `cmushroom`` ~
+`ca `gglowing `cmushroom is growing in a pile of filth here. ~
+food~
+0
+food 2
+AS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB CE 0 0
+0
+0
+10 1 0 P
+#22921
+hip waders~
+`ca pair of hip waders``~
+A pair of hip waders is lying on the ground here.``~
+rubber~
+0
+armor 2
+S
+0
+AFG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+D D D D 0
+0
+0
+40 10 30000 P
+A
+26 -2
+A
+19 4
+A
+18 4
+#22922
+stained brown gaff~
+`da stained brown gaff``~
+`da long gaff, stained with god knows what brown substance leans against the wall.``~
+unknown~
+0
+weapon 2
+AS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC AC AD BF 0
+0
+0
+42 10 1000 P
+A
+26 -3
+A
+19 3
+A
+18 3
+#22923
+Desk~
+Boss Carver's desk~
+A large wooden desk dominates the floor space in this office.~
+wood~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CEFGHI ABCD CDHILMO CEFGHI CFG
+0
+0
+100 900 0 P
+#22924
+desk key~
+the desk key~
+Boss Carver's desk key is here.~
+steel~
+0
+key 2
+HSUZc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1 0 P
+#22925
+beautiful diamond~
+`oa beautiful diamond``~
+`oa beautiful diamond sparkles in the sun.``~
+diamond~
+0
+gem 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 2 30000 P
+A
+17 -30
+A
+18 5
+A
+19 5
+#22926
+boss's dagger~
+`lThe Boss's Dagger``~
+`lThe Boss's Dagger is lying here emitting an ethereal light.``~
+steel~
+0
+weapon 2
+ABGST
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B BC BC AB CDL
+0
+0
+45 5 0 P
+A
+19 4
+A
+18 4
+#22927
+crack in the wall~
+a crack in the wall~
+A large crack in the wall is seeping water into a bucket below.~
+unknown~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#22928
+glowing fungus~
+`da `gglowing `dFungus``~
+`da `gglowing `dfungus is growing from the ceiling here.``~
+food~
+0
+light 2
+AS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 2 0 P
+#22929
+Trap door key~
+`Ga trap door key``~
+`Ga key to the trap door is here.``~
+iron~
+0
+key 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+55 2 0 P
+#22930
+sign~
+a sign~
+A small wooden sign is hanging on the wall above the trap door reads "DANGEROUS MUTANTS BELOW".~
+unknown~
+0
+map 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1 0 P
+#22931
+bed~
+the mayor's bed~
+A large, comfy looking four-poster bed is here.~
+silk~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C DFGHIJ EHK BCEH BCEH
+0
+0
+0 1000 0 P
+#22932
+mayor's sash~
+`othe mayor's sash``~
+`oThe mayor's sash is here.``~
+ethereal~
+0
+armor 2
+ABGKS
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+55 1 20000 P
+A
+12 50
+S
+ 0 95 100 -1 0 25 8192
+A
+18 3
+A
+19 3
+#0
+
+#ROOMS
+#22800
+0 0
+~
+~
+~
+0 0 0
+`oA Set of Stone Steps``~
+These steps are spotless. It is a welcome change from the filth
+that covered every inch of the catacombs behind you. Obviously
+somebody keeps these white granite steps sparkling clean for a 
+reason. You wonder what it could be.
+~
+0 A 18
+0
+~
+I 0 D2
+~
+door~
+4097 0 22801
+D5
+~
+~
+0 0 22814
+S
+#22801
+0 0
+~
+~
+~
+0 0 0
+`kA Stone Door``~
+This corner of the Catacomb looks cleaner than the rest. It is
+as if the mutants are actively trying to keep the area in front of
+the giant stone door cleared for some reason.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+door~
+4097 0 22800
+D2
+~
+~
+0 0 22806
+D3
+~
+~
+0 0 22802
+S
+#22802
+0 0
+~
+~
+~
+0 0 0
+`kSlow Moving River``~
+The river take a turn to the west here. You didn't
+think it was possible for the smell to worsen, but it did.
+The air is so thick with stink you can taste it. You try not
+contimplate what particles are hitting your tongue to allow this.
+You hope you don't fall in the river, as you have forgotten your paddle.
+~
+0 A 18
+0
+~
+I 0 D1
+~
+~
+0 0 22801
+D2
+~
+~
+0 0 22805
+D3
+~
+~
+0 0 22803
+S
+#22803
+0 0
+~
+~
+~
+0 0 0
+`kGrate in the Wall``~
+The slow moving water disappears into another grate to the west.
+This seems to be the source of the worst of the smell.
+Luckily, there is a door to the side of the grate that looks
+relatively clean. That is, you can actually make out the grain in
+grimy wood.
+~
+0 A 18
+0
+~
+I 0 D1
+~
+~
+0 0 22802
+D2
+~
+~
+0 0 22804
+D3
+~
+door~
+4097 0 22878
+S
+#22804
+0 0
+~
+~
+~
+0 0 0
+`kShanty Town``~
+Dispersed between the large piles of muck and trash there
+are small shacks composed of sticks and discarded paper that has
+made its way down here from the sewers above. You find it hard
+to believe that anything could live in these conditions, but
+all the people you've seen so far don't look all that unhappy.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+~
+0 0 22803
+D1
+~
+~
+0 0 22805
+D2
+~
+~
+0 0 22810
+S
+#22805
+0 0
+~
+~
+~
+0 0 0
+`kBridge Over Nasty Waters``~
+Over the foul smelling river is a wide, but filthy wooden bridge.
+At least, you think it's made of wood. It really is hard to tell
+with the thick, caked on crust and slime.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+~
+0 0 22802
+D1
+~
+~
+0 0 22806
+D2
+~
+~
+0 0 22809
+D3
+~
+~
+0 0 22804
+S
+#22806
+0 0
+~
+~
+~
+0 0 0
+`kShanty Town``~
+All around there are mutants and rats digging through the piles
+of garbage that surrounds you. The mutants don't look to threatening,
+but you hope those rats don't notice you standing here. They are friggin' big.
+There is a large, ornate door to the east.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+~
+0 0 22801
+D1
+~
+door~
+65 0 22807
+D2
+~
+~
+0 0 22808
+D3
+~
+~
+0 0 22805
+S
+#22807
+0 0
+~
+~
+~
+0 0 0
+`e The Boss's Office``~
+This is where Shanty Town's second in command directs the workers
+while they do...whatever it is that they are doing. This office is
+dominated by a wooden desk that looks like it has seen better days.
+the walls are made of ancient brick which look as if they haven't
+been cleaned in years. Dust and grime cover every surface.
+~
+0 AD 18
+0
+~
+I 0 D3
+~
+door~
+65 0 22806
+S
+#22808
+0 0
+~
+~
+~
+0 0 0
+`kShanty Town``~
+Dispersed between the large piles of muck and trash there
+are small shacks composed of sticks and discarded paper that has
+made its way down here from the sewers above. You find it hard
+to believe that anything could live in these conditions, but
+all the people you've seen so far don't look all that unhappy.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+~
+0 0 22806
+D2
+~
+~
+0 0 22813
+D3
+~
+~
+0 0 22809
+S
+#22809
+0 0
+~
+~
+~
+0 0 0
+`kAncient Sewer``~
+Woah! There is rubble and bits of brick all around you from the hole in the
+arched ceiling above. This must be an ancient sewer that has been abandoned
+by civilized folk and fogotten over the ages. At least you don't remember ever
+hearing about it. There is garbage and muck covering the stone floor in piles.
+Some as deep as your shoulders. The smell is awful down here.
+Brown, thick water falls from the hole in the ceiling and flows north.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+~
+0 0 22805
+D1
+~
+~
+0 0 22808
+D2
+~
+~
+0 0 22812
+D3
+~
+~
+0 0 22810
+D4
+~
+~
+0 0 22877
+S
+#22810
+0 0
+~
+~
+~
+0 0 0
+`kShanty Town``~
+Dispersed between the large piles of muck and trash there
+are small shacks composed of sticks and discarded paper that has
+made its way down here from the sewers above. You find it hard
+to believe that anything could live in these conditions, but
+all the people you've seen so far don't look all that unhappy.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+~
+0 0 22804
+D1
+~
+~
+0 0 22809
+D2
+~
+~
+0 0 22811
+S
+#22811
+0 0
+~
+~
+~
+0 0 0
+`kShanty Town``~
+All around there are mutants and rats digging through the piles
+of garbage that surrounds you. The mutants don't look to threatening,
+but you hope those rats don't notice you standing here. They are friggin' big.
+~
+0 0 18
+0
+~
+I 0 D0
+~
+~
+0 0 22810
+D1
+~
+~
+0 0 22812
+S
+#22812
+0 0
+~
+~
+~
+0 0 0
+`kShanty Town``~
+Dispersed between the large piles of muck and trash there
+are small shacks composed of sticks and discarded paper that has
+made its way down here from the sewers above. You find it hard
+to believe that anything could live in these conditions, but
+all the people you've seen so far don't look all that unhappy.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+~
+0 0 22809
+D1
+~
+~
+0 0 22813
+D3
+~
+~
+0 0 22811
+S
+#22813
+0 0
+~
+~
+~
+0 0 0
+`kShanty Town``~
+All around there are mutants and rats digging through the piles
+of garbage that surrounds you. The mutants don't look to threatening,
+but you hope those rats don't notice you standing here. They are friggin' big.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+~
+0 0 22808
+D3
+~
+~
+0 0 22812
+S
+#22814
+0 0
+~
+~
+~
+0 0 0
+`oA Set of Stone Steps``~
+The white granite steps continue into the darkness. However, the stonework
+has been left behind for raw rock walls that glitter with minerals.
+~
+0 0 18
+0
+~
+I 0 D4
+~
+~
+0 0 22800
+D5
+~
+~
+0 0 22815
+S
+#22815
+0 0
+~
+~
+~
+0 0 0
+`oGlittering Cave``~
+At the bottom of the sone stairs the cavern opens into a breathtaking
+view of minerals and viens of gold glittering in the cave walls. The ceiling
+is about 20 feet above your head, and you don't feel claustrophobic in 
+the least.
+~
+0 0 18
+0
+~
+I 0 D2
+~
+~
+0 0 22816
+D4
+~
+~
+0 0 22814
+S
+#22816
+0 0
+~
+~
+~
+0 0 0
+`oGlittering Cave``~
+You can see what looks like a front door with windows built into
+the far wall of the cave. The grand house looks as if somebody
+important lives there.
+~
+0 0 18
+0
+~
+I 0 D0
+~
+~
+0 0 22815
+D2
+~
+~
+0 0 22817
+S
+#22817
+0 0
+~
+~
+~
+0 0 0
+`oGlittering Cave``~
+You can see what looks like a front door with windows built into
+the far wall of the cave. The grand house looks as if somebody
+important lives there.
+~
+0 0 18
+0
+~
+I 0 D0
+~
+~
+0 0 22816
+D2
+~
+~
+0 0 22820
+S
+#22818
+0 0
+~
+~
+~
+0 0 0
+`oGuard House``~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+door~
+1 0 22819
+S
+#22819
+0 0
+~
+~
+~
+0 0 0
+`oIn Front of the Guard House``~
+Standing in front of the plain stone door, you can hear loud snores
+coming from the room beyond. Whatever is back there sounds pretty big,
+but at least it's sleeping.
+~
+0 0 18
+0
+~
+I 0 D1
+~
+~
+0 0 22820
+D3
+~
+door~
+1 0 22818
+S
+#22820
+0 0
+~
+~
+~
+0 0 0
+`oGlittering Cave``~
+To the west, you see another door built into the wall of the cavern.
+However this one isn't nearly as grand as the one in the far wall.
+Looking east, you see a stout wooden door. What could be behind it?
+~
+0 0 18
+0
+~
+I 0 D0
+~
+~
+0 0 22817
+D1
+~
+~
+0 0 22821
+D2
+~
+~
+0 0 22823
+D3
+~
+~
+0 0 22819
+S
+#22821
+0 0
+~
+~
+~
+0 0 0
+`oGlittering Cave``~
+~
+0 0 18
+0
+~
+I 0 D1
+~
+door~
+4097 0 22822
+D3
+~
+~
+0 0 22820
+S
+#22822
+0 0
+~
+~
+~
+0 0 0
+`GA Locked Trapped Door``~
+~
+0 0 18
+0
+~
+I 0 D3
+~
+door~
+4097 0 22821
+D5
+~
+`gtrap~
+4129 22929 22853
+S
+#22823
+0 0
+~
+~
+~
+0 0 0
+`oOn the Porch``~
+~
+0 0 18
+0
+~
+I 0 D0
+~
+~
+0 0 22820
+D2
+~
+door~
+4097 0 22825
+S
+#22825
+0 0
+~
+~
+~
+0 0 0
+`oMayor's House``~
+~
+0 D 1
+0
+~
+I 0 D0
+~
+door~
+4097 0 22823
+D1
+~
+door~
+4097 0 22826
+D2
+~
+door~
+4097 0 22834
+S
+#22826
+0 0
+~
+~
+~
+0 0 0
+`oMayor's Office``~
+~
+0 D 1
+0
+~
+I 0 D3
+~
+door~
+4097 0 22825
+S
+#22829
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#22834
+0 0
+~
+~
+~
+0 0 0
+`oMayor's Bedroom``~
+~
+0 D 1
+0
+~
+H300
+I 0 M300
+D0
+~
+door~
+4097 0 22825
+S
+#22835
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 22836
+D3
+~
+~
+0 0 22838
+D4
+~
+~
+0 0 22853
+S
+#22836
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22835
+D3
+~
+~
+0 0 22839
+S
+#22837
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 22838
+D3
+~
+~
+0 0 22841
+S
+#22838
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22837
+D1
+~
+~
+0 0 22835
+D2
+~
+~
+0 0 22839
+D3
+~
+~
+0 0 22842
+S
+#22839
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22838
+D1
+~
+~
+0 0 22836
+D2
+~
+~
+0 0 22840
+D3
+~
+~
+0 0 22843
+S
+#22840
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22839
+D3
+~
+~
+0 0 22844
+S
+#22841
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 22837
+D2
+~
+~
+0 0 22842
+D3
+~
+~
+0 0 22845
+S
+#22842
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22841
+D1
+~
+~
+0 0 22838
+D2
+~
+~
+0 0 22843
+D3
+~
+~
+0 0 22846
+S
+#22843
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22842
+D1
+~
+~
+0 0 22839
+D2
+~
+~
+0 0 22844
+D3
+~
+~
+0 0 22847
+S
+#22844
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22843
+D1
+~
+~
+0 0 22840
+D3
+~
+~
+0 0 22848
+S
+#22845
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 22841
+D2
+~
+~
+0 0 22846
+S
+#22846
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22845
+D1
+~
+~
+0 0 22842
+D2
+~
+~
+0 0 22847
+D3
+~
+~
+0 0 22849
+S
+#22847
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22846
+D1
+~
+~
+0 0 22843
+D2
+~
+~
+0 0 22848
+D3
+~
+~
+0 0 22850
+S
+#22848
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22847
+D1
+~
+~
+0 0 22844
+S
+#22849
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 22846
+D2
+~
+~
+0 0 22850
+D3
+~
+~
+0 0 22851
+S
+#22850
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22849
+D1
+~
+~
+0 0 22847
+S
+#22851
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 22849
+D5
+~
+~
+0 0 22852
+S
+#22852
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 22851
+D5
+~
+~
+0 0 22863
+S
+#22853
+0 0
+~
+~
+~
+0 0 0
+`cGlowing Cave``~
+~
+0 0 0
+0
+~
+I 0 D4
+~
+door~
+4129 0 22822
+D5
+~
+~
+0 0 22835
+S
+#22854
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 22855
+D5
+~
+~
+0 0 22868
+S
+#22855
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 22856
+D3
+~
+~
+0 0 22854
+S
+#22856
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 22857
+D3
+~
+~
+0 0 22855
+S
+#22857
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22856
+D1
+~
+~
+0 0 22858
+D2
+~
+~
+0 0 22859
+S
+#22858
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 22860
+D3
+~
+~
+0 0 22857
+S
+#22859
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22857
+D1
+~
+~
+0 0 22860
+D2
+~
+~
+0 0 22862
+S
+#22860
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22858
+D1
+~
+~
+0 0 22861
+D2
+~
+~
+0 0 22863
+D3
+~
+~
+0 0 22859
+S
+#22861
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 22864
+D3
+~
+~
+0 0 22860
+S
+#22862
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22859
+D1
+~
+~
+0 0 22863
+D2
+~
+~
+0 0 22865
+S
+#22863
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22860
+D1
+~
+~
+0 0 22864
+D2
+~
+~
+0 0 22866
+D3
+~
+~
+0 0 22862
+D4
+~
+~
+0 0 22852
+S
+#22864
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22861
+D2
+~
+~
+0 0 22867
+D3
+~
+~
+0 0 22863
+S
+#22865
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22862
+D1
+~
+~
+0 0 22866
+S
+#22866
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22863
+D1
+~
+~
+0 0 22867
+D3
+~
+~
+0 0 22865
+S
+#22867
+0 0
+~
+~
+~
+0 0 0
+`jRadioactive `fCesspool``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22864
+D3
+~
+~
+0 0 22866
+S
+#22868
+0 0
+~
+~
+~
+0 0 0
+`jA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 22869
+D4
+~
+~
+0 0 22854
+S
+#22869
+0 0
+~
+~
+~
+0 0 0
+`lA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22868
+D2
+~
+~
+0 0 22870
+S
+#22870
+0 0
+~
+~
+~
+0 0 0
+`lA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22869
+D2
+~
+~
+0 0 22871
+S
+#22871
+0 0
+~
+~
+~
+0 0 0
+`lA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22870
+D2
+~
+~
+0 0 22872
+S
+#22872
+0 0
+~
+~
+~
+0 0 0
+`lA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22871
+D4
+~
+~
+0 0 22873
+S
+#22873
+0 0
+~
+~
+~
+0 0 0
+`lA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 22874
+D5
+~
+~
+0 0 22872
+S
+#22874
+0 0
+~
+~
+~
+0 0 0
+`lA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 22875
+D5
+~
+~
+0 0 22873
+S
+#22875
+0 0
+~
+~
+~
+0 0 0
+`gA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D4
+~
+~
+0 0 22876
+D5
+~
+~
+0 0 22874
+S
+#22876
+0 0
+~
+~
+~
+0 0 0
+`gA Watery Cave``~
+~
+0 0 0
+0
+~
+I 0 D5
+~
+~
+0 0 22875
+S
+#22877
+0 0
+~
+~
+~
+0 0 0
+`lA Strange Circular Room``~
+This room is perfectly round with a river of smelly water flowing into
+a rusty grate in the floor at the center. The brickwork that makes up the walls
+is quite impressive, but it looks as if nobody has been in here for
+years...decades even. Everything is covered in a layer of slime that you
+would rather not touch.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+4097 0 5035
+D5
+~
+~
+0 0 22809
+S
+#22878
+0 0
+~
+~
+~
+0 0 0
+`cA Large Pool of `dDisgusting `cWater``~
+Brownish water with large lumps floating in it falls from a
+grate in the east wall of this cavernous room. Mutants with
+long gaffs pull disgusting garbage and other things too
+horrible to mention out of the huge pool that dominates the
+center of this room.
+~
+0 A 18
+0
+~
+I 0 D1
+~
+door~
+4097 0 22803
+D2
+~
+door~
+4097 0 22879
+S
+#22879
+0 0
+~
+~
+~
+0 0 0
+`jMushroom Growing Room``~
+More mushrooms than you can count are growing out of
+huge piles of ...organic matter that the mutants have
+pulled out of the pool to the north.
+The smell in this room is near overwhelming.
+~
+0 A 18
+0
+~
+I 0 D0
+~
+door~
+4097 0 22878
+S
+#0
+
+#RESETS
+M 0 22900  10 22811  3	* A gigantic rat
+M 0 22900  10 22803  3	* A gigantic rat
+M 0 22900  10 22813  3	* A gigantic rat
+M 0 22901   8 22812  2	* A three eyed mutant
+M 0 22901   8 22805  2	* A three eyed mutant
+M 0 22901   8 22804  2	* A three eyed mutant
+M 0 22901   8 22808  2	* A three eyed mutant
+D 0 22807   3    1	* `e The Boss's Office`` [west]
+D 0 22806   1    1	* `kShanty Town`` [east]
+D 0 22878   2    1	* `cA Large Pool of `dDisgusting `cWater`` [south]
+D 0 22879   0    1	* `jMushroom Growing Room`` [north]
+D 0 22878   1    1	* `cA Large Pool of `dDisgusting `cWater`` [east]
+D 0 22803   3    1	* `kGrate in the Wall`` [west]
+M 0 22902   2 22878  2	* A mutant wader
+E 0 22922   -1   16	* item to A mutant wader
+E 0 22921   -1    7	* item to A mutant wader
+O 0 22920   0 22879 5	* `ca `gluminescent `cmushroom``  at `jMushroom Growing Room``
+O 0 22923   0 22807 1	* Boss carver's desk at `e The Boss's Office``
+P 0 22925 1 22923 1
+M 0 22903   1 22807  1	* Boss carver
+E 0 22926   -1   16	* item to Boss carver
+G 0 22924 -1		* The desk key to Boss Carver
+D 0 22800   2    1	* `oA Set of Stone Steps`` [south]
+D 0 22801   0    1	* `kA Stone Door`` [north]
+D 0 22877   0    1	* `lA Strange Circular Room`` [north]
+O 0 22927   0 22812 1	* A crack in the wall at `kShanty Town``
+M 0 22904   3 22812 12	* A fat mutant
+M 0 22904   3 22810 12	* A fat mutant
+M 0 22904   3 22808 12	* A fat mutant
+M 0 22904   3 22802 12	* A fat mutant
+O 0 22928   0 22816 2	* `da `gglowing `dfungus`` at `oGlittering Cave``
+O 0 22928   0 22817 2	* `da `gglowing `dfungus`` at `oGlittering Cave``
+O 0 22928   0 22820 2	* `da `gglowing `dfungus`` at `oGlittering Cave``
+O 0 22928   0 22823 2	* `da `gglowing `dfungus`` at `oOn the Porch``
+O 0 22928   0 22819 2	* `da `gglowing `dfungus`` at `oIn Front of the Guard House``
+O 0 22928   0 22818 2	* `da `gglowing `dfungus`` at `oGuard House``
+O 0 22928   0 22822 2	* `da `gglowing `dfungus`` at `GA Locked Trapped Door``
+O 0 22928   0 22821 2	* `da `gglowing `dfungus`` at `oGlittering Cave``
+O 0 22928   0 22815 2	* `da `gglowing `dfungus`` at `oGlittering Cave``
+O 0 22928   0 22814 2	* `da `gglowing `dfungus`` at `oA Set of Stone Steps``
+O 0 22928   0 22813 2	* `da `gglowing `dfungus`` at `kShanty Town``
+O 0 22928   0 22812 2	* `da `gglowing `dfungus`` at `kShanty Town``
+O 0 22928   0 22811 2	* `da `gglowing `dfungus`` at `kShanty Town``
+O 0 22928   0 22810 2	* `da `gglowing `dfungus`` at `kShanty Town``
+O 0 22928   0 22809 2	* `da `gglowing `dfungus`` at `kAncient Sewer``
+O 0 22928   0 22808 2	* `da `gglowing `dfungus`` at `kShanty Town``
+O 0 22928   0 22806 2	* `da `gglowing `dfungus`` at `kShanty Town``
+O 0 22928   0 22805 2	* `da `gglowing `dfungus`` at `kBridge Over Nasty Waters``
+O 0 22928   0 22804 2	* `da `gglowing `dfungus`` at `kShanty Town``
+O 0 22928   0 22803 2	* `da `gglowing `dfungus`` at `kGrate in the Wall``
+O 0 22928   0 22802 2	* `da `gglowing `dfungus`` at `kSlow Moving River``
+O 0 22928   0 22801 2	* `da `gglowing `dfungus`` at `kA Stone Door``
+O 0 22928   0 22800 2	* `da `gglowing `dfungus`` at `oA Set of Stone Steps``
+O 0 22928   0 22878 2	* `da `gglowing `dfungus`` at `cA Large Pool of `dDisgusting `cWater``
+O 0 22928   0 22879 2	* `da `gglowing `dfungus`` at `jMushroom Growing Room``
+D 0 22822   5    2	* `GA Locked Trapped Door`` [down]
+D 0 22853   4    2	* `cGlowing Cave`` [up]
+M 0 22924   1 22822  1	* The trap door guard
+G 0 22929 -1		* `ga trap door key`` to The trap door guard
+D 0 22825   0    1	* `oMayor's House`` [north]
+D 0 22834   0    1	* `oMayor's Bedroom`` [north]
+D 0 22819   3    1	* `oIn Front of the Guard House`` [west]
+D 0 22818   1    1	* `oGuard House`` [east]
+O 0 22930   0 22822 1	* A sign at `GA Locked Trapped Door``
+M 0 22905   5 22818  5	* A sleepy guard
+M 0 22925  20 22823 20	* An ugly guard
+M 0 22925  20 22820 20	* An ugly guard
+M 0 22925  20 22817 20	* An ugly guard
+M 0 22925  20 22815 20	* An ugly guard
+M 0 22925  20 22816 20	* An ugly guard
+M 0 22925  20 22821 20	* An ugly guard
+M 0 22925  20 22819 20	* An ugly guard
+M 0 22925  20 22822 20	* An ugly guard
+O 0 22931   0 22834 -1	* The mayor's bed at `oMayor's Bedroom``
+M 0 22906   1 22834  1	* Meena
+D 0 22826   3    1	* `oMayor's Office`` [west]
+D 0 22825   1    1	* `oMayor's House`` [east]
+D 0 22825   2    1	* `oMayor's House`` [south]
+M 0 22907   1 22826  1	* `othe mayor of `kshanty town``
+E 0 22932   -1   13	* item to `othe mayor of `kshanty town``
+D 0 22821   1    1	* `oGlittering Cave`` [east]
+D 0 22822   3    1	* `GA Locked Trapped Door`` [west]
+D 0 22823   2    1	* `oOn the Porch`` [south]
+M 0 22919   1 22861  1	* Living ooze
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#0
+#$

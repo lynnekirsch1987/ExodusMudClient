@@ -1,0 +1,33 @@
+* File: drow.scr
+* Mob: Drow Scout(5111)
+
+#TRIGGER relay
+Type 10
+Sc
+wfunc %here% random 0 10
+mfunc %relay-from% %race% race
+mfunc %relay-from% %name% name
+wfunc %test% random 0 2
+if (%race% == 5)
+bow %name%
+emote welcomes you to the Underdark.
+halt once~
+Sc
+if (%race% != 2)
+halt once~
+Sc
+if (%here% != 2) && (%here% != 5) && (%here% != 9) 
+emote performs an intricate hand signal to someone off in the distance.
+say You show great boldness by treading upon our land, elf...
+~
+Sc
+if (%test% == 1)
+say ... but that boldness will do nothing save decorate your tombstone!
+kill %name%
+halt once~
+Sc
+say Pass freely this time, %name%, but know that we watch you from the shadows...
+halt once~
+End
+
+#END

@@ -1,0 +1,23 @@
+* File: drowscript.scr
+* Mob: several drow mobs.
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc %combat-from% %plevel% level
+
+if (%plevel% > 50 && %plevel% < 81)
+  cmd peace
+  cmd cast 'teleport' %combat-from%
+  halt once~
+Sc
+
+if (%plevel% > 80)
+* If the player's level is over 80
+  cmd emote growls and chants a vigorous prayer to `aLloth``.
+  cmd pecho %combat-from% `iYou are struck down with `aunholy`i fire!``
+  cmd slay %combat-from%
+  halt once~
+End
+
+#END

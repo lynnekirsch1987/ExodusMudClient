@@ -1,0 +1,10 @@
+Ragnar
+DEFAULT:<8:-:cmd emote looks around.;Hi!  Are you enjoying the zoo as much as I am?
+DEFAULT:<8:-:cmd smiles happily.;Hey, do you know how to get out of here?
+exit&zoo:<8:-:cmd gasp;Thanks!  I appreciate it!
+yes|yea|yeah|yep:<8:-:cmd nod;Good for you!  I'm just scouting for good places to bring my kids -- know anywhere else I can go in Thesden or outside to show 'em around?
+eastern&prairie:<8:-:cmd ponder;Hm!  I'll think about going there!
+forest|swamp|bayou|ocean|sea|drylands:<8:-:cmd frown;Oh no, I couldn't go there...a bit too dangerous for me!  I'm certainly no adventurer like yourself!
+DEFAULT:<8:-:cmd smile;Heya!  Do you know what direction the alligators are from here?
+north:<8:-:cmd ponder;Thanks, I'll head up that way then.;cmd north
+east|west|south:<8:-:cmd ponder;Hm, ok.  I'll just try to find the alligators myself.

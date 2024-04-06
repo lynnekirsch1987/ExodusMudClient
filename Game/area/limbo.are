@@ -1,0 +1,5640 @@
+#AREA
+ 6~
+limbo.are~
+`athe null set``~
+{100 100} Diku  `athe null set``~
+~
+1 99
+0 0 0
+1 1
+~
+#MOBILES
+#10
+pack horse~
+A strong pack horse~
+A strong pack horse is here, waiting patiently for its rider.
+~
+This horse looks sturdy enough to trod across mountain ranges, if its
+rider were so inclined.  Its legs are stout and muscular, and it grazes at
+grass patiently while waiting for its next command.  
+~
+unique~
+0 0 0 0
+AZ 0 400 4230
+25 25 10d50+400 1d1+100 5d6+15 charge
+-6 -6 -6 999 0
+0 -1 F 0 0 0
+stand stand either 0
+AHV ACEFQ 11 11 11 11 11 11 0
+medium flesh~
+1 0 5000 300
+0
+~
+~
+#11
+white charger horse~
+A magnificent white charger~
+`oA horse with a brilliant white coat prances about excitedly.``
+~
+`oThis horse's brilliant white coat glimmers in the sunlight.  Strong and
+proud, it prances about with its head held high.  Its duty to its rider is
+not one of subservience, but one of glorious duty.``  
+~
+human~
+0 0 0 0
+AZ 0 1000 4230
+45 45 10d150+1000 1d1+100 5d5+22 charge
+-16 -15 -15 999 -3
+0 -1 CF 0 P 0
+stand stand either 0
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+2 2 7000 485
+0
+~
+~
+#12
+pegasus~
+A pegasus~
+A white pegasus settles her wings gracefully as she lands.
+~
+Grace and beauty personified, this pegasus gently lifts her wings and
+glides into the air.  Don't let her aesthetics fool you however, loyal to
+the death, she fights with a passion that could only be called love.  
+~
+unique~
+0 0 0 0
+AZ JNT 1000 4230
+58 58 10d100+1653 1d1+100 5d10+28 wrath
+-22 -22 -22 999 -2
+0 -1 FH 0 MN 0
+stand stand female 0
+AHV 0 18 18 18 18 18 18 0
+medium flesh~
+6 2 10000 700
+0
+~
+~
+#13
+hippocampus horse beast~
+`lA Hippocampus``~
+`gThis once legendary beast has the front of a horse and the rear of a sea serpent.``
+~
+`gIts sinuous neck and diamond-sharp`l blue`g scales make staying on
+something of this mass`` `gperilous to the unseasoned rider, yet the massive
+dorsal fin that juts out of the middle of its`` `gback provides a steady
+grip.  Unfortunately, a beast of this magnitude requires a specialized``
+`gstable during its rest periods, for it cannot survive outside an aquatic
+habitat for long.  `` 
+~
+dragon~
+0 0 0 0
+ABZ JNTVbe 1000 4230
+66 30 10d100+2640 4d60+430 5d10+35 claw
+-30 -30 -30 999 -10
+0 -1 FH HQR BEH FIK
+stand stand none 0
+AHZ ACDEFGHIJKPQUVXa 19 19 19 19 19 19 0
+large flesh~
+6 6 30000 1030
+0
+~
+~
+#14
+silver dragon cb~
+The silver dragon~
+A blinding light and an echoing roar mark this silver dragon's presence.
+~
+~
+dragon~
+0 0 0 0
+ABZ DHJNTV 1000 4230
+85 50 10d150+2340 40d50+940 9d9+54 wrath
+-40 -40 -40 999 -13
+0 -1 FIY 0 BEH FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVXa 23 23 23 23 23 23 0
+large scales~
+10 10 30000 2430
+0
+~
+~
+#15
+thoroughbred horse~
+A thoroughbred~
+A magnificent muscled horse stands here.
+~
+This rather large horse stands out from others of his kind in that you can
+detect no flaw whatsoever in his construction -- huge back muscles stand
+out even as the horse stands at ease, supported by powerful, toned legs.
+~
+unique~
+0 0 0 0
+AZ c 500 0
+35 35 10d60+570 1d1+100 5d6+15 charge
+-8 -8 -8 999 1
+0 -1 F 0 0 0
+stand stand male 0
+AV 0 13 13 13 13 13 13 0
+medium flesh~
+0 2 5000 370
+0
+~
+~
+#16
+war horse ~
+A powerful war horse~
+A midnight-black sleek steed stands here, ready for battle.
+~
+Trim and almost gaunt, this horse looks as if it could outrun anything or
+anybody.  You do notice that his forelegs are extremely muscled, giving
+the horse the ability to trample or rear up and crush anything or anybody
+getting in its way.
+~
+unique~
+0 0 0 0
+AZ Vc 350 0
+50 50 10d200+1253 1d1+100 5d10+25 charge
+-20 -20 -20 999 -3
+0 -1 FH 0 0 0
+stand stand male 0
+AV 0 16 16 16 16 16 16 0
+medium flesh~
+0 5 6900 555
+0
+~
+~
+#17
+Behemoth Woodland Beast~
+`dWoodland`b Behemoth``~
+`cA woodland behemoth stands sentinel here, fiercely protecting the forest.``
+~
+`cThis massive creature of the wilds stands proudly and fiercely, it's  
+heavily muscled form surprisingly lithe.  Green and brown scales 
+ripple with each movement, changing color to blend with the surrounding 
+environs.  It's glowing`k golden eyes`c stare intently about, searching for 
+any transgressors against its woodland home.  Framing the guardian's 
+head is a thick, mossy-green mane from which protrude wickedly  
+sharp antlers covered with short, velvety brown fur.    Dark red  
+claws extend and retract into the soft earth beneath them, assisting the 
+beast in leverage as well as defense.``
+~
+dog~
+0 0 0 0
+ABZ JUVc 0 0
+61 50 1d1+1 1d1+1 9d9+54 claw
+-40 -40 -40 999 50
+0 59 2 FH ABLQR K HZ
+stand stand neutral 0
+AGV ABCDEFHJKUVa 18 18 18 18 18 18 0
+medium oldstyle~
+70 20 30000 100
+0
+~
+~
+#18
+Illusion Mob~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A e 0 0
+0 0 10d10+100 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 ABRc 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#19
+bone puppet~
+A bone puppet~
+``A puppet made of various bones sits lifeless in a corner.``
+~
+`bFive white bones are linked together by some sort of slime, forming a
+puppet.  A rune that resembles a lidless eye is carved into the middle bone,
+as if to at puppet give the puppet the gift of sight.  Its ivory limbs
+`bsuddenly jerk to life as if pulled by invisible strings.``
+~
+doll~
+0 0 0 0
+ABEO JPUZe 0 0
+1 1 1d1+0 0d0+0 1d1+1 thwack
+20 20 20 999 20
+0 -1 0 ABILMNPQR ES CGHJKO
+stand stand none 0
+CDEHJMc ABCGHKa 6 6 6 6 6 6 0
+medium bone~
+0 0 0 1
+0
+~
+~
+#20
+zombie~
+An animated corpse~
+`aThis zombie's black skin glows with necromantic runes.``
+~
+`bThe putrid corpse of a humanoid creature stares blankly at its master
+with its white eyes.  The undead's skin is covered in glowing green
+necromantic runes that grows in intensity every time it is ordered to move. 
+The flesh on its fingers is completely gone, and only bloody stumps of bone
+remains.  It is not hard to imagine those tearing through its masters
+enemies.  `` 
+~
+human~
+0 0 0 0
+ABO 0 -1000 0
+1 20 20d1+0 100d1+0 0d0+0 claw
+0 0 0 999 0
+D -1 DI BQc E HN
+stand stand none 0
+ADHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#21
+skeleton warrior~
+A skeleton warrior~
+`bStrips of decaying flesh hang from the yellowed bones of a skeleton warrior.``
+~
+`bEntrails and organs are still attached to the vile frame of this
+skeletal being.  Once vital, but now completely irrelevant to its existance.
+Black runes are carved into the skull of the skeleton, resembling a depraved
+crown.  Wearing only a few rusty pieces of armor the skeleton stands next to
+his master, an eternal guardian.  `` 
+~
+human~
+0 0 0 0
+ABO 0 -1000 0
+1 20 20d1+0 100d1+0 0d0+0 claw
+0 0 0 999 0
+0 -1 0 BQc G KN
+stand stand none 0
+ADHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#22
+banshee~
+A banshee~
+`aThe diaphanous form of a wailing spirit stares at you through the dark mists surrounding it.``
+~
+`bA wailing spirit circles around its master here, bound to this plane by
+a halo of necromantic runes.  It appears to be some kind of cross between an
+elf and a scorpion.  Its exoskeleton gleams through the black fog of the
+planar barrier.  As it is trapped in this world, it cannot use the full
+force of its superior physical powers, and few of its magical ones.  Though
+weakened, the banshee is no little threat to those that comes between it and
+its contractor.  `` 
+~
+human~
+0 0 0 0
+ABO TU -1000 0
+1 20 20d1+0 100d1+0 0d0+0 chill
+-2 -2 -2 999 -2
+0 -1 0 BQc D C
+stand stand none 0
+ADHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+4
+~
+~
+#23
+spiderlike abomination~
+The abomination~
+`dA spiderlike abomination made entirely of humanoid arms and legs rattles around here.``
+~
+`bThis monstrosity looks, from far-off, like it may once have been
+nothing more than the occupants of a mass grave.  Gray, rotting flesh,
+somehow reanimated, tumbles along seemingly haphazardly, though with a
+strange sense of grace.  Humanoid legs line up one behind another,
+propelling the thing with its bulbous body forward in a strange, crabbed
+gait.  Arms, attached seemingly randomly, wave about menacingly, adding to
+its spiderlike, utterly lifeless appearance.  And though it's difficult to
+tell at first, with the limbs flailing about in every direction, it
+gradually becomes obvious that the thing has no head, a fact which only adds
+to its revolting, malformed presence.  `` 
+~
+human~
+0 0 0 0
+ABOZ Ve -1000 0
+30 50 1d1+0 1d400+43 15d3+15 claw
+-10 -10 -10 999 -10
+0 59 3 FHI BLQRc 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium oldstyle~
+50 20 30000 2000
+4
+~
+~
+#24
+darkhound hound~
+`aa darkhound``~
+`dA deep growl is heard from the shadows...``
+~
+`aA large canine creature snarls at you from nearby, its form mostly
+obscured by the shadowy mist which wafts from its body as though it were
+giving off waves of dark evil energy.  Aside from the low gutteral growl,
+the only distinct details are the pair of glowing red eyes which peer at you
+from within the moving ball of darkness that seems to absorb all nearby
+warmth and gives off only chill.``
+~
+human~
+0 0 0 0
+ABO DFJUZe -1000 0
+10 10 1d1+1 1d1+1 60d1+80 bite
+30 30 30 999 30
+D -1 0 ABCDHKLNOQRSbc 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#25
+frog~
+`ja frog``~
+`jA frog`` hops around here.
+~
+``This little frog ribbits cockily at you and hops away, ribbiting all the way.
+~
+lizard~
+0 0 0 0
+AB Ze 0 0
+1 1 10d1+0 1d1+0 0d0+0 slime
+0 0 0 999 0
+0 60 1 0 A L I
+stand stand none 0
+AGXc ACDEFHKQVa 3 3 3 3 3 3 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#26
+warped cat~
+A warped cat~
+`bA furless cat looks at you from the shadows.``
+~
+`aTwisted limbs that barely reaches the ground hold this bag of skin and bones upright. 
+This cat eyes the world around it suspiciously, especially you.``
+~
+dog~
+0 0 0 0
+AB BFPZ 0 0
+1 10 100d1+0 1d1+0 1d12+10 claw
+0 0 0 999 0
+W 60 2 FH 0 0 0
+stand stand none 0
+AGVXc ACDEFHJKQUVa 7 7 7 7 7 7 0
+medium oldstyle~
+0 0 0 700
+4
+~
+~
+#27
+warped owl~
+A warped owl~
+`dAn ugly little owl hoots at you questioningly.``
+~
+`aBig round eyes, that sit close together over a crooked beak, follow you around. It rustles the few feathers
+that are left occasionally.``
+~
+song bird~
+0 0 0 0
+AB BDPTUZ 0 0
+1 10 75d1+0 50d1+1 1d12+1 bite
+0 0 0 999 0
+W 60 1 FH 0 0 T
+stand stand none 0
+AGVWXc ACDEFHJKPQUVZa 10 15 15 10 10 10 0
+medium oldstyle~
+0 0 0 600
+4
+~
+~
+#28
+imaginary friend~
+Your imaginary friend~
+Your imaginary friend is here! Or is he?
+~
+`aYour trusted old friend.  A friend that has never let you down, and
+never will.  You are not sure why you trust this quiet observer, but even
+the voices tell you that it is loyal to you, and only you. ``
+~
+unique~
+0 0 0 0
+AB Ze 0 0
+1 0 1d1+0 1d1+0 6d7+7 slime
+50 50 50 999 50
+SWX 0 0 0 0 0
+stand stand none 0
+D 0 14 10 15 14 10 25 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#29
+grothtuk warlord hardragn winged~
+`aGroth'tuk, the `bWarlord's `agiant `dwinged `iHardrag'n``~
+`aGroth'tuk, the `bWarlord's `agiant `dwinged `iHardrag'n`` `araises an eyestalk, assessing you.``
+~
+`aGroth'tuk is the Warlord `bNaslander's `aloyal companion and mount.  A wild
+hardrag'n serpent, Groth'tuk was captured by the Bren Uthare mages and 
+conditioned with magical spells to be transformed in the fine specimen he
+is today.  This gigantic hardrag'n much more closely resembles an over-
+sized, corrupted slug-wyvern than its smaller brethren.  Its scales
+emit a noxious smelling ooze that could rot an egg from ten paces out.  
+The creature's grotesque eyestalks lazily peer around, heavy under the 
+weight of the creature's magically thickened hide.  
+Groth'tuk's saddle bears the markings of o`k==`a[ww`bwww Varruk`a.``
+~
+wyvern~
+0 0 0 0
+ABZ DFJOT -1000 4230
+85 45 10d145+1500 40d50+940 9d10+1 sting
+-27 -27 -27 999 -27
+0 0 CFHIY L BEK FS
+stand stand male 0
+ABGHZ ACDEFGHIJKPQUVXa 23 20 8 23 20 8 0
+huge scales~
+7 7 30000 2430
+0
+~
+~
+#30
+the~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+AV DFJZ 0 0
+99 0 999d999+999 0d0+0 0d0+0 none
+0 0 0 999 0
+C -1 0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#31
+shopkeeper~
+Shopkeeper Bob~
+Shopkeeper Bob, the default salesman, stands here marketing wares.
+~
+``This mob has been`k hired``( help hire ), you can also get a mob to
+sell your wares for your own store.  
+~
+human~
+0 0 0 0
+AB e 0 0
+100 1000 1d1+29999 0d0+0 10d10+999 none
+0 0 0 999 0
+R 60 0 0 CDRT 0 0
+stand stand either 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#32
+xvivify mob~
+(no short description)~
+%s is wobbling around here on spider legs.
+~
+~
+unique~
+0 0 0 0
+AB Ze 0 0
+1 20 0d0+0 0d0+0 0d0+0 none
+0 0 0 999 0
+0 0 0 BQbc 0 0
+stand stand neutral 0
+D K 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#33
+sydonai blood thirsty nightmare~
+`lSydonai, the `bBlood Demon's `hNi`lgh`ht`lma`hre `lsteed``~
+`lSydonai, the `bBlood Demon's `hNi`lgh`ht`lma`hre `lsteed kicks at the ground.``
+~
+`lSydonai, the `bBlood Demon's `hNi`lgh`ht`lma`hre `lsteed stands before 
+you.  The beasts `kfl`iami`kng `lhooves beat upon the earth, scorching the land and 
+kicking up clouds dirt and `ofla`imi`kng e`imb`oers`l.  Bursts of flame billow out from 
+the dark steeds nostrils, her burning eyes casting their own light into the 
+night sky.  Sydonai's `nmist-`hwoven silver mane `ldances in the wind, its tangled
+masses ragged and wild.  
+This demonic steed bears the markings of `a/`h/`o/ `aLune`l, `bthe Kalian Blood Demon`l. 
+`lNightmare demons are no ordinary steeds, for they run flush full of demonic
+powers and like her master Sydonai has developed a taste for `iBLOOD!``
+~
+unique~
+0 0 0 0
+ABZ DJOT -1000 4230
+85 45 10d145+1500 40d50+940 9d10+1 smash
+-27 -27 -27 999 -27
+0 0 FIY H BEH FS
+stand stand male 0
+AHKL ACDEFHJKLQVa 23 20 8 23 20 8 0
+huge void~
+7 7 30000 2430
+0
+~
+~
+#34
+zeromus blood starved manticore~
+`hZe`aro`hmu`as, `hthe `oUn`aho`oly `hShe`ophe`ard's `bblood-starved `dManticore``~
+`hZe`aro`hmu`as, `hthe `oUn`aho`oly `hShe`ophe`ard's `bblood-starved `dManticore covets your `iflesh`d.``
+~
+`hZe`aro`hmu`as, `hthe `oUn`aho`oly `hShe`ophe`ard's `bblood-starved `dManticore glares at you, barely
+containing its need to gnaw the `iflesh `dfrom your `obones`d.  Its wild humanoid
+face is covered in tufts of hair and mane.  Its large leathery bat-like demon 
+wings are folded neatly against the mighty leonine torso.  A gigantic iron-
+spiked scorpions tail darts anxiously over the Manticore's head, awaiting the
+chance to subdue the creature's next meal.  `hZe`aro`hmu`as `dwas capture as a cub by 
+the denizens of the `aForsaken `dand trained to be a loyal, if not wild companion
+for a great and powerful future leader of the clan.  And now that time has come
+for `bTripp, `hthe `oUn`aho`oly `hShe`ophe`ard's`d, shall be his one true master.
+`hZe`aro`hmu`as' `dsaddle bears the markings of `a/`h/`o/ `aForsaken`b.``
+~
+unique~
+0 0 0 0
+ABZ DJOT -1000 4230
+85 45 10d145+1500 40d50+940 9d10+9 claw
+-27 -27 -27 999 -27
+0 0 FIY L BEH GS
+stand stand male 0
+AHKL ACDEFHJKLQVa 23 20 8 23 20 8 0
+huge hard leather~
+7 7 30000 2430
+0
+~
+~
+#68
+generic~
+Generic mob for saving/loading restringed mobs~
+Generic mobile for saving/loading restringed mobiles
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#92
+wandering spirit~
+A wandering spirit~
+A wandering spirit is looking for a way to Thesden's Cathedral.
+~
+~
+human~
+0 0 0 0
+AR 0 0 0
+100 0 1d1+9999 1d1+9999 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium ethereal~
+0 0 0 100
+0
+~
+wanderingspirit.scr~
+#93
+thelino~
+Thelino, Divergent emissary~
+Thelino, right hand of Auvyron, emissary of Divergent, stands here concentrating on his magicks.
+~
+A tall, dark haired man stands here, brow furrowed in deep thought as he
+contemplates his magick work.  His bright green eyes illuminate the room
+more so than the light that streaks in.  
+~
+human~
+0 0 0 0
+ANRX HNOV 0 0
+90 30 10d300+3670 20d60+400 3d9+30 magic
+-50 -50 -50 999 -50
+0 -1 AFK ABMP C 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#94
+big monster~
+A big scary monster~
+OooOOoOoooH! It's a really scary monster! Run! Run!
+~
+~
+human~
+0 0 0 0
+ABGHNT DFHNOVac 200 0
+85 60 40d300+21390 10d40+600 10d20+30 wrath
+-80 -80 -80 999 -90
+0 -1 EFHJK BM CDEHLOPQ N
+stand stand male 20000
+AHMV ABCDEFGHIJKa 23 23 23 23 23 23 0
+medium flesh~
+0 0 0 600
+0
+~
+~
+#95
+elron~
+Elron, The Source~
+Elron, the Source, is here, brainwashing all the little girls and boys.
+~
+ITS THE HELPFUL GUY!
+~
+human~
+0 0 0 0
+A 0 -500 0
+93 20 10d90+7050 10d40+500 6d14+30 wrath
+-40 -40 -40 999 -30
+0 -1 EFIV AB MQ 0
+stand stand male 12000
+AHMV ABCDEFGHIJKa 25 25 25 25 25 25 0
+large slime~
+0 0 0 100
+4
+elron.voc~
+~
+#96
+helpful guy man~
+a helpful guy~
+A helpful guy is here, waiting to give you some advice.
+~
+ITS THE HELPFUL GUY!
+~
+human~
+0 0 0 0
+A 0 -500 0
+50 50 29999d1+1 10d10+10 5d5+5 none
+0 0 0 999 0
+U -1 X 0 0 0
+stand stand male 99999
+AHMV ABCDEFGHIJKa 16 16 16 3 16 16 0
+large slime~
+0 0 0 0
+4
+help.voc~
+~
+#97
+donkey ass~
+a donkey~
+A big jack ass is here.
+~
+You see a big jack ass here.
+~
+human~
+0 0 0 0
+AZ 0 0 0
+10 10 99d99+99 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+small iron~
+0 0 0 100
+0
+~
+~
+#98
+pooh bear~
+a pooh bear~
+You see a pooh bear here.
+~
+You see a poor little pooh bear here.
+~
+human~
+0 0 0 0
+AZ 0 0 0
+20 20 10d10+10 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+small iron~
+0 0 0 100
+0
+~
+~
+#99
+horse horsie~
+a horsie~
+A small horsie is here.
+~
+~
+human~
+0 0 0 0
+AFZ 0 0 0
+1 60 1d1+0 0d0+0 1d1+0 none
+0 0 0 999 0
+0 -1 0 Ba 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+small iron~
+5 99 30000 9999
+0
+~
+~
+#0
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+`hOne miserable `aSilver `hcoin.``~
+silver~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A 0 0 0 0
+0
+0
+0 1 0 P
+#2
+coin gold gcash~
+a gold coin~
+`hOne valuable `kgold `hcoin.``~
+gold~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 A 0 0 0
+0
+0
+0 10 0 P
+#3
+coins gold gcash~
+%d gold coins~
+`hA pile of `kGold `hcoins.``~
+gold~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10 0 P
+#4
+coins silver gcash~
+%d silver coins~
+`hA pile of `aSilver `hcoins.``~
+silver~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10 0 P
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+gold~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10 0 P
+#6
+rune convergence~
+`kA Rune of Convergence``~
+`kA rune of ancient design resonates a compelling energy.``~
+energy~
+0
+treasure 2
+GRSTYa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+A
+19 5
+A
+18 5
+A
+13 15
+A
+12 15
+#7
+symbol~
+the symbol~
+`kMarkings bearing the symbol %s `khave been consecrated onto the ground.``~
+earth~
+0
+treasure 2
+ORST
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 999 1 P
+#8
+meat chunk~
+`da `bb`il`bo`io`bd`iy `dchunk of `bmeat``~
+`dA chunk of `bm`ie`ba`it `dlies here in a small `ip`bo`io`bl `dof `bb`il`ho`io`bd``~
+meat~
+6
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ACD ACD BC 0 0
+0
+0
+0 50 0 G
+#9
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A 0 0 0 0
+0
+0
+0 10 0 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+5
+npc_corpse 2
+c
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 A 0
+0
+0
+0 800 0 D
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+0
+pc_corpse 2
+R
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 A 0
+0
+0
+0 1000 0 D
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+0
+weapon 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 CD A ABF J
+0
+0
+0 50 0 D
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+meat~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+E E AD 0 0
+0
+0
+0 20 0 D
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+meat~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CE CE AD 0 0
+0
+0
+0 50 0 D
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+meat~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CE CE AD 0 0
+0
+0
+0 50 0 D
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC AC AB A 0
+0
+0
+0 20 0 D
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BD BD D 0 0
+0
+0
+0 20 0 D
+#18
+feather~
+the feather of %s~
+The feather of %s is lying here.~
+feather~
+0
+feather 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 20 1500 P
+#19
+shaft~
+the shaft of an arrow~
+A very straight piece of carved wood is here.~
+wood~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#20
+lemon meringue pie~
+`da `kLemon `oMeringue `dpie``~
+`dA yummy`k lemon`d pie topped with fluffy`o white meringue`d has been left here.``~
+food~
+0
+food 2
+G
+0
+A
+0
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+E E 0 0 0
+0
+0
+0 10 0 P
+#21
+ball light~
+`hA `kBright `hBall of `nLight``~
+A bright ball of light shimmers in the air.~
+energy~
+0
+light 2
+A
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+0 0 0 P
+#22
+spring magicalspring~
+`la `om`ha`gg`ni`gc`ha`ol `ls`op`hri`on`lg``~
+`la `om`ha`gg`ni`gc`ha`ol `ls`op`hri`on`lg `ef`ll`oo`lw`es `lfrom the ground here``~
+water~
+0
+fountain 2
+Ga
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+FHJKPQ FHJKPQ 0 0 0
+0
+0
+0 0 0 P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+0
+container 2
+GMPUYZ
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 E 0 0 0
+0
+0
+0 0 0 P
+#24
+tree~
+(no short description)~
+~
+wood~
+0
+tree 2
+RSa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 999 0 P
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+shadow~
+0
+portal 2
+GRT
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+A disc of light appears and expands into the form of $n who steps out just as the disc blinks away.~
+~
+0 0 0 0 A
+0
+0
+0 0 0 P
+#26
+fish rainbow trout~
+a rainbow trout~
+Someone has left a scrawny little fish laying here.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB BD 0 0
+0
+0
+0 0 0 G
+#27
+fish silver bass~
+`na silver bass``~
+A medium sized fish with silvery scales is flopping about on the ground.~
+oldstyle~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D D BCD 0 0
+0
+0
+0 20 0 P
+#28
+bluefin tuna fish~
+`la bluefin tuna``~
+A recently caught fish is here, looking for a grill.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD CE 0 0
+0
+0
+0 40 0 P
+#29
+yellow puffer fish~
+`ka yellow puffer fish``~
+A bloated yellow fish's stink permeates the air.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A AB BC A 0
+0
+0
+0 40 0 A
+#30
+brown mushroom~
+a large brown mushroom~
+A slightly dirty thick stemmed brown mushroom is lying here.~
+oldstyle~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC BC CE 0 0
+0
+0
+15 5 0 P
+#31
+black berries stem~
+a stem of black berries~
+A small pile of blue-black berries lies on the ground here.~
+flesh~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC BD BE 0 0
+0
+0
+15 5 0 P
+#32
+bunch acorns handful~
+a handful of acorns~
+Some acorns lie scattered about on the ground.~
+flesh~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD ABCD CDEF 0 0
+0
+0
+15 5 0 P
+#33
+green cricket~
+a fat, dead, green cricket~
+A fat, very dead, green cricket is here.~
+flesh~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B AC ACD 0 0
+0
+0
+15 5 0 P
+#34
+wild carrots orange~
+some wild carrots~
+A few dirty orange carrots lie on the ground here.~
+flesh~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE CE BF 0 0
+0
+0
+15 5 0 P
+#35
+earth roots~
+`asome`d earthy`a roots``~
+Some gnarled twisted roots protrude at all angles from the ground.~
+earth~
+555
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ACDF 'cure light' 'reserved' 'reserved' 'reserved'
+0
+0
+12 5 0 P
+#36
+herbs bluegreen~
+`gsome bluegreen herbs``~
+`gSome bluish green sprigs grow from the ground here.``~
+earth~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABE 'cure disease' -1 -1 -1 0
+0
+18 2 0 P
+#37
+sprouts green herbs~
+`csome efflorescent sprouts``~
+`cSome effloresecent sprouts stand perpendicular from the earth.``~
+earth~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABE 'herbal lore' -1 -1 -1 0
+0
+17 1 0 P
+#38
+burning footstep~
+`ka burning footstep``~
+`kBurning three-toed footsteps lead to the %s.``~
+fire~
+1
+trash 2
+RSa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#39
+container~
+a container~
+A default container~
+unknown~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#40
+map~
+a map~
+This is a map.~
+paper~
+0
+map 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 G
+#41
+wall thorns~
+a wall of thorns~
+A brambly wall of thorns grows here, covering the exit %s.~
+wood~
+0
+trash 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 9999 0 P
+#42
+rose~
+`bA `iRed `bRose``~
+`bA `ired `brose is lying on the ground.``~
+velvet~
+0
+treasure 2
+0
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BC 0 0 0 0
+0
+0
+0 80 1 P
+A
+26 1
+E
+rose~
+It's a beautiful red rose, with a soft and romantic fragrance.
+~
+#43
+fire burning flames campfire~
+`ia campfire``~
+`hDancing `if`bl`ia`bm`ie`bs `hleap and plummet as they search for `loxygen``.~
+fire~
+0
+trash 2
+AORSTYa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 9999 0 P
+#44
+fire burning flames campfire~
+`ia campfire``~
+`iStrings of fire flicker as they retreat into the embers of a waning blaze.``~
+fire~
+0
+trash 2
+AORSTYa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 9999 0 P
+#45
+fire burning flames campfire~
+`ia campfire``~
+`iMolten red cinders mark the existence of a once raging fire.``~
+fire~
+0
+trash 2
+ORSTYa
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 9999 0 P
+#46
+tripwire~
+`aa tripwire``~
+`aA thin tripwire is stretched across your way.``~
+hemp~
+0
+trash 2
+FST
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#47
+arrow~
+an arrow~
+An arrow is here.~
+wood~
+0
+weapon 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD 0 0 ABD 0
+0
+0
+1 10 0 P
+#48
+roulette~
+the roulette wheel~
+`cA`b roulette`c wheel is here, waiting for the next big winner to step up.``~
+wood~
+0
+trash 2
+RSYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+table~
+`h`0+------------+----+----+----+----+----+----+----+----+----+----+----+----+---+``
+`h`0|`6`0 1st column`h`0 |`6`0 34`h`0 |`i`0 31`h`0 |`6`0 28`h`0 |`i`0 25`h`0 |`6`0 22`h`0 |`i`0 19`h`0 |`6`0 16`h`0 |`i`0 13`h`0 |`6`0 10`h`0 |`i`0  7`h`0 |`6`0  4`h`0 |`i`0  1`h`0 |``   `h`0|``
+`h`0+------------+----+----+----+----+----+----+----+----+----+----+----+----+``   `h`0|``
+`h`0|`6`0 2nd column`h`0 |`i`0 35`h`0 |`6`0 32`h`0 |`i`0 29`h`0 |`6`0 26`h`0 |`i`0 23`h`0 |`6`0 20`h`0 |`i`0 17`h`0 |`6`0 14`h`0 |`i`0 11`h`0 |`6`0  8`h`0 |`i`0  5`h`0 |`6`0  2`h`0 |`o 0 `h`0|``
+`h`0+------------+----+----+----+----+----+----+----+----+----+----+----+----+``   `h`0|``
+`h`0|`6`0 3rd column`h`0 |`6`0 36`h`0 |`i`0 33`h`0 |`6`0 30`h`0 |`i`0 27`h`0 |`6`0 24`h`0 |`i`0 21`h`0 |`6`0 18`h`0 |`i`0 15`h`0 |`6`0 12`h`0 |`i`0  9`h`0 |`6`0  6`h`0 |`i`0  3`h`0 |``   `h`0|``
+`h`0+------------+----+----+----+----+----+----+----+----+----+----+----+----+---+``
+`h`0             |                   |                   |                   |    ``
+`h`0  `k .`g__`k.`g__`k. `h`0  |`6`0       Third`h`0       |`6`0      Second`h`0       |`6`0       First`h`0       |    ``
+`h`0  `d U`g  |`a  | `h`0  |`6`0       Dozen`h`0       |`6`0       Dozen`h`0       |`6`0       Dozen`h`0       |    ``
+`h`0  `k   .`g|`k.`d U `h`0  |                   |                   |                   |    ``
+`h`0             +-------------------+-------------------+-------------------+    ``
+~
+E
+roulette~
+`h`0+------------+----+----+----+----+----+----+----+----+----+----+----+----+---+`` 
+`h`0|`6`0 1st column`h`0 |`i`0 34`h`0 |`6`0 31`h`0 |`6`0 28`h`0 |`i`0 25`h`0 |`6`0 22`h`0 |`i`0 19`h`0 |`i`0 16`h`0 |`6`0 13`h`0 |`6`0 10`h`0 |`i`0  7`h`0 |`6`0  4`h`0 |`i`0  1`h`0 |``   `h`0|`` 
+`h`0+------------+----+----+----+----+----+----+----+----+----+----+----+----+``   `h`0|`` 
+`h`0|`6`0 2nd column`h`0 |`6`0 35`h`0 |`i`0 32`h`0 |`6`0 29`h`0 |`6`0 26`h`0 |`i`0 23`h`0 |`6`0 20`h`0 |`6`0 17`h`0 |`i`0 14`h`0 |`6`0 11`h`0 |`6`0  8`h`0 |`i`0  5`h`0 |`6`0  2`h`0 |`o 0 `h`0|`` 
+`h`0+------------+----+----+----+----+----+----+----+----+----+----+----+----+``   `h`0|`` 
+`h`0|`6`0 3rd column`h`0 |`i`0 36`h`0 |`6`0 33`h`0 |`i`0 30`h`0 |`i`0 27`h`0 |`6`0 24`h`0 |`i`0 21`h`0 |`i`0 18`h`0 |`6`0 15`h`0 |`i`0 12`h`0 |`i`0  9`h`0 |`6`0  6`h`0 |`i`0  3`h`0 |``   `h`0|`` 
+`h`0+------------+----+----+----+----+----+----+----+----+----+----+----+----+---+`` 
+`h`0             |                   |                   |                   |    `` 
+`h`0  `k .`g__`k.`g__`k. `h`0  |`6`0       Third`h`0       |`6`0      Second`h`0       |`6`0       First`h`0       |    `` 
+`h`0  `d U`g  |`a  | `h`0  |`6`0       Dozen`h`0       |`6`0       Dozen`h`0       |`6`0       Dozen`h`0       |    `` 
+`h`0  `k   .`g|`k.`d U `h`0  |                   |                   |                   |    `` 
+`h`0             +-------------------+-------------------+-------------------+    `` 
+~
+#49
+stick~
+a fairly straight stick~
+A fairly straight stick has been foraged.~
+wood~
+0
+treasure 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 500 P
+#50
+grinding stone~
+a grinding stone~
+A large grinding stone for sharpening weapons is here.~
+stone~
+0
+trash 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#51
+thelino truth~
+Thelino's Truth~
+Unsure of what you see before you, this looks an object worthy of a hero.~
+ethereal~
+0
+weapon 2
+AGHISY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 BC CD ABE D
+0
+0
+91 0 0 P
+A
+12 30
+A
+18 5
+A
+3 1
+A
+19 5
+#52
+aura~
+auvyron's aura~
+Uncompromising, brazen, and wise with the depth of ages, Auvyron's aura blazes within you as you hold this light.~
+ethereal~
+0
+warp_stone 2
+AGHIS
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 0 0 P
+A
+4 2
+A
+14 60
+A
+24 -5
+A
+17 -6
+#53
+blackjack jack sap club~
+`aa leather blackjack``~
+`aA heavy leather club lies on the ground.``~
+hard leather~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C A A 0 0
+0
+0
+100 10 7500 P
+E
+breastplate bluesilver~
+This is a plate dented out with insignia of a hawk.
+~
+#54
+pentagram~
+the pentagram~
+`bA five point star, drawn in blackened blood is encircled with runes.``~
+glass~
+0
+container 2
+RSTa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EIJKN 0 0 EFIKMNO 0
+0
+0
+1 1 0 P
+#55
+arrowhead~
+a wooden arrowhead~
+A wooden arrowhead is here.~
+wood~
+0
+weapon 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABD C B ABD 0
+0
+0
+10 5 100 P
+#56
+wood~
+a piece of %s wood~
+A piece of %s wood lies here.~
+wood~
+0
+wood 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#57
+hexagram~
+the hexagram~
+`bPulsing lines and circles of blood form a hexagram here.``~
+unknown~
+0
+furniture 2
+RSTa
+0
+0
+0
+0
+0
+57
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A EFIKMNO C CFG CFG
+0
+0
+1 20 0 P
+#58
+septagram~
+the septagram~
+`bBoiling patterns of a thick red substance form a seven point star within a magic circle.``~
+unknown~
+0
+trash 2
+STYa
+0
+0
+0
+0
+0
+58
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 20 0 P
+#59
+faggotry ball~
+`mthe ball of faggotry``~
+`mA bright pink gameball is here.  Do you dare pick it up?``~
+metal~
+0
+treasure 2
+BPRc
+0
+A
+0
+0
+0
+59
+59000
+59001
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 5 0 P
+#60
+flame tongue sword~
+`ithe flame tongue``~
+A black sword leans against the wall.~
+obsidian~
+0
+weapon 2
+ABGKLSYa
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 BC AC CD AH
+0
+0
+49 169 4059 P
+A
+19 2
+A
+18 2
+E
+sword blade flame~
+This blade is warm to the touch.
+~
+#61
+eye~
+The eye of`b %s``~
+A ripped-out eye stares at you from the ground.~
+flesh~
+0
+treasure 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+87 8 0 P
+#62
+crystal ball~
+the crystal ball~
+`hA `oc`kr`oy`ks`ot`ka`ol`h ball is here, allowing you to see things far away.``~
+glass~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 DFHINO 0
+0
+0
+0 0 0 P
+#63
+crystal ball~
+the crystal ball~
+`hA `oc`kr`oy`ks`ot`ka`ol`h ball is here, allowing you to see things far away.``~
+glass~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 ADEFGHINO 0
+0
+0
+0 0 0 P
+#64
+crap wood obj~
+crap wood obj~
+~
+wood~
+0
+treasure 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#65
+tendrils poisonous spidervine~
+`cTendrils of poisonous`b Spidervine``~
+`cTendrils of poisonous`b spidervine`c lie here.``~
+wood~
+0
+armor 2
+HMPSZ
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 0 P
+A
+1 -1
+A
+13 30
+A
+17 -10
+#66
+zante~
+(no short description)~
+~
+metal~
+0
+container 2
+HSTYZa
+CD
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 CFG
+0
+0
+1 0 0 P
+#67
+shared cj box~
+`fA shimmering box``~
+The box shared by all chaos jesters. DO NOT FUCKING DELETE ME!~
+stone~
+0
+player_box 2
+ORST
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF 0 0 0 0
+0
+0
+1 0 0 P
+#68
+generic~
+generic object for saving/loading restringed objects~
+Generic object for saving/loading restringed objects~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#69
+reaver sword~
+standard sword for reaver blade~
+Standard sword for reaver blade~
+steel~
+0
+weapon 2
+MPRSTUYZa
+0
+N
+J
+0
+0
+69
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A AB 0
+0
+0
+0 0 0 P
+#70
+exaltation~
+`hexaltation``~
+`hYou have found exaltation.``~
+unknown~
+0
+treasure 2
+STa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+94 0 0 P
+#71
+fortune~
+`hfortune``~
+`hYou have found fortune.``~
+unknown~
+0
+treasure 2
+STa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+92 0 0 P
+#72
+luck~
+`hLuck``~
+`hYou have found Luck.``~
+unknown~
+0
+treasure 2
+STa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+95 0 0 P
+#73
+courage~
+`hCourage``~
+`hYou have found Courage.``~
+unknown~
+0
+treasure 2
+STa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+95 0 0 P
+#74
+honor~
+`hHonor``~
+`hYou have found Honor.``~
+unknown~
+0
+treasure 2
+STa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+95 0 0 P
+#75
+dignity~
+`hDignity``~
+`hYou have found Dignity.``~
+unknown~
+0
+treasure 2
+STa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+95 0 0 P
+#76
+conviction~
+`hConviction``~
+`hYou have found Conviction.``~
+unknown~
+0
+treasure 2
+STa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+95 0 0 P
+#77
+morethan immstring~
+generic quest object~
+A generic quest object lays here.~
+ethereal~
+0
+treasure 2
+RSTa
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 0 0 P
+#78
+binder~
+`a[`oBinder`a]``~
+A binder with pockets for cards is here.~
+stone~
+0
+binder 2
+HSTYZa
+CD
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ACDGI 0 0 0 0
+0
+0
+0 0 0 P
+#79
+deck~
+`a[`oDeck`a]``~
+Your deck of cards is here.~
+unknown~
+0
+binder 2
+HMSTYZa
+CD
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDEF 0 0 0 0
+0
+0
+0 0 0 P
+#80
+vial~
+a vial~
+THE BIG BAD VIAL THING~
+gold~
+0
+vial 2
+0
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10 0 P
+#81
+shield~
+`h[`a-`h] Toranal's shield of exile `h[`a-`h]~
+A dusty leather shield lies here.~
+hard leather~
+0
+armor 2
+PS
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+D D D AC 0
+0
+0
+36 36 450 P
+A
+13 20
+A
+14 20
+A
+19 1
+#82
+tendrils poisonous spidervine~
+`cTendrils of poisonous`b Spidervine``~
+A guitar lays here.~
+wood~
+0
+armor 2
+HMPSZ
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 5 0 P
+A
+13 10
+A
+19 2
+A
+17 -10
+#83
+cheese amulet~
+the Amulet of Cheese~
+A silken velvety amulet of marigold yellow proclaims devotion to the Big Cheese.~
+velvet~
+0
+treasure 2
+HPSTYZ
+0
+ACO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 0 0 P
+A
+26 3
+A
+13 15
+#84
+life crystal~
+a Life Crystal~
+A glowing green crystal is here.~
+unknown~
+0
+pill 2
+ABCSU
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+~
+~
+~
+~
+CDEF 'mirror' 'cure critical' -1 -1 0
+0
+50 5 0 P
+A
+5 -3
+A
+19 1
+#85
+blessing~
+`nthe blessing of the gods``~
+`nThe blessing of the gods enlightens even the darkest nights.``~
+ethereal~
+0
+treasure 2
+AGHIS
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 9004 P
+A
+17 -6
+A
+4 2
+#86
+big sword~
+a big fucking sword~
+A huge badass sword.~
+diamond~
+0
+weapon 2
+HMPSZ
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 ABC ABD AB D
+0
+0
+94 0 0 P
+A
+18 10
+A
+19 10
+#87
+desire~
+Auvyron's Desire~
+A spirit lofty and ambitious deigns to take flight.~
+air~
+0
+pill 2
+STa
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF 'refresh' 'fly' 'heal' 'teleport'
+0
+0
+30 0 0 P
+A
+24 -2
+A
+12 10
+#88
+mace fire~
+`ia fiery mace``~
+`iA glowing red mace is here, sizzling.``~
+iron~
+0
+weapon 2
+LMYa
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C AC BC BDE G
+0
+0
+45 200 18470 P
+A
+18 1
+A
+19 8
+#89
+super quest item sword Skullmaster~
+`kthe super quest sword``~
+`kSkullmaster's ridiculously powerful super quest sword lies here.``~
+steel~
+0
+weapon 2
+GP
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A BD D AF AD
+0
+0
+100 300 0 P
+#90
+happy meal~
+a happy meal~
+A happy meal from the local burger joint is here, rotting away.~
+food~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG CFG EHI 0 0
+0
+0
+0 0 0 P
+#91
+meat chunk~
+a chunk of meat~
+A bloody chunk of meat lies here, gathering flies.~
+meat~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BEF BEF -1 0 0
+0
+0
+0 50 0 G
+#92
+red black sash belt~
+`bthe sash of House `fVereeni``~
+A ream of silk lies here.
+~
+silk~
+0
+armor 2
+ABP
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BC BC BC ABC 0
+0
+0
+30 8 920 P
+A
+19 1
+A
+13 15
+#93
+heel sexy~
+a pair of 4" tall stiletto heels~
+Some sexy heels made for the most delicate of female feet lay here.~
+scales~
+0
+clothing 2
+GI
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 50 0 P
+A
+14 -10
+A
+2 -2
+A
+26 3
+A
+12 10
+E
+boots~
+These boots are made of tough sharkskin.
+~
+#94
+silk lace corset~
+an hourglass shaped corset~
+A rather restrictive garment with 10,000 hooks on it wants to squeeze and pull you.~
+soft leather~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 40 140 P
+A
+26 3
+A
+2 -2
+A
+5 -1
+A
+24 -3
+A
+1 -1
+#95
+%s~
+%s~
+%s~
+paper~
+0
+writing_paper 2
+PSUY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 0 0 0
+0
+0
+1 0 0 P
+#96
+garden weasel~
+a garden weasel~
+There's something on the ground.  Wow.~
+metal~
+0
+weapon 2
+P
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C AC BC B D
+0
+0
+10 0 0 P
+A
+13 10
+A
+19 3
+A
+18 3
+#97
+exp~
+a Billion experience points~
+A billion experience points lays around here, unused.~
+metal~
+0
+treasure 2
+LPSa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+56 203 100000 P
+A
+19 4
+A
+18 -1
+#98
+pie~
+a freshly baked pie~
+A freshly baked cherry pie sits here, tantalizing your senses.~
+food~
+0
+weapon 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 ABDE J
+0
+0
+0 0 0 P
+#99
+universal balance~
+`oUniversal Balance``~
+`hA spirit of pure energy lies here glowing with a bright white light.``~
+energy~
+0
+treasure 2
+AS
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+A
+13 25
+A
+24 -3
+A
+26 2
+#0
+
+#ROOMS
+#1
+0 0
+~
+~
+~
+0 64 0
+The Void~
+You are floating in nothing.
+~
+0 CDKN 1
+0
+~
+I 0 S
+#2
+0 0
+~
+~
+~
+21 73 20
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 CDKN 1
+0
+~
+I 0 S
+#3
+0 0
+~
+~
+~
+0 0 0
+Stable Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+This is where the stable people go.
+   There is a "Cow Tipping" notice pinned to the darkness.
+~
+0 CDO 2
+0
+~
+I 0 S
+#4
+0 0
+~
+~
+~
+0 0 1
+`bElevator Limbo``~
+`5 This is elevator limbo.  Chances are you don't belong here, so leave now.``
+~
+0 ACGJKLNO 0
+0
+~
+I 0 S
+#5
+0 0
+~
+~
+~
+0 64 0
+Death Vision Limbo~
+~
+0 CN 0
+0
+~
+I 0 S
+#6
+0 0
+~
+~
+~
+0 576 0
+Room of Reincarnation~
+~
+0 CGKN 0
+0
+~
+I 0 S
+#7
+0 0
+~
+~
+~
+0 768 0
+`kIVERATH'S DO NOT TOUCH``~
+~
+0 CDK 18
+0
+~
+I 0 O duiwel~
+S
+#8
+0 0
+~
+~
+~
+0 576 0
+Switched Players Holding Area~
+Iblis demands you gtfo now.
+~
+0 CKN 0
+0
+~
+I 0 S
+#9
+0 0
+~
+~
+~
+0 0 0
+`iHero Mount Holding Pen``~
+~
+0 Ce 0
+0
+~
+H175
+I 0 M175
+D4
+~
+~
+0 0 10
+S
+#10
+0 0
+~
+~
+~
+0 0 0
+Duiwel's Gnome Prison~
+~
+0 CNT 5
+0
+~
+H999
+I 0 M999
+O Duiwel~
+D5
+~
+~
+0 0 9
+S
+#11
+0 0
+~
+~
+~
+0 256 0
+`hDuiwel's `dCardboard Box``~
+`d
+`dAn extremely large box has been constructed out of various smaller
+boxes  to form what  appears to be Duiwel's home.  Clearly in need 
+of  some sort of box-maid,  it is a complete disaster.  Newspapers
+or perhaps blankets(?)  litter a floor which  is covered  in `kurine`d.
+A sofa constructed out of god-knows-what and cardboard sits in one 
+corner,  while a bed of dirty rags and magazines lies in the other.
+Windows  have been roughly cut out of each wall to allow a view of
+the landscape,  which appears  to be nothing but sky.  This box is 
+floating. What the hell?``
+~
+0 CD 0
+0
+~
+I 0 O Duiwel~
+S
+#13
+0 0
+~
+~
+~
+0 0 0
+`aT`ho`ow`he`ar of `oT`hh`ao`hr`on``~
+~
+0 Z 0
+0
+~
+H300
+I 0 M300
+O thorn~
+D4
+~
+~
+0 0 26827
+S
+#22
+0 0
+~
+~
+~
+0 0 0
+A distant memory~
+You come back, wavering shapes, out of the past
+In which you first appeared to clouded eyes.
+Should I attempt this time to hold you fast?
+Does this old dream still thrill a heart so wise?
+You crowd? You press? Have, then, your way at last.
+As from the mist around me you arise;
+My breast is stirred and feels with youthful pain
+The magic breath that hovers round your train.
+~
+0 CDJNOZ 6
+2
+You need an invitation to gain entrance to this room.~
+I 0 D1
+~
+~
+0 0 23
+S
+#23
+0 0
+~
+~
+~
+0 0 0
+Resurrection~
+With you return pictures of joyous days,
+Shadows that I once loved again draw near;
+Like a primeval tale, half lost in haze,
+First love and friendship also reappear;
+Grief is renewed, laments retrace the maze
+Of Life's strange labyrinthian career,
+Recalling dear ones who, by fortune's treason
+Robbed of fair hours, passed before my season.
+~
+0 CDJN 6
+0
+You need an invitation to gain entrance to this room.~
+I 0 D1
+~
+~
+0 0 24
+D3
+~
+~
+0 0 22
+S
+#24
+0 0
+~
+~
+~
+0 0 0
+Remembrance~
+They will not hear me as I sing these songs,
+The parted souls to whom I sang the first;
+Gone is that first response, in vain one longs
+For friendly crowds that have long been dispersed.
+My grief resounds to strangers, unknown throngs
+Applaud it, and my anxious heart would burst.
+Whoever used to praise my poem's worth,
+If they still live, stray scattered through the earth.
+~
+0 CDJNO 6
+0
+You need an invitation to gain entrance to this room.~
+I 0 D1
+~
+~
+0 0 25
+D3
+~
+~
+0 0 23
+S
+#25
+0 0
+~
+~
+~
+0 0 0
+`g`9  Cailet's Room  ``~
+And I am seized by long forgotten yearning
+For that kingdom of spirits, still and grave;
+To flowing song I see my feelings turning,
+As from aeolian harps, wave upon wave;
+A shudder grips me, tear on tear falls burning,
+Soft grows my heart, once so severe and brave;
+What I possess, seems far away to me,
+And what is gone becomes reality.
+~
+0 CDJO 6
+1
+You need an invitation to gain entrance to this room.~
+I 0 D3
+~
+~
+0 0 24
+S
+#26
+0 0
+~
+~
+~
+0 0 0
+end game~
+madly madly i am dancing
+in this space
+two sighs from where the balloon poppers wait
+if you blink you might miss me
+twinkling - so fleeting are we
+but i would give anything to spin here forever
+with your eyes in my mouth and 
+your heart in my hand
+ 
+~
+0 ACNO 0
+0
+~
+I 0 S
+#84
+0 0
+(null)~
+~
+~
+0 0 0
+The Platform~
+You are standing on a huge, pentagram-shaped platform in the middle of what
+seems to be an ocean of red sand.  However, you do see several things off in
+the distance, one directly corresponding to each point of the pentacle.
+~
+0 C 4
+0
+~
+I 0 S
+#0
+
+#RESETS
+O 0 67   0 8 1	* `fa shimmering box`` at Switched Players Holding Area
+M 0   29   1    9  1	* `agroth'tuk, the `bwarlord's `agiant `dwinged `ihardrag'n``
+M 0   33   1    9  1	* `lsydonai, the `bblood demon's `hni`lgh`ht`lma`hre `lsteed``
+M 0   34   1    9  1	* `hze`aro`hmu`as, `hthe `oun`aho`oly `hshe`ophe`ard's `bblood-starved `dmanticore``
+S
+
+#SHOPS
+92  0  0  0  0  0 	100 100 	0 23	* A wandering spirit
+0
+
+#SPECIALS
+M 13 spec_breath_fire		* `lA Hippocampus``
+M 14 spec_breath_frost		* The silver dragon
+M 28 spec_poison		* Your imaginary friend
+M 29 spec_poison		* `aGroth'tuk, the `bWarlord's `agiant `dwinged `iHardrag'n``
+M 33 spec_breath_fire		* `lSydonai, the `bBlood Demon's `hNi`lgh`ht`lma`hre `lsteed``
+M 34 spec_poison		* `hZe`aro`hmu`as, `hthe `oUn`aho`oly `hShe`ophe`ard's `bblood-starved `dManticore``
+S
+
+#OT
+#1
+Minax's Voodoo Doll~
+$whenpulled~
+32768
+64
+emote comes to life with an evil magic all its own!~
+100
+0
+emote starts chanting in an ancient tongue.~
+100
+1
+teleport minax 1243~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#11
+trysta room~
+$char_says ocean tide~
+131072
+71
+echo `nThe orb begins to `kglow `nsoftly.``~
+100
+1
+echo `nThe orb begins to `ispin `nand hum `iviolently.``~
+100
+4
+echo `nThe orb expands into endless `kb`dl`ki`dn`kd`di`kn`dg `olight`n, swallowing you whole.``~
+100
+4
+trans $name 501~
+100
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#12
+(null)~
+$char_says leave~
+131072
+71
+pecho `hThe `no`gr`nb `kb`dr`ki`dg`kh`dt`ke`dn`ks `hand pulls you into it's `iv`bi`iv`bi`id light.``~
+100
+2
+trans $name isaac~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#20
+`oPIE``~
+$wheneaten~
+2097152
+64
+force $name burp~
+100
+3
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+30
+#21
+(null)~
+$on_tick~
+536870912
+71
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22
+poisonimmone~
+$wearsobj~
+4
+64
+flag char $wearer imm + poison~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#23
+(null)~
+$whenremoved~
+512
+64
+flag char $wearer imm - poison~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#57
+`bHexagram``~
+$entersroom~
+1
+68
+echo `bViolet flames hypnotically swirl in the wind, enticing you to come closer.``~
+15
+1
+echo `bThe screams of damned souls bellow from the hexagram as you walk by.``~
+3
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#58
+`bSeptagram``~
+$entersroom~
+1
+68
+echo `bFlames burst from the septagram, as a blood soaked claw snaps out clasping at air.``~
+10
+1
+damage $name 5 `bA demon escapes the confinement of the circles and claws at your face.``~
+1
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#59
+Ballgame~
+$char_is_attacked~
+524288
+66
+zecho `k$name fumbles the ball!``~
+100
+0
+force $name drop faggotry~
+100
+0
+noble $name none~
+100
+0
+peace~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#69
+Reaver Swords~
+$on_tick~
+536870912
+67
+tell $name You must destroy all that is good.  I hunger for souls.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#0
+#$

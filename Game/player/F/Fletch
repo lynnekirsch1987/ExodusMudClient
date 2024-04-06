@@ -1,0 +1,659 @@
+#PLAYER
+Name Fletch~
+Id   847598191
+LogF 1020969674
+LogO 1020969674
+Vers 7
+Desc Don't look at me bum you cheekie monkey.
+~
+Prom <HP:%h/%H MA:%m/%M MV:%v/%V TL:%X>%S ~
+Race human~
+Sex  1
+Cla  0
+Levl 67
+PBKill 3
+MBKill 26
+PHKill 2
+MHKill 1007
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 617915
+Bank_Gold 2056
+Bank_Silv 195367
+Email clrice2@eos.ncsu.edu~
+Host rdu25-30-134.nc.rr.com~
+Not  926051621 926051627 0 937252997 936051950 0 0
+Scro 22
+Room 4190
+HMV  315 315 1073 1103 319 319
+Hand 2
+Gold 49
+Silv 98
+Exp  151263
+Act  CDGHQ
+AfBy DFTV
+Comm NOQS
+Pos  8
+Trai 2
+Alig  -1000
+Hit   15
+Dam   15
+ACs -114 -97 -120 -62
+Wimp  157
+Attr 11 21 18 7 18 15
+AMod 8 2 2 9 0 2
+Pass FlHZOjkj.43mk~
+Bcry  screams "Not in the face! Not in the face!"~
+Plan  In the beginning, there was nothing.
+And Fletch said "Let there be light"
+And there was still nothing,
+But you could see it.
+~
+Layhands 0
+Exorcise 0
+Titl  is playing doctor! [CoK]~
+Pnts 45
+TSex 1
+LLev 166
+Loner 0
+HMVP 335 1078 319
+Cnd  -16 32 46 4
+Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias ta take all~
+Alias tc take all corpse~
+Alias aaa autoassist mobs~
+Alias aao autoassist~
+Alias df order all rescue fletch~
+Alias dd c acid~
+Alias bash o all bash~
+Alias as o all rep~
+Alias poc l in pockets~
+Alias ss cast mirror~
+Alias ff butcher corpse~
+Sk 93 'armor'
+Sk 100 'acid blast'
+Sk 91 'blindness'
+Sk 76 'web'
+Sk 89 'burning hands'
+Sk 78 'cancellation'
+Sk 76 'chain lightning'
+Sk 84 'change sex'
+Sk 95 'charm person'
+Sk 75 'chill touch'
+Sk 100 'colour spray'
+Sk 94 'create food'
+Sk 75 'create rose'
+Sk 75 'create spring'
+Sk 75 'create water'
+Sk 78 'curse'
+Sk 84 'detect hidden'
+Sk 90 'detect invis'
+Sk 75 'detect magic'
+Sk 75 'detect poison'
+Sk 83 'dispel magic'
+Sk 79 'energy drain'
+Sk 91 'fireball'
+Sk 76 'fireproof'
+Sk 76 'fly'
+Sk 76 'floating disc'
+Sk 87 'giant strength'
+Sk 95 'haste'
+Sk 96 'identify'
+Sk 80 'infravision'
+Sk 85 'invisibility'
+Sk 79 'mirror'
+Sk 100 'lightning bolt'
+Sk 89 'locate object'
+Sk 78 'magic missile'
+Sk 82 'mass invis'
+Sk 75 'pass door'
+Sk 75 'poison'
+Sk 75 'portal'
+Sk 79 'summon'
+Sk 86 'gate'
+Sk 81 'refresh'
+Sk 89 'shield'
+Sk 86 'shocking grasp'
+Sk 76 'sleep'
+Sk 75 'slow'
+Sk 80 'stone skin'
+Sk 77 'teleport'
+Sk 77 'ventriloquate'
+Sk 76 'weaken'
+Sk 100 'dagger'
+Sk 100 'staff'
+Sk 98 'meditation'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'creation'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Affc 'shield'   0  59  34 -20  17          0 0 ''
+Affc 'giant strength'   0  58  27   4   1          0 0 ''
+Affc 'fly'   0  58  30   0   0     524288 0 ''
+Affc 'stone skin'   0  59  28 -40  17          0 0 ''
+Affc 'detect invis'   0  60  28   0   0          8 0 ''
+Affc 'detect hidden'   0  61  28   0   0         32 0 ''
+Affc 'haste'   0  60   1   4   2    2097152 0 ''
+Affc 'armor'   0  67  18 -20  17          0 0 ''
+End
+
+#O
+Vnum 10369
+Nest 0
+Cond 0
+Wear 19
+Cost 6750
+End
+
+#O
+Vnum 12219
+Nest 0
+Cond 0
+Wear 5
+Cost 5000
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 4290
+Nest 0
+Cond 0
+Wear 6
+Cost 150
+End
+
+#O
+Vnum 20964
+Nest 0
+Cond 0
+Wear 7
+Cost 140
+End
+
+#O
+Vnum 21072
+Nest 0
+Cond 0
+Wear 2
+Cost 12
+End
+
+#O
+Vnum 21052
+Nest 0
+Cond 0
+Wear 4
+Cost 942
+End
+
+#O
+Vnum 20956
+Nest 0
+Cond 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 12234
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 7901
+Nest 0
+ExtF 8650754
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 12223
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 12223
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 12923
+Nest 0
+ExtF 17039504
+Cond 0
+Wear -1
+Cost 15
+Affc 'curse'   1  44  35   1  20         16 0 ''
+End
+
+#O
+Vnum 4309
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 810
+Nest 1
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 7077
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7041
+Nest 1
+ExtF 17039363
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7011
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7010
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  54
+Cost 0
+Affc 'enchant weapon'   1  79  -1   5  19          0 0 ''
+Affc 'enchant weapon'   0  79  -1   5  18          0 0 ''
+End
+
+#O
+Vnum 25005
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4163
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  41
+Cost 6100
+Affc 'enchant armor'   1  23  -1  -4  17          0 0 ''
+Affc 'reserved'   1  38  -1   5  13          0 0 ''
+End
+
+#O
+Vnum 2604
+Nest 1
+ExtF 262677
+Cond 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4450
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7071
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8707
+Nest 1
+ExtF 25428033
+Cond 0
+Wear -1
+Cost 0
+ExDe ball fire~ The ball of fire is hot to the touch and very very bright.
+~
+End
+
+#O
+Vnum 5638
+Nest 1
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  19
+Cost 0
+Affc 'enchant weapon'   0  40  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  40  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 4097
+Nest 1
+Cond 0
+Wear -1
+Cost 21000
+End
+
+#O
+Vnum 5570
+Nest 1
+ExtF 75759616
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 723
+Nest 0
+Cond 0
+Wear 0
+Cost 8309
+End
+
+#O
+Vnum 7918
+Nest 0
+ExtF 192
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 4231
+Nest 0
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 21072
+Nest 0
+Cond 0
+Wear 1
+Cost 12
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20389
+Enchanted
+Nest 0
+ExtF 262209
+Cond 0
+Wear 10
+Lev  36
+Cost 0
+Affc 'reserved'   1  34  -1   2  19          0 0 ''
+Affc 'enchant armor'   1  90  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 21052
+Nest 0
+Cond 0
+Wear 3
+Cost 942
+End
+
+#O
+Vnum 18983
+Nest 0
+ExtF 8650753
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 187
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 189
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 189
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 189
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 189
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 189
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 189
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 189
+Cost 0
+Val  33 67 240 0 0 0 0
+End
+
+#O
+Vnum 3225
+Nest 0
+ExtF 8388611
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 18981
+Nest 0
+Name human skull blood water~
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+Val  20 20 0 0 0 0 0
+End
+
+#RoomRLE   4190 1 61344 -1
+
+#END

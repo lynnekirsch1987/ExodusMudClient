@@ -1,0 +1,715 @@
+#PLAYER
+Name Eanix~
+Id   1079703401
+LogF 1092881935
+LogO 1092883336
+Vers 8
+Prom [%r] (%e)%c<%h/%Hhp %m/%Mm %v/%Vmv %x(%X)xp %a %S> ~
+Race elf~
+Sex  1
+Cla  0
+Cla2  0
+Cla3  0
+Levl 76
+EInBR 2
+ODeaths 18
+PBKill 1
+MBKill 66
+BBKill 31
+MHKill 2685
+BHKill 6
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 967708
+NPlyd 0
+NAge 0
+Bank_Gold 20
+Bank_Silv 7000
+Email enixmail@yahoo.com~
+Referrer friend~
+Souls 0
+HP_Gained 34
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 2
+PointsQ 0
+Avatar_Type 2
+Race_Old -1
+Class_Old -1
+New_Style 1
+Totalxp 655346392
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 1
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+MPC 0
+Host MTL-HSE-ppp165653.qc.sympatico.ca~
+Not  0 0 0 1070149485 1055566770 1082009599 1065454552 0
+Scro 22
+Room 4190
+HMV  262 262 743 1113 323 323
+Hand 2
+Gold 559
+Silv 40
+Exp  1298388
+Act  DFGHb
+Blok -1
+AfBy BDEFJ
+Comm GNOQS
+Com2 A
+Pos  4
+Save  -6
+Alig  -602
+Hit   15
+Dam   10
+ACs -21 -31 -21 -36
+Wimp  40
+Attr 13 24 8 10 10 16
+AMod 7 0 0 4 2 2
+Pass EaFfTzThG/ekg~
+Bcry  Ride the lightning!!!~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  Mage of DeathWind Realm~
+Pnts 6
+TSex 1
+LLev 264
+Loner 0
+HMVP 249 1093 323
+Cd  -16 9 11 30 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias -cf cast 'create food'~
+Alias -i cast 'invisibility'~
+Alias -di cast 'detect invis'~
+Alias -gs cast 'giant strength'~
+Alias -dd drink decan~
+Alias -lb cast 'lightning bolt'~
+Alias -aq cast 'aqua'~
+Alias -ed cast 'energy drain'~
+Alias -f cast 'fly'~
+Alias -tel cast 'teleport'~
+Alias -ge give ear cyr~
+Alias -id cast 'identify'~
+Alias -cs cast 'colour spray'~
+Alias -cwb cast 'control weather' better~
+Alias -cww cast 'control weather' worse~
+Alias -s cast 'shield'~
+Alias -cp cast 'charm person'~
+Alias -cr cast 'create rose'~
+Alias -ref cast 'refresh'~
+Alias -slp cast 'sleep'~
+Alias -w cast 'weaken'~
+Alias -p cast 'poison'~
+Alias -h cast 'haste'~
+Alias -bl cast 'blindness'~
+Alias -dm cast 'dispel magic'~
+Alias -sum cast 'summon'~
+Alias -spr cast 'create spring'~
+Alias -enw cast 'enchant weapon'~
+Alias -ena cast 'enchant armor'~
+Alias -fb cast 'fireball'~
+Alias -c cast 'curse'~
+Alias -sk cast 'stone skin'~
+Alias -cl cast 'call lightning'~
+Alias -fd cast 'floating disc'~
+Alias -mi cast 'mass inv'~
+Alias -sl cast 'slow'~
+Alias -ff cast 'faerie fire'~
+Alias -cn cast 'cancel'~
+Alias -fs cast 'fireshield'~
+Alias -acid cast 'acid' ~
+Alias -oe order exe kill~
+Alias -oeg order exe give~
+Alias -ab cast 'acid breath'~
+Alias -a cast armor~
+Alias -fm cast firestorm~
+Alias -fog cast 'faerie fog'~
+Alias -fr cast 'frost breath'~
+Sk 96 'armor'
+Sk 96 'acid blast'
+Sk 86 'fireshield'
+Sk 96 'blindness'
+Sk 96 'web'
+Sk 81 'burning hands'
+Sk 91 'call lightning'
+Sk 81 'cancellation'
+Sk 100 'chain lightning'
+Sk 66 'change sex'
+Sk 100 'charm person'
+Sk 86 'chill touch'
+Sk 91 'colour spray'
+Sk 100 'control weather'
+Sk 86 'create food'
+Sk 51 'create rose'
+Sk 66 'create spring'
+Sk 76 'create water'
+Sk 100 'curse'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel magic'
+Sk 96 'firestorm'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 96 'energy drain'
+Sk 71 'faerie fire'
+Sk 96 'faerie fog'
+Sk 100 'fireball'
+Sk 81 'fireproof'
+Sk 81 'fly'
+Sk 86 'floating disc'
+Sk 81 'giant strength'
+Sk 96 'haste'
+Sk 81 'heat metal'
+Sk 96 'identify'
+Sk 46 'infravision'
+Sk 86 'invisibility'
+Sk 96 'mirror'
+Sk 91 'lightning bolt'
+Sk 86 'locate object'
+Sk 61 'magic missile'
+Sk 96 'mass invis'
+Sk 71 'pass door'
+Sk 100 'poison'
+Sk 81 'portal'
+Sk 100 'summon'
+Sk 100 'gate'
+Sk 81 'recharge'
+Sk 61 'refresh'
+Sk 96 'shield'
+Sk 71 'shocking grasp'
+Sk 76 'sleep'
+Sk 100 'slow'
+Sk 96 'stone skin'
+Sk 100 'teleport'
+Sk 71 'ventriloquate'
+Sk 100 'weaken'
+Sk 100 'acid breath'
+Sk 1 'fire breath'
+Sk 100 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 86 'aqua breathe'
+Sk 81 'channel electricity'
+Sk 76 'ice beam'
+Sk 51 'electrical charge'
+Sk 94 'dagger'
+Sk 100 'staff'
+Sk 61 'riding'
+Sk 93 'dodge'
+Sk 96 'swimming'
+Sk 76 'throwing'
+Sk 86 'butcher'
+Sk 100 'meditation'
+Sk 1 'sneak'
+Sk 96 'fishing'
+Sk 86 'brew'
+Sk 81 'scribe'
+Sk 91 'scrolls'
+Sk 100 'staves'
+Sk 86 'wands'
+Sk 91 'floating letters'
+Affc 'armor'   0  76  22 -10  17          0 0 ''
+Affc 'invisibility'   0  76  83   0   0          2 0 ''
+Affc 'shield'   0  73  50 -10  17          0 0 ''
+Affc 'stone skin'   0  65  23 -15  17          0 0 ''
+Affc 'detect invis'   0  66  23   0   0          8 0 ''
+Affc 'giant strength'   0  59  24   2   1          0 0 ''
+End
+
+#O
+Vnum 12219
+Enchanted
+Nest 0
+ExF 0 83886145
+Wear 5
+Lev  33
+Cost 5000
+Affc 'reserved'   1  30  -1   2   1          0 0 ''
+Affc 'enchant armor'   1  72  -1  -5  17          0 0 ''
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 27012
+Nest 0
+ExF 0 25952579
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7044
+Nest 0
+ExF 0 8388611
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 27012
+Nest 0
+ExF 0 25952579
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7064
+Nest 0
+ExF 0 3
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Name stained glass crystal decanter water~
+Wear -1
+Cost 320
+Vlues  110 110 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 16320
+Nest 0
+ExF 0 8650752
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 4303
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 25623
+Nest 0
+Name key room~
+ShD  key to Eanix's room~
+Desc A metal key to Eanix's room is here.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12936
+Nest 0
+ExF 0 8650755
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 7071
+Nest 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3688
+Nest 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 8730
+Nest 0
+Wear 0
+Cost 1500
+End
+
+#O
+Vnum 4088
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4145
+Nest 0
+Wear -1
+Cost 1001
+End
+
+#O
+Vnum 4145
+Nest 0
+Wear -1
+Cost 1001
+End
+
+#O
+Vnum 4145
+Nest 0
+Wear -1
+Cost 1001
+End
+
+#O
+Vnum 4145
+Nest 0
+Wear -1
+Cost 1001
+End
+
+#O
+Vnum 27018
+Nest 0
+ExF 0 25559362
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 11401
+Enchanted
+Nest 0
+ExF 0 8650819
+Wear 8
+Lev  36
+Cost 0
+Affc 'reserved'   1  35  -1   1   1          0 0 ''
+Affc 'reserved'   1  35  -1   1   2          0 0 ''
+Affc 'enchant armor'   1  70  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 7075
+Nest 0
+Wear 13
+Cost 920
+End
+
+#O
+Vnum 12924
+Enchanted
+Nest 0
+ExF 0 65
+Wear 7
+Lev  16
+Cost 23
+Affc 'enchant armor'   1  72  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 21063
+Nest 0
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21052
+Enchanted
+Nest 0
+ExF 0 262737
+Wear 4
+Lev  21
+Cost 100
+Affc 'enchant armor'   0  72  -1  -2  17          0 0 ''
+Affc 'reserved'   1  19  -1   1   2          0 0 ''
+End
+
+#O
+Vnum 27011
+Nest 0
+ExF 0 25559139
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 27011
+Nest 0
+ExF 0 25559139
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 16325
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 27001
+Nest 1
+Wear -1
+Cost 35000
+End
+
+#O
+Vnum 5617
+Nest 1
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 1
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4408
+Nest 1
+Wear -1
+Cost 0
+ExDe papermsg~ ~
+End
+
+#O
+Vnum 4408
+Nest 1
+Wear -1
+Cost 0
+ExDe papermsg~ ~
+End
+
+#O
+Vnum 4408
+Nest 1
+Wear -1
+Cost 0
+ExDe papermsg~ ~
+End
+
+#O
+Vnum 4408
+Nest 1
+Wear -1
+Cost 0
+ExDe papermsg~ ~
+End
+
+#O
+Vnum 4408
+Nest 1
+Wear -1
+Cost 0
+ExDe papermsg~ ~
+End
+
+#O
+Vnum 4408
+Nest 1
+Wear -1
+Cost 0
+ExDe papermsg~ ~
+End
+
+#O
+Vnum 21077
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 4518
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 25623
+Nest 1
+Name key room~
+ShD  key to Eanix's room~
+Desc A metal key to Eanix's room is here.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21077
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 16309
+Enchanted
+Nest 1
+ExF 0 64
+Wear -1
+Lev  79
+Cost 0
+Affc 'enchant armor'   1  72  -1  -1  17          0 0 ''
+End
+
+#O
+Vnum 4867
+Nest 1
+ExF 0 8388609
+Wear -1
+Cost 0
+Vlues  0 0 7987 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 7905
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 4410
+Nest 1
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 1
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3697
+Nest 1
+ExF 0 8388608
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4408
+Nest 1
+Wear -1
+Cost 0
+ExDe papermsg~ ~
+End
+
+#O
+Vnum 27011
+Nest 1
+ExF 0 25559139
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7262
+Nest 0
+Wear 2
+Cost 1600
+End
+
+#O
+Vnum 7262
+Nest 0
+Wear 1
+Cost 1600
+End
+
+#O
+Vnum 4145
+Nest 0
+Wear -1
+Cost 1001
+End
+
+#O
+Vnum 4161
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4524
+Nest 0
+Wear -1
+Cost 4800
+End
+
+#O
+Vnum 7928
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 4156
+Nest 0
+Wear -1
+Cost 410
+End
+
+#O
+Vnum 20956
+Nest 0
+ExF 0 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21063
+Nest 0
+ExF 0 8650753
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12936
+Nest 0
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 4106
+Nest 0
+Name vial crystal cure blindness~
+ShD  a vial of cure blindness~
+ExF 0 8650752
+Wear -1
+Lev  30
+Cost 0
+Vlues  28 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'cure blindness'
+End
+
+#RoomRLE   2 1 97 1 79 1 5 1 36 1 68 2 1 1 7 1 16 11 3 1 176 10 3 3 1 9 24 3 37 12 2 1 1 1 13 1 9 3 21 11 1 3 120 14 2 1 2 1 2 16 1 5 107 14 1 1 1 4 1 6 2 3 2 1 4 2 3 1 4 3 2 2 1 1 1 3 1 1 13 1 470 27 1 2 4 11 1 7 1 4 1 5 1 9 3 16 707 16 1 2 1 3 2 22 266 1 11 1 11 1 11 1 11 1 4 1 6 1 3 2 6 1 714 13 3 11 1 7 2 6 65 7 13 1 8 6 8 3 11 2 13 1 13 1 13 1 13 1 30 1 79 1 266 12 7 5 2 19 1 55 1 30 1 21 1 4 1 4 2 10 1 2 2 3 1 6 1 2 6 2 3 1 6 2 3 10 18 10 75 1 70 1 2 2 13 2 7 1 4 1 19 1 16 2 390 8 1 10 6 1 2 1 1 4 1 9 1 4 1 1 1 3 2 5 2 4 2 1 9 3 78 51 7 6 13 13 1 5 2 2 29 2 347 1 2 1 6 3 2 1 5 5 1 4 1 30 1 14 1 9 1 1 12 4 2 1 3 5 1 2 1 2 3 2 1 1 1 2 4 1 5 1 1 7 5 4 7 1 3 4 2 1 2 1 4 2 1 9 15 1 456 6 1 6 8 11 1 1 2 3 2 3 4 1 5 1 1 1 2 1 1 1 1 1 11 9 9 1 2 1 5 2 11 4 6 4 7 4 7 4 6 1 2 2 5 1 2 2 5 1 2 2 2 9 1 11 1 1 874 54 407 2 3 1 9 1 12 2 12 2 5 1 7 1 5 1 7 1 5 1 7 1 4 3 6 1 89 17 1 1 2 3 1 40 736 2 1 2 1 4 2042 1 118 1 11 1 9 3 6 4 6 4 441 1 1 2 5 2 1 2 14 2 120 8 1 13 1 1 1 11 5 4 40 6 1 19 6 6 581 4 1 2 19 1 1 4 472 1 198 1 1 7 1 1 2 2 3 1 1 3 1 2 2 1 1 3 1 2 2 1 1 3 1 2 2 1 1 6 2 1 1 6 2 1 1 9 1 6 4 6 4 9 1 9 1 9 1 21 1 9 1 9 1 29 1 20 1 8 2 16 6 2 5 3 4 4 4 4 1 7 1 7 1 1 2 12 2 1 1 4 1 2 1 21 168 1 4 1 4 1 4 1 4 1 3 11 2 11 1 28 60 20 414 8 1 2 1 3 1 9 1 6 1 17 1 8 1 6 3 3 1 1 2 1 1 17 4 40 16 2 338 5 2 2 1 1 1 4 1791 9 3 5 4 15 2 13 1 7 1 2 1 7 429 50 2 4 12 3 5 20 5 1 7 4 1 8 2 4 4 2 2 2 1 3 1 4 1 4 8 2 6 2 1 8 11 1 10 2 2 2 1 16 5 1 1 13 1 3 1 5 3 4 8 1 9 12 2 12 8 4 7 2 7 32 11 1 10 22 1 1 6 4 7 1 10 4 1 1 10 1 1 3 9 1 1 2 1 1 7 2 1 1 16 4 12 21 9 2 9 1 11 2 6 4 2 6 4 3 6 6 7 11 4 1 4 1 5 1 2 4 9 4 13 3 37 1 10 1 1 1 45 1 9 4 31 2 10 1 672 1 14 1 11 4 85 1 152 3 327 2 2 5 1 1 1 2 3 1 11 4 1 28 22 22 2 2 2 4 1 3 2 1 4 6 5 8 3 6 8 8 1 14 1 5 1 2 43 4 6 2 1205 1 3 1 2 3 4 5 9 2 6 1 13 4 28 3 4 1 10 6 1 2 481 52 3 8 38 4 4 18 1 1 1 209 1 3 4 12 2 2 4 9 1 1 4 1 1 2 1 12 3 6 3 9 2 4 6 1 1 2 1 1 17 1 1 1 18 1 1 3 10 1 1 1 555 2 1 2 1 2 5 1 2 1 1 1 4 2 2 2 1 1 1 6 1 1 2 2 1 1 6 1 7 1 3 5 1 2 9 5 4 3 4 1 5 3 3 4 1 1 2 4 10 1 3 1 864 1 2007 1 6 1 18 2 15 1 1 2 1 2 5 1 4 2 2 1 17 3 16 2 4 2 16 1 1 1 33 1 3 1 21 1 6 2 3 4 14 1 5 1 10 1 63 1 2 2 47 1 3 1 5 1 4 1 15 2 1 2 13 1 3 1 5 2 1 1 10 1 12 1 11 1 2 1 82 1 9 1 12 1 9 1 1 1 44 1 4 1 129 1 3 1 3 1 10 3 24 1 8 1 10 2 1 3 9 1 13 1 9 2 7 1 4 1 15 1 13 1 14 1 3 2 3 1 1 1 4 1 8 1 16 1 140 1 19 1 26 1 7 2 1 2 1 1 67 1 14 1 87 1 4 1 1 1 37 1 26 2 4 2 6 2 9 2 1 3 12 1 13 1 1 1 9 1 3 1 18 1 1 3 2 1 2 1 2 1 3 1 3 2 3 2 2 2 2 1 13 2 8 1 6 1 16 1 3 1 1 1 412 68 143 1 792 22 3 2 3 2 3 3 1 3 1 5 31 1 1 1 148 1 11 2 4 1 9 1 71 1 12 1 4 1 9 1 67 5 12 1 4 1 9 1 67 1 16 1 4 1 9 1 67 1 16 1 3 2 9 1 46 2 19 3 14 1 3 1 10 1 46 2 21 2 13 1 3 2 9 1 42 5 23 3 10 3 3 1 9 1 42 1 28 2 10 1 1 1 3 1 9 1 42 1 28 2 10 5 1 1 9 1 42 1 29 1 11 1 2 3 9 1 41 3 28 2 9 2 2 2 10 1 41 3 29 2 8 1 3 2 10 1 42 1 31 2 7 1 3 2 10 1 41 2 32 1 7 1 3 2 10 1 41 1 33 1 7 2 2 2 10 1 41 2 32 1 8 2 1 1 10 2 42 1 32 1 9 3 6 5 43 1 31 2 9 1 1 1 54 1 31 2 9 1 1 1 54 1 32 2 8 1 1 1 53 2 32 2 8 3 49 5 30 5 9 16 24 11 34 4 6 29 11 6 43 14 1 4 13 10 8 2 49 6 8 4 19 13 50 7 2 9 87 19 88 6 1 5 85 5 1 5 88 2 3 8 87 2 3 3 1 1 2 1 87 10 2 5 88 5 2 1 3 2 87 5 2 1 4 4 85 14 86 3 1 3 93 1 1 1 1 1 1 1 92 8 1 3 88 15 48 1 1 1 1 1 3 5 23 16 47 2 1 1 1 1 3 6 22 8 58 1 1 1 1 1 1 7 1 1 19 1 3 1 60 1 1 1 3 1 1 2 2 4 20 1 1 2 62 1 11 3 19 1 1 2 62 1 13 2 18 1 1 1 63 1 13 2 19 4 61 1 14 2 5 3 11 2 62 1 14 11 9 3 62 1 14 13 8 1 63 1 14 3 2 6 3 2 3 1 1 1 63 1 14 3 2 10 6 2 77 3 2 6 3 1 7 1 77 3 2 6 3 1 7 1 77 3 2 6 3 1 6 2 77 11 10 1 78 3 2 6 10 2 78 10 11 1 78 1 3 1 2 1 13 1 45 1 8 1 27 1 16 1 99 2 10 1 88 1 9 2 88 1 9 2 38 1 48 2 10 1 87 3 99 1 99 1 99 2 99 2 99 2 99 2 99 1 94 4 1 2 94 3 1 2 96 4 96 2 98 2 99 3 99 1 75 1 23 1 76 1 22 2 99 5 99 1 99 1 99 1 5 1 93 1 5 1 43 2 3 4 5 3 33 2 4 1 40 9 2 8 1 1 3 2 2 1 25 1 4 1 31 11 21 1 1 1 2 2 24 1 4 1 28 3 7 2 25 1 3 7 18 1 4 1 28 1 36 1 3 3 3 1 18 1 4 1 25 4 36 1 9 1 18 1 4 1 13 13 39 1 9 1 17 2 4 1 13 1 2 1 48 1 9 2 4 14 4 1 11 3 51 1 9 2 1 4 8 5 8 9 53 1 10 3 11 6 5 3 61 1 8 5 14 1 1 2 3 2 63 1 9 4 14 1 2 5 64 1 9 8 10 1 71 1 9 3 3 3 9 1 27371 -1
+
+#END

@@ -1,0 +1,19 @@
+* File: gillian.scr
+* Mob: Gillian(20997)
+
+#TRIGGER enter
+Type 10
+Sc 
+  say Hello, Have a seat and a keg of ale!
+  halt once~
+End
+
+#TRIGGER slayer
+Type 99
+Sc
+   slay %slayer-from%
+   halt once~
+End
+
+#END
+

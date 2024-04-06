@@ -1,0 +1,661 @@
+#PLAYER
+Name Scrumptious~
+Id   893191082
+LogF 944739571
+LogO 944739571
+Vers 6
+Desc You look upon a face in constant motion.  One moment she is
+young, another she is a hag, another she is a woman of middle
+years.  She is Scrumptious Apples, mage of fleeting years.
+~
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race elf~
+Sex  2
+Cla  0
+Levl 90
+PBKill 1
+MBKill 34
+PHKill 1
+MHKill 1078
+Hero 0
+Depty 0
+Sec  0
+Plyd 1266557
+Bank_Gold 910
+Bank_Silv 30883
+Email onoola@bc.sympatico.ca~
+Host srry01m04-59.bctel.ca~
+Not  930266001 907467150 0 921448831 898299694 0 0
+Scro 22
+Room 11566
+HMV  360 360 1458 1458 505 505
+Hand 4
+Gold 84
+Silv 9
+Exp  360048
+Act  DGHQ
+AfBy DFJ
+Comm DEFGNOQRS
+Pos  8
+Prac 4
+Trai 5
+Save  -3
+Alig  1000
+Hit   9
+Dam   12
+ACs -71 -64 -81 -23
+Wimp  150
+Attr 5 24 18 16 15 18
+AMod 5 1 0 3 1 7
+Pass SciP.18w6.Lug~
+Bcry  cry brandishes her trusty boom and says "SCAT!"~
+Layhands 0
+Exorcise 0
+Titl  the crone of Spone.~
+Pnts 70
+TSex 2
+LLev 312
+Loner 0
+HMVP 325 1430 485
+Cnd  -16 -16 2 9
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Alias gate cast gate~
+Alias dhid cast 'detect hidden'~
+Alias dinvis cast 'detect invis'~
+Alias res or all rescue scrumptious~
+Alias invis cast invis~
+Alias charm cast charm~
+Alias food cast 'create food'~
+Alias ident cast identify~
+Alias locate cast locate~
+Alias wea cast 'enchant weapon'~
+Alias shield cast shield~
+Alias armor cast armor~
+Alias fire cast fireshield~
+Alias stone cast stone~
+Alias giant cast giant~
+Alias faer cast 'faerie fire'~
+Alias spring cast 'create spring~
+Alias fog cast 'faerie fog'~
+Alias arm cast 'enchant armor'~
+Sk 93 'armor'
+Sk 100 'acid blast'
+Sk 92 'fireshield'
+Sk 84 'blindness'
+Sk 78 'web'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 77 'cancellation'
+Sk 75 'chain lightning'
+Sk 1 'change sex'
+Sk 100 'charm person'
+Sk 58 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'control weather'
+Sk 100 'create food'
+Sk 1 'create rose'
+Sk 96 'create spring'
+Sk 56 'create water'
+Sk 93 'curse'
+Sk 96 'detect hidden'
+Sk 92 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 75 'firestorm'
+Sk 84 'enchant armor'
+Sk 89 'enchant weapon'
+Sk 1 'energy drain'
+Sk 90 'faerie fire'
+Sk 75 'faerie fog'
+Sk 83 'fireball'
+Sk 75 'fireproof'
+Sk 70 'fly'
+Sk 1 'floating disc'
+Sk 89 'giant strength'
+Sk 89 'haste'
+Sk 75 'heat metal'
+Sk 100 'identify'
+Sk 75 'infravision'
+Sk 100 'invisibility'
+Sk 76 'mirror'
+Sk 71 'lightning bolt'
+Sk 99 'locate object'
+Sk 80 'magic missile'
+Sk 82 'mass invis'
+Sk 79 'pass door'
+Sk 89 'poison'
+Sk 75 'portal'
+Sk 95 'summon'
+Sk 100 'gate'
+Sk 56 'recharge'
+Sk 64 'refresh'
+Sk 94 'shield'
+Sk 61 'shocking grasp'
+Sk 64 'sleep'
+Sk 78 'slow'
+Sk 90 'stone skin'
+Sk 79 'teleport'
+Sk 1 'ventriloquate'
+Sk 82 'weaken'
+Sk 79 'aqua breathe'
+Sk 1 'channel electricity'
+Sk 76 'ice beam'
+Sk 1 'electrical charge'
+Sk 98 'staff'
+Sk 100 'meditation'
+Sk 1 'sneak'
+Sk 59 'brew'
+Sk 67 'scribe'
+Sk 63 'scrolls'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'creation'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Gr 'weather'
+Gr 'elemental'
+Affc 'detect hidden'   0  78  28   0   0         32 0 ''
+Affc 'detect invis'   0  81  28   0   0          8 0 ''
+Affc 'shield'   0  81  36 -20  17          0 0 ''
+Affc 'giant strength'   0  86  64   4   1          0 0 ''
+End
+
+#O
+Vnum 5371
+Nest 0
+ExtF 8650816
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 18983
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 5319
+Nest 0
+Cond 0
+Wear 6
+Cost 14965
+End
+
+#O
+Vnum 3696
+Nest 0
+Cond 0
+Wear -1
+Cost 670
+End
+
+#O
+Vnum 7713
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 8725
+Nest 0
+Name ring madness immstring~
+ShD  `iKryndor's Ring of Madness``~
+Desc `iKryndor's Ring of Madness howls at your presence...``~
+Cond 0
+Wear 1
+Cost 0
+ExDe sandy ring~ The ring is small, smooth, sandy-colored and unremarkable, save that
+it gives off a continuous low humming noise that tickles your fingertips.
+~
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 12215
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+ExDe belt~ A golden belt hangs from a peg.
+~
+End
+
+#O
+Vnum 18957
+Nest 0
+Cond 0
+Wear 5
+Cost 50
+End
+
+#O
+Vnum 722
+Nest 0
+Cond 0
+Wear 0
+Cost 12000
+End
+
+#O
+Vnum 3196
+Nest 0
+Cond 0
+Wear 18
+Cost 100
+End
+
+#O
+Vnum 115
+Nest 0
+ShD  `hElegant White Gloves``~
+Desc `hA pair of prissy looking white gloves has been left here.``~
+Cond 0
+Wear 9
+Cost 763
+ExDe gloves~ These gloves have been made from the finest and smoothest satin material,
+a beautiful feeling on the hands.  They do not look like they were made for
+very difficult labor, they are showpieces to be sure.  
+~
+End
+
+#O
+Vnum 3192
+Enchanted
+Nest 0
+ShD  `aA `kGold-Handled `aBullwhip``~
+Desc `hA bullwhip with a `kgold `hhandle is here.``~
+ExtF 67
+Cond 0
+Wear 16
+Lev  74
+Cost 400
+Affc 'enchant weapon'   1  88  -1   5  19          0 0 ''
+Affc 'enchant weapon'   0  88  -1   5  18          0 0 ''
+End
+
+#O
+Vnum 7071
+Enchanted
+Nest 0
+ShD  `hA Stout, Thunderous White Cloak``~
+Desc `hA cape billows here in the breeze.``~
+ExtF 65
+Cond 0
+Wear 4
+Lev  61
+Cost 0
+Affc 'reserved'   1  60  -1   1  19          0 0 ''
+Affc 'reserved'   1  60  -1   1   2          0 0 ''
+Affc 'enchant armor'   1  88  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 7071
+Enchanted
+Nest 0
+ShD  `hA Stout, Thunderous White Cloak``~
+Desc `hA cape billows here in the breeze.``~
+ExtF 65
+Cond 0
+Wear 3
+Lev  61
+Cost 0
+Affc 'reserved'   1  60  -1   1  19          0 0 ''
+Affc 'reserved'   1  60  -1   1   2          0 0 ''
+Affc 'enchant armor'   1  88  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 7265
+Nest 0
+ShD  `aThe `bS`ep`fi`er`fi`bt `aof `fC`bh`ea`bo`fs``~
+Desc `aA strange stone sits here.``~
+ExtF 3
+Cond 0
+Wear 19
+Cost 1500
+End
+
+#O
+Vnum 16325
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of charm person and charm person~
+Cond 0
+Wear -1
+Cost 980
+Val  37 19 19 -1 -1 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 174
+Nest 1
+Cond 0
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of detect invis~
+Cond 0
+Wear -1
+Lev  86
+Cost 750
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of detect invis~
+Cond 0
+Wear -1
+Lev  86
+Cost 750
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of detect invis~
+Cond 0
+Wear -1
+Lev  86
+Cost 750
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 10377
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  55
+Cost 7447
+Affc 'enchant weapon'   1  83  -1   5  19          0 0 ''
+Affc 'enchant weapon'   0  83  -1   5  18          0 0 ''
+End
+
+#O
+Vnum 5346
+Nest 1
+Cond 0
+Wear -1
+Cost 512
+End
+
+#O
+Vnum 5346
+Nest 1
+Cond 0
+Wear -1
+Cost 512
+End
+
+#O
+Vnum 5346
+Nest 1
+Cond 0
+Wear -1
+Cost 512
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 721
+Nest 1
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 821
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4140
+Nest 1
+Cond 0
+Wear -1
+Cost 383
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5346
+Nest 1
+Cond 0
+Wear -1
+Cost 512
+End
+
+#O
+Vnum 5371
+Nest 1
+Cond 0
+Wear -1
+Cost 566
+End
+
+#O
+Vnum 114
+Nest 1
+ShD  `kA `cFo`kre`cst Green `kCl`co`kak``~
+Desc `hA deep `cgreen `hcloak embroidered with `kgold `hhas been left here.``~
+Cond 0
+Wear -1
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 115
+Nest 1
+ShD  `hElegant White Gloves``~
+Desc `hA pair of prissy looking white gloves has been left here.``~
+Cond 0
+Wear -1
+Cost 763
+ExDe gloves~ These gloves have been made from the finest and smoothest satin material,
+a beautiful feeling on the hands.  They do not look like they were made for
+very difficult labor, they are showpieces to be sure.  
+~
+End
+
+#O
+Vnum 4097
+Nest 1
+Cond 0
+Wear -1
+Cost 21000
+End
+
+#O
+Vnum 5342
+Nest 1
+Cond 0
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 21072
+Nest 0
+Cond 0
+Wear 2
+Cost 12
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 91
+Cost 0
+Val  45 90 240 0 0 0 0
+End
+
+#O
+Vnum 5631
+Nest 0
+Cond 0
+Wear -1
+Cost 16
+End
+
+#END

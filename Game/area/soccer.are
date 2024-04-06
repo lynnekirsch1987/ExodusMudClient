@@ -1,0 +1,430 @@
+#AREA
+ 6~
+soccer.are~
+`kPlaying Field``~
+{92 100} Possum  `kPlaying Field``~
+~
+27200 27215
+0 0 0
+0 0
+~
+#MOBILES
+#27200
+referee~
+The referee~
+The referee is here to officiate the game.
+~
+`hThe referee is a fit-looking man dressed in black and holding a whistle.  His
+job is to organize the teams and start the match.  He can respond to these
+commands if you speak them out loud to him:
+`h
+`kroster`h - Shows you who is currently signed up and for which team.
+`ksign me up`h - This will add you to the next available team slot.
+`h
+`hIf you mess up your teams, then wait two ticks and he will cancel the roster.
+~
+human~
+0 0 0 0
+ABI DFZe 0 0
+100 0 1d1+9999 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 ABCR 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+4
+referee.voc~
+referee.scr~
+#27201
+ball~
+The ball~
+A living ball is here waiting to be kicked around.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+1 1 1d1+9999 0d0+0 0d0+0 none
+10 10 10 999 10
+0 -1 0 ABC 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium hard leather~
+0 0 0 100
+4
+~
+ball.scr~
+#0
+
+#OBJECTS
+#27200
+mud puddle~
+`da muddy puddle``~
+`dA muddy puddle lies in the middle of the playing field.``~
+water~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 AB 0 0
+0
+0
+0 0 0 P
+#27201
+portal~
+the portal~
+A portal back to town is here.~
+ethereal~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G FGHIJKL A
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#27200
+0 0
+~
+~
+~
+0 512 0
+`oIn the hands of the Referee``~
+Get out of here!  
+~
+0 CHN 0
+0
+~
+I 0 S
+#27201
+0 0
+~
+~
+~
+0 512 0
+`lBlue Team Goal``~
+~
+0 HNX 0
+0
+~
+I 0 D1
+~
+~
+0 0 27203
+S
+#27202
+0 0
+~
+~
+~
+0 512 0
+`lBlue Team Backfield``~
+~
+0 HNX 0
+0
+~
+I 0 D1
+~
+~
+0 0 27205
+D2
+~
+~
+0 0 27203
+S
+#27203
+0 0
+~
+~
+~
+0 512 0
+`lBlue Team Backfield``~
+~
+0 HNX 0
+0
+~
+I 0 D0
+~
+~
+0 0 27202
+D1
+~
+~
+0 0 27206
+D2
+~
+~
+0 0 27204
+D3
+~
+~
+0 0 27201
+S
+#27204
+0 0
+~
+~
+~
+0 512 0
+`lBlue Team Backfield``~
+~
+0 HNX 0
+0
+~
+I 0 D0
+~
+~
+0 0 27203
+D1
+~
+~
+0 0 27207
+S
+#27205
+0 0
+~
+~
+~
+0 512 0
+`kMidfield``~
+~
+0 HNX 0
+0
+~
+I 0 D1
+~
+~
+0 0 27208
+D2
+~
+~
+0 0 27206
+D3
+~
+~
+0 0 27202
+S
+#27206
+0 0
+~
+~
+~
+0 512 0
+`kCenter of the Playing Field``~
+~
+0 HNX 0
+0
+~
+I 0 D0
+~
+~
+0 0 27205
+D1
+~
+~
+0 0 27209
+D2
+~
+~
+0 0 27207
+D3
+~
+~
+0 0 27203
+S
+#27207
+0 0
+~
+~
+~
+0 512 0
+`kMidfield``~
+~
+0 HNX 0
+0
+~
+I 0 D0
+~
+~
+0 0 27206
+D1
+~
+~
+0 0 27210
+D3
+~
+~
+0 0 27204
+S
+#27208
+0 0
+~
+~
+~
+0 512 0
+`iRed Team Backfield``~
+~
+0 HNX 0
+0
+~
+I 0 D2
+~
+~
+0 0 27209
+D3
+~
+~
+0 0 27205
+S
+#27209
+0 0
+~
+~
+~
+0 512 0
+`iRed Team Backfield``~
+~
+0 HNX 0
+0
+~
+I 0 D0
+~
+~
+0 0 27208
+D1
+~
+~
+0 0 27211
+D2
+~
+~
+0 0 27210
+D3
+~
+~
+0 0 27206
+S
+#27210
+0 0
+~
+~
+~
+0 512 0
+`iRed Team Backfield``~
+~
+0 HNX 0
+0
+~
+I 0 D0
+~
+~
+0 0 27209
+D3
+~
+~
+0 0 27207
+S
+#27211
+0 0
+~
+~
+~
+0 512 0
+`iRed Team Goal``~
+~
+0 HNX 0
+0
+~
+I 0 D3
+~
+~
+0 0 27209
+S
+#27212
+0 0
+~
+~
+~
+0 0 0
+Soccer Team Sign-Up Room~
+~
+0 CDSX 0
+0
+~
+I 0 D0
+~
+~
+0 0 4064
+S
+#0
+
+#RESETS
+M 0 27201   1 27200  1	* The ball
+O 0 27200   0 27206 -1	* `da muddy puddle`` at `kCenter of the Playing Field``
+O 0 27201   0 27211 -1	* The portal at `iRed Team Goal``
+M 0 27200   1 27212  1	* The referee
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#0
+#$

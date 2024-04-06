@@ -1,0 +1,28 @@
+* File: luthien.scr
+* Mob: Luthien(10870)
+
+#TRIGGER enter
+Type 10
+*
+Sc 
+mfunc %enter-from% %class% class
+if ( %class% == 2 )
+   cmd grin
+   say Welcome, %enter-from%.  What can I help you learn?
+   halt once~
+Sc
+   glare %enter-from%
+   say Your kind isn't welcome here!
+   wait 3~
+Sc
+   pecho %enter-from% Luthien pushes you through the small tunnel.
+   MOB TRANS Luthien 10870
+   echo %enter-from% comes flying out from under the tree.
+   MOB TRANS %enter-from% 10870
+   MOB TRANS Luthien 10871
+   echo Luthien pushes %enter-from% through the small tunnel.
+   halt once~
+End
+
+#END
+

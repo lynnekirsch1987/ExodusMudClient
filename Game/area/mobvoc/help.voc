@@ -1,0 +1,20 @@
+DEFAULT:>0:-:Hi there, $name!
+who|what&am&i:>0:-:You are $name, a level $level $class of the $race race.
+who|what&am&i:>0:-:You are $name, of course!
+who|what&am&i:>0:-:What? You don't even know who you are?; CMD bonk $name
+what|how&is&exodus:>0:-:Exodus is this fun MUD you are using.
+what|how&is&exodus:>0:-:Exodus is great! Fun for the whole family!
+where&am|is&i|this:>0:-:You are at $room, in $area.
+which|what&clan&i:>0:-:CMD look $name; You appear to be of $clan.
+howdy|hi|hello&guy|help|helpful:>0:-:CMD shake $name; Hello there, $name!
+what&time&is&it|the:>0:-:CMD emote peers at his pocketwatch.; It is currently $time.
+fuck|shit|whore|bitch:>0:-1:Please, watch your language!
+fuck:1:-1:SHUT IT!
+hello:<2:-:CMD growl $name; Leave me alone, I'm in a bad mood!
+how&are&you:>4:-:I'm great! Thanks for asking.
+how&are&you:3:-:Comme ci, Comme ca.
+how&are&you:2:-:I could be better.
+how&are&you:<2:-:It can't get much worse. Why don't you fuck off?;CMD slap $name
+who|what&am&i:0:-:You are a total goober, now shut up!;CMD smirk
+
+

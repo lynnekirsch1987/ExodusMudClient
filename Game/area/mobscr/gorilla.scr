@@ -1,0 +1,33 @@
+* gorilla in thesden zoo
+* mob vnum 4217
+
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   emote picks up some feces from the bottom of his cage and lobs it at you, grunting all the while.
+   halt once~
+Sc
+if ( %rndnum% == 2 ) 
+  emote scratches his head and under his arms at the same time.  You are absolutely dumbfounded by this display of talent.
+  halt once~
+Sc
+if ( %rndnum% == 3 ) 
+  emote bangs his chest and falls to the ground with a loud *THUMP*.
+  halt once~
+End
+
+#END
+
+
+
+
+
+
+
+
+
+
+

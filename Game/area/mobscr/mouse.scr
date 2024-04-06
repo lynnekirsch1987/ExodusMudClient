@@ -1,0 +1,68 @@
+* File: mouse.scr
+* Mob: Mice in Thesden (mob 4200)
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %spreadout% random 0 9
+if (%spreadout% == 0)
+* walk to Devon Square Center
+  walkto 4056
+  halt once~
+Sc
+if (%spreadout% == 1)
+* walk to Raven Square
+  walkto 4059
+  halt once~
+Sc
+if (%spreadout% == 2)
+* walk to Cathedral Square
+  walkto 4065
+  halt once~
+Sc
+if (%spreadout% == 3)
+* walk to South Farmer's Square
+  walkto 4072
+  halt once~
+Sc
+if (%spreadout% == 4)
+* walk to Grisdale Square
+  walkto 4080
+  halt once~
+Sc
+if (%spreadout% == 5)
+* walk to North Dorset Square
+  walkto 4086
+  halt once~
+Sc
+if (%spreadout% == 6)
+* walk to North Gallows Square
+  walkto 4004
+  halt once~
+Sc
+if (%spreadout% == 7)
+* walk to Elm Square
+  walkto 4096
+  halt once~
+Sc
+if (%spreadout% == 8)
+* walk to South Falstaff Square
+  walkto 4120
+  halt once~
+Sc
+if (%spreadout% == 9)
+* walk to Dock Street outside the Rusty Nail Tavern
+  walkto 4110
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+wfunc %grabtoken% random 0 99
+if (%grabtoken% < 5)
+  cmd at 1243 get token
+  halt once~
+End
+
+#END

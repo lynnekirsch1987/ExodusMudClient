@@ -1,0 +1,23 @@
+* File: mmother.scr
+* Mob: matron mother(5107)
+
+#TRIGGER nihil
+Type 2
+Sc
+mfunc %nihil-from% %name% name
+mfunc %nihil-from% %class% class
+mfunc %nihil-from% %race% race
+wfunc %testr% random 0 30
+if (%class% < 2) && (%race% == 2)
+emote glares at you, baring your very soul open for Lloth to peruse.
+~
+Sc
+if (%tester% > 28) && (%race% == 2)
+say I will burn your body to appease the goddess you will soon meet, elf!
+msign %nihil-from% 10 hit
+emote draws the life from your body as you watch in stunned shock!
+laugh~
+End
+
+#END
+

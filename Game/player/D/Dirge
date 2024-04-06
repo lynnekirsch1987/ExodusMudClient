@@ -1,0 +1,1024 @@
+#PLAYER
+Name Dirge~
+Id   975309023
+LogF 1247424771
+LogO 1247424771
+Vers 8
+Desc A man of average height stands here, dressed simply in peasant's attire.
+~
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S ~
+Race human~
+Sex  1
+Cla  6
+Cla2  -1
+Cla3  -1
+Levl 92
+PHKill 2
+MHKill 109
+Hero 0
+Depty 0
+Sec  1
+BldAll 0
+Plyd 583834
+NPlyd 0
+NAge 0
+Bank_Gold 990000
+Bank_Silv 13991
+Email adeptus@wam.umd.edu~
+Referrer ~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 0
+Race_Old -1
+Class_Old -1
+New_Style 0
+Totalxp 0
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+TotalCGL 0
+TotalCGW 0
+MPC 0
+Host PURGED-LD~
+Not  982093094 982632743 981514246 983169299 977166845 983244128 977860472 0
+Scro 22
+Room 1600
+HMV  30107 30107 30017 30017 30016 30016
+Hand 4
+Gold 9046
+Silv 4385
+Exp  686000
+Act  CDEFGNQ
+Blok -1
+Comm MOS
+Com2 A
+Wizn ACDEFLORTU
+Invi 92
+Pos  8
+Trai 9
+Save  -6
+Alig  1000
+Hit   13
+Dam   5
+ACs -205 -205 -205 -205
+Attr 25 25 25 25 25 25
+AMod 1 0 1 1 1 0
+Pass DiluqxWDC0FyY~
+Mask Roadrunner~
+Bin  A slow, sad song fills the air, mourning for what is not yet lost. As its heartbreaking tones come to an end, Dirge coalesces out of them.~
+Bout Dirge shakes his head sadly, looking beyond the physical world for a moment. A regretful hymn fills the air as he breaks apart into sound and vanishes.~
+Win `kQ`ouest`kM`oaster~
+Bcry  mourns for the loss that is about to come ...~
+Plan  We put thirty spokes together and call it a wheel;
+But it is on the space where there is nothing that
+the usefulness of the wheel depends.
+We turn clay to make a vessel;
+But it is on the space where there is nothing that
+the usefulness of the vessel depends.
+We pierce doors and windows to make a house;
+And it is on those places where there is nothing
+that the usefulness of the house depends.
+Therefore just as we take advantage of what is, we
+should recognize the usefulness of what is not.
+ - Lao Tzu, _Tao te ching_
+``
+Immortality defines boredom.
+ - Dirge
+~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  the Eternal Lament~
+RMsg A giant, cheerful bear trundles over and drools on you. Somehow, this helps.~
+Pnts 90
+TSex 1
+LLev 134
+Loner 0
+HMVP 30032 30017 30016
+Cd  -4 12 24 24 0
+Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias p tell ladywinter~
+Alias dataon prompt %r (%R): %z~
+Alias home goto 1222~
+Alias dsc goto 4056~
+Alias bear1 string mob dragon name slobbering death bear dirstring~
+Alias bear2 string mob bear short Slobbering Death~
+Alias bear3 string mob bear long A gigantic brown bear snuffles about, looking for a place to nap.~
+Alias bear4 string mob bear desc A gigantic brown bear sits here, perhaps twenty feet long from nose to tail.  Luckily, it doesn't seem to notice you as it snuffs and paws the ground in search of food.  Or maybe just a nice place to nap.  ~
+Alias town goto 4134~
+Alias lem load mob 5499~
+Alias oak load obj 1281~
+Sk 100 'reserved'
+Sk 100 'armor'
+Sk 100 'acid blast'
+Sk 100 'fireshield'
+Sk 100 'blindness'
+Sk 100 'web'
+Sk 100 'burning hands'
+Sk 100 'bee sting'
+Sk 100 'bee swarm'
+Sk 100 'call lightning'
+Sk 100 'cancellation'
+Sk 100 'purification'
+Sk 100 'halo of seraphs'
+Sk 100 'illumination'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'chain lightning'
+Sk 100 'change sex'
+Sk 100 'charm person'
+Sk 100 'chill touch'
+Sk 100 'colour spray'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'cure blindness'
+Sk 100 'heroes feast'
+Sk 100 'cure critical'
+Sk 100 'herbal lore'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'edification'
+Sk 100 'penance'
+Sk 100 'deconsecrate'
+Sk 100 'detect good'
+Sk 100 'true sight'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'firestorm'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'energy drain'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'fireball'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 100 'fly'
+Sk 100 'floating disc'
+Sk 100 'giant strength'
+Sk 100 'harm'
+Sk 100 'haste'
+Sk 100 'heal'
+Sk 100 'heat metal'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'mirror'
+Sk 100 'know alignment'
+Sk 100 'lightning bolt'
+Sk 100 'locate object'
+Sk 100 'magic missile'
+Sk 100 'mass healing'
+Sk 100 'mass invis'
+Sk 100 'pass door'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'portal'
+Sk 100 'summon'
+Sk 100 'gate'
+Sk 100 'nexus'
+Sk 100 'evocation'
+Sk 100 'heavenly cloak'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'soul fire'
+Sk 100 'hallowed vision'
+Sk 100 'celestial sight'
+Sk 100 'sustenance'
+Sk 100 'holy water'
+Sk 100 'revelation'
+Sk 100 'levitation'
+Sk 100 'ray of truth'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'renewal'
+Sk 100 'shield'
+Sk 100 'shocking grasp'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'teleport'
+Sk 100 'ventriloquate'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'acid breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 100 'aqua breathe'
+Sk 100 'channel electricity'
+Sk 100 'ice beam'
+Sk 100 'electrical charge'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'Ballad of Ole Rip'
+Sk 100 'Dance of Shadows'
+Sk 100 'Quiet Mountain Lake'
+Sk 100 'The Pipers Melody'
+Sk 100 'Ballad of the Cantankerous Woodsman'
+Sk 100 'Maelstrom of Nyvenban'
+Sk 100 'Kiss of First Love'
+Sk 100 'Song of Elyteness'
+Sk 100 'Despair of Orpheus'
+Sk 100 'To the Four Corners'
+Sk 100 'Path of the Nomad'
+Sk 100 'Falkentynes Fury'
+Sk 100 'Walking on Clouds'
+Sk 100 'Good Vibrations'
+Sk 100 'bark skin'
+Sk 100 'Eyes of the Owl'
+Sk 100 'sanctuary'
+Sk 100 'damnation'
+Sk 100 'divine protection'
+Sk 100 'haven'
+Sk 100 'holy sphere'
+Sk 100 'mass levitation'
+Sk 100 'calm'
+Sk 100 'frenzy'
+Sk 100 'holy word'
+Sk 100 'bless'
+Sk 100 'conservancy'
+Sk 100 'remove curse'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'staff'
+Sk 100 'sword'
+Sk 100 'mask'
+Sk 100 'uppercut'
+Sk 100 'riding'
+Sk 100 'elusiveness'
+Sk 100 'retreat'
+Sk 100 'tame'
+Sk 100 'kai'
+Sk 100 'backstab'
+Sk 100 'circle'
+Sk 100 'dual wield'
+Sk 100 'bash'
+Sk 100 'charge'
+Sk 100 'berserk'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'fisticuffery'
+Sk 100 'enhanced damage'
+Sk 100 'swimming'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'sweep'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'leadership'
+Sk 100 'assassinate'
+Sk 100 'door bash'
+Sk 100 'throwing'
+Sk 100 'layhands'
+Sk 100 'exorcism'
+Sk 100 'instruments'
+Sk 100 'composition'
+Sk 100 'conceal'
+Sk 100 'butcher'
+Sk 100 'endurance'
+Sk 100 'redirect'
+Sk 100 'trample'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fast healing'
+Sk 100 'blindfighting'
+Sk 100 'haggle'
+Sk 100 'influence'
+Sk 100 'hide'
+Sk 100 'camouflage'
+Sk 100 'stalk'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'track'
+Sk 100 'fishing'
+Sk 100 'camping'
+Sk 100 'foraging'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'steal'
+Sk 100 'palm'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'entangle'
+Sk 100 'wall of thorns'
+Sk 100 'call mount'
+End
+
+#O
+Vnum 1208
+Nest 0
+Name belt dirstring~
+ShD  `da rope belt with a simple pouch~
+Desc This coarse rope has a pouch tied onto it.~
+ExF 0 17039360
+WearL 2048
+Cost 0
+End
+
+#O
+Vnum 174
+Nest 1
+Cond 100
+WearL -1
+Cost 45
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 5123
+Nest 1
+Name bazooka dirstring~
+ShD  a bazooka~
+Desc A long metal tube with odd protrusions lies here.~
+ExF 0 0
+WearL -1
+Cost 1500
+Vlues  50 3 3 130 0 0 0 0 0 0 0 0 0
+Spell 3 'high explosive'
+End
+
+#O
+Vnum 4106
+Nest 1
+WearL -1
+Cost 750
+End
+
+#O
+Vnum 4106
+Nest 1
+WearL -1
+Cost 750
+End
+
+#O
+Vnum 5575
+Nest 1
+WearL -1
+Cost 100
+Spell 1 'cure light'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of sanctuary~
+WearL -1
+Lev  80
+Cost 450
+Vlues  148 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'sanctuary'
+End
+
+#O
+Vnum 4203
+Nest 1
+Name pen chocobo fuzzy immstring~
+ShD  `bA Fuzzy `kChocobo Beak `bPen``~
+Desc `bA Fuzzy `kChocobo Beak `bPen lies on the floor here.``~
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4044
+Nest 1
+WearL -1
+Cost 9980
+End
+
+#O
+Vnum 5123
+Nest 1
+Name flamethrower dirstring~
+ShD  `ba `ired-hot`b flamethrower``~
+Desc A burning wand floats in mid-air here.~
+ExF 0 0
+Wt   10
+WearL -1
+Cost 1500
+Vlues  50 10 6 3 0 0 0 0 0 0 0 0 0
+Spell 3 'fireshield'
+End
+
+#O
+Vnum 7032
+Nest 1
+Name shenlon fury dirstring questitem~
+ShD  `aShenlon's `bFury!``~
+Desc `bShenlon's Fury lies here, unreachable.~
+ExF 0 0
+Wt   100
+WearL -1
+Cost 39402
+Vlues  1 20 20 18 24 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 5123
+Nest 1
+Name bazooka dirstring~
+ShD  a bazooka~
+Desc A long metal tube with odd protrusions lies here.~
+ExF 0 0
+Wt   10
+WearL -1
+Cost 1500
+Vlues  50 3 2 130 0 0 0 0 0 0 0 0 0
+Spell 3 'high explosive'
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 626
+Nest 1
+Name Sunblade dirstring~
+ShD  `oThe`` `kSun`oBlade``~
+Desc `oA sword lies here glowing like the sun.``~
+WearL -1
+Cost 0
+Vlues  6 8 9 0 8 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 1292
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 20966
+Nest 0
+Name penitent robes dirstring~
+ShD  `dthe robes of a penitent~
+Desc The simple robes of a sorrowful man lie here.~
+WearL 8
+Cost 190
+Vlues  50 50 50 50 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4279
+Nest 0
+Name dirge sandals dirstring~
+ShD  `aa pair of walking sandals~
+Desc A pair of sandals, worn with travel, sit on the floor.~
+Cond 100
+WearL 64
+Cost 0
+Vlues  50 50 50 50 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4275
+Nest 0
+Name patched cloak dirstring~
+ShD  `aa `cpatched `dmuddy `acloak~
+Desc An old cloak lies here, patches and stained with mud.~
+Cond 100
+WearL 1024
+Cost 0
+Vlues  50 50 50 50 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 21
+Nest 0
+Name faith dirge dirstring~
+ShD  `oTrue Faith~
+Desc The bright light of true faith lies here, awaiting a believer.~
+WearL 2097152
+Cost 0
+End
+
+#O
+Vnum 11387
+Nest 0
+Name dark humor dirstring~
+ShD  `bDark `eHumor``~
+Desc `bThe essence of a wicked joke hovers in the air, daring you to understand.~
+ExF 0 17711299
+WearL 8192
+Cost 0
+Vlues  3 10 10 20 264 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 7032
+Nest 0
+Name burning rage dirstring~
+ShD  `bBurning `iRage``~
+Desc `bDirge's burning `iRage `blies here, waiting for its master.~
+ExF 0 17711299
+WearL 131072
+Cost 39402
+Vlues  1 10 10 38 265 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4228
+Nest 0
+Name lyre dirstring~
+ShD  `aa `gtruthful `alyre``~
+WearL 16384
+Cost 1980
+End
+
+#O
+Vnum 7265
+Nest 0
+Name tune hope dirstring~
+ShD  `nA Quiet, `kHopeful `nTune~
+Desc A gentle song fills the area with hope.~
+ExF 0 0
+WearL 65536
+Cost 1500
+End
+
+#O
+Vnum 4264
+Nest 0
+ExF 0 25427968
+WearL -1
+Cost 0
+ExDe papermsg~ Greetings young traveler, Welcome to the Realms of..`b
+           ___                            
+          / (_)             |             
+          \__        __   __|          ,  
+          /    /\/  /  \_/  |  |   |  / \_
+          \___/ /\_/\__/ \_/|_/ \_/|_/ \/ 
+``
+``
+                 Adventure Awaits!
+``
+``
+But before you start, it is strongly recommended for you
+to read this  manifesto.  It will  give you  the general 
+knowledge you  need to survive and  prosper here.  Also, 
+please note that everything covered  in this document is
+also pursued at greater length in the help files. Please
+also type story to read something of Exodus history. 
+``
+The  manifesto  is divided  into several  categories. To 
+read the different parts, just type look `kkeyword``. 
+``
+    [`kYou``] [The `kworld``] [Other `kplayers``] [Your `kPlace``] 
+~
+ExDe you~ `o[`iYou`o]`h                                                                 
+You are the center of your universe.  There are many ways in which you        
+can make your character unique, aside from the customization you have         
+already undertaken in choosing your skills and attributes.  You can           
+change your title [help title], give yourself a description [help description],
+formulate a battlecry [help battlecry]  -- and you can do it all in color    
+[help color].                                                   
+               
+When your character is born, he/she/it receives a set of low level
+equipment. To see what you are wearing, type equipment.  To see what you are 
+holding, type inventory.  Exodus supports full abbreviation, so if you don't 
+want to type out these full commands, you can use 'eq' and 'i', respectively. 
+If you should ever lose your newbie gear, you can type outfit to re-eq.      
+
+Your character's attributes and nuances are important to your evolution as     
+you rise in power and knowledge.  To see your character's score sheet,        
+type score.  To see quickly how wealthy your character is, or how much        
+experience you require to level, type worth.  The experience you receive      
+from killing non-player-characters (NPCs), exploring the world, or            
+participating in both built-in area and immortal run quests determines        
+your level. [help experience, help level]                                     
+~
+ExDe world~ `o[`iThe world around you`o]`h     
+There are many things in the world that you will become aware of as you       
+wander about.  The world of Exodus is vast, comprised of many mystical        
+lands.  [help areas]    
+A few commands are necessary to master if you want to experience the    
+full impact of Exodus: look, where, and who. [help look] [help where] &       
+[help who] have extensive information concerning these important commands.    
+    
+`o[`hobjects`o]`h                                                              
+Mundane and arcane items alike can be found, bought, or battled for in    
+the realms of Exodus.  Although you may discover a proliferation of
+telluric items within its sprawls, the luckiest adventurers may sometimes     
+come across fabled treasures, rare beyond description.                        
+                                                                              
+`o[`hmobiles`o]`h                                                              
+Unlike many other foriegn environments, the extensive lands of Exodus are   
+inhabited by both intelligent players, and...intelligent monsters.          
+Instinctual animals may not offer much of a challenge, but cognizant           
+creatures with actual aspects of sentience (for example, city guards,       
+farmers, or soldiers) may just surprise you -- look at them, talk to them,  
+do what you deem to be wise around them to see how they react.  And should  
+you choose to engage in combat with them and find yourself over your head,  
+you may just find that enraged farmer or cityguard hunting you down to      
+finish the job.                                                                
+~
+ExDe player players~ `o[`iother players`o]`h                                                        
+Although most of the inhabitants of Exodus may appear to be friendly,          
+it is always advisable to take everything with a grain of salt and             
+view the world through a cynic's eyes -- even the most harmless-looking      
+player can evolve into a vicious enemy in the span of a few seconds.           
+Exploring the large universe that Exodus provides is a very good way          
+to avoid messy conflicts with other violent players, and is strongly          
+encouraged, especially to new players.                                        
+                                                                             
+This advice does not directly apply to players level 1 - 8 (as these        
+lower-level players are protected by immortal intervention), but it           
+is advisable that you begin exploring the planet early on, to get a            
+grasp of the terrain and places to adventure.                                
+   
+Player-killing outside of the 10-level range established by the               
+creators of the lands of Exodus will result in the garnering of a              
+wanted flag, and possibly a trial [help justice, help laws].                   
+~
+ExDe place~ [Your place in the world]
+After establishing your persona within the Realms of Exodus, you will
+most likely be tempted to exercise your freedom and broaden your 
+horizens by taking advantage of the many built-in features of the world:
+  
+[Clans]
+Clans are groups of like-minded players that have both the willpower and
+the manpower to organize themselves in objectives that may include
+conquering areas, warring with other clans, and/or promoting 
+a specific goal or cause. See [help clan and clan war].
+  
+[Homes]
+You can establish private sectors for yourself, your clan, or your loved
+one(s) in certain areas in the world of Exodus, for a price. This is best
+done after you have become an experienced adventurer and amassed
+some money. Refer to [help homes] for more information.
+  
+[Transportation]
+The forms of transport in the Realm of Exodus are many and varied.
+Elevator mechanisms coupled with moving battle machines, boats,
+mounts, and magical means of transport are ways to move yourself 
+around all kinds of terrain. For traditionalists, you can also walk to 
+most places. Please read the following files:
+[help boat, help mount, help transportation].
+  
+[Good places to go]
+A good place for newbies to start is the Thesden Animal Exhibition 
+Gardens, informally called the zoo. It is located on Welford Road,
+on the far east side of Thesden. Once the pleasures of the Zoo have 
+begun to pall, you can explore, hunt wabbits!, or satisfy your 
+bloodthirst at Ashton Gardens (near the center of Thesden), or 
+in the Eastern Plains or Sarrendale Farms (outside of the East
+Gate of Thesden).
+~
+End
+
+#O
+Vnum 21110
+Nest 0
+Cond 100
+WearL -1
+Cost 0
+End
+
+#RoomRLE   65535 -1
+
+#QbitsRLE   999 -1
+
+#END

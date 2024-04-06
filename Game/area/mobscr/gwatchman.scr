@@ -1,0 +1,21 @@
+* File: gwatchman.scr
+* Mob: Watchman(11512)
+
+#TRIGGER cwat1
+Type 3
+Sc
+wfunc %rndnum% random 0 2
+if ( %rndnum% == 0 )
+   halt once~ 
+Sc
+   say I noticed several craft entering and leaving the harbor last night, I did.
+   wait 3~
+Sc
+   say But when I reported it, nobody seemed to care.
+   wait 1~
+Sc
+   cmd shrug
+   halt once~
+End
+
+#END

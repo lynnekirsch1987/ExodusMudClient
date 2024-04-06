@@ -1,0 +1,3307 @@
+#AREA
+ 6~
+speldest.are~
+The Spellthrower's Destiny~
+{20 50} Widrak  The Spellthrower's Destiny~
+~
+12212 12362
+10 0 0
+0 0
+ragnar~
+#MOBILES
+#12212
+golem diamond guardian~
+The Guardian~
+A huge diamond golem stands here, watching the entrance stoically.
+~
+This diamond golem is armed with an immense sword of pure diamond. You get 
+the feeling that it could make you into sliced cheese if it wanted. Which it
+does, but you don't know that.
+~
+unique~
+0 0 0 0
+ABFGN BFHJNOTZ 0 0
+23 23 10d30+426 1d1+1 2d6+15 smash
+-2 -2 -2 999 0
+0 -1 ACDI BGIJMNPQRX ABEHIKLO KTY
+stand rest none 20
+HJ ABCGHJK 10 10 10 10 10 10 0
+large diamond~
+0 0 0 100
+0
+~
+~
+#12213
+busy worker~
+A busy worker~
+A busy worker rushes back and forth here, hurrying to load the ship with cargo.
+~
+This man goes about his work quickly efficiently, the same way he would kill
+you. The worn grip on his cutlass shows its use.
+~
+human~
+0 0 0 0
+AHS Z 240 12213
+21 21 3d22+401 1d1+1 4d4+5 punch
+0 0 0 999 0
+0 -1 CIJN 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJKLa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12214
+crewman~
+A crewman~
+A crewman moves about, checking that everything is tight and ship-shape.
+~
+This crewman looks like a seasoned veteran, with the tatoos to prove it.
+~
+human~
+0 0 0 0
+ACHST Z 120 12214
+21 21 3d21+390 1d1+1 4d4+7 punch
+-1 -1 -1 999 -1
+0 -1 CIJN 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12215
+marcus~
+Marcus Thalominus~
+Marcus Thalominus stands here, and prepares to blast you out of existence.
+~
+Marcus Thalominus, owner of the Spellthrower's Destiny stands before you. 
+Black robes swirl around his body as he eyes you. This is no closeted bookworm
+you face, but one of the most BAD-ASS mages ever to roam the stars.
+~
+human~
+0 0 0 0
+ABCFGR EFGJOTV -1000 11100
+40 40 10d70+1049 4d5+340 10d5+37 punch
+-40 -40 -40 999 -40
+0 -1 FH ABNQ 0 IT
+stand stand male 3049
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+large flesh~
+0 0 0 325
+0
+~
+~
+#12216
+jarek~
+Jarek Dragonsbane~
+Jarek Dragonsbane, Marcus' right hand is here. He is pissed!
+~
+Jarek Dragonsbane is a tough, battle-scarred flind.  His spiked plate
+armor is polished to a gleaming shine and the bastard sword on his hip is
+the famous blade, "Morphslayer".  His hatred of shapechangers is known
+throughout the four worlds.  Right now, though, you have intruded on his
+meditations and thus signed your own death warrant.  
+~
+giant~
+0 0 0 0
+ABFGT CHJOV -1000 11100
+37 37 10d80+946 1d2+50 4d5+10 smash
+-9 -9 -9 999 -1
+0 -1 CDEFHIJ LNOQ HI JP
+stand stand male 1054
+AHMVc ABCDEFGHIJKLUa 13 13 13 13 13 13 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#12217
+dak thief elf~
+Dak Quickfingers~
+Dak Quickfingers is rummaging in his pouches when you wander in.
+~
+A small elf is sorting through his items when he sees you. Cheerfully, he
+offers you his hand. After shaking it, you notice that one of your rings is
+missing! Looking surprised, Dak hands it to you, "It must have fallen into my
+pocket". He shrugs and continues rummaging.
+~
+elf~
+0 0 0 0
+ACGHMSXc CEFJNPQV -365 0
+38 38 10d40+980 1d2+500 9d6+38 slap
+-10 -10 -10 999 -2
+0 -1 BEFHIKN LNR ABCE HIJKZ
+stand stand male 3504
+AHMV ABCDEFGHIJKLa 14 14 14 14 14 14 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#12218
+korshaf mate~
+Korshaf~
+Korshaf, First Mate of the Destiny, wanders around shouting at crewmen.
+~
+The First Mate is busy overseeing the loading of the cargo hold. When he sees
+you, he acknowledges your presence with a nod, assuming you belong on board.
+~
+human~
+0 0 0 0
+ACGHT JNZb 1000 0
+40 40 10d20+1306 1d1+200 10d4+23 wrath
+-12 -10 -10 999 -3
+0 -1 DEFIKNQR 0 ABC 0
+stand stand male 3029
+AHMV ABCDEFGHIJKLa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12219
+arcanus mage~
+Arcanus K'alembreth~
+Arcanus K'alembreth, Chief Mage of the Destiny is here, reading his spellbook.
+~
+A small, bookish mage grins ruefully at you when you walk in. Pushing his glasses
+back up on his nose, he closes his book and askes if he can help you.
+~
+human~
+0 0 0 0
+ABCGNR EFGJNOTV 500 0
+42 42 10d60+789 1d54+350 4d5+20 slap
+-12 -12 -12 999 -2
+0 -1 F ABNQ C IR
+stand stand male 5402
+AHMV ABCDEFGHIJKLa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12220
+sheifflem navigator~
+Sheifflem~
+Sheifflem, Destiny's Navigator, is in his room, studying his maps.
+~
+The Navigator of the Destiny is a seasoned sailor. There are wrinkle lines
+around his eyes, the result of years of squinting against the sun.
+~
+human~
+0 0 0 0
+ABGMT CNb -500 0
+35 35 10d61+957 1d2+300 3d4+20 beating
+-10 -10 -10 999 -2
+0 -1 CFJK 0 D 0
+sit stand male 0
+AHMV ABCDEFGHIJKLa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12221
+captain pythagas~
+Pythagas~
+Pythagas, Captain of the Destiny, is here observing the movement on the deck.
+~
+The Captain of the Destiny, a tough old sea-dog, glares at you with one eye.
+You feel the need to move on about your business.
+~
+human~
+0 0 0 0
+ABCGTX HJNO -875 0
+43 43 10d40+1023 1d2+300 2d8+30 pound
+-14 -14 -14 999 -3
+0 -1 CDEFIKN C 0 N
+stand stand male 6029
+AHMV ABCDEFGHIJKLa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12222
+lookout~
+The lookout~
+The Lookout stands here, looking for....something.
+~
+This is yet another seasoned sailor. He is kicked back against the rail, 
+watching all the suckers down below doing the work.
+~
+human~
+0 0 0 0
+ABCGHT JNb 1000 0
+30 30 1d2+1000 1d2+300 4d6+8 pound
+-9 -9 -9 999 -9
+0 -1 CIN 0 0 0
+stand stand male 406
+AHMV ABCDEFGHIJKLa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12223
+warin captain guard~
+Warin~
+The Captain of the Guard, Warin, is here practicing.
+~
+~
+unique~
+0 0 0 0
+ABCGT HNOV -1000 11100
+45 45 1d4+1749 1d2+300 5d8+19 charge
+-16 -13 -14 999 -2
+0 -1 CDFH 0 0 NPSTY
+stand stand male 3049
+AHM ABCDEFGHIJKL 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12224
+cat~
+A ship's cat~
+A ship's cat stalks a mouse here.
+~
+This small furry feline is a lean mean mousin machine.
+~
+cat~
+0 0 0 0
+AGH Z 0 12224
+12 12 2d10+150 1d2+1 1d10+3 claw
+1 1 1 999 3
+0 -1 FHK 0 0 0
+stand stand either 0
+AGHMV ABCDEFGHIJKLQUVa 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#12225
+cat~
+The ship's cat~
+This enormous feline sits on her haunches and watches you warily.
+~
+This is even bigger and badder than the other cats you have seen around
+~
+cat~
+0 0 0 0
+AGH Z 0 0
+13 13 3d9+200 1d2+1 2d6+3 claw
+-2 -2 -2 999 0
+0 -1 FHK 0 0 0
+stand stand female 0
+AGHMV ABCDEFGHIJKLQUVa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12226
+guard~
+A guard~
+A guard of the ship stands at attention here.
+~
+Dressed in gleaming battle armor, this warrior could wipe the floor with you.
+~
+human~
+0 0 0 0
+ABGTXc DFJNOZc 750 12226
+34 34 10d10+1200 1d2+50 4d7+10 crush
+-11 -11 -11 999 -11
+0 -1 EFIK 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJKLa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#12227
+cook~
+The Ship's Cook~
+The Ship's Cook is here preparing the next meal.
+~
+The chef looks like an ok kinda guy. Except for the large cleaver and slightly
+insane glint in his eye. He turns to you and speaks, "Hurnda furga gefinda 
+burnga!"
+~
+human~
+0 0 0 0
+ABGT DFJNOZ 750 11100
+26 26 5d10+600 1d2+50 3d7+7 punch
+-7 -7 -7 999 -7
+0 -1 FI 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKLa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#12212
+cutlass~
+a cutlass~
+A wicked, curved blade lies on the ground here.~
+steel~
+0
+weapon 2
+G
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A B BD AB 0
+0
+0
+20 300 0 P
+A
+19 2
+A
+18 2
+E
+cut cutlass~
+This blade has a well-worn hilt from frequent use.
+~
+#12213
+staff~
+`aa black staff``~
+A menacing black staff floats here under it's own power.~
+iron~
+0
+weapon 2
+ABCEFGHIJL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB AC ABC ABDE 0
+0
+0
+35 300 0 P
+A
+12 10
+E
+staff~
+This staff gives you the willies just holding it.
+~
+#12214
+the power sphere~
+the Power~
+This innocuous little sphere holds the power of the universe.~
+obsidian~
+0
+warp_stone 2
+CESY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+33 100 0 P
+A
+12 20
+A
+18 -5
+E
+globe~
+An innocuous little globe rolls around the floor.
+~
+#12215
+mana belt~
+`ka golden belt``~
+A golden belt lays here.~
+gold~
+0
+armor 2
+BCE
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B 0 0
+0
+0
+30 150 2500 P
+A
+24 -1
+A
+12 8
+E
+belt~
+A golden belt hangs from a peg.
+~
+#12216
+robe magi~
+Robe of the Arch-Magi~
+An evil pile of cloth sits on the peg.~
+cloth~
+0
+clothing 2
+CESY
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 150 503 P
+A
+19 -4
+A
+12 30
+E
+robe~
+You have never seen such an evil robe. Ever.
+~
+#12217
+cloak displacement~
+Cloak of Displacement~
+This cloak has a weird shimmering look to it.~
+cloth~
+0
+clothing 2
+CESY
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 160 8402 P
+A
+14 15
+A
+2 2
+E
+cloak~
+This cloak seems to be in two places at once.
+~
+#12218
+boots~
+a pair of comfortable boots~
+A pair of comfortable boots gathers dust here.~
+leather~
+0
+armor 2
+ABFR
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B B B 0 0
+0
+0
+30 130 0 P
+A
+14 36
+E
+mighty boots~
+These gold-worked boots glow slightly.
+~
+#12219
+armor might~
+`athe `barmor `aof `hmight``~
+`aA pile of spiked `barmor `alies on the ground.``~
+adamantite~
+0
+armor 2
+Ya
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+D D D D 0
+0
+0
+30 376 5000 P
+A
+1 2
+E
+armor~
+This is Jarek's spiked armor.
+~
+#12220
+shield might~
+`athe `bshield `aof `hmight``~
+`aA `hsilver shield `asits against the wall.``~
+adamantite~
+0
+armor 2
+ABEY
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+ABC ABC ABC ABC 0
+0
+0
+25 180 6930 B
+A
+5 2
+A
+2 -1
+A
+13 10
+E
+shield~
+~
+#12221
+neckguard of might~
+`athe `bneckguard `aof `hmight``~
+`aA black `bneckplate `ais tossed in the corner.``~
+adamantite~
+0
+armor 2
+HJLMY
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C C C C 0
+0
+0
+35 100 0 P
+A
+18 4
+A
+19 4
+E
+neck guard~
+A black Falcon is emblazoned on this plate.
+~
+#12222
+mana necklace~
+`ka gold necklace``~
+Some links of gold necklace are here.~
+gold~
+0
+jewelry 2
+ACE
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+27 80 10493 P
+A
+26 1
+A
+12 10
+E
+necklace~
+This is the necklace of Marcus Thalominus. It is covered in jewels.
+~
+#12223
+Bracer of Command~
+`gThe Bracer of Command``~
+`gA bracelet made of steel is here.``~
+steel~
+0
+armor 2
+ABGIL
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AB AB AB AB 0
+0
+0
+25 150 950 P
+A
+18 2
+E
+bracers~
+This is Captain Pythagas' symbol of command.
+~
+#12224
+gloves way right~
+the Right Way~
+Some gloves lie here.~
+soft leather~
+0
+armor 2
+0
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A A 0 0
+0
+0
+10 40 0 P
+A
+18 6
+E
+right~
+These gloves are incredibly well-worked with map symbols.
+~
+#12225
+jersey~
+a sailor's jersey~
+A striped shirt is thrown over a chair.~
+cloth~
+0
+clothing 2
+0
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 50 54 P
+E
+jersey~
+This is the uniform issued to every employee of Marcus.\
+~
+#12226
+spyglass~
+a spyglass~
+A brass tube has been left here.~
+glass~
+0
+treasure 2
+GS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 30 400 P
+E
+glass spy~
+An extending tube shows a different location when you look through it.
+~
+#12227
+collar cat's meow~
+the Cat's Meow~
+A small leather collar is discarded.~
+leather~
+0
+armor 2
+0
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A A 0 0
+0
+0
+15 10 36 P
+E
+cat's meow~
+This is a cute little collar, about the size to fit on a cat.
+~
+#12228
+glasses specs~
+a pair of spectacles~
+A pair of glasses is on the desk here.~
+glass~
+0
+jewelry 2
+ABGIS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+38 40 107 P
+A
+4 2
+E
+glasses specs~
+The Glasses of Arcanus help him to read his spellbooks.
+~
+#12229
+shoes~
+a pair of deck shoes~
+Comfortable leather shoes are arranged on the floor.~
+leather~
+0
+clothing 2
+0
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 40 8 P
+A
+14 10
+A
+26 -1
+E
+shoes~
+These shoes look like they provide good traction.
+~
+#12230
+arm plates~
+silver arm plates~
+Some arm plates are here.~
+silver~
+0
+armor 2
+CE
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A A 0 0
+0
+0
+15 150 940 P
+A
+13 4
+A
+5 1
+E
+arm plates det~
+These plates are made of pure silver.
+~
+#12231
+diamond sword~
+`othe diamond sword``~
+A sword of glittering diamond has been dropped here.~
+diamond~
+0
+weapon 2
+ABCGISY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A C BC AB F
+0
+0
+10 100 5600 P
+E
+blade sword diamond~
+The sword of the Guardian is made of the same material as him.
+~
+#12232
+shield~
+`othe diamond shield``~
+A shield of diamond is on the floor.~
+diamond~
+0
+armor 2
+ABCGI
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C C C C 0
+0
+0
+10 280 6049 P
+E
+shield~
+The shield of the Guardian is made of the same material as him.
+~
+#12233
+adamantite breast plate~
+`hAn `cA`hd`ca`hm`can`ht`ci`ht`ce `hBreast Plate``~
+The Armor of the Guard is hanging from the wall.~
+adamantite~
+0
+armor 2
+ABGIY
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC ABC ABC ABC 0
+0
+0
+24 400 0 P
+A
+19 1
+E
+plate arm~
+This armor bears the symbol of the Royal Marines.
+~
+#12234
+adamantite shield~
+`hAn `cA`hd`ca`hm`can`ht`ci`ht`ce `hShield``~
+The Shield of the Guard is on a peg.~
+adamantite~
+0
+armor 2
+ABGI
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABC ABC ABC ABC 0
+0
+0
+24 240 0 P
+A
+19 1
+E
+shield~
+The shield has the symbol of the Royal Marines.
+~
+#12235
+adamantite sword longsword~
+`hAn `cA`hd`ca`hm`can`ht`ci`ht`ce `hLong Sword``~
+An adamantite long sword lays here.~
+adamantite~
+0
+weapon 2
+ABGIMSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A AC BC AB 0
+0
+0
+25 380 603 P
+A
+18 1
+A
+19 2
+E
+sword blade~
+This is the issue weapon of the Royal Marines.
+~
+#12236
+corbomite staff~
+a corbomite staff~
+A small baton made of a black rock is here.~
+obsidian~
+0
+staff 2
+FGSYa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+DF BD BD BDFG 'reserved'
+0
+0
+40 3 19430 P
+E
+staff~
+This is a dumb looking little stick of rock.
+~
+#12237
+flame tongue sword~
+`ithe flame tongue``~
+A black sword leans against the wall.~
+obsidian~
+0
+weapon 2
+ABGJLSYa
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 BC AC CD AH
+0
+0
+49 169 4059 P
+A
+19 2
+A
+18 2
+E
+sword blade flame~
+This blade is warm to the touch.
+~
+#12238
+saucer milk~
+A saucer of milk~
+A small saucer of milk is here, waiting for a cat.~
+glass~
+0
+potion 2
+G
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CE 'remove curse' 'revelation' 'reserved' 'reserved'
+0
+0
+20 10 0 P
+E
+saucer milk~
+The milk is still cold.
+~
+#12239
+poisonous beverage looking~
+A poisonous looking beverage~
+A smoking, bubbling concoction is here.~
+glass~
+0
+potion 2
+G
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ADE 'poison' 'plague' 'poison' 'plague'
+0
+0
+26 30 0 P
+E
+poisonous beverage looking~
+This drink makes you ill when you think about drinking it.
+~
+#12251
+chest~
+the captain's chest~
+The Captain's treasure chest is here.~
+iron~
+0
+container 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BDK 0 0 CEFGHI ABFG
+0
+0
+0 1000 0 P
+#12252
+key~
+A skull-shaped key~
+A skull-shaped key is here.~
+iron~
+0
+key 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1 0 P
+E
+key~
+This key opens the Captain's chest.
+~
+#12253
+gold~
+`kthe gold coins``~
+`kA pile of gold spills out before you, dazzling your eyes.``~
+gold~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 CDFI 0 0 0
+0
+0
+0 3000 0 P
+E
+gold~
+Looks like a buttload of gold.
+~
+#12255
+cleaver~
+the cook's cleaver~
+a sharp cleaver is here.~
+steel~
+0
+weapon 2
+BGI
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C AC AC ADE 0
+0
+0
+26 140 0 G
+A
+19 1
+A
+18 1
+E
+cleaver~
+This is the cooks carving knife. Go carve with it.
+~
+#12256
+wardrobe~
+a wardrobe~
+An ornately decorated wardrobe is against the wall.~
+wood~
+0
+container 2
+FG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DEFHIJL 0 0 CDFI A
+0
+0
+0 10 9 G
+E
+wardrobe~
+This is a cool wardrobe.~
+#12257
+vacant vnum~
+``~
+``~
+unknown~
+2
+trash 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#12258
+sword morphslayer bastard~
+`aThe `bbastard sword`a, "`gMorphslayer`a"``~
+`aThe famous blade of `bJarek Dragonsbane`a, slayer of `gshapechangers`a.``~
+unknown~
+0
+weapon 2
+ST
+0
+AN
+CEF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A AE A BE DG
+0
+0
+35 10 50000 P
+A
+19 3
+A
+18 3
+A
+13 10
+A
+12 -30
+#0
+
+#ROOMS
+#12212
+0 0
+~
+~
+~
+0 0 0
+An Innocuous Little Cave~
+You glance around at the jagged cave walls, and wonder how this niche
+could have gone unnoticed prior to your discovery of it.  A notched seam
+runs down the wall, and odd gases escape from it, uplifting the hairs on
+the back of your neck.
+~
+0 AD 18
+0
+~
+I 0 D1
+~
+door~
+1 0 20470
+D3
+~
+secret~
+1 1 12213
+S
+#12213
+0 0
+~
+~
+~
+0 0 0
+Inside the Secret Passage~
+You find yourself in a rather large passageway leading down and away from 
+the surface. As you walk along, symbols of magic flare blue ahead of you,
+lighting the way and growing dim behind you. A sign has been carved into the
+wall here.
+~
+0 D 18
+0
+~
+I 0 E
+sign~
+To those who would advance here, beware -- the vast level range exists
+for a good reason!  If you are low of level but stout of heart, use
+your wits to keep you alive...and don't attack everything you see!
+~
+D0
+~
+~
+0 0 12214
+D1
+~
+secret~
+1 1 12212
+S
+#12214
+0 0
+~
+~
+~
+0 0 0
+The Passageway~
+You continue along the passage, going deeper underground. The walls seem to
+close in around you.
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 12215
+D2
+~
+~
+0 0 12213
+S
+#12215
+0 0
+~
+~
+~
+0 0 0
+The Passageway~
+You keep going, determined to reach the end of this tunnel. Up ahead, you
+notice the passage turns...
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 12216
+D2
+~
+~
+0 0 12214
+S
+#12216
+0 0
+~
+~
+~
+0 0 0
+A Bend In the Passageway~
+The passage bends east here. You get a sense of great weight over you. As
+if you were under a mountain of stone. You try to remain as silent as possible,
+fearing you might disturb something...
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 12217
+D2
+~
+~
+0 0 12215
+S
+#12217
+0 0
+~
+~
+~
+0 0 0
+The End of the Passageway~
+The final flare and extinguishing of the symbols' inner light indicates that
+your journey along the passageway ends here.  A cloak of impenetrable magical
+darkness sets in, quickly and quietly.
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 12218
+D3
+~
+~
+0 0 12216
+S
+#12218
+0 0
+~
+~
+~
+0 0 0
+The Entrance to the Giant Cave~
+As you pass under the Entrance Arch, lights flare into existence around you,
+causing you to blink rapidly. Recovering, you gasp in astonishment at the scene
+before you. In the center of this giant cave, an immense ship rests on large
+keel-blocks. It is unlike anything you have seen before. The hull is a smoky
+crystal and the masts appear to be made of the rare wood known as agafari.
+A broad ramp leads up to the Main Deck.
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 12219
+D2
+~
+~
+0 0 12217
+S
+#12219
+0 0
+~
+~
+~
+0 0 0
+The Giant Cave Complex~
+Looking up, you see that you are indeed in a mountain as the lights illuminate
+the ceiling, at least five hundred feet above you. Massive hinges sit on either
+side of the ceiling, leading you to believe that the ceiling could open to allow
+access to the outside.
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 12228
+D1
+~
+~
+0 0 12227
+D2
+~
+~
+0 0 12218
+D3
+~
+~
+0 0 12226
+S
+#12220
+0 0
+~
+~
+~
+0 0 0
+The Southeastern Corner of the Complex~
+Workers mill about all around here. They seem to be loading rare spices and 
+items of value onto the great vessel and don't notice you in their hurry.
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 12221
+D3
+~
+~
+0 0 12227
+S
+#12221
+0 0
+~
+~
+~
+0 0 0
+The Eastern Side of the Complex~
+More workers mill around here, cleaning and adjusting the place.  A wide-
+open area leads you to believe that this ship can accomodate quite a few
+more personnel than standard vessels.
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 12222
+D2
+~
+~
+0 0 12220
+S
+#12222
+0 0
+~
+~
+~
+0 0 0
+The Northeastern Corner of the Complex~
+Thick oak walls cast flickering shadows throughout the complex.  Large
+crates fill the corner, hiding anything...or anyone..that would want to be
+hidden.
+~
+0 D 18
+0
+~
+I 0 D2
+~
+~
+0 0 12221
+D3
+~
+~
+0 0 12223
+S
+#12223
+0 0
+~
+~
+~
+0 0 0
+The Northern Side of the Complex~
+Thick oaken crates with cryptic sigils of war and violence adorn the room,
+stacked in orderly piles.  As far as you can see, there are thousands of
+these crates -- they fill the entire ground floor!
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 12222
+D2
+~
+~
+0 0 12228
+D3
+~
+~
+0 0 12224
+S
+#12224
+0 0
+~
+~
+~
+0 0 0
+The Northwest Corner of the Complex~
+Large stained metal and wood hybrid walls serve as a pseudo-warehouse for
+multitudes of half-opened oaken crates.  Along each wall you can see
+imprinted boxes of assorted munitions, arranged in orderly stacks and rows.
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 12223
+D2
+~
+~
+0 0 12225
+S
+#12225
+0 0
+~
+~
+~
+0 0 0
+The Western Side of the Complex~
+Here you see a large line of demi-human slaves under the direction of a dwarf.
+They appear to be excavating into the wall. What are they building?
+The way east is blocked by the ship.
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 12224
+D2
+~
+~
+0 0 12226
+S
+#12226
+0 0
+~
+~
+~
+0 0 0
+The Southwestern Corner of the Complex~
+This area appears has several wagons being loaded with equipment. Most of it
+you have seen in the shops of Recluce and New Thalos. This must be an 
+outbound wagon. There is a large set of iron-bound doors leading west.
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 12225
+D1
+~
+~
+0 0 12219
+S
+#12227
+0 0
+~
+~
+~
+0 0 0
+The Southern Side of the Complex~
+This area is exceptionally busy as the workers run barrels and crates up a
+ramp leading directly into the cargo hold of the Destiny.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 12220
+D3
+~
+~
+0 0 12219
+D4
+~
+~
+0 0 12262
+S
+#12228
+0 0
+~
+~
+~
+0 0 0
+At the Boarding Ramp of the Spellthrower's Destiny~
+You stand on the ramp leading to the main deck of the Spellthrower's Destiny.
+You get the feeling of people moving around you, yet there is no sound or hint
+of movement. From here you can see the whole cave complex.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12223
+D1
+~
+~
+0 0 12229
+D2
+~
+~
+0 0 12219
+D3
+~
+~
+0 0 12225
+S
+#12229
+0 0
+~
+~
+~
+0 0 0
+Main Deck of the Destiny~
+This is the main deck of the Spellthrower's Destiny. There is much rushing
+about as the crew prepare for a voyage. A large catapult sits here, ready
+for battle. On the rails to port and starboard are light ballista, easily 
+loaded and ready for the defense of the ship. You see the forecastle of the 
+ship to the north and the quarterdeck, where the Captain usually stands, to 
+the south. There also seems to be a large, ornate chair on the deck behind 
+the wheel.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12231
+D2
+~
+~
+0 0 12230
+D3
+~
+~
+0 0 12228
+D4
+~
+~
+0 0 12232
+D5
+~
+~
+0 0 12235
+S
+#12230
+0 0
+~
+~
+~
+0 0 0
+The Quarterdeck of the Destiny~
+Heading south, you find yourself on the quarterdeck.  This is where the
+Captain stands, as evidenced by the presence of a large wheel.  There is
+also a large throne-like chair, crafted of pure obsidian chased with mithril
+and covered in magical runes, bolted to the deck.  It seems to hum with
+magical power.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12229
+S
+#12231
+0 0
+~
+~
+~
+0 0 0
+On the Forecastle~
+You stand on the forecastle of the Destiny. To your left and right are medium
+sized ballistae, large crossbows capable of hurling spear sized bolts. Clearly,
+though it is carrying cargo, this vessel is quite capable of defending itself.
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 12229
+S
+#12232
+0 0
+~
+~
+~
+0 0 0
+Up the Mainmast~
+You are now climbing the main mast of the ship, heading towards the lookout's
+position.
+~
+0 D 0
+0
+~
+I 0 D4
+~
+~
+0 0 12233
+D5
+~
+~
+0 0 12229
+S
+#12233
+0 0
+~
+~
+~
+0 0 0
+Up the Mainmast~
+You are still climbing. Wow it is high here! Hopefully, you won't get dizzy
+and fall...
+~
+0 D 0
+0
+~
+I 0 D4
+~
+~
+0 0 12234
+D5
+~
+~
+0 0 12232
+S
+#12234
+91 70
+Ahhh, you can see forever from this vantage point.  You receive 70 experience for your travail.~
+~
+~
+0 0 0
+In the Crow's Nest~
+You have made it to the crow's nest, where the lookout is stationed. 
+Presumably, if you weren't in a cave, you would see a rather long distance
+from here.  There is a small tube affixed to the railing of the nest.  
+~
+0 D 0
+0
+~
+I 0 D5
+~
+~
+0 0 12233
+S
+#12235
+0 0
+~
+~
+~
+0 0 0
+The First Deck of the Destiny~
+You descend the stairs and find yourself on the first deck of the ship where 
+the quarters of the more important personages are. Looking north and south 
+down the corridor, you see several doors, some with nameplates affixed to 
+them. A ladder leads down to the next deck.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12248
+D2
+~
+~
+0 0 12236
+D4
+~
+~
+0 0 12229
+D5
+~
+~
+0 0 12252
+S
+#12236
+0 0
+~
+~
+~
+0 0 0
+In the corridor~
+At this point in the corridor, to your north you see the ladder leading out
+onto the main deck. West is a door with a brass plate. Engraved on it are the
+words "First Mate". East appears to be a guest cabin, with no name on it.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12235
+D1
+~
+~
+1 1 12238
+D2
+~
+~
+0 0 12239
+D3
+~
+~
+1 1 12237
+S
+#12237
+0 0
+~
+~
+~
+0 0 0
+The First Mate's Cabin~
+This sparsly furnished room belongs to the minotaur first mate Korshaf. The
+walls are decorated with weapons and there is a small table and chair in the
+room, securely bolted to the deck. A hammock is hung from a peg, ready to be
+strung out.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+1 1 12236
+S
+#12238
+0 0
+~
+~
+~
+0 0 0
+Guest Quarters on the Destiny~
+These guest quarters are very lavishly decorated with silks and other fine
+materials. The bunk is bolted to the wall with a net to protect the sleeper.
+You expect that the fare for a ride on this boat would bankrupt Recluce.
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+1 1 12236
+S
+#12239
+0 0
+~
+~
+~
+0 0 0
+In the corridor~
+Heading south again, you find another pair of doors.  To the west are the
+quarters of Jarek Dragonsbane.  You suspect you would not be welcome in
+there.  Entering would be a bad idea.  East of you is the Navigator's cabin.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12236
+D1
+~
+~
+1 1 12240
+D2
+~
+~
+0 0 12242
+D3
+~
+~
+1 1 12241
+S
+#12240
+0 0
+~
+~
+~
+0 0 0
+The Navigator's Cabin~
+As you might expect, the cabin of the Navigator does not have much in the way
+of personal effects, but there are maps neatly arranged in little cubbyholes
+along the south wall. You don't know what holds them in there, but you expect
+that it is some magical field. That would explain why you can't touch them.
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+1 1 12239
+S
+#12241
+0 0
+~
+~
+~
+0 0 0
+Jarek Dragonsbane's Personal Quarters~
+These quarters belong to Jarek Dragonsbane, yet another famous adventurer. He
+was the muscle behind Marcus.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+1 1 12239
+S
+#12242
+0 0
+~
+~
+~
+0 0 0
+End of the corridor~
+This is the end of the corridor. To the east and west are spare officer's 
+quarters. To the south is the Captain's Cabin. From the evil you sense behind 
+the door, you think twice about entering.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12239
+D1
+~
+~
+1 1 12243
+D2
+~
+~
+1 1 12245
+D3
+~
+~
+1 1 12244
+S
+#12243
+0 0
+~
+~
+~
+0 0 0
+Officer's Quarters~
+This is the room where Pythagas stays when Marcus is aboard. From the travel
+case secured under the bunk, he is in residence now.
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+1 1 12242
+S
+#12244
+0 0
+~
+~
+~
+0 0 0
+Arcanus' Quarters~
+This room is currently occupied by, according to the correspondence on
+the desk, Arcanus K'alembreth, Chief Mage of the Destiny.  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+1 1 12242
+S
+#12245
+0 0
+~
+~
+~
+0 0 0
+The Captain's Cabin~
+This is the Captain's Cabin. Looking about in awe, you realize it is larger
+than physically possible. More magic. This awe is only a brief feeling though,
+as you realize that Marcus Thalominus is aboard. A warm feeling runs down
+your leg. Hmmmm.....
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+1 1 12242
+D2
+~
+secret~
+1 1 12246
+S
+#12246
+0 0
+~
+~
+~
+0 0 0
+Secret Room~
+This is a secret room where the Captain can place the ship's treasure. In fact
+the chest is right there. Now all you need is the key...
+~
+0 ADKL 0
+0
+~
+I 0 D0
+~
+door~
+1 0 12245
+S
+#12248
+0 0
+~
+~
+~
+0 0 0
+End of the corridor~
+This end of the corridor has three doors. The north door leads to the armory.
+To the west lies the Wardroom, where the ship's officers take their meals.
+East is another set of guest quarters.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+1 1 12250
+D1
+~
+~
+1 1 12251
+D2
+~
+~
+0 0 12235
+D3
+~
+~
+1 1 12249
+S
+#12249
+91 20
+~
+~
+~
+0 0 0
+The Wardroom (Captain's Mess)~
+This room contains an ornate table set with a sumptuous feast. Just looking
+at it makes you hungry.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+1 1 12248
+S
+#12250
+45 500
+~
+~
+~
+0 0 0
+First Deck Armory~
+This armory has several racks of weapons for the crew to grab in the event of
+an attack. All of them appear magical. However, when you try to take one, you
+are zapped.
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+1 1 12248
+S
+#12251
+0 0
+~
+~
+~
+0 0 0
+Guest Quarters on the Destiny~
+This is just another set of guest quarters, currently unoccupied. It feels
+like a safe place to rest.
+~
+0 CDK 0
+0
+~
+I 0 D3
+~
+~
+1 1 12248
+S
+#12252
+0 0
+~
+~
+~
+0 0 0
+The Second Deck of the Destiny~
+You have come down the ladder once again and are now on the second deck. This
+corridor is lined with the doors leading to the crew quarters.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 12253
+D2
+~
+~
+0 0 12257
+D4
+~
+~
+0 0 12235
+D5
+~
+~
+0 0 12262
+S
+#12253
+0 0
+~
+~
+~
+0 0 0
+In the corridor~
+This corridor heads north towards the second deck armory.
+Crew quarters to port and starboard.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+1 1 12256
+D1
+~
+~
+1 1 12255
+D2
+~
+door~
+1 0 12252
+D3
+~
+~
+1 1 12254
+S
+#12254
+0 0
+~
+~
+~
+0 0 0
+Crew Quarters~
+This room is actually rather large. There are 3 bunks on each wall, with 3 
+sea chests under each, locked securely.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+1 1 12253
+S
+#12255
+0 0
+~
+~
+~
+0 0 0
+Crew Quarters~
+This room is not decorated, but kept in a neat fashion. 3 bunks on a wall, with
+the corresponding chests underneath.
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+1 1 12253
+S
+#12256
+0 0
+~
+~
+~
+0 0 0
+Second Deck Armory~
+This armory is identical to the armory directly above. In fact, looking
+carefully, you notice a crack in the ceiling in the shape of a trap door.
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+1 1 12253
+D4
+~
+trap trapdoor~
+1 1 12250
+S
+#12257
+0 0
+~
+~
+~
+0 0 0
+In the corridor~
+This corridor is directly south of the main ladder. Crew quarters are to the
+east and west, with the Ship's Mess to the south.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12252
+D1
+~
+~
+1 1 12258
+D2
+~
+~
+1 1 12260
+D3
+~
+~
+1 1 12259
+S
+#12258
+0 0
+~
+~
+~
+0 0 0
+Crew Quarters~
+More of the same bunks and chests.
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+1 1 12257
+S
+#12259
+0 0
+~
+~
+~
+0 0 0
+Crew Quarters~
+Surprise! More bunks and chests!
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+1 1 12257
+S
+#12260
+0 0
+~
+~
+~
+0 0 0
+Ship's Mess~
+This room, which is also seemingly larger than possible holds enough tables
+and chairs to accomodate an entire watch.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+1 1 12257
+D2
+~
+~
+0 0 12261
+S
+#12261
+0 0
+~
+~
+~
+0 0 0
+Galley~
+Welcome to the ship's galley.  This is where the ship's cook prepares the
+meals.  Several cats roam about, just in case a rodent gets on board.  There
+is a saucer full of milk on the floor.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12260
+S
+#12262
+0 0
+~
+~
+~
+0 0 0
+The Ship's Hold~
+This is as far down as the ladder goes.  There are racks all around and
+devices for protecting cargo.  There seems to be bright light coming from
+some where.  Astonished, you realize that the aft section of the hold is
+open and a large ramp extends out of the back.  Many workers are loading the
+crates and barrels you saw outside.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 12263
+D1
+~
+~
+0 0 12267
+D2
+~
+~
+0 0 12227
+D3
+~
+~
+0 0 12266
+D4
+~
+~
+0 0 12252
+S
+#12263
+0 0
+~
+~
+~
+0 0 0
+Main Hold~
+You try to avoid getting run over by the busy workers.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 12264
+D2
+~
+~
+0 0 12262
+D3
+~
+~
+0 0 12265
+S
+#12264
+0 0
+~
+~
+~
+0 0 0
+Main Hold~
+You step around a large cask of expensive wine.
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 12263
+S
+#12265
+0 0
+~
+~
+~
+0 0 0
+Main Hold~
+You bump into a bolt of silk.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 12263
+S
+#12266
+91 40
+~
+~
+~
+0 0 0
+Ammunition Locker~
+This room has stacks of ballista bolts and cannon shot.
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 12262
+S
+#12267
+0 0
+~
+~
+~
+0 0 0
+Powder Room~
+This room is filled with casks of a black powdery substance...gunpowder!
+Don't spark up!
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 12262
+S
+#0
+
+#RESETS
+M 0 12215   1 12245  1	* Marcus thalominus
+E 0 12213   -1   16	* item to Marcus thalominus
+E 0 12214   -1   17	* item to Marcus thalominus
+E 0 12215   -1    5	* item to Marcus thalominus
+E 0 12216   -1   12	* item to Marcus thalominus
+E 0 12217   -1   13	* item to Marcus thalominus
+M 0 12218   1 12237  1	* Korshaf
+E 0 12237   -1   16	* item to Korshaf
+M 0 12213  20 12267  3	* A busy worker
+E 0 12212   -1   16	* item to A busy worker
+E 0 12225   -1    5	* item to A busy worker
+M 0 12213  20 12263  3	* A busy worker
+E 0 12212   -1   16	* item to A busy worker
+E 0 12225   -1    5	* item to A busy worker
+M 0 12213  20 12255  3	* A busy worker
+E 0 12212   -1   16	* item to A busy worker
+E 0 12225   -1    5	* item to A busy worker
+M 0 12213  20 12248  3	* A busy worker
+E 0 12212   -1   16	* item to A busy worker
+E 0 12225   -1    5	* item to A busy worker
+M 0 12213  20 12230  3	* A busy worker
+E 0 12212   -1   16	* item to A busy worker
+E 0 12225   -1    5	* item to A busy worker
+M 0 12214  20 12219  3	* A crewman
+E 0 12212   -1   16	* item to A crewman
+M 0 12214  20 12221  3	* A crewman
+E 0 12212   -1   16	* item to A crewman
+M 0 12214  20 12223  3	* A crewman
+E 0 12212   -1   16	* item to A crewman
+M 0 12214  20 12225  3	* A crewman
+E 0 12212   -1   16	* item to A crewman
+M 0 12223   1 12231  1	* Warin
+E 0 12237   -1   16	* item to Warin
+M 0 12219   1 12244  1	* Arcanus k'alembreth
+E 0 12228   -1    6	* item to Arcanus k'alembreth
+E 0 12222   -1    3	* item to Arcanus k'alembreth
+M 0 12221   1 12243  1	* Pythagas
+G 0 12236 -1		* A corbomite staff to Pythagas
+E 0 12223   -1   14	* item to Pythagas
+M 0 12220   1 12240  1	* Sheifflem
+E 0 12224   -1   17	* item to Sheifflem
+M 0 12223   1 12234  1	* Warin
+E 0 12230   -1   10	* item to Warin
+E 0 12225   -1    5	* item to Warin
+E 0 12229   -1    8	* item to Warin
+M 0 12212   1 12212  1	* The guardian
+E 0 12231   -1   16	* item to The guardian
+E 0 12232   -1   11	* item to The guardian
+M 0 12226   6 12229  1	* A guard
+E 0 12233   -1    5	* item to A guard
+E 0 12235   -1   16	* item to A guard
+E 0 12234   -1   11	* item to A guard
+M 0 12226   6 12242  1	* A guard
+E 0 12233   -1    5	* item to A guard
+E 0 12235   -1   16	* item to A guard
+E 0 12234   -1   11	* item to A guard
+M 0 12226   6 12250  1	* A guard
+E 0 12233   -1    5	* item to A guard
+E 0 12235   -1   16	* item to A guard
+E 0 12234   -1   11	* item to A guard
+M 0 12226   6 12256  1	* A guard
+E 0 12233   -1    5	* item to A guard
+E 0 12235   -1   16	* item to A guard
+E 0 12234   -1   11	* item to A guard
+M 0 12226   6 12262  1	* A guard
+E 0 12233   -1    5	* item to A guard
+E 0 12235   -1   16	* item to A guard
+E 0 12234   -1   11	* item to A guard
+M 0 12224  20 12235  5	* A ship's cat
+M 0 12224  20 12262  5	* A ship's cat
+M 0 12225  20 12261  1	* The ship's cat
+E 0 12227   -1    3	* item to The ship's cat
+M 0 12227   1 12261  1	* The ship's cook
+E 0 12255   -1   16	* item to The ship's cook
+G 0 12239 -1		* A poisonous looking beverage to The Ship's Cook
+O 0 12251   0 12246 -1	* The captain's chest at Secret Room
+P 0 12253 0 12251 1
+P 0 12236 0 12251 1
+O 0 12238   0 12261 -1	* A saucer of milk at Galley
+D 0 12212   1    1	* An Innocuous Little Cave [east]
+D 0 12212   3    1	* An Innocuous Little Cave [west]
+D 0 12236   1    1	* In the corridor [east]
+D 0 12236   3    1	* In the corridor [west]
+D 0 12239   1    1	* In the corridor [east]
+D 0 12239   3    1	* In the corridor [west]
+D 0 12242   1    1	* End of the corridor [east]
+D 0 12242   3    1	* End of the corridor [west]
+D 0 12242   2    1	* End of the corridor [south]
+D 0 12245   2    1	* The Captain's Cabin [south]
+D 0 12248   1    1	* End of the corridor [east]
+D 0 12248   0    1	* End of the corridor [north]
+D 0 12248   3    1	* End of the corridor [west]
+D 0 12253   1    1	* In the corridor [east]
+D 0 12253   3    1	* In the corridor [west]
+D 0 12253   2    1	* In the corridor [south]
+D 0 12253   0    1	* In the corridor [north]
+D 0 12257   1    1	* In the corridor [east]
+D 0 12257   3    1	* In the corridor [west]
+D 0 12257   2    1	* In the corridor [south]
+D 0 12213   1    1	* Inside the Secret Passage [east]
+D 0 12252   0    1	* The Second Deck of the Destiny [north]
+D 0 12246   0    1	* Secret Room [north]
+E 0 12257   -1   16	* item to The ship's cook
+E 0 12257   -1   16	* item to The ship's cook
+M 0 12216   1 12241  1	* Jarek dragonsbane
+E 0 12219   -1    5	* item to Jarek dragonsbane
+E 0 12220   -1   11	* item to Jarek dragonsbane
+E 0 12221   -1    3	* item to Jarek dragonsbane
+E 0 12258   -1   16	* item to Jarek dragonsbane
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 12212 spec_breath_lightning		* The Guardian
+M 12214 spec_janitor		* A crewman
+M 12215 spec_cast_mage		* Marcus Thalominus
+M 12216 spec_janitor		* Jarek Dragonsbane
+M 12217 spec_thief		* Dak Quickfingers
+M 12219 spec_cast_mage		* Arcanus K'alembreth
+M 12222 spec_janitor		* The lookout
+M 12223 spec_poison		* Warin
+M 12225 spec_fido		* The ship's cat
+M 12226 spec_guard		* A guard
+S
+
+#OT
+#0
+#$

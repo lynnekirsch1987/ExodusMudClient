@@ -1,0 +1,23 @@
+* File: forc.scr
+* Mob: Female Orc(6289)
+
+#TRIGGER trans
+Type 8
+Sc
+  pecho %trans-from% `dA female orc in heat ``drags you off to her warm, comfortable bed.
+  mob trans %trans-from% 6267
+  echo `dA female orc in heat drags %trans-from% off to her warm, comfortable bed.``
+  cmd at 1 wizi 92
+  cmd goto 6267
+  cmd at 1 wizi
+  emote pushes you into the bed.
+  cmd force %trans-from% sit bed
+  emote pins you to the bed!
+  say You like it here?
+  cmd wink %trans-from%
+  cmd strip %trans-from%
+  halt once~
+End
+
+#END
+

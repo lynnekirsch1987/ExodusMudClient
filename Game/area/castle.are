@@ -1,0 +1,306 @@
+#AREA
+ 1~
+castle.enc~
+`kCity of the `iD`ba`ir`bk `oD`hr`kag`ho`on``~
+{75 90} NightHawk  `kCity of the `iD`ba`ir`bk `oD`hr`kag`ho`on``~
+~
+40903 41903
+0 0
+0 1
+~
+#MOBILES
+#40903
+Dark Dragon~
+The Dark Dragon~
+`eA Gigantic Dragon looks down on you making you feel like this is the end of your life.
+~
+You see nothing out of the ordinary with him.
+~
+dragon~
+0 0 0 0
+ABCEGQRTW DEFHUVZae -1000 11823
+80 2000 90d89+30000 50d60+24464 22d6+30000 claw
+-5 -5 -5 -9
+ADFHIKMNXY IKLNOQR AE BFIJ
+stand stand male 5000
+AH ACDEGHIJKPV giant Scales~
+0 100 30000 8000
+5
+~
+dragon~
+#0
+
+#OBJECTS
+#40904
+Dagger Life Drainer Life-Drainer~
+`dA Dagger Called `k"`bLife`l-`bDrainer`k"``~
+A Dagger with some strange inscriptions lies here.~
+diamond~
+0
+weapon ABCOYa AN
+0
+0
+0
+5
+~
+~
+~
+~
+0 BCE ABF -99 ABCDEGHIJ
+0
+0
+80 0 900000000 P
+A
+14 700
+A
+12 700
+A
+13 700
+A
+24 -100
+A
+18 500
+A
+19 500
+A
+17 -400
+#40905
+light~
+`iA `eDark `oLight``~
+A very `edark `olight `clies here `kr`oa`kd`oi`ka`ot`ki`on`kg `edarkness`c.``~
+acid~
+0
+light ABGOYa AO
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+0 0 10 P
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+24 -500
+A
+19 1000
+A
+18 1000
+A
+17 -300
+#40906
+lyre dream~
+`dThe `hLyre `cof `iD`lr`ie`la`im`ls``~
+This lyre makes you wanna go to bed and dream.``~
+gold~
+0
+instrument ABIOYa AO
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+A
+24 -300
+A
+18 1500
+A
+19 1500
+A
+17 -800
+#40907
+Ring death~
+`gRing `dof `bDeath``~
+A ring surrounded by death lies here.~
+energy~
+0
+armor ABFOYa AB
+0
+0
+0
+6
+~
+~
+~
+~
+CFG CFG CFG CFG 0
+0
+0
+80 0 10 P
+A
+19 300
+A
+18 300
+A
+17 -100
+#40908
+Amulet shadow~
+`aShadow `fAmulet``~
+This Shadows seems wrong somehow.~
+air~
+0
+armor ABOYa AC
+0
+0
+0
+6
+~
+~
+~
+~
+CFG CFG CFG CFG 0
+0
+0
+80 0 10 P
+A
+18 503
+A
+19 500
+A
+17 -100
+#40909
+Breastplate breast plate Shadowstar shadow~
+`aB`gr`ae`ga`as`gt`ap`gl`aa`gt`ae `bof `fThe `bS`hh`ba`hd`bo`hw`bS`ht`ba`hr``~
+A nice Breastplate hangs on the wall here.~
+iron~
+0
+armor ABOYa AD
+0
+0
+0
+6
+~
+~
+~
+~
+DGH DGH DGH DGH 0
+0
+0
+0 0 0 P
+A
+18 700
+A
+19 700
+A
+17 -200
+#40910
+helm chaos~
+`mHelmet `nof `iChaos``~
+This is the helmet of `iChaos`c.``~
+diamond~
+0
+armor ABOSY AE
+0
+0
+0
+6
+~
+~
+~
+~
+CFG CFG CFG CFG 0
+0
+0
+0 0 0 P
+A
+19 803
+A
+18 800
+A
+17 -400
+#40911
+Leggings ghost~
+`hGhost `aLeggings``~
+~
+radioactive~
+0
+armor ABOSY AF
+0
+0
+0
+6
+~
+~
+~
+~
+CFG CFG CFG CFG 0
+0
+0
+80 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -600
+#40912
+Nightmare boot~
+`iNight`omare``~
+Your worst nightmare lies here.~
+air~
+0
+armor ABOSYa AG
+0
+0
+0
+6
+~
+~
+~
+~
+CFG CFG CFG CFG 0
+0
+0
+80 0 0 P
+A
+18 5000
+A
+19 5000
+A
+17 -500
+#0
+
+#ROOMS
+#40903
+0 0
+~
+~
+~
+0 0 0
+`gEntrance to the realm of the `iD`ba`ir`bk `oD`hr`kag`ho`on``~
+ 
+~
+0 0 2
+0
+~
+H500
+M200
+S
+#0
+
+#RESETS
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

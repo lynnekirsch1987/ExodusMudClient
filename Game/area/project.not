@@ -1,0 +1,1613 @@
+Sender  Iverath~
+Date    Sat Jul 19 09:32:51 2003~
+Stamp   1058632371
+To      all~
+Subject throwing~
+Text
+i think it would be cool with an extra flag called 'throwing' that you could put on any item
+and then determine somewhere how much damage would do
+i mean, why shouldnt you be able to throw chairs, legs, brains and rocks at people?
+
+iverath
+~
+Sender  Iverath~
+Date    Sat Jul 19 17:19:57 2003~
+Stamp   1058660397
+To      all~
+Subject weapon duplication (really really old)~
+Text
+if youre weak and wield a weapon with the help of a spell/eq
+and you disconnect, a duplicate of the weapon is dropped on the floor
+~
+Sender  Iverath~
+Date    Sat Jul 19 20:44:28 2003~
+Stamp   1058672668
+To      iblis~
+Subject the ranger mount~
+Text
+vnum: 17
+it should have the same hp/move/level as the ranger who called it
+syntax: call beast
+(after 2 seconds:) You hear a roar in the distance. (zecho)
+(wait 5 seconds)
+A woodland behemoth has answered your call.
+~
+Sender  Iverath~
+Date    Sun Jul 20 05:26:45 2003~
+Stamp   1058704005
+To      adeon all~
+Subject obj triggers~
+Text
+WHAT THE OBJ TRIGGERS SHOULD REACT TO:
+worn(uncluding wielding, wearing a light, floatie) 
+get (container, ground, steal, palm)
+remove 
+drop
+put
+give
+someone gives something to wielder
+used(action word, example: press,pull, enter, exit, crawl, board
+tug, descend, ring, climb, scale, shove, play, jump, smash)
+open
+close
+on hit (% chance) when the weapon hits a target (works on throw too)
+on new round
+owners hp/mana/move/sex/race/class/level/str/int/dex/wis/cha/con/align/damroll/hitroll
+opponents hp/mana/move/sex/race/class/level/str/int/dex/wis/cha/con/align/damroll/hitroll
+random player character in the room (not the wielder)
+random mob in the room
+wielders mount
+timer (example: every 10 ticks)
+random (tick)
+when wielder enters a certain room(vnum)
+when wielder says/yells/shouts 'XXX'
+quaff
+eat
+wielder attacks
+someone attacks wielder
+wielder flees
+opponent flees
+rest
+sleep
+stand
+sit
+wake
+mount 
+dismount
+recall
+cast/pray/chant/sing/play/use skill/invoke
+
+COMMANDS THE OBJ TRIGGER SHOULD BE ABLE TO EXECUTE:
+echo/zecho/gecho/pecho
+force(without visible force message) 
+cast/chant/pray/active_skill
+load(mob, obj) 
+purge(including 'purge target_item') 
+string 
+set/flag 
+transfer (without visible transfer message)
+restore
+clone
+jail
+STOP ACTION (example, you want to quaff a vial, and the obj trig stops you from quaffing it)
+
+I think that should cover it :-b
+ps the object should be able to cast all spells/chants etc, it is not dependant on the wielders abilities
+~
+Sender  Iverath~
+Date    Sun Jul 20 06:12:04 2003~
+Stamp   1058706724
+To      all adeon~
+Subject one more thing~
+Text
+obj triggers shold be able to do 'at'
+~
+Sender  Iverath~
+Date    Sun Jul 20 08:50:49 2003~
+Stamp   1058716249
+To      all~
+Subject stransports ctransports~
+Text
+when driving vehicles like boats and wagons you should see the exits of the room you
+drive into, as well as the room name
+~
+Sender  Iverath~
+Date    Sun Jul 20 14:00:37 2003~
+Stamp   1058734837
+To      all~
+Subject immunities and such~
+Text
+it has annoyed me for a LONG time that the only way of making a mob immune to sleep/blind
+is to make it immune to magic, which makes it immune to EVERYTHING except stilettos it seems
+(wrathing damage, fire, lightning, charm, SONGS etc)
+so i would really appreciate a few (not so urgent) changes to be put in during
+some nice coders in-between-big-projects-time.
+
+immunity to magic shold not involve immunity to sound (bard songs)
+new immunities: sound, sleep, blind
+some flags i thought of today: assassinate+throwing, arrow
+the assassinate+throwing flag would make it ALWAYS hit, if the flag was set vuln
+and ALWAYS miss if set imm, and hit 50% of the times if resistant.
+also: an arrow immunity flag (arrows cant hit)
+
+iverath
+
+oh btw, what i meant with 'sound' up there is that it should affect
+bard songs, it doesnt today, i actually dont know wtf its for :-b
+~
+Sender  Iverath~
+Date    Mon Jul 21 18:05:41 2003~
+Stamp   1058835941
+To      all~
+Subject brewing, scribing~
+Text
+old idea, but i still think its a good one
+it would lessen all the hassle if you added the keywords of the spell
+to the vial/parchment when you brewed/scribed something
+right now there is nothing to differentiate a parchemnt of blind
+and a parchment of heal, except the short desc
+~
+Sender  Iblis~
+Date    Tue Jul 22 04:24:12 2003~
+Stamp   1058873052
+To      all~
+Subject Fletchery ideas/questions~
+Text
+Ok while I as coding fletchery, I had LOTS of questions/ideas. 
+Below is from starting with the "attach" skill.
+How did you want the syntax?  "attach" and it makes all arrows possible,
+by mixing the first feather, shaft, and arrowhead found until you are out
+of one of the 3?  or did you want them to type "attach arrowhead shaft"
+and then have to type "attach feather shaft"?  
+Also, you said something like 60 seconds of lag like invoke, forced to sit
+That makes less logical sense to me.  How about like 2-5  (set or random)
+secs per arrow made.  After each arrow it could say something like
+"You have successfully crafted ARROW_NAME!"  Hell, it could start out
+and after a second or two went by say "You begin attaching the feather to
+the shaft" and one or 2 secs later "You being attaching the arrowhead to
+the shaft" or similar messages.
+Then how are arrowheads going to work?  The logical thing to me seems to
+be to make a new item type, arrowhead.  v[0]-v[3] could store the same
+type of things as a weapon's v[1]-v[4] (Ie dice number, number of sides
+on dice, hit type (i assume most arrows will be the same but NOT ALL), and 
+extras (sharp etc)).  I was thinking then we could add to this with maybe
+different shaft types (like a special shaft would add +1 to the number of dice
+sides), and different feather types (Most likely done by mob name, so say 
+feathers from a phoenix would result in a flaming arrow).
+The next question is how in gods name to name the arrow.  We can have 
+standard mix settings, maybe even like invention, so a specific arrowhead,
+shaft, and feather make an arrow named X.  I was also thinking it would be
+cool to have the syntax for attach like
+"attach feather_name shaft_name arrowhead_name NAME_YOU_WANT_OF_ARROW"
+which would then make as many arrows as it could from the 3 names given for
+feather,shaft,arrowhead, and name them all NAME_YOU_WANT_OF_ARROW.  Or using
+the syntax "attach feather shaft", and then "attach arrowhead shaft NAME".
+Or we could somehow name the arrow after the feather, such as 
+"Arrow of a crow's feather" or something much less lame than that.
+Having different types of shafts can depend on the type of wood, and maybe
+your skill at carving (woodworking), or something along those lines.  Or maybe
+you could make 3 crappy shafts, 2 ok shafts, and 1 great shaft from one piece
+of wood, either randomly or you chose when you carve.  Right now you just have
+to do "carve arrow shaft" (since that's the syntax you said) and it converts
+the sticks vnum to a shaft vnum.  More likely it should be "carve sticks/woodname shaft"
+And of course make arrowhead isn't in yet, not til AFTER I finish fletchery :P.
+HAHA i just noticed how you say "there are six steps to making arrows" yet you only
+list 5.  Or maybe the last part is step 6 and just isn't numbered.  Anyways having
+just laugh myself to sleep and post this in the morning.  NOTE this is just ideas,
+this is Minax's baby but it wasn't explained completely so I made some inference here
+and these ideas resulted.  OO and maybe have the last 5-10% of fletchery skill go up
+by usage.  Since its not really spamable that would be ok.  so say 1% for every 50-100
+arrows made, to move from 90-100.
+~
+Sender  Iverath~
+Date    Tue Jul 22 13:44:01 2003~
+Stamp   1058906641
+To      all~
+Subject creation~
+Text
+you should be able to read all help files at creation
+~
+Sender  Iverath~
+Date    Tue Jul 22 20:12:03 2003~
+Stamp   1058929923
+To      all~
+Subject blindness~
+Text
+what do you guys think about reducing its duration to about 10-20 ticks?
+i mean thats more than enough for any pk situation
+and its not too long to wait out either
+since your only chance to escape it is a healer or being a cleric
+when you are in a pk situation
+~
+Sender  Minax~
+Date    Tue Jul 22 23:10:52 2003~
+Stamp   1058940652
+To      immortal~
+Subject vnums created for arrow shaft and arrow~
+Text
+19 is the vnum for the arrow shaft.
+47 is the vnum for the player-made arrow.
+~
+Sender  Minax~
+Date    Tue Jul 22 23:18:36 2003~
+Stamp   1058941116
+To      all~
+Subject vnum for sticks that you forage~
+Text
+49 is the vnum for the sticks that the rangers forage.
+~
+Sender  Iverath~
+Date    Wed Jul 23 15:47:49 2003~
+Stamp   1059000469
+To      all iblis~
+Subject scout~
+Text
+the scout skill would work great with archery
+when you enter a room you see (under the exits) `c[`grild is close ot the east/west/etc`c]`` (scan messages)
+if more than one player(only clanned) several messages would appear on top of eachother
+this to make ranger hunting/archering better in pk
+there shold also be a toggle to turn it on/off
+
+of course far grouping xp wouldnt be wrong either
+iverath
+~
+Sender  Iverath~
+Date    Thu Jul 24 19:44:44 2003~
+Stamp   1059101084
+To      all~
+Subject multiperson arena~
+Text
+new flag: mparena
+anyone who dies in a room with this flag gets transported to:
+mparenaaltar (with full eq)
+
+i dont think it has to be harder than that :-b
+~
+Sender  Iverath~
+Date    Sun Jul 27 13:41:46 2003~
+Stamp   1059338506
+To      all~
+Subject mlist~
+Text
+make mlist (keyword) work like olist (keyword) and only show the mobs with that name
+~
+Sender  Iverath~
+Date    Sun Jul 27 13:50:17 2003~
+Stamp   1059339017
+To      all~
+Subject clan only flag on eq~
+Text
+clan only flag on eq would help alot :-b
+~
+Sender  Iverath~
+Date    Mon Jul 28 00:35:38 2003~
+Stamp   1059377738
+To      all~
+Subject poison~
+Text
+new object type: poisonjar
+it can contain different kinds of poison:
+paralyzing: you drop to your knees, and every tick you get 2 rounds of lag. +normal poison damage(NPD) on tick
+``
+hallucinating: like disorientation + drunktalk +NPD
+``
+deadly: NPD+10 +chance of instant death on tick (just as big a chance as it is on current poison
+``
+sleeping: 20% to go to sleep on tick (sleep lasts 1 tick)  15% chance of slow on tick (no damage on this one)
+``
+blinding: 20% chance of blind on tick +NPD
+``
+weakening: -2str every tick (cumulative)
+``
+the idea is that you have to have an object thats the poisonjar type on to use envenom. 
+many have suggested it, im just putting it in a note.
+``
+iverath
+~
+Sender  Minax~
+Date    Mon Jul 28 09:53:44 2003~
+Stamp   1059411224
+To      iblis~
+Subject fishing~
+Text
+I noticed that you do not lose your bait after you catch a fish.
+~
+Sender  Iverath~
+Date    Mon Jul 28 12:46:16 2003~
+Stamp   1059421576
+To      all~
+Subject hunt/smart hunt~
+Text
+we shold put some kind of delay on hunt
+its silly how fast mobs track you down
+~
+Sender  Iverath~
+Date    Mon Jul 28 20:14:49 2003~
+Stamp   1059448489
+To      all~
+Subject gecho hangman~
+Text
+hangman (word1 word2 word3) (number of tries)
+i guess it would have to use [the hangman channel] :-b
+~
+Sender  Iverath~
+Date    Mon Jul 28 20:22:44 2003~
+Stamp   1059448964
+To      all~
+Subject ventriloquate!~
+Text
+hilton says 'It's cool!' <-i typed in  Hilton, not hilton :-b
+~
+Sender  Iverath~
+Date    Tue Jul 29 15:52:53 2003~
+Stamp   1059519173
+To      all~
+Subject arrows~
+Text
+make iron/steel-tipped arrows to extra damage against syvin/elf
+and blessed arrows more against vroath/sidhe
+~
+Sender  Iverath~
+Date    Tue Jul 29 16:16:07 2003~
+Stamp   1059520567
+To      all~
+Subject new prompt thing~
+Text
+would be cool if you could put a %T in your prompt
+and see the condition of the tanker (awful, good, excellent etc)
+clerics would like that
+~
+Sender  Minax~
+Date    Fri Aug  1 20:39:01 2003~
+Stamp   1059795541
+To      immortal~
+Subject trophy fishing (legendary fish)~
+Text
+Dwarfbane, the legendary bull shark
+Razorfin, the legendary marlin
+Sawtooth, the legendary sawfish
+Bigsplash, the legendary tarpon
+Boatsmasher, the legendary swordfish
+Silver Arrow, the legendary sturgeon
+Flatsnout, the legendary hammerhead shark
+Bazkarakk, the legendary giant squid
+Selsatta, the legendary jellyfish
+Stoneshell, the legendary sea turtle
+Mungava, the legendary grouper
+Snapjaw, the legendary mako shark
+Mola Mola, the legendary sunfish
+Abarakis, the legendary sea bass
+Seabolt, the legendary sailfish
+Ancient, the legendary coelacanth
+Asmodeus, the legendary devilfish
+Ralthagar, the legendary sea horse
+Dark Cloud, the legendary mardan garuyan 
+Fin Fin, Rild's legendary gift to Minax
+``
+Salty, the legendary anchovy   <- A joke.  Anchovies are tiny tiny fish.
+~
+Sender  Iverath~
+Date    Mon Aug  4 12:28:45 2003~
+Stamp   1060025325
+To      all~
+Subject slaymsg~
+Text
+slaymsg others
+slaymsg character
+that would be fun!
+~
+Sender  Iverath~
+Date    Mon Aug  4 12:34:07 2003~
+Stamp   1060025647
+To      all~
+Subject slow~
+Text
+slow should cancel haste on default-hasted mobs
+~
+Sender  Iverath~
+Date    Wed Aug  6 11:01:06 2003~
+Stamp   1060192866
+To      all~
+Subject unfinished trap idea~
+Text
+This is an unfinished idea, feedback appreciated
+``
+You put together different parts and get a trap that you can use in certain places
+``
+spring(container, object)
+spikes[piercing](all, poisonable) used with: spring
+blades[slashing] used with: spring
+snare [lag, fall damage(blunt)]
+brewing container of SPELL(used with: spring)
+iron jaws [lag, damage(pierce)]
+net
+``
+player traps:(that players can make)
+room
+door
+object
+portal
+container (only on closeable containers, can only set on open containers and then close them)
+``
+``
+mud traps:(traps that you can only build)
+summoning mobs, transfer, lag, area
+``
+NEW OBJECT TYPES:
+trap (trapmsg character/others | type of trap(see mud traps + player traps | 
+damage type on trap)
+traprope
+trapspring
+trapspikes/trapblades
+~
+Sender  Minax~
+Date    Tue Aug 12 10:11:49 2003~
+Stamp   1060708309
+To      immortal~
+Subject Clan treasurer~
+Text
+Let me run this by you guys one more time.  We talked about it before and I
+think it's a good idea.  Implement a new clan position called clan treasurer.
+Only the clan leader can assign a clan treasurer.  The clan treasurer will
+have access to a command called 'clan withdraw' that lets him take money out
+of the clan account.  Nobody will be able to deposit money into the clan bank
+account.  Why is this?  Because there are plenty of rich players who can skew
+the balance if they are allowed to deposit.  Money will go into the clan
+account every realtime day at midnight (or whenever) based on the number of
+areas that clan has control of.  For every area a clan controls, the clan
+bank account will get a gold deposit equal to that area's affluence.  At that
+rate, Jhereg will get 31 gold per day, Greenwood will get 41, Forsaken 17,
+Pirates 20, etc and clans will use this money for clan-related things--
+perhaps buying clan equipment or whatnot.  Most importantly, declaring war
+will cost 1000 gold and the money will have to come out of the clan account.
+This will not only slow frivolous wars, but it will also encourage the
+acquisition of areas.  Remember we are considering allowing a player to
+sanctify an area for 1B exp (which will not even require any coding)
+``
+Adding a new clan position will be good for clans in general and sets up a
+system for expansion where clans can use funds for improvements to clan halls
+and such.  Once enough areas are sactified, we can start considering using
+clan wars to determine area ownership.
+~
+Sender  Iverath~
+Date    Thu Aug 14 12:01:02 2003~
+Stamp   1060887662
+To      immortal~
+Subject stuff~
+Text
+it would rock if the messages of log-ins, log-outs and deaths included a time stamp
+that would make it easier for imms to keep track of multiplaying and multikillings
+and it would also be nice if the mud could check if every time a character logged on
+the mud would check if a character with the same ip was "connected" (also checks linkdeadness)
+and give a warning, this would be a very nice weapon against regen
+
+iverath
+~
+Sender  Iverath~
+Date    Fri Aug 15 16:52:39 2003~
+Stamp   1060991559
+To      all~
+Subject new ranger spell~
+Text
+since rangers were whining about the removal of second and third
+i think this spell will appease some of them
+
+This spell creates 3 items(arms, and wrists) for the ranger, and gives him
+an extra attack now and then
+``
+Must have barkskin on
+Must be in a forest to CAST it (you can walk around with it outside of forest)
+lasts for 10ticks(when you get it) and 20 ticks(at level 90)
+spell name: 'Spider Vine'
+rangers get the spell at level 61
+``
+Cast message ranger: `ZcTendrils of vine bore into your arms and become a part of you.`Z`Z
+Cast message spectator: `ZcVines crawl up RANGER's body and attach to his/her/it arms.`Z`Z
+Remove arm+wrist items(triple check so people dont keep stats from items removed)
+(the removal of items does not show)
+``
+50% chance per round of an extra attack.
+vampiric(without changing align) + poison attack (whipping damage)
+3d30 damage
+``
+Opponent: `ZbThe vines on RANGER's arms come to life and tear into your flesh!`Z`Z
+Spectator: `ZbThe vines on RANGER's arms come to life and tear into OPPONENT's flesh!`Z`Z
+Ranger: `ZbThe vines on your arms come to life and tear into OPPONENT's flesh!`Z`Z
+``
+The items:
+`cTendrils of poisonous`Z Spidervine`Z`Z (all have the same short desc)
+arms: -1str +30hp +3dam -10ac
+wrist: +10hp +2dam -10ac
+ack, thats `ZcTendrils of poisonous`Zb Spidervine`Z`Z 
+
+comments appreciated
+
+Iverath
+~
+Sender  Iverath~
+Date    Wed Oct 22 14:17:02 2003~
+Stamp   1066857422
+To      all~
+Subject eq owner history~
+Text
+a good way to keep players from passing eq between alts is to have a
+5 name long list of previous owners of the piece of eq
+or all pieces, since having to seize the piece of eq to stat it would
+be bothersome
+
+iverath
+~
+Sender  Minax~
+Date    Sun Nov  2 10:50:32 2003~
+Stamp   1067799032
+To      immortal~
+Subject Auto-Quests, as you requested~
+Text
+Star Wars uses a lot of automated quests and I like its system.  I'll try to
+relate how it would work if Exodus used a similar system.  This may be a good
+jumping-off point for discussion on auto-quests.  A player would get the quest
+from a mob in town and the mob would direct the player to go to a given area.
+(at this point, you may or may not want to disallow magical transportation for
+that player)  When the player arrives in the given area, he is given a more
+specific location for the quest.  Maybe even something along the lines of the
+radar sense that is already used for rangers.
+
+This process should take some time to accomplish, like 5-10 minutes per quest.
+If it takes too long, the quest gets boring.  If it's too simple, then players
+can trigger it or solve quests so fast that the rewards end up being hoarded.
+
+Anyway, when the player finds the right room, there will be a portal that only
+the quester can enter.  Inside the portal is a single room with an aggressive
+mob for instance.  After defeating the mob, the player is rewarded with some
+quest points, the portal is destroyed, and the player is teleported back to DSC
+(or for safety, clan altar if he is in a clan)  You could even use some of the
+rooms from the haven area since there are so many of them.
+
+Let me make up a fake story to show how this system would work in action:
+
+Godiva the level 65 mage walks up to Brutus, the questmaster somewhere in Thesden.
+"Give me a quest" says Godiva
+<Brutus picks an area based on Godiva's level the area list level range>
+<Random area = Hell of Auvyron.  Too powerful, pick a new area>
+<Random area = Ryaiscar's rises.  Godiva's level is in range>
+<Random mob picked from a pool of 30 or so, dragons, demons, goblins, etc>
+<Random mob = demon.  Set the demon's attributes to Godiva's abilities>
+
+"There is a demon from the plane of destruction trying to enter this world via
+a portal located somewhere in Ryaiscar's Rises.  Only you can stop it.  You
+have 30 minutes to find and kill it" says Brutus the questmaster.
+<At this point, a portal is created in a random room in the area>
+
+Godiva travels to Ryaiscar's rises.  She wanders around a bit and her quest
+radar sense tells her she's getting close.  When she hits the room, she finds
+the portal.  She enters the portal and fights the demon.  She wins and gets
+between 650 and 1000 gold (650 = her level * 10.  1000 is the cap for all)
+and a quest point or two.  She's transported back to DSC and everyone is happy.
+~
+Sender  Minax~
+Date    Sun Nov  2 23:33:20 2003~
+Stamp   1067844800
+To      immortal~
+Subject Entangler bug report~
+Text
+Bards can teleport people out of the arena during superduel.  Entangler showed
+me that.  It is abuseable because if the teleported person dies, they will
+appear in the hangman's tavern with full eq.
+
+Also, Entangler has been charming Shea, a guildmaster from Silver Crescent
+Woods, and taking him around with him as a portable trainer.  I fixed that
+one myself.
+
+Also, apparently Despair of Orpheus bard song can disarm imms.  Kalus
+apparently got disarmed the other day and Entangler's been bragging about
+it.  I don't carry eq so I guess I was spared his wrath.  Needless to say,
+that ought to be changed.
+~
+Sender  Iverath~
+Date    Tue Nov  4 10:21:18 2003~
+Stamp   1067970078
+To      all~
+Subject notes~
+Text
+penalty list last - would show the last 20 notes
+this would make it MUCH faster to look through recent penalties/oocnotes
+or: penalty list 30 - gave you the last 30
+~
+Sender  Minax~
+Date    Fri Nov  7 09:17:32 2003~
+Stamp   1068225452
+To      immortal~
+Subject bug with dual wield~
+Text
+Lune pointed something out to me today.  You can wield two weapons and still
+hold an item as long as you hold the "held" item before wielding the second
+weapon.  If you wield both weapons and then try to hold the item, you are
+prevented from doing so.  if you hold the item first, you can still wield
+both weapons.  If you wield one weapon and then hold the item, you can still
+wield the second weapon.  We should see about ficing this.
+~
+Sender  Minax~
+Date    Fri Nov  7 14:08:10 2003~
+Stamp   1068242890
+To      immortal~
+Subject My Hero Idea~
+Text
+I have an idea for heroes.  This one is different from all the other ones
+because it takes very little coding.  YES this will allow heroes to cheat if
+they abuse their powers, but imms can cheat too.  We'll just have to be vigilant
+in deciding who gets to be a hero.  Also, we will have to educate heroes on
+what is appropriate hero behavior.  Here's what you get when you become a hero:
+``
+You get all the skills and spells you had at 90.
+You get Create Spring and Create Food no matter what class you are.
+You get a limited version of restring, which only works on objects you hold.
+You get access to Questy's room to run autoquests.
+Heroes are nominated by imms and voted in by the players.
+Heroes have access to the imm channel (-MAYBE-)
+If a hero messes up in a major way he is deleted.
+If a hero messes up in a minor way, players can take him to court.
+``
+Since these kinds of heroes have no special abilities, they can still be
+active in their clans and PK and get PK'ed.  They will be a liason between
+the players and the imms.  Hero is an RP role, not a badass power role.
+~
+Sender  Minax~
+Date    Wed Nov 12 17:34:00 2003~
+Stamp   1068687240
+To      immortal~
+Subject Avatar overhaul~
+Text
+Rather than straight (CON-3) HP per level gains, I think we can solve the
+major objections by tying gains to the class of the avatar.  The following
+table shows my proposal for max HP gains for each class.  These would still
+be based on a 25 CON score.
+`kClass ``- `iMax HP  ``-  `oMax HP
+`i        (level)    `o(lv 90)
+`kWARIO ``-   `i22    ``-  `o(1980)
+`kRANGE ``-   `i22    ``-  `o(1980)
+`kMONK  ``-   `i20    ``-  `o(1800)
+`kREAVE ``-   `i19    ``-  `o(1710)
+`kPALAD ``-   `i19    ``-  `o(1710)
+`kTHIEF ``-   `i18    ``-  `o(1620)
+`kBARD  ``-   `i18    ``-  `o(1620)
+`kASSAS ``-   `i18    ``-  `o(1620)
+`kCLERI ``-   `i16    ``-  `o(1440)
+`kMAGE  ``-   `i15    ``-  `o(1350)
+``
+Add to this another 300 in hp gains bought with experience points and
+another 150 if the character goes all out with +hp equipment.  Anything on
+top of that is hp gained from cashing runes.  I think this puts hp gains
+back into a reasonable realm and as such, I'd like to move avatars to a
+remort race, functioning like Kalians do.  When an Avatar dies, he is
+automatically put through the reincarnation process (-20% totalxp if you
+feel like it) and put back to what he or she was before.  I'll be more
+than happy to make up a whole new quest and area to handle the storyline
+behind a player's assencion to heaven or I can leave that to the quest
+and builder imms if they feel it's their jobs.  I'm just looking out for
+my demigod peeps.
+-=*) Minax (*=-
+~
+Sender  Iverath~
+Date    Thu Nov 13 07:54:04 2003~
+Stamp   1068738844
+To      all~
+Subject `iCOOL IDEA!``~
+Text
+syntax: damage (amount) (target) (message)
+this command, that would be avaiable for imms and for mobs
+would not only be a alternative slay (with your very own message going with it)
+but it would also be a really cool way to simulate
+unique damage spells/skills in mob scripts.
+who needs fireball when you have:
+"`iShenlon tears at you with his blood-dripping talons, leaving you in shreds.``"
+
+(of course it would rock if this command would work in obj triggers :-b)
+
+Iverath
+
+(example, using the command: damage entangler 300 `jA branch from the greenwood tree falls on your head!``)
+(this would do 300 hp damage to entangler with only that message.)
+~
+Sender  Iverath~
+Date    Thu Nov 13 14:13:38 2003~
+Stamp   1068761618
+To      all~
+Subject mob flag~
+Text
+new mob flag suggestion: no_align
+makes the mobs align null
+so its not affected by any align dependant prayers
+also it doesnt change align when you kill it
+good to put on quest mobs like rats
+~
+Sender  Iverath~
+Date    Thu Nov 13 14:16:33 2003~
+Stamp   1068761793
+To      all~
+Subject nopush~
+Text
+mob flag: nopush
+so you cant push/maelstrom/drag/toss that mob
+it has often annoyed me that you have to make the entire room
+nobully when you just want to make it impossible to push one mob
+~
+Sender  Iverath~
+Date    Sat Nov 15 20:38:28 2003~
+Stamp   1068957508
+To      all~
+Subject brewing and scribing~
+Text
+ever had problems with keeping lots of potions on you,
+and trying to get to the right one?
+I HAVE THE SOLUTION!
+brew and scribe should add keywords depending on what spell is
+brewed/scribed on the vial/scroll.
+example: brew 'magic missile' flask 90
+adds the keywords 'magic' and 'missile' to the flask
+yes yes, you can thank me later for my brilliant idea
+
+iverath
+~
+Sender  Iverath~
+Date    Sun Nov 16 12:23:20 2003~
+Stamp   1069014200
+To      all~
+Subject yet another room flag suggestion~
+Text
+"nolook" makes it impossible to "look e" or scan
+also you cant use where (or be seen on where) when in a room
+with "nolook"
+
+Great for maces and dungeons where you want to surprise
+the player
+
+Iverath
+~
+Sender  Iverath~
+Date    Sun Nov 16 13:06:39 2003~
+Stamp   1069016799
+To      all~
+Subject ANOTHER room flag~
+Text
+"wildmagic" when you cast/pray/chant in this room
+the following magic is a random one
+
+for example, you cast haste on yourself in a wildmagic room
+and you end up casting ray of truth on a random person/mob in the room
+(of course one of the possible targets is YOU)
+
+iverath
+~
+Sender  Iverath~
+Date    Sun Nov 16 13:11:02 2003~
+Stamp   1069017062
+To      all~
+Subject new act flag~
+Text
+the MONK act flag
+the mob can use the following:
+knock, fists, kick, strike, whirlwind, toss, counter
+if you flee, 10% chance of mob diving after you
+~
+Sender  Iverath~
+Date    Mon Nov 17 13:56:20 2003~
+Stamp   1069106180
+To      all~
+Subject mobs~
+Text
+id like to be able to set how many attacks a mob can do per round
+and i would also like to be able to set its stats
+all this in mob edit of course
+
+then id be able to create some neat mobs :-b
+~
+Sender  Iverath~
+Date    Fri Nov 21 15:32:05 2003~
+Stamp   1069457525
+To      all~
+Subject nolook: addition~
+Text
+make it say: `Z`Z[Exits: unknown] too
+~
+Sender  Iverath~
+Date    Sun Nov 30 05:54:29 2003~
+Stamp   1070200469
+To      all~
+Subject new room flag idea~
+Text
+"magic" - weapons/skills doesnt work in these rooms
+only magic (cast, chant, pray, NOT singing/playing)
+~
+Sender  Iverath~
+Date    Mon Dec  1 08:40:19 2003~
+Stamp   1070296819
+To      all~
+Subject POLL~
+Text
+just thought of a NEW COOL SPECIAL channel/command
+POLL (oOoOh!)
+it looks like this: `a[`hPoll`a] `oIs Iverath Weird?`a Yes:(`a) No:(`g3`a)``
+commands are: POLL ASK Is Iverath Weird?
+and POLL VOTE YES/NO
+~
+Sender  Iverath~
+Date    Thu Dec  4 09:30:06 2003~
+Stamp   1070559006
+To      all~
+Subject `oPlayer stores``~
+Text
+I think we should limit the amount of stores for 
+each character to one.
+To avoid hoarding (getting more people out there in groups
+helping eachother get new eq)
+and to get some rotation on existing eq
+
+screw old stores, let them be, though,
+theres just too many of them, and too much hassle
+chasing morts around to pick a store they want to keep
+
+iverath
+~
+Sender  Iverath~
+Date    Fri Dec  5 11:51:03 2003~
+Stamp   1070653863
+To      all~
+Subject transfer messages~
+Text
+transfermsg character
+transfermsg others
+these two commands would allow you to costumize your transfer messages
+examples: transfermsg character `iIverath grabs you by the ear and drags you off to places unknown!``
+transfermsg others `iIverath grabs $n by the ear and drags $e(him/her/it) off to places unknown!``
+these commands wouldnt be used to actually transfer anyone
+just to change your transfer messages
+Iverath
+~
+Sender  Iverath~
+Date    Mon Dec  8 15:14:08 2003~
+Stamp   1070925248
+To      all~
+Subject enchant~
+Text
+enchant should not remove rot-death
+as it is now you can take your kickass clan weapon and fade it
+not good
+~
+Sender  Iverath~
+Date    Mon Dec  8 15:51:50 2003~
+Stamp   1070927510
+To      all~
+Subject area force~
+Text
+when an area resets, it should force all the mobs in that area to 'stand'
+so you cant sleep/knock a mob and leave it there for eternity
+also i think areas should not pop as fast when people are in it
+the fast repop rates makes it hard to kill the hydra for instance
+the heads reset before the players have managed to kill the hydra
+~
+Sender  Iverath~
+Date    Sat Dec 13 14:30:13 2003~
+Stamp   1071354613
+To      all~
+Subject for features~
+Text
+race
+class
+loner
+clanned
+noclan
+female
+male
+
+thats the for additions id like to see
+~
+Sender  Iverath~
+Date    Fri Dec 19 16:00:54 2003~
+Stamp   1071878454
+To      immortal~
+Subject recall~
+Text
+anyone below 15 hours played should be able to recall
+any player should be able to recall for the price of 5 qpoints
+~
+Sender  Iverath~
+Date    Tue Dec 30 12:18:59 2003~
+Stamp   1072815539
+To      all~
+Subject snoops~
+Text
+i would like some improved snooping abilities..
+to better cover certain events, like TELLS, or SAYS or stuff like that
+like this: snoop entangler tells   would snoop all tells/telepaths he sends/recieves
+additional options would be: says, gts, yells, get/drop/give
+or ALL of the channels that you dont share with the snoopee
+
+iverath - im tired of seeing battle/walk spam when i snoop people
+~
+Sender  Iverath~
+Date    Fri Jan  2 11:00:01 2004~
+Stamp   1073070001
+To      all~
+Subject `iAggression`c (ranger skill)``~
+Text
+This is a skill that i think will give rangers
+rangers a must needed boots in PK.
+
+Syntax: <aggression rage>
+That will put the ranger in a cranky mood, and
+the ranger will attack any loner/clanned person that
+enters the room. Or, if the ranger moves into a room
+with players in it, he will attack a random player.
+Syntax: <aggression calm>
+Will take the ranger out of the killing frenzy.
+
+Message rage (ranger): 
+`iYou are overcome with the desire to kill!``
+Message rage (spectator):
+`iRANGER's skin turns red as he/she works him-/herself into a frenzy!``
+Message attack (spectator):
+`iRANGER snarls and throws himself at you!``
+Message calm (ranger):
+You close your eyes and take deep breaths to calm yourself down.
+Message calm (spectator):
+RANGER closes his/her eyes and takes deep breaths to calm down.
+
+Now, I know this look like a warrior skill, but warriors
+have berserk, and don't need this excellent
+pk skill as much as rangers do.
+
+Not only will the ranger always attack first,
+but it will also gets additional attacks while in
+rage mode:
+First round: 1 extra attack (100% chance of happening)
+Second round: 1 extra attack (80% chance of happening)
+Third round: 1 extra attack (60% chance of happening)
+Fourth round: 1 extra attack (40% chance of happening)
+Fifth round: 1 extra attack (20% chance of happening)
+(The chance of an additional attack never goes lower
+than 20%)
+The ranger cannot put on rage mode while fighting.
+There is a lag of 2 rounds when you rage/calm.
+
+For those who do not see all the benefits of always
+attacking first, here they are:
+Since bard songs hit much harder while played on an instrument
+the ranger gets the edge if he attacks first, and the bard
+won't be able to charm or sleep the nanger either.
+It works just as good against assassin eviscerate and monks
+fists of fury, not to mention exorcism.
+Another good thing about this is that if the ranger hunts
+someone, the prey wont be able to just run past the ranger.
+
+The downside of this skill is that the ranger cannot choose
+WHO he will attack.
+
+The chance of attacking first is: SKILL%
+
+In addition to my "spidervine" idea (noted as project)
+we should see more rangers pkilling in no time.
+
+Iverath
+~
+Sender  Iverath~
+Date    Fri Jan  2 19:52:41 2004~
+Stamp   1073101961
+To      immortal~
+Subject grammar thing~
+Text
+The first non-color code letter on a row should be upper-case
+if that letter is the beginning of a short desc of some kind
+and if a short desc appears IN a sentence, the first letter
+should be lower-case.
+Also the editor sets the first letter in the short desc
+to upper-case, which is gay.
+~
+Sender  Minax~
+Date    Sat Jan  3 11:30:35 2004~
+Stamp   1073158235
+To      immortal~
+Subject Auto Quest Master~
+Text
+All quest commands are used only in room with Questmaster
+`kQUEST REQUEST FIND``
+Questmaster picks an area that the player's level falls within.
+Questmaster picks an item from a list of 30 stock nosaveitems.
+Questmaster flags that item with the player as owner.
+Questmaster drops the item in a random room in that area.
+Questmaster says $item has been stolen from King Athanmere's treasury.
+Questmaster says You must find it.  Look in the vicinity of $area for $roomname.
+Questmaster says You have 30 hours to find it and bring it to me.
+(MAYBE) Questmaster denies magical transportation to the player.
+`kQUEST REQUEST HUNT``
+Questmaster picks an area that the player's level falls within.
+Questmaster picks a mob from a list of 30 stock nasty mobs.
+Questmaster puts the mob in a random room in that area.
+Questmaster says $mob has escaped from captivity.  It is very dangerous.
+Questmaster says You must find and kill it.  Look in the vicinity of $area for $roomname.
+Questmaster says You have 30 hours to find it and kill it.
+(MAYBE) Questmaster denies magical transportation to the player.
+`kQUEST CLEAR`` - cancels current quest
+Questmaster tells you I'm sorry you were unable to complete the quest to return $item)
+(Questmaster tells you I'm sorry you were unable to complete the quest to slay $mob.)
+Questmaster tells you better luck next time.
+`kQUEST COMPLETE`` - completes current quest
+Questmaster says Thank you for returning $item.
+(Questmaster says Thank you for slaying $mob.)
+Questmaster rewards you with (1dlvl) gold
+Player cannot run another quest for 10 game hours.
+``
+Possible future: Much harder quests can be requested for involving quest points
+~
+Sender  Iverath~
+Date    Sun Jan  4 16:34:28 2004~
+Stamp   1073262868
+To      all~
+Subject Backstab~
+Text
+I have been wanting for this skill to change for a very long time,
+so I thought I might as well write a proj about it, and make it
+'official'.
+Double backstab when hasted is just plain weird, I would rather
+have it so backstab made double damage and was not affected by
+haste.
+Remove the move requirement to use the skill.
+Allow people to backstab anyone at any hp, but so we wont get
+problems with backstab/flee, make so elusiveness gets a success rate
+of: SKILL% -10.
+Tier 1 thieves get 1 round of lag on backstab, tier 2 half a round,
+and tier 3 no lag.
+And for coolness:
+If someone DIES of a backstab they will only see this:
+"Something hits you in the back and you fall to the ground dead!"
+
+And for thieves: add a skill at level 80.
+Enhanced backstab: adds a SKILL% * 2% chance of double damage on the
+backstab.
+
+I think this will save the pk aspect of the thief class.
+
+Iverath
+~
+Sender  Iverath~
+Date    Sun Jan  4 19:33:54 2004~
+Stamp   1073273634
+To      all~
+Subject group spellage~
+Text
+cast 'haste' group   -> spells the whole group, costs the same mana per target
+in this case i think its 20mana per
+~
+Sender  Minax~
+Date    Mon Jan  5 15:42:43 2004~
+Stamp   1073346163
+To      immortal~
+Subject Ranger Spell Idea~
+Text
+Ranger spell - Articial Wilderness: Turns any room into a forest room for the
+duration of the spell.
+~
+Sender  Minax~
+Date    Mon Jan  5 17:48:36 2004~
+Stamp   1073353716
+To      immortal~
+Subject Thieves and Traps~
+Text
+Detect Traps   (lv 32 Thief-only skill)
+Avoid traps    (lv 40 Thief skill)
+Disarm Traps   (lv 50 Thief skill)
+Create Traps   (lv 32 Thief skill/lv 45 Assassin skill)
+Wall of Thorns (Make it useful again)
+``
+Detect Traps - If there's a trap or a tripwire in the room, portal, or
+container, the thief detects it with 'scan west' (room) or 'look chest' or
+'look door' and gets a message like 'You sense a trap.'
+``
+Avoid Traps - Increased likelihood that when a thief does an action that
+springs a trap, either the thief will avoid the trap altogether, or the
+damage of the trap is minimized.  This applies to tripwires too.
+``
+Disarm Traps - Once a trap is detected, the thief can attempt to disarm it.
+'Disarm trap' if it's a room trap in the room with the thief.  Otherwise it's
+'disarm chest' or 'disarm west' if it's a door west.  There should always be
+a small chance the thief fails and springs the trap.
+``
+Create traps - Here's where things get fun and complicated.  There are three
+types of traps that can exist:  Object traps (lvl 32), Portal traps (lvl 61),
+and Room traps (lvl 90)  Traps must be created by thieves using the invention
+skill.  I'll write a seperate note to deal with the Create Traps skill.  When
+someone creates a trap, it should make a log message showing who and where,
+just like when someone tries to mask.
+~
+Sender  Iverath~
+Date    Fri Jan  9 15:04:13 2004~
+Stamp   1073689453
+To      all~
+Subject sinking~
+Text
+Naslander has vanished...  You hear his muffled cries from somewhere below.
+that message doesnt always fit in all rooms (hangmans tavern for instance)
+if you could customize that message..it would be nice
+~
+Sender  Minax~
+Date    Sun Jan 11 18:40:20 2004~
+Stamp   1073875220
+To      immortal~
+Subject Avatar racial ability~
+Text
+I came up with the two racial skills for Avatars (REMORT AVATARS ONLY!) which
+will be very useful and yet not unbalance things too much in their favor:
+``
+Armor of God - Creates an invisible armor around the Avatar and any attack
+done against the avatar has a 33% chance of being completely absorbed by the
+armor.  This includes all attacks, skills, spells, etc. done against the
+avatar while protected.  The duration for this skill is one second for every
+level of the avatar (1-90 seconds)  This ability can be used once every hour
+realtime, which works out to roughtly once per mud week.
+``
+Hammer of God - All attacks done by the Avatar while under the influence of
+this spell would inflict double damage.  This applies to attacks, skills,
+spells, etc.  The duration of this skill is one second for every level of
+the avatar (1-90 seconds)  This ability can be used once every realtime
+hour, which works out to roughly once per mud week.
+``
+These durations might be low, but it's easier to tune things up than to
+tune them down because nobody bitches about upgrades.  Also if you think
+these are too powerful, consider the fact that they cannot be used in
+combat, so if they are to be used as part of pk, they have to use the
+abilities before initiating combat and it won't help them if they get
+jumped.  Also, Incisor feels there is no reason to play a warrior
+avatar because a mage gets just as much hp and has spells.  One possible
+solution for this would be to give hammer of god only to non-casting
+classes.  Think it over.
+~
+Sender  Iverath~
+Date    Sat Jan 17 19:08:21 2004~
+Stamp   1074395301
+To      all~
+Subject `gThyrent``~
+Text
+THYRENTS:(or litan)
+Fire Lizards...
+Can only shriek(shout) as a means of communication. (not emotes, no oocs, etc)
+If they are in a dark room with 'flame on', the room lights up as if a char
+with a light source was in it.
+Imm: fire
+(may cause problems with dharkkum)
+Vuln: Cold (does 3x damage), will take 2x damage when in water
+
+Automatic fire shield when theyre not touched by water (Toggle on/off: "flame")
+When flame on: long desc = A flaming appariation stands here.
+(additional keywords added: flaming, apparition, thyrent)
+If you look at a "Thyrent" when the flame is on, you go blind for a tick.
+
+4x heal near a campfire
+2x heal when sunny weather
+automatic haste when sunny weather
+0.5x heal when its raining
+
+SKILLS:
+Flare
+syntax: flare <target>
+Can only be used while fighting, and the target must be your opponent.
+Costs 50 mana
+Blinds the opponent (regular blindness)
+unless: target is a thyrent
+IF target has -5 savings, then theres a 25% of failing
+-10 or better savings = 50% chance of failing
+
+When not raining + 'flame on': they leave burning footsteps that last 1 tick.
+"`kBurning three-toed footsteps lead to the DIRECTION.``"
+
+stats:
+str: 17 dex: 22
+int: 10 con: 17
+wis: 13 cha: 12
+~
+Sender  Iverath~
+Date    Sun Jan 18 08:42:20 2004~
+Stamp   1074444140
+To      all~
+Subject control weather~
+Text
+control weather should change the weather the next tick
+instead of like how it is now: never :-b
+
+nowadays it actually matters if its raining/sunny and stuff
+(rangers/litans)
+
+Iverath
+~
+Sender  Iverath~
+Date    Tue Jan 20 23:03:39 2004~
+Stamp   1074668619
+To      all~
+Subject some new act flags~
+Text
+2ndattack: gives the mob a second attack (100% chance of it executing)
+3rdattack: gives the mob a third attack (100% chance of it executing)
+4thattack: gives the mob a fourth attack (100% chance of it executing)
+
+and perma affects should be able to be added in olc
+and it would be good to have a set command with which you
+could remove perma affects too.
+
+iverath
+~
+Sender  Iverath~
+Date    Wed Jan 21 17:14:51 2004~
+Stamp   1074734091
+To      all~
+Subject more act flags~
+Text
+aggevil, agggood, aggneutral <-agg towards a certain align
+~
+Sender  Iverath~
+Date    Thu Jan 22 09:08:01 2004~
+Stamp   1074791281
+To      all~
+Subject complicated stuff again~
+Text
+id like to see an addition to object triggers..well, two
+i would like to be able to connect the chances of two actions executing
+example:
+addaction 10 0 say booga
+addaction -1 2 say booga again!
+so IF the first action executes, so will the second one
+and if it doesnt execute, the second one wont either
+
+id also like to see the opposite:
+if action x does not execute, then the following action WILL.
+addaction 50 0 say i like you
+addaction -2 0 say i hate you
+if "i like you doesnt execute" "i hate you" will
+
+And some more variables id like to see:
+$on_death, $on_sacrifice, $on_leave, $char_kills
+those should be pretty self-explanatory
+$bribe AMOUNTINGOLD - you give mob at least the said amount.
+oh, thought of something more for the above ones..
+$on_sacrifice VNUM, vnum of the item sacrificed
+$on_leave DIRECTION, direction that someone leaves
+$char_kills VNUM, chars kill mob with VNUM (or any mob if no vnum is added)
+
+I guess it became more than i originally intended
+I can already imagine Iblis tearing his hair reading this note :-b
+
+Iverath
+~
+Sender  Iverath~
+Date    Fri Jan 23 14:44:44 2004~
+Stamp   1074897884
+To      all~
+Subject about the obj trig stuff~
+Text
+instead of -1 and -2 in the last idea about obj triggers
+make it =ACTIONNUMBER (example: addaction =3 0 say booga again!)
+to make an action execute if action 3 (=3) does
+and -3 to make it execute of action 3 did not.
+
+hope that was understandable
+~
+Sender  Iverath~
+Date    Fri Jan 23 16:47:14 2004~
+Stamp   1074905234
+To      all~
+Subject no_mob extra flag~
+Text
+id like a 'no_mob' extra flag for objects
+because some mobs i dont want people giving to their charmies
+to wear, since they might have certain obj triggers that only
+works if a mob is wearing it.
+
+iverath
+~
+Sender  Iverath~
+Date    Sat Jan 24 03:14:18 2004~
+Stamp   1074942858
+To      all~
+Subject obj triggers AGAIN~
+Text
+$whenput VNUM, where VNUM is a container
+~
+Sender  Iverath~
+Date    Sat Jan 24 06:18:34 2004~
+Stamp   1074953914
+To      all~
+Subject berserk change idea~
+Text
+You can only berserk in battle
+when you berserk, you get +200hp and you cant flee
+second and third attack have 100% chance of executing on round
+(all current berserk affects are still in)
+the warriors takes 133% damage while in berserk mode
+if the opponent flees, the warrior is still berserked for
+2 ticks. If the opponent dies, the berserk ends, IF that was
+the only opponent, if the warrior is fighting others too, 
+the berserk wont stop. When the berserk ends, the warrior
+will get damaged for 500hp.
+
+iverath
+~
+Sender  Minax~
+Date    Sun Jan 25 10:30:29 2004~
+Stamp   1075055429
+To      immortal~
+Subject Basic Groundwork for Object Damage (feel free to modify)~
+Text
+shield block = 1% chance of damaging weapon
+shield block = 1% chance of damaging shield (2% vs axe)
+parry = 1% chance of damaging foe's weapon
+parry = 1% chance of damaging own weapon
+hit in combat = 1% of damaging the area hit**
+hit with sharp weapon = double normal chance of damage
+hit with vorpal weapon = double normal chance of damage
+**When hit, the blow lands on:
+finger     3%
+neck       5%
+torso      30%
+head       10%
+legs       20%
+feet       5%
+hands      5%
+arms       10%
+about body 10%
+waist      2%
+wrist      3%
+held       2%
+shield     (shield block only)
+When damaged, an item's durability goes down 1-3 points.
+When items melt, drip, freeze, etc, condition goes down 1-10 points.
+When an item's condition reaches 0, it is destroyed and GONE!
+When an weapon is in fair condition, it does 1/2 damage
+When a weapon is in poor condition, it does 1/4 damage
+When armor is in fair condition, it provides 1/2 AC
+When armor is in poor condition, it provides 1/4 AC
+-- To offset this --
+Mage spell - protect item (takes 0 damage for (CASTER LVL) ticks.
+Ranger skill - repair (+1 condition, weapon, armor) failure = bad
+Blacksmith in town who will fix eq for 10 gold * damage * item lvl
+~
+Sender  Iverath~
+Date    Thu Jan 29 16:39:37 2004~
+Stamp   1075423177
+To      all~
+Subject thief skill suggestions~
+Text
+Pilfering
+Level 70
+When the thief fight someone, theres a SKILL%*50% per round that 
+the thief will steal 5% of the cash of the opponent.
+Theres no chance of getting caught, works on mobs.
+
+Eavesdropping
+You can either eavesdrop on a person to hear their in-/outgoing tells.
+You can either eavesdrop on a person to hear their in-/outgoing tells.
+Or you can eavesdrop in a direction or through portals (with the
+ENTER actionword). You cannot eavesdrop on imms, or on tells
+
+Hawkeye(needs a better name)
+Level 75
+Allows the thief to hit 50% of the times(if the throw normally would
+have missed due to godly mob/player dex/ac), the thief gets +5% chance
+of hitting for every point of dex over the opponents.
+example: THIEF(21 dex) attacking WARRIOR(18 dex) would have 50+15% chance
+of hitting WARRIOR, unless the throw normally wouldve hit.
+Reduces throw lag to 1 round.
+
+Mount hijacking(needs a MUCH better name)
+Level 80
+thieves can just push people with equal or less str to the thief
+off their mount and mount it. thieves with this skill never
+needs to do that tether/untether shit.
+
+Cool Disarm(yet another that needs a better name)
+When the thief disarms the opponent, theres a 3% chance of
+the weapon ends up in the thieves inventory.
+If it doesnt end up in the thieves possession, it ends up
+in the opponents foot or something like that, doing damage.
+90% of the times it does 50hp damage, 10% it does 80hp.
+This has got a SKILL%*90 success rate, -10% for each
+point of dex of the opponents thats better than the thieves.
+~
+Sender  Iverath~
+Date    Fri Feb  6 16:36:09 2004~
+Stamp   1076114169
+To      all~
+Subject outside weather~
+Text
+extra flag: no_weather
+doesnt show weather messages in the outdoors-flagged room.
+~
+Sender  Minax~
+Date    Wed Feb 18 09:53:12 2004~
+Stamp   1077126792
+To      immortal~
+Subject create traps~
+Text
+Three kinds of traps: Object traps, portal traps, and room traps.
+
+Object traps are subdivided into container and noncontainer traps.  Container
+traps are triggered by opening, closing, locking, and unlocking.  Door traps
+are considered object traps if the trap is designed to go off when someone
+opens, closes, locks, or unlocks the door.  Noncontainer traps are triggered
+by taking, pulling, pressing an object.  Think of a shooting needle or a
+knife on a spring.
+
+Portal traps are triggered when someone moves into a new room.  Door traps
+are considered portal traps if they are triggered when someone goes through
+the door into a new room.  North, south, east, west, up, down, enter, exit,
+climb, shove, etc.  These are like a string tied to the door that makes an
+arrow shoot at you or a rock balanced above the door that falls on you or
+entering a portal and having it explode.
+
+Room traps are triggered whenever someone enters the room.  This includes
+things like spiked pits or a rope snare, or a tripwire even.  When someone
+enters the room, a check is made to see if they trigger the trap.
+
+Here's some examples of how I envisioned setting traps:
+> combine dagger and spring
+You combine a dagger and a spring to make a spring blade trap.
+> install trap in chest
+You install a spring blade trap in a wooden chest.
+You close a wooden chest.
+LOG: Mendou installed a spring blade trap in a wooden chest at Devon Square Center [4056]
+> open chest
+You open a wooden chest.
+LOG: Mendou tripped a spring blade trap set by Mendou at Devon Square Center [4056]
+SURPRISE!  A spring blade trap pops out and injures you badly!
+You have been poisoned by a spring blade trap. <- I forgot the poison msg
+---
+> combine dart with rope
+You combine a dart with a rope to make a dart tripwire trap.
+> install trap west
+LOG: Mendou installed a dart tripwire trap at Devon Square Center [4056]
+You install a dart tripwire trap in the west exit.
+> w
+As you leave west, you set off a dart tripwire trap.
+LOG: Mendou tripped by a dart tripwire trap set by Mendou at Devon Square Center [4056]
+A dart tripwire trap MANGLES you.
+(then the person goes west)
+---
+> install pit trap
+LOG: Mendou installed a pit trap in Devon Square Center [4056]
+You install a pit trap in the middle of the room.
+>east
+>west
+LOG: Mendou tripped a pit trap in Devon Square Center [4056]
+As you enter the room, the ground gives out and you fall into a pit.
+
+Remember, if you fail to make or install the trap properly, it can backfire
+and hurt you.  When this happens, it should also check your avoid traps skill
+so you could have a trap backfire on you, but you avoid it and take no damage.
+~
+Sender  Iverath~
+Date    Tue Feb 24 09:40:17 2004~
+Stamp   1077644417
+To      bobthetest iblis~
+Subject BATTLERAGE~
+Text
+Cost: same as berserk
+Level: 85
+You can only battlerage in battle.
+
+when you battlerage, you get +200hp and you cant flee
+second and third attack have 100% chance of executing on round.
+(all current berserk affects are still in)
+The warrior takes 133% damage while in battlerage mode.
+If the opponent flees, the warrior is still battleraged for
+2 ticks. If the opponent dies, the battlerage ends, IF that was
+the only opponent, if the warrior is fighting others too, 
+the battlerage wont stop. 
+When the battlerage ends, the warrior will get damaged for 500hp.
+~
+Sender  Iverath~
+Date    Fri Feb 27 09:32:03 2004~
+Stamp   1077903123
+To      all~
+Subject area flags for building~
+Text
+noquit, admin_only
+~
+Sender  Minax~
+Date    Thu Mar 11 00:48:36 2004~
+Stamp   1078994916
+To      immortal~
+Subject Firest Fires!~
+Text
+Forest Fires  (Minax's newest quest idea)
+``
+> forestfire <vnum> slow/normal/fast/insane
+`hYou snicker mischieviously as you start a forest fire in <room_name>``
+or `hThat room is not a forest/field/city room.  No fire for you!``
+gecho `oOH NO!  A forest fire has been started in <area_name>!``
+gecho `oGrab your pail and put it out before the fire spreads out of control!``
+``
+Forest fires burn in rooms flagged as forest, field, and city.  If a room
+has a forest fire in it, it should have a special fire object w/ object
+trigger in it too.
+`iSmoke surrounds you as engulfing flames sear your flesh.``  Every ten seconds
+you stay in a burning room, you receive 50 points of damage from the flames.
+Players under level 10 and all Litans should be protected from damage.
+``
+The quest/game part of forest fires is the fact that they spread!  If a room
+has a forest fire and the adjacent room is of the appropriate sector, the fire
+will spread into the next room.  The pace at which this happens depends on
+how fast the imm chose when he started the fire.
+slow = spreads to a new room every tick (40 sec)
+normal = spreads to a new room every 30 seconds
+fast = spreads to a new room every 20 seconds
+insane = spreads to a new room every 10 seconds
+``
+Whenever a forest fire spreads to a room adjacent to a new area, you see:
+gecho `oWatch out!  The forest fire is approaching the boudary of <area_name>!``
+Whenever a forest fire spreads into a new area, you get:
+gecho `oThe forest fire has spread into <area_name>!  Act quickly to put it out!``
+``
+If the fire becomes too much for people to handle, the imms can intervene with:
+> forestfire cancel
+gecho `oThe forest fire instantly dies out.``  Every fire room in the game
+is cleared and no more fire objects either.
+``
+FIGHTING THE FIRE
+``
+There should be a special quest bucket.  Players should only be able to hold
+one quest bucket at a time and they should not be put in containers, nor
+donated, nor stocked, nor auctioned, nor saved in any way.  I can make a
+mob who hands them out or whatever.  With bucket in hand, the player can go
+to any water room and type:
+> dunk bucket
+`hYou dunk the bucket underwater, filling it up.``
+and when you get to the room where you want to fight the fire, you type:
+> douse fire
+`hYou throw water on the fire, temporarily putting it out.`` or
+`hYou throw the water on the ground because there's no fire here!``
+Then the bucket is empty and must be refilled again from a water room.
+Even though the fire is extinguished, it can spread right back into that
+room on its next interval.
+``
+When someone extinguishes all the fire in a given area, you'll see:
+`o<player> has temporarily saved <area_name> from the forest fire.``
+Of course, the fire can spread right back in, so to keep the message from
+spamming everyone, it should not repeat for five ticks.
+``
+When someone extinguishes the final fire room in the game, you'll see:
+`oWith a smile of satisfaction, <player> douses the last of the forest fire!``
+and then that player gets a quest point.
+``
+Imms can then turn on double or quad if they are impressed with the player
+performance.
+~
+Sender  Iverath~
+Date    Thu Mar 18 03:52:26 2004~
+Stamp   1079610746
+To      immortal~
+Subject freeze reason~
+Text
+freeze draconion You have been frozen for botting until minax gets back.
+~
+Sender  Iverath~
+Date    Fri Jun 11 17:36:50 2004~
+Stamp   1087000610
+To      all~
+Subject super owhere~
+Text
+we need a command that checks all stores as well (owhere doesnt)
+~
+Sender  Iverath~
+Date    Tue Aug  3 15:35:33 2004~
+Stamp   1091572533
+To      all~
+Subject handedness~
+Text
+so we have 'right-handed' 'left-handed' and 'ambidextrous'...
+but NO 'one-handed'
+that would be a kickass punishment..and it would be cool rp
+~
+Sender  Iverath~
+Date    Sun Oct 10 17:35:43 2004~
+Stamp   1097454943
+To      all~
+Subject eye bag~
+Text
+like a quiver, but for eyes
+~

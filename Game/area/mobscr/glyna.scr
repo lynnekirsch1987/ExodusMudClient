@@ -1,0 +1,48 @@
+* File: glyna.scr
+* Mob: Farmer Glyna(3421)
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 4
+if (%rndnum% == 0)
+  say That darn wolf killed another one of my sheep last night.
+  say I wish someone would 
+  halt once~
+End
+
+#TRIGGER pelt
+Type 5
+Sc
+mfunc %pelt-from% %name% name
+mfunc %pelt-from% %align% align
+mfunc %pelt-from% %race% race
+mfunc %pelt-from% %level% level
+ofunc %pelt-arg% %ovnum% vnum
+ofunc %pelt-arg% %objname% name
+if ( %ovnum% != 21134 )
+   say I don't want this.
+   drop %objname%
+   halt once~
+Sc
+if ( %ovnum% == 21134 )
+   cmd at 1 eat pelt
+   cmd thank %name%
+   say I appreciate you killing the wolf.  You've helped save the farm.
+   wait 1~
+Sc
+if (%level% < 31)
+   say I hope this helps you a little in your journeys.
+   cmd set mob self level 100
+   cmd pray 'restore' %name%
+   cmd cast 'haste' %name%
+   cmd cast 'giant strength' %name%
+   cmd pray 'sanctuary' %name%
+   cmd pray 'bless' %name%
+   cmd cast 'armor' %name%
+   cmd sing 'falk' %name%
+   cmd set mob self level 14
+   halt once~
+End
+
+#END

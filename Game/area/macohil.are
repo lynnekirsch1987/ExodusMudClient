@@ -1,0 +1,4447 @@
+#AREA
+ 6~
+macohil.are~
+The Macocaap Outlands~
+{10 50} Exodus  The Macocaap Outlands~
+~
+13416 13716
+16 0 0
+0 0
+ragnar~
+#MOBILES
+#13416
+dark elf drow sentinel eyes pair~
+A dark elf sentinel~
+A pair of eyes watches you from the depth of the shadows.
+~
+It becomes very difficult to concentrate on the image of the sentinel as
+you stare at him.  In the brief window where you can clearly see his form,
+you see a blurred outline of a body and a thin, dark black face framed with
+ivory white hair.  Glowing purple eyes hover in the darkness, assessing you
+as you observe him.
+~
+elf~
+0 0 0 0
+ABGHN BEFJPQ -1000 5111
+22 22 10d30+240 5d9+100 1d10+1 slash
+-4 -4 -4 999 2
+0 -1 EFNU 0 BC Z
+stand stand male 50
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 300
+0
+~
+~
+#13417
+macocaap hill giant~
+A Macocaap hill giant~
+A burly giant tosses a giant rock in his palm lazily.
+~
+~
+giant~
+0 0 0 0
+AGT d -250 0
+22 22 10d45+535 10d22+100 4d5+11 crush
+-2 -2 -2 999 4
+0 -1 CDE 0 HI JP
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+giant stone~
+0 0 0 100
+7
+~
+~
+#13418
+rock troll~
+A rock troll~
+An ancient stone troll stares witheringly at you from afar.
+~
+This monolith of stone and flesh looks akin to a golem, but the deadly
+gleam of intelligence in his eye tells you that there is something more
+to him...
+~
+troll~
+0 0 0 0
+ABCFGM FJQVc -1000 0
+28 28 10d61+416 28d10+100 5d6+12 slash
+-8 -8 -8 999 0
+0 -1 D L BE HK
+stand stand male 550
+ABHMV ABCDEFGHIJKUVa 11 11 11 11 11 11 0
+medium oldstyle~
+0 0 0 100
+1
+~
+~
+#13419
+stalker~
+A stalker~
+~
+As soon as you set eyes upon this creature, it instantly blinks and vanishes.
+~
+human~
+0 0 0 0
+ACEFGHS OPQ -1000 0
+40 40 20d100+700 40d10+100 2d4+15 grep
+-20 -20 -20 999 -20
+0 -1 BEFHKUW B CD 0
+stand stand neutral 2000
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 30307
+tiny oldstyle~
+0 0 0 100
+1
+~
+rstalker.scr~
+#13420
+Macocaap native~
+A Macocaap native~
+A native of this region crawls along here, foraging for food.
+~
+~
+human~
+0 0 0 0
+A C 150 0
+15 15 5d30+161 15d10+100 3d5+8 none
+0 0 0 999 5
+0 -1 IJ 0 0 0
+stand stand either 10
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+7
+~
+~
+#13421
+carrion dog~
+A carrion dog~
+A scrawny dog gnaws on a corpse slowly and steadily as you approach it.
+~
+~
+dog~
+0 0 0 0
+AGM C 150 0
+15 15 5d30+161 15d10+100 3d5+3 bite
+0 0 0 999 5
+0 -1 HMV 0 0 0
+stand stand either 10
+AGV ACDEFHJKUVa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+7
+~
+~
+#13422
+outland bandit~
+An outland bandit~
+A tall, swift figure moves about along the hill tops.
+~
+The figure is dressed in sandy-brush colored robes, camoflaged into the
+hills.  Pale blue eyes look out from beneath the robes, searching for any
+movement or signs of danger.  
+~
+human~
+0 0 0 0
+ASX Q -650 0
+27 27 10d60+405 1d1+199 6d5+9 stab
+-7 -7 -7 999 0
+0 -1 FHK 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#13431
+Genkaife hermit~
+Genkaife the Hermit~
+A strange hermit whittles away at an ebon whale here.
+~
+Short and hunched, this hermit doesn't look very agile.
+~
+human~
+0 0 0 0
+AG NOV 200 0
+45 10 10d150+700 45d10+100 5d9+20 beating
+-5 -5 -5 999 -5
+0 -1 C 0 0 0
+stand stand male 2200
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium oldstyle~
+0 0 0 100
+1
+~
+~
+#13432
+tired mother woman~
+A tired mother~
+A tired-looking woman mills around, staring off into space.
+~
+~
+human~
+0 0 0 0
+ABG 0 1000 0
+10 10 3d22+100 0d0+0 2d5+5 punch
+4 4 4 999 7
+0 -1 0 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+2
+mom.voc~
+rtmother.scr~
+#13433
+barefoot wanderer~
+A barefoot wanderer~
+A barefoot man wanders about, drooling on himself.
+~
+A long, red beard covers this man's torso, various bits of leaf and other
+refuse stuck in it.  His clothing is unindentifiable, so worn and filthy as
+to be almost indistinguishable from the dirt caked on this man.  Under
+scrutiny, this barefoot wanderer snarls and mutters to himself, something
+about Vro'ath siege monsters and never finding him.  
+~
+human~
+0 0 0 0
+AN K -1000 0
+10 10 3d22+96 0d0+0 2d5+5 slime
+4 4 4 999 7
+0 -1 0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#13434
+rocksnake snake rock~
+A dark rocksnake~
+A dark rock snake slithers along the hillocks here.
+~
+~
+snake~
+0 0 0 0
+A V -100 0
+15 15 5d30+160 0d0+0 3d5+5 bite
+0 0 0 999 5
+0 -1 0 0 L I
+stand stand male 0
+AGXYc ADEFKLQVXa 9 9 9 9 9 9 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#13435
+puppetmaker elderly~
+An elderly puppetmaker~
+An elderly man sits on a hillock here, making puppets.
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+30 30 8d22+160 0d0+0 4d5+10 none
+0 0 0 999 0
+0 -1 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#13416
+giant rock~
+`aA Gigantic Rock``~
+`hA huge `aboulder `hsits here.``~
+stone~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 BC C ABDE FJ
+0
+0
+20 900 0 P
+A
+19 3
+A
+1 2
+#13417
+rock cape~
+`aA Rock Cape``~
+`aA huge crumpled mass of skin and flesh lies on the ground here.``~
+stone~
+0
+armor 2
+SY
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DF BCDE ABF ADE 0
+0
+0
+21 6500 550 P
+A
+2 -5
+A
+14 -75
+A
+13 40
+#13418
+wisp thin shadow cape~
+`hA Wisp Thin `aShadow `hCape``~
+`hA `acape `hlays draped on the ground, soaking in light.``~
+liquid~
+0
+clothing 2
+S
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 50 5500 P
+A
+14 10
+A
+2 2
+A
+3 1
+#13419
+gnawed fish corpse~
+a gnawed fish corpse~
+The corpse of some long-dead animal lies here.~
+flesh~
+40
+gills 2
+S
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 15 0 P
+A
+14 10
+#13420
+ebon whale figure~
+`aA Half-Whittled Ebon Whale Figure``~
+`aA whale emerges from a chunk of ebony here.``~
+ebony~
+0
+wand 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+ACDF AB AB CEFG 'reserved'
+0
+0
+45 50 1500 P
+#13421
+house hill sturdy~
+a sturdy hill-house~
+A sturdy hill-house is carved out of the side of one of the hills here.~
+wood~
+0
+ctransport 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n opens the door and strides into the hill-house.~
+You open the door and stride into the hill-house.~
+$n takes his leave of the small house.~
+~
+0 FGHIJMPS ABEIKMN 0 0
+0
+0
+0 10000 0 P
+#13422
+hill house~
+a sturdy hill house~
+A sturdy hill-house is carved out of the side of one of the hills here.~
+earth~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n opens the door and strides into the hill-house.~
+You duck your head and enter the house carved into the side of a hill.~
+~
+~
+-1 0 G ABEIKMN A
+0
+0
+1 30000 0 P
+#13423
+house hill~
+the hill house~
+~
+earth~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+Ducking $s head, $n leaves the small house.~
+Taking care not to bump your head on the rocky ceiling, you exit the house.~
+~
+~
+-1 0 G CDFGKMN B
+0
+0
+1 30000 0 P
+#0
+
+#ROOMS
+#13416
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13417
+D2
+~
+~
+0 0 13421
+S
+#13417
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13418
+D2
+~
+~
+0 0 13422
+D3
+~
+~
+0 0 13416
+S
+#13418
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13419
+D2
+~
+~
+0 0 13423
+D3
+~
+~
+0 0 13417
+S
+#13419
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13420
+D2
+~
+~
+0 0 13424
+D3
+~
+~
+0 0 13418
+S
+#13420
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.  A moderately sized hill to your north
+opens into a narrow cave entrance.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13561
+D2
+~
+~
+0 0 13425
+D3
+~
+~
+0 0 13419
+S
+#13421
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13416
+D1
+~
+~
+0 0 13422
+D2
+~
+~
+0 0 13426
+S
+#13422
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13417
+D1
+~
+~
+0 0 13423
+D2
+~
+~
+0 0 13427
+D3
+~
+~
+0 0 13421
+S
+#13423
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Small hills covered in rich green grass seem to flow in synch as
+salt-scented air wafts over the long, dew-drenched stalks.  Slick
+perspiration comes and goes quickly as bursts of air crest over the
+protrusions in the land and swirl off in cooling eddies in the miniature
+valleys between them. Strange gray stones erupt out of the horizon in many
+places, acting as sole testaments to the withering power of nature.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13418
+D1
+~
+~
+0 0 13424
+D2
+~
+~
+0 0 13428
+D3
+~
+~
+0 0 13422
+S
+#13424
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gravelly pebbles crunch and shift away, making balance precarious as you
+climb down into this valley.  A small stream trickles past at the lowest
+point.  The crumbling stone side of one nearby hill looks ready to fall
+apart.  Only the gnarly black roots from a few ancient oaks on top still
+holding it together.  A tiny brown sparrow swoops down to land beside you,
+hopping quickly over the rocks, pecking at insects.  Soon a dozen more
+sparrows join the first, paying no attention to your presence.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13419
+D1
+~
+~
+0 0 13425
+D2
+~
+~
+0 0 13429
+D3
+~
+~
+0 0 13423
+S
+#13425
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13420
+D2
+~
+~
+0 0 13430
+D3
+~
+~
+0 0 13424
+S
+#13426
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+A circle of ancient oaks crowns this mound.  It seems they could only be
+this regularly spaced if someone planted them.  Short dewy grass grows below
+the boughs, so delicate it is crushed by your tread.  The raucous call of a
+blue jay echoes from a near treetop, probably in response to your arrival. 
+On another hill a different jay returns the call.  
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13421
+D1
+~
+~
+0 0 13427
+D2
+~
+~
+0 0 13431
+S
+#13427
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13422
+D1
+~
+~
+0 0 13428
+D2
+~
+~
+0 0 13432
+D3
+~
+~
+0 0 13426
+S
+#13428
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Small hills covered in rich green grass seem to flow in synch as
+salt-scented air wafts over the long, dew-drenched stalks.  Slick
+perspiration comes and goes quickly as bursts of air crest over the
+protrusions in the land and swirl off in cooling eddies in the miniature
+valleys between them. Strange gray stones erupt out of the horizon in many
+places, acting as sole testaments to the withering power of nature.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13423
+D1
+~
+~
+0 0 13429
+D2
+~
+~
+0 0 13433
+D3
+~
+~
+0 0 13427
+S
+#13429
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13424
+D1
+~
+~
+0 0 13430
+D2
+~
+~
+0 0 13434
+D3
+~
+~
+0 0 13428
+S
+#13430
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.  Directly east of here, a strange
+structure glimmers in the light.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13425
+D1
+~
+~
+0 0 800
+D2
+~
+~
+0 0 13435
+D3
+~
+~
+0 0 13429
+S
+#13431
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13426
+D1
+~
+~
+0 0 13432
+D2
+~
+~
+0 0 13436
+S
+#13432
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13427
+D1
+~
+~
+0 0 13433
+D2
+~
+~
+0 0 13437
+D3
+~
+~
+0 0 13431
+S
+#13433
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+The slope is dry and rocky; an easy climb so long as care is taken to
+test each hand and foothold.  Wild thyme grows in the cracks, scenting the
+air each time you brush against it.  Large bumblebees are everywhere,
+attenting to the herb's purple flowers.  They buzz away with a low drone at
+your approach.  The crest of the hill is just ahead, a few more steps.  
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13428
+D1
+~
+~
+0 0 13434
+D2
+~
+~
+0 0 13438
+D3
+~
+~
+0 0 13432
+S
+#13434
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13429
+D1
+~
+~
+0 0 13435
+D2
+~
+~
+0 0 13439
+D3
+~
+~
+0 0 13433
+S
+#13435
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13430
+D2
+~
+~
+0 0 13440
+D3
+~
+~
+0 0 13434
+S
+#13436
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Flowing crests of green hills create a strange, wavy horizon as they meet
+a clean, clear sky.  A hanging saline mist clings to every part of you as
+you progress, giving you a somewhat uncomfortable but manageable feeling
+of slick perspiration.  Gray stones of all sizes mark several spots along
+the land, giving you some sense of landmarking direction.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13431
+D1
+~
+~
+0 0 13437
+D2
+~
+~
+0 0 13441
+S
+#13437
+91 30
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13432
+D1
+~
+~
+0 0 13438
+D2
+~
+~
+0 0 13442
+D3
+~
+~
+0 0 13436
+S
+#13438
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+The slope is dry and rocky; an easy climb so long as care is taken to
+test each hand and foothold.  Wild thyme grows in the cracks, scenting the
+air each time you brush against it.  Large bumblebees are everywhere,
+attenting to the herb's purple flowers.  They buzz away with a low drone at
+your approach.  The crest of the hill is just ahead, a few more steps.  
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13433
+D1
+~
+~
+0 0 13439
+D2
+~
+~
+0 0 13443
+D3
+~
+~
+0 0 13437
+S
+#13439
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13434
+D1
+~
+~
+0 0 13440
+D2
+~
+~
+0 0 13444
+D3
+~
+~
+0 0 13438
+S
+#13440
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13435
+D2
+~
+~
+0 0 13445
+D3
+~
+~
+0 0 13439
+S
+#13441
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13436
+D1
+~
+~
+0 0 13442
+D2
+~
+~
+0 0 13446
+S
+#13442
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13437
+D1
+~
+~
+0 0 13443
+D2
+~
+~
+0 0 13447
+D3
+~
+~
+0 0 13441
+S
+#13443
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gravelly pebbles crunch and shift away, making balance precarious as you
+climb down into this valley.  A small stream trickles past at the lowest
+point.  The crumbling stone side of one nearby hill looks ready to fall
+apart.  Only the gnarly black roots from a few ancient oaks on top still
+holding it together.  A tiny brown sparrow swoops down to land beside you,
+hopping quickly over the rocks, pecking at insects.  Soon a dozen more
+sparrows join the first, paying no attention to your presence.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13438
+D1
+~
+~
+0 0 13444
+D2
+~
+~
+0 0 13448
+D3
+~
+~
+0 0 13442
+S
+#13444
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+The slope is dry and rocky; an easy climb so long as care is taken to test
+each hand and foothold.  Wild thyme grows in the cracks, scenting the air
+each time you brush against it.  Large bumblebees are everywehre, attenting
+to the herb's purple flowers.  They buzz away with a low drone at your
+approach.  The crest of the hill is just ahead, a few more steps.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13439
+D1
+~
+~
+0 0 13445
+D2
+~
+~
+0 0 13449
+D3
+~
+~
+0 0 13443
+S
+#13445
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13440
+D2
+~
+~
+0 0 13450
+D3
+~
+~
+0 0 13444
+S
+#13446
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13441
+D1
+~
+~
+0 0 13447
+D2
+~
+~
+0 0 13451
+S
+#13447
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Flowing crests of green hills create a strange, wavy horizon as they meet
+a clean, clear sky.  A hanging saline mist clings to every part of you as
+you progress, giving you a somewhat uncomfortable but manageable feeling
+of slick perspiration.  Gray stones of all sizes mark several spots along
+the land, giving you some sense of landmarking direction.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13442
+D1
+~
+~
+0 0 13448
+D2
+~
+~
+0 0 13452
+D3
+~
+~
+0 0 13446
+S
+#13448
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Flowing crests of green hills create a strange, wavy horizon as they meet
+a clean, clear sky.  A hanging saline mist clings to every part of you as
+you progress, giving you a somewhat uncomfortable but manageable feeling
+of slick perspiration.  Gray stones of all sizes mark several spots along
+the land, giving you some sense of landmarking direction.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13443
+D1
+~
+~
+0 0 13449
+D2
+~
+~
+0 0 13453
+D3
+~
+~
+0 0 13447
+S
+#13449
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+The slope is dry and rocky; an easy climb so long as care is taken to
+test each hand and foothold.  Wild thyme grows in the cracks, scenting the
+air each time you brush against it.  Large bumblebees are everywhere,
+attenting to the herb's purple flowers.  They buzz away with a low drone at
+your approach.  The crest of the hill is just ahead, a few more steps.  
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13444
+D1
+~
+~
+0 0 13450
+D2
+~
+~
+0 0 13454
+D3
+~
+~
+0 0 13448
+S
+#13450
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13445
+D2
+~
+~
+0 0 13455
+D3
+~
+~
+0 0 13449
+S
+#13451
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13446
+D1
+~
+~
+0 0 13452
+D2
+~
+~
+0 0 13465
+S
+#13452
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13447
+D1
+~
+~
+0 0 13453
+D2
+~
+~
+0 0 13466
+D3
+~
+~
+0 0 13451
+S
+#13453
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13448
+D1
+~
+~
+0 0 13454
+D2
+~
+~
+0 0 13467
+D3
+~
+~
+0 0 13452
+S
+#13454
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13449
+D1
+~
+~
+0 0 13455
+D2
+~
+~
+0 0 13468
+D3
+~
+~
+0 0 13453
+S
+#13455
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13450
+D1
+~
+~
+0 0 13456
+D2
+~
+~
+0 0 13469
+D3
+~
+~
+0 0 13454
+S
+#13456
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13457
+D2
+~
+~
+0 0 13470
+D3
+~
+~
+0 0 13455
+S
+#13457
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13458
+D2
+~
+~
+0 0 13471
+D3
+~
+~
+0 0 13456
+S
+#13458
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Small hills covered in rich green grass seem to flow in synch as
+salt-scented air wafts over the long, dew-drenched stalks.  Slick
+perspiration comes and goes quickly as bursts of air crest over the
+protrusions in the land and swirl off in cooling eddies in the miniature
+valleys between them. Strange gray stones erupt out of the horizon in many
+places, acting as sole testaments to the withering power of nature.
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13459
+D2
+~
+~
+0 0 13472
+D3
+~
+~
+0 0 13457
+S
+#13459
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gravelly pebbles crunch and shift away, making balance precarious as you
+climb down into this valley.  A small stream trickles past at the lowest
+point.  The crumbling stone side of one nearby hill looks ready to fall
+apart.  Only the gnarly black roots from a few ancient oaks on top still
+holding it together.  A tiny brown sparrow swoops down to land beside you,
+hopping quickly over the rocks, pecking at insects.  Soon a dozen more
+sparrows join the first, paying no attention to your presence.
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13460
+D2
+~
+~
+0 0 13473
+D3
+~
+~
+0 0 13458
+S
+#13460
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13461
+D2
+~
+~
+0 0 13474
+D3
+~
+~
+0 0 13459
+S
+#13461
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+A circle of ancient oaks crowns this mound.  It seems they could only be
+this regularly spaced if someone planted them.  Short dewy grass grows below
+the boughs, so delicate it is crushed by your tread.  The raucous call of a
+bluejay echoes from a near treetop, probably in response to your arrival.
+On another hill a different jay returns the call.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 2325
+D1
+~
+~
+0 0 13462
+D2
+~
+~
+0 0 13475
+D3
+~
+~
+0 0 13460
+S
+#13462
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 2326
+D1
+~
+~
+0 0 13567
+D2
+~
+~
+0 0 13476
+D3
+~
+~
+0 0 13461
+S
+#13463
+91 30
+~
+~
+~
+0 0 0
+The Ilangollen River Valley~
+Small hills covered in rich green grass seem to flow in synch as
+salt-scented air wafts over the long, dew-drenched stalks.  Slick
+perspiration comes and goes quickly as bursts of air crest over the
+protrusions in the land and swirl off in cooling eddies in the miniature
+valleys between them. Strange gray stones erupt out of the horizon in many
+places, acting as sole testaments to the withering power of nature.
+~
+0 B 6
+0
+~
+I 0 D1
+~
+~
+0 0 13464
+D3
+~
+~
+0 0 13571
+S
+#13464
+0 0
+~
+~
+~
+0 0 0
+Overlooking the Ilangollen River Valley~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D2
+~
+~
+0 0 20462
+D3
+~
+~
+0 0 13463
+S
+#13465
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13451
+D1
+~
+~
+0 0 13466
+D2
+~
+~
+0 0 13479
+S
+#13466
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13452
+D1
+~
+~
+0 0 13467
+D2
+~
+~
+0 0 13480
+D3
+~
+~
+0 0 13465
+S
+#13467
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13453
+D1
+~
+~
+0 0 13468
+D2
+~
+~
+0 0 13481
+D3
+~
+~
+0 0 13466
+S
+#13468
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+The slope is dry and rocky; an easy climb so long as care is taken to
+test each hand and foothold.  Wild thyme grows in the cracks, scenting the
+air each time you brush against it.  Large bumblebees are everywhere,
+attenting to the herb's purple flowers.  They buzz away with a low drone at
+your approach.  The crest of the hill is just ahead, a few more steps.  
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13454
+D1
+~
+~
+0 0 13469
+D2
+~
+~
+0 0 13482
+D3
+~
+~
+0 0 13467
+S
+#13469
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13455
+D1
+~
+~
+0 0 13470
+D2
+~
+~
+0 0 13483
+D3
+~
+~
+0 0 13468
+S
+#13470
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13456
+D1
+~
+~
+0 0 13471
+D2
+~
+~
+0 0 13484
+D3
+~
+~
+0 0 13469
+S
+#13471
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Flowing crests of green hills create a strange, wavy horizon as they meet
+a clean, clear sky.  A hanging saline mist clings to every part of you as
+you progress, giving you a somewhat uncomfortable but manageable feeling
+of slick perspiration.  Gray stones of all sizes mark several spots along
+the land, giving you some sense of landmarking direction.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13457
+D1
+~
+~
+0 0 13472
+D2
+~
+~
+0 0 13485
+D3
+~
+~
+0 0 13470
+S
+#13472
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13458
+D1
+~
+~
+0 0 13473
+D2
+~
+~
+0 0 13486
+D3
+~
+~
+0 0 13471
+S
+#13473
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+The slope is dry and rocky; an easy climb so long as care is taken to
+test each hand and foothold.  Wild thyme grows in the cracks, scenting the
+air each time you brush against it.  Large bumblebees are everywhere,
+attenting to the herb's purple flowers.  They buzz away with a low drone at
+your approach.  The crest of the hill is just ahead, a few more steps.  
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13459
+D1
+~
+~
+0 0 13474
+D2
+~
+~
+0 0 13487
+D3
+~
+~
+0 0 13472
+S
+#13474
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13460
+D1
+~
+~
+0 0 13475
+D2
+~
+~
+0 0 13488
+D3
+~
+~
+0 0 13473
+S
+#13475
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13461
+D1
+~
+~
+0 0 13476
+D2
+~
+~
+0 0 13489
+D3
+~
+~
+0 0 13474
+S
+#13476
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13462
+D1
+~
+~
+0 0 13572
+D2
+~
+~
+0 0 13490
+D3
+~
+~
+0 0 13475
+S
+#13477
+0 0
+~
+~
+~
+0 0 0
+`lUpon the gleaming Ebon Bridge``~
+`nThe Ebon Bridge spans the Ilangollen river, which flows underneath,
+clear and swift, from north to south.  The bridge is constructed from
+polished black-grey slate and granite stones, carefully fitted and
+weather-worn with age, it looks far older than the white roofed houses of
+the town of Ebon Downs which lies nestled by the water to the east.  To the
+west, a trade route meanders off into the hills.  `` 
+~
+0 Z 12
+0
+~
+I 0 D1
+~
+~
+0 0 20462
+D3
+~
+~
+0 0 13576
+S
+#13478
+0 0
+~
+~
+~
+0 0 0
+Within the ruins of the great tower~
+Crumbled walls rise up on all sides, shielding this area from the wind
+that sweeps across the drylands and providing some shelter from the sun. 
+Several large beasts have dug out burrows in the ground here, making it
+difficult to tell which tunnels actually lead anywhere and which of them
+contain sleeping creatures.  
+~
+0 C 0
+0
+~
+I 0 D4
+~
+door~
+1 0 13579
+D5
+~
+~
+0 0 13507
+S
+#13479
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+The slope is dry and rocky; an easy climb so long as care is taken to
+test each hand and foothold.  Wild thyme grows in the cracks, scenting the
+air each time you brush against it.  Large bumblebees are everywhere,
+attenting to the herb's purple flowers.  They buzz away with a low drone at
+your approach.  The crest of the hill is just ahead, a few more steps.  
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13465
+D1
+~
+~
+0 0 13480
+D2
+~
+~
+0 0 13493
+S
+#13480
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13466
+D1
+~
+~
+0 0 13481
+D2
+~
+~
+0 0 13494
+D3
+~
+~
+0 0 13479
+S
+#13481
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13467
+D1
+~
+~
+0 0 13482
+D2
+~
+~
+0 0 13495
+D3
+~
+~
+0 0 13480
+S
+#13482
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Flowing crests of green hills create a strange, wavy horizon as they meet
+a clean, clear sky.  A hanging saline mist clings to every part of you as
+you progress, giving you a somewhat uncomfortable but manageable feeling
+of slick perspiration.  Gray stones of all sizes mark several spots along
+the land, giving you some sense of landmarking direction.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13468
+D1
+~
+~
+0 0 13483
+D2
+~
+~
+0 0 13496
+D3
+~
+~
+0 0 13481
+S
+#13483
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+A humid breeze blows over the hills and along this ancient road, it
+carries warm, salty air from the ocean.  The hills themselves close in on
+either side, rounded and covered in rocks and thistle.  The rhythmic hum of
+crickets chirping fills the air, occasionally punctuated by the screech of a
+crow which echoes about the slopes.  The road turns here around a large
+hill, from east to south.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13469
+D1
+~
+~
+0 0 13484
+D2
+~
+~
+0 0 13497
+D3
+~
+~
+0 0 13482
+S
+#13484
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The road cuts straight through a large hill here, leaving the remains
+rising steeply on either side.  Large piles of split boulders lie on other
+side, tossed aside as the trade route was dug.  A few curious marmots peer
+at you from behind the rocks, ducking and disappearing out of sight with any
+movement towards them.  The route runs through the hills from east to west. 
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13470
+D1
+~
+~
+0 0 13485
+D2
+~
+~
+0 0 13498
+D3
+~
+~
+0 0 13483
+S
+#13485
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The trade road cruves around the base of a massive hill here, turning
+from west to south.  Large, rough sided boulders lie half-buried on the
+slopes among thorn-covered shrubs and clumps of onion grass.  Noisy bottle
+flies buzz about as you pass, disturbed by your presense.  The route cuts
+through the hills from east to west.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13471
+D1
+~
+~
+0 0 13486
+D2
+~
+~
+0 0 13499
+D3
+~
+~
+0 0 13484
+S
+#13486
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+Rocky hills covered in tough grasses surround the road which narrows as
+it winds around them.  Thorn covered bushes gather along the sides, scraping
+your ankles if you walk too close to the edge.  Further out along the
+slopes, small trees with twisted trunks stand above low creeping vines and
+grass clinging to the sides of rocks.  The trade route crosses the hills
+from east to west.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13472
+D1
+~
+~
+0 0 13487
+D2
+~
+~
+0 0 13500
+D3
+~
+~
+0 0 13485
+S
+#13487
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+A humid breeze blows over the hills and along this ancient road, it
+carries warm, salty air from the ocean.  The hills themselves close in on
+either side, rounded and covered in rocks and thistle.  The rhythmic hum of
+crickets chirping fills the air, occasionally punctuated by the screech of a
+crow which echoes about the slopes.  The route leads through the hills from
+east to west.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13473
+D1
+~
+~
+0 0 13488
+D2
+~
+~
+0 0 13501
+D3
+~
+~
+0 0 13486
+S
+#13488
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The road cuts straight through a large hill here, leaving the remains
+rising steeply on either side.  Large piles of split boulders lie on other
+side, tossed aside as the trade route was dug.  A few curious marmots peer
+at you from behind the rocks, ducking and disappearing out of sight with any
+movement towards them.  The route runs from east to west through the hills. 
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13474
+D1
+~
+~
+0 0 13489
+D2
+~
+~
+0 0 13502
+D3
+~
+~
+0 0 13487
+S
+#13489
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The trade road cruves around the base of a massive hill here, turning
+from west to south.  Large, rough sided boulders lie half-buried on the
+slopes among thorn-covered shrubs and clumps of onion grass.  Noisy bottle
+flies buzz about as you pass, disturbed by your presense.  The route leads
+through the hills from east to west.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13475
+D1
+~
+~
+0 0 13490
+D2
+~
+~
+0 0 13503
+D3
+~
+~
+0 0 13488
+S
+#13490
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+Rocky hills covered in tough grasses surround the road which narrows as
+it winds around them.  Thorn covered bushes gather along the sides, scraping
+your ankles if you walk too close to the edge.  Further out along the
+slopes, small trees with twisted trunks stand above low creeping vines and
+grass clinging to the sides of rocks.  The route runs from east to west.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13476
+D1
+~
+~
+0 0 13577
+D2
+~
+~
+0 0 13504
+D3
+~
+~
+0 0 13489
+S
+#13491
+0 0
+~
+~
+~
+0 0 0
+The Ilangollen River Valley~
+Gravelly pebbles crunch and shift away, making balance precarious as you
+climb down into this valley.  A small stream trickles past at the lowest
+point.  The crumbling stone side of one nearby hill looks ready to fall
+apart.  Only the gnarly black roots from a few ancient oaks on top still
+holding it together.  A tiny brown sparrow swoops down to land beside you,
+hopping quickly over the rocks, pecking at insects.  Soon a dozen more
+sparrows join the first, paying no attention to your presence.
+~
+0 B 6
+0
+~
+I 0 D1
+~
+~
+0 0 13492
+D2
+~
+~
+0 0 13505
+D3
+~
+~
+0 0 13581
+S
+#13492
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gravelly pebbles crunch and shift away, making balance precarious as you
+climb down into this valley.  A small stream trickles past at the lowest
+point.  The crumbling stone side of one nearby hill looks ready to fall
+apart.  Only the gnarly black roots from a few ancient oaks on top still
+holding it together.  A tiny brown sparrow swoops down to land beside you,
+hopping quickly over the rocks, pecking at insects.  Soon a dozen more
+sparrows join the first, paying no attention to your presence.
+~
+0 B 4
+0
+~
+I 0 D3
+~
+~
+0 0 13491
+S
+#13493
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13479
+D1
+~
+~
+0 0 13494
+S
+#13494
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13480
+D1
+~
+~
+0 0 13495
+D2
+~
+~
+0 0 11602
+D3
+~
+~
+0 0 13493
+S
+#13495
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The trade road leads into the hills rounded slopes rising on either side.
+Large piles of split boulders lie on other side, tossed aside as the trade
+route was dug.  A few curious marmots peer at you from behind the rocks,
+ducking and disappearing out of sight with any movement towards them.  The
+route leads under an old covered bridge to the south, the cool sea air blows
+from that direction also.  To the east, the route leads deeper into the
+hills.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13481
+D1
+~
+~
+0 0 13496
+D2
+~
+~
+0 0 11603
+D3
+~
+~
+0 0 13494
+S
+#13496
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The trade road curves around the base of a massive hill here, turning
+from west to south.  Large, rough sided boulders lie half-buried on the
+slopes among thorn-covered shrubs and clumps of onion grass.  Noisy bottle
+flies buzz about as you pass, disturbed by your presense.  The route runs
+from east to west towards the ocean.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13482
+D1
+~
+~
+0 0 13497
+D2
+~
+~
+0 0 11604
+D3
+~
+~
+0 0 13495
+S
+#13497
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+Rocky hills covered in tough grasses surround the road which narrows as
+it winds around them.  Thorn covered bushes gather along the sides, scraping
+your ankles if you walk too close to the edge.  Further out along the
+slopes, small trees with twisted trunks stand above low creeping vines and
+grass clinging to the sides of rocks.  The route turns here from north to
+west.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13483
+D1
+~
+~
+0 0 13498
+D2
+~
+~
+0 0 11605
+D3
+~
+~
+0 0 13496
+S
+#13498
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gravelly pebbles crunch and shift away, making balance precarious as you
+climb down into this valley.  A small stream trickles past at the lowest
+point.  The crumbling stone side of one nearby hill looks ready to fall
+apart.  Only the gnarly black roots from a few ancient oaks on top still
+holding it together.  A tiny brown sparrow swoops down to land beside you,
+hopping quickly over the rocks, pecking at insects.  Soon a dozen more
+sparrows join the first, paying no attention to your presence.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13484
+D1
+~
+~
+0 0 13499
+D2
+~
+~
+0 0 11606
+D3
+~
+~
+0 0 13497
+S
+#13499
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13485
+D1
+~
+~
+0 0 13500
+D2
+~
+~
+0 0 11607
+D3
+~
+~
+0 0 13498
+S
+#13500
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13486
+D1
+~
+~
+0 0 13501
+D2
+~
+~
+0 0 11608
+D3
+~
+~
+0 0 13499
+S
+#13501
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Erratic outcroppings of thick stone jut out at odd angles from a dense
+collection of moderately sized hills, creating an odd illusion of
+their overlapping.  A perfect irony of nature, the miniscule mountains
+borne of soil interlock with the even smaller stones, borne of rock.
+As you contemplate this, a small, steady breeze makes your clothing flap
+steadily in the wind, adding the sound of cloth against armor to the
+piercing shriek of the gulls overhead.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13487
+D1
+~
+~
+0 0 13502
+D2
+~
+~
+0 0 11609
+D3
+~
+~
+0 0 13500
+S
+#13502
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+A circle of ancient oaks crowns this mound.  It seems they could only be
+this regularly spaced if someone planted them.  Short dewy grass grows below
+the boughs, so delicate it is crushed by your tread.  The raucous call of a
+bluejay echoes from a near treetop, probably in response to your arrival.
+On another hill a different jay returns the call.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13488
+D1
+~
+~
+0 0 13503
+D2
+~
+~
+0 0 11610
+D3
+~
+~
+0 0 13501
+S
+#13503
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Gigantic circles of lime-stained rock lie in all directions, circling
+flat plains and small dips and hills in the land alike.  The entire
+landscape is bathed in a dark green carpet of short, thick grass that
+thins out at the tops of the many bubbling hills that seem to pop up
+in every direction.  As your eyes tear up after wandering about, you
+realize that the entire area is covered in salt-filled mist.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13489
+D1
+~
+~
+0 0 13504
+D2
+~
+~
+0 0 11611
+D3
+~
+~
+0 0 13502
+S
+#13504
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13490
+D1
+~
+~
+0 0 13582
+D2
+~
+~
+0 0 11612
+D3
+~
+~
+0 0 13503
+S
+#13505
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Small hills covered in rich green grass seem to flow in synch as
+salt-scented air wafts over the long, dew-drenched stalks.  Slick
+perspiration comes and goes quickly as bursts of air crest over the
+protrusions in the land and swirl off in cooling eddies in the miniature
+valleys between them. Strange gray stones erupt out of the horizon in many
+places, acting as sole testaments to the withering power of nature.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13491
+D1
+~
+~
+0 0 13506
+D3
+~
+~
+0 0 13586
+S
+#13506
+0 0
+~
+~
+~
+0 0 0
+The Macocaap Hills overlooking the ocean~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 20461
+D3
+~
+~
+0 0 13505
+S
+#13507
+0 0
+~
+~
+~
+0 0 0
+Inside the maze of tunnels~
+A network of low tunnels criss-cross and intersect each other frequently,
+making it very easy to wander in circles.  
+~
+0 ACD 0
+0
+~
+I 0 D0
+~
+~
+0 0 13507
+D1
+~
+~
+0 0 13507
+D2
+~
+~
+0 0 13507
+D3
+~
+~
+0 0 13507
+D4
+~
+~
+0 0 13478
+D5
+~
+~
+0 0 11249
+S
+#13561
+0 0
+~
+~
+~
+0 0 0
+A Humid Cavern~
+Huge stalactites reminiscent of pillars extend from the ceiling, barely
+missing the stalagmites that rise upwards, giving this cave the menacing
+look of a sharp-toothed giant mouth.  Large black bats roost in niches
+in the cave roof, lending a repetitive hollow sound to the enclosure.
+~
+0 ANc 0
+0
+~
+I 0 D0
+~
+~
+0 0 13564
+D1
+~
+~
+0 0 13562
+D2
+~
+~
+0 0 13420
+D3
+~
+~
+0 0 13563
+S
+#13562
+0 0
+~
+~
+~
+0 0 0
+A Humid Cavern~
+Huge stalactites reminiscent of pillars extend from the ceiling, barely
+missing the stalagmites that rise upwards, giving this cave the menacing
+look of a sharp-toothed giant mouth.  Large black bats roost in niches
+in the cave roof, lending a repetitive hollow sound to the enclosure.
+~
+0 ANc 0
+0
+~
+I 0 D0
+~
+~
+0 0 13565
+D3
+~
+~
+0 0 13561
+S
+#13563
+0 0
+~
+~
+~
+0 0 0
+A Humid Cavern~
+Huge stalactites reminiscent of pillars extend from the ceiling, barely
+missing the stalagmites that rise upwards, giving this cave the menacing
+look of a sharp-toothed giant mouth.  Large black bats roost in niches
+in the cave roof, lending a repetitive hollow sound to the enclosure.
+~
+0 ANc 0
+0
+~
+I 0 D0
+~
+~
+0 0 13566
+D1
+~
+~
+0 0 13561
+S
+#13564
+0 0
+~
+~
+~
+0 0 0
+A Humid Cavern~
+Huge stalactites reminiscent of pillars extend from the ceiling, barely
+missing the stalagmites that rise upwards, giving this cave the menacing
+look of a sharp-toothed giant mouth.  Large black bats roost in niches
+in the cave roof, lending a repetitive hollow sound to the enclosure.
+~
+0 ANc 0
+0
+~
+I 0 D1
+~
+~
+0 0 13565
+D2
+~
+~
+0 0 13561
+D3
+~
+~
+0 0 13566
+S
+#13565
+0 0
+~
+~
+~
+0 0 0
+A Dank Corner~
+A small patch of wetness emits the staunch smell of mildew, and is most
+likely the cause of the excessive fungus growth in this corner of the
+cave.  A depression in the ground looks as if it could be pressed inwards -
+perhaps there is something underneath?
+~
+0 ANc 0
+0
+~
+I 0 D2
+~
+~
+0 0 13562
+D3
+~
+~
+0 0 13564
+D5
+~
+door~
+1 0 5100
+S
+#13566
+0 0
+~
+~
+~
+0 0 0
+A Humid Cavern~
+Huge stalactites reminiscent of pillars extend from the ceiling, barely
+missing the stalagmites that rise upwards, giving this cave the menacing
+look of a sharp-toothed giant mouth.  Large black bats roost in niches
+in the cave roof, lending a repetitive hollow sound to the enclosure.
+~
+0 ANc 0
+0
+~
+I 0 D1
+~
+~
+0 0 13564
+D2
+~
+~
+0 0 13563
+S
+#13567
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 2327
+D1
+~
+~
+0 0 13568
+D2
+~
+~
+0 0 13572
+D3
+~
+~
+0 0 13462
+S
+#13568
+0 0
+~
+~
+~
+0 0 0
+The Valasse Trade Route~
+The air is surprisingly humid, blown here, salty and warm, from the ocean.
+Rocky hills covered in tough grasses surround the road which narrows as it
+winds around them.  Thorn covered thistle bushes gather along the sides,
+scraping your ankles if you walk too close to the edge.  The road curves
+around a large hill, turning from north to east.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 2328
+D1
+~
+~
+0 0 13569
+D2
+~
+~
+0 0 13573
+D3
+~
+~
+0 0 13567
+S
+#13569
+0 0
+~
+~
+~
+0 0 0
+The Valasse Trade Route~
+The trade road curves around the base of a massive hill here, turning
+from west to south.  Large, rough sided boulders lie half-buried on the
+slopes among thorn-covered shrubs and clumps of onion grass.  Noisy bottle
+flies buzz about as you pass.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 2329
+D1
+~
+~
+0 0 13570
+D2
+~
+~
+0 0 13574
+D3
+~
+~
+0 0 13568
+S
+#13570
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Small hills covered in rich green grass seem to flow in synch as
+salt-scented air wafts over the long, dew-drenched stalks.  Slick
+perspiration comes and goes quickly as bursts of air crest over the
+protrusions in the land and swirl off in cooling eddies in the miniature
+valleys between them. Strange gray stones erupt out of the horizon in many
+places, acting as sole testaments to the withering power of nature.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 2330
+D1
+~
+~
+0 0 13571
+D2
+~
+~
+0 0 13575
+D3
+~
+~
+0 0 13569
+S
+#13571
+0 0
+~
+~
+~
+0 0 0
+Overlooking the Ilangollen River Valley~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D1
+~
+~
+0 0 13463
+D2
+~
+~
+0 0 13576
+D3
+~
+~
+0 0 13570
+S
+#13572
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Small hills covered in rich green grass seem to flow in synch as
+salt-scented air wafts over the long, dew-drenched stalks.  Slick
+perspiration comes and goes quickly as bursts of air crest over the
+protrusions in the land and swirl off in cooling eddies in the miniature
+valleys between them. Strange gray stones erupt out of the horizon in many
+places, acting as sole testaments to the withering power of nature.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13567
+D1
+~
+~
+0 0 13573
+D2
+~
+~
+0 0 13577
+D3
+~
+~
+0 0 13476
+S
+#13573
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13568
+D1
+~
+~
+0 0 13574
+D2
+~
+~
+0 0 13578
+D3
+~
+~
+0 0 13572
+S
+#13574
+0 0
+~
+~
+~
+0 0 0
+The Valasse Trade Route~
+The air is suprisingly humid, blown here, salty and warm, from the ocean.
+Rocky hills covered in tough grasses surround the road which narrows as it
+winds around them.  Thorn covered thistle bushes gather along the sides,
+scraping your ankles if you walk too close to the edge.  The road curves
+from north to east here.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13569
+D1
+~
+~
+0 0 13575
+D2
+~
+~
+0 0 13579
+D3
+~
+~
+0 0 13573
+S
+#13575
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The dirt of the road is particularily packed here, worn down at the
+intersection of three roads by countless footsteps and wagonwheels.  The
+road to the east leads towards the small town of Ebon Downs.  To the west,
+the Valasse trade route begins, leading into the wilderness.  To the south,
+the Azaela trade route continues off through the hills towards the city of
+Freeport.  To the north, the rolling hills stretch to the horizon.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13570
+D1
+~
+~
+0 0 13576
+D2
+~
+~
+0 0 13580
+D3
+~
+~
+0 0 13574
+S
+#13576
+0 0
+~
+~
+~
+0 0 0
+Before the Ebon Bridge~
+The packed dirt of the trade route changes to large cobble paving stones
+to the east, rising slightly onto the bridge which leading into Ebon Downs. 
+A refreshing breeze blows off the Ilangollen river from the north east.  In
+the westerly direction, the road winds off into the hills, leads to distant
+lands.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13571
+D1
+~
+~
+0 0 13477
+D2
+~
+~
+0 0 13581
+D3
+~
+~
+0 0 13575
+S
+#13577
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+A humid breeze blows over the hills and along this ancient road, it
+carries warm, salty air from the ocean.  The hills themselves close in on
+either side, rounded and covered in rocks and thistle.  The rhythmic hum of
+crickets chirping fills the air, occasionally punctuated by the screech of a
+crow which echoes about the slopes.  The route leads through the hills from
+the east to the west.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13572
+D1
+~
+~
+0 0 13578
+D2
+~
+~
+0 0 13582
+D3
+~
+~
+0 0 13490
+S
+#13578
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The road cuts straight through a large hill here, leaving the remains
+rising steeply on either side.  Large piles of split boulders lie on other
+side, tossed aside as the trade route was dug.  A few curious marmots peer
+at you from behind the rocks, ducking and disappearing out of sight with and
+movement towards them.  The route continues to the west and east.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13573
+D1
+~
+~
+0 0 13579
+D2
+~
+~
+0 0 13583
+D3
+~
+~
+0 0 13577
+S
+#13579
+0 0
+~
+~
+~
+0 0 0
+An outpost in the hills~
+A huge, steep-sided hill rises well above the others here, brambles and
+grasses on the gentler grades, rock faces on the others.  At the top of the
+hill, the remains of a wide-based black stone tower.  The tower, built ages
+ago, has long since fallen, the rocks split and worn from rain and wind. 
+Down the slope, to the east the Azaela Route leads towards Ebon Downs, a
+tiny town nestled along the river.  To the west, the route leads to Freeport
+far in the distance.  The Valasse starts to the north, leading off into the
+wilderness.  Only wilderness can be seen to the south.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13574
+D1
+~
+~
+0 0 13580
+D2
+~
+~
+0 0 13584
+D3
+~
+~
+0 0 13578
+D5
+~
+door~
+1 0 13478
+S
+#13580
+0 0
+~
+~
+~
+0 0 0
+The Azaela Trade Route~
+The trade road cruves around the base of a massive hill here, turning
+from west to south.  Large, rough sided boulders lie half-buried on the
+slopes among thorn-covered shrubs and clumps of onion grass.  Noisy bottle
+flies buzz about as you pass, disturbed by your presense.  The route turns
+here from north to west, passing by a small outpost.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 13575
+D1
+~
+~
+0 0 13581
+D2
+~
+~
+0 0 13585
+D3
+~
+~
+0 0 13579
+S
+#13581
+0 0
+~
+~
+~
+0 0 0
+Overlooking the Ilangollen River Valley~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13576
+D1
+~
+~
+0 0 13491
+D2
+~
+~
+0 0 13586
+D3
+~
+~
+0 0 13580
+S
+#13582
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Reaching the top of this rocky hill, you have an opportunity to rest a moment
+and look around.  Hills continue in erratic bumps for long distances in each
+direction.  Far to the west a glint of ocean is visible. The breeze blows 
+steadily here, having picked up speed going over the hill.  One small tree 
+grows here, black and thorny, sculpted into a bent-over shape in the constant 
+wind.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13577
+D1
+~
+~
+0 0 13583
+D2
+~
+~
+0 0 11613
+D3
+~
+~
+0 0 13504
+S
+#13583
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Grabbing at the smooth trunks of the nearby saplings is the only way to pull
+yourself up this steep, muddy slope.  Not far above the hill crests in a
+gentle curve, but here the way is nearly impossible.  A swarm of glittering
+green flies approaches and circles, whining, around your head, but you can't
+release your grip from the trunks or you'll slide back down.  Perhaps the
+other side of the hill would have been easier...
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13578
+D1
+~
+~
+0 0 13584
+D3
+~
+~
+0 0 13582
+S
+#13584
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Small hills covered in rich green grass seem to flow in synch as
+salt-scented air wafts over the long, dew-drenched stalks.  Slick
+perspiration comes and goes quickly as bursts of air crest over the
+protrusions in the land and swirl off in cooling eddies in the miniature
+valleys between them. Strange gray stones erupt out of the horizon in many
+places, acting as sole testaments to the withering power of nature.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13579
+D1
+~
+~
+0 0 13585
+D3
+~
+~
+0 0 13583
+S
+#13585
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+Flowing crests of green hills create a strange, wavy horizon as they meet
+a clean, clear sky.  A hanging saline mist clings to every part of you as
+you progress, giving you a somewhat uncomfortable but manageable feeling
+of slick perspiration.  Gray stones of all sizes mark several spots along
+the land, giving you some sense of landmarking direction.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13580
+D1
+~
+~
+0 0 13586
+D3
+~
+~
+0 0 13584
+S
+#13586
+0 0
+~
+~
+~
+0 0 0
+On the slopes of the Macocaap Outlands~
+This valley is filled with thorny brambles which grab and tear at your legs
+with every step.  Some of the surrounding slopes are covered with small
+trees, growing off the hillsides at improbable angles, the silvery
+undersides of their leaves clearly visible from below.  Other hills are too
+dry and rocky to sustain more than a few scruffy plants here and there.
+~
+0 B 4
+0
+~
+I 0 D0
+~
+~
+0 0 13581
+D1
+~
+~
+0 0 13505
+D3
+~
+~
+0 0 13585
+S
+#13587
+50 500
+~
+~
+house~
+0 0 0
+Inside a sturdy hill-house~
+Trinkets and paintings clutter this small, forlorn house.  A small dusty
+crib in the corner is filled with paintings of a small child and tiny
+clothing of all sorts.  A rocking chair with knitting needles sways faintly
+in the corner.
+~
+0 C 0
+0
+~
+H95
+I 0 M95
+S
+#0
+
+#RESETS
+D 0 13565   5    1	* A Dank Corner [down]
+M 0 13416   1 13565  1	* A dark elf sentinel
+M 0 13417  15 13430  1	* A macocaap hill giant
+E 0 13416   -1   16	* item to A macocaap hill giant
+M 0 13417  15 13439  1	* A macocaap hill giant
+E 0 13416   -1   17	* item to A macocaap hill giant
+M 0 13417  15 13449  1	* A macocaap hill giant
+E 0 13416   -1   16	* item to A macocaap hill giant
+M 0 13417  15 13447  1	* A macocaap hill giant
+E 0 13416   -1   16	* item to A macocaap hill giant
+E 0 13416   -1   17	* item to A macocaap hill giant
+M 0 13417   1 13451  1	* A macocaap hill giant
+E 0 13416   -1   16	* item to A macocaap hill giant
+M 0 13417  15 13479  1	* A macocaap hill giant
+E 0 13416   -1   16	* item to A macocaap hill giant
+M 0 13417  15 13495  1	* A macocaap hill giant
+E 0 13416   -1   16	* item to A macocaap hill giant
+M 0 13418  15 13481  1	* A rock troll
+E 0 13417   -1   12	* item to A rock troll
+M 0 13418  15 13483  1	* A rock troll
+E 0 13417   -1   12	* item to A rock troll
+M 0 13418  15 13471  1	* A rock troll
+E 0 13417   -1   12	* item to A rock troll
+M 0 13418  15 13499  1	* A rock troll
+E 0 13417   -1   12	* item to A rock troll
+M 0 13419   4 13487  1	* A stalker
+E 0 13418   -1    3	* item to A stalker
+M 0 13419   4 13459  1	* A stalker
+E 0 13418   -1    4	* item to A stalker
+M 0 13419   4 13461  1	* A stalker
+E 0 13418   -1    3	* item to A stalker
+M 0 13420  15 13474  2	* A macocaap native
+M 0 13420  15 13487  2	* A macocaap native
+M 0 13420  15 13485  2	* A macocaap native
+M 0 13420  15 13455  2	* A macocaap native
+M 0 13420  15 13440  1	* A macocaap native
+M 0 13421   5 13428  1	* A carrion dog
+G 0 13419 -1		* A gnawed fish corpse to A carrion dog
+M 0 13421   4 13426  1	* A carrion dog
+G 0 13419 -1		* A gnawed fish corpse to A carrion dog
+M 0 13421   4 13436  2	* A carrion dog
+G 0 13419 -1		* A gnawed fish corpse to A carrion dog
+M 0 13431   1 13428  1	* Genkaife the hermit
+E 0 13420   -1   18	* item to Genkaife the hermit
+M 0 13432   1 13587  1	* A tired mother
+M 0 13433   5 13417  1	* A barefoot wanderer
+M 0 13433   5 13428  1	* A barefoot wanderer
+M 0 13433   5 13435  1	* A barefoot wanderer
+M 0 13433   5 13419  1	* A barefoot wanderer
+M 0 13434   1 13425  1	* A dark rocksnake
+M 0 13434   5 13437  1	* A dark rocksnake
+M 0 13434   5 13443  1	* A dark rocksnake
+M 0 13434   5 13449  1	* A dark rocksnake
+M 0 13434   5 13468  1	* A dark rocksnake
+O 0 13422   0 13420 -1	* A sturdy hill house at On the slopes of the Macocaap Outlands
+O 0 13423   0 13587 -1	* The hill house at Inside a sturdy hill-house
+D 0 26210   0    2	* `aBackroom`` [north]
+D 0 26210   0    2	* `aBackroom`` [north]
+D 0 26210   0    2	* `aBackroom`` [north]
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 13419 spec_cast_undead		* A stalker
+M 13434 spec_poison		* A dark rocksnake
+S
+
+#OT
+#0
+#$

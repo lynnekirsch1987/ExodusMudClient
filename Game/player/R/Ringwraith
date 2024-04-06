@@ -1,0 +1,366 @@
+#PLAYER
+Name RingWraith~
+Id   1045427348
+LogF 1214334104
+LogO 1214334756
+Vers 8
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race avatar~
+Sex  1
+Cla  1
+Cla2  1
+Cla3  1
+Levl 11
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 2045
+NPlyd 0
+NAge 0
+Bank_Gold 0
+Bank_Silv 0
+Email LegolasBKG@hotmail.com~
+Referrer ~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 2
+Race_Old -1
+Class_Old -1
+New_Style 1
+Totalxp 1052968
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+TotalCGL 0
+TotalCGW 0
+MPC 0
+Host c-98-204-199-250.hsd1.md.comcast.net~
+Not  0 0 0 0 962647914 0 0 0
+Scro 22
+Room 4069
+HMV  74 128 119 230 175 175
+Hand 2
+Gold 16
+Silv 70
+Exp  17470
+Act  DQ
+Blok -1
+Comm EFGNORS
+Com2 A
+Pos  8
+Save  -1
+Alig  -1000
+Hit   32
+Dam   37
+ACs 32 33 30 33
+Attr 13 25 6 15 25 6
+AMod 17 5 5 5 5 4
+Pass RifXWFS.Umd9c~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  the Neophyte~
+Pnts 105
+TSex 1
+LLev 0
+Loner 0
+HMVP 128 230 175
+Cd  -4 -4 6 6 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias bless pray bless~
+Alias cons pray conservancy~
+Alias cs pray 'cure serious'~
+Sk 1 'purification'
+Sk 1 'cause critical'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 1 'continual light'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 81 'cure serious'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'true sight'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'earthquake'
+Sk 1 'flamestrike'
+Sk 1 'harm'
+Sk 1 'heal'
+Sk 1 'know alignment'
+Sk 1 'plague'
+Sk 1 'evocation'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'soul fire'
+Sk 1 'hallowed vision'
+Sk 1 'celestial sight'
+Sk 1 'sustenance'
+Sk 1 'holy water'
+Sk 1 'revelation'
+Sk 1 'levitation'
+Sk 1 'renewal'
+Sk 1 'divine protection'
+Sk 1 'calm'
+Sk 1 'frenzy'
+Sk 81 'bless'
+Sk 66 'conservancy'
+Sk 1 'remove curse'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 66 'shield block'
+Sk 70 'staff'
+Sk 1 'dodge'
+Sk 1 'swimming'
+Sk 1 'butcher'
+Sk 51 'meditation'
+Sk 1 'fishing'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Affc 'conservancy'   0  11  20 -10  17          0 0 ''
+Affc 'bless'   0  11  13  -1  24          0 0 ''
+Affc 'bless'   0  10  13   0  18          0 0 ''
+End
+
+#O
+Vnum 78
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 79
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4687
+Nest 0
+Name weapon universal~
+ShD  `oa universal `nweapon``~
+Desc Sword~
+WearL 8192
+Cost 10
+End
+
+#O
+Vnum 4686
+Nest 0
+Name spirit strength~
+ShD  `athe spirit of `istrength``~
+Desc Strength~
+WearL 65536
+Cost 10
+End
+
+#O
+Vnum 4681
+Nest 0
+Name leather bracer~
+ShD  `aa `dleather `abracer``~
+Desc Leather~
+WearL 1048576
+Cost 10
+End
+
+#O
+Vnum 4680
+Nest 0
+Name wooden bracer~
+ShD  `aa `dwooden `abracer``~
+Desc El~
+WearL 4096
+Cost 10
+End
+
+#O
+Vnum 4678
+Nest 0
+Name simple sash~
+ShD  `aa `bsimple `asash``~
+Desc Sash~
+WearL 2048
+Cost 10
+End
+
+#O
+Vnum 4677
+Nest 0
+Name cloth cape~
+ShD  `aa thin `ocloth `acape``~
+Desc Cape~
+WearL 1024
+Cost 10
+End
+
+#O
+Vnum 4676
+Nest 0
+Name carved wooden shield~
+ShD  `aa carved `dwooden `ashield``~
+Desc Shield~
+WearL 512
+Cost 10
+End
+
+#O
+Vnum 4674
+Nest 0
+Name silken gloves~
+ShD  `aa pair of `osilken `agloves``~
+Desc Gloves~
+WearL 128
+Cost 10
+End
+
+#O
+Vnum 4673
+Nest 0
+Name leather boots~
+ShD  `aa pair of `dleather `aboots``~
+Desc Boots~
+WearL 64
+Cost 10
+End
+
+#O
+Vnum 4672
+Nest 0
+Name cloth leggings~
+ShD  `aa pair of `ocloth `aleggings``~
+Desc Leggings~
+WearL 32
+Cost 10
+End
+
+#O
+Vnum 4671
+Nest 0
+Name wooden helmet~
+ShD  `aa `dwooden `ahelmet``~
+Desc A helmet~
+WearL 16
+Cost 10
+End
+
+#O
+Vnum 4670
+Nest 0
+Name breastplate~
+ShD  `aa `hsilver `obreastplate``~
+Desc A breastplate~
+WearL 8
+Cost 10
+End
+
+#O
+Vnum 4669
+Nest 0
+Name necklace~
+ShD  `aan `oopal `anecklace``~
+Desc A necklace~
+WearL -1
+Cost 10
+End
+
+#O
+Vnum 4668
+Nest 0
+Name fluffy scarf~
+ShD  `aa `ffluffy `ascarf``~
+Desc A scarf is here~
+WearL 524288
+Cost 10
+End
+
+#O
+Vnum 4668
+Nest 0
+Name fluffy scarf~
+ShD  `aa `ffluffy `ascarf``~
+Desc A scarf is here~
+WearL 4
+Cost 10
+End
+
+#O
+Vnum 4667
+Nest 0
+Name a shiny gold ring~
+ShD  `aa `kgold `aring``~
+Desc A ring is here~
+WearL 262144
+Cost 10
+End
+
+#O
+Vnum 4666
+Nest 0
+Name a silver ring~
+ShD  `aa `osilver `aring``~
+Desc A ring is here~
+WearL 2
+Cost 10
+End
+
+#O
+Vnum 4665
+Nest 0
+Name ball light~
+ShD  `aa ball of `klight``~
+Desc A ball of light is here~
+WearL 2097152
+Cost 10
+End
+
+#O
+Vnum 4675
+Nest 0
+Name gauntlets carved wood~
+ShD  `agauntlets `ocarved `hfrom `dwood``~
+Desc Gauntlets~
+WearL 256
+Cost 10
+End
+
+#RoomRLE   4047 2 1 3 1 16 3 1 2 3 50 1 4 2 13 1 1 2 24 2 3 1 16 1 13 1 43 1 206 4 20624 1 2119 1 38322 -1
+
+#QbitsRLE   999 -1
+
+
+#SWORD
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade '`kD`oe`ka`ot`kh`oB`kr`oi`kn`og`oe`kr```h'``~
+Desc `hThis Reaver blade bares the inscription '`kD`oe`ka`ot`kh`oB`kr`oi`kn`og`oe`kr```h'.``~
+BS2Cap 0 0 0 0 0 0 0
+BS2Char 0 0 0 0 0 0 0
+BBCap 0 0 0 0 0
+BBChar 0 0 0 0 0
+WearL -1
+Cost 0
+End
+
+#END

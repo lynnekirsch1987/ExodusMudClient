@@ -1,0 +1,42 @@
+* mob Avenlea 4402 in room 4170 *
+
+#TRIGGER sighand
+Type 8
+Sc
+mfunc self %vnum% room
+if ( %vnum% == %sighand-arg% )
+  emote approaches the chipmunk, timidly proffering a nut in her outstretched hand.   
+  force chipmunk emote sniffs Avenlea's hand and snatches the nut away.
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+mfunc self %vnum% room
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 3 )
+  signal 4401 %vnum%
+  halt once~  
+Sc
+if ( %rndnum% == 0 )
+  emote sighs profoundly, gazing forlornly at the ground.
+  halt once~
+Sc 
+if ( %rndnum% == 1 )
+  emote looks at you pensively, as if weighing your character on some invisible scale.
+  halt once~
+Sc 
+if ( %rndnum% == 2 )
+  emote reaches up to tug a curl, bringing it to her mouth to chew on.
+  halt once~
+End
+
+
+#END
+
+
+
+
+
+

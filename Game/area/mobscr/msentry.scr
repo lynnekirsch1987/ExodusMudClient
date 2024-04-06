@@ -1,0 +1,23 @@
+* script: msentry.scr
+* Merossa Merossa Wall Sentry (14014)
+
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rand% random 0 9
+
+if (%rand% == 0)
+  emote scans the streets for pirate raiders.
+  halt once~
+Sc
+if (%rand% == 1)
+  emote throws some stones down onto a pirate raider below.
+  halt once~
+Sc
+if (%rand% == 2)
+  cmd yell Pirates attacking the town square!  Guards!
+  halt once~
+End
+
+#END

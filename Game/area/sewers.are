@@ -1,0 +1,3591 @@
+#AREA
+ 6~
+sewers.are~
+Thesden's Eastern Sewers~
+{20 30} Solath  Thesden's Eastern Sewers~
+sewers~
+5023 5098
+5 0 4007
+0 0
+saeth~
+#MOBILES
+#5023
+large rat~
+`aa large black rat``~
+`aA large black rat moves through the sludge.``
+~
+`aThis rat is about the size of a large dog.  Its cold black fur is
+matted disgustingly on its sleek body.  The razor sharp teeth that jut out
+from it's mouth appear to make it extremely viscious.  `` 
+~
+dog~
+0 0 0 0
+AG 0 -150 0
+20 20 3d9+333 0d0+0 2d8+5 bite
+-2 -2 -2 999 -4
+0 -1 H 0 0 0
+stand stand none 0
+AGV ACDEFHJKUVa 10 10 10 10 10 10 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#5024
+bat huge~
+`aa large `hwhite`a bat``~
+`a A large `hwhite`a bat hangs from the ceiling here.``
+~
+This large white bat hangs contently from the ceiling.  About four foot
+from toes to head, this bat seems to be quiet and uninterested in you,
+probably a good thing.  
+~
+bat~
+0 0 0 0
+AB TZ 0 0
+30 30 3d99+333 0d0+0 1d8+8 bite
+-9 -9 -9 999 0
+0 -1 FH 0 0 S
+stand stand none 0
+AGV ACDEFHJKPa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5025
+servant~
+`mthe Queen's servant``~
+One of `mthe Queen's servants`` stands here scrubbing the walls.
+~
+`mThis servant is dressed in a meek tunic of brushed cotton, and a tabbard of the Queen's regalia.``
+~
+human~
+0 0 0 0
+AB 0 0 0
+20 20 3d99+333 0d0+0 0d0+0 none
+-2 -2 -2 999 4
+0 -1 0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+large flesh~
+0 0 0 100
+7
+cleaner.voc~
+~
+#5026
+black widow spider~
+`aa huge black widow``~
+`aA huge black widow spider`` stands here with poison dripping from its fangs.
+~
+Eight clustered eyes peer out at you from a large, eight-legged body. 
+The furry body of this creature is about four foot long and has about two
+inch fangs protruding from its head.  
+~
+centipede~
+0 0 0 0
+ABS Z 0 0
+25 25 3d99+333 0d0+0 0d0+0 none
+-2 -2 -2 999 4
+0 -1 0 0 FI E
+stand stand none 0
+ABGO ACKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5027
+masked burgler man devious~
+`aa burglar``~
+`aA devious looking man`` lunges at you with his dagger drawn.
+~
+`aThis man appears very shifty.  His broad shoulders and massive biceps
+are accented by his large chest and huge legs.  He does not appear to be
+very happy to see you.  `` 
+~
+human~
+0 0 0 0
+ABFS 0 -150 0
+20 20 3d99+333 0d0+0 0d0+0 pierce
+-2 -2 -2 999 4
+0 -1 0 0 0 0
+stand stand male 150
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5028
+master thief man~
+`athe Master thief``~
+`aA stern looking man`` tries to place a dagger in your back.
+~
+A dagger planted in you is about the only thing this man seems to care
+about.  
+~
+human~
+0 0 0 0
+ABFS 0 0 0
+30 30 5d99+333 0d0+0 2d8+10 pierce
+-9 -9 -9 999 0
+0 -1 0 0 0 0
+stand stand male 350
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5029
+brown spider~
+A brown spider~
+A brown spider scurries around the room.
+~
+~
+snake~
+0 0 0 0
+ABFG 0 -1000 0
+10 10 3d22+96 0d0+0 2d4+10 pierce
+4 4 4 999 7
+0 -1 0 0 L I
+stand stand none 20
+AGXYc ADEFKLQVXa 8 8 8 8 8 8 0
+small oldstyle~
+0 0 0 50
+0
+~
+~
+#5030
+eccentric hermit~
+An eccentric hermit~
+An eccentric hermit stands here.
+~
+This human has a generally unkept but clean appearance.  His eyes gleam
+with an almost magical light, flashing as if reflecting some unseen light. 
+The hermits age is hard to determine.  He looks very old but his movements
+are fluid and smooth as if he was much younger.  
+~
+human~
+0 0 0 0
+ABR 0 0 0
+30 30 6d12+853 10d10+20 4d6+8 magic
+-9 -9 -9 999 0
+0 -1 0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 0 100
+5
+hermit.voc~
+~
+#5031
+butler~
+A butler~
+A butler stands quietly here.
+~
+This well-dressed man greets you friendly.  A white cotten towl is draped
+over his left arm which is tucked close to his body.  He is well-kept, clean
+shaven, and his hair is combed perfectly into shape.  
+~
+human~
+0 0 0 0
+ABT 0 0 0
+30 30 6d12+853 10d10+20 4d6+4 smash
+-9 -9 -9 999 0
+0 -1 0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 0 100
+6
+keybutler.voc~
+~
+#5032
+black snake~
+A large `ablack snake``~
+A large `a black snake`` rests here.
+~
+This large black snake slowly crawls through the tunnel looking for its
+next meal.  Its whole body is covered in sludge, but its large black scales
+can still be seen.  Small beady eyes glare back at you as you look at it.  
+~
+lizard~
+0 0 0 0
+ABG 0 0 0
+25 25 5d10+550 5d5+10 2d10+7 chomp
+-5 -5 -5 999 2
+0 -1 M 0 L I
+stand stand none 75
+AGXc ACDEFHKQVa 11 11 11 11 11 11 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#5034
+pastry chef~
+A pastry chef~
+A pastry chef is working here.
+~
+This portly man is dressed all in white, including a tall hat which sits
+high on his head.  In his right hand he holds a large pastry knife as he
+works on a piece of dough.  Flour covers his hands as well as the front of
+his apron.  
+~
+human~
+0 0 0 0
+ABT 0 0 0
+30 30 6d12+853 10d10+20 4d6+4 slice
+-9 -9 -9 999 0
+0 -1 0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 0 100
+6
+chef.voc~
+~
+#5035
+hrass necromancer~
+`aHrass``~
+`aA vro'ath writhes in ecstacy as boils bubble and ripple all over his naked body.``
+~
+`bNeither as strong nor bulky as his kin, this vro'ath has long ago realized his
+limitations, but moving in another direction than the way of the warrior.
+He became a mage of the dark arts, a necromancer.``
+~
+vro'ath~
+0 0 0 0
+ABGJKNb Vc -1000 0
+90 100 30000d1+1 5000d1+1 20d10+10 claw
+0 0 0 999 0
+D 0 F ABQTb 0 NP
+stand stand none 0
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 30059
+huge oldstyle~
+0 0 0 100
+4
+~
+~
+#5036
+Carchathoth lich undead master figure~
+`aCarchathoth``~
+`aAn undead figure swathed in robes stares into the flames contemplatively.``
+~
+Carchathoth's history goes back farther than almost anyone can remember.  In
+ancient times, when Thesden was but a young and tiny village, Carchathoth was
+known as Simle, an ordinary sea merchant.  One day after a terible storm,
+Simle walked out to the beach to launch his small boat and seek his daily
+catch.
+``
+There before him, gleaming in the sun and partly covered with sand lay a
+small red gemstone.  Curious, Simle examined it and discovered it was
+polished and cut and probably very valuable.  That day as he sat in his boat
+waiting on the fish, he studied the stone, searching for clues of its origin.
+As he turned it over and over in his hands, he gazed deep into its translucent
+red depths, trying to find a detail within it that was just beyond the limits
+of his vision.  Simle held the stone up to the sky to try to see deeper into
+it with the sun shining through, casting odd magnified shapes and symbols
+upon the inside of his boat as he sat.  This went on for some time and Simle
+failed to notice the symbols remained upon his boat even after he tucked the
+stone safely away in a pouch in his pocket.  The runes slowly smoldered,
+blackening the wooden boat as they ate their way through.
+``
+By the time the first leak had sprung, Simle was miles offshore with no hope
+of swimming to safety.  Suddenly a shadow crossed the sun and Simle looked
+up to see a black-robed figure perched impossibly and weightlessly upon the
+bow of his small boat.  The figure said nothing, but reched out a thin
+leathery inhuman hand to Simle.  Simle knew what he had come for and in his
+fear, he reached for the stone, hoping the creature would take it and spare
+his life.
+``
+"Simle," said the creature in a slow cracking gritty voice.  "You have found
+that which I have searched eons for.  You know not the thousands of lives I
+have ended in search of this prize.  I would as soon swallow your soul as
+gaze upon you, but simple as you are, I sense you are devoid of any ability
+to do me harm and you willingly offer me what I seek.  I shall make you an
+offer in return.  I can take this stone and leave you here to drown or I
+can take you with me and show you my world."
+``
+Desperate and wild with fear, Simle glanced back towards shore, which was
+so far away he could not even see it anymore.  "Don't let me die!  Take
+me with you!" he cried.  The creature smiled and Simle slumped to the deck.
+``
+Who knows how long he slept, for when he woke, his body was not his own.
+his limbs were shriveled and his skin was rotten and leathery.  Every
+second was agony.  He tried to scream, yet he could make no sound.  Who
+would be near to hear him if he could?  His only companion was the ever-
+burning flame in the center of the floor.  As he gazed into the dancing
+flames, he felt the slightest relief from the agony of his physical form.
+It was as though he had died and rotted away for years.  Trapped in this
+room of stone and darkness, a single memory remained of his former life.
+A word that shone upon the bottom of the boat as the sun shone through that
+red gem so many lifetimes before:
+``
+Carchathoth.
+~
+lich~
+0 0 0 0
+AJKORTb DFGJZe -1000 0
+100 50 1d5000+20000 1d5000+20000 1d50+100 none
+-30 -30 -30 999 -30
+0 -1 0 ABLQRc CIMQ HNOS
+stand stand none 100000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#5037
+necromancer~
+`hthe necromancer``~
+`hA necromancer stands just outside the opening in the eastern wall.``
+~
+~
+human~
+0 0 0 0
+AB DFJZ 0 0
+90 15 5d1000+7500 1d1+4999 1d30+80 claw
+-20 -20 -20 999 -20
+0 -1 0 ABc 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium flesh~
+0 0 0 100
+0
+necrolich.voc~
+necrolich.scr~
+#5038
+gurka~
+(no short description)~
+`aA dracolich rages inside the hexagram, clawing at the air.``
+~
+~
+human~
+0 0 0 0
+A 0 -1000 0
+1 0 10d10+1000 0d0+0 0d0+0 none
+0 0 0 999 0
+0 60 0 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#5023
+plaque~
+map carved small~
+~
+stone~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+map~
+________________________________________
+|              Saehan Tunnel            |
+|                   |                   |    
+|                   |                   |    
+|                   |                   |    
+|    Bay  ----------------- Langhan     |   
+|                   |                   |   
+|                   |                   |
+|                   |                   |
+|              Castle Tunnel            |
+----------------------------------------
+~
+#5024
+goo~
+white chalk chalky clay substance~
+~
+pottery~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+clay~
+This whitish coloured substance appears to be the waste product of
+turning pottery.  As you ponder the substance, it dons on you that the
+pottery shop would be almost on top of you.  
+~
+#5025
+A Clean Water pipe~
+a clean water pipe~
+~
+stone~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#5026
+web~
+A large spiders web~
+A large spiders web clings to everything it touches.~
+hemp~
+0
+trash 2
+MS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#5027
+sign~
+(no short description)~
+~
+stone~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+devon~
+The algae growing in the carved name and the water trickling over it makes it appear to move.
+~
+#5028
+scrub brush~
+a rough scrub brush~
+A rough scrub brush~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C AB AC ABC 0
+0
+0
+20 6 30 P
+#5029
+A `hCrystal Fountain``~
+fountain crystal~
+A `hbrilliant crystal fountain ``bubbles quietly here.~
+crystal~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+fountain~
+`hThis solid crystal fountain glistens in the soft torchlight, the clear
+water and incredible crystal working together to make the whole room
+sparkle.  The cool, crisp water flows gracefully from the top of the
+fountain and into a huge basin down below.``
+~
+#5030
+plush leather couch~
+a `kplush `dleather `kcouch``~
+A `hplush `dleather `hcouch`` rests here.~
+soft leather~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC DFGHIJ EHK ABEFG ABEFG
+0
+0
+20 1000 0 P
+#5031
+black iron oven~
+an iron oven~
+A large `ablack iron oven``~
+iron~
+0
+container 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EGHIJK AC 0 BEF CFG
+0
+0
+0 2000 0 P
+#5032
+pastry ~
+a pastry~
+A fresh-baked pastry.~
+bread~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC CD DG 0 0
+0
+0
+0 2 0 P
+#5033
+wooden bowl~
+a large `dwooden bowl``~
+A large `dwooden bowl.``~
+wood~
+0
+container 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C 0 0 BC BCDFG
+0
+0
+0 0 0 P
+#5034
+apple~
+a juicy `bred apple``~
+A juicy `bred apple``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC DG 0 0
+0
+0
+0 0 0 P
+#5035
+peach~
+a `kfirm, fuzzy peach``~
+A `kfirm, fuzzy peach``~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC DG 0 0
+0
+0
+0 10 9 G
+#5036
+ancient key~
+an ancient key~
+An ancient key~
+sandstone~
+0
+key 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 1 0 P
+#5037
+crystal spire~
+crystal spire~
+~
+crystal~
+0
+portal 2
+ORS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n is swept upwards by the water current~
+You are thrown violently out of the crystal fountain.~
+~
+~
+-1 0 0 ABCDGHIJM A
+0
+0
+0 0 0 P
+E
+spire~
+This strange pillar seems to be made of crystal and water.  You can see,
+hear, and even smell the fresh water flowing upwards to some unknown
+designation.  The strange outer part of this pillar are almost non-existant
+like you could walk right through it.  
+~
+#5038
+dagger~
+a small dagger~
+A small dagger lays here.~
+iron~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B C C ABD 0
+0
+0
+20 5 100 P
+#5039
+stew~
+a portion of stew~
+A portion of hearty stew.~
+unknown~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD ABDG B 0 0
+0
+0
+20 0 0 P
+#5040
+trophy box iveraths rusted iron brown~
+`k[`eIverath's trophy box`k]``~
+`dA brown and rusted iron box is floating in the sewage.``~
+iron~
+0
+player_box 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BEF 0 0 0 0
+0
+0
+90 0 1 P
+#5041
+laurass politeness~
+Lauras's politeness~
+Booga~
+unknown~
+0
+armor 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 1 P
+#5042
+entanglers channel priviliges~
+Entangler's channel priviliges~
+Sgdf~
+unknown~
+0
+armor 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+2 2 1 P
+#5043
+swirling portal~
+the portal to Devon Square Center~
+A swirling portal covers the eastern wall.~
+ethereal~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n Steps through a swirling portal and vanishes with a *POP*~
+You step into a swirling portal and find yourself in a new place.~
+Pigeons scatter as $n pops into the middle of the square.~
+~
+-1 0 G DEGHIJKL A
+0
+0
+0 0 0 P
+#5044
+gauntlets undead~
+`agauntlets of the undead``~
+Worn leather gauntlets lie here as flies buzz around them.~
+cloth~
+0
+clothing 2
+EPST
+0
+AH
+0
+N
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 3 25000 P
+A
+24 -17
+#5045
+shadow death~
+`athe shadow of death``~
+`aAn ominous shadow reaches for you...``~
+energy~
+0
+treasure 2
+Sd
+0
+AQ
+L
+0
+0
+5045
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 10 10000 P
+A
+24 -5
+A
+13 60
+A
+12 60
+A
+18 8
+A
+19 12
+#5046
+hexagram~
+a hexagram~
+`bA raging dracolich struggles against the dark powers keeping it inside the hexagram.``~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+5046
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B 0 0 ACFGHIJM 0
+0
+0
+1 0 1 P
+#5047
+belt hip pouch~
+`aA `bbloodied `abelt and hip pouch``~
+`aA belt with a pouch attached stained in `bblood``~
+hard leather~
+0
+container 2
+ESTYd
+L
+AL
+L
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BCDEGI 0 0 AFGH ADG
+0
+0
+100 0 30000 P
+A
+13 65
+A
+12 45
+A
+24 -10
+A
+17 -25
+#5097
+Claw Dark Dragon~
+`gThe `bclaw`g of the `iD`ba`ir`bk `oD`hr`kag`ho`on``~
+`gA very valuable `bclaw `glies here in the dirt.``~
+bone~
+0
+weapon 2
+ABWY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 BCE ADE AC BDGHIJ
+0
+0
+80 1 900000 P
+A
+17 25
+A
+17 25
+A
+17 -25
+A
+3 2
+A
+26 -10
+A
+2 1
+A
+24 25
+A
+18 5000
+A
+19 5000
+#5098
+apple red~
+a red `bapple``~
+A `bred apple`` looks delicious.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC CDEF 0 0
+0
+0
+1 1 5 G
+#0
+
+#ROOMS
+#5023
+0 0
+~
+~
+~
+0 0 0
+An `aOld, Dark Tunnel``~
+This tunnel is about six feet high and mostly circular in shape.  The
+rough-hewn, brackish stone is covered with a thick layer of green-brown
+algae and the stench coming from the sludge in the bottom of the tunnel is
+almost overpowering.  
+~
+0 ACDQ 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5024
+S
+#5024
+0 0
+~
+~
+~
+0 0 0
+A `aDarkened Tunnel``~
+The stone tunnel becomes darker and darker the further you proceed.  The
+sludge on the bottom of the tunnel seems to be moving unusually fast for its
+consistency.  The stench seems to be coming from all directions now.  
+~
+0 ACDQ 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5025
+D3
+~
+~
+0 0 5023
+S
+#5025
+0 0
+(null)~
+~
+~
+0 0 0
+A `aPitch Black Tunnel``~
+The tunnel becomes totally dark at this point.  A small point of light
+from the west can be seen.  The air here is thick and hard to breathe,
+saturated with a fine mist of putrid water and incredible stench.  
+~
+0 ACDQ 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5026
+D3
+~
+~
+0 0 5024
+S
+#5026
+0 0
+(null)~
+~
+~
+0 0 0
+A `aPitch Black Tunnel``~
+The tunnel becomes totally dark at this point.  A very small point of
+light from the west can be seen near the bay.  The air here is thick and
+hard to breathe, saturated with a fine mist of putrid water and incredible
+stench.  
+~
+0 ACDQ 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5027
+D3
+~
+~
+0 0 5025
+S
+#5027
+0 0
+(null)~
+~
+~
+0 0 0
+A `aWidening Tunnel``~
+The tunnel begins to widen here, becoming slightly higher at the same
+time.  There is a small amount of shimmering light entering from the east. 
+This strange light mixed with the moving sludge and water makes the whole
+room seem to quiver.  
+~
+0 ACDQ 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5028
+D3
+~
+~
+0 0 5026
+S
+#5028
+0 0
+~
+~
+~
+0 0 0
+A `gStrange Circular Room``~
+``This strange, circular room has a small grate in the ceiling which lets
+in just enough light to see by.  The light streams in from above and bounces
+off the thin layer of water on the floor.  Muffled sounds filter down from
+above.  There are tunnels running in all four directions from this chamber. 
+On the wall next to the entrance of the south tunnel is a small `bmap``.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 5053
+D1
+~
+~
+0 0 5033
+D2
+~
+~
+0 0 5029
+D3
+~
+~
+0 0 5027
+D4
+~
+manhole~
+4097 0 4086
+S
+#5029
+0 0
+~
+~
+~
+0 0 0
+The `gSmaller South Branch``~
+``This tunnel is smaller than the rest, being only about four foot in
+diameter.  It slopes upwards slightly towards the north and disappears into
+the darkness.  There is less sludge here and the stench is almost tolerable.
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 5028
+D2
+~
+~
+0 0 5030
+S
+#5030
+0 0
+~
+~
+~
+0 0 0
+The `gSmaller South Branch``~
+This branch of the tunnel continues to run north and south.  A small
+amount of light filters in from the north as well as from the south.  Most
+of the sludge in the bottom of this tunnel seems to be thinner and doesn't
+smell very bad at all.  
+~
+0 AD 18
+0
+~
+I 0 D0
+~
+~
+0 0 5029
+D2
+~
+~
+0 0 5031
+S
+#5031
+0 0
+~
+~
+~
+0 0 0
+The `gSmaller South Branch``~
+``This part of the tunnel appears almost clean.  There is no sludge in the
+bottom of this tunnel, only a small amount of brackish water trickles down
+to the south.  The slight odor of flowers from the north almost overrides
+the stench of the sewers.  Also from the north comes a flicker of torchlight
+and the soft mumble of conversation.  
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 5030
+D2
+~
+~
+0 0 5032
+S
+#5032
+0 0
+~
+~
+~
+0 0 0
+An `hUnusually Clean Cesspool``~
+``The small amount of light from a single torch on the southern wall of
+this circular chamber causes the walls of this cesspool to glow bright
+white.  The reflection from the walls and the light coming in from small
+grates above make it easy to see all around.  The pool of water in the
+center of this pool appears almost clean enough to drink.  There are a
+number of pipes of all different sizes entering this room from almost all
+different directions.  A few of these `bpipe``s seem to have a steady stream
+of clear water pouring out of them and into the pool below.  
+~
+0 D 18
+0
+~
+H102
+I 0 M101
+D0
+~
+~
+0 0 5031
+S
+#5033
+0 0
+~
+~
+~
+0 0 0
+The `eLanghan Tunnel``~
+``This quite large tunnel runs east and west below Langhan street.  Back
+towards the east a faint glimmering of light can be seen while to the west
+you see nothing but darkness.  The tunnel slopes slightly upwards towards
+the east causing the sludge on the bottom of the tunnel to slide slowly
+west.
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5034
+D3
+~
+~
+0 0 5028
+S
+#5034
+0 0
+~
+~
+~
+0 0 0
+The `eLanghan Tunnel``~
+Darkness again swirls around inside this large east-west tunnel.  A small
+pipe in the northern wall of this tunnel occasionally spurts out globs of
+some sort of off-white sludge that oozes towards the center of the tunnel. 
+The brackish slime that continues to flow to the west quickly absorbs this
+white sludge and carries it away.  All around this pipe is a `hchalky
+substance`` that has began to mound up all around that side of the tunnel.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5035
+D3
+~
+~
+0 0 5033
+S
+#5035
+0 0
+~
+~
+~
+0 0 0
+The `eLanghan Tunnel``~
+``The darkness around you could almost be cut with a blade.  The sludge in
+the bottom of the tunnel slowly slides down towards the west, leaving behind
+only a sickening stench.  The darkness continues towards the east as do many
+strangely quiet noises.  
+`cThere is a grate to the south that more disgusting water flows into.``
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5036
+D2
+~
+door~
+4097 0 22877
+D3
+~
+~
+0 0 5034
+S
+#5036
+0 0
+~
+~
+~
+0 0 0
+The `eLanghan Tunnel``~
+A rhythmic ringing of metal can be heard from the darkness to the east. 
+The brackish sludge continues to slide down to the west.  The stench here is
+all but overwhelming making it hard to keep dinner inside.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5037
+D3
+~
+~
+0 0 5035
+S
+#5037
+0 0
+~
+~
+~
+0 0 0
+The `eLanghan Tunnel``~
+The rhythmic ringing of metal-on-metal echoes through the tunnel, causing
+the sludge here to move in short jerks down to the west.  There is a slight
+amount of light emanating from the east while darkness blankets the tunnel
+to the west.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5038
+D3
+~
+~
+0 0 5036
+S
+#5038
+0 0
+~
+~
+~
+0 0 0
+The `eGrisendale Cesspool``~
+``This large, round room is illuminated softly by light leaking through
+half-clogged grates in the ceiling.  Tunnels connect to this room on the
+north and the west, while a moderately sized pipe protrudes about a foot
+into the room from the south.  The sludge on the floor of this room swirls
+slowly as it enters from the north and south only to find its way down the
+slight decline to the west.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5039
+D3
+~
+~
+0 0 5037
+D4
+~
+manhole~
+4097 0 4080
+S
+#5039
+0 0
+~
+~
+~
+0 0 0
+The `dWelford Tunnel``~
+Brackish sludge covers almost the whole bottom third of this tunnel,
+being backed up by some unseen blockage.  What little sludge that does find
+its way through creeps slowly southward following the slight grade of this
+round passageway.  The stench of rot here is very strong.  
+~
+0 D 18
+0
+~
+H90
+I 0 M90
+D0
+~
+~
+0 0 5040
+D2
+~
+~
+0 0 5038
+S
+#5040
+0 0
+~
+~
+~
+0 0 0
+The `dWelford Tunnel``~
+The sludge in the bottom of this wide tunnel slowly swirls around in the
+darkness.  Its hard to tell exactly what direction the sewage is moving, but
+it seems it is working its way to the south.  Between the darkness, the
+sludge that occupies about one fourth of the tunnel, and the stench that
+attacks the nose, there isn't much doubt this would NOT make a good place
+for a summer home.  
+~
+0 AD 18
+0
+~
+H93
+I 0 M93
+D0
+~
+~
+0 0 5041
+D2
+~
+~
+0 0 5039
+S
+#5041
+0 0
+~
+~
+~
+0 0 0
+The `dWelford Tunnel``~
+Darkness, sludge, and stench almost totally describes this section of
+tunnel.  Small bits of what appear to be meat and bones encrusted with
+maggots float down towards the south.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5042
+D2
+~
+~
+0 0 5040
+S
+#5042
+0 0
+~
+~
+~
+0 0 0
+The `dWelford Tunnel``~
+There are small chunks of what appear (and smell) to be rotting meat
+covered with maggots floating down towards the south from the north.  They
+float near the top of the foot thick brackish sludge that makes the thought
+of dry feet seem remote.  The smell from the rotting flesh and the sludge is
+incredible.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5043
+D2
+~
+~
+0 0 5041
+S
+#5043
+0 0
+~
+~
+~
+0 0 0
+The `dFarmers Cesspool``~
+This large, rounded chamber is occupied by more maggots than can be
+count.  They all feed on the rotting meat and bone that floats in and lies
+around the edges of the center pool as well.  More meat, bones, and blood
+flows out of a moderately large pipe protruding from the eastern wall of the
+chamber.  Small stripes of light enter the room from the old, iron grates in
+the ceiling that separate you from the street above.  Lots of flies, ranging
+in size, swarm around...  Some of which accidentally find their way into the
+gray-white webs lining the walls and ceiling.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5067
+D1
+~
+~
+0 0 5090
+D2
+~
+~
+0 0 5042
+D3
+~
+~
+0 0 5044
+D4
+~
+manhole~
+4097 0 4069
+S
+#5044
+0 0
+~
+~
+~
+0 0 0
+The `cCumberland Tunnel``~
+``There is a very unique structure here on the east side of this tunnel.
+Large stone fingers protrude from the floor creating a kind of water filter
+and overflow control.  The structure rises about a foot into the five foot
+diameter tunnel.  This part of the sewer is actually mostly dry but you
+notice there are water stains about half-way up on the sides.  The tunnel
+runs eastward towards a small amount of light and westward into the
+darkness.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5043
+D3
+~
+~
+0 0 5045
+S
+#5045
+0 0
+~
+~
+~
+0 0 0
+The `cCumberland Tunnel``~
+``This section of darkened tunnel isn't very wet, having only a few pipes
+trickling sewage in from the north and south.  The sludge in the center of
+this part of the tunnel is almost dried up and the odor it releases is
+almost tolerable.  The tunnel slants slightly towards the west, causing the
+little amount of water that is here to flow in that direction.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5044
+D3
+~
+~
+0 0 5046
+S
+#5046
+0 0
+~
+~
+~
+0 0 0
+The `cCumberland Tunnel``~
+``A steady trickle of liquid runs from east to west and off into more
+darkness.  More small pipes carrying more sewage protrude from the north and
+south walls, making this part of the tunnel quite damp.  There is a moderate
+odor of stale garbage and rotting leftovers, but it isn't overwhelming at
+this point.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5045
+D3
+~
+~
+0 0 5047
+S
+#5047
+0 0
+~
+~
+~
+0 0 0
+The `cCumberland Tunnel``~
+Not a trace of light can be seen in either the east or west and there is
+about an about an inch of sewage resting on the ground.  The floor slopes
+slightly down towards the west which allows for the sludge to slide in that
+general direction.  There is quite a stench hanging in the air here.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5046
+D3
+~
+~
+0 0 5048
+S
+#5048
+0 0
+~
+~
+~
+0 0 0
+The Cumberland Tunnel~
+``A small rivulet of sewage flows out of the east towards the west right
+down the center of this tunnel.  Occasionally, one of the pipes that jut out
+of the north and south walls spews more sewage into the main stream.  A
+slight amount of light glows into the room from the west giving just enough
+illumination to see.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5047
+D3
+~
+~
+0 0 5049
+S
+#5049
+0 0
+~
+~
+~
+0 0 0
+The `aDevon Cesspool``~
+``This large circular chamber is fed sewage from the tunnels to the north
+and east and sends this sewage down the tunnel to the south.  Small amounts
+of light and the muffled sounds of the city stream in from grates above. 
+Someone has carved the name `hDevon`` into the wall near the ceiling and
+water overflowing from the fountain above has caused algae to grow into the
+words making it look as if it were alive.  `` 
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+E
+devon~
+The algae growing in the carved name and the water trickling over it
+makes the letters appear to move.  
+~
+D0
+~
+~
+0 0 5055
+D1
+~
+~
+0 0 5048
+D2
+~
+~
+0 0 5050
+D3
+~
+~
+0 0 5081
+D4
+~
+manhole~
+4097 0 4056
+S
+#5050
+0 0
+~
+~
+~
+0 0 0
+The `fSeahan Tunnel``~
+``The sludge in this tunnel slides slowly down the grade towards the
+south and into the darkness.  The small amount of light that filters in from
+the north illuminates a few glistening slug trails along the east wall of
+the tunnel.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5049
+D2
+~
+~
+0 0 5051
+S
+#5051
+0 0
+~
+~
+~
+0 0 0
+The `fSeahan Tunnel``~
+``The sewage flows past you at a steady pace down towards the south.  To
+the north and south you can see only darkness, while to the east and west
+only the smooth stone walls of the tunnel can be seen, only very
+occasionally broken by a pipe protruding into the tunnel from either side.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5050
+D2
+~
+~
+0 0 5052
+S
+#5052
+0 0
+~
+There is a loud -click- as $n enters.~
+~
+0 0 0
+The `fSeahan Tunnel``~
+``The east wall of this tunnel has been caked with mud as has the floor
+and ceiling.  What appears to be a freshly dug tunnel leads off into the
+darkness to the west.  A small earthen dam has been constructed across the
+entrance of this new tunnel to keep out the sewage.  A strange section of
+floor seems to have one purpose...  To make noise when stepped on.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5051
+D2
+~
+~
+0 0 5053
+D3
+~
+~
+0 0 5054
+S
+#5053
+0 0
+~
+~
+~
+0 0 0
+The `fSeahan Tunnel``~
+``The slight slope in the floor here causes the sludge-like sewage to
+move fast enough that it begins to swirl around anything that gets in its
+way down towards the south.  There is a small amount of light coming in from
+the south while to the north all that can be seen is darkness.  Some strange
+clicking noises can be heard from the north.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5052
+D2
+~
+~
+0 0 5028
+S
+#5054
+0 0
+~
+~
+~
+0 0 0
+A `aFreshly Dug Tunnel``~
+``This tunnel appears to have been dug by hand as well as by tool.  About
+five foot high and two foot wide, it makes for some close quarters.  There
+is a slight downward slope towards the east which is probably part of the
+reason why you aren't standing in sewage anymore.  The walls and floor are
+all dirt while the ceiling is made of some sort of odd stone that looks very
+familiar to you.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5052
+S
+#5055
+0 0
+~
+~
+~
+0 0 0
+The `fSeahan Tunnel``~
+Small amounts of light entering from the south cause the slowly moving
+sewage to glisten in a sickening manner.  The sludge and the darkness seem
+to originate to the north while both try to move downwards towards the
+south.  A few small pipes enter the room from the east and west, slowly
+adding more sewage to the rancid sludge.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5056
+D2
+~
+~
+0 0 5049
+S
+#5056
+0 0
+(null)~
+~
+~
+0 0 0
+The `fSeahan Tunnel``~
+No light is visible to the north or the south of this part of the tunnel.
+Sewage continues to flow from the north down the slight grade towards the
+south.  The walls have a collection of small pipes in them, all of which
+slowly trickle more sewage into the tunnel.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5057
+D2
+~
+~
+0 0 5055
+S
+#5057
+0 0
+(null)~
+~
+~
+0 0 0
+The `fSeahan Tunnel``~
+A small amount of light and a moderate amount of sludge enters into this
+tunnel from the north.  Both the sludge and the light seem to quickly
+disappear towards the south.  Small pipes on either side of the tunnel allow
+for more sewage to be added to what is already here.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5058
+D2
+~
+~
+0 0 5056
+D3
+~
+door~
+321 25709 26343
+S
+#5058
+0 0
+~
+~
+~
+0 0 0
+The `aRaven Cesspool``~
+About a foot of sludge flows out of the east and down towards the south. 
+Light from the grates above dances across the top of the sludge making it
+appear even more disgusting than it already is.  Small amounts of water
+trickle down from above and runs across the ceiling and down the walls.  
+~
+0 D 18
+0
+~
+H94
+I 0 M94
+D1
+~
+~
+0 0 5059
+D2
+~
+~
+0 0 5057
+D4
+~
+manhole~
+4097 0 4059
+S
+#5059
+0 0
+~
+~
+~
+0 0 0
+The `cPine Tunnel``~
+An acrid smell emanates from the sludge which slowly flows from the east
+downwards towards the west.  A small amount of light enters from the west
+while to the east nothing but darkness can be seen.  Small pipes in the
+north and south walls slowly add to the sewage is quiet spurts.  
+~
+0 D 18
+0
+~
+H75
+I 0 M75
+D1
+~
+~
+0 0 5060
+D3
+~
+~
+0 0 5058
+S
+#5060
+0 0
+(null)~
+~
+~
+0 0 0
+The `cPine Tunnel``~
+A strong acrid smell is coming from the sludge which runs slowly from the
+east downwards to the west.  An even stronger version of this scent seems to
+be coming from further up the tunnel to the east.  No light can be seen to
+the east or west.  
+~
+0 AD 18
+0
+~
+H50
+I 0 M50
+D1
+~
+~
+0 0 5061
+D3
+~
+~
+0 0 5059
+S
+#5061
+0 0
+(null)~
+~
+~
+0 0 0
+The `cPine Tunnel``~
+The acrid smell in this room is incredibly strong.  A variety of liquids
+seep out of a pipe in the south wall and slowly mix with the sludge running
+westward through the tunnel.  The floors and wall near the pipe have been
+eroded by these putrid liquids.  `` 
+~
+0 AD 18
+0
+~
+H-100
+I 0 M50
+E
+pipe~
+This pipe is about half corroded away but still delivers its deadly cargo
+of used leather-treating chemicals right to your feet.  
+~
+D1
+~
+~
+0 0 5062
+D3
+~
+~
+0 0 5060
+S
+#5062
+0 0
+(null)~
+~
+~
+0 0 0
+The `cPine Tunnel``~
+A small amount of sludge enters from the east and flows slowly down
+towards the west.  Pipes in the north and south wall slowly add to the
+sludge in the bottom of the tunnel.  No light can be seen from either
+direction.  A strange acrid odor seems to be coming from the west.  An
+opening has been hewn into the southern wall of the tunnel.  The ground
+looks much drier inside.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+65 25700 26617
+D1
+~
+~
+0 0 5063
+D2
+~
+~
+0 0 4464
+D3
+~
+~
+0 0 5061
+D5
+~
+~
+0 0 26851
+S
+#5063
+0 0
+(null)~
+~
+~
+0 0 0
+The `cPine Tunnel``~
+This room is relatively clean, being almost void of the sludge that
+occupies almost every other part of the tunnels.  There are a few small
+pipes jutting out from the north and south walls supplying just enough
+sewage to dampen the floor.  A small amount of light enters from the east
+while to the west only darkness can be seen.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5064
+D3
+~
+~
+0 0 5062
+S
+#5064
+0 0
+~
+~
+~
+0 0 0
+The `aCathedral Cesspool``~
+This small cesspool has almost no sludge or water in it.  The floors of
+the southern and western tunnels slope away from the pool.  The crawlspace
+to the east starts about a foot up on the wall and runs almost to the
+ceiling.  A small amount of light enters the chamber from old rusty grates
+in the ceiling.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5089
+D1
+~
+~
+0 0 5068
+D2
+~
+~
+0 0 5065
+D3
+~
+~
+0 0 5063
+D4
+~
+manhole~
+4097 0 4065
+S
+#5065
+0 0
+~
+~
+~
+0 0 0
+The `dWelford Tunnel``~
+Sludge slowly slips downward towards the south as does the small amount
+of light that enters from the north.  Small pipes in the walls slowly add to
+the sludge and putrid water, giving off a soft gurgling sound as the sewage
+trickles in.  
+~
+0 D 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5064
+D2
+~
+~
+0 0 5066
+S
+#5066
+0 0
+(null)~
+~
+~
+0 0 0
+The `dWelford Tunnel``~
+Sludge continues to flow slowly down towards the south, entering from the
+north and from small pipes protruding from the walls of this tunnel.  No
+light sources can be seen and it is very dark here.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D0
+~
+~
+0 0 5065
+D2
+~
+~
+0 0 5067
+S
+#5067
+0 0
+(null)~
+~
+~
+0 0 0
+The `dWelford Tunnel``~
+A small amount of light enters from the south and reflects sickenly off
+the sludge and putrid water in the bottom of this tunnel.  This sludge
+slowly creeps downward towards the south having entered from the north and
+from small pipes that protrude from the walls.  Slug trails can be seen
+glistening along the walls right above the level of the sewage.  
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 5066
+D2
+~
+~
+0 0 5043
+S
+#5068
+0 0
+~
+~
+~
+0 0 0
+A Narrow Crawlspace~
+This relatively small crawlspace runs east and west through what appears
+to be some sort of very thick wall or foundation.  The walls, floor, and
+ceiling are somewhat rough as if stones have been removed to build the
+passageway.  
+~
+0 AD 18
+5
+~
+H98
+I 0 M98
+D1
+~
+~
+0 0 5069
+D3
+~
+~
+0 0 5064
+S
+#5069
+0 0
+~
+~
+~
+0 0 0
+An `kAmazingly Lavish Room``~
+This plush entryway contrasts greatly to the dirt and sludge to the west.
+A great crystal chandelier illuminates the room from the ceiling while the
+polished stone floor and walls reflect the light back up and all around.  A
+large patch of stone in front of the western entrance has been carved in a
+manner to keep the dirt in the crawlspace and not on the floors.  
+~
+0 D 0
+0
+~
+H101
+I 0 M101
+D0
+~
+~
+0 0 5072
+D1
+~
+gate~
+4193 5036 5074
+D2
+~
+~
+0 0 5070
+D3
+~
+~
+0 0 5068
+S
+#5070
+0 0
+~
+~
+~
+0 0 0
+A `kDelicate Sitting Room``~
+This lavishly decorated room is illuminated by large silver candelabras
+bolted securely in each corner of the room.  The walls have been polished to
+a high gloss as have the parts of the floor that can be seen.  A large
+portion of the floor is covered by a very large brightly coloured woven rug.
+Even the ceiling has been covered with intricate geometrical designs carved
+into the polished stone.  
+~
+0 D 18
+0
+~
+H105
+I 0 M105
+E
+ceiling~
+The designs carved into the ceiling are almost mesmerizing in their
+intricate detail.  There are squares interlocking with other squares and
+rectangles with circles interwoven into the design as well.  At first
+glance, the design looks very jumbled, but the more you look the more detail
+you see.  
+~
+E
+rug~
+This circular rug covers the floor from wall to wall leaving only the
+corners of the floor below visible.  There are bright yellows and reds mixed
+with darker browns and greens in a very finely woven geometric design.  
+~
+E
+candelabra~
+The solid silver candelabras here have been firmly bolted to the wall. 
+They hold six long candles upright in a spiral pattern.  They throw enough
+of a soft glow to comfortably illuminate the whole room making it very easy
+to see even some of the more intricate items on display here.  
+~
+D0
+~
+~
+0 0 5069
+D1
+~
+~
+0 0 5071
+S
+#5071
+0 0
+~
+~
+~
+0 0 0
+A `kCrystal Fountain``~
+``This room consists of a small walkway around an incredible crystal
+fountain.  Two torches along the eastern wall provide light that illuminates
+the fountain as well as the smooth polished marble floor.  The walls are
+lavishly decorated with tapestries depicting landscapes from all over the
+world.  
+~
+0 D 18
+0
+~
+H105
+I 0 M105
+E
+tapestry~
+``A great tapestry depicting mountains, forests, plains, rivers, and the
+ocean hangs on the north wall.  The colours are quite brilliant and
+impressive.  
+~
+E
+tapestries~
+``A great tapestry depicting mountains, forests, plains, rivers, and the
+ocean hangs on the north wall.  The colours are quite brilliant and
+impressive.  
+~
+D3
+~
+~
+0 0 5070
+S
+#5072
+0 0
+~
+~
+~
+0 0 0
+The `dGreat Dining Room``~
+This great room has a beautiful polished wood table in the center,
+surrounded by delicately carved high-backed chairs.  Two large crystal
+chandeliers hang from the ceiling throwing a brilliant light all around the
+room.  The floors are highly polished hard-wood covered in areas by large
+woven rugs.  The stone walls have been carefully sealed and maintained to be
+almost artwork instead of just walls.  
+~
+0 D 18
+0
+~
+H105
+I 0 M105
+D1
+~
+~
+0 0 5073
+D2
+~
+~
+0 0 5069
+S
+#5073
+0 0
+~
+~
+~
+0 0 0
+`oA Grand Kitchen``~
+This huge kitchen is lined on two walls with great stone countertops and
+a huge iron oven.  There is a large island of solid granite covered with
+flour and some sort of dough.  The walls are covered with a variety of pots,
+roasting pans, and cooking utensils.  The smell of freshly-cooked food
+permeates the air here.  
+~
+0 D 18
+0
+~
+I 0 D3
+~
+~
+0 0 5072
+S
+#5074
+0 0
+~
+~
+~
+0 576 0
+The Top of a Spiral Staircase~
+This small dark room has a gaping hole in the floor leading to a grand
+spiral staircase.  A solid iron gate in the west wall is the only other
+apparent exit from this room.  A dim glow issues from somewhere down the
+staircase.  
+~
+0 ADN 18
+0
+~
+I 0 D3
+~
+gate~
+4193 5036 5069
+D5
+~
+~
+0 0 5075
+S
+#5075
+0 0
+~
+~
+~
+0 576 0
+A Grand Spiral Staircase~
+This grand spiral staircase runs clockwise around a large stone pillar. 
+A low-burning butt of a torch bolted to the outside wall sheds some
+illumination on the smooth stone treads.  The stairs appear to have been
+worn over centuries of use being worn more in the centers and almost rough
+nearer the walls.  
+~
+0 DN 18
+0
+~
+I 0 D4
+~
+~
+0 0 5074
+D5
+~
+~
+0 0 5076
+S
+#5076
+0 0
+~
+~
+~
+0 576 0
+A Grand Spiral Staircase~
+The staircase contines its slow clockwise spiral around a massive stone
+column.  Another torch bolted to the wall glows dimly, providing a small
+amount of illumination.  A small opening in the eastern wall leads into
+darkness.  
+~
+0 DN 18
+0
+~
+I 0 D1
+~
+~
+0 0 5087
+D4
+~
+~
+0 0 5075
+D5
+~
+~
+0 0 5077
+S
+#5077
+0 0
+~
+~
+~
+0 576 0
+the Staircase Spire~
+The spiral staircase ontinues its slow spiral around a massive stone
+column.  There are no outer walls here, the staircase being open all around
+you.  The only ther connection to the stairs is to the east where a rough
+stone walkway leads away from the column.  A strange red-orange glow
+eminates from a strange luminescent fungi that covers the top of this
+cavern.  
+~
+0 DN 18
+0
+~
+I 0 D1
+~
+~
+0 0 5088
+D4
+~
+~
+0 0 5076
+D5
+~
+~
+0 0 5078
+S
+#5078
+0 0
+~
+~
+~
+0 576 0
+the Staricase Spire~
+The view from this part of this staircase is quite awe-inspiring.  The
+stairs hang precariously from the center oolumn allowing an almost totally
+unobstructed view of the massive cavern around you.  A bright red-orange
+glow surrounds you, eminating from a strange glowing fungi that grows all
+over the ceiling above you.  
+~
+0 DN 18
+0
+~
+I 0 D4
+~
+~
+0 0 5077
+D5
+~
+~
+0 0 5079
+S
+#5079
+0 0
+~
+~
+~
+0 576 0
+the Bottom of the Spire~
+The grand staircase rises from the ground here, spiraling up into the
+ceiling.  Stalactites of all different sizes jut from the floor causing you
+to have to use care when moving about.  The red-orange glow from the
+fungi-covered ceiling provides a strange, but sufficient light by which to
+see by.  
+~
+0 DN 18
+0
+~
+I 0 D2
+~
+~
+0 0 5080
+D4
+~
+~
+0 0 5078
+S
+#5080
+0 0
+~
+~
+~
+0 576 0
+The `hCrystal Spire``~
+A grand crystalline pillar runs from somewhere below the ground and
+upwards through the ceiling.  A gentle gurgling sound eminates from the
+pillar.  The red-orange glow from above dances in the pillar making it
+appear to move.  
+~
+0 CDNXb 18
+0
+~
+I 0 D0
+~
+~
+0 0 5079
+D2
+~
+~
+0 0 1280
+S
+#5081
+0 0
+~
+~
+~
+0 0 0
+`kThe Cumberland Tunnel``~
+The floor here slopes gently upwards towards the west allowing the depth
+of the sludge to lessen in that direction.  Stains on the walls tell a tale
+of much higher levels of liquid in days past.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5049
+D3
+~
+~
+0 0 5082
+S
+#5082
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Cumberland Tunnel``~
+He floor here levels out again leaving only a thin layer of sludge.  A
+few small pipes protruding out of the walls allow occasional small bursts of
+sewage onto the floor.  This sewage slowly works itsway into the sludge and
+seems to disappear 
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5081
+D3
+~
+~
+0 0 5083
+S
+#5083
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Cumberland Tunnel``~
+The smooth, carefully fitted stone might be considered pretty if it
+weren't for the inch of sewage in the consistency of sludge resting on the
+floor.  Small pipes in the walls here allow in a small trickle of more
+sewage.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5082
+D3
+~
+~
+0 0 5084
+S
+#5084
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Cumberland Tunnel``~
+A small amount of light filters in from the west making the top of the
+inch-deep sludge glisten.  Only two small pipes protrude into this room
+adding to the sewage already on the floor.  Very feint sounds of running
+water can be heard off to the west.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5083
+D3
+~
+~
+0 0 5085
+S
+#5085
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Cumberland Tunnel``~
+Sunlight somehow finds its way into this section of the tunnel from the
+west.  Also, the sounds of running water can be heard from that direction. 
+A small amount of sludge rests on the floor refusing to move.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5084
+D3
+~
+~
+0 0 5086
+S
+#5086
+0 0
+(null)~
+~
+~
+0 0 0
+`kThe Cumberland Tunnel``~
+The sound of flowing water is quite loud here.  To the west, the floor
+drops down about a foot and into the river.  Sunlight streams in from this
+opening making quite a drastic contrast to the tunnel just to the east.  
+~
+0 AD 18
+0
+~
+H95
+I 0 M95
+D1
+~
+~
+0 0 5085
+D3
+~
+~
+0 0 4022
+D4
+~
+manhole~
+4097 0 4004
+S
+#5087
+0 0
+~
+~
+~
+0 576 0
+A Small Alcove~
+~
+0 DN 18
+0
+~
+I 0 D3
+~
+~
+0 0 5076
+S
+#5088
+0 0
+~
+~
+~
+0 576 0
+A Small Alcove~
+~
+0 DN 18
+0
+~
+I 0 D3
+~
+~
+0 0 5077
+S
+#5089
+0 0
+~
+~
+~
+2048 576 0
+`bA Dark Hole in the Tunnel Wall``~
+`cThis room is chiseled out of the bedrock through which the sewers of
+Thesden tunnel.  A single flickering brazier sits near the farthest wall,
+giving off the sweet odor of burning meat.  Shadows play over the floor,
+falling over the jagged edges over the brazier, creating flickering images
+all around it.  `` 
+~
+0 DN 18
+0
+~
+I 0 D2
+~
+~
+0 0 5064
+D5
+~
+~
+0 0 5092
+S
+#5090
+0 0
+~
+~
+~
+0 8704 0
+Ancient Catacombs~
+~
+0 ACDNT 18
+0
+~
+I 0 D2
+~
+~
+0 0 5091
+D3
+~
+~
+0 0 5043
+S
+#5091
+0 0
+~
+~
+~
+0 8704 0
+Unholy Mausoleum~
+~
+0 DNT 18
+0
+~
+H200
+I 0 M200
+D0
+~
+~
+0 0 5090
+S
+#5092
+0 0
+~
+~
+~
+2048 0 0
+`bA Spacious Cavern``~
+`cA long chain ladder hangs down from a hole in the cavern ceiling,
+leading up to the make-do office of Hrass.  Thin mats lie along the
+irregular walls for studying necromancers to sleep on.  But the most
+conspicious thing about this chamber is the several skins big hexagram
+containing a skeletal dragon.  Perhaps this is not the safest place to be. 
+~
+0 A 18
+0
+~
+I 0 M120
+D4
+~
+~
+0 0 5089
+S
+#5093
+0 0
+~
+~
+~
+0 512 0
+~
+`iThe air inside the hexagram is boiling with vile magic, and the blood
+that the hexagram is drawn with churns as the dracolich struggles against
+the magical circle surrounding it.  `` 
+~
+0 CNT 1
+0
+~
+I 0 S
+#0
+
+#RESETS
+D 0 5074   3    2	* The Top of a Spiral Staircase [west]
+D 0 5069   1    2	* An `kAmazingly Lavish Room`` [east]
+M 0 5023  10 5060  1	* `aa large black rat``
+M 0 5023  10 5066  1	* `aa large black rat``
+M 0 5026   1 5043  1	* `aa huge black widow``
+M 0 5029   4 5043  4	* A brown spider
+M 0 5023  10 5041  1	* `aa large black rat``
+M 0 5032   1 5038  1	* A large `ablack snake``
+M 0 5024   1 5034  1	* `aa large `hwhite`a bat``
+M 0 5025   2 5032  2	* `mthe queen's servant``
+E 0 5028   -1   16	* item to `mthe queen's servant``
+O 0 5023   0 5028 -1	* Map carved small at A `gStrange Circular Room``
+O 0 5031   0 5073 -1	* An iron oven at `oA Grand Kitchen``
+O 0 5033   0 5072 -1	* A large `dwooden bowl`` at The `dGreat Dining Room``
+M 0 5023  10 5062  1	* `aa large black rat``
+O 0 5030   0 5070 -1	* A `kplush `dleather `kcouch`` at A `kDelicate Sitting Room``
+O 0 5029   0 5071 -1	* Fountain crystal at A `kCrystal Fountain``
+M 0 5034   1 5073  1	* A pastry chef
+M 0 5030   1 5069  1	* An eccentric hermit
+M 0 5023  10 5056  1	* `aa large black rat``
+M 0 5027   2 5054  1	* `aa burglar``
+E 0 5038   -1   16	* item to `aa burglar``
+M 0 5028   1 5054  1	* `athe master thief``
+E 0 5038   -1   16	* item to `athe master thief``
+O 0 5025   0 5032 -1	* A clean water pipe at An `hUnusually Clean Cesspool``
+M 0 5031   1 5070  1	* A butler
+D 0 5058   4    1	* The `aRaven Cesspool`` [up]
+D 0 5064   4    1	* The `aCathedral Cesspool`` [up]
+D 0 5043   4    1	* The `dFarmers Cesspool`` [up]
+D 0 5038   4    1	* The `eGrisendale Cesspool`` [up]
+D 0 5028   4    1	* A `gStrange Circular Room`` [up]
+D 0 5086   4    1	* `kThe Cumberland Tunnel`` [up]
+M 0 5023  10 5048  1	* `aa large black rat``
+O 0 7   0 5049 -1	* The symbol at The `aDevon Cesspool``
+O 0 5043   0 5088 -1	* The portal to devon square center at A Small Alcove
+D 0 5049   4    1	* The `aDevon Cesspool`` [up]
+M 0 5036   1 5091  1	* `acarchathoth``
+G 0 5044 -1		* `agauntlets of the undead`` to `aCarchathoth``
+M 0 5037   1 5043  1	* `hthe necromancer``
+O 0 5046   0 5092 -1	* A hexagram at `bA Spacious Cavern``
+M 0 5038   1 5093  1	* (no short description)
+D 0 5035   2    1	* The `eLanghan Tunnel`` [south]
+D 0 5062   0    2	* The `cPine Tunnel`` [north]
+D 0 5057   3    2	* The `fSeahan Tunnel`` [west]
+M 0 5035   1 5089  1	* `ahrass``
+E 0 5045   -1   19	* item to `ahrass``
+E 0 5047   -1   13	* item to `ahrass``
+S
+
+#SHOPS
+5036 11  0  0  0  0 	100 100 	0 23	* `aCarchathoth``
+0
+
+#SPECIALS
+M 5036 spec_cast_undead		* `aCarchathoth``
+S
+
+#OT
+#5045
+`aHrass``~
+$chance_on_round~
+256
+40
+force hrass chant 'jinx' $randpc~
+50
+0
+force hrass chant 'intox' $randpc~
+20
+0
+force hrass chant 'death shroud' $randpc~
+10
+0
+force hrass chant 'clasp' $randpc~
+5
+0
+force hrass chant 'greymantle' $randpc~
+3
+0
+force hrass chant 'death palm' $randpc~
+1
+0
+force hrass chant 'vomit' $randpc~
+3
+0
+force hrass chant 'wind of death' $randpc~
+7
+0
+force hrass chant 'skeletal mutation' $randpc~
+10
+0
+slay skeleton~
+100
+0
+slay banshee~
+100
+0
+slay zombie~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#5046
+`bHexgram below Hrass``~
+$entersroom~
+1
+68
+echo The trapped dracolich howls angrily and rakes its claws against the invisible barrier surrounding it.~
+100
+1
+at 5089 echo You hear a terrible howl from below.~
+100
+0
+echo The hexagram flashes as the dracolich rages!~
+100
+40
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+5
+#0
+#$

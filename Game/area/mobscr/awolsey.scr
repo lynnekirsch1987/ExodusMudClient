@@ -1,0 +1,68 @@
+* File: awolsey.scr
+* Mob: Aaron Wolsey(4128)
+
+#TRIGGER wf1
+Type 3
+Sc
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   emote rubs his hands together in anticipation.
+   say So, what can we get for you today?
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   emote polishes the surface of a heavily lacquered table.
+   halt once~
+End
+
+#TRIGGER wf2
+Type 10
+Sc
+mfunc %wf2-from% %race% race
+if ( %race% == 2 )
+   say Ahh, so nice to see one of the elves back in the city!
+   smile %wf2-from%
+   halt once~
+Sc
+if ( %race% == 3 )
+   say You are welcome %wf2-from%.  I trust you bring gold from the dwarvish mountains?
+   halt once~
+Sc
+if ( %race% == 4 )
+   say Greetings sea traveler.  Perhaps this waterproof chest would suit you?
+   halt once~
+Sc
+if ( %race% == 5 )
+   say My Vro'ath friend... Elsewhere you may be treated poorly.  If you have money, you are welcome here.
+   halt once~
+Sc
+if ( %race% == 6 )
+   say Be careful not to track mud and leaves into my shop, you half-animal!
+   glare %name%
+   halt once~
+Sc
+if ( %race% == 7 )
+   say Hello my Sidhe friend.  There is no need to speak to me.  Your gold is worth a thousand words.
+   halt once~
+Sc
+if ( %race% == 8 )
+   say A mighty Avatar!  It is an honor to be able to serve your furnishing needs.
+   halt once~
+Sc
+if ( %race% == 9 )
+   say Please, %wf2-from%, try not to ignite my precious furnishings while you are here.
+   halt once~
+Sc
+if ( %race% == 10 )
+   say The creatures of the night are most welcome here.  Perhaps one of my chests might double as a coffin.
+   halt once~
+Sc
+if ( %race% == 11 )
+   say Oh goodie, it's a Lich.  Bless my lucky stars.
+   emote looks around nervously.
+   say Well, as long as you're a paying customer, who cares?
+   halt once~
+End
+
+#END
+

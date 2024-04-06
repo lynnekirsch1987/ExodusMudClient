@@ -1,0 +1,1667 @@
+#AREA
+mmanarea.enc~
+`lDominion of Tyberius``~
+{ 1 50} Musicman  `lDominion of Tyberius``~
+~
+14501 14901
+0 0
+1 1
+~
+#MOBILES
+#14501
+man soldier scout~
+A scout~
+A soldier sneaks through the underbrush, watching for Tyberius' troops.
+~
+A member of Solaas' scout troop, the soldier is searching for the forward
+troops of Lord Tyberius.
+~
+human~
+0 0 0 0
+AMT PQ 100 3
+15 3 3d6+6 1d6+6 3d6+6 punch
+0 0 0 0
+BEGHI 0 0 0
+stand stand either 100
+AGHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+3
+scout.voc~
+~
+#14502
+bird eagle monster~
+An eagle~
+A large eagle soars the winds, searching for prey.
+~
+A mighty bird, the eagle soars upon the winds.  Its beak and talons are
+quite impressive.
+~
+water fowl~
+0 0 0 0
+AW DJTZb 0 0
+20 4 2d10+3 2d10+3 2d5+5 claw
+0 0 0 0
+FH 0 R R
+stand stand either 0
+AGW ACDEFHKPU medium feather~
+0 0 0 100
+0
+~
+~
+#14503
+barto man trapper~
+Barto~
+Barto the Trapper wanders the land, setting his traps.
+~
+Barto is an extremely tall, heavyset man with the dark features characteristic
+of the people of the woods.  His thick beard is braided and decorated with
+the skulls of small animals.  However, he looks upon you kindly -- if not a
+bit lacking in obvious mental capabilities.  Still, most bears don't bother
+to tangle with him.
+~
+human~
+0 0 0 0
+ACW 0 250 0
+25 2 5d30+161 25d10+100 4d5+10 beating
+0 0 0 0
+CDINS P X 0
+stand stand male 200
+ACHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+5
+barto.voc~
+~
+#14504
+man soldier Solaas~
+Solaas~
+Solaas the Fair watches over his troops.
+~
+One look at Solaas tells you two things: first, that he is most certainly
+a man of the valley.  His light, smooth features betray his origin.  Second,
+it is also plainly obvious that he is not one to mess with.  His huge
+muscles carry the weight of his armor with fluid ease.
+~
+human~
+0 0 0 0
+ABT O 500 0
+45 6 6d6+20 4d5+10 8d6+10 thwack
+-1 -1 -1 0
+AEFKNQRS 0 0 0
+stand stand male 1000
+AGHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+3
+solaas.voc~
+~
+#14505
+man giant Toulan weaponsmaster soldier~
+The Weaponsmaster~
+Toulan the Weaponsmaster practices quietly in the shade.
+~
+The Weaponsmaster is a huge man, obviously a giant of some kind.  He is a
+master of all weapons and skills.  His dark mane flows low over his
+shoulders and is lost in the curles of his huge beard.  Wearing no torso
+armor, he appears especially fierce, as you can see his massive, rippling
+muscles flex when he moves.  His dark eyes have the sparkle of intelligence
+that is unusual in a warrior.  Toulan eyes you warily, ready to pounce -- or
+to teach.  
+~
+giant~
+0 0 0 0
+ABJKT CDFJOVc 250 0
+45 10 100d10+10 100d5+10 100d5+5 beating
+-1 -1 -1 -1
+ABCDEFHIJKNOP E HI JP
+stand stand male 500
+AHMV ABCDEFGHIJK giant oldstyle~
+0 0 0 100
+3
+toulan.voc~
+~
+#14506
+man soldier~
+An off-duty soldier~
+An off-duty soldier is taking his turn at a game of darts.
+~
+Ironun is quietly tossing his darts at the image of Lord Tyberius. 
+Another strong man of the Valley, he seems quite content to take some time
+off from the harsh, bloody realities of the rebellion.  
+~
+human~
+0 0 0 0
+ABTY 0 250 0
+20 3 5d4+10 3d2+7 10d4+4 punch
+0 0 0 0
+0 0 0 0
+stand stand male 100
+AGHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+4
+dartman.voc~
+~
+#14507
+man mystic gardener Tris~
+Tris~
+Tris, a mystic gardener, is attending to his crops.
+~
+Tris is a Syvin Mystic, a child of the forest.  He is a gardener and
+healer, warrior and counselor.  He is always kind, but takes offense to
+anyone who harms his crops.  With an active role in the upkeep of the
+fortress, he is still quite willing to use his incredible natural magic
+abilities against anyone aiming to harm another living creature.  Lord
+Tyberius has marked him as one of the most dangerous men of the rebellion.  
+~
+syvin~
+0 0 0 0
+ABQRa CEGJOSZc 500 0
+40 4 6d6+6 16d6+10 4d4+6 divine
+0 0 0 0
+LS X P Z
+stand stand male 350
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+5
+Tris.voc~
+~
+#14508
+man Poul~
+Poul~
+Poul oversees the exchange of foodstuffs.
+~
+Typically, those who work around food are described as short and fat.  In
+this case, that is still and adequate description.  Poul is very friendly,
+rather short, a tad fat, but quite helpful.  His features are colored in the
+manner of the Valley, complete with the rosey cheeks that one might expect
+to find on a grocier.  
+~
+human~
+0 0 0 0
+ABY 0 300 0
+15 2 4d6+2 1d6+1 2d6+2 punch
+0 0 0 0
+NO 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+5
+poul.voc~
+~
+#14509
+Cel'androth~
+(no short description)~
+(no long description)
+~
+~
+dragon~
+0 0 0 0
+A JT -350 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 BEH FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#14501
+moss food plant~
+some edible moss~
+A sweet smelling greenish-gray moss covers the ground.~
+oldstyle~
+0
+food IS A
+6
+~
+~
+~
+~
+C C CD 0 0
+0
+0
+0 0 0 P
+E
+moss~
+The moss smells sweet, and looks strangely tasty.
+~
+#14502
+sign boulder rock stone inscription~
+a massive granite boulder~
+A boulder bearing some kind of inscription lies apart from the others.~
+stone~
+0
+furniture M 0
+6
+~
+~
+~
+~
+A 0 E BEF ADE
+0
+0
+0 0 0 P
+E
+sign~
+Sit and rest your bones, weary wanderer, and pay homage to the great
+Lord Tyberius.  May the Gods protect his realm.
+~
+E
+boulder~
+Sit and rest your bones, weary wanderer, and pay homage to the great
+Lord Tyberius.  May the Gods protect his realm.
+~
+E
+inscription~
+The inscription reads: read the sign!
+~
+#14503
+moss bed~
+a bed of moss~
+A comfortable looking bed of moss beckons you to sleep.~
+oldstyle~
+0
+furniture IMRSV P
+6
+~
+~
+~
+~
+B CFG EHK CDH ABCH
+0
+0
+0 0 0 P
+E
+bed~
+The bed of moss looks extremely inviting.
+~
+#14504
+wooden club~
+a massive wooden club~
+A massive wooden club~
+wood~
+0
+weapon S AN
+6
+~
+~
+~
+~
+C AC BD 0 0
+0
+0
+20 6 25 P
+E
+club~
+The huge club is has a perfect balance in your hand.  It is made of an very
+dense wood, the grain so tight that individual lines are almost invisible.
+~
+#14505
+sword weapon blade~
+``The `oSword`` of the `oValley Kings``~
+``The `oSword`` of the `oValley Kings`` is covered with mystic runes.~
+mithril~
+0
+weapon ABGIKRY ANPQ
+6
+~
+~
+~
+~
+A BD BD AB E
+0
+0
+40 20 4000 P
+#14506
+shield~
+``The `oShield`` of the `oValley Kings``~
+``The `oShield`` of the `oValley Kings`` is inscribed with ancient runes.~
+mithril~
+0
+armor ABGIKRY AJPQ
+6
+~
+~
+~
+~
+-15 -17 -20 -15 0
+0
+0
+40 15 3500 P
+#14507
+animal skins~
+animal skins~
+The skins form an armor of sorts draping over the shoulders.~
+fur~
+0
+armor S AD
+6
+~
+~
+~
+~
+-2 -2 -2 -2 0
+0
+0
+5 5 50 P
+#14508
+fish salmon~
+a salmon~
+`dA nice `mpink `dsalmon swims contentedly near the surface.``~
+oldstyle~
+0
+food S AO
+6
+~
+~
+~
+~
+CD CD DE 0 0
+0
+0
+0 1 5 P
+#14509
+stone rock sign boulder~
+hill sign~
+An intricately carved stone lies at the base of the hill.~
+stone~
+0
+trash RSY P
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10000 0 P
+E
+boulder~
+Death to Lord Tyberius.  The Light shall rule the land.
+~
+E
+sign~
+Death to Lord Tyberius.  The Light shall rule the land.
+~
+E
+stone~
+Death to Lord Tyberius.  The Light shall rule the land.
+~
+E
+rock~
+Death to Lord Tyberius.  The Light shall rule the land.
+~
+E
+rock~
+Death to Lord Tyberius.  The light will conquer the land.
+show
+~
+E
+stone~
+Death to Lord Tyberius.  The light will conquer the evil of the land.
+~
+#14510
+pile head skulls bones skull~
+a pile of skulls and bones~
+A pile of skulls and bones of the enemy is a monument to fallen comrades.~
+bone~
+0
+trash MRSY P
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10000 0 P
+E
+skull~
+A single skull peers at you from out of the pile.  It is not comforting.  
+~
+E
+pile~
+A pile of the enemy's various bodyparts lies here in tribute to fallen
+comrades.  
+~
+E
+head~
+The decaying, severed heads of fallen enemies lay here in tribute to
+fallen comrades.  
+~
+E
+skulls~
+The skulls of fallen enemies lay here in tribute to fallen comrades.
+~
+E
+bones~
+The bones of fallen enemies lay here as tribute to fallen comrades.  
+~
+#14511
+fountain spring water pond~
+a natural freshwater spring~
+A natural freshwater spring bubbles up and into a small pond.~
+stone~
+0
+fountain MRSY P
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10000 0 P
+E
+pond~
+The water is cold, but clear.  Evidently, it is also safe, as this is
+where the fortress gets its water.  
+~
+E
+water~
+The water is cold, but clear.  Evidently, it is also safe, as this is
+where the fortress gets its water.  
+~
+E
+spring~
+The water is cold, but clear.  Evidently, it is also safe, as this is
+where the fortress gets its water.  
+~
+E
+fountain~
+The water is cold, but clear.  Evidently, it is also safe, as this is
+where the fortress gets its water.  
+~
+#14512
+chair seat~
+the Comfy Chair~
+The Comfy Chair sits near the fire.~
+oldstyle~
+0
+furniture MRS P
+6
+~
+~
+~
+~
+A EIJKN AEFHIKL BCEH BCEH
+0
+0
+0 0 0 P
+E
+chair~
+The Comfy Chair is an elegant piece of art in furniture.  The hides of
+animals have been put together over a fluffy filling to create a magnificent
+seat.  The Comfy Chair is also a technological advancement, as it is the
+world's first recliner.  
+~
+#14513
+bed bunk~
+a bunk bed~
+One bunk bed lies unclaimed near the door.~
+lumber~
+0
+furniture MRS P
+6
+~
+~
+~
+~
+A EIJKN EHK BCDFG CFG
+0
+0
+0 10000 0 P
+E
+bunk~
+The bed is sparsely covered, with only a quilt to keep soldiers warm
+during the cold winters.  Still, the down mattress looks rather inviting. 
+Of course, being a top bunk, you'll need to climb a bit, but as you remember
+from school, heat rises.  
+~
+E
+bed~
+The bunk is sparsely covered, with only a quilt to keep soldiers warm
+from the cold winter winds that occasionally blow in through the door. 
+However, the down mattress still looks rather inviting.  
+~
+#14514
+dartboard board~
+a dartboard~
+A dartboard painted over with Lord Tyberius' face hangs on the wall.~
+wood~
+0
+trash MRS P
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10000 0 P
+E
+dartboard~
+One of the Valley men, in some odd sense of humor, has painted an image
+of Lord Tyberius' face over the dartboard, with the nose as the bullseye.  A
+few well-placed darts are currently sticking out of "his" face.  
+~
+E
+board~
+One of the Valley men, in some odd sense of humor, has painted an image
+of Lord Tyberius' face over the dartboard, with the nose as the bullseye.  A
+few well placed darts are sticking out of the board itself.  
+~
+#14515
+table~
+a long table~
+A long wooden table sits in the middle of the room.~
+lumber~
+0
+furniture MRS P
+6
+~
+~
+~
+~
+D EIJKN ADEGMN AC AC
+0
+0
+0 10000 0 P
+E
+table~
+The table is made of wood harvested from Lizst forest.  It is covered
+with objects of all sorts, from cards to empty beer mugs.  Deep lines have
+been gouged out of the wood to form various gameboards.  Two wooden benches
+along either side of the table look rather hard, but inviting, providing
+something to sit on while you enjoy your food or whatever else you do at the
+table.  All in all, it is one of the nicest tables that you've ever seen.  
+~
+#14516
+sword~
+a thin scouting sword~
+The sword is thin, with a razor edge, perfect for scouting soldiers.~
+steel~
+0
+weapon K AN
+6
+~
+~
+~
+~
+A C BC CE 0
+0
+0
+15 8 75 P
+#14517
+pullover armor~
+a camouflage pullover~
+The pullover is a tough material designed to turn aside blades.~
+cloth~
+0
+armor S AD
+6
+~
+~
+~
+~
+-1 -1 -3 -1 0
+0
+0
+15 5 50 P
+#14518
+lightsaber saber sabre~
+His Father's Lightsaber~
+A beam of light projecting from the handle makes the lightsaber.~
+diamond~
+0
+weapon ABGISY AN
+6
+~
+~
+~
+~
+0 CEFGHI BD AE ABCDEGHI
+0
+0
+96 3 100000000 P
+#14519
+stone altar boulder rock~
+A sacrifical altar stone.~
+`dA heavily `bbloodied `daltar stone rests in the middle of the clearing.``~
+quartz~
+0
+furniture MR P
+6
+~
+~
+~
+~
+A EIJKN N 0 0
+0
+0
+0 0 10000 P
+E
+stone rock boulder altar blood~
+A giant slab of quartz has been turned into a sacrificial altar.  Fresh
+blood is pooled at its base, dripping from the altar's top surface and
+leaving a copper tang in the air.  
+~
+E
+stone~
+A giant slab of quartz has been turned into a sacrificial altar.  Fresh
+blood is pooled at its base, dripping from the altar's top surface and
+leaving a copper tang in the air.  
+~
+#14520
+hood~
+an Ewok shaman's hood~
+The hood of an Ewok medicine man.~
+cloth~
+0
+armor ABCGSY AE
+6
+~
+~
+~
+~
+-10 -10 -10 -10 0
+0
+0
+96 0 500 P
+#0
+
+#ROOMS
+#14501
+~
+~
+0 0 0
+Near a Rocky Shoreline~
+A clearing between the western edge of the Lizst Forest and the east
+shore of the mighty Sturmdrang.  The shoreline is covered with jagged
+boulders, remnants of an ancient fortress that previously stood here,
+protecting the outskirts of Lord Tyberius' lands.  Winds from the north cool
+your skin, blowing south towards the Great Valley.  In the center of the
+clearing, a large stone, in the shape of a throne, glitters in the sunlight.
+It is covered with barely decypherable runes.  
+~
+0 0 4
+0
+~
+D0
+~
+~
+0 0 14503
+D1
+~
+~
+0 0 14507
+D2
+~
+~
+0 0 14504
+D3
+~
+~
+0 0 14506
+S
+#14502
+~
+~
+0 0 0
+Top of the Waterfall~
+Just to the west, the Sturmdrang pours south over the edge of a mighty
+cliff, disappearing into swirling mists below.  The roar of the waters
+drowns out all other sound.  A small village is visible through the clouds
+below.  
+~
+0 0 4
+0
+~
+D0
+~
+~
+0 0 14506
+D1
+~
+~
+0 0 14504
+D3
+~
+~
+0 0 14509
+S
+#14503
+~
+~
+0 0 0
+River Bend~
+The mighty Sturmdrang curves around, flowing east to west before turning
+south.  Its frigid waters would seem to prevent any passage further north or
+west.  The edge of a forest is visible to the southeast.  
+~
+0 0 4
+0
+~
+D0
+~
+~
+0 0 14512
+D1
+~
+~
+0 0 14508
+D2
+~
+~
+0 0 14501
+D3
+~
+~
+0 0 14510
+S
+#14504
+~
+~
+0 0 0
+Along the Top of the Cliff~
+The valley opens before you, wide to the south.  The cold northern winds
+whip past your ears on their journey south.  Oran, the Sun, smiles upon this
+valley, granting it the warmth of mysterious hot springs and gusts of dry
+air from the equatorial deserts.  The village of Trokme lies nestled at the
+floor of the valley along the shores of the Sturmdrang.  
+~
+0 0 4
+0
+~
+D0
+~
+~
+0 0 14501
+D1
+~
+~
+0 0 14514
+D3
+~
+~
+0 0 14502
+D5
+~
+~
+0 0 14505
+S
+#14505
+~
+~
+0 0 0
+A Ledge~
+A small ledge juts from the side of the cliff.  Above are a set of rather
+conveniently place handholds in the rockface.  It is quite drafty here. 
+Beneath the ledge is a rather impressively large nest...  That lies just out
+of reach.  
+~
+0 0 4
+0
+~
+D4
+~
+~
+0 0 14504
+S
+#14506
+~
+~
+0 0 0
+Wading along the Eastern Shore of the Sturmdrang~
+The frigid Sturmdrang tears at the boulders lining the shoreline as it
+races swiftly southwest.  
+~
+0 C 7
+0
+~
+H-100
+M-20
+D0
+~
+~
+0 0 14510
+D1
+~
+~
+0 0 14501
+D2
+~
+~
+0 0 14502
+S
+#14507
+~
+~
+0 0 0
+The Western Edge of Lizst Forest~
+Lizst Forest begins here, where saplings reach west toward the
+Sturmdrang.  The mighty forest continues east.  The air, alive with the
+sounds of animal life, is thick with the scents of moss and fresh leaves. 
+It becomes denser to the east, where the light is shut out by the thick
+upper canopy.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14508
+D1
+~
+~
+0 0 14516
+D2
+~
+~
+0 0 14514
+D3
+~
+~
+0 0 14501
+S
+#14508
+~
+~
+0 0 0
+A Peaceful Clearing~
+A small clearing lies between the Sturmdrang to the north, and Liszt
+Forest, to the south.  The air, though rather chilly, carries with it the
+sweet scents of the forest -- life in all its forms.  You are at peace here.
+~
+0 KX 4
+0
+~
+D0
+~
+~
+0 0 14513
+D1
+~
+~
+0 0 14517
+D2
+~
+~
+0 0 14507
+D3
+~
+~
+0 0 14503
+S
+#14509
+~
+~
+0 0 0
+Sitting at the Top of the Waterfall~
+The Sturmdrang's freezing waters tear south over the edge of the cliff
+and disappear into the valley below.  
+~
+0 0 7
+0
+~
+D1
+~
+~
+0 0 14502
+S
+#14510
+~
+~
+0 0 0
+Wading the East Bank of the Sturmdrang~
+The clear waters of the Sturmdrang flow south, carving deep into the
+shore.  
+~
+0 0 7
+0
+~
+D0
+~
+~
+0 0 14511
+D1
+~
+~
+0 0 14503
+D2
+~
+~
+0 0 14506
+S
+#14511
+~
+~
+0 0 0
+Wading Along the Southeast Edge of a Bend in the Sturmdrang~
+The crystal-clear waters of the Sturmdrang scour its bottom clear.  The
+rocks along the shore have been smoothed and rounded over time.  
+~
+0 0 7
+0
+~
+D1
+~
+~
+0 0 14512
+D2
+~
+~
+0 0 14510
+S
+#14512
+~
+~
+0 0 0
+Wading Near the Sturmdrang's Southern Bank~
+Far from its mountain springs, the Sturmdrang flows swiftly west towards
+the river bend.  Its icy waters are rather revitalizing, in a shocking way. 
+~
+0 0 7
+0
+~
+D1
+~
+~
+0 0 14513
+D2
+~
+~
+0 0 14503
+D3
+~
+~
+0 0 14511
+S
+#14513
+~
+~
+0 0 0
+Wading Along the Southern Bank of the Sturmdrang~
+The freezing waters of the clear Sturmdrang tear west towards a bend in
+the river.  
+~
+0 0 7
+0
+~
+D1
+~
+~
+0 0 14518
+D2
+~
+~
+0 0 14508
+D3
+~
+~
+0 0 14512
+S
+#14514
+~
+~
+0 0 0
+The Corner of the Cliff~
+The north-south and east-west corners of the valley cliffs meet here,
+opening to the southwest.  Far below, through the clouds, you can see a
+small village.  The cool breeze blowing from the north chills you, though it
+carries with it the delightful scents of the forest.  In the distance, to
+the southeast, a large hill is visible.  There is something at its summit,
+but it is too far off to see clearly.  
+~
+0 0 4
+0
+~
+D0
+~
+~
+0 0 14507
+D1
+~
+~
+0 0 14515
+D3
+~
+~
+0 0 14504
+S
+#14515
+~
+~
+0 0 0
+The Southwest Edge of Lizst Forest~
+The beautiful greenery of the Lizst Forest ends here, melting gradually
+into rolling hills.  The denser heart of the forest emits sounds that echo
+over the landscape in defiance of the forest edge.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14516
+D1
+~
+~
+0 0 14523
+D2
+~
+~
+0 0 14522
+D3
+~
+~
+0 0 14514
+S
+#14516
+~
+~
+0 0 0
+Inside of Lizst Forest~
+Just inside of the outer boundary, the forest rings with the sounds of
+life.  The ripe scents of plants in bloom and decay mix and fill your
+nostrils.  Further west lies the deeper heart of the forest.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14517
+D1
+~
+~
+0 0 14521
+D2
+~
+~
+0 0 14515
+D3
+~
+~
+0 0 14507
+S
+#14517
+~
+~
+0 0 0
+The Forest Bank of the Sturmdrang~
+The boundaries of water and wood meet here as the Sturmdrang cuts its way
+through the forest, bringing water and life.  The musty scent of thick
+undergrowth is especially pungent here.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14518
+D1
+~
+~
+0 0 14520
+D2
+~
+~
+0 0 14516
+D3
+~
+~
+0 0 14508
+S
+#14518
+~
+~
+0 0 0
+In the Sturmdrang~
+The waters of the Sturmdrang rise to your waist, chilling you to the core
+of your being.  To either side, the forest hides its secrets behind a
+curtain of dense greenery.  The Sturmdrang continues east and west.  
+~
+0 0 7
+0
+~
+D1
+~
+~
+0 0 14519
+D2
+~
+~
+0 0 14517
+D3
+~
+~
+0 0 14513
+S
+#14519
+~
+~
+0 0 0
+In the Sturmdrang~
+The waters of the Sturmdrang rise to your waist, chilling you to the core
+of your being.  The frigid waters run east-west through the forest.  
+~
+0 0 7
+0
+~
+D2
+~
+~
+0 0 14520
+D3
+~
+~
+0 0 14518
+S
+#14520
+~
+~
+0 0 0
+The Forest Bank of the Sturmdrang~
+The cool waters of the Sturmdrang meet the forest here.  The undergrowth
+is overflowing the banks, falling into the waters.  The east-west current is
+relatively mild here, lapping at the banks and the base of the trees.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14519
+D2
+~
+~
+0 0 14521
+D3
+~
+~
+0 0 14517
+S
+#14521
+~
+~
+0 0 0
+Inside of Lizst Forest~
+Out of the boundary of the forest, the dense growth strangles out all but
+the thinnest mote of light.  Insects fly into your eyes, but a cool breeze
+winds its way through the forest from the north.  Dust particles tickle your
+nose as you breath deeply, savoring the scents of the forest.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14520
+D1
+~
+~
+0 0 14537
+D2
+~
+~
+0 0 14523
+D3
+~
+~
+0 0 14516
+S
+#14522
+~
+~
+0 0 0
+The Southwest Edge of Lizst Forest~
+Nature blends hills with trees at the boundary of the forest.  To the
+east lies an unusually large hill.  The scents of the forest are carried
+south by the cool northern breeze.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14515
+D1
+~
+~
+0 0 14524
+D3
+~
+~
+0 0 14515
+S
+#14523
+~
+~
+0 0 0
+Inside of Lizst Forest~
+Sweet scents of blossoming plants combine with the heavy smells of
+decaying undergrowth to produce the magical aroma of the forest.  Leaves
+overhead rustle in the mild northern breeze.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14521
+D1
+~
+~
+0 0 14536
+D2
+~
+~
+0 0 14524
+D3
+~
+~
+0 0 14515
+S
+#14524
+~
+~
+0 0 0
+The Base of a Large Hill~
+A large hill rises up and out of the forest.  Its top is above the forest
+canopy, presumably allowing for an unobstructed view of the landscape.  Some
+movement is barely visible at the top.  
+~
+0 0 4
+0
+~
+D0
+~
+~
+0 0 14523
+D1
+~
+~
+0 0 14535
+D3
+~
+~
+0 0 14522
+D4
+~
+~
+0 0 14525
+S
+#14525
+~
+~
+0 0 0
+Forward Encampment Lookout Post~
+At the top of the hill, a fortified encampment has been built out of
+trees harvested from the forest below.  A bustling crowd of men and women
+clad in the manner of the Valley People hurry past you, seemingly
+unconcerned with your presence.  Cooking fires light the area, illuminating
+the glimmering weapons and armor that the people are dilligently sharpening
+and polishing.  The fortress is strategically important, as it holds the
+only high ground between Lord Tyberius' castle and the road to the Valley. 
+To the south, the encampment is further fortified with wood and stone.  You
+sense that this would not be a good place to start a fight, for while the
+people seem friendly enough, they also appear to be fiercly loyal to one
+another.  
+~
+0 0 4
+0
+~
+D2
+~
+~
+0 0 14526
+D5
+~
+~
+0 0 14524
+S
+#14526
+~
+~
+0 0 0
+The Fortress Courtyard~
+The high walls of the fortress are covered with spikes, preventing an
+enemy from climbing over the top.  The only way in or out appears to be
+through the front gate.  The fortress itself is rather pleasant.  Soft
+grasses grow wild here, with sprinkles of wild flowers.  You can sense the
+familiar tingle of magic in the air; Valley Magic.  The open sky makes the
+fortress appear much larger than it actually is.  
+~
+0 0 2
+0
+~
+D0
+~
+~
+0 0 14525
+D1
+~
+~
+0 0 14527
+D2
+~
+~
+0 0 14529
+D3
+~
+~
+0 0 14528
+S
+#14527
+~
+~
+0 0 0
+The Weaponmaster's Training Grounds~
+The green grass has been scuffed and pockmarked here.  The walls are
+covered with archery targets, sacks of hay filled to look like humans, and
+various other training devices.  The copper smell of spilled blood fills the
+air; the Valley People train hard -- evidently, sometimes too hard.  Off in
+the northeast corner lies a pile of human skulls, trophies of enemies
+conquered.  At the very center of the room is a circle of dirt and stone,
+where the soldiers spar.  Here, still, the fortress's strong construction is
+holding true.  
+~
+0 0 2
+0
+~
+D1
+~
+~
+0 0 14533
+D2
+~
+~
+0 0 14530
+D3
+~
+~
+0 0 14526
+S
+#14528
+~
+~
+0 0 0
+Outpost Garden~
+Just off of the main courtyard, the gardin is brimming over with life. 
+Indeed, there is enough potential crop here to sustain the fortress
+throughout a prolonged seige.  Enhanced with the life-giving powers of
+Valley magic, the crops are unnaturally healthy and fast-growing.  The
+mystic gardener wanders through his fields, chanting his magic.  
+~
+0 0 2
+0
+~
+D0
+~
+~
+0 0 14532
+D1
+~
+~
+0 0 14526
+D2
+~
+~
+0 0 14531
+S
+#14529
+~
+~
+0 0 0
+Along the Fortress South Wall~
+Here along the southern wall of the fortress, the brush grows thick.  Two
+battlements stand on either side of this small area.  Small holes cut into
+the stone wall allow views to the south, but are to small to allow any true
+defense from this position.  Fortunately, the battlements seem strong enough
+to avoid worry.  
+~
+0 B 2
+0
+~
+D0
+~
+~
+0 0 14526
+S
+#14530
+~
+~
+0 0 0
+The South Battlement~
+The south battlement reinforces this side of the fortress.  Its massive
+walls serve to force attacking armies north, to the strongly fortified main
+gate.  Holes along the walls allow the soldiers of the fortress to fire on
+their enemies without fear of injury to themselves.  Below, the green ocean
+of the forest meets the bottom of the hill.  The massive expanse to the
+southeast seems almost to have no end.  
+~
+0 B 0
+0
+~
+D0
+~
+~
+0 0 14527
+S
+#14531
+~
+~
+0 0 0
+The Fortress Foodstuffs~
+The fortress garrison maintains a healthy supply of food, which is stored
+in this large room.  You can smell salted beef and fermenting ale.  Though
+well lit, in the manner of the Valley People, the room is so large that you
+cannot see all of the food stored inside.  To ensure that nobody eats too
+much, however, there is a strict code of food purchasing.  Plunder brough
+back by the soldiers is used to pay for this food; in turn, if the food
+later runs low, the money can be used to purchase food from distant sources.
+~
+0 B 0
+0
+~
+D0
+~
+~
+0 0 14528
+S
+#14532
+~
+~
+0 0 0
+The Stables~
+The people of the Valley, with their love of life and freedom for all
+creatures, keep their stables remarkably clean.  The animals here are well
+bred and ready for battle, but quite content.  The ceiling overhead keeps
+the rain and harsh sun off of the creatures, yet wide windows to the east
+and north allow ample natural lighting, as well as allowing the northern
+breezes to blow through.  
+~
+0 F 0
+0
+~
+D2
+~
+~
+0 0 14528
+S
+#14533
+~
+~
+0 0 0
+The Barracks~
+The barracks are spectacularly clean.  Obviously, the Weaponsmaster keeps
+his charges in line -- you could literally eat off of the stone floor!  The
+wooden walls of the fortress support a large, domed roof here, keeping most
+off the rain and cold off of the troops.  Bunks line the walls, stacked four
+high.  Everyone in this room is sleeping.  Apparently a code of silence is
+observed here, and recreation is left to the outdoors.  The beds, although
+sparse by most standards, are elegant by army standards.  Indeed, they look
+rather inviting.  A smoking room of sorts lies to the south.  As you enter,
+a few of the soldiers stir, prompting you to tread quietly!  
+~
+0 B 0
+0
+~
+D2
+~
+~
+0 0 14534
+D3
+~
+~
+0 0 14527
+S
+#14534
+~
+~
+0 0 0
+The Fortress Rec Room~
+A small room off of the sleeping area, the recreation room is dedicated
+to quiet activities.  Men and women are playing chess, cards, Dragon... 
+Virtually every type of game in the land can be found here.  Some of the
+people occupy themselves by reading, an escape from the harsh realities of
+the civil war.  A pair of men are playing darts against a characiture of
+Lord Tyberius.  The warmth of a fire gives the room a homey feeling, and you
+feel quite relaxed.  
+~
+0 B 0
+0
+~
+D0
+~
+~
+0 0 14533
+S
+#14535
+~
+~
+0 0 0
+Near the Fortress Hill~
+As the odor of the forest threatens to overwhelm your senses, you step
+out into a patch of light.  Nearby to the west is the base of an unusually
+large hill, whose summit appears to be covered with some kind of large
+structure.  You shiver for a moment as a brisk northern breeze blows past,
+shaking leaves off of the mighty trees that surround you.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14536
+D3
+~
+~
+0 0 14524
+S
+#14536
+~
+~
+0 0 0
+Deeper into Lizst Forest~
+Fallen leaves crunch underfoot as you walk through a particularly dense
+area of the forest.  Your skin is covered with dirt, and you sweat despite
+the cool breezes from the north.  Various flowering plants blossom around
+you, with the upper canopy of the forest high overhead.  An odd light is
+shining from the north.  
+~
+0 0 3
+0
+~
+D0
+~
+~
+0 0 14537
+D2
+~
+~
+0 0 14535
+D3
+~
+~
+0 0 14523
+S
+#14537
+~
+~
+0 0 0
+A Small Clearing~
+The forest abruptly terminates at the edge of a small clearing.  As you
+step out of the trees, a feeling of uneasiness sweeps over you, for the
+clearing is unnaturally silent.  The copper smell of blood rises thickly
+into your nose, drawing your attention to a bloodied stone in the center of
+the clearing.  
+~
+0 0 3
+0
+~
+D2
+~
+~
+0 0 14536
+D3
+~
+~
+0 0 14521
+S
+#0
+
+#RESETS
+O 0 14501   0 14507 -1	* Some edible moss at The Western Edge of Lizst Forest
+O 0 14503   0 14508 -1	* A bed of moss at A Peaceful Clearing
+M 0 14502   5 14502  1	* An eagle
+O 0 14508   0 14511 100	* A salmon at Wading Along the Southeast Edge of a Bend in the Sturmdrang
+M 0 14502  10 14505  1	* An eagle
+O 0 14502   0 14501 -1	* A massive granite boulder at Near a Rocky Shoreline
+M 0 14503   1 14501  1	* Barto
+E 0 14507   -1    5	* item to Barto
+E 0 14504   -1   16	* item to Barto
+O 0 14509   0 14524 -1	* Hill sign at The Base of a Large Hill
+O 0 14510   0 14527 -1	* A pile of skulls and bones at The Weaponmaster's Training Grounds
+M 0 14505   1 14527  1	* The weaponsmaster
+O 0 14511   0 14526 -1	* A natural freshwater spring at The Fortress Courtyard
+O 0 14512   0 14534 -1	* The comfy chair at The Fortress Rec Room
+M 0 14504   1 14525  1	* Solaas
+E 0 14505   -1   17	* item to Solaas
+E 0 14506   -1   11	* item to Solaas
+O 0 14513   0 14533 -1	* A bunk bed at The Barracks
+M 0 14506   1 14534  1	* An off-duty soldier
+O 0 14514   0 14534 -1	* A dartboard at The Fortress Rec Room
+O 0 14515   0 14534 -1	* A long table at The Fortress Rec Room
+M 0 14507   1 14528  1	* Tris
+M 0 14508   1 14531  1	* Poul
+M 0 14501  50 14525  5	* A scout
+E 0 14516   -1   16	* item to A scout
+E 0 14517   -1    5	* item to A scout
+O 0 14519   0 14537 -1	* A sacrifical altar stone. at A Small Clearing
+S
+
+#SHOPS
+14508  0  0  0 19  0 	75  75 	0 23	* Poul
+0
+
+#SPECIALS
+S
+
+#$

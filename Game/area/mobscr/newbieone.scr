@@ -1,0 +1,13 @@
+* File: newbieOne.scr
+* Mob: Tyrannobdella (vnum 6974)
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+  cmd say RAAAaaaWWwwrgh! You've killed me, %killer%!
+  cmd say `dBut take my equipment, you have earned it.``
+  cmd pecho %killer% Type '`jget all corpse``' and then '`jwear all``'.
+  cmd pecho %killer% You can sacrifice corpses by typing '`jsac corpse``'.
+  halt once~
+End

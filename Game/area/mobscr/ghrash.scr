@@ -1,0 +1,16 @@
+* File: ghrash.scr
+* Mob: ghrashlar(7705)
+
+#TRIGGER helpr
+Type 10
+Sc
+mfunc %helpr-from% %who% name
+mfunc %helpr-from% %evl% align
+mfunc %helpr-from% %race% race
+if ( %evl% < -100 ) && ( %race% == 1 )
+   cast fly %who%
+   cast armor %who%
+halt once~
+End
+
+#END

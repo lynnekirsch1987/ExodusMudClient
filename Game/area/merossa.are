@@ -1,0 +1,7359 @@
+#AREA
+ 6~
+merossa.are~
+`kMerossa``~
+{40 91} Minax  `kMerossa``~
+merossa~
+14000 14215
+30 0 0
+0 0
+Sabrina~
+#MOBILES
+#14000
+captain tylor~
+Captain Tylor~
+The battle-hardened Captain of the guard scans for enemies.
+~
+Tylor is a man in his forties, who has devoted his life to the service of
+the city of Merossa.  The town guards who work under him know him as a man
+of honor who can be trusted with their lives and will fight for the
+protection of the city and its citizens.  He stands ready for anything that
+can be thrown at him, which is good considering the current state of the
+city.  
+~
+human~
+0 0 0 0
+AGMNT FVc 100 1
+50 50 50d10+2500 50d10+1500 6d10+3 punch
+-40 -40 -40 999 -10
+0 -1 CFT 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+2
+tylor.voc~
+mtylor.scr~
+#14001
+paladin~
+The paladin~
+A paladin is here, fighting to defend his town and the church.
+~
+Six feet tall, blonde, and armour that sparkles like he just finished
+shining it.  That is the paladin you see before you.  This young man is in
+his late twenties and had just returned from training to find his town under
+attack.  His first thought was to defend the church, which is where he is
+now.  He is a dangerous threat to any pirate who comes near him.  
+~
+human~
+0 0 0 0
+ABNQ FHNV 700 0
+80 20 40d30+4000 1d1+999 3d6+30 slash
+-45 -45 -45 999 -30
+0 -1 DEFHKQ BN 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium flesh~
+0 0 0 100
+3
+paladin.voc~
+paladin.scr~
+#14002
+pirate raider~
+A pirate raider~
+An angry pirate is here, looking for someone to kill.
+~
+The pirate looks at you with contempt and readies his weapon.  This human has a scruffy beard and reeks of
+rum and the ocean.  The clothes he wears are rather nice, but they just look more out of place on him when
+you think about the way he must have attained them.  He and his band have sailed into port to sack the town,
+plunder all its booty, kill the men, rape the women, and sell the children.
+~
+human~
+0 0 0 0
+AFGHNS V -700 0
+45 45 5d20+1200 100d3+0 5d20+7 none
+-15 -15 -15 999 -10
+0 -1 CEFHKU 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+1
+mpirate.voc~
+mpirate.scr~
+#14003
+town guard~
+The town guard~
+A town guard rushes by, searching for a pirate attacker.
+~
+This man wears the uniform of the town guard, which consists of a leather
+helmet, jacket, and pants, a shield with the town crest on it, and a
+longsword.  He is keeping an eye out for danger as he stands his post, ready
+to repel any invader who croses his path.  He eyes you with caution as you
+approach, but does not act overtly aggressive.  
+~
+human~
+0 14000 0 0
+AHNT 0 340 0
+45 45 5d20+1200 100d3+0 5d20+7 pound
+-15 -15 -15 999 -10
+0 -1 CEFHKU 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+3
+townguard.voc~
+mguard.scr~
+#14004
+priest~
+The Priest~
+A solemn priest defends his church with the power of his faith.
+~
+~
+human~
+0 0 0 0
+ABNQac H 1000 0
+90 0 1d1+14999 1d1+9999 10d20+0 wrath
+-22 -22 -22 999 -17
+0 -1 EFHK 0 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium flesh~
+0 0 0 100
+4
+priest2.voc~
+~
+#14005
+citizen~
+A citizen~
+A nervous citizen roams the street, looking for a place to hide.
+~
+The citizens of Merossa are hard to find these days.  Most of them have
+either fled the city, been killed, or joined up with the town guard to
+battle the pirates.  This one you see before you looks at you in fear, then
+runs off, unsure whether you are friend or foe, and deciding not to wait to
+find out.  
+~
+human~
+0 0 0 0
+ACGH 0 500 0
+25 25 10d55+430 60d5+100 4d6+4 punch
+-3 -3 -3 999 -1
+0 -1 FH 0 0 0
+stand stand either 300
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+3
+citizen.voc~
+~
+#14006
+pirate king~
+The pirate king~
+`hThe `iPirate King `hplots his takeover of the town.``
+~
+~
+troll~
+0 0 0 0
+ABFNTXc DFJVac -900 0
+80 20 40d30+7500 1d1+499 10d6+10 stab
+-45 -45 -45 999 -30
+0 -1 D ABRa BE HK
+stand stand male 10000
+ABHMV ABCDEFGHIJKUVa 22 22 22 22 22 22 0
+large flesh~
+0 0 0 100
+1
+~
+mpirateking.scr~
+#14007
+Vanden Darkblade warrior guildmaster~
+`hVanden Darkblade``~
+`hVanden Darkblade, the retired `kWarrior Guildmaster `hstands here looking upset.``
+~
+`kVanden`h is a man in his seventies, which is unusual for someone in his profession.
+Even more unusual is the fact that he still has all his limbs, and all in
+working order.  His white hair is trimmed short and his skin is tan and
+leathery from years of physical work under the `ksun`h.  Despite his age, he keeps
+a powerful, while slender physique.  He may be retired, but he could probably
+still teach you a few things about combat.  He stands naked from the waist up
+and he looks pretty angry as well, as though he was just intruded upon by
+someone.
+~
+human~
+0 0 0 0
+ABJKNTbc DFVac 666 0
+100 100 1d1+14999 1d1+4999 20d20+50 wrath
+-50 -50 -50 999 -20
+0 -1 ACDEFHKV ABCH AB 0
+stand stand male 10000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 30058
+medium flesh~
+0 0 0 100
+3
+adir.voc~
+~
+#14008
+prisoner man~
+The prisoner~
+A sullen prisoner stares through the bars at the world he is kept from.
+~
+The sullen prisoner wears the garb of a pirate, but looks older than the
+raiders you have seen running around town.  His age and lack of threatening
+physical appearance is probably the reason he was captured rather than
+killed.  You have to wonder what his role in all this is...  
+~
+human~
+0 0 0 0
+AB 0 -550 0
+40 40 20d20+300 20d20+100 2d12+0 none
+-15 -15 -15 999 -2
+0 -1 0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+3
+prisoner2.voc~
+artillery.scr~
+#14009
+Verris smith blacksmith~
+Verris~
+An aged blacksmith sits alone at his forge.
+~
+Verris is a large muscular man.  His arms are as thick as an average
+citizen's thigh, and his skin is dark and leathery, as though baked in a
+furnace.  He holds his hammer knowing that, if need be, it can become a
+weapon to smite down an attacking pirate.  
+~
+human~
+0 0 0 0
+ABGNTd DFJ 200 0
+100 50 1d1+14999 1d1+14999 1d1+249 pound
+-50 -50 -50 999 -20
+0 -1 DEFHK ABCD 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+4
+blacksmith.voc~
+verris.scr~
+#14010
+town guard medic~
+The medic of the town guard~
+The medic of the town guard is rendering aid to the wounded guards.
+~
+The medic of the town guard is a cleric who has enlisted his services to
+heal the wounds of the guards who stream in and out of the armory.  His brow
+is wet with sweat and he looks as thought he hasn't slept in days.  A steady
+stream of holy incantations flow from his lips ceaselessly as he tries to
+save just one more life today.  
+~
+human~
+0 14000 0 0
+ABNQT 0 800 0
+45 45 5d20+1200 100d3+0 5d20+5 pound
+-15 -15 -15 999 -10
+0 -1 CEFHK 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+3
+none~
+mmedic.scr~
+#14011
+voodoo priest pirate~
+A voodoo priest~
+A voodoo priest works for the pirates, mixing mojo to heal them.
+~
+The voodoo priest is an aged man, with a long beard and balding head. 
+Though his skin is dark, as is common for those of the tropical regions, his
+long beard is a thick white.  He wears long dark robes and around his neck
+hangs a necklace of small snimal skulls.  He holds a gnarled wooden staff
+with a human skull mounted on the top and a large ruby in each eye socket.  
+~
+human~
+0 14000 0 0
+ABNQT 0 -650 0
+45 45 5d20+1200 100d3+0 5d20+5 pound
+-15 -15 -15 999 -10
+0 -1 CEFHK 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+3
+none~
+mvoodoo.scr~
+#14012
+kitty cat kitten~
+A scared kitten~
+A tiny kitten shivers with fear.
+~
+This cute little ball of fur is completely out of place in the din of a
+city under seige.  Looking up at you, the kitten mewls helplessly, as though
+begging you for help.  
+~
+cat~
+0 0 0 0
+ABGHe FZ 500 0
+5 5 1d10+25 1d10+25 1d6+0 claw
+5 5 5 999 5
+0 -1 FH B 0 0
+stand stand either 0
+AGV ACDEFHJKQUVa 7 7 7 7 7 7 0
+small fur~
+0 0 0 100
+0
+~
+mkitten.scr~
+#14013
+girl~
+A little girl~
+A little girl sits alone, sobbing quietly.
+~
+She looks to be about ten years old.  She hides in the cloister of the
+church alone.  Her parents are nowhere to be found.  Have they left her in
+the safety of the church and gone off to join the fight against the pirates?
+Perhaps they have already been killed, leaving her an orphan.  
+~
+human~
+0 0 0 0
+ABG 0 500 0
+25 25 10d55+430 60d5+100 4d6+4 punch
+-3 -3 -3 999 -1
+0 -1 0 B 0 0
+stand stand female 300
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+4
+mgirl.voc~
+mgirl.scr~
+#14014
+guard sentry msentry~
+The sentry guard~
+A sentry guard patrols the town walls, keeping an eye on the battle.
+~
+Compared to the townguards down below, the sentries seem to have things
+easier since the pirates rarely make it up onto the walls.  The sentries are
+made up of the youngest and oldest of the town guard candidates.  Perhaps
+captain Tylor did not feel comfortable sending these troops into battle
+against the pirates.  
+~
+human~
+0 0 0 0
+AGMNT c 100 0
+45 45 50d10+1500 50d10+1500 3d10+3 punch
+-40 -40 -40 999 -10
+0 -1 CFT 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+msentry.voc~
+none~
+#14015
+seagull merossagull~
+A seagull~
+A seagull is perched nearby.
+~
+Yellow webbed feet poke out from a mess of ruffled white feathers.  The
+seagull stands nearly a foot tall with a wingspan of almost three feet. 
+Mostly harmless, this animal may be a bit difficult to track down.  
+~
+water fowl~
+0 0 0 0
+AH Tb -300 0
+1 1 1d2+5 0d0+0 1d1+1 bite
+10 10 10 999 14
+0 -1 FR 0 R C
+stand stand neutral 0
+ADGVW ACDEFHJKPQZa 6 6 6 6 6 6 0
+medium flesh~
+0 0 0 100
+0
+~
+seagull.scr~
+#14100
+pirate~
+The wounded pirate~
+A wounded pirate has managed to drag himself out of the battle.
+~
+~
+human~
+0 0 0 0
+AB MY -666 0
+45 45 1d1+14999 1d1+9999 10d10+100 punch
+-50 -50 -50 999 -20
+0 -1 CFI AB 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+townguard.voc~
+cav.scr~
+#14101
+red dragon Dharkkum~
+`iDharkkum``~
+`iDharkkum``, the Lord of the `iV`bo`il`bc`ia`bn`io``, wants to watch you `bbleed``.
+~
+`iThe first thing you see coming at your through the sulpherous smoke is the pair
+of glowing `kyellow eyes`i.  Soon after, the mouth becomes visible and you can see
+the powerful jaws and `hgiant teeth`i.  You see the neck come into view next,
+widening like the trunk of a great red tree into the massive body held up by
+four huge sinewy red-scaled legs.  You can never see the entire tail in the
+haze, but it stretches for at least fifteen feet that you can see.  The dragon
+is terrifying and you feel the need to flee, and that's when it dawns on you...
+You have nowhere to run!
+~
+dragon~
+0 0 0 0
+AEFGNRT DFHJNOTVac -1000 0
+95 200 10d100+24000 1d1+9999 10d12+650 flbite
+-40 -30 -30 999 -20
+0 59 6 DEFHKMOY BHLUacd BCDEHJKMOPQXYZ FGIN
+stand stand male 10000
+AHZ ACDEFGHIJKPQUVXa 26 26 26 26 26 26 30077
+giant scales~
+0 0 0 100
+1
+dharkkum.voc~
+dharkkum.scr~
+#14102
+marmot rodent~
+A marmot~
+A small furry rodent grazes the nearby grasses.
+~
+The marmot is a fuzzy creature, about the size of a beaver, but without
+the tail.  They live high up on mountains and eat the vegetation they can
+find.  This one has grey fur and looks like he's been eating well.  
+~
+rabbit~
+0 0 0 0
+AH Q 200 0
+15 15 20d10+10 20d10+10 3d5+8 bite
+0 0 0 999 5
+0 -1 FH 0 0 0
+stand stand female 0
+AGV ACDEFHJKa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#14103
+mountain lion~
+A mountain lion~
+A mountain lion stalks its prey nearby.
+~
+The tan-colored fur of this mountain feline is short, unlike the claws
+and teeth.  The mountain lion sees you long before you see it and lets you
+approach only as far as it wants you to.  
+~
+cat~
+0 0 0 0
+AF Z 0 0
+30 30 10d61+416 1d1+99 5d6+15 bite
+-9 -9 -9 999 0
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKQUVa 12 12 12 12 12 12 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#14104
+grizzly bear~
+A grizzly bear~
+A grizzly bear, surprised while sleeping, turns to attack you.
+~
+Eight feet tall, when standing upright, this grizzly must weight 600
+pounds.  It is large, even for a bear.  The grizzly is the undisputed king
+of the mountain.  Never straying far from the rocky mountaintop, it probably
+catches fish from a nearby stream.  
+~
+bear~
+0 0 0 0
+ABF 0 0 0
+40 40 10d100+500 1d100+10 7d10+30 claw
+-15 -15 -15 999 -2
+0 -1 DEO 0 EI 0
+stand stand neutral 0
+AGV ABCDEFHJKUVa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#14105
+goblin warrior~
+A goblin warrior~
+A goblin warrior rushes towards you.
+~
+Nasty stooped creatures with green-grey flesh and dull yellow eyes that
+glow red in the dark, goblins are nasty creatures.  Their twisted disfigured
+limbs end in sharp claws, and their hands can hold primative weapons.  A
+single goblin is usually no match for a man, but they like to travel in
+packs.  
+~
+goblin~
+0 0 0 0
+ACFGHM J -800 0
+28 28 10d55+375 1d1+49 5d6+10 claw
+-8 -8 -8 999 1
+0 -1 CU a Q C
+stand stand neutral 250
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium oldstyle~
+0 0 0 100
+1
+~
+~
+#14106
+Bonebreak goblin king~
+Bonebreak~
+Bonebreak, the Goblin King, sits atop his throne.
+~
+The Goblin King is an odious creature.  He sits upon his throne, which appears
+to be a discarded table chair of some sort.  The king is tall by goblin
+standards, but he's also very fat and appears to have a particularly nasty
+disposition, even for a goblin.  He shouts at you in a language that you
+cannot understand and leaps up to attack.
+~
+goblin~
+0 0 0 0
+ABCFGNTXc JVac -1000 0
+50 50 10d169+333 1d1+499 3d10+0 pound
+-10 -10 -10 999 10
+0 -1 CEFHK AB DEFGQ C
+sit sit male 1500
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 30341
+medium oldstyle~
+0 0 0 100
+1
+~
+mgoblin.scr~
+#14107
+figure skeletal warrior~
+The Skeletal Warrior~
+A skeletal figure blocks your path.
+~
+The skeletal figure you see before you stands squarely in the middle of the
+only way onto the bridge.  It looks quite large, if it's even possible for a
+skeleton to look large.  Its arms are folded across its ribcage in a look of
+complete defiance to you.  Clearly, it is not going to let you pass without a
+fight.
+~
+unique~
+0 0 0 0
+ABGNOTc JOVac -1000 0
+75 30 100d10+2500 1d1+99 10d10+20 pound
+-37 -37 -37 999 -13
+0 -1 ACDEFHK ABFIMQR H N
+stand stand neutral 0
+HIM ABCGH 21 21 21 21 21 21 0
+medium bone~
+0 0 0 100
+1
+skeletalwarrior.voc~
+~
+#14108
+mountain goat~
+A mountain goat~
+A mountain goat climbs among the rocks.
+~
+The mountain goat is covered with shaggy white fur.  It stands proud atop
+a rocky outcropping on the mountain.  A pair of curled horns sits atop its
+thick skull.  
+~
+pig~
+0 0 0 0
+AGHe 0 0 0
+20 20 3d9+350 1d1+24 4d4+4 bite
+-3 -3 -3 999 0
+0 -1 HY 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#14109
+fire elemental~
+`ka fire elemental``~
+`kA huge fire elemental blocks your progress onward.``
+~
+`kThe fire elemental looks vaguely humanoid, but far larger and made
+completely of living flame.  The upper body resembles the torso of a stout
+man, with licks of flame in place of blonde hair.  The lower body is a
+whirling vortex of fire.  It does not move aggressively, but it stands
+firmly in the way of your passage across the lake of fire.  `` 
+~
+unique~
+0 0 0 0
+ABFNT Vc -700 0
+80 20 40d30+7500 1d1+499 10d6+10 flame
+-45 -45 -45 999 -30
+A 3 D ABHa E I
+stand stand none 10000
+ABH ABCDEFGIJKUV 22 22 22 22 22 22 32506
+large flesh~
+0 0 0 100
+1
+~
+none~
+#14180
+jungle environment~
+``~
+``
+~
+~
+unique~
+0 0 0 0
+ABW 0 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand neutral 0
+0 0 27 27 27 27 27 27 0
+medium oldstyle~
+0 0 0 100
+4
+env_jungle.voc~
+~
+#0
+
+#OBJECTS
+#14000
+fountain~
+A bloodstained fountain~
+`hA round `bbloodstained`h fountain gurgles in the center of the square.``~
+stone~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+14000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+fountain~
+A beautiful stone fountain gurgles happily in the center of the square,
+despite all the violence and death around it.  The red streaks of blood that
+creep through the water look surreal in comparison to the otherwise-pretty
+fountain.  
+~
+E
+stone~
+A beautiful stone fountain gurgles happily in the center of the square,
+despite all the violence and death around it.  The red streaks of blood that
+creep through the water look surreal in comparison to the otherwise-pretty
+fountain.  
+~
+#14001
+fire~
+a spreading fire~
+`kA fierce `ifire`k rages out of control, consuming everything in sight.``~
+fire~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+14001
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+jumps into the fire and is completely consumed.~
+You are completely enveloped by the fire as you surrender yourself to its deadly embrace.~
+~
+~
+A DHIJM 0 -250 -250
+0
+0
+1 0 0 P
+#14002
+corpse~
+the corpse of a citizen~
+The bloody corpse of a slain citizen floats in the fountain.~
+flesh~
+10000
+npc_corpse 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1500 0 P
+E
+corpse~
+You gaze upon the lifeless body of what must have been a townsman at one
+point.  He does not wear the fighting attire of a guard or a pirate.  He was
+probably an unlucky victim of bad timing, having been out in the town as the
+pirates attacked.  He must have been killed very recently, as the body still
+leaks blood into the fountain in which is is floating.  
+~
+#14003
+galleon crimson~
+the galleon '`iCrimson``'~
+`hA galleon with the markings '`a*={=`b====-.`h' on the side floats here.~
+wood~
+0
+ctransport 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The wind drives the ship along the waves.~
+~
+~
+~
+Q FINPQRS BCEFGHJKMN BCEFGHJKMN B
+A
+0
+80 30000 120000 P
+#14004
+headless corpse~
+a headless corpse~
+The headless body of a pirate lies on the ground.~
+flesh~
+0
+npc_corpse 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1500 0 P
+#14005
+pirate corpse~
+the corpse of a pirate~
+The decimated corpse of what might have once been a pirate lies in a heap.~
+flesh~
+0
+npc_corpse 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1500 0 P
+#14006
+pirate cleaved body corpse~
+a cleaved corpse~
+This pirate's body has been cleaved nearly in half.~
+flesh~
+0
+npc_corpse 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1500 0 P
+#14007
+bloody corpse body~
+a bloody corpse~
+The corpse of a pirate is here, still leaking blood.~
+flesh~
+0
+npc_corpse 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1500 0 P
+#14008
+shield warrior~
+`hThe shield of the `kWarrior``~
+`hA shield lies here, waiting to be picked up by a true `kWarrior``~
+steel~
+0
+armor 2
+0
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+70 20 500 P
+A
+1 2
+A
+13 30
+#14009
+steel battle axe~
+`hThe axe of the `kWarrior``~
+`hAn axe lies here, waiting to be picked up by a true `kWarrior``~
+steel~
+0
+weapon 2
+0
+0
+AN
+EFH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC D BD ADE DEF
+0
+0
+90 200 3500 P
+#14010
+anvil~
+a well-used anvil~
+A well-used anvil rests next to a bench.~
+iron~
+0
+furniture 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 DEFHIJL 0 0 0
+0
+0
+1 3000 0 P
+#14011
+dragonscale hide~
+`iDharkkum's `bd`ir`ba`ig`bo`in`bs`ic`ba`il`be `ih`bi`id`be``~
+A beautiful red dragonscale hide lies here.~
+scales~
+0
+jewelry 2
+TYc
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 0 7500 P
+#14012
+sign~
+a sign~
+`hA sign is nailed to the wall.``~
+wood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+E
+sign~
+`h  _______________________________________________________
+ /                                                      /|
++------------------------------------------------------+ |
+|     Nobody is allowed beyond this point by order     | |
+|     of Tylor, Captain of the town guard.  Anyone     | |
+|     failing to heed this warning and who chooses     | |
+|     to continue onward, does so at his or her own    | |
+|     peril and with risk of death and great loss.     | |
+|     You have been warned.                --Tylor.    |/
++------------------------------------------------------+
+~
+#14013
+bench~
+a plain bench~
+`hA plain bench rests against the wall.``~
+wood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB EIJKN EH 0 0
+0
+0
+1 6000 0 P
+#14014
+gauntlets~
+`kHoly`o gauntlets of `km`oi`kg`oh`kt``~
+`oA pair of mighty-looking gauntlets lie here``~
+steel~
+0
+armor 2
+0
+0
+AH
+H
+ABCEH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+85 20 7500 P
+A
+26 1
+A
+1 1
+A
+5 1
+A
+13 20
+#14015
+prison key~
+a prison key~
+A steel prison key lies on the ground.~
+steel~
+0
+key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 2 0 P
+#14016
+necklace skulls~
+a necklace made of small skulls~
+A necklace made from small skulls strung together lies in a pile.~
+bone~
+0
+jewelry 2
+S
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 15 1000 P
+A
+12 20
+#14017
+voodoo staff~
+a voodoo staff with a skull on top~
+A gnarled wooden staff with a skull on top contains a ruby in each eye.~
+wood~
+0
+staff 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BEF AB AB DEF 'reserved'
+0
+0
+50 0 0 P
+#14018
+wall~
+nothing~
+`~
+air~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n takes a running leap off of the rooftop, barely making it onto the northern wall, but seems to be uninjured.~
+You take a deep breath and fling yourself northward as hard as you can, just barely making it onto the northern wall.~
+$n comes flying out of nowhere, landing in a heap on the ground.~
+~
+-1 K G ADIJKMN H
+0
+0
+0 0 0 P
+#14019
+shop key blacksmith~
+the blacksmith's shop key~
+A blacksmith's shop key lies on the ground.~
+steel~
+0
+key 2
+HNYZ
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 10 0 P
+#14020
+collar~
+a cute little collar~
+A cute little collar for a cat lies here.~
+hard leather~
+0
+container 2
+NSTa
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADE AC 0 ADE BEF
+0
+0
+10 5 1000 P
+#14021
+tiny key questkey~
+a tiny key~
+A tiny key to a tiny lock lies here.~
+steel~
+5
+key 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 2 0 P
+#14022
+apron~
+a blacksmith's apron~
+An apron lies in a heap on the ground.~
+cloth~
+0
+clothing 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 35 P
+#14023
+hammer~
+a blacksmith's hammer~
+A rugged iron hammer lies on the ground.~
+iron~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C BC 0 0
+0
+0
+30 30 1234 P
+#14024
+malevolent red pommel~
+`da malevolent `bred `dpommel``~
+`dThe malevolent `bred`d pommel to what looks like a sword is here.``~
+steel~
+0
+container 2
+Yac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14025
+juju bag~
+a bag of bad juju~
+A dubious-looking bag containing some unsavory herbs lies here.~
+cloth~
+0
+pill 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CFG 'cure poison' 'cure disease' 'heal' 'reserved'
+0
+0
+50 10 1205 P
+#14026
+malevolent red blade fragment~
+`da malevolent `bred`d blade fragment``~
+`dThe malevolent `bred`d fragment of what looks like a blade is here.``~
+steel~
+0
+container 2
+Yac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14027
+malevolent red hilt~
+`da malevolent `bred`d hilt``~
+`dThe malevolent `bred`d hilt of a weapon is here.``~
+steel~
+0
+container 2
+Yac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14028
+malevolent red grip~
+`da malevolent `bred `dgrip``~
+`dThe malevolent `bred`d grip of a weapon is here.``~
+steel~
+0
+container 2
+Yac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14029
+malevolent red blade point~
+`da malevolent `bred`d blade point``~
+`dThe malevolent `bred`d point of a blade is here.``~
+steel~
+0
+container 2
+Yac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14030
+malevolent red blade fragment~
+`da malevolent `bred`d blade fragment``~
+`dThe malevolent `bred`d fragment of what looks like a blade is here.``~
+steel~
+0
+container 2
+Yac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14031
+malevolent red handle~
+`da malevolent `bred`d handle``~
+`dA malevolent `bred`d handle is here, made up of a grip and a pommel.``~
+steel~
+0
+container 2
+ac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14032
+malevolent red blade~
+`dmost of a melevolent `bred`d blade``~
+`dThe greater part of a malevolent `bred`d blade is here.``~
+steel~
+0
+container 2
+ac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14033
+malevolent red handle pommel~
+`da melevolent `bred`d handle with an attached pommel``~
+`dA malevolent `bred`d handle with an attached pommel is here.``~
+steel~
+0
+container 2
+ac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14034
+malevolent red blade~
+`da malevolent `bred`d blade without a handle``~
+`dA malevolent `bred`d blade with no handle is here.``~
+steel~
+0
+container 2
+ac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5 0 P
+#14035
+malevolent red broadsword~
+`da malevolent `bred`d broadsword``~
+`dA malevolent `bred`d broadsword gleams with evil intent.``~
+scales~
+0
+weapon 2
+EGJL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A D ABC AB AH
+0
+0
+50 20 0 P
+#14036
+vial announting oil~
+a vial of annointing oil~
+A vial of annointing oil has been set before you.~
+liquid~
+5
+treasure 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 1 0 P
+#14037
+benevolent gold broadsword~
+`ha benevolent `kgold`h broadsword``~
+`hA benevolent `kgold`h broadsword gleams with holy intent.``~
+scales~
+0
+weapon 2
+GIKL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A D ABC AB D
+0
+0
+50 200 0 P
+#14092
+portal~
+(no short description)~
+~
+ethereal~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB 0 G 0 A
+0
+0
+0 0 0 P
+#14093
+catapult~
+the catapult~
+`oA large wooden catapult has been affixed to the deck.``~
+wood~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+75 10000 0 P
+#14094
+14094~
+the launching lanyard~
+The launching lanyard stretches down to the trigger mechanism of the catapult.~
+lace~
+0
+ebutton 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+Gravity eventually takes over and you land with a *SPLAT*~
+A giant wooden basket comes hurtling through the air and smashes into the rooftop.~
+With a snap of the catapult, you are launched high into the air!~
+The catapult is released, launching everything in the basket high into the air!~
+ABCDIJKMN A BEIJKMN B 0
+0
+0
+75 1 0 P
+E
+lanyard~
+The launching lanyard stretches down to the trigger mechanism of the catapult.
+~
+#14095
+basket~
+the catapult~
+A large wooden basket is big enough to climb inside.~
+wood~
+0
+elevator 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+You are thrown wildly around as the catapult shifts position.~
+~
+~
+~
+AEIJKMN A FHJKPQ 0 0
+0
+0
+75 10000 0 P
+E
+basket~
+The basket is padded on the inside and appears to be intended for someone
+to climb inside.  
+~
+#14096
+shadow shadows~
+the shadow~
+`~
+ethereal~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+You turn around and $n is gone!~
+You step into the shadows.~
+$n appears in a swirling mist.~
+~
+-1 0 0 EIJKMN A
+0
+0
+1 0 0 P
+E
+shadows~
+You do not see that here.
+~
+#14097
+lead ring~
+a lead ring~
+A circle of lead lies heavily on the ground.~
+lead~
+0
+jewelry 2
+EG
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 100 10 P
+#14098
+fountain~
+the fountain~
+A portal that looks like a fountain.~
+stone~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 A CEIJKMN H
+0
+0
+0 0 0 P
+#14099
+circle stones~
+the circle of stones~
+Several moss-covered stones have been arranged in a circle.~
+stone~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n steps into the circle of stones and vanishes in a flash of light.~
+You step into the circle of stones and lose yourself in a flash of light.~
+$n appears in a blinding flash of light.~
+When you open your eyes, you see...~
+-1 K E 0 A
+0
+0
+0 0 0 P
+E
+stones~
+It seems odd that you have never noticed these stones before.  They look as if they have been sitting here
+undisturbed for years.  The ground around them is undisturbed and the stones have settled comfortably into
+the ground.  You can't tell exactly what kind of stone they are made of, but they look worn by time and the
+elements and are completely covered in a lush green velvetine moss.  You count five stones in all, and their
+arrangement is too perfectly circular to have been natural.  The circle of stones is about three feet across
+and very little grows within the circle.
+~
+E
+circle~
+It seems odd that you have never noticed these stones before.  They look as if they have been sitting here
+undisturbed for years.  The ground around them is undisturbed and the stones have settled comfortably into
+the ground.  You can't tell exactly what kind of stone they are made of, but they look worn by time and the
+elements and are completely covered in a lush green velvetine moss.  You count five stones in all, and their
+arrangement is too perfectly circular to have been natural.  The circle of stones is about three feet across
+and very little grows within the circle.
+~
+#14100
+net~
+a rat-collecting net~
+A long pole with a net on the end lies here, perfect for nabbing rats.~
+unknown~
+0
+armor 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#14101
+mists portal~
+a misty portal~
+A misty portal swirls in the middle of the floor.~
+ethereal~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n steps into the swirling mists and disappears.~
+You step into the swirling mists and feel whisked away to another place.~
+A maelstrom of swirling mists appears and $n steps out of them.~
+When the mists clear you see...~
+-1 0 G BCGHJKMN A
+0
+0
+0 0 0 P
+#14102
+metal key~
+A metal key~
+A metal key lies on the ground.~
+metal~
+0
+room_key 2
+UYc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 0 P
+#14103
+steel scimitar~
+a steel scimitar~
+A steel scimitar lies on the ground.~
+steel~
+0
+weapon 2
+B
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A AC BC AB H
+0
+0
+28 20 150 P
+#14104
+chair throne~
+a shabby throne~
+A discarded house chair acts as a throne.~
+wood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 EH 0 0
+0
+0
+50 100 10 P
+#14105
+wooden chest~
+a wooden chest~
+A wooden chest rests at the bottom of the lake.~
+wood~
+0
+container 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG ABCDF BDEIJKMN CFG 0
+0
+0
+0 0 0 P
+#14106
+wooden key~
+`da wooden key``~
+`dA key, carved from a piece of wood, lies on the ground.``~
+wood~
+0
+key 2
+STZ
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 0 P
+#14107
+quest cloak dragon scale dharkkum~
+`ia brilliant dragonscale cloak``~
+`iThe most amazing cloak you have ever seen lies right here.``~
+scales~
+0
+armor 2
+AGMPSYZ
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BCDE BCDE BCDE BCDE 0
+0
+0
+100 1 0 P
+A
+12 50
+A
+13 50
+A
+26 1
+A
+5 1
+A
+2 1
+A
+4 1
+A
+3 1
+A
+1 1
+#14111
+footprint~
+a deep footprint~
+`hA deep footprint, left by `iDharkkum`h, seems to go on forever.``~
+ethereal~
+0
+portal 2
+SY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n jumps into the giant footprint and falls into darkness below.~
+You close your eyes and jump into the darkness...~
+$n appears with a thunderclap.~
+When you open your eyes again, you find yourself in...~
+-1 0 G ABCGIJKMN H
+0
+0
+80 9999 0 P
+#14112
+dragonscale boots +warrior +paladin +thief~
+`ba pair of `iD`br`ia`bg`io`bn`is`bc`ia`bl`ie B`bo`io`bt`is``~
+`bA stunning pair of Dragonscale Boots stand here.``~
+scales~
+0
+armor 2
+ABMPSYZ
+0
+AG
+CEH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABCD ABCD ABCD ABCD 0
+0
+0
+100 3000 15000 P
+A
+13 25
+#14113
+galleon crimson~
+`oThe galleon '`bCrimson`o'``~
+`hA galleon with the markings '`a*={=`b====-.`h' has been dropped here, far from water.``~
+wood~
+0
+ctransport 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The wind drives the ship along the waves.~
+~
+~
+~
+Q FINPQRS BCEFGHJKMN BCEFGHJKMN B
+A
+0
+0 30000 0 P
+#14114
+fissure~
+the fissure~
+`~
+stone~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n looks at you, shrugs, and jumps right into the fissure.~
+You hold your breath and jump into the fissure.~
+$n falls screaming from an unseen hole in the roof of the cavern.~
+You slide down and around, bumped off of walls and finally get thrown into a dark place.~
+-1 0 A BDEFIJKMN H
+0
+0
+50 4000 0 P
+#14115
+rumble~
+the rumbling volcano~
+(Wizi) Object representing the rumbling volcano.~
+unknown~
+0
+trash 2
+QS
+0
+0
+0
+0
+0
+14115
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#14116
+wizi~
+`bDharkkum``~
+(Wizi) Dharkkum kill check~
+unknown~
+0
+trash 2
+QRSTYa
+0
+0
+0
+0
+0
+14116
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 0 0 P
+#14117
+hidden trap~
+a hidden trap~
+A cleverly-hidden trap waits for a victim.~
+ethereal~
+0
+roomtrap 2
+S
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDF DEFG BCDEG 0 0
+DE
+0 0 ABE 0 0 0 F 
+0 0 0 P
+E
+victmessage~
+~
+E
+specmessage~
+~
+#14118
+soul gem~
+`hA Small `nGem `hEntrapping `iDharkkums `hSoul``~
+A small gem glitters with the previous life of a being.~
+unknown~
+0
+armor 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BEF BEF BEF BEF 0
+0
+0
+0 0 0 P
+A
+13 50
+A
+12 50
+A
+18 10
+A
+19 10
+#0
+
+#ROOMS
+#14000
+0 0
+~
+~
+~
+0 0 0
+Jail Cell~
+This jail cell is pretty small.  A small bench sits against the wall, but
+there's not much else as far as comforts go.  A trapdoor in the floor is the
+only way in or out.  There is a barred window in the eastern wall, but the
+view is nothing more than the eastern town wall.  This is not the kind of
+place you'd want to stay in very long...if you had the choice, that is.
+~
+0 BCDJNQe 0
+0
+~
+I 0 D5
+~
+door~
+4193 14015 14014
+S
+#14001
+0 0
+~
+~
+~
+0 0 0
+Northwest Corner~
+You are at the northwest corner of town where the north wall meets the west
+wall above your head.  A staircase leads up the wall to the battlements above
+you.  Things are a bit quieter here, although you can still hear the distant
+sounds of combat and yelling and the smell of smoke is still strong.  Nervous
+guards pace the walls looking for a flanking attack, while others run by
+heading south to join the battle.
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14002
+D2
+~
+~
+0 0 14010
+D4
+~
+~
+0 0 14085
+S
+#14002
+0 0
+~
+~
+~
+0 0 0
+Citadel Street~
+Citadel street runs east and west just inside the city's northern wall, which
+runs above your head.  The northwestcorner is just to your west and the street
+continues eastward, eventually leading to the northrn gate of town and Seaside
+lane.  The streets are mostly empty, although the northern part of the city
+has been spared much of the damage suffered by the docks district...for now,
+at least.
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14003
+D2
+~
+~
+0 0 14011
+D3
+~
+~
+0 0 14001
+S
+#14003
+0 0
+~
+~
+~
+0 0 0
+Citadel Street~
+Citadel street runs east and west just inside the city's northern wall, which
+runs above your head.  The northwestcorner is just to your west and the street
+continues eastward, eventually leading to the northrn gate of town and Seaside
+lane.  The streets are mostly empty, although the northern part of the city
+has been spared much of the damage suffered by the docks district...for now,
+at least.
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14004
+D3
+~
+~
+0 0 14002
+S
+#14004
+0 0
+~
+~
+~
+0 0 0
+Northern Gate of Merossa~
+The town's massive northern gate is directly to your north and the end of
+Ocean lane, which leads southwards towards the harbor and the battles taking
+place there.  Citadel street runs east past the Guard's Barracks and west.
+Normally open for trade, the gate is now one of the few safe exits for the
+fleeing citizens who hurry through, trying to escape the horror to the south.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+gate~
+4193 0 14060
+D1
+~
+~
+0 0 14005
+D2
+~
+~
+0 0 14013
+D3
+~
+~
+0 0 14003
+S
+#14005
+0 0
+~
+~
+~
+0 0 0
+Citadel Street~
+Citadel street runs east and west just inside the city's northern wall, which
+runs above your head.  The northwestcorner is just to your west and the street
+continues eastward, eventually leading to the northrn gate of town and Seaside
+lane.  The streets are mostly empty, although the northern part of the city
+has been spared much of the damage suffered by the docks district...for now,
+at least.
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14006
+D2
+~
+~
+0 0 14008
+D3
+~
+~
+0 0 14004
+S
+#14006
+0 0
+~
+~
+~
+0 0 0
+Citadel Street~
+Citadel street runs east and west just inside the city's northern wall,
+which runs above your head.  The northwestcorner is just to your west and
+the street continues eastward, eventually leading to the northrn gate of
+town and Seaside lane.  The streets are mostly empty, although the northern
+part of the city has been spared much of the damage suffered by the docks
+district...  For now, at least.  
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14007
+D2
+~
+~
+0 0 14009
+D3
+~
+~
+0 0 14005
+S
+#14007
+0 0
+~
+~
+~
+0 0 0
+Northeast Corner~
+You are at the northeast corner of town where the north wall meets the east
+wall above your head.  A staircase leads up the wall to the battlements above
+you.  Things are a bit quieter here, although you can still hear the distant
+sounds of combat and yelling and the smell of smoke is still strong.  Nervous
+guards pace the walls looking for a flanking attack, while others run by
+heading south to join the battle.
+~
+0 0 1
+0
+~
+I 0 D2
+~
+~
+0 0 14015
+D3
+~
+~
+0 0 14006
+D4
+~
+~
+0 0 14091
+S
+#14008
+0 0
+~
+~
+~
+0 0 0
+Guard House~
+The guard house is a beehive of activity in the midst of battle.  The wounded
+steadily stream in, or are carried in, only to be replaced by fresh forces
+heading out to join the battle near the harbor.  Chairs are littered about in
+disarray and tables are coverd in maps as the guards map out hasty plans of
+attack.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 14005
+D4
+~
+~
+0 0 14050
+S
+#14009
+0 0
+~
+~
+~
+16 0 0
+Warrior Guildmaster's Home~
+Happy sights are a rarity in thie midst of this tragedy, but you see one now
+before you.  You stand in the home of the retired Warrior Guildmaster.  The
+house is decorated simply, as would befit a warrior.  A plain bed lies in the
+corner and a table with a single chair sits across from it.  Some paintings
+hang on the walls and a window in the north wall provides some natural light.
+~
+0 BCDQXe 0
+0
+~
+I 0 D0
+~
+~
+0 0 14006
+S
+#14010
+0 0
+~
+~
+~
+0 0 0
+Church Street~
+Church street continues along the northern wall, being just south of the
+northwertern corner of town.  The street also intersects with main street to
+the south, at the west gate of Merossa.  To your east stands the beautiful
+town church, which has become one of the last bastions of safety in this
+beseiged village.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14001
+D1
+~
+~
+0 0 14011
+D2
+~
+~
+0 0 14019
+S
+#14011
+0 0
+~
+~
+~
+0 0 0
+Church~
+The church is eerily quiet, considering the chaos going on just beyond its
+doors.  A holy peace pervades the building.  The interior appears untouched,
+as though no attacker was willing or able to do harm to the sanctuary or those
+within its protection.  Exit to the street are west and south and a smaller
+chapel lies to the east.
+~
+0 BCDQXe 0
+0
+~
+H105
+I 0 M105
+D0
+~
+~
+0 0 14002
+D1
+~
+~
+0 0 14012
+D2
+~
+~
+0 0 14020
+D3
+~
+~
+0 0 14010
+S
+#14012
+0 0
+~
+~
+~
+0 0 0
+Chapel~
+``You are in a small sanctuary tucked away on the east side of the church. 
+`bCandles`` burn in many little `balcoves`` cut into the wall and the `bvisages`` of
+several unknown Gods and heroes hang from the walls.  The sweet smell of
+incense hangs in the air and you are overcome by a relaxing feeling of
+piece, which almost makes you forget about the horror outside.  
+~
+0 BCDKQ 0
+0
+~
+I 0 E
+visages~
+You don't recognize any of the faces depicted in the hangings, although
+their actions appear to be universal.  You see a knight in armor slaying a
+dragon, a group of Elves fighting what appears to be a troll, and a ship of
+Canthi fighting a huge sea beast.  
+~
+E
+alcoves~
+The alcoves are black with soot from hundreds of candles which have
+burned here and spilled their wax down the walls, filling up any cracks and
+imperfections in the stone.  
+~
+E
+candles~
+The alcoves are black with soot from hundreds of candles which have
+burned here and spilled their wax down the walls, filling up any cracks and
+imperfections in the stone.  
+~
+D3
+~
+~
+0 0 14011
+S
+#14013
+0 0
+~
+~
+~
+0 0 0
+Seaside Road~
+Seaside road runs north and south through the center of town.  On the northern
+end, the road goes out through the northern gate and beyond.  To the south, it
+ends at the end of the town's main pier.  The road is also the main avenue for
+the movement of both guards and pirates, so if you stay here very long, chances
+are you'll be brought into the fight pretty soon.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14004
+D2
+~
+~
+0 0 14022
+S
+#14014
+0 0
+~
+~
+~
+0 0 0
+Town Jail~
+The jail is yet another area of town that the town guard use as a rally
+point near the front lines of the conflict.  Not many prisoners enter the
+doors, as the pirates usually either limp back to their ship, or go down
+fighting.  The layout is pretty simple with a single entrance to the east,
+through which you can see the road and beyond it, the eastern town wall. 
+There is not much of a view from the lobby of the town jail.  Above you, a
+stairway leads to the one and only holding cell in town.  A barred door
+prevents the unfortunate occupants from wondering out or escaping.  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 14015
+D4
+~
+door~
+4193 14015 14000
+S
+#14015
+0 0
+~
+~
+~
+0 0 0
+Riverside Lane~
+Riverside lane runs north and south along the eastern wall of Merossa. 
+To the immediate west is the town jail, where criminals are kept and, more
+recently, prisoners of war.  The two-story building is sturdily built and
+looks to be many decades old.  Just off to the south is the intersection
+with main street, and the eastern gate of town.  Far off to the south lies
+the harbor and beyond it, the shimmering sea.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14007
+D2
+~
+~
+0 0 14025
+D3
+~
+~
+0 0 14014
+S
+#14016
+0 0
+~
+~
+~
+0 0 0
+Abandoned Butcher Shop~
+While this shop is empty, there's no hiding the fact that it was once a
+butcher shop.  The owner must have packed up and moved out recently because
+the smell of cooked meat still lingers heavily in the smoky air.  Nothing
+remains of the food that was sold here, save for some scraps discarded in a
+waste pile.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 14021
+S
+#14017
+0 0
+~
+~
+~
+0 0 0
+An abandoned shop~
+This shop has been closed up and all the wares is gone, along with the
+shopkeeper.  A single exit lies to the south.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 14023
+S
+#14018
+0 0
+~
+~
+~
+0 0 0
+Boarded-up Weapons Shop~
+This weapons shop is deserted.  All the weapons have been removed from
+the racks and the door was boarded up.  Most likely, the town guards
+requisitioned all the weapons when the pirates attacked.  The shop owner is
+probably fighting along with the town guard right now, if he's still alive. 
+A half-eaten turkey leg lying on a table shows just how quickly everyone had
+to get out when the invasion began.  Through the open doorway, the muted
+sounds of screaming and combat can be heard all around.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 14024
+S
+#14019
+0 0
+~
+~
+~
+0 0 0
+Western Gate of Merossa~
+Merossa's town wall rises above you to the west and continuing to the
+north and south towards the sea.  Church street follows along the inside of
+the wall and main street leads through the west gate, eventually becoming a
+dirt path into the countryside beyond.  Eastward, main street travels into
+the heart of town.  Looking east, buildings rise up on both sides of the
+street.  Beyond the city to the east rises up the massive volcano that casts
+a long shadow over town every morning.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14010
+D1
+~
+~
+0 0 14020
+D2
+~
+~
+0 0 14030
+D3
+~
+gate~
+4193 0 14053
+S
+#14020
+0 0
+~
+~
+~
+0 0 0
+Main Street~
+This street is the main avenue of commerce in town.  The road runs from
+the west gate to the east gate, and even beyond.  Shops can be found to the
+north and south, although many of them are now boarded up or in flames as a
+result of the invasion.  Town guards can be seen running in small bands in
+the distance and the sound of crackling flames mixes with the sound of steel
+on steal and the occasional cry of a vanquished fighter as the battle claims
+another life.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14011
+D1
+~
+~
+0 0 14021
+D3
+~
+~
+0 0 14019
+S
+#14021
+0 0
+~
+~
+~
+0 0 0
+Main Street~
+This street is the main avenue of commerce in town.  The road runs from
+the west gate to the east gate, and even beyond.  Shops can be found to the
+north and south, although many of them are now boarded up or in flames as a
+result of the invasion.  Town guards can be seen running in small bands in
+the distance and the sound of crackling flames mixes with the sound of steel
+on steal and the occasional cry of a vanquished fighter as the battle claims
+another life.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14016
+D1
+~
+~
+0 0 14022
+D2
+~
+~
+0 0 14027
+D3
+~
+~
+0 0 14020
+S
+#14022
+0 0
+~
+~
+~
+0 0 0
+Town Square~
+This square is the center of Merossa and, during normal times, the center
+of the bustle of daily life.  Chaos reigns now, as the battle rages all
+around you.  Many nearby shops have been looted and set ablaze and the thick
+smoke burns your eyes and offends your nose with its acrid stench.  Several
+bodies lie about, some aflame.  The din of battle surrounds you as you stand
+in the very center of the besieged town.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14013
+D1
+~
+~
+0 0 14023
+D2
+~
+~
+0 0 14031
+D3
+~
+~
+0 0 14021
+S
+#14023
+0 0
+~
+~
+~
+0 0 0
+Main Street~
+This street is the main avenue of commerce in town.  The road runs from
+the west gate to the east gate, and even beyond.  Shops can be found to the
+north and south, although many of them are now boarded up or in flames as a
+result of the invasion.  Town guards can be seen running in small bands in
+the distance and the sound of crackling flames mixes with the sound of steel
+on steal and the occasional cry of a vanquished fighter as the battle claims
+another life.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14017
+D1
+~
+~
+0 0 14024
+D2
+~
+door~
+4193 0 14028
+D3
+~
+~
+0 0 14022
+S
+#14024
+0 0
+~
+~
+~
+0 0 0
+Main Street~
+This street is the main avenue of commerce in town.  The road runs from
+the west gate to the east gate, and even beyond.  Shops can be found to the
+north and south, although many of them are now boarded up or in flames as a
+result of the invasion.  Town guards can be seen running in small bands in
+the distance and the sound of crackling flames mixes with the sound of steel
+on steal and the occasional cry of a vanquished fighter as the battle claims
+another life.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14018
+D1
+~
+~
+0 0 14025
+D2
+~
+~
+0 0 14029
+D3
+~
+~
+0 0 14023
+S
+#14025
+0 0
+~
+~
+~
+0 0 0
+Eastern Gate of Merossa~
+Looking over the town wall at Merossa's eastern gate, the massive
+mountain rising above the jungle is what captures your attention and
+dominates the view, blocking out a considerable portion of the sky.  Just
+beyond the gate, you can hear the gurgling river as it flows into the sea to
+the south.  The calls of birds and other jungle animals nearby remind you
+that Merossa is a wilderness outpost never more than a few steps from the
+primeval roots of this land.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14015
+D1
+~
+~
+0 0 14052
+D2
+~
+~
+0 0 14032
+D3
+~
+~
+0 0 14024
+S
+#14026
+0 0
+~
+~
+~
+1 512 0
+`k*** `oUNUSED `k***``~
+~
+0 BCNe 0
+0
+~
+I 0 S
+#14027
+0 0
+~
+~
+~
+0 0 0
+Ransacked Shop~
+The building you stand in used to be a store at some point, although you can no
+longer tell what it sold.  The front window has been broken, all furniture has
+been destroyed or thrown about the place, and anything of value has been long
+since looted by the invading horse.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 14021
+S
+#14028
+0 0
+~
+~
+~
+0 0 0
+Boarded-up Armory~
+From the looks of things, this shop has been boarded up and barricaded against
+the pirate attack.  Since you made it this far, either you forced your way in,
+or someone before you did.  The shop appears to be a blacksmith's place of
+business, with a furnace in the back, fed by a huge bellows.  A well-used anvil
+sits in front of a small bench nearby.  Armor hanging on the walls indicate the
+talent of the smith who works these fires.
+~
+0 BCDQe 0
+0
+~
+I 0 D0
+~
+entrance~
+4193 14019 14023
+S
+#14029
+0 0
+~
+~
+~
+0 0 0
+Merossa Town Hall~
+The town hall hasn't been looted...  Yet, but there's no sign of activity
+here.  It looks like everyone has either joined up with the town guard of
+has left town altogether until the fighting stops.  Several desks are
+arranged around the room, giving you the impression this was where the mayor
+would normally spend his days reviewing political matters and resolving
+disputes and issues of trade.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 14024
+S
+#14030
+0 0
+~
+~
+~
+0 0 0
+Church Street~
+Church street follows the shadow of Merossa's west wall.  The street
+continues north towards the west gate and south towards the piers.  The
+smell of smoke is strong in this part of town and the sounds of combat and
+death are nearby.  You should stick to the shadows unless you itch for
+confrontation.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14019
+D2
+~
+~
+0 0 14036
+S
+#14031
+0 0
+~
+~
+~
+0 0 0
+Seaside Road~
+Seaside road runs north and south through the center of town.  On the northern
+end, the road goes out through the northern gate and beyond.  To the south, it
+ends at the end of the town's main pier.  The road is also the main avenue for
+the movement of both guards and pirates, so if you stay here very long, chances
+are you'll be brought into the fight pretty soon.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14022
+D2
+~
+~
+0 0 14039
+S
+#14032
+0 0
+~
+~
+~
+0 0 0
+Riverside Lane~
+Riverside lane runs north and south along the eastern wall of Merossa. 
+To the north is the intersection with main street, and the eastern gate of
+town.  To the south lies the harbor and beyond it, the shimmering sea.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14025
+D2
+~
+~
+0 0 14042
+S
+#14033
+90 0
+You've made it into a secret house.  For this, you receive 100 experience.~
+~
+~
+0 512 0
+A small seaside cottage~
+Locked away form the fighting outside, this tiny cottage owes its
+existence to its complete unobtrusiveness from the outside.  None of the
+pirate attackers must have paid much attention to a simple-looking cottage
+such as this.  On the inside, the cottage is plain, but comfortable, with a
+chair and a simple bed along a wall, and a small fireplace against another. 
+A door in the south wall leads back to the dim outside.  
+~
+0 BCDHN 1
+0
+~
+I 0 D2
+~
+door~
+4193 14021 14037
+S
+#14034
+0 0
+Congratulations, you've enetered a burning building.  Now get out while you can!~
+~
+~
+0 0 0
+Burning Tavern~
+``This place was a tavern until just recently.  The looting pirates have stolen
+anything of value and then set the tavern `iablaze``.  `iFlames`` and `asmoke`` surround
+you, making it impossible to breathe and difficult to see.  It's easy to lose
+your direction and get lost in the `iflames``.  Occasionally, bottles of high-proof
+alcohol explode as they are consumed by `ifire``.  You feel a strong compulsion to
+leave quickly.
+~
+0 CD 0
+0
+~
+H-50
+I 0 M-50
+D2
+~
+~
+0 0 14038
+S
+#14035
+0 0
+~
+~
+~
+0 0 0
+Looted Store~
+Broken glass and rubble are strewn around this store.  The shopkeeper has
+long since run away to safety.  This shop had a prime location overlooking
+the port which made it one of the first targets of the pirates when they
+sailed into town.  Now all that is left is a burning and destroyed wreck.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 14040
+S
+#14036
+0 0
+~
+~
+~
+0 0 0
+Southwest Corner~
+Harbor Street runs along the wharf, with piers jutting into the bay for
+ships to dock.  Normally merchant ships occupy the harbor, bringing wares
+for trade in the town's bustling market.  At the moment, though, the only
+ship in the harbor is that of the pirate invaders.  Church street runs
+northward from here, intersecting with main street off to the north, at the
+town's western gate.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14030
+D1
+~
+~
+0 0 14037
+D2
+~
+~
+0 0 14043
+S
+#14037
+0 0
+~
+~
+~
+0 0 0
+Harbor Street~
+On happier days, harbor street is a pleasant place to be.  Seagulls fly
+overhead and the smell of the salty air rides in on the ocean breeze.  But
+now, the sea air is thick with smoke from the burning looted buildings.  The
+seagulls are gone, hiding from the onslaught of the vicious pirate raiders
+and the only sounds to be heard are those of battle and death, all around
+you.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+door~
+4193 14021 14033
+D1
+~
+~
+0 0 14038
+D2
+~
+~
+0 0 14044
+D3
+~
+~
+0 0 14036
+S
+#14038
+0 0
+~
+~
+~
+0 0 0
+Harbor Street~
+On happier days, harbor street is a pleasant place to be.  Seagulls fly
+overhead and the smell of the salty air rides in on the ocean breeze.  But
+now, the sea air is thick with smoke from the burning looted buildings.  The
+seagulls are gone, hiding from the onslaught of the vicious pirate raiders
+and the only sounds to be heard are those of battle and death, all around
+you.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14034
+D1
+~
+~
+0 0 14039
+D2
+~
+~
+0 0 14045
+D3
+~
+~
+0 0 14037
+S
+#14039
+0 0
+~
+~
+~
+0 0 0
+Ocean Square~
+Ocean square is the junction of Seaside road and Harbor street.  To the north
+a distance is the town's main square.  The largest pier lies directly to the
+south, and several smaller piers stretch southward into the water on your east
+and west.  Ocean square is also under attack at the moment.  Pirates are
+everywhere, looting stores, setting shops on fire, pillaging, and terrorizing
+the populace.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14031
+D1
+~
+~
+0 0 14040
+D2
+~
+~
+0 0 14046
+D3
+~
+~
+0 0 14038
+S
+#14040
+0 0
+~
+~
+~
+0 0 0
+Harbor Street~
+On happier days, harbor street is a pleasant place to be.  Seagulls fly
+overhead and the smell of the salty air rides in on the ocean breeze.  But
+now, the sea air is thick with smoke from the burning looted buildings.  The
+seagulls are gone, hiding from the onslaught of the vicious pirate raiders
+and the only sounds to be heard are those of battle and death, all around
+you.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14035
+D1
+~
+~
+0 0 14041
+D2
+~
+~
+0 0 14047
+D3
+~
+~
+0 0 14039
+S
+#14041
+0 0
+~
+~
+~
+0 0 0
+Harbor Street~
+On happier days, harbor street is a pleasant place to be.  Seagulls fly
+overhead and the smell of the salty air rides in on the ocean breeze.  But
+now, the sea air is thick with smoke from the burning looted buildings.  The
+seagulls are gone, hiding from the onslaught of the vicious pirate raiders
+and the only sounds to be heard are those of battle and death, all around
+you.  
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14042
+D2
+~
+~
+0 0 14048
+D3
+~
+~
+0 0 14040
+S
+#14042
+0 0
+~
+~
+~
+0 0 0
+Southeast Corner~
+Harbor Street runs along the wharf, with piers jutting into the bay for
+ships to dock.  Normally merchant ships occupy the harbor, bringing wares
+for trade in the town's bustling market.  At the moment, though, the only
+ship in the harbor is that of the pirate invaders.  Riverside lane runs
+northward from here, intersecting with main street off to the north, at the
+town's eastern gate.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14032
+D2
+~
+~
+0 0 14049
+D3
+~
+~
+0 0 14041
+S
+#14043
+0 0
+~
+~
+~
+0 0 0
+Pier~
+This pier juts a short distance into the water.  The piers are mostly
+used for mooring ships that are in port and also for the town's fishermen,
+who make their living on the piers of the city.  The waterfront area is also
+known to be rather dangerous after dark, as the less desireable folk of the
+city tend to gather by the water for shady deals and illegal activities.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 14036
+S
+#14044
+0 0
+~
+~
+~
+0 0 0
+Pier~
+This pier juts a short distance into the water.  The piers are mostly
+used for mooring ships that are in port and also for the town's fishermen,
+who make their living on the piers of the city.  The waterfront area is also
+known to be rather dangerous after dark, as the less desireable folk of the
+city tend to gather by the water for shady deals and illegal activities.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 14037
+S
+#14045
+0 0
+~
+~
+~
+0 0 0
+Pier~
+This pier juts a short distance into the water.  The piers are mostly
+used for mooring ships that are in port and also for the town's fishermen,
+who make their living on the piers of the city.  The waterfront area is also
+known to be rather dangerous after dark, as the less desireable folk of the
+city tend to gather by the water for shady deals and illegal activities.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 14038
+S
+#14046
+0 0
+~
+~
+~
+0 0 0
+Pier~
+This pier is the largest and most central of the seven piers in town.  It
+stretches several hundred feet into the water and is normally bustling with
+activity as the fisherman come and go and merchants peddle their wares.  It is
+also home to a most unwelcome guest at the moment--a pirate ship teeming with
+attackers.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14039
+S
+#14047
+0 0
+~
+~
+~
+0 0 0
+Pier~
+This pier juts a short distance into the water.  The piers are mostly
+used for mooring ships that are in port and also for the town's fishermen,
+who make their living on the piers of the city.  The waterfront area is also
+known to be rather dangerous after dark, as the less desireable folk of the
+city tend to gather by the water for shady deals and illegal activities.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 14040
+S
+#14048
+0 0
+~
+~
+~
+0 0 0
+Pier~
+This pier juts a short distance into the water.  The piers are mostly
+used for mooring ships that are in port and also for the town's fishermen,
+who make their living on the piers of the city.  The waterfront area is also
+known to be rather dangerous after dark, as the less desireable folk of the
+city tend to gather by the water for shady deals and illegal activities.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 14041
+S
+#14049
+0 0
+~
+~
+~
+0 0 0
+Pier~
+This pier juts a short distance into the water.  The piers are mostly
+used for mooring ships that are in port and also for the town's fishermen,
+who make their living on the piers of the city.  The waterfront area is also
+known to be rather dangerous after dark, as the less desireable folk of the
+city tend to gather by the water for shady deals and illegal activities.  
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 14042
+S
+#14050
+0 0
+~
+~
+~
+0 0 0
+Armory~
+You stand in the armory of the guardhouse.  Weapons and suits of armor hang in
+an organized manner from pegs.  Many sets are gone--most likely in use as the
+town guards battle the pirate invasion to the south.  Several wounded guards
+have taken up residence in here as well and are tending to their wounds and
+trying to recover well enough to rejoin the fight outside.
+~
+0 CD 0
+0
+~
+I 0 D5
+~
+~
+0 0 14008
+S
+#14052
+0 0
+~
+~
+~
+0 0 0
+Bridge~
+`hYou're standing on a bridge just outside the `kEastern Gate`h.  `gWater`h flows under
+the bridge into the bay just to your south.  The `griver`h, along with the `keast
+wall`h, makes an excellent natural defense against enemies approaching from the
+east.  A small trail goes off into the jungle to the east towards the `ivolcano`h.
+~
+0 C 1
+0
+~
+I 0 D1
+~
+~
+0 0 14100
+D3
+~
+~
+0 0 14025
+S
+#14053
+0 0
+~
+~
+~
+0 0 0
+Outside the Western gate of Merossa~
+Just outside the western gate of town, you gain a sense of the panic
+going on within the city walls.  The sounds of children crying and women
+screaming is mixed with the shouts and battlecries of men engaged in combat.
+Abovethe gate, a sentry watches you suspiciously for a moment, then turns
+his attention back to the drama unfolding within the town walls.  
+~
+0 C 1
+0
+~
+I 0 D1
+~
+gate~
+4193 0 14019
+D3
+~
+~
+0 0 14054
+S
+#14054
+0 0
+~
+~
+~
+0 0 0
+The Road to Merossa~
+You walk along the road to Merossa between crop fields that surround the
+western side of the city.  The road leads off to the west where it rounds a
+bend and turns southward.  The road also continues eastward towards the
+town's western gate.  Your previous suspicion that the fields had been
+burning was wrong, but the truth is much worse.  The southern portion of the
+city itself is ablaze!  
+~
+0 0 4
+0
+~
+I 0 D1
+~
+~
+0 0 14053
+D3
+~
+~
+0 0 14055
+S
+#14055
+0 0
+~
+~
+~
+0 0 0
+A well-worn road~
+As you round yet another bend, the road curves once more, this time to
+the east and south.  The road south leads through a meadow and between a
+pair of large sand dunes on its way to the beach.  To the east, the road to
+Merossa continues towards the large city gates far off to the east.  Above
+the town wall lies the thick black haze of smoke.  Perhaps they are
+scorching their fields for next year's harvest.  
+~
+0 0 4
+0
+~
+I 0 D1
+~
+~
+0 0 14054
+D2
+~
+~
+0 0 14056
+S
+#14056
+0 0
+~
+~
+~
+0 0 0
+A well-worn road~
+The sounds of the ocean are almost imperceptibly faint to the south. 
+Your footfalls along the road are the only sounds that break the silence
+that hangs over you.  The grass grows tall on both sides of the road and you
+scan the skies for birds, but you sense no signs of life in the air or on
+the ground.  It's as though every living thing has left the area.  A gust of
+wind carries upon is a strong smell of burning wood form the east.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 14055
+D2
+~
+~
+0 0 14057
+S
+#14057
+0 0
+~
+~
+~
+0 0 0
+Path around the Bay~
+The road to Merossa turns inland to the north into the countryside
+between two massive sand dunes, one of which blocks your progress eastward. 
+The road also continues to the west along the bay of Merossa.  The ocean
+breeze brings the smell of salt mixed with a stronger odor of burning wood,
+as though there were a fire not far away.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 14056
+D3
+~
+~
+0 0 14058
+S
+#14058
+0 0
+~
+~
+~
+0 0 0
+Path around the Bay~
+All signs of civilization seem miles away as you walk along a beachside
+road that runs west and east.  The bay of Merossa lies to your south and the
+eastern prairie far beyond it.  In the distance to the east, the ocean lies
+unseen behind high sand dunes in the distance.  Looking over the dunes
+towards what must be the town of Merossa you see a hazy dark cloud and smell
+the faintest whiff of...  Smoke?  
+~
+0 0 4
+0
+~
+I 0 D1
+~
+~
+0 0 14057
+D3
+~
+~
+0 0 14059
+S
+#14059
+0 0
+~
+~
+~
+0 0 0
+Rounding the Bend~
+The road continues to follow the beach to the south and east now, as you
+round yet another turn on the bay.  The beach is a pale white and crystal
+waves break against it gently.  The bay of Merossa has been known a safe
+harbor for many vessels fleeing ocean storms.  The scent of the sea air is
+strong and a gentle ocean breeze blows constantly inland.  
+~
+0 0 4
+0
+~
+I 0 D1
+~
+~
+0 0 14058
+D2
+~
+~
+0 0 14061
+S
+#14060
+0 0
+~
+~
+~
+0 0 0
+Well-beaten path~
+~
+0 C 0
+0
+~
+I 0 D2
+~
+gate~
+4193 0 14004
+S
+#14061
+0 0
+~
+~
+~
+0 0 0
+Path around the Bay~
+The bay of Merossa stretches out before you to the east and beyond it,
+the great ocean itself.  Tall dunes block your path to the west, becoming
+the foothills of the Kayinn-Karin Shale Peaks, which lie off in the distance
+to the west.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 14059
+D2
+~
+~
+0 0 14062
+S
+#14062
+0 0
+~
+~
+~
+0 0 0
+Path along the coast~
+The packed dirt road you walk upon continues north and east, as it
+follows the shoreline of the bay of Merossa.  The sounds of the animals of
+the eastern prairie fade away in the distance and are replaced by a quiet
+solitude broken only by the rhythmic crashing of waves upon the short.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 14061
+D1
+~
+~
+0 0 14063
+S
+#14063
+0 0
+~
+~
+~
+0 0 0
+Path along the coast~
+The wide-open expanse of the eastern prairie stretches off to the
+southwest.  On your east lies the great ocean, and in between is where you
+now stand.  Just to your north, the ocean forms a large bay.  A well-worn
+path leads westward along the shoreline of the bay, eventually curving
+northward off in the distance.  
+~
+0 C 4
+0
+~
+I 0 D2
+~
+~
+0 0 21069
+D3
+~
+~
+0 0 14062
+S
+#14064
+0 0
+~
+~
+~
+0 0 0
+In the river~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 14065
+S
+#14065
+0 0
+~
+~
+~
+0 0 0
+In the river~
+The river is chest-high here and cool water flows steadily southward,
+mingling with the warmer ocean water of the bay.  Farther downstream to your
+south is the bridge that leads into the east gate of Merossa.  You can move
+on towards it, or you may struggle northward against the current if you
+desire.  
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 14064
+D2
+~
+~
+0 0 14066
+S
+#14066
+0 0
+~
+~
+~
+0 0 0
+In the river~
+The river is chest-high here and cool water flows steadily southward,
+mingling with the warmer ocean water of the bay.  Directly to your south is
+the bridge that leads into the east gate of Merossa.  Debris blocks your way
+south under the bridge, but you may struggle northward against the current
+if you desire.  
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 14065
+S
+#14070
+0 0
+~
+~
+~
+0 0 0
+Deck of the `iCrimson``~
+By far the largest of ships, this massive vessel is well over one hundred
+paces long.  The ship sits very low in the water, and moves steadily and
+relentlessly, only the most massive waves causing it to sway.  
+~
+0 I 0
+0
+~
+I 0 D0
+~
+~
+0 0 14071
+D2
+~
+~
+0 0 14072
+D5
+~
+~
+0 0 14077
+S
+#14071
+0 0
+~
+~
+~
+0 0 0
+Foredeck of the `iCrimson``~
+By far the largest of ships, this massive vessel is well over one hundred
+paces long.  The ship sits very low in the water, and moves steadily and
+relentlessly, only the most massive waves causing it to sway.  
+~
+0 I 0
+0
+~
+I 0 D2
+~
+~
+0 0 14070
+S
+#14072
+0 0
+~
+~
+~
+0 0 0
+Aft deck of the `iCrimson``~
+By far the largest of ships, this massive vessel is well over one hundred
+paces long.  The ship sits very low in the water, and moves steadily and
+relentlessly, only the most massive waves causing it to sway.  
+~
+0 I 0
+0
+~
+I 0 D0
+~
+~
+0 0 14070
+S
+#14073
+0 0
+~
+~
+~
+0 0 0
+Cabin~
+This tiny cabin has a ceiling so low you have to duck your head.  It's
+possible for a man to sleep in here, but most likely, it wasused for storing
+ill-gotten cargo.  
+~
+0 DI 0
+0
+~
+I 0 D1
+~
+~
+0 0 14074
+S
+#14074
+0 0
+~
+~
+~
+0 0 0
+Hallway~
+The hallway at the bow of the ship becomes tighter here, with a small
+cabin to the east and west.  The hallway widens as it continues to the
+south.  
+~
+0 DI 0
+0
+~
+I 0 D1
+~
+~
+0 0 14075
+D2
+~
+~
+0 0 14077
+D3
+~
+~
+0 0 14073
+S
+#14075
+0 0
+~
+~
+~
+0 0 0
+Cabin~
+This tiny cabin has a ceiling so low you have to duck your head.  It's
+possible for a man to sleep in here, but most likely, it wasused for storing
+ill-gotten cargo.  
+~
+0 DI 0
+0
+~
+I 0 D3
+~
+~
+0 0 14074
+S
+#14076
+0 0
+~
+~
+~
+0 0 0
+Cabin~
+This tiny cabin has a ceiling so low you have to duck your head.  It's possible
+for a man to sleep in here, but most likely, it wasused for storing ill-gotten
+cargo.
+~
+0 DI 0
+0
+~
+I 0 D1
+~
+~
+0 0 14077
+S
+#14077
+0 0
+~
+~
+~
+0 0 0
+Hallway~
+The hallway of the ship has exits in every direction but down.  To the
+west, east, and south lie rooms.  The hallway continues to the north, and a
+ladder leads up to the deck of the ship.  
+~
+0 DI 0
+0
+~
+I 0 D0
+~
+~
+0 0 14074
+D1
+~
+~
+0 0 14078
+D2
+~
+~
+0 0 14079
+D3
+~
+~
+0 0 14076
+D4
+~
+~
+0 0 14070
+D5
+~
+~
+0 0 14080
+S
+#14078
+0 0
+~
+~
+~
+0 0 0
+Cabin~
+This tiny cabin has a ceiling so low you have to duck your head.  It's possible
+for a man to sleep in here, but most likely, it wasused for storing ill-gotten
+cargo.
+~
+0 DI 0
+0
+~
+I 0 D3
+~
+~
+0 0 14077
+S
+#14079
+0 0
+~
+~
+~
+0 0 0
+Captain's Quarters~
+Unlike the other cabins, the captain's quarters is somewhat spacious. 
+Maps have been tacked to the walls and a porthole in the souther wall gives
+a view from the sterm of the ship.  
+~
+0 CDGI 0
+0
+~
+I 0 D0
+~
+~
+0 0 14077
+S
+#14080
+0 0
+~
+~
+~
+0 0 0
+Cargo Hold~
+~
+0 DI 0
+0
+~
+I 0 D4
+~
+~
+0 0 14077
+S
+#14081
+0 0
+~
+~
+~
+0 0 0
+Southwest end of the town wall~
+As the town wall ends in a wide parapet, you hear the sound of waves
+crashing against the rocks below you.  To the west is a wild undeveloped
+beach.  To the east is the town harbor, which is presently occupied by a
+large pirate ship brimming with pirate invaders.  The town guard can be seen
+on the streets as well, trying to retake their homes from the attacking
+raiders.  The town wall continues only to the north.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14082
+S
+#14082
+0 0
+~
+~
+~
+0 0 0
+Town Wall~
+The western town wall stands above the city, keeping it safe from the
+wilderness outside.  The town wall leads north and south from here.  To the
+north is the northwest corner, and a staircase that leads down to street
+level.  Further to the south, the wall ends at the sea.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14083
+D2
+~
+~
+0 0 14081
+S
+#14083
+0 0
+~
+~
+~
+0 0 0
+Above the Western Gate~
+Below you lies the western gate of Merossa.  The gate has been shut and
+locked in case the invaders plan on bringing reinforcements in from outside.
+Looking westward, you see only wilderness.  Looking eastward, you can look
+along the main road through town all the way to the eastern gate and to the
+massive mountain beyond it.  To the north is the northwest corner, with a
+passage to the streets.  To the south is where the town wall meets the sea. 
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14084
+D2
+~
+~
+0 0 14082
+S
+#14084
+0 0
+~
+~
+~
+0 0 0
+Town Wall~
+The western town wall stands above the city, keeping it safe from the
+wilderness outside.  The town wall leads north and south from here.  To the
+north is the northwest corner, and a staircase that leads down to street
+level.  Further to the south, the wall crosses over the western gate.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14085
+D2
+~
+~
+0 0 14083
+S
+#14085
+0 0
+~
+~
+~
+0 0 0
+Northwest corner of the town wall~
+At the top of a small staircase, you stand at the northwest corner of the
+town wall for Merossa.  The massive wall lies eastward and southward towards
+the harbor.  
+~
+0 C 1
+0
+~
+I 0 D1
+~
+~
+0 0 14086
+D2
+~
+~
+0 0 14084
+D5
+~
+~
+0 0 14001
+S
+#14086
+0 0
+~
+~
+~
+0 0 0
+Town Wall~
+The town wall continues east and west along the northern edge of Merossa.  
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14087
+D3
+~
+~
+0 0 14085
+S
+#14087
+0 0
+~
+~
+~
+0 0 0
+Town Wall~
+The town wall continues east and west along the northern edge of Merossa.  
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14088
+D3
+~
+~
+0 0 14086
+S
+#14088
+0 0
+~
+~
+~
+0 0 0
+Above the Northern Gate~
+`hYou stand atop the town wall at the point where Seaside lane passes through
+the northern gate of town and off into the wilderness.  The wall continues east
+and west from here with small towers at each of the four corners of town.  Far
+to the south, you can see the `bharbor`h and the attacking `bpirate ship`h.  Much
+of the southern part of town is in `kflames`h and you can clearly see the town
+guard engaging in fierce combat with the pirates.``
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14089
+D3
+~
+~
+0 0 14087
+S
+#14089
+0 0
+~
+~
+~
+0 0 0
+Town Wall~
+The town wall continues east and west along the northern edge of Merossa.  
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14090
+D3
+~
+~
+0 0 14088
+S
+#14090
+0 0
+~
+~
+~
+0 0 0
+Town Wall~
+The town wall continues east and west along the northern edge of Merossa.  
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 14091
+D3
+~
+~
+0 0 14089
+S
+#14091
+0 0
+~
+~
+~
+0 0 0
+Northeast corner of the town wall~
+Above the northeast corner of town, the massive town wall extends to the
+west and to the south.  Off in the distance to the northeast, lies the
+jungle and a tall mountain above it.  A small staircase leads down to the
+streets below.  
+~
+0 C 1
+0
+~
+I 0 D2
+~
+~
+0 0 14092
+D3
+~
+~
+0 0 14090
+D5
+~
+~
+0 0 14007
+S
+#14092
+0 0
+~
+~
+~
+0 0 0
+Town Wall~
+The eastern wall continues north and south here.  Just to your south, the wall
+crosses over the eastern gate, while to your north, the wall turns westward at
+the northeast corner.  A small staircase there will return you to the streets
+below.  Outside the eastern wall flows a wide lazy river, feeding into the sea
+just to the south.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14091
+D2
+~
+~
+0 0 14093
+S
+#14093
+0 0
+~
+~
+~
+0 0 0
+Above the Eastern Gate~
+You stand above the eastern gate of Merossa.  To your west, you can look
+along the main road to the fountain in the town square, and even further
+off, to the western wall and west gate to town.  Looking outside the wall, a
+sturdy bridge crosses a lazy river that flows south to the sea.  Beyond,
+lies a beautiful jungle and a distant mountain rising high overhead.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14092
+D2
+~
+~
+0 0 14094
+S
+#14094
+0 0
+~
+~
+~
+0 0 0
+Town Wall~
+The eastern wall continues north and south here.  Just to your north, the
+wall crosses over the eastern gate, while to your south, the wall ends where
+it meets the sea.  Outside the eastern wall flows a wide lazy river, feeding
+into the sea just to the south.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14093
+D2
+~
+~
+0 0 14095
+S
+#14095
+0 0
+~
+~
+~
+0 0 0
+Southeast end of the town wall~
+The eastern wall meets the sea and ends in a small parapet overlooking
+the town harbor.  This smoke fills the air and the whole southern part of
+the town appears to be in flames.  Frantic citizans run about trying to
+extinguish the fires, or just trying to escape the pirate onslaught.  Town
+guards rush into battle to try to reclaim the streets.  The sound of killing
+and battle is everywhere.  
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 14094
+S
+#14096
+0 250
+You step into the shadows and find yourself in a secret area!~
+~
+~
+0 0 0
+Shadowy Passage~
+`aA break in the town wall leads to a larger area carved out by someone
+who wanted to keep his presence unknown.  The place seems empty now, but for
+how long?  `` 
+~
+0 AHN 1
+0
+~
+I 0 D1
+~
+~
+0 0 14030
+S
+#14097
+0 0
+You must have nerves of steel cllimbing into the basket of a cocked catapult.~
+~
+~
+0 0 0
+Inside the Basket~
+~
+0 CH 1
+0
+~
+I 0 S
+#14098
+0 0
+~
+~
+~
+0 512 0
+On the roof of the guardhouse~
+When you get your bearings, you realize you have ended up on the
+second-story roof of Merossa's guard house.  Somehow you have survived the
+catapult launch without any major bodily damage, although a quick glance at
+the smashed basket beside you makes you wonder how that was possible.  From
+your vantage point, you can see the village stretching out to your south and
+a little to your east and west as well.  To your north, you can see the town
+wall not far below you.  You could probably even jump down onto it if you
+were so inclined, but there would be no way to get back.  There is also a
+large nest of some sort up here with you.  
+~
+0 C 0
+0
+~
+I 0 S
+#14100
+0 0
+~
+~
+~
+0 0 0
+Jungle Path~
+`cThe jungle lies lush and green all around you.  The small path you are
+on winds its way eastward into the thick and steamy foliage of the jungle. 
+To your west, things thin out and you can see a bridge and hear the sound of
+moving water.  The greenery all around you teems with motion and the sounds
+of life.  Off in the distance, you hear a monkey howl.  You feel a gentle
+wind blow from the south rustling the leaves of the plants and trees and
+bringing with it the smell of salty sea air.  `` 
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 14101
+D3
+~
+~
+0 0 14052
+S
+#14101
+0 0
+~
+~
+~
+0 0 0
+Jungle Path~
+`cThe jungle surrounds you now.  The tiny path you are on disappears into
+the undergrowth to your west and continues northward up a small rise where
+it turns behind a tree and out of sight.  Thick green leaves hang over the
+trail, making it hard to follow at times.  Vibrantly colored flowers emerge
+from jungle vines that droop from the trees above your head.  The canopy
+above you closes in on itself, blocking out the sun, save for streaks of
+light that find their way in as the treetops sway in the breeze, casting
+patterns of light and shadow upon the jungle floor.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 14102
+D3
+~
+~
+0 0 14100
+S
+#14102
+0 0
+~
+~
+~
+0 0 0
+Jungle Path~
+`cYou hear flock of tropical birds fly overhead, but as you look up, you
+cannot see them through the thick overgrowth thirty feet above you.  Water
+drips from leaves high above and steam rises from the plants all around you.
+This humid climate that surrounds you makes the ground spongy and quiet to
+step upon.  The sound of the wind through the trees and the ever-present
+dripping of water onto broad green leaves masks any noise you might make, or
+might hear.  You pause momentarily and look around you, wondering what
+predator might be watching you this very moment from the camouflaged safety
+of the jungle.  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 14103
+D2
+~
+~
+0 0 14101
+S
+#14103
+0 0
+~
+~
+~
+0 0 0
+Jungle Path~
+`cThe gradual incline of the trail you walk is beginning to become more
+evident as you look northward.  To the south, the trail winds and sinks out
+of sight.  The thick jungle still surrounds you, although a broad patch of
+sky off to the north indicates a clearing of sorts in the rainforest canopy.
+You stop in your tracks and look off to the side as you hear the unnatural
+movement of undergrowth that seems to have been caused by something large
+nearby.  What you can see of the ground offers nothing in the way of animal
+tracks, but in an environment such as this, who is to say a hunter must move
+by land?  `` 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 14104
+D2
+~
+~
+0 0 14102
+S
+#14104
+0 0
+~
+~
+~
+0 0 0
+Clearing~
+`cThe jungle abrubtly ends here, allowing you to step out into the open
+and catch your first glimpse of just how high you have travelled.  To your
+west and south, it's still difficult to see over the treetops, but you can
+see the volcano rising up to your north.  A small path disappears into the
+jungle to the south, and continues to wind its way up the volcano to the
+east.  The ground, no longer moist and springy, now crunches beneath your
+feet with a rocky gravel texture.  Smaller shrubs and plants pop up from
+place to place, but nothing as thick or as green as you saw in the jungle
+below.  `` 
+~
+0 C 5
+0
+~
+I 0 D1
+~
+~
+0 0 14105
+D2
+~
+~
+0 0 14103
+S
+#14105
+0 0
+~
+~
+~
+0 0 0
+Rocky Path~
+The thick jungle has given way to more sparse tree with very little
+underbrush as you ascend the mountain.  Looking south, you can see over most
+of the jungle to the bay or Merossa.  Beyond the jungle to the west lies the
+town of Merossa.  To the north, the mountain continues upward, with a small
+path leading both east and west.  No longer enveloped in the rainforest, you
+can feel the mountain air blow against you, bringing the slightest hint of a
+chill to you.  
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 14106
+D3
+~
+~
+0 0 14104
+S
+#14106
+0 0
+~
+~
+~
+0 0 0
+Rocky Path~
+The rocky path crunches beneath your feet as you walk along.  Stopping to
+survey your surroundings, the higher elevation offers a beautiful view of
+the bay to the south.  The path you walk continues up the mountain to the
+east and westward down into the jungle at the base of the mountain.  The top
+of the mountain lies high above and to the north.  
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 14107
+D3
+~
+~
+0 0 14105
+S
+#14107
+0 0
+~
+~
+~
+0 0 0
+Rocky Path~
+The path through the trees makes a sharp turn to the north, where it
+leads up steeply before turning and levelling off.  The last of the tropical
+trees gives way to conifers.  The thick broad-leafed jungle plants have a
+hard time surviving at the higher altitudes.  Large rocks and boulders dot
+the landscape and the path you walk becomes less worn and starts to resemble
+an animal trail.  
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 14108
+D3
+~
+~
+0 0 14106
+S
+#14108
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The winding trail you walk curves once more to the west and to the south
+as you journey high into the mountains.  The evergreen trees become
+infrequent at the higher altitudes.  Looking around, you can follow the
+trail downward with your eyes winding into the jungle far below.  The
+solitude of the moment is broken by the distant scream of an eagle circling
+high overhead, signalling an event your eyes cannot see.  
+~
+0 0 5
+0
+~
+I 0 D2
+~
+~
+0 0 14107
+D3
+~
+~
+0 0 14109
+S
+#14109
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+A bend in the trail forces your to move around a particularly large
+boulder, which has settled in your path.  The huge rock has been worn smooth
+by eons of wind and rain and the changing seasons.  Circling the boulder,
+the path leads off to the east and to the west.  
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 14108
+D3
+~
+~
+0 0 14110
+S
+#14110
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+Another turn in the trail puts you face to face with a large fissure
+leaking smoke from the side of the mountain like a wound carved into the
+body of a massive beast.  The trail turns sharply to the north here to avoid
+the fissure, and continues down the mountain to the east as well.  
+~
+0 0 5
+0
+~
+I 0 E
+fissure~
+`hThe fissure is a deep crack in the surface of the mountain.  Smoke
+issues from the opening and you can feel a slight heat radiating from within
+as well.  It is wide enough to climb into, were you so inclined, but there's
+no telling how far down it goes or where it leads, and you would certainly
+have no way back out.  `` 
+~
+D0
+~
+~
+0 0 14111
+D1
+~
+~
+0 0 14109
+S
+#14111
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The trail becomes steeper here, as the plants and trees thin out, giving
+way to sparser shrubs and low-growing thorny briars.  The trail leads you
+onward with semi-fresh footprints of animal and humanoid to follow.  The
+trail has been travelled recently and the travellers made no attempt to
+disguise their movement.  
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 14112
+D2
+~
+~
+0 0 14110
+S
+#14112
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The grade evens a little here, and you find yourself standing on a small
+plateau midway up the mountain.  The trail continues downward to the south
+and to the east there is a break in the side of the mountain some distance
+away--perhaps a cave.  
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 14113
+D2
+~
+~
+0 0 14111
+S
+#14113
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+This part of the trail is a refreshing break from the rugged climb you
+had been forced to make to reach this point.  The ground is nearly level
+here and a pleasant sea breeze blows constantly from the south.  The trail
+runs west and east from this point, with the more itneresting landmarks
+being to the east, where the mountain rises high above and a split in the
+wall looks large enough to enter.  
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 14114
+D3
+~
+~
+0 0 14112
+S
+#14114
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The incline levels off a bit here, as you have reached a small plateau. 
+The winding trail splits here, with one fork continuing up the mountain and
+another trail leading east into a small cave.  A wider trail leads down the
+mountain to the west.  
+~
+0 CN 5
+0
+~
+I 0 D0
+~
+~
+0 0 14115
+D1
+~
+~
+0 0 14127
+D3
+~
+~
+0 0 14113
+S
+#14115
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The grade of the trail gets even steper as you approach what appears to
+be the summit of the mountain.  There are only a few scraggly plants that
+can survive at this high altitude and none of them grow more than a few
+inches above the ground.  The mountain trail leads north and south.  
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 14116
+D2
+~
+~
+0 0 14114
+S
+#14116
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The grade of the trail gets even steper as you approach what appears to
+be the summit of the mountain.  There are only a few scraggly plants that
+can survive at this high altitude and none of them grow more than a few
+inches above the ground.  The mountain trail leads west and south.  
+~
+0 N 5
+0
+~
+I 0 D2
+~
+~
+0 0 14115
+D3
+~
+~
+0 0 14117
+S
+#14117
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The grade of the trail gets even steper as you approach what appears to
+be the summit of the mountain.  There are only a few scraggly plants that
+can survive at this high altitude and none of them grow more than a few
+inches above the ground.  The mountain trail leads west and east.  
+~
+0 N 5
+0
+~
+I 0 D1
+~
+~
+0 0 14116
+D3
+~
+~
+0 0 14118
+S
+#14118
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The grade of the trail gets even steper as you approach what appears to be
+the summit of the mountain.  There are only a few scraggly plants that can
+survive at this high altitude and none of them grow more than a few inches
+above the ground.  The mountain trail leads north and east.
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 14119
+D1
+~
+~
+0 0 14117
+S
+#14119
+0 0
+~
+~
+~
+0 0 0
+Mountain Trail~
+The grade of the trail gets even steper as you approach what appears to b
+the summit of the mountain.  There are only a few scraggly plants that can
+survive at this high altitude and none of them grow more than a few inches
+above the ground.  The mountain trail leads north and south.  
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 14120
+D2
+~
+~
+0 0 14118
+S
+#14120
+0 0
+~
+~
+~
+0 0 0
+Plateau~
+You've done it!  You have reached the summit of this mountain.  Gazing
+westward, you can see this mountain is actually a dormant volcano and the
+crater in the center has become a lake.  The frigid water is crystal-clear,
+allowing you to see down a hundred feet to the floor of the lake far below. 
+To the south, a small trail winds down the mountain and out of sight.  
+~
+0 N 5
+0
+~
+I 0 D2
+~
+~
+0 0 14119
+D3
+~
+~
+0 0 14121
+S
+#14121
+0 0
+~
+~
+~
+0 0 0
+Along the crater~
+The path has reached the apex of the mountain.  Below, lies a massive
+bowl crater with crystal lake in the middle.  A small path winds down the
+inside lip of the crater to your north, while a trail works its way eastward
+along the top of the mountain.  
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 14122
+D1
+~
+~
+0 0 14120
+S
+#14122
+0 0
+~
+~
+~
+0 0 0
+Along the crater~
+Halfway between the lake and the top of the crater bowl, the rocky path
+continues to descend to the north, while leading up to the top to your
+south.  A chill wind blows constantly here making the waves on the surface
+of the lake ripple, reflecting the the light of the sun and moon like a
+million tiny mirrors.  
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 14123
+D2
+~
+~
+0 0 14121
+S
+#14123
+0 0
+~
+~
+~
+0 0 0
+Along the crater~
+A steep rise to the north causes the path to turn westward as it nears
+the surface of the crater lake.  Small plants can be seen popping up through
+the rocky soil all around, drawing what nutrients they can from the
+life-giving waters of the lake.  The same path continues southward as well,
+up the lip of the crater.  
+~
+0 N 5
+0
+~
+I 0 D2
+~
+~
+0 0 14122
+D3
+~
+~
+0 0 14124
+S
+#14124
+0 0
+~
+~
+~
+0 0 0
+Lakeside along the crater~
+Waters lap gently against the rocky beach of the lake inside the massive
+bowl of the crater at the top of this mountain.  Few plants grow in the
+rocky soil here, and the ones that do are small and near the ground.  The
+water is cold and clear, allowing you to see down what appears to be at
+least fifty feet, which means that it's probably twice that at least.  The
+rocky beach continues to the north and to the south.  If you dare, you may
+plunge into the icy waters below.  A small path climbs up the lip of the
+crater to your east as well.  
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 14126
+D1
+~
+~
+0 0 14123
+D2
+~
+~
+0 0 14125
+D5
+~
+~
+0 0 14156
+S
+#14125
+0 0
+~
+~
+~
+0 0 0
+Lakeside along the crater~
+Waters lap gently against the rocky beach of the lake inside the massive
+bowl of the crater at the top of this mountain.  Few plants grow in the
+rocky soil here, and the ones that do are small and near the ground.  The
+water is cold and clear, allowing you to see down what appears to be at
+least fifty feet, which means that it's probably twice that at least.  Large
+boulders and overgrowth block your advance to the south, but you can
+continue north, or plunge into the icy waves below.  
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 14124
+S
+#14126
+0 0
+~
+~
+~
+0 0 0
+Lakeside along the crater~
+Waters lap gently against the rocky beach of the lake inside the massive
+bowl of the crater at the top of this mountain.  Few plants grow in the
+rocky soil here, and the ones that do are small and near the ground.  The
+water is cold and clear, allowing you to see down what appears to be at
+least fifty feet, which means that it's probably twice that at least.  Large
+boulders and overgrowth block your advance to the north, but you can
+continue south, or plunge into the icy waves below.  
+~
+0 N 5
+0
+~
+I 0 D2
+~
+~
+0 0 14124
+D5
+~
+~
+0 0 14157
+S
+#14127
+0 0
+~
+~
+~
+0 0 0
+Cave~
+As you step into the cave, the acoustics around you change abruptly.  The
+sound of the wind whistling through the trees dies off and is replaced by that
+of your footsteps crunching on the loose broken stone, the ubiquitous drip of
+water and the occasional squeak of a distant bat.  You can step back outside
+to your west, or continue inward to the east.
+~
+0 ABDN 18
+0
+~
+I 0 D1
+~
+~
+0 0 14128
+D3
+~
+~
+0 0 14114
+S
+#14128
+0 0
+~
+~
+~
+0 0 0
+Mountain Cave~
+You are now a good distance beyond the entrance to the cave and the outside
+light is minimal at best.  Impressive stalagmites rise from the ground, their
+slippery grey surfaces reflecting the persistence of time in this unchanging
+environment.  The cave turns slightly here, allowing you to return westward
+towards the entrance, or to continue into the belly of the cave to your south.
+~
+0 ABDN 18
+0
+~
+I 0 D2
+~
+~
+0 0 14129
+D3
+~
+~
+0 0 14127
+S
+#14129
+0 0
+~
+~
+~
+0 0 0
+Mountain Cave~
+Moisture hangs heavily in the air here as you look around you.  The cave walls
+are covered with crystals and grey sloping mineral flows, residue from eons
+of water drops passing over the glassy surface.  From the ceiling hang dozens
+of stalactites, some of them thicker than you and longer than you are tall.
+Others are so fragile, they would break if you breathed on them.  The cavern
+continues north and south, and splits off to the east as well.
+~
+0 ABDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14128
+D1
+~
+~
+0 0 14137
+D2
+~
+~
+0 0 14130
+S
+#14130
+0 0
+~
+~
+~
+0 0 0
+Tiny Cave~
+The cave constricts towards the south into a very small opening.  As you
+approach the hole, you feel the movement of air coming through.  Hundreds
+of bats roost above your head, their bodies turning the grey ceiling into a
+writhing dark brown mass above your head.  No natural light can be detected
+this far into the cave and the flickering of your own light gives you pause
+to reflect on how life would be in total darkness.
+~
+0 ABCDNX 18
+0
+~
+I 0 D0
+~
+~
+0 0 14129
+D2
+~
+~
+0 0 14131
+S
+#14131
+0 0
+~
+~
+~
+0 512 0
+Tiny Cave~
+The cave continues north and east through the very small opening.  As you
+approach the hole, you feel the movement of air coming through.  Hundreds of
+bats roost above your head, their bodies turning the grey ceiling into a
+writhing dark brown mass above your head.  No natural light can be detected
+this far into the cave and the flickering of your own light gives you pause
+to reflect on how life would be in total darkness.  
+~
+0 ABDNX 18
+0
+~
+I 0 D0
+~
+~
+0 0 14130
+D1
+~
+~
+0 0 14132
+S
+#14132
+0 0
+~
+~
+~
+0 512 0
+Tiny Cave~
+The cave continues north and west through the very small opening.  As you
+approach the hole, you feel the movement of air coming through.  Hundreds of
+bats roost above your head, their bodies turning the grey ceiling into a
+writhing dark brown mass above your head.  No natural light can be detected
+this far into the cave and the flickering of your own light gives you pause
+to reflect on how life would be in total darkness.  
+~
+0 ABDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14133
+D3
+~
+~
+0 0 14131
+S
+#14133
+0 0
+~
+~
+~
+0 512 0
+Tight Squeeze~
+The cave continues south and east through the very small opening.  As you
+approach the hole, you feel the movement of air coming through.  Hundreds of
+bats roost above your head, their bodies turning the grey ceiling into a
+writhing dark brown mass above your head.  No natural light can be detected
+this far into the cave and the flickering of your own light gives you pause
+to reflect on how life would be in total darkness.  
+~
+0 ABDJNX 18
+0
+~
+I 0 D1
+~
+~
+0 0 14134
+D2
+~
+~
+0 0 14132
+S
+#14134
+0 0
+~
+~
+~
+0 512 0
+Tight Squeeze~
+The cave continues south and west through the very small opening.  As you
+approach the hole, you feel the movement of air coming through.  Hundreds of
+bats roost above your head, their bodies turning the grey ceiling into a
+writhing dark brown mass above your head.  No natural light can be detected
+this far into the cave and the flickering of your own light gives you pause
+to reflect on how life would be in total darkness.  
+~
+0 ABDJN 18
+0
+~
+I 0 D2
+~
+~
+0 0 14135
+D3
+~
+~
+0 0 14133
+S
+#14135
+0 0
+~
+~
+~
+0 512 0
+Widening Cavern~
+The cavern widens a little to the south, although not a large opening by
+any means.  The flicker of torches to your south throws long shadows on the
+walls of the cave and the unknown babbling of some semi-intelligent
+creatures breaks the silence around you.  Should you turn back before you
+are detected, or do you dare press your advantage with the element of
+surprise?  
+~
+0 ABDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14134
+D2
+~
+~
+0 0 14136
+S
+#14136
+0 0
+~
+~
+~
+0 512 0
+Goblin Throne Room~
+The tunnel ends in a modest-sized chamber, which has evidently become the
+base of operations for a small group of goblins.  Garbage and random refuse
+has been scattered around the room amid broken pieces of armor and weaponry
+and bones of the creatres' last meals.  A discarded house chair has been
+positioned in a prominent position in the center of the room, ostensibly as
+a throne.  
+~
+0 ABCDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14135
+S
+#14137
+0 0
+~
+~
+~
+0 0 0
+Warm Cave~
+As you round this corner, you notice a somewhat abrupt change.  The air in
+this part of the cave is much drier.  There are no formations in this part
+of the cave and the walls are much smoother and more round in general.  To
+the west, the cavern resumes the more traditional look of a cave, while to
+the east, the featureless smoth tube-like cavern continues.
+~
+0 ABDN 18
+0
+~
+I 0 D1
+~
+~
+0 0 14138
+D3
+~
+~
+0 0 14129
+S
+#14138
+0 0
+~
+~
+~
+0 0 0
+Warm Cave~
+Your surroundings look wholly unnatural as you glance around you.  You are
+standing, not in a cave as you would imagine, but in a featureless black
+tubelike cavern.  The walls are black and glassy and almost unbroken in
+their featureless continuity.  You can continue onward to the north and
+to the west.
+~
+0 ABDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14139
+D3
+~
+~
+0 0 14137
+S
+#14139
+0 0
+~
+~
+~
+0 0 0
+Warm Cave~
+The otherworldliness of the cavern is bisected abruptly by a very unnatural
+man-made brick and mortar wall which has been put up across the cavern,
+effectively blocking all access through.  A single featureless door would
+potentially allow access through.  A sign is posted on the wall beside the
+door stating its intentions in no uncertain terms.
+~
+0 ABDNb 18
+0
+~
+I 0 D0
+~
+door~
+4193 14102 14140
+D2
+~
+~
+0 0 14138
+S
+#14140
+0 0
+~
+~
+~
+0 0 0
+Sulphur Cave~
+To your south, a man-made wall has been erected to completely block the
+passage, save for the door located in the middle of the wall.  As you look
+around, you see the glassy black featureless walls lead due north into the
+darkness beyond the range of your light.  This part of the cavern feels
+noticeably warmer as well.
+~
+0 ABDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14141
+D2
+~
+door~
+4193 14102 14139
+S
+#14141
+0 0
+~
+~
+~
+0 0 0
+Sulphur Cave~
+You stand in a perfectly round featureless black tubular cavern which seems
+to stretch unbroken and unchanging off into darkness both to your north and
+to your south.  This unending moebius is interrupted only by the warm breeze
+which blows from the north, bringing with it a stench of sulphur.  You feel
+as though you are descending into the very pits of hell itself.
+~
+0 ABDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14142
+D2
+~
+~
+0 0 14140
+S
+#14142
+0 0
+~
+~
+~
+0 0 0
+Sulphur Cave~
+The unbroken tube continues to the north and the south.  Nothing seems to
+have changed and you wonder if you are making any progress.  The smell of
+sulphur hangs strong in the air and you feel the faintest tremble in the
+floor of the cave around you occasionally.  Maybe it's just your mind at
+play in the sensory deprivation of this unending tunnel.
+~
+0 ABDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14143
+D2
+~
+~
+0 0 14141
+S
+#14143
+0 0
+~
+~
+~
+0 0 0
+Sulphur Cave~
+The smell of sulphur is very strong now.  The glassy wall of the cave tube
+is broken in several places where strong tremors have shaken pieces loose.
+To your north, you can detect a faint red glow in the distance.  To the
+south, you see only darknes as the tunnel stretches off into infinity in a
+perfect cylinder.  The ground shakes beheath your feet, not violently enough
+to throw you, but enough to make you take stock of your surroundings.
+~
+0 ABDN 18
+0
+~
+I 0 D0
+~
+~
+0 0 14144
+D2
+~
+~
+0 0 14142
+S
+#14144
+0 0
+~
+~
+~
+0 0 0
+Sulphur Cave~
+As you look westward, the lava tube opens into a giant underground cave. 
+The entire cavern glows yellow from the bubbling lake of lava below.  A thin
+bridge of stone leads west over the lake to a rocky island of sorts in the
+center of the lake.  Thick plumes of sulpherous steam make it very difficult
+to breathe in here and almost impossible to see what lies beyond the bridge.
+~
+0 ABDN 18
+0
+~
+H90
+I 0 M90
+D2
+~
+~
+0 0 14143
+D3
+~
+~
+0 0 14145
+S
+#14145
+0 0
+~
+~
+~
+0 0 0
+Bridge over Lake of `iFire``~
+Shades of yellow and red swim before your eyes and heat shimmer bends the
+lines of the small stone bridge you stand on.  All around, the lake of fire
+spreads as though you have left reality behind and stepped into the gate of
+hell itself.  You may turn back now, and head east towards an opening in the
+rock that offers protection from the intense heat that bathes you and makes
+your armor burn your flesh.  To the west lies an island in the middle of the
+lake of fire.  The bridge ends abruptly, but you could probably make the
+jump to the island, although you would have to find a different way off of
+it.  The island is mostly shrouded in a haze that makes it impossible to see
+what is inside.  
+~
+0 BDN 18
+0
+~
+H90
+I 0 M90
+D1
+~
+~
+0 0 14144
+D3
+~
+~
+0 0 14146
+S
+#14146
+0 0
+~
+~
+~
+0 576 0
+Dragon's Lair~
+A thick smoky haze makes visibility difficult on this rocky island.  To
+the east lies an almost unending sea of fire and lava.  The only choice one
+has is to go west into the smoke.  Taking stock of your options, you notice
+deep scratches in the rock all around you, as though wagonwheels have left
+an indellible impression in fresh mud.  Your attention is broken by feel of
+air moving about you and swirls in the mist.  You are not alone.  
+~
+0 ABDNb 18
+0
+~
+H80
+I 0 M80
+D3
+~
+~
+0 0 14147
+S
+#14147
+0 0
+~
+~
+~
+0 576 0
+Dragon's Lair~
+The haze is so thick here you can barely see your hand held out in front
+of you.  Noises in all directions play with your senses and the ever-present
+heat wears away at your body and mind.  Surely nothing would choose to live
+in this environment.  Therefore either nothing is here, or whatever is, was
+put here against its will.  A low growl reminds you that now it not the time
+nor the place for introspection.  
+~
+0 ABDNb 18
+0
+~
+H80
+I 0 M80
+D0
+~
+~
+0 0 14148
+D1
+~
+~
+0 0 14146
+D2
+~
+~
+0 0 14149
+D3
+~
+~
+0 0 14150
+S
+#14148
+0 0
+~
+~
+~
+0 576 0
+Dragon's Lair~
+A thick smoky haze makes visibility difficult on this rocky island.  To
+the north lies an almost unending sea of fire and lava.  The only choice one
+has is to go south into the smoke.  Taking stock of your options, you notice
+deep scratches in the rock all around you, as though wagonwheels have left
+an indellible impression in fresh mud.  Your attention is broken by feel of
+air moving about you and swirls in the mist.  You are not alone.  
+~
+0 ABDNb 18
+0
+~
+H80
+I 0 M80
+D2
+~
+~
+0 0 14147
+S
+#14149
+0 0
+~
+~
+~
+0 576 0
+Dragon's Lair~
+A thick smoky haze makes visibility difficult on this rocky island.  To
+the south lies an almost unending sea of fire and lava.  The only choice one
+has is to go north into the smoke.  Taking stock of your options, you notice
+deep scratches in the rock all around you, as though wagonwheels have left
+an indellible impression in fresh mud.  Your attention is broken by feel of
+air moving about you and swirls in the mist.  You are not alone.  
+~
+0 ABDNb 18
+0
+~
+H80
+I 0 M80
+D0
+~
+~
+0 0 14147
+S
+#14150
+0 0
+~
+~
+~
+0 576 0
+Dragon's Lair~
+A thick smoky haze makes visibility difficult on this rocky island.  To
+the west lies an almost unending sea of fire and lava.  The only choice one
+has is to go east into the smoke.  Taking stock of your options, you notice
+deep scratches in the rock all around you, as though wagonwheels have left
+an indellible impression in fresh mud.  Your attention is broken by feel of
+air moving about you and swirls in the mist.  You are not alone.  
+~
+0 ABDNb 18
+0
+~
+H80
+I 0 M80
+D1
+~
+~
+0 0 14147
+S
+#14151
+0 0
+~
+~
+~
+0 0 0
+Tiny Underwater Cave~
+~
+0 ADN 0
+0
+~
+I 0 D3
+~
+~
+0 0 14152
+S
+#14152
+0 0
+~
+~
+~
+0 0 0
+Bottom of the Lake~
+Even at over a hundred feet below the surface, the crystal clear waters
+allow bright sunlight to play games with light and shadow upon the brown and
+green bottom of the lake.  Looking up, it's hard to discern exactly where
+the water stops and the sky begins.  A glint in the corner of your eye
+entices you to swim over and examine what turns out to be a chest, mostly
+buried in the sand.  
+~
+0 N 11
+0
+~
+I 0 D4
+~
+~
+0 0 14153
+S
+#14153
+0 0
+~
+~
+~
+0 0 0
+Under the Crater lake~
+Swimming around underwater, the lake spreads out in all directions almost
+invisibly, giving you the appearance of swimming in nothing, save for the
+frigid reminder that clings to your body at all times.  You know it's
+dangerous to stay in these waters for more than a few minutes at a time, and
+you can already feel your muscles tightening, struggling to function as the
+life-giving warmth is drawn away.  
+~
+0 N 11
+0
+~
+I 0 D4
+~
+~
+0 0 14154
+D5
+~
+~
+0 0 14152
+S
+#14154
+0 0
+~
+~
+~
+0 0 0
+Under the Crater lake~
+Swimming around underwater, the lake spreads out in all directions almost
+invisibly, giving you the appearance of swimming in nothing, save for the
+frigid reminder that clings to your body at all times.  You know it's
+dangerous to stay in these waters for more than a few minutes at a time, and
+you can already feel your muscles tightening, struggling to function as the
+life-giving warmth is drawn away.  
+~
+0 N 11
+0
+~
+I 0 D4
+~
+~
+0 0 14155
+D5
+~
+~
+0 0 14153
+S
+#14155
+0 0
+~
+~
+~
+0 0 0
+Surface of the Crater Lake~
+The crystal waters are feel as cold as ice, and are probably only a few
+degrees above it.  Looking into the depths, distance is immeasurable.  It
+seems like you can see a hundred feet below you, though you know it must be
+four times that.  Fish swim all around, keeping a safe distance, yet
+straying close enough to satisfy curiosity.  Was that a sparkle you saw far,
+far below on the bed of the lake?  
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 14158
+D1
+~
+~
+0 0 14156
+D5
+~
+~
+0 0 14154
+S
+#14156
+0 0
+~
+~
+~
+0 0 0
+Surface of the Crater Lake~
+The crystal waters are feel as cold as ice, and are probably only a few
+degrees above it.  Looking into the depths, distance is immeasurable.  It
+seems like you can see a hundred feet below you, though you know it must be
+four times that.  Fish swim all around, keeping a safe distance, yet
+straying close enough to satisfy curiosity.  Was that a sparkle you saw far,
+far below on the bed of the lake?  
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 14157
+D3
+~
+~
+0 0 14155
+D4
+~
+~
+0 0 14124
+S
+#14157
+0 0
+~
+~
+~
+0 0 0
+Surface of the Crater Lake~
+The crystal waters are feel as cold as ice, and are probably only a few
+degrees above it.  Looking into the depths, distance is immeasurable.  It
+seems like you can see a hundred feet below you, though you know it must be
+four times that.  Fish swim all around, keeping a safe distance, yet
+straying close enough to satisfy curiosity.  Was that a sparkle you saw far,
+far below on the bed of the lake?  
+~
+0 N 7
+0
+~
+I 0 D2
+~
+~
+0 0 14156
+D3
+~
+~
+0 0 14158
+D4
+~
+~
+0 0 14126
+S
+#14158
+0 0
+~
+~
+~
+0 0 0
+Surface of the Crater Lake~
+The crystal waters are feel as cold as ice, and are probably only a few
+degrees above it.  Looking into the depths, distance is immeasurable.  It
+seems like you can see a hundred feet below you, though you know it must be
+four times that.  Fish swim all around, keeping a safe distance, yet
+straying close enough to satisfy curiosity.  Was that a sparkle you saw far,
+far below on the bed of the lake?  
+~
+0 N 7
+0
+~
+I 0 D1
+~
+~
+0 0 14157
+D2
+~
+~
+0 0 14155
+S
+#0
+
+#RESETS
+D 0 14004   0    2	* Northern Gate of Merossa [north]
+D 0 14060   2    2	* Well-beaten path [south]
+M 0 14001   1 14020  1	* The paladin
+D 0 14053   1    0	* Outside the Western gate of Merossa [east]
+D 0 14019   3    0	* Western Gate of Merossa [west]
+O 0 14001   0 14034 -1	* A spreading fire at Burning Tavern
+M 0 14004   1 14011  1	* The priest
+M 0 14005   2 14027  1	* A citizen
+O 0 14003   0 14046 -1	* The galleon '`icrimson``' at Pier
+M 0 14002  10 14070  1	* A pirate raider
+O 0 14002   0 14022 -1	* The corpse of a citizen at Town Square
+O 0 14000   0 14022 -1	* A bloodstained fountain at Town Square
+O 0 14004   0 14009 -1	* A headless corpse at Warrior Guildmaster's Home
+O 0 14005   0 14009 -1	* The corpse of a pirate at Warrior Guildmaster's Home
+O 0 14006   0 14009 -1	* A cleaved corpse at Warrior Guildmaster's Home
+O 0 14007   0 14009 -1	* A bloody corpse at Warrior Guildmaster's Home
+M 0 14008   1 14000  1	* The prisoner
+M 0 14007   1 14009  1	* `hvanden darkblade``
+E 0 14008   -1   11	* item to `hvanden darkblade``
+E 0 14009   -1   16	* item to `hvanden darkblade``
+M 0 14102   1 14111  2	* A marmot
+M 0 14103   1 14118  1	* A mountain lion
+M 0 14104   1 14125  1	* A grizzly bear
+M 0 14108   1 14120  2	* A mountain goat
+M 0 14106   1 14136  1	* Bonebreak
+E 0 14102   -1   18	* item to Bonebreak
+O 0 14104   0 14136 -1	* A shabby throne at Goblin Throne Room
+D 0 14140   2    2	* Sulphur Cave [south]
+D 0 14139   0    2	* Warm Cave [north]
+O 0 14010   0 14028 -1	* A well-used anvil at Boarded-up Armory
+D 0 14028   0    0	* Boarded-up Armory [north]
+D 0 14023   2    0	* Main Street [south]
+O 0 14012   0 14139 -1	* A sign at Warm Cave
+O 0 14013   0 14000 -1	* A plain bench at Jail Cell
+D 0 14014   4    2	* Town Jail [up]
+O 0 14096   0 14030 -1	* The shadow at Church Street
+O 0 14095   0 14071 -1	* The catapult at Foredeck of the `iCrimson``
+O 0 14093   0 14071 -1	* The catapult at Foredeck of the `iCrimson``
+M 0 14002  10 14077  1	* A pirate raider
+M 0 14000   1 14008  1	* Captain tylor
+E 0 14015   -1   18	* item to Captain tylor
+D 0 14000   5    2	* Jail Cell [down]
+O 0 14114   0 14110 -1	* The fissure at Mountain Trail
+M 0 14003  10 14008 10	* The town guard
+M 0 14002  12 14046 10	* A pirate raider
+M 0 14010   1 14050  1	* The medic of the town guard
+O 0 14018   0 14098 -1	* Nothing at On the roof of the guardhouse
+M 0 14013   1 14012  1	* A little girl
+M 0 14012   1 14098  1	* A scared kitten
+E 0 14020   -1    3	* item to A scared kitten
+D 0 14037   0    2	* Harbor Street [north]
+M 0 14014   6 14084  1	* The sentry guard
+M 0 14014   6 14081  1	* The sentry guard
+M 0 14014   6 14086  1	* The sentry guard
+M 0 14014   6 14090  1	* The sentry guard
+M 0 14014   6 14092  1	* The sentry guard
+M 0 14014   6 14095  1	* The sentry guard
+M 0 14009   1 14028  1	* Verris
+E 0 14022   -1   12	* item to Verris
+E 0 14019   -1   18	* item to Verris
+E 0 14023   -1   16	* item to Verris
+O 0 14101   0 14150 -1	* A misty portal at Dragon's Lair
+M 0 14011   1 14046  1	* A voodoo priest
+E 0 14016   -1    3	* item to A voodoo priest
+E 0 14017   -1   16	* item to A voodoo priest
+E 0 14025   -1   18	* item to A voodoo priest
+O 0 14105   0 14152 -1	* A wooden chest at Bottom of the Lake
+P 0 14027 1 14105 1
+M 0 14006   1 14079  1	* The pirate king
+M 0 14015   1 14022  1	* A seagull
+M 0 14105   2 14132  1	* A goblin warrior
+E 0 14103   -1   16	* item to A goblin warrior
+M 0 14105   2 14135  1	* A goblin warrior
+E 0 14103   -1   16	* item to A goblin warrior
+O 0 14024   0 14033 1	* `da malevolent `bred `dpommel`` at A small seaside cottage
+M 0 14109   1 14145  1	* `ka fire elemental``
+O 0 14115   0 14111 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14110 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14109 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14112 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14113 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14114 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14115 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14116 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14117 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14118 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14119 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14120 -1	* The rumbling volcano at Plateau
+O 0 14115   0 14108 -1	* The rumbling volcano at Mountain Trail
+O 0 14115   0 14107 -1	* The rumbling volcano at Rocky Path
+O 0 14115   0 14106 -1	* The rumbling volcano at Rocky Path
+O 0 14115   0 14105 -1	* The rumbling volcano at Rocky Path
+O 0 14116   0 14144 -1	* `bdharkkum`` at Sulphur Cave
+O 0 14117   0 14140 -1	* A hidden trap at Sulphur Cave
+M 0 14101   1 14147  1	* `idharkkum``
+E 0 14011   -1   12	* item to `idharkkum``
+E 0 14112   -1    8	* item to `idharkkum``
+G 0 14118 -1		* `ha small `ngem `hentrapping `idharkkums `hsoul`` to `iDharkkum``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 14006 spec_nasty		* The pirate king
+M 14010 spec_cast_cleric		* The medic of the town guard
+M 14011 spec_cast_cleric		* A voodoo priest
+M 14101 spec_breath_fire		* `iDharkkum``
+M 14107 spec_cast_undead		* The Skeletal Warrior
+M 14109 spec_breath_fire		* `ka fire elemental``
+S
+
+#OT
+#14000
+Merossa Fountain~
+$on_tick~
+536870912
+71
+`hSmoke drifts into the square from the south.``~
+50
+5
+`hYou hear a blood-curdling scream from off to the east.``~
+50
+15
+force tylor yell Guards!  We need reinforcements on the west side!~
+50
+25
+force msentry yell Pirates attacking the town square!  Guards!~
+50
+35
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#14001
+`iCrackling flames in the burning building``~
+$on_tick~
+536870912
+71
+`iThe fire crackles and snaps as it slowly consumes the building.``~
+50
+0
+`iThe fire crackles and snaps as it slowly consumes the building.``~
+50
+10
+`iThe fire crackles and snaps as it slowly consumes the building.``~
+50
+20
+`iThe fire crackles and snaps as it slowly consumes the building.``~
+50
+30
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#14115
+rumbling volcano~
+$entersroom~
+1
+127
+echo `hThe ground lurches as a deep rumbling sound comes from within the mountain.``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+8
+#14116
+`kMerossa -`h Dharkkum kill check``~
+$entersroom~
+1
+68
+immtalk `bLooks like`k $name`b is about to attack me``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

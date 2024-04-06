@@ -1,0 +1,2928 @@
+#AREA
+ 6~
+babel.are~
+`o|`k| `oThe Tower of Babel `k|`o|``~
+{ 1 10} Duiwel  `o|`k| `oThe Tower of Babel `k|`o|``~
+~
+8200 8699
+0 BG 0
+0 0
+~
+#MOBILES
+#8200
+angel seraph winged~
+`hA Winged Seraph``~
+`hA winged seraph stands here surrounded by `kholy`h light.``
+~
+The miraculous sight of this angel is astonishing to behold.  Golden hair
+trinkles down her shoulders and falls serenely at her feet.  She wears robes
+of the brightest white, almost blinding to the eyes.  Her wings span all
+around her, entrapping her in their feathery fortress.  A golden light
+shines down upon her.  Who could destroy a woman so beautiful?  
+~
+human~
+0 0 0 0
+AB HNTV 100 0
+90 50 100d10+10000 0d0+0 50d50+20 divine
+20 20 20 999 20
+ADZa 60 6 0 CNP BIS HM
+stand stand female 100000
+AHMV ABCDEFGHIJKMPQZa 25 25 25 25 25 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#8201
+saint babel~
+`hThe `nSaint`h of Babel``~
+`hThe leader `nsaint `hof Babel kneels here.``
+~
+~
+human~
+0 0 0 0
+AB H 0 0
+100 100 500d20+5000 500d20+5000 50d2+20 none
+0 0 0 999 0
+DRZ 0 0 BENc D H
+stand stand male 5000
+AHMV ABCDEFGHIJKWa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#8202
+angry saint babel~
+`hAn `iAngry `nSaint `hof Babel``~
+`hThe leader `nsaint `hof Babel kneels here.``
+~
+~
+human~
+0 0 0 0
+AB HV 0 0
+100 120 500d40+5000 500d20+5000 50d15+75 none
+-50 -50 -50 999 -50
+DZ 60 10 0 BCENc DEL H
+stand stand male 5000
+AHMV ABCDEFGHIJKWa 25 25 25 25 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#8203
+priest~
+`hA `kHoly `hPriest``~
+`hA `kholy `hpriest of babel wanders the halls.``
+~
+~
+human~
+0 0 0 0
+AF DFH 1000 0
+80 100 500d2+1000 500d2+1000 50d3+50 none
+-20 -20 -20 999 -20
+0 60 4 0 0 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKa 25 25 10 25 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#8204
+statue~
+`hA Large `kGolden `hStatue``~
+`ha living statue trudges around.``
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+100 0 100d100+1000 0d0+0 0d0+0 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#8200
+holy presence ~
+`hA `kHoly `hPresence``~
+A beam of `ksunlight`` pours onto the ground.~
+energy~
+0
+armor 2
+KLS
+0
+AQ
+BH
+ABDEF
+0
+8200
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+100 0 0 P
+A
+18 3
+A
+19 3
+A
+24 -3
+A
+12 15
+#8201
+angel ot~
+angel OT~
+Angel OT~
+unknown~
+0
+trash 2
+S
+E
+0
+0
+0
+0
+8201
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#8202
+key~
+`hA Key to `o|`k|`o The Tower of Babel `k|`o| `hLevel II``~
+A key lies here.~
+unknown~
+0
+key 2
+SU
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#8203
+chest glowing~
+`eA `lGlowing `eChest``~
+`eA `lglowing `echest`h rests on the ground here.``~
+unknown~
+0
+container 2
+FS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD ABCDF CDN BD AC
+0
+0
+0 0 0 P
+#8204
+glowing key~
+`eA `lGlowing `eKey``~
+A key lies here.~
+unknown~
+0
+key 2
+SU
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#8205
+saint ot~
+Saint OT~
+Saint OT~
+unknown~
+0
+trash 2
+S
+E
+0
+0
+0
+0
+8205
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#8206
+brass key pullkey~
+`eA `lGlowing `eKey `hhanging from A Large `kBrass `hHoop``~
+A large brass key dangling from hoop lies here.~
+unknown~
+0
+trash 2
+SUa
+0
+A
+0
+0
+0
+8206
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#8207
+brass hoop~
+`hA Large `kBrass `hHoop``~
+A large brass hoop lies here.~
+unknown~
+0
+armor 2
+MSZ
+0
+AC
+BH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AE AE AE AE 0
+0
+0
+100 0 0 P
+A
+13 25
+A
+18 7
+A
+19 7
+#8208
+spirit replenishment~
+`hThe Spirit of `nReplenishment``~
+A heavenly spirit floats serenely here.~
+unknown~
+0
+armor 2
+S
+H
+AQ
+B
+0
+0
+8208
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+100 0 0 P
+A
+12 25
+A
+13 15
+#8209
+holy potion~
+`aA `kHoly `aPotion``~
+A potion glows with a holy aura.~
+unknown~
+0
+potion 2
+S
+0
+A
+0
+0
+0
+8209
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG 'flamestrike' 'flamestrike' 'flamestrike' 'flamestrike'
+0
+0
+0 0 0 P
+#8210
+statue~
+`hA Large `kGolden `hStatue``~
+A large golden statue resembling one of Babels great monks stands here.~
+unknown~
+0
+trash 2
+Sa
+0
+0
+0
+0
+0
+8210
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#8211
+holy mace~
+`hA `kHoly `aM`ha`oc`ae `ho`of `aB`ha`ob`ae`hl``~
+A holy mace shimmers with a divine aura.~
+unknown~
+0
+weapon 2
+KLS
+0
+AN
+BH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C D ABC ACD GIN
+0
+0
+100 0 0 P
+A
+18 10
+A
+19 10
+S
+ 0 38 100 -1 0 25 4
+#8212
+Statue OT~
+Statue OT~
+Statue OT~
+unknown~
+0
+trash 2
+S
+E
+0
+0
+0
+0
+8212
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#8200
+0 0
+~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Entrance Foyer``~
+`hAs you walk through the gates of the grandiose Tower of Babel you find
+yourself in a small, gated archway.  A beautiful mosaic floor spreads out
+before you, a grand display of angels carrying the souls of the blessed up
+to heaven.  Hooded monks rush passed you, attending to the needs of newly
+arrive pilgrims, here to offer their prayers to the One God.  Ahead of you
+the foyer opens up into a huge hallway, with vaulted ceilings painted with
+beautiful scenes of angels and wondrous holy cities in the clouds.  
+~
+0 BDNQ 0
+0
+~
+I B D0
+~
+~
+0 0 8201
+S
+#8201
+0 0
+~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`hAs you enter the main chamber of the Church you are met with an
+overwhelming wave of pilgrims all heading towards the main altar with
+offerings and prayers for god.  Devout monks stand at the ready to assist
+the pilgrims with their various questions and needs, although of number of
+monks stand guard are at various intervals throughout the chamber, ready to
+defend the weak against any usurper that might try to violate the peace and
+tranquility of one of gods holiest temples.  As your gaze drifts upwards you
+are shocked by the breathtaking vision above you.  Painstaking painted on
+the vaulted ceiling is a massive mural depicting all the ranks and beings of
+heaven, from the lowliest cherub to the greatest archangel.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8205
+D1
+~
+~
+0 0 8203
+D2
+~
+~
+0 0 8200
+D3
+~
+~
+0 0 8202
+S
+#8202
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`hAs you walk along the western side of the church the high walls rise
+above you to a beautiful painted vaulted ceiling.  Multi-colored light pours
+in through the various stained glass windows.  The windows present the
+effigies of former leaders and notable clergy of the church.  Pilgrims and
+monks continue to scurry about you, on their way to present offerings to god
+or tending to the questions and needs of the faithful.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8204
+D1
+~
+~
+0 0 8201
+S
+#8203
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`hAs you walk along the eastern side of the church the high walls rise
+above you to a beautiful painted vaulted ceiling.  Multi-colored light pours
+in through the various stained glass windows.  The windows present the
+effigies of former leaders and notable clergy of the church.  Pilgrims and
+monks continue to scurry about you, on their way to present offerings to god
+or tending to the questions and needs of the faithful.
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8206
+D3
+~
+~
+0 0 8201
+S
+#8204
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`hAs you walk along the western side of the church the high walls rise
+above you to a beautiful painted vaulted ceiling.  Multi-colored light pours
+in through the various stained glass windows.  The windows present the
+effigies of former leaders and notable clergy of the church.  Pilgrims and
+monks continue to scurry about you, on their way to present offerings to god
+or tending to the questions and needs of the faithful.
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8207
+D1
+~
+~
+0 0 8205
+D2
+~
+~
+0 0 8202
+S
+#8205
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`h ` You continue deeper into the church, your gaze every drifting
+upwards to take in the inspiring vision painted above you.  You are almost
+completely oblivious to the hustle and bustle of the daily routine above
+you.  Off to the side hallways you catch glimpses of beautiful gigantic
+stained glass windows embedded in the walls high above the floor.  The sheer
+awe and ambiance of the place almost begins to lift your soul and inspire
+you with a holy spirit that relaxes you and gives you hope.  As you mind
+slowly refocuses to the task at hand, you spy the main altar not to far down
+the hall in front of you.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8208
+D1
+~
+~
+0 0 8206
+D2
+~
+~
+0 0 8201
+D3
+~
+~
+0 0 8204
+S
+#8206
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`hAs you walk along the eastern side of the church the high walls rise
+above you to a beautiful painted vaulted ceiling.  Multi-colored light pours
+in through the various stained glass windows.  The windows present the
+effigies of former leaders and notable clergy of the church.  Pilgrims and
+monks continue to scurry about you, on their way to present offerings to god
+or tending to the questions and needs of the faithful.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8209
+D2
+~
+~
+0 0 8203
+D3
+~
+~
+0 0 8205
+S
+#8207
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`hAs you walk along the western side of the church the high walls rise
+above you to a beautiful painted vaulted ceiling.  Multi-colored light pours
+in through the various stained glass windows.  The windows present the
+effigies of former leaders and notable clergy of the church.  Pilgrims and
+monks continue to scurry about you, on their way to present offerings to god
+or tending to the questions and needs of the faithful.
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8208
+D2
+~
+~
+0 0 8204
+S
+#8208
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`hYou continue deeper into the church, your gaze every drifting upwards
+to take in the inspiring vision painted above you.  You are almost
+completely oblivious to the hustle and bustle of the daily routine above
+you.  Off to the side hallways you catch glimpses of beautiful gigantic
+stained glass windows embedded in the walls high above the floor.  The sheer
+awe and ambiance of the place almost begins to lift your soul and inspire
+you with a holy spirit that relaxes you and gives you hope.  As you mind
+slowly refocuses to the task at hand, you spy the main altar not to far down
+the hall in front of you.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8210
+D1
+~
+~
+0 0 8209
+D2
+~
+~
+0 0 8205
+D3
+~
+~
+0 0 8207
+S
+#8209
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``~
+`h As you walk along the eastern side of the church the high walls rise
+above you to a beautiful painted vaulted ceiling.  Multi-colored light pours
+in through the various stained glass windows.  The windows present the
+effigies of former leaders and notable clergy of the church.  Pilgrims and
+monks continue to scurry about you, on their way to present offerings to god
+or tending to the questions and needs of the faithful.  
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8206
+D3
+~
+~
+0 0 8208
+S
+#8210
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Before the Altar``~
+`hYou continue deeper into the church, your gaze every drifting upwards
+to take in the inspiring vision painted above you.  You are almost
+completely oblivios to the hustle and bustle of the daily routine above you.
+Off to the side hallways you catch glimpses of beautiful gigantic stained
+glass windows embeded in the walls high above the floor.  The sheer awe and
+ambiance of the place almost begins to lift your soul and inspire you with a
+holy spirit that relaxes you and gives you hope.  As you mind slowly
+refocuses to the task at hand, you spy the main altar not to far down the
+hall in front of you.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8211
+D2
+~
+~
+0 0 8208
+S
+#8211
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Shrine of the Adherent Lamb``~
+`h This shrine is lovingly cared for with many flowers planted around its
+base.  The dainty grace of flowers, incense, and cleanliness are all signs
+of a woman's touch.  The shrine stands in devotion to The Green Lady.  It is
+said that she once offered wisdom to those who would seek it.  However, the
+wisdom did not appear in the form expected.  Quite often her thoughtful gift
+was turned down in disdain or disbelief.  Keep in mind that wisdom is like
+the air one breathes in, light and airy - yet necessary for life. 
+Therefore, this simple yet elegant treasure can be hidden in something
+dainty and in unexpected ways.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8212
+D2
+~
+~
+0 0 8210
+S
+#8212
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Before the Grand Staircase``~
+`hYou come to the end of the grand hall and feast your eyes upon a
+beautifully winding staircase that lies in front of you.  With gold railings
+and crystal clear steps it shimmers with a holy aura that would impress even
+those with the darkest of spirits.  A cool draft flows down from the opening
+overhead wafting the delicate sent of herbs and spices from all over the
+realms.  Each crystal step is engraved with runic designs that flow into one
+another like waters clashing in the sea.  The glory you behold before you is
+barely containable and becomes even more so as you approach closer.  
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8211
+D4
+~
+door~
+4193 8202 8213
+S
+#8213
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower``~
+`hYou climb the grand staircase of the Tower of Babel.  The stairwell is
+unfathomable wide and spirals high into the heavens .  It made of the same
+breathtaking white marble tiles that seem to be impossible to sully or
+spoil.  While it is not easy to see what lays above, or even below, you get
+the sense that the stairwell will lead you well beyond the clouds and into
+the realm of the holy ones.  
+~
+0 BDNQ 0
+0
+~
+I 0 D4
+~
+~
+0 0 8214
+D5
+~
+door~
+4193 0 8212
+S
+#8214
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower``~
+`hYou climb the grand staircase of the Tower of Babel.  The stairwell is
+unfathomable wide and spirals high into the heavens .  It made of the same
+breathtaking white marble tiles that seem to be impossible to sully or
+spoil.  While it is not easy to see what lays above, or even below, you get
+the sense that the stairwell will lead you well beyond the clouds and into
+the realm of the holy ones.  
+~
+0 BDNQ 0
+0
+~
+I 0 D4
+~
+~
+0 0 8215
+D5
+~
+~
+0 0 8213
+S
+#8215
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower``~
+`h You climb the grand staircase of the Tower of Babel.  The stairwell is
+unfathomable wide and spirals high into the heavens .  It made of the same
+breathtaking white marble tiles that seem to be impossible to sully or
+spoil.  While it is not easy to see what lays above, or even below, you get
+the sense that the stairwell will lead you well beyond the clouds and into
+the realm of the holy ones.  `` 
+~
+0 BDNQ 0
+0
+~
+I 0 D4
+~
+~
+0 0 8216
+D5
+~
+~
+0 0 8214
+S
+#8216
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Chamber of the Supplicant``~
+`hAmong you the acolytes and novices of the order dart around quietly
+tryning to compete their daily tasks in service the Lord.  Here too, monks
+bustle around, although they are no longer look to tend to the needs of
+those of the devout.  The monks instead can be heard barking orders to the
+lower level clergy, ensuring that the business of the Lord is carried out an
+efficient and ceremonious manner.  Although less impressive then the Chuch
+below, the rooms contain the same unsoilable marble tiles that seems
+consistant throughout the Tower.  The wallls are sparing decorate with
+painted portraits of reknowned monks and current clergy leadership who
+contribute to the heirarchy of the Order.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8219
+D1
+~
+~
+0 0 8217
+D5
+~
+~
+0 0 8215
+S
+#8217
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Chamber of the Supplicant``~
+`hAmong you the acolytes and novices of the order dart around quietly
+trying to compete their daily tasks in service the Lord.  Here too, monks
+bustle around, although they are no longer look to tend to the needs of
+those of the devout.  The monks instead can be heard barking orders to the
+lower level clergy, ensuring that the business of the Lord is carried out an
+efficient and ceremonious manner.  Although less impressive then the Church
+below, the rooms contain the same unsolvable marble tiles that seems
+consistent throughout the Tower.  The walls are sparing decorate with
+painted portraits of renowned monks and current clergy leadership who
+contribute to the hierarchy of the Order.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8218
+D3
+~
+~
+0 0 8216
+S
+#8218
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Chamber of the Supplicant``~
+`hAmong you the acolytes and novices of the order dart around quietly
+trying to compete their daily tasks in service the Lord.  Here too, monks
+bustle around, although they are no longer look to tend to the needs of
+those of the devout.  The monks instead can be heard barking orders to the
+lower level clergy, ensuring that the business of the Lord is carried out an
+efficient and ceremonious manner.  Although less impressive then the Church
+below, the rooms contain the same unsolvable marble tiles that seems
+consistent throughout the Tower.  The walls are sparing decorate with
+painted portraits of renowned monks and current clergy leadership who
+contribute to the hierarchy of the Order.  
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8217
+D3
+~
+~
+0 0 8219
+D4
+~
+door~
+4193 0 8220
+S
+#8219
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Chamber of the Supplicant``~
+`hAmong you the acolytes and novices of the order dart around quietly
+trying to compete their daily tasks in service the Lord.  Here too, monks
+bustle around, although they are no longer look to tend to the needs of
+those of the devout.  The monks instead can be heard barking orders to the
+lower level clergy, ensuring that the business of the Lord is carried out an
+efficient and ceremonious manner.  Although less impressive then the Church
+below, the rooms contain the same unsolvable marble tiles that seems
+consistent throughout the Tower.  The walls are sparing decorate with
+painted portraits of renowned monks and current clergy leadership who
+contribute to the hierarchy of the Order.  
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8218
+D2
+~
+~
+0 0 8216
+S
+#8220
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower``~
+`hYou climb the grand staircase of the Tower of Babel.  The stairwell is
+unfathomable wide and spirals high into the heavens .  It made of the same
+breathtaking white marble tiles that seem to be impossible to sully or
+spoil.  While it is not easy to see what lays above, or even below, you get
+the sense that the stairwell will lead you well beyond the clouds and into
+the realm of the holy ones.
+~
+0 BDNQ 0
+0
+~
+I 0 D4
+~
+~
+0 0 8221
+D5
+~
+door~
+4193 0 8218
+S
+#8221
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower``~
+`hYou climb the grand staircase of the Tower of Babel.  The stairwell is
+unfathomable wide and spirals high into the heavens .  It made of the same
+breathtaking white marble tiles that seem to be impossible to sully or
+spoil.  While it is not easy to see what lays above, or even below, you get
+the sense that the stairwell will lead you well beyond the clouds and into
+the realm of the holy ones``
+~
+0 BDNQ 0
+0
+~
+I 0 D4
+~
+~
+0 0 8222
+D5
+~
+~
+0 0 8220
+S
+#8222
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower``~
+`hYou climb the grand staircase of the Tower of Babel.  The stairwell is
+unfathomable wide and spirals high into the heavens .  It made of the same
+breathtaking white marble tiles that seem to be impossible to sully or
+spoil.  While it is not easy to see what lays above, or even below, you get
+the sense that the stairwell will lead you well beyond the clouds and into
+the realm of the holy ones``
+~
+0 BDNQ 0
+0
+~
+I 0 D4
+~
+~
+0 0 8223
+D5
+~
+~
+0 0 8221
+S
+#8223
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Antechamber of the Ordained``~
+`hAs you continue your upward climb through the tower, you notice that
+the financial stature of the Order becomes more and more prevalent.  Here,
+will the stainless white marble tiling remains the same, however you take
+not of the increasing grandiosity of the furnishing.  Masterfully crafted
+wooden chairs line the hallways and surround the massive support columns
+that can be found throughout the Tower, Rich red drapes with gold weave
+fringes line the walls of the chamber.  Here can find prominent knights and
+clerics of the order going about their daily routines and business.  `` 
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8226
+D1
+~
+~
+0 0 8225
+D2
+~
+~
+0 0 8228
+D3
+~
+~
+0 0 8224
+D5
+~
+~
+0 0 8222
+S
+#8224
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Antechamber of the Ordained``~
+`hAs you continue your upward climb through the tower, you notice that
+the financial stature of the Order becomes more and more prevalent.  Here,
+will the stainless white marble tiling remains the same, however you take
+not of the increasing grandiosity of the furnishing.  Masterfully crafted
+wooden chairs line the hallways and surround the massive support columns
+that can be found throughout the Tower, Rich red drapes with gold weave
+fringes line the walls of the chamber.  Here can find prominent knights and
+clerics of the order going about their daily routines and business. 
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8223
+D2
+~
+~
+0 0 8227
+S
+#8225
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Antechamber of the Ordained``~
+`hAs you continue your upward climb through the tower, you notice that
+the financial stature of the Order becomes more and more prevalent.  Here,
+will the stainless white marble tiling remains the same, however you take
+not of the increasing grandiosity of the furnishing.  Masterfully crafted
+wooden chairs line the hallways and surround the massive support columns
+that can be found throughout the Tower, Rich red drapes with gold weave
+fringes line the walls of the chamber.  Here can find prominent knights and
+clerics of the order going about their daily routines and business.``
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8229
+D3
+~
+~
+0 0 8223
+S
+#8226
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Antechamber of the Ordained``~
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8223
+S
+#8227
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Antechamber of the Ordained``~
+`hAs you continue your upward climb through the tower, you notice that
+the financial stature of the Order becomes more and more prevalent.  Here,
+will the stainless white marble tiling remains the same, however you take
+not of the increasing grandiosity of the furnishing.  Masterfully crafted
+wooden chairs line the hallways and surround the massive support columns
+that can be found throughout the Tower, Rich red drapes with gold weave
+fringes line the walls of the chamber.  Here can find prominent knights and
+clerics of the order going about their daily routines and business.``
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8224
+D1
+~
+~
+0 0 8228
+S
+#8228
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Antechamber of the Ordained``~
+`hAs you continue your upward climb through the tower, you notice that
+the financial stature of the Order becomes more and more prevalent.  Here,
+will the stainless white marble tiling remains the same, however you take
+not of the increasing grandiosity of the furnishing.  Masterfully crafted
+wooden chairs line the hallways and surround the massive support columns
+that can be found throughout the Tower, Rich red drapes with gold weave
+fringes line the walls of the chamber.  Here can find prominent knights and
+clerics of the order going about their daily routines and business.``
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8223
+D1
+~
+~
+0 0 8229
+D3
+~
+~
+0 0 8227
+D4
+~
+~
+0 0 8230
+S
+#8229
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Antechamber of the Ordained``~
+`hAs you continue your upward climb through the tower, you notice that
+the financial stature of the Order becomes more and more prevalent.  Here,
+will the stainless white marble tiling remains the same, however you take
+not of the increasing grandiosity of the furnishing.  Masterfully crafted
+wooden chairs line the hallways and surround the massive support columns
+that can be found throughout the Tower, Rich red drapes with gold weave
+fringes line the walls of the chamber.  Here can find prominent knights and
+clerics of the order going about their daily routines and business.``
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8225
+D3
+~
+~
+0 0 8228
+S
+#8230
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower``~
+`hYou climb the grand staircase of the Tower of Babel.  The stairwell is
+unfathomable wide and spirals high into the heavens .  It made of the same
+breathtaking white marble tiles that seem to be impossible to sully or
+spoil.  While it is not easy to see what lays above, or even below, you get
+the sense that the stairwell will lead you well beyond the clouds and into
+the realm of the holy ones``
+~
+0 BDNQ 0
+0
+~
+I 0 D4
+~
+~
+0 0 8231
+D5
+~
+~
+0 0 8228
+S
+#8231
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower``~
+`hYou climb the grand staircase of the Tower of Babel.  The stairwell is
+unfathomable wide and spirals high into the heavens .  It made of the same
+breathtaking white marble tiles that seem to be impossible to sully or
+spoil.  While it is not easy to see what lays above, or even below, you get
+the sense that the stairwell will lead you well beyond the clouds and into
+the realm of the holy ones
+~
+0 BDNQ 0
+0
+~
+I 0 D4
+~
+~
+0 0 8232
+D5
+~
+~
+0 0 8230
+S
+#8232
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kBefore the Chamber of the `oH`ko`ol`ky``~
+`hAn archway forms in the center of the chamber framing in its center a
+large mosaic of lords and saints.  A statue stands in the center of the room
+featuring three tears of brass colored vases.  Candles line themselves all
+around the chamber exuding and unearthly glow to the beauty that is already
+most prominent.  The ceiling is enchanted to look like the night sky,
+sparkling with the light of a thousand stars.  `` 
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8233
+D5
+~
+~
+0 0 8231
+S
+#8233
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kThe Chamber of the `oH`ko`ol`ky `gT`or`gi`on`gi`ot`gy``~
+`hAs you continue your upward climb through the tower, you notice that
+the financial stature of the Order becomes more and more prevalent.  Here,
+will the stainless white marble tiling remains the same, however you take
+not of the increasing grandiosity of the furnishing.  Masterfully crafted
+wooden chairs line the hallways and surround the massive support columns
+that can be found throughout the Tower, Rich red drapes with gold weave
+fringes line the walls of the chamber.  Here can find prominently knights
+and clerics of the order going about their daily routines and business.  An
+archway forms in the center of the chamber framing in its center a large
+mosaic of lords and saints.  A statue stands in the center of the room
+featuring three tears of brass colored vases.  Candles line themselves all
+around the chamber exuding and unearthly glow to the beauty that is already
+most prominent.  The ceiling is enchanted to look like the night sky,
+sparkling with the light of a thousand stars.  
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8236
+D1
+~
+~
+0 0 8234
+D2
+~
+~
+0 0 8232
+D3
+~
+~
+0 0 8235
+D4
+~
+~
+0 0 8252
+S
+#8234
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `gM`do`gs`dq`gu`de `go`df `gS`du`gl`de`gy`dm`ga`dn``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan molding carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light cast upon them by the floor. 
+They bear sapphire crystals in swirls of gold cascading to the bottom.  With
+each step, a new archway passes over head, lining its way down this
+beautiful mosque.  `` 
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8242
+D3
+~
+~
+0 0 8233
+S
+#8235
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `eT`oe`em`op`el`oe `eo`of `eM`oa`el`oa`ec`oh`ei``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan modling carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light casted upon them by the
+floor.  They bear sapphire crystals in swirls of gold cascading to the
+bottom.  With each step, a new archway passes over head, lining its way down
+this beautiful temple.  
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8233
+D3
+~
+~
+0 0 8237
+S
+#8236
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kC`oh`ku`or`kc`oh `ko`of `kZ`oe`kc`oh`ka`or`ki`oa`kh``~
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8247
+D2
+~
+~
+0 0 8233
+S
+#8237
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `eT`oe`em`op`el`oe `eo`of `eM`oa`el`oa`ec`oh`ei``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan molding carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light caste upon them by the
+floor.  They bear sapphire crystals in swirls of gold cascading to the
+bottom.  With each step, a new archway passes over head, lining its way down
+this beautiful temple.`` 
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8235
+D3
+~
+~
+0 0 8238
+S
+#8238
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `eT`oe`em`op`el`oe `eo`of `eM`oa`el`oa`ec`oh`ei``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan molding carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light caste upon them by the
+floor.  They bear sapphire crystals in swirls of gold cascading to the
+bottom.  With each step, a new archway passes over head, lining its way down
+this beautiful temple.`` 
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8241
+D1
+~
+~
+0 0 8237
+D2
+~
+~
+0 0 8240
+D3
+~
+~
+0 0 8239
+S
+#8239
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `eT`oe`em`op`el`oe `eo`of `eM`oa`el`oa`ec`oh`ei``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan molding carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light caste upon them by the
+floor.  They bear sapphire crystals in swirls of gold cascading to the
+bottom.  With each step, a new archway passes over head, lining its way down
+this beautiful temple.`` 
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8238
+S
+#8240
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `eT`oe`em`op`el`oe `eo`of `eM`oa`el`oa`ec`oh`ei``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan molding carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light caste upon them by the floor.
+They bear sapphire crystals in swirls of gold cascading to the bottom.  With
+each step, a new archway passes over head, lining its way down this
+beautiful temple.  `` 
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8238
+S
+#8241
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `eT`oe`em`op`el`oe `eo`of `eM`oa`el`oa`ec`oh`ei``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan molding carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light caste upon them by the
+floor.  They bear sapphire crystals in swirls of gold cascading to the
+bottom.  With each step, a new archway passes over head, lining its way down
+this beautiful temple.`` 
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8238
+S
+#8242
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `gM`do`gs`dq`gu`de `go`df `gS`du`gl`de`gy`dm`ga`dn``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan molding carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light cast upon them by the floor. 
+They bear sapphire crystals in swirls of gold cascading to the bottom.  With
+each step, a new archway passes over head, lining its way down this
+beautiful mosque.  `` 
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8243
+D3
+~
+~
+0 0 8234
+S
+#8243
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `gM`do`gs`dq`gu`de `go`df `gS`du`gl`de`gy`dm`ga`dn``~
+`hThe floor here dazzles the eyes with gleaming gold tiles that shine
+like the sun on a mid summers day.  The ceiling is midnight blue featuring a
+cyan molding carved beautifully out of the finest woods available.  Golden
+doors line the halls glittering from the light cast upon them by the floor. 
+They bear sapphire crystals in swirls of gold cascading to the bottom.  With
+each step, a new archway passes over head, lining its way down this
+beautiful mosque.  `` 
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8244
+D1
+~
+~
+0 0 8245
+D2
+~
+~
+0 0 8246
+D3
+~
+~
+0 0 8242
+S
+#8244
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `gM`do`gs`dq`gu`de `go`df `gS`du`gl`de`gy`dm`ga`dn``~
+`hThe floor here dazzles the eyes with gleaming gold tiles 
+that shine like the sun on a mid summers day. The ceiling 
+is midnight blue featuring a cyan molding carved beautifully
+out of the finest woods available. Golden doors line the 
+halls glittering from the light cast upon them by the floor.
+They bear sapphire crystals in swirls of gold cascading to 
+the bottom. With each step, a new archway passes over head,
+lining its way down this beautiful mosque.``
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8243
+S
+#8245
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `gM`do`gs`dq`gu`de `go`df `gS`du`gl`de`gy`dm`ga`dn``~
+`hThe floor here dazzles the eyes with gleaming gold tiles 
+that shine like the sun on a mid summers day. The ceiling 
+is midnight blue featuring a cyan molding carved beautifully
+out of the finest woods available. Golden doors line the 
+halls glittering from the light cast upon them by the floor.
+They bear sapphire crystals in swirls of gold cascading to 
+the bottom. With each step, a new archway passes over head,
+lining its way down this beautiful mosque.``
+~
+0 BDNQ 0
+0
+~
+I 0 D3
+~
+~
+0 0 8243
+S
+#8246
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `gM`do`gs`dq`gu`de `go`df `gS`du`gl`de`gy`dm`ga`dn``~
+`hThe floor here dazzles the eyes with gleaming gold tiles 
+that shine like the sun on a mid summers day. The ceiling 
+is midnight blue featuring a cyan molding carved beautifully
+out of the finest woods available. Golden doors line the 
+halls glittering from the light cast upon them by the floor.
+They bear sapphire crystals in swirls of gold cascading to 
+the bottom. With each step, a new archway passes over head,
+lining its way down this beautiful mosque.``
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8243
+S
+#8247
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kC`oh`ku`or`kc`oh `ko`of `kZ`oe`kc`oh`ka`or`ki`oa`kh``~
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8248
+D2
+~
+~
+0 0 8236
+S
+#8248
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kC`oh`ku`or`kc`oh `ko`of `kZ`oe`kc`oh`ka`or`ki`oa`kh``~
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8249
+D1
+~
+~
+0 0 8250
+D2
+~
+~
+0 0 8247
+D3
+~
+~
+0 0 8251
+S
+#8249
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kC`oh`ku`or`kc`oh `ko`of `kZ`oe`kc`oh`ka`or`ki`oa`kh``~
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8248
+S
+#8250
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kC`oh`ku`or`kc`oh `ko`of `kZ`oe`kc`oh`ka`or`ki`oa`kh``~
+~
+0 BDNQ 0
+0
+~
+I 0 D3
+~
+~
+0 0 8248
+S
+#8251
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kC`oh`ku`or`kc`oh `ko`of `kZ`oe`kc`oh`ka`or`ki`oa`kh``~
+~
+0 BDNQ 0
+0
+~
+I 0 D1
+~
+~
+0 0 8248
+S
+#8252
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kV`aa`ku`al`kt `aof `kC`oh`kr`oi`ks`ot``~
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8253
+D5
+~
+~
+0 0 8233
+S
+#8253
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `gE`an`gc`al`ga`av`ge `aof `gI`ds`gl`da`gm``~
+~
+0 BDNQ 0
+0
+~
+I 0 D0
+~
+~
+0 0 8254
+D2
+~
+~
+0 0 8252
+S
+#8254
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `eH`aa`el`al of `eJ`ou`ed`oa`ei`oc`ea``~
+~
+0 BDNQ 0
+0
+~
+I 0 D2
+~
+~
+0 0 8253
+D4
+~
+~
+0 0 8255
+S
+#8255
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8259
+D1
+~
+~
+0 0 8257
+D2
+~
+~
+0 0 8262
+D3
+~
+~
+0 0 8256
+D5
+~
+~
+0 0 8254
+S
+#8256
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8258
+D1
+~
+~
+0 0 8255
+D2
+~
+~
+0 0 8261
+S
+#8257
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8260
+D2
+~
+~
+0 0 8263
+D3
+~
+~
+0 0 8255
+S
+#8258
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D1
+~
+~
+0 0 8259
+D2
+~
+~
+0 0 8256
+S
+#8259
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D1
+~
+~
+0 0 8260
+D2
+~
+~
+0 0 8255
+D3
+~
+~
+0 0 8258
+S
+#8260
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D2
+~
+~
+0 0 8257
+D3
+~
+~
+0 0 8259
+S
+#8261
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8256
+D1
+~
+~
+0 0 8262
+S
+#8262
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8255
+D1
+~
+~
+0 0 8263
+D3
+~
+~
+0 0 8261
+S
+#8263
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- Tower Battlements``~
+~
+0 N 0
+0
+~
+I 0 D0
+~
+~
+0 0 8257
+D3
+~
+~
+0 0 8262
+S
+#8264
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kOn the Approach to Heaven``~
+~
+0 N 9
+0
+~
+I 0 D4
+~
+~
+0 0 8265
+S
+#8265
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kOn the Approach to Heaven``~
+~
+0 N 9
+0
+~
+I 0 D4
+~
+~
+0 0 8266
+D5
+~
+~
+0 0 8264
+S
+#8266
+0 0
+(null)~
+~
+~
+0 0 0
+`o|`k| `oThe Tower of Babel `k|`o| `a- `kOn the Approach to Heaven``~
+~
+0 N 9
+0
+~
+I 0 D5
+~
+~
+0 0 8265
+S
+#8267
+0 0
+(null)~
+~
+~
+0 0 0
+`kInside The Golden Statue``~
+~
+0 CN 9
+0
+~
+I 0 S
+#0
+
+#RESETS
+O 0 8201   0 8216 1	* Angel ot at `o|`k| `oThe Tower of Babel `k|`o| `a- Chamber of the Supplicant``
+D 0 8212   4    2	* `o|`k| `oThe Tower of Babel `k|`o| `a- Before the Grand Staircase`` [up]
+D 0 8213   5    2	* `o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower`` [down]
+D 0 8218   4    2	* `o|`k| `oThe Tower of Babel `k|`o| `a- Chamber of the Supplicant`` [up]
+D 0 8220   5    2	* `o|`k| `oThe Tower of Babel `k|`o| `a- Ascending the Tower`` [down]
+O 0 8203   0 8206 1	* `ea `lglowing `echest`` at `o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``
+P 0 8202 1 8203 1
+O 0 8205   0 8207 -1	* Saint ot at `o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``
+M 0 8201   1 8207  1	* `hthe `nsaint`h of babel``
+M 0 8203 100 8200  1	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+M 0 8203 100 8201  2	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+M 0 8203 100 8206  5	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+M 0 8203 100 8204  2	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+M 0 8203 100 8205  2	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+M 0 8203 100 8208  1	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+M 0 8203 100 8210  3	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+M 0 8203 100 8212  6	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+M 0 8203 100 8211  2	* `ha `kholy `hpriest``
+G 0 8209 -1		* `aa `kholy `apotion`` to `hA `kHoly `hPriest``
+O 0 8210   0 8202 -1	* `ha large `kgolden `hstatue`` at `o|`k| `oThe Tower of Babel `k|`o| `a- Pilgrim's Alcove``
+O 0 8212   0 8267 -1	* Statue ot at `kInside The Golden Statue``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#8200
+Holy Presence OT~
+$on_tick~
+536870912
+71
+p 'bless' $wearer~
+30
+1
+layhand $wearer~
+10
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+30
+#8201
+Angel OT~
+$char_says angel~
+131072
+71
+at 1600 load mob 8200~
+100
+0
+at 1600 load obj 8200~
+100
+0
+at 1600 force seraph get holy~
+100
+0
+at 1600 force seraph wear holy~
+100
+0
+transfer seraph~
+100
+0
+gecho `hA Winged Seraph descends from the heavens, landing before $name.``~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#8205
+Saint OT~
+$char_says hell~
+131072
+71
+force saint say You can't make me go there!!~
+100
+0
+The leader saint of babel gets a furious look in his eyes.~
+100
+1
+trans saint 1600 ~
+100
+0
+slay saint~
+100
+0
+at 1600 slay saint~
+100
+0
+load mob 8202~
+100
+0
+load obj 8206~
+100
+0
+palm key~
+100
+0
+plant key angry~
+100
+0
+force angry c gas~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#8206
+Pull Apart!~
+$whenpulled~
+32768
+64
+echo `hThe `kbrass`h key breaks in two!``~
+100
+1
+load obj 8204~
+100
+0
+palm key~
+100
+0
+plant key $name~
+100
+0
+load obj 8207~
+100
+0
+palm hoop~
+100
+0
+plant hoop $name~
+100
+0
+seize pullkey $name~
+100
+0
+at 1 drop pullkey~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#8208
+Spirit OT - Cleric Float~
+$char_uses_spell heal~
+134217728
+65
+p 'cure critical' $name~
+100
+0
+p 'heal' $name~
+20
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#8209
+Holy Potion~
+$whenquaffed~
+1048576
+64
+set char $name align 1000~
+100
+0
+pecho $name You feel holy and pure.~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#8210
+STATUE OT~
+$char_says life~
+131072
+71
+at 1600 load obj 8211~
+100
+0
+at 1600 load mob 8204~
+100
+0
+at 1600 force statue get mace~
+100
+0
+at 1600 force statue wear mace~
+100
+0
+trans statue~
+100
+0
+set obj statue extra wizi~
+100
+0
+echo `kThe Golden Statue comes to life!``~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#8212
+(null)~
+$entersroom~
+1
+71
+echo `k The golden statue trudges around!~
+100
+1
+echo `k The golden statue trudges around!~
+100
+2
+echo `k The golden statue trudges around!~
+100
+3
+echo `k The golden statue trudges around!~
+100
+4
+echo `k The golden statue trudges around!~
+100
+5
+echo `kThe golden statue spits you out!``~
+100
+3
+trans $name 8202~
+100
+0
+at 8202 load mob 8204~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#8409
+(null)~
+$whenpulled~
+32768
+64
+echo A sparkling firework explodes!~
+100
+1
+echo .                      `k.`n : .~
+100
+1
+echo .         `kBOOM!      '`j.  `j:`k  .'~
+100
+0
+echo .                   `j.  `m'.`k:.`n'  .`nBOOM!~
+100
+0
+echo .                   `k.  .':'.`m  .~
+100
+0
+echo .                    .`m'  `i: `n '.~
+100
+0
+echo .                      `i' `j: '~
+100
+0
+echo .               `jBOOM!``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

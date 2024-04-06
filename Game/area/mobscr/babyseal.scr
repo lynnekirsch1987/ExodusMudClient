@@ -1,0 +1,39 @@
+* baby seal
+* mob vnum 4209
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %name% name
+   pecho %name% A baby seal barks excitedly as it runs circles around your legs.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   emote makes a dull thwacking sound as it splashes water in your face with its sleek tail.
+   halt once~
+Sc
+if ( %rndnum% == 2 ) 
+  emote barks hungrily for some raw fish.
+  halt once~
+Sc
+if ( %rndnum% == 3 )
+  emote whimpers softly at the sight of the breeder's large club.
+  halt once~
+End
+#END
+
+
+
+
+
+
+
+
+
+
+

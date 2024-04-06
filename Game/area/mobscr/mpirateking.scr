@@ -1,0 +1,21 @@
+* File pirateking.scr
+* Mob: the pirate king (14006)
+
+#TRIGGER cmb
+Type 2
+Sc
+mfunc self %hit% hit
+if ( %hit% < 2500 )
+  yell Pirates!  I'm under attack!  Help me, you scurvy sea dogs!
+  signal 14002 helpme
+  halt triggers~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+  cmd hold malevolent
+  halt once~
+End
+
+#END

@@ -1,0 +1,220 @@
+#PLAYER
+Name Apparition~
+Id   949544139
+LogF 1045186080
+LogO 1045186080
+Vers 7
+Desc `aBefore you stands a Sidhe with a dark complection.  His robe disguises his
+true size, but not his height--he stands at about five feet high.  He
+unemotionally looks you up and down and although he looks as if he is daydreaming
+the gears in the back of his head are turning, turning, turning as he tries
+to think of the most effective way to kill you.``
+~
+Prom <%S %h/%Hh %m/%Mm %Xx> ~
+Race sidhe~
+Sex  1
+Cla  0
+Levl 90
+Wants 3
+PBKill 22
+MBKill 39
+PHKill 115
+MHKill 7119
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 2083922
+Bank_Gold 53138
+Bank_Silv 31000
+Email auvyron@hotmail.com~
+Host PURGED-LD~
+Not  996065808 974241901 973126192 994859418 990057867 974440376 973126192
+Scro 22
+Room 25959
+HMV  515 515 1514 1514 564 564
+Hand 4
+Gold 0
+Silv 0
+Exp  756001
+Act  DQ
+AfBy BDFKTUV
+Comm NOSX
+Pos  8
+Prac 3
+Alig  -1000
+Hit   -11
+ACs 20 20 20 20
+Wimp  50
+Attr 17 25 18 19 17 20
+AMod 4 0 0 4 0 0
+Pass ApPipJbYLb0Xc~
+Mask Mookie~
+Bcry  has left the game.~
+Plan  Asleep since the days before the House of Jhereg was established, Apparition has awoken
+to find the land in turmoil.  Humans, Syvin, Canthi and others wander the world
+with the belief that they own the land.  Apparition's goal is to lead the Jhereg to
+further heights of prosperity and give the populace of Exodus a moment's pause when 
+a Sidhe -- any Sidhe comes near.
+~
+Layhands 0
+Exorcise 0
+Titl  `h[`bDAEMON`h]`.~
+Pnts 90
+TSex 1
+LLev 557
+Loner 1
+HMVP 515 1514 564
+Cnd  -16 11 32 33
+Color 1 7 1 23 3 14 8 0 12 12 6 10 2 12 5 8 13 5 0 0
+Alias 1 flee~
+Alias 2 c teleport~
+Alias t telepath~
+Alias say emote telepaths to you '`c~
+Alias lb c 'lightning breath'~
+Alias q quaff~
+Alias 6 c summon xiron~
+Alias 3 c teleport~
+Alias 7 rec parch xiron~
+Alias 8 get all~
+Alias 0 c mirror~
+Alias 9 open west~
+Alias 5 eat an~
+Sk 100 'armor'
+Sk 100 'acid blast'
+Sk 75 'fireshield'
+Sk 100 'blindness'
+Sk 100 'web'
+Sk 1 'burning hands'
+Sk 100 'cancellation'
+Sk 100 'chain lightning'
+Sk 100 'change sex'
+Sk 100 'charm person'
+Sk 100 'chill touch'
+Sk 1 'colour spray'
+Sk 100 'create food'
+Sk 75 'create rose'
+Sk 100 'create spring'
+Sk 1 'create water'
+Sk 100 'curse'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 82 'detect poison'
+Sk 100 'dispel magic'
+Sk 1 'firestorm'
+Sk 1 'energy drain'
+Sk 1 'fireball'
+Sk 89 'fireproof'
+Sk 76 'fly'
+Sk 75 'floating disc'
+Sk 100 'giant strength'
+Sk 100 'haste'
+Sk 75 'heat metal'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'mirror'
+Sk 1 'lightning bolt'
+Sk 100 'locate object'
+Sk 1 'magic missile'
+Sk 97 'mass invis'
+Sk 76 'pass door'
+Sk 100 'poison'
+Sk 100 'portal'
+Sk 100 'summon'
+Sk 100 'gate'
+Sk 89 'refresh'
+Sk 100 'shield'
+Sk 1 'shocking grasp'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'teleport'
+Sk 75 'ventriloquate'
+Sk 100 'weaken'
+Sk 100 'acid breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 75 'aqua breathe'
+Sk 1 'channel electricity'
+Sk 1 'ice beam'
+Sk 1 'electrical charge'
+Sk 100 'staff'
+Sk 100 'mask'
+Sk 100 'riding'
+Sk 100 'dodge'
+Sk 1 'hide'
+Sk 100 'meditation'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'scrolls'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'creation'
+Gr 'detection'
+Gr 'draconian'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Gr 'elemental'
+Affc 'curse'   0  77 124 -11  18       1024 0 ''
+Affc 'detect invis'   0  76  35   0   0          8 0 ''
+Affc 'detect hidden'   0  75  35   0   0         32 0 ''
+Affc 'armor'   0  86   0 -20  17          0 0 ''
+Affc 'shield'   0  87  74 -20  17          0 0 ''
+Affc 'stone skin'   0  81  66 -40  17          0 0 ''
+Affc 'giant strength'   0  84  66   4   1          0 0 ''
+Affc 'haste'   0  84  27   4   2    2097152 0 ''
+Affc 'invisibility'   0  90  91   0   0          2 0 ''
+GStats  8 115 7119 22 39 56 578 756001 0 
+End
+
+#O
+Vnum 21
+Nest 0
+ExtF 8388609
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of heat metal and heat metal~
+Cond 0
+Wear -1
+Lev  90
+Cost 7186
+Val  90 68 68 -1 -1 0 0
+End
+
+#O
+Vnum 1306
+Nest 0
+Name stereoid anabolic pill~
+ShD  an anabolic stereoid~
+Desc A pill full of dope is here.~
+Cond 0
+Wear -1
+Cost 0
+Spell 3 'giant strength'
+End
+
+#O
+Vnum 25332
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#RoomRLE   4004 2 1 2 34 1 2 3 3 1 3 1 12 3 1 1 2 3 15 3 5 5 3 1 12211 2 4908 7 19 11 9 1 9 1 759 1 3094 1 22 1 626 1 162 4 39575 -1
+
+#END

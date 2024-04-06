@@ -1,0 +1,32 @@
+* File: fruler.scr
+* Mob: Fire Ruler(5315)
+
+#TRIGGER born
+Type 4
+Sc
+  sit throne
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+  sit throne
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc 
+  say HOW DARE YOU INVADE MY CHAMBERS?
+  wait 2~
+Sc
+  stand *
+  ~
+Sc
+  kill %enter-from%
+  halt once~
+End
+
+#END
+

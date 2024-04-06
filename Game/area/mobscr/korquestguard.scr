@@ -1,0 +1,16 @@
+#TRIGGER helpforsex   
+Type 8   
+Sc   
+if (%helpforsex-arg% cmp "helpforsex")   
+  cmd at 1 wizi 92
+  cmd goto boogawooga
+  cmd at 1 wizi 
+  cmd echo A Thesden guard comes barging into the room!   
+  say How dare you attack an innocent!   
+  cmd rescue boogawooga   
+  cmd rescue boogawooga   
+  cmd rescue boogawooga   
+  halt once~   
+End   
+   
+#END 

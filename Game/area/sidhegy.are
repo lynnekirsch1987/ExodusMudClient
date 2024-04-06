@@ -1,0 +1,4511 @@
+#AREA
+ 3~
+sidhegy.enc~
+`aThe Sidhe Graveyard``~
+{40 65} Pingo  `aThe Sidhe Graveyard``~
+~
+9653 9783
+0 0
+0 0
+~
+#MOBILES
+#9653
+Motolk Beetle~
+A voracious Motolk Beetle~
+A voracious Motolk Beetle burrows into the ground here.
+~
+This beetle spends its days trying to hide from the light and cool off,
+but during the night it feeds on rotting flesh.  It eats so fast that it
+can devour an entire corpse within two nights.  Luckily, this beetle
+rarely feeds on living flesh.
+~
+unique~
+0 0 0 0
+AEG 0 -900 0
+42 0 25d10+2250 3d12+14 3d12+14 bite
+-15 -15 -15 999 -5
+0 -1 M B E Y
+stand stand none 0
+O ABCDEFHKLV medium shell~
+2 2 100 100
+3
+~
+~
+#9654
+sidhe mage ghost~
+A sidhe mage ghost~
+A sidhe mage ghost floats about attempting to cast restoration spells.
+~
+This poor ghost has been trying since its death to cast a restore spell
+so that it could return itself to life, but to no avail.  The ghost
+only has half of the spell written down, and cannot remember the other
+half.  This sidhe should have studied more, but there was not enough time.
+The mage died when trying to destroy six Motolk Beetles that had come to
+feed on his father who passed away one night.  For some reason he is
+doomed to wander the graveyard for eternity, or until properly casting
+the restore spell.
+~
+sidhe~
+0 0 0 0
+AGOR BTU -1000 0
+49 0 50d10+4000 20d20+600 4d10+18 magic
+-19 -18 -18 999 -5
+0 -1 F BDE BP CHIJKNOST
+stand stand male 0
+CDHIM ABCEGHKPa medium slime~
+0 0 0 100
+4
+~
+~
+#9655
+desolate Saiyajin warrior~
+A desolate Saiyajin warrior~
+A desolate Saiyajin warrior wanders about looking for food.
+~
+A man of about 32, this sellsword used to be a mercenary who wandered
+the land selling his services for entertainment, or for use against any
+known threat.  It appears he has been trapped in the grave for a over a
+year, for his beard is long and his rib cage portruding from his skin.  He
+appears past the point of starvation, yet he is still here, alive, and
+his overwhelming desire for food seems to have made him stronger than
+ever.
+~
+human~
+0 0 0 0
+AFGT VZa -500 0
+42 0 25d10+2250 1d1+100 3d12+14 slice
+-14 -14 -14 999 -14
+0 -1 CDHIO 0 DN H
+stand stand male 1000
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 0
+1
+~
+~
+#9656
+Something mud~
+`dSomething covered in mud``~
+`dA huge pile of mud ``rises up from the ground here, appearing to be alive.
+~
+Some creature has been hiding in the mud here and is now covered in it.
+No flesh is visible, a head is assummed to be on top, but no eye holes
+can be seen.  The mud itself almost appears to be alive, but from the
+way it moves limbs can be distinguished, six to be exact.  It looks to
+be carrying some sort of pie, but from the looks of it and the smell
+you surely do not want to eat this pie.  This may be a pile of mud, but
+this is a MEAN pile of mud.
+~
+unique~
+0 0 0 0
+AEG P -250 1151
+55 0 50d10+7000 1d1+100 10d4+23 thwack
+-25 -25 -25 999 -20
+0 -1 N HR C 0
+stand stand either 0
+DE ABC large earth~
+0 0 0 100
+0
+~
+~
+#9657
+statue sidhe~
+`aA statue of an abnormally tall sidhe``~
+``     `pA statue of an abnormally tall sidhe ``guards the entrance here.
+~
+This statue is of an old male sidhe, but has been reproportioned so
+that the statue is much taller than a normal male sidhe.  Its glowing
+blue eyes look like sapphires sparkling in the beam of light that shines
+from them, and very well may be.  The eyes portrude out from the rest 
+of the head, "watching" whoever passes through the entrance to the
+graveyard.  This statue is so well crafted that it scares away most
+who come to the graveyard as the sidhe who created it desired.  This
+particular statue is so life-like that hairs appear to be visible on its
+legs...
+~
+sidhe~
+0 0 0 0
+ABGNRTc DFTU -1000 0
+60 1 50d10+9500 20d20+300 8d6+28 wrath
+-28 -28 -28 999 -31
+0 -1 CDEFHKW BE BP JOS
+stand stand none 4000
+CDHM ABCEGHPa huge stone~
+0 0 0 100
+0
+~
+~
+#9658
+mud snake~
+`dA mud snake``~
+A snake slithers through the mud here, waiting for its prey.
+~
+The movement in the mud that appeared to be a current now divulges
+itself as a type of snake.  It's head is triangular, and its fangs
+appear to be rather sharp, like they were recently filed to a point.
+It is colored perfectly to camouflage in the mud, for when it stops
+moving it can not be seen.
+~
+snake~
+0 0 0 0
+A DMPQc -500 0
+43 0 25d10+2500 0d0+0 3d12+15 bite
+-15 -15 -15 999 -15
+0 -1 0 0 L I
+stand stand neutral 0
+AGXYc ADEFKLQVXa medium scales~
+0 0 0 100
+1
+~
+~
+#9659
+baby phoykl~
+A frightened baby phoykl~
+A frightedned baby phoykl cowers in a corner here.
+~
+This phoykl is still a baby, and is not too deadly yet.  Its skin is a
+light shade of gray and smooth like a shark's, with an ugly face similar
+to a gargoyle.  Its tail is about half a meter long, and its wings are
+still too small to allow it to fly.  Its four legs are very short and
+stubby, and the claws on its hairy paws are just beginning to come in.
+Oddly enough it usually does not carry an odor, due to it not wishing to
+inhibit its powerful sense of smell.  Baby Phoykl's can often be seen
+playing with a toy made by the older Phoykl's, a toy made to help
+the baby's learn to attack and defend better, but these toys are
+considered sacred and are not often found by a creature other than a
+Phoykl.
+~
+sidhe~
+0 0 0 0
+AG TU -1000 0
+50 0 50d10+4500 5d5+100 5d8+19 claw
+-20 -20 -20 999 -20
+0 -1 0 E BP OS
+stand stand either 0
+CDHM ABCEGHPa medium fur~
+2 2 300 100
+0
+~
+~
+#9660
+full-grown male phokyl~
+A full-grown male phoykl~
+A full-grown male phoykl flies around looking for its master.
+~
+This phoykl is full-grown, and EXTREMELY deadly.  Its skin is a light
+shade of gray and smooth like a shark's, with an ugly face similar to
+a gargoyle.  Its tail is about one and a half meters long, and its
+wingspan is enormous, allowing it to fly quickly and for long distances
+or long periods of time, but also providing it great manueverability.
+Its four legs are short and stubby, but the claws on its hairy paws are
+long and razor sharp.  Oddly enough it usually does not carry an odor,
+which is pleasing to its sidhe master.  
+~
+sidhe~
+0 0 0 0
+AGX PTU -1000 0
+60 0 50d10+9500 5d5+400 8d6+28 claw
+-30 -30 -30 999 -30
+0 -1 FMRU E BP OS
+stand stand male 0
+CDHM ABCEGHPa large fur~
+20 20 1000 500
+0
+~
+~
+#9661
+full-grown female phoykl~
+A full-grown female phoykl~
+A full-grown female phoykl carefully guards its nest.
+~
+This phoykl is full-grown, and EXTREMELY deadly.  Its skin is a light
+shade of gray and smooth like a shark's, with an ugly face similar to
+a gargoyle.  Its tail is about one and a half meters long, and its
+wingspan is enormous, allowing it to fly quickly and for long distances
+or long periods of time, but also providing it great manueverability.
+Its four legs are short and stubby, but the claws on its hairy paws are
+long and razor sharp.  Oddly enough it usually does not carry an odor,
+which is pleasing to its sidhe master.  This female phokyl, like all
+female phokyls, lays eggs 10 at a time, and can reproduce up to
+3 times a year.
+~
+sidhe~
+0 0 0 0
+AG TU -1000 0
+60 0 50d10+9500 5d5+300 8d6+28 claw
+-29 -29 -29 999 -27
+0 -1 0 E BP OS
+stand stand female 0
+CDHM ABCEGHPa large fur~
+15 15 900 100
+0
+~
+~
+#9662
+Vulk'teru bird~
+A Vulk'teru~
+A bird flutters around looking for food.
+~
+This bird frightens most who look at it.  Its main body is about 4
+meters long, with its massive tail extending another 2 meters.  The 
+tail is huge at its start and narrows down as it continues, with 6 
+large red spikes on the ball at its end.  Its wingspan is relatively
+small, and its delicate wings, which it uses for flying very quickly
+but only for short period of time, look like its weak point.  Its two
+feet are scrawny, but can apparently hold up the rest of the body.
+Its body is covered in blue scale-life feathers, which look to provide 
+good protection from attackers.  Its beak is definately its best 
+offensive adaptation.  The long red beak comes to a razor sharp point
+and can peck over 200 times a minute, resulting in many deaths before
+the creature realizes what is happenning.  It has 4 eyes, 2 above the 
+beak and 2 below, so that it can see things coming from both above
+and below it.  This bird has no food preference other than that its
+prey is alive at the time of attack.
+~
+unique~
+0 0 0 0
+AGN TV -1000 0
+48 20 25d10+3750 6d6+200 6d6+18 peck
+-18 -18 -18 999 -18
+0 -1 M R I BK
+stand stand neutral 0
+W ACDEFHPQ large flesh~
+0 0 0 100
+0
+~
+~
+#9663
+Spriwyl Damotykr~
+Spriwyl Damotykr~
+A somber looking boy fueled by rage rests in the corner.
+~
+This apparent young sidhe seems much older upon close inspection.  His
+face appears to have been worn very tough by his obvious rage.  His
+hard pressed lips show he can barely contain the anger he feels inside,
+and the way he keeps shaking back and forth shows that he has too much
+energy to control by simply sitting still.  He is wearing rather nice
+clothes for the dirtiness that has overtaken the rest of him.  He looks
+much more fearsome than the normal sidhe, and appears to have more
+warrior-like features than most.  His anger could have bought these
+changes about in him.  The only thing that would make most people this
+angry is the death of many people close to them, but his story is
+unknown..
+~
+sidhe~
+0 0 0 0
+ABGNc DFHTUV -1000 0
+65 2 50d10+9700 1d1+200 8d7+28 wrath
+-37 -37 -37 999 -37
+0 -1 BFKN BE BP OS
+rest rest male 20000
+CDHM ABCEGHPa medium flesh~
+0 0 0 100
+0
+~
+~
+#9664
+Night Watchman~
+A night watchman~
+A night watchman, kept in his chair by a pair of shackles, sleeps here.
+~
+This poor old human appears to have fallen asleep on the job.  You do not
+really understand how he could stay awake, for he is so old and his job
+is so boring.  His days of activity have long been gone, and he looks like
+he has been a slave at the post for many years.  Why someone would give a 
+slave as important a job such as a watchman is not easily understood.  
+Apparently whoever owns him at least gave him some decent equipment.  He
+looks like he could die at any time, in fact maybe he isn't just sleeping
+now.
+~
+human~
+0 0 0 0
+ABG 0 0 0
+54 10 50d10+4000 1d1+100 7d6+15 beating
+-21 -22 -20 999 -21
+0 -1 0 0 0 0
+sleep sleep male 2000
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 800
+0
+~
+~
+#9665
+humongous red skulor spider~
+`aA humongous `bRed `aSkulor``~
+A humongous spider hangs from a thread here, waiting for prey.
+~
+This humongous fearsome creature is called by most a spider, but it
+much more that simply that.  It has 8 heads, all with mouths full of
+teeth ready to chomp anything that comes near, and all with 4 eyes.
+Its black body is covered with fur, except for its anus, where a huge
+hole, capable of spitting out web thicker than a human leg, resides. 
+It has only 8 feet, which are very thick, considering they must hold
+up its massive body.  It had a huge red skull shape on its back, which
+may be where it got its name.  It devours its victims whole, many times
+without even taking their equipment off, so who knows what lies in the
+bowels of this foul beast.
+~
+unique~
+0 0 0 0
+ABCFGNR DPVa -1000 0
+65 0 50d10+9750 10d10+300 8d6+30 chomp
+-30 -30 -30 999 -30
+0 -1 A Ba QR HK
+stand stand neutral 5925
+P ACENV huge shell~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#9653
+watchman's lantern~
+A Watchman's Lantern~
+A lantern usually used by the old watchman casts an eerie glow here.~
+brass~
+0
+light A A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 CHIJ 0 0
+0
+0
+54 50 0 P
+A
+5 1
+#9654
+watchman's cloak~
+A Watchman's Cloak~
+This large piece of cloth looks very useful in helping one sleep.~
+hard leather~
+0
+armor S AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ACD ABD BCD ABCD 0
+0
+0
+54 25 1505 P
+A
+5 2
+#9655
+mace mud shells~
+A mace crafted out of dried mud and beetle shells~
+A lump of mud and dead Motolk beetles lies here.~
+shell~
+0
+weapon S AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C D C ABC 0
+0
+0
+42 170 15 P
+A
+1 2
+#9656
+phoykl egg~
+A phokyl egg~
+An egg rest here on the ground, waiting to hatch.~
+food~
+0
+pill S AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DF 'frenzy' 'reserved' 'reserved' 'reserved'
+0
+0
+40 15 0 P
+#9657
+well sidhe graveyard~
+`lA well``~
+`lA deep well, which fills the room, tries to drown you.``~
+unknown~
+0
+fountain ORTa 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 -27680 0 P
+#9658
+bucket~
+`dA bucket with rotting wood``~
+`dA pile of wet, rotting wood lies here.``~
+wood~
+0
+drink S AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+DF AC 0 0 0
+0
+0
+40 15 0 P
+#9659
+glowing blue eyes~
+`eA pair of glowing `lblue `eeyes``~
+A pair of eyes crafted from the finest sapphires watch your every move.~
+crystal~
+0
+light AQSW A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+54 13 9999 P
+A
+17 -7
+#9660
+Phoykl Collar~
+`lA `pPhoykl `lcollar``~
+`lA collar often worn by `pPhoykls `llies in the mud here.``~
+earth~
+0
+armor CES AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+Grasping ahold of the rope, $n pulls themself up and out of the deep grave.~
+Grasping ahold of the rope, you pull yourself up and out of the deep grave.~
+$n pulls himself out of the grave by a hidden rope.~
+~
+D ABC D AD 0
+0
+0
+60 50 0 P
+A
+1 1
+#9661
+Damotykr boots~
+A pair of `nD`ja`nm`jo`nt`jy`nk`jr ``boots~
+A pair of boots with `nD`ja`nm`jo`nt`jy`nk`jr ``written on the bottom sit here.~
+hard leather~
+0
+armor EJLMS AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABCD ABCD ABCD ABCD 0
+0
+0
+54 10 0 P
+A
+2 2
+A
+18 2
+A
+13 20
+#9662
+Damotykr gloves~
+A pair of `nD`ja`nm`jo`nt`jy`nk`jr ``gloves~
+A pair of gloves with `nD`ja`nm`jo`nt`jy`nk`jr ``written on the bottom rest here.~
+hard leather~
+0
+armor EJLMSZa AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AE ABCD BCD E 0
+0
+0
+65 15 0 P
+A
+1 -1
+A
+12 5
+A
+13 30
+A
+2 1
+A
+24 2
+#9663
+mud pie~
+`dA mud pie``~
+`dA pile of mud`` in the shape of a pie is on the ground here.~
+earth~
+15
+weapon NSU A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 AD AB ACF J
+0
+0
+55 59 0 P
+#9664
+statue sidhe obj~
+`aa statue of an abnormally tall sidhe``~
+`aA statue of an abnormally tall sidhe ``guards the entrance here.~
+stone~
+0
+trash ORTa 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+60 9999 0 P
+E
+statue~
+This statue is of an old male sidhe, but has been reproportioned so
+that the statue is much taller than a normal male sidhe.  Its glowing
+blue eyes look like sapphires sparkling in the beam of light that shines
+from them, and very well may be.  The eyes portrude out from the rest 
+of the head, "watching" whoever passes through the entrance to the
+graveyard.  This statue is so well crafted that it scares away most
+who come to the graveyard, as the sidhe who created it desired.
+~
+E
+sidhe~
+This statue is of an old male sidhe, but has been reproportioned so
+that the statue is much taller than a normal male sidhe.  Its glowing
+blue eyes look like sapphires sparkling in the beam of light that shines
+from them, and very well may be.  The eyes portrude out from the rest 
+of the head, "watching" whoever passes through the entrance to the
+graveyard.  This statue is so well crafted that it scares away most
+who come to the graveyard, as the sidhe who created it desired.
+~
+#9665
+thigh bone~
+A thigh bone from a Vulk'teru~
+A long thigh bone from a Vulk'teru lies here.~
+bone~
+0
+weapon CES AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB CD AB ACF 0
+0
+0
+50 140 0 P
+A
+1 1
+#9666
+scroll restoration~
+Half a scroll of restoration~
+A partially completed scroll lies on the ground here.~
+paper~
+0
+scroll S AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AEF 'cure critical' 'reserved' -1 -1 0
+0
+49 1 500 P
+#9667
+entrance sign~
+A sign.~
+An old blurred sign sticks out of the ground here.~
+wood~
+0
+trash ORST 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 -31073 0 P
+E
+sign~
+This sign says "Welcome to the Fields of Gold."
+``
+Obviously many have thought this a joke, since there are various words
+etched in the wood of the sign, words that cannot be distinguished, 
+and maybe should not be distinguished.
+~
+#9668
+gravestone~
+An old weathered gravestone~
+An old weathered gravestone lies here.~
+stone~
+0
+trash ORSTa 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#9669
+gravestone~
+An old weathered gravestone~
+An old weathered gravestone lies here.~
+stone~
+0
+portal ORSTa 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n shoves the gravestone aside and stumbles into the passageway below.~
+You shove the gravestone aside and stumble into the passageway below.~
+A light shines from above and $n stumbles into the room, and promptly the light is gone.~
+~
+-1 0 0 BDJKN K
+0
+0
+0 9999 0 P
+#9670
+Large Shackles~
+A pair of large shackles~
+A pair of large shackles lie in a pile here.~
+metal~
+0
+armor MZa AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG CFG CFG CFG 0
+0
+0
+54 300 0 P
+A
+14 -800
+#9671
+Phoykl Skin Belt~
+A `pPhoykl ``skin belt~
+A belt made of tough skin lays stetched out across the floor.~
+fur~
+0
+clothing ACEJLMQSTa AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+65 140 0 P
+A
+13 20
+A
+17 -2
+A
+19 1
+#9672
+baby phoykl toy~
+A baby phoykl toy~
+A crudely constructed toy waits patiently to be played with.~
+fur~
+0
+trash EQST AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 40 0 P
+A
+1 1
+A
+2 1
+#9673
+Sarah's Bracelet~
+Sarah's Bracelet~
+A bracelet lays here with the inscription 'Forever yours!' on it.~
+porcelain~
+0
+armor QSTW AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+D AC BC ABC 0
+0
+0
+65 28 9000 P
+A
+24 -5
+A
+26 1
+#9674
+A pile of Sarah's bones~
+A pile of excreted bones~
+A pile of excreted bones lie in a pile here.~
+bone~
+0
+trash QST A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+65 250 0 P
+#9675
+ladder~
+A fraying rope ladder~
+A fraying rope ladder leads out of this passageway.~
+stone~
+0
+portal OSTa 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n climbs towards the roof, then vanishes.~
+~
+$n climbs out from under the gravestone.~
+You climb up and out of the secret passageway.~
+-1 0 G CDFGHIKN C
+0
+0
+1 0 0 P
+#9676
+Bucket of dried corn~
+A bucket of dried corn~
+A bucket of dried corn sits here for the watchman to nibble on.~
+food~
+0
+food S A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF CE 0 0 0
+0
+0
+1 1000 0 P
+#9677
+sign another~
+A sign~
+A sign, crudely cut out of wood, rests in the ground here.~
+wood~
+0
+trash ORSTa 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 9999 0 P
+E
+sign~
+This sign has words written in some sort of dried blood that say
+``
+``"`bBig, mean, scary guard to the east. Go only if you desire death.``"
+~
+#9678
+rope~
+(no short description)~
+~
+bamboo~
+0
+portal ORTa 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+Grasping ahold of the rope, you pull yourself up and out of the deep grave.~
+$n pulls himself out of the grave by a hidden rope.~
+~
+-1 0 0 ACDEFGHIKN C
+0
+0
+1 90 0 P
+#9679
+Shield of the Saiyajin Warrior~
+`dThe Shield of the `cSaiyajin Warrior``~
+`dAn ancient rotting wood shield has been left here.``~
+wood~
+0
+armor S AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AC BD AC AC 0
+0
+0
+42 170 0 P
+A
+19 3
+#9680
+baby phoykl collar~
+`bA `pbaby Phoykl `bcollar``~
+`bA collar often worn by `pBaby Phoykls `blies in the mud here.``~
+earth~
+0
+armor S AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+D ABC AC D 0
+0
+0
+50 30 0 P
+#9681
+A large moldy rock~
+`aA large `cmoldy `arock~
+`aA large `cmoldy `arock resides here, looking like a place to rest.~
+stone~
+0
+furniture ORSTa 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B 0 H ACDEFG ACDEFG
+0
+0
+1 9999 0 P
+#0
+
+#ROOMS
+#9653
+0 0
+~
+$n steps through the remains of the wall to enter this bedroom~
+$n steps through the remains of the wall to exit this bedroom~
+0 0 0
+A charred bedroom~
+A mangled web of metal remains in the northeast corner of this room.  It
+could have once been a bed, but with what little remains no legitimate
+conclusion can be drawn.  Unlike the rest of this cottage, there is no smell
+of smoke in this room.  The walls have an odd texture to them, with thousands
+of tiny holes in them.  They feel almost like a sea anemone, which is odd
+because most types of wood would have splintered from such holes.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 9654
+S
+#9654
+0 0
+~
+~
+~
+0 0 0
+Entrance to a burned down cottage~
+What appears to have once been the main cottage of the slaves who worked in
+the fields is now barely standing, with only a few burnt pieces of wood
+preventing the entire place from collapsing.  The two bedrooms, slightly less
+charred than this room, are noticable through the holes in the wall.  The wind
+whistling through the back wall creates a tune that sounds familiar.  The light
+from the fields creates jagged shadow monsters on the dirt floor.  The wet ash
+not been blown away by the wind still leaves a slight burnt odor in air, but 
+not strong enough for most to notice.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 9655
+D2
+~
+~
+0 0 9658
+D3
+~
+~
+0 0 9653
+S
+#9655
+0 0
+~
+$n steps through the remains of the wall to enter this bedroom~
+$n steps through the remains of the wall to exit this bedroom~
+0 0 0
+A charred bedroom~
+This room, if the few boards still standing could be considered a room, has
+seen far better days.  Apparently, it was once ravaged by a fire that destroyed
+anything useful.  The one benefit is that there is no longer a need for a door
+to exit the room.  The smell of burnt wood lingers still, due to a recent rain
+soaking the boards and drawing the odor out.  That destroys any idea one might
+have of putting the boards out of there misery by using them in a campfire, 
+at least for tonight.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 9654
+S
+#9656
+0 0
+~
+~
+~
+0 0 0
+A bedroom of a dilapidated cottage~
+This room is in the best shape of any in the cottages.  The cover of a single
+tome remains in the southwest corner of this room, its pages long destroyed.
+Some shattered boards near it could have once been part of a bookshelf.  Odd
+for a serf to have had books, since they were usually illiterate.  The silence
+in this room is surprising, considering the faint whispers heard in the
+surrounding rooms.  The silence can almost be felt, like a constant numbness
+permeating throughout the body.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 9661
+S
+#9657
+0 0
+~
+~
+~
+0 0 0
+A field of gold~
+To the north and the west are cliff walls.  It is strange that
+anyone would be crazy enough to try to plant crops this close
+to a cliff, but then again maybe that explains why there are
+no longer crops here.  No fence, no railings protect one from
+falling right off the side into an instant death.  Though one
+might also chose to jump off to avoid the stench here, which
+is fouler than a Vro'ath's breath magnified 10 times.  The silence
+here is mighty eerie, sort of like this room is just waiting
+to claim its next victim, waiting for someone or something to
+plunge off the cliff.
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 9658
+D2
+~
+~
+0 0 9662
+S
+#9658
+0 0
+~
+~
+~
+0 0 0
+A field of gold~
+What remains of the structure to the north casts some rather frightening
+shadows on the remnants of this field.  The crop that was once here was long
+ago ravaged by something, but whatever it was is kept away by the foul stench
+that currently envelops this part of the field.  The stench is so vivid it
+almost causes one to continually spit, in an attempt to eject the taste from
+one's mouth.  The only benefit of this stench is that is provides a bit of
+safety, for few (if any) living creatures would willingly come anywhere
+near such an ill odor.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 9654
+D1
+~
+~
+0 0 9659
+D2
+~
+~
+0 0 9663
+D3
+~
+~
+0 0 9657
+S
+#9659
+0 0
+~
+~
+~
+0 0 0
+A field of gold~
+To the north and the east are cliff walls.  There are depressions
+in the ground here, like there may have been rows of mounds of
+some sort here.  Either there were a lot of ants here at one
+time, or ages ago someone grew crops here.  Whatever used to
+be alive here is long gone, and all it has left is silence
+and a thick stench.  The smell of decay is what it is, however
+ironic that may be, since there has long since ceased to be
+anything here left to decay.  Apparently the wind coming up the
+cliff walls can do nothing to push the stench away, which seems
+to be as much a part of the area as the ground itself.
+~
+0 0 2
+0
+~
+I 0 D2
+~
+~
+0 0 9664
+D3
+~
+~
+0 0 9658
+S
+#9660
+0 0
+~
+~
+~
+0 0 0
+A bedroom of a dilapidated cottage~
+The light in this room flickers occassionally, creating a very eerie
+atmosphere.  The sounds of laughter can be heard coming from all corners of the
+room.  The air in here, in stark contrast to the surrouding area, smells rather
+sweet, like freshly baked pies.  There are some drawings on the wall, either
+drawn by children or very inexperienced artists, as what the drawings actually
+depict is not immediately obvious.
+~
+0 0 0
+0
+~
+I 0 E
+drawings~
+On closer inspection, the drawings appear to be done in dried blood!  What
+sort of demented child would draw on a wall in blood?  The images depicted appear
+to be of some sort of giants slaughtering much smaller creatures with massive swords
+and axes. 
+~
+D2
+~
+~
+0 0 9665
+S
+#9661
+0 0
+~
+~
+~
+0 0 0
+Entrance to a dilapidated cottage~
+The dirt floor in this cottage is only slightly cleaner than the ground outside,
+likely due to the little shelter that the roof still provides.  Unlike the other
+two cottages surrounding the fields, this one has no scorch marks.  It is just
+as devastated, but who or whatever did it spent time destroying it, rather than
+letting fire do its dirty work.  Unfortunately, that means there is no smoke smell
+to cover up the horrible stench seeping in from the outside.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9656
+D1
+~
+~
+0 0 9662
+D2
+~
+~
+0 0 9666
+S
+#9662
+0 0
+~
+~
+~
+0 0 0
+A field of gold~
+All that remains in this once plentiful field is barren dirt.  A few splintered
+boards to the west may have once been some sort of ramp into the cottage in that
+direction.  Every once and a while an unnatural breeze can be felt, most likely
+caused by some creature roaming the air.  The smell here is remarkably better
+than the surrounding rooms, though the cause, or lack of a cause, of this is
+unknown.  The cottage to the left looks to be about the best shelter in the
+whole graveyard, which should be remembered in case it starts to rain.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 9657
+D1
+~
+~
+0 0 9663
+D2
+~
+~
+0 0 9667
+D3
+~
+~
+0 0 9661
+S
+#9663
+0 0
+~
+~
+~
+0 0 0
+`lThe well``~
+The well here looks very old, appearing to be unused for some time now.
+It is humongous, easily large enough to have provided irrigation for the
+wheat fields surrouding it.  The water level seems remarkably high, most likely
+due to the recent rains that have drenched the surrounding areas.  The water
+smells fresh, ready to quench the thirst of any thirsty passerbyers.   Several
+smashed buckets are on the east side of the well, which probably carried the
+water to the castle to the south.  This well, though noticable unkept, is
+probably the cleanest thing in this entire area.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 9658
+D1
+~
+~
+0 0 9664
+D2
+~
+~
+0 0 9668
+D3
+~
+~
+0 0 9662
+S
+#9664
+0 0
+~
+~
+~
+0 0 0
+A field of gold~
+The porch of a building to the east appears to be the most "alive" thing
+noticable from here.  The ground is covered with mud, though not nearly
+to the proportions that the mud covered the path on the way here.  The
+wetness from the mud luckily covers up the stench here, so it is almost
+a peaceful, barren place.  Some kind of bird can be seen circling above
+at various times, looking down at you with an odd grin on its face.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 9659
+D1
+~
+~
+0 0 9665
+D2
+~
+~
+0 0 9669
+D3
+~
+~
+0 0 9663
+S
+#9665
+0 0
+~
+~
+~
+0 0 0
+Entrance to a dilapidated cottage~
+The roof in this cottage is very low.  The serfs who lived here must have been
+children or of a very short race.  The missing boards on the eastern wall leave
+a hole resembling a frown.  Nearly inaudible sounds are coming from the north,
+audible only to those with an acute sense of hearing.  This room feels warmer
+than the rooms outside, but there exists no obvious source of this heat.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9660
+D3
+~
+~
+0 0 9664
+S
+#9666
+0 0
+~
+~
+~
+0 0 0
+A bedroom of a dilapidated cottage~
+A large puddle has collected in the southeast corner of the room, while the rest
+of the floor is no more muddy than the fields of gold.  There are constant ripples
+in the puddle, which is very strange considering the rest of the air is still.
+The faint sound of the rippling water is serene, in stark contrast to the foul
+odor eminating from outside the cottage.  One could always place their face in the
+water, breathe in sharply and make the smell dissapear...
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9661
+S
+#9667
+0 0
+~
+~
+~
+0 0 0
+A field of gold~
+This section of the field is mostly barren ground.  The wheat that was
+once here has long since been blown away, leaving the ground drained
+of minerals.  There is some green object nearly covered in dust in the
+northeast corner here, but it is too hard to tell what it is without
+close inspection.  Every minute or so, the wind blows a gust of dry
+cold air, chilling who or whatever is nearby.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 9662
+D1
+~
+~
+0 0 9668
+S
+#9668
+0 0
+~
+~
+~
+0 0 0
+A field of gold~
+This is not the field of gold it seems to be.  While the name would
+suggest a field lined with gold, TRUE gold, all that lies here is wheat.
+What a cruel trick someone played naming this a "field of gold."  The
+wheat even smells worse than gold, mostly because what is left of the
+wheat is decaying, for this wheat field has been left untended for many
+years, much like the rest of this graveyard.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 9663
+D1
+~
+~
+0 0 9669
+D2
+~
+~
+0 0 9727
+D3
+~
+~
+0 0 9667
+S
+#9669
+0 0
+~
+~
+~
+0 0 0
+A field of gold~
+The so-called field of gold continues into this room, although it is
+clearly not what it used to be.  The stench of death and decay is strong
+here, and not just from the rotting wheat.  There appears to be blood
+stains on certain spots of the ground, but they are obviously very old
+now, because even the flies are staying away from them.  This field
+seems to inspire vomiting more than it does visions of great wealth.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 9664
+D1
+~
+~
+0 0 9670
+D3
+~
+~
+0 0 9668
+S
+#9670
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The mud here is rather dry and appears to not continue to the west.  How the
+mud can be so wet and raunchy in one room and caked hard as a rock in the
+next does not seem to make much sense, yet it is reality.  Whatever dried
+up the mud here also eliminated the smell, making this an ideal room to rest
+in after combating the flow of mud from the south, without having to wait
+for temporary anosmia to set in to be able to stand the stench.
+~
+0 0 14
+0
+~
+I 0 D2
+~
+~
+0 0 9676
+D3
+~
+~
+0 0 9669
+S
+#9671
+0 0
+~
+~
+~
+0 0 0
+A dead end~
+This room is as dark as can be.  The sloshing sounds and the wetness felt
+proves that their is still mud here, but to the north there is something
+rough and hard that doesn't appear to have cross through or over it.
+Hopefully it is just rock, and not some slumbering rock giant, but either
+way it would make sense to quickly go back and take another path.
+~
+0 A 14
+0
+~
+I 0 D2
+~
+~
+0 0 9677
+S
+#9672
+0 0
+~
+~
+~
+0 0 0
+A collasped staircase~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 9673
+D2
+~
+~
+0 0 9678
+D4
+~
+~
+0 0 9746
+S
+#9673
+0 0
+~
+~
+~
+0 0 0
+A quaint room~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 9679
+D3
+~
+~
+0 0 9672
+S
+#9674
+0 0
+~
+~
+~
+0 0 0
+Back entrance to a small castle~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 9680
+D5
+~
+~
+0 0 9727
+S
+#9675
+0 0
+~
+~
+~
+0 0 0
+A master bedroom~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 9681
+S
+#9676
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The mud here seems to be lighter in color than the surrounding
+area, most likely due to a higher content of water, making it
+take more of a swimming stroke to manuever than a walking
+stride.  The smell is better too around here, rendering it a 
+nice place to just lie back and float for a while.  Some kind of
+squawking can be west to the northwest, a sound unlike any other.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9670
+D1
+~
+~
+0 0 9677
+D2
+~
+~
+0 0 9682
+S
+#9677
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+This place is a tropical paradise in the middle of hell.  There
+is a palm tree right above a large rock, providing ample share,
+and a small watering hole right next to the rock with sparkling
+clear water, perfect for drinking.  A man could travel his whole
+life and not find a more beautiful place than this.  It even
+smells like coconuts here, perfecting the pleasureful experience.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9671
+D2
+~
+~
+0 0 9683
+D3
+~
+~
+0 0 9676
+S
+#9678
+0 0
+~
+~
+~
+0 0 0
+A small hallway~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9672
+D1
+~
+~
+0 0 9679
+D2
+~
+~
+0 0 9684
+S
+#9679
+0 0
+~
+~
+~
+0 0 0
+A small hallway~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9673
+D1
+~
+~
+0 0 9680
+D2
+~
+~
+0 0 9685
+D3
+~
+~
+0 0 9678
+S
+#9680
+0 0
+~
+~
+~
+0 0 0
+A small hallway~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9674
+D1
+~
+~
+0 0 9681
+D3
+~
+~
+0 0 9679
+S
+#9681
+0 0
+~
+~
+~
+0 0 0
+A small hallway~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9675
+D2
+~
+~
+0 0 9686
+D3
+~
+~
+0 0 9680
+S
+#9682
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+`aThe mud is so deep here that no solid ground can be felt.  The path has
+turned into a giant swimming pool filled with mud, except that this mud
+is much easier to drown in, for a little inhilation of this mud and death
+shows its smiling face in no time.  The one good thing about being forced 
+to tread mud to stay alive is that the smell seems to hold less importance
+when fighting for your life.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 9676
+D2
+~
+~
+0 0 9687
+S
+#9683
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+To the west there is a picture of a smiling Syvin.  What?  Upon closer
+inspection, it actually appears to be a frowning Human.  And then it
+dissapears.  Was it just a mind trick, or did it really exist?  The mud's
+constant swirling may invoke some sort of hypnotizing effect, causing 
+visual images to appear in the darkness.  Or it could just be that the
+stench rots away the brains of all, causing hallucinations.  Whichever 
+the explanation is, the fact is that no one should stay here long, because
+something is wrong here.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9677
+D2
+~
+~
+0 0 9688
+S
+#9684
+0 0
+~
+~
+~
+0 0 0
+Entrance to a small castle~
+The entrance to this small castle appears to be completely unguarded.  
+There looks to be marks on the right side of the entrance that could 
+indicate the presence of a door at one time, but other than that there
+is simply a huge open path straight into the next room.  The castle
+is constructed of some kind of black rock, presumably the same as that
+which the statues at the entrance were constructed.  The smell of
+death and decay which consumes the graveyard has been reduced to that
+of simply decay.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9678
+D2
+~
+~
+0 0 9689
+S
+#9685
+0 0
+~
+~
+~
+0 0 0
+A slave's bedroom~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9679
+S
+#9686
+0 0
+~
+~
+~
+0 0 0
+A child's bedroom~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9681
+S
+#9687
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+There are several objects floating in the mud here, but upon closer inspection
+they appear to be nothing more than feces.  Something has been here recently,
+and from the pugnent smell of the feces, it appears to have been VERY recently.
+A sense of panic arises when the realization comes that for feces that large,
+the owner could very well be a significant threat.  
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9682
+D1
+~
+~
+0 0 9688
+D2
+~
+~
+0 0 9693
+S
+#9688
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+Mud, mud, mud, mud.  After standing in this filth long enough, the only
+word that comes to mind is mud.  To describe this foul-smelling, sticky to
+the touch, and aesthetically unappealing mud is too challenging, so it will
+just be referred to as mud.  This mud is ubiquitous, and stretches out for
+as far as the eye can see, which may not be very far, for the extremely dim
+illumination makes it tough to see more than about 1 meter in any direction.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9683
+D2
+~
+~
+0 0 9694
+D3
+~
+~
+0 0 9687
+S
+#9689
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The mud here is much shallow than the rest of the path, probably only a meter
+or so deep.  This eludes to the possibility of the path coming to an end
+nearby, unless of course this is just a simple anomaly of the path.  The
+raunch smell is so strong it can almost be tasted, forcing one to leave this
+room much faster than they entered.  Their seems to be movement in the
+darkness to the west, but then again it might just be nothing.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9684
+D2
+~
+~
+0 0 9695
+S
+#9690
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+A rotted stump rests in the middle of the river of mud here.  Various
+insects have taken haven in it to protect themselves from the mud, creating
+a flurry of activity in the blackened stump.  The bugs do not seem to help
+the awful stench rising from the stump, and also do not seem to notice it.
+The mud surrounding the stump seems exactly the same as the rest of the
+mud that has overrun this path.
+~
+0 0 14
+0
+~
+I 0 E
+stump~
+This stump is barely above the level of the mud, and does not look
+stable enough for one to rest on.  Its age can not be determined since
+the rings are undistinguishable due to the erosion from many years of
+wind and mud.
+~
+D1
+~
+~
+0 0 9691
+D2
+~
+~
+0 0 9696
+S
+#9691
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The sea of mud may never end.  The mud is so liquid like that maybe
+this path is not on wet ground, but on dirty water.  That would make 
+more sense.  Whichever it is, it does not seem very stable at all, 
+and who knows what other creatures could be fumbling around in the mud
+here too.  The decision to press on quickly comes to mind.
+~
+0 0 14
+0
+~
+I 0 D1
+~
+~
+0 0 9692
+D2
+~
+~
+0 0 9697
+D3
+~
+~
+0 0 9690
+S
+#9692
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The path here leads to the west and to the south.  To the north and to
+the east there lies only darkness.  Some bones are floating here, but the
+species from which they came can not be determined.  The bones have been
+picked clean, and so do not have the usual musty smell.  The mud here is
+waist deep, but feels rather soothing, so soothing in fact in lulls many
+passerbyers into a peaceful sleep.
+~
+0 0 14
+0
+~
+I 0 E
+bones~
+These assorted bones bobbing in and out of the mud appear to be sidhe.
+They have some kind of marks on them, either claw or teeth, which go
+very deep.  Who knows how long these bones have been here.
+~
+D2
+~
+~
+0 0 9698
+D3
+~
+~
+0 0 9691
+S
+#9693
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The constant wetness of the mud slushing away below arouses a feeling of
+seasickness.  Mud, mud, its everywhere, creating a sense of hopelessness
+that there is such a thing as dry land anymore.  Dark mud, brown mud, it all
+begins to blur together lending a new sense to the word mud.  Imagining
+the taste of the disgusting mud is not hard after being surrounded by it
+so long, but this vision causes nauseousness in the worst way possible.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9687
+D2
+~
+~
+0 0 9699
+S
+#9694
+0 0
+~
+~
+~
+0 0 0
+A dead end~
+There is a solid wall of darkness to the south, east, and west.  One can
+slowly move their foot into the wall, and it dissapears into the darkness.
+It is basically the same as the mud, except this darkness covers all
+instead of simply the ground.  Their is a large moldy rock right before
+the eastern wall of darkness which looks like it could be a good place
+to take a break from the exhaustive fight against the mud.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9688
+S
+#9695
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+A small whirlpool swirls in the middle of the path here.  On the
+surface there appears to be no reason for such a phenomenon, so the 
+answer must lie beneath.  The sound of the whirlpool is melifluous
+and repetive, creating a feeling of relaxtion that is a pleasant
+vacation from the rest of the eerie muddy path.  The smell also seems
+to have vanished from the room, like it was sucked into the whirlpool.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9689
+D1
+~
+~
+0 0 9696
+S
+#9696
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+A backwards L-shaped area of less mud can be distinguished from the pool 
+of mud, which is suppossedly a path.  It does, however, lead in the only
+two directions that are not blocked.  To the east there is a huge
+fallen tree, with leaves that would snag anyone attempting to jump over
+it.  Odd for a tree to be the lone once-living thing in this muddy path,
+which seems less alive than the graveyard.  To the south is a small
+cliff that doesn't look short enough to fall or climb down from without
+the breaking of too many bones to continue living.  The "path" will have
+to do.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9690
+D3
+~
+~
+0 0 9695
+S
+#9697
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The foul smelling mud seems to be thicker here, with clumps of it in
+places which must be gone around.  Flashes of movement can be seen, and
+what could be considered rustling in mud can also be head occasionally.
+Strange, no insects can be seen in this room.  Maybe they are making the
+detected sounds and movements.  What else could be alive in this filth?
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9691
+D2
+~
+~
+0 0 9700
+S
+#9698
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+This appears to be the high ground of the path.  The mud here is only 
+ankle deep, and can be kicked out of the way so solid ground can be seen.
+The mud here is darker, probably because its ratio of dirt to water
+is higher than the rest of the path.  Darkness still extends to the
+south and west, so the only exits are to the north and east.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9692
+D1
+~
+~
+0 0 9699
+S
+#9699
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The rocks close by to the south and east prevent further travel in 
+those directions, and also provide little space for the mud to fit in
+this small part of the path.  A couple slugs can be seen on the rocks,
+probably overjoyed that the mud has not overtaken them yet, but a
+Vulk'teru can be seen circling above occassionally, so those slugs may
+soon be plucked from their safe haven.
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9693
+D3
+~
+~
+0 0 9698
+S
+#9700
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+The pall of darkness extends to the east and west here, preventing further
+exploration in those directions.  A slight feeling of life is felt, almost
+like a sixth sense, although no visual or auditory perceptions further
+this feeling.  The mud here is knee-deep, making it hard to walk thru
+while still retaining one's current footwear. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9697
+D2
+~
+~
+0 0 9701
+S
+#9701
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path``~
+To the east and west, nothing can be seen except extreme darkness. 
+Insects can be heard buzzing as they wander through the mud, but can
+not be seen from the normal height of a person due to the darkness.  The
+path continues to the north, where there appears to be more light.  The
+graveyard entrance is to the south. 
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9700
+D2
+~
+~
+0 0 9705
+S
+#9702
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+This gravesite, like all the others, is well-concealed in the darkness
+which covers the graveyard.  The long dead yellow grass on the ground
+appears well-trampled, yet still occassionally crunches under the feet of
+those passing over it.  Hopefully the person below is not disrespected by
+this traffic over its grave, for it appears many have done so.  To the
+north and west only darkness can be seen, too much darkness to warrant
+further travel in those directions.
+~
+0 A 15
+0
+~
+I 0 E
+gravestone~
+`a                      ____________
+                   _/            \_
+                 _/                \_
+               _/                    \_
+             _/                        \_
+           _/                            \_
+         _/            R.  I.  P.          \_
+       _/                                    \_
+     _/                e   n   e               \_
+   _/                  s       a                 \_
+ _/                    t       c                   \_
+|                              e                     |
+|                       ______                       |
+|                    .-"      "-.                    |
+|                   /            \                   |
+|       _          |              |          _       | 
+|      ( \         |,  .-.  .-.  ,|         / )      |
+|       > "=._     | )(__/  \__)( |     _.=" <       |
+|      (_/"=._"=._ |/     /\     \| _.="_.="\_)      |
+|             "=._ (_     ^^     _)"_.="             |
+|                 "=\__|IIIIII|__/="                 |
+|                _.="| \IIIIII/ |"=._                |
+|      _     _.="_.="\          /"=._"=._     _      |
+|     ( \_.="_.="     '--------'     "=._"=._/ )     | 
+|      > _.="                            "=._ <      |
+|     (_/   jgs                              \_)     |
+|                                                    |
+|                                                    |
+|                                                    |
+|                                                    |
+|     Here lies Raapian, the thief.  He was not      |
+|      extremely skilled in his craft, and was       | 
+|       killed in prison after getting caught        |
+|      attempting to steal meditation mats from      |
+|    Goldmund.  What would a thief need with mats?   |
+|                                                    |
+|     "I may not be the best thief, but at least     |
+|               I am not the smartest."              |
+ ----------------------------------------------------
+~
+D1
+~
+~
+0 0 9703
+D2
+~
+~
+0 0 9707
+S
+#9703
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+Yet another gravesite.  The gravestone here looks just like all
+the others, the same green mold covering it, making it hard to read.
+The ground here is just as wet, with the dead grass looking, well,
+dead.  This grass looks like it has been walked over many times, for
+most of it is hidden under the dirt.  The darkness conceals all the
+other land features around.  The gravesites are all starting to look
+the same.  Hopefully this graveyard does not lead around in circles
+with no escape.
+~
+0 A 15
+0
+~
+I 0 E
+gravestone~
+`a   ____________
+                   _/            \_
+                 _/                \_
+               _/                    \_
+             _/                        \_
+           _/                            \_
+         _/            R.  I.  P.          \_
+       _/                                    \_
+     _/                e   n   e               \_
+   _/                  s       a                 \_
+ _/                    t       c                   \_
+|                              e                     |
+|   `h                    ______                   `a    |
+|     `h               .-"      "-.                  `a  |
+|       `h            /            \                  `a |
+| `h      _          |              |          _    `a   |
+|  `h    ( \         |,  .-.  .-.  ,|         / )    `a  |
+|   `h    > "=._     | )(__/  \__)( |     _.=" <      `a |
+|    `h  (_/"=._"=._ |/     /\     \| _.="_.="\_)  `a    |
+|     `h        "=._ (_     ^^     _)"_.="          `a   |
+|      `h           "=\__|IIIIII|__/="             `a    |
+|       `h         _.="| \IIIIII/ |"=._             `a   |
+|    `h  _     _.="_.="\          /"=._"=._     _    `a  |
+|    `h ( \_.="_.="     '--------'     "=._"=._/ )    `a |
+|    `h  > _.="                            "=._ <    `a  |
+|   `h  (_/   jgs                              \_)   `a  |
+|                                                    |
+|                                                    |
+|                                                    |
+|                                                    |
+|     Here lies Anch the magnifiscent mage.  He      |
+|   died when trying to destroy six Motolk Beetles   |   
+|   that had come to feed on his father who passed   |
+|   away the previous night.  Luckily the beetles    |
+|    filled up on his father and left his corpse     |
+|   for the mortician to bury with most of the flesh |
+|     intact.  His ironic last words, heard by a     |
+|     passerbyer, are inscribed below                |
+|                                                    |
+|    "I would die before I would let my father's     |
+|                  body be desecrated."              |
+ ----------------------------------------------------
+~
+D1
+~
+~
+0 0 9704
+D2
+~
+~
+0 0 9708
+D3
+~
+~
+0 0 9702
+S
+#9704
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+A gust of wind chills this room so it is much colder than those
+around it, with no way for those passing by to stay warm.  The mud
+here smells much more like feces than the other gravesights, causing
+a feeling of nausia to anyone who breathes it, although there are
+no actual feces visible.  The wind gusts are strong here, feeling more
+solid than simply wind.
+~
+0 A 15
+0
+~
+I 0 E
+gravestone~
+`a   ____________
+                   _/            \_
+                 _/                \_
+               _/                    \_
+             _/                        \_
+           _/                            \_
+         _/            R.  I.  P.          \_
+       _/                                    \_
+     _/                e   n   e               \_
+   _/                  s       a                 \_
+ _/                    t       c                   \_
+|                              e                     |
+|   `h                    ______                   `a    |
+|     `h               .-"      "-.                  `a  |
+|       `h            /            \                  `a |
+| `h      _          |              |          _    `a   | 
+|  `h    ( \         |,  .-.  .-.  ,|         / )    `a  |
+|   `h    > "=._     | )(__/  \__)( |     _.=" <      `a |
+|    `h  (_/"=._"=._ |/     /\     \| _.="_.="\_)  `a    |
+|     `h        "=._ (_     ^^     _)"_.="          `a   |
+|      `h           "=\__|IIIIII|__/="             `a    |
+|       `h         _.="| \IIIIII/ |"=._             `a   |
+|    `h  _     _.="_.="\          /"=._"=._     _    `a  |
+|    `h ( \_.="_.="     '--------'     "=._"=._/ )    `a |
+|    `h  > _.="                            "=._ <    `a  |
+|   `h  (_/   jgs                              \_)   `a  |
+|                                                    |
+|                                                    |
+|                                                    |
+|                                                    |
+|    Here lies Plikoc, the crazy bard.  She swore    |
+|   she could fly, was two and a half meters tall,   | 
+|   and was a light shade of blue.  Unfortunately,   |
+|  she was not a sidhe (although her parents were),  |
+| but an elf who was abandoned and raised in secret. |
+|   After she jumped off the roof to her death, her  |
+|  parents realized why sidhe hated the other races. |
+|        They are all just sidhe wannabees!          |
+|                                                    |
+|   "Sidhe may be short and blue with wings, but     |
+|         at least they're smarter than you!"        |
+ ----------------------------------------------------
+~
+D1
+~
+~
+0 0 9705
+D2
+~
+~
+0 0 9709
+D3
+~
+~
+0 0 9703
+S
+#9705
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+This gravesite appears less illuminated that the others,
+if that is possible.  This site has the same mud and grass and 
+gravestone as the other gravesites, but behind the gravestone
+the ground is a little lower behind the gravestone.  Upon
+investigation, a fairly unused path can be found leading to the
+north.  Darkness conceals whatever is at the end of it.  The path
+is not exactly begging for someone to walk on it, but it is not
+exactly warning them away from it.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9701
+D1
+~
+~
+0 0 9706
+D2
+~
+~
+0 0 9710
+D3
+~
+~
+0 0 9704
+S
+#9706
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+This room is north-east corner of the graveyard.  To the
+north and east lies only complete darkness.  Several severly wilted 
+roses lie on this gravestone, arousing curiosity as to whose grave
+it is.  The inscription is fairly hard to read due to the erosion 
+of the stone and the fact that it is covered in green mold, but it
+may be important in understanding why these roses lie here.
+~
+0 A 15
+0
+~
+I 0 E
+gravestone~
+`a   ____________
+                   _/            \_
+                 _/                \_
+               _/                    \_
+             _/                        \_
+           _/                            \_
+         _/            R.  I.  P.          \_
+       _/                                    \_
+     _/                e   n   e               \_
+   _/                  s       a                 \_
+ _/                    t       c                   \_
+|                              e                     |
+|   `h                    ______                   `a    |
+|     `h               .-"      "-.                  `a  |
+|       `h            /            \                  `a |
+| `h      _          |              |          _    `a   | 
+|  `h    ( \         |,  .-.  .-.  ,|         / )    `a  |
+|   `h    > "=._     | )(__/  \__)( |     _.=" <      `a |
+|    `h  (_/"=._"=._ |/     /\     \| _.="_.="\_)  `a    |
+|     `h        "=._ (_     ^^     _)"_.="          `a   |
+|      `h           "=\__|IIIIII|__/="             `a    |
+|       `h         _.="| \IIIIII/ |"=._             `a   |
+|    `h  _     _.="_.="\          /"=._"=._     _    `a  |
+|    `h ( \_.="_.="     '--------'     "=._"=._/ )    `a | 
+|    `h  > _.="                            "=._ <    `a  |
+|   `h  (_/   jgs                              \_)   `a  |
+|                                                    |
+|                                                    |
+|                                                    |
+|                                                    |
+|     Here lies Moc'tath Racptin.  For some odd      |
+|     reason, he always wanted to be a cleric.       | 
+|     Since the gods forbid it for an even odder     |
+|     reason, he was forced to beg real clerics      |
+|     to give him parchments so he could recite      |
+|     their spells to make himself feel better.      |
+|     His downfall came from a cruel trick one       |
+|     played on him by giving him ray of truth       |
+|     parchments.                                    |
+|                                                    |
+|   "There are evil clerics.  I am evil.  Why can    |
+|                  I not be a cleric?"               |
+ ----------------------------------------------------
+~
+D2
+~
+~
+0 0 9711
+D3
+~
+~
+0 0 9705
+S
+#9707
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+Some sparkles can be seen under the mud to the east of the gravestone
+here.  Upon closer inspection, it is an old mutilated gold coin that
+was reflecting the tiny bit of light that exists in this graveyard.
+No one has taken it yet because it is damaged and useless, other than
+to sit in the mud and catch the eye of those passing by.  The mud here 
+is slightly thicker than that surrounding it, but other than that and
+the coin, this gravesite is no different than the others.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9702
+D1
+~
+~
+0 0 9708
+D2
+~
+~
+0 0 9712
+S
+#9708
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+Here lies the grave of yet another fallen sidhe who lost his life.
+The gravestone here looks larger than the others.  Maybe the owner was
+more wealthy and could afford a bigger stone.  The ground here feels
+more solid than in other places, less like mud and more like dry ground.
+Odd, since nothing can be seen that would block the rain from hitting this
+one patch of ground, and even if that were true the water from adjoining 
+graves should have leaked over to this one.
+~
+0 A 15
+0
+~
+I 0 E
+graveyard~
+`a   ____________
+                   _/            \_
+                 _/                \_
+               _/                    \_
+             _/                        \_
+           _/                            \_
+         _/            R.  I.  P.          \_
+       _/                                    \_
+     _/                e   n   e               \_
+   _/                  s       a                 \_
+ _/                    t       c                   \_
+|                              e                     |
+|   `h                    ______                   `a    |
+|     `h               .-"      "-.                  `a  |
+|       `h            /            \                  `a |
+| `h      _          |              |          _    `a   | 
+|  `h    ( \         |,  .-.  .-.  ,|         / )    `a  |
+|   `h    > "=._     | )(__/  \__)( |     _.=" <      `a |
+|    `h  (_/"=._"=._ |/     /\     \| _.="_.="\_)  `a    |
+|     `h        "=._ (_     ^^     _)"_.="          `a   |
+|      `h           "=\__|IIIIII|__/="             `a    |
+|       `h         _.="| \IIIIII/ |"=._             `a   |
+|    `h  _     _.="_.="\          /"=._"=._     _    `a  |
+|    `h ( \_.="_.="     '--------'     "=._"=._/ )    `a |  
+|    `h  > _.="                            "=._ <    `a  |
+|   `h  (_/   jgs                              \_)   `a  |
+|                                                    |
+|                                                    |
+|                                                    |
+|                                                    |
+|     Here lies Terces Egassap.  Died of old age.    |
+|                                                    | 
+|                                                    |
+|                                                    |
+|                                                    |
+|                                                    |
+|   "Always look beneath, for you never know what    |
+|                  may lie within."                  |
+ ----------------------------------------------------
+~
+D0
+~
+~
+0 0 9703
+D1
+~
+~
+0 0 9709
+D2
+~
+~
+0 0 9713
+D3
+~
+~
+0 0 9707
+S
+#9709
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+The phrase the grass is always greener on the other side does not
+apply to this gravesite.  Growing on it is the only green grass in
+this entire graveyard.  How something so alive as grass could grow in
+a place as dead as this is nearly unbelievable.  Nearly 50 green
+grass pieces are portruding through the mud, right over the grave.
+The person buried here must have had some kind of fertilzer in their
+system that just helped the grass shoot straight up out of the mud.  
+Its also amazing how photosynthesis can occur with the tiny bit of 
+light that shines onto the grave.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9704
+D1
+~
+~
+0 0 9710
+D2
+~
+~
+0 0 9714
+D3
+~
+~
+0 0 9708
+S
+#9710
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+This is as standard as gravesites come.  There are no distinguishing
+features at all.  The gravestone is dented in the same places as the
+others, the mud is the same consistancy, the death smell just as putrid
+as others sites, and the darkness just as foreboding as eveywhere else.
+Its conformity to the exact middle ground on each distinguishing
+feature ironically does separate it from the rest, which all have some
+little imperfection that distinguishes them from the rest.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9705
+D1
+~
+~
+0 0 9711
+D2
+~
+~
+0 0 9715
+D3
+~
+~
+0 0 9709
+S
+#9711
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+A tall ladder blocks the path to the south, with the only visible way
+to get on it to its west.  The ground here slopes up to the east,
+although its hard to tell since the near-liquid mud attempts to cover
+this fact up.  The smell of death lingers even here, but the smell of
+the rotting wood from the ladder covers masks most of the other smells.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9706
+D3
+~
+~
+0 0 9710
+S
+#9712
+0 0
+~
+~
+~
+0 0 0
+`iA cobble path``~
+The few small stones that are visible above the mud form the end of the
+cobble path that has stretched from the entrance of the graveyard to
+here.  To the west is a wall of darkness so menanacing that none dare
+attempt to travel that direction.  The few blades of grass that do
+remain are only barely visible above the mud pit that has engulfed this
+room.  The sound the mud makes when one goes sloshing around in it is
+not exactly the most pleasant sound in the world, which is probably why
+this path has ended here, since no one would want to walk far listens to
+a sound like that.
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 9707
+D1
+~
+~
+0 0 9713
+D2
+~
+~
+0 0 9717
+S
+#9713
+0 0
+~
+~
+~
+0 0 0
+`iA cobble path``~
+The small stones bunched together here can be see leading to the east
+and west from this room.  Part of this so-called path have been pushed
+into the earth from the weight of those who have travelled above it and
+are no longer visible.  Blades of dead grass poke through the parts that
+are still visible through the mud.  The stones make a squishing sound
+when walked on as they are pushed farther and farther into the mud,
+leaving less and less of a path behind.
+~
+0 A 1
+0
+~
+I 0 D0
+~
+~
+0 0 9708
+D1
+~
+~
+0 0 9714
+D2
+~
+~
+0 0 9718
+D3
+~
+~
+0 0 9712
+S
+#9714
+0 0
+~
+~
+~
+0 0 0
+`iA cobble path``~
+An amazingly repugnant smell assails the olfactory organs upon any
+being's entrance into this room.  The stench of every single rotting
+corpse in the graveyard is concentrated in this one single room,
+causing a feeling of nausea in most, shown by the piles of dried vomit
+lying around, which also contributes to the stench.  A path can be seen
+sparsely throughout the piles of festering filth, a path which must lead
+to a better place that his.
+~
+0 A 1
+0
+~
+I 0 D0
+~
+~
+0 0 9709
+D1
+~
+~
+0 0 9715
+D2
+~
+~
+0 0 9719
+D3
+~
+~
+0 0 9713
+S
+#9715
+0 0
+~
+~
+~
+0 0 0
+`iA cobble path``~
+A seemingly simplistic cobble path, the small rocks composing it were
+made from only the best shale rocks, carried by human slaves from shale
+to their current resting place.  This process took over 5 years to
+complete, and from the looks of the current state of the path, was an
+effort that can no longer be praised.  The rocks have turned green from
+the moss, most of which is decomposing and adds to the already nasty
+smell of the graveyard.
+~
+0 A 1
+0
+~
+I 0 D0
+~
+~
+0 0 9710
+D1
+~
+~
+0 0 9756
+D2
+~
+~
+0 0 9720
+D3
+~
+~
+0 0 9714
+S
+#9716
+0 0
+~
+~
+~
+0 0 0
+Night Watchman's Post~
+This small shack was made to fit a sidhe, and the dents on the top of the
+door frame show that most others have hit their head on their way in.  The eerie
+glow of the watchman's lantern lights up the room just enough for the papers lying
+on the floor next to the chair and an old clock hanging on the north wall to be
+seen.  The clock reads 6:15, but is obviously not working at the moment, for
+no ticking can be heard.  It seems the night watchman was reading the papers
+and feel asleep in his chair.  No big surprise.  This whole place seems too 
+dead.
+~
+0 A 15
+0
+~
+I 0 E
+clock~
+This clock is a giant grandfather clock.  It looks to be one of the first real
+clocks constructed.  Its face has been dented, but it looks as if it would
+work if it was simply wound up again.  The time reads 6:15, but it is not
+clear as to if that is pm or am.  From the looks of this place, the darkness
+would make it hard to tell am from pm, so it makes sense that the clock can't
+either.
+~
+D5
+~
+~
+0 0 9756
+S
+#9717
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+This gravesite has visited recently.  There lie 2 red roses in front 
+of the gravestone, and the gravestone itself has a dip in it, like 
+someone has leaned on it to cry hundreds of times.  A hard footprint 
+can be noticed directly east of the gravestone, where the mud dried
+once, although it is once again filled by mud.  The smell of death is
+not present here, most likely because the smell of the flowers cancels
+it out.  
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9712
+D1
+~
+~
+0 0 9718
+D2
+~
+~
+0 0 9722
+S
+#9718
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+Two violets lie at the foot of this grave.  The gravestone has been
+recently brushed off, for it is not moldy or partially covered by dirt
+like those at the other gravesites.  The gravestone itself is also
+slight larger than the others.  Someone who is still alive must hold
+this person dear to their heart to give them such special treatment.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9713
+D1
+~
+~
+0 0 9719
+D2
+~
+~
+0 0 9723
+D3
+~
+~
+0 0 9717
+S
+#9719
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+This gravesite seems signifigantly smaller than the others.  Either 
+the being underneith the ground here is abnormally short, or it is a 
+child's.  This grave too seems as clean as the two to the left.  Maybe
+they were all related and the same person is taken care of the graves.
+One single tulip rests on the small gravestone, with beauty beyond
+comparison, such that it brings tears to most's eyes.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9714
+D1
+~
+~
+0 0 9720
+D2
+~
+~
+0 0 9724
+D3
+~
+~
+0 0 9718
+S
+#9720
+0 0
+~
+~
+~
+0 0 0
+`iA cobble path``~
+The cobble composing the path in this room seems to be from a different
+source from those in the other rooms.  While the others appearred to
+have an original color of black (which is hard to tell through the mud
+and moss that covers them), these appear to be red.  Maybe they should be
+examined more closely.  The smell in this room is also different than
+the rest, but no less repulsive.  The stench on the path seems to keep
+the path from serving the opposite of its purpose : While the path was
+meant for one to walk on to avoid walking on the graves, the stench from
+the path keeps one walking on the graves so that they do not have to
+suffer the nasal punishment.
+~
+0 A 1
+0
+~
+I 0 D0
+~
+~
+0 0 9715
+D1
+~
+~
+0 0 9721
+D2
+~
+~
+0 0 9725
+D3
+~
+~
+0 0 9719
+S
+#9721
+0 0
+~
+~
+~
+0 0 0
+`iA cobble path``~
+The small grey archway to the left leads out of this disgusting graveyard.
+The old cobble path underfoot appears to be red, though the centuries of wear
+have lessened its hue greatly.  The horrid aroma in this room is much worse
+than could have been imagined from someone yet to enter the graveyard, and
+would probably cause most to lose their lunch, if only to attempt to cover
+the aroma with the smell of vomit.  The air here is sticky, it feels what
+one would expect walking through a cloud to feel like, except that the cloud
+here is black and not white.
+~
+0 A 1
+0
+~
+I 0 D1
+~
+~
+0 0 9730
+D2
+~
+~
+0 0 9726
+D3
+~
+~
+0 0 9720
+S
+#9722
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+The way the fearsome darkness from the west and south rolls over onto
+this gravesite creates a feeling of sheer terror that protects this
+corner grave from most visitors.  The normal five senses may give no
+clues as to why this darkness makes one's skin crawl, but it is the
+sixth sense everyone possesses that keeps all intelligent beings away.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9717
+D1
+~
+~
+0 0 9723
+S
+#9723
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+A chill wind brings the smell of newly unearthed dirt, coming from the
+freshly dug grave below.  This new grave seems very out of place considering
+the rest of the graveyard is ancient.  The extreme darkness to the south and
+the rumors told about what may lie in it prevent anyone from wandering in
+that direction.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9718
+D1
+~
+~
+0 0 9724
+D3
+~
+~
+0 0 9722
+D5
+~
+~
+0 0 9735
+S
+#9724
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+The way shadows fall on the empty grave here make anything that moves
+appear much more gruesome than it actually is.  A light rain has recently
+fallen, creating an empty grave of mud below.  The grave seems to call to
+passerbyers, yearning for someone to take a closer look, but there does
+not appear to be a clear way out of the grave.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9719
+D1
+~
+~
+0 0 9725
+D3
+~
+~
+0 0 9723
+D5
+~
+~
+0 0 9736
+S
+#9725
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+The thick layer of mud on the ground creates very unstable footing.
+The pall of darkness that cloaks the entire graveyard seems even stronger
+at this gravesite.  Even with a lantern in the room, the darkness
+is too extreme to be caused by normal means.  Some muffled cries can be
+heard from below, requiring investigation.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9720
+D1
+~
+~
+0 0 9726
+D3
+~
+~
+0 0 9724
+D5
+~
+~
+0 0 9737
+S
+#9726
+0 0
+~
+~
+~
+0 0 0
+`hA gravesite``~
+This gravesite seems to have some special presense near it.  At least
+one baby phoykl can always be found resting or playing here, no
+matter what time of day or night (if there is such a thing as day in
+this graveyard).  Nothing different is noticable here, for there is
+the same brown mud and the same darkness here as in the rest of the
+graveyard.  The animals may not be as intelligent as some higher
+level beings, but that still doesn't mean they may not know something
+no one else can pick up on.
+~
+0 A 15
+0
+~
+I 0 D0
+~
+~
+0 0 9721
+D3
+~
+~
+0 0 9725
+S
+#9727
+0 0
+~
+~
+~
+0 0 0
+`dA muddy path ``leading to `kthe fields``~
+~
+0 0 14
+0
+~
+I 0 D0
+~
+~
+0 0 9668
+D4
+~
+~
+0 0 9674
+S
+#9728
+0 0
+~
+~
+~
+0 0 0
+Top of Shik'lnay Hill~
+This side of the top of the hill is even smaller than the eastern side.
+There is only room for 2 beings to stand, and it is uncomfortable at
+that.  Below has to be more interesting that this, and hopefully will
+have more room.  The full-blown darkness that has taken control of the
+top of this hill seems to have gotten everything below too.  The only
+way to truly see what lies beyond is to venture down.  No sounds can be
+heard, so hopefully nothing is lurking in the shadows waiting to strike.
+~
+0 AJ 4
+0
+~
+I 0 D1
+~
+~
+0 0 9731
+D5
+~
+~
+0 0 9729
+S
+#9729
+0 0
+~
+~
+~
+0 0 0
+Shik'lnay Hill~
+The rocks on this part of the hill are covered in some sort of green
+mold, and are thus very slippery.  The cold air makes it even harder
+to climb since the shivering it induces unsteadys most.  The air and
+the mold, coupled with the extreme darkness on this side of the hill,
+make this climb down a near death trip.  
+~
+0 A 4
+0
+~
+I 0 D4
+~
+~
+0 0 9728
+D5
+~
+~
+0 0 9730
+S
+#9730
+0 0
+~
+~
+~
+0 0 0
+Entrance to `pthe graveyard``~
+There are 4 small perches in each corner of the room, each raised ever so
+slightly from the surrounding area.  There is a small arch leading west to
+the graveyard.  The old grey arch has several cracks at its highest point, 
+as many adventurers have failed to duck upon trying to pass under it.  A strong
+stench seems to be coming from the west, the smell of death and decay.  
+If one listens carefully, whispers can even be heard, whispers not liking to
+be coming a simple gust of wind.
+~
+0 A 0
+0
+~
+I 0 D3
+~
+~
+0 0 9721
+D4
+~
+~
+0 0 9729
+S
+#9731
+0 0
+~
+~
+~
+0 0 0
+Top of Shik'lnay Hill~
+The top of this hill is nothing special at all.  It's dark, gloomy, and
+overall rather dull.  No vegetation can survive, so it is just barren
+rock, since the dirt has blown away.  There is not much room here,
+and only a little bit more to the west.  The hill, while seeming vast
+on the way up, now seems but a pimple on the landscape.  The only good
+thing about this hill is that the cold dry air has no stench like 
+some of the dying vegetation on the way up.
+~
+0 A 4
+5
+~
+I 0 D3
+~
+~
+0 0 9728
+D5
+~
+~
+0 0 9732
+S
+#9732
+0 0
+~
+~
+~
+0 0 0
+Shik'lnay Hill~
+Very few bits of lights penetrate the hill this high.  Its as if a black
+hole is present and is sucking up all available light.  The grass, that
+appearred to be sparser at the top, is just as thick, but is intermixed with
+mud which has greatly hampered its growth, creating grass that even when not
+covered with mud is still as brown and yellow as the mud itself.  A fall from
+this height to the ground below would mean instant death, so it appears the
+closest way to safety is to reach the top.
+~
+0 0 4
+0
+~
+I 0 D4
+~
+~
+0 0 9731
+D5
+~
+~
+0 0 9733
+S
+#9733
+0 0
+~
+~
+~
+0 0 0
+Shik'lnay Hill~
+As the top becomes closer, the light becomes dimmer since the sun does
+not shine on this hill, but a separate light is not yet needed to see.
+There appears to be several indentations in the hill which may have been
+deep at one time but have now been filled in and eroded smooth by the
+weather.  A strange smell erupts from these holes, like a decayed corpse,
+although the grass in the holes feels just as real as normal grass.
+~
+0 0 4
+0
+~
+I 0 D4
+~
+~
+0 0 9732
+D5
+~
+~
+0 0 9734
+S
+#9734
+0 0
+~
+~
+~
+0 0 0
+Shik'lnay Hill~
+The sunlight seems to not be shining on this massive hill, but the light
+from adjacent rooms provides enough illumination to see clearly.  The hill,
+if it can be called that, seems more like a solid wall than the normal image
+of a slight rise in elevation that a hill normally brings to mind.  Grass 
+covers the hill at the bottom, but nearer the top the grass appears sparser
+and less alive.  The top can barely be seen towering up above, with no way 
+to the top except straight up.  
+~
+0 0 4
+0
+~
+I 0 D4
+~
+~
+0 0 9733
+S
+#9735
+0 0
+~
+~
+~
+0 0 0
+`hAn Empty Grave``~
+The thin layer of water that covers the ground creates a sloshing sound
+when anyone steps into the grave.  A pugnent smell of stagnant water mixed
+with mud lingers in almost as many places as bugs are crawling.  Luckily no
+Motolk Beetles can be seen because there is no corpse or casket in here, 
+but there are more than enough other types of bugs to cover the walls.
+The walls (what you can see of them behind the bugs) are covered in wet dirt
+that does not appear to be able to hold much weight without caving in. 
+~
+0 A 15
+0
+~
+I 0 D4
+~
+~
+0 0 9723
+S
+#9736
+0 0
+~
+~
+~
+0 0 0
+`hA Shallow Empty Grave``~
+Whispers can be heard in the wind, coming from a source somewhere in
+the shroud of darkness which covers this area.  The air is so thick it's
+hard to breath or move forward. This grave appears to be unfinished since
+it is only a couple meters deep.  The sides slope down so the bottom
+consists of a simple square of about one meter, barely enough to fit one
+person.  
+~
+0 AL 15
+0
+~
+I 0 D4
+~
+~
+0 0 9724
+S
+#9737
+0 0
+~
+~
+~
+0 0 0
+`hAn Extremely Deep Empty Grave``~
+The depth of this grave is well concealed from the surface.  It is almost
+twice as deep as it appeared.  It didn't look half this deep from above. 
+A sense of despair hangs in the air here, since there is clearly no escape
+from this grave.  The sides are not visible, so the grave is also much wider
+than any of the other empty graves.  Also, no bugs can be seen.  It must be
+the repulsing odor of rotting flesh that keeps them away.  There also appears
+to be something hairy stuck in the northern wall, like an animal's tail.
+~
+0 AC 15
+0
+~
+I 0 E
+tail~
+Upon closer inspection, the suppossed tail stuck in the wall is actually
+a frayed rope!  It looks to be sturdy, but where it is attached above
+cannot be seen, so it may not be.  This does appear to be the only way out
+of this grave, so it is worth the risk.
+~
+S
+#9738
+0 0
+~
+~
+~
+0 0 0
+`hEntrance to an underground passage`` ~
+This passage has many small marks along the wall, which lead to the
+conclusion that this was dug with a rather small shovel.  It must have
+taken years to dig this much with such a small shovel.  How odd that
+someone would spend years digging on concecrated ground.  This is a 
+sin in most cultures, no adults of a race would ever think of digging
+in or even close to their burial grounds, so maybe someone else dug 
+this small room.  Its a great hiding spot, for no one would ever think
+to look under a graveyard.  The floor has been pounded flat by
+repeated footsteps, so apparently this is or was used often at one
+time. 
+~
+0 A 0
+0
+~
+I 0 D2
+~
+~
+0 0 9739
+S
+#9739
+0 0
+~
+~
+~
+0 0 0
+`hAn underground passage``~
+~
+0 A 0
+0
+~
+I 0 D0
+~
+~
+0 0 9738
+D1
+~
+~
+0 0 9742
+D2
+~
+~
+0 0 9740
+S
+#9740
+0 0
+~
+~
+~
+0 0 0
+`hAn underground passage``~
+~
+0 A 0
+0
+~
+I 0 D0
+~
+~
+0 0 9739
+D2
+~
+~
+0 0 9741
+S
+#9741
+0 0
+~
+~
+~
+0 0 0
+`hEnd of an underground passage``~
+~
+0 A 0
+0
+~
+I 0 D0
+~
+~
+0 0 9740
+S
+#9742
+0 0
+~
+~
+~
+0 0 0
+`hAn underground passage``~
+~
+0 A 0
+0
+~
+I 0 D1
+~
+~
+0 0 9743
+D3
+~
+~
+0 0 9739
+S
+#9743
+0 0
+~
+~
+~
+0 0 0
+`hAn underground passage``~
+~
+0 A 0
+0
+~
+I 0 D0
+~
+~
+0 0 9755
+D2
+~
+~
+0 0 9744
+D3
+~
+~
+0 0 9742
+S
+#9744
+0 0
+~
+~
+~
+0 0 0
+`hAn underground passage``~
+~
+0 A 0
+0
+~
+I 0 D0
+~
+~
+0 0 9743
+D2
+~
+~
+0 0 9745
+S
+#9745
+0 0
+~
+~
+~
+0 0 0
+`hEnd of an underground passage``~
+~
+0 A 0
+0
+~
+I 0 D0
+~
+~
+0 0 9744
+S
+#9746
+0 0
+~
+~
+~
+0 0 0
+A collasped staircase~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 9747
+D5
+~
+~
+0 0 9672
+S
+#9747
+0 0
+~
+~
+~
+0 0 0
+A small hallway~
+A darkness envelops this room that dims even the brighest light sources.  With
+what little light is allowed, the continuation of the hallway to the west, east,
+and south can be seen, but not much else.  The hard floor and rough walls make this
+hallway feel like a dungeon (a dungeon with exits).  The air smells stale, as there
+is no ventilation.  The silence is so thick it's almost hard to move.  It would be
+wise to move along.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 9748
+D2
+~
+~
+0 0 9749
+D3
+~
+~
+0 0 9746
+S
+#9748
+0 0
+~
+~
+~
+0 0 0
+A room of documents~
+This room's floor is a pale yellow, due in part to the layer of parchments covering
+the floor.  Luckily, they create a much less pungent odor than the one eminating
+from the surrounding rooms.  The floor is a little slippery, due to the documents
+and whatever sort of fungus is growing on them, so one would be wise to watch their
+step.  Unfortunately, the ink on the documents has not lasted nearly as well as the
+paper itself, so good luck extracting any useful information from them.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 9747
+S
+#9749
+0 0
+~
+~
+~
+0 0 0
+A small hallway~
+There is no source of light in this hallway anymore.  A black loop on the east
+wall likely held a torch ages ago, but it now simply serves as a reminder that
+the castle has long since been abandoned.  The dark walls absorb the light, 
+so even with a strong lantern an adventurer can not see very far ahead.  Every
+few minutes a cry can almost be heard, though the echos created by the walls
+easily hide its origin.  The ceiling is lower here, so that taller races will
+have to duck to continue onwards.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9747
+D2
+~
+~
+0 0 9751
+S
+#9750
+0 0
+~
+~
+~
+0 0 0
+A musty room covered in webs~
+The walls, floor, and ceiling of this room are barely noticable behind the thick
+webs.  Just walking into this room requires breaking an uncountable number of 
+spider web strands.  There must have been an army of spiders required to create
+so many webs, and even then it probably took them years.  Luckily, the strands
+are not strong enough here to hold most sentient beings, but these webs could
+explain why there are no insects in the area.  For their age though, the strands
+are amazingly still quite sticky.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 9751
+S
+#9751
+0 0
+~
+~
+~
+0 0 0
+A musty room covered in webs~
+This room stands in stark contrast to the hallway to the north.  Upon entering,
+it appears like a completely different world.  The black of the walls is barely
+noticable through the thick webs that encompass the room.  While the webs appear
+to be thin enough that most large creatures will not get stuck, any smaller
+creatures should turn around now to avoid getting stuck.  The webs stick to
+everything, making it easy to trip (because of the effort required to unstick
+one's foot from the ground).
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9749
+D1
+~
+~
+0 0 9752
+D3
+~
+~
+0 0 9750
+S
+#9752
+0 0
+~
+~
+~
+0 0 0
+A musty room covered in webs~
+The webs here are so think it is hard to see.  It's amazing that any thing
+can get through here without getting stuck.  The webs give off a sweet smelling
+auroma that almost lures you into a false sense of security.  An old pair of boots
+are in the northern part of the room, likely left from an adventurer who got stuck
+to the floor but didn't wish to remain there.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 9753
+D2
+~
+~
+0 0 9754
+D3
+~
+~
+0 0 9751
+S
+#9753
+0 0
+~
+~
+~
+0 0 0
+A musty room covered in webs~
+This room is different than the ones preceeding it.  The amount of webs in
+the room has decreased, only due to the amount of bones scattered around the room.
+Whatever creature calls this home has been very busy.  The smell of rotting flesh
+is most noticably absent, for the bones have clearly been picked clean.  The floor
+is not sticky here, but bones crunch every time a step is taken.  It would be wise
+to leave before whoever or whatever calls this place home returns.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 9752
+S
+#9754
+0 0
+~
+~
+~
+0 0 0
+A musty room covered in webs~
+While the webs are especially thick in this room, they also appear to be moving!
+Upon closer inspection, there appear to be several creatures wrapped up in these
+webs.  One could either do the nice thing, and free them, or run like hell in 
+hopes whatever did this to them will give chace.  If fear doesn't inspire flight,
+the overwhelming smell of decaying flesh probably will.  In several piles on the
+ground are rotting carcasses that weren't eaten before death, so they were just
+left.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 9752
+S
+#9755
+0 0
+~
+~
+~
+0 0 0
+`hEnd of an underground passage``~
+~
+0 A 0
+0
+~
+I 0 D2
+~
+~
+0 0 9743
+S
+#9756
+0 225
+You receive 225 experience points for being crazy enough to attempt to climb this ladder.~
+~
+~
+0 0 0
+An old wooden ladder~
+This old ladder constructed out of cedar wood does not look sturdy
+enough to hold much weight, but it appears to be the only way to the
+shack above, since the poles that support the shack are smooth and 
+would be nearly impossible to shimmy up.  Definately no more than one
+being would be able to fit on this ladder, much less have the ladder
+support more than one being's weight.
+~
+0 ABCLX 5
+0
+~
+I 0 D3
+~
+~
+0 0 9715
+D4
+~
+~
+0 0 9716
+S
+#0
+
+#RESETS
+M 0 9664   1 9716  1	* A night watchman
+M 0 9665   1 9753  1	* `aa humongous `bred `askulor``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

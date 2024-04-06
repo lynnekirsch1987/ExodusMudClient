@@ -1,0 +1,496 @@
+* File: diceman.scr
+* Mob: Dice player
+
+#TRIGGER give
+Type 5
+Sc
+mfunc %give-from% %name% name
+mfunc self %mood% mood
+ofunc %give-arg% %what% vnum
+ofunc %give-arg% %objname% name
+if (%mood% != 4)
+  say I am in the middle of a game right now.
+  say You'll have to wait until I've finished this round.
+  cmd drop %objname%
+  halt once~
+Sc
+if (%what% < 6652 ) || (%what% > 6655)
+  say This is not an acceptable wager.
+  say You can buy chips west of the casino lobby.
+  drop all
+  halt once~
+Sc
+if (%what% == 6652)
+  say The wager is 250.  Please call 1-6, High, Mid, Low, Odd, or Even.
+  msign self 7 mood
+  halt once~
+Sc
+if (%what% == 6653)
+  say The wager is 500.  Please call 1-6, High, Mid, Low, Odd, or Even.
+  msign self 7 mood
+  halt once~
+Sc
+if (%what% == 6654)
+  say The wager is 1000.  Please call 1-6, High, Mid, Low, Odd, or Even.
+  msign self 7 mood
+  halt once~
+Sc
+if (%what% == 6655)
+  say The wager is 2000.  Please call 1-6, High, Mid, Low, Odd, or Even.
+  msign self 7 mood
+  halt once~
+End
+
+#TRIGGER one
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked 1 and I rolled a 1, which is LOW and ODD.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked 1 and I rolled a 2, which is LOW and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked 1 and I rolled a 3, which is MID and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked 1 and I rolled a 4, which is MID and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked 1 and I rolled a 5, which is HIGH and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+  say You picked 1 and I rolled a 6, which is HIGH and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+End
+
+#TRIGGER two
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked 2 and I rolled a 1, which is LOW and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked 2 and I rolled a 2, which is LOW and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked 2 and I rolled a 3, which is MID and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked 2 and I rolled a 4, which is MID and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked 2 and I rolled a 5, which is HIGH and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+  say You picked 2 and I rolled a 6, which is HIGH and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+End
+
+#TRIGGER three
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked 3 and I rolled a 1, which is LOW and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked 3 and I rolled a 2, which is LOW and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked 3 and I rolled a 3, which is MID and ODD.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked 3 and I rolled a 4, which is MID and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked 3 and I rolled a 5, which is HIGH and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+  say You picked 3 and I rolled a 6, which is HIGH and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+End
+
+#TRIGGER four
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked 4 and I rolled a 1, which is LOW and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked 4 and I rolled a 2, which is LOW and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked 4 and I rolled a 3, which is MID and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked 4 and I rolled a 4, which is MID and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked 4 and I rolled a 5, which is HIGH and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+  say You picked 4 and I rolled a 6, which is HIGH and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+End
+
+#TRIGGER five
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked 5 and I rolled a 1, which is LOW and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked 5 and I rolled a 2, which is LOW and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked 5 and I rolled a 3, which is MID and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked 5 and I rolled a 4, which is MID and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked 5 and I rolled a 5, which is HIGH and ODD.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+  say You picked 5 and I rolled a 6, which is HIGH and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+End
+
+#TRIGGER six
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked 6 and I rolled a 1, which is LOW and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked 6 and I rolled a 2, which is LOW and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked 6 and I rolled a 3, which is MID and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked 6 and I rolled a 4, which is MID and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked 6 and I rolled a 5, which is HIGH and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+  say You picked 6 and I rolled a 6, which is HIGH and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+End
+
+#TRIGGER low
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked LOW and I rolled a 1, which is LOW and ODD.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked LOW and I rolled a 2, which is LOW and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked LOW and I rolled a 3, which is MID and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked LOW and I rolled a 4, which is MID and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked LOW and I rolled a 5, which is HIGH and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+  say You picked LOW and I rolled a 6, which is HIGH and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+End
+
+#TRIGGER mid
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked MID and I rolled a 1, which is LOW and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked MID and I rolled a 2, which is LOW and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked MID and I rolled a 3, which is MID and ODD.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked MID and I rolled a 4, which is MID and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked MID and I rolled a 5, which is HIGH and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+  say You picked MID and I rolled a 6, which is HIGH and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+End
+
+#TRIGGER high
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked HIGH and I rolled a 1, which is LOW and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked HIGH and I rolled a 2, which is LOW and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked HIGH and I rolled a 3, which is MID and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked HIGH and I rolled a 4, which is MID and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked HIGH and I rolled a 5, which is HIGH and ODD.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+  say You picked HIGH and I rolled a 6, which is HIGH and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+End
+
+#TRIGGER odd
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked ODD and I rolled a 1, which is LOW and ODD.  You win.
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked ODD and I rolled a 2, which is LOW and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked ODD and I rolled a 3, which is MID and ODD.  You win.
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked ODD and I rolled a 4, which is MID and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked ODD and I rolled a 5, which is HIGH and ODD.  You win.
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+  say You picked ODD and I rolled a 6, which is HIGH and EVEN.  You lose.
+  cmd at 1 eat chip
+  halt once~
+End
+
+#TRIGGER even
+Type 99
+Sc
+wfunc %dice% random 0 599999
+msign self 4 mood
+emote throws a bone dice.
+if (%dice% < 100000)
+  say You picked EVEN and I rolled a 1, which is LOW and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 200000)
+  say You picked EVEN and I rolled a 2, which is LOW and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 300000)
+  say You picked EVEN and I rolled a 3, which is MID and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+if (%dice% < 400000)
+  say You picked EVEN and I rolled a 4, which is MID and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%dice% < 500000)
+  say You picked EVEN and I rolled a 5, which is HIGH and ODD.  You lose.
+  cmd at 1 eat chip
+  halt once~
+Sc
+  say You picked EVEN and I rolled a 6, which is HIGH and EVEN.  You win.
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+End
+
+#TRIGGER rules
+Type 99
+Sc
+  cmd at 1 load obj 6650
+  cmd drop rules
+  halt once~
+End
+
+#END

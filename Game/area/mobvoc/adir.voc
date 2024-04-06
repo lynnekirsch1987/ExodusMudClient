@@ -1,0 +1,6 @@
+Possum
+what&happened:>1:-:Here I was trying to stay out of this conflict and four pirates come busting in on me!;CMD shake;Can you believe their nerve, $name?
+pirate|pirates:>1:-:I have a good mind to go out there and end this conflict once and for all.;CMD sigh;No...those days are behind me.
+dragon:>1:-:Long ago a group of powerful adventurers sought to slay the beast.  They journeyed into the volcano and were never heard from again.  A few days later, the dragon came at night and sacked the town, burning most of the buildings and killing many people.;
+hello|hi:>1:-:Greetings, $name.;Please excuse me, but I have just been intruded upon by four very foolish pirates.
+kill|slay&you:>1:-:CMD emote pauses and looks directly at you.;Excuse me?  Did you say you were going to kill me?  We shall see about that.;CMD wear all;CMD bash $name;CMD kill $name;CMD disarm $name;

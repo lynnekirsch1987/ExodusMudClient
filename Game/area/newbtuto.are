@@ -1,0 +1,549 @@
+#AREA
+ 6~
+newbtuto.are~
+Newbie Zone~
+{ 1 10} Avariel  Newbie Zone~
+~
+2422 2601
+0 B 0
+0 0
+~
+#MOBILES
+#2422
+Meshra~
+`hMeshra``~
+`hMeshra, the guide is here to assist you through your training.``
+~
+~
+human~
+0 0 0 0
+AB H 0 0
+0 0 100d100+100 0d0+0 0d0+0 none
+0 0 0 999 0
+R 0 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#2422
+OT WIZI~
+NEWBIE OT~
+NEWBIE OT~
+unknown~
+0
+trash 2
+S
+E
+0
+0
+0
+0
+2422
+2423
+2424
+2425
+2426
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#2423
+newbie ot info~
+NEWBIE OT - INFO~
+NEWBIE OT - INFO~
+unknown~
+0
+trash 2
+S
+E
+0
+0
+0
+0
+2423
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#2424
+NEWBIE OT - STATS~
+NEWBIE OT - STATS~
+NEWBIE OT - STATS~
+unknown~
+0
+trash 2
+S
+E
+0
+0
+0
+0
+2424
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#2422
+0 0
+~
+~
+~
+0 576 0
+`nThe Beginning of the Mud School``~
+``
+Greetings wanderer! This is the Exodus newbie mud school.
+Meshra will tell you everything  you need to know,  this
+will include how to opt out of  the newbie school if you 
+wish to. (We don't force you to learn, but don't come to
+us whining if you're a brand new player who opted out of
+this school and don't know what to  do or where to go. I
+have provided all the information you will need right in
+this tutorial, so I strongly recommend that you take the
+time to go through it.) We do however, have a very stern
+policy on helping newbies, so if there's anything at all
+that this tutorial didn't explain to you, please ask the
+staff of immortals or  another fellow player.  If you go
+through the tutorial, Meshra will teach you the commands
+you need to  know to use all  the channels to speak with
+the players. When something Meshra  says appears in `nbold
+blue``, that means she wants you to type  it precisely the
+way it is shown in `nblue``.  Other than that,  please enjoy 
+your time here,  we built it just for you!  When you are
+ready to either  leave this mud school or (suggested) to
+start the tutorial, type `nSAY HELLO MESHRA``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 2423
+D1
+~
+~
+0 0 2426
+D2
+~
+~
+0 0 2425
+D3
+~
+~
+0 0 2424
+S
+#2423
+0 0
+~
+~
+~
+0 0 0
+Description Room~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 2422
+S
+#2424
+0 0
+~
+~
+~
+0 0 0
+The Little Shop~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 2422
+S
+#2425
+0 0
+~
+~
+~
+0 0 0
+The Role Play Place~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 2422
+S
+#2426
+0 0
+~
+~
+~
+0 0 0
+The Little Training Room~
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 2422
+S
+#0
+
+#RESETS
+M 0 2422   1 2422  1	* `hmeshra``
+G 0 2422 -1		* Newbie ot to `hMeshra``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#2422
+Hello!~
+$char_says hello meshra~
+131072
+71
+force meshra say Hello $name, welcome to Exodus! Just so you know, you can opt out of this tutorial (not suggested for new players) by going UP from me.~
+100
+0
+force meshra say Until level 10, you will be able to type RECALL and find your way back to me.~
+100
+1
+force meshra say Now, if you want to go through the tutorial, which I recommend, please `nsay tutorial`k. To do this, type `nsay tutorial`k.``~
+100
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#2423
+Preliminary Tutorial Phase~
+$char_says tutorial~
+131072
+71
+force meshra say Wonderful! Now I will take you through the mud school. This is a long winded tutorial, but I promise everything that I say will be important.~
+100
+2
+force meshra say So please read it all in full unless you understand precisely how the game works.~
+100
+4
+force meshra say First of all, the info channel will be very useful to you. It will give you many tips on how to play, where to go, and what to do. ~
+100
+10
+force meshra say However, if you'd like to figure this out for yourself, you can type `nchannel `kto see what channels you have on. If you want to turn one off, just type the channel name.``~
+100
+10
+force meshra say Second of all, I am not a player. I am a mob built by the immortals of the game. ~
+100
+10
+force meshra say Type `nwizlist`k to see who the current immortals are. You can also type `nwho immortal`k to see which ones are currently playing. All of the immortals will help you if I cannot.``~
+100
+10
+force meshra say I am called a mobile, more commonly referred to as a mob. There are many mobs on Exodus who will interact with you and give you quests like I will. ~
+100
+10
+force meshra say But we're not always prefectly intuitive, you have to make sure that you say or do the right things to get us to respond. Usually, there will be a hint either in our speach triggers, or the room description. ~
+100
+10
+force meshra say As for me, everything I want you to type will appear in `nbold blue.``'~
+100
+10
+force meshra say Now, if you are ready to begin phase 1 of this tutorial, type `nsay continue phase 1.`k To see a list of each phase I offer, type `nsay tutorial phases.``'~
+100
+4
+force meshra say Keep in mind, you can jump to any phase by typing `nsay continue phase #ofphase.``~
+100
+10
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#2424
+PHASES~
+$char_says phases~
+131072
+71
+look~
+100
+1
+echo `h                 Mud School Phases                  ~
+100
+0
+echo `l+`e---------------------------------------------------`l+~
+100
+0
+echo `kPhase  1: `hAttributes.~
+100
+0
+echo `kPhase  2: `hMud commands. (get, put, drink, sit, etc)~
+100
+0
+echo `kPhase  3: `hMoving~
+100
+0
+echo `kPhase  4: `hHunting. (Killing mobs for experience.)~
+100
+0
+echo `kPhase  5: `hGaining Levels.~
+100
+0
+echo `kPhase  6: `hRole Playing~
+100
+0
+echo `kPhase  7: `hRules~
+100
+0
+echo `kPhase  8: `hPlayer Killing~
+100
+0
+echo `kPhase  9: `hExploring the mud school.~
+100
+0
+echo `kPhase 10: `hGraduation.~
+100
+0
+echo `l+`e---------------------------------------------------`l+~
+100
+0
+echo `h    To skip to a phase type `nsay continue phase #    ~
+100
+0
+(null)~
+0
+0
+100
+#2425
+Phase 1 - Attributes~
+$char_says continue phase 1~
+131072
+71
+force meshra say Okay!, onto the important stuff.~
+100
+1
+force meshra say The first thing a new player should do upon entering the realms is roll their attributes. attributes are what make your character unique.~
+100
+2
+force meshra say The attributes in Exodus are: Wisdom, Strength, Constitution, Charisma, Intelligence, and Dexterity.'~
+100
+5
+force meshra say Each race has a different maximum attributes. Humans, for instance, can train all their attributes up to 18. And by all I mean, they each have the ability to raise to 18, but never all at once. ~
+100
+5
+force meshra say For more information on the attribute caps of the different races, you can type `nhelp racetable`k. To get an idea of what each attribute does, type `nhelp attribute`k.``~
+100
+7
+force meshra say Attributes are only dependant on race, but the attributes you choose have a massive affect on certain things.~
+100
+5
+force meshra say like your hit points, your mana, your ability to charm, how well you dodge, how well you cast spells, how much experience it costs to train those spells, as well as many other things that are pertinent to your survival. ~
+100
+5
+force meshra say Thus, this makes rolling your attributes monumentally important. We understand that it can be a little difficult at first, but that's why I am here to help, along with lots of help files,immortals, and the players too.'~
+100
+8
+force meshra say You have the freedom to adjust your attributes however you wish, they are to and extent completely customizable. ~
+100
+7
+force meshra say If you have not yet rolled your initial attributes you can type `nscore`k to see them, they will be on the far left.``~
+100
+5
+force meshra say score is also an important thing to familiarize yourself with, as it tells you a lot of important things about your character.~
+100
+5
+force meshra say Including how much health and mana you have, what your level is, your attributes, your experience to level, and your current experience, along with pretty much every other detail you could possibly wish to know.'~
+100
+5
+force meshra say If you do not like the way your attributes look, you can type `nreroll`k as long as you are level one until you see something you like. ``~
+100
+8
+force meshra say But do keep in mind that after you reroll, you will still have up to 11 'trains' which can be split amongst any of your attributes to raise them. ~
+100
+5
+force meshra say In Exodus, this is ALL trains are used for, so don't worry yourself about saving them to train HP/MA, that is done differently and we will get to that later.~
+100
+6
+force meshra say Keep in mind, once you roll your stats, and use all your trains, that's it, you're done. Your stats can't be rerolled or altered unless you use EQUIPMENT to do so.~
+100
+5
+100
+#2426
+Phase 1 continued~
+$char_says continue phase 1~
+131072
+71
+force meshra say I will give you time now to look over your attributes.~
+100
+100
+force meshra say 'If you are DONE rolling your BASE attributes, meaning you are ready to train them, Great! please take the time now to read the manifesto in your inventory. Type `nread manifesto`k.``~
+100
+20
+force meshra say 'The manifesto has some pretty good information and is definitely worth a few minutes of your time.~
+100
+8
+force meshra say 'Once you're finished, we can continue to phase 2 of the tutorial. When you're ready, type `nsay continue phase 2`k.``~
+100
+5
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

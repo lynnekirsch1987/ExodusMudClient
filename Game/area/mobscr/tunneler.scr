@@ -1,0 +1,22 @@
+* File: tunneler.scr
+* Mob: Arachnid Tunneler 1079
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   emote chips away at the tunnel walls with his front pincers.
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   emote pauses for a second to clean it's front pincers of debrees.
+   halt once~
+Sc
+if ( %rndnum% == 2 )
+   emote pauses and emits a series of clicks and high-pitched tones.
+   echo A flood of smaller spiders approach the tunneler with scraps of food.
+   halt once~
+End
+
+#END

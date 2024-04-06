@@ -1,0 +1,18 @@
+* File; bandit.scr
+* Mob: Bandit(21068)
+
+#TRIGGER mug
+Type 10
+Sc
+mfunc %mug-from% %victim% name
+mfunc %mug-from% %wrthit% gold
+wfunc %nspm% random 0 4
+if (%wrthit% > 150) && (%nspm% == 3)
+  emote mutters something along the lines of 'tsk, tsk, tsk'...
+  emote deftly slices your purse and throws it to a comrade in the bushes.
+  msign %mug-from% 0 gold
+  cmd backstab %name%
+  halt once~
+End
+
+#END

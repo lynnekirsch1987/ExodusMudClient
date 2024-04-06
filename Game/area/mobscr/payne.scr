@@ -1,0 +1,10 @@
+* File: payne.scr
+* Mob: Payne (vnum 6983)
+
+#TRIGGER Tick
+Type 3
+Sc
+  cmd wake
+  cmd reset area
+  halt once~
+End

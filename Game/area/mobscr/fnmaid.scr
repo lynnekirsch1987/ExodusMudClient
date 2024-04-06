@@ -1,0 +1,24 @@
+* Mob Vnum: 20963
+* Mob Name: maid
+* Room Vnum: 20989
+
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 4
+if (%rndnum% == 0)
+     emote dusts off the walls.
+     halt once~
+Sc
+if (%rndnum% == 1)
+     emote sees the dirt at your feet and sighs.
+     halt once~
+Sc
+if (%rndnum% == 2)
+     emote hums quietly to herself as she wipes a table.
+     halt once~
+End
+ 
+#END
+

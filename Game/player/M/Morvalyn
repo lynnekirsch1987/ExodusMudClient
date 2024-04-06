@@ -1,0 +1,442 @@
+#PLAYER
+Name Morvalyn~
+Id   895332190
+LogF 941550532
+LogO 941550535
+Vers 6
+Desc There is a tingle of magic in the air around this elf.  His eyes
+show grim determination.  This mage will face the many challenges
+of life, and in the end shall emerge as the victor.
+~
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race elf~
+Sex  1
+Cla  0
+Levl 43
+MBKill 7
+MHKill 1222
+Hero 0
+Depty 0
+Sec  0
+Plyd 395583
+Bank_Gold 3271
+Bank_Silv 199926
+Email acekholm@mail.uccs.edu~
+Host cs-pm3-02-153.datawest.net~
+Not  899082601 899078962 0 898502996 841821737 0 0
+Scro 22
+Room 4190
+HMV  256 256 762 762 267 267
+Hand 1
+Gold 50
+Silv 4723
+Exp  250205
+Act  DGQ
+AfBy DFJ
+Comm FGNOQRS
+Pos  8
+Alig  15
+Hit   6
+Dam   9
+ACs -61 -52 -57 -16
+Wimp  60
+Attr 16 24 18 10 15 18
+AMod 0 3 0 0 3 6
+Pass MoD49Vcyq4uT2~
+Bcry  get's a evil glint in his eye's and attacks.~
+Layhands 0
+Exorcise 0
+Titl  Stormtree~
+Pnts 84
+TSex 1
+LLev 105
+Loner 0
+HMVP 213 747 267
+Cnd  -16 10 29 29
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Sk 93 'armor'
+Sk 75 'fireshield'
+Sk 93 'blindness'
+Sk 1 'web'
+Sk 75 'call lightning'
+Sk 78 'cancellation'
+Sk 1 'change sex'
+Sk 100 'charm person'
+Sk 76 'control weather'
+Sk 94 'create food'
+Sk 1 'create rose'
+Sk 21 'create spring'
+Sk 76 'create water'
+Sk 1 'curse'
+Sk 77 'detect hidden'
+Sk 84 'detect invis'
+Sk 84 'detect magic'
+Sk 1 'detect poison'
+Sk 3 'dispel magic'
+Sk 1 'firestorm'
+Sk 49 'enchant armor'
+Sk 44 'enchant weapon'
+Sk 1 'energy drain'
+Sk 97 'faerie fire'
+Sk 75 'faerie fog'
+Sk 1 'fireproof'
+Sk 80 'fly'
+Sk 75 'floating disc'
+Sk 90 'giant strength'
+Sk 95 'haste'
+Sk 1 'heat metal'
+Sk 89 'identify'
+Sk 77 'infravision'
+Sk 80 'invisibility'
+Sk 1 'mirror'
+Sk 100 'lightning bolt'
+Sk 85 'locate object'
+Sk 1 'mass invis'
+Sk 1 'pass door'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 75 'summon'
+Sk 76 'gate'
+Sk 75 'recharge'
+Sk 77 'refresh'
+Sk 80 'shield'
+Sk 75 'sleep'
+Sk 1 'slow'
+Sk 75 'stone skin'
+Sk 1 'teleport'
+Sk 75 'ventriloquate'
+Sk 81 'weaken'
+Sk 76 'aqua breathe'
+Sk 1 'channel electricity'
+Sk 1 'ice beam'
+Sk 1 'electrical charge'
+Sk 100 'staff'
+Sk 1 'dodge'
+Sk 85 'meditation'
+Sk 1 'sneak'
+Sk 43 'scrolls'
+Sk 43 'staves'
+Sk 29 'wands'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'creation'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Gr 'weather'
+Gr 'elemental'
+Affc 'stone skin'   0  31   2 -40  17          0 0 ''
+Affc 'shield'   0  35  10 -20  17          0 0 ''
+Affc 'detect hidden'   0  34  16   0   0         32 0 ''
+Affc 'detect invis'   0  41  38   0   0          8 0 ''
+End
+
+#O
+Vnum 21
+Nest 0
+ExtF 8388609
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 4283
+Enchanted
+Nest 0
+ExtF 262208
+Cond 0
+Wear 8
+Lev  15
+Cost 4
+Affc 'reserved'   1  14  -1   4  13          0 0 ''
+Affc 'enchant armor'   1  24  -1  -1  17          0 0 ''
+End
+
+#O
+Vnum 20966
+Enchanted
+Nest 0
+ExtF 262209
+Cond 0
+Wear 5
+Lev  16
+Cost 0
+Affc 'reserved'   1  15  -1   1   5          0 0 ''
+Affc 'enchant armor'   1  38  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 1502
+Nest 0
+Cond 0
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 20964
+Enchanted
+Nest 0
+ExtF 65
+Cond 0
+Wear 7
+Lev  27
+Cost 140
+Affc 'enchant armor'   1  24  -1  -3  17          0 0 ''
+End
+
+#O
+Vnum 20389
+Nest 0
+Cond 0
+Wear 10
+Cost 142
+End
+
+#O
+Vnum 12939
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 115
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 9
+Cost 0
+ExDe gloves~ These gloves have been made from the finest and smoothest satin material,
+a beautiful feeling on the hands.  They do not look like they were made for
+very difficult labor, they are showpieces to be sure.  
+~
+End
+
+#O
+Vnum 5371
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 5342
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 7916
+Nest 0
+ExtF 8388928
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 5350
+Nest 0
+ExtF 8650755
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 20970
+Nest 0
+ExtF 17039361
+Cond 0
+Wear 14
+Cost 1039
+End
+
+#O
+Vnum 20970
+Nest 0
+ExtF 17039361
+Cond 0
+Wear 15
+Cost 1039
+End
+
+#O
+Vnum 2604
+Nest 0
+Cond 0
+Wear 17
+Cost 1500
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 4137
+Nest 0
+Cond 0
+Wear -1
+Cost 1034
+Val  1000 1 4138 500 100 0 0
+End
+
+#O
+Vnum 4145
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 12224
+Enchanted
+Nest 1
+ExtF 8388673
+Cond 0
+Wear -1
+Lev  21
+Cost 0
+Affc 'reserved'   1  20  -1   2  18          0 0 ''
+Affc 'enchant armor'   1  24  -1  -2  17          0 0 ''
+ExDe right~ These gloves are incredibly well-worked with map symbols.
+~
+End
+
+#O
+Vnum 12235
+Enchanted
+Nest 1
+ExtF 17039683
+Cond 0
+Wear -1
+Lev  38
+Cost 0
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+Affc 'enchant weapon'   1  90  -1   4  18          0 0 ''
+ExDe sword blade~ This is the issue weapon of the Royal Marines.
+~
+End
+
+#O
+Vnum 5319
+Nest 1
+Cond 0
+Wear -1
+Cost 14965
+End
+
+#O
+Vnum 5349
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 159
+Enchanted
+Nest 1
+ExtF 262211
+Cond 0
+Wear -1
+Lev  25
+Cost 0
+Affc 'enchant weapon'   1  86  -1   5  19          0 0 ''
+Affc 'enchant weapon'   1  86  -1   3  18          0 0 ''
+End
+
+#O
+Vnum 10362
+Enchanted
+Nest 1
+ExtF 8388672
+Cond 0
+Wear -1
+Lev  57
+Cost 0
+Affc 'enchant weapon'   0  85  -1   4  18          0 0 ''
+Affc 'enchant weapon'   1  85  -1   4  19          0 0 ''
+End
+
+#O
+Vnum 21086
+Nest 0
+Name canteen water~
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 4096
+Nest 0
+Cond 0
+Wear -1
+Cost 1354
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 166
+Cost 0
+Val  21 43 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 166
+Cost 0
+Val  21 43 240 0 0 0 0
+End
+
+#END

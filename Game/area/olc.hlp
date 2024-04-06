@@ -1,0 +1,895 @@
+#HELPS
+
+92 BOATSELLER~
+   Boat-sellers are essentially shopkeepers that deal in boats.
+You first create a boat object (item type ctransport).  The boat 
+must have WearFlags of 'take', as the boat keeper will have to hold
+this boat in his or her inventory in order to sell it.  The boat should be
+given an appropriate weight, however; players should not be able to pick
+up a yacht and walk off with it.  You must also set up a generic room
+to be used as the shop, no special flags are needed.  You should
+create a shopkeeper mob using the 'shop' commands from the mob editor.
+   You also have to create rooms in your area that will serve as piers for the
+boats players will buy.  This is done by setting the room flag 'pier'
+on the room.  You may have as many piers in your area as you wish, but
+each should connect to water and they should be in the same vicinity and not 
+more than 5 rooms away from the boat-selling shop in any single direction, 
+to facilitate map-drawing that the boat-seller will do automatically.
+There should be only one group of piers per area as when a player buys a boat 
+in your area, the pier the boat will be docked at is picked somewhat randomly 
+from all 'pier' rooms in your area. 
+   Once all of these are created, you should reset the mob into the shop room
+and reset the ctransport object onto the mob, just as with any other 
+shopkeeper.  When the player buys from the shopkeeper, he will 
+automatically take care of creating a map to the location the boat will
+be put, and the boat will be put there so that the player can go use it.
+   Please note: only one boat can exist in the world per boat (ctransport)
+object.  So once the boatseller sells a boat, that boat will no longer be
+for sale from the boat-keeper until the boat is destroyed or otherwise
+taken out of the world.  You may set a boatseller to sell more than one
+boat object.
+
+See also: help ITEM_CTRANSPORT
+~
+
+92 OLC EDIT~
+Syntax: EDIT AREA [create/reset] [vnum]		- Area Creation and Repopping.
+Syntax: EDIT ROOM ( [create] [vnum] )		- Room Creation and Editing.
+Syntax: EDIT OBJ  [create] <vnum>		- Object Creation and Editing.
+Syntax: EDIT MOB  [create] <vnum>		- Mobile Creation and Editing.
+
+Syntax: ASAVE  <world/area/changed/list>	- Save Editing to Disk.
+Syntax: ALIST                                   - Listing of Areas.
+Syntax: RESET  See Help Resets.			- Set Game Resets.
+
+Definition: [optional]  <required>  (combined arguments)
+
+     Inside an editor, typing COMMANDS lists working commands and ? gives
+help. AEDIT and REDIT default to the current area or room. EDIT ROOM RESET
+resets the current room.  Most commands with no arguments display syntax.
+See also help: AEDIT REDIT MEDIT OEDIT
+All the possible helps for OLC are:
+DOORS LOCK_RESET EXIT_RESET RARITY HITDICE MANADICE ADDAFFECT
+DAMDICE RESETS MOB_AC ITEM_LIGHT ITEM_PORTAL ITEM_STAFF_WAND
+ITEM_SCROLL_POTION_PILL ITEM_ARMOR ITEM_WEAPON WEAPON_DICE
+ITEM_CONTAINER ITEM_DRINK ITEM_FOOD ITEM_MONEY SHOPKEEPER
+~
+
+
+92 SUBMIT~
+Syntax: SUBMIT
+
+This command allows you to forward MobScripting information to the
+Implementors to review and add to the mob.  Upon using the submit
+command, you will be presented with a number of prompts where you must
+enter the mobile's vnum, the mobile's name and the room vnum of where
+the mobile is reset.  You may exit and cancel your submission by simply
+hitting return (alone) on one of these lines.  Submissions are mailed
+directly to Cailet's Internet e-mail address, so please don't mail her shit.
+Thanks.
+
+Examples of good submissions: (all hypothetical)
+-> Mob vnum 3452 in room 3512
+-> When a female character enters the room, I want mob 3452
+-> to pat her on the head. If a male character enters the room,
+-> I want mob 3452 to growl at him.
+-> In combat, I want mobv 3452 to shout 'Death to %name%!'
+-> (name being name of character)
+
+-> Mob vnum 3400 in room 3402
+-> #TRIGGER death
+-> Type 9
+-> Sc
+-> emote groans horribly, subjected to the same fate as its similarly incognizant relatives.
+-> End
+
+-> Mob vnum 3501 in room 3501
+-> When a player in clan LAMER says 'i'm lame', I want mob vnum 3501
+-> to open a chest (vnum 3540) and hand him a T-shirt (3508).
+
+~
+
+92 ALIST~
+Syntax: ALIST
+
+This command gives you a listing of all the areas along with their
+vnum assignments and the builder(s) assigned to editing them.
+~
+
+
+
+92 AEDIT~
+Syntax: edit area	 -Enters the editor for the current area.
+Syntax: edit area <vnum> -Enters the editor for the selected area.
+
+The follow commands are available from within the AEDITOR:
+
+age <number>        - set the age of the area
+commands            - prints a list of possible commands
+creator <name>      - set name of creator (for credits)
+create              - create a brand new area and switch to it
+done                - exits the area editor and returns to normal play
+filename <filename> - change the file name for the area (be careful)
+name <name>         - change the 'AREAS' name of this area
+reset               - resets the current area
+show                - hitting return, or 'show' shows the area stats
+lev <lower> <upper> - set suggested player-levels
+llev <lower>        - set the lower suggested player-level
+ulev <upper>        - set the upper suggested player-level
+vnum <lower> <upper>- set the lower and upper vnum's
+lvnum <lower>       - set the lower vnum
+uvnum <upper>       - set the upper vnum
+<flags>             - area flags, type ? AREA for a list
+~
+
+
+
+92 REDIT~
+Syntax: edit room		-Enters the editor for the current room.
+
+The following commands are available from within the REDITOR:
+
+commands            - prints a list of possible commands
+create <vnum>       - creates a room with a certain vnum
+desc                - edit description of room
+done                - exists the room editor and returns to normal play
+ed                  - type this command for additional extra-description help
+format              - format(wordwrap) the room description
+name <room title>   - changes the room title
+show                - hitting return, or 'show' shows the room stats
+oshow <vnum>        - shows an object with given vnum
+olist               - lists objects in this area.
+mshow <vnum>        - shows a mobile with given vnum
+mlist               - lists mobiles in this area.
+<room-flags>        - room attributes, type ? ROOM for a list
+<sector>            - terrain of room, type ? SECTOR for a list
+<direction>         - see help EXIT, or type <dir> ?
+~
+
+92 EXIT~
+For exits, type the direction (north/s/e/w) followed by:
+
+dig <vnum>         - creates the room and makes a two way link
+link <room vnum>   - make a two way link
+room <room vnum>   - make a one way link (use with caution)
+key <object vnum>  - makes specified object the vnum of the key required
+name <door name>   - makes the door's name/keywords = to the given name
+desc               - edit the description of the exit
+delete             - delete this exit
+reset <reset flag> - changes reset flag for this door
+lock <door flag>   - creates doors, etc.
+
+The exit flags are presented in the following manner.  The capitalized
+flags are ones not included in the reset info.  i.e. closed is due to
+a player closing the door and not due to the door being set to be closed.
+
+-South to [ 3744] Key: [   -1] Exit flags: [door CLOSED bashed pickproof]
+~
+
+92 OEDIT~
+Syntax: edit object <vnum>	-Enters the editor for the selected object.
+
+The following commands are available from within the OEDITOR:
+
+addaffect           - applies an affect to an object, no args for help
+delaffect           - removes an affect to an object, no args for help
+commands            - prints a list of possible commands
+cost <gold>         - sets the gold value of the object
+create <vnum>       - creates object with specified vnum
+done                - exits the object editor and returns to normal play
+ed                  - type this for info on adding/editing extended descripts
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an object
+short <desc>        - sets the 'name' of an object (a sword, a fish etc)
+show                - hitting return, or 'show' shows the object stats
+v0 <num>            - sets the value '0' on the object
+v1 <num>            - sets the value '1' on the object
+v2 <num>            - sets the value '2' on the object
+v3 <num>            - sets the value '3' on the object
+v4 <num>            - sets the value '4' on the object
+weight <num>        - sets the weight of the object
+type         	    - type of object, type ? TYPE for a list
+extra		    - attributes of object, type ? EXTRA for a list
+wear                - where object is worn, type ? WEAR for a list
+material            - material the object is made from
+~
+
+92 DOORS~
+
+Exodus has two types of door resets (lock and exit) that can be set from the
+OLC room editor.  Lock resets define whether exits are doors and if they are,
+how locks on these doors are handled.  Exit resets handle whether the door 
+should be opened, closed or locked each time the area is reset.
+
+See 'help exit_reset' and 'help lock_reset'
+~
+
+92 LOCK_RESET~
+
+Lock resets are set up in the OLC room editor by typing:
+<direction> lock [lock flag]
+
+The values for lock flags can be:
+door:  This defines the exit as a door that can be opened and closed.
+pickproof: Pick skill can not be used to open this door.
+nopass: Pass door spell can not be used to pass through this door
+
+Any combination of lock flags may be used, though it doesn't make much 
+sense to make an exit pickproof but not a door.
+
+Examples:  north lock door (Sets the exit to the north as a door)
+	   east lock door nopass (Sets the exit to the east as nopass door)
+~
+
+92 EXIT_RESET~
+Exit resets are set up in the OLC room editor by typing:
+<direction> reset [exit reset flag]
+
+The values for exit resets can be:
+open: This door is opened at each area reset.
+closed: This door is closed at each area reset.
+locked: This door is closed and locked at each area reset.
+
+Only one exit reset may be used per door, exit resets do nothing unless the
+exit is first flagged as a door using lock flags. (See 'help lock_reset')
+
+Examples: north reset open (Door resets to opened at area reset)
+          east reset locked (Door resets to closed/locked at area reset)
+~
+
+92 MEDIT~
+Syntax: medit <vnum>		-Enters the editor for the selected mobile.
+
+The following commands are available from within the MEDITOR:
+
+alignment <value>   - set the mobile's alignment
+commands            - prints a list of possible commands
+create <vnum>       - creates mobile with specified vnum
+desc                - edit the mobile's description (when looked at)
+done                - exits the mobile editor and returns to normal play
+level <level>       - set the mobile's level
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an mobile
+shop                - type this command for further information
+short <desc>        - sets the 'name' of an mobile (a sword, a fish etc)
+show                - hitting return, or 'show' shows the mobile stats
+spec                - sets a mobiles spec proc, type ? SPEC for a list
+sex                 - set the mobile's sex, type ? SEX for a list
+act                 - mobiles actions, type ? ACT for a list
+affect              - mobile affects, type ? AFFECT for a list
+ac		    - set the mobile's ac, type ? AC for a list
+form		    - mobiles body-form, type ? FORM for a list
+part		    - mobiles body parts, type ? PART for a list
+imm		    - mobile is immune to, type ? IMM for a list
+res		    - mobile is resistant to, type ? RES for a list
+vuln		    - mobile is vulnerable to, type ? VULN for a list
+material	    - material mobile is made from, type ? MATERIAL for a list
+off		    - offensive behavior, type ? OFF for a list
+size		    - size, type ? SIZE for a list
+hitdice		    - dice to toss to get mobile's hitpoints
+manadice	    - dice to toss to get mobile's mana
+damdice		    - dice to toss to get mobile's hand to hand damage
+
+type 'help HITDICE', 'help MANADICE', 'help DAMDICE' for lists of reasonable dice 
+combinations on different levels.
+~
+
+
+92 RARITY~
+There are five levels of rarity for objects.  The rarity of an object
+changes how often the object will re-pop during area resets.
+
+           	very rare:        1%
+                     rare:        2-19%
+                 uncommon:        20-45%
+          somewhat common:        46-69%
+                   common:        70-100%
+		   always:        100%
+
+The rarity flags with percent ranges (all except very rare) are also affected
+by how many such objects already exist 'in the world'.  If two players 
+are online and holding the same 'rare' item, for example, the percent to
+re-pop that item would be closer to 2% than 19%.
+~
+
+92 HITDICE~
+A high number of dice makes for less variance in mobiles hitpoints.
+Suggested values are:
+
+       level:     dice         min         max        mean
+         1:       1d2+6       7(  7)     8(   8)     8(   8)
+	 2:       1d3+15     16( 15)    18(  18)    17(  17)
+	 3:       1d6+24     25( 24)    30(  30)    27(  27)
+	 5:      1d17+42     43( 42)    59(  59)    51(  51)
+	10:      3d22+96     99( 95)   162( 162)   131( 129)
+	15:      5d30+161   166(159)   311( 311)   239( 235)
+	30:     10d61+416   426(419)  1026(1026)   726( 723)
+	50:    10d169+920   930(923)  2610(2610)  1770(1767)
+
+Diff = max - min.  Mean is the arithmetic mean.
+The values in parenthesis are the the standard merc values.
+~
+
+
+
+92 MANADICE~
+A high number of dice makes for less variance in mobiles mana.
+The values the server generates for merc-type mobs is
+
+  <level> d 10 + 100
+
+where level is the level of the mobile.
+~
+
+92 ADDAFFECT~
+Adds an affect to an object so that when a character wears an object
+his/her stats are in some way affected.
+
+Syntax: addaffect [location] [#mod]
+
+Valid location values:
+strength	dexterity	intelligence	wisdom	
+constitution	sex		charisma	mana
+hp		move		ac		hitroll
+damroll		saving-throw
+
+Example: addaffect dexterity 10
+
+This example will cause any character who wears or wields this object to
+get a +10 bonus on their dexterity stat.
+
+~
+
+92 DAMDICE~
+A high number of dice makes for less variance in mobiles hitpoints.
+Suggested values are:
+
+       Level      dice       min      min    mean
+        1         1d2+0       1        2       2
+        2         1d2+1       2        3       3
+        3         1d3+2       3        5       4
+        5         2d3+2       4        8       6
+       10         2d5+5       7       15      11
+       15         3d5+8      11       23      17
+       20         4d5+10     14       30      22
+       30         5d6+15     20       45      33
+       50         5d10+25    30       75      53
+
+Mean is the arithmetic mean.  The values in parenthesis are the the
+standard merc values.  (Will be put in when there's time to calculate
+them...)
+~
+
+92 RESETS~
+Syntax: RESET <number> OBJ <vnum> <location on body> [<max # in world>]    
+        * equips last mobile
+        RESET <number> OBJ <vnum> inside <obj vnum> [<how many to put in>]
+        * store in container
+        RESET <number> OBJ <vnum> room [<max # in world>]
+        * store in room
+        RESET <number> MOB <vnum> [<max # in world> <max # in room>] 
+        * load a mobile
+        RESET <number> DELETE                           
+        * delete a reset
+
+RESET alone will display the resets in the current room.  The <number> will
+be displayed with this list.  Typing ? WEAR-LOC will list possible locations
+that an object can be loaded to.  
+  For resets to be successful make sure that you add them in a logical order.
+For example if you are equipping a mobile don't load a container in the room
+and fill it with some objects and then continue equipping the mobile.  It is
+likely that resets will backfire if they are not carefully entered.
+  If you wish to reset the room then use EDIT ROOM RESET.  
+~
+
+
+
+92 MOB_AC~
+The values ROM generates for a merc format mob is:
+
+   level      pierce    bash    slash   exotic
+     1          95       95       95      95
+     5          70       70       70      85
+    10          40       40       40      70
+    15           5        5        5      55
+    20         -25      -25      -25      40
+    25         -55      -55      -55      20
+    30         -90      -90      -90       5
+    35        -120     -120     -120     -10
+    40        -150     -150     -150     -25
+    45        -180     -180     -180     -40
+    50        -215     -215     -215     -55
+    55        -245     -245     -245     -70
+    60        -275     -275     -275     -90
+    65        -305     -305     -305    -105
+    70        -340     -340     -340    -120
+    80        -400     -400     -400    -150
+
+These values are 10 times what you would put in an area file. This
+is because the server multiplies what it reads from file with 10.
+~
+
+92 ITEM_CTRANSPORT~
+.   value 0    Sector types this transport can be used on.
+   value 1    Maximum weight this transport can hold at once.
+   value 2    The room (vnum) that acts as entrance/exit to this transport.
+   value 3    The room (vnum) that acts as 'cockpit' to this transport.
+   value 4    The action types that can be used with this transport.
+   value 5    Door flags (closeable, closed, locked, pickproof)
+              [Works like container and portal flags]
+   value 6    Key vnum - can be used to specify a key for close/lockable
+              ctransports.  If vnum is set, boatsellers (see help boatseller)
+              will give a copy of the key to the buyer when selling.
+~
+
+92 ITEM_ELEVATOR~
+.   value 0    Elevator holding room (The vnum to the room that will
+              act as the inside of the elevator)
+   value 1    Maximum people in elevator (at one time)
+   value 2    Maximum weight in elevator (at one time)
+
+See also: ITEM_EBUTTON.
+~
+
+92 ITEM_EBUTTON~
+.    value 0    Vnum of object that will act as the 'outside' of
+               the elevator.
+    value 1    Button 'floor'.  This number is used to prioritize
+               the order the elevator will travel in.  If you have
+               an elevator that goes to what is logically the 
+               'first' floor of the building, this should be set to 1.
+    value 2    The room vnum the elevator object should travel to when
+               this button is pushed.
+
+See also: ITEM_ELEVATOR.
+~
+
+92 ITEM_LIGHT~
+.   value 0    unused
+   value 1    unused
+   value 2    hours of light available, 0 is dead, -1 or 999 is infinite            
+   value 3    unused
+   value 4    unused
+~
+
+92 ITEM_PORTAL~
+.   value 0    Charges: (How many times a portal can be used; -1 == infinite)
+   value 1    Exit Flags: (Like door exit flags, see '? exit' for valid values)
+   value 2    Gate Flags: ('? gate' for valid values) If 'transport' type is
+              used, Vnum-To (v3; See below) should be set to an object
+              vnum.  [Enter|Exit|etc]ing from a transport portal will
+              bring you to the room where that object vnum is, or to
+	      the room where the character who is carrying that object
+              vnum is.
+   value 3    Vnum-To: VNUM of room (or object, for transport type) that this
+              portal is linked to.
+   value 4    Action word for using portal ('? action' for valid values)
+	
+   Cost: Should be 0 in all cases.
+   All Portals should be no_sac & no_purge flagged, except in special 
+	circumstances.
+   Go to Room 1600 to see an example.
+~
+
+
+
+92 ITEM_STAFF_WAND~
+.   value 0    level
+   value 1    max charges
+   value 2    current charges
+   value 3    spell name
+   value 4    unused
+
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+
+
+92 ITEM_SCROLL_POTION_PILL~
+.   value 0    level
+   value 1    spell name 1
+   value 2    spell name 2
+   value 3    spell name 3
+   value 4    unused
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+
+
+
+
+92 ITEM_ARMOR~
+.   value 0    ac pierce
+   value 1    ac bash
+   value 2    ac slash
+   value 3    ac exotic (magic)
+   value 4    unused
+~
+
+
+
+
+92 ITEM_WEAPON~
+.   value 0    weapon class.
+   value 1    number of dice to roll.
+   value 2    type of dice to roll.
+   value 3    weapon type.
+   value 4    special weapon type.
+
+An up-to-date list of values can be obtained by typing
+? WCLASS
+help WEAPON_DICE
+? WEAPON
+? WTYPE
+~
+
+
+
+92 WEAPON_DICE~
+These are the values the server generates automatically when
+converting a merc-format mobile to ROM format.  A higher
+number of dice gives less variance in damage.  There is no
+dice-bonus on weapon dice.
+
+      level:   dice 
+        1:     1d8
+        2:     2d5
+        3:     2d5
+        5:     2d6
+       10:     4d5
+       20:     5d5
+       30:     5d7
+       50:     5d11
+~
+
+
+
+92 ITEM_CONTAINER~
+.   value 0    weight capacity
+   value 1    flags: closeable, pickproof, closed, locked            
+   value 2    key vnum
+   value 3    unused
+   value 4    unused
+
+An up-to-date list of flags can be obtained by typing
+? CONTAINTER
+~
+
+
+
+92 ITEM_DRINK~
+.   value0    capacity
+   value 1    current quantity
+   value 2    liquid type
+   value 3    poisoned?
+   value 4    unused
+
+An up-to-date list of liquid types can be obtained by typing
+? LIQUID
+~
+
+
+
+92 ITEM_FOOD~
+.   value 0    hours of food value
+   value 1    unused
+   value 2    unused
+   value 3    poisoned?
+   value 4    unused
+~
+
+
+
+92 ITEM_MONEY~
+.   value 0    value in silver pieces
+.   value 1    value in gold pieces
+   value 2    unused
+   value 3    unused
+   value 4    unused
+~
+
+
+92 SHOPKEEPER~
+
+ * Making shops (including pet shops and stables)
+
+   + Making a basic shop
+
+
+     Though shops are thought of as the rooms they are in, all of
+     the true shop information is linked to the mobile that acts
+     as shop keeper, not the room the keeper appears in.  Thus, in order
+     to set up a room as a shop, you must create a mobile that will
+     act as shopkeeper.  In the mobile editor (medit), there is a command
+     'shop' that lets you set values that will determine how the shop
+     will function.  The shop command has four arguments: hours,
+     profit, type and delete.  Using the 'hours' argument with shop
+     allows you to set what type the shop opens and closes.  
+     The syntax is: 'shop hours [open-hour] [close-hour]'.  The times here
+     are in 24-hour format.  So for a shop to open at 9 am and close at
+     5 pm, the command would be 'shop hours 9 17'.  For a shop that is 
+     always open, use 'shop hours 0 23'.  Using the 'profit' argument with
+     shop allows you to set the markups on object cost for buying and 
+     selling.  To buy and sell products at-cost, these markup values
+     should be set to 100 (100% of cost).  The syntax is:
+     'shop profit [buy-profit] [sell-profit]'.  If you wanted to create
+     a shopkeeper that would sell object at 120% of cost (20% more than
+     their actual cost value) and buy objects at-cost, the command used
+     would be 'shop profit 120 100'.  Using the 'type' argument with
+     the shop command allows you to set which types of objects this
+     shop keeper will buy and sell.  Up to 5 (0-4) different object types
+     can be traded.   The syntax is: shop type [0-4] [item type].
+     So, for a shop that would be trading weapons and armor, two commands
+     would be used:  'shop type 0 weapon', 'shop type 1 armor'.  Valid
+     object types for this command are: Light, Scroll, Wand, Staff, Weapon
+     Treasure, Armor, Potion, Clothing, Furniture, Container, Drink Container,
+     Boat, Pill, Map, Portal, Warpstone, Gem, Jewelry.
+     The 'delete' argument for shop allows you delete item types you
+     have previously set.  For example, to convert the previous shop to
+     armor-only, the command would be 'shop delete 0'.  
+     
+
+  + Stocking the shop
+
+     In order to give the shop items, you must reset these item into
+     the shop keeper's inventory.  (Please see the RESETS section of this 
+     document for more information.)
+
+
+  + Creating a pet shop or a stable
+
+     Pet shops and stables are special shop types.  In order to create
+     these kinds of shops you must have two consecutive vnum-ed rooms free.
+     If you wanted to use room vnum '5000' as a pet shop or a stable, then
+     room vnum '5001' would have to be created.  '5001' acts as a 
+     'back room' for the pet shop or stable, and it's where all the animals
+     are held.  Back rooms for pet shops or stables should _not_ 
+     be linked to other rooms under normal circumstances.
+     The store-front room (5000, here) should be flagged as either
+      'pet_shop' or 'stable' using the 'room' command from the room editor.
+     Example: edit room 5000
+              room pet_shop
+     Once this room is created, a shopkeeper mob should be created as normal
+     (see above).  This shopkeeper should then be set to reset into the
+     store-front room (5000 in this example).  All the pets or mounts
+     this shopkeeper can sell should then be set up with mob resets in 
+     the back-room (5001, here.).
+~
+92 VOCABULARY~
+
+To enter the vocabulary file editor, type 'edit vocab'.
+
+Using the vocabulary file editor:
+
+    A. Creating new vocabulary files.
+    B. Editing existing vocabulary files.
+    C. Deleting vocabulary files.
+    D. Getting a list of current vocabulary files.
+
+
+A.  Creating new vocabulary files
+
+    In order to create a brand new vocabulary file, simply type 
+"create <filename>" from the vocabulary file editor's main menu.
+A filename extention of '.voc' is a useful convention, but is not
+required.  The create command creates the file with you as it's owner
+and then puts you into the editing menu so that you can make changes
+to this new vocabulary file (See B.  Editing existing vocabulary files).
+
+
+B.  Editing existing vocabulary files.
+
+    In order to edit a vocabulary file that already exists, type
+"edit <filename>" from the vocabulary file editor's main menu.  You
+must be the original creator of the vocabulary file (or an extremely
+high level immortal) in order to make changes.  Once the command
+to edit this file has been entered, you will be placed in the editing
+sub-menu, which allows you to list the lines in the file, delete lines
+from the file and add new lines to the file.
+
+    1.  Adding new vocabulary entries into this file.
+
+	To add a new vocabulary trigger, type "add" from the editing
+        sub-menu.  You will be asked for four pieces of information,
+        on at a time.  The first thing you will be asked for is a list
+        of trigger words that will set off this trigger.  The list
+        can be any number of words, seperated by '&' (AND) or '|' (OR).
+	These logical operators determine which word(s) are needed
+        in a say or tell to the mobile.  For example, if you entered
+        'who&are&you' here, the words who AND are AND you would all
+        have to appear in the text for this trigger to be activated.
+        If you entered 'who|what&are&you' then the words who OR what
+        AND are AND you would have to appear ('who are you' would trigger
+        this text, and 'what are you' would also trigger this text.
+        Or operators ('|') are resolved before ang operators ('&')
+	so "what&this|that&is" would be triggered by "what is that" and
+        "what is this", but not by "what this that" or "is that", etc.
+	After you enter this list of words, you will be prompted for
+        a value representing the mood(s) in which this trigger
+	should work (see: help moods).  There are 7 moods, though
+        0 is reserved for non-smart-mobs.  Generally 4 is a neutral mood,
+	lower than 4 is progressively more unhappy and greater than 4
+ 	is progressively more happy.  Valid values for this entry include
+	things like '3' (if mood is 3, this trigger is valid),
+	'>4' (if mood is greater than (but NOT equal to) 4, than this 
+	trigger is valud), '<7' (if mood is less than 7, this trigger
+	is valid).  The next value you must enter represents how the
+	mob's mood should be offset if this trigger is hit.  This
+	value can be a number, such as '6' (if this trigger is hit,
+	automatically set mob's mood to 6), an increment, such
+	as '+2' (if this trigger is hit, add 2 to the mob's mood),
+	a decrement, such as '-1' (if this trigger is hit, subtract 1
+	from the mob's mood), or '-' which signifies that this trigger
+	should not affect the mob's mood at all.
+	The last piece of information you need to supply is what the 
+	mob should say and do when this trigger is hit.  If the mob
+	sees this text in a say, it will respond in a say; if it sees
+	it in a tell, it will respond in a tell.  Multiple lines
+	may be seperated by the semicolon (;).  A special keyword,
+	CMD, may be used to make the mob enter regular mud commands.
+	For example, entering "Hi, I am a mob!" would cause the mob
+	to say "Hi, I am a mob!" when this trigger is met.
+	Entering "I am really mad; CMD frown" would cause the
+	mob to say "I am really mad" and then execute the command
+	'frown'.
+	There are a number of special variables (that represent information
+	about the character that tripped the trigger) that may appear in this
+	text, they are:
+
+		$name   - Replace with character's name
+		$area   - Replace with area name of area character is in
+		$room   - Replace with room name of room character is in
+		$level  - Replace with character's current level
+		$race   - Replace with character's race name
+		$clan   - Replace with character's clan name
+		$class  - Replace with character's class name
+		$time   - Replace with current (game) time
+	
+	For example, if you created a trigger text of "what&time&is&it",
+	you may want to make a respond test of "Thanks for asking $name,
+	it is $time!"  Assuming character "Bob" said "what time is it?"
+	to the mobile using this vocabulary entry at 7 pm (game time), 
+	the mobile would respond "Thanks for asking, Bob, it is 7 o'clock pm!"
+	These variables can be used with the CMD commands too, so
+	a valid response text could be "I have had enough of you.; CMD kill
+	$name".  
+
+        SPECIAL TRIGGER TEXT:  When you are adding vocabulary
+        triggers, rather than input a list of words at the first prompt
+	you may also enter one of two special triiger texts.  The first
+	is 'DEFAULT' (note: Unlike most of the vocabulary trigger
+	words, DEFAULT is case-sensitive and must always be entered
+	in uppercase).  You may have as many 'DEFAULT' lines in a 
+	vocabulary file as you want, and these lines are used when someone
+	talks to a mob but the mob finds no regular matches within
+	it's vocabulary list.  If you have more than one DEFAULT, one
+        will be chosen randomly when a character speaks to a mobile using
+        words it doesn't understand.  You may want to bait the character into
+	a conversational topic of your choosing by using DEFAULT entries
+	that greet the character, and leak some information that the
+	mob is prepared to talk about.  The second special trigger text
+	is 'INCLUDE' (also uppercase-only).  INCLUDE allows you to
+	'stack' vocabulary files on top of each other.  When you enter
+	the INCLUDE trigger text, you will only be asked for the filename
+	of a vocabulary file to stack into the one you are editing.  
+	Nested includes (INCLUDE a file that also INCLUDES another file)
+	are allowed, up to 5 levels.  After 5 levels, nesting is halted
+	to avoid any possible infinite recursion loops (one file INCLUDEs
+	another, which INCLUDEs the first, etc.)  When the vocabulary
+        files are stacked, the mob will go through the word lists in 
+	each trying to find matches.
+
+
+    2. Listing currently defined vocabulary entries
+
+	To list the vocabulary entries you have already added to this
+	particular vocabulary file, type "list", and a list (with line
+	numbers) will be given.
+
+    3.  Deleting vocabulary entries
+
+        To delete a specific vocabulary entry, type "delete <line#>"
+	to delete the "<line#>" line.  Line numbers may be determined
+	by using the list command and using the number that appears
+	on the far left.
+
+C.  Deleting  existing vocabulary files.
+
+	To delete a vocabulary file that you own, simply type
+	"delete <filename>" from the main vocabulary file editing menu.
+
+D. Getting a list of current vocabulary files.
+
+	In order to get a list of current vocabulary files, type
+	"list" at the main vocabulary file editing menu.
+ 
+
+~
+1 EXITMSG ENTERMSG~
+The exitmsg and entermsg commands allow you to set strings to be used
+when a player enters or exits a room.  There are a number of special
+variables in the form of '$x' that you can use that will automatically
+be substituted with appropriate values by the mud.  Please note that
+these variables _are_ case-sensitive, $T is not the same as $t.
+
+Here are all the '$' sequences supported by enter and exit messages:
+
+    $T
+	The direction the character has moved (exit only)
+
+    $n
+	The name of the character who has moved
+
+    $e
+	Result is 'he', 'she', or 'it', depending on the sex of character.
+
+    $m
+	Result is 'him', 'her', or 'it', depending on the sex of character.
+
+    $s
+	Result is 'his', 'her', or 'its', depending on the sex of character.
+~
+
+92 ACT_HUNT ACT_SMART_HUNT ACT_REMEMBER~
+Mobiles can hunt players.  There are three act flags that may be set:
+remember, hunt and smart_hunt.  When a player attacks a mobile, or a mobile
+attacks a player, if any of these three flags are set the mobile will remember
+the player.  If the mobile is flagged to 'remember' only, it will not
+hunt the player down, but will attack the player if he or she crosses
+the mobile's path again.  If the mobile is flagged 'hunt' the mobile will
+actively try to hunt the player (if the player is in the same area) down,
+using the player's scents as a guide.  When the mobile finds the player, or
+the player is unlucky enough to cross the mobile's path again, the mobile
+will attack the player.  If the mobile is flagged 'smart_hunt' it will
+act the same as if it were set to 'hunt' but the mobile will be able
+to open doors (and unlock locked doors, if it has the key) that stand
+between itself and the player it is hunting.  The mobile will also
+track the player to safe rooms, and attempt to push and/or drag the
+player out of the safe room.  As these flags are generic ACT flags,
+you may set all three of them (or any combination of the three of them)
+on any mob.  However, since smart_hunt encorporates the functionality
+of remember and hunt, and hunt encorporates the functionality of remember,
+you really need only set one flag per mobile, using an appropriate flag
+for the mobile (for example, 'dumb' mobiles like snakes should _not_
+be set smart_hunt and probably should not be set to hunt unless they
+are somehow magically intelligent.
+~
+
+92 MOOD MOODS~
+Mobs have moods.
+Here they are:
+0 - Default	Normal, Dumb mobs.
+1 - Bellicose   Aggressive, Will attack you. Very upset.
+2 - Agitated    Uhm, the mob is agitated. Stressed. Unhappy.
+3 - Wary        Are you friend or foe?
+4 - Neutral     The mob is generally unbiased.
+5 - Amiable     The mob is rather friendly towards you.
+6 - Helpful     Maybe it will offer you advice or do your laundry.
+7 - Extremely Accomodating Might group with you, really really digs you.
+
+8 - Stuck
+Mood 8 is a special mood, once a mood is set to 8, it will not
+drift back to the mobs default mood as normally happens over time.
+The mood will stay at 8 until the mob is killed and reset, the system
+is rebooted or a specific vocabulary file entry that is set to trigger
+at 8 changes it to another mood.  Note: When checking moods in vocabulary 
+files, if you do a check for >1, >2, etc. 8 will not match, even though
+math-wise it is obviously greater than 1.  8 is special!
+
+~
+
+0 $~
+
+
+#$
+
+
+
+
+
+
+
+
+

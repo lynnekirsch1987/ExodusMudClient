@@ -1,0 +1,941 @@
+#PLAYER
+Name Fujin~
+Id   953922995
+LogF 1062721576
+LogO 1062721603
+Vers 8
+Prom <%h/`i%H:Hp %m/`l%M:Ma %v/`m%V:Mv `k%X:Tnl> `a%S ~
+Race human~
+Sex  1
+Cla  6
+Cla2  6
+Cla3  6
+Levl 59
+WTime 999999
+PBKill 2
+MBKill 1
+MHKill 846
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 229959
+Bank_Gold 12676
+Bank_Silv 11901
+Email Bandellah@metallica.com~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+New_Style 0
+Totalxp 420
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+Host h203n1fls35o879.telia.com~
+Not  1015712938 1015712938 1015712938 1015712938 1015712938 1015712938 1015712938 0
+Scro 22
+Room 4256
+HMV  835 855 211 301 361 361
+Hand 1
+Gold 75
+Silv 2060
+Exp  367826
+Act  DGHa
+Blok -1
+Comm MNOQS
+Pos  8
+Save  -7
+Alig  1000
+Hit   26
+Dam   21
+ACs 35 31 31 56
+Wimp  200
+Attr 18 18 18 13 18 18
+AMod 3 4 0 6 0 1
+Pass FusUYrt.0ZdFY~
+Layhands 0
+Exorcise 0
+Titl  the `kS`lW`kE`lD`kE~
+Pnts 86
+TSex 1
+LLev 62
+Loner 0
+HMVP 750 301 311
+Cnd  -16 34 41 41
+Color 1 7 1 23 3 14 6 0 12 6 6 14 10 12 9 8 13 7 0 0
+Alias sa butcher corps~
+Alias ga get all corps~
+Alias light p 'cure light'~
+Alias rescue order all rescue fujin~
+Alias oa order all~
+Alias oar order all report~
+Alias oak order all kill~
+Alias lay lay fujin~
+Alias laya lay~
+Alias bless p bless~
+Alias ser p 'cure serious'~
+Alias crit p 'cure critical'~
+Alias critical p 'cure critical'~
+Alias align p 'know alignment'~
+Alias sjuk p 'cure disease'~
+Alias rcurse p 'remove curse'~
+Alias calm p calm~
+Alias frenzy p frenzy~
+Alias ray pray 'ray of truth'~
+Alias dete p 'detect evil'~
+Alias detg p 'detect good'~
+Sk 1 'cause serious'
+Sk 70 'heroes feast'
+Sk 77 'cure critical'
+Sk 36 'cure disease'
+Sk 1 'cure light'
+Sk 80 'cure serious'
+Sk 48 'detect evil'
+Sk 41 'detect good'
+Sk 1 'dispel evil'
+Sk 70 'heal'
+Sk 1 'greater heal'
+Sk 36 'know alignment'
+Sk 1 'sense alignment'
+Sk 1 'protection evil'
+Sk 70 'ray of truth'
+Sk 36 'calm'
+Sk 71 'frenzy'
+Sk 35 'holy word'
+Sk 76 'bless'
+Sk 36 'remove curse'
+Sk 1 'axe'
+Sk 96 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 100 'polearm'
+Sk 74 'shield block'
+Sk 62 'sword'
+Sk 100 'riding'
+Sk 86 'bash'
+Sk 51 'disarm'
+Sk 66 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'swimming'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'sweep'
+Sk 87 'parry'
+Sk 1 'rescue'
+Sk 100 'leadership'
+Sk 70 'layhands'
+Sk 1 'butcher'
+Sk 57 'trample'
+Sk 87 'second attack'
+Sk 82 'third attack'
+Sk 61 'fast healing'
+Sk 1 'blindfighting'
+Sk 1 'influence'
+Sk 1 'fishing'
+Sk 57 'call mount'
+Gr 'rom basics'
+Gr 'integrity'
+Gr 'divine evocation'
+Gr 'mercy'
+Affc 'bless'   0  59  59   7  18          0 0 ''
+Affc 'bless'   0  59  59  -7  24          0 0 ''
+GStats  8 0 846 2 1 515 63 420 158 
+End
+
+#O
+Vnum 723
+Nest 0
+ShD  `ea sapphire moon``~
+Wear 0
+Cost 8309
+End
+
+#O
+Vnum 114
+Nest 0
+Wear 12
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 5650
+Nest 0
+ExtF 110891008
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 12234
+Nest 0
+ExtF 8388931
+Wear 11
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 4102
+Nest 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 4259
+Enchanted
+Nest 1
+ExtF 65
+Cond 100
+Wear -1
+Lev  22
+Cost 2300
+Affc 'enchant weapon'   1  87  -1   4  19          0 0 ''
+Affc 'enchant weapon'   1  87  -1   1  18          0 0 ''
+End
+
+#O
+Vnum 4199
+Enchanted
+Nest 1
+ExtF 1048642
+Wear -1
+Lev  3
+Cost 0
+Affc 'enchant weapon'   1  87  -1   5  19          0 0 ''
+Affc 'enchant weapon'   1  87  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 7264
+Nest 1
+ExtF 8388611
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11402
+Nest 1
+ExtF 8654851
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12929
+Enchanted
+Nest 1
+ExtF 8388675
+Wear -1
+Lev  31
+Cost 0
+Affc 'enchant weapon'   0  89  -1   7  18          0 0 ''
+Affc 'enchant weapon'   1  89  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 7916
+Nest 1
+ExtF 8388928
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 720
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4113
+Nest 1
+Wear -1
+Cost 20
+Val  5 0 4 0 0 0 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+ExtF 9175040
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3700
+Enchanted
+Nest 1
+ExtF 8388675
+Cond 100
+Wear -1
+Lev  63
+Cost 0
+Affc 'enchant weapon'   1  76  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  76  -1   4  19          0 0 ''
+End
+
+#O
+Vnum 18983
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7251
+Nest 1
+ExtF 8389953
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18981
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+Val  20 0 4 0 0 0 0
+End
+
+#O
+Vnum 20389
+Nest 1
+Cond 100
+Wear -1
+Cost 142
+End
+
+#O
+Vnum 5651
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 1
+ExtF 8388608
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 1
+ExtF 8388608
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11533
+Nest 0
+ExtF 8388672
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11533
+Nest 0
+ExtF 8388672
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7265
+Nest 0
+ExtF 8388611
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 12918
+Nest 0
+Wear 3
+Cost 2039
+End
+
+#O
+Vnum 5318
+Nest 0
+Wear 5
+Cost 12000
+End
+
+#O
+Vnum 5319
+Nest 0
+Wear 6
+Cost 14965
+End
+
+#O
+Vnum 5320
+Nest 0
+ExtF 17042497
+Wear 7
+Cost 14958
+End
+
+#O
+Vnum 5311
+Nest 0
+ExtF 17039361
+Wear 8
+Cost 29380
+End
+
+#O
+Vnum 18955
+Nest 0
+Wear 10
+Cost 7364
+End
+
+#O
+Vnum 28006
+Nest 0
+Cond 100
+Wear 2
+Cost 420
+End
+
+#O
+Vnum 28006
+Nest 0
+ExtF 8388608
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Wear -1
+Cost 320
+Val  110 110 3 0 0 0 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Wear -1
+Cost 320
+Val  110 110 3 0 0 0 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 561
+Nest 0
+ExtF 8650752
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 561
+Nest 0
+ExtF 8650752
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 0
+ExtF 8650752
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 20974
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 4107
+Nest 0
+Wear -1
+Cost 320
+Val  110 0 3 0 0 0 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Wear -1
+Cost 320
+Val  110 0 3 0 0 0 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Wear -1
+Cost 320
+Val  110 0 3 0 0 0 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Wear -1
+Cost 320
+Val  110 62 3 0 0 0 0
+End
+
+#O
+Vnum 802
+Nest 0
+ExtF 8388608
+Wear -1
+Cost 0
+End
+
+#RoomRLE   100 1 223 1 2 1 915 1 23 1 2132 1 603 5 34 1 2 5 1 1 1 18 1 14 2 8 20 1 6 2 8 2 9 1 3 2 10 1 16 1 21 1 16 1 38 1 51 1 93 5 3494 2 1 1 5 8 1 1 8 21 1 10 2855 9 2279 2 8 2 8 2 8 1 3169 9 3 8 1 2 5 1 1981 1 3 2 8 2 3 1 4 11 8 4 11 4 1 2 7 5 3 5 3 4 4 1 1 2 5 2 6 2 5 2 6 9 6 1 6 1 7 1 6 1 7 1 6 3 5 1 6 1 7 1 6 1 7 1 4 3 7 11 4 12 337 5 1 1 1 11 11 9 1 10 5 3 14 2 3 2 1 9 1 1 1 6 2 2 1 1 1 1 1 1 1 3 1 20 2 7 3 1 3 1 10 13 1 8 1 4 2 2 43 1 6 1 3 1 4 1 1915 2 18 2 18 2 18 2 14 3 1 2 14 1 1 4 13 2 3 2 14 1 3 2 14 17 2 2 4 1 1 1 7 1 1 1 9 10 18 1 1 1 17 1 1 1 17 1 1 1 17 1 1 1 17 1 1 1 17 1 1 1 17 1 1 3 1568 1 2202 1 164 1 388 1 70 1 7320 1 98 2 98 2 98 2 98 2 98 2 98 2 98 2 22 1 75 2 22 1 75 2 22 1 75 2 22 1 75 2 98 2 98 2 98 2 98 2 98 2 98 2 98 16 30571 -1
+
+#END

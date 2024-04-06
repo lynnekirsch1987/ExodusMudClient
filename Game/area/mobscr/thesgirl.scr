@@ -1,0 +1,28 @@
+* File: thesgirl.scr
+* Mob: girl 4060
+
+#TRIGGER sword
+Type 10
+Sc
+wfunc %rand% random 0 10
+if ( %rand% == 0 )
+   emote dives in as she thrusts at an imaginary foe.
+   halt once~
+Sc
+if ( %rand% == 4)
+   emote skillfully fends off hordes of invisible playmates with her sword.
+   halt once~
+Sc
+if ( %rand% == 8)
+   emote nicks herself in the shin as she performs an awkward parry motion.
+   halt once~
+
+End
+
+#END
+
+
+
+
+
+

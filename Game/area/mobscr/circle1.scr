@@ -1,0 +1,31 @@
+* File: circle1.scr
+* Mob: Nalaxin Demon in the First Circle of Hell(7289)
+* Creator: Minax
+* Last Modified: Thursday, January 22, 2004
+
+#TRIGGER give
+Type 5
+Sc
+mfunc %give-from% %name% name
+mfunc %give-from% %level% level
+ofunc %give-arg% %ovnum% vnum
+ofunc %give-arg% %objname% name
+if ( %level% < 90 )
+   tell %name% Come back later when you have more experience.
+   halt once~
+Sc
+if ( %ovnum% != 4157 )
+   say This is not that which I seek.  Begone with it!
+   drop %objname%
+   halt once~
+Sc
+if ( %ovnum% == 4157 )
+   say You have passed my test, %name%.  You may proceed.
+   cmd set obj %objname% owner %name%
+   cmd plant %objname% %name%
+   MOB trans %name% 7305
+   echo %name% disappears with a *POP* and a cloud of smoke.
+   halt once~
+End
+
+#END

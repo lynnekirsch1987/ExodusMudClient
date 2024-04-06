@@ -1,0 +1,41 @@
+* File infectsailor.scr
+* mob: Infected Sailor (7935)
+
+#TRIGGER moan
+Type 10
+Sc
+  emote cries out and turns away from you as you approach.
+  say Wait... don't leave.  It's difficult to speak...  be patient...
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rand% random 0 7
+if ( %rand% == 1 )
+  say It was just a tiny island.  Not even on any of our charts...
+  halt once~
+Sc
+if ( %rand% == 2 )
+  say I was the first one ashore.  There was nothing there, just... gravestones.
+  halt once~
+Sc
+if ( %rand% == 3 )
+  say ...looked like nobody had been there in years...
+  halt once~
+Sc
+if ( %rand% == 4 )
+  say There was a woman walking around.  When I approached her, she attacked me...
+  halt once~
+Sc
+if ( %rand% == 5 )
+  say What's happening to me!?  The sunlight is like fire on my skin!
+  halt once~
+Sc
+if ( %rand% == 6 )
+  say We were sailing far south of the lighthouse in the eastern prairie...
+  halt once~
+End
+
+#END

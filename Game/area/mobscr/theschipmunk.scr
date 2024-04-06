@@ -1,0 +1,12 @@
+* mob chipmunk 4401 in Thesden *
+
+#TRIGGER sighand
+Type 8
+Sc
+mfunc self %amhere% room
+if ( %amhere% == %sighand-arg% )
+   signal 4402 %amhere%
+   halt once~
+End
+
+#END

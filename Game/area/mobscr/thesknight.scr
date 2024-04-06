@@ -1,0 +1,16 @@
+* File thesknight.scr
+* Mob knight (4092)
+
+#TRIGGER stuff
+Type 10
+Sc
+wfunc %rnd% random 0 4
+    if (%rnd% == 2)
+    emote polishes a spot on his armor.
+    halt once~
+Sc
+   if (%rnd% == 3)
+   emote ignores your presence and stands even more erect, as if that were possible.
+   halt once~
+End
+#END

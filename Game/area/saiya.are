@@ -1,0 +1,9313 @@
+#AREA
+ 6~
+saiya.are~
+Saiya~
+{25 91} Ragnar  Saiya~
+~
+7000 7250
+36 0 0
+0 0
+~
+#MOBILES
+#7000
+gigantic insect lord puuaru~
+The Insect Lord~
+A gigantic insect is here, feeding on grass with razor-sharp talons.
+~
+It looks like a preying mantis, if preying mantii were twenty feet tall.
+Staring down at you, the large bug slowly drips gastric acid over its
+next pile of food...maybe you would like to be next?
+~
+unique~
+0 0 0 0
+ABCGNT BKOVac 1000 0
+33 33 10d70+650 40d10+100 6d7+19 charge
+-4 -4 -4 999 -4
+0 -1 MV AB E H
+stand stand male 2430
+AHMV ABCDEFGHIJK 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7001
+monkey~
+a Saiya Monkey~
+A large, golden-furred monkey eyes you from the shadows.
+~
+~
+human~
+0 0 0 0
+ABGN PQTZ -10 0
+38 38 10d85+500 30d5+100 5d10+5 bite
+0 0 0 999 0
+0 -1 CMNR A 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+3
+monkey.voc~
+~
+#7002
+grunt shapeshifter~
+Grunt~
+Grunt, the shapechanger sees you and transforms!
+~
+Oolong is a tiny pig who usually is clad in military attire, and is usually
+very reserved in most respects.  At the moment, though, he is polymorphed
+into a gigantic red demon, and is eyeing your equipment.
+~
+pig~
+0 0 0 0
+ABR HPQ -10 0
+42 42 40d100+650 42d6+20 6d8+20 grep
+0 0 0 999 0
+0 -1 CFHJ AB CD 0
+stand stand male 620
+AGV ACDEFHJKa 14 14 14 14 14 14 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#7003
+Darbura~
+Darbura~
+Darbura stands here, furious at being imprisoned.
+~
+Darbura is a huge, barrel-chested demon with pointed ears and a sinister
+goatee.  He was imprisoned by Gero for the purpose of golem experimentation.
+~
+human~
+0 0 0 0
+ABFT HVc -1000 0
+50 50 60d170+1530 50d10+25 5d11+25 crush
+-9 -9 -9 999 -10
+0 -1 CDEFHIJKNOV AB 0 IR
+stand stand male 2104
+AHJMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7004
+Rokkusennin~
+Rokkusennin~
+Rokkusennin, the Master of Stone, peers intently at you from the shadows.
+~
+Rokkusennin is a short humanoid wearing basic brown-and-green clothes.  He
+fades indistinguishably into the surrounding rock environment.
+~
+human~
+0 0 0 0
+ABGT BOPQTUe 100 0
+35 35 30d64+500 35d10+300 4d5+14 crush
+0 0 0 999 0
+0 -1 DEO AB CDEK H
+stand stand male 400
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7005
+Recoom~
+Recoom~
+Recoom walks about the room here, attempting escape.
+~
+Tall -- a huge, hulking brute.  Recoom has a very chiseled face and red
+hair.
+~
+human~
+0 0 0 0
+ABT HNOPQ -500 0
+45 45 70d300+1000 45d10+100 5d10+10 wrath
+-30 -30 -30 999 -30
+0 -1 CDEFHIKNOVW AB CDN HJK
+stand stand male 100
+AHJMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+large flesh~
+0 0 0 530
+0
+~
+~
+#7006
+Ginew~
+Ginew~
+Ginew bounces about the cell here madly.
+~
+Ginew is a huge purplish being that does not seem to like imprisonment.
+~
+unique~
+0 0 0 0
+ABFGR DHNT -600 0
+47 47 10d300+1530 47d10+100 9d10+25 digestion
+-35 -10 -20 999 -5
+0 -1 CEHMOV ABCHKN DEK HIJL
+stand stand neutral 0
+AHMV ABCDEFGHIJK 15 15 15 15 15 15 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#7007
+gasto~
+Doctor Gasto~
+Gasto strides around the room, computing formulae.
+~
+~
+human~
+0 0 0 0
+ABGQ BDHNOae -1000 0
+40 40 10d100+1000 100d10+100 5d10+15 magic
+-50 -50 -50 999 -50
+0 -1 AFHKN AB 0 0
+stand stand male 2000
+AHIMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+small flesh~
+0 0 0 100
+2
+gero.voc~
+~
+#7008
+bouncing boulder~
+A bouncing boulder~
+Boulders rumble along the cliffside here.
+~
+A huge rock.
+ 
+~
+human~
+0 0 0 0
+ABFG PQTVc 0 0
+35 35 10d61+500 0d0+0 4d6+20 crush
+-100 -100 -100 999 -100
+0 -1 CHOU 0 0 0
+stand stand neutral 0
+AHMSV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+boulder.scr~
+#7009
+Freeza~
+Freeza~
+Freeza runs about the cell, slamming himself against the wall.
+~
+A large white being with a huge tail smiles back at you.
+~
+human~
+0 0 0 0
+ABFGT BHNOPQTVce -1000 0
+51 51 10d60+3054 51d10+400 6d10+25 smash
+-40 -30 -30 999 -5
+0 -1 ACFHJK AB 0 IR
+stand stand male 0
+AHJMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7010
+water jet~
+A high-speed jet of hot water~
+A high-speed jet of water is here, hitting you.
+~
+It's murky and you're already in water, you can't see much.
+~
+human~
+0 0 0 0
+ABFGT BTUVbe 0 0
+51 51 10d100+500 1d1+100 3d3+3 none
+-10 -10 -10 999 -10
+D -1 EFO ABCDEFGHIKLMNOPQa 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#7011
+man disgusting evil~
+The torturer~
+A disgustingly evil man is here, torturing a child.
+~
+Sinister.
+~
+human~
+0 0 0 0
+ABG V -1000 0
+15 15 5d30+200 15d10+100 3d5+10 none
+-1 -2 -1 999 -2
+0 -1 E AB 0 0
+stand stand neutral 54
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7012
+arclong dragon~
+Arclong~
+Arclong the blind dragon thrashes around here, feeding.
+~
+Arclong is amazingly small for a dragon, completly black, and slick like the
+skin of a catfish.  He has six jaggedly clawed arms and small, black, beady
+eyes which glow dully in the water's light.  Arclong's mouth is filled with
+long, ripped rows of teeth, they appear to fill his whole mouth... this
+vicious thing is very small, but you don't think you'd want to meet him in
+combat.
+~
+dragon~
+0 0 0 0
+ABFGQRST ADFHJNOPQTVZbce -1000 0
+61 100 50d190+950 60d10+100 9d11+25 acbite
+-9 -9 -9 999 -15
+D -1 ACDEFHIKMO ABa BEHJKN FI
+stand stand neutral 50
+AHMVZ ABCDEFGHIJKLOPQUVWXa 18 18 18 18 18 18 0
+small flesh~
+0 0 0 100
+0
+~
+arclong.scr~
+#7013
+wanderer saiyajin~
+A Saiyajin wanderer~
+A wandering saiyajin mills around here, looking for something to do.
+~
+A man with a chiseled face and a rough outline of a blond beard stares
+back at you as he wanders away.
+~
+human~
+0 0 0 0
+ACG PQV 0 0
+25 25 5d61+350 25d10+100 4d5+15 sting
+-1 -2 -3 999 -1
+0 -1 CFK Q 0 0
+stand stand male 63
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7014
+wandering saiyajin warrior~
+Wandering Warrior of Saiya~
+A saiyajin warrior wanders here, sword strapped to his side.
+~
+A man of about 30, this sellsword is a mercenary who wanders the land
+selling his services for entertainment, or for use against any known
+threat.
+~
+human~
+0 0 0 0
+AGT VZa -400 0
+36 36 10d70+560 35d10+100 5d7+20 slice
+-5 -1 -5 999 -2
+0 -1 CDHIO 0 DN H
+stand stand male 103
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7015
+insect cultist saiyajin~
+An insect cultist~
+A saiyajin insect cultist wanders here, looking for bugs.
+~
+Dressed in false chitin, this man stares lopsided at you from underneath
+a brown hood.
+~
+human~
+0 0 0 0
+ABCFGR 0 -500 0
+37 37 10d70+500 37d10+100 5d7+15 none
+-10 -10 -20 999 -10
+0 -1 IJU AB 0 0
+stand stand neutral 120
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7016
+winged rock hound~
+A winged rock-hound~
+A rock hound spreads gargoyle wings and hovers here.
+~
+This winged mutant of stone hovers slowly, his disgusting face
+slobbering as he snores, sleeping in midair.
+~
+wolf~
+0 0 0 0
+ABGX APQRWZace 10 0
+20 20 8d60+500 20d10+100 4d5+10 claw
+-50 -50 -50 999 -50
+0 -1 CFHO BEJ 0 0
+stand stand neutral 0
+AGV ACDEFJKQVa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7017
+wandering minstrel saiyajin~
+The wandering minstrel~
+A wandering Saiyajin minstrel is here, strumming a precise tune.
+~
+One of many music-makers in this realm, this young man is close to 20
+and wears raiments signifying that he is but a novice minstrel.  Despite
+this, his barding is very precise, and enjoyable to hear.
+~
+human~
+0 0 0 0
+ACGNS DEFNOT 1000 0
+30 30 10d60+400 30d10+100 5d6+14 slap
+-15 -12 -20 999 -1
+0 -1 EJ B 0 0
+stand stand male 630
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7018
+Naethra~
+Naethra~
+Naethra stands here, waiting to sell you something.
+~
+Naethra is an old, fragile man, wearing glasses and a cane.
+~
+human~
+0 0 0 0
+ABGV 0 1000 0
+50 50 1d1+999 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 AB 0 0
+stand stand neutral 100000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7019
+tiny waterdragon dragon~
+A tiny waterdragon~
+A tiny waterdragon dives in and out of the stream.
+~
+A small, blue-and-green reptile swims around here.  It looks so cute!
+~
+unique~
+0 0 0 0
+ABFGT PTbe -1000 0
+40 40 10d70+800 40d10+100 5d7+20 none
+-30 -20 -20 999 -1
+0 -1 DMNO AR I 0
+stand stand neutral 430
+AHMVZ ABCDEFGHIJK 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7020
+fissure dweller saiyajin~
+A fissure-dweller~
+A fissure-dweller saiyajin cowers here, looking for a way to escape.
+~
+This man has a long blond beard and milky white eyes.  He looks very 
+frightened of you.
+~
+human~
+0 0 0 0
+ABGQ AQTVZ 0 0
+34 34 10d75+500 40d10+100 5d7+20 beating
+-10 -20 -30 999 -10
+0 -1 C AB 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKLa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7021
+Airuusennin~
+Airuusennin~
+Airuusennin, the Mistress of the Air, floats here lazily.
+~
+Airuusennin is an intangible, squat female with long hair and a fierce
+grimace on her face.  She doesn't look very happy about her job...or
+life...or you...
+~
+human~
+0 0 0 0
+ABGN BTV 0 0
+40 40 10d110+500 40d10+100 5d10+9 none
+-30 -30 -30 999 -30
+0 -1 FHK AB 0 0
+stand stand female 100
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7022
+mountain villager zombie~
+A zombie villager~
+A mountain villager shambles about, eyes sunken.
+~
+Green-faced and putrid, this villager has most certainly seen better days.
+~
+human~
+0 0 0 0
+AFGHO AOW -1000 0
+29 29 10d70+200 1d1+100 5d9+10 slash
+-15 -15 -15 999 -15
+0 -1 0 A 0 N
+stand stand neutral 56
+ABHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7023
+Aethra~
+Aethra~
+Aethra stands here, waiting to sell you something.
+~
+Graceful for her old age, Aethra smiles at you as you look at her.
+ 
+~
+human~
+0 0 0 0
+ABGV 0 0 0
+50 50 1d1+999 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 ABCD 0 0
+stand stand neutral 100000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7024
+sentinel demon~
+Piccolo's Sentinel Demon~
+A sentinel demon of Piccolo stands here, patrolling.
+~
+~
+human~
+0 0 0 0
+ABGNT BOTe -900 0
+48 48 10d150+400 49d10+100 5d8+15 flbite
+-50 -50 -50 999 -50
+0 -1 CDEFHJMNO AB 0 0
+stand stand neutral 2406
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#7025
+piccolo incarnation evil~
+Piccolo, the Incarnation of Evil~
+Piccolo the Lord of Evil sits here on a throne of flesh.
+~
+Piccolo is a small, reptile-like creature clothed in fine garments.
+He smiles down at you peacefully, and begins to feast upon a human
+intestine as he grins.
+~
+human~
+0 0 0 0
+ABGQR DFHNOVZae -1000 0
+67 90 10d180+5000 55d10+100 5d10+40 divine
+-30 -30 -30 999 -30
+0 -1 ACDEFHIJKMNO AB CD N
+sit sit male 15330
+AHMVX ABCDEFGHIJKPVWa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 100
+4
+piccolo.voc~
+~
+#7026
+golem guard axeman~
+An axeman~
+A ragged golem guard stands here, holding an axe.
+~
+Axeman is a ragged construct of wood and metal, and looks rather shambled.
+~
+human~
+0 0 0 0
+ABG HR 0 0
+20 20 10d30+200 20d10+100 4d5+10 cleave
+-8 -9 -8 999 -9
+A 0 0 ABDN 0 H
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7027
+farmer saiyajin~
+The evil farmer~
+A Saiyajin farmer is here, beating a baby calf to death.
+~
+Sinister.  Too sinister.
+~
+human~
+0 0 0 0
+ABG V -1000 0
+18 18 5d40+200 18d10+100 4d5+10 none
+-9 -9 -9 999 -9
+0 -1 J ABQ 0 0
+stand stand neutral 403
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7028
+cultist evil~
+The deranged cultist~
+A deranged cultist is here, executing human children.
+~
+Altogether too sinister.
+~
+human~
+0 0 0 0
+ABG H -1000 0
+21 21 5d61+400 20d10+100 4d5+11 none
+-10 -10 -10 999 -10
+0 -1 0 AB 0 0
+stand stand either 304
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7029
+Aayliwa demon~
+Aayliwa the Demon~
+Aayliwa is here, doing disgusting things to a dead child.
+~
+Get the hell away from this thing.  It is extremely evil.
+~
+human~
+0 0 0 0
+ABG HV -1000 0
+25 25 10d50+300 1d1+100 5d5+15 none
+-10 -10 -10 999 -10
+0 -1 CM AB 0 N
+stand stand neutral 5042
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 400
+0
+~
+~
+#7030
+smiling man~
+A smiling man~
+A man stands here, smiling happily.
+~
+A bit too cheerful for his own good, don't you think?
+~
+human~
+0 0 0 0
+ABG A 500 0
+15 15 5d30+170 1d1+100 3d5+8 none
+-3 -3 -3 999 -3
+0 -1 O AB 0 0
+stand stand male 35
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7031
+young saiyan priest~
+A young priest of Kami-Sama~
+A young Saiyan priest of the god Kami-Sama meditates here.
+~
+~
+human~
+0 0 0 0
+ABG 0 1000 0
+41 41 5d30+170 0d0+0 3d5+8 none
+-2 -2 -2 999 -2
+0 -1 0 ABN 0 0
+stand stand neutral 5
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+6
+priest.voc~
+~
+#7032
+mother~
+An innocent mother~
+An innocent mother stands here, smiling at her child.
+~
+Smiling, it looks like she's been through a lot.  A goodhearted soul.
+~
+human~
+0 0 0 0
+ABG 0 1000 0
+20 20 10d30+100 1d1+100 4d5+11 beating
+2 2 -2 999 2
+0 -1 0 AB 0 0
+stand stand female 240
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7033
+cultist saiyajin~
+A Saiyajin Cultist~
+A cultist of Kami-Sama smiles into a cupped flower.
+~
+~
+human~
+0 0 0 0
+ABG H 1000 0
+25 25 7d30+200 25d10+100 5d5+11 none
+-1 -1 -1 999 -1
+0 -1 C ABN 0 0
+stand stand male 140
+AHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7034
+fire master novice~
+The Novice Master of Fire~
+(Flaming) The Novice-Master of Fire stands here.
+~
+He's human -- but covered in flames.  Not much more to see.
+~
+human~
+0 0 0 0
+ABG BV 0 0
+29 29 10d60+400 30d10+100 5d6+15 flbite
+-4 -4 -4 999 -4
+0 -1 O AB 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7035
+novice master water~
+The Novice Master of Water~
+(Wavy) The Novice-Master of Water stands here.
+~
+A human -- but covered in a liquid aura.  Not much else.
+~
+human~
+0 0 0 0
+ABG BV 0 0
+29 29 10d60+400 30d10+100 5d6+15 frbite
+-4 -4 -4 999 -4
+0 -1 O AB 0 0
+stand stand male 200
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7036
+novice master air~
+The Novice Master of Air~
+(Translucent) The Novice-Master of Air floats lazily about.
+~
+He's a human -- but completely invisible, and airborne.
+~
+human~
+0 0 0 0
+ABG 0 0 0
+29 29 10d60+400 30d10+100 5d6+15 none
+-4 -4 -4 999 -4
+0 -1 O AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7037
+novice master land~
+The Novice Master of Land~
+The Novice-Master of Land stands here, surveying his goods.
+~
+~
+human~
+0 0 0 0
+ABG H 0 0
+31 31 10d10+1430 30d10+100 6d6+15 none
+-5 -5 -5 999 -5
+0 -1 O AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7038
+flamelick~
+A Flamelick~
+A flamelick dances about here.
+~
+A tall column of fire.
+~
+human~
+0 0 0 0
+ABFG Va 0 0
+32 32 5d40+250 1d1+100 5d6+15 flbite
+0 0 0 999 0
+0 -1 E AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7039
+obelisk fire flame~
+An Obelisk of Fire~
+A huge obelisk of flame towers here.
+~
+~
+human~
+0 0 0 0
+ABG H 0 0
+36 36 10d100+500 1d1+100 5d8+20 flbite
+-10 -10 -10 999 -10
+0 -1 0 AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7040
+waterwave~
+A Waterwave~
+A waterwave crashes against the wall here.
+~
+~
+human~
+0 0 0 0
+ABG UV 0 0
+30 30 10d61+300 0d0+0 5d6+25 none
+-1 -1 -1 999 -1
+0 -1 O AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7041
+lifeforce~
+The lifeforce of Saiya~
+The lifeforce of Saiya hovers here, aiding citizens from afar.
+~
+The lifeforce is a quasi-elemental being of water --
+it creates and sustains the bodies of water on
+Saiya, and ensures that there will never be a lack
+of life-giving fluid.
+~
+human~
+0 0 0 0
+ABG BUbc 1000 0
+35 35 10d150+400 35d10+100 5d8+15 none
+-10 -10 -20 999 -5
+0 -1 0 AILQR 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7042
+air wight~
+An Air Wight~
+A wight fades in and out of existence here, floating on the winds.
+~
+A pale, clear-blue being with dark red eyes, the air wight
+is an unnatural creation, most likely of Dr. Gero.  It
+floats around unsteadily, testing its body's abilities as
+it soars about on currents of air.
+~
+human~
+0 0 0 0
+ABG BTV -1000 0
+36 36 10d80+500 36d10+100 5d5+14 none
+-70 -70 -70 999 -70
+0 -1 ACDEFHIKMNO A 0 N
+stand stand male 0
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7043
+acrobat~
+The Acrobat~
+An acrobat smiles at you as she whirls about on thin-threaded ropes.
+~
+This acrobat is very deft, swinging about on currents of air
+only stopping to touch the smallest of ropes now and then
+to propel herself back into the air.  Will she ever come
+down?
+~
+human~
+0 0 0 0
+ABG PTV 0 0
+38 38 10d170+500 0d0+0 5d5+10 none
+-90 -90 -90 999 -90
+0 -1 IJ AB 0 0
+stand stand female 542
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7044
+rokkusennin minion~
+A minion of Rokkusennin~
+A minion of Rokkusennin, stands here, tidying up the earth.
+~
+A huge beast of stone and soil, this thing was summoned
+by Rokkusennin to help toil over Saiya's earth.  Apparently
+he's been imprisoned by the Masters of this tower to
+train novices such as yourself.
+~
+human~
+0 0 0 0
+ABG 0 0 0
+39 39 10d100+450 40d10+100 5d8+15 crush
+-20 -10 -10 999 -10
+0 -1 C AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7045
+multi elemental legion~
+Legion~
+Legion stands here, fading in and out of the scenery.
+~
+Legion was a cloud giant mage who delved too far into the
+secrets of elementalists for his own good.  His limited
+intellect overthrew his skill as a mage, and he was 
+trapped in the Elemental Plane of Earth for more than
+three centuries.  There, he devised a way to escape,
+but only found himself in another Elemental Plane. After
+nearly three milleniums, Legion made his way to this world,
+Saiya, infused with the essences of all of the planes he
+had visited.  Thus he has become the default Master of
+Elementals, and serves the Masters of Karin Tower.
+~
+human~
+0 0 0 0
+ABG H 0 0
+42 42 10d120+400 50d10+100 5d9+15 acbite
+-50 -50 -50 999 -50
+0 -1 EFHIK AB 0 0
+stand stand neutral 1053
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7046
+weapon golem construct~
+A Weapon-Golem~
+Weapon-Golem stands here, ready to test your skill.
+~
+~
+human~
+0 0 0 0
+ABGT V 0 0
+45 45 10d170+600 45d10+100 5d10+15 none
+-10 -10 -10 999 -10
+0 -1 CI ABCHKNOPQRS 0 DEFGIJL
+stand stand neutral 400
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7047
+magic golem construct~
+A Magic-Golem~
+Magic-Golem stands here, waiting to test your skills.
+~
+~
+human~
+0 0 0 0
+ABGR 0 0 0
+45 45 10d150+400 100d10+100 6d6+8 magic
+-10 -10 -10 999 -10
+0 -1 0 ABDEFG 0 CHIKLNOQXYZ
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7048
+dodge golem construct~
+A Dodge-Golem~
+Dodge-Golem is here, waiting to test your skills.
+~
+~
+human~
+0 0 0 0
+ABG V 0 0
+45 45 50d150+400 0d0+0 6d6+8 none
+-150 -150 -150 999 -150
+0 -1 FK AB 0 DK
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7049
+master golem construct~
+The Master-Golem~
+Master-Golem stands here, ready to see what you've learned.
+~
+~
+human~
+0 0 0 0
+ABG NOTV 0 0
+46 46 10d170+900 50d10+100 5d10+25 none
+-90 -90 -90 999 -90
+0 -1 CFHIJK ABGK 0 CEILN
+stand stand neutral 5493
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7050
+barakahiin bartender~
+Barakahiin the Bartender~
+Barakahiin the bartender stands behind a counter here.
+~
+~
+human~
+0 0 0 0
+ABGV 0 0 0
+50 50 1d1+999 0d0+0 0d0+0 none
+0 0 0 999 0
+0 -1 0 AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7051
+certified master~
+A Certified Master of Combat~
+A Certified Master of Combat glares at you.
+~
+This haggard middle-aged man doesn't look very tough to you.
+~
+human~
+0 0 0 0
+ABG H 0 0
+46 46 10d170+900 0d0+0 5d10+20 none
+-25 -25 -25 999 -25
+0 -1 C AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7052
+challenge golem construct~
+The Challenge-Golem~
+Challenge-Golem stands here, milling idly about.
+~
+Large, surreal constructs of clay and flesh, the challenge golems were
+created by a master Saiyan golem-maker for recent use in an exhibition
+Budokai.  They have gone on to serve as trainers for some of the more
+promising students.
+~
+human~
+0 0 0 0
+ABG V 0 0
+53 53 35d170+920 0d0+0 5d10+25 crush
+-40 -40 -40 999 -1
+0 -1 DEFIJK ABE CDN 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7053
+roushin turtle master~
+Roushin~
+Roushin, the old turtle-master, wobbles about here.
+~
+Roushin is a tiny bearded man wearing a print shirt
+and a cane.  Unfortunately, when he fights he transforms
+into a huge, snarling 500-lb. musclehead. Otherwise, you
+might have some way of beating him.
+~
+human~
+0 0 0 0
+ABG H 1000 0
+58 58 10d200+900 0d0+0 5d10+25 bite
+-90 -90 -90 999 -90
+0 -1 0 AB 0 0
+stand stand neutral 1500
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7054
+maaj~
+Maaj~
+Maaj stands here, lording his presence over you.
+~
+Maaj is a huge...disgusting...thing -- he resembles
+a cross between an eel and a giant.  His head wraps around
+his shoulders ala a certain Hutt guard.
+~
+human~
+0 0 0 0
+ABG H -1000 0
+61 90 100d180+4000 0d0+0 7d10+0 none
+-60 -60 -60 999 -60
+0 -1 AC ABDEFGHLMOPQRTXYZ D I
+stand stand neutral 6293
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7055
+veej~
+Veej~
+Veej walks around the room arrogantly, searching for a challenge.
+~
+Veej is a short man with spiked black hair and narrow brown
+eyes.  He floats about the room, going over martial art forms
+that he has mastered over and over again, pondering his brilliance.
+Vejiita has trained in the Room of Spirit and Time many times,
+and has achieved the level of Ultra Saiya-jin -- so beware,
+he is probably one of the four most deadly people you will meet
+in this tower.
+~
+human~
+0 0 0 0
+ABFGRSX HNOVe -1000 0
+65 100 95d240+1500 56d10+100 10d20+30 none
+-40 -40 -40 999 -20
+0 -1 BCDHIJ ABEH DFGKMNO 0
+stand stand male 10439
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+small flesh~
+0 0 0 100
+4
+vejiita.voc~
+~
+#7056
+cell~
+Cell~
+Cell, Gasto's ultimate construct, smiles greedily at you.
+~
+Cell is a medium-sized humanoid with long black hair and
+solid opaque eyes.  He was originally an android constructed
+by Dr. Gasto, but after consuming most of Gasto's constructs,
+and Gasto himself, Cell became not only human, but something
+more than human -- he holds the power of many worlds inside
+of him, and will use that power to destroy anything at his
+whim.
+~
+human~
+0 0 0 0
+ABFG DFHV -1000 0
+90 120 100d170+700 60d10+100 17d15+35 wrath
+-40 -40 -40 999 -30
+A 4 CI ABLQ CDFGHILMNOPQ 0
+stand stand male 7632
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium flesh~
+0 0 0 100
+1
+~
+~
+#7057
+gook~
+Gook~
+Gook trains steadily here, not noticing your arrival.
+~
+Gook, the monkey king, stands here, training furiously.  He wears
+a red tunic which is stained with sweat from continuous training.
+He is one of the few legendary Ultra Saiya-jins to inhabit this
+planet, having come upon the next level of power in the room of
+Spirit and Time.
+~
+human~
+0 0 0 0
+ABG HNOVe 1000 0
+65 70 10d300+900 59d10+100 8d10+25 none
+-40 -40 -40 999 -60
+0 -1 0 AB 0 0
+stand stand male 10392
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7058
+novice student~
+The novice~
+A novice student wanders aimlessly here.
+~
+~
+human~
+0 0 0 0
+ABG 0 0 0
+30 30 10d61+416 0d0+0 5d6+15 none
+-10 -2 -5 999 -1
+0 -1 0 A 0 0
+stand stand neutral 92
+AHMV ABCDEFGHIJKa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7059
+intermediate student~
+The intermediate student~
+An intermediate student of the Tower is here.
+~
+~
+human~
+0 0 0 0
+ABG 0 0 0
+40 40 10d61+500 0d0+0 5d8+15 none
+-20 -10 -10 999 -5
+0 -1 C A 0 0
+stand stand neutral 430
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7060
+shenlon depravity moonsong dragon oyster~
+Shenlon~
+Shenlon, the Ancient Dragon of Saiya, rests here peacefully.
+~
+Shenlon is huge -- HUGE.  He spans at least 900 feet to either side from
+the point where you are standing.  Huge black and green scales alternate
+and overlap to form impenetrable armor, and from the looks of it Shenlon
+has many other ways to protect himself as well.  If the legends are
+correct, Shenlon is both Kami-sama's mentor, advisor, friend, and keeper
+of the seven sacred Dragon Balls -- it is said that if all seven are
+owned by a mortal, that mortal will have their fondest desires fulfilled.
+ 
+Shenlon looks back at you.  Perhaps he was not as asleep as you thought...
+~
+dragon~
+0 0 0 0
+ABFG DJNOTVb 1000 7060
+92 200 250d200+2000 60d10+1000 30d10+30 divine
+-50 -50 -50 999 -20
+0 -1 ACDEFHIKMNO ABHKN BDEGHJLMOQRXYZ FI
+stand stand neutral 45920
+AHMVZ ABCDEFGHIJKOPQUVWXa 25 25 25 25 25 25 30078
+giant flesh~
+0 20 20000 1000
+0
+~
+shenlon.scr~
+#7061
+dead thing~
+A dead Thing~
+A dead Thing is here, pulsing.
+~
+~
+human~
+0 0 0 0
+ABGO H 0 0
+50 50 10d170+940 50d10+100 5d10+30 crush
+-30 -30 -30 999 -2
+0 59 0 C AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7062
+Gojiita~
+Gojiita~
+Gojiita walks around the room arrogantly, fuming.
+~
+Gojiita is a short, stout-haired young man that trains in Karin Tower
+often.  He himself has not achieved any significant level of power, but
+when fused with Vendetta, he becomes quite the formidable enemy.
+~
+human~
+0 0 0 0
+ABFG HNOV -1000 0
+66 27 40d240+1000 0d0+0 10d20+30 none
+-30 -30 -30 999 -30
+0 -1 BJ 0 D 0
+stand stand neutral 5649
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7063
+vegita~
+Vegita~
+Vegita sits in a corner, pondering his brilliance in battle.
+~
+Vegita is a short man with bristled hair that relies on primarily magic
+to do his combat for him -- he is not very skilled (Well, compared;to YOU
+he's skilled, compared to his peers he isn't).  
+~
+human~
+0 0 0 0
+ABFG HNOV 1000 0
+66 70 40d240+1000 0d0+0 10d20+0 none
+-30 -30 -30 999 -30
+0 -1 BCJ 0 CD 0
+stand stand neutral 439
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7064
+disruptor golem construct~
+Disruptor-Golem~
+Disruptor-Golem stands here, feeding on live electricity.
+~
+Similar to an android, this construct is made of partially wires and
+conduits, some of them incomplete and bulging out, sparking.  Unlike
+an android, these are animated by Spirit and Magic, and not technology.
+~
+human~
+0 0 0 0
+ABFG 0 0 0
+55 55 60d180+920 0d0+0 7d10+25 wrath
+-30 -30 -30 999 -30
+0 -1 0 AB 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#7065
+massive golem construct~
+A Massive-Golem~
+Massive-Golem is here, pounding away at a padded wall.
+~
+Massive Golem almost completely fills the room you are in.  Juxtaposed
+arms and legs bulge from everywhere, giving the appearance of a horrible,
+screaming wall-creature.
+~
+human~
+0 0 0 0
+ABG H 0 0
+59 59 100d100+1000 1d1+100 5d7+10 slime
+-30 -30 -30 999 -30
+0 -1 CDEFIJKMN AB 0 EHIKLMNOPQRTXYZ
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7066
+death golem construct~
+A Death-Golem~
+Death-Golem hovers quietly in the shadows with his bretheren.
+~
+Tall and lean, these things would look human if it weren't for their
+completely smooth, traitless features.  A smooth plain in place of a face,
+no separation of fingers...or legs.  Death Golem hovers silently in the
+corner, awaiting new orders.
+~
+human~
+0 0 0 0
+ABFG H -1000 0
+61 70 50d190+920 0d0+0 20d10+25 none
+-30 -30 -30 999 -30
+0 -1 BFIKMNU AB C 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7067
+ragohan~
+Ragohan~
+Ragohan mills about here, attacking challengers.
+~
+~
+human~
+0 0 0 0
+ABG NV 1000 0
+66 77 40d170+1900 0d0+0 10d10+25 punch
+-30 -30 -30 999 -30
+0 -1 EFKN 0 0 0
+stand stand neutral 1094
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7068
+Tenshinhan~
+Tenshinhan~
+Tenshinhan stands before you, screaming in rage.
+~
+Tenshinhan is roughly twenty years old, bald, with thick black
+eyebrows.  A third, smaller, eye scans along with his other two
+from the top of his forehead.
+~
+human~
+0 0 0 0
+ABG OV -1000 0
+70 77 60d170+1900 1d1+100 10d10+25 none
+-30 -30 -30 999 -30
+0 -1 EFKN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#7069
+terry bogard~
+Terry Bogard~
+Terry Bogard stands here practicing his technique.
+~
+Terry Bogard is a haggard young man with long blond tousled hair.
+~
+human~
+0 0 0 0
+ABG HNO 0 0
+55 55 100d100+1000 1d1+100 5d10+5 none
+-30 -30 -30 999 -30
+0 -1 0 0 CD 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+4
+terry.voc~
+~
+#7099
+Kami-sama Kami sama~
+Kami-Sama~
+Kami-Sama, God of Saiya, is here, smiling peacefully.
+~
+Kami-Sama smiles down at you, his ethereal form revealing something of his true
+nature to you.  This is no man -- or Saiya -- this is a GOD.  You feel an
+urge to weep in the presence of his great holiness.
+~
+human~
+0 0 0 0
+ABGNQR DFHNOTVa 1000 7060
+70 300 1d1+20000 60d60+1000 1d1+35 slash
+-110 -110 -110 999 -110
+0 -1 ACDEFHIJKNO ABHJKLQT DFGMNO CE
+stand stand male 5000
+AHMV ABCDEFGHIJKa 20 20 20 20 20 20 0
+large flesh~
+0 0 0 100
+3
+kami.voc~
+kami.scr~
+#0
+
+#OBJECTS
+#7000
+chitinous plates~
+`dOverlapping `hC`ah`hi`at`hi`an`ho`au`hs `dPlates``~
+`hBits of chitin from an insect lie here.``~
+scales~
+0
+armor 2
+BHMS
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB A 0
+0
+0
+23 31 0 P
+A
+2 2
+A
+5 -2
+A
+4 -1
+A
+13 5
+#7001
+mandibles pincers~
+insect mandibles~
+The head of a huge insect is here.~
+scales~
+0
+armor 2
+BHMS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C B A -4 0
+0
+0
+23 15 0 P
+A
+19 2
+A
+2 1
+#7002
+gnarled stick~
+a huge, gnarled stick~
+A stick rots here, decaying.~
+wood~
+0
+key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 10 0 P
+#7003
+tail saiya~
+the tail of a Saiya monkey~
+The severed tail of a monkey is here.~
+fur~
+0
+clothing 2
+B
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+24 32 0 G
+A
+14 10
+A
+2 1
+#7004
+cap military~
+a tiny dictatorial military cap~
+Oolong's hat is here.~
+cloth~
+0
+clothing 2
+AB
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 12 0 P
+A
+12 10
+#7005
+gray vest~
+`aA Stiff Gray `kGold-buttoned `aVest``~
+`aA vest sits upright here.``~
+cloth~
+0
+clothing 2
+ABM
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 27 0 P
+A
+13 5
+A
+12 8
+#7006
+baton gray~
+`aA Long Gray Tasseled Baton``~
+`aA tasseled baton lies here.``~
+cloth~
+0
+wand 2
+ABM
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ADE B A ACDH 'reserved'
+0
+0
+20 5 0 P
+A
+19 1
+A
+18 1
+#7007
+rock granite sleeves stone~
+`hA Pair of Huge `aGranite `hSleeves``~
+`hA huge pair of circular `agranite `hsleeves lie here.``~
+stone~
+0
+armor 2
+AB
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AB AB AB AB 0
+0
+0
+35 250 0 P
+A
+2 -3
+A
+1 -2
+A
+19 3
+#7008
+jagged lodestone~
+a jagged lodestone~
+A jagged lodestone lies here.~
+stone~
+0
+key 2
+HS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 20 0 P
+#7009
+rings coursing electricity~
+`hSeveral `lR`hi`ln`hg`ls `hof Coursing `lE`hl`le`hc`lt`hr`li`hc`li`ht`ly``~
+`lE`hl`le`hc`lt`hr`li`hc`li`ht`ly `hcourses along the ground here.``~
+ethereal~
+0
+armor 2
+AEJL
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+40 12 0 P
+A
+1 1
+A
+12 10
+#7010
+red ki blast~
+`bA `iRed `bKi `iBlast``~
+`iEnergy `hpulses here.``~
+ethereal~
+0
+weapon 2
+ABGJLS
+0
+-24575
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 D AC BC AF
+0
+0
+30 35 0 P
+A
+19 4
+A
+18 -5
+A
+1 1
+A
+24 -1
+A
+12 5
+#7011
+red eyes~
+`bA `iPair `bof `hG`kl`ho`kw`hi`kn`hg `bRed `iEyes``~
+`hG`kl`ho`kw`hi`kn`hg `beyeballs `hlie here.``~
+flesh~
+0
+armor 2
+EJL
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B B 0
+0
+0
+45 13 0 P
+A
+18 1
+#7012
+ooze wraparound tunic~
+`aA `kGlowing `aWraparound `iO`aoz`ie `aTunic``~
+`aA jumbled pile of `ioo`azi`ing `acloth is here.``~
+cloth~
+0
+clothing 2
+ABCEJLM
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 40 0 P
+A
+13 -10
+A
+19 -2
+A
+12 10
+A
+24 -1
+A
+18 2
+#7013
+torn pants~
+a pair of torn pants~
+A crumpled pile of denim is here.~
+cloth~
+0
+clothing 2
+E
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+51 10 0 P
+A
+4 -1
+A
+13 15
+A
+3 -1
+#7014
+yellow scarf~
+`dA Ragged `kYellow `dScarf``~
+`dA `kyellow `dcloth with a number on it is here.``~
+cloth~
+0
+trash 2
+ABEJ
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+51 15 0 G
+A
+14 5
+#7015
+red ribbon jersey~
+`hA `bRed Ribbon `hJersey``~
+`hA shirt lies on the ground.``~
+cloth~
+0
+clothing 2
+BJL
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+21 20 0 G
+A
+18 1
+A
+19 1
+#7016
+hands life~
+`dThe `iH`ha`in`hd`is `dof `kLife``~
+`hA pair of `ibloody `hhuman-skin gloves lie here.``~
+flesh~
+0
+weapon 2
+ABFHJLMSYa
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 CD AB E C
+0
+0
+50 14 0 G
+A
+1 -2
+A
+5 -5
+A
+3 -5
+A
+4 -5
+A
+12 60
+#7017
+Red Ribbon Lab Coat~
+`hA `bRed Ribbon `hLab Coat``~
+`hA white coat lies here.``~
+cloth~
+0
+container 2
+U
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BCDEGI ACD CGHJKMN BCDEGI EG
+0
+0
+30 15 0 G
+#7018
+neon test tube~
+a neon test tube with "Red Ribbon" imprinted on the side~
+A neon tube is here.~
+glass~
+0
+potion 2
+BHMS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+DF 'fly' 'cure poison' 'blindness' -1 0
+0
+40 5 0 G
+#7019
+red ribbon key skeleton passcard pass card~
+a Red-Ribbon skeleton pass card~
+A flat piece of metal lies here.~
+metal~
+0
+key 2
+HU
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 8 0 P
+#7020
+flask yellow bright~
+a bright yellow flask with "Red Ribbon" on the side~
+A yellow flask is here.~
+glass~
+0
+potion 2
+BSU
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCEF 'cure blindness' 'Quiet Mountain Lake' -1 -1 0
+0
+47 5 0 P
+#7021
+black cylinder~
+a black glass cylinder with the words "Red Ribbon" on the front~
+A murky black tube is here.~
+glass~
+0
+potion 2
+ABCES
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABDF -1 'cure poison' 'armor' 'blindness'
+0
+0
+40 5 0 P
+#7022
+a Red Ribbon Level II Pass Card~
+a Red Ribbon Level II Pass Card~
+A passcard is here.~
+metal~
+0
+key 2
+U
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 1 0 P
+#7023
+a Red Ribbon Level III Pass Card~
+a Red Ribbon Level III Pass Card~
+A passcard is here!~
+metal~
+0
+key 2
+U
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+47 1 0 P
+#7024
+a Red Ribbon Level IV Pass Card~
+a Red Ribbon Level IV Pass Card~
+A passcard is here?~
+metal~
+0
+key 2
+U
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 1 0 P
+#7025
+a slick dragon hide~
+`aA `hSlick `aDragon Hide``~
+`aA `hslick `adragon hide is here.``~
+scales~
+0
+armor 2
+CGSY
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD BD BD ABD 0
+0
+0
+65 159 50000 G
+A
+19 3
+A
+24 -3
+#7026
+thick dragon tail~
+a thick dragon tail~
+A thick tail is here.~
+scales~
+0
+key 2
+HMSUY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 100 0 G
+#7027
+treasure chest~
+the Treasure Chest~
+Arclong's chest is here, teeming with treasure.~
+metal~
+0
+container 2
+U
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DFGHIJ ABCD CEFGIJLM DFGHIJ ABFG
+0
+0
+40 0 0 P
+#7028
+slimy chemical key~
+a slimy chemical key~
+A pool of slime lies here.~
+unknown~
+0
+key 2
+Ya
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 6 0 P
+#7029
+huge brass key~
+a huge brass key~
+A HUGE brass key is here.~
+brass~
+0
+key 2
+Y
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 25 0 P
+#7030
+a walking stick~
+a Saiyajin's walking stick~
+A staff of bronzed wood is here.~
+wood~
+0
+staff 2
+BS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CE AC AC BFG 'reserved'
+0
+0
+15 15 140 P
+A
+14 25
+#7031
+pincers~
+a pair of insect pincers~
+A pair of insect's pincers lay here, covered in gore.~
+scales~
+0
+weapon 2
+BGSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+B C D AD F
+0
+0
+27 22 830 P
+A
+18 -3
+A
+12 20
+#7032
+diamond sword dragon ball one~
+`hA Diamond Sword with a One-Starred Dragon Ball in the Hilt``~
+`hA small metal ball with one star on it is here.``~
+diamond~
+0
+weapon 2
+HMT
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+A BD BC BE DE
+0
+0
+85 34 39402 P
+A
+24 -3
+A
+17 -5
+A
+4 1
+A
+18 5
+A
+19 5
+A
+13 25
+#7033
+two star dragon ball~
+`hA Two-Starred Dragon Ball``~
+A small metal ball with two stars is here.~
+metal~
+0
+warp_stone 2
+LSTYa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+60 29 20390 P
+A
+24 -3
+A
+13 50
+A
+12 50
+A
+18 6
+A
+19 6
+#7034
+three star dragon ball book~
+`hA Book with a Tri-Starred Dragon Ball in the Binding``~
+A small metal ball with three stars is here.~
+metal~
+0
+scroll 2
+LSa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABDEG 'lightning breath' 'lightning breath' -1 -1 0
+0
+90 42 15490 P
+A
+13 12
+A
+24 -2
+#7035
+four star dragon ball book~
+`hA Book with a Quad-Starred Dragon Ball in the Binding``~
+A small metal ball with four stars is here.~
+metal~
+0
+scroll 2
+JSTYa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABDEG 'fire breath' 'lightning breath' 'acid breath' 'gas breath'
+0
+0
+90 15 15490 P
+A
+24 -2
+A
+12 15
+#7036
+shield five star dragon ball~
+`hA Metal Shield with a Five-Starred Dragon Ball in the Center``~
+A small metal ball with five stars is here.~
+metal~
+0
+armor 2
+LYa
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+80 53 10394 P
+A
+12 50
+A
+24 -5
+A
+13 50
+A
+19 2
+A
+18 2
+#7037
+six star dragon ball bag~
+`hA Bag with a Six-Starred Dragon Ball Closure``~
+A small metal ball with six stars is here.~
+metal~
+0
+container 2
+HMRY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+FIJ 0 0 FIJ BFG
+0
+0
+60 1 10493 P
+A
+12 40
+#7038
+seven star dragon ball gloves~
+`hGloves with One Half of a Seven-Starred Dragon Ball Sewn In``~
+A small metal ball with seven stars is here.~
+mithril~
+0
+armor 2
+GY
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BC BC BC BC 0
+0
+0
+80 32 9039 P
+A
+19 10
+A
+13 30
+A
+24 -3
+A
+2 1
+A
+1 2
+#7039
+cape kami-sama~
+`hThe Cape of the God Kami-Sama``~
+`hA beautiful white cloak levitates here.``~
+cloth~
+0
+clothing 2
+0
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+75 15 25490 P
+A
+24 -2
+A
+1 2
+A
+12 50
+A
+13 25
+A
+18 2
+#7040
+wrath god~
+`bThe `aWrath `bof `oGod``~
+`hA powerful `kholy `hforce seems suspended by its own will here.``~
+ethereal~
+0
+weapon 2
+AHM
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BC C BCD CE D
+0
+0
+70 44 20193 P
+A
+18 4
+A
+13 10
+A
+19 2
+#7041
+spear energy~
+`kA Spear of Energy``~
+`hA spear of energy pulses here.``~
+energy~
+0
+weapon 2
+ABMSY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 ABCD B ABC 0
+0
+0
+50 0 0 P
+#7042
+cape vejiita~
+the cape of Vejiita~
+A crumpled cape lies here with the inscription "V" on it.~
+cloth~
+0
+clothing 2
+ABHM
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+60 25 9029 P
+A
+18 1
+A
+2 2
+#7043
+two tower crown~
+the Two-Tower Crown of Cerr~
+A large pontiff's hat with two towers sits upright here.~
+metal~
+0
+armor 2
+A
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BC BC BC BC 0
+0
+0
+50 45 2049 P
+A
+2 -1
+#7044
+crackling plasma gloves~
+a pair of crackling plasma gloves~
+A pair of energy plasma blobs float here.
+~
+energy~
+0
+armor 2
+ABHM
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 ABCD 0
+0
+0
+60 15 3849 P
+A
+18 2
+A
+1 1
+#7045
+treasure arclong~
+`kthe treasure of Arclong``~
+A large pile of treasure sits here.~
+gold~
+0
+money 2
+Aa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CEFGHI CEFGHI 0 0 0
+0
+0
+21 50 14390 P
+#7046
+flower~
+`cA Pretty `mFlower``~
+`hA pretty `mflower `hgrows from the ground here.``~
+cloth~
+25
+trash 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 13 0 G
+A
+4 1
+E
+flower~
+You gaze into the flower and inhale its vapors....
+ 
+Suddenly, haze forms around you!  You see Kami-Sama sitting on a throne
+at the top of Karin Tower, in all his majesty.  After several minutes
+of this vision, you find yourself back in the real world.
+~
+#7047
+hymnal~
+a hymnal~
+A book, filled to the brim with songs, lies open here.~
+paper~
+0
+scroll 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ACDF 'frenzy' 'divine protection' 'reserved' 'reserved'
+0
+0
+50 150 0 G
+#7048
+goblet revitalizer fluid~
+a goblet of revitalizer fluid~
+A wrought-steel goblet sits here, full to the brim with a red fluid.~
+glass~
+0
+potion 2
+SY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+DF 'cure critical' 'refresh' 'herbal lore' -1 0
+0
+36 20 3029 P
+#7050
+mist shimmering field~
+shimmering mist field~
+`nA field of shimmering mist floats serenely overhead.``~
+ethereal~
+0
+portal 2
+ABCFORSTY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n transcends reality and vanishes!~
+Feeling your atoms split and reform, you transcend reality!~
+$n forms from a thin line in the air.~
+You find yourself back in your body once more.~
+-1 0 BG GHIJLM A
+0
+0
+60 0 0 P
+#7051
+shimmering mist~
+shimmering mist field~
+A field of shimmering mist floats serenely overhead.~
+ethereal~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+mist~
+Sparkling and enticing, the field compels you to come nearer.
+~
+E
+field~
+Sparkling and enticing, the field compels you to come nearer.
+~
+E
+shimmering~
+Sparkling and enticing, the field compels you to come nearer.
+~
+#7052
+heavensdome~
+heavensdome~
+A sparkling field beckons to you.~
+ethereal~
+0
+portal 2
+QSYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+The hand of a god reaches from the sky to grasp $n.~
+A god's hand whisks you away.~
+~
+~
+A 0 BG BCDEGHIJLM A
+0
+0
+70 0 0 P
+#7053
+super saiyajin potion~
+super saiyajin potion~
+A glowing green potion hovers above the ground here.~
+glass~
+0
+potion 2
+SY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CDEF 'damnation' 'giant strength' 'haste' 'cure serious'
+0
+0
+60 50 9003 P
+#7055
+eyeball~
+`hAn `eE`hy`ee`hb`ea`hl`el``~
+`hAn `ee`hy`ee`hb`ea`hl`el `hsits here in a puddle of goo.``~
+flesh~
+0
+potion 2
+HSY
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CDEF 'detect hidden' -1 -1 -1 0
+0
+60 30 200 A
+#7056
+trainee's drink~
+a trainee's drink~
+A glass of vile fluid sits here.~
+glass~
+0
+potion 2
+BS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+DF 'cure blindness' 'sustenance' 'heal' -1 0
+0
+35 5 10439 P
+#7057
+bug juice~
+a pint of Bug Juice~
+Bugs swim around in juice here.~
+glass~
+0
+potion 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DF 'detect evil' 'detect hidden' -1 -1 0
+0
+40 5 2530 P
+#7058
+Piccolo's best~
+a pint of Piccolo's Best~
+Piccolo's Best is here.~
+glass~
+0
+potion 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BEF 'change sex' 'damnation' -1 -1 0
+0
+50 15 4039 P
+#7059
+rotten staff~
+`dA `aRotten `dStaff``~
+A rotted length of wood lies here.~
+wood~
+24
+staff 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BEF B B ABG 'reserved'
+0
+0
+50 15 0 A
+#7060
+ivory-coated diamond staff~
+`hAn Ivory-Coated Diamond Staff``~
+A staff covered with diamonds lies here.
+~
+diamond~
+0
+staff 2
+AS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BCDE BD BD ABCDH 'reserved'
+0
+0
+50 50 11290 P
+#7061
+rotten wooden sword~
+`dA Rotten Wooden Sword``~
+A rotted sword made of wood is here.~
+wood~
+0
+weapon 2
+ABHM
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A B 0 0
+0
+0
+50 14 200 W
+A
+18 1
+#7062
+ball lightning~
+`hA `iGlobe `hof `iBall `hL`ii`kg`hh`it`kn`hi`in`kg``~
+`iBall Lightning `hrumbles furiously at you here.``~
+ethereal~
+0
+weapon 2
+FHM
+0
+AN
+0
+0
+0
+7062
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C BCD B CF FG
+0
+0
+60 30 0 P
+A
+19 3
+A
+18 3
+#7063
+axe wood~
+`dA Wooden Axe``~
+A huge axe sits here.~
+metal~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC BC AB ADE 0
+0
+0
+22 50 2049 P
+A
+19 2
+A
+18 2
+#7064
+coil energy blue long~
+`hAn Extremely Long `iCoil `hof `lBlue `hEnergy``~
+`hA long coil of energy lies here.``~
+ethereal~
+0
+weapon 2
+ABHM
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 ACE A BC AG
+0
+0
+55 150 0 P
+A
+18 4
+A
+24 -2
+#7065
+aura righteousness~
+`kThe Aura of Righteousness``~
+`hA `kGODLY `haura dominates the room.``~
+ethereal~
+0
+armor 2
+AGISY
+0
+AJ
+0
+ADFMN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DF DF DF DF 0
+0
+0
+70 50 50000 P
+A
+18 3
+A
+19 3
+#7066
+circlet damnation~
+`aCirclet of Damnation``~
+`aThe souls of the damned cry out here.``~
+ethereal~
+0
+treasure 2
+GJLY
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+70 15 0 P
+A
+17 -6
+A
+19 3
+A
+18 3
+#7067
+circlet redemption~
+Circlet of Redemption~
+Joyous voices hail from a small circlet here.
+~
+ethereal~
+0
+armor 2
+KLSY
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+D D D D 0
+0
+0
+50 0 0 P
+A
+18 3
+A
+26 1
+A
+12 15
+A
+13 15
+A
+19 3
+#7068
+white dogi~
+`hA Crisp White Dogi``~
+`hA suit of combat cloth is here is a pile.``~
+cloth~
+0
+clothing 2
+0
+B
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 18 0 P
+A
+19 1
+#7069
+cape gojiita~
+the cape of Gojiita~
+A crumpled cape lies here with the inscription "G" on it.
+~
+cloth~
+0
+clothing 2
+ABHMS
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+52 25 10392 P
+A
+12 5
+A
+2 1
+A
+13 5
+#7070
+cape vegita~
+the cape of Vegita~
+A crumpled cape lies here with the inscription "Vo" on it.
+~
+cloth~
+0
+clothing 2
+ABHMS
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+52 25 4039 P
+A
+14 15
+A
+12 10
+#7071
+stout thunderous whit cloak cape~
+`aA Stout, Thunderous `oWh`hi`ote `aCloak``~
+`hA cape billows here in the `obreeze`h.``~
+cloth~
+0
+clothing 2
+A
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 45 0 P
+A
+18 2
+A
+19 1
+A
+2 1
+#7072
+dense white dwarf~
+a dense white dwarf~
+A small star hovers here.
+~
+energy~
+30
+warp_stone 2
+ABSYa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+54 80 0 P
+A
+17 -5
+E
+dwarf~
+You stare directly at the small ball of fire.
+Didn't your mother ever tell you not to look directly into suns?
+You are dead!
+Okay, not really.
+Not many people look at objects, so this is sort of an 'easter egg'.
+If you post a public note using the word 'monotreme' in excess of
+25 times (not consecutively) to show your knowledge of this secret
+mystery, the imps will give you a special prize!!
+~
+#7073
+kanehesehauhu blast force~
+`bThe Blast Force `h"`iKanehesehauhu`h"``~
+`hA huge globe of `ienergy `his here.``~
+energy~
+0
+weapon 2
+SY
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AB CE A BC A
+0
+0
+60 0 0 P
+A
+19 3
+A
+18 3
+#7074
+black sash belt~
+`aA Silk Black-Belt Sash``~
+`hA ream of `asilk `hlies here.``~
+silk~
+0
+clothing 2
+BS
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 10 983 P
+A
+13 8
+#7075
+red black sash belt~
+`aA `bRed-Fringed `aBlack-Belt Sash``~
+`hA ream of `asilk `hlies here.``~
+silk~
+0
+clothing 2
+AB
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 8 920 P
+A
+13 13
+A
+19 1
+#7076
+silver black sash belt~
+`aA `hSilver-Fringed `aBlack-Belt Sash``~
+`hA ream of `asilk `hlies here.``~
+silk~
+0
+clothing 2
+ABS
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 15 920 G
+A
+13 16
+A
+24 -2
+A
+19 1
+#7077
+hakkyokuseiken technique mystical~
+the mystical hakkyokuseiken technique~
+A book lies here, teeming with techniques.
+~
+unknown~
+0
+weapon 2
+ABS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 AD B CD 0
+0
+0
+30 50 1000 P
+A
+19 3
+A
+2 1
+#7078
+hakkyokuseiken technique seppuken final~
+the hakkyokuseiken final technique: Seppuken~
+A book lies here, teeming with techniques.
+~
+unknown~
+0
+wand 2
+ABSTa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+DF ABC ABC ABCDEG 'reserved'
+0
+0
+55 50 1500 P
+#7079
+seppuken advanced technique haddosennpyuukyaku~
+the seppuken advanced technique: haddosennpyuukyaku~
+A book lies here, teeming with techniques.
+~
+unknown~
+0
+scroll 2
+ABSa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABCEF 'protection evil' 'infravision' -1 -1 0
+0
+55 50 1029 P
+#7080
+red metal cap~
+`hA `iRed `hCap with a `aMetal `hPlate``~
+`hA `ired `hcap lies here.``~
+metal~
+0
+armor 2
+AB
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+55 55 204 P
+#7102
+pill~
+a pill of blindness~
+A pill lies here~
+unknown~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CEFGHI 'blindness' 'blindness' 'blindness' 'blindness'
+0
+0
+0 0 0 P
+#7103
+Armguards of the Dragon~
+`hArmguards `aof the `bD`hrago`bn``~
+`hA pair of dragonscale armguards rests here.``~
+cloth~
+0
+armor 2
+SY
+JL
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+CE CE CE ABCD 0
+0
+0
+85 0 0 P
+A
+1 1
+A
+13 25
+A
+12 50
+A
+18 10
+A
+19 10
+#7197
+lock hair~
+`kA Lock of Kami-Sama's Hair``~
+`hA lock of `kgodly `hhair sits here.``~
+unknown~
+0
+key 2
+SUa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 50 0 P
+#7198
+bible~
+the Bible of Kami-Sama~
+A bible lies here, imprinted with Saiyan scrawlings.~
+paper~
+0
+staff 2
+ALS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BDEG A A CDH 'reserved'
+0
+0
+50 50 900 P
+E
+bible~
+This bible is very thin, and only tells a few stories.  The most interesting
+ones are the tales of the heroes of Saiya -- Goku, Gohan, and the Masters
+of Karin Tower...and how they banded together to help turn back the tide
+of evil that threatened the land -- Piccolo, Vejiita, and the Buus -- 
+by collecting the seven Dragon Balls and calling on the Ancient Dragon of
+Saiya, Shenlon, to aid them in victory.  It goes on to tell how Kami-Sama,
+the God of Saiya who watches over all, collected the balls and retreated
+to the Room of Spirit and Time to reorganize their scattering.
+~
+#7199
+parsetree sprout~
+a parsetree sprout~
+A delicious looking sprout is here.
+~
+food~
+0
+pill 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+CDEF 'remove curse' 'cure disease' -1 -1 0
+0
+60 15 0 P
+#7200
+cave~
+`adark cave opening``~
+`eThrough the torrential curtain of water that is endlessly falling here, the entrance to a small cave can barely be seen just above the dark grey rocks.``~
+stone~
+0
+portal 2
+RSY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`gHurt and dazed from the fall, $n bravely tries to crawl up to the cave opening behind the waterfall only to suddenly slip on the wet rocks and knock $mself unconscious.  $s body floats away on the current.``~
+`gHurt and dazed by your plummet over the falls, you slowly try to crawl up to the cave opening. Suddenly you falter on the wet, slippery rocks, knocking yourself unconscious. Your body drifts away on the current.``~
+`nWet and bleeding, $n's body floats into the ocean beside you.  $e looks up at you dazedly.``~
+`nThe first thing you are aware of is a calm, sloshing sound.  Next is that you are floating in warm water.  You open your eyes and after blinking a couple of times to get rid of the blurriness, you realize you are in the ocean.``~
+-1 0 G AEFGHIKMO F
+0
+0
+0 9999 0 P
+#7201
+mirror distortion~
+a mirror~
+A single mirror reflects everything, grotesquely distorted.~
+glass~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n destroys the mirror, disappearing with $s reflection.~
+The mirror shards fall to your feet, and then the ground drops away as well.~
+$n falls out of the sky, landing awkwardly.~
+You land on the ground, staggering a little at the unexpected fall.~
+-1 0 AG BCDEFHIJLM L
+0
+0
+0 9999 10 P
+#7202
+dragon rib cage~
+`hthe rib cage of a dragon``~
+The ribcage of a dragon engulfs you with it's massiveness.~
+bone~
+0
+treasure 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 200 0 P
+#7203
+dragon claw~
+`hthe claw of a dragon``~
+The claw of a dragon curves around and ends in a sharp point.~
+bone~
+0
+treasure 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 25 0 P
+#7204
+trigger kill check~
+Shenlon~
+`j(Object trigger aura)`c Shenlon kill check``~
+unknown~
+0
+trash 2
+QRSTYa
+0
+0
+0
+0
+0
+7204
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+100 0 0 P
+#7205
+arrow sign~
+a sign~
+`dAn arrow pointing`k upwards`d reads 'Candy'``~
+unknown~
+0
+trash 2
+RS
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#7206
+arrow sign~
+a sign~
+`dAn arrow pointing`k northwards`d reads 'Candy'``~
+unknown~
+0
+trash 2
+RS
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#7207
+arrow sign~
+a sign~
+`dAn arrow pointing`k westwards`d reads 'Candy'``~
+unknown~
+0
+trash 2
+RS
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#7208
+arrow sign~
+a sign~
+`dAn arrow pointing`k southwards`d reads 'Candy'``~
+unknown~
+0
+trash 2
+RS
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#7209
+gem shenlon~
+`hA Small `nGem `hEntrapping `kShenlon's `hSoul``~
+A small gem glitters with the previous life of a victim. ~
+unknown~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#7250
+holy light visor runicset~
+`ka holy visor of light``~
+`kThis visor for a helmet glows with a radiant holy light.``~
+energy~
+0
+armor 2
+AIKLRSTYad
+BJKL
+AX
+0
+0
+0
+7250
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+1 0 100000 P
+A
+19 5
+A
+18 5
+A
+12 15
+A
+13 15
+A
+24 -4
+A
+26 1
+A
+4 1
+A
+3 1
+A
+5 1
+A
+2 1
+A
+1 1
+#0
+
+#ROOMS
+#7000
+0 0
+~
+~
+~
+0 0 0
+A Dark Path~
+A narrow, rough path is hewn through the miles and miles of endless tall
+grass and weeds that seem to have found a home in this place.  The path
+seems to lead you northward, but is wide enough to make a retreat should
+the need arise.
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 7001
+D2
+~
+~
+0 0 7140
+S
+#7001
+0 0
+~
+~
+~
+0 0 0
+Path Through the Grass~
+The endless fields of grass and weeds seem to start to die off here, and the
+path you once traveled begins to break into a flattened, unnatural field.  You
+can see flattened, cut weeds to your north.
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 7002
+D2
+~
+~
+0 0 7000
+S
+#7002
+0 0
+~
+~
+~
+0 0 0
+Entering the Circle~
+It appears that all of the grass here has been severed at the base in a radius
+of about twenty meters either way.  Ahead you enter the actual circle of dead
+plants.
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 7003
+D2
+~
+~
+0 0 7001
+S
+#7003
+0 0
+~
+~
+~
+0 0 0
+Severed Grass~
+All around you, you see three to four-inch piles of scythed grass, flowers,
+clover, plants, and even the occasional halved grasshopper.  As you wade
+through it, you wonder who...or what...could have cleared this field in
+such a precise geometric manner.
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 7008
+D1
+~
+~
+0 0 7004
+D2
+~
+~
+0 0 7002
+D3
+~
+~
+0 0 7005
+S
+#7004
+0 0
+~
+~
+~
+0 0 0
+Circle of Severed Plants~
+The piles and piles of greenery grow deeper as you wade towards the edges and
+center of the circle.
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 7007
+D3
+~
+~
+0 0 7003
+S
+#7005
+0 0
+~
+~
+~
+0 0 0
+Circle of Severed Plants~
+The mathematical precision of the circle's edge might amaze you if you weren't
+so distracted by the half-foot long sharp blades of cut grass that were stabbing
+you in the ankles.
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 7006
+D1
+~
+~
+0 0 7003
+S
+#7006
+0 0
+~
+~
+~
+0 0 0
+Edge of the Severed Circle~
+The grass towers to your midside in thick patches as you skim the edge of the
+unnatural circle.  It seems to be impossible to move anywhere except inside
+the circle now, from what you can see.
+~
+0 AZ 2
+0
+~
+I 0 D0
+~
+~
+0 0 7011
+D1
+~
+~
+0 0 7008
+D2
+~
+~
+0 0 7005
+S
+#7007
+0 0
+~
+~
+~
+0 0 0
+Brim of the Severed Circle~
+The circle edges northward to a close of some sort, and the grass on the edge 
+sways in, as if in protest of your treading on its dead kindred.  Severed stalks
+and limbs cover your boots as you slide through.
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 7010
+D2
+~
+~
+0 0 7004
+D3
+~
+~
+0 0 7008
+S
+#7008
+65 250
+~
+~
+~
+0 0 0
+Center of the Circle~
+Here you stand in the center of the vast grass-carnage.  The severed leaves of
+trees, blades of grass, and many many severed insects make moving forward
+difficult.  You are up to your knees in dead greenery.
+~
+0 ANT 0
+0
+~
+I 0 D0
+~
+~
+0 0 7009
+D1
+~
+~
+0 0 7007
+D2
+~
+~
+0 0 7003
+D3
+~
+~
+0 0 7006
+S
+#7009
+0 0
+~
+~
+~
+0 0 0
+Exiting the Circle~
+The circle of cut grass seems to terminate here, and the path that you were on
+before, though narrower and not nearly as defined, seems to continue to your
+north, through very tall grass.
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 7012
+D1
+~
+~
+0 0 7010
+D2
+~
+~
+0 0 7008
+D3
+~
+~
+0 0 7011
+S
+#7010
+0 0
+~
+~
+~
+0 0 0
+Circle's Edge~
+The circle of foliage completes its arc here.  The grass seems too tall
+to do much more than follow the circle to its terminus, to your west.
+~
+0 A 2
+0
+~
+I 0 D2
+~
+~
+0 0 7007
+D3
+~
+~
+0 0 7009
+S
+#7011
+0 0
+~
+~
+~
+0 0 0
+Circle's Edge~
+The circle of slashed foliage completes its arc here.  The grass is too tall
+for you to do anything much more than follow the circle around to your east.
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 7009
+D2
+~
+~
+0 0 7006
+S
+#7012
+0 0
+~
+~
+~
+0 0 0
+The Overgrown Path~
+A tinge of claustrophobia sets in as you walk down this narrow, rough
+bumpy path, seemingly enclosed by weeds and plants taller than yourself.
+The foliage grows higher as you progress northward, and empties into
+what looks to be a flat circle to your south.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 7013
+D2
+~
+~
+0 0 7009
+S
+#7013
+0 0
+~
+~
+~
+0 0 0
+The Canopy of Green~
+The huge mutations of grass tower just inches above your head, and
+intermesh in an olive weave of greenery and bark.  It is very dark
+and very quiet here.
+~
+0 AN 3
+0
+~
+I 0 D0
+~
+~
+0 0 7014
+D2
+~
+~
+0 0 7012
+D4
+~
+door~
+1 7002 7016
+S
+#7014
+0 0
+~
+~
+~
+0 0 0
+Fissure's Edge~
+The canopy of foliage dies off very quickly here, and you find yourself in
+front of a twenty-foot-across gap in the land.  On the far side you can make
+out some sort of large metallic object and a mountain.  The slope seems
+*just* horizontal enough for you to begin a descent, if you chose to...
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 7015
+D2
+~
+~
+0 0 7013
+S
+#7015
+0 0
+~
+~
+~
+0 0 0
+Descent into the Gap~
+The fissure actually becomes a fissure at this point -- you are no longer on
+stable, flat land.  The grainy texture of the rock underneath you is amazingly
+slippery, and the various shoots and roots sticking out of the cliff face
+are giving you no help in staying upright.  The slope crevasses deeply down
+shortly to your north.
+ 
+~
+0 A 9
+0
+~
+I 0 D0
+~
+~
+0 0 7017
+D2
+~
+~
+0 0 7014
+S
+#7016
+0 0
+~
+~
+$n rustles $T through the leaves.~
+0 0 0
+Hovering Above the Canopy~
+Barely squeezing through the branches in the canopy, you find yourself
+carefully treading along over the top of the foliage.  To your south, and
+downwards, you see a huge razed circle of grass -- to your north, you see
+a river at the bottom of a huge fissure, nearby.  The branches here are a
+bit too unsteady to guarantee you safe passage either direction, though.
+~
+0 AN 9
+0
+~
+I 0 D5
+~
+door~
+1 0 7013
+S
+#7017
+0 0
+~
+~
+$n makes $s way down the fissure.~
+0 0 0
+Climbing the Rock Face~
+You are barely clinging to the cliff wall now.  Far below you, you can see
+rock offshoots and small boulders cascading into a rushing river at the base
+of the whole landtear.
+~
+0 0 9
+0
+~
+I A J You lose your grip and slide downwards.~
+K You feel your grip slip a little.~
+L5
+N7018
+Q (null)~
+D2
+~
+~
+0 0 7015
+D5
+~
+~
+0 0 7018
+S
+#7018
+0 0
+~
+~
+~
+0 0 0
+Edging Down the Cliff~
+The rock face goes completely vertical here, and the smoothness of the rock
+as you progress downward is almost unnatural.  It is very hard to keep yourself
+from falling at this point.
+~
+0 0 9
+0
+~
+I A J You lose your grip and slide downwards.~
+K You feel your grip slip a little.~
+L5
+N7019
+Q (null)~
+D4
+~
+~
+0 0 7017
+D5
+~
+~
+0 0 7019
+S
+#7019
+0 0
+~
+~
+~
+0 0 0
+The Completely Smooth Rock Face~
+At this point the side of the fissure becomes fused and smooth, making it
+impossible to make your way upwards.  There is, however, a small ledge
+here, and a faint outline in the rock.
+~
+0 A 9
+0
+~
+I A J You lose your grip and slide downwards.~
+K You feel your grip slip a little.~
+L5
+N7020
+Q (null)~
+D0
+~
+rockface~
+1 7008 7021
+D4
+~
+~
+0 0 7018
+D5
+~
+~
+0 0 7020
+S
+#7020
+0 0
+~
+~
+~
+0 0 0
+Landslide!~
+As you reach a small plateau on the fissure's inside, relief and exhaustion
+well up inside of you.  Stopping to rest a brief second, a flickering shadow
+dances across the stone in front of your face, drawing your attention
+upwards...to the gigantic rocks hurtling towards you!
+~
+0 A 9
+0
+~
+I A J You lose your footing and tumble down the hill.~
+K You feel your footing begin to slip.~
+L15
+N7036
+Q (null)~
+D4
+~
+~
+0 0 7019
+D5
+~
+~
+0 0 7036
+S
+#7021
+0 0
+~
+~
+~
+0 0 0
+The Small Cave~
+The walls on the inside of this cave are the same color and texture as the
+rock outside -- dark brown and as smooth as glass.  None of this seems very
+natural, and the handrails leading west are most certainly manmade (or
+*something* - made!)
+~
+0 0 18
+0
+~
+I 0 D2
+~
+rockface~
+1 0 7019
+D3
+~
+~
+0 0 7022
+S
+#7022
+0 0
+~
+~
+~
+0 0 0
+The Diagnonal Descent~
+You are walking westward down a diagonal marble staircase.  To your north
+you can see what looks like sunlight.
+~
+0 0 18
+0
+~
+I 0 D0
+~
+~
+0 0 7023
+D1
+~
+~
+0 0 7021
+S
+#7023
+0 0
+~
+~
+~
+0 0 0
+Doctor Gero's Laboratory~
+Glaring bright lights send strange highlights and shadows dancing across
+the framework of the wide room, making the metal bubbles, flat sheets and
+other assorted arcane materials stir with a strange simulacrum of motion.
+Cold steam emanates from a gaping hole in the center of the lab.
+~
+0 AT 18
+0
+~
+I 0 D2
+~
+~
+0 0 7022
+D5
+~
+~
+0 0 7043
+S
+#7024
+0 0
+~
+~
+~
+0 0 0
+The Base of the Cliff~
+You have reached the base of the northern side of the fissure.  South, a
+mammoth blue river roars over jagged rocks and beds of sand.  Off in the
+distance, a cave opens into the southern side of the fissure wall.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7025
+D4
+~
+~
+0 0 7037
+S
+#7025
+0 0
+~
+~
+~
+0 0 0
+Lush Green Fields~
+A large rectangular field of pure monocolor green grass borders the loud
+river to your south.  As you get closer to the river, the grass changes into
+a mixture of clover, flowers, and waterplants.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 7024
+D2
+~
+~
+0 0 7026
+S
+#7026
+0 0
+~
+~
+~
+0 0 0
+Fissure River~
+You have stepped from the muddy banks of the river to the deep middlesection
+of it.  Turquoise lagoon water smashes against the rocks, its color almost
+out of place for its speed.  Despite the high current, as you look down you
+can see various forms of fish and eels fighting to move against the rage to
+reach more stable waters.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 7025
+D1
+~
+~
+0 0 7027
+D2
+~
+~
+0 0 7035
+D3
+~
+~
+0 0 7033
+S
+#7027
+0 0
+~
+~
+~
+0 0 0
+The Narrow Point~
+Here the riverbanks bulge inwards, making the water level rise slightly and
+increasing the current to your west.  Eastwards, it looks as if the water
+is a little less turbulent.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 7028
+D3
+~
+~
+0 0 7026
+S
+#7028
+0 0
+~
+~
+~
+0 0 0
+The Widened Spot~
+Here the river becomes shallower and broadens out to form ray-wing shaped
+inlets.  The water teems with life here of all sorts -- creatures overhead,
+fish and other waterlife below.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 7029
+D3
+~
+~
+0 0 7027
+S
+#7029
+0 0
+~
+~
+~
+0 0 0
+Calm Currents~
+The river narrows here once more, but stays relatively calm.  Downstream to
+your west it looks as if the water gets deeper and a bit more unstable.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 7030
+D3
+~
+~
+0 0 7028
+S
+#7030
+0 0
+~
+~
+~
+0 0 0
+The Cave-Mouth of the Fissure River~
+The river slows to a mere trickle here as the water enters into a small cave,
+just barely big enough for you to squeeze through.  Apparently, in the cave,
+the water picks up speed, but here it is shallow and calm enough for you to
+look at your reflection in.
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 7032
+D1
+~
+~
+0 0 7031
+D3
+~
+~
+0 0 7029
+S
+#7031
+0 0
+~
+~
+~
+0 0 0
+Climbing Down the Watery Cave~
+You are on the inside of a small, water-filled cavern, walled in on every
+side.  A turbulent pool of dark black water lies directly below you...it
+looks as if there are some sort of carnivorous creatures down there by
+both the smell of the water and the floating remains that you see atop the
+surface.  Maybe it wouldn't be such a great idea to venture down there...?
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 7135
+D3
+~
+~
+0 0 7030
+D5
+~
+~
+0 0 7048
+S
+#7032
+0 0
+~
+~
+~
+0 0 0
+Ramp Leading to the Karin Tower~
+The river turns into a sandbed here, and the sandbed leads up on to a stone
+ramp, which points towards a huge marble construct, Karin Tower.  If you
+wish to enter the Tower, continue north.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7051
+D2
+~
+~
+0 0 7030
+S
+#7033
+0 0
+~
+~
+~
+0 0 0
+The Rapids~
+The water here is very unstable.  It crashes wildly over jagged, loose
+rocks, and foams as it smashes against them.  It is also very shallow,
+and you can see resting fish through the clear water.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 7026
+D3
+~
+~
+0 0 7034
+S
+#7034
+0 0
+~
+~
+~
+0 0 0
+Fast Whitewater~
+The water here is extremely wild.  You are moving swiftly along the currents
+towards a dropoff to your south.  Perhaps you should start to move in
+another direction.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 7033
+D2
+~
+~
+0 0 7105
+D3
+~
+~
+0 0 7137
+S
+#7035
+0 0
+~
+~
+~
+0 0 0
+Small, Rocky Hills~
+Outcroppings of land jut up, making the seemingly perfect landscape look
+marred.  It is somewhat difficult to walk here, but there is a manageable
+path to your north, leading to the edge of the fissure.
+~
+0 A 4
+0
+~
+I 0 D0
+~
+~
+0 0 7026
+D2
+~
+~
+0 0 7036
+S
+#7036
+0 0
+~
+~
+~
+0 0 0
+Base of the Fissure~
+You are at the southern edge of the land gap, where the land shoots upwards
+in an almost ninety-degree angle.  There are sentient-made handholds in the
+rock face, leading upwards.
+~
+0 A 4
+0
+~
+I 0 D0
+~
+~
+0 0 7035
+D4
+~
+~
+0 0 7020
+S
+#7037
+0 0
+~
+~
+~
+0 0 0
+Climbing the Fissure~
+It is quite easy to climb this rock face -- the handholds make it akin
+to a ladder.  There seems to be a plateau above.
+~
+0 0 9
+0
+~
+I 0 D4
+~
+~
+0 0 7038
+D5
+~
+~
+0 0 7024
+S
+#7038
+0 0
+~
+~
+~
+0 0 0
+The Plateau~
+You are on a flat stretch of rock overlooking the fissure below.  The
+plateau extends to your north, and then upwards you see more man-made
+handholds.  Below you you can see a raging river, and lush greenery.
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 7039
+D5
+~
+~
+0 0 7037
+S
+#7039
+0 0
+~
+~
+~
+0 0 0
+Plateau Face~
+You are on the fissure-side northern edge of the plateau.  Upwards you see
+small metal juttings in the rock, allowing you to climb upwards if you so
+desired.  To your south, more of the plateau.
+~
+0 0 5
+0
+~
+I 0 D2
+~
+~
+0 0 7038
+D4
+~
+~
+0 0 7040
+S
+#7040
+0 0
+~
+~
+~
+0 0 0
+The Far Side of the Fissure~
+You are steadily climbing the far wall of the fissure, utilizing the
+handholds put in the rock for you.  The soil here is very unstable.
+As you reach the top, you can see a small path to your north.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 7041
+D5
+~
+~
+0 0 7039
+S
+#7041
+0 0
+~
+~
+~
+0 0 0
+Mountain Village Road~
+You are on a continuous road leading to a very tiny mountain village to your
+north.   The road here is torn in many places, as if the village had just
+recently been razed.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7042
+D2
+~
+~
+0 0 7040
+S
+#7042
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Mountain Village~
+Here you can see the ruins of a small, desolate town.  Houses smolder quietly
+in the mountain wind, and small fires light a macabre landscape everywhere.
+From the sounds of it, the surviving occupants or the destroyers are still
+about.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7107
+D2
+~
+~
+0 0 7041
+S
+#7043
+0 0
+~
+~
+~
+0 0 0
+Cold Storage~
+Everywhere you look, you see-half cracked doors with vapor leaking from them
+slowly, then dissipating... It seems as if something went very wrong here...
+~
+0 T 18
+0
+~
+I 0 D0
+~
+door~
+1 7023 7044
+D1
+~
+door~
+1 7019 7045
+D2
+~
+door~
+1 7022 7047
+D3
+~
+door~
+1 7024 7046
+D4
+~
+~
+0 0 7023
+S
+#7044
+0 0
+~
+~
+~
+0 0 0
+Cubicle~
+A solitary green chamber dominates this room.  Cold vapor seeps from the open
+door...
+~
+0 N 18
+0
+~
+I 0 D2
+~
+door~
+1 0 7043
+S
+#7045
+0 0
+~
+~
+~
+0 0 0
+Cubicle~
+A solitary blue chamber dominates this room.  Cold vapor seeps from the open
+door...
+~
+0 N 18
+0
+~
+I 0 D3
+~
+door~
+1 0 7043
+S
+#7046
+0 0
+~
+~
+~
+0 0 0
+Cubicle~
+A solitary yellow chamber dominates this room.  Cold vapor seeps from the open
+door...
+~
+0 N 18
+0
+~
+I 0 D1
+~
+door~
+1 0 7043
+S
+#7047
+0 0
+~
+~
+~
+0 0 0
+Cubicle~
+A solitary red chamber dominates this room.  Cold vapor seeps from the open
+door...
+~
+0 NT 18
+0
+~
+I 0 D0
+~
+door~
+1 0 7043
+S
+#7048
+0 0
+~
+~
+~
+0 0 0
+Descent Into the Black Waters~
+Here you are waist deep in murky, oily, blood-slicked water.  An immense
+undertow lets you know that there is another cave opening somewhere below
+you underwater, but the humanlike remains floating on the water also let
+you know that it might be VERY unwise to go any deeper.
+~
+0 ACDJNT 6
+0
+~
+I 0 D4
+~
+~
+0 0 7031
+D5
+~
+~
+0 0 7049
+S
+#7049
+0 0
+~
+~
+~
+0 0 0
+Immersion~
+You are underwater completely now, and can't see much but a blurry light
+emanating from your east.  It's hard to concentrate now due to the battering
+you are taking from the undertow and jets of water spurting from small holes
+in the rock walls...and there also seems to be an entity directly in front
+of you, not so much observing as...attacking!
+~
+0 ACDNT 6
+0
+~
+I 0 D0
+~
+door~
+1 7028 7050
+D4
+~
+~
+0 0 7048
+S
+#7050
+0 0
+~
+~
+~
+0 0 0
+Arclong's Hoard~
+This small cove is where Arclong stores the loot from all of his kills.
+Apparently, this oddity of dragons gets out onto the main river a little
+more than is obvious, as his underwater hoard is immense.
+~
+0 A 6
+0
+~
+I 0 D2
+~
+door~
+1 0 7049
+S
+#7051
+0 0
+~
+~
+~
+0 0 0
+At the Base of Karin Tower~
+Karin Tower sprawls into the clouds from here, a huge monolith of granite,
+metal, marble, and some glowing substance you can't identify.  A huge
+wood-and metal door leads inwards.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+door~
+33 7029 7052
+D2
+~
+~
+0 0 7032
+S
+#7052
+0 0
+~
+~
+~
+0 0 0
+Entrance to the First Floor of Karin Tower~
+You are in a lobby in the huge structure known as Karin Tower.  This is the
+entrance point to the First Floor, where students who wish to train in
+Karin come to determine what level of training they will recieve.  You can
+see hallways to your north and east.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7053
+D1
+~
+~
+0 0 7054
+D2
+~
+door~
+33 0 7051
+S
+#7053
+0 0
+~
+~
+~
+0 0 0
+The Path of Righteousness~
+The walls in this corridor are pure ivory, and pictures of such heroes like
+Goku, Gohan, and Chi-Chi line them.  Gold-covered floorboards make way for
+a series of doors to either side of you as you progress down the hall.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7059
+D2
+~
+~
+0 0 7052
+S
+#7054
+0 0
+~
+~
+~
+0 0 0
+The Path of Selfishness~
+The hallway here is made of blackened gold blocks, and is missing several of
+them.  There are no pictures, save one -- and that one seems to be vandalized
+to the point of nonrecognition.  Are you sure this is the path you want to
+take?
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7055
+D3
+~
+~
+0 0 7052
+S
+#7055
+0 0
+~
+~
+~
+0 0 0
+Hallway of the Evil~
+A crumbling tarnished silver arch (most of it missing) leads the way from the
+Path of Selfishness to the Hallway of the Evil.  Here, it is determined if
+you truly have the heart and skill required to acknowledge yourself as evil --
+no excuses, you must be in complete awareness of your alignment in conjunction
+to the world at large to be able to pass these points successfully.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7056
+D3
+~
+~
+0 0 7054
+S
+#7056
+0 0
+~
+~
+~
+0 0 0
+Hallway of the Evil~
+Reliefs carved in stone here (who would steal a stone relief?) depict various
+high points in Saiya's history for the evil population -- the razing and
+destruction of several towns and buildings, the capturing of nobles, the
+torturing of animals...everything.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7057
+D3
+~
+~
+0 0 7055
+S
+#7057
+0 0
+~
+~
+~
+0 0 0
+Corridor of the Deadly~
+This corridor's reliefs glorify assassins, thieves, and those who make the
+art of chaotic warcraft and the glory of murder a science.  All around you
+you see bloodied weapons (set firmly in stone so as not to be removed),
+talons, and small captions telling of the glory of these foul acts.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7058
+D2
+~
+~
+0 0 7056
+S
+#7058
+0 0
+~
+~
+~
+0 0 0
+Endpoint, the Final Determination~
+Endpoint is the room where the final test of hate and skill merge.  Should
+you pass this test and continue on, you will be alone in your spiritual
+journey into the depths of Karin Tower.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7057
+D4
+~
+~
+0 0 7062
+S
+#7059
+0 0
+~
+~
+~
+0 0 0
+Hallway of the Good~
+The Path of Righteousness ends as you pass under a set of arches, and the
+Hallway of the Good begins.  Here is where the noble of Saiya journey to
+to determine where their hearts and their swords lie.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7060
+D2
+~
+~
+0 0 7053
+S
+#7060
+0 0
+~
+~
+~
+0 0 0
+Hallway of the Good~
+The Hallway has walls of pure wrought silver, carved with reliefs of
+legendary beings of Saiya doing incredible, impossible things.  One
+in particular catches your eye -- a man, transforming into something
+more than a man, in the lower right corner of the relief.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7061
+D2
+~
+~
+0 0 7059
+S
+#7061
+0 0
+~
+~
+~
+0 0 0
+Terminus, the Final Determination~
+Terminus is the room where the final test of heart and sword merge.  Should
+you pass this test and continue on, you will be alone in your spiritual
+journey into the depths of Karin Tower.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7060
+D4
+~
+~
+0 0 7062
+S
+#7062
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Novice Floor of Karin Tower~
+You stand in the lobby of the second floor of Karin Tower.  This is the level
+where the beginners who have found themselves adept in swordplay and also
+those who know their hearts can begin their training.  Hallways lead to your
+west and to your east.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7067
+D3
+~
+~
+0 0 7063
+D5
+~
+~
+0 0 7052
+S
+#7063
+0 0
+~
+~
+~
+0 0 0
+The Room of Fire~
+You are in the First Room of the Tower, the Room of Fire.  Being one of the
+more basic elements, it is easy enough for any Saiyajin to train here, but
+its complexity allows them to learn here as well.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7062
+D3
+~
+~
+0 0 7064
+S
+#7064
+0 0
+~
+~
+~
+0 0 0
+The Room of Water~
+The Second Room of the Novice Floor is a room filled with images of water --
+liquid walls ooze around you, showing you underwater life, and more.  Water
+is the ultimate creator and destructor, and thus serves as an excellent
+training tool for those who aspire to be one or the other.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7063
+D3
+~
+~
+0 0 7065
+S
+#7065
+0 0
+~
+~
+~
+0 0 0
+The Room of Air~
+Air, being one of the more complex of the basic elements in usage, still acts
+as a great training tool for novices.  Learning to master the subtleties of
+the winds and currents allow for excellent development of avoidance skills.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7064
+D3
+~
+~
+0 0 7066
+S
+#7066
+0 0
+~
+~
+~
+0 0 0
+The Room of Land~
+Here is the final room for novices of the first order, where the ways of
+Saiya land must be mastered.  All of the novices' skills will be put to
+the test at this point, and they must deal with whatever comes in order
+to gain admittance to the rest of tower.  The walls are covered in moldy
+earth, and soil clings to your hair as you walk in.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7065
+S
+#7067
+0 0
+~
+~
+~
+0 0 0
+Trial By Fire~
+A room covered in (illusory?) flames, bathed in heat.  The inital Test of
+the novice is to withstand the pure raw brutality of fire -- after all,
+learning to endure is a trait necessary for combat.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7077
+D1
+~
+~
+0 0 7068
+D2
+~
+~
+0 0 7078
+D3
+~
+~
+0 0 7062
+S
+#7068
+0 0
+~
+~
+~
+0 0 0
+Trial By Water~
+As soon as you enter this room you are immersed in clear blue water.
+Many facets of water exist in this room, and mastering every one of
+them is necessary to continue.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7075
+D1
+~
+~
+0 0 7069
+D2
+~
+~
+0 0 7076
+D3
+~
+~
+0 0 7067
+S
+#7069
+0 0
+~
+~
+~
+0 0 0
+Trial By Air~
+Climbing out of the last room and into this one, you are whipped into the air
+by a fierce blast of winds, and tossed about on the currents like a flag in
+the wind.  Here is the test of Air -- to master the whims of subtlety, to
+learn the art of evasion.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7073
+D1
+~
+~
+0 0 7070
+D2
+~
+~
+0 0 7074
+D3
+~
+~
+0 0 7068
+S
+#7070
+0 0
+~
+~
+~
+0 0 0
+Trial By Land~
+Soil heaves as you stumble about here.  The ultimate trial, the trial by
+land, is the step for the novice from beginner to intermediate.  Finish
+here, learn the secrets of land, and you will gain entrance to the Third
+Floor.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7071
+D2
+~
+~
+0 0 7072
+D3
+~
+~
+0 0 7069
+S
+#7071
+0 0
+~
+~
+~
+0 0 0
+Trial By Land~
+Earthquakes and tremors cause you to lose your footing in the muddy soil
+here.  It is almost impossible to stand straight up, and will be even more
+difficult to do battle here.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7070
+S
+#7072
+0 0
+~
+~
+~
+0 0 0
+The Ultimate Trial~
+Here you are subjected to the force of all four basic elements -- fire, air,
+water, and land.  If you are truly ready to proceed on, you must master them,
+defeat them, and use their own weaknesses against them.  Are you prepared
+for the final challenge?
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7070
+D4
+~
+~
+0 0 7079
+S
+#7073
+0 0
+~
+~
+~
+0 0 0
+Trial By Air~
+Winds toss you about here, flinging you from wall to wall, ceiling to
+floor, all about.  The pure, unbridled raw force of the air batters you.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7069
+S
+#7074
+0 0
+~
+~
+~
+0 0 0
+Trial By Air~
+You are being spun around consistently at an amazing rate -- the room is
+blurry and unclear.  Dizziness makes it difficult to concentrate on the
+obstacles that this room holds for you.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7069
+S
+#7075
+0 0
+~
+~
+~
+0 0 0
+Trial By Water~
+This room is made of raging water, the walls splashing madly about,
+white foam covering the floor.  The rage of the water is very obvious.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7068
+S
+#7076
+0 0
+~
+~
+~
+0 0 0
+Trial By Water~
+Here, the water is still - calm.  Images of life, people imbimbing water,
+bathing, washing items -- make you still.  This is a very peaceful room.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7068
+S
+#7077
+0 0
+~
+~
+~
+0 0 0
+Trial By Fire~
+There is a flaming obelisk in this room, in the center of it.  All around,
+you see licks of fire and tongues of flame seeping out of the walls.  Your
+test has begun.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7067
+S
+#7078
+0 0
+~
+~
+~
+0 0 0
+Trial By Fire~
+A pool of liquid fire dominates this room.  Creatures leap up out of it to
+challenge you, and the pool itself proves a difficult challenge.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7067
+S
+#7079
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Intermediate Floor of the Tower~
+You have ascended to the Third Floor of Karin Tower -- the intermediate floor.
+Here, the combatants who wish to delve even more into honing their skills to
+perfection may come, to gain various abilities and advance to the next level
+of skill.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7080
+D2
+~
+~
+0 0 7084
+D5
+~
+~
+0 0 7062
+S
+#7080
+0 0
+~
+~
+~
+0 0 0
+Weapon Mastery~
+In this room, you must rely only on your weapon only, become one with it,
+learn to defend yourself with it in any circumstance.  Prepare for a
+true challenge, and hold your weapon with care.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7081
+D2
+~
+~
+0 0 7079
+S
+#7081
+0 0
+~
+~
+~
+0 0 0
+Magic Mastery~
+Here is a room where trainees of the art of the soul must come to master
+the forces that rage inside of them.  Hone your supernatural skills here
+if you wish to ascend to Mastery.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7082
+D3
+~
+~
+0 0 7080
+S
+#7082
+0 0
+~
+~
+~
+0 0 0
+Avoidance Mastery~
+Here you must learn to move from the agressor to the defender -- you must
+attempt to survive while you also combat whenever you get the chance.  It
+is a difficult test, but needed if one is to rise to power.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7083
+D3
+~
+~
+0 0 7081
+S
+#7083
+0 0
+~
+~
+~
+0 0 0
+Complete Mastery~
+The ultimate test lies in this room -- depend on all of your skills if
+you wish to become a Complete Master of your art.  Only those brave
+enough, quick enough, and skilled enough can proceed beyond this point.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7082
+S
+#7084
+0 0
+~
+~
+~
+0 0 0
+The Legionnaire's Lounge~
+In this sector of the Intermediate Tower, young Saiyajins can come and
+revitalize for their training.  It is one of the only areas in the tower
+where trainees can stop their training, meet with other pupils, and
+rest for a while.  Below you there is a room full of cots.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 7079
+D2
+~
+~
+0 0 7085
+D5
+~
+~
+0 0 7086
+S
+#7085
+0 0
+~
+~
+~
+0 0 0
+The Master's Corridor~
+A long, ivory corridor sprawls in front of you.  Here, a certified
+Master stands before you, available for advice, help or challenge --
+you must defeat him in combat before you are allowed admittance
+to the Upper Tower.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7084
+D4
+~
+~
+0 0 7087
+S
+#7086
+0 0
+~
+~
+~
+0 0 0
+A Haven~
+Cots line the walls here.  This area was made for those injured too badly
+to continue without major regeneration.  It might be a good idea for you
+to rest here if you are badly injured.
+~
+0 ACDKNT 0
+0
+~
+H150
+I 0 M150
+D4
+~
+~
+0 0 7084
+S
+#7087
+0 0
+~
+~
+~
+0 0 0
+The Entrance to the Hall of Masters~
+Welcome to the Upper Tower -- the place where only those who have surpassed
+the upper intermediate level and have mastered their arts come to train.
+Be wary if you tread here and you are not yet ready -- the Masters do not
+look kindly upon those who present no challenge to them.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7088
+D1
+~
+~
+0 0 7089
+D2
+~
+~
+0 0 7091
+D3
+~
+~
+0 0 7090
+D4
+~
+~
+0 0 7092
+D5
+~
+~
+0 0 7079
+S
+#7088
+0 0
+~
+~
+~
+0 0 0
+The Room of Synthetics~
+This is the room where all other Masters come to train.  Several robots,
+androids, golems, and constructs roam around here, ready to spar with
+any Master that commands them to.  If you wish to hone your skills, choose
+one and begin.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7126
+D2
+~
+~
+0 0 7087
+S
+#7089
+0 0
+~
+~
+~
+0 0 0
+The Room of the Budoukai~
+This is the room where the Masters of Hand Combat come to face off
+against one another.  The room is huge, almost an arena to combat in.
+Several Masters roam around here, looking for a challenge.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7132
+D3
+~
+~
+0 0 7087
+S
+#7090
+0 0
+~
+~
+~
+0 0 0
+The Room of Destruction~
+The Masters of Destruction reside in this room, a tiny cubicle with
+weapons adorning the rawhide-padded walls.  The floors are slick with
+blood and loose sand.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7087
+S
+#7091
+0 0
+~
+~
+~
+0 0 0
+The Room of Creation~
+The Masters of Creation reside here -- chaotic creation, magical creation,
+good creation, and evil creation -- they all mill around, discussing new
+techniques, skills, and testing them out on one another.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7087
+S
+#7092
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Hall of Heroes~
+You have ascended to the Hall of Heroes, the place where one can train
+after ascending from ordinary Saiyajin to Super Saiyajin.  Beware, only
+those who are EXTREMELY well-prepared will survive training here.  Do
+not tread lightly.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7093
+D5
+~
+~
+0 0 7087
+S
+#7093
+0 0
+~
+~
+~
+0 0 0
+The Hall of Heroes~
+This is where Heroes of Saiya, the Super Saiyajin, come to increase their
+skills and train to ascend to even another level.  Off in the distance, you
+hear someone's tortured scream of death -- obviously a Master who wasn't
+deft enough.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7094
+D2
+~
+~
+0 0 7092
+S
+#7094
+0 0
+~
+~
+~
+0 0 0
+The Room of Death~
+The final room of the Hall of Heroes is the haven for the Master of Heroes.
+Only a handful of people have defeated him and gained admittance past this
+point.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7093
+D4
+~
+~
+0 0 7095
+S
+#7095
+0 0
+~
+~
+~
+0 0 0
+The Top of the Tower~
+You've done it!  You are outside of the tower, standing on the roof, staring
+down at all of Saiya.  From this vantage you can see a canopy, a jagged
+fissure, and several assorted creatures roaming around.  There is also 
+a pole sticking out of the ground -- perhaps it's climbable.
+~
+0 C 0
+0
+~
+I 0 D4
+~
+~
+0 0 7096
+D5
+~
+~
+0 0 7092
+S
+#7096
+0 0
+~
+~
+~
+0 0 0
+The Pole~
+You are on an incredibly long pole sticking out of the tower, leading
+upwards.  It is hard to find handholds on it, but it is somewhat climbable.
+~
+0 L 0
+0
+~
+H-100
+I 0 M-50
+D4
+~
+~
+0 0 7097
+D5
+~
+~
+0 0 7095
+S
+#7097
+0 0
+~
+~
+~
+0 0 0
+The Middle of the Pole~
+You are halfway up the gigantic red pole.  Above you you can only see
+clouds.
+~
+0 L 0
+0
+~
+H-150
+I 0 M-100
+D4
+~
+~
+0 0 7098
+D5
+~
+~
+0 0 7096
+S
+#7098
+0 0
+~
+~
+~
+0 0 0
+The Top of the Pole~
+You are climbing the top of the long red pole jutting from the Tower
+into space.  Above you, clouds show you the link between atmosphere
+and vacuum.
+~
+0 L 0
+0
+~
+H-200
+I 0 M-200
+D4
+~
+~
+0 0 7099
+D5
+~
+~
+0 0 7097
+S
+#7099
+0 0
+~
+~
+~
+0 0 0
+The Cloud~
+You are on an incredibly dense, thick cloud.
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 7100
+D1
+~
+~
+0 0 7101
+D2
+~
+~
+0 0 7103
+D5
+~
+~
+0 0 7098
+S
+#7100
+0 0
+~
+~
+~
+0 0 0
+The Cloud~
+You are on an incredibly dense, thick cloud.
+~
+0 0 9
+0
+~
+I 0 D2
+~
+~
+0 0 7099
+D3
+~
+~
+0 0 7103
+S
+#7101
+0 0
+~
+~
+~
+0 0 0
+The Cloud~
+You are on an incredibly dense, thick cloud.
+~
+0 0 9
+0
+~
+I 0 D1
+~
+~
+0 0 7103
+D3
+~
+~
+0 0 7099
+S
+#7102
+0 0
+~
+~
+$n transcends reality to send $s body into the beyond.~
+0 0 0
+The Thunderhead~
+As you manipulate your way up the dense white clouds that roil about you,
+mist rolls about you on every side.  Suddenly, you find yourself atop a
+gigantic thunderhead cloud, with nowhere to go but upwards, into a shining
+film of reality.  The way upwards is quite beautiful, but opaque...who knows
+what lies there.  ..
+~
+0 C 9
+0
+~
+I 0 S
+#7103
+0 0
+~
+~
+~
+0 0 0
+The Cloud~
+You are on an incredibly dense, thick cloud.
+~
+0 0 9
+0
+~
+I 0 D0
+~
+~
+0 0 7099
+D1
+~
+~
+0 0 7100
+D2
+~
+~
+0 0 7102
+D3
+~
+~
+0 0 7101
+S
+#7104
+0 0
+~
+~
+~
+0 0 0
+The Room of Spirit and Time~
+The Room of Spirit and Time is the secret location of Kami-Sama, the
+God of the Saiyans.  Inside here, one year equals 24 hours of real time.
+The gravity is ten times that of the outside, and the air is 1/4 of the
+density of normal air.  In here, when a Saiyajin trains, his rage
+can increase to a point allowing him insight to the next level of power.
+Beware -- staying in this room more than 48 hours is deadly.
+~
+0 ABCDNX 0
+0
+~
+I 0 D0
+~
+door~
+4193 0 7125
+S
+#7105
+0 0
+~
+~
+~
+0 0 0
+The Waterfall~
+You are being battered against the cliff wall and rocks as you bounce
+over a waterfall.  It wasn't really wise to come here, and it's still
+possible to fight your way back to the river.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 7034
+D5
+~
+~
+0 0 7106
+S
+#7106
+0 0
+~
+~
+~
+0 0 0
+In the Waterfall~
+Bad, bad, bad, terrible idea.  You are drowning to death as rocks crush
+every bone in your body.  I hope you have some way to extract yourself
+from this deadly situation.
+~
+0 ACN 11
+0
+~
+H-500
+I 0 M-500
+S
+#7107
+0 0
+~
+~
+~
+0 0 0
+Main Street~
+You are traveling along the main road of this small village.  All around
+you there are streets and alleyways leading to various assorted places.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7108
+D1
+~
+~
+0 0 7118
+D2
+~
+~
+0 0 7042
+D3
+~
+~
+0 0 7119
+S
+#7108
+0 0
+~
+~
+~
+0 0 0
+Main Street~
+The main street of the town swells into many faces of roads and stores.
+You can travel in virtually any direction here.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7109
+D1
+~
+~
+0 0 7114
+D2
+~
+~
+0 0 7107
+D3
+~
+~
+0 0 7116
+S
+#7109
+0 0
+~
+~
+~
+0 0 0
+Main Street~
+The main street ends here, branching off into two alleyways.
+To your east, you see a darker road, and to your west, a road
+filled with taverns and pubs.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7139
+D1
+~
+~
+0 0 7110
+D2
+~
+~
+0 0 7108
+D3
+~
+~
+0 0 7112
+S
+#7110
+0 0
+~
+~
+~
+0 0 0
+Tenkai Street~
+Tenkai Street begins here, the road of thieves and assassins.  The remains
+of signs, boxes and wood burn here, among the remains of some of the
+town's citizens and their pets.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7111
+D3
+~
+~
+0 0 7109
+S
+#7111
+0 0
+~
+~
+~
+0 0 0
+Tenkai Street End~
+Here, rubble prevents you from venturing any farther down Tenkai street.
+Bodies of animals and humans, scorched black by unnatural fire, lay
+sprawled all over the landscape.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 7110
+S
+#7112
+0 0
+~
+~
+~
+0 0 0
+Ichi Street~
+Ichi Street is the home of drunkards and beggars -- or at least it used to
+be.  This street seems to have been recently cleared of debris by someone -
+or something.  You can hear someone rummaging around to your west.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7109
+D3
+~
+~
+0 0 7113
+S
+#7113
+0 0
+~
+~
+~
+0 0 0
+Ichi Street End~
+Boards and bodies piled into stacks prevent you from going anywhere but
+back here.  The smell is absolutely horrible, and the number of corpses
+is astounding.  What could have happened here?
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7112
+S
+#7114
+0 0
+~
+~
+~
+0 0 0
+Aka Street~
+Aka Street is a cobble-road, with store signs and even some of the contents
+of the stores laying all about.  Broken glass, stone, and dead animals
+line the streets here.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7121
+D1
+~
+~
+0 0 7115
+D2
+~
+~
+0 0 7120
+D3
+~
+~
+0 0 7108
+S
+#7115
+0 0
+~
+~
+~
+0 0 0
+Aka Street End~
+Maggots and flies abound here, swarming over the remains of -something-...
+It is unbearable to remain here any longer.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 7114
+S
+#7116
+0 0
+~
+~
+~
+0 0 0
+Ni Street~
+Ni Street, the street of chapels, begins here.  You can see at least one
+unharmed church in the distance, and the debris here isn't nearly as
+bad as it is in the rest of the town.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7108
+D2
+~
+~
+0 0 7122
+D3
+~
+~
+0 0 7117
+S
+#7117
+0 0
+~
+~
+~
+0 0 0
+Ni Street End~
+Ni street ends here as it reaches the town wall.
+To your east you can see Main Street, and a few churches.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7116
+S
+#7118
+0 0
+~
+~
+~
+0 0 0
+The Razed Remains of Jin Street~
+Jin Street terminates abruptly here, as huge boulders and the flaming remains
+of corpses, both animal, human, and otherwise, crisscross in a violent
+wailing wall.  The ground here is sticky.
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 7107
+S
+#7119
+0 0
+~
+~
+~
+0 0 0
+The Razed Remains of San Street~
+San Street, the street of scientists, would have been here if not for
+the huge metal, wood, and organic pile of rubbish that lays here, blocking
+any further travel.
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 7107
+S
+#7120
+0 0
+~
+~
+~
+0 0 0
+Shop of the Aether~
+One of the two remaining stores left intact after the massive destruction
+of this town.  The shopkeeper appears to be a haggard old man, you don't
+know how or why this shop was spared.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7114
+S
+#7121
+0 0
+~
+~
+~
+0 0 0
+Shop of the Aether~
+One of the two remaining stores left intact after the massive destruction
+of this town.  The shopkeeper is a small, old woman, and the shop is filled
+with trinkets of all kinds.  You wonder why this shop was spared.
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 7114
+S
+#7122
+0 0
+~
+~
+~
+0 0 0
+The Church~
+A tiny church is here, stained glass windows show you depictions of some
+Saiyan god, Kami-sama, healing the sick and performing miracles.  On the
+opposite side of the temple there are also depictions of Piccolo,
+the Saiyajin's ultimate incarnation of evil.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7116
+D2
+~
+~
+0 0 7123
+S
+#7123
+65 250
+~
+~
+~
+0 0 0
+The Morbid Throne~
+This section of the church has been altered -- most of the statues and
+depictions of Piccolo have been moved here, and meshed with the human
+remains of the town's inhabitants to form an unholy altar.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7122
+S
+#7125
+0 0
+~
+~
+~
+0 0 0
+`o*`k The Lair of Shenlon`o *``~
+You have entered into the subspace lair of the Ancient Dragon, Shenlon.
+The room is filled with a white haze -- it is not wise to stay here longer
+than necessary, as Shenlon will most certainly be angry should he discover
+you here.
+~
+0 0 9
+0
+~
+I 0 D2
+~
+door~
+4193 0 7104
+S
+#7126
+0 0
+~
+~
+~
+0 0 0
+The Hall of Synthetics~
+The Hall of Synthetics ducks down here as you pass under a
+stone and wood arch and enter into a fiery room that seems to
+have juxtaposed anything and everything from Saiya and beyond.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7127
+D2
+~
+~
+0 0 7088
+S
+#7127
+0 0
+~
+~
+~
+0 0 0
+The Hall of Synthetics~
+The Hall of Synthetics is aptly forged from immaterial magic,
+walls of fire overlap as they fall to a floor of spongy plastic
+below.  Throughout the wide corridor, you can see miniature
+wars of all kind raging between Tower trainees and their unreal
+foes.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7128
+D2
+~
+~
+0 0 7126
+S
+#7128
+0 0
+~
+~
+~
+0 0 0
+The Hall of Synthetics~
+At this point, the Hall forks off to the east and western corridors
+of Annihilation.  Only those who wish to hone their skills to the
+level of True Masterdom need continue down these paths.
+~
+0 0 4
+0
+~
+I 0 D1
+~
+~
+0 0 7129
+D2
+~
+~
+0 0 7127
+D3
+~
+~
+0 0 7130
+S
+#7129
+0 0
+~
+~
+~
+0 0 0
+The Room of Annihilation~
+You have entered into a small, dark black cubicle with no
+indication of light sources anywhere but west, back out the
+way you came.  Dark shadows well in every niche.
+~
+0 A 0
+0
+~
+I 0 D3
+~
+~
+0 0 7128
+S
+#7130
+0 0
+~
+~
+~
+0 0 0
+The Room of Annihilation~
+You have entered into a small, dark black cubicle with no
+indication of light sources anywhere but east, back out the
+way you came.  Dark shadows well in every niche.
+~
+0 A 0
+0
+~
+I 0 D1
+~
+~
+0 0 7128
+S
+#7132
+0 0
+~
+~
+~
+0 0 0
+The Room of the Budoukai~
+This is another room where the Masters of Hand Combat come to face
+off against one another.  The room is huge, almost an arena to combat in.
+Several High Masters roam around here, seeking challenge.
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 7089
+D5
+~
+~
+65 7026 7133
+S
+#7133
+0 0
+~
+~
+~
+0 0 0
+The Secret Room~
+This is the room where non-Saiyans who strive to become masters of their
+art come to train.  It is a small, enclosed, dark cubicle -- you can
+sense people lurking here.
+~
+0 ADN 0
+0
+~
+I 0 D4
+~
+~
+65 7026 7132
+S
+#7134
+0 0
+~
+~
+~
+0 512 0
+Heavensdome~
+You have somehow happened upon Heavensdome, Kami-Sama's personal storage
+room...tread carefully and lightly, for if he were to find you here, you
+would regret it!
+~
+0 ABCGLNX 0
+0
+~
+I 0 S
+#7135
+0 0
+~
+~
+~
+0 0 0
+A Slippery Tunnel~
+A small opening carved from disintegrating stone leads the way from this
+stale pool of greenish water into a small cave to your west.  Above you,
+peaks of dark stone glimmer in the light, creating an odd sort of
+juxtaposition of land, water, darkness and light.
+~
+0 0 14
+0
+~
+I 0 D3
+~
+~
+0 0 7031
+D4
+~
+~
+0 0 7136
+S
+#7136
+0 0
+~
+~
+~
+0 0 0
+A Steep Grade~
+Shale and mica creak unsteadily as you walk over the face of this collapsing
+pit of a valley, that seems to lead very deeply into the ground.  The faint
+sound of rushing water echoes up from under the surface of the black hole
+that stands before you, leading you to the side of caution as you descend.
+~
+0 0 5
+0
+~
+I 0 D1
+~
+~
+0 0 2635
+D5
+~
+~
+0 0 7135
+S
+#7137
+0 0
+~
+~
+~
+0 0 0
+The Muddy Shore~
+Fast-moving whitewater clashes against thick clay sediment, forming a large
+dam versus the flow of water here, directing it south.  The ground slants
+slowly upwards, leading out of the fissure and into a range of black mountains.
+Eastwards, the water rages fiercely.
+~
+0 0 14
+0
+~
+I 0 D1
+~
+~
+0 0 7034
+D4
+~
+~
+0 0 7138
+S
+#7138
+0 0
+~
+~
+~
+0 0 0
+A Steep Grade~
+Large deposits of shale clay and hardened stone form a depression-ramp leading
+towards a huge gap in the land below.  A thin bright line of white streaked
+with clear and blue shoots out from the pit, spitting foam as it rushes along
+a natural course.  Westward you can see the continuation of the huge black
+mountain range.
+~
+0 0 5
+0
+~
+I 0 D3
+~
+~
+0 0 2626
+D5
+~
+~
+0 0 7137
+S
+#7139
+0 0
+~
+~
+~
+0 0 0
+Village Path~
+A tiny stone path is etched out of the dark stone, leading down into a
+stony blue valley between two snowcapped peaks.  Ragged houses dot the
+horizon south of here in the distance, and far south you can see a large
+gap in the ground.
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 2618
+D2
+~
+~
+0 0 7109
+S
+#7140
+0 0
+~
+~
+~
+0 0 0
+A Path Through the Mountain Valley~
+A rough dirt path dotted with sprouts of grass and tufts of weeds leads
+north, undercutting the Kayinn-Karin pass and dipping down into a green
+valley.  Wild and sentient life can be seen to your north, and the road
+rises out of the dip to rejoin the mountain range to your south.
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 7000
+D2
+~
+~
+0 0 2642
+S
+#0
+
+#RESETS
+D 0 7013   4    2	* The Canopy of Green [up]
+D 0 7016   5    2	* Hovering Above the Canopy [down]
+D 0 7019   0    2	* The Completely Smooth Rock Face [north]
+D 0 7021   2    2	* The Small Cave [south]
+D 0 7043   0    2	* Cold Storage [north]
+D 0 7043   1    2	* Cold Storage [east]
+D 0 7043   2    2	* Cold Storage [south]
+D 0 7043   3    2	* Cold Storage [west]
+D 0 7044   2    2	* Cubicle [south]
+D 0 7045   3    2	* Cubicle [west]
+D 0 7046   1    2	* Cubicle [east]
+D 0 7047   0    2	* Cubicle [north]
+D 0 7049   0    2	* Immersion [north]
+D 0 7050   2    2	* Arclong's Hoard [south]
+D 0 7051   0    0	* At the Base of Karin Tower [north]
+D 0 7052   2    0	* Entrance to the First Floor of Karin Tower [south]
+D 0 7132   5    2	* The Room of the Budoukai [down]
+D 0 7133   4    2	* The Secret Room [up]
+M 0 7014  10 7000  2	* Wandering warrior of saiya
+E 0 7077   -1   16	* item to Wandering warrior of saiya
+M 0 7014  10 7001  2	* Wandering warrior of saiya
+E 0 7077   -1   16	* item to Wandering warrior of saiya
+M 0 7014  10 7001  2	* Wandering warrior of saiya
+E 0 7077   -1   16	* item to Wandering warrior of saiya
+M 0 7017   5 7001  1	* The wandering minstrel
+M 0 7015  10 7002  2	* An insect cultist
+E 0 7031   -1   16	* item to An insect cultist
+M 0 7015  10 7002  2	* An insect cultist
+E 0 7031   -1   16	* item to An insect cultist
+M 0 7013  10 7002  2	* A saiyajin wanderer
+E 0 7030   -1   17	* item to A saiyajin wanderer
+M 0 7013  10 7002  2	* A saiyajin wanderer
+E 0 7030   -1   17	* item to A saiyajin wanderer
+M 0 7013  10 7003  2	* A saiyajin wanderer
+E 0 7030   -1   17	* item to A saiyajin wanderer
+M 0 7000   1 7008  1	* The insect lord
+E 0 7000   -1    7	* item to The insect lord
+E 0 7001   -1    6	* item to The insect lord
+G 0 7031 -1		* A pair of insect pincers to The Insect Lord
+M 0 7017   5 7008  1	* The wandering minstrel
+M 0 7015  10 7009  2	* An insect cultist
+E 0 7031   -1   16	* item to An insect cultist
+M 0 7015  10 7009  2	* An insect cultist
+E 0 7031   -1   16	* item to An insect cultist
+M 0 7013  10 7011  2	* A saiyajin wanderer
+E 0 7030   -1   17	* item to A saiyajin wanderer
+M 0 7001   4 7012  4	* A saiya monkey
+E 0 7003   -1   13	* item to A saiya monkey
+M 0 7001   4 7012  4	* A saiya monkey
+E 0 7003   -1   13	* item to A saiya monkey
+G 0 7002 -1		* A huge, gnarled stick to a Saiya Monkey
+M 0 7001   4 7012  4	* A saiya monkey
+E 0 7003   -1   13	* item to A saiya monkey
+G 0 7002 -1		* A huge, gnarled stick to a Saiya Monkey
+M 0 7001   4 7012  4	* A saiya monkey
+E 0 7003   -1   13	* item to A saiya monkey
+G 0 7002 -1		* A huge, gnarled stick to a Saiya Monkey
+M 0 7033   3 7015  3	* A saiyajin cultist
+M 0 7002   1 7016  1	* Grunt
+E 0 7004   -1    6	* item to Grunt
+E 0 7005   -1    5	* item to Grunt
+E 0 7006   -1   17	* item to Grunt
+M 0 7020   5 7017  5	* A fissure-dweller
+M 0 7020   5 7017  5	* A fissure-dweller
+M 0 7020   5 7017  5	* A fissure-dweller
+M 0 7020   5 7018  5	* A fissure-dweller
+M 0 7004   1 7019  1	* Rokkusennin
+E 0 7007   -1   10	* item to Rokkusennin
+G 0 7008 -1		* A jagged lodestone to Rokkusennin
+M 0 7017   5 7019  1	* The wandering minstrel
+M 0 7008  10 7020 10	* A bouncing boulder
+M 0 7014  10 7020  2	* Wandering warrior of saiya
+E 0 7077   -1   16	* item to Wandering warrior of saiya
+M 0 7007   1 7023  1	* Doctor gasto
+E 0 7017   -1   12	* item to Doctor gasto
+E 0 7019   -1   17	* item to Doctor gasto
+M 0 7019  15 7026  2	* A tiny waterdragon
+M 0 7016   3 7028  3	* A winged rock-hound
+M 0 7003   1 7044  1	* Darbura
+E 0 7009   -1   10	* item to Darbura
+E 0 7010   -1   16	* item to Darbura
+G 0 7022 -1		* A red ribbon level ii pass card to Darbura
+M 0 7005   1 7045  1	* Recoom
+E 0 7012   -1    5	* item to Recoom
+E 0 7011   -1    6	* item to Recoom
+G 0 7010 -1		* `ba `ired `bki `iblast`` to Recoom
+M 0 7006   1 7046  1	* Ginew
+E 0 7016   -1   16	* item to Ginew
+M 0 7009   1 7047  1	* Freeza
+E 0 7013   -1    7	* item to Freeza
+E 0 7010   -1   16	* item to Freeza
+E 0 7015   -1    5	* item to Freeza
+E 0 7014   -1    4	* item to Freeza
+E 0 7014   -1    3	* item to Freeza
+E 0 7024   -1   17	* item to Freeza
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+M 0 7012   1 7049  1	* Arclong
+E 0 7025   -1   12	* item to Arclong
+E 0 7026   -1   17	* item to Arclong
+G 0 7028 -1		* A slimy chemical key to Arclong
+G 0 7029 -1		* A huge brass key to Arclong
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+M 0 7010   9 7049  9	* A high-speed jet of hot water
+O 0 7027   0 7050 -1	* The treasure chest at Arclong's Hoard
+P 0 7045 -1 7027 1
+M 0 7026   1 7051  1	* An axeman
+M 0 7027   1 7053  1	* The evil farmer
+M 0 7030   3 7054  3	* A smiling man
+M 0 7032   1 7056  1	* An innocent mother
+M 0 7033   3 7058  3	* A saiyajin cultist
+M 0 7028   1 7059  1	* The deranged cultist
+M 0 7011   1 7060  1	* The torturer
+M 0 7029   1 7061  1	* Aayliwa the demon
+M 0 7058   5 7062  5	* The novice
+M 0 7034   1 7063  1	* The novice master of fire
+M 0 7035   1 7064  1	* The novice master of water
+M 0 7036   1 7065  1	* The novice master of air
+M 0 7037   1 7066  1	* The novice master of land
+M 0 7038   1 7067  1	* A flamelick
+M 0 7058   5 7068  5	* The novice
+M 0 7058   5 7068  5	* The novice
+M 0 7040   3 7068  3	* A waterwave
+M 0 7058   5 7069  5	* The novice
+M 0 7058   5 7069  5	* The novice
+M 0 7042   2 7069  2	* An air wight
+M 0 7044   1 7070  1	* A minion of rokkusennin
+M 0 7045   1 7072  1	* Legion
+M 0 7043   1 7073  1	* The acrobat
+M 0 7042   2 7074  2	* An air wight
+M 0 7040   3 7075  3	* A waterwave
+M 0 7041   1 7076  1	* The lifeforce of saiya
+M 0 7039   1 7077  1	* An obelisk of fire
+M 0 7059   5 7079  5	* The intermediate student
+M 0 7059   5 7080  5	* The intermediate student
+M 0 7046   1 7080  1	* A weapon-golem
+M 0 7047   1 7081  1	* A magic-golem
+M 0 7048   1 7082  1	* A dodge-golem
+M 0 7049   1 7083  1	* The master-golem
+M 0 7059   5 7084  5	* The intermediate student
+M 0 7059   5 7084  5	* The intermediate student
+M 0 7050   1 7084  1	* Barakahiin the bartender
+G 0 7056 -1		* A trainee's drink to Barakahiin the Bartender
+M 0 7051   1 7085  1	* A certified master of combat
+M 0 7052  20 7088  6	* The challenge-golem
+M 0 7052  20 7088  6	* The challenge-golem
+M 0 7052  20 7088  6	* The challenge-golem
+M 0 7052  20 7088  6	* The challenge-golem
+M 0 7052  20 7088  6	* The challenge-golem
+M 0 7052  20 7088  6	* The challenge-golem
+M 0 7054   1 7089  1	* Maaj
+E 0 7075   -1   13	* item to Maaj
+E 0 7044   -1    9	* item to Maaj
+M 0 7053   1 7089  1	* Roushin
+E 0 7074   -1   13	* item to Roushin
+E 0 7068   -1    5	* item to Roushin
+E 0 7041   -1   16	* item to Roushin
+G 0 7055 -1		* `han `ee`hy`ee`hb`ea`hl`el`` to Roushin
+G 0 7055 -1		* `han `ee`hy`ee`hb`ea`hl`el`` to Roushin
+G 0 7055 -1		* `han `ee`hy`ee`hb`ea`hl`el`` to Roushin
+M 0 7055   1 7090  1	* Veej
+E 0 7075   -1   13	* item to Veej
+E 0 7042   -1   12	* item to Veej
+E 0 7073   -1   16	* item to Veej
+E 0 7068   -1    5	* item to Veej
+M 0 7057   1 7091  1	* Gook
+E 0 7074   -1   13	* item to Gook
+E 0 7041   -1   16	* item to Gook
+E 0 7068   -1    5	* item to Gook
+M 0 7056   1 7094  1	* Cell
+E 0 7076   -1   13	* item to Cell
+E 0 7043   -1    6	* item to Cell
+E 0 7064   -1   16	* item to Cell
+E 0 7072   -1   17	* item to Cell
+E 0 7068   -1    5	* item to Cell
+M 0 7022   3 7113  3	* A zombie villager
+M 0 7061   1 7115  1	* A dead thing
+M 0 7018   1 7120  1	* Naethra
+G 0 7059 -1		* `da `arotten `dstaff`` to Naethra
+G 0 7060 -1		* `han ivory-coated diamond staff`` to Naethra
+G 0 7061 -1		* `da rotten wooden sword`` to Naethra
+M 0 7023   1 7121  1	* Aethra
+G 0 7057 -1		* A pint of bug juice to Aethra
+G 0 7058 -1		* A pint of piccolo's best to Aethra
+M 0 7022   3 7121  3	* A zombie villager
+M 0 7022   3 7121  3	* A zombie villager
+M 0 7024   5 7122  5	* Piccolo's sentinel demon
+M 0 7024   5 7122  5	* Piccolo's sentinel demon
+M 0 7024   5 7122  5	* Piccolo's sentinel demon
+M 0 7024   5 7122  5	* Piccolo's sentinel demon
+M 0 7024   5 7122  5	* Piccolo's sentinel demon
+M 0 7025   1 7123  1	* Piccolo, the incarnation of evil
+E 0 7071   -1    4	* item to Piccolo, the incarnation of evil
+E 0 7071   -1    3	* item to Piccolo, the incarnation of evil
+E 0 7062   -1   16	* item to Piccolo, the incarnation of evil
+G 0 7199 -1		* A parsetree sprout to Piccolo, the Incarnation of Evil
+G 0 7199 -1		* A parsetree sprout to Piccolo, the Incarnation of Evil
+G 0 7199 -1		* A parsetree sprout to Piccolo, the Incarnation of Evil
+M 0 7064  15 7126  5	* Disruptor-golem
+M 0 7064  15 7126  5	* Disruptor-golem
+M 0 7064  15 7126  5	* Disruptor-golem
+M 0 7052  20 7126  6	* The challenge-golem
+M 0 7052  20 7126  6	* The challenge-golem
+M 0 7052  20 7127  6	* The challenge-golem
+M 0 7052  20 7127  6	* The challenge-golem
+M 0 7064  15 7127  5	* Disruptor-golem
+M 0 7064  15 7127  5	* Disruptor-golem
+M 0 7064  15 7128  5	* Disruptor-golem
+M 0 7064  15 7128  5	* Disruptor-golem
+M 0 7052  20 7128  6	* The challenge-golem
+M 0 7065   2 7128  2	* A massive-golem
+M 0 7066   4 7129  2	* A death-golem
+M 0 7066   4 7129  2	* A death-golem
+M 0 7066   4 7130  2	* A death-golem
+M 0 7066   4 7130  2	* A death-golem
+M 0 7068   1 7132  1	* Tenshinhan
+E 0 7074   -1   13	* item to Tenshinhan
+M 0 7067   1 7132  1	* Ragohan
+E 0 7074   -1   13	* item to Ragohan
+E 0 7068   -1    5	* item to Ragohan
+M 0 7069   1 7133  1	* Terry bogard
+E 0 7080   -1    6	* item to Terry bogard
+E 0 7079   -1   17	* item to Terry bogard
+G 0 7078 -1		* The hakkyokuseiken final technique: seppuken to Terry Bogard
+M 0 7031   3 7014  1	* A young priest of kami-sama
+G 0 7046 -1		* `ca pretty `mflower`` to A young priest of Kami-Sama
+G 0 7008 -1		* A jagged lodestone to A young priest of Kami-Sama
+E 0 7198   -1   18	* item to A young priest of kami-sama
+E 0 7197   -1   18	* item to A young priest of kami-sama
+G 0 7198 -1		* The bible of kami-sama to A young priest of Kami-Sama
+G 0 7047 -1		* A hymnal to A young priest of Kami-Sama
+G 0 7048 -1		* A goblet of revitalizer fluid to A young priest of Kami-Sama
+O 0 7050   0 7102 -1	* Shimmering mist field at The Thunderhead
+O 0 7053   0 7134 -1	* Super saiyajin potion at Heavensdome
+E 0 7002   -1   18	* item to A young priest of kami-sama
+O 0 7200   0 7106 -1	* `adark cave opening`` at In the Waterfall
+D 0 7125   2    1	* `o*`k The Lair of Shenlon`o *`` [south]
+O 0 7201   0 7134 -1	* A mirror at Heavensdome
+O 0 7204   0 7102 -1	* Shenlon at The Thunderhead
+O 0 7205   0 7095 -1	* A sign at The Top of the Tower
+O 0 7205   0 7097 -1	* A sign at The Middle of the Pole
+O 0 7206   0 7099 -1	* A sign at The Cloud
+O 0 7207   0 7100 -1	* A sign at The Cloud
+O 0 7208   0 7103 -1	* A sign at The Cloud
+M 0 7062   1 7093  1	* Gojiita
+E 0 7075   -1   13	* item to Gojiita
+E 0 7069   -1   12	* item to Gojiita
+E 0 7068   -1    5	* item to Gojiita
+M 0 7060   1 7125  1	* Shenlon
+E 0 7038   -1    9	* item to Shenlon
+E 0 7036   -1   11	* item to Shenlon
+E 0 7033   -1   17	* item to Shenlon
+E 0 7032   -1   16	* item to Shenlon
+G 0 7037 -1		* `ha bag with a six-starred dragon ball closure`` to Shenlon
+G 0 7035 -1		* `ha book with a quad-starred dragon ball in the binding`` to Shenlon
+G 0 7034 -1		* `ha book with a tri-starred dragon ball in the binding`` to Shenlon
+G 0 7209 -1		* `ha small `ngem `hentrapping `kshenlon's `hsoul`` to Shenlon
+M 0 7099   1 7104  1	* Kami-sama
+E 0 7065   -1   11	* item to Kami-sama
+E 0 7066   -1   14	* item to Kami-sama
+E 0 7067   -1   15	* item to Kami-sama
+E 0 7039   -1   12	* item to Kami-sama
+E 0 7040   -1   17	* item to Kami-sama
+E 0 7198   -1   18	* item to Kami-sama
+G 0 7047 -1		* A hymnal to Kami-Sama
+G 0 7052 -1		* Heavensdome to Kami-Sama
+D 0 7104   0    1	* The Room of Spirit and Time [north]
+M 0 7063   1 7092  1	* Vegita
+E 0 7075   -1   13	* item to Vegita
+E 0 7069   -1   12	* item to Vegita
+E 0 7068   -1    5	* item to Vegita
+G 0 7250 -1		* `ka holy visor of light`` to Vegita
+S
+
+#SHOPS
+7018  4  5  0  0  0 	150  40 	0 23	* Naethra
+7023 10 26  0  0  0 	100   0 	0 23	* Aethra
+7050 10  0  0  0  0 	100   0 	0 23	* Barakahiin the Bartender
+0
+
+#SPECIALS
+M 7006 spec_cast_undead		* Ginew
+M 7007 spec_cast_mage		* Doctor Gasto
+M 7012 spec_breath_any		* Arclong
+M 7025 spec_poison		* Piccolo, the Incarnation of Evil
+M 7045 spec_cast_mage		* Legion
+M 7047 spec_cast_mage		* A Magic-Golem
+M 7055 spec_nasty		* Veej
+M 7056 spec_breath_any		* Cell
+M 7060 spec_breath_any		* Shenlon
+M 7062 spec_nasty		* Gojiita
+M 7063 spec_nasty		* Vegita
+M 7064 spec_breath_lightning		* Disruptor-Golem
+M 7066 spec_cast_undead		* A Death-Golem
+M 7099 spec_breath_any		* Kami-Sama
+S
+
+#OT
+#7033
+Fountain Hi ~
+$char_uses_spell spell~
+134217728
+65
+say Need food with that?~
+100
+0
+c create~
+100
+3
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#7050
+(null)~
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#7062
+Ball Lightning~
+$chance_on_hit~
+128
+65
+cast 'call lightning' $2randmob~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+2
+#7204
+`nSaiya -`o Shenlon kill check``~
+$entersroom~
+1
+68
+immtalk `h$name is closing in...``~
+100
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#7250
+(null)~
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

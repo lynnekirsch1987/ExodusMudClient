@@ -1,0 +1,10 @@
+Possum
+hello|hi:<8:-:CMD emote looks at you in fear.;No time to talk, the pirates are everywhere.;I must get to the church.
+church:<8:-:The church is the only place that's safe from the pirates.;CMD scan;Nobody knows how long it will stand though.
+paladin|Paladin:<8:+1:The paladin is our last line of defense.;The town guards haven't been able to stop the attack.
+west:>1:-1:CMD east
+east:>1:-1:CMD west
+north:>1:-1:CMD south
+north|south|east|west:<2:-:CMD sigh;I'm too weak to continue.  I pray they don't find me first.
+south:>1:-:CMD north
+pirate|pirates:<8:-:CMD shiver;Have you seen pirates around here?  Where are they!?

@@ -1,0 +1,60 @@
+* mob Sardin 4053 in room 4130 *
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %race% race
+mfunc %enter-from% %name% name
+wait 2~
+Sc
+if ( %race% == 1 ) 
+   say Welcome to my shop, %name%.  Please, take care to not disorder my spices.
+   halt once~
+Sc
+if ( %race% == 2)
+   say Good day to you, %name%.  I have some jewelweed leaf specially imported from Sandoria, if you are so inclined.
+   halt once~
+Sc
+if ( %race% == 3)
+   say Hmm, far from home, aren't you %name%?  What brings you to this unbroken, moderate land?
+   halt once~
+Sc
+if ( %race% == 4)
+   peer %name%
+   say Ahh, your visage brings reminiscence of younger years, flinging back and forth across the endless ocean with intrepid abandon.
+   smote His eyebrows furrowed in remembrance, Sardin gazes thoughtfully into space.
+   halt once~
+Sc
+if ( %race% == 5)
+   glance %name%
+   say Welcome to my shop, %name%. I'm not sure if I have much that would be of use to you.
+   halt once~
+Sc
+if ( %race% == 6)
+   smile %name%
+   say Ahh, a Syvin adventuring far from home indeed. My mandrake and wolfsbane were fetched from your luxuriant forests.
+   say What can I do for you?
+   halt once~
+End
+
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 4
+if ( %rndnum% == 0 )
+  emote fetches a dustcloth from a shelf and gently cleans some jars lined up against the wall.
+  halt once~
+Sc 
+if ( %rndnum% == 1 )
+  smote Gingerly tapping a small bag of herbs into the palm of his hand, Sardin siphons sprinkles into his oft used pipe.
+  halt once~
+Sc 
+if ( %rndnum% == 2 )
+  emote inhales deeply, taking a few puffs on his pipe.
+  halt once~
+End
+
+#END
+
+

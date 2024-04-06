@@ -1,0 +1,17 @@
+* File: paladin.scr
+* Mob: Paladin in Merossa(14001)
+
+#TRIGGER enter
+Type 10
+Sc
+chobj %enter-from% %hasit% 14035
+if ( %hasit% == 1 )
+   say I see you possess the accursed blade, %enter-from%.  You should annoint it with this oil to free it from the grip of evil.
+   cmd at 1 load obj 14036
+   cmd give oil %enter-from%
+   cmd drop oil
+   halt once~
+End
+
+#END
+

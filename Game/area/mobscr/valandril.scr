@@ -1,0 +1,92 @@
+* Valandril
+* mob vnum 9712
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %race% race
+mfunc %enter-from% %name% name
+if ( %race% == 1 )
+   jump 8~
+Sc
+if ( %race% == 2 )
+   jump 8~
+Sc
+if ( %race% == 3 )
+   jump 8~
+Sc
+if ( %race% == 4 )
+   jump 8~
+Sc 
+if ( %race% == 5 )
+   jump 8~
+Sc 
+if ( %race% == 6 )
+   jump 8~
+Sc 
+if ( %race% == 7 )
+   jump 8~
+Sc
+   halt once~
+Sc
+   wait 10~
+Sc
+   emote looks up from some papers on her desk, looks at you, and smiles.
+   wait 4~
+Sc
+   say Hello.
+   wait 2~
+Sc
+   say Congratulations on your candidacy for Hero! This fine establishment is here to offer you a choice of three pets.
+   wait 8~
+Sc
+   say Each pet has it's own unique abilites, and although I cannot give you specifics, I can explain a little about each.
+   wait 10~
+Sc
+   say The Stone Giant, although big and tough, is very slow and gentle.
+   wait 5~
+Sc
+   say The Lioness is a fierce fighter, but cannot take much damage.
+   wait 5~
+Sc
+   say The Wemic-- a cross-breed --is a good balance between toughness and fighting ability.
+   wait 10~
+Sc
+   say Just type list and buy whichever you think will suit you best.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 10
+if ( %rndnum% == 0 )
+   echo A strange feline growling sound can be heard from behind the locked doors of the side room.
+   wait 1~
+Sc
+if ( %rndnum% == 0 )
+   emote looks at the doors.
+   wait 1~
+Sc
+if ( %rndnum% == 0 )
+   say It must be feeding time, the lioness sounds hungry.
+   wait 2~
+Sc
+if ( %rndnum% == 0 )
+   emote smiles uneasily.
+   halt once~
+Sc
+if ( %rndnum% == 2 ) 
+  echo A loud crash can be heard from behind the locked doors of the side room.
+   wait 1~
+Sc
+if ( %rndnum% == 2 ) 
+  emote winces slightly.
+   wait 2~
+Sc
+if ( %rndnum% == 2 ) 
+  say It sounds like the wemics aren't happy about something. They can be a handfull at times.
+  halt once~
+End
+
+#END

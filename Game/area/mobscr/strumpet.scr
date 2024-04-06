@@ -1,0 +1,136 @@
+* Mob Vnum: 20382
+* Mob Name: surly strumpet
+* Room Vnum: 20401
+
+#TRIGGER kiss
+Type 7
+Sc
+mfunc %enter-from% %name% name
+mfunc %enter-from% %gold% gold
+mfunc %enter-from% %silver% silver
+if (%silver% > 500)
+  say Tsk tsk.  Not until you pay me, honey!
+  let %silver% -= 500
+  say There, that's better.
+  cmd french %name%
+  say Say you want me.
+  halt once~
+Sc
+if (%gold% > 5)
+  say Tsk tsk.  Not until you pay me, honey!
+  let %gold% -= 5
+  say There, that's better.
+  cmd french %name%
+  say Say you want me.
+  halt once~
+Sc
+  cmd gasp %name%
+  cmd shout Get some money, %name%!  I don't give freebies!
+  halt once~
+End
+
+#TRIGGER fondle
+Type 7
+Sc
+mfunc %enter-from% %name% name
+mfunc %enter-from% %gold% gold
+mfunc %enter-from% %silver% silver
+Sc
+if (%silver% > 500)
+  say Tsk tsk.  Not until you pay me, honey!
+  let %silver% -= 500
+  say There, that's better.
+  cmd fondle %name%
+  say Say you want me.
+  halt once~
+Sc
+if (%gold% > 5)
+  say Tsk tsk.  Not until you pay me, honey!
+  let %gold% -= 5
+  say There, that's better.
+  cmd fondle %name%
+  say Say you want me.
+  halt once~
+Sc
+  cmd gasp %name%
+  cmd shout Get some money, %name%!  I don't give freebies!
+  halt once~
+End
+
+#TRIGGER stroke
+Keywords stroke~
+Type 0
+Sc
+mfunc %enter-from% %name% name
+mfunc %enter-from% %gold% gold
+mfunc %enter-from% %silver% silver
+if (%silver% > 500)
+  say Tsk tsk.  Not until you pay me, honey!
+  let %silver% -= 500
+  say There, that's better.
+  cmd stroke %name%
+  say Say you want me.
+  halt once~
+Sc
+if (%gold% > 5)
+  say Tsk tsk.  Not until you pay me, honey!
+  let %gold% -= 5
+  say There, that's better.
+  cmd stroke %name%
+  say Say you want me.
+  halt once~
+Sc
+  cmd gasp %name%
+  cmd shout Get some money, %name%!  I don't give freebies!
+  halt once~
+End
+
+#TRIGGER whore
+Type 10
+Sc
+wfunc %whorand% random 0 10
+mfunc %whore-from% %name% name
+if (%whorand% > 4)
+ tell %name% Hey there, want a date?
+ halt once~
+Sc
+if (%whorand% == 9)
+ wiggle %name%
+ halt once~
+Sc 
+if (%whorand% == 10)
+ whistle %name%
+ halt once~
+End
+
+#TRIGGER title
+Type 99
+Sc
+mfunc %title-from% %name% name
+  say I know you do, %name%.
+  emote begins to slowly undress, looking at you seductively.
+  wait 2~
+Sc
+  emote lies down on the bed and cups her ample breasts.
+  beckon %name%
+  wait 2~
+Sc
+  emote spreads her legs and guides your face towards her goodies.
+  wait 2~
+Sc
+  moan %name%
+  say I want to give you something special.
+  wait 2~
+Sc
+  cmd at 1 load obj 20410
+  cmd give vd %name%
+  cmd force %name% eat vd
+  cmd string char %name% title got VD from a strumpet in Ebon Downs.
+  cmd notitle %name%
+  wait 2~
+Sc
+  say Come back and see me real soon.
+  halt once~
+End
+
+#END

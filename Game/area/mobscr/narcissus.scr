@@ -1,0 +1,43 @@
+#TRIGGER tick
+Type 3
+Sc
+if (%timer% < 1)
+  cmd at 1 drop all.parch
+  cmd at 1 drop all.fable
+  cmd at 1 purge
+  cmd yell `hI just received some `kpieces of yellowed parchment`h.  Get them before they sell out!``
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4044
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  cmd at 1 load obj 4323
+  let %timer% == 80
+  halt once~
+Sc
+  let %timer% -= 1
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %timer% == 10
+  halt once~
+End
+
+#END

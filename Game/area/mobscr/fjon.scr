@@ -1,0 +1,44 @@
+
+* File: fjon.scr
+* Mob: Farmer Jon(20997)
+
+#TRIGGER enter
+Type 10
+Sc 
+  say Hello neighbor!
+  halt once~
+End
+
+#TRIGGER slayer
+Type 99
+Sc
+   emote screams Death to %slayer-from% !
+   wait 2
+   slay %slayer-from%
+   halt once~
+End
+
+#TRIGGER opendoor
+Type 99
+Sc
+   emote opens a secret door in the floor.
+   MOB OPEN down
+   wait 5~
+Sc
+   MOB CLOSE down
+   MOB LOCK down
+   emote closes a secret door in the floor and covers it with hay.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+   cmd wake
+   walkto 20997
+   emote smiles happily.
+   halt once~
+End
+
+#END
+

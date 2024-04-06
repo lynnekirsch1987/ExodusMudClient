@@ -1,0 +1,36 @@
+* Mob Vnum: 20957 *
+* Mob Name: juggler *
+* Room Vnum: 20961 *
+
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 4
+if (%rndnum% == 0)
+   emote tosses his knives faster and faster, forming a virtual ring of sharp steel in mid-air.
+   halt once~
+Sc
+if (%rndnum% == 1)
+   emote misjudges one of his thrown knives and almost cuts himself.
+   halt once~
+Sc
+if (%rndnum% == 2)
+   say See, its all in the timing. But having quick hands like myself doesn't hurt.
+   halt once~
+End
+ 
+#TRIGGER move
+Type 11
+Sc
+wfunc %rannum% random 0 3
+if (%rannum% == 0)
+   emote begins juggling with some sharp knives.
+   halt once~
+Sc
+if (%rannum% == 1)
+   emote spins his knives deftly on his fingers and knuckles.
+   halt once~
+End
+#END
+

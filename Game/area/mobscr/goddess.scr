@@ -1,0 +1,48 @@
+* File: goddess.scr
+* Mob: Goddess of the eternal flame(19146)
+
+#TRIGGER box
+Type 5
+Sc
+mfunc %box-from% %name% name
+mfunc %box-from% %align% align
+mfunc %box-from% %race% race
+mfunc %box-from% %level% level
+ofunc %box-arg% %ovnum% vnum
+ofunc %box-arg% %objname% name
+if ( %ovnum% != 8729 )
+   say I have no use for this.
+   say I wish only for the return of my stolen box.
+   drop %objname%
+   halt once~
+Sc
+if ( %ovnum% == 8729 )
+   cmd thank %name%
+   say You have recovered my precious runed box.
+   say To repay you, I will give you its magical contents.
+   wait 1~
+Sc
+   cmd unlock box
+   wait 1~
+Sc
+   cmd open box
+   at 1 load obj 8730
+   at 1 eat box
+   wait 1~
+Sc
+   emote gets something from the runed box.
+   wait 2~
+Sc
+   cmd give fiery %name%
+   wait 1~
+Sc
+   gecho `kThe joy of the Sun Goddess shines down upon `o%name%`k for completing `dThe Quest of the Ancient Tomb`k.``
+if (%level% < 90)
+   pecho %name% `oYou receive 100 experience points for completing the `dQuest of the Ancient Tomb`o.``
+   mfunc %box-from% %exp% exp   
+   let %exp% += 100
+   msign %box-from% %exp% exp
+   halt once~
+End
+
+#END

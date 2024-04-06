@@ -1,0 +1,1351 @@
+#HELPS
+
+-1 WANDS STAVES SCROLLS~
+Magical items require training to use properly.  If your character lacks the
+necessary skill to use an item, he will fail, possibly destroying it.  The
+item skills are as follows:
+
+scrolls		The reading of magical scrolls and books (see 'help recite')
+staves		The use of staves and similar devices (see 'help brandish')
+wands		The use of wands and similar items (see 'help zap') 
+~
+ 
+-1 'GROUP HEADER'~
+The following skills and groups are available to your character:
+(this list may be seen again by typing list)
+~
+
+-1 'GROUP HELP'~
+The following commands are available:
+list         display all groups and skills not yet bought
+learned      show all groups and skills bought 
+premise      brief explanation of creation points and skill groups
+add <name>   buy a skill or group
+drop <name>  discard a skill or group
+info <name>  list the skills or spells contained within a group
+help <name>  help on skills and groups, or other help topics
+done	     exit the character generation process
+~
+
+-1 EXOTIC WEAPONS WEAPON WEAPONSMASTER AXE STAFF DAGGER FLAIL MACE POLEARM SWORD STAFF~
+Each weapon skill applies to a specific group of armaments, and determines how
+well a character fights with a particular weapon.  The weaponsmaster group
+provides talent in all weapons (save exotics), from chair legs to halberds.
+If the character has the parry skill as well, he can parry incoming attacks.
+The chance of parrying is best if the character in question is skilled at 
+both his weapon and his opponent's.
+
+The weapon skills consist of the following:
+
+axe		the use of axes, ranging from hand to great (but not halberds)
+dagger		the use of knives and daggers, and other stabbing weapons
+flail		skill in ball-and-chain type weapons
+mace		this skill includes clubs and hammers as well as maces
+polearm		the use of pole weapons (except spears), including halberds
+sword		the warrior's standby, from rapier to claymore
+staff           skill in long stick-like weapons
+~
+
+-1 'SHIELD BLOCK'~
+Shield block is a rather fancy name for the art of parrying with a shield.
+Characters with no shield block skill will not be able to defend themselves
+well with a shield.  All classes may learn shield block, but only warriors and
+clerics are good at it.  Beware, flails ignore shield blocking attempts, and
+whips have an easier time getting around them.  Axes may split shields in two.
+~
+
+-1 EDIFICATION~
+The liturgy of edification is a fallback mechanism for almost any sphere
+of righteous clerical study.  Through this prayer, the most banal and
+wicked practitioners of the holy arts can rise out of the depths to
+cleanse their souls.
+~
+-1 'HALO OF SERAPHS'~
+An ancient prayer, the halo of seraphs evokes a golden halo around the
+brow of the cleric, making him a bit more affable.
+~
+
+-1 DECONSECRATE~
+The act of deconsecration wrenches the inner workings of the cleric's
+soul, and sends him or her into a descent towards darkness and evil.
+This powerful prayer has been known to turn even the humblest and noble
+of clerics into malicious, spiteful beings.
+~
+
+-1 BACKSTAB~
+Backstab is the favored attack of  thieves, murderers, and other rogues.  It 
+can be used with any weapon type, but is most effective with piercing weapons.
+The damage inflicted by a backstab is determined by the attacker's level, his
+weapon skill, his backstab skill, and the power of his opponent.
+Only thieves may learn the backstab.
+~
+
+-1 BASH~
+The bash skill is a warrior talent, a brute-force attack designed to knock
+your foe to his knees.  Its success depends on many factors, including the
+bash rating, your weight, and the size of your opponent.  Bashing a dragon
+is not generally a wise idea.
+~
+
+-1 BERSERK~
+Only powerful warriors can master berserking, the ability to enter insane rage
+in combat.  Its effects are not altogether unlike the frenzy spell -- a huge
+surge of combat prowess, coupled with a disregard for personal safety.  
+Berserking warriors are more resistant to the effects of magic.
+~
+
+-1 DIRT 'DIRT KICKING'~
+Consider by some to be a cowardly skill, dirt kicking gives the clever 
+combatant a chance to blind his opponent by casting dirt into his eyes.  The
+blindness does not last long, but can provide an edge in combat.  Dexterity
+helps in hitting or avoiding a dirt kick.  Only warriors and thieves may
+learn this skill.
+~
+
+-1 DISARM~
+Disarm is a somewhat showy and unreliable skill, designed to relieve your
+opponent of his weapon.  The best possible chance of disarming occurs when you
+are skilled both your own and your opponent's weapon. Only talented thieves
+and warriors may learn this skill.
+~
+
+-1 DODGE~
+In the words of one wise warrior, 'the best way to block a blow is to not
+be where it lands'.  The dodge skill honors this tradition, by improving the
+character's natural agility to the point where many blows will miss the 
+target. The chance of dodging is also affected by the dexterity of the
+attacker and the target.  Any class may learn dodging.
+~
+
+-1 'ENHANCED DAMAGE'~
+Warriors and skilled thieves can become skilled enough in combat that they are
+able to inflict more damage than other classes.  Enhanced damage is checked
+for with each hit, although with a low skill, the chance of receiving a bonus
+is very low indeed.
+~
+
+-1 ENVENOM~
+The envenom skill is a cowardly skill practiced only by thieves, designed to
+win a battle through alchemy and treachery rather than skill or strength.
+Or, put another way, it's a skill used by the smart to kill the foolish.
+Food, drink, and weapons may be envenomed, with varying effects. Poisoned
+food or drink puts a mild poison spell on the consumer, and is unlikely to
+be more than a minor inconvenience (after all, the typical adventurer could
+drink sewer water with only a trace of the runs).  A poisoned weapon, on
+the other hand, can inflict serious damage on an opponent as the poison 
+burns through his bloodstream.  But be careful, blade venom evaporates 
+quickly and is rendered almost powerless by repeated blows in combat.
+~
+
+-1 'HAND TO HAND'~
+Hand to hand combat is a rare skill in the lands of Exodus.  Learning this
+style of fighting gives the player a weapon even when disarmed -- bare hands.
+Trained hand to hand experts are far more effective than many swordsmen.
+Clerics and warriors are the best at this skill, although thieves and mages
+may also learn it.
+~
+
+-1 KICK~
+Kicking allows the adventurer to receive an extra attack in combat, a powerful
+kick. However, a failed kick may throw an unwary fighter off balance.  Fighters
+and clerics are the most skilled at kicking, although thieves may also learn
+it.
+~
+
+-1 PARRY~
+If at first you fail to dodge, block it.  Parry is useful for deflecting 
+attacks, and is successful more often than dodge.  Parry requires a weapon for
+full success, the hand-to-hand skill may also be used, but results in reduced
+damage instead of no damage.  The best chance of parrying occurs when the
+defender is skilled in both his and his opponent's weapon type.
+~
+
+-1 RESCUE~
+A friend in need is a friend indeed.  And when in combat, a warrior with
+the rescue skill is just the friend you need.  Rescue allows you to intercede
+in combat, protecting weaker characters from bodily harm. Hopefully the
+favor will be returned.  Success in rescuing depends on the skill rating, as
+well as a comparison of level, dexterity, and speed between the character and
+the target. (note: you rescue a friend, not the monster)
+~
+
+-1 ELUSIVENESS~
+Syntax: flee <direction(s)>
+
+The elusiveness skill allows theives to slip out of combat in a specified 
+direction without an experience penalty when using flee with a directional 
+argument (which may consist of a single direction such as 'n', or a string of
+two directions 'ns', or 'nd').  If the thief fails to elude his enemy in
+a controlled manner, there is still a chance he or she may flee in a random
+direction.
+~
+
+-1 RETREAT~
+Syntax: retreat <direction>
+
+The retreat skill allows trained warriors to retreat from battle in a specific
+direction without an experience penalty.  If the warrior fails to retreat
+in a mannerly fashion, there is still a chance he or she may flee in a random
+direction.
+~
+
+-1 TRIP~
+Back by popular demand.  Trip is a somewhat dastardly attack, and involves
+using any one of a number of methods to bring your opponent down to the ground.
+Tripping large monsters is generally not a good idea, and agile ones will
+find the attack easy to avoid.  
+~
+
+-1 'SECOND ATTACK'~
+Training in second attack allows the character a chance at additional strikes
+in combat -- allow a 100% second attack does NOT guarantee 2 attacks every
+round.  
+~
+
+-1 'THIRD ATTACK'~
+Training in third attack allows the character a chance at an additional strike
+in a combat, and increases the chance of a second attack as well.  Perfect
+third attack does NOT assure three attacks per round.  Only warriors and highly
+skilled thieves may learn this skill.
+~
+
+-1 HIDE SNEAK~
+Hide and sneak are similar skills, both related to remaining undetected.
+Hide has a very high chance of success, but only works for as long as the
+character remains stationary.  Sneak may be used when moving (including to
+sneak by monsters), but has a lower chance of success.  Only bards and
+thieves may learn these skills.
+~
+
+-1 'FAST HEALING'~
+The fast healing skill improves wound healing rates, whether walking, resting,
+or sleeping. It represents knowledge of healing herbs or just general 
+toughness and stamina.  Fast healing is checked every tick, and it is 
+possible for it to fail.  All class may learn this skill, but mages find it
+very difficult to master, due to their bookish lifestyle.
+~
+
+-1 LORE~
+Lore is a general skill, consisting of knowledge of myths and legends. Use
+of the lore skill gives a chance of obtaining information on an object,
+concerning its power and uses.  It also may occasionally increase the value
+of an object, because more will be known about its worth.  All classes may
+learn lore, although thieves are best at it, and warriors find it very hard
+to use.
+~
+
+-1 HAGGLE HAGGLING~
+Haggling is an indispensable skill to the trader.  It allows a character to
+match wits with a merchant, seeking to get a better price for merchandise,
+or to buy at the lowest possible cost.  Unfortunately, most merchants are 
+already very skilled at haggling, so the untrainined adventurer had best 
+guard his treasure closely.  Thieves are natural masters at haggling, 
+although other classes may learn it as well.
+~
+
+-1 PEEK~
+The peek skill is useful for seeing what a player or monster is carrying,
+the better to use the steal command with.  More intelligent characters are
+harder to peek at.  All characters may learn peek, but thieves are the most
+common practitioners.
+~
+
+-1 SWIM SWIMMING DROWN DROWNING~
+Much of the world of Exodus is covered by water.  Seas, oceans, streams, and 
+rivers divide the land masses making it difficult, if not impossible, for 
+adventurers to get from place to place.  The safest way to cross the largest
+bodies of water is via a boat.  It is possible for adventurers to become
+skilled in swimming, however, allowing them to cross medium distances of
+water on their own.  There are also creatures that roam the waters of Exodus
+that are capable of swimming for the adventurer, if he or she is smart or
+lucky enough to catch one.  No matter how skilled an adventurer becomes at
+swimming, though, there is a limited amount of time in which the swim skill
+is effective.  As in real life, your character becomes tired of the movement
+required to keep afloat and will begin to sink under and drown.  It is wise
+for even the most excellent swimmers to avoid venturing out too far into
+unknown waters.
+
+See also [help underwater]
+~
+
+-1 UNDERWATER~
+There are areas in the world of Exodus that are entirely submerged in water.
+Travelling to these areas can prove difficult, if not suicidal, for most 
+adventurers.  Like you, your character can only live without oxygen for a
+short period of time without beginning to drown.  As no oxygen is directly
+available to air-breathing races under water, your adventurer will need
+some sort of aid to remain underwater for long periods of time.  There
+are magical spells and items strewn about the world of Exodus that make it 
+possible to breathe  underwater for a longer period of time.
+
+See also [help drowning]
+~
+
+-1 PICK 'PICK LOCK'~
+Lock picking is one of the prime skills of thieves, allowing them to gain
+access to many secured areas.  Lock picking chances are improved by  
+intelligence, and hindered by the difficulty of the lock. Other classes may
+learn to pick locks, but they will never find it easy.
+~
+
+-1 MEDITATION~
+This skill is similar to fast healing, but relies on the concentration and
+mantras to increase mana recovery when the character is sleeping or resting.
+~
+
+-1 STEAL~
+Theft is the defining skill of the thief, and is only available to that class.
+It allows items to be stolen from the inventory of monsters and characters,
+and even from shops!  But beware, shop keepers guard their merchandise 
+carefully, and attempting to steal from a character earns you a THIEF flag
+if you are caught (making you free game for killing).
+~ 
+
+-1 SING SINGING SONG SONGS~
+Syntax: sing <song name> [target]
+
+   The sing command is the primary means by which bards harness magic.
+As in real life, a bard must practice a song quite a bit before he or she can
+master its full power.  The more you practice a song, the greater the chances
+of you performing it correctly.  Singing songs costs mana, though the
+cost of mana per song decreases as your level increases.  If the song name
+is more than one word, you must quote the spell name.  Exampe:
+sing 'Ballad of Ole Rip' Ragnar.  Quoting is optional for single-word songs.
+You can abbreviate the song name as long as the abbreviation used is unique
+to one song.
+
+See also the help sections for individual songs, play and instruments.
+~
+
+
+-1 'DETECT GOOD'~
+Syntax: pray 'detect good'
+ 
+This prayer enables the caster to detect good characters, which will
+reveal a characteristic golden aura.
+~
+
+-1 'DISPEL GOOD'~
+Syntax: pray 'dispel good' <victim>
+ 
+Dispel good brings forth evil energies that inflict horrific torment on 
+the pure of heart.  Good-aligned characters use this dark prayer at their
+peril.
+~
+
+
+-1 'RECHARGE'~
+Syntax: cast 'recharge' <item>
+
+The recharge spell is used to restore energy to depleted wands and staves.
+Fully exhausted items cannot be recharged, and the difficulty of the spell
+is proportional to the number of charges used.  Magic items can only be
+recharged one time successfully.
+~
+
+-1 'DEMONFIRE'~
+Syntax: pray 'demonfire' <target>
+
+Demonfire is a prayer of blackest evil, and as such can only be used by those
+who follow the paths of darkness.  It conjures forth demonic spirits to 
+inflict terrible wounds on the enemies of the adventurer.
+~
+
+-1 'RAY OF TRUTH'~
+Syntax: pray 'ray of truth' <target>
+
+Ray of truth opens a portal to the planes of positive energy, bringing forth
+a beam of light of sufficient purity to harm or or annihilate the servants
+of evil.  It cannot harm the pure of heart, and will turn and strike 
+clerics who are tainted by evil.
+~
+
+-1 'PORTAL'~
+Syntax: cast 'portal' <target>
+
+The portal spell is similar to gate, but creates a lasting one-way portal
+to the target creature, instead of transporting the caster.  Portals are
+entered using 'enter' or 'go' command, as in 'go portal'.  Portals cannot
+be made to certain destinations, nor used to escape from gate-proof rooms.
+Portal requires a special source of power to be used, unfortunately the
+secret of this material component has been lost...
+~
+
+-1 'NEXUS'~
+Syntax: pray 'nexus' <target>
+
+This prayer is virtually identical to portal (see 'help portal'), with the
+only difference being that while portal creates a one-way gate, a nexus 
+prayer makes a two-sided gate.  It also lasts longer than the lower-powered
+portal spell.  Both spells require an additional power source, the secret
+of which has been lost...
+~
+
+-1 'HEAT METAL'~
+Syntax: cast 'heat metal' <target>
+
+Heat metal is a powerful clerical attack spell, with effects that vary 
+according to the armor of the victim.  It heats up the metal equipment
+(assumed to be all weapons and armor at this point in time) on the target,
+causing him or her to drop them if possible, taking serious burns in the
+process (possibly fatal if the equipment is too heavy to remove easily).
+This spell does no damage to creatures who are immune to fire.
+~
+
+-1 'HOLY WORD'~
+Syntax: pray 'holy word'
+
+Holy word involves the invocation of the full power of a cleric's god, with
+disastrous effects upon the enemies of the priest coupled with powerful
+blessings on the priest's allies.  All creatures of like alignment in the
+room are blessed and filled with righteous divine wrath, while those of
+opposite morals (or both good and evil in the case of neutral priests)
+are struck down by holy (or unholy might) and cursed.  The cleric suffers
+greatly from the strain of this prayer, being left unable to move and 
+drained of vitality.  Experience loss is no longer associated with the spell.
+~
+
+-1 FRENZY~
+Syntax: pray 'frenzy' <target>
+
+The frenzy prayer fills the target with righteous fury, greatly increasing
+his or her attack skill and damaging capacity.  Unfortunately, this divine
+wrath is coupled with a tendency to ignore threats to personal safety, 
+making the character easier to hit.  Frenzy provides immunity to the calm
+prayer (see 'help calm'), and may only be used on those of the cleric's 
+alignment.
+~
+
+-1 CALM~
+Syntax: pray 'calm' 
+
+One of the most useful and often overlooked abilities of the master cleric is
+the calm prayer, which can put an end to all violence in a room.  Calmed
+creatures will not attack of their own volition, and are at a disadvantage
+in combat as long as the spell soothes their minds.  The more violence 
+activity there is in a room, the harder the spell, and it is all or nothing --
+either all combat in the room is ended (with the exception of those who
+are immune to magic) or none is.
+~
+
+-1 HASTE~
+Syntax: cast 'haste' <target>
+
+The haste spell increases the speed and agility of the recipient, allowing
+an extra attack (or even a backstab) in combat, and improving evasive
+abilities in combat.  However, it produces a great strain on the system,
+such that recuperative abilities are halved.  Haste is capable of negating
+the slow spell. (see 'help slow').
+~
+
+-1 SLOW~
+Syntax: cast 'slow' <target>
+
+Despite popular mythology, slow is not the opposite of haste, but is a spell
+with it's own unique set of effects.  When cast on an unfortunate victim,
+it slows its movements, making it easier to hit and reducing its rate
+of attack.  The effect of slow also double movement costs and halve healing
+rates, due to reduced metabolism.
+~
+
+-1 PLAGUE~
+Syntax: pray 'plague' <target>
+
+The plague prayer infests the target with a magical disease of great virulence,
+sapping its strength and causing horrific suffering, possibly leading to
+death.  It is a risky prayer to use, as the contagion can spread like
+wildfire if the victim makes it to a populated area.
+~
+
+-1 'CREATE ROSE'~
+Syntax: cast 'create rose'
+
+A romantic spell that creates a fragrant red rose, which charms and delights
+its recipient.
+~
+
+-1 'PROTECTION GOOD' 'PROTECTION EVIL'~
+Syntax: pray 'protection evil' <target>
+	pray 'protection good' <target>
+
+The protection prayers reduce damage taken from attackers of the appropriate
+ethos, and improve saving throws against all forms of magic. They may not
+be prayed upon others, and one person cannot carry both defenses at the same
+time.
+~
+0 'GIANT STRENGTH'~
+Syntax: cast 'giant strength' <character>
+ 
+This spell increases the strength of the target character.
+~
+
+-1 'CHAIN LIGHTNING'~
+Syntax : cast 'chain lightning' <target>
+
+Chain lightning is a deadly spell, producing a powerful bolt of lightning
+that arcs from target to target in the room, until its force is fully
+expended.  Allies of the caster may be hit by this spell if they are members 
+of a clan, while the caster himself will not be struck unless no other
+viable target remains.  Chain lightning is most effective when used on
+groups of creatures.
+~
+
+-1 FARSIGHT~
+Syntax: cast 'farsight'
+	cast 'farsight' <direction>
+
+The farsight spell expands the caster's consciousness, allowing him or her
+to see far away beings like they were in the same room.  It takes intense
+concentration, often leaving the caster helpless for several minutes.
+The spell may be used for a general scan that reaches a short distance in
+all directions, or with a directional component to see creatures much
+farther away.
+~
+
+-1 MASS HEALING~
+Syntax: pray 'mass healing' 
+
+The mass healing prayer, as its name might suggest, performs a healing spell
+on all players in the room.  It also throws in a refresh for good measure.
+~
+
+-1 'FLOATING DISC'~
+Syntax: cast 'floating disc'
+
+This useful spell creates a floating field of force which follows the caser
+around, allowing him or her to pile treasure high with no fear of weight
+penalties.  It lasts no more than twice the casters level in hours, and
+usually less.  It can hold 10 pounds per level of the caster, with a 
+maximum of five pounds per item.  The spell requires an open float location
+on the character, and the only way to remove the disc is to die or allow it
+to run out of energy.
+~
+
+-1 FIREPROOF~
+Syntax: cast 'fireproof' <object>
+
+The fireproof spell creates a short-lived protective aura around an object,
+to protect it from the harmful effects of acid and flame.  Items protected
+by this spell are not harmed by acid, fire, or the heat metal spell.
+Although inexpensive to use, the spell's short duration makes it impractical
+for protecting large numbers of objects.
+~
+
+-1 ALIAS UNALIAS~
+Syntax: alias
+	alias <word>
+	alias <word> <substitution>
+	unalias <word>
+
+The alias command allows limited shortening of command names.  At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+Alias by itself lists your current aliases, Alias <word> lists the alias with 
+that name (if such exist), and alias with both a word and and argument 
+produces a new alias.  You cannot alias either alias or unalias to a new
+command.  Examples of use:
+
+alias gc get all corpse --> typing gc will equal typing 'get all corpse'
+alias ff cast 'fireball' --> ff orc will equal 'cast 'fireball' orc'
+
+Only the first word on the line will be substituted at this time.
+~
+
+-1 RIDING~
+The riding skill determines a character's proficiency in using animals as
+a means of transportation.  Adventurers with a high degree of riding skill
+will be much less likely to be thrown from mounted animals.  Those of any
+class may learn to ride.  Rangers, with their vast knowledge of the wild, 
+are particularly adept at riding.
+~
+
+-1 TAME~
+The majority of animals roaming the lands of Exodus are by no means domestic
+and will prove to be too unwieldy should you try exploit them as means
+of transportation.  The tame skill, which can only be truly mastered by
+the ranger class, allows the adventurer to train the animal to be more 
+receptive to transporting characters.
+~
+
+-1 CIRCLE~
+A particularly devious variation of backstab, the circle skill allows an
+adventurer who is part of a larger group to orbit around the scene of the
+battle and thrust their weapon into the back of an unsuspecting enemy.
+No matter how stealthy the player, an attempt to circle around the
+enemy currently being fought one-on-one will be subverted.  Only the
+devious members of the thief class can master this skill.
+~
+
+-1 CHARGE~
+A skill reserved for those with the bulk and brute strength of the warrior
+class, charging allows an adventurer to storm quickly through a room in an
+attempt to injure and knock down as many enemies as possible.  Due to the 
+mindless rage involved with charging, innocent bystanders are just as likely 
+to be hit as are enemies of the player.
+~
+
+-1 FISTICUFFERY~
+Adventurers highly skilled in the art of fisticuffery have learned where
+and how to most effectively strike an enemy when fighting with their bare
+hands.  As this fighting style often involves attacks thought to be without
+honor, thieves are the most proficient with fisticuffery though it may also 
+be learned by warriors and bards.
+~
+
+-1 SWEEP~
+The sweep skill is a highly evolved variation on kick.  An adventurer
+skilled in this art can sweep their leg in a wide arc during combat,
+adding an extra, powerful attack to their standard repertoire.  Though
+masters in the art of sweeping can manage to avoid those known to be allies
+with this attack, the wide angle of this strike may hit innocent bystanders in
+addition to those the player is seeking to destroy.  Only warriors and
+paladins can learn to master the sweep maneuver.
+~
+
+-1 LEADERSHIP~
+An exclusive trait of the holy paladin, the leadership skill instills a sense 
+of pride and morale in all members of a group the adventurer is leading into
+battle.  Because of their increased confidence in their ability to win the 
+fight, characters lead by those who have mastered this art are more likely to
+hit, and will often cause an increased amount of damage, to their enemies.
+~
+
+-1 'DOOR BASH' 'DOORBASH'~
+Warriors who are skilled in the ways of smashing down doors have the distinct 
+advantage of not having to acquire and carry around most keys to the doors of 
+Exodus.  Be forewarned, however, that a bashed door remains open and unlocked 
+to all of the inhabitants of Exodus, not simply the adventurer who performed 
+the bashing.  
+~
+
+-1 THROWING~
+The ability to effectively throw suitable weapons at far-away enemies allows
+adventurers to injure with less chance of a counter-attack from the victim
+of the assault.  Thieves are particularly good at this skill though mages,
+warriors and bards may also learn.  Whether or not you think throwing weapons 
+from afar is cowardly or genius depends greatly on whether you are the thrower
+or throwee.
+~
+
+-1 INSTRUMENTS~
+The ability to coax an inanimate object into creating beautiful melodies
+is the exclusive domain of the bard class.  Practiced bards who are skilled
+in the art of playing instruments not only fill the realm of Exodus with
+their elegant music, they are also able to harness the power of their songs
+to perform amazing feats of magic.
+~
+
+-1 CONCEAL~
+A skill that comes easily to the devious thief, the nature-aware ranger
+and the worldly bard, concealing allows the adventurer to mask their scent.
+Those who cannot mask the scent of their presence will find themselves more
+likely to be tracked down by other adventures and the wild creatures that
+roam the realms of Exodus.
+~
+
+-1 BUTCHER~
+A skill most easily honed by the nature-loving ranger, the act of butchering
+allows the player to take the raw meat of dead corpses and extract
+edible provisions.  This skill is also known to some adventurers of the 
+warrior and paladin classes.
+~
+
+-1 ENDURANCE~
+The endurance skill has been learned and perfected by those in the ranger
+class over countless centuries in the realms of Exodus.  Long, hermetic
+sabbaticals into the wild have taught these adventurers to conserve 
+their energy, using up their reserves at a much slower rate and surviving
+for longer periods of time without the sustenance of food or water.
+~
+
+-1 REDIRECT~
+The skill of redirection allows adventurers to reposition themselves in 
+battle so that their attacks are directed against a victim other than the 
+current one-on-one enemy without the need of fleeing or otherwise stopping 
+the battle.  Redirection can only be used on those enemies that the adventurer
+is already fighting.  Because they may be physically out-of-reach during the 
+battle it cannot be used to start completely new attacks on another opponent.
+Characters of the thief, warrior and ranger classes may learn the proper
+methods of redirection.
+~
+
+-1 UPPERCUT~
+The uppercut skill allows you to deliver a powerful uppercut assault on your
+opponent as an extra attack during combat.  Those who are proficient in
+the art of hand-to-hand combat and are also well practiced with uppercut
+will deliver particularly damaging blows to their enemies.  Those who overuse
+uppercut without the proper training, however, are apt to over-stretch the
+muscles in their arms, causing temporary loss of strength.
+~
+
+-1 KAI~
+The kai skill, available only to thieves, allows the practiced adventurer
+to let out such a nerve-wracking scream that it can cause an immense,
+immobilizing fear in the victim it is directed towards.
+~
+
+-1 'DUAL WIELD'~
+The ability to wield two weapons, a skill which may be practiced by
+warriors and rangers, vastly increases an adventurer's maneuverability
+and flexibility in combat situations.  A major benefit of learning this skill 
+is that it increases the amount of hits the adventurer can perform and betters,
+by diversifing the types of weapons used, the chances that the weapons on 
+hand will be effective against any enemy the adventurer may encounter.
+~
+
+-1 LAYHANDS~
+Lay hands is a unique skill that may only be mastered by the paladin class.
+It is a special ability that paladin adventurers are granted that allows 
+them to lay their hands over the wounds of specified target, mend wounds 
+and recover a large amount of hit points.  Due to the enormous power required 
+for this healing to occur, the paladin may only attempt such a healing once 
+per day.
+~
+
+-1 TRAMPLE~
+The trample skill, which is available to rangers and paladins, allows an
+adventurer that is mounted on a transportation animal to cause the animal
+to stomp around madly in an attempt to hit an enemy.  If the specified
+enemy is unfortunate enough to be hit by the adventurer's mount, he
+or she will be wounded.   The larger the enemy is, the easier it is to 
+guide the animal into trampling them.
+~
+-1 BLINDFIGHTING~
+The blindfighting skill, available to both warriors and paladins, when
+carefully honed allows the adventurer to be more aware of what is happening
+during a battle when blinded.  A player skilled in blindfighting is able
+to compensate for the lack of sight by using his or her other senses.  This
+compensation greatly increases the chances that the player will hit an
+enemy while blinded and that if the hit does occur, it will cause more damage.
+~
+
+-1 STALK~
+The stalk skill is the exclusive domain of the stealthy thief class.
+An adventurer skilled in the art of stalking is able to automatically
+follow another player through the realms of Exodus  without being seen or 
+otherwise detected.
+~
+
+-1 FISHING~
+The oceans and other bodies of water in the realms of Exodus are vast and 
+teeming with aquatic life.  Those skilled in the art of fishing are able to
+use their wits to trap fish and other sea creatures to be eaten.  While all 
+classes are able to learn to fish, rangers are particularly well suited for
+perfecting this art.
+~
+
+-1 FORAGING FORAGE~
+A skill reserved for the ranger in tune with nature, foraging allows
+the player to sharpen his or her senses to the point where they can find
+edible substances in the wild areas of Exodus.  Rangers who are highly skilled
+may also find curative or healing herbs.
+~
+
+-1 INFLUENCE~
+Influence allows adventurers to beguile those around them and convince
+them to part with money in one form or another.  Those skilled in the
+art of influential mannerisms can convince merchants to give them better
+prices for merchandise.  Bards, with their propensity for being highly
+charismatic, are masters of the influence skill and may also use it to
+receive donations from those they perform originally-composed songs to.
+Paladins may also use this skill, though they may only use it to
+lower the cost of goods.
+~
+-1 MIRROR~
+A deceptive spell known only to the craftiest of mages, the mirror spell's
+reputation alone can evoke feelings of consternation and distrust from even
+those closest to the magic-wielder.
+
+The spell, when cast, calls forth a liquid wall of reflective energy around
+the caster, only visible by magical means.  Any who attempt to strike the
+caster via mundane means will find themselves striking at air, and then
+themselves, often resulting in confusion, hysteria, or suicide.
+
+Although this powerful field cannot be penetrated by physical means,
+the powers of the supernatural can easily pass through to cause harm to
+the mage.  High-pitched noises can shatter the field, and any magical
+energy released from within the field will instantly destroy it as well.
+
+~
+
+-1 'CALL MOUNT'~
+The call mount skill, known only to the paladin class, allows an adventurer
+to call forth an animal that is ready and willing to act as a mount for
+the player.  As an adventurer's level increases, so do the chances that
+he or she will summon a more powerful mount.
+~
+
+-1 PALM~
+An underhanded trick best learned by the dextrous thief, the palm skill
+allows a player to take an object that is lying in the current room
+with the possibility of the action not being see by others in the room.
+~
+
+-1 MOUNT MOUNTS MOUNTING~
+Syntax: mount <creature>
+Syntax: dismount
+
+It is sometimes difficult for an adventurer to walk across the vast realms
+of Exodus.  This problem can usually be alleviated by making use of the
+mountable animals that exist throughout the land.  Many shops are available
+for the purpose of trading in mountable animals, and there also exist stables
+that allow you to board your animals, for a fee.  As you move around
+while on a creature, only your mounted creature will become tired.  Mounted
+creatures may not be taken everywhere, however, as the terrain you enter
+may be unsuitable for their structure.
+
+See also stable, tether, untether, tame.
+~
+
+-1 TRANSPORTS~
+Many different types of transportation exist to aid you in getting from place
+to place within the realms of Exodus.  There are mounts that you may ride
+through the land, water and air;  boats and rafts that you may use to cross 
+water; and wagons and primitive forms of mass transportation that can ferry
+you across large  areas of land.  Not to mention the various magical forms
+of transportation that are available.
+
+See also [help boats] and [help mounts].
+~
+
+-1 'WALL OF THORNS'~
+Syntax: create 'wall of thorns' (direction)
+
+A skill reserved for the ranger class, wall of thorns allows an adventurer
+to construct a dangerous structure at the entrance/exit of a room.  Once
+such a wall has been created, players who attempt to enter or exit the room
+in the direction in which the wall has been constructed will be harmed
+by the sharp thorns.  
+~
+
+0 FIRESHIELD~
+Syntax: cast fireshield <character>
+
+The fireshield spell creates a protective wall of fire around the character
+that may cause harm to those who touch the character, whether it be in
+combat or by other acts such as attempting to push or drag the character.
+~
+
+0 WEB~
+Syntax: cast web <character>
+
+This spell creates a stick mass of webs upon the character, making it
+temporarily impossible for him or her to move around, engage in combat, etc.
+~
+
+0 'BEE STING'~
+Syntax: cast 'bee sting' <character>
+
+This spell allows the caster to call forth a bee which will perform a harmful
+sting upon the character.
+~
+
+0 'BEE SWARM'~
+Syntax: cast 'bee swarm' <character>
+
+A much more powerful form of the bee sting spell, this spell calls forth
+an entire swarm of bees who will attack the character.  Due to the massive
+amount of bee stings that could occur in this situation, there is a small
+chance that the victim will have an allergic reaction to the stings and
+die instantly.
+~
+
+0 'HERBAL LORE'~
+Syntax: cast 'herbal lore' <character>
+
+The ranger-only herbal lore spell allows the character who casts it a chance
+to heal damage by finding medicinal herbs and feeding them to the
+character.
+~
+
+0 'CURE DISEASE'~
+Syntax: pray 'cure disease' <character>
+
+The cure disease prayer allows sufficiently powerful clerics to heal those
+who are afflicted by the dreaded plague.
+~
+
+0 EVOCATION~
+Syntax: pray evocation <character>
+
+The evocation prayer allows powerful clerics to summon forth players in
+any part of the world to them.  This prayer has no effect on monsters and
+other non-player characters.
+~
+
+0 'HEAVENLY CLOAK'~
+Syntax: pray 'heavenly cloak'
+
+An extremely powerful prayer, the heavenly cloak allows a cleric to call
+upon his or her god to make all adventurers in the same room and 
+grouped with the cleric invisible.
+~
+
+0 'SOUL FIRE'~
+Syntax: pray 'soul fire' <character>
+
+The soul fire prayer allows the cleric to call forth the power of the gods
+to inflict a type of curse upon the character, making him or her easier
+to be hit in combat.
+~
+
+0 'HALLOWED VISION'~
+Syntax: pray 'hallowed vision'
+
+The hallowed vision prayer calls down a holy light from the heavens and 
+brightly illuminates the room you are in, revealing all life in the room.
+~
+
+0 'CELESTIAL SIGHT'~
+Syntax: pray 'celestial sight' <object>
+
+The prayer of celestial sight allows a cleric to call upon their all-knowning
+god in order to learn the location of objects in the world.
+~
+
+0 SUSTENANCE~
+Syntax: pray sustenance
+
+Praying for sustenance allows clerics to create a magical form of food
+that can be eaten to satisfy their hunger.  As the food created is not
+water-tight, praying for sustenance while underwater may prove to be
+fruitless.
+~
+
+0 'HOLY WATER'~
+Syntax: pray 'holy water'
+
+The prayer of holy water allows the cleric to call forth a divine spring
+of water that all passers-by may use to quench their thirst.  As many water
+sources of Exodus are not fit for consumption, praying for holy water while
+underwater will not result in any drinkable water.
+~
+
+0 'REVELATION'~
+Syntax: pray revelation <object>
+
+The prayer of revelation allows the skilled cleric to call upon his or her
+god to give more information on an object that the adventurer has found
+while travelling. 
+~
+
+0 LEVITATION~
+Syntax: pray levitation <character>
+
+The levitation prayer allows the cleric to bring forth holy magic that
+allows the character to float on air, as if transformed into a winged 
+angel.
+~
+
+0 'HEROES FEAST'~
+Syntax: pray 'heroes feast'
+
+The heroes feast prayer allows clerics to call upon their gods to supply
+them and all those in their group with sumptuous feast that quenches
+their thirst and satiates their need for food.
+~
+
+0 'AQUA BREATHE'~
+Syntax: cast 'aqua breathe'
+
+The aqua breathe spell allows mages to magically reshape their lungs so that
+they can process oxygen from water, allowing them to go underwater for 
+long periods of time without drowning.
+~
+
+0 'CHANNEL ELECTRICITY'~
+Syntax: cast 'channel electricity' 
+
+A mage's spell that is only truly effective while submerged in water, channel 
+electricity allows the adventurer to call upon the charged ions in water
+and release them in a concentrated form, causing damage to those who
+surround the mage.
+~
+
+0 'ICE BEAM'~
+Syntax: cast 'ice beam' <character>
+
+The ice beam spell allows skilled mages to chill the water surrounding them,
+causing dangerous beams of ice that may be used to harm the adventurer's
+enemies.
+~
+
+0 'ELECTRICAL CHARGE'~
+Syntax: cast 'electrical charge' <character>
+
+A more focused version of channel electricity, the electrical charge spell
+allows the mage to concentrate a bolt of electricity at a single enemy when
+submerged underwater.
+~
+
+0 'BALLAD OF OLE RIP'~
+Syntax: sing 'ballad of ole rip' 
+
+An extremely powerful bard's tune, Ballad of Ole Rip causes the characters
+surrounding the adventurer who sings it to fall into a deep sleep from
+which they cannot wake until the power of the melody wears off.
+~
+
+0 'DANCE OF SHADOWS'~
+Syntax: sing 'dance of shadows' <character>
+
+A powerful song available to bards, the dance of shadows is so haunting that
+it completely disrupts the sleep of those who it is cast upon, causing
+them nightmares that prohibit further sleep.
+~
+
+0 'QUIET MOUNTAIN LAKE'~
+Syntax: sing 'quiet mountain lake'
+
+The song of Quiet Mountain Lake instills a deep calm in all those who hear
+it, making them unable to act as aggressors until the serenity instilled
+by the songs melody has worn off.
+~
+
+0 'THE PIPERS MELODY' PIPER PIPERS~
+Syntax: sing 'the pipers melody'
+
+A song for the skilled bard, Piper's Melody compels those who hear it
+to be so taken by the adventurer's charisma that they are willing to follow
+him or her anywhere.
+~
+
+0 'KISS OF FIRST LOVE'~
+Syntax: sing 'kiss of first love' <character>
+
+The Kiss of First Love song allows the bard to evoke the memory of a
+character's first kiss of love, rejuvenating the character causing him or
+her to be less tired and feel less pain of wounds.
+~
+
+0 'DESPAIR OF ORPHEUS'~
+Syntax: sing 'despair of orpheus' <character>
+
+This haunting tune causes such a great amount of despair and anguish in the
+person it is sung to that it causes them to slip into a depression that
+makes them easier prey against magic and distracts them such that the
+chances that they will hit their enemies in combat are reduced.
+~
+
+0 'TO THE FOUR CORNERS'~
+Syntax: sing 'to the four corners' <character>
+
+An extremely powerful tune, To The Four Corners allows the bard who sings
+it to harness enough magic to scatter the members of a character's group
+all throughout the realms of Exodus.
+~
+
+0 'PATH OF THE NOMAD'~
+Syntax: sing 'path of the nomad' <character>
+
+The Path of the Nomad song allows a highly skilled bard to break up the
+cohesion of any group of adventurers that the character may belong to.
+~
+
+0 'FALKENTYNES FURY'~
+Syntax: sing 'falkentynes fury' <character>
+
+The song of Falkentynes Fury allows charismatic bards to inspire the
+character to greater feats of strength in combat.  Though this inspired rage
+makes the character a much more deadly enemy, it also opens the character
+up for more damage as he or she is blinded by the rage and less able to
+worry about his or her own survival.
+~
+
+0 'WALKING ON CLOUDS'~
+Syntax: sing 'walking on clouds' <character>
+
+The song of Walking on Clouds allows the bard to lighten the heavy feet of
+those who it is sung to, allowing them to literally float on air for a time.
+~
+
+0 'GOOD VIBRATIONS'~
+Syntax: sing 'good vibrations' 
+
+The tune of Good Vibrations is so loud and harsh that it causes the earth 
+to shake, injuring other characters that are in the vicinity of the
+bard who is singing it.
+~
+
+0 'BARK SKIN'~
+Syntax: cast 'bark skin'
+
+The bark skill spell allows the skilled ranger to call upon natural magic
+that causes his or her skin to become as hard as the bark of ancient
+trees.  When in this state, the ranger is able to absorb attacks better,
+thereby taking less damage when hit.
+~
+
+0 RENEWAL~
+Syntax: pray renewal <character>
+
+This prayer asks the cleric's deity to send him waves of refreshing, ionized
+energy, which the cleric channels into the target to ease the weariness
+of travel.
+~
+0 HAVEN~
+Syntax: pray 'haven'
+
+A powerful protective spell, haven calls upon the cleric's god to provide
+a temporary location of safety where the adventurer and those is his or her
+group can go to hide from their enemies.
+~
+0 'DIVINE PROTECTION'~
+Syntax: pray 'divine protection'
+
+The prayer of divine protection, when correctly prayed,  causes a cleric's 
+god to look kindly upon the adventurer and to protect him or her from
+the attacks of the enemy, both conventional and magical.
+~
+
+0 'EYES OF THE OWL'~
+Syntax: cast 'eyes of the owl'
+
+A magical extension of a ranger's oneness with nature, the Eyes of the Owl
+spell allows the adventurer to see in the dark.
+~
+
+0 WANTED JUSTICE~
+Realizing that a perception of thievery and rampant murder would be harmful to
+their businesses, a coalition of merchants have pressured the local governments
+into enacting and enforcing a code of law within the cities of Exodus.  In
+particular, stealing from or killing another adventurer has been outlawed.
+If any players you are trying to steal from catch you in the act, they
+will let out a scream that the city guards will hear and you will become 
+wanted.  Similarly, if you kill any other players while within the city walls,
+it is certain that some townspeople will see what you have done and report
+you to the guards.  A wanted player loses all refuge and will be pulled into
+jail, or attacked, upon being see by the guardsmen of the city.  Crimes do have
+a statute of limitations whose time period is increased the more you become
+wanted.  When arrested, your time in jail will also grow the more you are
+caught committing crimes.
+
+See also: LAWS COURT
+~
+
+95 JAIL~
+Syntax: jail <player>
+
+The jail command currently throws a player into the Thesden jail, regardless 
+of his or her location in the world of Exodus.  As when jailed by cityguards,
+their belongings are donated into the donation box in Thesden.  Once jailed,
+you may customize a player's jail time by using the command 'set char <player>
+jailed <ticks>'.
+~
+
+0 BOAT SAIL SAILING ROW ROWING PADDLE PADDLING BOATS~
+Syntax: sail <direction>
+Syntax: row <direction>
+Syntax: paddle <direction>
+
+
+    The world of Exodus is covered by many different bodies of water ranging
+from small streams to mighty oceans.  While swimming is sufficient to cross
+some of these areas, the larger spans of water require boats for travel. 
+The easiest, though most expensive, way to procure a boat is through a boat
+seller.  Boat sellers may be found in most port cities, near the water's
+edge.  Once you buy your boat, the boat seller will supply you with a map
+to the dock on which your boat can be found.  Once you arrive at your boat's
+location, you may enter the boat and begin to move it around on the water.
+The command used to move your boat depends upon the boat type -- boats that
+use sails to harness the power of the wind use the 'sail' command to get
+from place to place, while human-powered boats use the 'row' or 'paddle'
+command.  As you move from place to place, you may take a look at the water
+outside your boat by typing 'look out'.  Your boat will only be able to
+travel in the water, and may even be restricted by the type and depth of the
+water you are travelling in.  Most boats available in Exodus have keys that
+limit access to the key holder.  If you dock your boat at a pier and deboard,
+make sure you lock the entrance so that thieves do not make off with your
+hard-earned transport.
+~
+
+0 FIRESTORM~
+Syntax: cast firestorm
+
+A potent and deadly spell, firestorm allows the mage to call a storm of fire
+from the sky, causing great harm to all those unlucky enough to be in 
+the vicinity.
+~
+
+0 DAMNATION~
+Syntax: pray damnation <character>
+
+The damnation prayer allows the skilled cleric to evoke a curse upon the
+character.
+~
+0 EXORCISE EXORCISM~
+
+The act of exorcism attempts to expel spirits of opposite alignment from
+the very soul of the target, often sending that target into spasms of
+intense pain.  The withdrawal of these spirits can often maim or kill
+persons subjected to it, and the cleric performing the ritual must be
+careful in doing this -- if wisdom and judgement are erroneous when
+doing so, the cleric may find his own body being wrenched along in the
+expelling.
+
+Due to the massive spiritual power that exorcism requires, even the most
+robust of clerics can only perform one once per day.
+~
+0 'MAELSTROM OF NYVENBAN'~
+The din that acts as the underscore for this loud and disagreeable
+song also provides an inspired basis for the lyrics, which are also
+loud and violent.  Those who listen to the fevered lyrics of this song
+will find themselves running to escape its harsh pitch, no matter
+what situation they happen to be in.
+~
+
+0 CAMP CAMPING~
+Syntax: camp
+Those proficient in establishing camps will be able to delve into the
+surrounding terrain to find loose logs, driftwood, weeds, and branches
+in order to create small fires and places to rest in.  Once a camp
+has been set up, nonintelligent creatures will avoid the site, and
+all who rest near the campfire will regenerate at an accelerated rate.
+~
+
+0 'HOLY SPHERE'~
+Syntax: pray 'holy sphere'
+
+An extremely powerful prayer that can only be mastered by the most skilled
+clerics, holy sphere calls upon the adventurer's god to protect all of the
+players in the cleric's group by drastically reducing the amount of damage
+they will take when attacked in combat.
+~
+
+0 CONSERVANCY~
+Syntax: pray 'conservancy' <character>
+
+The prayer of conservancy allows the cleric to call upon his or her god to
+make the character it has been prayed for harder to hit with combat attacks.
+~
+0 BUILD BUILDING HOMES HOUSES CLANHALLS 'PLAYER BUILDING'~
+Syntax: build <direction>
+Syntax: build
+
+
+   The build command allows you to build your own room within the realms of
+Exodus.  Rooms do not come cheap and they cannot be built everywhere.
+If you wish to build your own room, you must acquire enough money to buy
+the room, and must find a suitable development area in which to stake
+your claim.  Once you find this area, you can use the build command with
+a directional argument to build your room in that direction from the
+current room.  Once you have built your first room, you can expand at will,
+creating constructs to the limits of your imagination.
+
+   Your room starts out in a very minimal, bare state.  In order to customize
+the room to your tastes, you should enter the room and type the build command
+again, without any arguments.  This will put you into a build menu that
+allows you to easily and quickly change your room to match your tastes,
+assuming you can afford the changes.  The prices for each change will be
+listed on the build menu.
+
+   The main building menu presents you with six choices:
+
+     (1) Remodel your room    : Allows you to change the description of you
+                                room, so that players see a different message
+                                when they 'look' in your room.
+
+     (2) Rename your room     : Allows you to change the name of your room 
+                                that appears above your room description when
+                                players type 'look' in your room.
+
+     (3) Edit room flags      : Allows you to add or remove special flags
+                                in your room.
+   
+     (4) Edit room keywords   : Allows you to create and remove special room
+                                keywords, so that when players type 
+                                'look <keyword>' in your room, they see the
+                                description you supplied.
+
+     (5) Edit room doors/keys : Allows you to create or remove doors and keys
+                                from your room, to limit access.
+
+     (6) Exit building menu   : Exits the building menu and brings you back
+                                to the main exodus prompt.
+
+
+   If you choose the remodeling room option, you will be placed into a
+small text editor that you can use to enter the new description of your room.
+When you are finished, you should type the '@' key and hit return on an
+otherwise blank line.
+
+   If you choose the rename room option, you will be prompted for the new
+room name.  Enter it carefully, as the line you enter will become your new
+room name unless you choose to buy a new one.
+
+   If you choose the edit room flags option, you will be placed in a submenu
+that allows you to easily add and remove flags.  To add a flag, simply
+type 'A' followed by the number of the room flag to add (shown on the menu)
+and return.  If you have enough money to buy the room flag, it will be
+added to your room.  If you change your mind, you can delete flags you have
+added by selecting '2' followed by the number of the room flag to remove
+(also shown on the menu) and return.  You may leave this submenu and go back
+to the main menu by typing '3' followed by return.  The flags available
+for adding to your room include: Room is dark (the room is always dark,
+those without light sources cannot see inside it), No Mobs Allowed (mobs
+cannot enter your room), Room is Private (only two people may be in your
+room at one time), No Mounts Allowed (no mounted mobiles will be allowed
+in your room), Room is Indoors (the room is indoors and its inside will
+not be affected by the weather or time of day).
+
+   If you choose the edit keyword option, you will be placed in a submenu
+that allows you to add and remove keywords.  To add a keyword, select
+'1' at this menu.  You will be prompted for the keyword name and for
+the description that should be shown when this keyword is looked at.
+If you later change your mind, you can use the '2' option at this menu
+to delete the keyword.  You may leave this submenu and go back to the main
+menu by typing '3' followed by return.
+
+
+  If you choose the doors/key edit option, you will be placed in a submenu
+that allows you to add and remove doors and keys.  To add a lockable door
+to your room, select '1' followed the the letter for the room direction
+(supplied on the menu) and return.  The door will be created for you.  
+If you change your mind and wish to delete a door, select '2' at this menu
+followed by the letter for the room direction and return.  If you want to
+make a single key for a door you have created, to limit access to your
+room, select '3' at this menu.  You may leave this submenu and go back to
+the manu menu by typing '4' followed by return.
+
+  You may leave the build menu and return to the normal exodus prompt by
+typing '6' at the main menu.
+
+
+ `oCLAN HALLS``: Clan leaders can also build clan halls specifically for 
+their clan's use.  The procedure is the same as above, except for an added
+charge, the clan leader can specify a CLAN_ONLY flag.
+
+ `oSHOPS``:  Players can also build shops using the build system.  The
+process exactly mirrors that of building personal rooms and homes -
+player run shops must be staffed by a player in order for the shop to be
+open.  Eventually, there will be such things as shopkeeper mobs for hire.
+~
+-1 'BALLAD OF THE CANTAKEROUS WOODSMAN'~
+
+Syntax: sing 'ballad of the cantankerous woodsman' <target>
+
+Legend has it that once upon a time, there was a ranger whose name has
+since been lost, who while wandering far into lands unknown, came upon
+the Darken Woods.  In the Darken Woods, his countenance was greatly changed.
+Where once was a somewhat genial fellow, a new cantankerous one emerged.
+The dark woods poisoned his soul, and this song was authored by a bard,
+bent on a path of vengeance, who was inspired by this woodsman's vile spirit.
+~
+
+-1 CAMOUFLAGE~
+
+Syntax: camouflage
+
+If a ranger is completely familiar with his surroundings, he can completely
+immerse himself into his environment, without any chance of anyone
+detecting his presence should he remain absolutely still.  
+~
+
+-1 'TRUE SIGHT'~
+
+True sight is a prayer which allows the devout to see even those
+magically shrouded with invisibility.
+~
+
+0 $~
+
+#$

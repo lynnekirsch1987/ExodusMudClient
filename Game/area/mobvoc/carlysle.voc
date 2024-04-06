@@ -1,0 +1,7 @@
+Minax
+DEFAULT:>1:3:Though the forces of evil think they have triumphed, I have but to wait for my vindication.;My freedom is certain.
+DEFAULT:>1:3:Ah, so the Vro'ath have brought you in to try to trick me, $name.;Tell them they will have to do better than that.
+DEFAULT:>1:3:I'll never give up my secrets.;I worked too hard to vanquish the Hydra.;I'll die before I allow evil to have it back.
+godfrey:>1:3:CMD pmote looks at $name indifferently.;You bring word from my Lord, Sir Godfrey?;I think you endeavour to deceive me.
+guild&master:>1:3:CMD pmote looks at $name indifferently.;You bring word from my Lord, Sir Godfrey?;I think you endeavour to deceive me.
+hydra:<8:1:So now you openly interrogate me for information?;I'll have your head!;CMD pray 'restore';CMD bash $name

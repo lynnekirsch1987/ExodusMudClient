@@ -1,0 +1,31 @@
+* Mob Vnum: 20955
+* Mob Name: acrobat
+* Room Vnum: 20958
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 4
+if (%rndnum% == 0)
+    emote does some stretching exercises. You marvel at her flexibility.
+    halt once~
+Sc
+if (%rndnum% == 1)
+    emote walks around on her hands, stumbling to her feet after some steps.
+    halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+wfunc %rannum% random 0 2
+if (%rannum% == 1)
+    emote tumbles and rolls around like a wheel.
+    halt once~
+Sc
+if (%rannum% == 2)
+    emote gracefully leaps through the air.
+    halt once~
+End
+
+#END

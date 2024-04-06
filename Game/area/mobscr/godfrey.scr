@@ -1,0 +1,35 @@
+* File: godfrey.scr
+* Mob: Sir Godfrey(4230)
+
+#TRIGGER born
+Type 4
+Sc wait 5~
+Sc
+cmd mount dragon
+halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+stand
+mount dragon
+walkto 4402
+halt once~
+End
+
+#TRIGGER kickass
+Type 8
+Sc
+if ("kickass-arg" cmp "kickass")
+  cmd shout I shall free the prisoners, my king.  I stand ready to defend Thesden!
+  dismount dragon
+  stand
+  dismount dragon
+  west
+  south
+  cmd kill drow
+halt once~
+End
+
+#END

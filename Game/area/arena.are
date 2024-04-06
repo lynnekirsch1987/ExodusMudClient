@@ -1,0 +1,2568 @@
+#AREA
+ 6~
+arena.are~
+`k+\`n Arena of Legends `k/+``~
+{100 100} Exodus  `k+\`n Arena of Legends `k/+``~
+duel arena~
+23000 23099
+0 G 0
+1 1
+~
+#MOBILES
+#23000
+arena pimp macdaddy~
+arena manager~
+The arena manager is here, selling tickets.
+~
+The arena manager is a large, oafish looking man. His paunch makes you
+shudder, though he was one of the most celebrated gladiators of his time.
+He peers at you impatiently over the edge of his news journal, waiting 
+for you to buy a ticket.
+~
+human~
+0 0 0 0
+ABV 0 900 0
+23 23 1d1+999 1d1+999 1d8+32 magic
+-15 -15 -15 999 -15
+0 -1 CDF ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#23002
+Sonya Blade~
+Sonya Blade~
+Sonya Blade is gonna stomp you
+~
+Sonya looks you in the eye and says 'Time to die, punk!'
+ 
+~
+human~
+0 0 0 0
+A BCDEFGHJNOUc 1000 0
+60 60 99d99+99 99d99+99 99d99+99 none
+-100 -100 -100 999 -100
+0 -1 0 ABCDEFGHIJKLMNOPQRTXYZ 0 0
+stand stand female 999999
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#23003
+squirrel bloodsoaked~
+`da`b blood-soaked`d squirrel``~
+`dA squirrel gnaws on some bones here, isn't it cute?``
+~
+~
+dog~
+0 0 0 0
+AB 0 0 0
+1 1 1d1+1 1d1+1 1d1+1 bite
+0 0 0 999 0
+D 60 10 H 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKUVa 6 6 6 6 6 6 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#23004
+yellow scorpion~
+`da`k yellow`d scorpion``~
+`dA scorpion sits on a rock here, reflecting the suns rays with its yellow exoskeleton.``
+~
+~
+dog~
+0 0 0 0
+AB 0 0 0
+1 1 1d1+1 1d1+1 1d1+1 sting
+0 0 0 999 0
+0 60 0 H 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKUVa 6 6 6 6 6 6 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#23005
+vampire bat~
+`fa`a vampire`f bat``~
+`aA bat hangs upside down from the inner roof of the cave.``
+~
+~
+dog~
+0 0 0 0
+AB 0 0 0
+1 1 1d1+1 1d1+1 1d1+1 bite
+0 0 0 999 0
+0 60 0 H 0 0 0
+stand stand neutral 0
+AGV ACDEFHJKUVa 6 6 6 6 6 6 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#0
+
+#OBJECTS
+#23000
+ashield~
+an arena shield~
+This is an arena shield.~
+wood~
+0
+armor 2
+PT
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABC AC BC AB 0
+0
+0
+30 0 0 P
+A
+18 2
+A
+19 2
+#23001
+asword~
+an arena sword~
+This is an arena sword.~
+wood~
+0
+weapon 2
+PT
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A AC ABC AB 0
+0
+0
+30 0 0 P
+A
+24 -4
+A
+18 5
+A
+19 5
+#23002
+adagger~
+an arena dagger~
+This is an arena dagger.~
+wood~
+0
+weapon 2
+PT
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B AC ABC ABD 0
+0
+0
+30 0 0 P
+A
+19 5
+A
+18 5
+A
+24 -4
+#23003
+amace~
+an arena mace~
+This is an arena mace.~
+wood~
+0
+weapon 2
+PT
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C AC ABC ABC 0
+0
+0
+30 0 0 P
+A
+24 -4
+A
+18 5
+A
+19 5
+#23004
+aboots~
+a pair of arena boots~
+This is a pair of arena boots.~
+wood~
+0
+armor 2
+PT
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BC ABC BC AB 0
+0
+0
+30 0 0 P
+A
+2 2
+#23005
+agloves~
+a pair of arena gloves~
+This is a pair of arena gloves.~
+wood~
+0
+armor 2
+PT
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BC BC BC A 0
+0
+0
+30 0 0 P
+A
+19 2
+A
+1 1
+#23006
+alight~
+an arena light~
+Here's a light for ya.~
+wood~
+0
+light 2
+PT
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 DGH 0 0
+0
+0
+30 0 0 P
+A
+17 -5
+#23007
+asleeves~
+arena sleeves~
+These are some arena sleeves.~
+wood~
+0
+armor 2
+PT
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABC BC ABC A 0
+0
+0
+30 0 0 P
+A
+19 2
+A
+18 2
+#23008
+abelt~
+arena belt~
+An arena belt.~
+wood~
+0
+armor 2
+PT
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BC BC BC AC 0
+0
+0
+30 0 0 P
+#23009
+aleggings~
+arena leggings~
+Some arena leggings.~
+wood~
+0
+armor 2
+PT
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+D D D B 0
+0
+0
+30 0 0 P
+#23010
+ticket~
+an arena ticket~
+A discarded arena ticket lies on the floor.~
+vellum~
+0
+trash 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE DF 0 0 0
+0
+0
+0 0 300 P
+#23011
+popcorn~
+A bag of buttery popcorn~
+A large bag of greasy popcorn wants to give you heart failure.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE DF CFG 0 0
+0
+0
+0 20 99 P
+#23012
+astaff~
+an arena staff~
+This is an arena staff.~
+wood~
+0
+weapon 2
+PT
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+~
+~
+~
+~
+AB AC ABC ABE 0
+0
+0
+30 0 0 P
+A
+18 5
+A
+19 5
+A
+24 -4
+#23014
+ahalberd~
+an arena halberd~
+This is an arena halberd.~
+wood~
+0
+weapon 2
+PT
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABC AC ABC A 0
+0
+0
+30 0 0 P
+A
+19 5
+A
+18 5
+A
+24 -4
+#23015
+ainst~
+an Arena instrument~
+This is an arena instrument.~
+wood~
+0
+instrument 2
+PT
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#23016
+largeredleatherbook~
+`iA large red leather book``~
+`bA large red leather book bears witness to many honorable battles.``~
+parchment~
+0
+treasure 2
+OS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#23017
+sign~
+`ithe `kWARNING `isign``~
+`iA magical `kWARNING`i sign floats directly in front of your face.``~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+sign~
+`i*`k*`i* `wBe Warned `i*`k*`i*
+``
+`oAny adventurer who uses the arena does so at his or her own risk.  The
+staff of the arena are fickle and will occasionally and arbitrarily run
+off with all your equipment.  This is not a new thing.  This is as it has
+always been.  Nothing has been changed.  This sign is just to let you
+know that by fighting in the arena, you accept the very small possibility
+that you may lose all your equipment.
+``
+`o-- Minax, written on behalf of King Athanmere and the staff of the Arena
+   of Legends.``
+~
+E
+warning~
+`i*`k*`i* `wBe Warned `i*`k*`i*
+``
+`oAny adventurer who uses the arena does so at his or her own risk.  The
+staff of the arena are fickle and will occasionally and arbitrarily run
+off with all your equipment.  This is not a new thing.  This is as it has
+always been.  Nothing has been changed.  This sign is just to let you
+know that by fighting in the arena, you accept the very small possibility
+that you may lose all your equipment.
+``
+`o-- Minax, written on behalf of King Athanmere and the staff of the Arena
+   of Legends.``
+~
+#23018
+deadly coat hanger~
+`da deadly coat hanger``~
+`dA coat hanger stands next to the door, the skeleton of a dwarf is impaled on it.``~
+wood~
+0
+weapon 2
+ST
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC B 0 0 D
+0
+0
+0 0 1 P
+#23019
+piano decapitator grand~
+the grand piano`a "`bThe Decapitator`a"``~
+`dA grand piano is here, its bloody lid seems to have been used to smash a head open.``~
+unknown~
+0
+container 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG AC 0 BD A
+0
+0
+1 0 1 P
+#23020
+ribs torn heads fingers entangled~
+`hribs, torn off heads, fingers lie entangled in the piano strings``~
+Blah blah~
+unknown~
+0
+armor 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#23021
+cast iron stove~
+the cast iron stove~
+`dA cast iron stove is here, stained with blood, of course.``~
+unknown~
+0
+container 2
+Ta
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG AC 0 CFG A
+0
+0
+0 0 1 P
+#23022
+kidney pie~
+a yummy kidney pie~
+`dA yummy kidney pie lies here.``~
+unknown~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD 0 0 0
+0
+0
+1 0 0 P
+#23023
+rocking chair grandmas~
+Grandma's rocking chair~
+`dThis rocking chair is dangerously close to the stairs.``~
+wood~
+0
+furniture 2
+STa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A EFIKMNO FI DEFG DEFG
+0
+0
+0 0 1 P
+#23024
+ladder rope~
+a rope ladder~
+`dFrom the oak, a rope ladder dangles in the breeze.``~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n escapes up the rope ladder!~
+You flee up into the tree-house.~
+`i$n comes up the ladder, run!``~
+~
+-1 0 G DJLMO C
+0
+0
+10 0 0 P
+#23025
+ladder rope~
+(no short description)~
+~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n throws himself down the rope ladder, barely escaping your wrath!~
+You barely escape the tree-house alive!~
+`i$n falls down from above, ready to end your miserable existance.``~
+~
+-1 0 G ABCEFGHILMO E
+0
+0
+10 0 1 P
+#23026
+telescope~
+a telescope~
+`dThis telescope seems to have been used as a club at some time, but it's still working.``~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 0 CEFGHILMO 0
+0
+0
+0 0 1 P
+#23027
+statue iron~
+the iron statue~
+`aThe iron statue of`k Iverath`a strangling a mortal is here.``~
+iron~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#23028
+talking head~
+`da talking head``~
+`dAn ugly little head is talking to itself here...``~
+unknown~
+0
+food 2
+S
+0
+A
+0
+0
+0
+23028
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD 0 0 0
+0
+0
+1 50 0 P
+#0
+
+#ROOMS
+#23000
+0 0
+~
+~
+~
+0 0 0
+The Hall of Legends~
+You duck your head to avoid the heavy overhanging stone archway.
+Murals depicting legendary battles color the foreboding walls.  You see
+flags of valor honoring heroes of history past and recent, visual
+incarnations of fairy tales swirling in your childhood remembrance.
+A large red leather book, adorned with colorful velvet illustrations
+and gilded aged pages, lies open before you, urging you to ink your name.
+
+Dare you challenge the legends of Heroes old and new?
+~
+0 DKNSW 0
+0
+~
+I 0 E
+book~
+Here lies a magnificent book.
+~
+D3
+~
+~
+0 0 4217
+D4
+Le grande salon de spectators is up the stairs.
+~
+~
+0 -1 23025
+S
+#23001
+0 0
+~
+~
+~
+0 0 0
+Shadow of a Golden Age~
+You are surrounded on all sides by large stone walls that loom over
+your head. You attempt to move as silently as possible, settling your boots
+softly across the stone floors.  The heat from the spectators above
+lingers upon you, making you uneasy and jittery despite your attempts
+to master your environs.  
+~
+0 AN 2
+0
+~
+I 0 D1
+~
+~
+0 0 23003
+S
+#23002
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D3
+You see the continuing maze of the arena.
+~
+~
+0 -1 23004
+S
+#23003
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+The pulse of the crowd follows you as you turn a slight corner 
+in the endless stone maze.  Timid ivy dares the incline of the 
+far wall, entangling grey stones and scattered debris from previous 
+battles. Straining your eye, you catch a faint etching near the cold 
+ground. Examining it closer, you find its simple message 'Honor  
+beyond death' strangely chilling. 
+~
+0 AN 2
+0
+~
+I 0 D0
+~
+~
+0 0 23005
+D3
+~
+~
+0 0 23001
+S
+#23004
+0 0
+~
+~
+~
+0 0 0
+Glory of a Golden Age~
+You enter a quiet corner of the arena.  A laboriously designed
+mural has been erected here, detailing a battle between a strong,
+war humbled warrior and a five headed dragon.  The tales that can
+be told about this hero are many, and already from the illustration
+you can discern remarkable triumphs brocaded around vicious tragedy
+in the furrow of his eyebrows.  His figure strong and bent, his
+visage shielded from cold desperation, he faces the Goddess of Truth 
+in her mortal form, alone with a sword and a memory.
+A plaque, silent and humble: 
+               "Torquemada - a Hero well lived." 
+~
+0 AN 2
+0
+~
+I 0 D0
+You see the continuing maze of the arena.
+~
+~
+0 -1 23006
+D1
+You see the continuing maze of the arena.
+~
+~
+0 -1 23002
+D2
+You are lost in the maze of the arena.
+~
+~
+0 -1 23017
+S
+#23005
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D0
+~
+~
+0 0 23012
+D2
+~
+~
+0 0 23003
+S
+#23006
+0 0
+~
+~
+~
+0 0 0
+In the Heat of Darkness~
+The light dims a bit here, for you have entered a room fertile with
+vines, brazen with negligence, lazily scaling the stone slabs.
+They weave their way against the wall, and spiral above it mimicing
+the most tranquil of bridal gazebos.  The vines shelter you from the
+din of the spectators, much to your pleasure, for their sport has not
+yet ceased to annoy you. 
+~
+0 AN 2
+0
+~
+I 0 D0
+You see the continuing maze of the arena.
+~
+~
+0 -1 23013
+D2
+You see the continuing maze of the arena.
+~
+~
+0 -1 23004
+S
+#23007
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D1
+You see the continuing maze of the arena.
+~
+~
+0 -1 23010
+D3
+~
+~
+0 0 23013
+S
+#23008
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D1
+~
+~
+0 0 23012
+D3
+You see the continuing maze of the arena.
+~
+~
+0 -1 23009
+S
+#23009
+0 0
+~
+~
+~
+0 0 0
+A Passageway in the Arena of Legends~
+This hallway is a welcome break from the solid stone you have
+been treading.  Wary, you manuever this stretch with the greatest
+agility and caution.
+~
+0 AN 2
+0
+~
+I 0 D1
+The hallway continues east.
+~
+~
+0 -1 23008
+D3
+~
+~
+0 0 23011
+S
+#23010
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D1
+The hallway continues east.
+~
+~
+0 -1 23011
+D3
+The hallway contiues west.
+~
+~
+0 -1 23007
+S
+#23011
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D0
+You see the continuing maze of the arena.
+~
+~
+0 -1 23014
+D1
+~
+~
+0 0 23009
+D3
+You see the continuing maze of the arena.
+~
+~
+0 -1 23010
+S
+#23012
+0 0
+~
+~
+~
+0 0 0
+The Age of Truth~
+Scores of would be heroes have rushed through these hallways,
+each seeking redemption, gold, or for his story to be echoed in
+the legends of generations to come who will sit by campfires,
+reading their dreams in the night sky.  You grip your weapon
+more tightly in the vision of countless names engraved into this
+room's walls, each one having sought victory only to sink back
+into obscurity, bodies fallen into the dirt of the cold stone floor.
+
+~
+0 AN 2
+0
+~
+I 0 D0
+You see the continuing maze of the arena.
+~
+~
+0 -1 23014
+D2
+~
+~
+0 0 23005
+D3
+~
+~
+0 0 23008
+S
+#23013
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D0
+You are lost in the maze of the arena.
+~
+~
+0 -1 23015
+D1
+~
+~
+0 0 23007
+D2
+You are lost in the maze of the arena.
+~
+~
+0 -1 23006
+S
+#23014
+0 0
+~
+~
+~
+0 0 0
+Infinite Madness~
+Carressing the walls, you enter so as to render your crooked
+shadow as inconspicuous as possible for you know not if your
+prey lays in wait just outside the reach of your eye.  
+A discoloring of the ground several yards ahead of you breaks
+the monotony of the grey stone slabs, and you move forward to
+examine the waste of charcoal beneath your feet.  Rubbing your
+toe along the black circle extends dark lines from the borders
+of the charcoal circle.  Wonderingly, you remember whispered stories
+of magic users, when trapped into certain death by their foes, 
+would seek escape to the madness of oblivion and instead burn 
+themselves alive in sacrifice to their art.
+~
+0 AN 2
+0
+~
+I 0 D0
+You are lost in the maze of the arena.
+~
+~
+0 -1 23020
+D2
+You are lost in the maze of the arena.
+~
+~
+0 -1 23012
+S
+#23015
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D0
+~
+~
+0 0 23020
+D2
+You are lost in the maze of the arena.
+~
+~
+0 -1 23013
+S
+#23016
+0 0
+~
+~
+~
+0 0 0
+The Chase~
+The battle already commenced, your forehead involuntarily breaks
+out in cold sweat.  You assess the room before you, sensing
+that your opponent has not yet tread this path.  The shadow of
+a cloud passing over a pale sky startles you, and the sterile
+battleground does nothing to soothe your tense muscles.  
+Shield raised protectively, you move forward to claim the glory
+at stake.
+~
+0 AN 2
+0
+~
+I 0 D0
+You are lost in the maze of the arena.
+~
+~
+0 -1 23014
+D3
+You are lost in the maze of the arena.
+~
+~
+0 -1 23018
+S
+#23017
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D1
+You are lost in the maze of the arena.
+~
+~
+0 -1 23019
+S
+#23018
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D1
+You are lost in the maze of the arena.
+~
+~
+0 -1 23016
+D3
+You are lost in the maze of the arena.
+~
+~
+0 -1 23020
+S
+#23019
+0 0
+~
+~
+~
+0 0 0
+The Chase~
+The battle already commenced, your forehead involuntarily breaks
+out in cold sweat.  You assess the room before you, sensing
+that your opponent has not yet tread this path.  The shadow of
+a cloud passing over a pale sky startles you, and the sterile
+battleground does nothing to soothe your tense muscles.  
+Shield raised protectively, you move forward to claim the glory
+at stake.
+~
+0 AN 2
+0
+~
+I 0 D1
+You are lost in the maze of the arena.
+~
+~
+0 -1 23020
+D3
+You are lost in the maze of the arena.
+~
+~
+0 -1 23017
+S
+#23020
+0 0
+~
+~
+~
+0 0 0
+The Hunt~
+Surrounding you always is the distant roar of the crowd.  Trying to
+bar this from your senses, you hunt your prey.  You inhale nothing
+but the quiet humid dust rising from your stead.  Far removed from
+the civilized masses, the dark bloodstains smeared against the wall
+drive you forward to seek glory in your battle.
+~
+0 AN 2
+0
+~
+I 0 D1
+You are lost in the maze of the arena.
+~
+~
+0 -1 23010
+D2
+~
+~
+0 0 23015
+S
+#23025
+0 0
+~
+~
+~
+0 64 0
+Spectators of the Hunt~
+You climb two wide flight of stairs, where the doorway opens 
+to an open sky overlooking a stone maze of intersecting rooms.
+The room before you is split in half, with both sides facing the 
+center of the arena, and a small aisleway to traverse the dissecting
+seating arrangements.  The aisles on both sides reach crookedly
+into the sky, forming a dome above the combatants you are to witness
+below.  If hefty bouncers aren't enough to discourage misbehavior,
+a shield of magic prevents you from interfering with the duel in any way.
+~
+0 DGKNSV 0
+0
+~
+I 0 D5
+~
+~
+0 -1 23000
+S
+#23026
+0 0
+~
+~
+~
+0 576 0
+`oHall of Gore``~
+~
+0 BDN 0
+0
+~
+I 0 D0
+~
+~
+0 0 23038
+D1
+~
+~
+0 0 23027
+D2
+~
+door~
+1 0 23039
+S
+#23027
+0 0
+~
+$n runs into the kitchen!~
+~
+0 576 0
+`oThe Kitchen of Deadly Vegetables (and knives of course)``~
+~
+0 BDN 0
+0
+~
+I 0 D1
+~
+door~
+4097 0 23028
+D3
+~
+~
+0 0 23026
+S
+#23028
+0 0
+~
+`b$n`i has arrived, let the killing begin!``~
+~
+0 576 0
+Epicentre of Carnage~
+~
+0 N 1
+0
+~
+I 0 D0
+~
+~
+0 0 23035
+D1
+~
+~
+0 0 23029
+D2
+~
+~
+0 0 23043
+D3
+~
+door~
+4097 0 23027
+S
+#23029
+0 0
+~
+$n trudges into closer to you.~
+~
+0 576 0
+`kThe Sunny Sands``~
+~
+0 N 10
+0
+~
+I 0 D1
+~
+~
+0 0 23030
+D3
+~
+~
+0 0 23028
+S
+#23030
+0 0
+~
+$n trudges into closer to you.~
+~
+0 576 0
+`kWhirlwind of Shards``~
+~
+0 N 10
+0
+~
+I 0 D0
+~
+~
+0 0 23031
+D2
+~
+~
+0 0 23046
+D3
+~
+~
+0 0 23029
+S
+#23031
+0 0
+~
+$n stalks into the room.~
+~
+0 576 0
+`cUnder a Blood-splattered Oak``~
+~
+0 N 3
+0
+~
+I 0 D0
+~
+~
+0 0 23032
+D2
+~
+~
+0 0 23030
+S
+#23032
+0 0
+~
+$n ducks under a branch as $e comes closer.~
+~
+0 576 0
+`cFir is Murder``~
+`aClose serried groups of fir trees make this dark maze of trees almost
+impenetrable to a weary adventurer.  `` 
+~
+0 N 3
+0
+~
+I 0 D2
+~
+~
+0 0 23031
+D3
+~
+~
+0 0 23033
+S
+#23033
+0 0
+~
+$n ducks under a branch as $e comes closer.~
+~
+0 576 0
+`cBleeding Willows``~
+~
+0 N 3
+0
+~
+I 0 D1
+~
+~
+0 0 23032
+D3
+~
+~
+0 0 23034
+S
+#23034
+0 0
+~
+$n arrives.~
+~
+0 576 0
+`cIn Front of the House of Slaughter``~
+~
+0 N 3
+0
+~
+I 0 D1
+~
+~
+0 0 23033
+D2
+~
+~
+0 0 23035
+D3
+~
+door~
+4161 0 23036
+S
+#23035
+0 0
+~
+~
+~
+0 576 0
+`cA Pyre of Fallen Timber``~
+~
+0 N 3
+0
+~
+I 0 D0
+~
+~
+0 0 23034
+D2
+~
+~
+0 0 23028
+S
+#23036
+0 0
+~
+~
+~
+0 576 0
+`oEntrance Hall to the House of Slaughter``~
+~
+0 BDN 1
+0
+~
+I 0 D0
+~
+~
+0 0 23054
+D1
+~
+door~
+4161 0 23034
+D3
+~
+~
+0 0 23037
+S
+#23037
+0 0
+~
+~
+~
+0 64 0
+`oThe Piano Room``~
+~
+0 BN 0
+0
+~
+I 0 D1
+~
+~
+0 0 23036
+D2
+~
+~
+0 0 23038
+S
+#23038
+0 0
+~
+~
+~
+0 64 0
+`oAt the Foot of the Scarlet Stairs``~
+~
+0 BN 0
+0
+~
+I 0 D0
+~
+~
+0 0 23037
+D2
+~
+~
+0 0 23026
+D4
+~
+~
+0 0 23053
+S
+#23039
+0 0
+~
+Footsteps echo as`a $n`` arrives.~
+~
+0 576 0
+`aThe Stony Path of Ambushes``~
+~
+0 N 5
+0
+~
+I 0 D0
+~
+door~
+1 0 23026
+D2
+~
+~
+0 0 23040
+D3
+~
+door~
+4097 0 23052
+S
+#23040
+0 0
+~
+Footsteps echo as`a $n`` arrives.~
+~
+0 576 0
+`aShattered Stones``~
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 23039
+D1
+~
+~
+0 0 23041
+S
+#23041
+0 0
+~
+Footsteps echo as`a $n`` arrives.~
+~
+0 64 0
+`aThe Granite Path``~
+~
+0 N 5
+0
+~
+I 0 D1
+~
+~
+0 0 23042
+D2
+~
+~
+0 0 23051
+D3
+~
+~
+0 0 23040
+S
+#23042
+0 0
+~
+Footsteps echo as`a $n`` arrives.~
+~
+0 576 0
+`aThe Granite Path``~
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 23043
+D1
+~
+~
+0 0 23044
+D3
+~
+~
+0 0 23041
+S
+#23043
+0 0
+~
+Footsteps echo as`a $n`` arrives.~
+~
+0 576 0
+`aThe Southern Path``~
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 23028
+D2
+~
+~
+0 0 23042
+S
+#23044
+0 0
+~
+$n trudges into closer to you.~
+~
+0 576 0
+`kThe Dusty Desert``~
+~
+0 N 10
+0
+~
+I 0 D1
+~
+~
+0 0 23045
+D2
+~
+~
+0 0 23050
+D3
+~
+~
+0 0 23042
+S
+#23045
+0 0
+~
+$n trudges into closer to you.~
+~
+0 576 0
+`kDunes of Death``~
+~
+0 N 10
+0
+~
+I 0 D0
+~
+~
+0 0 23046
+D3
+~
+~
+0 0 23044
+S
+#23046
+0 0
+~
+$n trudges into closer to you.~
+~
+0 576 0
+`kGory Sands``~
+~
+0 N 10
+0
+~
+I 0 D0
+~
+~
+0 0 23030
+D1
+~
+~
+0 0 23049
+D2
+~
+~
+0 0 23045
+S
+#23047
+0 0
+~
+~
+~
+0 576 0
+`cOn the Roof of the Tree-house``~
+~
+0 N 3
+0
+~
+I 0 D5
+~
+~
+0 0 23048
+S
+#23048
+0 0
+~
+~
+~
+0 576 0
+`cIn the Tree-house``~
+~
+0 N 3
+0
+~
+I 0 D4
+~
+~
+0 0 23047
+S
+#23049
+0 0
+~
+$n trudges into closer to you.~
+~
+0 576 0
+`kThe Easy East``~
+~
+0 N 10
+0
+~
+I 0 D3
+~
+~
+0 0 23046
+S
+#23050
+0 0
+~
+$n trudges into closer to you.~
+~
+0 576 0
+`kThe Sandy South``~
+~
+0 N 10
+0
+~
+I 0 D0
+~
+~
+0 0 23044
+S
+#23051
+0 0
+~
+Footsteps echo as`a $n`` arrives.~
+~
+0 64 0
+`aA Rocky Trail``~
+~
+0 N 5
+0
+~
+I 0 D0
+~
+~
+0 0 23041
+S
+#23052
+0 0
+~
+Footsteps echo as`a $n`` arrives.~
+~
+0 576 0
+`aA Dark Cave``~
+~
+0 ADNc 5
+0
+~
+I 0 D1
+~
+bushes~
+4097 0 23039
+S
+#23053
+0 0
+~
+$n comes up the stairs.~
+~
+0 576 0
+`oAt the top of the Scarlet Stairs``~
+~
+0 BDN 0
+0
+~
+I 0 D5
+~
+~
+0 0 23038
+S
+#23054
+0 0
+~
+Suddenly the closet gets crowded as $n walks in.~
+~
+0 576 0
+`oThe Dark and Scary Closet``~
+~
+0 BDN 1
+0
+~
+I 0 D2
+~
+~
+0 0 23036
+S
+#23055
+0 0
+~
+~
+~
+0 64 0
+`lSuper Dueler's Waiting Room``~
+~
+0 CHKN 3
+0
+~
+I 0 S
+#0
+
+#RESETS
+M 0 23000   1 23000  1	* Arena manager
+G 0 23010 -1		* An arena ticket to arena manager
+G 0 23011 -1		* A bag of buttery popcorn to arena manager
+O 0 23016   0 23000 -1	* `ia large red leather book`` at The Hall of Legends
+O 0 23017   0 23000 -1	* `ithe `kwarning `isign`` at The Hall of Legends
+D 0 23036   1    1	* `oEntrance Hall to the House of Slaughter`` [east]
+D 0 23034   3    1	* `cIn Front of the House of Slaughter`` [west]
+O 0 23018   0 23036 -1	* `da deadly coat hanger`` at `oEntrance Hall to the House of Slaughter``
+O 0 23019   0 23037 -1	* The grand piano`a "`bthe decapitator`a"`` at `oThe Piano Room``
+P 0 23020 1 23019 1
+D 0 23027   1    1	* `oThe Kitchen of Deadly Vegetables (and knives of course)`` [east]
+D 0 23028   3    1	* Epicentre of Carnage [west]
+O 0 23021   0 23027 -1	* The cast iron stove at `oThe Kitchen of Deadly Vegetables (and knives of course)``
+P 0 23022 1 23021 1
+D 0 23026   2    0	* `oHall of Gore`` [south]
+D 0 23039   0    0	* `aThe Stony Path of Ambushes`` [north]
+O 0 23023   0 23053 -1	* Grandma's rocking chair at `oAt the top of the Scarlet Stairs``
+O 0 23024   0 23031 -1	* A rope ladder at `cUnder a Blood-splattered Oak``
+O 0 23025   0 23048 -1	* (no short description) at `cIn the Tree-house``
+O 0 23026   0 23047 -1	* A telescope at `cOn the Roof of the Tree-house``
+O 0 23027   0 23028 -1	* The iron statue at Epicentre of Carnage
+M 0 23003   1 23033  1	* `da`b blood-soaked`d squirrel``
+M 0 23004   1 23050  1	* `da`k yellow`d scorpion``
+D 0 23052   1    1	* `aA Dark Cave`` [east]
+D 0 23039   3    1	* `aThe Stony Path of Ambushes`` [west]
+M 0 23005   1 23052  1	* `fa`a vampire`f bat``
+O 0 23028   0 23055 -1	* `da talking head`` at `lSuper Dueler's Waiting Room``
+S
+
+#SHOPS
+23000  0  0  0  0  0 	100   0 	0 23	* arena manager
+0
+
+#SPECIALS
+S
+
+#OT
+#23028
+`dtalking head in SD``~
+$entersroom~
+1
+68
+say Now, where did my body go...?~
+30
+10
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

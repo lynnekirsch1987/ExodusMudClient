@@ -1,0 +1,249 @@
+* File: Zeryn.scr
+* Mob: Zeryn, the Mage Guildmaster (4096)
+
+#TRIGGER Zeryn
+Type 2
+Sc
+mfunc %zeryn-from% %name% name
+mfunc %zeryn-from% %victim% name
+wfunc %zcombat% random 0 99
+if ( %zcombat% < 10 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'dispel magic' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% < 20 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'acid blast' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% < 30 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'chill touch' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% < 40 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'blind' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% < 50 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'web' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% < 60 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'weak' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% < 70 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'slow' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% < 80 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd peace
+  cmd cast 'sleep' %name%
+  cmd steal 1. %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% <85 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd peace
+  cmd cast 'charm' %name%
+  cmd order %name% remove all
+  cmd order %name% drop all
+  cmd get all.parch
+  cmd at 1 drop all.parch
+  cmd get all.flask
+  cmd at 1 drop all.flask
+  cmd get all.vial
+  cmd at 1 drop all.vial
+  cmd get all
+  cmd cast 'floating disc'
+  cmd put all disc
+  cmd cast 'teleport' %name%
+  halt once~
+Sc
+if ( %zcombat% < 90 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'heat metal' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% < 99 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd cast 'poison' %name%
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+Sc
+if ( %zcombat% == 99 )
+  cmd slay palace
+  cmd slay ocelot
+  cmd slay eagle
+  cmd peace
+  emote mumbles words in an ancient language.
+  pecho %name% Your muscles freeze up as though your body were encased in ice.
+  mfunc %Zeryn-from% %heh% hit
+  msign %Zeryn-from% 0 hit
+  cmd get all.parch corpse
+  cmd at 1 drop all.parch
+  cmd get all.flask corpse
+  cmd at 1 drop all.flask
+  cmd get all.vial corpse
+  cmd at 1 drop all.vial
+  halt once~
+End
+
+#TRIGGER Tick
+Type 3
+Sc
+wfunc %zeryntick% random 0 9
+if (%zeryntick% == 0)
+  cmd wake
+  cmd cast 'armor' zeryn
+  halt once~
+Sc
+if (%zeryntick% == 1)
+  cmd wake
+  cmd cast 'shield' zeryn
+  halt once~
+Sc
+if (%zeryntick% == 2)
+  cmd wake
+  cmd cast 'stone' zeryn
+  halt once~
+Sc
+if (%zeryntick% == 3)
+  cmd wake
+  cmd cast 'fireshield' zeryn
+  halt once~
+Sc
+if (%zeryntick% == 4)
+  cmd wake
+  cmd cast 'armor' zeryn
+  halt once~
+Sc
+if (%zeryntick% == 5)
+  cmd tell %victim% Do you think I've forgotten about you so soon?
+  cmd cast 'summon' %victim%
+  cmd kill %victim%
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %victim% == 0
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %enter-from% %name% name
+  cmd shout %name% is murdering me!  I beseach all fellow mages to avenge my death!
+  emote snarls 'You've not heard the last of me, %name%!'
+  let %victim% == 0
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-from% %name% name
+  cmd at 1 cast 'cancel' zeryn
+  cmd at 1 cast 'armor' zeryn
+  cmd at 1 cast 'shield' zeryn
+  cmd at 1 cast 'stone' zeryn
+  cmd at 1 cast 'fireshield' zeryn
+  cmd at 1 cast 'haste' zeryn
+  cmd at 1 cast 'giant' zeryn
+  cmd at 1 cast 'fly' zeryn
+  cmd at 1 cast 'mirror' zeryn
+  halt once~
+End
+
+#END

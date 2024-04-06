@@ -1,0 +1,23 @@
+* File: bbaker.scr
+* Mob: The Baker(4022)
+
+#TRIGGER bk1
+Type 3
+Sc
+wfunc %rndnum% random 0 3
+if ( %rndnum% == 0 )
+   emote runs frantically to the oven to check on some baking bread.
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   say Could everyone please form an organized line!
+   cmd grumble
+   halt once~
+Sc
+if ( %rndnum% == 2 )
+   emote wipes his hands impatiently on his apron.
+   say Next!
+   halt once~
+End
+
+#END

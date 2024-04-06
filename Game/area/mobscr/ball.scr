@@ -1,0 +1,107 @@
+* File: ball.scr
+* Mob: Ball (27201)
+
+#TRIGGER combat
+Type 2
+Sc
+  cmd restore self
+if (%combat-from% == %red1% || %combat-from% == %red2%)
+  emote rolls away.
+  cmd at 1 stand
+  cmd flee
+  cmd flee
+  cmd flee
+  cmd flee
+  cmd flee
+  walkto 27201
+  halt once~
+Sc
+if (%combat-from% == %blue1% || %combat-from% == %blue2%)
+  emote rolls away.
+  cmd at 1 stand
+  cmd flee
+  cmd flee
+  cmd flee
+  cmd flee
+  cmd flee
+  walkto 27211
+  halt once~
+Sc
+  emote rolls away.
+  cmd at 1 stand
+  cmd flee
+  cmd flee
+  cmd flee
+  cmd flee
+  cmd flee
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+mfunc self %rvnum% room
+cmd restore self
+if (%rvnum% == 27201)
+  cmd peace
+  cmd goto 27200
+  signal 27200 redwins
+  halt once~
+Sc
+if (%rvnum% == 27211)
+  cmd peace
+  cmd goto 27200
+  signal 27200 bluewins
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+if ( %start-arg% cmp "start" )
+  zecho `kRed team is attacking west.  Blue team is attacking east.``
+  zecho `oFIRST GOAL WINS!``
+  cmd goto 27206
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc self %rvnum% room
+cmd restore self
+if (%rvnum% == 27201)
+  cmd peace
+  cmd goto 27200
+  signal 27200 redwins
+  halt once~
+Sc
+if (%rvnum% == 27211)
+  cmd peace
+  cmd goto 27200
+  signal 27200 bluewins
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+mfunc self %rvnum% room
+  cmd restore self
+  cmd at 1 rest
+if (%rvnum% == 27201)
+  cmd peace
+  cmd goto 27200
+  cmd goto 27200
+  signal 27200 redwins
+  halt once~
+Sc
+if (%rvnum% == 27211)
+  cmd peace
+  cmd goto 27200
+  cmd goto 27200
+  signal 27200 redwins
+  halt once~
+End
+
+#END

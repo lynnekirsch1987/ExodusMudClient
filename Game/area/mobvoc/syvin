@@ -1,0 +1,4 @@
+Indel
+hello|hi:>1:-:"Hello, how are you?"
+fine|good:>1:-:"Good I'm glad to hear that.  You take care now, I have a few things I have to do."; CMD wave $name
+bad|not&so&good|mad:>1:-:CMD comfort $name; "Cheer up, things will turn around for you."; CMD smile; CMD wave $name

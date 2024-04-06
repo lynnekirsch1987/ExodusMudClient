@@ -1,0 +1,22 @@
+* File: nobman.scr
+* Mob: Noble Man(4049)
+
+#TRIGGER nob1
+Type 3
+Sc
+wfunc %rndnum% random 0 2
+getch %namea%
+mfunc %namea% %name% name
+if ( %rndnum% == 0 )
+   say Here, peasant.  Take this and begone from my sight.
+   give 1 silver %name%
+   say Let it never be said that the nobility of Thesden are not generous!
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   whisper dwarf
+   point %name%
+   halt once~
+End
+
+#END

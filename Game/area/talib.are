@@ -1,0 +1,1278 @@
+#AREA
+talib.enc~
+The Abandoned Castle~
+{10 30} Talib  The Abandoned Castle~
+~
+3800 3900
+0 0
+0 0
+~
+#MOBILES
+#3800
+Guard~
+A guard~
+A guard - testing =)
+~
+~
+human~
+0 0 0 0
+A CDO -1000 0
+1 5 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 E
+stand stand male 100
+AHMV ABCDEFGHIJK medium iron~
+0 0 0 100
+1
+Hello~
+~
+#3801
+Owner master ghost~
+The Master's ghost~
+The Master's ghost is here to haunt you
+~
+The Master's ghost looks like a ghost..with a robe.
+~
+human~
+0 0 0 0
+AGO DEFKU -1000 0
+30 30 10d61+416 30d10+100 5d6+15 chill
+-9 -9 -9 0
+FGN EGIK 0 CFNO
+stand stand male 0
+AHIMV ABCDEFGHIJK large slime~
+0 0 0 100
+3
+owner.voc~
+~
+#3804
+ghost master stablemaster~
+The stablemaster's ghost~
+The stablemaster's ghost hovers here
+~
+~
+human~
+0 0 0 0
+ABG DFO -1000 0
+15 5 5d30+161 15d10+100 3d5+8 none
+0 0 0 5
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+3
+~
+~
+#3805
+Ghost Stallion~
+The ghost stallion~
+The ghost of a magnificent stallion is here
+~
+~
+syvin~
+0 0 0 0
+AZ HJ 0 0
+15 5 5d30+161 15d10+100 3d5+8 none
+-12 -12 -12 -3
+IOS B P IZ
+stand stand neutral 0
+AGHMV ABCDEFGHIJK large oldstyle~
+0 1 10000 1000
+5
+~
+~
+#3806
+Shopkeeper ghost~
+The shopkeeper's ghost~
+The shopkeeper's ghost is here to sell you things
+~
+~
+human~
+0 0 0 0
+ABC DF -1000 0
+0 4 5d30+161 20d10+100 3d5+8 beating
+0 0 0 0
+0 E 0 C
+stand stand male 0
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+3
+~
+~
+#0
+
+#OBJECTS
+#3800
+Diamond~
+A diamond~
+Talib's diamond~
+diamond~
+0
+armor ABI AO
+4
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+91 10 1000 P
+#3801
+sign~
+A sign~
+You see a sign here.~
+oldstyle~
+0
+trash MRT 0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10 0 P
+E
+sign~
+Stables are to the West
+~
+#3802
+Key~
+A bone-white key~
+A bone-white key i~
+ivory~
+0
+key S A
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10 10 P
+#3803
+Master's Sword~
+The master's sword~
+The Master's sword looks fearsome~
+ebony~
+0
+weapon ABFGS AN
+5
+~
+~
+~
+~
+A AC ABC A D
+0
+0
+30 1 100 P
+#3805
+saddle war~
+A war saddle~
+A saddle designed for war is here~
+oldstyle~
+0
+saddle S A
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 100 1000 P
+#3806
+bag saddlebag saddle bags~
+A saddle bag~
+A saddle bag is here~
+oldstyle~
+0
+pack S A
+6
+~
+~
+~
+~
+FIJ C 0 DGH CFG
+0
+0
+10 5 285 P
+#0
+
+#ROOMS
+#3800
+~
+~
+0 0 0
+Front Gate~
+You have come to the front gate of what appears to be an old abandoned
+castle.  The gate is barely hanging on the the hinges, and looks like it
+could fall off at any minute now.  To the north, you can see the front of
+the castle.  All the windows have bars on them, giving it an eery feeling.  
+~
+0 C 3
+0
+~
+D2
+~
+~
+0 0 3803
+S
+#3801
+~
+~
+0 0 0
+Castle Yard~
+You are at the northwest corner of the yard.  To the south a ways you can
+see what appears to be a gate of some sort.  Maybe it's a path that leads
+around to the back of the castle or something.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 3802
+D2
+~
+~
+0 0 3806
+S
+#3802
+~
+~
+0 0 0
+Castle yard~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 3803
+D3
+~
+~
+0 0 3801
+S
+#3803
+~
+~
+0 0 0
+Castle Yard~
+You are standing in the yard outside the front doors of the castle.  The
+yard stretches to the east and the west from here.  The ground here is rough
+and un-even from years of neglect.  The castle lies to the south.  Upon
+closer inspection, the castle looks as if it was once elegant and regal. 
+Time has eroded the bricks and windows.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3800
+D1
+~
+~
+0 0 3804
+D2
+~
+door~
+1 3802 3808
+D3
+~
+~
+0 0 3802
+S
+#3804
+~
+~
+0 0 0
+Castle Yard~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 3805
+D3
+~
+~
+0 0 3803
+S
+#3805
+~
+~
+0 0 0
+Castle Yard~
+You are standing in the northeast corner of the castle yard.  In the
+corner, you can see a pile of dirt that was shoved up against the wall.  To
+the south you can see a wall.  The yard continues to the west.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 3810
+D3
+~
+~
+0 0 3804
+S
+#3806
+~
+~
+0 0 0
+Castle Yard~
+You are at the southern edge of the castle yard.  To the south leads a
+small trail.  You can't see where it leads, as it turns a corner.  There is
+a sign at the bend in the road though.  Maybe you should go south and read
+it?  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3801
+D2
+~
+~
+0 0 3811
+S
+#3807
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 3812
+S
+#3808
+~
+~
+0 0 0
+Front Foyer~
+You are standing in the front foyer of the abandoned castle.  To the
+south you see a long, high-roofed hallway, with that looks like some stairs
+off to the south a ways.  The floor looks like it was very elegant at one
+time, but time has eaten away at the pretty tiles.  The exit, in case you
+had forgotten, is to the north.  You might not want to forget that.  This
+place is giving you the creeps.  
+~
+0 CD 0
+0
+~
+D0
+~
+door~
+1 3802 3803
+D2
+~
+~
+0 0 3813
+S
+#3809
+~
+~
+0 0 0
+Sitting Room~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 3814
+S
+#3810
+~
+~
+0 0 0
+Castle Yard~
+You are standing at the southern end of the yard.  The walls here
+surround you, and you feel closed in.  There appears no way to continue but
+back towards the north.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3805
+S
+#3811
+~
+~
+0 0 0
+Small Trail~
+You are on a small trail to the south of the castle yard.  It is dark
+here, as the castle itself blocks the light from reaching here.  The trail
+is dirt, with gravel and rocks scattered everywhere.  Weeds have begun to
+grow over the trail though.  
+~
+0 A 2
+0
+~
+D0
+~
+~
+0 0 3806
+D2
+~
+~
+0 0 3817
+S
+#3812
+~
+~
+0 0 0
+Dining Room~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3807
+D1
+~
+~
+0 0 3813
+D2
+~
+~
+0 0 3821
+S
+#3813
+~
+~
+0 0 0
+Hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3808
+D1
+~
+~
+0 0 3814
+D2
+~
+~
+0 0 3822
+D3
+~
+~
+0 0 3812
+S
+#3814
+~
+~
+0 0 0
+Sitting Room~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3809
+D2
+~
+~
+0 0 3823
+D3
+~
+~
+0 0 3813
+S
+#3815
+~
+~
+0 0 0
+Stable Store~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 3898
+S
+#3816
+~
+~
+0 0 0
+Horse Stall~
+~
+0 F 0
+0
+~
+D2
+~
+~
+0 0 3819
+S
+#3817
+~
+~
+0 0 0
+Bend in the Trail~
+A small bend in the trail behind the castle.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3811
+D3
+~
+~
+0 0 3820
+S
+#3818
+~
+~
+0 0 0
+Stable~
+You are standing in the middle of the stables.  The stablemaster's ghost
+is here to help you.  
+~
+0 CF 0
+0
+~
+S
+#3819
+~
+~
+0 0 0
+Stables~
+You are standing in the old stables.  The smell of hay is extremely
+strong here.  To the north, you see a stall.  To the south, is the old
+office, and to the west are more stalls.  You hear some noises coming from
+that way.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3816
+D1
+~
+door~
+1 0 3820
+D2
+~
+~
+0 0 3826
+D3
+~
+~
+0 0 3898
+S
+#3820
+~
+~
+0 0 0
+Outside the Stables~
+You are standing outside the stables that once served the residents of this
+castle. You can still smell the hay from inside. In fact, you can even hear
+some noise coming from inside! Maybe you should check it out.
+~
+0 0 3
+0
+~
+D1
+~
+~
+0 0 3817
+D3
+~
+barn~
+1 0 3819
+S
+#3821
+~
+~
+0 0 0
+Dining Room~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3812
+D2
+~
+~
+0 0 3827
+S
+#3822
+~
+~
+0 0 0
+Hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3813
+D2
+~
+~
+0 0 3828
+S
+#3823
+~
+~
+0 0 0
+Sitting Room~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3814
+D2
+~
+~
+0 0 3829
+S
+#3826
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3819
+S
+#3827
+~
+~
+0 0 0
+Dining Room~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3821
+D1
+~
+~
+0 0 3828
+D2
+~
+~
+0 0 3830
+S
+#3828
+~
+~
+0 0 0
+Hallway~
+You are standing in the middle of the hallway.  A set of stairs leading
+up is here.  To the east you can see the sitting room, while to the west the
+dining room is visible.  On to the south is the end of the hallway, and the
+foyer is to the north a ways.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3822
+D1
+~
+~
+0 0 3829
+D2
+~
+~
+0 0 3831
+D3
+~
+~
+0 0 3827
+D4
+~
+~
+0 0 3847
+S
+#3829
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3823
+D2
+~
+~
+0 0 3832
+D3
+~
+~
+0 0 3828
+S
+#3830
+~
+~
+0 0 0
+Kitchen~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3827
+D1
+~
+~
+0 0 3831
+D2
+~
+~
+0 0 3834
+S
+#3831
+~
+~
+0 0 0
+Hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3828
+D2
+~
+~
+0 0 3835
+D3
+~
+~
+0 0 3830
+S
+#3832
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3829
+D1
+~
+~
+0 0 3833
+D2
+~
+~
+0 0 3836
+S
+#3833
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 3832
+S
+#3834
+~
+~
+0 0 0
+Kitchen~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3830
+S
+#3835
+~
+~
+0 0 0
+Hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3831
+D1
+~
+~
+0 0 3836
+S
+#3836
+~
+~
+0 0 0
+-~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3832
+D3
+~
+~
+0 0 3835
+S
+#3837
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 3838
+D2
+~
+~
+0 0 3840
+S
+#3838
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 3839
+D2
+~
+~
+0 0 3841
+D3
+~
+~
+0 0 3837
+S
+#3839
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 3842
+D3
+~
+~
+0 0 3838
+S
+#3840
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3837
+S
+#3841
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3838
+D2
+~
+~
+0 0 3844
+S
+#3842
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3839
+D2
+~
+~
+0 0 3845
+S
+#3843
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 3844
+S
+#3844
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3841
+D2
+~
+~
+0 0 3847
+D3
+~
+~
+0 0 3843
+S
+#3845
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3842
+D2
+~
+~
+0 0 3848
+S
+#3846
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 3849
+S
+#3847
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3844
+D2
+~
+~
+0 0 3850
+D5
+~
+~
+0 0 3828
+S
+#3848
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3845
+S
+#3849
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3846
+D2
+~
+~
+0 0 3852
+S
+#3850
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3847
+D2
+~
+~
+0 0 3853
+S
+#3851
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 3854
+S
+#3852
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3849
+D1
+~
+~
+0 0 3853
+S
+#3853
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3850
+D1
+~
+~
+0 0 3854
+D3
+~
+~
+0 0 3852
+S
+#3854
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 3851
+D3
+~
+~
+0 0 3853
+S
+#3898
+~
+~
+0 0 0
+Stables~
+You are standing in the middle of the stables. The stablemaster's ghost
+is here to help you.
+~
+0 F 0
+0
+~
+D0
+~
+~
+0 0 3815
+D1
+~
+~
+0 0 3819
+S
+#3899
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#0
+
+#RESETS
+D 0 3803   2    2	* Castle Yard [south]
+D 0 3808   0    2	* Front Foyer [north]
+O 0 3801   0 3817 1	* A sign at Bend in the Trail
+M 0 3801   1 3842  1	* The master's ghost
+M 0 3804   1 3818  1	* The stablemaster's ghost
+M 0 3805   5 3818  2	* The ghost stallion
+M 0 3805 100 3899 20	* The ghost stallion
+M 0 3804   2 3898  1	* The stablemaster's ghost
+M 0 3806   1 3815  1	* The shopkeeper's ghost
+G 0 3806 -1		* A saddle bag to The shopkeeper's ghost
+G 0 3805 -1		* A war saddle to The shopkeeper's ghost
+S
+
+#SHOPS
+3804  0 36  6  0  0 	110  95 	9 17	* The stablemaster's ghost
+3806  0 36  6  0  0 	100 100 	9 17	* The shopkeeper's ghost
+0
+
+#SPECIALS
+S
+
+#$

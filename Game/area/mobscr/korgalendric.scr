@@ -1,0 +1,72 @@
+#TRIGGER cmb
+Type 2     
+Sc     
+wfunc %rndnum% random 0 7     
+if (%rndnum% == 0)     
+   pray 'ray of truth'     
+   halt once~     
+Sc     
+if (%rndnum% == 1)     
+   pray 'heal'     
+   halt once~     
+End     
+    
+#TRIGGER tick    
+Type 3    
+Sc    
+mfunc %tick-to% %rvnum% room    
+halt once~    
+End    
+     
+#TRIGGER enter     
+Type 10     
+Sc     
+mfunc %enter-to% %rvnum% room     
+walkto mfunc %enter-to% %rvnum% room     
+walkto 6329     
+  cmd pray 'ray of truth' raven     
+  cmd pray 'ray of truth' wolf     
+  cmd pray 'ray of truth' svrikkt     
+  cmd pray 'ray of truth' orc     
+  halt once~     
+End     
+#TRIGGER move     
+Type 11     
+Sc     
+mfunc %move-to% %rvnum% room     
+  walkto 6329     
+  cmd pray 'ray of truth' raven     
+  cmd pray 'ray of truth' wolf     
+  cmd pray 'ray of truth' svrikkt     
+  cmd pray 'ray of truth' orc     
+  halt once~     
+End     
+     
+#TRIGGER Daddy     
+Type 8     
+Sc    
+mfunc %enter-from% %name% name    
+if (%Daddy-arg% cmp "Daddy")     
+  echo `oGalendric`` says`a '`hSenni!`a'``    
+  wait 3~     
+Sc    
+if (%Daddy-arg% cmp "Daddy")     
+  cmd pray 'sanctuary' %name%     
+  cmd pray 'bless' %name%     
+  cmd at 1 load obj 6316     
+  cmd string obj key short `nThe key to %name%'s Cave``     
+  echo `oGalendric`` says`a '`hI will repay you with everything I have, my home`a'``    
+  cmd emote rummages through his robes and finally he finds a small silver key.     
+  cmd give key %name%     
+  wait 3~     
+Sc     
+if (%Daddy-arg% cmp "Daddy")     
+  echo `oGalendric`` says`a '`hNow, Senni!`a'``    
+  echo `oGalendric`` says`a '`hIt's about time you head back to the abbey!`a'``    
+  wait 3~  
+Sc  
+  signal 6307 getlostbitch     
+  halt once~   
+End     
+     
+#END 

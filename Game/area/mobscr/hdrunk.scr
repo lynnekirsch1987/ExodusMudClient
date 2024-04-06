@@ -1,0 +1,21 @@
+* File: hdrunk.scr
+* Mob: drunk(21054)
+
+#TRIGGER horatio
+Type 5
+Sc
+mfunc %horatio-from% %name% name
+ofunc %horatio-arg% %what% vnum
+ofunc %horatio-arg% %uhh% name
+if (%what% == 3000) || (%what% == 3001) || (%what% == 3154) || (%what% == 11288) || (%what% == 11290) || (%what% == 16027) || (%what% == 20060) || (%what% == 28027)
+say Thanshsks vhery mush.
+drink %uhh%
+halt once~
+Sc
+say Uhh...
+emote belches loudly.
+emote puts %uhh% into his pants and staggers away.
+~
+End
+
+#END

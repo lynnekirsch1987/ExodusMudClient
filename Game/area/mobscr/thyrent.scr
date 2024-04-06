@@ -1,0 +1,26 @@
+* Script: thyrent.scr
+* Mob: Thyrent Shaman (21442)
+* Creator: Minax
+* Last Modified: November 29, 2003
+
+#TRIGGER tick
+Type 3
+Sc
+*wfunc %weather% weather
+halt once~
+End
+
+*#TRIGGER give
+*Type 5
+*Sc
+*  ofunc %give-arg% %item% vnum
+*if (%item% != 18)
+*halt once~
+*Sc
+*  say Thank you, %give-from%.  This will make a lovely addition to my feather weather hat.
+*  emote smile as he places the feather among the many others in his hat.
+*  wsign weather 0
+*halt once~
+*End
+
+#END

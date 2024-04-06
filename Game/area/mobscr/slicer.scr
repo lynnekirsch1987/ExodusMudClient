@@ -1,0 +1,28 @@
+* File: slicer.scr
+* Mob: slicer trap(804)
+
+#TRIGGER ticker
+Type 3
+Sc 
+emote slides in and out of the wall silently.~
+End
+
+#TRIGGER slicing
+Type 2
+Sc
+wfunc %numbah% random 0 5
+if ( %numbah% == 0 )
+   emote nicks you on the elbow as the machinery jolts.
+   halt once~
+Sc
+if ( %numbah% == 2 )
+   emote slides swiftly across your torso, leaving a trail of blood.
+   halt once~
+Sc
+if ( %numbah% == 4 )
+   emote clicks and whirs madly as blades mutilate your appearance.
+   halt once~
+End
+
+#END
+

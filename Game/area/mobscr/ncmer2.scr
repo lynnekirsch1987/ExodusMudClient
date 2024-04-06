@@ -1,0 +1,40 @@
+* script: ncmer1.scr
+* merchant in Nidae City (8538)
+
+#TRIGGER tick
+Type 3
+Sc
+if (%timer% > 0)
+  let %timer% -= 1
+halt once~
+Sc
+* if (%timer% < 1) <- can't do an if within an if, so if the if above fails, this is essentially true
+  let %timer% == 30
+  wfunc %radom% random 0 9
+  wfunc %rndom% random 0 9
+  wfunc %ranom% random 0 9
+  wfunc %randm% random 0 9
+  cmd at 1 drop all
+  cmd at 1 purge
+  halt statement~
+* 30% chance of loading each item
+  Sc
+  if ( %radom% < 3 )
+    cmd at 1 load obj 8530
+    halt statement~
+  Sc
+  if ( %rndom% < 3 )
+    cmd at 1 load obj 8538
+    halt statement~
+  Sc
+  if ( %ranom% < 3 )
+    cmd at 1 load obj 8534
+    halt statement~
+  Sc
+  if ( %randm% < 3 )
+    cmd at 1 load obj 8533
+    halt statement~
+  halt once~
+End
+
+#END

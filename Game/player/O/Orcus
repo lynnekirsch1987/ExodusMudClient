@@ -1,0 +1,1975 @@
+#PLAYER
+Name Orcus~
+Id   836065713
+LogF 871846118
+LogO 871846118
+Vers 5
+Desc this is a short fat little dwarf, his huge gut hangs over his weapon belt.
+~
+Prom HP %h/%H MA %m/%M MV %v S %s G %g %S ~
+Race dwarf~
+Clan teluk~
+Sex  1
+Cla  3
+Levl 91
+Wants 3
+PBKill 25
+MBKill 33
+PHKill 38
+MHKill 13109
+Depty 0
+Sec  0
+Plyd 3129342
+Bank_Gold 64408
+Bank_Silv 190000
+Email quix@ark-la-tex.com~
+Host 167-83-96.ipt.aol.com~
+Not  871845167 871666692 0 871631034 863509127
+Scro 98
+Room 25000
+HMV  1986 1986 635 695 546 546
+Hand 2
+Gold 6
+Silv 780
+Exp  209300
+Act  DEFGQ
+AfBy DFJT
+Comm MNOQSX
+Pos  8
+Prac 7
+Save  -7
+Alig  -1000
+Hit   27
+Dam   34
+ACs -41 -25 -34 20
+Attr 22 13 13 13 21 5
+AMod 3 1 2 2 0 -11
+Pass OrJxWY4ohZn6I~
+Layhands 0
+Exorcise 0
+Titl !~
+Pnts 46
+TSex 1
+LLev 564
+Loner 1
+HMVP 1513 320 486
+Cnd  -16 13 24 24
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Alias sc sac corpse~
+Alias gac get all corpse~
+Alias o order~
+Alias ga get all~
+Sk 25 'armor'
+Sk 24 'fireshield'
+Sk 1 'blindness'
+Sk 24 'web'
+Sk 1 'burning hands'
+Sk 24 'cancellation'
+Sk 25 'charm person'
+Sk 1 'continual light'
+Sk 34 'create food'
+Sk 26 'create spring'
+Sk 24 'curse'
+Sk 25 'demonfire'
+Sk 24 'edification'
+Sk 24 'penance'
+Sk 24 'deconsecrate'
+Sk 42 'detect hidden'
+Sk 45 'detect invis'
+Sk 24 'dispel magic'
+Sk 12 'enchant armor'
+Sk 16 'enchant weapon'
+Sk 24 'fly'
+Sk 1 'giant strength'
+Sk 27 'haste'
+Sk 60 'heal'
+Sk 40 'invisibility'
+Sk 27 'mirror'
+Sk 25 'lightning bolt'
+Sk 58 'locate object'
+Sk 25 'pass door'
+Sk 1 'poison'
+Sk 38 'summon'
+Sk 87 'gate'
+Sk 1 'nexus'
+Sk 1 'refresh'
+Sk 24 'sleep'
+Sk 33 'stone skin'
+Sk 57 'teleport'
+Sk 24 'word of recall'
+Sk 24 'acid breath'
+Sk 24 'aqua breathe'
+Sk 1 'ice beam'
+Sk 24 'Ballad of Ole Rip'
+Sk 35 'The Pipers Melody'
+Sk 24 'Maelstrom of Nyvenban'
+Sk 24 'To the Four Corners'
+Sk 24 'Path of the Nomad'
+Sk 25 'Falkentynes Fury'
+Sk 25 'bark skin'
+Sk 58 'sanctuary'
+Sk 30 'divine protection'
+Sk 24 'calm'
+Sk 27 'frenzy'
+Sk 25 'conservancy'
+Sk 100 'axe'
+Sk 115 'dagger'
+Sk 101 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 109 'shield block'
+Sk 101 'staff'
+Sk 100 'sword'
+Sk 100 'uppercut'
+Sk 100 'riding'
+Sk 52 'elusiveness'
+Sk 40 'tame'
+Sk 100 'kai'
+Sk 100 'backstab'
+Sk 150 'dual wield'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 86 'dirt kicking'
+Sk 14 'disarm'
+Sk 218 'dodge'
+Sk 124 'fisticuffery'
+Sk 378 'enhanced damage'
+Sk 12 'swimming'
+Sk 51 'envenom'
+Sk 143 'hand to hand'
+Sk 100 'kick'
+Sk 113 'sweep'
+Sk 440 'parry'
+Sk 2 'rescue'
+Sk 113 'leadership'
+Sk 100 'assassinate'
+Sk 100 'door bash'
+Sk 49 'layhands'
+Sk 49 'exorcism'
+Sk 63 'instruments'
+Sk 72 'composition'
+Sk 100 'conceal'
+Sk 100 'redirect'
+Sk 89 'trample'
+Sk 179 'second attack'
+Sk 141 'third attack'
+Sk 115 'fast healing'
+Sk 100 'influence'
+Sk 100 'hide'
+Sk 100 'camouflage'
+Sk 100 'stalk'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 2 'pick lock'
+Sk 100 'sneak'
+Sk 100 'track'
+Sk 40 'camping'
+Sk 40 'foraging'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'steal'
+Sk 99 'palm'
+Sk 95 'scrolls'
+Sk 2 'staves'
+Sk 6 'wands'
+Sk 50 'entangle'
+Sk 100 'call mount'
+Cmp 'test' 12 91 'This is a test'
+Cmp 'hitroll' 13 91 'This makes me hit harder!'
+Cmp 'battlesong' 3 91 'battlesong'
+Cmp 'symphony' 10 91 'symphony'
+Gr 'rom basics'
+Affc 'detect invis'   0  67  65   0   0          8 0 ''
+Affc 'detect hidden'   0  67  65   0   0         32 0 ''
+Affc 'fly'   0  90  -1   0  25     524288 0 ''
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of frenzy and conservancy~
+Cond 0
+Wear -1
+Lev  63
+Cost 0
+Val  63 143 146 -1 -1 0 0
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 4106
+Nest 0
+Cond 0
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 51
+Nest 0
+ExtF 17039681
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 5357
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 12936
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 6
+Lev  36
+Cost 0
+Affc 'enchant weapon'   0  42  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  42  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 52
+Nest 0
+Name aura~
+ShD  auvyron's aura~
+Desc Uncompromising, brazen, and wise with the depth of ages, Auvyron's aura blazes within you as you hold this light.~
+ExtF 262465
+Cond 0
+Wear 19
+Cost 0
+Affc 'fly'   0  90  -1   0  25     524288 0 ''
+End
+
+#O
+Vnum 720
+Nest 0
+Cond 0
+Wear 0
+Cost 5000
+End
+
+#O
+Vnum 12923
+Nest 0
+Cond 0
+Wear 13
+Cost 15
+End
+
+#O
+Vnum 12922
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 18979
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4097
+Nest 1
+Cond 0
+Wear -1
+Cost 21000
+End
+
+#O
+Vnum 28006
+Nest 1
+Cond 0
+Wear -1
+Cost 420
+End
+
+#O
+Vnum 11539
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12061
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+ExDe eye~ Eww...A bloody severed eye.
+~
+End
+
+#O
+Vnum 12922
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 7064
+Nest 1
+ExtF 3
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1262
+Nest 1
+ExtF 67928064
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of sanctuary~
+Cond 0
+Wear -1
+Lev  90
+Cost 469
+Val  137 0 0 0 0 0 0
+Spell 0 'sanctuary'
+End
+
+#O
+Vnum 18935
+Nest 1
+Cond 0
+Wear -1
+Cost 743
+End
+
+#O
+Vnum 20962
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20962
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12216
+Nest 1
+Cond 0
+Wear -1
+Cost 503
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+End
+
+#O
+Vnum 6
+Nest 1
+ExtF 76414978
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7902
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4097
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18949
+Nest 1
+Cond 0
+Wear -1
+Cost 609
+End
+
+#O
+Vnum 6
+Nest 1
+ExtF 68026402
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 28024
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  71
+Cost 0
+Val  1 4 13 1 0 0 0
+Affc 'enchant weapon'   0  72  -1   7  18          0 0 ''
+Affc 'enchant weapon'   1  72  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 134
+Nest 1
+ExtF 67897924
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7258
+Nest 1
+Cond 0
+Wear -1
+Cost 1750
+Val  1 6 9 3 24 0 0
+End
+
+#O
+Vnum 7040
+Nest 1
+ExtF 3
+Cond 0
+Wear -1
+Cost 20193
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 4044
+Nest 1
+ShD  `ka piece of yellowed parchment`` of web~
+Cond 0
+Wear -1
+Lev  91
+Cost 980
+Val  91 5 -1 -1 -1 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 4044
+Nest 1
+Cond 0
+Wear -1
+Cost 980
+End
+
+#O
+Vnum 16308
+Enchanted
+Nest 1
+ExtF 66
+Cond 0
+Wear -1
+Lev  86
+Cost 0
+Affc 'enchant armor'   1  85  -1  -1  17          0 0 ''
+Affc 'reserved'   1  85  -1   1  19          0 0 ''
+Affc 'reserved'   1  85  -1   1  18          0 0 ''
+End
+
+#O
+Vnum 3226
+Nest 1
+Cond 0
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 21519
+Nest 1
+Cond 0
+Wear -1
+Cost 17000
+End
+
+#O
+Vnum 626
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25007
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 155
+Enchanted
+Nest 1
+ExtF 0
+Cond 0
+Wear -1
+Cost 89203
+End
+
+#O
+Vnum 16310
+Nest 1
+Cond 0
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 11420
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 143
+Nest 0
+Cond 0
+Wear 10
+Cost 2409
+End
+
+#O
+Vnum 11540
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 7067
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 4166
+Nest 0
+Cond 0
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11400
+Enchanted
+Nest 0
+ExtF 262678
+Cond 0
+Wear -1
+Cost 0
+Affc 'reserved'   1  45  -1  -3  26          0 0 ''
+Affc 'reserved'   1  45  -1   2   3          0 0 ''
+End
+
+#O
+Vnum 11400
+Enchanted
+Nest 0
+ExtF 262678
+Cond 0
+Wear -1
+Cost 0
+Affc 'reserved'   1  45  -1  -3  26          0 0 ''
+Affc 'reserved'   1  45  -1   2   3          0 0 ''
+End
+
+#O
+Vnum 5350
+Nest 0
+Cond 0
+Wear 11
+Cost 890
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 9
+Lev  22
+Cost 0
+Affc 'enchant weapon'   1  46  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  46  -1   6  18          0 0 ''
+End
+
+#O
+Vnum 4231
+Nest 0
+Cond 0
+Wear -1
+Cost 7986
+End
+
+#O
+Vnum 11408
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11407
+Enchanted
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+Affc 'reserved'   1  67  -1   2  19          0 0 ''
+Affc 'reserved'   1  67  -1  -2  26          0 0 ''
+End
+
+#O
+Vnum 11408
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 0
+Cond 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 4166
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4166
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16314
+Nest 0
+Cond 0
+Wear 1
+Cost 5000
+End
+
+#O
+Vnum 11415
+Nest 0
+Cond 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 12936
+Nest 0
+Cond 0
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4097
+Nest 0
+Cond 0
+Wear -1
+Cost 21000
+End
+
+#O
+Vnum 18960
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+ExDe papermsg~ `bA Royal Proclamation
+`dI, Ferath Athanmere, King of Exodus, Lord of Castle Dunluce and 
+Sovereign of the City of Thesden do proclaim that the assertions of
+one Warren Rieger, member of the Clan Alliant are grossly over stated.
+.
+`dNever was I 'bound' or 'gagged'.  If I was bleeding it was entirely
+due to the fact that I had accidentally bumped my head while searching
+the back corridors of Castle Dunluce with an unreliable torch.  this
+also accounts for my somewhat disheveled state when this Warren person
+invaded my castle, disturbing my servants and, in general, raising far
+greater a cafuffle than I have ever cared for.  In future the general 
+riff raff of the city will please be more curteous when in the castle.
+.
+`dAs for this supposed Coup which my Ministers inform my has taken place
+and to the Sidhe Paarshad who is said to have orchestrated it.  I give 
+it no consideration whatsoever.  If ignorant people in the city chose
+to believe it without venturing to the castle to verify it I can accept
+not responsibility.  In future the citizens are instructed to be more
+sceptical of such things.
+.
+`dThe one good thing I see which came out of this whole affair is the fact
+that the idea of improving public works was brought forward.  This is 
+something I endorse fully.  If the public wants a better Thesden they 
+had better pay for a better Thesden themselves.  I am cash strapped to
+defend the citizenry from Vroath incursions and other such things. I 
+cannot be expected to pay for everything that goes on.  Show some civic
+pride and donate your own money.
+.
+`bFerath Athanmere, King of Exodus.
+~
+End
+
+#O
+Vnum 2619
+Nest 0
+ExtF 262145
+Cond 0
+Wear 15
+Cost 200
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of ray of truth and ray of truth~
+Cond 0
+Wear -1
+Lev  69
+Cost 980
+Val  69 97 97 -1 -1 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of ray of truth and ray of truth~
+Cond 0
+Wear -1
+Lev  69
+Cost 980
+Val  69 97 97 -1 -1 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of ray of truth and ray of truth~
+Cond 0
+Wear -1
+Lev  69
+Cost 980
+Val  69 97 97 -1 -1 0 0
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of ray of truth and ray of truth~
+Cond 0
+Wear -1
+Lev  69
+Cost 980
+Val  69 97 97 -1 -1 0 0
+End
+
+#O
+Vnum 4323
+Nest 0
+Cond 0
+Wear -1
+Cost 8182
+Val  1 25000 0 0 0 0 0
+End
+
+#O
+Vnum 11374
+Nest 0
+ExtF 17039680
+Cond 0
+Wear 18
+Cost 15049
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+ExDe flute spirits~ This is a flute.
+~
+End
+
+#O
+Vnum 2622
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 4097
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

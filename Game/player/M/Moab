@@ -1,0 +1,636 @@
+#PLAYER
+Name Moab~
+Id   1048304143
+LogF 1049408346
+LogO 1049408354
+Vers 7
+Prom %h/%H HP %m/%M MA %v/%V MV %X TNL %S ~
+Race dwarf~
+Sex  1
+Cla  8
+Levl 3
+MHKill 66
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 2440
+Bank_Gold 0
+Bank_Silv 0
+Email ichor42@aol.com~
+Souls 4
+Host ACCAD128.ipt.aol.com~
+Not  1048304713 1048304713 1048304713 1048304713 1048304713 1048304713 1048304713
+Scro 22
+Room 4056
+HMV  46 46 114 114 104 106
+Hand 2
+Gold 0
+Silv 323
+Exp  21972
+Act  DFGQ
+AfBy J
+Comm EFGNORS
+Pos  8
+Prac 3
+Alig  -956
+Hit   14
+Dam   18
+ACs 77 77 77 94
+Attr 17 13 14 10 15 5
+AMod 8 3 0 4 3 0
+Pass MoRZjs0tienek~
+Layhands 0
+Exorcise 0
+Titl  `eDropping the `gBomb on the `qSwedes~
+Pnts 87
+TSex 1
+LLev 0
+Loner 0
+HMVP 43 119 106
+Cnd  10 3 25 15
+Color 1 7 1 23 3 14 8 0 12 8 8 10 13 12 5 8 13 14 0 0
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'dispel good'
+Sk 1 'heat metal'
+Sk 1 'know alignment'
+Sk 1 'protection good'
+Sk 1 'shocking blade'
+Sk 1 'frost blade'
+Sk 1 'flaming blade'
+Sk 1 'chaotic blade'
+Sk 1 'venomous blade'
+Sk 1 'vampiric blade'
+Sk 1 'lightning burst'
+Sk 1 'ice burst'
+Sk 1 'fire burst'
+Sk 1 'unholy burst'
+Sk 1 'hellscape'
+Sk 70 'summon sword'
+Sk 1 'invocation'
+Sk 1 'shield block'
+Sk 70 'sword'
+Sk 1 'riding'
+Sk 1 'berserk'
+Sk 1 'disarm'
+Sk 16 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'door bash'
+Sk 1 'butcher'
+Sk 1 'redirect'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Gr 'rom basics'
+Gr 'dark knight'
+Gr 'faces of evil'
+Gr 'shades of the blade'
+Gr 'elemental burst'
+GStats  8 0 66 0 0 62 0 21972 33 
+End
+
+#O
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade 'Swedish Slaughterer`h'``~
+Desc `hThis Reaver blade bares the inscription 'Swedish Slaughterer`h'.``~
+Cond 0
+Wear 16
+Cost 0
+Val  1 2 3 3 0 0 0
+Affc 'armor'   1   3  -1   2  18          0 0 ''
+Affc 'armor'   1   3  -1   1  19          0 0 ''
+Affc 'armor'   1   3  -1   2  18          0 0 ''
+Affc 'armor'   1   3  -1   1  19          0 0 ''
+Affc 'armor'   1   3  -1   1  18          0 0 ''
+Affc 'armor'   1   3  -1   1  19          0 0 ''
+Affc 'armor'   1   3  -1   1  18          0 0 ''
+Affc 'armor'   1   3  -1   1  19          0 0 ''
+Affc 'armor'   1   3  -1   1  18          0 0 ''
+Affc 'armor'   1   3  -1   1  19          0 0 ''
+Affc 'armor'   1   3  -1   1  18          0 0 ''
+End
+
+#O
+Vnum 20956
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 6221
+Nest 0
+Name white iron rod newbie~
+ShD  `oA`k (`cnewbie`k)`o iron rod``~
+ExtF 25165824
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 20966
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 11533
+Nest 0
+ExtF 8388672
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 12923
+Nest 0
+Name sparkling newbie box `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `d[`kA Sparkling Newbie Box`d]``~
+Desc `kA sparkling newbie box from`o Iverath`k is here, stuffed with newbish items.``~
+Cond 0
+Wear -1
+Lev  1
+Cost 15
+End
+
+#O
+Vnum 5548
+Enchanted
+Nest 1
+Name bone sword newbie~
+ShD  `da`k (`cnewbie`k)`d sword``~
+ExtF 262208
+Cond 0
+Wear -1
+Lev  19
+Cost 2500
+Val  1 4 5 38 8 0 0
+Affc 'enchant weapon'   1  74  -1   4  19          0 0 ''
+Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 4863
+Enchanted
+Nest 1
+Name newbie stiletto `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `da`k (`cnewbie`k)`d stiletto``~
+Desc `da`k (`cnewbie`k)`d stiletto lies here in all its glory.``~
+ExtF 64
+Cond 0
+Wear -1
+Lev  16
+Cost 6500
+Affc 'enchant weapon'   0  74  -1   3  18          0 0 ''
+Affc 'enchant weapon'   1  74  -1   4  19          0 0 ''
+End
+
+#O
+Vnum 4569
+Nest 1
+Name book noob speak how `f*`mHwo2speekNoob`f*`` `oByHaylie``~
+ShD  "How to Speak Noob"`k - By Haylie BoBaylie``~
+Desc `dA book is here, it says`m How to Speak Noob`d on the cover.``~
+Cond 0
+Wear -1
+Cost 50
+ExDe papermsg~ ``Hello! And Welcome to how to speak noob! Reading this book will make you an 
+expert when it comes to dealing with noobs! Lord knows they're hard to
+understand!
+Here are some simple word translations to get you on your way to mastering noobish!
+``
+`hu  - You, often used in sentences about another noob.
+`hr - Are, commonly used following 'u'.
+`hkow - Know, used when claiming the noob actually contains some knowlege.
+`h4 - For, used when asking for something, such as eq, or quad.
+`hplz - Please, used when begging for something they can't do on their own.
+`hsry - Sorry, often used after the imms yell at them.
+`hwat - What, ie: wat r u doin?
+`hdat - That, when asking for something they often refer to it as 'dat'.
+`hdem - Them, the plural of 'dat'.
+`hmeen - Mean, refering to more intelligent players upon insult.
+`htot - Thought, I'm not quite sure when this is used, since they never think.
+`hlvl - Level, something they will all beg you to do for them.
+`hok - Okay, no real reason for them to use it, they just..do.``
+``
+Alright, now, you've got a basic knowlege of the language. 
+Try to translate the following sentences:
+``
+`gu r meen, iverath!
+`gu r gonna lvl me ok?
+`gam i ur frend? (friend, not noted above since there is a complete lack of noob friends.)
+`gi even got good eq u should lvl me
+`ghey can u give us quad???
+`gi am not 12
+`gwat is it 4??
+`gu kow where my corpse is????
+`gur going to get my corpse right?
+``
+Please purchase volume two, to become a true noobspeaking master.``
+~
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 20959
+Nest 1
+Name slippers gymnast newbie~
+ShD  `ga pair of`k (`cnewbie`k)`g slippers``~
+Cond 0
+Wear -1
+Cost 53
+End
+
+#O
+Vnum 5653
+Nest 1
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 20956
+Nest 1
+Name red silk sash newbie~
+ShD  `aA`i R`be`id`k (`cnewbie`k)`b S`ias`bh``~
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 6221
+Nest 1
+Name white iron rod newbie~
+ShD  `oA`k (`cnewbie`k)`o iron rod``~
+Cond 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 5637
+Nest 1
+Name cougarskin skin jacket newbie~
+ShD  `da`k (`cnewbieskin`k)`d jacket``~
+ExtF 262144
+Cond 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 4450
+Nest 1
+ExtF 76316672
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4059
+Nest 1
+Cond 0
+Wear -1
+Time 9
+Cost 9
+End
+
+#O
+Vnum 4059
+Nest 1
+Cond 0
+Wear -1
+Time 9
+Cost 9
+End
+
+#O
+Vnum 4201
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4262
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4263
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4202
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  0 0 93 0 0 0 0
+End
+
+#O
+Vnum 21072
+Nest 0
+Name tarnished silver newbie ring~
+ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
+Cond 0
+Wear 2
+Cost 12
+End
+
+#O
+Vnum 21072
+Nest 0
+Name tarnished silver newbie ring~
+ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
+Cond 0
+Wear 1
+Cost 12
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+Name brass knuckles newbie~
+ShD  `k (`cNewbie`k)`k K`on`huck`ole`ks``~
+Wt   0
+Cond 0
+Wear 9
+Lev  19
+Cost 0
+Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
+Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 5630
+Nest 0
+Name boar earring tusk newbie~
+ShD  `da`k (`cnewbie's`k)`d tusk earring``~
+ExtF 262144
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 4279
+Nest 0
+Name hard leather boots newbie~
+ShD  `dHard`k (`cnewbie`k)`d Boots``~
+Wt   0
+Cond 0
+Wear 8
+Lev  10
+Cost 0
+End
+
+#O
+Vnum 7265
+Nest 0
+Name spirit chaos annoying newbie~
+ShD  `hThe`n S`gpiri`nt`h of`k (`cthe annoying newbie`k)``~
+ExtF 4224
+Cond 0
+Wear 19
+Lev  20
+Cost 1500
+End
+
+#O
+Vnum 723
+Nest 0
+Name sapphire newbie moon~
+ShD  `ea`k (`cnewbie`k)`e moon``~
+Cond 0
+Wear 0
+Lev  20
+Cost 8309
+End
+
+#O
+Vnum 20964
+Nest 0
+Name pants newbie cavalry~
+ShD  `ba pair of`k (`cnewbie`k)`b pants``~
+Cond 0
+Wear 7
+Lev  20
+Cost 140
+End
+
+#O
+Vnum 21063
+Nest 0
+Name fox black tails newbie~
+ShD  `aBlack-Tipped`k (`cnewbie`k)`a Tails``~
+Cond 0
+Wear 10
+Cost 15
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+Cond 0
+Wear 4
+Cost 300
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+Cond 0
+Wear 3
+Cost 300
+End
+
+#O
+Vnum 559
+Nest 0
+Name cypress shield newbie~
+ShD  `dA`k (`cnewbie`k)`d S`ch`di`ce`dl`cd``~
+Wt   0
+Cond 0
+Wear 11
+Cost 400
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+Cond 0
+Wear 15
+Cost 10
+End
+
+#O
+Vnum 114
+Nest 0
+Name forest green cloak newbie~
+ShD  `kA`c Fo`kre`cst`k (`cnewbie`k) Cl`co`kak``~
+Wt   0
+Cond 0
+Wear 12
+Lev  20
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#RoomRLE   4004 2 2 1 26 1 7 1 2 7 2 9 5 2 2 6 15 1 33 2 4 1 11 1 4 1 26 1 34 1 116 1 3 1 1 10 2 5 1 1 2 1 106 4 20649 1 85 1 40331 -1
+
+
+#SWORD
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade 'Swedish Slaughterer`h'``~
+Desc `hThis Reaver blade bares the inscription 'Swedish Slaughterer`h'.``~
+BSCap 0 0 0 0 0 0
+BSChar 0 0 0 0 0 0
+BBCap 0 0 0 0 0
+BBChar 0 0 0 0 0
+Cond 0
+Wear -1
+Cost 0
+Val  1 2 3 3 0 0 0
+Affc 'armor'   1   3  -1   1  19          0 0 ''
+Affc 'armor'   1   3  -1   2  18          0 0 ''
+End
+
+#END

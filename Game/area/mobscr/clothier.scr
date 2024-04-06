@@ -1,0 +1,21 @@
+* script: clothier.scr
+* Cumberland Clothier (4036)
+
+#TRIGGER born
+Type 4
+Sc
+* 10 patterns for the red silk sash
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  cmd at 1 load obj 30000
+  halt once~
+End
+
+#END

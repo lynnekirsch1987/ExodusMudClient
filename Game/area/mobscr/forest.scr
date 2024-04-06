@@ -1,0 +1,76 @@
+* File: forest.scr
+* Mob: forest environment (???)
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %random% random 0 14
+if (%random% == 0 )
+  cmd at 1 wizi 92
+  cmd echo ``Shadows dance along the ground as the wind blows through the treetops above you.
+  halt once~
+Sc
+if (%random% == 1 )
+  cmd at 1 wizi 92
+  cmd echo ``A distant songbird whistles a beautiful melody.
+  halt once~
+Sc
+if (%random% == 2 )
+  cmd at 1 wizi 92
+  cmd echo ``Sensing movement nearby, you turn to look as a rabbit darts into the underbrush.
+  halt once~
+Sc
+if (%random% == 3 )
+  cmd at 1 wizi 92
+  cmd echo ``The faint trickle of running water can be heard far off to the northwest.
+  halt once~
+Sc
+if (%random% == 4 )
+  cmd at 1 wizi 92
+  cmd echo ``You hear the hoot of an owl in the branches high above you.
+  halt once~
+Sc
+if (%random% == 5 )
+  cmd at 1 wizi 92
+  cmd echo ``A `kyellow butterfly`` flutters in front of you, unaware of the world around it.
+  halt once~
+Sc
+if (%random% == 6 )
+  cmd at 1 wizi 92
+  cmd echo ``You hear movement in the treetops to your north.
+  halt once~
+Sc
+if (%random% == 7 )
+  cmd at 1 wizi 92
+  cmd echo ``The gentle breeze carries with it the faint smell of a smoky campfire.
+  halt once~
+Sc
+if (%random% == 8 )
+  cmd at 1 wizi 92
+  cmd echo ``You think you hear the far-off notes of a wooden flute, but then it's gone.
+  halt once~
+Sc
+if (%random% == 9 )
+  cmd at 1 wizi 92
+  cmd echo ``High above, you hear a bird of prey makes a shrill call to its companion.
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  cmd at 1 wizi 92
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+wfunc %roulette% random 0 4
+if (%roulette% == 0)
+  cmd at 1 wizi 92
+  cmd echo ``The gentle sound of movement is carried on the wind.
+  halt once~
+End
+
+#END

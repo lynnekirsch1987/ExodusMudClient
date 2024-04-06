@@ -1,0 +1,107 @@
+* script: mpirate.scr
+* Merossa Pirate (14002)
+
+#TRIGGER combat
+Type 2
+Sc
+* When pirates get too wounded, they head back to the safety of the pirate ship to heal.
+mfunc self %hp% hit
+if (%hp% < 600)
+  cmd flee
+  walkto 14046
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+* If the pirate is badly hurt, he'll head back to the pirate ship to recuperate.
+if (%hp% < 1000)
+  walkto 14046
+  halt once~
+Sc
+* If the pirate is mostly healed, he will redeploy to somewhere in town.
+wfunc %whereto% random 0 5
+if (%whereto% == 0)
+  walkto 14019
+  halt once~
+Sc
+if (%whereto% == 1)
+  walkto 14022
+  halt once~
+Sc
+if (%whereto% == 2)
+  walkto 14025
+  halt once~
+Sc
+if (%whereto% == 3)
+  walkto 14036
+  halt once~
+Sc
+if (%whereto% == 4)
+  walkto 14039
+  halt once~
+Sc
+if (%whereto% == 5)
+  walkto 14042
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+* This dispatches pirates from the pirate ship to various points in town.
+Sc
+wfunc %whereto% random 0 5
+if (%whereto% == 0)
+  walkto 14019
+  let %dest% == 14019
+  halt once~
+Sc
+if (%whereto% == 1)
+  walkto 14022
+  let %dest% == 14022
+  halt once~
+Sc
+if (%whereto% == 2)
+  walkto 14025
+  let %dest% == 14025
+  halt once~
+Sc
+if (%whereto% == 3)
+  walkto 14036
+  let %dest% == 14001
+  halt once~
+Sc
+if (%whereto% == 4)
+  walkto 14039
+  let %dest% == 14004
+  halt once~
+Sc
+if (%whereto% == 5)
+  walkto 14042
+  let %dest% == 14007
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+* When the town guard enters the room with a pirate, they start combat
+Sc
+  cmd kill guard
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+* When the a pirate enters the room with a town guard, all hell breaks loose.
+Sc
+mfunc self %hp% hit
+if (%hp% < 600)
+  emote limps badly, suffering from his wounds.
+  halt once~
+Sc
+  cmd kill guard
+  halt once~
+End
+
+#END

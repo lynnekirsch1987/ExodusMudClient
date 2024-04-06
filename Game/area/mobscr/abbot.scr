@@ -1,0 +1,65 @@
+* File: Abbot.scr
+* Mob: Abbot of Erion (mob 7906)
+
+#TRIGGER born
+*Make sure the abbot stays in his place in the corner of the Abbey
+Type 4
+Sc
+  walkto 7916
+  halt once~
+End
+
+#TRIGGER askforhelp
+* Abbot asks for help from the players because the necromancer is causing trouble.
+Type 8
+Sc
+if ( %askforhelp-arg% cmp "askforhelp" )
+  cmd shout A necromancer has come to Erion Abbey and is casting spells upon the Novices and Brothers of Erion!  Help us!
+  wait 180~
+Sc
+  let %zombie% == 1
+  halt once~
+Sc
+if ( %askforhelp-arg% cmp "askforhelp" )
+  signal 7928 attackfarm
+  cmd set mob abbot hp 8000
+  cmd pray 'restore' self
+  cmd pray 'sanctuary' self
+  halt triggers~
+End
+
+#TRIGGER beingattacked
+* Abbot asks for help from the players because the abbey is being attacked by zombies.
+Type 8
+Sc
+if ( %beingattacked-arg% cmp "beingattacked" )
+  cmd shout Now the necromancer has possessed the Brothers of Erion and they have turned on me!  Save me!
+  cmd pray 'restore' self
+  cmd pray 'sanctuary'
+  halt triggers~
+End
+
+#TRIGGER backtonormal
+Type 8
+Sc
+* The necromancer has been killed.  Brothers return to normal.
+if ( %backtonormal-arg% cmp "backtonormal" )
+  cmd shout The necromancer has been slain!  The brothers and novices are free from their curse!
+  cmd shout Thank you for helping me defend the abbey!
+  cmd restore all
+  cmd quad 25
+  let %zombie% == 0
+  halt triggers~
+End
+
+#TRIGGER death
+Type 9
+Sc
+if (%zombie% == 1)
+  shout Alas, I am finished!  Avenge my death!
+  cmd half 25
+  signal 7928 invasion
+  halt once~
+End
+
+#END

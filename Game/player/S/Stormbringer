@@ -1,0 +1,426 @@
+#PLAYER
+Name Stormbringer~
+Id   840588994
+LogF 961530709
+LogO 961530709
+Vers 6
+Desc Elric is a misguided soul looking for a higher calling.
+As he walks he appears to glide - effortless - quick and agile.
+Layers of leaves, dirt and grime cover what was once a shiny armor and shield.
+You can barely make out some exotic markings on his face.  His eyes are cold and hard.
+He has lived in the shadows all his life and will continue to do so.
+Besides the gleaming katana in his right hand, Elric
+always carries a leather-bound journal - which he uses to record all his
+exploits in this world.  He is very attentive, observant and notices all
+but the tiniest of details.  This record is his most valued possession - he
+would give his life to protect it.
+~
+Prom <H %h M %v EX %X> ~
+Race syvin~
+Sex  1
+Cla  2
+Levl 51
+PBKill 6
+MBKill 11
+MHKill 1683
+Hero 0
+Depty 1
+Sec  0
+Plyd 659063
+Bank_Gold 58
+Bank_Silv 915
+Email jmuramat@ics.uci.edu~
+Host PURGED-LD~
+Not  857258729 851742365 0 856340139 853780695 933099897 0
+Scro 22
+Room 1200
+HMV  329 329 202 202 448 448
+Hand 2
+Gold 10
+Silv 559
+Exp  103906
+Act  DFGH
+AfBy Z
+Comm DEGLNOQSX
+Pos  8
+Prac 20
+Alig  1000
+Hit   13
+Dam   8
+ACs -4 -34 -46 43
+Wimp  135
+Attr 15 15 15 23 10 8
+AMod 0 0 0 2 0 -2
+Pass StDkY9.OCThgg~
+Bcry  Hang on, I'm coming~
+Plan  Hey you're pretty NOSEY aren't you ;-)
+~
+Layhands 0
+Exorcise 0
+Titl  - Ever Vigilant~
+Pnts 38
+TSex 1
+LLev 179
+Loner 1
+HMVP 324 202 396
+Cnd  -16 -16 1 1
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Alias ba backstab~
+Alias c cir~
+Sk 100 'dagger'
+Sk 84 'backstab'
+Sk 93 'circle'
+Sk 1 'dirt kicking'
+Sk 87 'dodge'
+Sk 100 'enhanced damage'
+Sk 91 'second attack'
+Sk 1 'lore'
+Sk 50 'peek'
+Sk 62 'pick lock'
+Sk 64 'sneak'
+Sk 100 'track'
+Sk 45 'steal'
+Gr 'rom basics'
+End
+
+#O
+Vnum 21071
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  0 0 4 0 0 0 0
+End
+
+#O
+Vnum 12224
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+ExDe right~ These gloves are incredibly well-worked with map symbols.
+~
+End
+
+#O
+Vnum 12234
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 4279
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4102
+Nest 0
+Cond 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 4107
+Nest 0
+Cond 0
+Wear -1
+Cost 320
+Val  110 110 0 0 0 0 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Cond 0
+Wear -1
+Cost 320
+Val  110 46 0 0 0 0 0
+End
+
+#O
+Vnum 4202
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+Val  0 0 4 0 0 0 0
+End
+
+#O
+Vnum 4205
+Nest 0
+Cond 0
+Wear -1
+Cost 465
+End
+
+#O
+Vnum 4046
+Nest 0
+Cond 0
+Wear -1
+Cost 524
+End
+
+#O
+Vnum 20962
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20959
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 12223
+Nest 0
+Cond 0
+Wear 14
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 4321
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4153
+Nest 0
+Cond 0
+Wear -1
+Cost 176
+End
+
+#O
+Vnum 11533
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12922
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11538
+Nest 0
+Cond 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4233
+Nest 0
+Cond 0
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 553
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18972
+Enchanted
+Nest 0
+ExtF 64
+Cond 0
+Wear 5
+Lev  63
+Cost 0
+Affc 'enchant armor'   1  50  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 12933
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4143
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11534
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4152
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4190
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 11403
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 4163
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 5348
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 28024
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11538
+Nest 0
+Cond 0
+Wear 1
+Cost 4059
+End
+
+#O
+Vnum 11536
+Nest 0
+Cond 0
+Wear -1
+Cost 2970
+End
+
+#O
+Vnum 20393
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 12915
+Nest 0
+ExtF 1
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 95
+Cost 0
+Val  37 74 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 95
+Cost 0
+Val  37 74 240 0 0 0 0
+End
+
+#END

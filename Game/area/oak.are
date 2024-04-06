@@ -1,0 +1,3452 @@
+#AREA
+ 6~
+oak.are~
+`cGiant Oak Tree``~
+{ 1 25} Luna  `cGiant Oak Tree``~
+~
+1500 1599
+6 G 0
+0 0
+~
+#MOBILES
+#1500
+squirrel~
+a squirrel~
+A squirrel is here, nibbling away at a nut.
+~
+This squirrel is so cute and cuddly, you want to pick him up
+and make him into a pet.  However, he'd much rather be scampering
+up his favorite tree and scavenging for nuts and pinecones.
+~
+dog~
+0 0 0 0
+AC J 0 0
+5 5 1d17+50 5d10+100 1d1+1 pound
+50 50 50 999 50
+0 -1 H 0 0 0
+stand stand male 0
+AGV ACDEFHJKUVa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1501
+finch bird~
+the finch~
+A brown finch rests on a branch, grooming its feathers.
+~
+As you look at the finch, she raises her head from her grooming
+and eyes you warily.  Her little pointed beak pauses as she wonders
+if she should take off in flight.
+~
+song bird~
+0 0 0 0
+AG JT 400 1
+7 7 1d17+55 7d10+100 2d3+4 peck
+6 6 6 999 7
+0 -1 FH 0 0 0
+stand stand female 0
+AGW ACDEFHKPZa 7 7 7 7 7 7 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#1502
+chickadee bird~
+a black-capped chickadee~
+A black capped chickadee rests here on a small branch.
+~
+Every fall, black capped chickadees leave the woodlands where they nest 
+and appear in habitated areas such as this to feed and socialize.  
+This little chickadee's body is a motley of dark and light grey feathers,
+with a band of white along the sides of its face.  Its head and neck are 
+solid black, giving it its name.
+~
+song bird~
+0 0 0 0
+AG JT 240 2
+7 -10 1d20+46 7d10+100 2d4+3 peck
+50 50 50 999 50
+0 -1 FH 0 0 0
+stand stand either 0
+AGW ACDEFHKPZa 7 7 7 7 7 7 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#1503
+bridled titmouse bird~
+a bridled titmouse~
+A small grey bird is here, plucking at leaves for its nest.
+~
+The bridled titmouse is small grey bird, with a black cowlick, much
+like the woodpecker.  Its face is striped black and white, contrasting
+greatly with the monotonous greys of its body.
+~
+song bird~
+0 0 0 0
+AG JT 0 3
+7 -10 1d20+46 6d10+100 2d4+4 peck
+50 50 50 999 50
+0 -1 FH 0 0 0
+stand stand either 0
+AGW ACDEFHKPZa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1504
+tree swallow bird~
+a tree swallow~
+A dark brownish bird is here, trying to catch some flying insects.
+~
+The tree swallow is an aggressive bird that feeds on flying insects for
+most of its food, and when those are scarce, it settles for berries and
+fruits.  
+~
+song bird~
+0 0 0 0
+AB JT 0 4
+6 -10 1d20+45 5d10+100 2d4+3 peck
+50 50 50 999 50
+0 -1 FH 0 0 0
+stand stand none 0
+AGW ACDEFHKPZa 7 7 7 7 7 7 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#1505
+ladybug lady bug~
+a ladybug~
+A ladybug is crawling up a nearby branch.
+~
+This little black and red insect is awfully cute.  It is slowly making
+its way up a small branch.
+~
+unique~
+0 0 0 0
+ABG J 0 5
+4 4 1d6+24 3d10+100 1d1+2 pierce
+8 8 8 999 9
+0 -1 0 0 0 0
+rest rest none 0
+O 0 6 6 6 6 6 6 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#1506
+starling bird~
+a starling~
+Coos and chirps come from the robust lungs of a starling.
+~
+This bird's favorite pasttime is to congregrate in groups of its family
+and chorus up a storm.  It's been known to mimic other birds, infuriating
+and deceiving them, and it's also been known to imitate the barking of
+a dog or the mewing of a cat!
+~
+song bird~
+0 0 0 0
+AG JT 0 6
+9 -10 3d22+85 8d10+100 2d4+4 pierce
+50 50 50 999 50
+0 -1 FH 0 0 0
+stand stand either 0
+AGW ACDEFHKPZa 7 7 7 7 7 7 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#1507
+stray alley cat~
+a cat~
+A stray cat is clinging to some branches here, obviously stuck in the tree.
+~
+This cat looks rather miserable, it's mewing and whining at you to help it.
+It apparently tried to chase some birds up the tree, but got stuck, and
+can't make its way back down.
+~
+cat~
+0 0 0 0
+ABG JZ 0 7
+10 10 3d25+90 10d10+100 2d5+6 scratch
+6 6 6 999 8
+0 -1 FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQUVa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1508
+purple martin bird~
+a purple martin~
+A purple winged bird is building its dwelling into the hollow of the tree.
+~
+This small bird is solid black, except for the brilliant flashes of purple
+on its wings.  It is hard at work building a nest into the large protective
+hollow of the oak tree.
+~
+song bird~
+0 0 0 0
+ABG JT 0 8
+13 13 3d25+170 12d10+100 2d5+8 peck
+2 2 2 999 6
+0 -1 FH 0 0 0
+stand stand either 0
+AGW ACDEFHKPZa 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1509
+bird blue jay bluejay~
+the blue jay~
+A blue jay shrieks raucously at your arrival.
+~
+The blue jay has a well deserved reputation for being aggressive -
+it's been known to rob the nests of other songbirds.  It's secretive
+and distrustful, annoucing your intrustion with ear splitting shrieks.
+However, when no observers are around, it sings a sweet musical spring song.
+~
+song bird~
+0 0 0 0
+AG JT 0 9
+12 12 3d25+110 9d10+100 2d5+7 peck
+3 3 3 999 6
+0 -1 FH 0 0 0
+stand stand male 0
+AGW ACDEFHKPZa 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1510
+yellow-billed magpie bird~
+the yellow-billed magpie~
+A striking black and white bird with yellow beak stands here scornfully.
+~
+Strikingly garbled in black and white, with a streaming tail nearly a foot
+long, the magpie is easily identifiable as a proud, parading insect eater.
+Its body and neck are black, and its underbody a contrasting white.
+A long curved yellow beak makes it easy for this bird to fetch bugs from
+the smallest nooks of a tree.
+~
+song bird~
+0 0 0 0
+ABG JT 0 10
+15 15 5d30+170 15d10+100 3d5+9 pierce
+2 2 2 999 5
+0 -1 FH 0 0 0
+stand stand either 0
+AGW ACDEFHKPZa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1511
+black-billed cuckoo bird~
+a black-billed cuckoo~
+A black-billed cuckoo peers at you suspiciously through red eyes.
+~
+This bird peers at you suspiciously through its creepy red irised eyes.
+Secretive birds, this type of cuckoo is heard more than it is seen.
+It's song 'cu-cu-cu' echoes throughout the leaves.
+~
+song bird~
+0 0 0 0
+AG JT 0 11
+14 14 5d30+170 14d10+100 3d5+7 peck
+3 3 3 999 6
+0 -1 FH 0 0 0
+stand stand none 0
+AGW ACDEFHKPZa 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1512
+indigo bunting bird~
+an indigo bunting~
+The light shines off the brilliant blue feathers of a bird that is resting here.
+~
+The sun shines brightly on this amazingly brilliant bird, causing its 
+feathers to reflect a million shades of blue.  It rests here calmly,
+just looking back at you.
+~
+song bird~
+0 0 0 0
+AG JT 0 12
+15 15 5d30+170 15d10+100 3d5+8 peck
+2 2 2 999 5
+0 -1 FH 0 0 0
+stand stand either 0
+AGW ACDEFHKPZa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1513
+grosbeak bird~
+a grosbeak~
+A brown bird with a large pointed beak is feeding on some seeds.
+~
+The grosbeak is a larger variety of the plain brown finch.  Its name
+literally means huge beak, and it uses it to feed on a wide variety of insects
+and fruit.  
+~
+song bird~
+0 0 0 0
+ABG JT 0 13
+13 13 4d25+130 13d10+100 3d5+6 peck
+4 4 4 999 6
+0 -1 FH 0 0 0
+stand stand either 0
+AGW ACDEFHKPZa 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1514
+chestnut longspur bird~
+a chestnut collared longspur~
+A small chestnut colored bird has its head burrowed in its feathers.
+~
+When you look at this bird, all you see is a ball of fluff, for it
+has tucked its head contentedly under its wing.  
+~
+song bird~
+0 0 0 0
+ABG JT 0 14
+14 14 5d30+150 14d10+100 3d5+7 peck
+2 2 2 999 6
+0 -1 FH 0 0 0
+sleep rest either 0
+AGW ACDEFHKPZa 8 8 8 8 8 8 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1515
+caterpillar~
+a caterpillar~
+An iridescent green caterpillar slithers along a branch.
+~
+Well, it looks like a caterpillar.  Green, slimy, all billion sections of it.
+~
+centipede~
+0 0 0 0
+ABG Z -100 15
+2 2 5d10+20 0d0+0 1d1+2 slime
+9 9 9 999 9
+0 -1 0 0 FI E
+rest rest neutral 0
+ABGO ACKa 6 6 6 6 6 6 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1516
+black bird blackbird ~
+the blackbird~
+A blackbird caws angrily at your intrusion and attacks!
+~
+Jet black, the only color the blackbird has is in its yellow eyes.  
+Beady and unrelenting, they glare at you in anger.
+~
+song bird~
+0 0 0 0
+ABCF JT -600 16
+19 19 5d50+240 17d10+100 4d5+14 pierce
+-1 -1 -1 999 1
+0 -1 FH 0 0 0
+stand stand male 600
+AGW ACDEFHKPZa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1517
+oriole bird~
+an oriole~
+An oriole is perched here on a branch.
+~
+This bird has a distinctive black and orange color pattern.
+It likes to nest in shady trees such as this one, feeding
+off seeds and building its nest in high branches.
+~
+song bird~
+0 0 0 0
+AG JT -300 17
+18 18 5d50+200 19d10+100 4d4+9 peck
+0 0 0 999 3
+0 -1 FH 0 0 0
+stand stand none 0
+AGW ACDEFHKPZa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1518
+owl barred bird~
+a barred owl~
+An owl sits perched on the edge of a branch, observing all his environs.
+~
+This large owl stares at you through enormous marble eyes.  Without 
+moving its body a bit, it follows your motion by rotating its head.
+He is well known for his loud hooting call, which is primarily heard at night.
+~
+song bird~
+0 0 0 0
+AB JT -200 18
+20 20 5d50+400 20d10+100 4d5+13 claw
+0 0 0 999 2
+0 -1 FH 0 0 0
+rest rest male 5
+AGW ACDEFHKPUZa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1519
+cardinal bird~
+a cardinal~
+A stately bird with magnificent red plumage sits here singing a melody.
+~
+This cardinal is a beautiful bird with scarlet feathers and crest.
+She is singing a lovely melody, perhaps to attract some suitors.
+~
+song bird~
+0 0 0 0
+AG T 0 19
+16 16 10d20+210 17d10+100 2d4+9 peck
+1 1 1 999 6
+0 -1 FH 0 0 0
+stand stand female 0
+AGW ACDEFHKPZa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#1520
+tree frog~
+a tree frog~
+A tree frog sits here, ribbiting madly.
+~
+It's really very ugly, with warts and scaly discolored skin.
+~
+lizard~
+0 0 0 0
+ABG 0 -350 0
+19 19 5d30+257 19d10+100 4d5+10 thwack
+0 0 0 999 6
+0 -1 0 0 L I
+rest rest neutral 0
+AGXc ACDEFHKQVa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1521
+vulture black bird~
+the black vulture~
+A large black vulture scans the countryside for carrion.
+~
+This vulture is a repulsive hideous creature.  It feeds chiefly on carrion,
+but cannibalizes other birds when it can.   Its pale pink head is bald
+and wrinkled.  It peers at you from its two beady black eyes.
+~
+song bird~
+0 0 0 0
+ACG JNT -1000 0
+22 22 8d50+360 22d10+100 4d5+8 bite
+-2 -2 -2 999 5
+0 -1 FH BO NP H
+stand stand neutral 100
+ABGW ACDEFHKPZa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1522
+raven black bird~
+the raven~
+`aA raven, black as night, caws and stretches out its wings.``
+~
+`aThe raven sits here looking at you.  If you stare at it long
+enough, maybe it will break out in song and dance.``
+~
+song bird~
+0 0 0 0
+AG T -600 22
+21 21 5d30+380 0d0+0 4d5+11 pierce
+0 0 0 999 6
+0 -1 FH 0 0 0
+stand stand male 0
+AGW ACDEFHKPZa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1523
+falcon bird~
+the falcon~
+A majestic falcon is perched here, staring at you through golden eyes.
+~
+~
+song bird~
+0 0 0 0
+AFG OPTV -500 0
+26 26 10d50+500 25d10+100 5d5+13 pierce
+-7 -7 -7 999 1
+0 -1 EFHN BPR 0 0
+stand stand female 40
+AGVW ACDEFHKPZa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1524
+griffin~
+the griffin~
+A winged beast with a hooked beak and enormous claws rests here on its nest.
+~
+The griffin is a massive beast with the upper body of an eagle, and 
+the powerful torso of a lion.  Its claws are long and razor sharp,
+and if you keep standing here gawking instead of fleeing like you 
+should, they will rip you apart.
+~
+unique~
+0 0 0 0
+ABF JOTV -600 0
+27 27 10d61+600 30d10+100 5d6+15 crush
+-7 -7 -7 999 -7
+0 -1 FH B LMP 0
+stand stand neutral 0
+AGW ACDEFHKP 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#1525
+bees~
+Bees~
+`dBees crawl around in here, antennaes wiggling and wings buzzing.``
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+1 0 10d1+1 2d3+3 0d0+0 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#1500
+nut acorn~
+an acorn~
+A small acorn lays discarded on the ground.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 A 0 0 0
+0
+0
+0 5 1 W
+#1501
+tree~
+from a tree~
+~
+wood~
+0
+portal 2
+ORS
+0
+P
+0
+0
+0
+1501
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n throws $mself out in the air!~
+You jump!~
+$n comes falling out of the sky! SPLAT!~
+~
+-1 0 G ADEFJK H
+0
+0
+0 9000 0 P
+#1502
+ring silver glinting~
+`na glinting silver ring``~
+A silver ring shines in the light here.~
+silver~
+0
+jewelry 2
+0
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 10 300 P
+A
+3 1
+#1503
+ear~
+`da squirrel's ear``~
+`dThe nasty severed ear of a squirrel lies in the dirt.``~
+flesh~
+0
+saddle 2
+RSTa
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 1500 P
+#1504
+shell snail wonder biff~
+`dBiff the Wonder Snail``~
+`hA huge`d brown snail`h slurps its way up the tree here.``~
+flesh~
+0
+ctransport 2
+RSTYa
+0
+0
+0
+0
+0
+1504
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`dBiff the Wonder Snail slurps along.``~
+~
+~
+~
+D EFIKMNO BGHIJKNO ABGHIJKNO A
+0
+0
+11 0 0 P
+#1550
+glob light~
+`oA glob of gleaming `mpink `olight``~
+`oA necklace sits here, radiating a somewhat `nco`gsm`nic `mglow `oto the area around it.``~
+glass~
+0
+jewelry 2
+AGST
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 5 9000 P
+#1551
+bee hive~
+a bee hive~
+A bee hive is here, buzzing with activity.~
+unknown~
+0
+portal 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 0 ADJK 0
+0
+0
+10 40 0 P
+#1552
+honey~
+honey~
+`kSweet honey covers the walls of this hive.``~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#1553
+bee hive trap~
+a bee hive trap~
+A bee hive suspended by a rope connected to a snare is here.~
+unknown~
+0
+roomtrap 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDF D BDEG ABCD 0
+AE
+0 0 AF 0 0 0 D 
+90 30 1000 P
+E
+victmessage~
+`bA bee hive drops down on your head!``
+~
+E
+specmessage~
+`bA bee hive drops down on $n's head!``
+~
+#1554
+bee hive trap~
+a bee hive trap~
+A bee hive suspended by a rope connected to a snare is here.~
+unknown~
+0
+roomtrap 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDF D BDEG ABCD 0
+AE
+0 0 AF 0 0 0 DI 
+90 30 1000 P
+E
+specmessage~
+`bA bee hive drops down on $n's head!``
+~
+E
+victmessage~
+`bA bee hive drops down on your head!``
+~
+#0
+
+#ROOMS
+#1500
+25 100
+~
+~
+~
+0 0 0
+Base of a Large Oak Tree~
+An enormous wizened oak tree blocks your progress any further on this
+park path east.  The base of the tree is so large that many small families
+of squirrels and chipmunks have made their abodes in its sheltering roots. 
+These hardened roots have crept stoically over the dirt ground for hundreds
+of years, entangling themselves in the bushes that grow nearby.  You think
+that you can support yourself on the trunk's hefty crags and climb your way
+up.  
+~
+0 C 3
+0
+~
+I 0 D1
+~
+~
+0 0 1501
+D3
+~
+~
+0 0 4173
+S
+#1501
+0 0
+~
+~
+~
+0 0 0
+Bottom of a Large Oak Tree~
+You are at the bottom of the west side of an enormous oak tree.  The
+trunk before you spans a width of easily a hundred feet.  Its deep brown
+bark is rippled with age and friction, its surface having been cleaved into
+crags and eddies.  Looking upwards from here provides you with the best
+vantage of the tree's immense bulk.  The trunk seems to stretch on forever,
+and leafy branches both thin and sturdy extend from its sides.  The rough
+edges of the bark provide you with footholds by which you can ascend the
+tree.  
+~
+0 C 3
+0
+~
+I 0 D3
+~
+~
+0 0 1500
+D4
+~
+~
+0 0 1502
+S
+#1502
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+The varied indentations in the bark of the oak tree provide a trellis by
+which you can reach the lower branches above.  The trunk of the tree is so
+wide that even stretching your arms out, you cannot embrace but a fraction
+of its complete breadth.  Its sturdiness is testament to its centuries old
+lifespan.  You can continue climbing the tree up or descend back down into
+the park.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 1503
+D5
+~
+~
+0 0 1501
+S
+#1503
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing up the west side of the trunk of an enormous oak tree. 
+The jewel-like leaves above rustle in the breeze but the gigantic trunk you
+are climbing halves the breeze around you, so that the air here remains
+tranquil and warm.  Looking up, you see that the lowest branches of the tree
+are not far off.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 1504
+D5
+~
+~
+0 0 1502
+S
+#1504
+0 0
+~
+~
+~
+0 0 0
+Under the Lowest Branches~
+With the greatest of concentration, you climb the oak tree seventy-five
+feet into the sky.  Leaves fall impatiently as songbirds and insects alike
+alight upon the branches not far above your head.  Looking down, you feel a
+bit queasy, but you realize that you have a ways to go before you reach the
+top of the tree.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 1510
+D5
+~
+~
+0 0 1503
+S
+#1505
+0 0
+~
+~
+~
+0 0 0
+The East Base of the Great Oak~
+An enormous wizened oak tree blocks your progress any further on this
+park path west.  The base of the tree is so large that many small families
+of squirrels and chipmunks have made their abodes in its sheltering roots. 
+These hardened roots have crept stoically over the dirt ground for hundreds
+of years, entangling themselves in the bushes that grow nearby.  You think
+that you can support yourself on the trunk's hefty crags and climb your way
+up.  
+~
+0 BC 3
+0
+~
+I 0 D1
+~
+~
+0 0 4162
+D3
+~
+~
+0 0 1506
+S
+#1506
+0 0
+~
+~
+~
+0 0 0
+Bottom of a Large Oak Tree~
+You are at the bottom of the east side of an enormous oak tree.  The
+trunk before you spans a width of easily a hundred feet.  Its deep brown
+bark is rippled with age and friction, its surface having been cleaved into
+crags and eddies.  Looking upwards from here provides you with the best
+vantage of the tree's immense bulk.  The trunk seems to stretch on forever,
+and leafy branches both thin and sturdy extend from its sides.  The rough
+edges of the bark provide you with footholds by which you can ascend the
+tree.  
+~
+0 BC 3
+0
+~
+I 0 D1
+~
+~
+0 0 1505
+D4
+~
+~
+0 0 1507
+S
+#1507
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+The various indentations in the bark of the oak tree provide a trellis by
+which you can reach the lower branches above.  The trunk of the tree is so
+wide that even stretching your arms out, you can embrace but a fraction of
+its complete breadth.  Its sturdiness is testament to its centuries old
+lifespan.  You can continue climbing the tree up or descend back down into
+the park.  
+~
+0 B 3
+0
+~
+I 0 D4
+~
+~
+0 0 1508
+D5
+~
+~
+0 0 1506
+S
+#1508
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing the east side of the trunk of an enormous oak tree.  The
+jewel-like leaves above rustle in the breeze but the gigantic trunk you are
+climbing halves the breeze around you, so that the air here remains tranquil
+and warm.  Looking up, you see that the lowest branches of the tree are not
+far off.  
+~
+0 B 3
+0
+~
+I 0 D4
+~
+~
+0 0 1509
+D5
+~
+~
+0 0 1507
+S
+#1509
+0 0
+~
+~
+~
+0 0 0
+Under the Lowest Branches~
+With the greatest of concentration, you climb the oak tree seventy-five
+feet into the sky.  Leaves fall impatiently as songbirds and insects alike
+alight upon the branches not far above your head.  Looking down, you feel a
+bit queasy, but you realize that you have a ways to go before you reach the
+top of the tree.  
+~
+0 B 3
+0
+~
+I 0 D4
+~
+~
+0 0 1516
+D5
+~
+~
+0 0 1508
+S
+#1510
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+With some brute strength, you pull yourself up to the lowest branches of
+the oak tree, and plant your feet soundly on a wide branch that extends from
+the centre of the trunk.  You feel quite stable here, as the branch beneath
+your feet is six feet wide and extremely supportive.  All around you come
+the coos and chirps of many song birds, and the occassional chitter of a
+squirrel.  You can climb up or down the west side of the tree here, or
+venture out onto one of its many branches.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1511
+D2
+~
+~
+0 0 1522
+D3
+~
+~
+0 0 1525
+D4
+~
+~
+0 0 1528
+D5
+~
+~
+0 0 1504
+S
+#1511
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You are standing on a branch near the center of the Great Oak tree.  The
+path is rough and bumpy, like the mottled skin of an alligator.  Leaves like
+crystals from a liquid ceiling hang from branches above.  Occassionally they
+fall, flittering by your face on their way down to the ground.  The fat
+trunk of the tree is nearby to the south, while the limb narrows to the
+north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1512
+D2
+~
+~
+0 0 1510
+S
+#1512
+0 0
+~
+~
+~
+0 0 0
+Out on a Limb~
+You walk along the lower branches of an enormous oak tree.  The branch
+you are walking on is about six feet wide, wizened by years of survival. 
+You can jump or run around on these lower branches quite securely, for they
+are extremely sturdy.  Traversable branches lead to the south and the east. 
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1513
+D2
+~
+~
+0 0 1511
+S
+#1513
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You are on a sturdy branch on the lower parts of a Great Oak tree. 
+Songbirds all around you call to their mates, and squirrels scamper out of
+your way to their homes inside hollow portions of the tree.  The branch
+narrows to the north, but it seems like it will continue to support your
+weight.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1514
+D2
+~
+~
+0 0 1515
+D3
+~
+~
+0 0 1512
+S
+#1514
+0 0
+~
+~
+~
+0 0 0
+Far out on a Limb~
+You are far out on a slender limb extending north from the center of the
+oak tree.  Only a few feet of scraggly living wood separates you from a long
+seventy-five foot fall to the ground.  The limb you are on extends far over
+the north boundaries of Ashton Gardens.  Further past the carefully sculptured
+bushes demarcating the park from the city, you can see hustle and bustle in
+the square of a marketplace.  Smoke rises up from farmhouse chimneys to the
+northeast.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1513
+S
+#1515
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You follow a thick branch from the centre of the tree north, where it
+overhangs over the manicured pathways of Ashton Gardens.  Occassional leaves
+fall from the branches above, swirling near your face as they make their
+descent to the park grounds below.  The trunk of the tree lays to the south,
+and the limb is crossable north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1513
+D1
+~
+~
+0 0 1518
+D2
+~
+~
+0 0 1516
+S
+#1516
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You are standing on the thick intersection where a sturdy branch meets
+the immense trunk of the Great Oak tree.  This spot is wide enough so that
+if you wanted to sit and rest against the tree, you could do so quite
+easily.  You have a great view of Ashton Gardens from up here, you can see the
+groomed path that leads out from the base of the tree.  The six foot wide
+branch extends to the east in a maze of foliage and smaller branches.  You
+can also continue climbing up the tree or descend back to safety.  
+~
+0 B 3
+0
+~
+I 0 D0
+~
+~
+0 0 1515
+D1
+~
+~
+0 0 1517
+D2
+~
+~
+0 0 1521
+D4
+~
+~
+0 0 1530
+D5
+~
+~
+0 0 1509
+S
+#1517
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You are walking upon a branch on the east side of the oak tree.  Moving
+cautiously away from the massive centre, you venture outwards where more
+flowers blossom from spurts in the bark of the limb.  The branches are alive
+with the harmonious songs of many different songbirds.  You can continue out
+on the tree to the north or the east.  
+~
+0 B 3
+0
+~
+I 0 D0
+~
+~
+0 0 1518
+D1
+~
+~
+0 0 1519
+D3
+~
+~
+0 0 1516
+S
+#1518
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You are standing on a part of a long branch that is five feet in width. 
+Although the rough edges of the bark do not look comfortable to rest on, you
+surmise that if you had to, the branch would easily support your bulk.  The
+branch continues to the south and the west.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1517
+D3
+~
+~
+0 0 1515
+S
+#1519
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You stand upon one of the lower eastern branches of the Great Oak tree. 
+The branch is solid at six feet across and 4 feet in diameter.  Small leafy
+branches grow out of the side of this limb, littering the park below with
+its foliage.  The tree is full of life, as you see the hasty movement of
+small critters scampering out of your way.  The branch narrows to the east. 
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1520
+D3
+~
+~
+0 0 1517
+S
+#1520
+25 150
+~
+~
+~
+0 0 0
+Far out on a Limb~
+You have wandered far out on an eastern limb of the Great Oak tree.  The
+branch narrows a few feet here, making it difficult to turn around.  The
+leaves are thick, creating lush green coverage for the otherwise naked brown
+limbs.  A ways below you, you can see the carefully kept park gardens.  To
+the east, smoke rises from farmhouse chimneys.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 1519
+S
+#1521
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You follow a branch that extends south from the trunk of the tree.  Your
+footing is very stable, for the limb provides ample room for movement. 
+Spurts of leaves jut out of the branch at odd angles, some growing to the
+sky, some to the ground.  The branch continues to the north and the west.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1516
+D3
+~
+~
+0 0 1522
+S
+#1522
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You follow the branches around the southern trunk of the Great Tree.  The
+branches are wide enough for you to sleep comfortably, and the leaves from
+above provide a soothing canopy.  Despite the constant music of nearby
+songbirds, the tree is invigoratingly tranquil.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1510
+D1
+~
+~
+0 0 1521
+D2
+~
+~
+0 0 1523
+S
+#1523
+0 0
+~
+~
+~
+0 0 0
+Out on a Limb~
+The limb narrows to a few feet across, passable if you pay close enough
+attention to where you are stepping.  It's solid enough to support your
+weight however without buckling or swaying.  The branch narrows even more to
+the east, and the way back to the trunk of the tree is north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1522
+D3
+~
+~
+0 0 1524
+S
+#1524
+20 60
+~
+~
+~
+0 0 0
+Far Out on a Limb~
+The path is treacherous for its narrowness.  You take extra caution to
+not misplace a foot for falling seventy-five feet would hurt a great deal. 
+To the south, beyond the park's boundary, you can catch the top of an
+imposing castle.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1523
+S
+#1525
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You are standing on a solid branch about six feet across.  Small leafy
+branches grow out of the sides of this limb, littering the park below with
+its foliage.  The tree is full of life, as you observe the hasty movement of
+small critters scampering out of your way.  The branch narrows to the west. 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1527
+D1
+~
+~
+0 0 1510
+D3
+~
+~
+0 0 1526
+S
+#1526
+0 0
+~
+~
+~
+0 0 0
+Far Out on a Branch~
+The limb narrows a few feet as you meander to the outer reaches of the
+western branches.  The leaves are thicker here, creating a soft green
+covering for the brown limbs.  About seventy-five feet below you, you can
+see the peaceful gardens of Ashton.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1525
+S
+#1527
+0 0
+~
+~
+~
+0 0 0
+On the Lower Branches~
+You are on the lower branches of the Great Oak tree.  Looking up, the sun
+shimmers through the branches above you.  The center of the tree lays to the
+south.  The shakiness of this slender branch prevents you from going any
+further north.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1525
+S
+#1528
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing the side of an enormous oak tree.  You grasp the
+shingled layers of bark firmly, so that you don't fall and break some bones.
+Broken stubby branches which once attempted to grow, jut out from the trunk
+in many places.  You can ascend the tree, or jump down safely to where the
+branch below intersects the centre.  
+~
+0 C 3
+0
+~
+I 0 D4
+~
+~
+0 0 1529
+D5
+~
+~
+0 0 1510
+S
+#1529
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing the west side of the trunk of a gigantic oak tree.  The
+rough, weather beaten bark is the only thing you have to cling to.  Looking
+down, you realize that you are more than ninety feet in the air.  Some
+fungus covers the side of the tree here, where once a branch must have
+grown.  You can continue up or down.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 1534
+D5
+~
+~
+0 0 1528
+S
+#1530
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are perched uncomfortably against the thick ancient bark of the east
+side of an enormous oak tree.  A sturdy branch is down from here, and if the
+height makes you queasy, you can descend down to safety.  Upwards, a small
+branch is just out of your reach.  
+~
+0 C 3
+0
+~
+I 0 D4
+~
+~
+0 0 1531
+D5
+~
+~
+0 0 1516
+S
+#1531
+0 0
+~
+~
+~
+0 0 0
+An Intersection of a Small Branch~
+You are ensconced against the rough mottled brown bark of an enormous oak
+tree.  A slender branch protrudes from here to the south, ending in a mass
+of leaves and pinecones.  You an continue climbing up or down the tree.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1532
+D4
+~
+~
+0 0 1535
+D5
+~
+~
+0 0 1530
+S
+#1532
+0 0
+~
+~
+~
+0 0 0
+On a Side Branch~
+You have wandered onto a slender branch that grows out from the southern
+side of a gigantic oak tree.  The branch is only about three feet wide, and
+it takes full advantage of its position in the sunlight, as leaves grow
+everywhere promiscuously.  You can follow the limb east, where it ends in a
+bushy disorder of leaf and pinecone.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1531
+D1
+~
+~
+0 0 1533
+S
+#1533
+0 0
+~
+~
+~
+0 0 0
+On a Side Branch~
+A multitude of pinecones grow out from the sides of this small branch. 
+Looking down, you see that many have fallen around the roots of the tree. 
+Some of them have been claimed as treasure by the many squirrels that
+inhabit this tree.  You can return back to the tree trunk to the west.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 1532
+S
+#1534
+0 0
+~
+~
+~
+0 0 0
+A Hole in the Oak Tree~
+You are standing on a thick tangle of branches, almost half way up the 
+massive oak tree.  A large hole has been burrowed into the trunk here,
+seemingly the entrance to a tree-dwelling critter's home.  Branches that 
+appear strong enough to support your weight lead off to the north and to
+the west.
+~
+0 0 3
+0
+~
+I 0 E
+hole~
+You see a large, weather-worn hole in the trunk of the ancient oak tree.
+~
+D0
+~
+~
+0 0 1542
+D3
+~
+~
+0 0 1536
+D4
+~
+~
+0 0 1552
+D5
+~
+~
+0 0 1529
+S
+#1535
+0 0
+~
+~
+~
+0 0 0
+A Fork Leading East~
+A large branch forks off from the centre of the tree and extends upwards
+to the east here, about a third of the way up the tree.  Nearby below you, a
+smaller branch seems sturdy enough to explore.  You can also ascend the
+massive trunk from here.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1546
+D1
+~
+~
+0 0 1547
+D4
+~
+~
+0 0 1553
+D5
+~
+~
+0 0 1531
+S
+#1536
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You are standing amongst the plentiful foliage of the Great Oak Tree. 
+Gnarled half grown stumps portrude from the sturdy branch underneath your
+feet.  You can follow the maze of limbs in any direction, and the stout
+trunk lays to the east.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1539
+D1
+~
+~
+0 0 1534
+D2
+~
+~
+0 0 1540
+D3
+~
+~
+0 0 1537
+S
+#1537
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You are following a branch that leads west over Ashton Gardens.  It is thick
+and sturdy, and is well over a hundred feet above the ground.  The branch
+narrows further west, and it intersects with a thin limb to the east.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1536
+D3
+~
+~
+0 0 1538
+S
+#1538
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You are standing on a branch about four feet in width, above the
+carefully groomed walkways of Ashton Gardens.  Looking down, you can see
+pigeons and chipmunks plucking away at the grass surrounding the roots of
+this enormous tree.  The limb widens to the east.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1537
+S
+#1539
+0 0
+~
+~
+~
+0 0 0
+On a Branch~
+You are standing on a small limb that forks off from a western branch of
+an enormous ancient oak tree.  To the south east, the branch reconnects to a
+larger V of entertwined brown limbs.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1542
+D2
+~
+~
+0 0 1536
+S
+#1540
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You are standing on a branch near the centre of the Great Oak Tree.  The
+brown mottled wood is rough with age and weather, and supports your weight
+easily.  To the north, the branch intersects with some other branches,
+creating a maze of entangled limbs.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1536
+D2
+~
+~
+0 0 1541
+S
+#1541
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+The branch here narrows enough so that you feel queasy manuevering about.
+A pinecone breaks off from a nearby offshoot and falls to the ground.  You
+are about a hundred feet off the ground, with only these few feet of tree
+branch to support you.  You can follow this branch back to the north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1540
+S
+#1542
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You are standing on the branches of the Great Oak.  The trunk of this giant
+tree lies directly to the south.  The large branch upon which you stand
+continues to the north and splits off to the west.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1543
+D1
+~
+~
+0 0 1546
+D2
+~
+~
+0 0 1534
+D3
+~
+~
+0 0 1539
+S
+#1543
+0 0
+~
+~
+~
+0 0 0
+Northern Tree Branch~
+You are standing upon a thin, yet sturdy, branch of the Great Oak Tree.
+The wind blows the outer branches to and fro, allowing you an occasional
+glance of the Lord's Square through the leaves.  This branch continues
+on to the north and south while splitting off here to the east.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1544
+D2
+~
+~
+0 0 1542
+S
+#1544
+0 0
+~
+~
+~
+0 0 0
+On the Northern Branches~
+You are perched on one of the northern most branches of this mammoth
+tree.  A hundred feet below you, merchants and traders hustle about,
+conducting the day's business.  The hubub from Lord's Square is muted at
+this distance, giving the people below the appearance of mimes.  The branch
+forks into several small branches, each blossoming with vividly colored
+leaves.  You can follow this branch back to the south.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1543
+S
+#1545
+0 0
+~
+~
+~
+0 576 0
+~
+~
+0 CNT 0
+0
+~
+I 0 S
+#1546
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You are standing on the branches of an ancient oak tree.  The trunk of
+the tree, centuries old, lies solidly to the south.  A branch gently curving
+upwards lies to the east.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1548
+D2
+~
+~
+0 0 1535
+D3
+~
+~
+0 0 1542
+S
+#1547
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You venture outwards on this gently curved branch.  It extends to the
+east, its tip pointed to the sky, absorbing light into its pale green
+leaves.  The trunk of the tree is to the west, where you can continue
+climbing up or down the Great Oak.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1548
+D1
+~
+~
+0 0 1549
+D2
+~
+~
+0 0 1550
+D3
+~
+~
+0 0 1535
+S
+#1548
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You are standing among the branches of an enormous oak tree.  Overhanging
+branches sweep leaves that tickle the top of your head.  A sturdy branch
+leads east from the centre of the trunk not far south from here.  
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1547
+D3
+~
+~
+0 0 1546
+S
+#1549
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You walk as far as you can, safely, on this protruding branch.  To the
+east, the branch narrows and arcs to the sky, making it impossible for it to
+bear your weight.  You see colored patches of farmland over the Thesden city
+gates.  The branch leads back to the west.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 1547
+S
+#1550
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You are standing on a branch, in the cool shade of the leafy limbs above.
+The branch beneath your feet is about four feet wide, sturdy enough to
+support your weight comfortably.  The trunk is a short distance away to the
+north, and the branch extends further to the west.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1547
+D3
+~
+~
+0 0 1551
+S
+#1551
+0 0
+~
+~
+~
+0 0 0
+On Some Branches~
+You have wandered out onto a small branch of an enormous oak tree.  To
+the east, this branch meets others in a maze of entanglement.  Nearby to the
+north, several songbirds alight upon a slender branch, but it is too far for
+you to jump.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1550
+S
+#1552
+0 0
+~
+~
+~
+0 0 0
+Half Way up the Oak Tree~
+You are approximately half way up the ancient Great Oak Tree.  Small
+branches sprout from the trunk here and there, allowing you to use your
+hands and feet to climb or descend the trunk.  None of the branches at this
+level of the tree look safe enough to venture out on.  
+~
+0 C 3
+0
+~
+I 0 D4
+~
+~
+0 0 1554
+D5
+~
+~
+0 0 1534
+S
+#1553
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are approximately half way up the ancient Great Oak Tree.  Small
+branches sprout from the trunk here and there, allowing you to use your
+hands and feet to climb or descend the trunk.  None of the branches at this
+level of the tree look safe enough to venture out on.  
+~
+0 C 3
+0
+~
+I 0 D4
+~
+~
+0 0 1555
+D5
+~
+~
+0 0 1535
+S
+#1554
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You set your feet firmly down where the trunk intersects with a sturdy
+branch at a v intersection.  A large solid looking branch leads south, and a
+smaller limb starts here and continues to the north.  You can continue
+climbing up the tree if you aren't afraid of heights.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1556
+D2
+~
+~
+0 0 1560
+D4
+~
+~
+0 0 1570
+D5
+~
+~
+0 0 1552
+S
+#1555
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You set your feet firmly down on the v intersection of a sturdy branch
+and the enormous trunk.  A couple of small branches lead east and south. 
+You can also continue up or down the ancient oak.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1568
+D2
+~
+~
+0 0 1565
+D4
+~
+~
+0 0 1571
+D5
+~
+~
+0 0 1553
+S
+#1556
+0 0
+~
+~
+~
+0 0 0
+High Up in the Tree~
+You are so high up in the tree, that looking down would probably cause a
+nosebleed.  There are branches nearby above that you can grasp should you
+lose your balance and fall.  This branch thickens where it coalesces with
+the mottled brown trunk of the tree to the south.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1557
+D2
+~
+~
+0 0 1554
+S
+#1557
+0 0
+~
+~
+~
+0 0 0
+High Up in the Tree~
+You are standing on a slender branch of an enormous oak tree.  A great
+distance separates you from the ground, making you feel more than a bit
+queasy.  This branch narrows to the east, where it sways with each gust of
+wind.  Or, you could retreat back to the sturdy trunk of the tree to the
+south.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1559
+D2
+~
+~
+0 0 1556
+S
+#1559
+0 0
+~
+~
+~
+0 0 0
+On a High Limb~
+You are precariously perched on a limb only a few feet wide.  You look
+down, and immediately feel nauseous, for the ground is more than a hundred
+and fifty feet away.  You can crawl your way back to relative safety to the
+west.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 1557
+S
+#1560
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You are standing on a branch that juts out from the west side of an
+enormous oak tree.  A thick branch, about three feet wide, intersects this
+limb and leads east.  The solid trunk of the tree is to the north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1554
+D1
+~
+~
+0 0 1565
+D2
+~
+~
+0 0 1561
+S
+#1561
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You are following a branch that leads west over Ashton Gardens.  It is thick
+and sturdy, and well over a hundred and fifty feet above the ground.  The
+branch narrows further to the west, where the brown limb disappears into
+sproutings of green leaves.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1560
+D3
+~
+~
+0 0 1562
+S
+#1562
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You are walking on a branch more than a hundred and fifty feet above
+ground.  You wonder what it would be like to stretch your arms out and jump
+off this branch pretending you were a bird.  On second thought, you better
+not, as your splattered brains would create extra work for the already over
+extended caretakers of Ashton Gardens.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1561
+D3
+~
+~
+0 0 1563
+S
+#1563
+0 0
+~
+~
+~
+0 0 0
+High up on a Limb~
+You are standing on a slender limb, one too skinny to turn around on.  It
+creaks and sways as you step on it, and a flurry of leaves falls to the
+ground as you try to balance yourself.  You can retreat to the safety of
+sturdier limbs to the east.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1562
+S
+#1565
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You stand on a branch on the southern side of a giant oak tree.  The
+ground below is one hundred and fifty feet away, and looking down makes you
+a bit woozy.  You can climb up or down the tree trunk on either side.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1555
+D1
+~
+~
+0 0 1566
+D3
+~
+~
+0 0 1560
+S
+#1566
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You are standing at the east end of a branch that runs against the trunk
+of an enormous oak tree.  A smaller branch crosses your path perpendicular
+to the north and south.  Large leaves flutter down from branches high above.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1568
+D2
+~
+~
+0 0 1567
+D3
+~
+~
+0 0 1565
+S
+#1567
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You are standing on a small, skinny branch that extends from the centre
+of an oak tree.  A gust of wind rustles the branch, making you nervous, for
+the ground is one hundred and fifty feet below.  You can follow this branch
+to the north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1566
+S
+#1568
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You are so high up in the tree, that looking down would probably cause a
+nosebleed.  There are branches nearby above that you can grasp to catch your
+balance should you fall.  This branch narrows to the east.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1569
+D2
+~
+~
+0 0 1566
+D3
+~
+~
+0 0 1555
+S
+#1569
+0 0
+~
+~
+~
+0 0 0
+High up in the Tree~
+You are about one hundred and fifty feet off the ground, standing on a
+tiny branch feeling rather courageous.  To the east, farmland stretches out
+as far as you can see.  The sturdiness of the solid trunk is to the west.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 1568
+S
+#1570
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are like climbing up an oak tree.  It's a hard climb because the
+trunk is smooth like a baby's butt, and round like a juggler's balls.  In
+fact, you find yourself slipping pretty often, down you go, up you go!  It
+was just brought to my attention that you might be climbing DOWN the tree! 
+If you are, disregard this room description and make something up yourself. 
+~
+0 C 3
+0
+~
+I 0 D4
+~
+~
+0 0 1572
+D5
+~
+~
+0 0 1554
+S
+#1571
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing the east side of a giant oak tree.  It's so large that
+the family picnicking in the park below you look like small ants.  You
+wonder what it would feel like if you were to fall and squash them. 
+Branches thick enough to support your weight are a short ascent or descent
+away.  
+~
+0 C 3
+0
+~
+I 0 D4
+~
+~
+0 0 1573
+D5
+~
+~
+0 0 1555
+S
+#1572
+0 0
+~
+~
+~
+0 0 0
+On the Upper Branches~
+You are very high up in the tree.  In fact, you're so high, you think
+your nose might start bleeding!  It's so high, you feel like you've been
+smoking crack for the last two hours.  It's so high that it feels like
+someone gave you a wedgie that was yanked up above your ears.  Sure that
+last one wasn't too relevant, but it made you use your imagination, didn't
+it?  
+~
+0 B 3
+0
+~
+I 0 D3
+~
+~
+0 0 1574
+D4
+~
+~
+0 0 1582
+D5
+~
+~
+0 0 1570
+S
+#1573
+0 0
+~
+~
+~
+0 0 0
+On the Upper Branches~
+The east trunk of this ancient oak continues into the sky above your
+head, disappearing in a canopy of wide green leaves.  Smaller branches lead
+off to the north and east, narrowing steadily so that you are unsure whether
+they can hold your weight.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1577
+D1
+~
+~
+0 0 1579
+D4
+~
+~
+0 0 1585
+D5
+~
+~
+0 0 1571
+S
+#1574
+20 30
+~
+~
+~
+0 0 0
+In the Upper Branches~
+You crawl along a narrow branch off the trunk of the ancient oak to the
+east.  Smaller stems go off to the south and west, barely wide enough to
+support your weight and bending with the slightest breeze.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1572
+D2
+~
+~
+0 0 1576
+D3
+~
+~
+0 0 1575
+S
+#1575
+0 0
+~
+~
+~
+0 0 0
+In the Upper Branches~
+The branch ends rather suddenly here, the end of the branch having been
+blown off by strong winds or perhaps by the wieght of some other curious
+climber like yourself.  A few tiny new stems, small pointed leaves toping
+them, grow from the stump of the old branch.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1574
+S
+#1576
+0 0
+~
+~
+~
+0 0 0
+In the Upper Branches~
+You cling tightly to a narrow branch, leaves falling off and twirling
+away as it bends and creaks beneath you.  You think it might be a good idea
+to move back to the north, where you can be more sure of your footing.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1574
+S
+#1577
+0 0
+~
+~
+~
+0 0 0
+In the Upper Branches~
+You use your hands to stay balanced on this narrowing, crooked branch. 
+The branch meets a larger trunk to the south, and narrows to a point to the
+east in a leafy wall behind which narrow spots of sky can be seen.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1578
+D2
+~
+~
+0 0 1573
+S
+#1578
+0 0
+~
+~
+~
+0 0 0
+In the Upper Branches~
+The branch ends here, several tiny, leafy stems sticking out at odd
+directions along it.  It bends under your weight, almost making you slip and
+fall.  You catch a glimpse of the green grass of the park far below, and
+decide the trip down wouldn't be too much fun.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 1577
+S
+#1579
+0 0
+~
+~
+~
+0 0 0
+In the Upper Branches~
+You stand high up in the oak tree, balancing carefully upon the sometimes
+thin, sometimes thick branches that curl slowly away from the thick trunk. 
+The occasional broad leaf brushes against your face here, leaving some
+residual moisture upon both your clothing and skin.  The sunlight begins to
+creep in through the overhead canopy here, making the balancing act easier. 
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1580
+D2
+~
+~
+0 0 1581
+D3
+~
+~
+0 0 1573
+S
+#1580
+0 0
+~
+~
+~
+0 0 0
+In the Upper Branches~
+You stand in the upper branches of the oak tree, a tangle of thin and
+thick wood beams that seem to have been placed here more by man than by any
+force of nature.  Leaves hang over you, occluding your vision and making the
+task of keeping your footing all the more trickier.  The whole scene is so
+narcotic, "Everything's so green!"  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 1579
+S
+#1581
+0 0
+~
+~
+~
+0 0 0
+In the Upper Branches~
+You stand precariously on the end of a thin branch that sways lightly in
+the humid wind that blows across your face.  The ancient oaken wood creaks
+quietly as you attempt to gain your footing.  Massive leaves hang down over
+you, a canopy of vegetation that shields you from the sunlight.  From this
+vantage point, you can hear the wafting sounds of people in Ashton Gardens
+playing and moving about.  The height of this branch gives you another
+thought, What would it be like if you jumped?  (Type `kJUMP TREE`` for an
+experience) 
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1579
+S
+#1582
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing the west trunk of an ancient wizened oak tree.  Leaves
+are occasionally swept off branches higher up, brushing near your face as
+they land somewhere below you.  A sturdy limb originates from the centre of
+the tree not far below you.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 1583
+D5
+~
+~
+0 0 1572
+S
+#1583
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing the west side of an enormous oak tree.  Its thick trunk
+shields you from the wind, while the leaves around you rustle langoriously. 
+You can climb up or down the tree from here.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 1584
+D5
+~
+~
+0 0 1582
+S
+#1584
+0 0
+~
+~
+~
+0 0 0
+Almost to the Top~
+You are climbing up the west side of an enormous oak tree, almost three
+hundred feet into the air.  Small branches jut out from the trunk, and you
+grasp onto these to keep your balance.  Looking upwards, you see that the
+top branches of the tree are not far off.  
+~
+0 C 3
+0
+~
+I 0 D4
+~
+~
+0 0 1588
+D5
+~
+~
+0 0 1583
+S
+#1585
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing the east trunk of an enormous oak tree that stretches
+high above you.  Leaves occasionally are swept off their branches by the
+gentle breeze, swirling their way to the ground.  A sturdy looking limb
+looks only a short jump down.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 1586
+D5
+~
+~
+0 0 1573
+S
+#1586
+0 0
+~
+~
+~
+0 0 0
+Climbing an Oak Tree~
+You are climbing the east trunk of an ancient wizened oak tree.  Small
+branch stems sprout from the trunk, allowing you leverage with which to
+balance yourself.  You can climb up or down the tree from here.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 1587
+D5
+~
+~
+0 0 1585
+S
+#1587
+0 0
+~
+~
+~
+0 0 0
+Almost to the Top~
+You are climbing the east side of the famed Great Oak of Ashton Gardens. 
+The ground lays almost three hundred feet below you.  Looking up, you can
+see that the top branches of the tree are only a couple of arm lengths away.
+~
+0 C 3
+0
+~
+I 0 D4
+~
+~
+0 0 1591
+D5
+~
+~
+0 0 1586
+S
+#1588
+0 0
+~
+~
+~
+0 0 0
+Top of the Great Tree~
+You are clinging to the trunk of the Great Oak tree, almost three hundred
+feet into the air.  You pray that the wind doesn't pick up, because even the
+slightest breeze rocks the tree top enough to make you queasy.  From here,
+you have a stunning view of the surrounding area.  Below to the north, you
+can see merchants on their horse drawn carts arriving to do trade in the
+town squares.  Farmland stretches out far to the east, where cows graze near
+rows and rows of wheat fields.  You cannot climb the tree any further, as it
+becomes too thin to support your weight.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1589
+D2
+~
+~
+0 0 1590
+D5
+~
+~
+0 0 1584
+S
+#1589
+0 0
+~
+~
+~
+0 0 0
+The Top Branches~
+Cautiously, you inch your way out on this slender branch.  You are almost
+three hundred feet into the air, and you take great care to not misplace a
+foot.  To the north, the branch becomes too unstable to support your weight.
+The center of the tree, and the way back to stable ground, is to your south.
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 1588
+S
+#1590
+25 300
+~
+~
+~
+0 0 0
+The Top Branches~
+You step forward slowly on this thin wispy branch.  Belatedly, you
+realize that you have entered the nest of a griffin.  Apparently, it likes
+to maintain its vigil at such a high altitude, keeping watching over all the
+other creatures in the tree.  If you can make it, you can climb back down
+the tree trunk to the north.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 1588
+S
+#1591
+0 0
+~
+~
+~
+0 0 0
+Top of the Great Tree~
+You are clinging to the east side of the Great Oak tree, swaying with the
+gentle breeze almost three hundred feet into the sky.  From here, you
+command a fabulous view of the surrounding land.  Nearby to the south, the
+foreboding tower of a powerful lord's castle pierces the sky.  To the
+southwest, the surface of a river glistens in the light.  Numerous branches
+crop out from the tree here, but they are too thin and wispy to venture out
+on.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 1592
+D5
+~
+~
+0 0 1587
+S
+#1592
+0 0
+~
+~
+~
+0 0 0
+A Swaying Branch~
+This branch creaks and sways as you set your weight on it, discouraging
+you from continuing any further on this tendril.  Not many squirrels or
+birds venture up this high, allowing nuts and leaves to blossom peacefully. 
+You can climb down to safety to the west.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 1591
+S
+#1593
+0 0
+~
+~
+~
+0 0 0
+SPLAT!~
+Boy, don't you feel stupid!
+~
+0 CT 3
+0
+~
+H-99
+I 0 M-99
+D0
+~
+~
+0 0 4169
+S
+#0
+
+#RESETS
+M 0 1500  15 1500  2	* A squirrel
+G 0 1500 -1		* An acorn to a squirrel
+M 0 1500  15 1505  2	* A squirrel
+G 0 1500 -1		* An acorn to a squirrel
+M 0 1500  15 1505  2	* A squirrel
+G 0 1500 -1		* An acorn to a squirrel
+M 0 1500  15 1500  2	* A squirrel
+G 0 1500 -1		* An acorn to a squirrel
+M 0 1501  10 1525  1	* The finch
+M 0 1500  15 1503  1	* A squirrel
+M 0 1500  15 1507  1	* A squirrel
+G 0 1500 -1		* An acorn to a squirrel
+O 0 1501   0 1581 -1	* From a tree at In the Upper Branches
+M 0 1502   5 1511  1	* A black-capped chickadee
+M 0 1502   5 1521  1	* A black-capped chickadee
+M 0 1503   3 1510  1	* A bridled titmouse
+M 0 1504   2 1522  1	* A tree swallow
+M 0 1505   3 1523  1	* A ladybug
+M 0 1506   5 1527  1	* A starling
+M 0 1506   5 1526  1	* A starling
+M 0 1503   5 1519  2	* A bridled titmouse
+M 0 1507   1 1520  1	* A cat
+M 0 1501  10 1517  1	* The finch
+M 0 1504   3 1517  1	* A tree swallow
+M 0 1508   2 1534  1	* A purple martin
+M 0 1509   2 1539  1	* The blue jay
+M 0 1510   2 1543  1	* The yellow-billed magpie
+M 0 1510   2 1547  1	* The yellow-billed magpie
+M 0 1511   2 1549  1	* A black-billed cuckoo
+M 0 1512   3 1535  1	* An indigo bunting
+M 0 1512   3 1538  1	* An indigo bunting
+M 0 1513   2 1536  1	* A grosbeak
+M 0 1516   2 1559  1	* The blackbird
+G 0 1502 -1		* `na glinting silver ring`` to the blackbird
+M 0 1517   2 1556  1	* An oriole
+M 0 1518   1 1563  1	* A barred owl
+M 0 1514   2 1551  1	* A chestnut collared longspur
+M 0 1514   2 1548  1	* A chestnut collared longspur
+M 0 1515   3 1535  1	* A caterpillar
+M 0 1519   3 1554  1	* A cardinal
+M 0 1519   3 1566  1	* A cardinal
+M 0 1520   1 1569  1	* A tree frog
+M 0 1524   1 1590  1	* The griffin
+M 0 1523   1 1592  1	* The falcon
+M 0 1522   2 1578  1	* The raven
+M 0 1522   2 1574  1	* The raven
+M 0 1521   2 1579  1	* The black vulture
+M 0 1511   4 1542  1	* A black-billed cuckoo
+M 0 1509   3 1541  1	* The blue jay
+O 0 1504   0 1508 -1	* `dbiff the wonder snail`` at Climbing an Oak Tree
+O 0 1551   0 1567 -1	* A bee hive at High up in the Tree
+O 0 1552   0 1545 -1	* Honey at 
+M 0 1525   1 1545  1	* Bees
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 1524 spec_cast_mage		* the griffin
+S
+
+#OT
+#1501
+`dGiant Oak Tree -`d jump! jump!``~
+$whenjumped~
+32768
+64
+at $name damage $name 75 `bYou slam into the ground! (And bounce a little)``~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#1504
+`dBiff the Wonder Snail``~
+$on_tick~
+536870912
+68
+at 26563 drive up~
+30
+0
+at 26563 drive down~
+30
+0
+at 26562 echo `dBiff the Wonder Snail hums a silly song as he slurps along.``~
+3
+0
+at 26563 drive up~
+20
+10
+at 26563 drive down~
+20
+10
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

@@ -1,0 +1,36 @@
+* File: auvybrother.scr
+* Mob: Brother guarding the hell of auvyron (421)
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+  emote doublechecks to make sure the great northern door remains firmly sealed.
+  cmd close north
+  halt once~
+Sc 
+if ( %rndnum% == 1 )
+  echo Hideous screams can be heard from the north beyond the `agreat steel door``.
+  halt once~
+Sc 
+if ( %rndnum% == 2 )
+  emote bows his head in prayer for the strength to carry on with his task.
+  halt once~
+Sc
+if ( %rndnum% > 2 )
+  halt once~
+End
+
+#TRIGGER greet
+Type 10
+Sc
+mfunc %greet-from% %name% name
+wfunc %rand% random 0 1
+    if (%rand% == 1)
+    cmd shake
+    say You should not have come here.  This place will only bring you death.
+    halt once~
+End
+
+#END

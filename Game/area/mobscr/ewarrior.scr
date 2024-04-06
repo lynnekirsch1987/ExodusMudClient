@@ -1,0 +1,33 @@
+* File: ewarrior.scr
+* Mob: Enslaved Warrior(19011)
+
+#TRIGGER enter
+Type 10
+*
+Sc 
+mfunc %enter-from% %class% class
+mfunc %enter-from% %name% name
+if ( %class% == 3 )
+   bow %name%
+   halt once~
+Sc
+wfunc %rnd% random 0 4
+if ( %rnd% == 0 )
+   liver %name%
+   halt once~
+Sc
+if ( %rnd% == 1 )
+   mutter %name%
+   halt once~
+Sc
+if ( %rnd% == 2 )
+   glare %name%
+   halt once~
+Sc
+if ( %rnd% == 3 )
+   spit %name%
+   halt once~
+End
+
+#END
+

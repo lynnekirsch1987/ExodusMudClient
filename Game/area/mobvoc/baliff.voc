@@ -1,0 +1,7 @@
+Colin
+seq_jury:>1:-:CMD emote moves over to the Sequester Room door.;CMD unlock east;CMD open east;CMD say Would the jury please exit to the sequester room?
+sum_jury:>1:-:CMD emote walks to the Sequester Room door.;CMD unlock east;CMD open east;CMD east;CMD say Would the jury please return to the courtroom?;CMD west;CMD emote returns to his place by the bench.
+lockit:>1:-:CMD close east;CMD lock east;CMD emote returns to his place by the bench.
+fart:>1:-:CMD fart
+seqjury:>1:-:CMD emote moves over to the Sequester Room door.;CMD unlock east;CMD open east; CMD say Would the jury please retire to the Sequester Room?
+sumjury:>1:-:CMD emote moves over to the Sequester Room door.;CMD unlock east;CMD open east;CMD east;CMD say Would the jury return to the courtroom, please?;CMD west

@@ -1,0 +1,113 @@
+* File: flipper.scr
+* Mob: Coin Flipper
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+  emote flips `ka golden quest token`` in the air and catches it in the palm of his hand.
+  halt once~
+Sc 
+if ( %rndnum% == 1 )
+  emote deftly rolls `ka golden quest token`` across the tops of his fingers.
+  halt once~
+Sc 
+if ( %rndnum% == 2 )
+  emote glances over at you casually to see if you are interested in playing a game with him.
+  halt once~
+if ( %rndnum% > 2 )
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %wins% == 0
+  let %losses% == 0
+  halt once~
+End
+
+#TRIGGER flipcoin
+Type 5
+Sc
+mfunc %flipcoin-from% %name% name
+ofunc %flipcoin-arg% %what% vnum
+ofunc %flipcoin-arg% %objname% name
+wfunc %coin% random 0 9999
+ 
+if (%what% != 1292 )
+  say I only play for `kgolden quest tokens``.
+  drop all
+  halt once~
+Sc
+if (%coin% >= 0) && (%coin% < 5000) 
+  say OK, here we go.
+  wait 1~
+Sc
+if (%coin% >= 0) && (%coin% < 5000)
+  say `oHEADS`` you win, `iTAILS`` I win.
+  emote flips `ka golden quest token`` high into the air.
+  wait 2~
+Sc
+if (%coin% >= 0) && (%coin% < 5000)
+  cmd echo `kA golden quest token`` lands on the ground and spins a little.
+  wait 2~
+Sc
+if (%coin% >= 0) && (%coin% < 5000)
+  cmd echo `ka golden quest token`` spins slower and slower, then falls over `oHEADS`` up.
+  emote gets `ka golden quest token``.
+  wait 1~
+Sc
+if (%coin% >= 0) && (%coin% < 5000)
+  cmd sigh
+  say It looks like you won this time.  I'm a man of my word.
+  give token %name%
+  cmd at 1 load obj 1292
+  give token %name%
+  let %losses% += 1
+  halt once~
+Sc
+if (%coin% > 4999)
+  say OK, here we go.
+  wait 1~
+Sc
+if (%coin% > 4999)
+  say `oHEADS`` you win, `iTAILS`` I win.
+  emote flips `ka golden quest token`` high into the air.
+  wait 2~
+Sc
+if (%coin% > 4999)
+  cmd echo `kA golden quest token`` lands on the ground and spins a little.
+  wait 2~
+Sc
+if (%coin% > 4999)
+  cmd echo `ka golden quest token`` spins slower and slower, then falls over `iTAILS`` up.
+  emote gets `ka golden quest token``.
+  wait 1~
+Sc
+if (%coin% > 4999)
+  cmd smile
+  say It looks like I won this time.  I'll just hang onto this token and we'll call it even.
+  cmd at 1 eat token
+  let %wins% += 1
+  halt once~
+End
+
+#TRIGGER greet
+Type 10
+Sc
+wfunc %rand% random 0 1
+    if (%rand% == 1)
+    say Hello, would you be interested in a game of chance?
+    halt once~
+End
+
+#TRIGGER stats
+Type 99
+Sc
+  say I have won %wins% times and lost %losses% times so far.
+halt once~
+End
+
+#END

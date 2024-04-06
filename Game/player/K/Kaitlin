@@ -1,0 +1,664 @@
+#PLAYER
+Name Kaitlin~
+Id   834691869
+LogF 1015119536
+LogO 1015119536
+Vers 7
+Desc There are large white cloaks pulled tightly around the battle armor of this holy crusader. 
+~
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race human~
+Sex  2
+Cla  1
+Levl 90
+AALevl 2
+PBKill 20
+MBKill 37
+PHKill 7
+MHKill 673
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 1056953
+Bank_Gold 1441
+Bank_Silv 3145
+Email jdixon@catawba.edu~
+Host user-24-214-132-210.knology.net~
+Not  988086249 951948970 0 1008279668 1014427529 1009705193 932009729
+Scro 22
+Room 4076
+HMV  606 606 924 924 483 483
+Hand 2
+Gold 103
+Silv 1348
+Exp  220616
+Act  CDEGH
+AfBy DH
+Comm NOSX
+Pos  8
+Prac 2
+Save  -5
+Alig  710
+Hit   4
+Dam   11
+ACs -100 -95 -99 -10
+Attr 15 17 21 13 17 8
+AMod 1 0 0 1 0 2
+Pass Ka1cDzTdB8FuA~
+Bcry  bows her head in prayer...~
+Plan  `oLiving as a part of organized religion, this holy woman strives to
+``enlighten those who live in the shadows of their existence. Raised
+`oamongst the hierarchy of the church, Kaitlin has spent her few years
+``studying holy texts and hardening herself in order to protect the
+`ointegrity of the sacred institution in the name of God. Using the power
+``of prayer, Kaitlin summons the divine favor so that she may protect the
+`oinnocence that seems to have left our tired lands. Many a time has Kaitlin
+``been gravely injured when she calls upon the power of the almighty in order to
+`osave her mortal remains. To see Kaitlin in battle is to see all that is`` 
+pure blazing a name for the messiah himself. Thus is Kaitlin.
+~
+Layhands 0
+Exorcise 0
+Titl  `ithe GHOST of ALLIANT`w~
+Pnts 49
+TSex 2
+LLev 217
+Loner 1
+HMVP 601 914 483
+Cnd  -16 30 39 39
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias hk pray 'cure light' kaitlin~
+Alias heal heal~
+Alias cast pray~
+Alias spells prayers~
+Alias ride mount~
+Alias ri ride horse~
+Sk 78 'purification'
+Sk 81 'halo of seraphs'
+Sk 79 'illumination'
+Sk 1 'cause critical'
+Sk 52 'cause light'
+Sk 1 'cause serious'
+Sk 84 'continual light'
+Sk 59 'cure blindness'
+Sk 89 'heroes feast'
+Sk 75 'cure critical'
+Sk 67 'cure disease'
+Sk 76 'cure light'
+Sk 80 'cure poison'
+Sk 76 'cure serious'
+Sk 75 'demonfire'
+Sk 51 'detect evil'
+Sk 93 'edification'
+Sk 96 'penance'
+Sk 77 'deconsecrate'
+Sk 1 'detect good'
+Sk 85 'true sight'
+Sk 75 'dispel evil'
+Sk 1 'dispel good'
+Sk 78 'earthquake'
+Sk 98 'flamestrike'
+Sk 1 'fly'
+Sk 2 'harm'
+Sk 100 'heal'
+Sk 75 'greater heal'
+Sk 75 'restore'
+Sk 56 'know alignment'
+Sk 77 'mass healing'
+Sk 1 'pass door'
+Sk 79 'plague'
+Sk 1 'portal'
+Sk 1 'summon'
+Sk 1 'gate'
+Sk 62 'nexus'
+Sk 90 'evocation'
+Sk 88 'heavenly cloak'
+Sk 77 'protection evil'
+Sk 1 'protection good'
+Sk 98 'soul fire'
+Sk 70 'hallowed vision'
+Sk 60 'celestial sight'
+Sk 92 'sustenance'
+Sk 77 'holy water'
+Sk 89 'revelation'
+Sk 76 'levitation'
+Sk 95 'ray of truth'
+Sk 69 'renewal'
+Sk 1 'teleport'
+Sk 98 'sanctuary'
+Sk 75 'damnation'
+Sk 71 'divine protection'
+Sk 75 'haven'
+Sk 76 'holy sphere'
+Sk 75 'mass levitation'
+Sk 72 'calm'
+Sk 85 'frenzy'
+Sk 75 'holy word'
+Sk 87 'bless'
+Sk 82 'conservancy'
+Sk 76 'remove curse'
+Sk 100 'mace'
+Sk 85 'shield block'
+Sk 84 'riding'
+Sk 75 'exorcism'
+Sk 86 'scribe'
+Sk 76 'scrolls'
+Gr 'rom basics'
+Gr 'transportation'
+Gr 'transcendence'
+Gr 'prophecy'
+Gr 'wrath'
+Gr 'miracles'
+Gr 'determination'
+Gr 'restoration'
+Gr 'piety'
+Affc 'true sight'   0  79  23   0   0          8 0 ''
+Affc 'sanctuary'   0  86   4   0   0        128 0 ''
+Affc 'divine protection'   0  89  86 -40  17          0 0 ''
+Affc 'divine protection'   0  89  86  -2  24          0 0 ''
+End
+
+#O
+Vnum 20955
+Nest 0
+ExtF 8388609
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 4164
+Nest 0
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4165
+Nest 0
+ExtF 8388608
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 21077
+Nest 0
+ExtF 8388608
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 4163
+Nest 0
+ExtF 8388609
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20968
+Nest 0
+Cond 0
+Wear -1
+Cost 206
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 12234
+Nest 0
+ExtF 8388931
+Cond 0
+Wear 11
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 4159
+Nest 0
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 109
+Nest 0
+ExtF 25165825
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 4306
+Nest 0
+ExtF 25428289
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16322
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3688
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3503
+Nest 0
+Cond 0
+Wear 14
+Cost 5430
+End
+
+#O
+Vnum 3503
+Nest 0
+ExtF 8389632
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 7715
+Enchanted
+Nest 0
+ExtF 8392001
+Cond 0
+Wear 8
+Lev  85
+Cost 0
+Affc 'enchant armor'   1  90  -1  -2  17          0 0 ''
+Affc 'reserved'   1  84  -1  -2  24          0 0 ''
+End
+
+#O
+Vnum 7714
+Nest 0
+ExtF 8391936
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 114
+Cost 0
+Val  13 27 240 0 0 0 0
+End
+
+#O
+Vnum 4154
+Nest 0
+Cond 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 4153
+Nest 0
+Cond 0
+Wear -1
+Cost 176
+End
+
+#RoomRLE   4034 2 12 22 3 1 2 3 13 2 34 1 16 2 2 1 11 1 37 2 1 1 200 4 20644 1 1 1 149 1 40331 -1
+
+#END

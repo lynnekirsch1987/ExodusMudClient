@@ -1,0 +1,11 @@
+Minax
+hi|hello|hail:>1:-:CMD pmote grins slyly and nods at $name.
+how&are&you:>1:-:I feel great, $name.  How about yourself?
+thief|thieves|thug|thugs:>1:-:Ah, yes, our brothers roam the streets of Thesden collecting for the cause.;CMD grin $name
+what&cause:>1:-:There is only one cause worth living for, and that is yourself!
+what&brother|brothers:>1:-:Our brothers, the thieves and thugs of Thesden.
+DEFAULT:>1:-:CMD pmote looks around the room suspiciously and whispers to $name 'Watch out for the guards.  They are hunting our brothers.
+fuck|shit|ass|bitch|dick|cunt:>2:-1:CMD frown;You're trying my patience.;CMD push $name north;CMD south
+fuck|shit|ass|bitch|dick|cunt:<3:6:So be it, then.;Have at!;CMD yell $name is a fool and fools pay with their lives!;CMD back $name;CMD dirt $name
+I&will&kill|fight&you:>2:-1:CMD frown;You're trying my patience.;Be careful what you wish for.
+I&will&kill|fight&you:<3:6:So be it, then.;Have at!;CMD yell $name is a fool and fools pay with their lives!;CMD back $name;CMD dirt $name

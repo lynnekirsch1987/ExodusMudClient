@@ -1,0 +1,35 @@
+* File: wemaster.scr
+* Mob: Weapons Master(5106)
+
+#TRIGGER switch
+Type 2
+Sc
+wfunc %check% random 0 10
+mfunc %switch-to% %cond% hit
+if (%check% == 2) && (%cond% < 100)
+emote snarls and leaps away for a second.
+rem 1.
+rem 1.
+wear axe
+wear dagger
+halt once~
+Sc
+if (%check% == 5) && (%cond% < 100)
+emote howls in pain, rolling away from combat for a brief second.
+rem 1.
+rem 1.
+wear staff
+wear mace
+halt once~
+Sc
+if (%check% == 8) && (%cond% < 100)
+emote utters a terse prayer to Lloth and sidesteps your attack for a second.
+rem 1.
+rem 1.
+wear broadsword
+halt once~
+End
+
+#END
+
+

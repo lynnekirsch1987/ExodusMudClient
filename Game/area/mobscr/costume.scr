@@ -1,0 +1,62 @@
+* File: costume.scr
+* Mob: costume collector(4398)
+
+#TRIGGER quest
+Type 99
+Sc
+chobj %quest-from% %lance% 4166
+chobj %quest-from% %legs% 4164
+chobj %quest-from% %helmet% 4165
+chobj %quest-from% %chest% 4162
+chobj %quest-from% %arms% 4163
+chobj %quest-from% %wrist% 4159
+if ( %lance% == 0)
+   say I want a short lance just like the knights in Thesden wield.
+   say Come back when you have the whole set.
+   halt once~
+Sc
+if ( %legs% == 0)
+   say I want some steel leggings just like the knights in Thesden wear.
+   say Come back when you have the whole set.
+   halt once~
+Sc
+if ( %helmet% == 0)
+   say I want a steel helmet just like the knights in Thesden wear.
+   say Come back when you have the whole set.
+   halt once~
+Sc
+if ( %chest% == 0)
+   say I want a steel breastplate just like the knights in Thesden wear.
+   say Come back when you have the whole set.
+   halt once~
+Sc
+if ( %arms% == 0)
+   say I want some steel arm plates just like the knights in Thesden wear.
+   say Come back when you have the whole set.
+   halt once~
+Sc
+if ( %wrist% == 0)
+   say I want a steel bracelet just like the dwarven bodyguards in Thesden wear.
+   say Come back when you have the whole set.
+   halt once~
+Sc
+   say You have the whole set!  Now my collection is complete!
+   cmd seize qlance %quest-from%
+   cmd seize qleggings %quest-from%
+   cmd seize qhelmet %quest-from%
+   cmd seize qbreastplate %quest-from%
+   cmd seize qarm %quest-from%
+   cmd seize qbracelet %quest-from%
+   cmd wear qlance
+   cmd wear qleggings
+   cmd wear qhelmet
+   cmd wear qbreastplate
+   cmd wear qarm
+   cmd wear qbracelet
+   cmd give 100 gold %quest-from%
+   say That ought to compensate you nicely.
+   cmd goto 1
+   halt triggers~
+End
+
+#END

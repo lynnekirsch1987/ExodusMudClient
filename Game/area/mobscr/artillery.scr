@@ -1,0 +1,53 @@
+* script: artillery.scr
+* Merossa Pirate Artilleryman Prisoner (14008)
+
+#TRIGGER born
+Type 4
+Sc
+  walkto 14000
+  halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+if (%rvnum% == 14000)
+  emote looks over at you, desperate to plead his case to someone.
+  wait 2~
+Sc
+if (%rvnum% == 14000)
+  say Hi.
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+mfunc %move-to% %rvnum% room
+  halt once~
+End
+
+#TRIGGER catapult
+Type 99
+Sc
+if (%rvnum% == 14071)
+  say OK, now hop in the basket, because when I pull this lanyard, the catapult will launch.
+  wait 7~
+Sc
+if (%rvnum% == 14071)
+  say Ready or not, here we go!
+  cmd set obj basket timer 10
+  cmd at 1 load obj 14094
+  cmd pull 14094
+  cmd at 1 eat 14094
+  signal 14000 catapult
+  halt once~
+Sc
+  say I'm the only one on the ship who knows how to operate the catapult.
+  wait 1~
+Sc
+  say If I could just get back to the ship, I'm sure I could turn the tide of this battle.
+  halt once~
+End
+
+#END

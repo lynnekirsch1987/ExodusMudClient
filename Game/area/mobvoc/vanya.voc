@@ -1,0 +1,6 @@
+Minax
+hi|hello|hail:>2:-:CMD pmote nods pleasantly to $name.;Hello, ranger.;CMD camp
+I&will&kill|fight&you:>2:-1:CMD frown;You're trying my patience.;Be careful what you wish for.;CMD push $name south;CMD stand;CMD north;CMD cast bark;CMD cast herbal
+fuck|shit|ass|bitch|dick|cunt|whore:>2:-1:CMD frown;You're trying my patience.;CMD push $name south;CMD stand;CMD north;CMD cast bark;CMD cast herbal
+I&will&kill|fight&you:<3:6:CMD shake;Fine, then.  We'll do it your way.;CMD yell $name is going to feed the trees!;CMD cast 'web' $name;CMD cast 'bee swarm' $name;CMD disarm $name;CMD get all;CMD wear alllist
+fuck|shit|ass|bitch|dick|cunt|whore:<3:6:CMD shake;Fine, then.  We'll do it your way.;CMD yell $name is going to feed the trees!;CMD cast 'web' $name;CMD cast 'bee swarm' $name;CMD disarm $name;CMD get all;CMD wear all

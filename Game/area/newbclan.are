@@ -1,0 +1,1397 @@
+#AREA
+ 6~
+newbclan.are~
+`dGuttersnipes' Fort``~
+{ 9 45} spaz  `dGuttersnipes' Fort``~
+~
+2984 3034
+0 B 0
+0 0
+~
+#MOBILES
+#2984
+sophie girl daughter~
+Sophie~
+Sophie, the florist's daughter, is here.
+~
+~
+human~
+0 0 0 0
+ABIT H -800 0
+100 20 2d2+29000 10d10+10 2d4+3 bite
+-40 -40 -40 999 -40
+D 60 2 N 0 0 0
+sit stand female 100
+AHMV ABCDEFGHIJKa 15 10 10 20 5 10 0
+medium oldstyle~
+0 0 0 100
+5
+sophie.voc~
+~
+#2985
+wirt~
+Wirt, the stolen goods merchant~
+Wirt, the peg legged boy, peddles stolen goods at discount prices
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 40 40d40+5000 1d1+800 1d1+1 digestion
+-20 -20 -20 999 -20
+0 60 3 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 0 0 0 0 0 0 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#2986
+ungdar~
+Ungdar, a young Vroath child~
+Ungdar is here peddling various wares
+~
+~
+vro'ath~
+0 0 0 0
+AB 0 -1000 0
+30 35 20d20+3000 1d1+150 7d8+5 wrath
+-5 -5 -5 999 -5
+DR 60 3 0 0 0 NP
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#2999
+visitor abbey~
+A visitor to the Abbey~
+A visitor to the Abbey wanders around, taking in the beauty.
+~
+This is one of the many people who come to the Abbey to worship Erion, and
+also to take in the beauty of the Abbey's surrounding grounds.  They are
+probably from one of the surrounding farming villages by the looks of their
+clothes.  They are certainly dressed up for the occasion, as many only
+visit the Abbey on a yearly pilgrimage.
+~
+human~
+0 0 0 0
+ABHST Z 500 0
+21 0 3d9+350 10d5+56 4d4+4 stab
+-1 -1 -1 999 -1
+0 60 0 CIJN 0 0 0
+stand stand either 300
+AHMV ABCDEFGHIJKa 0 0 0 0 0 0 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#3000
+Habib~
+Habib~
+Habib is her to sell you crap
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+100 40 40d40+5000 1d1+800 1d1+80 digestion
+-20 -20 -20 999 -20
+0 60 2 0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#2984
+hole~
+a small hole in the wall~
+~
+iron~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCDFHIJL A
+0
+0
+2 3000 0 P
+#2985
+hole~
+a small hole in the wall~
+~
+iron~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G DFHIJL A
+0
+0
+2 3000 0 P
+#2986
+meeting table crates~
+a table~
+A meeting table made of old crates is here~
+wood~
+0
+furniture 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC ABCEFHIJL DGJ 0 0
+0
+0
+50 3000 0 P
+#2987
+well~
+a small well near the south wall~
+A small brick well by the south wall~
+unknown~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#2988
+toy box~
+A toy box~
+An unusually large toy box is here, full of all sorts of goodies.~
+iron~
+0
+newclan_donation 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG Guttersnipes~
+0 0 0
+0
+0
+0 3000 0 P
+#2989
+bunk bunks bed~
+a bunk bed~
+Several bunk beds line the walls.~
+unknown~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD DEFHIJL EHK ABEFG ABEFG
+0
+0
+0 3000 0 P
+#2990
+roof~
+the roof~
+~
+unknown~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ACDFGHIJKL H
+0
+0
+0 3000 0 P
+#2999
+doll arm strawberry~
+`hAn arm of a `bStrawberry `hpatch doll``~
+A ripped off doll arm is here~
+cloth~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+3000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 1 P
+#3000
+knickers~
+A pair of clean white knickers~
+A fresh pair of clean whike knickers is here~
+unknown~
+0
+armor 2
+HMPS
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+10 1 50 P
+#3001
+stick~
+Whacking Stick~
+Whacking stick of the Spaz~
+unknown~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 ABC C AB C
+0
+0
+0 0 50 P
+A
+18 6
+A
+19 6
+#3002
+A magic Fork~
+`hA magical `gfork``~
+Yup, it's a fork folks~
+wood~
+0
+weapon 2
+AHMPSZe
+C
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 AC BC B CD
+0
+0
+10 100 1000 P
+A
+18 5
+A
+19 5
+#3003
+spirit youth~
+`hThe `gSpirit `hof `cYouth``~
+Youth is here~
+unknown~
+0
+treasure 2
+AHMPSTZ
+C
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 30 500 P
+A
+17 -2
+A
+18 2
+A
+2 1
+#3004
+glowing rock~
+`hA `kGlowing `hRock``~
+A glowing rock is here~
+stone~
+0
+light 2
+HMPSTZ
+C
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+10 20 300 P
+A
+12 20
+A
+13 10
+A
+24 -2
+A
+4 3
+#3005
+shiny things~
+`kS`dh`ki`dn`ky `hthings``~
+Shiny things on a string sits on the ground~
+crystal~
+0
+treasure 2
+HMPSTZ
+C
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+8 30 300 P
+A
+18 2
+A
+19 2
+A
+17 -3
+#3006
+mittens~
+`hA pair of `gmittens``~
+How cute, mittens are here~
+cloth~
+0
+armor 2
+HMPSTZ
+C
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+10 10 500 P
+A
+18 5
+A
+19 5
+#3007
+tablecloth~
+`hA `ctablecloth``~
+A cloth made from table~
+cloth~
+0
+armor 2
+HMPSTZ
+C
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C C BC 0
+0
+0
+9 30 250 P
+A
+26 2
+A
+18 3
+A
+19 1
+#3008
+makeshift wood shield~
+`gA makeshift wooden shield``~
+It's a shield, or drifwood, it's hard to tell~
+wood~
+0
+armor 2
+HMPSTZ
+C
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC ABC ABC C 0
+0
+0
+5 50 200 P
+A
+1 1
+A
+2 1
+#3009
+armor defective chainmail~
+`cDefective Chainmail``~
+It's chainmail, it sucks, and someone needs to take more blacksmith classes~
+cloth~
+0
+armor 2
+HMPSTZ
+C
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AD AD AD AD 0
+0
+0
+14 150 1500 P
+A
+1 1
+A
+2 1
+#3010
+lizard skin hat~
+`dLizard Skin`h Hat``~
+A hat made from lizard skin sits here.~
+stone~
+0
+armor 2
+HMPSTZ
+C
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB AB AB 0
+0
+0
+35 30 1000 P
+A
+18 5
+A
+19 5
+A
+1 1
+#3011
+mark snipes~
+`hThe `cMark `hof the `gSnipes``~
+A mark of the snipes is here~
+cloth~
+0
+armor 2
+HMPSTZ
+C
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C AB B -3 0
+0
+0
+35 20 800 P
+A
+2 1
+A
+18 3
+A
+19 1
+#3012
+lizard skin boots~
+`dLizard Skin`h Boots``~
+Boots made from lizard skin sit here.~
+cloth~
+0
+armor 2
+HMPSTZ
+C
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B A A AB 0
+0
+0
+35 50 850 P
+A
+1 1
+A
+18 2
+A
+19 1
+A
+12 20
+#3013
+runic henna tattoos~
+`dR`ku`dn`ki`dc `gHenna Tattoo``~
+Curious, there is a tattoo on the ground here~
+cloth~
+0
+armor 2
+HMPSTZ
+C
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B B 0
+0
+0
+35 10 1500 P
+A
+13 5
+A
+18 2
+#3014
+ring bronze~
+`hA `dBronze`h Ring``~
+A ring of bronze is here~
+bronze~
+0
+treasure 2
+HMPSTZ
+C
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 10 900 P
+A
+13 5
+A
+26 1
+A
+19 1
+A
+18 2
+#0
+
+#ROOMS
+#2984
+0 0
+~
+~
+~
+0 0 0
+Back room of the florist~
+A slight breeze blows through the various cracks and windows in
+this room.  Occasionally, the scent of flowers drifts in from the
+north.  Some broken toys and dirty clothes are strewn about the
+floor and a little girl sits in a chair near the corner of the room
+playing with a doll missing an arm.
+~
+0 C 1
+0
+~
+I 0 D0
+~
+~
+0 0 4144
+S
+#2985
+0 0
+exp 0~
+~
+~
+0 0 0
+Center of the Fort~
+Several hitching posts make it apparent that this room was once an
+alley through Thesden.  A small well on the brick wall to the south
+was onced used by weary horses to quench their thirst.  Much time
+has been spent making this room stick out from the others.  Torches
+stand near each entrance, their flames shedding both light and
+warmth on the children playing within.
+~
+0 DN 1
+0
+~
+I 0 C Guttersnipes~
+D0
+~
+~
+0 0 2991
+D1
+~
+~
+0 0 2986
+D3
+~
+~
+0 0 2987
+S
+#2986
+0 0
+~
+~
+~
+0 0 0
+Meeting room~
+This is where all important clan decisions are made.  The table
+in the center of the room is about as professional as things get
+here.  It's really just a place to hang out and heal up or to try
+to talk big and act tough.
+~
+0 DN 1
+0
+~
+I 0 C Guttersnipes~
+D3
+~
+~
+0 0 2985
+S
+#2987
+0 0
+~
+~
+~
+0 0 0
+Playroom~
+Kids are playing all around the room here.  Several are playing
+with some building blocks off to one side of the room.  The
+place is an absolure disaster area with toys all over the place.
+A faint stench fills the air here and one boy in the corner
+weeps quietly due to messing himself.
+~
+0 DN 1
+0
+~
+I 0 C Guttersnipes~
+D1
+~
+~
+0 0 2985
+D2
+~
+~
+0 0 2989
+D4
+~
+~
+0 0 2988
+S
+#2988
+0 0
+~
+~
+~
+0 0 0
+Thesden Lookout~
+This lookout of thesden has a stunning view.  From here the wiew
+stretches from Devon Square to the cathedral.  Off in the distance
+the sounds of birds chirping are faintly audible.  A thick hammering
+noise comes from the blacksmith below, the ringing metal sound
+is intermittently inturruped by the quenching of iron in water.
+~
+0 DN 1
+0
+~
+I 0 C Guttersnipes~
+D2
+~
+~
+0 0 2992
+D5
+~
+~
+0 0 2987
+S
+#2989
+0 0
+~
+~
+~
+0 0 0
+The Bunks~
+Rows of bunk beds line the walls.  Many have little to no bedding, and
+those that do are dirty and unmade.  Several are broken and one is
+tipped over.  Aside from the disorder, there's a comfortable atmosphere
+and many of the children find their way here to rest and heal up.
+~
+0 DN 1
+0
+~
+I 0 C Guttersnipes~
+D0
+~
+~
+0 0 2987
+D3
+~
+~
+0 0 2990
+S
+#2990
+0 0
+~
+~
+~
+0 0 45
+Ungdar's Goodies~
+This is where the youngedt of the clan obtain adventuring gear.
+A small vro'ath by the name of Ungdar is here to sell various
+goods he's run across in his travels.  Besides smelling like
+old feces, he seems to be here to help out.
+~
+0 DN 1
+0
+~
+I 0 D1
+~
+~
+0 0 2989
+S
+#2991
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Clubhouse~
+In this room, there's children playing everywhere.  However, they're
+not playing with toy weapons.  A child of about ten is crying in the
+middle of the room, blood gushing from a wound on his arm while one
+of the older girls is praying some minor healing spells on him. An
+archway built of scrap metal and lumber is south, and marks the 
+official entrance to the clubhouse.
+~
+0 DN 1
+0
+~
+I 0 C Guttersnipes~
+D2
+~
+~
+0 0 2985
+S
+#2992
+0 0
+~
+~
+~
+0 0 50
+Wirt's Shady Shop~
+This small room is crudely constructed of spare lumber found
+around Thesden.  A small boy carefully guards a chest of oak,
+and looks around suspiciously at those who enter.  Aside from
+his paranoid actions, he still offers to sell you stolen goods.
+~
+0 DN 1
+0
+~
+I 0 C Guttersnipes~
+D0
+~
+~
+0 0 2988
+S
+#3000
+0 0
+~
+~
+~
+0 0 0
+The Testing Zone~
+~
+0 C 0
+0
+~
+I 0 S
+#0
+
+#RESETS
+M 0 3000   1 3000  1	* Habib
+G 0 3000 -1		* A pair of clean white knickers to Habib
+G 0 3001 -1		* Whacking stick to Habib
+O 0 2984   0 2984 -1	* A small hole in the wall at Back room of the florist
+M 0 2984   1 2984  1	* Sophie
+O 0 2985   0 2991 1	* A small hole in the wall at Entrance to the Clubhouse
+O 0 2986   0 2986 1	* A table at Meeting room
+O 0 2987   0 2985 1	* A small well near the south wall at Center of the Fort
+O 0 2988   0 2987 1	* A toy box at Playroom
+O 0 2989   0 2989 -1	* A bunk bed at The Bunks
+O 0 2990   0 2988 1	* The roof at Thesden Lookout
+M 0 2986   1 2990  1	* Ungdar, a young vroath child
+G 0 3003 -1		* `hthe `gspirit `hof `cyouth`` to Ungdar, a young Vroath child
+G 0 3004 -1		* `ha `kglowing `hrock`` to Ungdar, a young Vroath child
+G 0 3005 -1		* `ks`dh`ki`dn`ky `hthings`` to Ungdar, a young Vroath child
+G 0 3006 -1		* `ha pair of `gmittens`` to Ungdar, a young Vroath child
+G 0 3007 -1		* `ha `ctablecloth`` to Ungdar, a young Vroath child
+G 0 3008 -1		* `ga makeshift wooden shield`` to Ungdar, a young Vroath child
+G 0 3009 -1		* `cdefective chainmail`` to Ungdar, a young Vroath child
+M 0 2985   1 2992  1	* Wirt, the stolen goods merchant
+G 0 3010 -1		* `dlizard skin`h hat`` to Wirt, the stolen goods merchant
+G 0 3011 -1		* `hthe `cmark `hof the `gsnipes`` to Wirt, the stolen goods merchant
+G 0 3012 -1		* `dlizard skin`h boots`` to Wirt, the stolen goods merchant
+G 0 3013 -1		* `dr`ku`dn`ki`dc `ghenna tattoo`` to Wirt, the stolen goods merchant
+G 0 3014 -1		* `ha `dbronze`h ring`` to Wirt, the stolen goods merchant
+G 0 3002 -1		* `ha magical `gfork`` to Wirt, the stolen goods merchant
+S
+
+#SHOPS
+2985  9  5  8  0  0 	100   0 	0 23	* Wirt, the stolen goods merchant
+2986  5  9 11  8  1 	100   0 	1 23	* Ungdar, a young Vroath child
+3000  9  5  0  0  0 	100 100 	0 23	* Habib
+0
+
+#SPECIALS
+S
+
+#OT
+#3000
+clanaccept~
+$obj_given_char 2984~
+4096
+32
+force sophie say Wrong object trigger, contact an imm~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

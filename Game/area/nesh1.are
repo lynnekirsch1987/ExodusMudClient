@@ -1,0 +1,1842 @@
+#AREA
+nesh1.enc~
+Mountain Town~
+{ 1 70} Neshabur  Mountain Town~
+~
+10553 10753
+0 0
+0 1
+~
+#MOBILES
+#10553
+dog dachsund~
+A small dog~
+A short (but long) red dog runs around here chasing his tail.
+~
+~
+dog~
+0 0 0 0
+AGM Z 0 0
+2 0 2d7+21 0d0+0 1d5+0 bite
+0 0 0 0
+H 0 0 0
+stand stand male 0
+AGV ACDEFHJKUV tiny flesh~
+0 0 0 100
+0
+~
+~
+#10554
+guard soldier man~
+A guard wearing mis-matched armor~
+A guard is posted here, watching for undesirables.
+~
+~
+human~
+0 0 0 0
+ABNT 0 125 0
+8 0 2d7+96 1d10+10 1d7+2 slash
+0 0 0 0
+CFIKR 0 0 0
+stand stand male 3
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 130
+0
+~
+~
+#10555
+shopkeeper adventurer Jarek~
+A muscular dwarf~
+Jarek gives you a uneasy glance as you enter his shop.
+~
+~
+dwarf~
+0 0 0 0
+AGHT J 0 0
+55 15 10d185+920 0d0+0 5d13+30 cleave
+0 0 0 0
+CEFILRT 0 LQ R
+stand stand male 2000
+AHMV ABCDEFGHIJK small flesh~
+0 0 0 100
+3
+~
+~
+#0
+
+#OBJECTS
+#10553
+stove pot belly~
+a cast-iron pot belly stove~
+A short, black, cast-iron stove sits here.~
+iron~
+0
+container S 0
+1
+~
+~
+~
+~
+BD AC 0 0 0
+0
+0
+0 2500 0 P
+#10554
+seat stool chair~
+a rickety wooden stool~
+A rickety wooden stool with a cushioned seat stands here.~
+hardwood~
+0
+furniture S A
+6
+~
+~
+~
+~
+A EIJKN 0 BD BD
+0
+0
+0 50 0 A
+#10555
+wooden barrel~
+a large barrel of rain water~
+A weathered barrel wrapped in iron bands sits here.~
+hardwood~
+0
+drink S AO
+6
+~
+~
+~
+~
+CE CE 0 0 0
+0
+0
+0 150 0 P
+#10556
+ferry boat~
+a large ferry boat with wooden railings~
+A large flat ferry is docked at the landing.~
+hardwood~
+0
+raft S 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10000 0 P
+#10557
+cap baseball hat~
+a blue cap~
+A mithril baseball cap painted blue lies in the dirt.~
+mithril~
+0
+armor GY AE
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+96 100 1 P
+A
+13 1000
+A
+14 1000
+A
+12 1000
+A
+26 20
+A
+4 20
+A
+3 20
+A
+2 20
+A
+5 20
+A
+1 20
+#0
+
+#ROOMS
+#10553
+~
+~
+0 0 0
+The Main Road Through Town~
+You stand on the main road into and out of a small town in the heart of
+the Blackstone Mountains.  There are very few people on this part of the
+road, but further down the road you see more houses and many more people
+walking about.  Looking north, you can see that the road turns into a
+smaller cart path that winds through the tree filled valley.  Tall pines and
+majestic oaks cover the valley and the lower parts of the mountains.  The
+sounds of rushing water rises from the east down a small path.  A
+weather-beaten guard house stands to the west.  
+~
+0 b 1
+0
+~
+D0
+~
+~
+0 0 10554
+D1
+~
+~
+0 0 10565
+D2
+~
+~
+0 0 10561
+D3
+~
+~
+0 0 10566
+S
+#10554
+~
+~
+0 0 0
+A Worn Path~
+~
+0 b 0
+0
+~
+D2
+~
+~
+0 0 10553
+S
+#10555
+~
+~
+0 0 0
+A Worn Path Leading Into Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10553
+D1
+~
+~
+0 0 10557
+D2
+~
+~
+0 0 10556
+D3
+~
+~
+0 0 10558
+S
+#10556
+~
+~
+0 0 0
+The Road Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10555
+S
+#10557
+~
+~
+0 0 0
+A Small Path~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 10555
+S
+#10558
+~
+~
+0 0 0
+A Guard House~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10555
+S
+#10559
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10562
+D3
+~
+~
+0 0 10560
+S
+#10560
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10589
+D1
+~
+~
+0 0 10559
+D2
+~
+~
+0 0 10590
+D3
+~
+~
+0 0 10570
+S
+#10561
+~
+~
+0 0 0
+The Main Road Through Town~
+As you walk through the town, you see many houses located along the main
+road.  
+~
+0 b 0
+0
+~
+D0
+~
+~
+0 0 10553
+D1
+~
+~
+0 0 10568
+D2
+~
+~
+0 0 10562
+D3
+~
+~
+0 0 10567
+S
+#10562
+~
+~
+0 0 0
+The Main Road Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10561
+D1
+~
+~
+0 0 10569
+D2
+~
+~
+0 0 10563
+D3
+~
+~
+0 0 10559
+S
+#10563
+~
+~
+0 0 0
+The Main Road Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10562
+D1
+~
+~
+0 0 10585
+D2
+~
+~
+0 0 10564
+S
+#10564
+~
+~
+0 0 0
+The Main Road Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10563
+D1
+~
+~
+0 0 10611
+D2
+~
+~
+0 0 10600
+D3
+~
+~
+0 0 10598
+S
+#10565
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+Wagon ruts run deeply in this path, winding in and out of the light woods
+between the town and the river.  Even though there is little or no
+underbrush in these woods, because of the low rising hills, you can only
+hear the sounds of the river off in the distance.  The path continues east
+towards the river and west towards the main road.  
+~
+0 b 4
+0
+~
+D1
+~
+~
+0 0 10571
+D3
+~
+~
+0 0 10553
+S
+#10566
+You step into a small weather beaten guard house.~
+~
+0 0 0
+A Guard House~
+You stand in a run-down guard house north of a small town.  The house is
+nothing more than an old tool shed that was white-washed, cleaned up, and
+had a couple of windows added to the front and back sides.  Streaks of
+sunlight beam through the many holes in the wooden walls where tools hung
+from rusted iron nails.  Spider webs (and spiders) fill the upper corners of
+the shed above a small pot belly stove.  There is also a large wooden barrel
+next to a small wooden stool and a ladle on a rope dangling from a peg in
+the wall.  
+~
+0 BD 0
+0
+~
+E
+window~
+Looking out of the window, you can see the road continue north.  
+~
+D1
+~
+~
+0 0 10553
+S
+#10567
+~
+~
+0 0 0
+A Small Thatch-Roof Cottage~
+You stand in a small, but very comfortable and neatly kept cottage.  The
+warm glow of the fireplace on east wall illuminates the room and makes you
+feel right at home.  The smell of freshly baked bread and pastries fills the
+room.  Along the west wall of the cottage, a doorway leads into a kitchen. 
+There is also a narrow wooden ladder leads up to a loft.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 10561
+D3
+~
+~
+0 0 10584
+D4
+~
+~
+0 0 10583
+S
+#10568
+~
+~
+0 0 0
+The Trail Leader's Shop~
+You step inside the shop and are amazed that so much adventuring gear and
+equipment could be in such a small shop.  There are ropes, candles, pots,
+pans, sacks, backpacks, boots, canteens, maps...  Just about anything you
+could possibly need to go on an adventure is in this shop!  
+~
+0 D 0
+0
+~
+D3
+~
+~
+0 0 10561
+S
+#10569
+~
+~
+0 0 0
+The Town Inn and Tavern~
+You stand inside the Tosh's Inn and Tavern.  The inside of the inn is
+dim, but not dark.  Many people from town are here, seated at round tables,
+having a mug of good ale, or a bit of Tosh's roasted steak that the inn is
+so famous for.  Judging by the size of the wooden beams angling upwards to
+support the main room, you can see that the inn is strongly built.  It looks
+as though there are many rooms in the inn for you to catch some much needed
+sleep.  A wooden door to the west leads back to the main road and a smaller
+door in the south end of the tavern leads to the stables.  
+~
+0 BD 0
+0
+~
+D2
+~
+~
+0 0 10585
+D3
+~
+~
+0 0 10562
+S
+#10570
+~
+~
+0 0 0
+A Shop In Town~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10560
+S
+#10571
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+You continue down the wagon path, staying between the deep ruts created
+by the wagons that travel to and from the river.  The path curves around
+some tall pines and disappears behind a small rise.  As you glance around,
+you notice that there is a clearing between the trees to the south.  
+~
+0 b 4
+0
+~
+D1
+~
+~
+0 0 10572
+D2
+~
+~
+0 0 10588
+D3
+~
+~
+0 0 10565
+S
+#10572
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+Wagon ruts run deeply in this path, winding in and out of the light woods
+between the town and the river.  Even though there is little or no
+underbrush in these woods, because of the low rising hills, you can only
+hear the sounds of the river off in the distance.  The path continues east
+towards the river and west towards the main road.  
+~
+0 b 4
+0
+~
+D1
+~
+~
+0 0 10573
+D3
+~
+~
+0 0 10571
+S
+#10573
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+Wagon ruts run deeply in this path, winding in and out of the light woods
+between the town and the river.  Even though there is little or no
+underbrush in these woods, because of the low rising hills, you can only
+hear the sounds of the river off in the distance.  The path continues east
+towards the river and west towards the main road.  
+~
+0 b 4
+0
+~
+D1
+~
+~
+0 0 10574
+D3
+~
+~
+0 0 10572
+S
+#10574
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+The wagon path has to take a sharp turn here, heading in a north-south
+direction to avoid an unusually large hill.  The path starts angling down
+towards the north and you can also see that it makes another hard turn
+towards the river.  To the west, the path winds through a few low hills and
+more pine trees.  
+~
+0 b 4
+0
+~
+D0
+~
+~
+0 0 10575
+D3
+~
+~
+0 0 10573
+S
+#10575
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+The path is steep here, making it an easy trip down, but a chore to get
+back up.  At this point you can see the river, and an open area that is used
+as a landing for the ferry that runs every few minutes.  You can head east
+down towards the river or head south, back to town.  
+~
+0 b 4
+0
+~
+D1
+~
+~
+0 0 10576
+D2
+~
+~
+0 0 10574
+S
+#10576
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+The road turns sharply again, but smooths out some, losing its downward
+slope.  You are just slightly above the river landing, where you can see a
+large cleared area and a small house near the water.  There are a few wagons
+waiting for the ferry, which is about halfway across the river at this time.
+~
+0 b 4
+0
+~
+D0
+~
+~
+0 0 10577
+D3
+~
+~
+0 0 10575
+S
+#10577
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+From here, it's a straight shot to the ferry landing.  The road dips
+slightly towards the river bank, but not enough to cause a strain on the
+many beast of burden that traverse this wagon path.  You can see that the
+ferry is almost to the landing.  
+~
+0 b 4
+0
+~
+D1
+~
+~
+0 0 10578
+D2
+~
+~
+0 0 10576
+S
+#10578
+~
+~
+0 0 0
+A Well Worn Wagon Path~
+You are just before the landing.  A few wagons are hurrying along to
+catch the ferry before it leaves.  
+~
+0 b 4
+0
+~
+D1
+~
+~
+0 0 10580
+D3
+~
+~
+0 0 10577
+S
+#10579
+~
+~
+0 0 0
+A Wooden Pier Over The River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10594
+D2
+~
+~
+0 0 10612
+S
+#10580
+~
+~
+0 0 0
+On The West Landing Of The River~
+You stand on the west bank of a slow flowing mountain river.  The area
+along the bank has been cleared to make a landing area for a boat that is
+used to ferry trade wagons, animals, and people to the east side of the
+river and back again.  A heavy rope has been tied securely to a large timber
+that rises out of the ground about five feet.  The rope is stretched tightly
+across the river to the east bank and tied to another timber.  
+~
+0 bd 4
+0
+~
+E
+rope~
+The tightly braided rope is about as thick as a man's wrist.
+~
+D1
+~
+~
+0 0 10581
+D3
+~
+~
+0 0 10578
+S
+#10581
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 I 7
+0
+~
+D0
+~
+~
+0 0 10627
+D1
+~
+~
+0 0 10582
+D2
+~
+~
+0 0 10626
+D3
+~
+~
+0 0 10580
+S
+#10582
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 I 7
+0
+~
+D1
+~
+~
+0 0 10587
+D3
+~
+~
+0 0 10581
+S
+#10583
+~
+~
+0 0 0
+A Sleeping Loft~
+By the look of this loft, about all you can do here is sleep!  The tiny
+area is so cramped that every time you move you bump some part of your
+anatomy against the walls or roof.  There is a small feather bed pushed
+against the angled walls and a soft feather pillow lying on top.  A large
+wax candle standing on a simple night table sits next to the bed.  This
+would be a great place to read or catch up on some sleep.  The only way out
+is to climb back down the ladder to the main room.  
+~
+0 ADL 0
+0
+~
+H130
+M130
+D5
+~
+~
+0 0 10567
+S
+#10584
+~
+~
+0 0 0
+The Kitchen~
+The kitchen is small, but well organized.  Iron pots and pans, and
+utensils hanging from a round copper rack suspended from the ceiling.  A
+large butcher's block stands in the middle of the room, cut and worn from
+many years of use.  Glass fronted cabinets hanging from the wall are filled
+with stoneware plates, cups and other dishes.  A large brick oven stands in
+the corner of the kitchen.  Opposite the oven, is a fireplace and above
+that, a heavy wooden mantle.  
+~
+0 D 0
+0
+~
+E
+window~
+Looking out of the window, you see a nice yard with two confortable
+chairs sitting under a large oak.  
+~
+D1
+~
+~
+0 0 10567
+S
+#10585
+~
+~
+0 0 0
+The Stables~
+You step into the barn and notice that almost all of the stalls are
+filled with horses, donkeys, and other domesticated animals.  Loose hay
+covers the floor of the barn and the loft above is filled with bales of the
+same.  There is a young boy here tending to the animals.  A small ladder
+hangs down from the opening to the loft.  A door to the north leads back to
+the tavern and a larger door on the east side of the barn heads back to the
+street.  
+~
+0 DF 0
+0
+~
+D0
+~
+~
+0 0 10569
+D3
+~
+~
+0 0 10563
+D4
+~
+~
+0 0 10586
+S
+#10586
+~
+~
+0 0 0
+A Hay Loft~
+You are standing in the hayloft above the stables.  The rafters angle
+upwards and in, forming a familiar barn shaped ceiling.  The sky shows
+through a few of the slats and clay shingles fitted together to cover the
+stables.  Towards the back of the loft, are many bales of golden yellow hay,
+lined up to the roof spread out from wall to wall.  A few of the bales have
+been split open and lie strewn about the loft.  Looking up, you notice that
+a small bird has made its home in this barn.  The nest is crafted from twigs
+and hay that the bird obviously found in the barn and the surrounding area. 
+The only way out of the loft is back down the ladder.  
+~
+0 0 0
+0
+~
+D5
+~
+~
+0 0 10585
+S
+#10587
+~
+~
+0 0 0
+On The East Landing Of The River~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 10582
+S
+#10588
+~
+~
+0 0 0
+A Clearing Near The Path~
+You stand in a clearing large enough for a wagon or two, covered by the
+high branches of the surrounding pines.  There is a firepit in the center of
+the clearing, indicating that it has been used as a campsite before.  The
+clearing looks like it could be easily defended since the only way in or out
+is to the north.  
+~
+0 0 2
+0
+~
+H120
+M120
+D0
+~
+~
+0 0 10571
+S
+#10589
+~
+~
+0 0 0
+A House In Town~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 10560
+S
+#10590
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10560
+D1
+~
+~
+0 0 10591
+D2
+~
+~
+0 0 10592
+S
+#10591
+~
+~
+0 0 0
+A House Through Town~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 10590
+S
+#10592
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10590
+D1
+~
+~
+0 0 10598
+D2
+~
+~
+0 0 10593
+D3
+~
+~
+0 0 10596
+S
+#10593
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10592
+D2
+~
+~
+0 0 10594
+D3
+~
+~
+0 0 10597
+S
+#10594
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10593
+D1
+~
+~
+0 0 10595
+D2
+~
+~
+0 0 10579
+D3
+~
+~
+0 0 10614
+S
+#10595
+~
+~
+0 0 0
+A House In Town~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 10594
+S
+#10596
+~
+~
+0 0 0
+A Small Shop In Town~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10592
+S
+#10597
+~
+~
+0 0 0
+A House In Town~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10593
+S
+#10598
+~
+~
+0 0 0
+The Town Square (NW)~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10564
+D2
+~
+~
+0 0 10599
+D3
+~
+~
+0 0 10592
+S
+#10599
+~
+~
+0 0 0
+The Town Square (SW)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10598
+D1
+~
+~
+0 0 10600
+S
+#10600
+~
+~
+0 0 0
+The Main Road Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10564
+D1
+~
+~
+0 0 10610
+D2
+~
+~
+0 0 10601
+D3
+~
+~
+0 0 10599
+S
+#10601
+~
+~
+0 0 0
+The Main Road Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10600
+D1
+~
+~
+0 0 10629
+D2
+~
+~
+0 0 10602
+S
+#10602
+~
+~
+0 0 0
+A Bridge Over The River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10601
+D1
+~
+~
+0 0 10609
+D2
+~
+~
+0 0 10603
+D3
+~
+~
+0 0 10608
+S
+#10603
+~
+~
+0 0 0
+A Bridge Over The River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10602
+D2
+~
+~
+0 0 10604
+S
+#10604
+~
+~
+0 0 0
+The Main Road Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10603
+D2
+~
+~
+0 0 10605
+D3
+~
+~
+0 0 10607
+S
+#10605
+~
+~
+0 0 0
+A Path Outside Of Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10604
+D2
+~
+~
+0 0 10606
+S
+#10606
+~
+~
+0 0 0
+A Path Outside Of Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10605
+S
+#10607
+~
+~
+0 0 0
+A Tavern Near The River~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10604
+S
+#10608
+~
+~
+0 0 0
+A Guard House~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10602
+S
+#10609
+~
+~
+0 0 0
+A Guard House~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 10602
+S
+#10610
+~
+~
+0 0 0
+The Town Square (SE)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10611
+D3
+~
+~
+0 0 10600
+S
+#10611
+~
+~
+0 0 0
+The Town Square (NE)~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 10610
+D3
+~
+~
+0 0 10564
+S
+#10612
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10579
+D1
+~
+~
+0 0 10617
+D3
+~
+~
+0 0 10613
+S
+#10613
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10615
+D1
+~
+~
+0 0 10612
+D3
+~
+~
+0 0 10616
+S
+#10614
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10594
+D2
+~
+~
+0 0 10615
+S
+#10615
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10614
+D2
+~
+~
+0 0 10613
+S
+#10616
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10613
+S
+#10617
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10618
+D3
+~
+~
+0 0 10612
+S
+#10618
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10619
+D3
+~
+~
+0 0 10617
+S
+#10619
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10620
+D3
+~
+~
+0 0 10618
+S
+#10620
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10621
+D3
+~
+~
+0 0 10619
+S
+#10621
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10622
+D3
+~
+~
+0 0 10620
+S
+#10622
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10623
+D2
+~
+~
+0 0 10621
+S
+#10623
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10624
+D2
+~
+~
+0 0 10622
+S
+#10624
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10625
+D2
+~
+~
+0 0 10623
+S
+#10625
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10626
+D2
+~
+~
+0 0 10624
+S
+#10626
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10581
+D2
+~
+~
+0 0 10625
+S
+#10627
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10628
+D2
+~
+~
+0 0 10581
+S
+#10628
+~
+~
+0 0 0
+A Slow Moving Mountain River~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 10627
+S
+#10629
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10635
+D1
+~
+~
+0 0 10630
+D3
+~
+~
+0 0 10601
+S
+#10630
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10634
+D2
+~
+~
+0 0 10631
+D3
+~
+~
+0 0 10629
+S
+#10631
+~
+~
+0 0 0
+A Path Through Town~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 10630
+D1
+~
+~
+0 0 10632
+D3
+~
+~
+0 0 10633
+S
+#10632
+~
+~
+0 0 0
+A House In Town~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 10631
+S
+#10633
+~
+~
+0 0 0
+A Shop In Town~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 10631
+S
+#10634
+~
+~
+0 0 0
+A House In Town~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 10630
+S
+#10635
+~
+~
+0 0 0
+A House In Town~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 10629
+S
+#0
+
+#RESETS
+M 0 10554   1 10566  1	* A guard wearing mis-matched armor
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

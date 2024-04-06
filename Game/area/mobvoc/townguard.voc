@@ -1,0 +1,8 @@
+Possum
+north:>1:-:CMD scan north
+west:>1:-:CMD scan west
+south:>1:-:CMD scan south
+east:>1:-:CMD scan east
+up:>1:-:CMD scan up
+down:>1:-:CMD scan down
+hello|hi:>1:+1:CMD nod $name;Have you seen any pirates around here?

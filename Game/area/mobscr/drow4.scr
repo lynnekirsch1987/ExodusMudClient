@@ -1,0 +1,40 @@
+* File: Drow4.scr
+* Mob: DSC Elite Drow Guards (mob 5126)
+* NOTE: This is part of a larger Thesden Invasion event
+
+#TRIGGER tick
+Type 3
+Sc
+  walkto 4056
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+chobj self %shield% 12234
+if (%start-arg% cmp "start" && %shield% == 0)
+  cmd load obj 12233
+  cmd wear breast
+  cmd load obj 12234
+  cmd wear shield
+  cmd load obj 12235
+  cmd wield longsword
+  halt triggers~
+End
+
+#TRIGGER enters
+Type 10
+Sc
+  walkto 4056
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+  walkto 4056
+  halt once~
+End
+
+#END

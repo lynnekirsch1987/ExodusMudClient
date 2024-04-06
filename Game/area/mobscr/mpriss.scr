@@ -1,0 +1,25 @@
+#TRIGGER jagreet
+Type 8
+Sc
+mfunc %jagreet-from% %name% name
+  say Present me with the skin of the jaguar and you may continue onto the next task.
+End
+
+#TRIGGER getobj
+Type 5
+Sc
+mfunc %getobj-from% %name% name
+ofunc %getobj-vnum% %vnum% vnum
+if ( %vnum%==19115 )
+   cmd sage
+   wait 1~
+Sc
+   thank %name%
+   say You have shown your prowess in catching the jaguar.  Proceed to the next task.
+   wait 1~
+Sc
+   MOB TRANS %name% 19103
+   halt once~
+End
+
+#END

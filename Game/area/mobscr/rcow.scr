@@ -1,0 +1,18 @@
+* File: rcow.scr
+* Mob: cow(21062)
+
+#TRIGGER stoopud
+Type 10
+Sc
+mfunc %stoopud-from% %hithre% name
+wfunc %wiffle% random 0 50
+if (%wiffle% < 30)
+emote rechews a mound of fresh grass, mooing all the while.
+halt once~
+Sc
+if (%wiffle% == 50)
+emote moos contentedly, all the while dreaming of goring %hithre%.
+halt once~
+End
+
+#END

@@ -1,0 +1,20 @@
+* File: Avatar.scr
+* Mob: High Priest of the City of the Sun (vnum 19083)
+* Creator: Minax
+* Last Modified: Wednesday, February 11, 2004
+
+#TRIGGER avatar
+Type 99
+Sc
+chobj %avatar-from% %feather% 18941
+  if (%feather% != 1)
+  cmd pecho %avatar-from% `kYou must have a bundle of green feathers in your inventory to become an avatar.``
+  halt once~
+Sc
+  cmd seize avatarfeather %avatar-from%
+  cmd at 1 eat avatarfeather
+  cmd makeavatar %avatar-from%
+  halt once~
+End
+
+#END

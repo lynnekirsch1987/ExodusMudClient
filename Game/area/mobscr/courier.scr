@@ -1,0 +1,40 @@
+#TRIGGER killweakguys 
+Type 10 
+Sc 
+mfunc %killweakguys-from% %target% name 
+mfunc %killweakguys-from% %killkillkill% hit 
+ 
+if ( %killkillkill% < 80 ) 
+cmd backstab %target% 
+cmd kill %target% 
+halt once~ 
+Sc 
+if ( %killkillkill% > 80 ) 
+cmd gasp 
+cmd hide 
+halt once~ 
+End 
+ 
+ 
+#TRIGGER Courier 
+Type 2 
+Sc 
+wfunc %rndnum% random 0 4 
+mfunc %cmb-from% %name% name 
+getpc %namea% 
+ 
+if (%rndnum% == 0) 
+   stand 
+   CMD peace 
+   backstab %name%    
+   kill %name% 
+   halt once~ 
+Sc 
+if (%rndnum% == 1) 
+   stand 
+   CMD at 1 load obj 4145 
+   throw stiletto %name% 
+   halt once~ 
+End 
+ 
+#END 

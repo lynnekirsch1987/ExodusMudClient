@@ -1,0 +1,5715 @@
+#AREA
+prom.enc~
+Promeria~
+{ 1 10} Morpheus  Promeria~
+~
+1751 2199
+0 0
+0 1
+~
+#MOBILES
+#1751
+serving maid woman~
+A beautiful, blond haired woman~
+A beautiful, blond haired woman is here, cleaning the room.
+~
+Beautiful is the only thing that comes to your mind as you take notice of her.
+Her curly blond hair falls freely as she sets a goblet filled with red wine on
+a small table next to the bed, you notice a little too quickly the thin, white 
+gown that she is wearing, it hugs her well framed figure a bit too well.  She
+hesitates, then before you can think to turn away she turns around gracefully, 
+her cool blue eyes studying you, she tilts her head slightly and says "Yes?"
+~
+elf~
+0 0 0 0
+ABR DFHJNc 600 0
+45 10 15d100+800 999d1+1 1d100+20 magic
+-30 -30 -30 -10
+AFHK 0 B BZ
+stand stand female 1600
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+4
+bmaid~
+~
+#1752
+Neanders shopkeeper~
+Neanders~
+Neanders is behind the counter, speaking with his customers.
+~
+A large man well over 6 feet tall, Neanders used to be a well known warrior and
+high ranking soldier in the Promerian Guard, until serious injuries forced him
+into an early retirement.  He is dark skinned with a nasty scar across his left
+cheek. He stares at you expectantly and impatiently, for there is other people
+he must wait on.
+~
+human~
+0 0 0 0
+ABC DFN 800 0
+65 35 30d100+2000 5d10+140 10d12+35 slice
+-20 -20 -20 -5
+CEFHIKQ ABN EFG 0
+stand stand male 25000
+AHMV ABCDEFGHIJK large oldstyle~
+0 0 0 100
+0
+~
+~
+#1753
+dark figure~
+`aA dark figure``~
+`aA dark figure, waiting in the shadows``
+~
+`aA black silhouette against the wall, the figure is about 6 ft tall, you get the
+feeling he is staring right at you.  The only thing you CAN make out is the
+flash of light you see reflect off the cold iron of his blade.``
+~
+human~
+0 0 0 0
+ABHS BFPQ -450 0
+30 5 10d30+400 23d5+100 5d8+5 pierce
+-3 -1 2 3
+BFHKN 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+1
+~
+~
+#1754
+Promeria Guard~
+A Promerian Guard~
+A Promerian Guard is here, watching the crowd
+~
+A soldier of the Promerian Guard.  Suited in plate mail, a great helm and a
+standard issue shield, he stands there with his longsword at his side, casually
+watching the populace for any signs of trouble.  You can't make out many 
+features about him, his body and most of his head covered in iron.
+~
+human~
+0 0 0 0
+ABG N 600 1754
+25 8 70d5+400 25d5+120 1d40+20 slash
+-15 -8 -17 -3
+CEFKT 0 0 0
+stand stand male 15
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+5
+~
+~
+#1755
+Promeria Guard~
+A Promerian Guard~
+A Promerian Guard is here, watching the crowd
+~
+A soldier of the Promerian Guard.  Suited in plate mail, a great helm and a
+standard issue shield, he stands there with his longsword at his side, casually
+watching the populace for any signs of trouble.  You can't make out many 
+features about him, his body and most of his head covered in iron.
+~
+human~
+0 0 0 0
+A N 600 0
+25 8 70d5+400 25d5+120 1d15+20 slice
+-15 -8 -17 -3
+CEFKT 0 0 0
+stand stand male 15
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 200
+5
+~
+~
+#1756
+felicia shopkeeper~
+Felicia~
+Felicia is here, chatting with one of her customers.
+~
+Felicia is a kind, motherly woman well past her 50's. She only stands about 5
+feet tall and she has dark hair that falls a few inches behind her in a pony
+tail. She has an old, aged face, warmed by a motherly smile she shows to all
+of her customers, you do not feel that it is to improve her sales.  She wears
+a dark blue dress, with a silver locket standing out as it shines against the
+sunlight pouring through the windows.
+~
+human~
+0 0 0 0
+AB EN 700 0
+37 2 10d100+800 37d10+250 3d8+10 thwack
+-3 -3 -3 -20
+0 ABQ C 0
+stand stand female 200
+AHMV ABCDEFGHIJK small oldstyle~
+0 0 0 100
+0
+~
+~
+#1757
+Lucilia~
+Lucilia~
+Lucilia is grinning at the counter, flirting with her customers.
+~
+Lucilia is a strong, passionate woman.  She has long dark hair that falls down
+past her shoulders and a pretty face, despite the small scar on her right
+cheek. She is suited in a standard Promerian Plate, slightly modified to fit
+every curve of her body.  She is over 6 feet tall, with dark skin and brown 
+eyes, she never seems to be without that mischievous grin she holds as she 
+speaks to one of the men at the counter, you doubt it has anything to do with
+business. She reluctantly takes a moment from her altar of worship to see if
+you need help with anything.... the men's cold glances make you wish you had 
+never entered.
+~
+human~
+0 0 0 0
+ABT c 300 0
+46 8 46d19+1920 46d5+100 5d15+20 slash
+-20 -20 -20 -10
+CDEFHIK ABQ CFG 0
+stand stand female 280
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#1751
+Ethor Blade~
+`athe Dark Blade of Ethor`h~
+Lord Ethor, founder of the Knights of the Saber and now the preserver of life, his ancient sword is now within your reach.  The huge sword is of an unknown ore, it is dark grey and a dark eerie blue aura surrounds the entire blade.~
+silver~
+0
+weapon AGIKLM AN
+4
+~
+~
+~
+~
+A ABCD CE AB 0
+0
+0
+95 100 100000 P
+A
+13 100
+A
+19 15
+A
+18 8
+#1752
+key1~
+(no short description)~
+~
+oldstyle~
+0
+key S 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#1753
+iron long sword longsword~
+`ha well crafted, iron `olongsword``~
+It looks like much time and effort was put into this sword.  It isn't something that would compare with anything you'd find adventuring, but you're sure it could do some damage.   It appears to have been enchanted.~
+oldstyle~
+0
+weapon AGS AN
+6
+~
+~
+~
+~
+A C D AB 0
+0
+0
+25 5 20000 P
+A
+19 5
+A
+18 2
+#1754
+heavy axe~
+a heavy axe~
+A one handed axe with a heavy, iron blade and handle with a leather hilt.  It looks like it can pack a devestating blow, but it also looks quite difficult to carry around.~
+oldstyle~
+0
+weapon S AN
+6
+~
+~
+~
+~
+AC AC BC BDE 0
+0
+0
+14 100 4000 P
+A
+2 -1
+A
+18 1
+A
+19 2
+#0
+
+#ROOMS
+#2048
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2049
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2050
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2055
+~
+~
+0 0 0
+Jethar's Secret Basement~
+~
+0 0 0
+0
+~
+D4
+~
+~
+0 0 1947
+S
+#2056
+~
+~
+0 0 0
+2nd Floor of Jethar's Shop~
+You are on the second floor of Jethar's shop.  Here, you can see all sorts of
+weapons, every single one of them are bigger than you are however, consisting
+only of polearms, two handed swords, axes and other nasty weapons suitable to
+any barbarian's liking.  Many warriors are scattered all over the room,
+browsing and almost USING them on each other in an attempt to weigh their
+worth. Everyone has a colorful loop of cloth on their wrists, marking them as
+almost respectable customers.  You are able to spot four merendoth in the room,
+two beside the stairway leading down to the first floor, as well as two behind
+the square wooden counter surrounding them both, all of them are suited in
+chain mail with black surcoats, which seems to intimidate the entire room.  
+You do not feel very comfortable at all right now.
+~
+0 0 0
+0
+~
+D5
+~
+~
+0 0 1947
+S
+#1751
+~
+~
+0 0 0
+`aM`io`ar`kp`ah`ie`au`ks `aD`ir`ae`ka`am`iw`ae`ka`av`ie`ar's Bedroom``~
+`aThis is the sleeping quarters of Morpheus Dreamweaver.  All around you
+there are reminders of his profession, mystical devices you cannot put a
+name or use to.  On the black marble wall across the room there is a
+fountain that flows amazingly silent, into a small pool that leads out of a
+small opening at the other side of the room.  A considerably large work desk
+rests a few feet from his bed, no doubt the starting point of his peculiar
+creations.  Extraordinary paintings can be seen hanging from the marble
+walls, the light from a set of lit candles on both sides of his bed reflects
+off of them.  
+~
+0 BD 0
+0
+~
+D0
+~
+~
+0 0 1752
+S
+#1752
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1751
+S
+#1800
+~
+~
+0 0 0
+The Southern Gates Of Promeria``~
+You find yourself at the southern gates of Promeria.  A great stone wall well
+over 20 feet tall stands over you, supported by two towers with guards
+peering from them.  All around you there are people moving about, some are
+peasants, but the majority are warriors and merchants, coming to trade and
+stock up on supplies for their journeys.  To the west, merchants go to trade on
+the open market.  To your north the Street of Ethor begins, you can see a few
+shops and an inn for weary travelers.  To your east is the Path of the Saber,
+which leads to the well known Saber Arena, where the Knights of the Saber
+train and hold special competitions.
+~
+0 S 1
+0
+~
+D0
+~
+~
+0 0 1801
+D1
+~
+~
+0 0 1821
+D3
+~
+~
+0 0 1856
+S
+#1801
+~
+~
+0 0 0
+Street of Ethor (South)~
+You are at the beginning of South Ethor Street.  All around you there is
+activity of people coming and going from the nearby shops and from Promeria
+itself. Your mind is filled with the rumbling of horses, wagons, and people
+shouting. To your west is one of many buildings, it has a sign with a flaming
+sword, while to your east is obviously an inn, it's sign is of a camel, it
+appears to be ... grinning at you.  To your north, Ethor Street continues, you
+can see other various shops in the distance through the crowd.  To your south
+you can see the grand gates of Promeria.
+~
+0 0 1
+0
+~
+D0
+~
+~
+0 0 1802
+D1
+~
+~
+0 0 1805
+D2
+~
+~
+0 0 1800
+D3
+~
+~
+0 0 1806
+S
+#1802
+~
+~
+0 0 0
+Street of Ethor (South)~
+The Street of Ethor continues from north to south.  The southern gates are
+visible, though just barely.  People still crowd the street, entering the many
+shops that line each side of it.  Off to your east a small group of dirty
+children in rags are huddled together, eating something that appears to be a
+raw piece of meat, right next to a building with a sign of a red steak, the
+awful stench that fills your nose gives you no doubt of it's meaning.  A large,
+unshaven man in a white apron comes out of the building and runs them off
+before he goes back inside.  To your west you can see another shop, it doesn't
+have a sign and not many people seem to be interested in it.  To the north,
+Ethor Street continues further than your eyes can see and the line of shops
+continue.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1803
+D1
+~
+~
+0 0 1835
+D2
+~
+~
+0 0 1801
+D3
+~
+~
+0 0 1840
+S
+#1803
+~
+~
+0 0 0
+Street of Ethor (South)~
+The Street of Ethor continues from north to south.  To the north you see that
+this huge street finally branches off to the east and west while to your south
+you can only see many people and shops overflowing with trade.  To your east, 
+there is a huge building and few windows that you can see, it has a large sign
+of a silver shield with a golden crescent on it.  To your west, a smaller shop
+has a sign with a golden scale, it seems to be as crowded as any of the others.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1804
+D1
+~
+~
+0 0 1807
+D2
+~
+~
+0 0 1802
+D3
+~
+~
+0 0 1836
+S
+#1804
+~
+~
+0 0 0
+Street of Ethor (South)~
+You find yourself at a large intersection.  Chaos is the best word that you
+can think of as people try to move past each other in different directions.
+Most come from the west, where Market Road leads to the huge open market.  To
+your east, the Path of the Saber leads to the Saber Arena and the Knight of the
+Saber Office and Training Area.  To your northwest, you can see the massive
+structure that houses the majority of Promeria's soldiers.  Across the street
+to your northeast is Lord Geroth's mansion, general of the Promerian Elite, it
+towers over the small store just 30 feet away from it.  You cannot make out
+what the sign reads.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1874
+D1
+~
+~
+0 0 1808
+D2
+~
+~
+0 0 1803
+D3
+~
+~
+0 0 1841
+S
+#1805
+~
+~
+0 0 0
+The Grinning Camel (Inn)``~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 1801
+S
+#1806
+~
+~
+0 0 0
+Weaponsmith Neander's Shop``~
+You enter to find a very packed and active building.  Weapons of all
+types lie behind Neanders' counter, while some of his finer work hangs on
+the walls for display.  The counter itself is pretty old and is scratched in
+several places, stretching all the way across the room, seperating Neanders
+and the group of men speaking with him, one of them makes a sick joke and
+they all burst out laughing.  They do not appear to have noticed you.  
+~
+0 BD 0
+0
+~
+D1
+~
+~
+0 0 1801
+D3
+~
+~
+0 0 1853
+S
+#1807
+~
+~
+0 0 0
+Lucilia's Armor Shop``~
+You are in an Armor shop with a woman named Lucilia, too bad she doesn't
+know who you are ...  Or even that you are here.  A half dozen men are lined
+up at the counter, literally climbing over each other to get a shot at a
+witty line that might rouse her interest.  A few others are in there too,
+browsing and displaying their admiration of Lucilia's ...  work ...  A bit
+too much, shields of the Knights of the Saber lie on display behind her, the
+flaming gold crescent a symbol of their faith to Ethor.  Other various
+pieces of steel armor have been left on the shelves carelessly, apparently
+Lucilia doesn't have to worry about many men stealing from her.  
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 1803
+S
+#1808
+~
+~
+0 0 0
+Path of the Crescent Sun~
+You are at the beginning of the Path of the Crescent Sun.  The first
+thing you notice is that there are not many people here.  The few that are
+tend to be suited in armor.  The path itself is made of gravel and you see
+it leads to the arena to the east.  To your north you can see an odd little
+shop though you see no exit from this side.  To your south you can see
+Lucilia's Armor shop, while to the west you can still make out the wagons
+that pass each other at the huge intersection at Ethor and Market.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1809
+D3
+~
+~
+0 0 1804
+S
+#1809
+~
+~
+0 0 0
+Path of the Crescent Sun~
+Here the Path of the Crescent Sun continues from west to east.  The few
+people you see along the narrow pathway are mostly warriors, being suited in
+all types of armor.  To your north, you see a couple promerian soldiers
+enter a building, you can't make out what the sign is.  To your south is the
+northern wall of the arena, it is huge, towering 30 feet into the sky, a
+little overhalfway up you can see decorative shields, bearing various
+symbols of the 228 Knights of the Crescent Sun that completed their quest to
+becoming a paladin over Promeria's entire history, spanning well over 200
+years.  To your east you can just make out the gates that lead into the
+Saber Arena and the Knight's Meeting Room as well.  To your west, the
+Pathway continues toward Ethor Street.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1810
+D1
+~
+~
+0 0 1811
+D3
+~
+~
+0 0 1808
+S
+#1810
+~
+~
+0 0 0
+Edrick's Provisions and Supplies``~
+You are in an average sized shop.  All around you on shelves on the walls and
+behind the counter are countless items that any person wanting to travel could
+need, as well as dried rations to feed them on their journeys.  Obviously, it
+attracts a good number of customers, because you notice a few people browsing
+with interest.  The exit to the shop leads south to the Path of the Crescent
+Sun.
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 1809
+S
+#1811
+~
+~
+0 0 0
+Between the Crescent Knight Office and Arena~
+You are between the Crescent Sun guild and the Arena.  The Path of the 
+Crescent leads on from west to east, splitting between the guild and arena.
+Quite a crowd has gathered at the north doors of the arena, flashing their
+entry coins to the guards posted there.  The huge oak doors that bar your way
+into the Arena stretch almost as high as the wall itself, the beautiful shields
+of the Paladins continue down the north wall of the arena along the Path of the
+Crescent. To your north is the Crescent Sun guild, it is a large, two story
+structure made of stone, you cannot see much of anything of the inside from 
+here. To your east and west, the Path continues with nothing in sight.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1831
+D1
+~
+~
+0 0 1812
+D2
+~
+gate~
+0 0 1825
+D3
+~
+~
+0 0 1809
+S
+#1812
+~
+~
+0 0 0
+Path of the Saber``~
+Here the Path of the Saber continues from west to east.  Not many people are
+here at all, as you scan the area around you, you realize why.  There is 
+nothing here except to your south the wall of the arena continues from west to
+east, the shields of the paladins still continue on.  To your west you can make
+out the large building that is the Knight of the Saber guild and right across
+it is the sparring arena.  A little to your north you spot what appears to be
+stables, while to your east you can see the eastern walls of Promeria.
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1813
+D3
+~
+~
+0 0 1811
+S
+#1813
+~
+~
+0 0 0
+Crescent Road (East)~
+Here Crescent Road continues from south to north.  The road here is not that
+crowded, except for a few people making their way down the road while you can
+see now people peer up at the great shields of the paladins on the north and
+east walls of the Sparring Arena.  To your west, you can see the end of the 
+Path of the Crescent, which leads to the main gates of the Sparring Arena and
+the Crescent Sun guild, and to your south the east wall of the arena continues.
+To your north, you can see a large wood building in the distance.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1863
+D2
+~
+~
+0 0 1814
+D3
+~
+~
+0 0 1812
+S
+#1814
+~
+~
+0 0 0
+Crescent Road (East)~
+Here Crescent Road continues from south to north.  The road here is not very
+crowded, except for a few people making their way down the road while others
+move along the east wall of the Sparring Arena, peering up at the great shields
+dedicated to all of the Knights of the Crescent Sun that finally became 
+paladins. The shields line the entire 20 ft. wall of the east part of the
+Arena, to your north, you can see the end of the path of the Crescent lead out
+into Crescent Road.  To your south, you can just make out the eastern gates of
+the Arena.  To your east, the east wall of Promeria continues on parallel with
+Crescent Road.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1813
+D2
+~
+~
+0 0 1815
+S
+#1815
+~
+~
+0 0 0
+East of the Arena~
+You are at the eastern entrance of the Sparring Arena.  A few people surround
+the guards posted at the gates, flashing them their entry coins for admittance
+into the Arena.  The huge oak doors that bar your way in stretches almost as 
+high as the wall itself, the beautiful shields of the Paladins continue down
+the east wall of the Arena.  To your north and south, Crescent Road continues,
+while to the east the east wall of Promeria continues parallel with Crescent 
+Road.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1814
+D2
+~
+~
+0 0 1816
+D3
+~
+gate~
+0 0 1829
+S
+#1816
+~
+~
+0 0 0
+Crescent Road (East)~
+Here Crescent Road continues from south to north.  The road here is not
+very crowded, except for a few people making their way down the road while
+others move along the east wall of the Sparring Arena, peering up at the
+great shields dedicated to all of the Knights of t he Crescent Sun that
+finally became paladins.  The shields line the entire 20 ft. wall of the
+east part of the Arena, to your north you can barely spot the eastern gates
+of the Arena.  To the south, you can see the south wall of Promeria, while
+you are right next to the east wall, continuing north parallel with Crescent
+Road.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1815
+D2
+~
+~
+0 0 1817
+S
+#1817
+~
+~
+0 0 0
+Southeastern Corner of Promeria~
+You find yourself at the southeast corner of this huge city.  Far above you, 
+one of the watchtowers of the city walls extend.  You can also see both the 
+east and south walls of the Arena, the shields line the walls beyond your
+sight. To your west and north now, Crescent Road continues, and you can see
+both the east and south walls of Promeria.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1816
+D3
+~
+~
+0 0 1818
+S
+#1818
+~
+~
+0 0 0
+Crescent Road (South)~
+Here Crescent Road continues from west to east.  The road here is practically
+deserted, except for a few people making their way down the road while others
+move along the south wall of the Sparring Arena, peering up at the great shields
+dedicated to all of the Knights of the Crescent Sun that finally became
+paladins. The shields line the entire 20 ft. wall of the south part of the
+arena, you cannot tell if it continues to the east wall that is little ways off
+to the east.  To your south, the southern wall of Promeria continues on,
+parallel with Crescent Road.
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1817
+D3
+~
+~
+0 0 1819
+S
+#1819
+~
+~
+0 0 0
+South of the Arena``~
+You are at the southern entrance of the Sparring Arena.  There are not many 
+people here at all, considering most people go to the north and east gates 
+instead. The huge oak doors that bar your way in stretches almost as high as
+the wall itself.  The beautiful shields of the Paladins continue to line the
+outer walls of the arena, apparently stretching all the way around it.  To
+your east and west, Crescent Road continues, as well as the southern wall of 
+Promeria to your south.
+~
+0 0 0
+0
+~
+D0
+~
+gate~
+0 0 1827
+D1
+~
+~
+0 0 1818
+D3
+~
+~
+0 0 1820
+S
+#1820
+~
+~
+0 0 0
+Crescent Road (South)~
+Here Crescent Road continues from west to east.  The road here is practically
+deserted, except for a few people making their way down the road while others
+move along the south wall of the Sparring Arena, peering up at the grand 
+shields dedicated to all of the Knights of the Crescent Sun that finally became
+paladins. The shields line the 20 ft. wall beyond your eyesight, they don't
+seem to have been affected by the many years of bad weather.  To your east, the
+south gates of the Sparring Arena can be seen, and to your south, the south
+wall of Promeria continues.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1819
+D3
+~
+~
+0 0 1821
+S
+#1821
+~
+~
+0 0 0
+Crescent Road (South)~
+You are just east of the south gates of Promeria on Crescent Road.  It 
+continues on from west to east.  The road here is almost deserted, while to the
+east you can see some figures gathering, and to the west people crowd along 
+Ethor Street a short distance away from the gates.  To the north you can see
+into one of the windows of the Grinning Camel Inn, apparently the half-elven 
+woman sitting beside it doesn't appreciate you staring, as she flashes you an
+annoyed smirk.  To your south is the south wall of Promeria.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1820
+D3
+~
+~
+0 0 1800
+S
+#1822
+~
+~
+0 0 0
+Southwestern Corner of the Arena``~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1823
+D1
+~
+~
+0 0 1827
+S
+#1823
+~
+~
+0 0 0
+Western Side of the Arena``~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1824
+D1
+~
+~
+0 0 1826
+D2
+~
+~
+0 0 1822
+S
+#1824
+~
+~
+0 0 0
+Northwestern Corner of the Arena``~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1825
+D2
+~
+~
+0 0 1823
+S
+#1825
+~
+~
+0 0 0
+Northern entrance to the Saber Sparring Arena``~
+~
+0 0 0
+0
+~
+D0
+~
+gate~
+0 0 1811
+D1
+~
+~
+0 0 1830
+D2
+~
+~
+0 0 1826
+D3
+~
+~
+0 0 1824
+S
+#1826
+~
+~
+0 0 0
+Center of the Arena``~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1825
+D1
+~
+~
+0 0 1829
+D2
+~
+~
+0 0 1827
+D3
+~
+~
+0 0 1823
+S
+#1827
+~
+~
+0 0 0
+Southern entrance to the Saber Sparring Arena``~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1826
+D1
+~
+~
+0 0 1828
+D2
+~
+gate~
+0 0 1819
+D3
+~
+~
+0 0 1822
+S
+#1828
+~
+~
+0 0 0
+Southeastern Corner of the Arena``~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1829
+D3
+~
+~
+0 0 1827
+S
+#1829
+~
+~
+0 0 0
+Eastern entrance to the Saber Sparring Arena``~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1830
+D1
+~
+gate~
+0 0 1815
+D2
+~
+~
+0 0 1828
+D3
+~
+~
+0 0 1826
+S
+#1830
+~
+~
+0 0 0
+Northeastern Corner of the Arena``~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 1829
+D3
+~
+~
+0 0 1825
+S
+#1831
+~
+~
+0 0 0
+The Crescent Knight Office~
+You are at the entrance of the Crescent Knight guild.  There is a desk on the
+other side of the room, a man is sitting behind it.  Another door is only a few
+feet away from him.  On all of the walls are decorations and symbols of the
+Knight's past, great warriors who performed heroic deeds and finally became
+the holy knights the world know as paladins.  You notice that the structure is
+in excellent shape, as if the weather had never damaged it, or anything for
+that matter.  You feel good and noble...refreshed.  Your thoughts fade away for
+a few moments, replaced by an odd feeling, memories of old battles, valiant
+deeds, love lost and rediscovered, all of life itself seems to soar in your
+mind, reborn..filling your mind with warmth, only to fade away moments later...
+~
+0 0 0
+0
+~
+H120
+M200
+D0
+~
+~
+0 0 1832
+D2
+~
+~
+0 0 1811
+S
+#1832
+~
+~
+0 0 0
+The Initiate's Training Room``~
+This is the room where the new warriors train.  It is about 20 x 20 and
+at the far corner there is a stairway leading up to the second floor.  All
+around you the initiates square off to each other, practice sword and shield
+in their hands as they spar against one another, practicing the basic
+techniques for becoming a decent soldier.  Three instructors observe from
+each side, frequently pointing out the student's error and quickly
+correcting it.  
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1831
+D4
+~
+~
+0 0 1833
+S
+#1833
+~
+~
+0 0 0
+The Advanced Training Room``~
+This is the room where the more experienced students practice.  The room 
+itself is pretty much bare except for the blue banners hanging on both sides of
+the pair of doors on the other side of the room.  There are only five students
+here and one instructor, the students almost seem to dance with one another,
+performing lightning quick techniques as they turn from striking to parrying
+and dodging in smooth and calculated motions.  A stairway leading down is over
+by the corner.
+~
+0 C 0
+0
+~
+D2
+~
+door~
+0 0 1834
+D5
+~
+~
+0 0 1832
+S
+#1834
+~
+~
+0 0 0
+The Knights of the Crescent Sun Meeting Room~
+This is the meeting room for the Knights of the Crescent Sun.  The room
+is not that large, but a huge oak square table takes up the majority of the
+room.  Several windows line the southern wall of the room, pouring light
+into the room and reflecting off the golden crescent sun on the blue banners
+that run along all the walls of the room.  You can see into the Sparring
+Arena through the windows, warriors spar with one another while behind them
+two men on horseback are preparing to joust.  
+~
+0 CJKP 0
+0
+~
+D0
+~
+door~
+0 1752 1833
+S
+#1835
+~
+~
+0 0 0
+`iThe `bButchary``~
+You are in what appears to be a butchary.  All around you there is
+shelves and boxes covered with various sorts of meats from chicken to steak.
+The mixture of death, decay and salt make for a bad combination and you try
+to breath out of your mouth.  Only a couple people are here, it is no big
+suprise.  A bald, unshaven old man stands behind the counter in a white
+apron covered in specks of blood.  He eyes his few customers like a hawk.  
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 1802
+S
+#1836
+~
+~
+0 0 0
+The Pawn Shop``~
+You are in what appears to be a pawn shop.  Two merchants are at the counter
+trying to convince the shopkeeper why their oil burns longer and more safely 
+than any other, the man doesn't appear to be buying into it.  The room is 
+filled with all sorts of interesting objects, stored in extraordinary glass
+displays, a sign is on the center display, it says "Do Not Touch."
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1803
+D3
+~
+~
+0 0 1855
+S
+#1837
+~
+~
+0 0 0
+The Stables``~
+You find yourself in the Promerian stableyards.  From here, leading up north 
+the stables continue on and on.  A few people are here, tending to their horses
+while others clean up the place, by the smell you feel quite sorry for them.
+Far to the north you can see the end of the stables where the blacksmith is,
+and to your east is the exit to the stables, leading out to Crescent Road.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1838
+D1
+~
+~
+0 0 1863
+S
+#1838
+~
+~
+0 0 0
+the Stables~
+You are in the Promerian stableyards.  The stables continue far down to the
+south. A few people are here, tending to their horses while others clean up
+after the horses, by the smell you feel quite sorry for them.  A short distance
+to your north you can see the door leading into the blacksmith's workplace,
+while to your south the stables continue.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1839
+D2
+~
+~
+0 0 1837
+S
+#1839
+~
+~
+0 0 0
+The Blacksmith's Workshop``~
+You are in the Blacksmith's Workshop.  This place is like an oven, literally. 
+You can already feel beads of sweat forming at your brows as you examine the
+room. The main thing you can see is horseshoes, they seem to be piled up all
+over the place, in a very untidy manner.  In the middle of the room, a large 
+furnace blazes as a man carefully puts a piece of iron into it.  On the other
+side an older, broader man hammers away at a soon to be horseshoe, the noise is
+almost deafening, you feel a great need to depart this place soon.  To your 
+south a door leads out into the stableyards, while to your east another door 
+leads out into Crescent Road.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1865
+D2
+~
+~
+0 0 1838
+S
+#1840
+~
+~
+0 0 0
+Felicia's Antique and Pottery Shop``~
+You are in a small store without much company to your relief.  All around the
+room there are examples of your history.  The shelves on the wall have only
+pottery, but there are wooden tables in the room displaying various antiques.
+Off to the right you can see an old Promerian Crossbow, at least 15 years old,
+resting on top of an old Flaming Arrow insignia, the kind the old rangers used
+to wear on their leather vests.  Over on the other table there is an odd 
+looking ball, it is made up of ... iron ... you cannot make out it's use.
+Felicia flashes you a motherly smile from your confusion and turns to watch
+another of her customers.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1802
+D3
+~
+~
+0 0 1854
+S
+#1841
+~
+~
+0 0 0
+Market Street~
+You are at the beginning of Market Street.  You notice with great suprise 
+that no shops are near you anymore, though you can see the wall of the pawn 
+shop to your south and the soldier's quarters towers above you to the north.
+Merchants move past you impatiently, some with wagons full of goods for trade
+moving further down Market Street, you cannot tell their destination.  To your
+east, Market Street intersects with the huge street of Ethor.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1804
+D3
+~
+~
+0 0 1842
+S
+#1842
+~
+~
+0 0 0
+Market Street~
+Here you see Market Street continues from east to west.  Activity here is 
+much less than it was back near the street of Ethor.  To your north the
+soldier's barracks towers over you, while to the south a dark alley leads to
+darkness, rather odd, considering it goes directly behind the row of shops that
+were on Ethor Street.  To your west, you can hear many shouts and yelling.  You
+realize whatever it is, it must be the wagons' destinations.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1841
+D2
+~
+~
+0 0 1855
+D3
+~
+~
+0 0 1843
+S
+#1843
+~
+~
+0 0 0
+Market Street~
+You are in the middle of Market Street, looking to the south in horror you 
+realize that Ethor Street was nothing compared to this.  For over a city block
+you can see nothing but wagons, tents, and stands filled with merchants and 
+eager buyers haggling over their merchandise.  In one place you can see two men
+furious with one another, it seems they are about to come to blows, while a 
+little to your left an angry looking woman is swinging a large bag at one of 
+the merchants who is desperately trying to deflect the blows.  People are 
+going everywhere from merchant to merchant, seeing what they can buy.  You have
+NO idea how you'd get through this crowd without a few bruises at least.  
+Fortunately, a few Promerian Soldiers have been posted here and the street
+continues on from east to west, out of harm's way for the moment.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1842
+D2
+~
+~
+0 0 1857
+D3
+~
+~
+0 0 1844
+S
+#1844
+~
+~
+0 0 0
+Market Street~
+You are in Market Street.  Looking to the south in horror you see hundreds of
+people pushing their way past each other trying to get to the nearest wagon.
+For over a city block you can see nothing but wagons, tents and stands filled
+with merchants and eager buyers haggling over their merchandise.  You have NO
+idea how you'd get through this crowd without a few bruises at least.
+Fortunately, a few Promerian Soldiers have been posted here and the street
+continues on from east to west, out of harm's way for the moment.  To your
+north the south wall of the soldier's barracks towers over you, and to the west
+you can just make out the west walls of Promeria.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1843
+D2
+~
+~
+0 0 1858
+D3
+~
+~
+0 0 1845
+S
+#1845
+~
+~
+0 0 0
+Crescent Road (West)~
+You are at the intersection of Market Street and Crescent Road.  A few wagons
+continue to travel the road here, circling around marketplace for some remote
+chance of spotting a nice spot to set trade.  To your north and south, crescent
+road continues.  To your east, Market Street goes on further than you can see,
+while to the northeast is the corner of the huge soldier's barracks, and the
+southeast is the marketplace.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1908
+D1
+~
+~
+0 0 1844
+D2
+~
+~
+0 0 1846
+S
+#1846
+~
+~
+0 0 0
+Crescent Road (West)~
+Here Crescent Road continues south along the west wall of Promeria.  A
+few wagons continue to travel Crescent Road, circling around marketplace for
+some remote chance of spotting a nice area to set trade.  To your north and
+south, crescent road continues.  To your east, you can see far into
+marketplace, people almost throw each other aside trying to reach the
+merchant they think has the best items for trade.  
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1845
+D1
+~
+~
+0 0 1858
+D2
+~
+~
+0 0 1847
+S
+#1847
+~
+~
+0 0 0
+Crescent Road (West)~
+Here Crescent Road continues south along the west wall of Promeria.  A few
+wagons continue to travel Crescent Road, circling around marketplace for some
+remote chance of spotting a nice area to set trade.  To your north and south,
+Crescent Road continues.  To your east, you can see deep into the center of 
+Marketplace, you almost begin to laugh at the pure chaos that fills the entire
+area. People almost throw each other aside trying to reach the merchant they
+think has the best items for trade.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1846
+D1
+~
+~
+0 0 1859
+D2
+~
+~
+0 0 1848
+S
+#1848
+~
+~
+0 0 0
+Crescent Road (West)~
+Here Crescent Road continues south along the west wall of Promeria.  A few
+wagons continue to travel Crescent Road, circling around Marketplace for some
+remote chance of spotting a nice area to set trade.  To your north and south,
+Crescent Road continues.  To your east, you can see far into Marketplace,
+people almost throw each other aside trying to reach the merchant they think 
+has the best items for trade.  To your south, you can see the south wall of
+Promeria, but just barely.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1847
+D1
+~
+~
+0 0 1862
+D2
+~
+~
+0 0 1849
+S
+#1849
+~
+~
+0 0 0
+Southwestern Corner of Promeria``~
+You find yourself at the southwest corner of this huge city.  Still, a few 
+merchants continue to move along Crescent Road, trying to find a nice area to
+set trade at Marketplace just northeast of here.  A large watchtower casts a
+shadow over you, and you see Crescent Road continues to the north as well as to
+the east.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1848
+D1
+~
+~
+0 0 1850
+S
+#1850
+~
+~
+0 0 0
+Crescent Road (South)~
+Here Crescent Road continues east to west along the south wall of
+Promeria.  A few wagons continue to travel Crescent Road, circling around
+Marketplace for some remote chance of spotting a nice area to set trade.  To
+your east and west, Crescent Road continues.  To your north, you can see far
+into Marketplace, people almost throw each other aside trying to reach the
+merchant they think has the best items for trade, a couple of teenage boys
+appear in front of you and they quickly bolt eastwards down Crescent Road. 
+To your south, is the south wall of Promeria.  
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1862
+D1
+~
+~
+0 0 1851
+D3
+~
+~
+0 0 1849
+S
+#1851
+~
+~
+0 0 0
+Crescent Road (South)~
+Here Crescent Road continues east to west along the south wall of Promeria.  
+Wagons move along Crescent Road, circling around Marketplace for some remote
+chance of spotting a nice area to set trade.  To your east and west, Crescent
+Road continues.  To your north, you can see far into Marketplace, people almost
+throw each other aside trying to reach the merchant they think has the best
+items for trade.  To your south you can see the south wall of Promeria.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1861
+D1
+~
+~
+0 0 1852
+D3
+~
+~
+0 0 1850
+S
+#1852
+~
+~
+0 0 0
+Crescent Road (South)~
+Here Crescent Road continues east to west along the south walls of Promeria.
+Merchants with their horses and wagons move west down Crescent Road, obviously
+seeking to open trade on the open market on down the road.  To your north, you
+can see a locked gate barring your way from a very dark alley that leads behind
+the row of shops to your east.  Also to your east, you can barely see the huge
+south gates of Promeria.  To your south, the south wall of Promeria continue.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1853
+D1
+~
+~
+0 0 1856
+D3
+~
+~
+0 0 1851
+S
+#1853
+~
+~
+0 0 0
+`bA `aDark `bAlley``~
+`aThis is the end of the alley now, it is quite dark despite the daylight, the 
+tall shops to your east block most of the sunlight.  There is not much of 
+anything here.  You hear a faint stirring sound just a few feet away and your
+heart is quite satisfied to find that it was only a rat.  The gate appears to
+have a lock on it, so there is no way you will be able to get out in this 
+direction. To your east is yet another locked door, while to your north quite
+a bit off will lead to Market Street.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1854
+D1
+~
+~
+0 0 1806
+D2
+~
+~
+0 0 1852
+S
+#1854
+~
+~
+0 0 0
+`bA `aDark `bAlley``~
+`aYou are in the middle of this dark alley now, you continue to see rows
+of trash to your side, some things that might be of small value even, you
+feel some poor bum would've had to have found some of this, something is
+definitely wrong ...  To your east is another door, while to your north you
+can still see some of the traders moving by, though just barely.  To the
+south, you think you can see the end of the alley, being some sort of gate. 
+It is too dark to tell much, you really have a bad feeling about this.  
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1855
+D1
+~
+~
+0 0 1840
+D2
+~
+~
+0 0 1853
+S
+#1855
+~
+~
+0 0 0
+`bA `aDark `bAlley``~
+`aYou are at the beginning of the alley behind the Ethor Street shops.  It is
+narrow, only being 10 feet in width.  All sorts of trash has been left here, 
+but the alley is amazingly empty, to your south the alley continues, growing
+darker with every step, while to your north you can see the frequent wagons 
+pass by on Market Street.  To your east, there is a locked door, most likely to
+one of the shops.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1842
+D1
+~
+~
+0 0 1836
+D2
+~
+~
+0 0 1854
+S
+#1856
+~
+~
+0 0 0
+Crescent Road (South)~
+Here Crescent Road continues east to west along the south wall of Promeria.
+Merchants with their horses and wagons move hastily down Crescent Road, 
+obviously seeking trade on the open market down the road.  To your north, you
+can see a wall of the first shop of many on the Street of Ethor.  To your 
+east, you can see the south gates of Promeria clearly now, as well as the 
+beginning of Ethor Street.  To your south, the south wall of Promeria continue.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1800
+D3
+~
+~
+0 0 1852
+S
+#1857
+~
+~
+0 0 0
+Marketplace~
+You find yourself in one of the most chaotic places you have ever seen!  All
+around you people brush past one another in a frenzy to get the best deals. To
+your west and south the chaos continues, while to the north the soldier's
+barracks can still be seen by everyone, everywhere.  To your east is a stone
+wall that extends to the south as far as Marketplace goes.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1843
+D2
+~
+~
+0 0 1860
+D3
+~
+~
+0 0 1858
+S
+#1858
+~
+~
+0 0 0
+Marketplace``~
+You find yourself in one of the most chaotic places you have ever seen! 
+All around you people brush past one another in a frezy to get to the best
+deals.  To your south and east, the chaos continues, while to the north and
+west you can spot the wagons traveling down Market Street and Crescent Road,
+which eventually leads to Ethor Street.  
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1844
+D1
+~
+~
+0 0 1857
+D2
+~
+~
+0 0 1859
+D3
+~
+~
+0 0 1846
+S
+#1859
+~
+~
+0 0 0
+Marketplace``~
+You are in the middle of Marketplace, you feel your head pounding as the
+crowd's noise begins to get to you.  All around you merchants are haggling to
+get the best price for their merchandise, which for the most part appears to be
+junk, though other things seem worth looking at.  Suddenly something bumps into
+you from behind and the next moment you find yourself in a cartload of grapes.
+You really wish you hadn't have come here.  In every direction this market hell
+continues, to the west being your only refuge, Crescent Road.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1858
+D1
+~
+~
+0 0 1860
+D2
+~
+~
+0 0 1862
+D3
+~
+~
+0 0 1847
+S
+#1860
+~
+~
+0 0 0
+Marketplace``~
+You are in one of the most chaotic places you have ever seen!  All around you
+merchants are trying to get the best price for what the most part appears to be
+junk, though other things seem worth looking at.  You seem to be right in the
+middle of this market hell, in all directions the Marketplace continues,
+except to the east there is the stone wall, you cannot see anything through the
+crowd.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1857
+D2
+~
+~
+0 0 1861
+D3
+~
+~
+0 0 1859
+S
+#1861
+~
+~
+0 0 0
+Marketplace``~
+You find yourself in one of the most chaotic places you have ever seen!  All
+around you people brush past one another in a frenzy to get the best deals.  To
+your west and north the chaos continues.  To the south, Crescent Road can be 
+seen, surrounding Marketplace and leading out to Ethor Street again eventually.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1860
+D2
+~
+~
+0 0 1851
+D3
+~
+~
+0 0 1862
+S
+#1862
+~
+~
+0 0 0
+Marketplace``~
+You find yourself in one of the most chaotic places you have ever seen!  All
+around you people brush past one another in a frenzy to get to the best deals.
+To your north and east the chaos continues.  To your south and west, you can
+see Crescent Road stretch all the way around Marketplace and back to Ethor
+Street eventually.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1859
+D1
+~
+~
+0 0 1861
+D2
+~
+~
+0 0 1850
+D3
+~
+~
+0 0 1848
+S
+#1863
+~
+~
+0 0 0
+Crescent Road (East)~
+Here Crescent Road continues from south to north.  The road here is not that
+crowded, except for a few people making their way down the road.  To your west,
+you can see and smell what is to be the stableyards, used primarily by the
+Promerian Guard, it stretches off to the north.  To your north and south, 
+Crescent Road continues around the city, and you can see the edge of the arena
+to your south.  To your east, the wall protecting eastern Promeria runs
+parallel with the road.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1864
+D2
+~
+~
+0 0 1813
+D3
+~
+~
+0 0 1837
+S
+#1864
+~
+~
+0 0 0
+Crescent Road (East)~
+Here Crescent Road continues from south to north.  The road here is not that
+crowded, except for a few people making their way down the road.  To your west,
+you can see and smell what is to be the stableyards, used primarily by the
+Promerian Guard, it continues both north and south of here.  To your north and
+south, Crescent Road continues around the city, and you can see Crescent Road
+branching off into Galen Street just a little bit to the north.  To your east, 
+the wall protecting eastern Promeria runs parallel with the road.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1865
+D2
+~
+~
+0 0 1863
+S
+#1865
+~
+~
+0 0 0
+Crescent Road (East)~
+Here Crescent Road continues from south to north.  The road here is not very
+crowded, except for a few people making their way down the road.  To your west,
+you can see the stableyards lead into the blacksmith's shop, they continue far
+down to the south.  To your north and south, Crescent Road continues around the
+city parallel with the city walls to your east.  You can see the intersection
+into Galen Street just a little bit to your north.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1866
+D2
+~
+~
+0 0 1864
+D3
+~
+~
+0 0 1839
+S
+#1866
+~
+~
+0 0 0
+Intersection at Galen Street and Crescent Road~
+You are at the intersection at Galen Street and East Crescent Road.  The first
+thing you notice are the guards posted at both sides of Galen Street, and you
+do not see anyone beyond them except for a few citizens moving in and out of
+their fancy homes.  To your south and north, Crescent Road continues on out of
+your sight, parallel with the walls of the city.  The wall to your north
+branches off to the west and spans off across the entire city, supported by
+large stone towers, giving easy access to the city by the massive guard of 
+Promeria.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1942
+D2
+~
+~
+0 0 1865
+D3
+~
+~
+0 0 1867
+S
+#1867
+~
+~
+0 0 0
+Galen Street~
+You are on Galen Street.  All around you, extravagant houses tower over you,
+most are 2 stories high and considerably massive, the street is well kept, here
+blocks of stone have been wedged in perfectly next to each other, providing a
+smooth surface for traveling, lined with lamp posts for night time.  Not once 
+do you find yourself outside the view of any of the promerian guard, they are
+posted everywhere it seems, or maybe it's just your imagination.  You can see
+the stone wall stretching across the city, dividing the houses from the lower
+class people of the city to your north.  To your west, Galen Street continues
+on quite a bit, while to your east you can see the east wall of promeria as
+well as Crescent Road.
+~
+0 CZ 0
+0
+~
+D1
+~
+~
+0 0 1866
+D3
+~
+~
+0 0 1868
+S
+#1868
+~
+~
+0 0 0
+Galen Street~
+You are on Galen Street.  All around you, extravagant houses tower over you,
+most are 2 stories high and considerably massive, the street is well kept, here
+blocks of stone have been wedged in perfectly next to each other, providing a
+smooth surface for traveling, lined with lamp posts for night time.  Not once
+do you find yourself outside the view of any of the promerian guard, they are
+posted everywhere it seems, or maybe it's just your imagination.  You can see
+the stone wall stretching across the city, dividing the houses from the lower
+class people of the city to your north.  To your west and east, Galen Street
+continues.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1867
+D3
+~
+~
+0 0 1869
+S
+#1869
+~
+~
+0 0 0
+Galen Street~
+You are in the middle of Galen Street.  All around you, extravagant houses
+tower over you, most are 2 stories high and considerably massive, the street is
+well kept, here blocks of stone have been wedged in perfectly next to each
+other, providing a smooth surface for traveling, lined with lamp posts for
+night time.  Not once do you find yourself outside the view of any of the
+promerian guard, they are posted everywhere it seems, or maybe it's just your
+imagination. You can see the stone wall stretching across the city, dividing
+the houses from the lower class people of the city to your north.  To your west
+and east, Galen Street continues.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1868
+D3
+~
+~
+0 0 1870
+S
+#1870
+~
+~
+0 0 0
+Galen Street~
+You are in Galen Street.  All around you, extravagant houses tower over you,
+most are 2 stories high and considerably massive, the street is well kept, here
+blocks of stone have been wedged in perfectly next to each other, providing a
+smooth surface for traveling, lined with lamp posts for night time.  Not once
+do you find  yourself outside the view of any of the promerian guard, they are
+posted everywhere it seems, or maybe it's just your imagination.  You can see
+the stone wall stretching across the city, dividing the houses from the lower
+class people of the city to your north.  To your west and east, Galen Street
+continues.  You can see Ethor Street a little ways to the west.
+~
+0 CZ 0
+0
+~
+D1
+~
+~
+0 0 1869
+D3
+~
+~
+0 0 1871
+S
+#1871
+~
+~
+0 0 0
+Street of Ethor (South)~
+The Street of Ethor continues from north to south.  Things are very calm
+around here.  Just ahead of you to your north, a huge stone wall spans clear
+across the city, the large gates permitting access further into the city are
+open, but you do see a few guards posted there, they watch you casually.  To
+your east is a different matter altogether, it leads into Galen Street, where
+more of the ... richer citizens reside, you can see the extravagant two story
+buildings from here.  Guards are posted at both sides of the street, they do
+not seem to resemble normal guards, they watch you with a greater intensity
+that makes you feel uneasy.  You can see why there is not many people around
+here. To your south, you can see far down the Street of Ethor.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1933
+D1
+~
+~
+0 0 1870
+D2
+~
+~
+0 0 1872
+S
+#1872
+~
+~
+0 0 0
+Street of Ethor (South)~
+The Street of Ethor continues from north to south.  Here, it is rather
+peaceful to your delight, though it is no suprise, you are between the entrance
+to the Promerian Guard and Lord Geroth's mansion, which happens to be their
+leader. To your north, you can see the beginning of Galen Street a short
+distance away, protected by the stone wall that stretches clear across the city
+from east to west, just behind it.  You can see the open gate allowing you
+access deeper into the city.  To your south, you can barely see the chaos of
+the merchants as they try to get on to Market Road from the Street of Ethor.
+You also notice the entrance to Lord Geroth's Mansion, though the entrance to
+the soldier's barracks is just to your west.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1871
+D2
+~
+~
+0 0 1873
+D3
+~
+~
+0 0 1900
+S
+#1873
+~
+~
+0 0 0
+Street of Ethor (South)~
+The Street of Ethor continues from north to south.  Here, it is rather
+peaceful to your delight, though it is no suprise, you are between the
+barracks of the Promerian Guard and their leader, Lord Geroth's grand
+mansion, just over to your east.  To your north, you can make out the
+beginning of Galen Street, just behind it the city wall extends across the
+entire city from east to west, with a gate in the middle permitting access
+deeper into the city.  To your south, you cannot see much besides the chaos
+on the Street of Ethor as it turns off into Market Road in the distance.  
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1872
+D1
+~
+~
+0 0 1876
+D2
+~
+~
+0 0 1874
+S
+#1874
+~
+~
+0 0 0
+Street of Ethor (South)~
+The Street of Ethor continues from north to south.  Here, the crowd seems
+to be much less than it was to the south to your relief.  Over to your east
+is a small shop with a doll on it's sign, the wood is so rotten you cannot
+make out the writing on it.  Just north of that is the home of the great
+general, Lord Geroth.  Across the street to your west, is the huge walls
+that house the majority of the Promerian Guard.  To your south you can make
+out a huge intersection in the street, it looks chaotic, almost dangerous.  
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1873
+D1
+~
+~
+0 0 1875
+D2
+~
+~
+0 0 1804
+S
+#1875
+~
+~
+0 0 0
+The Toy Shop~
+You enter to see what appears to be more of an abandoned cabin than
+anything.  The wood creaks beneath your weight, and you see that most of the
+inside of the building is not in much better shape than the outside.  You
+cannot spot one thing that can even suggest that this place is open for
+trade, but an old elf rests at the other corner of the room beside a window
+and a counter, he seems to be daydreaming, there is nobody else in the room.
+The exit to your west leads you out into Ethor Street, from in here the roar
+of the villagers outside have died down at least.  
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 1874
+S
+#1876
+~
+~
+0 0 0
+Entrance to Lord Geroth's Mansion~
+You are just inside of the mansion of Promeria's general, Lord Geroth.  
+Looking around you, there is no doubt that such a title and job has brought him
+great wealth.  In front of you, an extraordinary staircase spirals upwards to
+the second floor, the blue carpet that covers it is of the finest quality, it
+is covered in gold trim.  At the floor of it, a blazing crescent sun flashes
+as the sunlight from a nearby window covers it.  The walls look as if they have
+been maintained well, extravagant paintings of all sorts line them.  To your
+north past the stairway, you can see some of the living room, light fills the
+room from above, though from here you can't see why.  To your east, a pair of
+large oak doors block your way.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1877
+D1
+~
+~
+0 0 1889
+D3
+~
+~
+0 0 1873
+D4
+~
+~
+0 0 1878
+S
+#1877
+~
+~
+0 0 0
+The Living Room~
+You are in what appears to be the living room of Geroth's Mansion.  Two large
+bookcases line half the wall on the other side of the room, the books appear to
+be old for the most part.  There is a couple of windows in the large room, but
+they are covered by their curtains, except for the ones up above though, 
+instead of the ceiling in one area someone has replaced it with...glass?  You
+can see the sky clearly, and sunlight fills the room.  On the wall to your
+right, a beautiful fireplace is unlit, though it looks to have been used
+recently, it is surrounded by two comfortable looking couches and 2 old chairs.
+In front of the fireplace in the middle of it all is a great bearskin rug.  On
+your left is a large workdesk with a large pile of papyrus.  Paintings continue
+to line all the walls, only stopping to be replaced by awards and such.  The
+room smells of roses and fresh.  You think this would be a great place to die.
+The room exits out to the door by the grand stairway.
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1876
+S
+#1878
+~
+~
+0 0 0
+At the Top of the Stairway~
+You are on the second floor of Geroth's mansion.  Just beside you, the grand,
+blue staircase spirals down below.  The walls are bare and painted white, the 
+floor is without any carpeting.  To your north, you can see a series of doors
+on both sides of the hallway.  The floor creaks beneath your feet, you find 
+that this place is rather eerie.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1879
+D5
+~
+~
+0 0 1876
+S
+#1879
+~
+~
+0 0 0
+A Hallway~
+You are in the hallway of Geroth's mansion.  The walls are bare and painted
+white, the floor is without any carpeting.  To your east is a small door and to
+your south a few feet is the staircase leading down to the first floor of the
+mansion. To your north, you can see further into the hallway, the series of 
+doors are all closed, everything is silent up here except for the sound of your
+footsteps. You hope nobody hears.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1880
+D1
+~
+~
+0 0 1884
+D2
+~
+~
+0 0 1878
+S
+#1880
+~
+~
+0 0 0
+A Hallway~
+You are in the hallway of Geroth's mansion.  The walls are bare and painted
+white, the floor is without any carpeting.  To your east and west both are
+closed doors.  To your north, you can see further into the hallway, and still, 
+the doors are all closed.  To your south, the staircase leading down to the
+first floor is only moments away.  Everything is silent here, except for the
+sound of your footsteps.  You hope nobody hears you.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1881
+D1
+~
+~
+0 0 1885
+D2
+~
+~
+0 0 1879
+D3
+~
+~
+0 0 1912
+S
+#1881
+~
+~
+0 0 0
+A Hallway~
+You are in the hallway of Geroth's mansion.  The walls are bare and painted
+white, the floor is without any carpeting.  To your east and west are both
+closed doors.  To your north, you can see the hallway come to an end, with yet
+another door at the end, all of the doors are closed.  To your south, the
+staircase leading down to the first floor is a little while away.  Everything
+is silent here, except for the sound of your footsteps.  You hope nobody hears
+you.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1882
+D1
+~
+~
+0 0 1886
+D2
+~
+~
+0 0 1880
+D3
+~
+~
+0 0 1913
+S
+#1882
+~
+~
+0 0 0
+End of the Hallway~
+You are at the end of the hallway of Geroth's mansoin.  The walls are bare and
+painted white, the floor is without any carpeting.  To your north, east, and
+west are all closed doors.  To your south, the hallway continues down to the
+staircase, doors line both sides of the hall.  Everything is silent, except for
+the sound of your footsteps.  You hope nobody hears you.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1883
+D1
+~
+~
+0 0 1887
+D2
+~
+~
+0 0 1881
+D3
+~
+~
+0 0 1914
+S
+#1883
+~
+~
+0 0 0
+A Large Closet~
+You are in a large closet at the end of Geroth's hallway.  It is filled with 
+old sets of clothing and boxes of junk that you'd find in any other closet.
+There are a few items that you notice that might be of some value.  The door 
+behind you leads south, back out into the hallway.
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1882
+S
+#1884
+~
+~
+0 0 0
+A Small Closet~
+You are in a small closet.  It is all dark and all you can make out are boxes
+of old clothing and other worthless things that could only be held dear by the
+owner themself.  The door exits out to the west into the hallway.
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 1879
+S
+#1885
+~
+~
+0 0 0
+A Bedroom~
+This has to be the bedroom of Geroth's son.  Over by the window is an average
+bed with brown sheets, a longsword hangs off one of the bedposts, still in it's
+sheath. There is a small closet beside the bed as well, but you doubt there
+would be anything of interest there.  A desk is in the corner beside the door, 
+it has a large book on it.  The walls are still painted white, and through the
+window you can see a small pond and beside it some sort of obstacle course, 2
+horses are moving through it.  To your west, a doorway leads back out into the
+hallway.
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 1880
+S
+#1886
+~
+~
+0 0 0
+The Daughters' Room~
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 1881
+S
+#1887
+~
+~
+0 0 0
+The Lord and Lady's Bedroom~
+You are in what could only be the general's own bedroom!  A thick, dark blue
+carpet covers the entire room.  Two large windows are over on the other side of
+the room on both sides of a bed.  The bed has silk blue sheets and the curtains
+that surround the canopied bed is a darker shade, though slightly transparent.
+It looks quite comfortable.  A large bookcase takes up most of the wall to your
+right, the little space remaining is taken up by a lamp post with another of
+the magician's lights in it, there is another one identical to it in the
+adjacent corner to your left, these balls seem to be much darker than the ones
+you normally see, this room is simply wonderful.  A chest is over on the wall
+to your left, and just above it a painting of Geroth and his entire family.  
+The doorway to your west leads out of the bedroom and back into the hallway.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1915
+D3
+~
+~
+0 0 1882
+S
+#1888
+~
+~
+0 0 0
+The Kitchen~
+You find yourself in an average kitchen.  Tables stretch across most of the
+walls in the room, mostly used for preparing and storing food just before a
+meal is served.  In the corner by the pair of odd looking ovens are a large
+pile of firewood.  Over on the other side of the room is a series of cabinets,
+all of which are closed.  To the east, you see a window beside a door, leading
+out behind the house, you can make out a small pond.  To your south, a door
+leads back into the dining room.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1890
+D2
+~
+~
+0 0 1889
+S
+#1889
+~
+~
+0 0 0
+The Grand Dining Room~
+You are in Geroth's own dining room! Huge windows line the back walls of the
+room, providing a nice view of the pond out back and the houses with their
+residents on Galen Street.  A huge, rectangular oak table stretches clear
+across the room at least 20 feet, it is covered in silverware, napkins and
+large candleholders.  Above, you can see a large chandelier hanging down 10
+feet above the table, in place of each candle, there is a small, glowing orb
+sitting in it's slot, similar to the kind most magicians conjure to amuse the
+townfolk. The same blue carpeting covers all of the floor in the room, it
+feels very nice to walk on and you do not make much sound.  To your north, a
+door is closed, though you figure it leads to the kitchen.  To your west, you
+can see the front door of the house as well as the grand staircase.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1888
+D3
+~
+~
+0 0 1876
+S
+#1890
+~
+~
+0 0 0
+A Small Pond~
+You are beside a small pond.  There's not much to say about it, except that it
+is muddy, you can't see anything through the murky water.  The mud around the
+pond doesn't suggest anyone has been here swimming in a long while.  To your
+west, you can see the huge mansion of Lord Geroth loom over you, it is hard to
+take in all of it at once.  To your north, you can see a couple of horses
+trotting around what appears to be an obstacle course.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1891
+D3
+~
+~
+0 0 1888
+S
+#1891
+~
+~
+0 0 0
+The Playground~
+You are in the middle of some playground.  Pieces to all sorts of outdoor
+games are scattered over the area, while over to the right an obstacle
+course similar to the kind used in training soldiers on mounts.  To the
+north you can see most of Galen Street, though the guards watching you with
+intensity makes you think it'd be a good idea not to go over there.  To your
+south, you can see a small pond and the door that leads into Lord Geroth's
+kitchen.  
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1890
+S
+#1892
+~
+~
+0 0 0
+East Side of the Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1900
+D2
+~
+~
+0 0 1893
+S
+#1893
+~
+~
+0 0 0
+The Armory~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1892
+S
+#1894
+~
+~
+0 0 0
+The Captain's Quarters~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 1895
+S
+#1895
+~
+~
+0 0 0
+South Side of the Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1898
+D1
+~
+~
+0 0 1894
+D3
+~
+~
+0 0 1896
+S
+#1896
+~
+~
+0 0 0
+Southwest Corner of the Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1897
+D1
+~
+~
+0 0 1895
+S
+#1897
+~
+~
+0 0 0
+Wall Road Entrance of the Soldier's Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1901
+D2
+~
+~
+0 0 1896
+D3
+~
+~
+0 0 1909
+S
+#1898
+~
+~
+0 0 0
+Inside of the Barracks~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1899
+D2
+~
+~
+0 0 1895
+S
+#1899
+~
+~
+0 0 0
+Inside of the Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1903
+D3
+~
+~
+0 0 1898
+S
+#1900
+~
+~
+0 0 0
+Main Street Entrance of the Soldier's Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1907
+D1
+~
+~
+0 0 1872
+D2
+~
+~
+0 0 1892
+S
+#1901
+~
+~
+0 0 0
+West Side of the Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1904
+D2
+~
+~
+0 0 1897
+S
+#1902
+~
+~
+0 0 0
+Inside of the Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1905
+S
+#1903
+~
+~
+0 0 0
+Inside of the Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1906
+D2
+~
+~
+0 0 1899
+S
+#1904
+~
+~
+0 0 0
+Northwest Corner of the Barracks~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1905
+D2
+~
+~
+0 0 1901
+S
+#1905
+~
+~
+0 0 0
+North Side of the Barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1962
+D2
+~
+~
+0 0 1902
+D3
+~
+~
+0 0 1904
+S
+#1906
+~
+~
+0 0 0
+North Side of the Barracks~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1907
+D2
+~
+~
+0 0 1903
+S
+#1907
+~
+~
+0 0 0
+Northeast Corner of the Barracks~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 1900
+D3
+~
+~
+0 0 1906
+S
+#1908
+~
+~
+0 0 0
+Crescent Road (West)~
+Here Crescent Road continues from south to north.  You only take notice of a
+couple of people pass by, this part of the city is practically deserted.  With
+the soldier's barracks towering beside you it is really no wonder, it stretches
+to the north parallel with the city walls to your west.  Farther north, you can
+see one of the secondary gates of the wall stretching across the city from east
+to west, it is open.  To your south, you can see Marketplace not too far away,
+the roar of the merchants from that bunch is enough to scare off an entire army
+at least.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1909
+D2
+~
+~
+0 0 1845
+S
+#1909
+~
+~
+0 0 0
+Entrance of the Soldier's Barracks~
+Here crescent Road continues from south to north.  You only take notice of a 
+couple of people pass by, this part of the city is practically deserted.  With
+the entrance to the soldier's barracks towering beside you it is really no
+wonder, it stretches to the north and south parallel with the city walls to
+your west.  To the north, you can see one of the secondary gates of the wall
+stretching across the city from east to west, it is open.  To your south, you
+can see some of Marketplace, the distant roar of the crowd is enough to scare
+anyone away.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1910
+D1
+~
+~
+0 0 1897
+D2
+~
+~
+0 0 1908
+S
+#1910
+~
+~
+0 0 0
+Crescent Road (West)~
+Here Crescent Road continues from south to north.  You only take notice of a
+couple of people passing by, this part of the city is practically deserted.  
+With the soldier's barracks towering beside you it is really no wonder why, it 
+stretches to the north and south parallel with the city walls to your west.
+To the north, you can see one of the secondary gates of the wall stretching
+across the city from east to west, it is open.  To your south, you can see the
+entrance to the barracks, and you can hear the roar that could only be emitted
+from a place like Marketplace.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1909
+S
+#1911
+~
+~
+0 0 0
+Crescent Road (West)~
+Here Crescent Road continues from south to north.  You only take notice of a 
+couple of people passing by, this part of the city is practically deserted.
+With the soldier's barracks towering beside you it is really no wonder why, it
+stretches to the south, parallel with the city walls to your west.  To the
+north, the huge wall spanning across the entire city east to west towers above
+you, the gate blocking your way deeper into the city is open however.  To your
+south, you can only see the entrance to the barracks as Crescent Road continues
+past it to the south.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1964
+D2
+~
+~
+0 0 1910
+S
+#1912
+~
+~
+0 0 0
+Maid's Room~
+This must be where the maids sleep.  It is rather noisy here, you can hear
+people on the Street of Ethor pass by.  The room is pretty bare, there is 5
+beds, each with white sheets, with a chest beside each one.  Looking out the 
+cracked window you can see the citizens of Promeria move down the street.  The
+door to your east leads back out into the hallway.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1880
+S
+#1913
+~
+~
+0 0 0
+The Guest's Room~
+You find yourself in a bare bedroom.  It is pretty nice, the large, canopied
+bed is covered in full, purple curtains.  There is an expensive looking chest
+beside the bed, and a closet on the other side of the room.  Both of them are
+empty, this must be a room for their guests.  Looking out the window you can
+see the citizens of Promeria move down the Street of Ethor.  The door to your
+east leads out into the hallway once again.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1881
+S
+#1914
+~
+~
+0 0 0
+The Guest's Room~
+You find yourself in a bare bedroom.  It is pretty nice, the large, canopied
+bed is covered in full, purple curtains.  There is an expensive looking chest
+beside the bed, and a closet on the other side of the room.  Both of them are
+empty, this must be a room for their guests.  Looking out the window you can 
+see the citizens of Promeria move down the Street of Ethor.  The door to your
+east leads out into the hallway once again.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1882
+S
+#1915
+~
+~
+0 0 0
+The Planning Room~
+You have found what appears to be a secret room, this is very strange indeed.
+Strategical maps line all the walls of this small room.  Layouts of the militia
+in cities like Thesden and New Dergon are all highlighted on the maps, and
+markings have been made on how to split the forces apart ... this is treason!
+In the center of the room is a large square table, on it is a glass covered
+layout of the entire city of Promeria, the castle and the mage's tower, nothing
+seems to be left unmarked, and you see some things on the map that you didn't
+notice in the city.  A few scrolls have been left on the table carelessly, 
+most likely other maps.  On the other side of the room at first you thought it
+was just darkness, but you notice it shifted, you realize it is a magical
+gateway, to where you do not know.  What is Geroth up to?  The secret entrance
+leads out of the room into Geroth's bedroom.
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1887
+S
+#1916
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1917
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1918
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1919
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1920
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1921
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1922
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1923
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1924
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1925
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1926
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1927
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1928
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1929
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1930
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1931
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1932
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1933
+~
+~
+0 0 0
+Street of Ethor (South)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1934
+D1
+~
+~
+0 0 1946
+D2
+~
+~
+0 0 1871
+S
+#1934
+~
+~
+0 0 0
+Street of Ethor (South)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1935
+D2
+~
+~
+0 0 1933
+D3
+~
+~
+0 0 1956
+S
+#1935
+~
+~
+0 0 0
+Center of Ethor and Main Street~
+Here, the Street of Ethor passes through Main Street from north to south.
+There are quite a few people that pass by the intersection, but it is much
+calmer than the chaos in the southern portion of the city.  Most of the
+people seem to be middle-upper class citizens, on their way to the north and
+west directions of the two streets.  You can make out Promeria's one and
+only theatre a short walk to your west.  You realize that you're surrounded
+with large buildings.  You cannot make out what most of them are, but the
+one southeast of you appears to be an inn, there's an door leading into it
+to your east.  Main Street crosses past Ethor Street from east to west.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1971
+D1
+~
+~
+0 0 1936
+D2
+~
+~
+0 0 1934
+D3
+~
+~
+0 0 1970
+S
+#1936
+~
+~
+0 0 0
+Main Street (East)~
+Main Street continues from east to west.  Just to your west you can see
+where Main Street runs into Ethor Street and on past toward the western
+gates of the the city.  A few people pass by here, though you find they are
+rather odd looking, most appear to be somewhat dirty, the leather vests they
+wear have the symbol of an arrow flying and engulfed in flames, representing
+the ranger guild off to your east.  Most of them come and go from the
+buildings to your north and south.  While to your north appears to be a
+small shop, to your south you can make out what has to be a tavern or an
+inn, you can see people singing and dancing through the windows of the log
+structure.  To your east you can see a few more shops off in the distance
+that line Main Street.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1952
+D1
+~
+~
+0 0 1937
+D2
+~
+~
+0 0 1951
+D3
+~
+~
+0 0 1935
+S
+#1937
+~
+~
+0 0 0
+Main Street (East)~
+Main Street continues across the city from east to west.  To your north and
+south, many shops and other buildings line both sides of Main Street, though 
+the business here isn't nearly as hectic as the other rows of shops are in the
+southern portion of the city.  Most of the people you see here for the most
+part seem to be members of the Flaming Arrow ranger guild, just off to your
+east, you are able to identify all of them from their insignia sewn onto their
+leather vests.  All around you there are many different buildings that
+encourage you to enter.  The closest one to you is to your north, which is one
+of the smaller buildings, it shows no sign but the door is left open.  To your
+east, the rows of shops continue down the street farther than you can see.  To
+your west, you can just barely see a few shops, as well as Ethor Street.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1953
+D1
+~
+~
+0 0 1938
+D3
+~
+~
+0 0 1936
+S
+#1938
+~
+~
+0 0 0
+Main Street (East)~
+Main Street continues across the city from east to west.  To your north and
+south, many shops and other buildings line both sides of Main Street, though 
+the business here isn't nearly as hectic as the other rows of shops are in the 
+southern portion of the city.  Most of the people you see here for the most
+part seem to be members of the Flaming Arrow rangre guild just a short distance
+to the east.  All around you there are many different buildings that
+encourage you to enter.  To your south, you can see an odd looking shop, it is
+a large, wooden structure, but the sign is a vanilla color, with a bright
+combination of colors that form the name "Chera".  To your east, the rows of
+shops continue down the street for a while longer, you can see the eastern 
+gates of the city now, as well as the huge gates and buildings that are all a
+part of the Flaming Arrow gulid.  To your west, shops continue along the street
+and end just about at Ethor Street.
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1939
+D2
+~
+~
+0 0 1949
+D3
+~
+~
+0 0 1937
+S
+#1939
+~
+~
+0 0 0
+Main Street (East)~
+Main Street continues across the city from east to west.  To your north and
+south, many shops and other buildings line both sides of Main Street, though
+business here isn't nearly as hectic as it is in the southern portion of the
+city. Most of the people you see here for the most part seem to be members of
+the Flaming Arrow ranger guild, you can see the entrance to their guild just to
+your north, you notice just how large it is, it stretches far down into Main
+Street just behind the buildings and shops that line it.  To your south, you
+can see all sorts of shops and other buildings that encourage you to enter. 
+One of the buildings catches your interest, a large, stone structure stands
+over you two stories high, it looks to be quite old and poorly maintained, it
+has a sign over the door with a pair of crossbones, at the end of each bone is
+an axeblade attached to it, with blood dripping off of both blades.  To your
+east, you can see Main Street come to an end as you notice the eastern gate of
+the city just a short distance away.  To your west, however, Main Street
+continues as far as your eyes can see.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1955
+D1
+~
+~
+0 0 1940
+D2
+~
+~
+0 0 1947
+D3
+~
+~
+0 0 1938
+S
+#1940
+~
+~
+0 0 0
+The Eastern Gates of Promeria~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1999
+D2
+~
+~
+0 0 1941
+D3
+~
+~
+0 0 1939
+S
+#1941
+~
+~
+0 0 0
+Crescent Road (East)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1940
+D2
+~
+~
+0 0 1942
+S
+#1942
+~
+~
+0 0 0
+Crescent Road (East)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1941
+D2
+~
+~
+0 0 1866
+D3
+~
+~
+0 0 1943
+S
+#1943
+~
+~
+0 0 0
+A Back Alley~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1942
+D3
+~
+~
+0 0 1944
+S
+#1944
+~
+~
+0 0 0
+A Back Alley~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1943
+D3
+~
+~
+0 0 1945
+S
+#1945
+~
+~
+0 0 0
+A Back Alley~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1944
+D3
+~
+~
+0 0 1946
+S
+#1946
+~
+~
+0 0 0
+A Back Alley~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 1945
+D3
+~
+~
+0 0 1933
+S
+#1947
+~
+~
+0 0 0
+Jethar's Weapons and Armor~
+You find yourself in a large room filled with warriors ... large, barbaric, 
+obnoxious, and smelly warriors.  The room itself is bare, you can see no 
+weapons at all except for the ones behind the large counter, out of reach to 
+everyone in the room except for a single man behind the counter that would make
+the perfect picture of what most Promerian citizens would call a merendoth. 
+Of all the people in the room, not one takes notice of you over the roar of
+shouting and generally whining to be next in line to be served, it appears that
+quite a few of them are about to come to blows as they shove each other aside
+in frustration.  The merendoth behind the counter pays no attention as he
+speaks quietly with a redheaded woman in chainmail.  Beside the counter is a 
+stairway leading to the second story of the building, the shouting you hear 
+coming from above promise to be no better than it is down here.  The floor and
+walls do not appear to be too safe, you can hear a hollow knock below your feet
+as you step across the room.  The door to your north leads back out into Main
+Street.
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1939
+D4
+~
+~
+0 0 2056
+D5
+~
+~
+0 0 2055
+S
+#1948
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#1949
+~
+~
+0 0 0
+Chera's Veggies~
+This is a busy place.  Customers shuffle around, bartering for lower
+prices on the wide selection of vegetables.  You can still hear your mother
+...  Wait a minute ...  Something seems awfully familiar about this place,
+you can't quite make out what it is though ...  Anyway, all sorts of dried
+vegetables have been stocked in many sturdy, wood baskets that lie all over
+this huge building.  At the other side of the room in front of the counter,
+an older man seems to have found a way to squeeze in a small wagon full of
+frock, a sour, velvet vegetable no bigger than an ear of corn, said to be
+good for your health.  He appears to be bartering it's worth with Chera ... 
+That name sounds familiar ...  Chera simply nods and replies to his every
+demand with a horrible voice and a nasty smirk.  
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1938
+S
+#1950
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 1951
+S
+#1951
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1936
+D1
+~
+~
+0 0 1950
+S
+#1952
+~
+~
+0 0 0
+The Ranger Guild Store~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 1936
+S
+#1953
+~
+~
+0 0 0
+A Small Shop~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 1937
+S
+#1954
+~
+~
+0 0 0
+Inside the Flaming Arrow Guild~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1985
+D1
+~
+~
+0 0 1955
+S
+#1955
+~
+~
+0 0 0
+Entrance to the Flaming Arrow Guild~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 1939
+D3
+~
+~
+0 0 1954
+S
+#1956
+~
+~
+0 0 0
+Town Hall~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1934
+D2
+~
+~
+0 0 1960
+S
+#1957
+~
+~
+0 0 0
+Entrance to the Granary~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1969
+D2
+~
+~
+0 0 1961
+S
+#1958
+~
+~
+0 0 0
+A Leather Shop~
+You are in what appears to be a leather shop.  The structure is old and the 
+weather has gotten to it, the wood creaks beneath your weight, but somehow it
+has managed to hold up over the years.  All sorts of clothing hang from the
+walls, from jackets, caps and boots, even some armor it seems.  Oddly enough, a
+glowing ball like the kind magicians use hang from the ceiling ... FLOATS ... 
+in mid air!  Behind an old, scratched counter, an odd man stands there, he
+seems to be amused by your notice of the ball.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1968
+S
+#1959
+~
+~
+0 0 0
+Entrance to the Granary~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1963
+S
+#1960
+~
+~
+0 0 0
+Town Hall~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1956
+S
+#1961
+~
+~
+0 0 0
+The Granary~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1957
+D3
+~
+~
+0 0 1962
+S
+#1962
+~
+~
+0 0 0
+The Granary~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1961
+D2
+~
+~
+0 0 1905
+D3
+~
+~
+0 0 1963
+S
+#1963
+~
+~
+0 0 0
+The Granary~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1959
+D1
+~
+~
+0 0 1962
+S
+#1964
+~
+~
+0 0 0
+Crescent Road (West)~
+Here Crescent Road continues from south to north.  You only take notice of a 
+couple of people passing by, this part of the city is practically deserted.  
+To the south, the wall spanning east to west across the city stretches above 
+you, casting a shadow over you.  The large, wooden gate is open, however,
+giving you access to the southern portion of the city.  To the north, Crescent
+Road continues, moving on past a couple of buildings, but you cannot see any
+doors or windows.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1965
+D2
+~
+~
+0 0 1911
+S
+#1965
+~
+~
+0 0 0
+Crescent Road (West)~
+Here Crescent Road continues from south to north.  You only take notice of a
+few people passing by, this part of the city is almost deserted.  To the south,
+the wall spanning east to west across the city can be seen, the gate is open,
+giving you access to the southern portion of the city.  To the north, Crescent
+Road continues past a couple of buildings to your northeast, while to the
+northwest, you can see the western gates of Promeria open out into the 
+wilderness.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1966
+D2
+~
+~
+0 0 1964
+S
+#1966
+~
+~
+0 0 0
+The Western Gates of Promeria~
+You find yourself at the western gates of Promeria.  A great stone wall, well
+over 20 feet tall stands over you, supported by two smaller towers, a large
+gate rests between them, guards are posted by the gates and you see archers in
+the tower, watching all who come in and out of the city.  Outside of the gate
+a dirt road leads away from the city, but it leads into a dense forest you can
+see very clearly even from here.  To your north and south, Crescent Road 
+continues it's path around the entire city.  A short walk to your west, you can
+see both the city's granary, as well as a large theatre held for all sorts of
+shows.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1998
+D1
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1965
+S
+#1967
+~
+~
+0 0 0
+Main Street (West)~
+Main Street continues from east to west.  Most people you pass by look at you
+as if in shock, most of them are townspeople, by their clothes and the way they
+seem to move, you figure they are coming from the theatre or the hall of art.
+To the west, you can see the large gates to the west wall of the city, and to
+the south a huge pair of double doors to a large stone building, you wonder
+what that could be...  To the northeast you can see one of the entrances into
+the theatre.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1968
+D2
+~
+~
+0 0 1959
+D3
+~
+~
+0 0 1966
+S
+#1968
+~
+~
+0 0 0
+Main Street (West)~
+Main Street continues from east to west.  Here, quite a crowd has gathered, 
+most exit from the theatre just a few seconds away to your north, the people 
+are definitely upperclass by the way they are dressed, and most seem to notice
+you stick out quite a bit from the rest of them, most just glance at you and 
+turn away to what they were doing but some are bold enough to make faces and
+whisper in each other's ears, what a great day... Studying the area further you
+take notice of what appears to be a small, run down shop just right across from
+the theatre!  It is definitely old, and most of the people seem to go out of 
+their way NOT to look at it.  To your east, you can see another entrance into
+the theatre and another pair of steel doors like the ones to your southwest.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1974
+D1
+~
+~
+0 0 1969
+D2
+~
+~
+0 0 1958
+D3
+~
+~
+0 0 1967
+S
+#1969
+~
+~
+0 0 0
+Main Street (West)~
+Main Street continues from east to west.  The people that pass by are mostly
+townspeople coming to and from the theatre.  Many of them look at you as if you
+were a muddy dog that just came out of the sewers.  To the west, you can see
+Main Street continue past the west wing entrance of the theatre as well as an
+odd looking shop of some sort.  Just to your south, you see a large pair of 
+steel doors embedded in a stone building, it looks like it has a lock on it.
+To your east, you can see what is most likely the Town Hall for Promeria, then
+the intersection of Main and Ethor.
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1970
+D2
+~
+~
+0 0 1957
+D3
+~
+~
+0 0 1968
+S
+#1970
+~
+~
+0 0 0
+Main Street (West)~
+Main Street continues from east to west.  Here, quite a crowd has gathered,
+most exit from the theatre just a few seconds away to your north, the people
+are definitely upper class by the way they are dressed, and most seem to notice
+you stick out quite a bit from the rest of them, most just glance at you and
+and turn away quickly to continue wherever they were going, while a few others
+seem to be more bold by their expressions of disapproval and disgust.  To your
+east, Ethor Street moves past you from south to north through the heart of
+Promeria. To your south is a large, stone building, you cannot make out any
+entrance from this side.
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1972
+D1
+~
+~
+0 0 1935
+D3
+~
+~
+0 0 1969
+S
+#1971
+~
+~
+0 0 0
+Main Street (North)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1988
+D2
+~
+~
+0 0 1935
+S
+#1972
+~
+~
+0 0 0
+East Wing Entrance of the Theatre~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1979
+D2
+~
+~
+0 0 1970
+D3
+~
+~
+0 0 1973
+S
+#1973
+~
+~
+0 0 0
+The Coin Booth~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1972
+D3
+~
+~
+0 0 1974
+S
+#1974
+~
+~
+0 0 0
+West Wing Entrance of the Theatre~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1977
+D1
+~
+~
+0 0 1973
+D2
+~
+~
+0 0 1968
+S
+#1975
+~
+~
+0 0 0
+Entrance to the Hall of the Arts~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1976
+D3
+~
+~
+0 0 1998
+S
+#1976
+~
+~
+0 0 0
+Hall of the Arts~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1983
+D2
+~
+~
+0 0 1975
+S
+#1977
+~
+~
+0 0 0
+West Wing of the Theatre~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1982
+D1
+~
+~
+0 0 1978
+D2
+~
+~
+0 0 1974
+S
+#1978
+~
+~
+0 0 0
+Center of the Theatre~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1979
+D3
+~
+~
+0 0 1977
+S
+#1979
+~
+~
+0 0 0
+East Wing of the Theatre~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1980
+D2
+~
+~
+0 0 1972
+D3
+~
+~
+0 0 1978
+S
+#1980
+~
+~
+0 0 0
+East Wing of the Theatre~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1991
+D2
+~
+~
+0 0 1979
+S
+#1981
+~
+~
+0 0 0
+Up on the Stage~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1992
+S
+#1982
+~
+~
+0 0 0
+West Wing of the Theatre~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1993
+D2
+~
+~
+0 0 1977
+S
+#1983
+~
+~
+0 0 0
+Hall of the Arts~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1994
+D2
+~
+~
+0 0 1976
+S
+#1984
+~
+~
+0 0 0
+The Archery Field~
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 1985
+S
+#1985
+~
+~
+0 0 0
+The Training Grounds~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1984
+D2
+~
+~
+0 0 1954
+D3
+~
+~
+0 0 1986
+S
+#1986
+~
+~
+0 0 0
+The Obstacle Course~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1985
+S
+#1987
+~
+~
+0 0 0
+Entrance to the Gold Dragon Inn~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2001
+D3
+~
+~
+0 0 1988
+S
+#1988
+~
+~
+0 0 0
+Main Street (North)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1989
+D1
+~
+~
+0 0 1987
+D2
+~
+~
+0 0 1971
+S
+#1989
+~
+~
+0 0 0
+Main Street (North)~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1990
+D2
+~
+~
+0 0 1988
+S
+#1990
+~
+~
+0 0 0
+Main Street (North)~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 2026
+D2
+~
+~
+0 0 1989
+S
+#1991
+~
+~
+0 0 0
+Backstage~
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1980
+D3
+~
+~
+0 0 1992
+S
+#1992
+~
+~
+0 0 0
+Backstage~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1991
+D2
+~
+~
+0 0 1981
+D3
+~
+~
+0 0 1993
+S
+#1993
+~
+~
+0 0 0
+Backstage~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 1992
+D2
+~
+~
+0 0 1982
+S
+#1994
+~
+~
+0 0 0
+Hall of the Arts~
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1983
+S
+#1995
+~
+~
+0 0 0
+Crescent Road (West)~
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 1996
+S
+#1996
+~
+~
+0 0 0
+Crescent Road (West)~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1995
+D2
+~
+~
+0 0 1997
+S
+#1997
+~
+~
+0 0 0
+Crescent Road (West)~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 1996
+D2
+~
+~
+0 0 1998
+S
+#1998
+~
+~
+0 0 0
+Crescent Road (West)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 1997
+D1
+~
+~
+0 0 1975
+D2
+~
+~
+0 0 1966
+S
+#1999
+~
+~
+0 0 0
+Crescent Road (East)~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2000
+D2
+~
+~
+0 0 1940
+S
+#2000
+~
+~
+0 0 0
+Crescent Road (East)~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2021
+D2
+~
+~
+0 0 1999
+S
+#2001
+~
+~
+0 0 0
+The Lounge~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 2002
+D2
+~
+~
+0 0 1987
+S
+#2002
+~
+~
+0 0 0
+Beginning of the Dragon Hallway~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2014
+D1
+~
+~
+0 0 2003
+D2
+~
+~
+0 0 2008
+D3
+~
+~
+0 0 2001
+S
+#2003
+~
+~
+0 0 0
+The Golden Dragon Hallway~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2015
+D1
+~
+~
+0 0 2004
+D2
+~
+~
+0 0 2009
+D3
+~
+~
+0 0 2002
+S
+#2004
+~
+~
+0 0 0
+The Golden Dragon Hallway~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2016
+D1
+~
+~
+0 0 2005
+D2
+~
+~
+0 0 2010
+D3
+~
+~
+0 0 2003
+S
+#2005
+~
+~
+0 0 0
+The Golden Dragon Hallway~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2017
+D1
+~
+~
+0 0 2006
+D2
+~
+~
+0 0 2011
+D3
+~
+~
+0 0 2004
+S
+#2006
+~
+~
+0 0 0
+The Golden Dragon Hallway~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2018
+D1
+~
+~
+0 0 2007
+D2
+~
+~
+0 0 2012
+D3
+~
+~
+0 0 2005
+S
+#2007
+~
+~
+0 0 0
+The Golden Dragon Hallway~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2019
+D2
+~
+~
+0 0 2013
+D3
+~
+~
+0 0 2006
+S
+#2008
+~
+~
+0 0 0
+Room 12 of the Gold Dragon~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2002
+S
+#2009
+~
+~
+0 0 0
+Room 11 of the Gold Dragon~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2003
+S
+#2010
+~
+~
+0 0 0
+Room 10 of the Gold Dragon~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2004
+S
+#2011
+~
+~
+0 0 0
+Room 9 of the Gold Dragon~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2005
+S
+#2012
+~
+~
+0 0 0
+Room 8 of the Gold Dragon~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2006
+S
+#2013
+~
+~
+0 0 0
+Room 7 of the Gold Dragon~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2007
+S
+#2014
+~
+~
+0 0 0
+Room 1 of the Gold Dragon~
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 2002
+S
+#2015
+~
+~
+0 0 0
+Room 2 of the Gold Dragon~
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 2003
+S
+#2016
+~
+~
+0 0 0
+Room 3 of the Gold Dragon~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2004
+S
+#2017
+~
+~
+0 0 0
+Room 4 of the Gold Dragon~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2005
+S
+#2018
+~
+~
+0 0 0
+Room 5 of the Gold Dragon~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2006
+S
+#2019
+~
+~
+0 0 0
+Room 6 of the Gold Dragon~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2007
+S
+#2020
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2021
+~
+~
+0 0 0
+Crescent Road (East)~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2022
+D2
+~
+~
+0 0 2000
+S
+#2022
+~
+~
+0 0 0
+Intersection at Cawley Street and Crescent Road~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2031
+D2
+~
+~
+0 0 2021
+D3
+~
+~
+0 0 2023
+S
+#2023
+~
+~
+0 0 0
+Cawley Street~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2022
+D3
+~
+~
+0 0 2024
+S
+#2024
+~
+~
+0 0 0
+Intersection at Cawley and Gailbreath~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2029
+D1
+~
+~
+0 0 2023
+D3
+~
+~
+0 0 2025
+S
+#2025
+~
+~
+0 0 0
+Cawley Street~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2024
+D3
+~
+~
+0 0 2026
+S
+#2026
+~
+~
+0 0 0
+Cawley Street~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2025
+D3
+~
+~
+0 0 1990
+S
+#2027
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2028
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 2029
+S
+#2029
+~
+~
+0 0 0
+Gailbreath Street~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2034
+D1
+~
+~
+0 0 2030
+D2
+~
+~
+0 0 2024
+D3
+~
+~
+0 0 2028
+S
+#2030
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 2029
+S
+#2031
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 2022
+S
+#2032
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2039
+S
+#2033
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 2034
+S
+#2034
+~
+~
+0 0 0
+Gailbreath Street~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2037
+D1
+~
+~
+0 0 2033
+D2
+~
+~
+0 0 2029
+D3
+~
+~
+0 0 2035
+S
+#2035
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 2034
+S
+#2036
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2037
+~
+~
+0 0 0
+Gailbreath Street~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2042
+D1
+~
+~
+0 0 2038
+D2
+~
+~
+0 0 2034
+D3
+~
+~
+0 0 2040
+S
+#2038
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D3
+~
+~
+0 0 2037
+S
+#2039
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2044
+D2
+~
+~
+0 0 2032
+S
+#2040
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 2037
+S
+#2041
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2042
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 2043
+D2
+~
+~
+0 0 2037
+S
+#2043
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D1
+~
+~
+0 0 2044
+D3
+~
+~
+0 0 2042
+S
+#2044
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+D2
+~
+~
+0 0 2039
+D3
+~
+~
+0 0 2043
+S
+#2045
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2046
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2047
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#0
+
+#RESETS
+M 0 1751   1 1751  1	* A beautiful, blond haired woman
+M 0 1753   1 1853  1	* `aa dark figure``
+M 0 1755  50 1844  2	* A promerian guard
+M 0 1754  50 1844  2	* A promerian guard
+M 0 1754  50 1843  2	* A promerian guard
+M 0 1754  50 1844  2	* A promerian guard
+M 0 1754  50 1843  2	* A promerian guard
+M 0 1755  50 1843  2	* A promerian guard
+M 0 1756   1 1840  1	* Felicia
+M 0 1757   1 1807  1	* Lucilia
+S
+
+#SHOPS
+1752  5  0  0  0  0 	150  75 	0 23	* Neanders
+1756 12 33 28  4 11 	100  80 	0 23	* Felicia
+0
+
+#SPECIALS
+M 1751 spec_cast_mage		* A beautiful, blond haired woman
+S
+
+#$

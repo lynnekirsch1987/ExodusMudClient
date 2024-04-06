@@ -1,0 +1,3095 @@
+#AREA
+ 6~
+unicorn.are~
+`kUnicorn Point``~
+{35 50} Serenity  `kUnicorn Point``~
+`6 ``~
+10352 10552
+11 E 0
+0 1
+ragnar~
+#MOBILES
+#10352
+squints~
+Squints the hobbit~
+Perpetual isolation has not made Squints a very pleasant hobbit to deal with.
+~
+Squint the hobbit is short and robust.  His isolation from the world
+and sunlight has altered his appearance unpleasantly. Worn and tattered 
+clothing hangs losely about his pale and wrinkled skin.  
+~
+goblin~
+0 0 0 0
+ABTV J -1000 0
+60 60 10d90+6590 1d10+100 10d5+50 none
+-5 -5 -5 999 1
+0 -1 EFK ABD ABDQ C
+stand stand male 3502
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 200 100
+5
+~
+~
+#10353
+oak tree~
+`dthe massive Oak Tree``~
+`dA massive Oak Tree grows from the center of this room.``
+~
+`dThe Oak Tree's presence is staggering.  His enormous trunk and limbs
+span 100 feet in diameter.  His foliage is a dull yellow with signs of rot. 
+His bark is a thick, dark-brown hardwood.  `` 
+~
+unique~
+0 0 0 0
+ABG DFJ -800 0
+45 45 10d60+4000 10d10+200 8d5+27 thwack
+-40 -40 -40 999 -40
+0 -1 DNO ABDESX ABSX H
+stand stand neutral 100
+ACH D 15 15 15 15 15 15 0
+giant hardwood~
+1 5 250 0
+2
+oak.voc~
+~
+#10354
+lady lake~
+The Lady of the Lake~
+The Lady of the Lake hovers above the water radiating light.
+~
+`hThe shimmering avatar of `kSerenity `hhovers above the tranquil water. 
+Her robe of gold glitters against the sun.  Flowing ribbons of `lblue `hand
+`owhite `hmove fluidly with the crisp wind.  Her beauty radiates all across
+the pond.  She smiles and offers you sanctuary from your journey.  
+~
+human~
+0 0 0 0
+ABGa JNV 1000 0
+55 55 10d200+4059 20d20+310 5d12+30 divine
+-20 -20 -20 999 -4
+0 -1 FH ABDOS C 0
+stand stand female 0
+AEHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 300
+6
+lady.voc~
+ladylake.scr~
+#10355
+Unicorn~
+The unicorn~
+`lThe enchanted `oUnicorn`l is resting on her fleece.``
+~
+The legendary unicorn was shaped from a horse.  The unicorn's coat is
+white, its hair short and bristly.  This animal has a horn in the middle of
+its forehead that measures 15 inches.  The horn of a unicorn allows it to
+cast both attack and defense magics of limited diversity but great
+effectiveness, in addition to its extremely effective use as a weapon.  
+Legends have it that possesion of a unicorn horn will give the adventurer 
+holding it the same combat abilities as the unicorn.  The mystical properties 
+of the unicorn's horn makes it highly valuable.  
+~
+unique~
+0 0 0 0
+ABG DFHNV 1000 0
+50 50 50d10+5750 25d15+300 9d10+27 thrust
+-20 -20 -24 999 -30
+0 -1 HIKMO ABCJOS 0 Q
+stand stand female 0
+AV CQW 16 16 16 16 16 16 0
+large fur~
+0 0 0 100
+4
+~
+~
+#10356
+sprite~
+A dancing sprite~
+`oA dancing sprite giggles and points at you when you enter the room.``
+~
+The sprites are the physical manifestation of magic.  Sprites live from
+moment to moment, from sensation to sensation.  Inherently shallow, they
+must gratify their lust for sights, sounds, smells, and feelings
+vicariously.  They are particulary fascinated by humans and spy on them
+continually, mimicking and imitating every nuance of human life.  They will
+often try to entrap a human and lure him into their homes.  
+~
+elf~
+0 0 0 0
+ABCGR EFJNOQVb -500 3
+42 42 10d200+1540 25d10+100 4d9+20 peck
+-14 -14 -14 999 -2
+0 -1 FHU ABCR BC DZ
+stand stand female 90
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+tiny flesh~
+0 0 0 0
+4
+~
+~
+#10357
+troll~
+A nasty troll~
+An ugly brute of a troll is here emitting nasty odors.
+~
+This mean brute is horrendous.  He stand 7 feet tall and his limbs reach
+down to his knees.  His dark, thick and dirty fur covers his entire body. 
+His protruding forehead complements his equally grotesque fangs that drool
+with saliva.  
+~
+troll~
+0 0 0 0
+ABCGTc FJNVc -750 0
+50 50 10d60+4309 1d40+200 8d4+22 claw
+-19 -19 -19 999 -4
+0 -1 CDFHIO ABG BE HKPT
+stand stand male 140
+ABHMV ABCDEFGHIJKUVa 16 16 16 16 16 16 0
+large flesh~
+0 0 0 200
+3
+~
+~
+#10358
+horse~
+A horse~
+`oA flawless white horse is here, busily grazing on grass.``
+~
+The beautiful white horse gazes back at you serenely.  
+This beast doesn't have many enemies here on the peaceful plain.  
+Oblivious to your presence, it continues grazing.  
+~
+unique~
+0 0 0 0
+AGHWe V 500 0
+36 36 50d10+1400 2d10+320 6d5+17 charge
+-10 -10 -10 999 0
+0 -1 CDFHI B 0 0
+stand stand female 0
+AG ACFQ 13 13 13 13 13 13 0
+medium flesh~
+0 2 400 400
+4
+~
+~
+#10359
+adventurer~
+An adventurer~
+A weary adventurer looks as if he's been travelling for quite some time.
+~
+This fit adventurer looks like he can take on any adversary.  His years
+of training has perfected his skills.  His adventures have brought him to
+Unicorn Point to search for a mythical unicorn.  
+~
+human~
+0 0 0 0
+AGH V 0 0
+36 36 10d60+1049 3d30+100 7d4+19 slash
+-9 -9 -9 999 0
+0 -1 FHKN 0 0 BP
+stand stand male 549
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#10360
+the skandranon~
+The skandranon~
+`nThe regal Skandranon is here picking up some straws to complete its nest.``
+~
+`oThis regal beast has half the body of an eagle and half of a lion.  
+The `kSkandranon's `opowerful legs and swift beak and wings make him a 
+worthy adversary.  When threatened, he will fiercely protect his young to
+the death.  
+~
+song bird~
+0 0 0 0
+ABCNR DFJTV 750 0
+90 100 25000d1+100 35d15+150 20d12+5 shbite
+-19 -19 -19 999 -6
+DL 59 5 CDFHIMU ABTbc D H
+stand stand male 0
+AGW ACDEFHKPQUZa 24 24 24 24 24 24 0
+large feather~
+0 0 200 500
+3
+~
+~
+#10361
+bandit~
+A bandit~
+A bandit eyes your belongings and gazes at you mischieviously.
+~
+This bandit stands up straight and quickly wraps his overcoat around
+himself.  Carefully examining him, you notice several daggers sticking out
+of his coat.  He looks at you and grins.  Nervously, you wonder what
+he could be thinking.  
+~
+human~
+0 0 0 0
+AGS PQV -675 0
+38 38 10d50+1659 2d10+200 5d6+25 stab
+-8 -8 -8 999 1
+0 -1 BEFHK 0 BP T
+stand stand male 1093
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 150 100
+2
+~
+~
+#10362
+Baby gryphon~
+The baby gryphon~
+The baby gryphon is here trying to learn how to fly.
+~
+This baby gryphon is a small replica of the Skandranon.  His feathers
+have not yet grown, and he looks almost humorous being so bald.  
+White cotton-like fur covers his body.  If not for his dangerous pin-sharp 
+talons and beak, he would be quite adorable and cuddly. 
+~
+unique~
+0 0 0 0
+AGN TV 1000 0
+40 40 10d60+2140 16d16+50 5d6+21 peck
+-10 -10 -10 999 1
+0 -1 FHMU A 0 0
+stand stand neutral 0
+AW ACPU 14 14 14 14 14 14 0
+small feather~
+0 0 0 0
+4
+~
+~
+#10363
+rough adventurer~
+A bitter ruffian~
+A rugged adventurer examines you closely and laughs uproariously.
+~
+These ruffians were once good men, but the harsh weather conditions forced them
+to alter their instincts.  Their only aspiration is getting out of this dreaded
+place.  In the meantime, they will take advantage of your company...  
+~
+human~
+0 0 0 0
+ABFX P -825 3
+39 39 50d10+2100 45d21+75 4d7+35 slash
+-12 -12 -12 999 0
+0 -1 IJ B 0 0
+stand stand neutral 5075
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 200
+2
+~
+~
+#10364
+swifthand~
+Swifthand~
+A brawny ex-mercenary, Swifthand polishes stands here polishing weapons til they shine.
+~
+Swifthand, the beatup, seasoned warrior has retired from a life of
+battles and brawls.  Over the years, he has acquired many weapons from his
+defeated foes.  He walks you to a rack and shows you his prized weapons.  
+~
+human~
+0 0 0 0
+ABGN J 1000 0
+50 50 50d10+900 10d30+200 5d10+25 punch
+-19 -19 -19 999 -4
+0 -1 EIV ABCD 0 0
+stand stand male 10293
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 200
+7
+~
+~
+#10365
+water sprite~
+A water sprite~
+The water is home to some very mischievious water sprites.
+~
+~
+unique~
+0 0 0 0
+ABGS BFQV -650 0
+46 46 10d60+3950 50d10+75 5d5+20 bite
+-12 -12 -12 999 1
+0 -1 FH ABR 0 H
+stand stand either 0
+AHV ABCF 15 15 15 15 15 15 0
+tiny feather~
+0 0 0 100
+1
+watersprite.voc~
+~
+#0
+
+#OBJECTS
+#10352
+key~
+a key~
+A thin wooden key lays forgotten on the ground.~
+wood~
+0
+key 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 10 0 G
+#10353
+post sign~
+a sign~
+`kA weather beaten hardwood post has been staked into the ground.``~
+hardwood~
+0
+trash 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 9999 0 P
+E
+sign~
+There are treasures for the daring and intrepid among you and death for
+the foolish...  
+~
+E
+sign~
+nod
+show
+~
+E
+treasures~
+Treasures for the brace and death for the foolish
+~
+E
+sign~
+Treasures for the brave and death for the foolish.
+~
+#10354
+troll chest~
+a heavy iron chest~
+A massive iron chest stands here, well protected against wind and time.~
+iron~
+0
+container 2
+EY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CFG ACD EFGLN DF CFG
+0
+0
+40 700 0 P
+#10355
+dusty sword~
+a dusty sword~
+A heavy metal sword, its once glossy edge covered with dust, lays here.~
+iron~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A C ABC AB 0
+0
+0
+39 164 840 G
+A
+18 1
+#10357
+troll gauntlets~
+a pair of troll gauntlets~
+A pair of troll's gauntlets sits here, enduring the harsh weather.~
+iron~
+0
+armor 2
+CEJ
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+C C C 0 0
+0
+0
+47 50 500 G
+A
+5 1
+A
+1 1
+E
+gauntlets~
+gauntlets
+~
+#10358
+troll helmet~
+a troll's helmet~
+A helmet made for the head of a troll glows with a dark aura.~
+iron~
+0
+armor 2
+CEHJ
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C C C 0 0
+0
+0
+43 49 500 G
+A
+5 1
+A
+2 -1
+#10359
+dirty scarf~
+a dirty scarf~
+A dirty scarf lays on the ground collecting dust.~
+cotton~
+0
+clothing 2
+S
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 10 20 A
+#10360
+troll sleeves~
+some troll sleeves~
+Some blood stained troll sleeves are here.~
+iron~
+0
+armor 2
+AJ
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+C C C 0 0
+0
+0
+43 84 300 P
+#10361
+throwing dagger~
+a throwing dagger~
+A sharp throwing dagger is partially hidden here.~
+metal~
+0
+weapon 2
+AB
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B C ABC ABD DJ
+0
+0
+38 10 15 P
+#10362
+Unicorn Point~
+a unicorn point~
+`aA `oUnicorn Point`a is here hovering above the ground.``~
+ivory~
+0
+weapon 2
+ABFGKLS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 AC D BD A
+0
+0
+43 45 6950 P
+A
+19 2
+A
+18 2
+#10363
+overcoat~
+an overcoat~
+An overcoat with many pockets is here blowing in the wind.~
+soft leather~
+0
+container 2
+S
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BCDE A 0 BD EG
+0
+0
+51 90 55 G
+#10364
+heavy axe~
+a heavy axe~
+A heavy axe waits here to decapitate someone.~
+steel~
+0
+weapon 2
+I
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC BC BC D 0
+0
+0
+47 1000 9000 G
+A
+18 3
+A
+19 5
+#10365
+gryphon talons~
+`kgr`dyp`kho`dn `ktalons``~
+A set of gryphon talons has been dropped here.~
+scales~
+0
+armor 2
+AISY
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+70 100 11049 P
+A
+19 3
+#10366
+dark bark~
+the dark bark of a tree~
+Some dark bark shaved from a tree rests on the ground.~
+hardwood~
+0
+armor 2
+S
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C C C 0 0
+0
+0
+44 80 118 G
+A
+2 -1
+#10367
+oak branch~
+an oak branch~
+A thick heavy branch has fallen to the ground.~
+hardwood~
+0
+weapon 2
+GS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C BC BC 0 0
+0
+0
+40 50 0 G
+A
+19 1
+A
+18 -1
+#10368
+crystal sword~
+`ha crystal sword``~
+`oA crystal sword traps and sparkles light.``~
+glass~
+0
+weapon 2
+AS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+A BC BC AB 0
+0
+0
+55 120 18920 P
+A
+19 3
+#10369
+enchanted stone rock~
+an enchanted stone~
+An enchanted rock floats in mid-air.~
+sandstone~
+0
+warp_stone 2
+AS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+37 10 9000 P
+#10370
+oak ring~
+a ring made of solid oak~
+An oak ring is spinning on the ground.~
+hardwood~
+0
+jewelry 2
+GS
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 10 600 P
+A
+5 1
+#10371
+gryphon egg~
+a gryphon's egg~
+`gA glowing `kGryphon egg `gis radiating energy.~
+shell~
+0
+warp_stone 2
+AS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 20 136920 P
+A
+4 1
+#10372
+serene necklace~
+a fragile necklace~
+A necklace, imprinted with the name `gSerenity`d lays here.``~
+ivory~
+0
+jewelry 2
+BS
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 20 5040 P
+A
+18 1
+#10373
+glass dagger~
+`oa glass dagger``~
+A sharp piece of glass shines brightly in the sun.~
+bulletproof glass~
+0
+weapon 2
+ABGIS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B AC ABC A 0
+0
+0
+55 38 30290 P
+A
+18 1
+A
+19 3
+#10374
+ruby sword~
+`ia ruby sword``~
+`iA spectacular sword made of solid ruby lights up the room.``~
+stone~
+0
+weapon 2
+BGIS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+A AC BC A G
+0
+0
+46 239 35904 P
+A
+19 2
+A
+12 10
+A
+18 3
+A
+5 1
+#10375
+holy mace~
+a holy mace~
+`gA mace reflecting a deity's divinity shines with a holy aura.``~
+metal~
+0
+weapon 2
+ABGI
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+C BC BC ABE 0
+0
+0
+45 5 11029 P
+A
+18 1
+A
+19 2
+A
+12 5
+#10376
+devil bite~
+the devil's bite~
+A dark malevolent force encases the metal object laying on the ground.~
+ethereal~
+0
+weapon 2
+CEGJLMS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 ABC AC AE C
+0
+0
+50 70 9890 P
+A
+4 -2
+A
+13 -20
+A
+19 2
+A
+18 2
+#10377
+peacekeeper~
+`lthe PeaceKeeper``~
+`lA wide blunt object lays here ready to do justice.``~
+ebony~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 AC BC BDE 0
+0
+0
+30 52 9930 P
+A
+18 2
+A
+19 1
+#10379
+troll chest gold~
+`ksome glittering gold``~
+`kGlittering gold sparkles before your eyes in an eye staggering display of wealth.``~
+gold~
+0
+money 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+DFGHIJ BEF 0 0 0
+0
+0
+43 5000 0 P
+#10380
+waterhole spring~
+`la waterhole``~
+`lA waterhole appears as a magnificent mirage in the middle of the desert.``~
+ethereal~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 0 0 P
+#10381
+China rug~
+China rug~
+`kA `iChina Rug `kis here for meditation.~
+hemp~
+0
+furniture 2
+BGIS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD DFGHIJ E CFG CFG
+0
+0
+0 0 0 P
+#10382
+feather skandranon~
+`gthe feather of the`n Skandranon``~
+`gA gleaming feather sparkles here.``~
+feather~
+0
+feather 2
+HQSYZd
+0
+A
+0
+0
+0
+10382
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 0 0 P
+#10552
+holy boots light runicset~
+`kholy boots of light``~
+`kThese boots glow with a radiant holy light.``~
+energy~
+0
+armor 2
+AIKLRSTYad
+BJKL
+AG
+0
+0
+0
+10552
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+1 0 100000 P
+A
+19 5
+A
+18 5
+A
+12 15
+A
+13 15
+A
+24 -4
+A
+26 1
+A
+4 1
+A
+3 1
+A
+5 1
+A
+2 1
+A
+1 1
+#0
+
+#ROOMS
+#10352
+50 50
+~
+~
+~
+0 0 0
+The Gateway~
+Leaving the beauty of the land undisturbed, a gate of immense proportions
+stands resolute.  Made of delicately carved, gleaming, translucent marble and
+quartz, the gate allows sunlight to pass through it to the ground below,
+providing perfect weather for the plant life underneath.  Finely
+etched drawings of a unicorn scale the gates, allowing it both power and
+mystery.  Vaguely recalling fabled stories of unicorns, your attention is
+drawn by sounds of howling winds bringing your focus to the north.  Through
+the collection of dust and wind, your blurred vision reveals a dimly lit
+trail to the north.  Fighting back the tears from the dust, you see signs of
+a scuffle to the east.  Senses of foreboding danger fill the air, tensing
+every part of your body.  
+~
+0 CGHN 12
+0
+~
+I 0 D0
+~
+~
+0 0 10355
+D1
+~
+~
+0 0 10353
+S
+#10353
+0 0
+~
+~
+~
+0 0 0
+The Struggle~
+Scanning your surroundings, you see a makeshift camp that was recently
+raided.  Pots and pans are scattered everywhere.  You see a pit of fire that
+has been recently put out, as you can still see the smoke from the
+twigs.  To the north and east lies a forest.  You see large, menacing 
+footprints leading to the east.  
+~
+0 HN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10356
+D1
+~
+~
+0 0 10360
+D3
+~
+~
+0 0 10352
+S
+#10354
+0 0
+~
+~
+~
+0 0 0
+The Struggle~
+Scanning your surroundings, you see a makeshift camp that was recently
+raided.  Pots and pans are scattered everywhere.  You see a pit of fire that
+has been recently put out, as you can still see the smoke from the
+twigs.  To the north and east lies a forest.  You see large, menacing 
+footprints leading to the east.  
+~
+0 CHN 0
+0
+~
+I 0 S
+#10355
+0 0
+~
+~
+~
+0 0 0
+A Dirt Road~
+A dry dirt road lies beneath your feet.  You suffer from the winds and dust 
+blowing into your eyes.  You look around and see an expansive forest to your 
+east and a long meandering road to the north.  You wonder if the dusty trail 
+will lead you anywhere but to more dirt.  
+~
+0 HN 10
+0
+~
+I 0 D0
+~
+~
+0 0 10378
+D1
+~
+~
+0 0 10356
+D2
+~
+~
+0 0 10352
+S
+#10356
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D2
+~
+~
+0 0 10353
+D3
+~
+~
+0 0 10355
+S
+#10357
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 CHN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10359
+D3
+~
+~
+0 0 10358
+S
+#10358
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 CHN 3
+0
+~
+I 0 D1
+~
+~
+0 0 10357
+D2
+~
+~
+0 0 10363
+S
+#10359
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D2
+~
+~
+0 0 10357
+S
+#10360
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 N 3
+0
+~
+I 0 D1
+~
+~
+0 0 10361
+D2
+~
+~
+0 0 10395
+D3
+~
+~
+0 0 10353
+D4
+~
+~
+0 0 10373
+S
+#10361
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10363
+D2
+~
+~
+0 0 10362
+D3
+~
+~
+0 0 10360
+S
+#10362
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10361
+D1
+~
+~
+0 0 10364
+S
+#10363
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10358
+D2
+~
+~
+0 0 10361
+D3
+~
+door~
+1 0 10377
+S
+#10364
+0 0
+~
+~
+~
+0 0 0
+A Clearing~
+Ahhh...  You have finally made it through the forest to a small clearing.
+Grass and blooming flowers cover this plain.  This verdant area is home to
+many species of wildlife.  To your north, east and south are more plains. 
+To your west, lies the forest.  
+~
+0 HN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10371
+D1
+~
+~
+0 0 10365
+D2
+~
+~
+0 0 10401
+D3
+~
+~
+0 0 10362
+S
+#10365
+0 0
+~
+~
+~
+0 0 0
+The Plains~
+You stare out across the panorama and see nothing but green.  The plentiful
+sunlight is warm and the air is exhilarating.  Life here, most obviously, 
+flourishes with wild abandon.  The plains are alive with sounds of chirping 
+birds playing under the foliage of the trees.  Sounds of horses galloping can 
+be heard from the distance.  
+~
+0 HN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10367
+D1
+~
+~
+0 0 10402
+D2
+~
+door~
+1 0 10366
+D3
+~
+~
+0 0 10364
+S
+#10366
+0 0
+~
+~
+~
+0 0 0
+A Hobbit Home~
+A beam of light leaks through the door and reveals a dark, gloomy cave. 
+A horrible stench fills the air.  The odor seems to originate from the
+darkest corner of the cave.  Behind the shadows, you see a small figure that
+resembles a hobbit.  He squints his eyes as he steps into the light and
+takes a good look at you.  The hobbit askes if you would like to buy some
+trinkets and points to his collection of meaningless objects.  
+~
+0 HN 0
+0
+~
+I 0 D0
+~
+door~
+1 0 10365
+S
+#10367
+0 0
+~
+~
+~
+0 0 0
+The Plains~
+You stare out across the panorama and see nothing but green.  The plentiful
+sunlight is warm and the air is exhilarating.  Life here, most obviously, 
+flourishes with wild abandon.  The plains are alive with sounds of chirping 
+birds playing under the foliage of the trees.  Sounds of horses galloping can 
+be heard from the distance.  
+~
+0 HN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10368
+D2
+~
+~
+0 0 10365
+D3
+~
+~
+0 0 10371
+S
+#10368
+0 0
+~
+~
+~
+0 0 0
+Beneath the Canopy of an Oak Tree~
+You hear thunderous sounds of roaring waters to the north.  You attempt
+to go north but an enormous oak tree blocks your path.  Studying the tree,
+you can see traces of what use to be a human.  You deduce that he must have
+angered some powerful wizard as a human and been turned into an oak tree to
+live his long life in agony.  The bitter oak tree stares at you with
+malicious intentions.  
+~
+0 HN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10374
+D2
+~
+~
+0 0 10367
+S
+#10369
+0 0
+~
+~
+~
+0 0 0
+The Plains~
+You stare out across the panorama and see nothing but green.  The plentiful
+sunlight is warm and the air is exhilarating.  Life here, most obviously, 
+flourishes with wild abandon.  The plains are alive with sounds of chirping 
+birds playing under the foliage of the trees.  Sounds of horses galloping can 
+be heard from the distance.  
+~
+0 CHN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10402
+S
+#10371
+0 0
+~
+~
+~
+0 0 0
+The Plains~
+You stare out across the panorama and see nothing but green.  The plentiful
+sunlight is warm and the air is exhilarating.  Life here, most obviously, 
+flourishes with wild abandon.  The plains are alive with sounds of chirping 
+birds playing under the foliage of the trees.  Sounds of horses galloping can 
+be heard from the distance.  You feel a cool breeze and hear sounds of 
+splashing water to the north.
+~
+0 HN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10372
+D1
+~
+~
+0 0 10367
+D2
+~
+~
+0 0 10364
+S
+#10372
+50 50
+~
+~
+~
+0 0 0
+In the Shade of a Pond~
+A pond of water has settled here embracing the shade of a grove of trees.  
+At the center of the pond you see a great weeping willow tree.  Even from the 
+distance you can tell that this tree is very old.  The sign of the willow's 
+age is apparent in its many-ringed bark and luxuriant leaves.  Dancing around 
+the tree are some lighthearted sprites.  These sprites have built a home in 
+the tree's enormous trunk.  
+~
+0 HN 7
+0
+~
+I 0 D2
+~
+~
+0 0 10371
+S
+#10373
+0 0
+~
+~
+~
+0 0 0
+Climbing a Mountain Trail~
+The trek up this mountain trail was more than you bargained for.  Looking
+over the side of this trail, you find a steep cliff.  A step closer to the 
+edge and you will plummet to your death.  Cautiously placing each foot in 
+front of the other, you progress slowly up the mountain.  
+~
+0 HN 5
+0
+~
+I 0 D0
+~
+~
+0 0 10386
+D1
+~
+~
+0 0 10385
+D5
+~
+~
+0 0 10360
+S
+#10374
+0 0
+~
+~
+~
+0 0 0
+Waterfall~
+You see a majestic waterfall running down a cliff and into a crystal
+clear lake.  The surrounding land is lush with plants.  Blooming wild
+roses and sunflowers color the area.  The fresh scent of the air and
+aroma of flowers rejuvenate you.  
+~
+0 HN 6
+0
+~
+I 0 D0
+~
+door~
+1 0 10375
+D2
+~
+~
+0 0 10368
+S
+#10375
+0 0
+~
+~
+~
+0 0 0
+The Fabled Unicorn~
+Drying yourself from the water, your eyes are suddenly drawn to a
+magnificent beast.  Lying on a bed of `kgolden `lfleece is the fabled
+`ounicorn.  `lSurrounding the `ounicorn `lare falling petals of `ired `land
+`owhite `lroses.  This enchanted vision entices your senses and sends your
+imagination whirring into motion.  
+~
+0 HN 0
+0
+~
+I 0 D2
+~
+door~
+1 0 10374
+S
+#10377
+0 0
+~
+~
+~
+0 0 0
+A Repulsive Camp~
+You see a messy camp.  To the left is a rack for weapons and armor. 
+Careful inspection of the equipment reveals marks that show countless battles 
+etched into the surfaces of these armors and weapons.  The years of 
+bloodstains have seeped into the equipment, eroding the material.  To the 
+right you see a fortified prison.  You can hear screams of torure, disease 
+and hunger.  At the center of the camp there is a large pit of fire and a pot.
+There seems to be remains of human carcass in the pot.  Perhaps the dead 
+bodies were past adventurers like yourself.  
+~
+0 HN 0
+0
+~
+I 0 D0
+~
+flap~
+97 10352 10392
+D1
+~
+door~
+1 0 10363
+S
+#10378
+0 0
+~
+~
+~
+0 0 0
+Along the Dirt Road~
+The dirt road continues here.  You suffer from the winds and dust
+blowing into your eyes.  Your throat hurts and your skin is dry.  Will you
+die from dehydration?  Or will you be able to find a water hole?  There are
+three paths before you, chose wisely and perhaps you may live to find...  
+~
+0 HN 10
+0
+~
+I 0 D0
+~
+~
+0 0 10380
+D1
+~
+~
+0 0 10379
+D2
+~
+~
+0 0 10355
+D3
+~
+~
+0 0 10381
+S
+#10379
+0 0
+~
+~
+~
+0 0 0
+A Dirt Road~
+You have succedded in finding more dirt.  You feel yourself growing wearier
+by the second.  Your hopes of finding salvation are dim.  The path to the 
+north is blocked by a large boulder.  
+~
+0 HN 10
+0
+~
+I 0 D0
+~
+door~
+1 0 10382
+D3
+~
+~
+0 0 10378
+S
+#10380
+0 0
+~
+~
+~
+0 0 0
+A Dirt Road~
+A dry dirt road is here.  You suffer from the winds and dust blowing into
+your eyes.  You wonder if the dusty trail will lead you anywhere but to more
+dirt.  
+~
+0 HN 10
+0
+~
+I 0 D0
+~
+~
+0 0 10384
+D2
+~
+~
+0 0 10378
+D3
+~
+~
+0 0 10393
+S
+#10381
+0 0
+~
+~
+~
+0 0 0
+Stuck in a Sandtrap~
+`lACK! you have slipped and fallen down a sandtrap
+  you fall down...
+  you fall down...
+  you fall down...
+  you fall down...
+  you fall down...
+  you fall down...
+`bThump! You hit the bottom hard and cannot regain your footing!``
+~
+0 CKN 10
+0
+~
+H-100
+I 0 M-100
+S
+#10382
+0 0
+~
+~
+~
+0 0 0
+Solace from the Sandstorm~
+Seeking protection from the sandstorms and hotwinds, a band of
+adventurers have formed a temporary camp here behind the boulder.  Waiting
+for better weather conditions, this group of adventurers is looking for
+some fun to past the time.  To the east a refreshing pool awaits to 
+quench your thirst.  
+~
+0 HN 10
+0
+~
+I 0 D1
+~
+~
+0 0 10383
+D2
+~
+door~
+1 0 10379
+S
+#10383
+0 0
+~
+~
+~
+0 0 0
+A Refreshing Water Hole~
+`gJust when you were about to give up hope, you find the waterhole.  The
+sparkling water was probably placed here through divine intervention.  How
+else could clear, refreshing water exist in a dry desert such as this? 
+Should you stay here or go back east and take your chances with the desert
+again?  Some travelers say that if you say `k"waterhole waterhole waterhole"
+`g a divine being may appear...  ` 
+~
+0 HN 6
+0
+~
+I 0 D3
+~
+~
+0 0 10382
+S
+#10384
+0 0
+~
+~
+~
+0 0 0
+An Endless Road~
+A dry dirt road is here.  You suffer from the winds and dust blowing into
+your eyes.  Mounds of dirt lay ahead of you.  You give up hope seeing that
+this path leads nowhere... 
+~
+0 HN 10
+0
+~
+I 0 D2
+~
+~
+0 0 10380
+S
+#10385
+0 0
+~
+~
+~
+0 0 0
+Climbing a Mountain Trail~
+The trek up this mountain trail was more than you bargained for.  Looking
+over the side of this trail, you find a steep cliff.  A step closer to the 
+edge and you will plummet to your death.  Cautiously placing each foot in 
+front of the other, you progress slowly up the mountain.  
+~
+0 HN 5
+0
+~
+I 0 D0
+~
+~
+0 0 10387
+D3
+~
+~
+0 0 10373
+S
+#10386
+0 0
+~
+~
+~
+0 0 0
+A Dank Cave~
+You have entered the cave of Swifthand.  Decorating the walls are
+numerous trophy heads with a date indicating the time of death.  This is
+quite impressive and you think maybe the weapons here are worth testing out.
+~
+0 DHN 0
+0
+~
+I 0 D2
+~
+~
+0 0 10373
+S
+#10387
+0 0
+~
+~
+~
+0 0 0
+Climbing a Mountain Trail~
+The trek up this mountain trail was more than you bargained for.  Looking
+over the side of this trail, you find a steep cliff.  A step closer to the 
+edge and you will plummet to your death.  Cautiously placing each foot in 
+front of the other, you progress slowly up the mountain.  
+~
+0 CHN 5
+0
+~
+I 0 D2
+~
+~
+0 0 10385
+D4
+~
+~
+0 0 10389
+S
+#10389
+0 0
+~
+~
+~
+0 0 0
+A Plateau~
+You feel relieved now that you have reached some level ground.  You see
+few trees and abundant grass.  You catch a glimpse of several little rodents
+dodging between the blades of tall grass.  
+~
+0 HN 12
+0
+~
+I 0 D3
+~
+~
+0 0 10390
+D4
+~
+~
+0 0 10391
+D5
+~
+~
+0 0 10387
+S
+#10390
+0 0
+~
+~
+~
+0 0 0
+A Plateau~
+Tall grass and trees surround you.  You can rest beneath the trunks of
+a large tree in its shade.  
+~
+0 HN 12
+0
+~
+I 0 D0
+~
+~
+0 0 10405
+D1
+~
+~
+0 0 10389
+D2
+~
+~
+0 0 10403
+S
+#10391
+50 450
+Increasing your experience by 450 points, you watch as the Skandranon builds a nest.~
+~
+~
+0 0 0
+A Gryphon's Nest~
+You have reached the apex of the mountain.  Straws of grass are
+everywhere.  Ahead of you, you see a large male gryphon tending to his young
+while his mate is foraging for food.  Inside the nest is a baby gryphon and
+several unhatched eggs.  
+~
+0 BCHNb 5
+0
+~
+I 0 D5
+~
+~
+0 0 10389
+S
+#10392
+0 0
+~
+~
+~
+0 0 0
+Inside a Tent~
+You have entered a tent roughly created from twigs and leaves.  It so
+happens that the tent is naturally hidden from view.  The dumb trolls can't
+build anything more elaborate.  There is equipments stacked in the
+northern corner.  A couple of broken swords lay on the ground next to pieces
+of raw flesh.  
+~
+0 HN 0
+0
+~
+I 0 D2
+~
+door~
+97 10352 10377
+S
+#10393
+0 0
+~
+~
+~
+0 0 0
+A Dirt Road~
+A dry dirt road is here.  You suffer from the winds and dust blowing into
+your eyes.  You wonder if the dusty trail will lead you anywhere but to more
+dirt.  
+~
+0 HN 10
+0
+~
+I 0 D0
+~
+~
+0 0 10394
+D1
+~
+~
+0 0 10380
+S
+#10394
+0 0
+~
+~
+~
+0 0 0
+A Dirt Road~
+A dry dirt road is here.  You suffer from the winds and dust blowing into
+your eyes.  You wonder if the dusty trail will lead you anywhere but to more
+dirt.  
+~
+0 HN 10
+0
+~
+I 0 D2
+~
+~
+0 0 10393
+S
+#10395
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10360
+D1
+~
+~
+0 0 10396
+S
+#10396
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D1
+~
+~
+0 0 10397
+D2
+~
+~
+0 0 10398
+D3
+~
+~
+0 0 10395
+S
+#10397
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D2
+~
+~
+0 0 10399
+D3
+~
+~
+0 0 10396
+S
+#10398
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10396
+D3
+~
+~
+0 0 10400
+S
+#10399
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D0
+~
+~
+0 0 10397
+S
+#10400
+0 0
+~
+~
+~
+0 0 0
+The Forest~
+You are overwhelmed by the trees and wildlife surrounding you.  Rays of
+light penetrate through the thick foliage.  Something is strange about this
+forest.  Not able to pinpoint the source of your uneasiness, you shiver from 
+the eerieness that envelops you.  
+~
+0 HN 3
+0
+~
+I 0 D1
+~
+~
+0 0 10398
+S
+#10401
+0 0
+~
+~
+~
+0 0 0
+The Plains~
+You stare out across the panorama and see nothing but green.  The plentiful
+sunlight is warm and the air is exhilarating.  Life here, most obviously, 
+flourishes with wild abandon.  The plains are alive with sounds of chirping 
+birds playing under the foliage of the trees.  Sounds of horses galloping can 
+be heard from the distance.  
+~
+0 HN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10364
+S
+#10402
+0 0
+~
+~
+~
+0 0 0
+The Plains~
+You stare out across the panorama and see nothing but green.  The plentiful
+sunlight is warm and the air is exhilarating.  Life here, most obviously, 
+flourishes with wild abandon.  The plains are alive with sounds of chirping 
+birds playing under the foliage of the trees.  Sounds of horses galloping can 
+be heard from the distance.  
+~
+0 HN 2
+0
+~
+I 0 D2
+~
+~
+0 0 10369
+D3
+~
+~
+0 0 10365
+S
+#10403
+0 0
+~
+~
+~
+0 0 0
+A Plateau~
+You feel relieved now that you have reached some level ground.  You see
+few trees and abundant grass.  You catch a glimpse of several little rodents
+dodging between the blades of tall grass.  Tall grass and trees surround
+you.  A large tree is here to provide some shade.  
+~
+0 HN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10390
+D3
+~
+~
+0 0 10404
+S
+#10404
+0 0
+~
+~
+~
+0 0 0
+A Plateau~
+You feel relieved now that you have reached some level ground.  You see
+few trees and abundant grass.  You catch a glimpse of several little rodents
+dodging between the blades of tall grass.  Tall grass and trees surround
+you.  A large tree is here to provide some shade.  
+~
+0 HN 2
+0
+~
+I 0 D1
+~
+~
+0 0 10403
+S
+#10405
+0 0
+~
+~
+~
+0 0 0
+A Plateau~
+You feel relieved now that you have reached some level ground.  You see
+few trees and abundant grass.  You catch a glimpse of several little rodents
+dodging between the blades of tall grass.  Tall grass and trees surround
+you.  A large tree is here to provide some shade.  
+~
+0 HN 2
+0
+~
+I 0 D0
+~
+~
+0 0 10406
+D2
+~
+~
+0 0 10390
+S
+#10406
+0 0
+~
+~
+~
+0 0 0
+A Plateau~
+You feel relieved now that you have reached some level ground.  You see
+few trees and abundant grass.  You catch a glimpse of several little rodents
+dodging between the blades of tall grass.  Tall grass and trees surround
+you.  A large tree is here to provide some shade.  
+~
+0 HN 2
+0
+~
+I 0 D2
+~
+~
+0 0 10405
+D3
+~
+~
+0 0 10407
+S
+#10407
+0 0
+~
+~
+~
+0 0 0
+A Plateau~
+You feel relieved now that you have reached some level ground.  You see
+few trees and abundant grass.  You catch a glimpse of several little rodents
+dodging between the blades of tall grass.  Tall grass and trees surround
+you.  A large tree is here to provide some shade.  
+~
+0 HN 2
+0
+~
+I 0 D1
+~
+~
+0 0 10406
+S
+#0
+
+#RESETS
+D 0 10377   1    1	* A Repulsive Camp [east]
+D 0 10365   2    1	* The Plains [south]
+D 0 10374   0    1	* Waterfall [north]
+D 0 10377   0    1	* A Repulsive Camp [north]
+D 0 10392   2    1	* Inside a Tent [south]
+M 0 10358   2 10367  2	* A horse
+M 0 10358   4 10367  2	* A horse
+M 0 10358   4 10364  1	* A horse
+M 0 10359   5 10356  2	* An adventurer
+M 0 10361   4 10379  1	* A bandit
+D 0 10379   0    1	* A Dirt Road [north]
+D 0 10382   2    1	* Solace from the Sandstorm [south]
+M 0 10358   6 10401  1	* A horse
+M 0 10357   3 10377  3	* A nasty troll
+E 0 10357   -1    9	* item to A nasty troll
+E 0 10358   -1    6	* item to A nasty troll
+E 0 10360   -1   10	* item to A nasty troll
+M 0 10357   3 10377  3	* A nasty troll
+E 0 10357   -1    9	* item to A nasty troll
+E 0 10358   -1    6	* item to A nasty troll
+E 0 10360   -1   10	* item to A nasty troll
+M 0 10357   3 10377  3	* A nasty troll
+E 0 10357   -1    9	* item to A nasty troll
+E 0 10358   -1    6	* item to A nasty troll
+E 0 10360   -1   10	* item to A nasty troll
+M 0 10361   7 10380  5	* A bandit
+E 0 10361   -1   17	* item to A bandit
+E 0 10359   -1    3	* item to A bandit
+E 0 10363   -1    5	* item to A bandit
+M 0 10361   7 10380  5	* A bandit
+E 0 10361   -1   17	* item to A bandit
+E 0 10363   -1    5	* item to A bandit
+E 0 10359   -1    3	* item to A bandit
+M 0 10361   7 10380  5	* A bandit
+E 0 10361   -1   17	* item to A bandit
+E 0 10363   -1    5	* item to A bandit
+E 0 10359   -1    3	* item to A bandit
+M 0 10361   7 10394  1	* A bandit
+E 0 10359   -1    3	* item to A bandit
+E 0 10361   -1   17	* item to A bandit
+M 0 10361   7 10393  1	* A bandit
+E 0 10359   -1    3	* item to A bandit
+E 0 10361   -1   17	* item to A bandit
+E 0 10363   -1    5	* item to A bandit
+D 0 10375   2    1	* The Fabled Unicorn [south]
+M 0 10355   1 10375  1	* The unicorn
+E 0 10362   -1   16	* item to The unicorn
+D 0 10366   0    1	* A Hobbit Home [north]
+M 0 10363   3 10382  3	* A bitter ruffian
+E 0 10355   -1   16	* item to A bitter ruffian
+M 0 10363   3 10382  1	* A bitter ruffian
+M 0 10352   1 10366  1	* Squints the hobbit
+G 0 10369 -1		* An enchanted stone to Squints the hobbit
+G 0 10370 -1		* A ring made of solid oak to Squints the hobbit
+G 0 10371 -1		* A gryphon's egg to Squints the hobbit
+G 0 10372 -1		* A fragile necklace to Squints the hobbit
+O 0 10353   0 10352 -1	* A sign at The Gateway
+M 0 10358   7 10371  1	* A horse
+M 0 10358   7 10371  1	* A horse
+M 0 10359  10 10400  1	* An adventurer
+M 0 10359  10 10399  1	* An adventurer
+M 0 10356   3 10372  3	* A dancing sprite
+M 0 10356   3 10372  3	* A dancing sprite
+M 0 10356   3 10372  3	* A dancing sprite
+M 0 10362   6 10404  2	* The baby gryphon
+M 0 10362   6 10404  2	* The baby gryphon
+M 0 10362   6 10390  1	* The baby gryphon
+M 0 10362   6 10407  1	* The baby gryphon
+M 0 10362   6 10405  2	* The baby gryphon
+M 0 10362   6 10405  2	* The baby gryphon
+O 0 10354   0 10392 -1	* A heavy iron chest at Inside a Tent
+P 0 10379 -1 10354 1
+O 0 10380   0 10383 -1	* `la waterhole`` at A Refreshing Water Hole
+M 0 10365   1 10383  1	* A water sprite
+M 0 10353   1 10368  1	* `dthe massive oak tree``
+E 0 10367   -1   16	* item to `dthe massive oak tree``
+M 0 10364   1 10386  1	* Swifthand
+G 0 10373 -1		* `oa glass dagger`` to Swifthand
+G 0 10374 -1		* `ia ruby sword`` to Swifthand
+G 0 10375 -1		* A holy mace to Swifthand
+G 0 10376 -1		* The devil's bite to Swifthand
+G 0 10377 -1		* `lthe peacekeeper`` to Swifthand
+G 0 10364 -1		* A heavy axe to Swifthand
+D 0 10363   3    1	* The Forest [west]
+M 0 10359   5 10363  1	* An adventurer
+M 0 10357   4 10363  1	* A nasty troll
+G 0 10352 -1		* A key to A nasty troll
+M 0 10362   1 10391  1	* The baby gryphon
+M 0 10360   1 10391  1	* The skandranon
+E 0 10365   -1    8	* item to The skandranon
+G 0 10382 -1		* `gthe feather of the`n skandranon`` to The skandranon
+G 0 10552 -1		* `kholy boots of light`` to The skandranon
+S
+
+#SHOPS
+10352 32  9  0  0  0 	75 100 	0 23	* Squints the hobbit
+0
+
+#SPECIALS
+M 10353 spec_guard		* `dthe massive Oak Tree``
+S
+
+#OT
+#10382
+`nSkandranon feather``~
+$chance_on_round~
+256
+48
+force skandranon stand~
+100
+0
+force skandranon cast 'firestorm'~
+100
+0
+force skandranon cast 'lightning breath' $randpc~
+10
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+20
+#10552
+(null)~
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

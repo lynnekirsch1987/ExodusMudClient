@@ -1,0 +1,750 @@
+#PLAYER
+Name Entity~
+Id   863118628
+LogF 937120672
+LogO 937120672
+Vers 6
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race syvin~
+Sex  1
+Cla  5
+Levl 90
+AALevl 2
+PBKill 7
+MBKill 25
+PHKill 1
+MHKill 757
+Hero 0
+Depty 0
+Sec  0
+Plyd 262337
+Bank_Gold 2856
+Bank_Silv 49262
+Email visions@netcom.ca~
+Host ppp-085.m2-10.tor.ican.net~
+Not  876422566 0 0 846756666 0 0 0
+Scro 22
+Room 25055
+HMV  771 771 589 589 563 563
+Hand 1
+Gold 28
+Silv 1338
+Exp  243042
+Act  CDQ
+AfBy PZ
+Comm EMNOS
+Pos  8
+Save  -13
+Alig  1000
+Hit   7
+Dam   14
+ACs -71 -63 -62 -105
+Attr 10 17 19 18 19 19
+AMod 3 0 0 2 1 4
+Pass En0s57aJtzFLk~
+Plan  As a child, I grew up in a small village far away.  As I grew older I learned
+that I was an orphin, and I had a brother older than I.  I was astonished to
+learn all this information all of a sudden.  As the years past I became more
+and more curious about my family, and my past.  I found myself thinking about
+my brother whom I had never met.  The village elder called me into his home
+one morning and started to explain how my brother and I used to live in the
+same village until it was raided by the evil Vroath and he was kidnapped.
+He describes what my brother looked like and told me his name, Vecna.
+     I ventured to the vast lands of Thesdan to start the search from my long
+lost brother.  I traveled from town to town speaking to the minstrils,
+learning of battles faught, searching for the tiniest piece of information
+on my brother.  It seemed like a dead end, knowone knew anything.
+     I joined a local clan by the name of Libertad to defend the lands from
+evil.  It helped take my mind of things, and especialy my brother.
+     One day, while I was in Thesdan, I bumped into this strange minstril.
+He was babbling to himself about the oddest thing, cheese.  As he rambled on,
+I heard him call out to one of his fellow clan members, he glided across the
+room.  They began to bickar about different types of cheese and which is better
+and I thought I heard the minstral mention the name Vecna.  I walked over and
+inquired.  He was very reluctant to tell me anything with out some sort of
+payment.  Finally he told me that Vecna is part of clan Fools, and has been
+for quite some time and has just been keeping a low profile for the past
+couple of years.
+     I was so overjoyed.  I aranged a meeting with my brother.  We talked
+about the years that passed.  He asked me to join him in the ranks of Fools,
+and fight for the greater good of all cheese in the world.  How could I
+decline?  It was my brother asking, my only brother--my only family.
+~
+Layhands 0
+Exorcise 0
+Titl  found his long lost brother.~
+Pnts 45
+TSex 1
+LLev 62
+Loner 1
+HMVP 761 569 543
+Cnd  -16 -1 15 24
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Sk 60 'Ballad of Ole Rip'
+Sk 55 'Quiet Mountain Lake'
+Sk 93 'The Pipers Melody'
+Sk 28 'Ballad of the Cantankerous Woodsman'
+Sk 55 'Kiss of First Love'
+Sk 61 'Song of Elyteness'
+Sk 46 'Despair of Orpheus'
+Sk 41 'Falkentynes Fury'
+Sk 59 'Walking on Clouds'
+Sk 46 'Good Vibrations'
+Sk 100 'dagger'
+Sk 100 'dodge'
+Sk 90 'throwing'
+Sk 82 'instruments'
+Sk 82 'composition'
+Sk 94 'second attack'
+Sk 30 'influence'
+Sk 59 'lore'
+Sk 39 'sneak'
+Sk 1 'track'
+Cmp 'str' 10 70 '`aSymphony of `bDuhDah``'
+Cmp 'hit' 13 70 '`aM`ci`an`cd`aF`ci`ae`cl`ad`cs``'
+Cmp 'power' 2 38 '`aT`eh`le `aP`eo`lwer `aO`ef `aL`eo`lve `a(`eC `lMAJO`eR`a)``'
+Cmp 'free' 1 38 '`aF`gr`nee Your Spir`gi`at``'
+Cmp 'majic' 8 38 '`mT`fh`ais `mM`fa`agic `mM`fo`ament `m(`fR`aEMI`fX`m)``'
+Cmp 'peace' 7 38 '`aP`he`oace `aA`hn`od `aT`hr`oanquility``'
+Cmp 'fuel' 12 38 '`aF`bu`iel `aM`by `aF`bi`ire``'
+Cmp 'getup' 11 38 '`oG`ne`ot `nU`op `nA`on`nd `oD`na`on`nc`oe``'
+Cmp 'int' 5 90 'smarter'
+Gr 'rom basics'
+Gr 'lullabies'
+Gr 'inspirational'
+Gr 'rallying cries'
+Affc 'sneak'   0  83  51   0   0      32768 0 ''
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 9
+Lev  30
+Cost 0
+Affc 'enchant weapon'   0  85  -1   7  18          0 0 ''
+Affc 'enchant weapon'   1  85  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 7716
+Nest 0
+Cond 0
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 3503
+Enchanted
+Nest 0
+ExtF 263233
+Cond 0
+Wear 15
+Lev  75
+Cost 5430
+Affc 'reserved'   1  74  -1   2  19          0 0 ''
+Affc 'enchant armor'   1  85  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 3503
+Enchanted
+Nest 0
+ExtF 263233
+Cond 0
+Wear 14
+Lev  77
+Cost 5430
+Affc 'reserved'   1  74  -1   2  19          0 0 ''
+Affc 'enchant armor'   1  85  -1  -4  17          0 0 ''
+End
+
+#O
+Vnum 16317
+Nest 0
+Cond 0
+Wear 4
+Cost 2000
+End
+
+#O
+Vnum 16317
+Nest 0
+Cond 0
+Wear 3
+Cost 2000
+End
+
+#O
+Vnum 7713
+Enchanted
+Nest 0
+ExtF 3393
+Cond 0
+Wear 7
+Lev  85
+Cost 2500
+Affc 'reserved'   1  83  -1   1   5          0 0 ''
+Affc 'reserved'   1  83  -1  20  14          0 0 ''
+Affc 'enchant armor'   1  85  -1  -3  17          0 0 ''
+End
+
+#O
+Vnum 7712
+Enchanted
+Nest 0
+ExtF 3393
+Cond 0
+Wear 6
+Lev  86
+Cost 2000
+Affc 'reserved'   1  83  -1   1   1          0 0 ''
+Affc 'reserved'   1  83  -1  10  13          0 0 ''
+Affc 'enchant armor'   1  85  -1  -4  17          0 0 ''
+End
+
+#O
+Vnum 7717
+Enchanted
+Nest 0
+ExtF 3393
+Cond 0
+Wear 13
+Lev  83
+Cost 2000
+Affc 'reserved'   1  80  -1  -1  24          0 0 ''
+Affc 'reserved'   1  80  -1   2   1          0 0 ''
+Affc 'enchant armor'   1  85  -1  -4  17          0 0 ''
+End
+
+#O
+Vnum 7714
+Enchanted
+Nest 0
+ExtF 3393
+Cond 0
+Wear 10
+Lev  86
+Cost 2400
+Affc 'reserved'   1  84  -1   1  26          0 0 ''
+Affc 'reserved'   1  84  -1  -1  24          0 0 ''
+Affc 'reserved'   1  84  -1  10  12          0 0 ''
+Affc 'enchant armor'   1  85  -1  -3  17          0 0 ''
+End
+
+#O
+Vnum 7709
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 7264
+Nest 0
+Cond 0
+Wear 19
+Cost 1560
+End
+
+#O
+Vnum 16325
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8834
+Nest 1
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 7255
+Enchanted
+Nest 1
+ExtF 3139
+Cond 0
+Wear -1
+Lev  75
+Cost 2500
+Affc 'enchant weapon'   0  85  -1   6  18          0 0 ''
+Affc 'enchant weapon'   1  85  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 25107
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of detect invis~
+Cond 0
+Wear -1
+Lev  85
+Cost 750
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of detect invis~
+Cond 0
+Wear -1
+Lev  85
+Cost 750
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of detect invis~
+Cond 0
+Wear -1
+Lev  85
+Cost 750
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 12918
+Nest 1
+Cond 0
+Wear -1
+Cost 2039
+End
+
+#O
+Vnum 7905
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 10362
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  60
+Cost 6950
+Affc 'enchant weapon'   1  85  -1   7  19          0 0 ''
+Affc 'enchant weapon'   0  85  -1   7  18          0 0 ''
+End
+
+#O
+Vnum 12715
+Nest 1
+Name onion pie~
+ShD  an onion pie~
+Desc This onion pie is fresh from the oven and very hot.~
+ExtF 134480192
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12715
+Nest 1
+Cond 0
+Wear -1
+Cost 8700
+End
+
+#O
+Vnum 12715
+Nest 1
+Cond 0
+Wear -1
+Cost 8700
+End
+
+#O
+Vnum 12715
+Nest 1
+Cond 0
+Wear -1
+Cost 8700
+End
+
+#O
+Vnum 12715
+Nest 1
+Name onion pie~
+ShD  an onion pie~
+Desc This onion pie is fresh from the oven and very hot.~
+ExtF 134480192
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12715
+Nest 1
+Name onion pie~
+ShD  an onion pie~
+Desc This onion pie is fresh from the oven and very hot.~
+ExtF 134480192
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12715
+Nest 1
+Name onion pie~
+ShD  an onion pie~
+Desc This onion pie is fresh from the oven and very hot.~
+ExtF 134480192
+Cond 0
+Wear -1
+Cost 8700
+End
+
+#O
+Vnum 12715
+Nest 1
+Name onion pie~
+ShD  an onion pie~
+Desc This onion pie is fresh from the oven and very hot.~
+ExtF 134480192
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12715
+Nest 1
+Cond 0
+Wear -1
+Cost 8700
+End
+
+#O
+Vnum 12715
+Nest 1
+Cond 0
+Wear -1
+Cost 8700
+End
+
+#O
+Vnum 4107
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+Val  110 62 0 0 0 0 0
+End
+
+#O
+Vnum 3226
+Nest 0
+Cond 0
+Wear 17
+Cost 9000
+End
+
+#O
+Vnum 11374
+Nest 0
+ExtF 17039680
+Cond 0
+Wear -1
+Cost 15049
+ExDe flute spirits~ This is a flute.
+~
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4145
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#END

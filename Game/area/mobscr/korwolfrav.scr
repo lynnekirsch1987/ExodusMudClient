@@ -1,0 +1,22 @@
+#TRIGGER moves  
+Type 11  
+*Script to keep the mobs of Lunar Plains IN the Lunar Plains  
+Sc  
+mfunc %move-to% %rvnum% room  
+if ( %rvnum% == 6347 ) || ( %rvnum% == 6337 )  
+   cmd west  
+   cmd west  
+   halt once~  
+Sc  
+if ( %rvnum% == 6195 ) || ( %rvnum% == 6360 )  
+   cmd south  
+   cmd west  
+   halt once~  
+Sc  
+if ( %rvnum% == 6354 )  
+   cmd east  
+   cmd south  
+   halt once~  
+End  
+  
+#END

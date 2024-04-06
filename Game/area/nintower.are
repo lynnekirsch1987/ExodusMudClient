@@ -1,0 +1,294 @@
+#AREA
+nintower.enc~
+The Hidden Tower~
+{20 40} Telkionish  The Hidden Tower~
+~
+2300 2450
+0 0
+0 0
+aedit~
+#MOBILES
+#2300
+ninja pupil~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 600 0
+20 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand neutral 0
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#2300
+doors door double~
+the door entrace and find yourself standing in a tower of many hidden secrets...~
+An ancient tower stands here alone, with one double door entrance. ~
+hardwood~
+0
+portal RS 0
+6
+~
+~
+~
+~
+-1 0 G BCIL A
+0
+0
+90 10000 0 P
+#2301
+doors door double~
+the doors~
+Your only exit in the tower stands here.~
+hardwood~
+0
+portal RS 0
+6
+~
+~
+~
+~
+-1 0 G ACIL B
+0
+0
+0 10000 0 P
+#0
+
+#ROOMS
+#2300
+~
+~
+0 0 0
+Telk's thinking room~
+e
+s
+Welcome to the thinking room of the great Telkionish!  As you try to walk about through a massive pile of pappers and other ruble you notice fine paintings line the wall and exquisite furniture occupy this otherwise room full of crap.
+You also notice a small spring spouts in the other coner of the room (how odd!).
+Then you remember that Telk himself is quite odd, and continue your search for him through massive heaps of trash and tossed ideas......Good Luck!
+~
+0 C 0
+0
+~
+H200
+M200
+S
+#2301
+~
+~
+0 0 0
+A rocky pathway through the mountains~
+You walk along a jagged mountain road.  You notice no scenary but the
+harsh mountain face.  As you glance down you realize it would not be a good
+idea to try to jump from here.  
+~
+0 b 5
+0
+~
+D1
+~
+~
+0 0 2302
+S
+#2302
+~
+~
+0 0 0
+A rocky path through the mountains~
+As you continue on the road, you notice it has peaked and is now sloping
+downwards.  You start to wonder exactly where this road is leading you to.  
+~
+0 b 5
+0
+~
+D1
+~
+~
+0 0 2303
+D3
+~
+~
+0 0 2301
+S
+#2303
+$n WATCH OUT!!~
+~
+0 0 0
+The Bend~
+As you reach a bend in the road and attempt to turn it you realize you're
+about to step right off a CLIFF!!  You are barely able to catch yourself
+before you make a long perilous decent into oblivion and take a couple of
+mintues to gather your senses.  As you rest you notcie small etchings in the
+rock face of the mountain going downwards.  The etchings are just large
+enough to place fingers and feet.  
+~
+0 b 5
+0
+~
+D3
+~
+~
+0 0 2302
+D5
+~
+~
+0 0 2304
+S
+#2304
+~
+~
+0 0 0
+The mountain face~
+As you slowly climb down the face of the mountain you realize that it's
+not as easy as it look from above.  
+~
+0 B 5
+0
+~
+D4
+~
+~
+0 0 2303
+D5
+~
+~
+0 0 2305
+S
+#2305
+~
+~
+0 0 0
+The mountain face~
+You've now been climbing for about 15 minutes and your arms and legs ache
+to the point of numbness.  You're not sure how much longer you can withstand
+this before your body gives out.  
+~
+0 B 5
+0
+~
+D4
+~
+~
+0 0 2304
+D5
+~
+~
+0 0 2306
+S
+#2306
+~
+~
+0 0 0
+The mountain face~
+Just as you feel you can take no more and will take your changes with
+fate and fall, you notice a road has materialized beneath you about 50 feet
+away.  You descend the rest of the climb and gladly walk upon this new path.
+~
+0 B 5
+0
+~
+D1
+~
+~
+0 0 2307
+D4
+~
+~
+0 0 2305
+S
+#2307
+~
+~
+0 0 0
+The new path~
+You have entered a beatifully grassed valley totally enclosed by the
+mountains.  In the distance you can make out a tower of some sort.  
+~
+0 b 5
+0
+~
+D1
+~
+~
+0 0 2308
+D3
+~
+~
+0 0 2306
+S
+#2308
+~
+~
+0 0 0
+The new path~
+You have almost reached the tower and now realize why you hadn't noticed
+it before.  It seems to be surrounded by some sort of a heavy for or cloud
+which makes it undistinguishable from a distance.  You look around and
+decide that going towards the tower is better than facing that mountain face
+again.  
+~
+0 b 5
+0
+~
+D1
+~
+~
+0 0 2309
+D3
+~
+~
+0 0 2307
+S
+#2309
+~
+~
+0 0 0
+The Tower Lawn~
+As you approach the tower you realize it's like nothing you've ever seen
+before.  It looks ancient and you hear battle cries as well as fighting from
+inside.  Veiled guards stand by the entrance and you now realize that you
+not only descended a mountain......  But also descended in time.  You are in
+ancient Japan!  
+~
+0 b 5
+0
+~
+D3
+~
+~
+0 0 2308
+S
+#2310
+~
+~
+0 0 0
+A Large Passageway~
+The battle cries and fighting has increased in volumne, you can only pray
+you pass through these halls unoticed.  
+~
+0 CD 0
+0
+~
+S
+#0
+
+#RESETS
+O 0 2300   0 2309 -1	* The door entrace and find yourself standing in a tower of many hidden secrets... at The Tower Lawn
+O 0 2301   0 2310 -1	* The doors at A Large Passageway
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

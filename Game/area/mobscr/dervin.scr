@@ -1,0 +1,31 @@
+* dervin.scr
+* Dervin the Ranger shopkeeper(4243)
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %name% name
+   pecho %name% Dervin idly carves a stick into an arrow shaft before looking up to you.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+let %timer% -= 1
+* loads a straight stick into his inventory every tick
+  cmd at 1 load obj 49
+  cmd set mob dervin gold 100
+  cmd set mob dervin silver 0
+  cmd at 1 drop all.stick
+  cmd at 1 get all.stick
+if (%timer% < 1)
+* every 5 ticks, load a flaming arrowhead.  Woooooo!
+  cmd at 1 load obj 4627
+  cmd at 1 drop all.arrowhead
+  cmd at 1 get all.arrowhead
+  let %timer% == 5
+  halt once~
+End
+
+#END

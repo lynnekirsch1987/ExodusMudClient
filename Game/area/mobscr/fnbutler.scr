@@ -1,0 +1,23 @@
+* File: fnbutler.scr
+* Mob: butler(20962)
+
+#TRIGGER butta
+Type 10
+Sc
+mfunc %butta-from% %sex% sex
+if ( %sex% == 2 )
+   cmd bow %butta-from%
+   say Welcome to the manor of Fulk Nerra, great Lady %butta-from%.
+   halt once~
+Sc
+   say Welcome to the manor of Fulk Nerra, great Lord %butta-from%.
+   halt once~
+End
+
+#END
+
+
+
+
+
+

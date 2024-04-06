@@ -1,0 +1,5 @@
+Ragnar
+father|god|lord|almighty|mercy:>1:+2:CMD em is shaken out of his reverie.;Are you addressing me?
+yes|aye|yup|yep|affirmative:>4:+1:Very well then.  How may I help you?;CMD slobber
+help&me:>4:+1:I would help you...but restraining Shenlon has drained all of my power!;CMD apologize $name;I am sorry...perhaps another day.
+I&hate&you|kami:<8:-5:CMD eye;You doubt my power?  Then die!;CMD growl;CMD kill $name

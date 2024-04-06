@@ -1,0 +1,24 @@
+* Mob Vnum: 20954
+* Mob Name: strongman
+ *Room Vnum: 20970
+
+
+#TRIGGER strong
+Type 10
+Sc
+mfunc %strong-from% %name% name
+mfunc %strong-from% %str% str
+if (%str% <= 16)
+      emote laughs at your puny muscles and flexes his impressive ones proudly.
+      halt once~
+Sc
+if (%str% <= 20)
+     emote looks at your muscles and shakes his head.
+     say You are no weakling %name%, but more exercise would benefit you.
+     halt once~
+Sc
+     emote nods approvingly at your well-muscled body.
+     say You may even be stronger than me, %name%!~
+End
+
+#END

@@ -1,0 +1,382 @@
+#PLAYER
+Name Gelflin~
+Id   995625593
+LogF 995942823
+LogO 995943712
+Vers 7
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race elf~
+Sex  1
+Cla  0
+Levl 20
+AALevl 2
+MBKill 16
+MHKill 951
+Hero 0
+Depty 0
+Sec  0
+Plyd 103410
+Bank_Gold 111
+Bank_Silv 9000
+Email unhuh02@hotmail.com~
+Host cs666855-219.austin.rr.com~
+Not  0 0 0 983169299 839576231 0 0
+Scro 22
+Room 13006
+HMV  112 126 255 297 175 175
+Hand 2
+Gold 0
+Silv 738
+Exp  90373
+Act  CDFH
+AfBy J
+Comm FGNORS
+Pos  8
+Prac 2
+Save  -2
+Alig  491
+Hit   8
+Dam   6
+ACs 38 43 34 79
+Attr 14 17 18 13 15 8
+AMod 3 -1 1 1 2 1
+Pass Ge1zACZ22Q4T6~
+Layhands 0
+Exorcise 0
+Titl  the `oHigh Elf~
+Pnts 75
+TSex 1
+LLev 23
+Loner 0
+HMVP 106 299 175
+Cnd  -16 28 38 37
+Color 1 8 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias mm cast 'magic missile'~
+Alias inv cast 'invisibility'~
+Alias ref cast 'refresh'~
+Alias arm cast 'armor'~
+Alias aqb cast 'aqua breath'~
+Alias lit cast 'lightning bolt'~
+Alias tele cast 'teleport'~
+Alias gs cast 'giant strength'~
+Alias charm cast 'charm'~
+Alias ch cast 'charm'~
+Alias sle cast 'sleep'~
+Alias shie cast 'shield'~
+Alias oa order all~
+Sk 75 'armor'
+Sk 1 'acid blast'
+Sk 1 'fireshield'
+Sk 1 'web'
+Sk 1 'burning hands'
+Sk 1 'cancellation'
+Sk 1 'chain lightning'
+Sk 76 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'dispel magic'
+Sk 1 'firestorm'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 75 'fly'
+Sk 75 'giant strength'
+Sk 1 'haste'
+Sk 1 'heat metal'
+Sk 1 'infravision'
+Sk 75 'invisibility'
+Sk 1 'mirror'
+Sk 87 'lightning bolt'
+Sk 81 'magic missile'
+Sk 1 'mass invis'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'summon'
+Sk 1 'gate'
+Sk 1 'refresh'
+Sk 75 'shield'
+Sk 1 'shocking grasp'
+Sk 75 'sleep'
+Sk 1 'stone skin'
+Sk 79 'teleport'
+Sk 1 'ventriloquate'
+Sk 1 'acid breath'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 76 'aqua breathe'
+Sk 1 'channel electricity'
+Sk 1 'ice beam'
+Sk 1 'electrical charge'
+Sk 87 'staff'
+Sk 41 'meditation'
+Sk 1 'sneak'
+Sk 1 'scribe'
+Sk 1 'scrolls'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'draconian'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'protective'
+Gr 'transportation'
+Gr 'elemental'
+End
+
+#O
+Vnum 4314
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 554
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear -1
+Lev  15
+Cost 0
+Val  3 3 3 6 128 0 0
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+End
+
+#O
+Vnum 21058
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+Val  0 0 9 0 0 0 0
+End
+
+#O
+Vnum 8834
+Nest 0
+ExtF 9175040
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20393
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 20393
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 21086
+Nest 0
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 4099
+Nest 0
+Cond 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 21
+Nest 0
+ExtF 8388609
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4316
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 0
+Cond 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 159
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 16
+Lev  28
+Cost 0
+Val  3 4 6 12 128 0 0
+Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   6  18          0 0 ''
+End
+
+#O
+Vnum 21061
+Nest 0
+Cond 0
+Wear 4
+Cost 20
+End
+
+#O
+Vnum 21
+Nest 0
+ExtF 8388609
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21063
+Nest 0
+Cond 0
+Wear 10
+Cost 15
+End
+
+#O
+Vnum 21059
+Nest 0
+Cond 0
+Wear 2
+Cost 5
+End
+
+#O
+Vnum 559
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 4149
+Nest 0
+Cond 0
+Wear 1
+Cost 210
+End
+
+#O
+Vnum 12919
+Nest 0
+Cond 0
+Wear 5
+Cost 10
+End
+
+#O
+Vnum 12921
+Nest 0
+Cond 0
+Wear 14
+Cost 50
+End
+
+#O
+Vnum 21081
+Nest 0
+ExtF 8388608
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 4164
+Nest 0
+Cond 0
+Wear 7
+Cost 3549
+End
+
+#O
+Vnum 7901
+Nest 0
+ExtF 8650754
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 169
+Nest 0
+ExtF 8391936
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 4900
+Nest 0
+ExtF 8650753
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4303
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 12948
+Nest 0
+Cond 0
+Wear 8
+Cost 46
+End
+
+#O
+Vnum 16325
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#RoomRLE   100 1 233 1 185 1 3 6 7 1 77 1 1 1 23 3 21 1 834 11 2 5 1 4 5 10 1 4 3 6 1 1 1 1 9 2 1 1 732 3 1 1 1 1 2 6 5 2 5 3 1 3 1 1 1 3 1 1 1 1 1 1 1053 6 2 17 1 17 557 9 25 2 7 2 1 51 5 7 8 1 6 8 1 6 4 10 2 4 1 3 4 1 3 3 4 1 4 1 1 3 12 1 4 2 10 1 3 1 2 1 105 1 3 1 1 10 2 4 1 1 2 1 44 1 2 2 456 4 1 1 1 1 1 10 1 1 3 3 1 1 1 5 1 1 5 2 1 4 1 6 1 4 6 1 12 3 556 1 26 3 2 7 1 1 3 4 1 1 20 1 1 5 1 2 3 2 2315 2 7 7 2 1 1 1 6 23 6 1 3401 1 152 1 1 9 2 3 2 3 3 2 1 3 1 2 6 3 32 1 8 7 9 1 9 1 4 3 445 1 843 2 8 1 7 3 7 4 6 5 3 1 1 13 3 18 4 6 4 6 4 6 4 16 4 7 3 81 1 1 2 1 1 1 1 5 1 3 1 2 32 5 3 2 2 1 3 10 1 7 1 7 2 6 1 14 201 2 9 4 13 2 75 19 5319 2 46 4 32 3 4 2 4 4 26 3 1 1 51 1 1271 8 20 3 1 1 3 1 61 1 2 5 1 4 479 39 7 10 1 4 1 1 38 4 4 7 3 8 3 6 1 1 1 15 1 1 2 18 2 15 1 1 5 13 1 1 5 15 5 18 3 17 2 17 4 5 1 11 3 3 3 11 3 2 4 10 4 2 4 10 5 1 1 2 1 12 3 6 3 5 1 1 4 4 6 2 1 3 17 3 18 1 572 2 998 1 2007 1 6 1 28 2 34 1 2 1 7 2 24 1 15 1 1 1 5 1 39 1 1 1 11 1 7 1 9 1 28 1 63 1 2 1 26 1 81 1 47 1 85 1 275 1 42 1 252 1 37 2 1 1 2081 1 99 1 99 1 98 2 98 1 99 1 99 1 99 4 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 67 1 9 1 21 1 64 4 9 1 21 1 64 1 1 2 9 2 20 1 64 1 1 2 10 2 19 1 64 1 1 2 11 1 19 1 64 1 1 2 11 2 6 2 10 1 64 1 1 2 8 7 2 1 2 2 9 1 60 8 8 2 4 1 2 1 2 1 3 1 6 1 60 2 2 1 2 1 1 14 2 1 7 22 46 10 10 6 12 1 61 2 7 4 8 4 13 1 73 27 71 7 8 1 88 1 1 1 8 1 90 1 6 3 90 1 6 1 92 3 4 1 78 1 15 6 98 2 98 2 98 2 69 1 696 27 50 23 26 1 50 1 48 14 99 1 99 1 99 3 99 1 98 2 98 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 99 1 96 8 99 1 99 3 99 1 99 1 99 1 27387 -1
+
+#END

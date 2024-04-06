@@ -1,0 +1,11 @@
+#TRIGGER type
+Type 5
+Sc
+ofunc %type-arg% %type% item_type
+say This is item type %type%
+cmd drop all
+halt once~
+End
+
+#END
+

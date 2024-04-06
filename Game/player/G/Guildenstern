@@ -1,0 +1,985 @@
+#PLAYER
+Name Guildenstern~
+Id   849856537
+LogF 1079754514
+LogO 1079754747
+Vers 8
+Desc My name is Rosencrantz, how do you do?
+and WHY are you looking at me?!?!?!
+You bloody pervert, stop it, look at someone else!
+~
+Prom <%h/%Hhp %m/%Mm %vmv %Xtl> ~
+Race human~
+Sex  1
+Cla  0
+Cla2  0
+Cla3  0
+Levl 43
+Wants 2
+WTime 999993
+AALevl 2
+PBKill 23
+MBKill 18
+PHKill 27
+MHKill 219
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 210061
+NPlyd 0
+NAge 0
+Bank_Gold 22331
+Bank_Silv 87700
+Email feral@transport.com~
+Referrer ~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 0
+Race_Old -1
+Class_Old -1
+New_Style 0
+Totalxp 420
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+MPC 0
+Host h-67-101-140-130.hstqtx02.covad.net~
+Not  960069896 860102893 0 869901393 960069890 960069647 0 0
+Scro 22
+Room 4255
+HMV  276 276 677 677 245 245
+Hand 2
+Gold 100
+Silv 1809
+Exp  129464
+Act  DEGRa
+Blok -1
+AfBy K
+Comm NOSX
+Com2 A
+Pos  8
+Alig  -90
+Hit   -5
+Dam   2
+ACs 92 96 98 108
+Wimp  100
+Attr 18 21 18 7 18 10
+AMod 6 0 0 3 0 0
+Pass GucgozA7o8xZU~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl .~
+Pnts 60
+TSex 1
+LLev 32
+Loner 1
+HMVP 276 677 245
+Cd  -16 -16 -4 -6 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias ok order all murder Strom~
+Alias gg get 1. box~
+Alias og order all rescue guildenstern~
+Alias oak order all kill~
+Alias cb c blind indel~
+Alias ogg order all rescue guildenstern~
+Sk 80 'armor'
+Sk 93 'acid blast'
+Sk 77 'blindness'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 80 'cancellation'
+Sk 1 'chain lightning'
+Sk 1 'change sex'
+Sk 91 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'control weather'
+Sk 1 'create food'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 82 'curse'
+Sk 82 'detect hidden'
+Sk 82 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 75 'enchant armor'
+Sk 79 'enchant weapon'
+Sk 75 'energy drain'
+Sk 88 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 80 'fly'
+Sk 1 'floating disc'
+Sk 80 'giant strength'
+Sk 87 'haste'
+Sk 93 'identify'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'mirror'
+Sk 84 'lightning bolt'
+Sk 83 'locate object'
+Sk 1 'magic missile'
+Sk 1 'mass invis'
+Sk 75 'pass door'
+Sk 75 'poison'
+Sk 1 'portal'
+Sk 85 'summon'
+Sk 80 'gate'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 75 'shield'
+Sk 1 'shocking grasp'
+Sk 80 'sleep'
+Sk 75 'slow'
+Sk 75 'stone skin'
+Sk 1 'teleport'
+Sk 1 'ventriloquate'
+Sk 75 'weaken'
+Sk 1 'aqua breathe'
+Sk 1 'channel electricity'
+Sk 1 'ice beam'
+Sk 1 'electrical charge'
+Sk 51 'staff'
+Sk 1 'dodge'
+Sk 1 'swimming'
+Sk 1 'butcher'
+Sk 37 'meditation'
+Sk 1 'fishing'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Gr 'weather'
+Affc 'curse'   0  37  55  -5  18       1024 0 ''
+Affc 'giant strength'   0  41  31   4   1          0 0 ''
+End
+
+#O
+Vnum 7001
+Nest 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 16325
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12236
+Nest 1
+ExtF 84148321
+Wear -1
+Cost 19430
+Val  40 10 10 122 0 0 0
+Spell 3 'gas breath'
+ExDe staff~ This is a dumb looking little stick of rock.
+~
+End
+
+#O
+Vnum 190
+Nest 1
+Cond 100
+Wear -1
+Cost 302
+End
+
+#O
+Vnum 4321
+Nest 1
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 12925
+Nest 1
+ExtF 8650753
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20963
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+Val  0 0 144 0 0 0 0
+End
+
+#O
+Vnum 828
+Nest 1
+ExtF 8388611
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5348
+Nest 1
+ExtF 8650816
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 553
+Enchanted
+Nest 1
+ExtF 262209
+Wear -1
+Lev  10
+Cost 300
+Affc 'reserved'   1   9  -1   1  19          0 0 ''
+Affc 'reserved'   1   9  -1   1   5          0 0 ''
+Affc 'enchant armor'   1  35  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 12219
+Nest 1
+ExtF 92536832
+Wear -1
+Cost 0
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 12922
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 7916
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4414
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12922
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 7901
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4315
+Nest 1
+Wear -1
+Cost 0
+ExDe papermsg~ Joseph attempted to earn my favor today by presenting me with
+a flamboyant brown hat!  I do not know whether I shall let this
+hat woo me or not.
+ 
+                        Buffy.
+~
+End
+
+#O
+Vnum 4433
+Nest 1
+ExtF 8654848
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7903
+Nest 1
+Wear -1
+Time 371
+Cost 10
+Spell 1 'mass levitation'
+End
+
+#O
+Vnum 5630
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4279
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7074
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12918
+Nest 1
+Wear -1
+Cost 2039
+End
+
+#O
+Vnum 20375
+Nest 1
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 12918
+Nest 1
+Wear -1
+Cost 2039
+End
+
+#O
+Vnum 12219
+Nest 1
+Wear -1
+Cost 5000
+ExDe armor~ This is Jarek's spiked armor.
+~
+End
+
+#O
+Vnum 2604
+Nest 1
+ExtF 262677
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4107
+Nest 1
+Wear -1
+Cost 320
+Val  110 94 0 0 0 0 0
+End
+
+#O
+Vnum 12946
+Nest 1
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 5118
+Nest 1
+ExtF 8391168
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4096
+Nest 1
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 4158
+Nest 1
+ExtF 8388608
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1231
+Nest 1
+Wear -1
+Time 46
+Cost 0
+End
+
+#O
+Vnum 1228
+Nest 1
+Wear -1
+Time 46
+Cost 0
+End
+
+#O
+Vnum 4720
+Nest 1
+ExtF 8388610
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7074
+Nest 1
+ExtF 8650754
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7010
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 723
+Nest 1
+Wear -1
+Cost 8309
+End
+
+#O
+Vnum 828
+Enchanted
+Nest 1
+ExtF 8388675
+Wear -1
+Lev  32
+Cost 0
+Affc 'reserved'   1  30  -1   7  14          0 0 ''
+Affc 'reserved'   1  30  -1   7  13          0 0 ''
+Affc 'reserved'   1  30  -1   7  12          0 0 ''
+Affc 'enchant armor'   1  49  -1  -4  17          0 0 ''
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 1
+ExtF 67
+Wear -1
+Lev  32
+Cost 0
+Affc 'enchant weapon'   1  86  -1   7  19          0 0 ''
+Affc 'enchant weapon'   0  86  -1   7  18          0 0 ''
+End
+
+#O
+Vnum 12223
+Nest 1
+ExtF 8390979
+Wear -1
+Cost 0
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 12223
+Nest 1
+Wear -1
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 20375
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4306
+Nest 1
+ExtF 25428289
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20389
+Nest 1
+Cond 100
+Wear -1
+Cost 142
+End
+
+#O
+Vnum 20964
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12234
+Nest 1
+ExtF 8388931
+Wear -1
+Cost 0
+ExDe shield~ The shield has the symbol of the Royal Marines.
+~
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 1
+ExtF 67
+Wear -1
+Lev  31
+Cost 0
+Affc 'enchant weapon'   0  79  -1   7  18          0 0 ''
+Affc 'enchant weapon'   1  79  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 11534
+Nest 1
+Wear -1
+Cost 3495
+End
+
+#O
+Vnum 4228
+Nest 1
+ExtF 8650754
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11392
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 725
+Nest 1
+Wear -1
+Cost 2200
+Spell 3 'farsight'
+End
+
+#O
+Vnum 4083
+Nest 1
+Wear -1
+Cost 8790
+End
+
+#O
+Vnum 20956
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4162
+Nest 1
+Wear -1
+Cost 3429
+End
+
+#O
+Vnum 4166
+Nest 1
+Wear -1
+Cost 1900
+End
+
+#O
+Vnum 20963
+Nest 1
+Wear -1
+Cost 78
+Val  0 0 120 0 0 0 0
+End
+
+#O
+Vnum 12216
+Nest 1
+Name robe magi~
+Wear -1
+Cost 503
+ExDe robe~ You have never seen such an evil robe. Ever.
+~
+End
+
+#O
+Vnum 4314
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21110
+Nest 1
+ExtF 8650752
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4228
+Nest 1
+ExtF 8650754
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4107
+Nest 1
+Wear -1
+Cost 320
+Val  110 110 0 0 0 0 0
+End
+
+#O
+Vnum 20375
+Nest 1
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5627
+Nest 1
+ExtF 8650752
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 559
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 816
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 4408
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+ExDe papermsg~ ~
+End
+
+#O
+Vnum 7077
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 20388
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 11533
+Enchanted
+Nest 1
+ExtF 65
+Wear -1
+Lev  25
+Cost 230
+Affc 'enchant armor'   1  35  -1  -4  17          0 0 ''
+End
+
+#O
+Vnum 11533
+Enchanted
+Nest 1
+ExtF 8388673
+Wear -1
+Lev  14
+Cost 0
+Affc 'enchant armor'   1  79  -1  -2  17          0 0 ''
+Affc 'reserved'   1  13  -1   1   3          0 0 ''
+End
+
+#O
+Vnum 20374
+Nest 1
+Wear -1
+Cost 650
+End
+
+#O
+Vnum 20974
+Nest 1
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 4290
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 7915
+Nest 1
+Wear -1
+Cost 0
+Val  80 16 10 0 0 0 0
+End
+
+#O
+Vnum 4303
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 4107
+Nest 1
+Name stained glass crystal decanter water~
+Wear -1
+Cost 320
+Val  110 14 0 0 0 0 0
+End
+
+#O
+Vnum 7044
+Nest 1
+ExtF 3
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 130
+Nest 1
+Wear -1
+Cost 5309
+Val  50 50 0 0 0 0 0
+ExDe ring~ This beautifully crafted ring has an unusual feature.  It's top pops open
+to reveal a large hollow opening within it.  As you look down into the ring,
+you realize that there might not be a bottom to it at all, very useful to
+store liquids in don't you think?  (hint hint) 
+~
+End
+
+#O
+Vnum 4231
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 130
+Nest 1
+Name signet ring water~
+ExtF 262145
+Wear -1
+Cost 5309
+Val  50 34 0 0 0 0 0
+ExDe ring~ This beautifully crafted ring has an unusual feature.  It's top pops open
+to reveal a large hollow opening within it.  As you look down into the ring,
+you realize that there might not be a bottom to it at all, very useful to
+store liquids in don't you think?  (hint hint) 
+~
+End
+
+#O
+Vnum 4306
+Nest 1
+ExtF 25428289
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12228
+Nest 1
+Wear -1
+Cost 107
+ExDe glasses specs~ The Glasses of Arcanus help him to read his spellbooks.
+~
+End
+
+#O
+Vnum 2627
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4163
+Nest 1
+ExtF 8388608
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20394
+Nest 1
+Wear -1
+Cost 5
+Val  7 0 0 0 0 0 0
+End
+
+#O
+Vnum 11538
+Nest 1
+Cond 100
+Wear -1
+Cost 4059
+End
+
+#O
+Vnum 11538
+Nest 1
+ExtF 8388672
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 7264
+Nest 0
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 7919
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4096
+Nest 0
+Wear -1
+Cost 1354
+End
+
+#RoomRLE   4255 1 61279 -1
+
+#END

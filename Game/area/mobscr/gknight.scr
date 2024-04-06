@@ -1,0 +1,20 @@
+* File: gknight.scr
+* Mob: Sir Godfrey(4230)
+
+#TRIGGER born
+Type 4
+Sc wait 5~
+Sc
+cmd mount warhorse
+halt once~
+End
+
+#TRIGGER mount
+Type 3
+Sc
+mount warhorse
+halt once~
+End
+
+#END
+

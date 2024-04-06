@@ -1,0 +1,55 @@
+#TRIGGER tick
+Type 3
+Sc
+wfunc %direction% random 0 3
+if (%direction% == 0)
+at 1 wizi
+exit wagon
+at 1 load obj 21122
+string obj track long `dWheel and hoof tracks can be seen in the prairie grass leading north.``
+plant track
+enter wagon
+at 1 wizi
+drive north
+halt once~
+
+Sc
+if (%direction% == 1)
+at 1 wizi
+exit wagon
+at 1 load obj 21122
+string obj track long `dWheel and hoof tracks can be seen in the prairie grass leading south.``
+plant track
+enter wagon
+at 1 wizi
+drive south
+halt once~
+
+Sc
+wfunc %direction% random 0 3
+if (%direction% == 2)
+at 1 wizi
+exit wagon
+at 1 load obj 21122
+string obj track long `dWheel and hoof tracks can be seen in the prairie grass leading west.``
+plant track
+enter wagon
+at 1 wizi
+drive west
+halt once~
+
+Sc
+if (%direction% == 3)
+at 1 wizi
+exit wagon
+at 1 load obj 21122
+string obj track long `dWheel and hoof tracks can be seen in the prairie grass leading east.``
+plant track
+enter wagon
+at 1 wizi
+drive east
+halt once~
+
+end
+
+#End

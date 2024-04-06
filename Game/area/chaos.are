@@ -1,0 +1,8713 @@
+#AREA
+ 6~
+chaos.are~
+`bAbandoned Guild of Chaos``~
+{50 60} Beowolf  `bAbandoned Guild of Chaos``~
+~
+11206 11356
+10 0 0
+1 0
+Iverath Tarant~
+#MOBILES
+#11246
+Stephan crazy human~
+`hStephan``~
+`hA crazy human named Stephan walks around on all fours here.``
+~
+You see a red bearded man. His shaggy hair is also red and he wears a
+grey kilt and robe.  It wouldn't be wise to fight this crazed lunatic.
+~
+human~
+0 0 0 0
+ABGT a -100 0
+51 51 25d10+2250 100d1+60 3d12+14 none
+-14 -14 -14 999 -14
+0 59 8 CDEFIK ABKQ N OX
+stand stand male 1000
+ACHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11247
+crazy old man~
+`ha crazy old man``~
+`hA crazy old man is here, screaming something about Chaos.``
+~
+The crazy old man looks like just that, with grey dishevelled hair, and
+sagging skin.  He blabbers about danger to come.  The question is, is he
+delusional?  
+~
+human~
+0 0 0 0
+ABGc IJd -100 0
+40 40 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 999 -13
+0 -1 JX A 0 0
+stand stand male 100
+ADHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11248
+reflection~
+`ha reflection``~
+`hA reflection of mirrored light wavers here.``
+~
+A reflection of mirrored light appears to be alive.
+~
+unique~
+0 0 0 0
+AGc U 0 100
+40 40 15d10+1850 1d15+100 4d8+13 wrath
+-13 -13 -13 999 -13
+0 -1 0 AB CI E
+stand stand none 100
+ACHMV ABCDEFGHIJK 14 14 14 14 14 14 0
+medium glass~
+0 0 0 100
+0
+~
+~
+#11249
+rat~
+`ha rat``~
+`hA rat scurries along the ground, gnawing away.``
+~
+A furry, dirty rat scurries around the ground, foraging for food.  
+~
+unique~
+0 0 0 0
+AG Q -300 0
+41 41 100d1+10 1d1+1 4d8+14 bite
+-14 -14 -14 999 -14
+U -1 0 A 0 IR
+stand stand none 100
+DGV ABCDEFGHIJKMQU 14 14 14 14 14 14 0
+small flesh~
+0 0 0 100
+2
+~
+~
+#11250
+skeletal servant~
+`ha skeletal servant``~
+`hA skeletal servant stand unmoving before you.``
+~
+This skeleton stands guard in front of the door.  It does not move and
+completely blocks you progress in that direction.  
+~
+lich~
+0 0 0 0
+ABOTc DFGHJOVce -1000 666
+41 41 25d10+2000 10d41+100 4d8+15 drain
+-14 -15 -14 999 -16
+A 62 4 CDEFGHIJKN BLQRc CGILMQ HNOS
+stand stand none 0
+ADHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium bone~
+0 0 0 100
+0
+~
+~
+#11251
+large mistling invisible creature~
+`ha large mistling``~
+`hThe mist swirls around an invisible creature, its warm breath evident close by.``
+~
+Swirls in the mist tells of an unseen creature somewhere nearby,
+breathing, drawing closer...  Particles of dust levitates just above the
+floor, illuminated by a light that seems to come from all around.  Something
+is near, be prepared for the worst.  
+~
+unique~
+0 0 0 0
+ACF BTUc -1000 0
+41 41 25d10+2000 10d35+100 4d8+14 none
+-14 -14 -14 999 -14
+A 3 EFKN ABa F I
+stand stand none 100
+HKM ABCDEFGHIJKV 14 14 14 14 14 14 0
+large water~
+0 0 0 100
+2
+~
+~
+#11252
+spectre chaos~
+`hthe spectre of Chaos``~
+`hA robed spectre haunts the temple, destroying anyone that dares to approach.``
+~
+This is the mighty Spectre of Chaos.  An undead being who lived thousands
+of years ago, the Spectre is an innately evil creature.  Dressed in flowing
+robes, and holding an unnatural light, the Spectre is a creature to be
+feared and respected.  
+~
+unique~
+0 0 0 0
+ABFO Tc -1000 0
+43 43 25d10+2500 10d50+100 3d12+15 none
+-15 -15 -15 999 -15
+0 59 6 0 ABGLMQa 0 NS
+stand stand none 1000
+CIK ABCDEFGHIJK 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+1
+~
+~
+#11253
+water nymph~
+`ha water nymph``~
+`hA water nymph stands here, flashing a seductive grin.``
+~
+This water nymph is incredibly alluring.  A beautiful form, with deep,
+penetrating eyes, and the most seductive grin you have ever encountered. 
+One could stare at her forever.  
+~
+unique~
+0 0 0 0
+ABGSc DF -400 0
+42 42 25d10+2250 10d25+100 3d12+14 slime
+-14 -14 -14 999 -14
+0 -1 F AB C DI
+stand stand female 600
+CHV ABCDEFGHIJK 14 14 14 14 14 14 0
+small water~
+0 0 0 100
+3
+~
+~
+#11254
+Crystal Ooze~
+`ha blob of crystal ooze``~
+`hA big blob of crystal ooze quivers here, uninterested in the world.``
+~
+You see a ooze, how else can you describe it. oooze!
+~
+unique~
+0 0 0 0
+ABCTc HNVac 0 0
+37 37 10d10+1500 1d1+1 3d10+40 none
+-12 -12 -12 999 -8
+A 63 8 DEFKOP AB B CK
+stand stand none 100
+AS DF 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11255
+chaos guard protector~
+`ha Chaos guard``~
+`hA protector of the realm of Chaos broods here.``
+~
+A pale warrior with a stern face patrols the Chaos guild here.  He is one
+of the appointed to keep peace and order in this forsaken place.  He is clad
+in black plate armor with the symbol of chaos adorning the chest.  In his
+right hand he wields an grim iron polearm with practiced easy.  
+~
+giant~
+0 0 0 0
+AGT a -1000 0
+41 41 25d10+2000 1d1+1 4d8+14 none
+-14 -14 -14 999 -14
+NU 59 4 CEIK ABa HI JP
+stand stand male 200
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+huge flesh~
+0 0 0 100
+0
+~
+~
+#11256
+chaos cleric master ozu~
+`hOzu``~
+`hOzu, the master cleric of Chaos, is here.``
+~
+Ozu, the master cleric of Chaos, is a mix of innate holiness and total
+chaos.  He is rather lanky for a cleric, and has a flowing mane of wavy
+brown hair.  He appears rather able to master the art of fighting for a
+dwarf.  
+~
+dwarf~
+0 0 0 0
+ABGQ DFHJNc -1000 0
+46 46 25d10+3250 10d50+100 6d6+16 pound
+-16 -16 -16 999 -16
+0 59 4 EFKP ABJN LQ HKR
+stand stand male 1250
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11257
+Ghostly Cook~
+`ha ghostly cook``~
+`hYou see a ghostly cook floating around here preparing non-existant meals.``
+~
+You see right though this cook. This cook is wierd!
+~
+unique~
+0 0 0 0
+ABCO DEFTc -800 0
+45 45 25d10+3000 1d1+1 8d4+16 none
+-15 -15 -15 999 -15
+N 59 2 FG ABa BDHI NZ
+stand stand none 0
+CIK 0 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11258
+Cleric Guard Ryeal~
+`hRyeal``~
+`hA cleric of the Chaos guard named Ryeal grins at you.``
+~
+You look upon this proud guard of Chaos and notice a twinkle in his 
+mischievious eyes. He grins at you.
+~
+human~
+0 0 0 0
+ABCQc FHNTVc -1000 666
+27 27 5d10+650 10d27+100 2d12+8 none
+-8 -8 -8 999 -8
+A 62 4 EFHIJKLOPU AB BE Z
+stand stand male 10
+ACHMV ABCDEFGHIJKa 11 11 11 11 11 11 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11259
+chaos neophyte student~
+`ha neophyte of Chaos``~
+`hA student of Chaos stands here, eyes closed in concentration.``
+~
+You see a dedicated student full of determination that someday they will 
+understand Chaos.
+~
+human~
+0 0 0 0
+ACHc V -1000 0
+43 43 25d10+2500 10d21+100 3d12+15 none
+-15 -15 -15 999 -15
+0 59 3 FK AB 0 0
+stand stand either 100
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11260
+lolita mistress chaos~
+`hLolita``~
+`hThe mistress of Chaos stands stern and regal.``
+~
+Lolita, the mistress of Chaos has an innately evil presence about her. 
+While she is not ugly by any means, she is far from attractive.  There is
+something about her that inspires both fear and respect.  Whether that be
+her aged presence or her black eyes, one cannot be sure.  
+~
+human~
+0 0 0 0
+ABQ HV -700 0
+51 51 25d10+3750 10d40+100 6d6+18 wrath
+-18 -18 -18 999 -18
+N -1 F ABNa BCH F
+stand stand female 1000
+ACHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+3
+~
+~
+#11261
+lurker shadow chaos shadowlurker~
+`ha shadow lurker``~
+`hA member of Chaos is here, lurking in the shadows.``
+~
+Its tough to get a steady glimpse of this being, who continually darts
+from shadow to shadow.  
+~
+syvin~
+0 0 0 0
+ACS JPQZ -700 0
+44 44 25d10+2750 10d30+100 8d4+15 pierce
+-15 -15 -15 999 -15
+0 59 3 BFK AB PX HZ
+stand stand either 550
+ADHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+3
+~
+~
+#11262
+lock gold~
+`ha lock lurker``~
+`hYou see a pile of 'lock' gold here.``
+~
+You look at all the gold! wow! then you notice that it has a curved stinger
+and claws like a scorpian!
+~
+unique~
+0 0 0 0
+AC 0 -1000 0
+17 17 3d9+258 1d1+1 4d4+8 none
+-3 -3 -3 999 -3
+0 -1 FHU O E K
+stand stand none 100
+BL FUX 9 9 9 9 9 9 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#11263
+Master Ennio~
+`hMaster Ennio``~
+`hA towering skeleton clad in rotting silk sits by his desk here.``
+~
+This undead being was once the master of Chaos.  Now Ennio just stalks
+the remains of the guild, exacting revenge for his death on those fool
+enough to challenge him now.  
+~
+lich~
+0 0 0 0
+ABORc DFGce -1000 0
+50 50 50d10+4500 10d46+100 5d8+19 pound
+-20 -20 -20 999 -20
+0 59 5 EFGP ABHLQR CEIMQ HNOS
+stand stand male 1000
+AHIMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#11264
+Cyric the shopkeeper~
+`hCyric``~
+`hCyric the Shopkeeper is here, dusting the counter.``
+~
+Cyric is a wily shopkeeper, obviously untainted by whatever has befallen
+this guild.  Apparently, he still makes a profit.  He looks at you, and asks
+you if you're going to do any business with him.  
+~
+human~
+0 0 0 0
+ABCGT 0 0 0
+60 60 50d10+9500 1d1+1 8d8+100 none
+-30 -50 -50 999 -50
+0 -1 0 ABCD 0 0
+stand stand male 200000
+ADHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11265
+Bhaal the barkeep~
+`hBhaal``~
+`hThe mighty barkeep named Bhaal stands behind the counter here.``
+~
+You look upon a dark mysterous man. He has raindrops tattooed on his head.
+~
+human~
+0 0 0 0
+ABG 0 0 0
+60 60 50d10+9500 1d1+1 8d8+100 none
+-30 -30 -50 999 -50
+0 -1 0 ABCD 0 0
+stand stand male 0
+ADHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11266
+Skeleton~
+`han ancient skeleton``~
+`hA brown, mossy skeleton sits in a heap on its throne here.``
+~
+You look upon an ancient skeleton. It is rumored that those of Chaos used to
+be trained and given practices with a certain skeleton on a Throne...
+~
+unique~
+0 0 0 0
+ABCGJKOV H -1000 0
+52 52 50d10+7000 1d1+1 10d4+23 none
+-50 -50 -50 999 -50
+0 -1 0 AB 0 0
+stand stand none 0
+DI ABCDEFGHIJK 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11267
+skeletal skeleton master~
+`hA skeletal master``~
+`hA skeleton is mostly here, a former master of Chaos.``
+~
+The skeletal master is as you would expect a skeleton to be. 
+~
+human~
+0 0 0 0
+ABCOc V -1000 0
+50 50 50d10+4500 1d1+1 5d8+19 none
+-12 -12 -12 999 -7
+0 -1 CEFKP LQ LQ EH
+stand stand female 100
+AHIMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11268
+Giant Rat~
+`ha giant rat``~
+`hA giant rat is here munching on some bones.``
+~
+You see a HUGE rat! it is the biggest you have ever seen! quick kill it
+before it kills you!
+~
+unique~
+0 0 0 0
+ACFHe 0 -400 0
+40 40 15d10+1850 1d1+1 4d8+13 none
+1 1 1 999 0
+0 -1 FHU 0 0 C
+stand stand none 0
+AG ABCDEFGHIJKQ 14 14 14 14 14 14 0
+tiny flesh~
+0 10 7500 100
+0
+~
+~
+#11269
+Water Beast~
+`hthe water beast``~
+`hThe water appears distorted here.``
+~
+The water beast is a magical personification created from water.  It is
+without a definite form, but it appears very dangerous.  
+~
+unique~
+0 0 0 0
+ABGR Z -800 0
+56 56 50d10+2500 10d10+1000 10d4+24 drain
+-31 -31 -31 999 -21
+0 59 6 CDEFKO ABKLQ H I
+stand stand none 0
+CL 0 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11270
+Baeleron piper~
+`hBaeleron``~
+`hBaeleron the piper welcomes you to his domicile.``
+~
+Baeleron the piper is a short, brooding human.  His face is covered with
+red stubble to match his flowing red mane.  He is well known in these parts
+for his ability on the bagpipes.  
+~
+human~
+0 0 0 0
+ABT V 200 0
+46 46 25d10+3250 1d1+1 6d6+16 slap
+-16 -16 -16 999 -16
+N -1 DFKN ABa 0 KOQ
+stand stand male 1250
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+7
+~
+~
+#11271
+magic lion statue~
+`hthe enchanted statue of a lion``~
+`hAn enchanted stone statue of a lion licks its paws slowly.``
+~
+You look upon a great beast. This magical beast protects its owner at all 
+times.
+~
+cat~
+0 0 0 0
+ABG Z 0 0
+43 43 3d120+1200 1d1+1 9d9+10 claw
+-5 -5 -5 999 -5
+A 60 4 AEFHMOP ABbc 0 H
+stand stand none 100
+ACGV ACDEFHJKQUVa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11272
+hulking brute man guard kelven~
+`hKelven``~
+`hA hulking brute stands on guard here, waiting for someone worthy enough to fight him.``
+~
+A giant of a man stands here, clad in heavy armor and shield.  His body
+bulges of muscles.  But something is amiss, as you look closer, you notice
+that he is missing skin in his face leaving the pale white bone underneath
+bare in a macabre display of undeath.  `` 
+~
+unique~
+0 0 0 0
+AFOT DEFJTUZ -1000 0
+48 48 25d10+3750 10d48+100 6d6+20 none
+-18 -18 -18 999 -18
+0 -1 E ABa 0 K
+stand stand male 100
+CV ABCDEFGHIJPUW 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11273
+trog battlemaster warrior~
+`hTrog``~
+`hTrog, legendary battlemaster of Chaos is here.``
+~
+A big strong warrior, rippling with muscles, stands before you.  It is
+Trog, grand warrior of the Chaos clan.  
+~
+giant~
+0 0 0 0
+ABT d -1000 0
+52 52 50d10+5500 1d1+1 6d7+20 slash
+-22 -22 -22 999 -22
+N -1 CEFIK ABEa HI CJP
+stand stand male 1500
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+giant flesh~
+0 0 0 100
+3
+~
+~
+#11274
+zombie~
+`ha zombie``~
+`hA zombie is lumbering around here.``
+~
+Covered in tatters and rags, this is the undead corpse of a human being. 
+~
+human~
+0 0 0 0
+ACFO Z -1000 0
+47 47 25d10+3500 1d1+1 6d6+17 bite
+-17 -17 -17 999 -17
+0 59 2 EFKOU ABLQa 0 HKN
+stand stand either 0
+ABHIMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+1
+~
+~
+#11275
+spectre hypnotic~
+`hA hypnotic spectre``~
+`hThe eerie, glowing eyes of this floating spectre is almost hypnotic.``
+~
+Dressed in full battle regalia, this floating knight's eerie eyes almost put you in
+a trance.
+~
+unique~
+0 0 0 0
+AT TV -1000 0
+47 47 25d10+3500 1d1+1 6d6+17 none
+-11 -11 -11 999 -11
+0 -1 CEFP AB E LNS
+stand stand none 100
+CV ABCDEFGHIJK 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11276
+boreus chaos swordsman~
+`hBoreus``~
+`hBoreus, Chaos swordsman, is here.``
+~
+Boreus, the swordsman, is a stout, middle-aged dwarf.  Hair covers the
+majority of his body, and he appears capable of picking a fight as well as
+defending imself.  
+~
+dwarf~
+0 0 0 0
+AT JV -900 0
+51 51 50d10+5000 1d1+1 5d8+20 slash
+-7 -6 -7 999 -2
+0 59 5 CEFK AB DGLQ KR
+stand stand none 1000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+3
+~
+~
+#11277
+Skeletal rat~
+`ha skeletal rat``~
+`hA skeletal rat runs around in circles here.``
+~
+You look at a rat that is a skeleton..how odd.
+~
+unique~
+0 0 0 0
+ACc 0 -300 0
+16 16 3d9+208 1d1+1 2d6+4 none
+-2 -2 -2 999 0
+0 -1 U 0 0 0
+stand stand none 10
+AV ABCDEFHJK 9 9 9 9 9 9 0
+tiny flesh~
+0 0 0 100
+4
+~
+~
+#11278
+transparent cook~
+`ha transparent cook``~
+`hA transparent cook is here cooking dinner.``
+~
+You think you see someone cooking but you see right through it!
+~
+unique~
+0 0 0 0
+AO c -500 0
+57 57 50d10+8000 1d1+1 6d8+24 none
+-27 -27 -27 999 -27
+N -1 G Qa C N
+stand stand none 0
+I ABCDEFGHIJK 18 18 18 18 18 18 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11279
+radric weaponskeeper~
+`hRadric``~
+`hRadric, the weaponskeeper is leaning on a mighty club here.``
+~
+Radric, the weaponskeeper is a large, battle-scarred man.  His size
+implies sterngth and demands respect.  Hairless and tattooed on his head,
+Radric appears to be a force.  
+~
+human~
+0 0 0 0
+ABT V -1000 0
+57 57 15d10+2220 1d1+1 5d6+13 slash
+-13 -13 -13 999 -2
+AN 62 5 CDEFO ABCDa E O
+stand stand male 2000
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+huge flesh~
+0 0 0 100
+0
+~
+~
+#11280
+Poltergist~
+`ha poltergist``~
+`hA poltergist is here throwing things at you!``
+~
+You see a fierce poltergist.  This one has an attidude and seems to not
+like you very much.  
+~
+unique~
+0 0 0 0
+ACO U -900 0
+47 47 25d10+3500 1d1+1 6d6+17 chill
+-16 -16 -16 999 -16
+N -1 G ABMa EKL NY
+stand stand neutral 100
+K ABCDEFGHIJK 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11281
+Quickblade smith~
+`hQuickblade``~
+`hA proud smith named Quickblade forges an axe here.``
+~
+You see a proud weaponsmith and smith here smiling and saying 'Death is
+for those who stand to block Chaos.'
+~
+elf~
+0 0 0 0
+ATc EFJV -900 0
+58 58 50d10+8500 1d1+1 5d10+25 none
+-28 -28 -28 999 -28
+N -1 CEF ABE BC KZ
+stand stand male 1850
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11282
+Lord Inanno~
+`hLord Inanno``~
+`hLord Inanno stands here, reciting an invocation.``
+~
+Inanno, Lord of Chaos mages, has been studying magics for hundreds of
+years.  Despite that age, he appears as fit and virile as those a tenth of
+his age.  He has mastered all forms of magic, and is more than a formidable
+foe.  
+~
+elf~
+0 0 0 0
+ABR DEFHJ -1000 0
+55 55 50d10+7000 10d45+100 10d4+23 none
+-25 -25 -25 999 -25
+N -1 FK ABa BCX HZ
+stand stand male 1500
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+small flesh~
+0 0 0 100
+3
+~
+~
+#11283
+unseen servant~
+`han unseen servant``~
+`hA faint flicker of motion gives away the presence of a servant lurking in the shadows.``
+~
+You see the outline of what appears to be a person but you really can't 
+tell what it is you are looking at.
+~
+unique~
+0 0 0 0
+AC 0 -300 0
+46 46 25d10+3250 1d1+1 6d6+16 wrath
+-16 -16 -16 999 -16
+0 59 2 G ABC C N
+stand stand either 100
+CK 0 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11284
+Young mage~
+`ha young mage``~
+`hA young mage sits here learning about Chaos and magic.``
+~
+This mage is diligently working on an old manuscript, translating the
+ancient words and scribbling the finished product down in his journal.  His
+grey cloak marks him as being an apprentice of the Chaos guild.  
+~
+elf~
+0 0 0 0
+ACRc EFJ -900 0
+46 46 25d10+3250 10d25+100 6d6+16 none
+-16 -16 -16 999 -16
+N -1 F ABCa BC DZ
+stand stand male 450
+ACHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11285
+bloodbane blackskinned demon~
+`hBloodbane``~
+`hA black-skinned demon charges at you!``
+~
+The fanged, gaping mouth of this demon snaps at you as you try to fend him
+off.  All your attacks seem to be in vain as he shrugs them off, seemingly
+without feeling a thing.  `` 
+~
+unique~
+0 0 0 0
+ACF DFGJOTZa -1000 0
+58 58 50d10+3400 1d1+1 5d10+25 none
+-28 -28 -28 999 -28
+A 65 4 CEF ABUab 0 K
+stand stand male 2500
+CZ ABCDEFGHIJKPQUVX 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+1
+~
+~
+#11286
+Alchemist~
+`hthe alchemist``~
+`hAn alchemist is here mixing chemicals in a bubbling cauldron.``
+~
+You see a wise female mage. She is very pretty but you realize that she
+likes to play with chemicals cause that is what she does best.
+~
+elf~
+0 0 0 0
+ABR EFJNO -1000 0
+49 49 50d10+4000 10d17+100 4d10+18 none
+-19 -19 -19 999 -19
+0 -1 F ABC BC DZ
+stand stand female 1500
+ACHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11287
+lanfear mage beautiful~
+`hLanfear``~
+`hA beautiful mage flots cross-legged in the middle of the room.``
+~
+Every inch of this quiet woman radiates a commanding power, her lithe
+body is accentuated by her flowing silk dress and the thin red belt around
+her waist.  
+~
+human~
+0 0 0 0
+AR HV -1000 0
+47 47 25d10+3500 10d47+100 6d6+17 magic
+-17 -15 -14 999 -17
+N -1 F ABCa K N
+stand stand female 1750
+ACHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11288
+Lord Daagar~
+`hLord Daagar``~
+`hLord Daagar is here casting spells.``
+~
+You look upon the new headmaster of the mages school of Chaos magic.
+~
+elf~
+0 0 0 0
+ABR DEFJNO -1000 0
+50 50 50d10+4500 10d50+100 5d8+19 none
+-20 -20 -20 999 -20
+N -1 F ABCa BCK NZ
+stand stand male 1750
+ACHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11289
+prismatic light rainbow elemental~
+`ha rainbow elemental``~
+`hPrismatic light illuminates the room here.``
+~
+You look upon rainbows of bright color and begin to get very dizzy!
+~
+unique~
+0 0 0 0
+AC IV 0 0
+51 51 50d10+5000 1d1+1 5d8+20 none
+-21 -21 -21 999 -21
+0 -1 CEF ABHIJK 0 DN
+stand stand none 0
+AJ ABCDEFGHIJK 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11290
+Shadow~
+`ha shadow``~
+`hThe shadows waver as if alive.``
+~
+You look into the darkness....
+~
+unique~
+0 0 0 0
+A V -1000 0
+52 52 50d10+5500 1d1+1 6d7+20 none
+-22 -22 -22 999 -22
+N -1 BFKU ABDa E H
+stand stand none 0
+CL 0 16 16 16 16 16 16 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11292
+berserker man~
+`hBERSERKER``~
+`hA shaggy man stands here drooling on himself.``
+~
+His hair is disheveled and yellow green spittle flies out of his mouth as
+he considers you balefully.  With a lick of his hands, he prepares his razor
+sharp claws for some cutting, and gets ready to FOK you up.  
+~
+human~
+0 0 0 0
+ABCFNQ HOVa -1000 0
+65 100 50d10+9500 60d9+100 5d10+5 claw
+-30 -30 -30 999 -3
+A 63 5 EHIKU ABabc 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 19 19 19 19 19 19 0
+medium flesh~
+0 0 0 200
+1
+~
+~
+#11293
+unidentifiable mass~
+`hAn unidentifiable mass``~
+`hSomething is moving around on the shelves here...``
+~
+~
+human~
+0 0 0 0
+ABF Z 0 0
+40 40 1000d1+1 1d1+1 20d10+10 slime
+0 0 0 999 0
+0 59 3 0 BPTabc 0 C
+stand stand neutral 0
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#0
+
+#OBJECTS
+#11206
+shield darkness~
+The Shield of Darkness~
+`gAn evil shield is here.``~
+metal~
+0
+armor 2
+EGJL
+0
+AJ
+0
+0
+0
+11206
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D AD AD AD 0
+0
+0
+40 200 12000 P
+A
+12 10
+A
+13 10
+#11207
+Amulet of the stars~
+Amulet of the stars~
+`gYou see the night inside the amulet on the ground.``~
+metal~
+0
+armor 2
+GPT
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC AC ABC 0
+0
+0
+20 5 1000 P
+A
+24 -2
+#11208
+jade ring~
+a jade ring~
+`gA beautiful jade ring is here.``~
+stone~
+0
+jewelry 2
+AEJL
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 3 5000 P
+A
+17 -5
+A
+24 -1
+#11209
+White silk dress~
+a white silk dress~
+`gA white silk dress is here.``~
+cloth~
+0
+clothing 2
+PST
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+47 10 50000 P
+A
+2 1
+A
+26 2
+#11210
+Wand of command~
+the wand of command~
+`gYou see a powerful looking wand here.``~
+wood~
+0
+wand 2
+ABGJL
+0
+AO
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BEF BC AB ABE 'reserved'
+0
+0
+40 5 10000 P
+#11211
+Daagar's gloves~
+Daagar's gloves~
+`gYou see Lord Daagar's gloves here.``~
+leather~
+0
+armor 2
+AEJLT
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CD CD CD CD 0
+0
+0
+50 10 65555 P
+A
+24 -1
+A
+1 4
+#11212
+a pint of ale~
+a pint of ale~
+`gA pint of ale invites you to drink it.``~
+glass~
+0
+drink 2
+AN
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCD BD AB 0 0
+0
+0
+25 10 50 P
+#11213
+skeleton key~
+skeleton key~
+`gA small key is here.``~
+metal~
+0
+key 2
+AUc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 1 10 P
+#11214
+Black key~
+black key~
+`gA black key is here.``~
+metal~
+0
+key 2
+AUc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 1 10 P
+#11215
+Gold key~
+gold key~
+`gA gold key is here.``~
+gold~
+0
+key 2
+AUc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 50 10 P
+#11216
+Silver Key~
+silver key~
+`gA silver key is here.``~
+metal~
+0
+key 2
+Uc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 1 10 P
+#11217
+standard lager~
+standard lager~
+`gA bottle of standard lager is here.``~
+glass~
+0
+drink 2
+AN
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCD BD 0 0 0
+0
+0
+20 7 50 P
+#11218
+Bottle magic pills~
+Bottle of magic pills~
+`gA bottle of magic pills is here.``~
+food~
+0
+pill 2
+ANT
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+DF 'create food' 'deconsecrate' 'damnation' -1 0
+0
+40 10 2000 P
+#11219
+Ribeye steak~
+Ribeye steak~
+`gA juicy ribeye steak is here.``~
+food~
+0
+food 2
+AN
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CD CD D 0 0
+0
+0
+10 1 100 P
+#11220
+opaque black potion~
+an opaque black potion~
+`gAn opaque black potion quietly bubbles in its container.``~
+potion~
+0
+potion 2
+ANU
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BEF 'heal' 'cure blindness' 'poison' -1 0
+0
+60 2 1000 P
+#11221
+Lots of Gold~
+Lots of gold~
+`gYou see a heap of gold!``~
+gold~
+0
+money 2
+A
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+DEFHIJL BDEFGH 0 0 0
+0
+0
+0 4000 20000 P
+#11222
+Death key~
+Death key~
+`gThe key to death is here.``~
+metal~
+0
+key 2
+AUc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 1 0 P
+#11223
+card~
+a playing card~
+`gA small playing card has been dropped here.``~
+paper~
+0
+trash 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 1 0 P
+A
+26 1
+#11246
+DON"T USE!~
+A guidebook~
+`gA small interesting looking book is here.``~
+paper~
+0
+treasure 2
+N
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD D D ABC 0
+0
+0
+19 10 500 P
+#11247
+staff quarter quarterstaff~
+a quarterstaff~
+`gA quarterstaff lies here.``~
+wood~
+0
+weapon 2
+G
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB C C ABC 0
+0
+0
+19 12 1000 P
+#11248
+mirrored blade~
+a mirrored blade~
+`gA mirrored blade is here, reflecting the surroundings.``~
+glass~
+0
+weapon 2
+G
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A C AC A 0
+0
+0
+20 10 1000 P
+A
+18 1
+A
+19 3
+#11249
+Boots of Speed~
+Boots of Speed~
+`gA pair of magic boots are glowing here.``~
+leather~
+0
+armor 2
+EJ
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+D D ABC D 0
+0
+0
+30 20 1000 P
+A
+14 30
+A
+2 2
+#11250
+tattered robes~
+tattered robes~
+`gLong, tattered robes float here, emitting a faint black glow.``~
+linen~
+0
+armor 2
+EG
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD BD D 0
+0
+0
+60 8 5000 P
+#11251
+Frost Brand~
+Frost Brand~
+`gThe Frost Brand is humming here.``~
+metal~
+0
+weapon 2
+BFJ
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+d AC AC BCDE B
+0
+0
+41 15 5000 P
+A
+18 2
+#11252
+Purple torch~
+a purple torch~
+`gA wooden torch burns a purple flame here.``~
+wood~
+0
+light 2
+AG
+0
+A
+0
+0
+0
+11252
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+10 5 100 P
+A
+12 10
+#11253
+wooden chest~
+wooden chest~
+`gA wooden chest sits here.``~
+wood~
+0
+container 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DFGHIJ A 0 0 0
+0
+0
+0 0 0 P
+#11254
+GOLD~
+Gold Coins are here.~
+`gA heap of GOLD is here!``~
+gold~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 CFG 0 0 0
+0
+0
+0 5000 25643 P
+#11255
+shimmering ring~
+a shimmering ring~
+`gA ring lies here, shimmering in many colors.``~
+gold~
+0
+jewelry 2
+G
+0
+AB
+0
+0
+0
+11255
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+35 5 2000 P
+A
+17 -10
+A
+6 2
+#11256
+leather boots~
+a pair of sturdy leather boots~
+`gA pair of sturdy leather boots are here.``~
+leather~
+0
+armor 2
+G
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD BD AB 0
+0
+0
+32 20 1000 P
+A
+1 1
+A
+18 2
+#11257
+gauntlets chaos~
+a pair of Chaos gauntlets~
+`gA pair of iron gauntlets used by the Chaos guards are here.``~
+iron~
+0
+armor 2
+BC
+0
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AD D ABC A 0
+0
+0
+32 20 2000 P
+A
+19 3
+#11258
+Heart Seeker~
+Heart Seeker~
+`gA weapon rests against the wall covered in blood.``~
+metal~
+0
+weapon 2
+EG
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A C D 0 C
+0
+0
+60 20 20000 P
+A
+19 3
+#11259
+huge polearm~
+a huge polearm~
+`gA large polearm rests against the wall here.``~
+metal~
+0
+weapon 2
+E
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC BC AC BF FI
+0
+0
+35 300 1000 P
+#11260
+black arm guards armguards~
+a pair of black armguards~
+`gA set of black armguards, used by the minions of Chaos.``~
+mithril~
+0
+armor 2
+CG
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+32 150 1000 P
+A
+19 2
+#11261
+black leg guards legguards~
+a pair of black leg guards~
+`gA set of black leg guards, used by the minions of Chaos.``~
+mithril~
+0
+armor 2
+CG
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABD ABD ABD AC 0
+0
+0
+32 10 5000 P
+A
+19 1
+#11262
+Javelin~
+a javelin~
+`gA javelin rests against the wall here.``~
+wood~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABC AC AC B F
+0
+0
+11 100 1222 P
+A
+19 3
+A
+18 1
+#11263
+scarab insanity~
+Scarab of insanity~
+`gAn INSANE peice of jewelery is here.``~
+metal~
+0
+armor 2
+BEP
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC ABC ABC D 0
+0
+0
+27 5 5000 P
+A
+3 -4
+#11264
+crimson vest~
+a crimson vest~
+`gThe crimson vest of Ozu is here.``~
+cloth~
+0
+armor 2
+GId
+0
+AD
+0
+0
+0
+11264
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+40 15 20000 P
+A
+13 -10
+A
+19 1
+A
+18 3
+A
+24 -3
+#11265
+Gold tiara~
+Gold tiara~
+`gA jewel-encrusted tiara is resting gently on the ground.``~
+gold~
+0
+armor 2
+ACJO
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD BD D D 0
+0
+0
+40 100 22500 P
+#11266
+Low-cut dress~
+Low-cut dress~
+`gA low-cut dress is looking good here.``~
+cloth~
+0
+armor 2
+BG
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC ABC ABC ABC 0
+0
+0
+40 8 1220 G
+A
+6 1
+#11267
+ring mark chaos~
+a ring with the mark of Chaos~
+`gA ring made from rubies lies here.``~
+diamond~
+0
+jewelry 2
+G
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 1 5000 P
+A
+13 14
+#11268
+Diamond engagement ring~
+a diamond engagement ring~
+~
+diamond~
+0
+treasure 2
+AE
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+40 1 5555 P
+A
+18 1
+A
+26 1
+#11269
+Jewel encrusted dagger~
+Jewel encrusted dagger~
+`gA thief's dream weapon is here.``~
+metal~
+0
+weapon 2
+E
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B AB D 0 0
+0
+0
+40 25 10000 P
+#11270
+ornate cabinet~
+cabinet~
+`gA tall ornate cabinet sits in a corner here.``~
+wood~
+0
+container 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG ACD ABEFJLM CFG CFG
+0
+0
+0 0 0 P
+#11271
+heavy black chainmail~
+heavy black chainmail~
+`gA vest made of heavy black chainmail lies here, glowing.``~
+metal~
+0
+armor 2
+0
+JKL
+ADI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCD ABCD ABCD BCDE 0
+0
+0
+50 800 23399 P
+S
+ 6 194 0 -1 20 'bash' 0
+A
+19 2
+A
+2 -2
+#11272
+amulet ennio~
+an amulet of Ennio~
+`gThe amulet of Ennio, undead headmaster of Chaos lies here.``~
+metal~
+0
+treasure 2
+EJL
+0
+AC
+0
+CHMN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+75 36 3200 P
+A
+18 2
+A
+19 2
+#11273
+ebony bracer~
+an ebony bracer~
+`gA bracer made of fine ebony lies here.``~
+ebony~
+0
+armor 2
+AG
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+75 10 21000 P
+#11274
+brass desk~
+a brass desk~
+`gA brass desk, worn down by time, sits in a corner.``~
+brass~
+0
+container 2
+RTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG ACD ACEFJLM 0 0
+0
+0
+70 0 0 P
+#11275
+cloak displacement~
+a cloak of displacement~
+`gA cloak lies heres, displacing its form.``~
+snakeskin~
+0
+armor 2
+F
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+75 10 20000 P
+#11276
+Crystal decanter~
+a crystal decanter~
+`gA crystal decanter wobbles on the floor here.``~
+crystal~
+0
+drink 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+CFG CFG ACE 0 0
+0
+0
+50 10 1000 P
+#11277
+black white maids outfit~
+a maid's outfit~
+`gA fancy black and white maid's outfit is here.``~
+cloth~
+0
+armor 2
+A
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC ABC ABC BC 0
+0
+0
+20 5 8888 P
+#11278
+rope belt~
+a rope belt~
+`gA rope that appears to have been used as a belt lies here.``~
+hemp~
+0
+armor 2
+G
+0
+AL
+C
+F
+0
+11278
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A A 0
+0
+0
+10 4 7000 P
+A
+1 1
+A
+2 1
+#11279
+jagged dagger~
+a jagged dagger~
+`gA dagger with a jagged blade is here.``~
+steel~
+0
+weapon 2
+HM
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B AC C ABD J
+0
+0
+30 5 6700 P
+#11280
+sash belt magical~
+a magical sash~
+`gThe magical sash of Lord Inanno lies here.``~
+silk~
+0
+armor 2
+G
+0
+AL
+0
+0
+0
+11280
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+-10 -10 -10 AF 0
+0
+0
+50 10 8888 P
+A
+12 25
+#11281
+chaos symbol~
+the symbol of Chaos~
+`gA emblem of the Chaos guild is emblazened on a necklace``~
+stone~
+0
+jewelry 2
+AEJ
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 10 878 P
+A
+17 -10
+#11282
+runed staff~
+a runed staff~
+`gA runed staff emits a faint magical glow here.``~
+flesh~
+0
+staff 2
+E
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BCDE B B BCG 'reserved'
+0
+0
+40 1000 10000 P
+#11283
+Shadow slippers~
+a pair of shadow slippers~
+`gA pair of shadow slippers is here.``~
+satin~
+0
+armor 2
+E
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+20 5 1000 P
+A
+2 1
+A
+18 1
+#11284
+magical bag~
+an illegal magic bag~
+`gA bag rests here, pulsating with magical energy.``~
+velvet~
+0
+container 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EIJKN AC 0 CEFGHI BCG
+0
+0
+30 5 1247 P
+#11285
+cloudy potion~
+a cloudy potion~
+`gA cloudy potion froths in its vial.``~
+glass~
+0
+potion 2
+G
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BCDE 'faerie fog' 'cure critical' 'reserved' 'reserved'
+0
+0
+40 10 1700 P
+#11286
+bubbly potion~
+a bubbly potion~
+`gThis potion bubbles out of its vial.``~
+glass~
+0
+potion 2
+G
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+DF 'cure disease' 'renewal' 'cure poison' 'cure light'
+0
+0
+40 1000 10000 P
+#11287
+whiskey shot~
+a shot of whiskey~
+`gA shot of strong whiskey is here. Down it!``~
+glass~
+0
+drink 2
+N
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG A AC 0 0
+0
+0
+1 2 50 P
+#11288
+a pint of beer~
+a pint of beer~
+`gAn icy cold pint of beer is here.``~
+glass~
+0
+drink 2
+AN
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG AC A 0 0
+0
+0
+1 2 50 P
+#11289
+mug dark ale~
+a mug of dark ale~
+`gA mug of dark ale with a thick head is here.``~
+glass~
+0
+drink 2
+N
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG AB A 0 0
+0
+0
+1 2 50 P
+#11290
+chaos special beer~
+a bottle of chaos special beer~
+`gThe Chaos house brand beer waits for you to partake of it``~
+glass~
+0
+drink 2
+AN
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG AC A A 0
+0
+0
+1 2 50 P
+#11291
+blood shot~
+a shot of blood~
+`gA shot of blood from the slain enemies of Chaos is here.``~
+glass~
+0
+drink 2
+AN
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG A ACD 0 0
+0
+0
+1 2 60 P
+#11292
+shimmering water dagger~
+a shimmering water dagger~
+`gA dagger made of water shimmers in the light.``~
+water~
+0
+weapon 2
+F
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+B BC AC ABCF 0
+0
+0
+35 5 10000 P
+A
+2 1
+#11293
+bagpipes set~
+a set of bagpipes~
+`gA set of bagpipes lie here, deflated.``~
+canvas~
+0
+instrument 2
+0
+0
+AO
+0
+0
+0
+11293
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+38 30 3000 P
+#11294
+tartan kilt~
+a tartan kilt~
+`gA grand tartan kilt is here.``~
+wool~
+0
+armor 2
+G
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AB AB AB A 0
+0
+0
+38 10 3000 P
+A
+26 1
+#11295
+sword silver broadsword~
+a silver broadsword~
+`gA towering broadsword, made of silver lies here.``~
+silver~
+0
+weapon 2
+AEJL
+0
+ANR
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A BC BC AB F
+0
+0
+30 400 1050 P
+#11296
+black helm~
+a black helm~
+`gA black helm lies here.``~
+mithril~
+0
+armor 2
+CG
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AD D D AB 0
+0
+0
+26 2 5555 P
+A
+13 10
+#11297
+witchwood staff~
+a witchwood staff~
+`gA witchwood staff burns here, infinitely.``~
+wood~
+0
+light 2
+AG
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+10 50 100 P
+#11298
+grey mithril boots~
+a pair of grey mithril boots~
+`gA pair of grey mithril boots are here.``~
+mithril~
+0
+armor 2
+G
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BD BD BD C 0
+0
+0
+43 104 450 P
+A
+13 5
+#11299
+iron plate hefty~
+a hefty iron plate~
+`gA hefty iron plate rests here.``~
+iron~
+0
+armor 2
+GI
+0
+AD
+CEFHIJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ACD ACD ACD ABC 0
+0
+0
+43 300 8000 P
+#11300
+apron~
+the apron~
+`gAn apron lies folded here.``~
+cloth~
+0
+armor 2
+AGIY
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC ABC ABC AD 0
+0
+0
+26 10 555 P
+#11301
+Smith's Hammer~
+a smith's hammer~
+`gThe smith's hammer is resting here.``~
+iron~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BC B ABCD ABC 0
+0
+0
+10 100 23211 P
+#11302
+target~
+target~
+`gA target is here for practice.``~
+wood~
+0
+container 2
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG ACD CEFJLM 0 0
+0
+0
+10 0 0 P
+#11303
+kilt~
+a kilt~
+`gA plaid kilt lies here, unused.``~
+cloth~
+0
+armor 2
+CG
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BD AD AD BD 0
+0
+0
+60 23 54545 P
+A
+13 10
+#11304
+Crazymans Sword~
+the crazyman's sword~
+`gYou see a sword of a crazyman!``~
+iron~
+0
+weapon 2
+G
+0
+AN
+0
+0
+0
+11304
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A ABC BC AB E
+0
+0
+50 200 55555 P
+#11305
+Halberd of Might~
+Halberd of Might~
+`gYou see a mighty halberd here.``~
+metal~
+0
+weapon 2
+AB
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC AC D ACE FI
+0
+0
+20 15 25000 P
+A
+19 7
+#11306
+claw berserker~
+`bclaw of the `aBerserker``~
+`gA razor sharp claw, dripping with blood, has been left here.``~
+metal~
+0
+weapon 2
+CGHJLMa
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 AC ABD AB C
+0
+0
+58 32 250000 P
+A
+19 4
+A
+18 5
+#11307
+ebony throne~
+`aan ebony throne``~
+`gA hand-carved ebony throne sits in the center of the room.``~
+wood~
+0
+furniture 2
+RSTYa
+0
+0
+0
+0
+0
+11307
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A FHJKPQ EH CFG CFG
+0
+0
+50 10000 10 P
+#11308
+swirl water~
+a swirl in the water~
+`gThe water has begun to swirl here, sucking debris down into the water.``~
+water~
+0
+portal 2
+QRSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n is sucking into the swirling waters!~
+You are slowly drawn into the swirl of water.~
+$n drops down from the ceiling.~
+~
+-1 0 G ABDKLN E
+0
+0
+10 0 2 P
+#11309
+ghost apple~
+the ghost of an apple~
+`gLong ago an apple fell to the ground uneaten, now its spirit haunt this pantry.``~
+air~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-10 -10 0 A 0
+0
+0
+1 1 1 P
+#11310
+demonic tome~
+a demonic tome~
+`gA long forgotten tome made of the stretched hide of a human lies here.``~
+flesh~
+0
+writing_paper 2
+RSTYa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+-1 0 0 0 0
+0
+0
+50 30 0 P
+A
+1 2
+A
+12 40
+E
+papermsg~
+`bThis looks like some kind of journal, the pages are torn and only a
+`bfew passages are possible to read.
+``
+`h...very dangerous indeed.
+`h
+`hI made a discovery while scrying the nether planes looking for...
+`h
+`h..he, or it, rather. Such beings are above physical harm...
+`h...such power! And summoning the demon lord Iverath will give me
+`hunlimited...
+`h
+`hTonight I will make the preparations, I cannot make one single mistake.
+`hWhat if he breaks loose? The consequenses would be catastrophic for our
+`hsociety, and for the wor...
+``
+`bThe rest of the journal is too damaged to read.``
+~
+#11311
+canopy bed~
+a canopy bed~
+`gThis queen-size canopy bed is neatly made, deep red silk veils surrounds it.``~
+wood~
+0
+furniture 2
+RSTYa
+0
+0
+0
+0
+0
+11311
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C EFIKMNO EHL BH BH
+0
+0
+9 0 0 P
+#11312
+students journal~
+a student's journal~
+~
+unknown~
+0
+writing_paper 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 0 0 0
+0
+0
+1 0 1 P
+E
+papermsg~
+`hDear Diary``
+`h
+`hEvery day we are supposed to read lots and lots of books, and by the end of
+`heach day there is this really hard test. All I do is studying, all day long.
+`hWe are supposed to read about Chaos, and learn what it is all about.
+`hAnd I DO think this Chaos thing is neat and all, but I am wasting time that I
+`hcould use on flirting with girls (that are not fanatics).
+`h
+`hDear diary, screw this place, I'm going back to Linden.``
+~
+#11313
+object trigger mood~
+`k(Object trigger aura)`b mood trigger(spooky)``~
+`k(Object trigger aura)`b mood trigger(spooky)``~
+unknown~
+0
+trash 2
+QRSTYa
+0
+0
+0
+0
+0
+11313
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#11314
+object trigger mood~
+`k(Object trigger aura)`b mood trigger``~
+`k(Object trigger aura)`b mood trigger``~
+unknown~
+0
+trash 2
+QRSTYa
+0
+0
+0
+0
+0
+11314
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#11315
+wooden trapdoor~
+a wooden trapdoor~
+`gA wooden trapdoor covers most of the floor here.``~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#11316
+hearth enormous~
+an enormous hearth~
+`gAn enourmous hearth covers the entire north wall.``~
+unknown~
+0
+container 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG 0 0 CFG CFG
+0
+0
+10 500 0 P
+#11317
+silver coin~
+`gA silver coin gleams in the dirt inside the hearth.``~
+A silver coin gleams in the dirt inside the hearth~
+silver~
+0
+money 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 0 0 0
+0
+0
+1 1 1 P
+#11318
+simple metal key~
+a simple metal key~
+~
+metal~
+0
+key 2
+0
+0
+A
+0
+0
+0
+11268
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#11319
+bookshelf~
+a nearby bookshelf~
+`gRows and rows of bookshelves stretch further into the library.``~
+wood~
+0
+container 2
+RSTYa
+0
+0
+0
+0
+0
+11319
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG 0 0 CFG CFG
+0
+0
+10 500 0 P
+#11320
+tomes black leather~
+`gLines of black leather tomes sit in the bookshelves.``~
+`gLines of black leather tomes sit in the bookshelves.``~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 1 P
+#11321
+a twisted damp towel~
+a twisted damp towel~
+`gA damp towel hangs on a hook by the mirror.``~
+unknown~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC A CE C 0
+0
+0
+30 20 0 P
+#11322
+wobbly desk~
+a wobbly desk~
+`gA desk that looks like it might fall asunder any moment sits in the corner.``~
+wood~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+11322
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+9 0 0 P
+#0
+
+#ROOMS
+#11206
+0 0
+~
+~
+~
+0 0 0
+`bA Destroyed Room``~
+`aThis room is ostensibly barren.  The expected decayed furnishing is
+nonexistent.  It would appear that someone or something has purged this room
+of all signs of inhabitance.  A pungent odor is prevalent, and there is a
+strange presence in the room.  There is a doorway to the south.``
+~
+0 DNT 0
+0
+~
+I 0 D2
+You see a door to the south.
+~
+~
+1 1 11305
+S
+#11207
+0 0
+~
+~
+~
+0 0 0
+`bWarriors's Dormitory``~
+`aThis is a very large domicile, apparently once a dormitory for the
+warriors of Chaos.  There is a small squared circle in the center of the
+room, likely where these warriors amused themselves with wrestling matches. 
+There is an unsettling presence in the room.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+door~
+1 0 11305
+S
+#11208
+0 0
+~
+~
+~
+0 0 0
+`bThe Knight's Hall``~
+`aYou stand in a grand hallway.  You look at all the work and dedication
+that it must have taken to construct such a hallway.  Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a
+toast to you.  Gold and silver line the hallway and you see images of
+dragons and knights floating in the air.  The knights seem to be fighting
+the good dragons and riding on the backs of the evil red and black dragons. 
+This place must have inspired the most hearty of evil warriors.  The hall
+stretches east and west, with a door on the north side.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+1 1 11209
+D1
+You see a hall to the east.
+~
+~
+0 -1 11305
+D3
+You see a hall to the west.
+~
+~
+0 -1 11210
+S
+#11209
+0 0
+~
+~
+~
+0 0 0
+`bThe Instructor's Quarters``~
+`aIn this room, the linens seems to have fared better than the furniture.
+The bedframe appears to have completely rotted away but some remnants of the
+sheets and a lump that may be the remains of a pillow still survive.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D2
+You see a door south.
+~
+~
+1 1 11208
+S
+#11210
+0 0
+~
+~
+~
+0 0 0
+`bThe Knight's Hall``~
+`aYou stand in a grand hallway.  You look at all the work and dedication
+that it must have taken to construct such a hallway.  Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a
+toast to you.  Gold and silver line the hallway and you see holograms of
+dragons and knights floating in the air.  The knights seems to be fighting
+the good dragons and riding on the backs of the evil red and black dragons. 
+This place must have inspired the most hearty of evil warriors!  The hall
+continues to the east, while a door leads to the north.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11211
+D1
+You see a hall east.
+~
+~
+0 -1 11208
+S
+#11211
+0 0
+~
+~
+~
+0 0 0
+`bInstructor's Room``~
+`aThis room is rather nondescript, other than a massive pile of bones on
+the floor.  The bones are not those of a known sensient being, as they are
+considerably too small.``
+~
+0 DNT 0
+0
+~
+I 0 D2
+You see a door to the south.
+~
+~
+1 1 11210
+S
+#11212
+0 0
+~
+~
+~
+0 0 0
+`bThe Hall of Heroes``~
+`aThis large room is filled with rows of stone tables and benches
+running down both sides. The lighting here, although still rather dim,
+is better than in the rest of this immense complex. Strangely, the room
+does not feel empty. If you are quiet, you can almost hear the murmuring
+of many voices in the misty gloom. There are decorative carvings on the 
+walls. You hear voices inside your head, stories of warriors in battles 
+and of fights with dragons. You feel completely at home here. Then one 
+more voice enters your head..."You are part of an eternal tradition."``
+~
+0 DN 0
+0
+~
+I 0 D1
+You see a door to the east.
+~
+~
+1 1 11213
+D3
+You see a door to the west.
+~
+~
+0 -1 11302
+S
+#11213
+0 0
+~
+~
+~
+0 0 0
+`bA Kitchen``~
+`aThis large room was obviously designed to prepare food for a mob
+of growing boys. There are two immense cooking hearths in this room, with
+kettles on them that would each hold enough food to feed a small army. The
+most notable thing about this kitchen, however, is the group of people
+working at the hearths and tables. If they weren't partially transparent,
+you would almost think they were alive- but they are, of course, merely
+not dead.``
+~
+0 DNT 0
+0
+~
+I 0 D1
+You see a door to the east.
+~
+~
+1 1 11214
+D3
+You see a door to the west.
+~
+~
+1 1 11212
+S
+#11214
+0 0
+~
+~
+~
+0 0 0
+`bThe Pantry``~
+`aThis room appears to have been used to store food and supplies
+for the kitchen, and the crusted remains of the supplies and old cloths
+are clearly visible. Aside from the fact that it is strangely cool in here,
+it seems of little interest.``
+~
+0 DNT 0
+0
+~
+I 0 D3
+You see a door west.
+~
+~
+1 1 11213
+S
+#11215
+0 0
+~
+~
+~
+0 0 0
+`bSupply Office``~
+`aYou stand in a large room.  A counter runs down the center of this
+room.  There area is well lighted and the counter has small holes, almost
+like inkwells, at intervals along it.  This is where the students would come
+and check out various weapons.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door north.
+~
+door~
+4193 11213 11301
+D1
+You see a door east.
+~
+~
+1 1 11217
+D2
+You see a door south.
+~
+~
+1 1 11216
+D3
+You see a door west.
+~
+~
+1 1 11218
+S
+#11216
+0 0
+~
+~
+~
+0 0 0
+`bA Storeroom``~
+`aThis room has falling racks containing pieces of nearly every sort of
+armour, from rotting leather to corroded pieces of plate.  There is even a
+heap of debris to the north that looks as if it were once a rack of shields.
+The remnants of armour may have once been neat and orderly.  Now they are
+scattered as if a great wind had struck this room.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+There is a door north.
+~
+~
+1 1 11215
+D2
+You see a door south.
+~
+~
+1 1 11219
+S
+#11217
+0 0
+~
+~
+~
+0 0 0
+`bA Storeroom``~
+`aThe contents of this room are even more decrepit and deteriorated than
+what you have already seen.  This room is full of rotted racks holding the
+decayed remnants of missile weapons.  Obviously the components of bows and
+slings are more perishable than those of swords and armour.  As you stand
+surveying the residue, an old rusted dagger flies by, narrowly missing your
+head!  `` 
+~
+0 DNT 0
+0
+~
+I 0 D1
+You see a door to the east.
+~
+~
+1 1 11220
+D3
+You see a door to the west.
+~
+~
+1 1 11215
+S
+#11218
+0 0
+~
+~
+~
+0 0 0
+`bA Storeroom``~
+`aThis room is filled with the debris of what apparently used to be racks
+of weapons.  At first glance it seems obvious that any weapons that remain
+have long ago deteriorated into uselessness.  You see a Chaos Logo on the
+wall.  `` 
+~
+0 DNT 0
+0
+~
+I 0 E
+logo~
+.     @@@@@@@  @     @       @ @        @@@@@@@@@     @@@@@@
+      @        @     @      @   @       @       @    @      @
+      @        @     @     @     @      @       @      @@@
+      @        @@@@@@@    @@@@@@@@@     @       @          @
+      @        @     @   @         @    @       @   @       @
+      @@@@@@@  @     @  @           @   @@@@@@@@@    @@@@@@@  
+~
+D1
+You see a door east.
+~
+~
+1 1 11215
+S
+#11219
+0 0
+~
+~
+~
+0 0 0
+`bThe Smithy``~
+`aThis room is recognizable as a weaponsmith shop to anyone who has ever
+seen one.  From the forges along the wall to the hammers and tongs racked
+next to them everything looks to be in its place.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+1 1 11216
+S
+#11220
+0 0
+~
+~
+~
+0 0 0
+Practice room~
+This immense room is laid out in lanes for crossbow and hurled weapon
+practice. There are targets at the far north wall, and the room is marked in
+distances by numbers on the floor. The targets are attached to the ceiling
+and could be adjusted with pulleys from your position, if the ropes that
+went around the pulleys were not rotted away. The targets could be set up
+as suitable ranges for any type of practice, from thrown daggers to long
+bow.
+~
+0 ENT 0
+0
+~
+I 0 D3
+You see a door west.
+~
+~
+1 1 11217
+S
+#11221
+0 0
+~
+~
+~
+0 0 0
+`bThe Arena``~
+`aThe Arena still continues its immense growth but seems different 
+here. You see four statues in the corners of the arena, all which are 
+mages with thier wands pointing to you. Suddenly you hear a voice...
+"So you think you are strong enough to best me? I know that is why you
+have come to this place. And that is why I have been waiting here for you.
+For I am Stephan. Stephan, do you hear? The very name should make you
+tremble with fear. You silly little wretch will soon feel the power that
+is mine to command! For mine is the only way. If you seek to leave this
+place you must go through me. Kill me if you dare!"``
+~
+0 DNT 0
+0
+~
+I 0 D1
+~
+~
+0 0 11274
+S
+#11222
+0 0
+~
+~
+~
+0 0 0
+`bMage's Room``~
+`aThis room has pictures on the walls which seem to move of thier own
+valition.  They are pictures of mages, each in the act of casting a spell. 
+Some of the spells you recognize, lightning bolt, fireball, but some are
+completely outside your experience.  The pictures seem to run through a
+sequence in two or three minutes then begain again.  Each time that the
+pictures change though, the scene is slightly different: a variation in
+background, a different mage casting the spell, etc.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11271
+D2
+You see a door south.
+~
+~
+1 1 11224
+D3
+~
+door~
+1 0 11223
+S
+#11223
+0 0
+~
+~
+~
+0 0 0
+`bMage's Lounge``~
+`aThis room is filled with tables and benches formed from the stone of
+the floor itself.  They seem to have grown from the floor like some kind of
+fungus.  It is clean and orderly and even appears to be free of dust.  `` 
+~
+0 DN 0
+0
+~
+I 0 D1
+~
+door~
+1 0 11222
+D3
+~
+door~
+1 0 11225
+S
+#11224
+0 0
+~
+~
+~
+0 0 0
+`bMage's Hallway``~
+`aThis is a great magical hallway.  The air seems to be crisp and full of
+magic.  The walls are illuminated by glowing orbs of various colors and
+pictures of Chaos mages line the walls.  `` 
+~
+0 DN 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11222
+D1
+You see a hall east.
+~
+~
+0 -1 11229
+D2
+You see a hall to the south.
+~
+~
+0 -1 11228
+D3
+You see a door west.
+~
+~
+1 1 11230
+S
+#11225
+0 0
+~
+~
+~
+0 0 0
+`bA Kitchen``~
+`aThis room is fairly typical of kitchens in this edifice, except that
+the hearth appears to burn without flame.  Tables and chairs are positioned
+about the room,and very neatly at that.  There are doors in all directions
+save east.  `` 
+~
+0 DN 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11226
+D1
+~
+door~
+1 0 11223
+D2
+You see a door south.
+~
+~
+1 1 11227
+S
+#11226
+0 0
+~
+~
+~
+0 0 0
+`bA Back Room``~
+`aThis room is ostensibly barren, except for a large pit in the middle of
+the room, apparently for trash.  A pungent odor fills the room, and a grey
+mist hangs overhead.  `` 
+~
+0 DN 0
+0
+~
+I 0 D2
+You see a door south.
+~
+~
+1 1 11225
+S
+#11227
+0 0
+~
+~
+~
+0 0 0
+`bA Storeroom``~
+`aThis room is lined with shelves and filled with old rotten barrels
+which obviously once held the food for the kitchen.  It is surprisingly
+bright in here, considering that you saw no hint of a light until you
+stepped into this room.  You notice as you enter and exit the room that the
+light dims and brightens with your presence.  It is very cold in here.  `` 
+~
+0 DN 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+1 1 11225
+S
+#11228
+0 0
+~
+~
+~
+0 0 0
+`bMage's Hallway``~
+`aThis is a great magical hallway.  The air seems to be crisp and full of
+magic.  The walls are illuminated by glowing orbs of various colors and
+pictures of Chaos mages line the walls.  `` 
+~
+0 EN 0
+0
+~
+I 0 D0
+You see a hall north.
+~
+~
+0 -1 11224
+D1
+You see a hall east.
+~
+~
+0 -1 11232
+D2
+~
+door~
+1 0 11231
+D3
+~
+~
+0 0 11307
+S
+#11229
+0 0
+~
+~
+~
+0 0 0
+`bMage's Hallway``~
+`aThis is a great magical hallway.  The air seems to be crisp and full of
+magic.  The walls are illuminated by glowing orbs of various colors and
+pictures of Chaos mages line the walls.  A ladder runs from a hole in the
+floor through a hole in the ceiling.  `` 
+~
+0 DN 0
+0
+~
+I 0 D1
+You see a door east.
+~
+~
+1 1 11235
+D3
+You see a hall west.
+~
+~
+0 -1 11224
+D4
+~
+~
+0 0 11234
+D5
+~
+~
+0 0 11236
+S
+#11230
+0 0
+~
+~
+~
+0 0 0
+`bThe Necromancer's Room``~
+`aThis classroom is decorated in somber shades of gray and black and wine
+red.  The shelves which line the walls contain skulls- dozens of skulls of
+many sizes.  This room is where the mages of Chaos came to be taught about
+death spells and the skulls were used to practice summoning the spirits of
+the dead.  `` 
+~
+0 DN 0
+0
+~
+I 0 D1
+You see a door east.
+~
+~
+1 1 11224
+S
+#11231
+0 0
+~
+~
+~
+0 0 0
+`bA Bedroom``~
+`aThis is the bedroom of a young mage.  It is very spartan, undecorated
+save for a plant situated below a hovering unnatural light.  `` 
+~
+0 DN 0
+0
+~
+I 0 D0
+~
+door~
+1 0 11228
+S
+#11232
+0 0
+~
+~
+~
+0 0 0
+`bMage's Hallway``~
+`aThis is a great magical hallway.  The air seems to be crisp and full of
+magic.  The walls are illuminated by glowing orbs of various colors and
+pictures of Chaos mages line the walls.  `` 
+~
+0 DN 0
+0
+~
+I 0 D2
+You see a door south.
+~
+~
+1 1 11237
+D3
+You see a hall to the west.
+~
+~
+0 -1 11228
+S
+#11233
+0 0
+~
+~
+~
+0 0 0
+`bMage's Hallway``~
+`aThis is a great magical hallway.  The air seems to be crisp and full of
+magic.  The walls are illuminated by glowing orbs of various colors and
+pictures of Chaos mages line the walls.  `` 
+~
+0 DN 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11239
+D1
+~
+~
+0 0 11308
+D2
+You see a door south.
+~
+~
+1 1 11241
+D3
+You see a hall west.
+~
+~
+0 -1 11240
+S
+#11234
+0 0
+~
+~
+~
+0 0 0
+`bSummoner's Room``~
+`aThis room is huge, as well it might be there are three protective
+circles here of differing types.  This room was obviously used for summoning
+creatures from other planes.  Many scorch marks from fire and other magic
+lines the walls.  This must have at one time been a very important room.  ``
+~
+0 DN 0
+0
+~
+I 0 D5
+~
+~
+0 0 11229
+S
+#11235
+0 0
+~
+~
+~
+0 0 0
+`bThe Alchemist's Room``~
+`aThis room has two long, wide tables against the north wall.  They are
+covered with glassware and instruments of a mysterious nature.  The room is
+brightly lit by two huge braziers filled with bright blue flames.  You
+notice that the floor is covered with weird patterns, probably remnants from
+lab experiments.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D3
+You see a door west.
+~
+~
+1 1 11229
+S
+#11236
+0 0
+~
+~
+~
+0 0 0
+`bMage's Library``~
+`aThis room is filled with a huge collection of books.  There must be
+thousands of volumes here, all in a remarkable state of preservation.  There
+is a large table and three chairs, also well preserved.  You can almost feel
+the mystical energy in the air.  `` 
+~
+0 DN 0
+0
+~
+I 0 D4
+~
+~
+0 0 11229
+S
+#11237
+0 0
+~
+~
+~
+0 0 0
+`bA Bedroom``~
+`aThis room was once rather comfortably appointed with two beds and two
+chairs.  The carvings on the walls are tasteful and soothing to the eye. 
+There is a fireplace on the west wall, and a muted yellow flame burns in the
+hearth.  Although you sense no fuel or smoke, the fire seems to give off a
+pleasant warmth that is welcome in these stone halls.  `` 
+~
+0 DN 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11232
+S
+#11238
+0 0
+~
+~
+~
+0 0 0
+`bHeadmaster's Bedroom``~
+`aThis room is a calm and quiet place, much at odds with the Chaos
+of the rest of this area. There is a bed, a desk, and two chairs grouped
+around the empty fireplace, all which seem to have once been made of fine
+materials. Whoever loved here had very rich taste. In fact, he may still
+be here- there is a long decayed body on the bed, in the remnants of rich
+robes. A note is attached to the robes.``
+~
+0 DNT 0
+0
+~
+I 0 E
+note~
+Let this be a lesson to those who renounce Chaos...
+~
+D0
+~
+door~
+1 0 11307
+D2
+You see a door south.
+~
+~
+1 1 11242
+S
+#11239
+0 0
+~
+~
+~
+0 0 0
+`bA Room``~
+`aThis room seems almost empty, except for the debris of desks and
+chairs.  But the walls seem to be of many different colors that shift and
+sway and sparkle.  The effect is almost hypnotic.  The colors keep swaying
+and moving...  `` 
+~
+0 DNT 0
+0
+~
+I 0 D2
+You see a door south.
+~
+~
+1 1 11233
+S
+#11240
+0 0
+~
+~
+~
+0 0 0
+`bMage's Hallway``~
+`aThis is a great magical hallway.  The air seems to be crisp and full of
+magic.  The walls are illuminated by glowing orbs of various colors and
+pictures of Chaos mages line the walls.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11243
+D1
+You see a hall east.
+~
+~
+0 -1 11233
+D2
+You see a door south.
+~
+~
+1 1 11244
+D3
+You see a door west.
+~
+~
+1 1 11245
+S
+#11241
+0 0
+~
+~
+~
+0 0 0
+`bMage's Lounge``~
+`aThis room is lavishly decorated.  Many plush couches line the walls and
+a fur rug is set in front of a blazing hearth.  Desks and chairs also fit in
+this room and you see pictures of beautiful scenes of pixies and nymphs
+dancing in the woods.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11233
+S
+#11242
+0 0
+~
+~
+~
+0 0 0
+`bPrivate Library``~
+`aThis room is filled with bookshelves.  They are loaded with what appear
+to be spellbooks and tomes on the arts of magic, which seem relatively
+intact.  A large desk sits in the corner and a chair sits with it.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11238
+S
+#11243
+0 0
+~
+~
+~
+0 0 0
+`bA Classroom``~
+`aThere are tables arranged thoughout the room with benches on one side
+of them so that those seated would face the west wall. On the west wall is
+a raised dais with a flat black space behind it for drawing various diagrams.
+This appears to have been a classroom for young mages. In fact, there appears
+to be a class in session at this moment. There is a robed form at the back
+of the class facing the wall, and a group of vague dark forms sitting at 
+the tables. You look more closely and see that it is really a ghost giving
+a lecture to a class of shadows.``
+~
+0 DNT 0
+0
+~
+I 0 D2
+You see a door south.
+~
+~
+1 1 11240
+S
+#11244
+0 0
+~
+~
+~
+0 0 0
+`bA Bedroom``~
+`aThis room looks very comfortable and is tidy. You see the remains 
+of an old desk and a bed in here and on the bed is a book. The book is a
+journal that one of the students on this room kept of his studies.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door north.
+~
+~
+1 1 11240
+S
+#11245
+0 0
+~
+~
+~
+0 0 0
+`bA Bedroom``~
+`aThis room looks as if it was once a remarkably comfortable room.  The
+remains of four beds and four large armchairs still survive.  The room seems
+to be much cleaner than anywhere else you have seen.  Perhaps some of the
+unseen servants take care of the chores.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D1
+You see a door east.
+~
+~
+1 1 11240
+S
+#11246
+0 0
+~
+~
+~
+0 0 0
+A path through the forest~
+This is a sector of the forest that little is known about.  The sky seems
+eternally black.  Whether that is due to some unseen magic or the immense
+trees overhead, one cannot say.  Vines drape down as arms waiting to grab
+for anything, and this whole place seems rather eerie.  
+~
+0 AT 3
+0
+~
+I 0 D0
+You see the rugged path continue north.
+~
+~
+0 -1 11247
+S
+#11247
+0 0
+~
+~
+~
+0 0 0
+An opening in the forest~
+The forest path opens up here, leading to an unkepmt and overgrown path. 
+There appears to be a tunnel dug out of the ground in the vicinity, but
+under this drak sky, that could be an aberration.  
+~
+0 AET 3
+0
+~
+I 0 D0
+You see a cave to the North.
+~
+~
+0 -1 11248
+D2
+You see the path of Chaos to the south.
+~
+~
+0 -1 11246
+S
+#11248
+0 0
+~
+~
+~
+0 0 0
+A tunnel~
+This is the inside of a tunnel bored into the earth by some unknown
+force.  There appears to be a deep descent ahead, and the only option to
+leave maybe to know return to the forest opening.  
+~
+0 AEN 3
+0
+~
+I 0 D2
+You see the path to Chaos to the south.
+~
+~
+0 -1 11247
+D5
+You may go down into the Realm of Chaos.
+~
+~
+0 -1 11249
+S
+#11249
+0 0
+~
+~
+~
+0 0 0
+A declining tunnel~
+Sliding down the tunnel, hitting the ground at a point which climbing
+back up is impossible, you find yourself here.  There is nothing here but
+mud and rock, and it appears the only option is to keep going down.  
+~
+0 ACDN 5
+0
+~
+I 0 E
+sign~
+.    *---------------------------------------------------------*
+     |                                                         |
+     |              WELCOME MORTAL TO CHAOS!!!                 |
+     |    +                                               +    | 
+     |   +++      You have taken the first step to       +++   |
+     |    +       Understanding Chaos and the Laws        +    |
+     |    I       which Chaos thrives on. May you         I    |
+     |    I       find your Visit...                      I    |
+     |    I                  Chaotic!                     I    |
+     |    I                                               I    |
+     |    I       (This area inspired by Jean Rabe)       I    |
+     |    I       (and Norm Ritchie. -Created by)         I    |
+     |            (Beowolf.)                                   |      
+     *---------------------------------------------------------* 
+~
+D4
+~
+~
+0 0 13507
+D5
+~
+~
+0 0 11250
+S
+#11250
+0 0
+~
+~
+~
+0 0 0
+`bHall of Mirrors``~
+`aThe end of the tunnel lands in a huge mirrored hall.  Some chaotic and
+twisted force apparently placed these here as a discouragement to further
+advancement.  Reflections of self stare around the room, and it appears
+difficult to naviagate to an exit.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+~
+0 0 11250
+D1
+~
+~
+0 0 11251
+D2
+~
+~
+0 0 11250
+D3
+~
+~
+0 0 11250
+D4
+~
+~
+0 0 11249
+S
+#11251
+0 0
+~
+~
+~
+0 0 0
+`bHall of Mirrors``~
+`aThe end of the tunnel lands in a huge mirrored hall.  Some chaotic and
+twisted force apparently placed these here as a discouragement to further
+advancement.  Reflections of self stare around the room, and it appears
+difficult to naviagate to an exit.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+~
+0 0 11250
+D2
+~
+~
+0 0 11252
+D3
+~
+~
+0 0 11251
+S
+#11252
+0 0
+~
+~
+~
+0 0 0
+`bA Dark Room``~
+`aThis is a dark room somewhere in the realm of Chaos.  Exits are barely
+visable, and rats scurry about the room.  `` 
+~
+0 ACDNT 0
+0
+~
+I 0 D0
+~
+~
+0 0 11251
+D1
+You see an Exit to the east.
+~
+~
+0 -1 11253
+S
+#11253
+0 0
+~
+~
+~
+0 0 0
+`bA Dark Hallway``~
+`aThis is another dark hallway.  Rats scurry about the room, and a
+mephitis gas pervades the room.  `` 
+~
+0 ACNT 0
+0
+~
+I 0 D1
+You see a door to the east.
+~
+~
+0 -1 11254
+D2
+You see a door to the south.
+~
+~
+0 -1 11255
+D3
+You see a door to the west.
+~
+~
+0 -1 11252
+S
+#11254
+0 0
+~
+~
+~
+0 0 0
+`bA Misty Hallway``~
+`aThe hallway lightens up here, but only slightly.  The contrast is
+enough to detect the immense size of this room.  There is a presence moving
+about the hall, but it is too dark to detect.  `` 
+~
+0 ADNT 0
+0
+~
+I 0 D3
+You see a door west.
+~
+~
+0 -1 11253
+S
+#11255
+0 0
+~
+~
+~
+0 0 0
+`bMisty Hallway``~
+`aThe mist continues to make things nearly impossible to see, and though
+a presence is definately in the area, there is no way you can see it.  `` 
+~
+0 ANT 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+0 -1 11253
+D3
+~
+~
+0 0 11256
+S
+#11256
+0 0
+~
+~
+~
+0 0 0
+`bMisty Hallway``~
+`aMore of the same misty darkness surrounds you, but there is a stronger
+presence than ever in this room.  It appears a confrontation is inevitable. ``
+~
+0 ADNT 0
+0
+~
+I 0 D1
+~
+~
+0 0 11255
+D3
+You see a door to the west.
+~
+~
+0 -1 11257
+S
+#11257
+0 0
+~
+~
+~
+0 0 0
+`bA Dark Hallway``~
+`aThe mist dissapates here, but there is still a pervasive darkness to
+the room.  There is no discernable beginning or end to this path but reality
+and perception are not always equivalent.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+door~
+1 0 11259
+D1
+You see a door to the east.
+~
+~
+0 -1 11256
+D2
+You see a door to the south.
+~
+~
+0 -1 11258
+S
+#11258
+0 0
+~
+~
+~
+0 0 0
+`bA Dark Hallway``~
+`aThis room is almost entirely dark, and equally unavigable.  The only
+apparent way to find a path through this mess is by feel, but that may be
+very dangerous in this region.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+0 -1 11257
+D2
+You see a door to the south.
+~
+~
+0 -1 11265
+D3
+You see a door to the west.
+~
+~
+1 1 11260
+S
+#11259
+0 0
+~
+~
+~
+0 0 0
+`bA Temple``~
+`aThis area was obviously a temple, and there is still a massive altar
+against the center of the north wall.  Midway between the altar and the
+other three walls, the room is divided on three sides by massive floor to
+ceiling columns.  It is lit by two huge braziers, which burn with a
+flickering purple flame, even though no fuel is visible, and appear to give
+off no heat.  In fact, this room is noticeably colder than the hallway from
+which you just entered.  The room is huge, and there appear to be no exits
+other than the doorway behind you.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D2
+~
+door~
+1 0 11257
+S
+#11260
+0 0
+~
+~
+~
+0 0 0
+`bEntry to the Baths``~
+`aThis large room is decorated with carvings of young elves playing in
+pools of steaming water.  It seems strangely pleasant and quiet here.  Two
+stairways exit through the north wall, one on the west and one north.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+door~
+1 0 11262
+D1
+You see a door to the east.
+~
+~
+1 1 11258
+S
+#11261
+0 0
+~
+~
+~
+0 0 0
+`bDressing Room``~
+`aYou are in a softly lit room.  There are comfortable benches along the
+walls and shelves for clothing and possessions.  The mirrors on the wall are
+quite small, but then again men don't look at the mirror all day.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D2
+~
+~
+0 0 11263
+S
+#11262
+0 0
+~
+~
+~
+0 0 0
+`bDressing Room``~
+`aYou are in a softly lit room.  There are comfortable benches along the
+walls and shelves for clothing and possessions.  The mirrors on the wall are
+quite large and an assortment of brushes and make-up line a counter.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D2
+~
+door~
+1 0 11260
+D3
+~
+~
+0 0 11263
+S
+#11263
+0 0
+~
+~
+~
+0 0 0
+`bA Pleasant Refuge``~
+`aThis room is immense and looks like a park. The lighting is warm and
+subdued, like a spring evening. The ground is covered with a green mossy
+growth that seems soft enough to fall asleep on, and there is even a fountain
+with a statue of a centaur. The pillars supporting the roof have been carved
+into the shapes of nymphs and dyads, and the entire room looks completely
+inviting.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+~
+0 0 11261
+D1
+~
+~
+0 0 11262
+D3
+There is a gateway to the west.
+~
+~
+0 -1 11264
+S
+#11264
+0 0
+~
+~
+~
+0 0 0
+`bThe Baths``~
+`aYou can see very little in this room but clouds of fog, far denser than
+the mist which seems to permeate every inch of these corridors.  The room is
+pleasantly warm and steamy, and you can smell water.  Judging by the echo of
+your footsteps, the room is quite large.  `` 
+~
+0 DNT 6
+0
+~
+I 0 D1
+You see a gateway to the east.
+~
+~
+0 -1 11263
+S
+#11265
+0 0
+~
+~
+~
+0 0 0
+`bA Dark Hallway``~
+`aYou find yourself in a huge hallway, illuminated by torches burning on
+either wall.  The floor is constructed from black marble, and the hall
+appears to overall well kept.  The hall stretches out to the north and
+south, and there are doorways to both the east and west.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a hallway to the north.
+~
+~
+0 -1 11258
+D1
+~
+door~
+1 0 11266
+D2
+You see a hallway to the south.
+~
+~
+0 -1 11267
+D3
+You see a doorway to the west.
+~
+~
+1 1 11268
+S
+#11266
+0 0
+~
+~
+~
+0 0 0
+`bA Shadowy Dining Hall``~
+`aYou stand in an immense dining hall.  This room is 60' x 140' and is
+lined with stone tables and attached benches.  In the center of the room is
+a huge statue of a Cleric holding a brass staff.  The floor is dirty and
+scuffed.  There is an exit to the south, and doors to the north and west.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+1 1 11277
+D1
+~
+door~
+1 0 11278
+D3
+~
+door~
+1 0 11265
+S
+#11267
+0 0
+~
+~
+~
+0 0 0
+`bA Dark Hall``~
+`aThe hall here gets wider and is supported by huge columns on both
+sides.  The hall is lit by torches which burn a blue flame.  The floor is
+made from fine black marble and is shiny.  The hall continues to the north
+and east, with doors to the south and west.  `` 
+~
+0 DN 0
+0
+~
+I 0 D0
+You see a hallway to the north.
+~
+~
+0 -1 11265
+D1
+You see a hallway to the east.
+~
+~
+0 -1 11269
+D3
+You see a Black door to the west.
+~
+~
+1 1 11271
+D4
+~
+door~
+1 0 11270
+S
+#11268
+0 0
+~
+$n opens the door and steps through the archway.~
+$n pushes the door outwards, bidding you adieu.~
+0 0 0
+`bEntropy``~
+`aYou have come upon a large shop.  A sign above the counter reads
+'Entropy--The Shop of Chaos'.  The walls of the store or adorned with
+paintings of the legendary figures of the order of Chaos.  Peering upwards,
+you realize that there is no ceiling over this store, but just an opague
+black sky, stretching endlessly.  Far in above this store, black dragons
+skirt about the sky.  Behind the counter, the shopkeeper prepares to serve
+you.  `` 
+~
+0 DNT 0
+4
+The shopkeeper does not allow more than four customers at a time.~
+I 0 E
+paintings~
+Portraits of legendary figures of Chaos are here.  Those of Courtney, the
+legendary thief, and Tyran, the great warrior stand out particularly.  
+~
+D1
+You see a door to the east.
+~
+~
+1 1 11265
+S
+#11269
+0 0
+~
+~
+~
+0 0 0
+`bA Dark Hallway``~
+`aThe hallway here is very quiet.  The torches here burn an errie green. 
+The marble floor here is scuffed and looks like it is in constant use.  The
+columns are cracked and rubble lies on the ground.  To the south lies a
+conspicuous`o silver door``.
+~
+0 DNT 0
+0
+~
+I 0 D1
+~
+~
+0 0 11309
+D2
+~
+silver~
+4193 11216 11274
+D3
+You see a hallway to the west.
+~
+~
+0 -1 11267
+S
+#11270
+0 0
+~
+~
+~
+0 0 0
+`bEntry Hall``~
+`aThis room is filled with decaying trophies.  The walls are covered with
+rusted and unusable weapons and the moldering heads of all manner of beasts.
+It appears as if someone had spent a lifetime in the pursuit of killing.  A
+trapdoor in the floor leads to a lower level of the Abandonded Guild.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D1
+You see a grand doorway to the East.
+~
+~
+1 1 11298
+D5
+~
+door~
+1 0 11267
+S
+#11271
+0 0
+~
+~
+~
+0 0 0
+`bBefore the Chaos Mage Guild``~
+`aYou are in an alcove with a strange marble statue in it, the likeness
+of an elf in long flowing robes.  He is holding out his hands with the palms
+up as if to offer you something.  There is an inscription around the bottom.
+You also see a grand gate to the south.  `` 
+~
+0 DNT 0
+0
+~
+I 0 E
+inscription~
+.           *--------------------------*
+	    |    Chaos Mage School.    |
+	    |    ******************    |
+	    |                          |
+	    |    Enter at Your own     |
+	    |    Risk.                 |
+	    |                          |
+	    |         -Beowolf         |
+	    *--------------------------*
+~
+D1
+You see a door to the east.
+~
+~
+1 1 11267
+D2
+You see a grand gate to the south.
+~
+~
+1 1 11222
+S
+#11272
+0 0
+~
+~
+~
+0 0 0
+`bThe Chaos Bar``~
+`aThis is the Chaos bar.  The ambience is both evil and magical, but
+overly nondescript.  Other than the symbol of Chaos emblazed on the far
+wall, it looks like any other bar you've seen.  The barkeep ushers you to
+have a drink.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D3
+~
+door~
+1 0 11273
+S
+#11273
+0 0
+~
+~
+~
+0 0 0
+`bThe Piper's Chambers``~
+`aThis is the end of the dark hall.  It looks similar to the rest of the
+hall, except that the torch flames vary in color here.  The torches aligning
+the walls alternate between blue and yellow, while the tourch adjacent to
+the southern door burns green.  A faint, red, flickering glow can be seen
+through the cracks in the trapdoor below.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+~
+0 0 11309
+D1
+~
+door~
+1 0 11272
+D2
+~
+door~
+1 0 11276
+D5
+~
+trapdoor~
+1 0 11275
+S
+#11274
+0 0
+~
+~
+~
+0 0 0
+`bThe Arena``~
+`aYou have stepped into the Arena.  This is a vast place reaching fifty
+feet into the air and the whole chamber is so large that you cannot even
+comprehend its immenseness because of the darkness.  Near you, you can make
+out tiers of seats stretching up and around the walls.  You hear a cackle to
+the west.  `` 
+~
+0 ADNT 0
+0
+~
+I 0 D0
+~
+door~
+4193 11216 11269
+D3
+~
+~
+0 0 11221
+S
+#11275
+0 0
+~
+~
+~
+0 0 0
+The masters room~
+In this room stands an ornate, archbacked throne, apparently carved out
+of a single block of stone.  It faces outwards, towards the door you
+entered.  The separated bones of a single human skeleton drift lazily in
+midair above the seat of the throne, shifting about in an endless jumble. 
+The skull moves but is always facing outwards and turning to look at you;
+the only bones that are not part of this endless, silent dance are the feet
+of the skeleton.  These are on the floor, positioned as if the skeleton were
+sitting on the throne.  	 
+~
+0 DENT 0
+0
+~
+I 0 D4
+~
+door~
+1 0 11273
+D5
+You see a crack in the floor.
+~
+~
+1 1 11297
+S
+#11276
+0 0
+~
+~
+~
+0 0 0
+`bThe Piper's Chambers``~
+`aThe warm, muted glow of two hooded lamps illuminates this cozy room. 
+Furs cover the floor, and old wooden furniture lines the walls.  The
+furniture consists of a large eating table, a sideboard, three large
+reclining chairs woth foot-stools, a high stool and a desk.  Two shelf units
+are also along the walls, home to proudly displayed weapons and a few thick
+books.  On the far wall is a fireplace, a merry blaze crackling within it. 
+It is surounded by an ornately-carved stone mantle depicting armored human
+knights riding dragons and competing with elven knigts on Pegasi.  Overhead,
+the dragon and Pegasi riders motif is repeated on the carved panels of the
+ceiling.  Brass cloak-hooks project from a human-sized arch of richly
+polished wooden paneling just inside the door.  The arch-topped panel
+contains a fold-down wooden bench, and is carved with a large, complex scene
+of birds singing over a pool where a unicorn bends its head to drink.  You
+don't hear anything but the faint crackle of the fire.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+door~
+1 0 11273
+S
+#11277
+0 0
+~
+~
+~
+0 0 0
+`bAn Abandoned Kitchen``~
+`aThis large room was obviously a kitchen, the place where meals were
+prepared for the clerics and their students.  There are two large cooking
+hearths, one each on the north and west wall.  The smell of rotten food
+fills this room.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D1
+You see a door to the east.
+~
+~
+1 1 11279
+D2
+You see a door to the Dining Hall.
+~
+~
+1 1 11266
+S
+#11278
+0 0
+~
+~
+~
+0 0 0
+`bCleric's Hallway``~
+`aThis is a passage along the cleric's training hallway.  Rotten benches
+align themselves against the walls, below torches burning red.  Doors are to
+the north and east.  `` 
+~
+0 DT 0
+0
+~
+I 0 D1
+You see a hall to the east.
+~
+~
+1 1 11280
+D3
+~
+door~
+1 0 11266
+S
+#11279
+0 0
+~
+~
+~
+0 0 0
+`bCold Storage``~
+`aThis dimly lit room is lined with shelves, and is strangely cold.  The
+shelves seem to be laden with many small, unidentifiable masses.  You can
+not tell from here if any of them are moving.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D3
+You see a door back to the Kitchen.
+~
+~
+1 1 11277
+S
+#11280
+0 0
+~
+~
+~
+0 0 0
+`bCleric's Hallway``~
+`aYou stand in the once busy hallway of the clerics of Chaos.  It was
+here that all the faithful of Chaos came to learn and practice their
+beliefs.  It is here that they learned both the ways of Chaos and the way of
+Fate.  There are gold and crystal chandeliers hanging on the ceiling.  The
+hallway continues to the east and west, with doors in the other cardinal
+directions.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+There is an Iron door to the north.
+~
+~
+1 1 11281
+D1
+There is a hallway to the east.
+~
+~
+0 -1 11282
+D2
+There is a Silver door to the south.
+~
+~
+1 1 11283
+D3
+There is a hallway to the west.
+~
+~
+0 -1 11278
+S
+#11281
+0 0
+~
+~
+~
+0 0 0
+`bStudent's Quarters``~
+`aThis room is virtually empty.  Four piles of rotted wood and cloth are
+scattered in this room and may have once served as beds.  This seems to be a
+dorm room for the Clerical students of Chaos.  The walls have many posters
+depicting the God of Chaos and there is a desk against the northern wall.``
+~
+0 DNT 0
+0
+~
+I 0 D2
+You see an Iron door to the south.
+~
+~
+1 1 11280
+S
+#11282
+0 0
+~
+~
+~
+0 0 0
+`bCleric's Hallway``~
+`aYou stand in the once busy hallway of the clerics of Chaos.  It was
+here that all the faithful of Chaos came to learn and practice their
+beliefs.  It is here that they learned both the ways of Chaos and the way of
+Fate.  There are gold and crystal chandeliers hanging on the ceiling.  The
+hallway continues to the the east and west, with doorways on the north and
+south walls.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a white door to the north.
+~
+~
+1 1 11286
+D1
+You see a hallway to the east.
+~
+~
+0 -1 11284
+D2
+You see a doorway to the south.
+~
+~
+1 1 11285
+D3
+You see a hallway to the west.
+~
+~
+0 -1 11280
+S
+#11283
+0 0
+~
+~
+~
+0 0 0
+`bMaster's Quarters``~
+`aThis room appears similar to the others, except that it appears that
+someone or something has been cleaning up in here.  The furnishings are
+still decayed, but the rotting piles have been neatly arranged.  It appears
+as though someone or something has been doing some housekeeping in here.  ``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a Silver door to the north.
+~
+~
+1 1 11280
+S
+#11284
+0 0
+~
+~
+~
+0 0 0
+`bCleric's Hallway``~
+`aYou stand in the once busy hallway of the clerics of Chaos.  It was
+here that all the faithful of Chaos came to learn and practice their
+beliefs.  It is here that they learned both the ways of Chaos and the way of
+Fate.  There are gold and crystal chandeliers hanging on the ceiling.  Exits
+lead east and west.  There is a door to the north and a door to the south
+with a painting of a skull on it.  `` 
+~
+0 DNT 18
+0
+~
+I 0 D0
+~
+door~
+1 0 11287
+D1
+You see a hallway to the east.
+~
+~
+0 -1 11288
+D2
+You see a door with a painting of a skull on it to your south.
+~
+door~
+4193 11222 11306
+D3
+You see a hallway to the west.
+~
+~
+0 -1 11282
+S
+#11285
+0 0
+~
+~
+~
+0 0 0
+`bCleric's Quarters``~
+`aThis room appears like the others, misty and filled with crumbling
+furniture, but it seems much brighter.  You can easily see the room and its
+rotting furnishings-as well as a small glint, as from something bright,
+under some of the rotting wood.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+1 1 11282
+S
+#11286
+0 0
+~
+~
+~
+0 0 0
+`bA Sedate Room``~
+`aThis huge room is full of corroded metal bedframes, and there is a
+decaying cabinet in the northwest corner.  A strange looking glyph decorates
+the floor just inside the doorway.  You feel very calm in this room.  `` 
+~
+0 DNT 0
+0
+~
+I 0 E
+glyph
+
+~
+This glyph is magical and you translate it. The glyph was used to keep
+unhealthy influence from the room.
+~
+D2
+.
+You see a door to the south.
+~
+~
+1 1 11282
+S
+#11287
+0 0
+~
+~
+~
+0 0 0
+`bA Library``~
+`aYou find yourself in what serves as the library of Chaos.  This room is
+lavishly decorated, with plush chairs and sofas throughout the room.  Large
+desks are scattered through out the study, each equipped with pen and
+parchment.  Thousands of books pertsaining to the various disciplines of
+Chaos lie on ebony shelves along the walls.  The room appears to be
+frequented still.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D2
+~
+door~
+1 0 11284
+S
+#11288
+0 0
+~
+~
+~
+0 0 0
+`bCleric's Hallway``~
+`aYou stand in the once busy hallway of the clerics of Chaos.  It was
+here that all the faithful of Chaos came to learn and practice their
+beliefs.  It is here that they learned both the ways of Chaos and the way of
+Fate.  There are gold and crystal chandeliers hanging on the ceiling.  The
+hallway extends to the west with doors to the north and east.  `` 
+~
+0 DNT 18
+0
+~
+I 0 D0
+`aYou see a conspicuous black door to your north.  `` 
+~
+door~
+4193 11214 11290
+D1
+You see a Gold door the the east.
+~
+door~
+4193 11215 11291
+D3
+You see a hallway to the west.
+~
+~
+0 -1 11284
+S
+#11289
+0 0
+~
+~
+~
+0 0 0
+`bCleric's Hallway``~
+`aYou stand in the once busy hallway of the clerics of Chaos.  It was
+here that all the faithful of Chaos came to learn and practice their
+beliefs.  It is here that they learned both the ways of Chaos and the way of
+Fate.  There are gold and crystal chandeliers hanging on the ceiling.  The
+hallway extends northwards with doors in all other cardinal directions.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+~
+0 0 11306
+D1
+You see a door to the east.
+~
+~
+1 1 11292
+D2
+~
+door~
+1 0 11293
+D3
+You see a door to the west.
+~
+~
+1 1 11294
+S
+#11290
+0 0
+~
+~
+~
+0 0 0
+`bThe Headmaster's Room``~
+`aThis room is larger than the others but similarly appointed.  What
+remains of the furniture seems of better quality, but is still badly
+decayed.  The room is uniformly dark and you are not casting any shadows. 
+There is a large brass desk in the corner of the room and windows look out
+over a strange view.  `` 
+~
+0 DNT 18
+0
+~
+I 0 E
+desk~
+You look at the desk and see carvings on it..."soon...soon we
+will move to the new school of Chaos. This school is becoming very, very
+powerful..."
+~
+E
+windows~
+As you look at the windows you see huge swirling portals...Hmm, the Portals
+of Chaos maybe? This makes you wonder if this school is in decay because
+of something Chaotic...
+~
+D2
+You see a conspicuous black door to the south.
+~
+door~
+4193 11214 11288
+S
+#11291
+0 0
+~
+~
+~
+0 0 0
+`bHeadmistress's Parlor``~
+`aThis room appears to have been a sitting room of some kind.  There are
+the remains of a sofa and two chairs near the north wall.  A decayed table
+is in the northeast corner with a crystal decanter lying amongst the bits
+and pieces.  `` 
+~
+0 DNT 18
+0
+~
+I 0 D0
+You see a set of double doors to the north.
+~
+~
+1 1 11295
+D3
+You see a gold door to the west.
+~
+door~
+4193 1 11288
+S
+#11292
+0 0
+~
+~
+~
+0 0 0
+`bLeisure Room``~
+`aThis room appears to be where the students took breaks.  There is a
+huge crystal ball in the center of the room.  There is also a decayed
+bedframe and some decomposed books on the floor.  A strange design on the
+east wall appears to have been drawn in some type of thick paint, but you
+cannot make it out from here.  `` 
+~
+0 DNT 0
+0
+~
+I 0 E
+design~
+This strange design is what mages call a glyph of warding. This one was
+used to paralyze the victim.
+~
+D3
+You see a door to the west.
+~
+~
+1 1 11289
+S
+#11293
+0 0
+~
+~
+~
+0 0 0
+`bHousekeeping Room``~
+`aThis room looks to be in a remarkable state of preservation.  It
+contains a perfectly made bed and some clerical robes hung neatly on hooks
+in the southeast corner.  Could it be that someone still lives here?  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+door~
+1 0 11289
+S
+#11294
+0 0
+~
+~
+~
+0 0 0
+`bA Room``~
+`aTapestries woven with the images of fantastic and magical beasts line
+the walls of this room.  Thick rugs resembling grass cover the floor.  There
+are no other furnishings in this room.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D1
+You see a door to the east.
+~
+~
+1 1 11289
+S
+#11295
+0 0
+~
+~
+~
+0 0 0
+`bA Run-down Chamber``~
+`aThis chamber was at one time lushly decorated.  Glowing orbs of various
+colors float near the ceiling, illuminating the metal frame of what was once
+a huge bed.  There is a large hearth against the north wall and a huge moth
+eaten fur rug in front of it.  There is a door in the east end of the wall. 
+`` 
+~
+0 DNT 18
+0
+~
+I 0 D1
+You see a door in the east wall.
+~
+~
+1 1 11296
+D2
+You see a set of double doors to the south.
+~
+~
+1 1 11291
+S
+#11296
+0 0
+~
+~
+~
+0 576 0
+`bThrone of Chaos``~
+`aThe plain stone walls of this chamber differ drastically from the room
+just outside.  Torches burn on the scarred walls and splashes of blood cross
+the floor of this chamber.  In the middle of it sits a throne of ebony, atop
+which rests a drooling gibbering man.  His shirtless form shows his fearsome
+physique and the claw upon his right arm trembles with the anticipation of
+another kill.  `` 
+~
+0 DNT 18
+0
+~
+I 0 D3
+You see a door to the west.
+~
+~
+1 1 11295
+S
+#11297
+0 0
+~
+~
+~
+0 0 0
+The haze~
+A blue haze seems to rise before your very eyes, silently and rapidly,
+seperating the world around as you stare at the cryptic inscription.  The
+inscription seems to consist of a number of names and other nonsense,
+followed by the last line, glowing in deep blue common lettering: "If you're
+reading this, of course, its too late."  Blue radiance is everywhere; you
+are lost and floating somewhere not quite real.  Blue, shifting light is
+under, over, and all around you.  The light begins to fade, and you realize
+that your legs and feet are colder and wetter than the rest of you.  You're
+somewhere else, all light goes black and you are standing in inky, dark
+water as deep as your thighs.  A faint purple light comes from your left. 
+Ahead of you, in the distance, you hear the water rippling as something
+within it moves...  
+~
+0 CDEN 6
+0
+~
+I 0 S
+#11298
+0 0
+~
+~
+~
+0 0 0
+`bThe Warrior's Bloodgrounds``~
+`aThe floor of this huge room is covered with a layer of fine sand. 
+Perhaps warriors trained here long ago
+it appears to have been a practice
+arena at one time. The light in here is especially intense, and the 
+temperature is noticeably warmer than in the other rooms. You see the
+markings of Chaos everywhere.``
+~
+0 ENT 0
+0
+~
+I 0 D1
+You see a door to the east.
+~
+~
+1 1 11299
+D3
+You see a grand doorway to the west.
+~
+~
+1 1 11270
+S
+#11299
+0 0
+~
+~
+~
+0 0 0
+`bThe Knight's Hall``~
+`aYou stand in a grand hallway.  You look at all the work and dedication
+that it must have taken to construct such an atrium.  Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a
+toast to you.  Gold and silver line the hallway and you see images of
+dragons and knights floating in the air.  The knights seem to be fighting
+the good dragons and riding on the backs of the evil red and black dragons. 
+This place must have inspired the most hearty of evil warriors.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a hall to the north.
+~
+~
+0 -1 11300
+D1
+~
+~
+0 0 11302
+D2
+You see a hall to the south.
+~
+~
+0 -1 11301
+D3
+You see a door to the west.
+~
+~
+1 1 11298
+S
+#11300
+0 0
+~
+~
+~
+0 0 0
+`bThe Knight's Hall``~
+`aYou stand in a grand hallway.  You look at all the work and dedication
+that it must have taken to construct such an atrium.  Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a
+toast to you.  Gold and silver line the hallway and you see images of
+dragons and knights floating in the air.  The knights seem to be fighting
+the good dragons and riding on the backs of the evil red and black dragons. 
+This place must have inspired the most hearty of evil warriors.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a hall to the north.
+~
+~
+0 -1 11303
+D2
+You see a hall to the south.
+~
+~
+0 -1 11299
+S
+#11301
+0 0
+~
+~
+~
+0 0 0
+`bThe Knight's Hall``~
+`aYou stand in a grand hallway.  You look at all the work and dedication
+that it must have taken to construct such an atrium.  Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a
+toast to you.  Gold and silver line the hallway and you see images of
+dragons and knights floating in the air.  The knights seem to be fighting
+the good dragons and riding on the backs of the evil red and black dragons. 
+This place must have inspired the most hearty of evil warriors.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a hall north.
+~
+~
+0 -1 11299
+D2
+You see a door south.
+~
+door~
+4193 11213 11215
+S
+#11302
+0 0
+~
+~
+~
+0 0 0
+`bThe Knight's Hall``~
+`aYou stand in a grand hallway.  You look at all the work and dedication
+that it must have taken to construct such a hallwy.  Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a
+toast to you.  Gold and silver line the hallway and you see images of
+Dragons and knights floating in the air.  The knights seem to be fighting
+the good dragons and riding on the backs of the evil red and black dragons. 
+This place must have inspired the most hearty of evil warriors.  The hall
+continues west, with a door to the east. ``
+~
+0 DNT 0
+0
+~
+I 0 D1
+You see a door east.
+~
+~
+0 1 11212
+D3
+~
+~
+0 0 11299
+S
+#11303
+0 0
+~
+~
+~
+0 0 0
+`bThe Knight's Hall``~
+`aYou stand in a grand hallway.  You look at all the work and dedication
+that it must have taken to construct such an atrium.  Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a
+toast to you.  Gold and silver line the hallway and you see images of
+dragons and knights floating in the air.  The knights seem to be fighting
+the good dragons and riding on the backs of the evil red and black dragons. 
+This place must have inspired the most hearty of evil warriors.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+1 1 11304
+D2
+You see a hall to the south.
+~
+~
+0 -1 11300
+D3
+You see a hall to the west.
+~
+~
+0 -1 11305
+S
+#11304
+0 0
+~
+~
+~
+0 0 0
+`bThe Instructor's Quarters``~
+`aThis room is decorated with many war trophies.  There are also various
+weapons of war all over the room, all of which appear to be magically sealed
+to the decaying walls.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D2
+You see a door to the south.
+~
+~
+1 1 11303
+S
+#11305
+0 0
+~
+~
+~
+0 0 0
+`bThe Knight's Hall``~
+`aYou stand in a grand hallway.  You look at all the work and dedication
+that it must have taken to construct such an atrium.  Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a
+toast to you.  Gold and silver line the hallway and you see images of
+dragons and knights floating in the air.  The knights seem to be fighting
+the good dragons and riding on the backs of the evil red and black dragons. 
+This place must have inspired the most hearty of evil warriors.``
+~
+0 DNT 0
+0
+~
+I 0 D0
+You see a door to the north.
+~
+~
+1 1 11206
+D1
+You see a hall to the east.
+~
+~
+0 -1 11303
+D2
+~
+door~
+1 0 11207
+D3
+You see a hall to the west.
+~
+~
+0 -1 11208
+S
+#11306
+0 0
+(null)~
+~
+~
+0 0 0
+`bCleric's Hallway``~
+`aYou stand in the once busy hallway of the clerics of Chaos.  It was
+here that all the faithful of Chaos came to learn and practice their
+beliefs.  It is here that they learned both the ways of Chaos and the way of
+Fate.  There are gold and crystal chandeliers hanging on the ceiling.  Exits
+lead north and south through the hallway.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D0
+~
+door~
+4193 11222 11284
+D2
+~
+~
+0 0 11289
+S
+#11307
+0 0
+(null)~
+~
+~
+0 0 0
+`bMage's Hallway``~
+`aThis is a great magical hallway.  The air seems to be crisp and full of
+magic.  The walls are illuminated by glowing orbs of various colors and
+pictures of Chaos mages line the walls.  `` 
+~
+0 DN 0
+0
+~
+I 0 D1
+~
+~
+0 0 11228
+D2
+~
+door~
+1 0 11238
+D3
+~
+~
+0 0 11308
+S
+#11308
+0 0
+(null)~
+~
+~
+0 0 0
+`bMage's Hallway``~
+`aThis is a great magical hallway.  The air seems to be crisp and full of
+magic.  The walls are illuminated by glowing orbs of various colors and
+pictures of Chaos mages line the walls.  `` 
+~
+0 DN 0
+0
+~
+I 0 D1
+~
+~
+0 0 11307
+D3
+~
+~
+0 0 11233
+S
+#11309
+0 0
+(null)~
+~
+~
+0 0 0
+`bA Dark Hallway``~
+`aThe hallway here is very quiet.  The torches here burn an errie green. 
+The marble floor here is scuffed and looks like it is in constant use.  The
+columns are cracked and rubble lies on the ground.  `` 
+~
+0 DNT 0
+0
+~
+I 0 D2
+~
+~
+0 0 11273
+D3
+~
+~
+0 0 11269
+S
+#0
+
+#RESETS
+M 0 11248   5 11250  5	* `ha reflection``
+E 0 11248   -1   16	* item to `ha reflection``
+M 0 11248   4 11251  4	* `ha reflection``
+M 0 11259   1 11278  1	* `ha neophyte of chaos``
+E 0 11262   -1   16	* item to `ha neophyte of chaos``
+M 0 11259   2 11281  2	* `ha neophyte of chaos``
+M 0 11256   1 11283  1	* `hozu``
+E 0 11264   -1    5	* item to `hozu``
+O 0 11302   0 11220 -1	* Target at Practice room
+P 0 11221 1 11302 1
+M 0 11259   2 11292  2	* `ha neophyte of chaos``
+M 0 11264   1 11268  1	* `hcyric``
+G 0 11281 -1		* The symbol of chaos to `hCyric``
+G 0 11282 -1		* A runed staff to `hCyric``
+G 0 11283 -1		* A pair of shadow slippers to `hCyric``
+G 0 11284 -1		* An illegal magic bag to `hCyric``
+G 0 11285 -1		* A cloudy potion to `hCyric``
+G 0 11286 -1		* A bubbly potion to `hCyric``
+M 0 11265   1 11272  1	* `hbhaal``
+G 0 11287 -1		* A shot of whiskey to `hBhaal``
+G 0 11288 -1		* A pint of beer to `hBhaal``
+G 0 11289 -1		* A mug of dark ale to `hBhaal``
+G 0 11290 -1		* A bottle of chaos special beer to `hBhaal``
+G 0 11291 -1		* A shot of blood to `hBhaal``
+G 0 11212 -1		* A pint of ale to `hBhaal``
+G 0 11217 -1		* Standard lager to `hBhaal``
+M 0 11266   1 11275  1	* `han ancient skeleton``
+M 0 11255   2 11299  2	* `ha chaos guard``
+M 0 11273   1 11304  1	* `htrog``
+E 0 11295   -1   16	* item to `htrog``
+M 0 11276   1 11207  1	* `hboreus``
+E 0 11296   -1    6	* item to `hboreus``
+M 0 11255   1 11207  1	* `ha chaos guard``
+M 0 11280   1 11217  1	* `ha poltergist``
+M 0 11281   1 11219  1	* `hquickblade``
+E 0 11300   -1    5	* item to `hquickblade``
+E 0 11301   -1   16	* item to `hquickblade``
+G 0 11214 -1		* Black key to `hQuickblade``
+M 0 11246   1 11221  1	* `hstephan``
+E 0 11303   -1   13	* item to `hstephan``
+E 0 11304   -1   16	* item to `hstephan``
+G 0 11222 -1		* Death key to `hStephan``
+M 0 11272   1 11229  1	* `hkelven``
+E 0 11305   -1   16	* item to `hkelven``
+M 0 11280   1 11230  1	* `ha poltergist``
+M 0 11284   1 11231  1	* `ha young mage``
+M 0 11285   1 11234  1	* `hbloodbane``
+E 0 11206   -1   11	* item to `hbloodbane``
+E 0 11292   -1   16	* item to `hbloodbane``
+M 0 11286   1 11235  1	* `hthe alchemist``
+E 0 11207   -1    3	* item to `hthe alchemist``
+E 0 11208   -1    1	* item to `hthe alchemist``
+M 0 11287   1 11237  1	* `hlanfear``
+E 0 11209   -1    5	* item to `hlanfear``
+E 0 11210   -1   17	* item to `hlanfear``
+M 0 11288   1 11238  1	* `hlord daagar``
+E 0 11211   -1    9	* item to `hlord daagar``
+E 0 11258   -1   16	* item to `hlord daagar``
+M 0 11289   1 11239  1	* `ha rainbow elemental``
+M 0 11284   4 11241  4	* `ha young mage``
+M 0 11290   7 11243  7	* `ha shadow``
+D 0 11258   3    1	* `bA Dark Hallway`` [west]
+D 0 11260   1    1	* `bEntry to the Baths`` [east]
+D 0 11265   3    1	* `bA Dark Hallway`` [west]
+D 0 11267   3    1	* `bA Dark Hall`` [west]
+D 0 11266   0    1	* `bA Shadowy Dining Hall`` [north]
+D 0 11266   3    1	* `bA Shadowy Dining Hall`` [west]
+D 0 11277   1    1	* `bAn Abandoned Kitchen`` [east]
+D 0 11277   2    1	* `bAn Abandoned Kitchen`` [south]
+D 0 11279   3    1	* `bCold Storage`` [west]
+D 0 11278   1    1	* `bCleric's Hallway`` [east]
+D 0 11280   0    1	* `bCleric's Hallway`` [north]
+D 0 11280   2    1	* `bCleric's Hallway`` [south]
+D 0 11281   2    1	* `bStudent's Quarters`` [south]
+D 0 11282   0    1	* `bCleric's Hallway`` [north]
+D 0 11282   2    1	* `bCleric's Hallway`` [south]
+D 0 11283   0    1	* `bMaster's Quarters`` [north]
+D 0 11285   0    1	* `bCleric's Quarters`` [north]
+D 0 11286   2    1	* `bA Sedate Room`` [south]
+D 0 11287   2    1	* `bA Library`` [south]
+D 0 11288   0    2	* `bCleric's Hallway`` [north]
+D 0 11288   1    2	* `bCleric's Hallway`` [east]
+D 0 11289   1    1	* `bCleric's Hallway`` [east]
+D 0 11289   3    1	* `bCleric's Hallway`` [west]
+D 0 11290   2    2	* `bThe Headmaster's Room`` [south]
+D 0 11291   0    1	* `bHeadmistress's Parlor`` [north]
+D 0 11291   3    2	* `bHeadmistress's Parlor`` [west]
+D 0 11292   3    1	* `bLeisure Room`` [west]
+D 0 11293   0    1	* `bHousekeeping Room`` [north]
+D 0 11294   1    1	* `bA Room`` [east]
+D 0 11295   1    1	* `bA Run-down Chamber`` [east]
+D 0 11295   2    1	* `bA Run-down Chamber`` [south]
+D 0 11296   3    1	* `bThrone of Chaos`` [west]
+D 0 11268   1    1	* `bEntropy`` [east]
+D 0 11275   5    1	* The masters room [down]
+D 0 11270   1    1	* `bEntry Hall`` [east]
+D 0 11298   1    1	* `bThe Warrior's Bloodgrounds`` [east]
+D 0 11298   3    1	* `bThe Warrior's Bloodgrounds`` [west]
+D 0 11299   3    1	* `bThe Knight's Hall`` [west]
+D 0 11303   0    1	* `bThe Knight's Hall`` [north]
+D 0 11304   2    1	* `bThe Instructor's Quarters`` [south]
+D 0 11305   0    1	* `bThe Knight's Hall`` [north]
+D 0 11305   2    1	* `bThe Knight's Hall`` [south]
+D 0 11206   2    1	* `bA Destroyed Room`` [south]
+D 0 11207   0    1	* `bWarriors's Dormitory`` [north]
+D 0 11208   0    1	* `bThe Knight's Hall`` [north]
+D 0 11209   2    1	* `bThe Instructor's Quarters`` [south]
+D 0 11210   0    1	* `bThe Knight's Hall`` [north]
+D 0 11211   2    1	* `bInstructor's Room`` [south]
+D 0 11212   1    1	* `bThe Hall of Heroes`` [east]
+D 0 11213   1    1	* `bA Kitchen`` [east]
+D 0 11213   3    1	* `bA Kitchen`` [west]
+D 0 11214   3    1	* `bThe Pantry`` [west]
+D 0 11301   2    2	* `bThe Knight's Hall`` [south]
+D 0 11215   0    2	* `bSupply Office`` [north]
+D 0 11215   1    1	* `bSupply Office`` [east]
+D 0 11215   2    1	* `bSupply Office`` [south]
+D 0 11215   3    1	* `bSupply Office`` [west]
+D 0 11216   0    1	* `bA Storeroom`` [north]
+D 0 11216   2    1	* `bA Storeroom`` [south]
+D 0 11217   1    1	* `bA Storeroom`` [east]
+D 0 11217   3    1	* `bA Storeroom`` [west]
+D 0 11218   1    1	* `bA Storeroom`` [east]
+D 0 11219   0    1	* `bThe Smithy`` [north]
+D 0 11220   3    1	* Practice room [west]
+D 0 11274   0    2	* `bThe Arena`` [north]
+D 0 11271   1    1	* `bBefore the Chaos Mage Guild`` [east]
+D 0 11271   2    1	* `bBefore the Chaos Mage Guild`` [south]
+D 0 11222   0    1	* `bMage's Room`` [north]
+D 0 11222   2    1	* `bMage's Room`` [south]
+D 0 11225   0    1	* `bA Kitchen`` [north]
+D 0 11225   2    1	* `bA Kitchen`` [south]
+D 0 11224   0    1	* `bMage's Hallway`` [north]
+D 0 11224   3    1	* `bMage's Hallway`` [west]
+D 0 11226   2    1	* `bA Back Room`` [south]
+D 0 11227   0    1	* `bA Storeroom`` [north]
+D 0 11228   2    1	* `bMage's Hallway`` [south]
+D 0 11229   1    1	* `bMage's Hallway`` [east]
+D 0 11230   1    1	* `bThe Necromancer's Room`` [east]
+D 0 11231   0    1	* `bA Bedroom`` [north]
+D 0 11232   2    1	* `bMage's Hallway`` [south]
+D 0 11233   0    1	* `bMage's Hallway`` [north]
+D 0 11233   2    1	* `bMage's Hallway`` [south]
+D 0 11235   3    1	* `bThe Alchemist's Room`` [west]
+D 0 11237   0    1	* `bA Bedroom`` [north]
+D 0 11238   2    1	* `bHeadmaster's Bedroom`` [south]
+D 0 11239   2    1	* `bA Room`` [south]
+D 0 11240   0    1	* `bMage's Hallway`` [north]
+D 0 11240   2    1	* `bMage's Hallway`` [south]
+D 0 11240   3    1	* `bMage's Hallway`` [west]
+D 0 11241   0    1	* `bMage's Lounge`` [north]
+D 0 11242   0    1	* `bPrivate Library`` [north]
+D 0 11243   2    1	* `bA Classroom`` [south]
+D 0 11244   0    1	* `bA Bedroom`` [north]
+D 0 11245   1    1	* `bA Bedroom`` [east]
+M 0 11247   1 11246  1	* `ha crazy old man``
+E 0 11247   -1   16	* item to `ha crazy old man``
+M 0 11249   6 11253  1	* `ha rat``
+M 0 11251   1 11254  1	* `ha large mistling``
+M 0 11251   1 11256  1	* `ha large mistling``
+M 0 11249   5 11258  1	* `ha rat``
+M 0 11252   1 11259  1	* `hthe spectre of chaos``
+E 0 11252   -1    0	* item to `hthe spectre of chaos``
+E 0 11250   -1   12	* item to `hthe spectre of chaos``
+M 0 11253   1 11263  1	* `ha water nymph``
+E 0 11255   -1    1	* item to `ha water nymph``
+E 0 11292   -1   17	* item to `ha water nymph``
+M 0 11282   1 11271  1	* `hlord inanno``
+E 0 11280   -1   13	* item to `hlord inanno``
+M 0 11270   1 11276  1	* `hbaeleron``
+E 0 11294   -1    7	* item to `hbaeleron``
+E 0 11293   -1   18	* item to `hbaeleron``
+M 0 11263   1 11290  1	* `hmaster ennio``
+E 0 11271   -1    5	* item to `hmaster ennio``
+E 0 11272   -1    3	* item to `hmaster ennio``
+E 0 11273   -1   14	* item to `hmaster ennio``
+G 0 11215 -1		* Gold key to `hMaster Ennio``
+O 0 11274   0 11290 1	* A brass desk at `bThe Headmaster's Room``
+P 0 11220 1 11274 1
+M 0 11279   1 11215  1	* `hradric``
+E 0 11297   -1    0	* item to `hradric``
+E 0 11298   -1    8	* item to `hradric``
+E 0 11299   -1    5	* item to `hradric``
+D 0 11265   1    1	* `bA Dark Hallway`` [east]
+D 0 11269   2    2	* `bA Dark Hallway`` [south]
+D 0 11284   0    1	* `bCleric's Hallway`` [north]
+D 0 11289   2    1	* `bCleric's Hallway`` [south]
+D 0 11270   5    1	* `bEntry Hall`` [down]
+D 0 11267   4    1	* `bA Dark Hall`` [up]
+D 0 11257   0    1	* `bA Dark Hallway`` [north]
+D 0 11259   2    1	* `bA Temple`` [south]
+D 0 11273   1    1	* `bThe Piper's Chambers`` [east]
+D 0 11272   3    1	* `bThe Chaos Bar`` [west]
+D 0 11266   1    1	* `bA Shadowy Dining Hall`` [east]
+D 0 11278   3    1	* `bCleric's Hallway`` [west]
+D 0 11307   2    1	* `bMage's Hallway`` [south]
+D 0 11238   0    1	* `bHeadmaster's Bedroom`` [north]
+D 0 11222   3    1	* `bMage's Room`` [west]
+D 0 11223   1    1	* `bMage's Lounge`` [east]
+D 0 11223   3    1	* `bMage's Lounge`` [west]
+D 0 11225   1    1	* `bA Kitchen`` [east]
+D 0 11260   0    1	* `bEntry to the Baths`` [north]
+D 0 11262   2    1	* `bDressing Room`` [south]
+D 0 11276   0    1	* `bThe Piper's Chambers`` [north]
+D 0 11273   2    1	* `bThe Piper's Chambers`` [south]
+D 0 11273   5    1	* `bThe Piper's Chambers`` [down]
+D 0 11275   4    1	* The masters room [up]
+M 0 11278   1 11213  1	* `ha transparent cook``
+M 0 11257   1 11225  1	* `ha ghostly cook``
+M 0 11274  20 11226 10	* `ha zombie``
+M 0 11274  20 11206 10	* `ha zombie``
+M 0 11260   1 11293  1	* `hlolita``
+G 0 11213 -1		* Skeleton key to `hLolita``
+E 0 11267   -1    2	* item to `hlolita``
+D 0 11284   2    2	* `bCleric's Hallway`` [south]
+D 0 11306   0    2	* `bCleric's Hallway`` [north]
+M 0 11250   1 11289  1	* `ha skeletal servant``
+O 0 11216   0 11206 -1	* Silver key at `bA Destroyed Room``
+M 0 11254   1 11274  1	* `ha blob of crystal ooze``
+M 0 11271   1 11288  1	* `hthe enchanted statue of a lion``
+M 0 11258   1 11289  1	* `hryeal``
+M 0 11292   1 11296  1	* `hberserker``
+E 0 11306   -1   16	* item to `hberserker``
+O 0 11307   0 11296 -1	* `aan ebony throne`` at `bThrone of Chaos``
+G 0 11308 -1		* A swirl in the water to `hBERSERKER``
+M 0 11269   1 11297  1	* `hthe water beast``
+E 0 11308   -1   19	* item to `hthe water beast``
+M 0 11293   1 11279  1	* `han unidentifiable mass``
+O 0 11309   0 11227 -1	* The ghost of an apple at `bA Storeroom``
+O 0 11310   0 11236 -1	* A demonic tome at `bMage's Library``
+O 0 11276   0 11291 -1	* A crystal decanter at `bHeadmistress's Parlor``
+O 0 11311   0 11245 -1	* A canopy bed at `bA Bedroom``
+O 0 11312   0 11244 -1	* A student's journal at `bA Bedroom``
+O 0 11313   0 11224 -1	* `k(object trigger aura)`b mood trigger(spooky)`` at `bMage's Hallway``
+O 0 11314   0 11300 -1	* `k(object trigger aura)`b mood trigger`` at `bThe Knight's Hall``
+M 0 11255   9 11266  2	* `ha chaos guard``
+E 0 11259   -1   16	* item to `ha chaos guard``
+M 0 11255   9 11280  2	* `ha chaos guard``
+E 0 11259   -1   16	* item to `ha chaos guard``
+M 0 11255   9 11269  1	* `ha chaos guard``
+E 0 11256   -1    8	* item to `ha chaos guard``
+E 0 11257   -1    9	* item to `ha chaos guard``
+E 0 11259   -1   16	* item to `ha chaos guard``
+E 0 11260   -1   10	* item to `ha chaos guard``
+E 0 11261   -1    7	* item to `ha chaos guard``
+M 0 11255   9 11302  2	* `ha chaos guard``
+M 0 11255   9 11208  2	* `ha chaos guard``
+M 0 11255   9 11273  1	* `ha chaos guard``
+E 0 11259   -1   17	* item to `ha chaos guard``
+M 0 11261   2 11288  1	* `ha shadow lurker``
+M 0 11261   2 11294  1	* `ha shadow lurker``
+E 0 11278   -1   13	* item to `ha shadow lurker``
+E 0 11279   -1   16	* item to `ha shadow lurker``
+M 0 11283   2 11225  1	* `han unseen servant``
+M 0 11283   2 11223  1	* `han unseen servant``
+O 0 11315   0 11270 -1	* A wooden trapdoor at `bEntry Hall``
+O 0 11316   0 11277 -1	* An enormous hearth at `bAn Abandoned Kitchen``
+P 0 11317 1 11316 1
+O 0 11318   0 11285 -1	* A simple metal key at `bCleric's Quarters``
+O 0 11270   0 11286 -1	* Cabinet at `bA Sedate Room``
+P 0 11268 1 11270 1
+O 0 11319   0 11287 -1	* A nearby bookshelf at `bA Library``
+P 0 11320 1 11319 1
+O 0 11321   0 11261 -1	* A twisted damp towel at `bDressing Room``
+M 0 11277   1 11227  1	* `ha skeletal rat``
+O 0 11322   0 11242 -1	* A wobbly desk at `bPrivate Library``
+S
+
+#SHOPS
+11264  9 10  0  0  0 	120  80 	0 23	* `hCyric``
+11265  8  0  3  0  0 	100 100 	0 23	* `hBhaal``
+0
+
+#SPECIALS
+M 11251 spec_breath_gas		* `ha large mistling``
+M 11252 spec_cast_undead		* `hthe spectre of Chaos``
+M 11253 spec_thief		* `ha water nymph``
+M 11255 spec_guard		* `ha Chaos guard``
+M 11256 spec_cast_cleric		* `hOzu``
+M 11258 spec_cast_cleric		* `hRyeal``
+M 11260 spec_cast_cleric		* `hLolita``
+M 11261 spec_thief		* `ha shadow lurker``
+M 11263 spec_cast_undead		* `hMaster Ennio``
+M 11267 spec_guard		* `hA skeletal master``
+M 11269 spec_breath_frost		* `hthe water beast``
+M 11270 spec_bard		* `hBaeleron``
+M 11273 spec_guard		* `hTrog``
+M 11280 spec_nasty		* `ha poltergist``
+M 11282 spec_cast_mage		* `hLord Inanno``
+M 11284 spec_cast_mage		* `ha young mage``
+M 11285 spec_breath_fire		* `hBloodbane``
+M 11286 spec_cast_mage		* `hthe alchemist``
+M 11287 spec_cast_mage		* `hLanfear``
+M 11288 spec_cast_mage		* `hLord Daagar``
+M 11292 spec_nasty		* `hBERSERKER``
+S
+
+#OT
+#11206
+`aChaos Guild -`b shield of darkness``~
+$char_attacks~
+262144
+72
+cast armor $wearer~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#11248
+`aChaos Guild -`b mirror blade``~
+$chance_on_round ~
+256
+65
+emote flashes, reflecting light at $2vict!~
+100
+0
+cast 'blindness' $2vict~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#11252
+`aChaos Guild -`b spectre``~
+$chance_on_round~
+256
+33
+force spectre chant 'wind of death'~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+5
+#11255
+`aChaos Guild -`b shimmering ring``~
+$chance_on_round ~
+256
+97
+cast 'change sex' $2vict~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+2
+#11264
+`aChaos Guild -`b ozu``~
+$chance_on_round~
+256
+40
+force ozu growl~
+10
+0
+force ozu say You will pay for this...~
+10
+0
+damage $randpc 50 `bOzu's chaos magic MUTILATES you!``~
+7
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+30
+#11268
+`aChaos Guild -`b simple hiding key``~
+$entersroom~
+1
+68
+echo A gleam on the floor catches your eye.~
+100
+10
+zecho Down the corridor a door closes.~
+100
+70
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#11278
+`aChaos Guild -`b lurker``~
+$entersroom~
+1
+65
+force shadowlurker backstab $name~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#11280
+`aChaos Guild -`b magical sash``~
+$chance_on_round~
+256
+65
+cast 'magic missile' $2vict~
+10
+0
+cast 'haste' $wearer~
+1
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+5
+#11293
+`aChaos Guild -`b bagpipe``~
+$chance_on_round~
+256
+33
+force baeleron emote plays a mocking tune on his bagpipes~
+10
+0
+force baeleron say The power of music will prevail!~
+10
+0
+force baeleron play 'despair' $randpc~
+5
+0
+force baeleron play 'ballad of the can' $randpc~
+5
+0
+damage $randpc 50 The wheezing noise that comes out of the bagpipes hurts your ears!~
+5
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#11304
+`aChaos Guild -`b crazyman's sword``~
+$chance_on_round ~
+256
+97
+trecho $wearer $wearer hollers madly has $e swings $s sword.~
+10
+0
+trecho $wearer $wearer licks $s blade and cackles insanely.~
+10
+0
+force $wearer whisper $randpc I am not crazy! I am not!~
+10
+0
+trecho $wearer $wearer whispers something to $s sword.~
+10
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+20
+#11307
+`aChaos Guild -`b BERSERKER``~
+$chance_on_round ~
+256
+68
+zecho The BERSERKER howls with rage!~
+5
+0
+force berserker snarl $randpc~
+5
+30
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#11311
+`aChaos Guild -`b canopy bed``~
+$entersroom~
+1
+68
+echo The silk veils around the canopy bed flutters as if someone was moving in the room.~
+100
+3
+zecho An unseen presence passes through you!~
+100
+60
+zecho Groaning spirits passes through the walls, seemingly unaware of you.~
+100
+60
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#11313
+`aChaos Guild -`b mood trigger``~
+$entersroom~
+1
+68
+zecho Heavy footsteps thud close by, something big is approaching...~
+100
+20
+zecho A terrible scream can be heard somewhere down the corridor.~
+100
+80
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#11314
+`aChaos Guild -`b mood``~
+$entersroom~
+1
+68
+zecho The sound of a gong is heard from deep within the complex.~
+100
+40
+zecho Strange lights flickers in the air as whispers resonates from the walls.~
+100
+80
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#11319
+`aChaos Guild -`b library``~
+$entersroom~
+1
+68
+echo Students of Chaos move around between the shelves of the vast library.``~
+100
+10
+echo A student leaves the library with a frustrated look on his face.~
+100
+70
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+50
+#11322
+`aChaos Guild -`b desk in private library``~
+$entersroom~
+1
+68
+echo The chair behind the desk creaks, as if someone, or something, was sitting in it...~
+100
+10
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

@@ -1,0 +1,20 @@
+* File: roadass.scr
+* Mob: Roadassassin(8819)
+
+#TRIGGER idoncare
+Type 2
+Sc
+wfunc %fuqit% random 0 50
+if ( %fuqit% <= 10 )
+emote draws a line of blood with a quick flip of his dagger!
+halt once~
+Sc
+if ( %fuqit% >= 45 )
+say You're going to lose!
+emote withdraws dozens of secret knives and hurls them at you!
+mfunc %idoncare-from% %heh% hit
+msign %idoncare-from% 25 hit
+halt once~
+End
+
+#END

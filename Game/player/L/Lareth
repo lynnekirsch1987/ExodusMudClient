@@ -1,0 +1,630 @@
+#PLAYER
+Name Lareth~
+Id   1056850981
+LogF 1060981594
+LogO 1060981594
+Vers 8
+Desc Raven black hair flows in unbound waves to this young female elf's hips. 
+Her eyes are a haunting and intense gold, much akin to the eyes of a wild
+cat.  Smooth ivory skin shows little exposure to the elements or the harsh
+rays of the sun.  Her every movement is graceful like a panther's, each
+motion hypnotic and liquid.
+``
+Taller than most of her race, she stands at about 5'7", her build
+is well toned and sleek.
+``
+~
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race elf~
+Sex  2
+Cla  1
+Cla2  1
+Cla3  1
+Levl 1
+MHKill 203
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 45455
+Bank_Gold 0
+Bank_Silv 1000
+Email sylune@toad.net~
+Souls 13
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+New_Style 1
+Totalxp 6508892
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+Host host1-net88.mris.com~
+Not  1059359063 1058843700 0 1058751143 1058751148 1058751168 1058751162 0
+Scro 22
+Room 4056
+HMV  20 20 100 100 100 100
+Hand 2
+Gold 312
+Silv 5260
+Exp  6508892
+Act  CDEFQ
+Blok -1
+AfBy EFJ
+Comm NOS
+Pos  8
+Trai 2
+Alig  0
+ACs 100 100 100 100
+Attr 13 20 6 19 6 6
+AMod 0 0 0 0 0 0
+Pass La7O1FUA/gmGM~
+Layhands 0
+Exorcise 0
+Titl .~
+Pnts 6
+TSex 2
+LLev 12
+Loner 0
+HMVP 20 100 100
+Cnd  -4 -4 21 -4
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias bc butcher corpse~
+Alias bs c 'bee sting'~
+Alias hl c 'herbal lore'~
+Alias fo forage~
+Sk 1 'purification'
+Sk 1 'cause critical'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 1 'continual light'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'true sight'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'earthquake'
+Sk 1 'flamestrike'
+Sk 1 'harm'
+Sk 1 'heal'
+Sk 1 'know alignment'
+Sk 1 'plague'
+Sk 1 'evocation'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'soul fire'
+Sk 1 'hallowed vision'
+Sk 1 'celestial sight'
+Sk 1 'sustenance'
+Sk 1 'holy water'
+Sk 1 'revelation'
+Sk 1 'levitation'
+Sk 1 'renewal'
+Sk 1 'divine protection'
+Sk 1 'calm'
+Sk 1 'frenzy'
+Sk 1 'bless'
+Sk 1 'conservancy'
+Sk 1 'remove curse'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'shield block'
+Sk 40 'staff'
+Sk 1 'dodge'
+Sk 1 'swimming'
+Sk 1 'butcher'
+Sk 1 'meditation'
+Sk 1 'sneak'
+Sk 1 'fishing'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+GStats  8 0 203 0 0 505 12 6508892 6590 
+End
+
+#O
+Vnum 21063
+Nest 0
+Name fox black tails newbie~
+ShD  `aBlack-Tipped`k (`cnewbie`k)`a Tails``~
+ExtF 8650752
+Wear -1
+Lev  1
+Cost 0
+End
+
+#O
+Vnum 12923
+Nest 0
+Name sparkling newbie box `iI`bv`ae`orStr`ai`bn`ig``~
+ShD  `d[`kA Sparkling Newbie Box`d]``~
+Desc `kA sparkling newbie box from`o Iverath`k is here, stuffed with newbish items.``~
+Wear -1
+Lev  1
+Cost 15
+End
+
+#O
+Vnum 6221
+Nest 1
+Name white iron rod newbie~
+ShD  `oA`k (`cnewbie`k)`o iron rod``~
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 8835
+Nest 1
+Name newbie spinach leaf~
+ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 4406
+Nest 1
+Wear -1
+Cost 1
+ExDe help~ `o[`nThe Zoo`o]``
+Those who are very new to the city should attempt to venture towards
+the east gate (east of the fountain down Cumberland), and south of
+Farmer's Square, until they reach Welford Road.  Travelling south down
+Welford, watch for signs indicating an Animal Exhibition (check your
+map if you get lost), and venture inside  -  the zoo is a nice place
+for adventurers to have fun and explore in before attempting to take
+their quests out of the city.
+ 
+`o[`cThe Eastern Prairie`o]``                 
+After finding your bearings in the city of Thesden, travel east down
+Cumberland until you find yourself in Farmer's Square.  From there,
+go one south and east, and you will find yourself in the Eastern
+Prairie, an excellent place for newcomers to explore and adventure
+in.
+~
+ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
+`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
+                         `l*`i Pine``
+                         `l*`i Cumberland``
+                         `l*`i Seahan``
+                         `l*`i Langhan``
+                         `l*`i Welford``
+                         `a-----`o-----`a-----``
+~
+ExDe pine~ `bPine Street``
+:--------------------------------------------------------:
+:   ____`eB``________`gG``_                                      :
+:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
+:  `k#``__|__|__|__|__|`k#``                                     :
+:Raven  `iA``  `bT``                                             :
+:Sq.                                                     :
+:                                                        :
+:`iA``  = `iAntique Shop``                                       :
+:`eB``  = `eNarcissus' Book Shop``                               :
+:`gG``  = `gCathedral Glassworks``                               :
+:`bT``  = `bPine Street Tanner``                                 :
+:--------------------------------------------------------:
+~
+ExDe cumberland~ `bCumberland Ave.``
+:--------------------------------------------------------------------:
+:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
+:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
+:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
+:        Elm                  `eH``  `gC``   Devon   `nB``                       :
+:         Sq.                         Sq.                            :
+:                                                                    :
+:\\ = Bridge                                                         :
+:`d@``  = `dWest Gate``                                                      :
+:`bP``  = `bLoris Exotic Pets``                                              :
+:`eH``  = `eHangman's Tavern``                                               :
+:`gC``  = `gCumberland Clothier``                                            :
+:`nB``  = `nBlacksmith``                                                     :
+:`jW``  = `jWilderness Supplies``                                            :
+:`cX``  = `cFresh Produce Shop``                                             :
+:--------------------------------------------------------------------:
+~
+ExDe seahan seaham~ `bSeahan Way``
+:---------------------------------------------------:
+:  `k####`` Raven Square                                :
+: `bA`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Devon Square                             :
+:  `k####`` S. Devon Square                             :
+:  `d|  |``                                             :
+:  `d|  |`gAr``                                           :
+: `eB`d|  |``                                             :
+:  `d|  |``                                             :
+:  `k####`` N. Dorset Square                            :
+:                                                   :
+:`eB`` = `eBank``                                           :
+:`gAr`` = `k+\`gArena of Legends`k/+``                          :
+:`bA`` = `bThe Leech and Root Apothecary``                  :
+:---------------------------------------------------:
+~
+ExDe langhan~ `b  Langhan Street``
+:---------------------------------------------------:
+:         _____`kC``________`gA``_                          :
+:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
+: Sq.    `k#``_|__|__|__|__|__`k#``                         :
+:           `mM``                                       :
+:                                                   :
+:`gA`` = `gCovent Armory``                                  :
+:`mM`` = `mThe College of Music``                           :
+:`kC`` = `kCeramics Shop``                                  :
+:---------------------------------------------------:
+~
+ExDe welford~ `b Welford Road``
+:---------------------------------------------------:
+:   `d|  |``                                            :
+:  `o%`d|  |``                                            :
+:   `d|  |``                                            :
+:   `k####`` N. Farmer's Sq.                            :
+:   `k####`` S. Farmer's Sq.                            :
+:   `d|  |``                                            :
+:  `aX`d|  |`co``                                           :
+:  `lW`d|  |``                                            :
+:   `k####`` Grisedale Sq.                              :
+:                                                    :
+:`o%``  = `oCandle and Lantern Shop``                       :
+:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
+:`co``  = `cThesden Animal Exhibitions and Zoo``            :
+:`lW``  = `lMincer Ray's Weaponry``                         :
+:---------------------------------------------------:
+~
+ExDe map~ :----------------------------------------------------------------------:
+:                                                                      :
+:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
+:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
+:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
+: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
+:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
+:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
+:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
+:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
+:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
+:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
+:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
+:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
+:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
+:----------------------------------------------------------------------:
+`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
+`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
+~
+End
+
+#O
+Vnum 4202
+Nest 1
+Wear -1
+Cost 0
+Val  0 0 109 0 0 0 0
+End
+
+#O
+Vnum 69
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21119
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21119
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21119
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21119
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 1
+ShD  the feather of `aa crow``~
+Desc The feather of `aa crow`` is lying here.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5631
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5618
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4107
+Nest 1
+ExtF 8650752
+Wear -1
+Cost 0
+Val  110 110 0 0 0 0 0
+End
+
+#O
+Vnum 49
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 49
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21072
+Nest 0
+Name tarnished silver newbie ring~
+ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
+Wear -1
+Lev  1
+Cost 12
+End
+
+#O
+Vnum 5637
+Nest 0
+Name cougarskin skin jacket newbie~
+ShD  `da`k (`cnewbieskin`k)`d jacket``~
+ExtF 262144
+Wear -1
+Lev  1
+Cost 15
+End
+
+#O
+Vnum 7265
+Nest 0
+Name spirit chaos annoying newbie~
+ShD  `hThe`n S`gpiri`nt`h of`k (`cthe annoying newbie`k)``~
+ExtF 0
+Wear -1
+Lev  1
+Cost 1500
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+Wear -1
+Lev  1
+Cost 300
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+Wear -1
+Lev  1
+Cost 300
+End
+
+#O
+Vnum 114
+Nest 0
+Name forest green cloak newbie~
+ShD  `kA`c Fo`kre`cst`k (`cnewbie`k) Cl`co`kak``~
+Wt   0
+Wear -1
+Lev  1
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+Name brass knuckles newbie~
+ShD  `k (`cNewbie`k)`k K`on`huck`ole`ks``~
+Wt   0
+Wear -1
+Lev  1
+Cost 0
+Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
+Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 20956
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 559
+Nest 0
+Name cypress shield newbie~
+ShD  `dA`k (`cnewbie`k)`d S`ch`di`ce`dl`cd``~
+ExtF 8650752
+Wt   0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+ExtF 8650752
+Wear -1
+Lev  10
+Cost 0
+End
+
+#O
+Vnum 5653
+Nest 0
+Name newbie wooden bracer~
+ShD  `da wooden`k (`cnewbie`k)`d bracer``~
+ExtF 8650752
+Wear -1
+Lev  10
+Cost 0
+End
+
+#O
+Vnum 5033
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21094
+Nest 0
+ExtF 8651264
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4409
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5616
+Nest 0
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 4518
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4518
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4107
+Nest 0
+ExtF 8650752
+Wear -1
+Cost 0
+Val  110 62 0 0 0 0 0
+End
+
+#O
+Vnum 21072
+Nest 0
+ExtF 8388608
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 0
+ExtF 8650752
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6203
+Nest 0
+Name `iA Cherry `oAdeonString`` ~
+ShD  `iMerichino Cherry``~
+Desc A delectable `icherry `cis just waiting to be eaten~
+ExtF 25427968
+Wear -1
+Cost 0
+End
+
+#RoomRLE   1505 2 1893 2 602 2 2 1 25 2 7 2 1 51 14 15 2 2 1 1 1 4 1 1 5 3 1 2 5 3 2 3 4 7 1 2 1 1 18 1 1 1 5 4 2 1 1 1 31 1 84 1 70 1 1 1 1 2 6 1 50 4 2 2 3429 2 1 14 10 37 5069 1 58 2 8 2 148 9 7689 8 2 4 2 9 1 6 1 6 7 7 1 4 3 2 39 1 6 3 7 8 1 1 1 2 7 2 1 10 8 12 6 14 8 12 9 12 7 5 1 7 6 20 1 18 2 2 5 1 3 2 5 1 2 1 5 1 3 2 8 1 5 12 2 2 4 1 3 2 5 1 3 1 7 9 3 6 3 2 5 2 2 4 6 1 5 2 15 5 18 3 3701 1 68 2 38 1 585 1 295 1 37 1 838 8 4 56 5970 1 109 1 98 1 32286 -1
+
+
+#SWORD
+Vnum 69
+Nest 0
+ShD  `hthe Reaver blade '`jS`cylvanore's `hB`aane```h'``~
+Desc `hThis Reaver blade bares the inscription '`jS`cylvanore's `hB`aane```h'.``~
+BSCap 0 0 0 0 0 0
+BSChar 0 0 0 0 0 0
+BBCap 0 0 0 0 0
+BBChar 0 0 0 0 0
+Wear -1
+Cost 0
+Val  1 1 2 3 0 0 0
+End
+
+#END

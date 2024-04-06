@@ -1,0 +1,12 @@
+* File: mummy.scr
+* Mob: mummy(8707)
+
+#TRIGGER moan
+Type 3
+Sc
+wfunc %wail% random 0 10
+if (%wail% > 8) || (%wail% == 0)
+emote moans loudly and shambles toward you!~
+End
+
+#END

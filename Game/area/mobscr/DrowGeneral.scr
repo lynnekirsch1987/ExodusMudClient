@@ -1,0 +1,157 @@
+* File: DrowGeneral.scr
+* Mob: Drow general (mob 5122)
+* NOTE: This is part of a larger Thesden Invasion event
+
+#TRIGGER combat
+Type 2
+Sc
+let %countdown% -= 1
+if ( %countdown% < 1 )
+  let %countdown% == 25
+  cmd yell Guards, help me!  I am under attack!
+  cmd at 1243 load mob 5134
+  signal 5134 helpme
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+if ( %start-arg% cmp "start" )
+  cmd whomsg Thesden is under seige by the Drow army!
+  cmd gecho `oAttention citizens!``
+  cmd gecho `oThesden is now under the occupation of the Drow army led by General Shaladar.``
+  cmd shout `oWe demand that you submit to our authority and you will not be killed.``
+  cmd shout `oYou are all now servants of the Drow empire.``
+  cmd goto 4181
+  GETPC %outahere%
+  MOB trans %outahere% 4056
+  GETPC %outahere%
+  MOB trans %outahere% 4056
+  GETPC %outahere%
+  MOB trans %outahere% 4056
+* First he gets Minax away from the crazy spam
+  MOB trans minax 1200
+* Next he creates the bodyguards on the landing
+  cmd at 4177 load mob 5123
+  cmd at 4177 load mob 5123
+  cmd at 4177 load mob 5123
+  cmd at 4177 load mob 5123
+  cmd at 4177 load mob 5123
+  signal 5123 start
+* Next he creates his sentries in the Thesden town hall
+  cmd at 4134 load mob 5124
+  cmd at 4134 load mob 5124
+  cmd at 4134 load mob 5124
+  signal 5124 start
+* Next he creates his scout and the elite guards at DSC
+  cmd at 4056 load mob 5125
+  cmd at 4056 load mob 5126
+  cmd at 4056 load mob 5126
+  cmd at 4056 load mob 5126
+  signal 5125 start
+  signal 5126 start
+* Next he creates the imperial vanguard who blocks the healer.
+  cmd at 4058 load mob 5127
+  signal 5127 start
+* Next he loads the gate guards for the four gates.
+  cmd at 1243 load mob 5128
+  signal 5128 start
+  cmd at 1243 load mob 5129
+  signal 5129 start
+  cmd at 1243 load mob 5130
+  signal 5130 start
+  cmd at 1243 load mob 5131
+  signal 5131 start
+* Next he creates the first wave of Drow soldiers to patrol the streets.
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  cmd at 1243 load mob 5132
+  signal 5132 start
+* Next he loads an elite guard in the cathedral to keep the newly-dead imprisoned.
+  cmd at 4149 load mob 5133
+  signal 5133 start
+* Finally, he transfers Minax back home
+  MOB trans minax 1243
+  halt once~
+End
+
+#TRIGGER soldierdies
+Type 8
+Sc
+* This is how the general keeps track of dying soldiers and replaces them with new ones.
+* Therefore even if players keep killing soldiers, new ones will take their place until the general is dead.
+if ( %soldierdies-arg% cmp "soldierdies" )
+  cmd at 1243 load mob 5132
+  signal 5132 start
+  halt once~
+End
+
+#TRIGGER westgatedies
+Type 8
+Sc
+* When the sentry of the west gate dies, he sends a new one to replace him.
+if ( %westgatedies-arg% cmp "westgatedies" )
+  cmd at 1243 load mob 5128
+  signal 5128 start
+  halt once~
+End
+
+#TRIGGER northgatedies
+Type 8
+Sc
+* When the sentry of the north gate dies, he sends a new one to replace him.
+if ( %northgatedies-arg% cmp "northgatedies" )
+  cmd at 1243 load mob 5129
+  signal 5129 start
+  halt once~
+End
+
+#TRIGGER eastgatedies
+Type 8
+Sc
+* When the sentry of the east gate dies, he sends a new one to replace him.
+if ( %eastgatedies-arg% cmp "eastgatedies" )
+  cmd at 1243 load mob 5130
+  signal 5130 start
+  halt once~
+End
+
+#TRIGGER southgatedies
+Type 8
+Sc
+* When the sentry of the south gate dies, he sends a new one to replace him.
+if ( %southgatedies-arg% cmp "southgatedies" )
+  cmd at 1243 load mob 5131
+  signal 5131 start
+  halt once~
+End
+
+#TRIGGER cathedraldies
+Type 8
+Sc
+* When the sentry of the cathedral dies, he sends a new one to replace him.
+if ( %cathedraldies-arg% cmp "cathedraldies" )
+  cmd at 1243 load mob 5133
+  signal 5133 start
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  cmd shout `oYou may have defeated me this time, Athanmere, but next time you won't be so lucky!``
+  cmd gecho `kAs thanks for saving his beloved Thesden, King Athanmere has decreed a celebration!``
+  cmd quad
+  cmd whomsg remove
+  halt once~
+End
+
+#END

@@ -1,0 +1,150 @@
+* File: referee.scr
+* Mob: 27200
+
+#TRIGGER tick
+Type 3
+Sc
+if (%timer% < 1)
+  say Resetting the teams and cancelling the game.
+  let %red1% == nobody
+  let %red2% == nobody
+  let %blue1% == nobody
+  let %blue2% == nobody
+  let %timer% == 5
+  let %gameinprogress% == 0
+  halt once~
+Sc
+if (%timer% > 4)
+  halt once~
+Sc
+  let %timer% -= 1
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %red1% == nobody
+  let %red2% == nobody
+  let %blue1% == nobody
+  let %blue2% == nobody
+  let %timer% == 5
+  let %gameinprogress% == 0
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+if ( %start-arg% cmp "start")
+  cmd goto 4056
+  gecho `kThe Exodus Cup tournament is starting.``
+  gecho `oCome to DSC for information or to enter your team.``
+  halt once~
+End
+
+#TRIGGER redwins
+Type 8
+Sc
+if ( %redwins-arg% cmp "redwins" )
+  cmd yell GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAL!
+  cmd yell `iRed `oteam scores!``
+  cmd yell `o%red1% and %red2% win!
+  cmd at 1 purge ball
+  cmd at 4117 string obj soccer extended statue `kThe statue shows a likeness of %red1% and %red2%, the current champions.``
+  let %red1% == nobody
+  let %red2% == nobody
+  let %blue1% == nobody
+  let %blue2% == nobody
+  let %gameinprogress% == 0
+  cmd goto 27212
+  halt once~
+End
+
+#TRIGGER bluewins
+Type 8
+Sc
+if ( %bluewins-arg% cmp "bluewins" )
+  cmd yell GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAL!
+  cmd yell `lBlue `oteam scores!``
+  cmd yell `o%blue1% and %blue2% win!
+  cmd at 1 purge ball
+  cmd at 4117 string obj soccer extended statue `kThe statue shows a likeness of %blue1% and %blue2%, the current champions.``
+  let %red1% == nobody
+  let %red2% == nobody
+  let %blue1% == nobody
+  let %blue2% == nobody
+  let %gameinprogress% == 0
+  cmd goto 27212
+  halt once~
+End
+
+#TRIGGER WhoPlays
+Type 99
+Sc
+if (%gameinprogress% cmp 1)
+  tell %whoplays-from% You'll have to wait until the current game is done.
+  halt once~
+Sc
+if (%red1% cmp nobody)
+  mfunc %WhoPlays-from% %red1% name
+  say `hPlayer 1 for the `iRed`h team is %red1%.``
+  let %timer% == 2
+  halt once~
+Sc
+if (%red1% cmp %WhoPlays-from%)
+  pecho %WhoPlays-from% `h%red1% is player 1 for the `iRed`h team.``
+  halt once~
+Sc
+if (%red2% cmp nobody)
+  mfunc %WhoPlays-from% %red2% name
+  say `hPlayer 2 for the `iRed`h team is %red2%.``
+  halt once~
+Sc
+if (%red2% cmp %WhoPlays-from%)
+  pecho %WhoPlays-from% `h%red2% is player 2 for the `iRed`h team.``
+  halt once~
+Sc
+if (%blue1% cmp nobody)
+  mfunc %WhoPlays-from% %blue1% name
+  say `hPlayer 1 for the `lBlue`h team is %blue1%.``
+  halt once~
+Sc
+if (%blue1% cmp %WhoPlays-from%)
+  pecho %WhoPlays-from% `h%blue1% is player 1 for the `lblue`h team.``
+  halt once~
+Sc
+if (%blue2% cmp nobody)
+  mfunc %WhoPlays-from% %blue2% name
+  say %red1% and %red2% play against %blue1% and %blue2%
+  say OK, let's play!
+  let %gameinprogress% == 1
+  let %timer% == 5
+  cmd at 27200 purge
+  cmd goto 27206
+  cmd trans %red1%
+  cmd trans %red2%
+  cmd trans %blue1%
+  cmd trans %blue2%
+  say The `iRed`` team is attacking west.
+  say The `lBlue`` team is attacking east.
+  say `oFIRST GOAL WINS!``
+  cmd load mob 27201
+  halt once~
+End
+
+#TRIGGER roster
+Type 99
+Sc
+  say `hPlayer 1 for the `iRed`h team is %red1%.``
+  say `hPlayer 2 for the `iRed`h team is %red2%.``
+  say `hPlayer 1 for the `lBlue`h team is %blue1%.``
+  say `hPlayer 2 for the `lBlue`h team is %blue2%.``
+  wait 0~
+Sc
+  if (%timer% < 5)
+  say You have %timer% more tick(s) to fill the roster and start the game.
+  halt once~
+End
+
+#END

@@ -1,0 +1,51 @@
+* File: olddrunk.scr
+* Mob: Drunk Old Man(18993)
+
+#TRIGGER drunk
+Type 10
+Sc
+mfunc %drunk-from% %sex% sex
+if ( %sex% == 2 )
+   wink %drunk-from%
+   halt once~
+Sc
+   ruffle %drunk-from%
+   halt once~
+End
+
+#TRIGGER drtick
+Type 3
+Sc
+wfunc %rnd% random 0 7
+if ( %rnd% == 0 )
+   cmd burp
+   halt once~
+Sc
+if ( %rnd% == 1 )
+   cmd passout
+   halt once~
+Sc
+if ( %rnd% == 2 )
+   cmd cough
+   halt once~
+Sc
+if ( %rnd% == 3 )
+   cmd stagger
+   halt once~
+Sc
+if ( %rnd% == 4 )
+   cmd hiccup
+   halt once~
+Sc
+if ( %rnd% == 5 )
+   cmd drool
+   halt once~
+End
+
+#END
+
+
+
+
+
+

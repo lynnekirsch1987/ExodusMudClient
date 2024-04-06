@@ -1,0 +1,3152 @@
+#AREA
+ablight.enc~
+The Blight~
+{ 0 10} Exodus  The Blight~
+~
+8401 8551
+0 0
+0 0
+~
+#MOBILES
+#8401
+tree huge ~
+a giant decaying tree~
+A huge mouldering tree stands here on giant roots.
+~
+At one time this tree was a proud oak, before it was corrupted and animated
+by the Dark One. It's broad branches are covered with a black fungus that 
+spreads down its trunk. 
+~
+human~
+0 0 0 0
+AGTU 0 0 0
+53 35 50d10+2500 0d0+0 6d7+50 none
+-1 -2 -2 -2
+H AE IJK H
+stand stand none 0
+AHMV ABCDEFGHIJK giant unknown~
+0 0 0 100
+0
+~
+~
+#8402
+stone guardian statue~
+Stone Guardian~
+A stone statue is here, guarding the gibbet.
+~
+This giant guardian was placed here as an eternal warden for those
+placed in the gibbet. What type of creature it is and who placed it
+here are long forgotten...
+~
+human~
+0 0 0 0
+ABT DFHNTVZ -1000 0
+51 25 50d10+2000 100d100+100 10d4+50 slime
+-2 -2 -2 -2
+DFHK 0 0 S
+stand stand male 10000
+AGHMVW ABCDEFGHIJKP large unknown~
+0 0 0 100
+0
+~
+~
+#8403
+giant rock slab menhir~
+a Menhir~
+A giant mobile rock slab is standing here, facing the sun.
+~
+This giant slab of rock has been enchanted by some art long forgotten. 
+~
+human~
+0 0 0 0
+AGT 0 0 0
+52 26 50d10+2500 0d0+0 6d7+50 pound
+0 0 0 0
+CDFHKOP 0 BGHILQ 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8404
+whale wind~
+a wind whale~
+A gigantic wind whale is here, trolling the skies.
+~
+~
+human~
+0 0 0 0
+ACF TVc 0 0
+51 26 50d10+1500 1d1+1000 5d8+40 none
+-2 -2 -2 -2
+AEHKOU 0 ES J
+stand stand none 0
+AHMRV ABCDEFGHIJK giant unknown~
+0 0 0 100
+0
+~
+~
+#8405
+sandling~
+a sandling~
+A sandling is sliding accross the dunes.
+~
+A man-sized beast made from fine sand slinks its way towards you.
+~
+human~
+0 0 0 0
+ACFGS BDQVac 0 0
+50 26 50d10+1200 0d0+0 5d8+34 beating
+-2 -2 -2 -2
+BCEFGHKP 0 BCFQ 0
+stand stand none 0
+AHJMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8406
+worm~
+a Worm of the Blight~
+A Worm of the Blight is here, keening its fearsome wail.
+~
+~
+snake~
+0 0 0 0
+AGT V 0 0
+50 26 50d10+1300 0d0+0 5d8+35 none
+-3 -3 -3 -3
+DFK 0 L CHIK
+stand stand none 0
+AGRXYc ADEFKLQVX medium unknown~
+0 0 0 100
+0
+~
+~
+#8407
+t'lyss bush~
+a T'lyss~
+A splotched T'lyss bush rustles at your approach.
+~
+This is another bizarre creation of the Blight. It's branches are 
+covered in some spotted fungus and sprout tiny berries.
+~
+human~
+0 0 0 0
+ACTU HV 0 0
+50 25 35d10+2500 0d0+0 6d6+30 none
+-1 -1 -1 -1
+FHKU A 0 0
+stand stand none 0
+AEHMV ABCDEFGHIJK small unknown~
+0 0 0 100
+0
+~
+~
+#8408
+bush takk'u~
+a Takk'u bush~
+A Takk'u bush reaches for you with thorny branches.
+~
+This bush in in full bloom, which means it is covered with sickly yellow
+flowers and thorny seedlings that could easily get snagged in your clothing.
+Its branches quiver and reach out for you as you come near.
+~
+human~
+0 0 0 0
+ATU V 0 0
+50 25 35d10+1500 0d0+0 6d6+35 none
+0 0 0 0
+FHKOU 0 KP H
+stand stand none 0
+AEHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8409
+tree shimekiri~
+a Shimekiri tree~
+A slender Shimekiri sapling flays at you with whip branches.
+~
+A tall thin tree with whipcord thin branches that flay and tangle its
+prey. Close to its trunk is a cluster of smelly berries.
+~
+human~
+0 0 0 0
+ACFTU V 0 0
+50 25 40d10+1300 0d0+0 8d8+30 none
+-1 -1 -1 -1
+FHKMNU 0 0 H
+stand stand none 0
+AEHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8410
+plant chot'oko~
+a Chot'oko plant~
+A broad leafed Chot'oko plant lumbers toward you.
+~
+This bizarre plant is simply a bunch of broad leaves branching out of
+a central stalk. Its leaves are black with some foul ichor that drips
+off in puddles.
+~
+human~
+0 0 0 0
+A V 0 0
+50 25 25d20+1000 0d0+0 8d4+35 none
+-1 -1 -1 -1
+CFHKOU 0 I H
+stand stand none 0
+AEHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8411
+katsi bush~
+a Katsi bush~
+The droopy stalk of the poisonous Katsi bush follows your movements.
+~
+The Katsi plant is merely a broad-leafed frond attached to a slender
+stalk sticking out of the ground. The stalk itself is slimy with resin
+and black with mold.
+~
+human~
+0 0 0 0
+AFTU V 0 0
+50 24 25d15+1200 0d0+0 8d6+38 none
+-1 -1 -1 -1
+0 0 IK H
+stand stand none 0
+AEHMV ABCDEFGHIJK medium unknown~
+0 0 0 100
+0
+~
+~
+#8501
+qwerte~
+Qwerte~
+Qwerte is here.
+~
+Qwerte is, well, Qwerte.
+~
+bat~
+0 0 0 0
+ABJKUab DFHNTVZc 0 0
+50 0 1d1+1 0d0+0 1d1+1 none
+0 0 0 0
+FH 0 0 S
+stand stand none 0
+AGVW ACDEFHJKP small unknown~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#8401
+pool water fountain~
+a pool of water~
+A pool of water sparkles in the desert sun.~
+unknown~
+0
+fountain 0 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 10000 0 P
+#8402
+gibbet~
+a gibbet~
+A rusty gibbet is hanging from a crosspost.~
+unknown~
+0
+container 0 0
+6
+~
+~
+~
+~
+DFGHIJ ACD CEFGJO 0 0
+0
+0
+0 100 0 P
+#8403
+corpse aiel aielman~
+the corpse of an Aielman~
+A corpse of an Aielman lies slumped here, mummified by the sun.~
+unknown~
+0
+container 0 A
+6
+~
+~
+~
+~
+BD 0 0 0 0
+0
+0
+0 50 1000 P
+#8404
+spear short~
+a short hafted stabbing spear~
+A short hafted stabbing spear has been left here.~
+unknown~
+0
+weapon 0 AN
+6
+~
+~
+~
+~
+0 BE AB BD F
+0
+0
+15 10 0 P
+A
+17 -15
+A
+14 50
+A
+19 4
+A
+18 4
+#8406
+berry spotted~
+a spotted berry~
+A spotted berry is being kicked around.~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BEF BDEFG -1 -1 -1
+0
+0
+50 0 0 P
+#8407
+seed seedling thorny~
+a thorny seedling~
+A thorny seed is stuck in your clothes.~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BEF CDEG BCEG BDEG -1
+0
+0
+50 0 0 P
+#8408
+sap katsi's~
+sap from a katsi bush~
+A glistening gob of katsi sap is here.~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BEF ADEFG BDEFG AEFH -1
+0
+0
+50 0 0 P
+#8409
+leaf chot'oko~
+a chot'oko leaf~
+A leaf from the Chot'oko bush is here.~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BEF BCDEFG ABFG BFG -1
+0
+0
+50 0 0 P
+#8410
+stink berry~
+a stink berry~
+A stink berry is on the ground, stinking.~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BEF DEFG DEFG DEFG -1
+0
+0
+50 0 0 P
+#8411
+windwhale gland~
+a gland from a windwhale~
+A bloody gland from a windwhale is here.~
+unknown~
+0
+pill 0 A
+6
+~
+~
+~
+~
+BEF BCDH BCDH CEFG -1
+0
+0
+50 0 0 P
+#8413
+key gibbet~
+a gibbet key~
+A rusty key is lying here.~
+unknown~
+0
+key 0 AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#8401
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the 
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8411
+D1
+The blight continues to the east.
+~
+~
+0 -1 8402
+D2
+~
+~
+0 0 19709
+S
+#8402
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8412
+D1
+The blight continues to the east.
+~
+~
+0 -1 8403
+D2
+~
+~
+0 0 19710
+D3
+The blight continues to the west.
+~
+~
+0 -1 8401
+S
+#8403
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8413
+D1
+The blight continues to the east.
+~
+~
+0 -1 8404
+D2
+~
+~
+0 0 19711
+D3
+The blight continues to the west.
+~
+~
+0 -1 8402
+S
+#8404
+~
+~
+0 0 0
+The Blight~
+The turf underfoot here is squishy with rotting plant matter that fills
+the air with the sickly-sweet stench of decay and death. There are low 
+shrubs and sickly mottled bushes that eke out a putrefying exitence in
+this place. The blue sky overhead is cludless and intensifies the head
+and humidity in the air. In the distance to the south, you can see a 
+murky lake steaming faintly in the haze.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8414
+D1
+The blight continues to the east.
+~
+~
+0 -1 8405
+D2
+~
+~
+0 0 19712
+D3
+The blight continues to the west.
+~
+~
+0 -1 8403
+S
+#8405
+~
+~
+0 0 0
+The Blight~
+The turf underfoot here is squishy with rotting plant matter that fills 
+the air with the sickly-sweet stench of decay and death. There are low
+shrubs and sickly mottled bushes that eke out a putrefying existence 
+in this place. The blue sky overhead is cloudless and intensifies the  
+heat and humidity in the air. To the south, a murky lake steams slightly
+in the heat.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8415
+D1
+The blight continues to the east.
+~
+~
+0 -1 8406
+D2
+~
+~
+0 0 19713
+D3
+The blight continues to the west.
+~
+~
+0 -1 8404
+S
+#8406
+~
+~
+0 0 0
+The Blight~
+The turf underfoot here is squishy with rotting plant matter that fills 
+the air with the sickly-sweet stench of decay and death. There are low
+shrubs and sickly mottled bushes that eke out a putrefying existence 
+in this place. The blue sky overhead is cloudless and intensifies the  
+heat and humidity in the air. A dark lake is faintly visible through the
+haze to the south.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8416
+D1
+The blight continues to the east.
+~
+~
+0 -1 8407
+D2
+~
+~
+0 0 19714
+D3
+The blight continues to the west.
+~
+~
+0 -1 8405
+S
+#8407
+~
+~
+0 0 0
+The Blight~
+The turf underfoot here is squishy with rotting plant matter that fills 
+the air with the sickly-sweet stench of decay and death. There are low
+shrubs and sickly mottled bushes that eke out a putrefying existence 
+in this place. The blue sky overhead is cloudless and intensifies the  
+heat and humidity in the air. The shore of a dark lake ripples in the
+mirage to the south.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8417
+D1
+The blight continues to the east.
+~
+~
+0 -1 8408
+D2
+~
+~
+0 0 8438
+D3
+The blight continues to the west.
+~
+~
+0 -1 8406
+S
+#8408
+~
+~
+0 0 0
+The Blight~
+The blight here is a combination of blasted desert and putrefying plant
+matter. The further east you go, away from the Dead Sea, the drier and
+hotter it gets, while to the west the land decays into the ocean. Overhead,
+the blazing sun beats down upon you mercilessly.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8418
+D1
+The blight continues to the east.
+~
+~
+0 -1 8409
+D3
+The blight continues to the west.
+~
+~
+0 -1 8407
+S
+#8409
+~
+~
+0 0 0
+The Blight~
+The blight here is a combination of blasted desert and putrefying plant
+matter. The further east you go, away from the Dead Sea, the drier and
+hotter it gets, while to the west the land decays into the ocean. Overhead,
+the blazing sun beats down upon you mercilessly. Northwards, the desert
+sand begins to haren into sun-baked sandstone and silicate formations,
+forming deep ravines and craggy buttes.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8419
+D1
+The blight continues to the east.
+~
+~
+0 -1 8410
+D3
+The blight continues to the west.
+~
+~
+0 -1 8408
+S
+#8410
+~
+~
+0 0 0
+The Blight~
+The sands of each dune you cross cascades downhill under each footfall,
+making each step all the more difficult. The heat is approaching an
+unbearable level, causing you to sweat freely under your armor. The
+desert extends as far as the eye can see in all directions although
+the terrain gets more broken and rugged to the north. The blue sky
+overhead is cloudless and the sun beats down on your head mercilessly.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8420
+D2
+~
+~
+0 0 8410
+D3
+The blight continues to the west.
+~
+~
+0 -1 8409
+S
+#8411
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8421
+D1
+The blight continues to the east.
+~
+~
+0 -1 8412
+D2
+The blight continues to the south.
+~
+~
+0 -1 8401
+S
+#8412
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8422
+D1
+The blight continues to the east.
+~
+~
+0 -1 8413
+D2
+The blight continues to the south.
+~
+~
+0 -1 8402
+D3
+The blight continues to the west.
+~
+~
+0 -1 8411
+S
+#8413
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8423
+D1
+The blight continues to the east.
+~
+~
+0 -1 8414
+D2
+The blight continues to the south.
+~
+~
+0 -1 8403
+D3
+The blight continues to the west.
+~
+~
+0 -1 8412
+S
+#8414
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air. The terrain dries out a bit to
+the north, decaying ground being replaced by hard sandstone.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8415
+D1
+~
+~
+0 0 8415
+D2
+The blight continues to the south.
+~
+~
+0 -1 8404
+D3
+The blight continues to the west.
+~
+~
+0 -1 8413
+S
+#8415
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air. The terrain dries out a bit to the
+north, decaying ground being replaced by hard sandstone.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8424
+D1
+~
+~
+0 0 8416
+D2
+The blight continues to the south.
+~
+~
+0 -1 8405
+D3
+The blight continues to the west.
+~
+~
+0 -1 8414
+S
+#8416
+~
+~
+0 0 0
+The Blight~
+The turf underfoot here is squishy with rotting plant matter that fills
+the air with the sickly-sweet stench of decay and death. There are low
+shrubs and sickly mottled bushes that eke out a putrefying existence
+in this place. The blue sky overhead is cloudless and intensifies the
+heat and humidity in the air. A dark lake is faintly visible through the
+haze to the south, while to the north large buttes and mesas dominate the
+stark landscape.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8417
+D1
+~
+~
+0 0 8417
+D2
+The blight continues to the south.
+~
+~
+0 -1 8406
+D3
+The blight continues to the west.
+~
+~
+0 -1 8415
+S
+#8417
+~
+~
+0 0 0
+The Blight~
+The turf underfoot here is squishy with rotting plant matter that fills
+the air with the sickly-sweet stench of decay and death. There are low
+shrubs and sickly mottled bushes that eke out a putrefying existence
+in this place. The blue sky overhead is cloudless and intensifies the
+heat and humidity in the air. A dark lake is faintly visible through the
+haze to the south, while to the north large buttes and mesas dominate the
+stark landscape.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8415
+D2
+The blight continues to the south.
+~
+~
+0 -1 8417
+D3
+The blight continues to the west.
+~
+~
+0 -1 8416
+S
+#8418
+~
+~
+0 0 0
+The Blight~
+The blight here is a combination of blasted desert and putrefying plant
+matter. The further east you go, away from the Dead Sea, the drier and
+hotter it gets, while to the west the land decays into the ocean. Overhead,
+the blazing sun beats down upon you mercilessly. Northwards, the desert
+sand begins to haren into sun-baked sandstone and silicate formations, 
+forming deep ravines and craggy buttes.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8419
+D1
+~
+~
+0 0 8419
+D2
+The blight continues to the south.
+~
+~
+0 -1 8408
+D3
+The blight continues to the west.
+~
+~
+0 -1 8417
+S
+#8419
+~
+~
+0 0 0
+The Blight~
+The blight here is a combination of blasted desert and putrefying plant
+matter. The further east you go, away from the Dead Sea, the drier and
+hotter it gets, while to the west the land decays into the ocean. Overhead,
+the blazing sun beats down upon you mercilessly. Northwards, the desert
+sand begins to haren into sun-baked sandstone and silicate formations,
+forming deep ravines and craggy buttes.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8458
+D1
+~
+~
+0 0 8420
+D2
+The blight continues to the south.
+~
+~
+0 -1 8409
+D3
+The blight continues to the west.
+~
+~
+0 -1 8418
+S
+#8420
+~
+~
+0 0 0
+The Blight~
+The sands of each dune you cross cascades downhill under each footfall,
+making each step all the more difficult. The heat is approaching an
+unbearable level, causing you to sweat freely under your armor. The 
+desert extends as far as the eye can see in all directions although 
+the terrain gets more broken and rugged to the north.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8409
+D2
+~
+~
+0 0 8410
+D3
+The blight continues to the west.
+~
+~
+0 -1 8419
+S
+#8421
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air. The northern terrain dries out a bit,
+as the decaying ground is slowly replaced by hard sun-baked sandstone.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8422
+D1
+~
+~
+0 0 8422
+D2
+The blight continues to the south.
+~
+~
+0 -1 8411
+D3
+~
+~
+0 0 8425
+S
+#8422
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air. The northern terrain dries out a bit,
+as the decaying ground is slowly replaced by hard sun-baked sandstone.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8493
+D1
+~
+~
+0 0 8423
+D2
+The blight continues to the south.
+~
+~
+0 -1 8412
+D3
+The blight continues to the west.
+~
+~
+0 -1 8421
+S
+#8423
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air. The northern terrain dries out a bit,
+as the decaying ground is slowly replaced by hard sun-baked sandstone.
+~
+0 0 10
+0
+~
+D0
+The blight continues to the north.
+~
+~
+0 -1 8413
+D1
+The blight continues to the east.
+~
+~
+0 -1 8413
+D3
+The blight continues to the west.
+~
+~
+0 -1 8422
+S
+#8424
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight north of the
+mountains of Dhoom. The air is thick and damp, like standing in the middle
+of a bog in the summertime, but carries the faintest salty taste of the
+Dead Sea. The turf under your boots is springy with decaying plant matter
+that emits a sickly-sweet odor. Your clothing and armor is damp with your
+own sweat and the moisture in the air. The northern terrain dries out a bit,
+as the decaying ground is slowly replaced by hard sun-baked sandstone.
+~
+0 0 10
+0
+~
+D2
+~
+~
+0 0 8404
+S
+#8425
+~
+~
+0 0 0
+On the Shore of the Dead Sea~
+The blight sinks into the murky blackness of the Dead Sea. The beach here
+is covered with rotting seaweed and the odor of dead fish is in the air.
+The beach extends away to the south and ends in a sandy spit.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8421
+D2
+~
+~
+0 0 8426
+S
+#8426
+~
+~
+0 0 0
+On the beach of the Dead Sea~
+The blight sinks into the murky blackness of the Dead Sea. The beach here
+is covered with rotting seaweed and the odor of dead fish is in the air.
+The beach extends away to the south and ends in a sandy spit.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8425
+D2
+~
+~
+0 0 8427
+S
+#8427
+~
+~
+0 0 0
+On the beach of the Dead Sea~
+The blight sinks into the murky blackness of the Dead Sea. The beach here
+is covered with rotting seaweed and the odor of dead fish is in the air.
+The beach extends away to the south and ends in a sandy spit.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8426
+D2
+~
+~
+0 0 8428
+S
+#8428
+~
+~
+0 0 0
+A Sandy Spit~
+You are standing on a beach at the edge of the Black Sea. The stench of
+rotting fish fills the air while decaying bits of fish and seaweed cover
+the ground. The beach extends to the north, but is seperated from the 
+mainland to the south by a murky lake, forming a sandy spit.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8427
+D1
+~
+~
+0 0 8432
+D2
+~
+~
+0 0 8429
+S
+#8429
+~
+~
+0 0 0
+A Sandy Spit~
+You are sanding on a sandy wave-soaked spit that is bounded on one side
+by the Dead Sea and by a black marshy lake on the other. The smell of death
+fills the air and permeates your clothes.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8428
+D1
+~
+~
+0 0 8494
+D2
+~
+~
+0 0 8430
+S
+#8430
+~
+~
+0 0 0
+A Sandy Spit~
+You are sanding on a sandy wave-soaked spit that is bounded on one side
+by the Dead Sea and by a black marshy lake on the other. The smell of death
+fills the air and permeates your clothes.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8428
+D2
+~
+~
+0 0 8431
+S
+#8431
+~
+~
+0 0 0
+End of the Spit~
+You are standing on the southernmost tip of a seaweed covered spit of land
+that devides the Dead Sea from an inland lake of foul murky water. Steam
+rises slowly from the surface of the lake, as if the oppressive heat in the
+air was sapping it of its will to rise.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8430
+S
+#8432
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight. The air is
+thick and damp, like standing in the middle of a bog in the summertime,
+and but carries the faintest salty taste of the Dead Sea. The turf
+under your boots is springy with decaying plant matter that emits a
+slight sickly-sweet odor. Your clothing is damp with your own sweat
+and the moisture in the air. Passage to the south is blocked by a large
+fetid lake.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8433
+D3
+~
+~
+0 0 8428
+S
+#8433
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight. The air is
+thick and damp, like standing in the middle of a bog in the summertime,
+and but carries the faintest salty taste of the Dead Sea. The turf
+under your boots is springy with decaying plant matter that emits a
+slight sickly-sweet odor. Your clothing is damp with your own sweat
+and the moisture in the air. Passage to the south is blocked by a large
+fetid lake.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8434
+D3
+~
+~
+0 0 8432
+S
+#8434
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight. The air is
+thick and damp, like standing in the middle of a bog in the summertime,
+and but carries the faintest salty taste of the Dead Sea. The turf
+under your boots is springy with decaying plant matter that emits a
+slight sickly-sweet odor. Your clothing is damp with your own sweat
+and the moisture in the air. Passage to the south is blocked by a large
+fetid lake.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8435
+D3
+~
+~
+0 0 8433
+S
+#8435
+~
+~
+0 0 0
+The Blight~
+You are standing in the southwestern portion of the blight. The air is
+thick and damp, like standing in the middle of a bog in the summertime,
+and but carries the faintest salty taste of the Dead Sea. The turf
+under your boots is springy with decaying plant matter that emits a
+slight sickly-sweet odor. Your clothing is damp with your own sweat
+and the moisture in the air. Passage to the south is blocked by a large
+fetid lake.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8436
+D3
+~
+~
+0 0 8434
+S
+#8436
+~
+~
+0 0 0
+On the Shore~
+Passage to the south is blocked by a large fetid lake that steams ever so
+slightly in the heat and laps at the black mossy stones under your boots.
+Occasionally the surface of the lake ripples from the movements of some
+aquatic monstrosity. The putrefying lands of the blight extend to the north
+and west.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8437
+D2
+~
+~
+0 0 8495
+D3
+~
+~
+0 0 8435
+S
+#8437
+~
+~
+0 0 0
+On the Shore~
+Passage to the south is blocked by a large fetid lake that steams ever so
+slightly in the heat and laps at the black mossy stones under your boots.
+Occasionally the surface of the lake ripples from the movements of some
+aquatic monstrosity. The putrefying lands of the blight extend to the north.
+
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8438
+D2
+~
+~
+0 0 8499
+D3
+~
+~
+0 0 8436
+S
+#8438
+~
+~
+0 0 0
+On the Shore~
+Passage to the south is blocked by a large fetid lake that steams ever so
+slightly in the heat and laps at the black mossy stones under your boots.
+Occasionally the surface of the lake ripples from the movements of some
+aquatic monstrosity. The putrefying lands of the blight extend to the north
+while slowly fading to blasted desert plains to the east.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8407
+D1
+~
+~
+0 0 8439
+D2
+~
+~
+0 0 8500
+D3
+~
+~
+0 0 8437
+S
+#8439
+~
+~
+0 0 0
+The Blight~
+The blight here is a combination of blasted desert and putrefying plant
+matter. The further east you go, away from the Dead Sea, the drier and
+hotter it gets, while to the west the land decays into the ocean. Overhead,
+the blazing sun beats down upon you mercilessly.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8440
+D3
+~
+~
+0 0 8438
+S
+#8440
+~
+~
+0 0 0
+The Blight~
+The blight here is a combination of blasted desert and putrefying plant
+matter. The further east you go, away from the Dead Sea, the drier and
+hotter it gets, while to the west the land decays into the ocean.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8441
+D3
+~
+~
+0 0 8439
+S
+#8441
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8410
+D2
+~
+~
+0 0 8442
+D3
+~
+~
+0 0 8440
+S
+#8442
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8441
+D1
+~
+~
+0 0 8443
+S
+#8443
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8444
+D3
+~
+~
+0 0 8442
+S
+#8444
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 CKS 10
+0
+~
+D1
+~
+~
+0 0 8445
+D2
+~
+~
+0 0 8446
+D3
+~
+~
+0 0 8443
+S
+#8445
+~
+~
+0 0 0
+An Oasis~
+A small clump of palms and lush undergrowth are all that mark this tiny
+oasis from the desolate inferno that surrounds you. The ground is damp and
+fresh smelling and a small pool of clear water invites you to dunk your
+head. The palm leaves offer shade that no Aiel could refuse.
+~
+0 CKS 10
+0
+~
+D3
+~
+~
+0 0 8444
+S
+#8446
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8444
+D2
+~
+~
+0 0 8447
+S
+#8447
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8446
+D1
+~
+~
+0 0 8448
+S
+#8448
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8449
+D3
+~
+~
+0 0 8447
+S
+#8449
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D2
+~
+~
+0 0 8450
+D3
+~
+~
+0 0 8448
+S
+#8450
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8449
+D1
+~
+~
+0 0 8453
+D2
+~
+~
+0 0 8451
+S
+#8451
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8450
+D2
+~
+~
+0 0 8452
+S
+#8452
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8451
+S
+#8453
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8454
+D3
+~
+~
+0 0 8450
+S
+#8454
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8455
+D3
+~
+~
+0 0 8453
+S
+#8455
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 0 10
+0
+~
+D3
+~
+~
+0 0 8454
+S
+#8456
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 JKL 10
+0
+~
+D0
+~
+~
+0 0 8475
+D1
+~
+~
+0 0 8457
+D2
+~
+~
+0 0 8455
+S
+#8457
+~
+~
+0 0 0
+The Blight~
+The blasted lands of the Blight extend in all directions as a vast tract
+of shifting dunes that reflect light into your eyes, nearly blinding you.
+In all directions, sand is blowing, uprooting the sparse growth that didn't
+protect itself from these incessant winds. The sand shifts underfoot and
+gets into chinks in armor and rubs under straps against raw skin.
+~
+0 J 10
+0
+~
+D3
+~
+~
+0 0 8456
+S
+#8458
+~
+~
+0 0 0
+The Blight~
+The landscape here consists of giant sand dunes scarred by occasional
+outcroppings of sun bleached rock formations and sandstone gorges. To
+the north, the terrain becomes more rocky and jagged gulleys scar the
+land. Southwards, the terrain melts into giant sand dunes that shift
+in the wind. The sky overhead is a pale blue, as if its color has
+been bleached away by the searing sun.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8459
+D2
+~
+~
+0 0 8419
+S
+#8459
+~
+~
+0 0 0
+The Blight~
+The landscape here consists of giant sand dunes scarred by occasional
+outcroppings of sun bleached rock formations and sandstone gorges. To
+the north, the terrain becomes more rocky and jagged gulleys scar the
+land. Southwards, the terrain melts into giant sand dunes that shift
+in the wind. The sky overhead is a pale blue, as if its color has
+been bleached away by the searing sun.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8460
+D2
+~
+~
+0 0 8458
+S
+#8460
+~
+~
+0 0 0
+The Blight~
+You are walking upon broken ground betweed craggy cliffs of sandstone.
+Overhead, the sun beats down turning this cliff area into a gigantic
+convection oven. The craggy bluffs continue to the north while the
+terrain softens out to the south.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8461
+D3
+~
+~
+0 0 8459
+S
+#8461
+~
+~
+0 0 0
+The Blight~
+You are walking upon broken ground betweed craggy cliffs of sandstone.
+Overhead, the sun beats down turning this cliff area into a gigantic
+convection oven. The craggy bluffs continue to the north while the
+terrain softens out to the south.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8462
+D2
+~
+~
+0 0 8460
+S
+#8462
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The 
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8466
+D1
+~
+~
+0 0 8463
+D2
+~
+~
+0 0 8461
+S
+#8463
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D3
+~
+~
+0 0 8462
+S
+#8464
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8486
+D1
+~
+~
+0 0 8465
+S
+#8465
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8466
+D3
+~
+~
+0 0 8464
+S
+#8466
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8467
+D2
+~
+~
+0 0 8462
+D3
+~
+~
+0 0 8465
+S
+#8467
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8468
+D2
+~
+~
+0 0 8466
+S
+#8468
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8469
+D2
+~
+~
+0 0 8467
+S
+#8469
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8470
+D3
+~
+~
+0 0 8468
+S
+#8470
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8471
+D2
+~
+~
+0 0 8469
+S
+#8471
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D2
+~
+~
+0 0 8470
+D3
+~
+~
+0 0 8472
+S
+#8472
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8471
+D3
+~
+~
+0 0 8473
+S
+#8473
+~
+~
+0 0 0
+The Blight~
+As you plod along in this sun-blasted place, you notice the faint outline
+of a giant butte shimmering in the mirage to the west. The scalded terrain
+cooks you feet in their boots and reflects sun in your eyes. There are low
+hills of sandstone all around that rise up into jagged cliffs to the east.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8472
+D3
+~
+~
+0 0 8474
+S
+#8474
+~
+~
+0 0 0
+The Blight~
+The razor's edge of the horizon to the west is marred by a gigantic butte
+that towers over the desert. The sandstone ground under your feet burns
+from the desert sun and cooks your feet in their boots. There are low hills
+of rock all around that rise up into jagged cliffs and valleys to the east.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8473
+D3
+~
+~
+0 0 8475
+S
+#8475
+~
+~
+0 0 0
+The Blight~
+You are standing in the shade of a gigantic butte that towers several
+hundred feet high. A narrow wind-scoured trail winds it's way up the 
+side, but from the look of it, it doesn't look to have been used in
+quite some time.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8474
+D4
+~
+~
+0 0 8476
+S
+#8476
+~
+~
+0 0 0
+On the Mesa Trail~
+You are walking along a faded trail that winds itself along the side of 
+a towering butte. Looking out over your shoulder, the vast, sun-blasted 
+expanse of the Blight shimmers in the heat.
+~
+0 0 10
+0
+~
+D4
+~
+~
+0 0 8477
+D5
+~
+~
+0 0 8475
+S
+#8477
+~
+~
+0 0 0
+Mesa East~
+You are standing on the eastern portion of a giant oval butte. There
+is scant vegitation, and the red earth blows in the hot breeze. All
+around, hundreds of feet below, the Blight extends to the horizon. To
+the west, a gibbet sways from a crosspost erected next to a giant
+statue of some unknown creature.
+~
+0 0 10
+0
+~
+D3
+~
+~
+0 0 8478
+D5
+~
+~
+0 0 8476
+S
+#8478
+~
+~
+0 0 0
+On the Mesa~
+You are standing in the center of a gigantic butte that overlooks
+the vast expanse of the blight. A largish frame has been erected, 
+from which hangs a rusty gibbet with the mumified remains of a 
+corpse still inside. A giant statue of some unknown creature stands
+watch.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8477
+D3
+~
+~
+0 0 8479
+S
+#8479
+~
+~
+0 0 0
+Mesa West~
+You are standing on the western portion of a giant oval butte. There
+is scant vegetaion, and the red earth blows in a hot breeze. All around,
+hundreds of feet below, the Blight extends to the horizon. To the east, a gibbet sways from a crosspost erected nect to a giant statue
+of some unknown creature.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8478
+D5
+~
+~
+0 0 8480
+S
+#8480
+~
+~
+0 0 0
+On the Mesa Trail~
+You are walking along a faded trail that winds itself along the side of
+a towering butte. Looking out over your shoulder, the vast, sun-blasted
+expanse of the Blight shimmers in the heat.
+~
+0 0 10
+0
+~
+D4
+~
+~
+0 0 8479
+D5
+~
+~
+0 0 8481
+S
+#8481
+~
+~
+0 0 0
+The Blight~
+You are standing in the shade of a gigantic butte that towers several
+hundred feet high. A narrow wind-scoured trail winds it's way up the
+side, but from the look of it, it doesn't look to have been used in
+quite some time.
+~
+0 0 10
+0
+~
+D2
+~
+~
+0 0 8482
+D4
+~
+~
+0 0 8480
+S
+#8482
+~
+~
+0 0 0
+The Blight~
+As you plod along in this sun-blasted place, you notice the faint outline
+of a giant butte shimmering in the mirage to the north. The scalded terrain
+cooks you feet in their boots and reflects sun in your eyes. There are low
+hills of sandstone all around that flatten out into swamps to the south.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8481
+D2
+~
+~
+0 0 8483
+S
+#8483
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8482
+D1
+~
+~
+0 0 8484
+D2
+~
+~
+0 0 8487
+S
+#8484
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8485
+D3
+~
+~
+0 0 8483
+S
+#8485
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8486
+D3
+~
+~
+0 0 8484
+S
+#8486
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D2
+~
+~
+0 0 8464
+D3
+~
+~
+0 0 8485
+S
+#8487
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8483
+D3
+~
+~
+0 0 8488
+S
+#8488
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8487
+D2
+~
+~
+0 0 8489
+S
+#8489
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8488
+D3
+~
+~
+0 0 8490
+S
+#8490
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8489
+D3
+~
+~
+0 0 8491
+S
+#8491
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D1
+~
+~
+0 0 8490
+D2
+~
+~
+0 0 8492
+S
+#8492
+~
+~
+0 0 0
+The Blight~
+You are walking amid broken terrain and steep sandstone cliffs. The
+ground underfoot is strewn with rocks and broken shale that have fallen
+from the cliff faces. The entire landscape has been bleached by the sun
+into a faded brownish yellow. Whatever shade the clif faces may offer is
+overcome by the hot breeze that continuously blows through the canyons.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8491
+D2
+~
+~
+0 0 8493
+S
+#8493
+~
+~
+0 0 0
+The Blight~
+You are walking upon broken ground betweed craggy cliffs of sandstone.
+Overhead, the sun beats down turning this cliff area into a gigantic
+convection oven. The craggy bluffs continue to the north while the
+terrain softens into soggy decaying marshland to the south.
+~
+0 0 10
+0
+~
+D0
+~
+~
+0 0 8492
+D2
+~
+~
+0 0 8422
+S
+#8494
+~
+~
+0 0 0
+On the Lake~
+The lake surface is as black glass, it's only blemishes are the occasional
+ripples caused by the passage of some unseen beast. The air is hazy from a
+faint mist that rises from the surface to be absorbed by the hot, humid air.
+~
+0 0 6
+0
+~
+D1
+~
+~
+0 0 8495
+D3
+~
+~
+0 0 8429
+S
+#8495
+~
+~
+0 0 0
+On the Shore~
+You are standing on the muddy shore of a black lake, whose glassy surface
+is marred by the ripples caused by the movements of some unseen beast. A
+faint mist rises from the surface, only to be swallowed up by the heat and 
+humidity.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8436
+D1
+~
+~
+0 0 8499
+D2
+~
+~
+0 0 8496
+D3
+~
+~
+0 0 8494
+S
+#8496
+~
+~
+0 0 0
+On the Lake~
+The lake surface is as black glass, it's only blemishes are the occasional
+ripples caused by the passage of some unseen beast. The air is hazy from a
+faint mist that rises from the surface to be absorbed by the hot, humid air.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8495
+D1
+~
+~
+0 0 8497
+D2
+~
+~
+0 0 8501
+S
+#8497
+~
+~
+0 0 0
+On the Lake~
+The lake surface is as black glass, it's only blemishes are the occasional
+ripples caused by the passage of some unseen beast. The air is hazy from a
+faint mist that rises from the surface to be absorbed by the hot, humid air.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8499
+D1
+~
+~
+0 0 8498
+D2
+~
+~
+0 0 8502
+D3
+~
+~
+0 0 8496
+S
+#8498
+~
+~
+0 0 0
+On the Lake~
+The lake surface is as black glass, it's only blemishes are the occasional
+ripples caused by the passage of some unseen beast. The air is hazy from a
+faint mist that rises from the surface to be absorbed by the hot, humid air.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8500
+D2
+~
+~
+0 0 8503
+D3
+~
+~
+0 0 8497
+S
+#8499
+~
+~
+0 0 0
+On the Shore~
+You are standing on the muddy shore of a black lake, whose glassy surface
+is marred by the ripples caused by the movements of some unseen beast. A
+faint mist rises from the surface, only to be swallowed up by the heat and
+humidity.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8437
+D1
+~
+~
+0 0 8500
+D2
+~
+~
+0 0 8497
+D3
+~
+~
+0 0 8495
+S
+#8500
+~
+~
+0 0 0
+On the Shore~
+You are standing on the muddy shore of a black lake, whose glassy surface
+is marred by the ripples caused by the movements of some unseen beast. A
+faint mist rises from the surface, only to be swallowed up by the heat and
+humidity.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8438
+D2
+~
+~
+0 0 8498
+D3
+~
+~
+0 0 8499
+S
+#8501
+~
+~
+0 0 0
+On the Lake~
+The lake surface is as black glass, it's only blemishes are the occasional
+ripples caused by the passage of some unseen beast. The air is hazy from a
+faint mist that rises from the surface to be absorbed by the hot, humid air.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8496
+S
+#8502
+~
+~
+0 0 0
+On the Lake~
+The lake surface is as black glass, it's only blemishes are the occasional
+ripples caused by the passage of some unseen beast. The air is hazy from a
+faint mist that rises from the surface to be absorbed by the hot, humid air.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8497
+S
+#8503
+~
+~
+0 0 0
+On the Lake~
+The lake surface is as black glass, it's only blemishes are the occasional
+ripples caused by the passage of some unseen beast. The air is hazy from a
+faint mist that rises from the surface to be absorbed by the hot, humid air.
+~
+0 0 6
+0
+~
+D0
+~
+~
+0 0 8498
+S
+#0
+
+#RESETS
+M 0 8406   1 8401  1	* A worm of the blight
+M 0 8404   1 8403  1	* A wind whale
+G 0 8411 -1		* A gland from a windwhale to a wind whale
+M 0 8407   1 8405  1	* A t'lyss
+G 0 8406 -1		* A spotted berry to a T'lyss
+M 0 8410   1 8406  1	* A chot'oko plant
+M 0 8401   1 8408  1	* A giant decaying tree
+M 0 8401   1 8410  1	* A giant decaying tree
+M 0 8408   1 8414  1	* A takk'u bush
+G 0 8407 -1		* A thorny seedling to a Takk'u bush
+M 0 8410   1 8416  1	* A chot'oko plant
+G 0 8409 -1		* A chot'oko leaf to a Chot'oko plant
+M 0 8407   1 8419  1	* A t'lyss
+G 0 8406 -1		* A spotted berry to a T'lyss
+M 0 8408   1 8421  1	* A takk'u bush
+O 0 8407   0 8421 -1	* A thorny seedling at The Blight
+M 0 8409   1 8421  1	* A shimekiri tree
+G 0 8410 -1		* A stink berry to a Shimekiri tree
+M 0 8411   1 8426  1	* A katsi bush
+G 0 8408 -1		* Sap from a katsi bush to a Katsi bush
+M 0 8411   1 8427  1	* A katsi bush
+G 0 8408 -1		* Sap from a katsi bush to a Katsi bush
+M 0 8401   1 8428  1	* A giant decaying tree
+M 0 8411   1 8429  1	* A katsi bush
+G 0 8408 -1		* Sap from a katsi bush to a Katsi bush
+M 0 8411   1 8429  1	* A katsi bush
+G 0 8408 -1		* Sap from a katsi bush to a Katsi bush
+M 0 8403   1 8431  1	* A menhir
+M 0 8410   1 8434  1	* A chot'oko plant
+G 0 8409 -1		* A chot'oko leaf to a Chot'oko plant
+M 0 8406   1 8437  1	* A worm of the blight
+M 0 8409   1 8439  1	* A shimekiri tree
+G 0 8410 -1		* A stink berry to a Shimekiri tree
+M 0 8407   1 8441  1	* A t'lyss
+G 0 8406 -1		* A spotted berry to a T'lyss
+M 0 8401   1 8442  1	* A giant decaying tree
+M 0 8401   1 8444  1	* A giant decaying tree
+O 0 8401   0 8445 -1	* A pool of water at An Oasis
+O 0 8403   0 8445 -1	* The corpse of an aielman at An Oasis
+M 0 8405   1 8446  1	* A sandling
+M 0 8405   1 8446  1	* A sandling
+M 0 8405   1 8450  1	* A sandling
+M 0 8405   1 8452  1	* A sandling
+M 0 8406   1 8454  1	* A worm of the blight
+M 0 8405   1 8455  1	* A sandling
+O 0 8406   0 8456 -1	* A spotted berry at The Blight
+O 0 8407   0 8456 -1	* A thorny seedling at The Blight
+O 0 8408   0 8456 -1	* Sap from a katsi bush at The Blight
+O 0 8409   0 8456 -1	* A chot'oko leaf at The Blight
+O 0 8410   0 8456 -1	* A stink berry at The Blight
+O 0 8411   0 8456 -1	* A gland from a windwhale at The Blight
+M 0 8403   1 8459  1	* A menhir
+M 0 8403   1 8459  1	* A menhir
+M 0 8401   1 8463  1	* A giant decaying tree
+M 0 8401   1 8465  1	* A giant decaying tree
+M 0 8403   1 8469  1	* A menhir
+M 0 8403   1 8471  1	* A menhir
+M 0 8403   1 8471  1	* A menhir
+M 0 8403   1 8474  1	* A menhir
+O 0 8402   0 8478 -1	* A gibbet at On the Mesa
+M 0 8402   1 8478  1	* Stone guardian
+P 0 8404 1 8402 1
+M 0 8403   1 8482  1	* A menhir
+M 0 8401   1 8486  1	* A giant decaying tree
+M 0 8401   1 8488  1	* A giant decaying tree
+M 0 8403   1 8491  1	* A menhir
+M 0 8404   1 8496  1	* A wind whale
+G 0 8411 -1		* A gland from a windwhale to a wind whale
+M 0 8404   1 8501  1	* A wind whale
+G 0 8411 -1		* A gland from a windwhale to a wind whale
+M 0 8404   1 8502  1	* A wind whale
+G 0 8411 -1		* A gland from a windwhale to a wind whale
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 8404 spec_breath_gas		* a wind whale
+M 8410 spec_poison		* a Chot'oko plant
+M 8411 spec_poison		* a Katsi bush
+S
+
+#$

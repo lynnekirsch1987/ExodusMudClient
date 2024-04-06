@@ -1,0 +1,14 @@
+* hydra
+* mob vnum 22105
+* creator: Minax
+* last modified: 2-8-04
+
+#TRIGGER death
+Type 9
+Sc
+  cmd at 1 load obj 22028
+  cmd set obj skull owner %death-from%
+  halt once~
+End
+
+#END

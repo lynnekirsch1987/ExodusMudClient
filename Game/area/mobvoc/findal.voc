@@ -1,0 +1,17 @@
+Damian
+sad|depressed:>2:+1:I am sad because I am about to die.;CMD cry $name
+die:>4:+1:I have an illness that the seers cannot seem to solve.;I will be right back!;CMD east;CMD west;CMD sigh;I cannot seem to find my child either.
+child|kid:>5:-:I can't seem to find my child.  His name is Rourke.  Can you please help me find him?
+cure:>5:-:You have a cure for my illness?!?;CMD boggle;Give it to me!
+who&are&you:>2:+1:I am Findal, Lord of Thesden.;CMD sigh
+illness:>4:-:I have many sores across the small of my back and legs.  They are eating away at me slowly.;CMD sigh
+rourke:>5:-:Where is he?  Have you seen him?  What room is he in?
+matter|wrong:>3:+1:I am having a terrible year, I am SICK!
+sick:>3:-:I am so sick that the seers tell me I am going to die.
+hello|hi:>2:+1:CMD look $name;Hello stranger, what do you want?;CMD sigh
+Before|before&a&blue&door:>5:0:Ahh, that's where he has run off to again.  You have brought me some small solace today $name.;Let me see if I have something to give you...;CMD rem 1.;CMD give 1. $name;CMD thank $name
+nothing:>2:-:Then go away moron.;CMD push $name e
+money|gold:>2:-:I don't have any money, go away fool!;CMD push $name e
+how&are&you:>2:+1:I am pretty damn sick.
+not&you:>2:-:I don't want to talk to you anyway.
+food:>2:-:Here, have some crackers.;CMD give cracker $name

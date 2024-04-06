@@ -1,0 +1,36 @@
+* File: yochlol.scr
+* Mob: yochlol(5109)
+
+#TRIGGER bleed
+Type 10
+Sc
+mfunc %bleed-from% %fader% name
+emote slides out of the mist and sinks two large fangs into the back of your neck.
+cast poison %fader%
+kill %fader%
+halt once~
+End
+
+#TRIGGER rokky
+Type 2
+Sc
+wfunc %foo% random 0 100
+if (%foo% <= 15)
+emote snarls and fades into the surrounding mist.
+cmd peace
+cast invis self
+cmd sneak
+cmd hide
+cmd wizi
+halt once~
+Sc
+if (%foo% == 97)
+emote narrows its eyes and raises its head towards a glowing image.
+mfunc %rokky-from% %creed% name
+mob trans %creed% 5100
+halt once~
+End
+
+#END
+
+

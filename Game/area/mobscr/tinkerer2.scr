@@ -1,0 +1,33 @@
+* File: tinkerer.scr
+* Mob: Apprentice tinkerer(XXXX)
+
+#TRIGGER give
+Type 5
+Sc
+mfunc %give-from% %name% name
+mfunc %give-from% %level% level
+ofunc %give-arg% %object% name
+if (%object1% cmp "NULL")
+   osign %object1% %object%
+   say The first item to be combined is %object1%.
+   halt once~
+Sc
+if (%object2% cmp "NULL")
+   osign %object1% %object%
+   say The second item to be combined is %object2%.
+   say If I understand right, I'm going to try to combine %object1% with %object2%.
+   halt once~
+End
+
+#TRIGGER combine
+Type 99
+Sc
+  say Let's see if I can combine %object1% and %object2%
+  cmd mix %object1% with %object2%
+  cmd drop all
+  let %object1% == NULL
+  let %object2% == NULL
+  halt once~
+End
+
+#END

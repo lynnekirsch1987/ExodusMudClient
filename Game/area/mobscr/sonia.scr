@@ -1,0 +1,24 @@
+* File: sonia.scr
+* Mob: Sonia(5326)
+
+#TRIGGER enter
+Type 10
+*
+Sc
+  signal 5325 %enter-from%
+  halt once~
+End
+
+#TRIGGER sighand
+Type 8
+Sc
+if ( %sighand-arg% cmp "imhere" )
+   emote undresses Teliz.
+   wait 2~
+Sc
+   kiss teliz
+   halt once~
+End
+
+#END
+

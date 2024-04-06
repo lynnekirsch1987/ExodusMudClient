@@ -1,0 +1,58 @@
+* script mgirl.scr
+* Merossa Little Girl (14013)
+
+#TRIGGER tick
+Type 3
+Sc
+mfunc %iamhere-to% %rvnum% room
+halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-to% %rvnum% room
+walkto 14012
+  halt once~
+End
+
+#TRIGGER move
+Type 11
+Sc
+mfunc %move-to% %rvnum% room
+  walkto 14012
+  halt once~
+End
+
+#TRIGGER iamhere
+Type 8
+Sc
+mfunc %iamhere-to% %rvnum% room
+if (%rvnum% != 14012)
+  walkto 14012
+  halt once~
+Sc
+if (%iamhere-arg% cmp "iamhere")
+  signal kitten tosscollar
+  cmd hug kitten
+  say You brought my kitty home safe!
+  say For that, I will give you something special.
+  wait 1~
+Sc
+if (%iamhere-arg% cmp "iamhere")
+  emote removes the collar from the kitten.
+  signal 14012 tosscollar
+  cmd at 1 load obj 14020
+  emote gets something tiny from a hidden compartment on the collar.
+  cmd at 1 load obj 14021
+  cmd give questkey %enter-from%
+  cmd set obj questkey extra nodrop nouncurse
+  wait 2~
+Sc
+if (%iamhere-arg% cmp "iamhere")
+  say This is a key to where I live.  It's a small cottage down near the pier.
+  say You may find something useful there.
+  halt all~
+End
+
+#END

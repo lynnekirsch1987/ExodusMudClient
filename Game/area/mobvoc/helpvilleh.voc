@@ -1,0 +1,6 @@
+Korinthian
+reward:<7:-:CMD say Yes, I would reward you; CMD say I would give you everything I own to be free of this place!; CMD say I could even teach you a magic word, it will open the gates to the black tower to the north.; CMD say Please!
+tower:<7:-:CMD shiver; CMD say I have heard horrible stories of that place..; CMD say It is a place of vile magic and foul monsters; CMD emote gets a faraway look in his eyes; CMD say But, the treasures..
+treasures|treasure:<7:-:CMD say Yes...treasure, I have heard rumors about a great treasure at the very top of the tower; CMD say I wonder what it is...
+hello|hi|greetings|hey:<7:-:CMD emote looks up at you with teary eyes; CMD say Would you help me?; CMD say I have been digging for days, and when I finally could smell fresh air..; CMD emote sobs helplessly.;CMD say I found that this big rock was in my way!; CMD cry
+help:<7:-:You would help me?;I can not say how relieved I am!;Thank you!;CMD follow $name;CMD Emote glances at you.;You look strong enough, now just shove the rock out of the way

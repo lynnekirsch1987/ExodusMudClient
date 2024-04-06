@@ -1,0 +1,33 @@
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %class% class
+mfunc %enter-from% %name% name
+wait 2~
+Sc
+if ( %class% != 4) && (%class2% != 4) && (%class3% != 4) 
+   emote growls viciously and charges forward to attack!
+   kill %name%
+   halt once~
+Sc
+   emote sniffs and paws at the base of the wall to the west.
+   halt once~
+End
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 4
+mfunc %cmb-from% %name% name
+if (%rndnum% == 0)
+   smote The massive brown bear raises herself on her hind legs, towering over you.
+   halt once~
+Sc
+if (%rndnum% == 1)
+   emote emits a deep growl rumbling the ground beneath your feet.
+   halt once~
+End
+
+#END
+
+

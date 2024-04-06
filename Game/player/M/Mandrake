@@ -1,0 +1,369 @@
+#PLAYER
+Name Mandrake~
+Id   875905038
+LogF 976123477
+LogO 976123477
+Vers 7
+Desc cliff
+~
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race sidhe~
+Sex  1
+Cla  0
+Levl 76
+PBKill 9
+MBKill 72
+PHKill 6
+MHKill 2004
+Hero 0
+Depty 0
+Sec  0
+Plyd 1268272
+Bank_Gold 35054
+Bank_Silv 86274
+Email firebird@intermind.net~
+Host cdm-61-114.sana.tcac.net~
+Not  912486614 912394848 0 907098480 898912539 0 0
+Scro 22
+Room 4178
+HMV  216 216 1264 1264 370 370
+Hand 2
+Gold 54
+Silv 56
+Exp  437866
+Act  DGHQ
+AfBy DFTU
+Comm NOQRSX
+Pos  8
+Prac 12
+Alig  -1000
+Hit   4
+Dam   11
+ACs -61 -56 -58 -8
+Wimp  75
+Attr 12 25 18 19 12 20
+AMod 7 0 0 1 0 4
+Pass MaBUgPd2FTE4.~
+Mask Quintin~
+Layhands 0
+Exorcise 0
+Titl  the lost mage!~
+Pnts 78
+TSex 1
+LLev 300
+Loner 0
+HMVP 199 1264 350
+Cnd  -16 32 44 44
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias say emote `eScribes `iBurning `jLetters `kin the `mAir `o-~
+Sk 97 'armor'
+Sk 100 'acid blast'
+Sk 84 'fireshield'
+Sk 96 'blindness'
+Sk 96 'web'
+Sk 1 'burning hands'
+Sk 75 'cancellation'
+Sk 77 'chain lightning'
+Sk 1 'change sex'
+Sk 100 'charm person'
+Sk 99 'chill touch'
+Sk 82 'colour spray'
+Sk 100 'create food'
+Sk 1 'create rose'
+Sk 95 'create spring'
+Sk 75 'create water'
+Sk 88 'curse'
+Sk 93 'detect hidden'
+Sk 100 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 76 'firestorm'
+Sk 99 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 1 'energy drain'
+Sk 100 'fireball'
+Sk 75 'fireproof'
+Sk 75 'fly'
+Sk 1 'floating disc'
+Sk 97 'giant strength'
+Sk 95 'haste'
+Sk 76 'heat metal'
+Sk 100 'identify'
+Sk 76 'infravision'
+Sk 100 'invisibility'
+Sk 80 'mirror'
+Sk 84 'lightning bolt'
+Sk 100 'locate object'
+Sk 1 'magic missile'
+Sk 81 'mass invis'
+Sk 75 'pass door'
+Sk 75 'poison'
+Sk 75 'portal'
+Sk 91 'summon'
+Sk 100 'gate'
+Sk 1 'recharge'
+Sk 76 'refresh'
+Sk 95 'shield'
+Sk 92 'shocking grasp'
+Sk 88 'sleep'
+Sk 89 'slow'
+Sk 89 'stone skin'
+Sk 96 'teleport'
+Sk 1 'ventriloquate'
+Sk 75 'weaken'
+Sk 81 'aqua breathe'
+Sk 75 'channel electricity'
+Sk 75 'ice beam'
+Sk 75 'electrical charge'
+Sk 100 'dagger'
+Sk 100 'staff'
+Sk 75 'mask'
+Sk 100 'dodge'
+Sk 1 'hide'
+Sk 100 'meditation'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'creation'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Gr 'elemental'
+Affc 'shield'   0  73  70 -20  17          0 0 ''
+Affc 'giant strength'   0  72  54   4   1          0 0 ''
+Affc 'detect hidden'   0  69  45   0   0         32 0 ''
+Affc 'detect invis'   0  73  45   0   0          8 0 ''
+Affc 'stone skin'   0  61  14 -40  17          0 0 ''
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 11366
+Enchanted
+Nest 0
+ExtF 8388673
+Cond 0
+Wear 16
+Lev  50
+Cost 0
+Affc 'enchant weapon'   1  76  -1   4  19          0 0 ''
+Affc 'enchant weapon'   0  76  -1   4  18          0 0 ''
+ExDe kepper dagger~ This dagger is for a thief.
+~
+End
+
+#O
+Vnum 115
+Nest 0
+Cond 0
+Wear 9
+Cost 763
+ExDe gloves~ These gloves have been made from the finest and smoothest satin material,
+a beautiful feeling on the hands.  They do not look like they were made for
+very difficult labor, they are showpieces to be sure.  
+~
+End
+
+#O
+Vnum 4102
+Nest 0
+Cond 0
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 16329
+Nest 1
+ExtF 8388864
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25230
+Nest 1
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25238
+Nest 1
+Name key room~
+ShD  key to Darvin's room~
+Desc A metal key to '`cT`dh`ce `dT`cr`de`ce `dH`co`du`cs`de``' is here.~
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25238
+Nest 1
+Name key room~
+ShD  key to Darvin's room~
+Desc A metal key to '`cT`dh`ce `dT`cr`de`ce `dH`co`du`cs`de``' is here.~
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16329
+Nest 1
+ExtF 8388864
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 714
+Nest 1
+Cond 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 5319
+Nest 1
+Cond 0
+Wear -1
+Cost 14965
+End
+
+#O
+Vnum 5348
+Nest 0
+ExtF 8650816
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 0
+Cond 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 8707
+Nest 0
+Cond 0
+Wear 0
+Cost 102
+ExDe ball fire~ The ball of fire is hot to the touch and very very bright.
+~
+End
+
+#O
+Vnum 16309
+Nest 0
+ExtF 8389122
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 20389
+Enchanted
+Nest 0
+ExtF 262209
+Cond 0
+Wear 10
+Lev  36
+Cost 142
+Affc 'reserved'   1  34  -1   2  19          0 0 ''
+Affc 'enchant armor'   1  76  -1  -3  17          0 0 ''
+End
+
+#O
+Vnum 20387
+Nest 0
+Cond 0
+Wear 6
+Cost 500
+End
+
+#O
+Vnum 28006
+Nest 0
+Cond 0
+Wear 1
+Cost 420
+End
+
+#O
+Vnum 130
+Nest 0
+Cond 0
+Wear 2
+Cost 5309
+Val  50 50 0 0 0 0 0
+ExDe ring~ This beautifully crafted ring has an unusual feature.  It's top pops open
+to reveal a large hollow opening within it.  As you look down into the ring,
+you realize that there might not be a bottom to it at all, very useful to
+store liquids in don't you think?  (hint hint) 
+~
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 0
+Wear -1
+Time 170
+Cost 0
+Val  38 76 240 0 0 0 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Cond 0
+Wear -1
+Cost 320
+Val  110 110 0 0 0 0 0
+End
+
+#O
+Vnum 7257
+Nest 0
+ExtF 8389122
+Cond 0
+Wear -1
+Cost 0
+End
+
+#END

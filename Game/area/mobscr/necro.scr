@@ -1,0 +1,83 @@
+* File: necro.scr
+* Mob: The necromancer (mob 7928)
+
+#TRIGGER tick
+Type 3
+Sc
+  if (%reset% == 1)
+  cmd reset area
+  cmd reset area
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  cmd cackle
+  halt once~
+End
+
+#TRIGGER start
+Type 8
+Sc
+if ( %start-arg% cmp "start" )
+  let %zombie% == 1
+  cmd gecho You feel rumble from deep within the ground below you.
+  wait 10~
+Sc
+if ( %start-arg% cmp "start" )
+* Signal the Abbot of Erion to shout for help
+  signal 7906 askforhelp
+  halt once~
+End
+
+#TRIGGER attackfarm
+Type 8
+Sc
+* The first wave of attacks sends zombified novices out to attack the abbot.
+if ( %attackfarm-arg% cmp "attackfarm" )
+  cmd shout First I will possess the novices of Erion and send them against the Abbot!
+  signal 7918 novicezombie
+  signal 7921 novicezombie
+  wait 180~
+Sc
+if ( %attackfarm-arg% cmp "attackfarm" )
+* At this point, the necromancer possesses the brothers of Erion and commands them to attack the Abbot.
+if ( %attackfarm-arg% cmp "attackfarm" )
+  cmd shout Now I will possess the monks of Erion and set them to do my bidding!
+  signal 7906 beingattacked
+  wait 1~
+Sc
+if ( %attackfarm-arg% cmp "attackfarm" )
+  signal 7905 zombie
+  signal 7920 zombie
+  halt once~
+End
+
+#TRIGGER invasion
+Type 8
+Sc
+* Now the necromancer turns his undead army on the city of Thesden
+if ( %invasion-arg% cmp "invasion" )
+  cmd shout Now, with the Abbot out of the way, my undead army shall conquer this land!
+  cmd shout Zombies!  March upon Thesden!
+  signal 7905 moveout
+  signal 7920 moveout
+  let %reset% == 1
+  cmd reset area
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  if (%zombie% == 1)
+  cmd shout AAAAAAAAAAAAAAAARRRRRRRRRRRGGGGGGGGGHHHHHHH!  I have been defeated!  Victory was snatched from within my grasp!
+  signal 7906 backtonormal
+  signal 7920 backtonormal
+  signal 7918 backtonormal
+  signal 7921 backtonormal
+  halt once~
+End
+
+#END

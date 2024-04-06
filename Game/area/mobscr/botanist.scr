@@ -1,0 +1,42 @@
+* File: botanist.scr
+* Mob: Arachnid Botanist 1084
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 5
+if ( %rndnum% == 0 )
+   emote toils away, mixing various reagents in it's crude set of instruments.
+   halt once~
+Sc
+if ( %rndnum% == 1 )
+   emote reaches into one of the herb pouches slung across it's torso and pulls out some lichen and adds it to the current mixture.
+   echo The mixture explodes in a `mbrilliant flash of color`` and `nthe liquid`` spews all over the stone slab.
+   halt once~
+Sc
+if ( %rndnum% == 2 )
+   emote walks over to one of the capture victims in the next room and forcefully pours a mixture down it's throat.
+   wait 2~
+   echo You hear a tortured scream from the next room as the Botanist victim writhes in pain and then passes on from this world.
+   wait 2~
+   emote returns to it's work table and continues to tweak it's elixirs.
+   halt once~
+Sc
+if ( %rndnum% == 3 )
+	halt once~
+Sc
+if ( %rndnum% == 4 )
+	halt once~
+Sc
+if ( %rndnum% == 5 )
+	halt once~
+End
+
+#TRIGGER enter
+Type 10
+Sc 
+  emote is busily working at it's stone table and barely notices your entrance.
+  halt once~
+End
+
+#END

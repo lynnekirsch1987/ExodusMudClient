@@ -1,0 +1,20 @@
+* File: newbienine.scr
+* Mob: Crab Newbie (vnum 6981)
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+  cmd say `bRAAAaaaWWwwrgh! You've killed me, `h%killer%`b!``
+  cmd say `dBut take my equipment, you have earned it.``
+  cmd pecho %killer% ``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% `hType '`jget all corpse`h' and then '`jwear gloves`h'``
+  cmd pecho %killer% `hTake some time to write a description for yourself.``
+  cmd pecho %killer% `hDescriptions are what other people see when they look at you.``
+  cmd pecho %killer% `hType `jdesc `hto enter the description editor.``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% ``
+  halt once~
+End
+#END

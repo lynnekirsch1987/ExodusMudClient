@@ -1,0 +1,2492 @@
+#AREA
+ 6~
+bayou.are~
+`cThe Bayou Teche``~
+{ 5 15} Colin  `cThe Bayou Teche``~
+bayou~
+511 580
+3 0 4003
+0 0
+~
+#MOBILES
+#514
+nutria rat~
+A nutria rat~
+`oA small `anutria rat `oswims past you searching for higher ground...``
+~
+This nutria rat is happy in the swamps of Teche. He must avoid the traps
+set by the locals, as well as stay out of thhe way of the hunting parties.
+While they hunt for larger game, they still take this beast home for its
+pelt and small amount of meat.
+~
+unique~
+0 0 0 0
+AFHMN 0 -100 3
+5 5 2d6+60 4d5+100 1d6+1 bite
+5 5 5 999 6
+0 -1 0 R 0 0
+stand stand male 0
+0 0 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#515
+snake cottonmouth~
+A cottonmouth~
+`aA `ocottonmouth `aripples the water as it sways past you.``
+~
+The cottonmouth would rather just be left to itself, but it's not afraid
+of you or anyone else. It's bite is poisonous...not usually deadly...but
+painful none the less. It won't trouble you if you keep your distance.
+~
+snake~
+0 0 0 0
+AGM 0 -400 0
+8 8 2d7+96 2d2+100 1d7+2 bite
+3 3 2 999 2
+0 -1 R 0 L I
+stand stand none 0
+AGXYc ADEFKLQVXa 7 7 7 7 7 7 0
+small scales~
+0 0 0 100
+0
+~
+~
+#516
+gator alligator~
+`can alligator``~
+`cA pair of `kyellow eyes`c swims up, followed by the huge swell of its tail!``
+~
+This critter is the meanest of all the swamp inhabitants. And the problem
+is that he doesn't like you! You best hope he can't see you...and you best
+keep it that way!
+~
+lizard~
+0 0 0 0
+AFGN 0 100 6
+12 12 2d10+150 1d10+100 1d10+3 bite
+3 3 3 999 6
+0 -1 M 0 L I
+stand stand male 0
+AGXc ACDEFHKQVa 8 8 8 8 8 8 0
+medium scales~
+0 0 0 100
+0
+~
+~
+#536
+elf Pideaux~
+Pideaux the elf~
+`dA friendly looking bayou elf is relaxing here.``
+~
+Pideaux is a friendly little fellow...he enjoys having some company in 
+the swamp (aside from the 'gators and nutria rats). He holds many secrets
+to this place, after all...he's lived here for six centuries.
+~
+elf~
+0 0 0 0
+ABN EFJ 400 0
+10 10 2d7+121 2d10+20 2d4+2 wrath
+1 1 1 999 -1
+0 -1 0 B BC Z
+stand stand male 0
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+5
+bayelf.voc~
+pideaux.scr~
+#550
+child villager~
+A Teche child~
+A little child runs about...oblivious to your intrusion.
+~
+This kid of Teche Village seems to be right with the world. They play
+just like all kids, and seem to lack for nothing. In fact, their playground
+is the swamps, which, aside from the gators, is a child's dream! I wouldn't
+try to talk with them...these folks are a bit nervous about strangers...
+~
+human~
+0 0 0 0
+AG 0 300 0
+6 6 2d7+70 1d5+30 1d7+1 scratch
+4 4 4 999 4
+0 -1 0 0 C 0
+stand stand female 14
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#552
+Jean~
+Jean~
+Jean the keeper of the hounds is standing here.
+~
+Jean stands here is smelly overalls with a large sack of...well...it looks
+to be some kind of feed. He looks amiable enough, so he might tell you what
+is going on.
+~
+human~
+0 0 0 0
+ABGN 0 100 0
+16 16 3d9+240 3d9+50 2d6+4 punch
+-2 -2 -2 999 -1
+0 -1 FI 0 0 C
+stand stand male 500
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+5
+jean.voc~
+~
+#553
+hunting dog hound~
+A mean'ol dog~
+A mean 'ol hound dog waits here for the hunt...
+~
+Don't mess wit dem 'ol coondawg...they chew you up real fine, i say.
+You jus go on der, an let dem der houn's be...dey eat you on up like
+you was da dat bes' peice of meat off a da cow...
+~
+dog~
+0 0 0 0
+AFGM 0 -100 1
+10 10 2d7+125 2d7+50 2d4+2 bite
+1 1 1 999 0
+0 -1 H a 0 0
+stand stand male 0
+AGV ACDEFHJKUVa 8 8 8 8 8 8 0
+medium fur~
+0 0 0 100
+0
+~
+~
+#554
+man villager~
+A Teche man~
+A man eyes you warily and contemplates your presence.
+~
+The man of Teche Village knows little, if any, english. He wonders why
+you have strolled into the village. The place is private, and the people
+here like it that way. Your intrusion is, quite frankly, unwanted.
+~
+human~
+0 0 0 0
+AG 0 -100 2
+10 10 2d7+120 4d10+20 2d4+2 punch
+6 6 6 999 8
+0 -1 OU 0 0 0
+stand stand none 45
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#555
+pierre cook~
+Pierre the cook~
+Pierre the cook sweats over a large wood cookstove.
+~
+Pierre is the local cusinary talent. The community looks to him to whip
+up the fancy meals that mark celebrations in this area. He is very proud
+of his work, and he well should be...they are masterpieces.
+~
+human~
+0 0 0 0
+ABG 0 150 2
+12 12 2d10+150 2d10+50 1d10+4 beating
+5 5 5 999 7
+0 -1 0 0 0 0
+stand stand male 90
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#556
+dancer~
+A barefoot dancer~
+There is a pretty woman here waiting for an invitation to dance.
+~
+This lady is just waiting for a partner to sway about the dancefloor. 
+You seem like a likely canidate...as you are standing like a doofus on
+a dance floor and...well...not dancing.
+~
+human~
+0 0 0 0
+ABG 0 100 2
+7 7 2d6+90 2d6+40 1d8+2 slap
+6 6 6 999 5
+0 -1 0 0 0 0
+stand stand female 40
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#557
+jacques~
+Jacques~
+`iJacques`b, the leader of Teche Village, is standing here.``
+~
+Jacques is a tall and sturdy fellow. He exudes the strength and wisdom
+that it takes to lead the people of this swampland village. He is wise
+beyond his years, even though he looks to be not very old. Don't expect
+much chat from him...he is a man of few words, and all those words are
+french.
+~
+human~
+0 0 0 0
+AGTX P 200 2
+15 15 2d10+190 2d6+50 2d6+4 punch
+3 4 4 999 4
+0 -1 I 0 0 0
+stand stand male 280
+AHMV ABCDEFGHIJKa 9 9 9 9 9 9 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#558
+woman villager~
+A Teche woman~
+A woman stands here...and looks for assistance as you approach.
+~
+This woman of Teche village is not the most beautiful creature you've
+ever seen, but in her own way...she is attractive. There are no airs put
+on in this place. They know how to have fun without leaving the comforts
+of home. You consider speaking to her...but think better of it.
+~
+human~
+0 0 0 0
+AG 0 100 2
+8 8 2d7+96 2d5+40 1d7+2 slap
+6 6 6 999 8
+0 -1 IU 0 0 0
+stand stand female 72
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#536
+hole portal~
+into a small hole in the stump~
+A small hole has been opened in the stump.~
+earth~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 G EFJ F
+0
+0
+0 999 0 P
+#546
+kettle~
+a large cast-iron kettle...warm and nasty...but it helps!~
+A large cast-iron kettle hangs over a small fire...~
+iron~
+0
+fountain 2
+R
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 900 0 P
+#549
+crawfish mudbug~
+`ia crawfish``~
+There is a small crustacean turned bright red laying here.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B AC 0 0
+0
+0
+3 3 2 G
+#550
+pot boil~
+a large boiling pot~
+`oThere is a large fresh pot of boiled `icrawfish`o steaming here.``~
+steel~
+0
+container 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF 0 0 ADE 0
+0
+0
+3 900 0 G
+#551
+rice flail~
+`aA `oR`hic`oe `aFlail``~
+There is a flail for beating rice here.~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+BC AB B BC 0
+0
+0
+8 3 255 P
+A
+3 1
+A
+26 -1
+A
+12 6
+#552
+shucking knife~
+a shucking knife~
+There is a razor sharp shucking knife laying here.~
+steel~
+0
+weapon 2
+I
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+B AB B BD 0
+0
+0
+9 46 250 P
+#553
+collar dog~
+`oa`a d`ho`ag`o collar``~
+`oA collar from the neck of a `ad`ho`ag `ohas been discarded here...``~
+hard leather~
+0
+armor 2
+S
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+9 30 300 P
+A
+19 1
+A
+5 1
+#554
+pole cypress staff~
+`dC`cy`dp`cr`de`cs`ds `cS`dt`ca`df`cf``~
+`hThere is a long pole carved from a `dC`cy`dp`cr`de`cs`ds `htree lying here.``~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AB AB AB BC 0
+0
+0
+8 49 520 P
+A
+18 2
+A
+4 1
+A
+12 5
+#555
+storeroom key~
+a storeroom key~
+There is a storeroom key here.~
+wood~
+0
+key 2
+PSU
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 10 0 P
+#556
+stick firestick fire~
+`dA `iB`ku`ir`kn`ii`kn`ig `dStick``~
+`dThere is a `iburning `dstick lying here.``~
+wood~
+0
+light 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 CE 0 0
+0
+0
+5 10 0 P
+#557
+fire fireplace~
+the fireplace~
+There is a nice fire burning in the fireplace.~
+fire~
+0
+container 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 BD 0
+0
+0
+0 999 0 P
+#558
+bed~
+the wooden bed~
+There is a wood frame rope bed here...it looks comfy.~
+wood~
+0
+furniture 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B CEFGHI K ABEFG ABEFG
+0
+0
+5 9999 0 P
+#559
+cypress shield~
+`dA `cC`dy`cp`dr`ce`ds`cs `dS`ch`di`ce`dl`cd``~
+`hThere is a round hunk of `dC`cy`dp`cr`de`cs`ds `hon the ground.``~
+wood~
+0
+armor 2
+S
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+B B B B 0
+0
+0
+8 164 400 P
+A
+1 1
+A
+12 -5
+A
+13 3
+#560
+Hole~
+out of a small hole~
+There is a small hole leading out to the stump.~
+earth~
+0
+portal 2
+ORS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A G DEJ F
+0
+0
+0 9999 0 P
+#561
+cypress bracer~
+`dA `cC`dy`cp`dr`ce`ds`cs `dB`cr`da`cc`de`cr``~
+`hThere is `cA `dC`cy`dp`cr`de`cs`ds `cB`dr`ca`dc`ce`dr `hlying here.``~
+wood~
+0
+armor 2
+S
+0
+AM
+0
+0
+0
+561
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A A A A 0
+0
+0
+6 10 150 P
+A
+2 1
+A
+13 10
+#562
+pile treasure~
+a pile of treasure~
+A pile of treasure glitters here despite the lack of light.~
+gold~
+0
+money 2
+Ta
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDEGI AB 0 0 0
+0
+0
+6 80 0 P
+#563
+magnificent ball light `aLimeak's`bSuper`iQuest`bItem``~
+`hA`d Magnificently`k Bright`h Ball of`n Light``~
+`hA magnificently bright ball of light shimmers in the air.``~
+diamond~
+0
+light 2
+SY
+0
+A
+B
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+100 0 1 P
+A
+13 100
+A
+12 100
+A
+17 -30
+A
+24 -10
+#0
+
+#ROOMS
+#511
+0 0
+~
+~
+~
+0 0 0
+Edge of the Swamp~
+The ground seems to get a bit soggy here...as you look carefully into
+the trees, you notice that the ground gives way to a wetlands. Ahead there
+is a break in the trees...a waterway perhaps?
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 561
+D2
+~
+~
+0 0 512
+S
+#512
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+There is a channel of water that runs in a general north and south direction.
+It has been cleared of stumps and debris by someone... It looks as if this may
+be a rather wet "road" of some sort. It seems that where ever the inhabitants
+might be hiding, they used this channel to get there...
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 511
+D2
+~
+~
+0 0 513
+S
+#513
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+The water only seems to be a few feet deep, and wading through it is not 
+difficult. The cleared area is only a couple of meters across. This makes it
+a bit dark since light has a hard time filtering through the tight stands of
+Cypress trees. From the look of the shadows and moss, the bayou is running 
+north and south...and south leads deeper into the swamp... 
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 512
+D2
+~
+~
+0 0 514
+S
+#514
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+The bayou continues to the north and south. This place is a bit creepy...
+one could start wondering what might pop out from behind the old trees.
+The cacophony of the swamp creatures fills the air...hope they're all fed!
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 513
+D2
+~
+~
+0 0 515
+S
+#515
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+The bayous of the southern swamps can be a treacherous place. It might
+be wise to just stay on the waterway and forgo all prospects of delving
+into the depths of the dark swamp. You might be asking for trouble...some
+great men have lost their way in this place.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 514
+D2
+~
+~
+0 0 516
+S
+#516
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+The swamp is so full of life it is hard to fathom why you see such little
+action. There is plenty to be heard, but aside from the few fearless ones,
+the creatures stay well hidden. Are they frightened at your intrusion in
+particular? Or are they just well hunted....
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 515
+D2
+~
+~
+0 0 517
+S
+#517
+0 30
+91~
+~
+~
+0 0 0
+Bayou LaFourche~
+There seems to be a small break in the tight stand of trees to the east,
+as if something tracks that way. A shortcut? perhaps...might be some fine
+hunting off in that direction. Or, you might end up AS some fine hunting!
+You can stay with the safety of the main track...might be for the best.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 516
+D1
+~
+~
+0 0 530
+D2
+~
+~
+0 0 518
+S
+#518
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+The watery corridor continues to the north and south. Some consideration
+must be taken to have proper supplies if you intend to venture in this
+land. The water is unfit to drink, and hunting the beasts which reside
+in the area might be difficult if you lack the skills particular to the
+area...you could look up the locals...if you can find them!
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 517
+D2
+~
+~
+0 0 519
+S
+#519
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+The way to the north is dark and forboding...but then, the whole PLACE
+is that way. At least to the south it seems to lighten a bit, and there
+is an area that seems a bit wider. Maybe there is some kind of exit from
+this dreadful place...
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 518
+D2
+~
+~
+0 0 520
+S
+#520
+0 0
+~
+~
+~
+0 0 0
+Bayou Crossing~
+The bayous of Terrebonne and Lafourche form a junction here. There must
+be more than one way out of the swamp, but from this vantage, there isn't
+a clear direction to choose. If your lucky enough to have a gold piece,
+you might flip it and decide on a direction! But don't drop it...
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 519
+D1
+~
+~
+0 0 524
+D2
+~
+~
+0 0 521
+D3
+~
+~
+0 0 527
+S
+#521
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+The tree lined channel seems very confining. Although it seems that the
+land to the west is a bit higher and might be drier, there is no pass to
+gain access. There are sounds coming from that direction, but it is hard
+to tell if the sounds are human in nature...or just nature itself.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 520
+D2
+~
+~
+0 0 522
+S
+#522
+0 0
+~
+~
+~
+0 0 0
+Bayou LaFourche~
+The wet passage continues north and south. But to the south, it looks as if 
+the end is in sight. There is also some type of structure in that direction.
+It might be a way out of the knee deep water and soggy bottomed bayou. The
+ground seems a bit higher to the west, but no clear pass through the trees
+is evident.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 521
+D2
+~
+~
+0 0 523
+S
+#523
+0 0
+~
+~
+~
+0 0 0
+End of Bayou LaFourche~
+The cleared waterway dead ends here. The bayou runs north and in all other
+directions there is only swamp...except to the west. There is a rickety old
+dock that just might hold a persons weight. It looks as if it might lead to
+solid ground...so what the heck!
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 522
+D3
+~
+~
+0 0 549
+S
+#524
+0 0
+~
+~
+~
+0 0 0
+Bayou Terrebonne~
+The eastern end of Bayou Terrebonne gets a bit deeper than the other
+portions of the swamp. This area may have been dredged a bit for reasons
+unknown. Aside from giants and the like, travellers are up to their waist
+at this point. These cleared passages were definitely intended for boats
+of some type or another.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D1
+~
+~
+0 0 525
+D3
+~
+~
+0 0 520
+S
+#525
+0 0
+~
+~
+~
+0 0 0
+Bayou Terrebonne~
+The monotony of the swamp passage is broken here by a small break in the
+columns of trees which deter any travel into the heart of the swamp. The
+question may be wether anyone would want to venture into the dark unknown
+of the marsh. The hearty adventurer might take the challenge...others may
+just decide to press onward.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D0
+~
+~
+0 0 530
+D1
+~
+~
+0 0 526
+D3
+~
+~
+0 0 524
+S
+#526
+0 0
+~
+~
+~
+0 0 0
+Bayou Terrebonne~
+The watery passage continues east and west.  The going isn't too rough in
+this area.  The critters who call this place home are either friendly or
+scared of your intrusion.  You might consider coming here to do a bit of
+hunting...  But you might want a guide if you intend to venture past the
+confines of the tree lined bayou.  
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D1
+~
+~
+0 0 529
+D3
+~
+~
+0 0 525
+S
+#527
+0 0
+~
+~
+~
+0 0 0
+Bayou Terrebonne~
+The bayou continues to the east and west. There is some commotion to the
+south, but it seems like a rough trip to head that direction. And besides,
+who knows what's making that commotion! You may find a way...if you look 
+around.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D1
+~
+~
+0 0 520
+D3
+~
+~
+0 0 528
+S
+#528
+0 0
+~
+~
+~
+0 0 0
+Bayou Terrebonne~
+Although the only way to travel is along the east and west bayou, you
+can see the ground to the south rises above the water level of the swamp.
+Ahead to the west, there is a wider area which might afford a passage to
+dry ground. There is also some signs of life...human life.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D1
+~
+~
+0 0 527
+D3
+~
+~
+0 0 537
+S
+#529
+0 0
+~
+~
+~
+0 0 0
+Bayou Terrebonne~
+The wooded area to the east gives way to the swampy area of the bayou. The
+way west is cleared of the Cypress trees, but is still covered in stagnent
+water. Off to the east, there seems to be a well worn track through the trees.
+It is almost as if this way is some kind of well used route by travelers. You
+only wonder where the boats might be stored...
+
+~
+0 C 14
+0
+~
+H75
+I 0 M75
+O none~
+D1
+~
+~
+0 0 13155
+D3
+~
+~
+0 0 526
+S
+#530
+0 0
+~
+~
+~
+0 0 0
+The Swamp~
+The spanish moss is thick upon the grand old Cypress trees that grow knee
+deep in the water here. You turn about, looking up at the magestic sight...
+Whoa! Which way did you come from? All these trees look alike! You might try
+calling for help...but there is no telling who, or what, might answer your
+call.
+~
+0 N 14
+0
+~
+H25
+I 0 M25
+D0
+~
+~
+0 0 531
+D1
+~
+~
+0 0 531
+D2
+~
+~
+0 0 531
+D3
+~
+~
+0 0 531
+S
+#531
+0 0
+~
+~
+~
+0 0 0
+The Swamp~
+It certainly was easy to get lost in this place. Even with a map, finding 
+your way will be difficult. The eerie sounds of the wild animals seem to be 
+coming from all directions. Which way is out?
+~
+0 N 14
+0
+~
+H25
+I 0 M25
+D0
+~
+~
+0 0 532
+D1
+~
+~
+0 0 531
+D2
+~
+~
+0 0 532
+D3
+~
+~
+0 0 531
+S
+#532
+0 0
+~
+~
+~
+0 0 0
+The Swamp~
+It certainly was easy to get lost in this place. Even with a map, finding 
+your way will be difficult. The eerie sounds of the wild animals seem to be 
+coming from all directions. Which way is out?
+~
+0 N 14
+0
+~
+H25
+I 0 M25
+D0
+~
+~
+0 0 531
+D1
+~
+~
+0 0 533
+D2
+~
+~
+0 0 531
+D3
+~
+~
+0 0 532
+S
+#533
+0 0
+~
+~
+~
+0 0 0
+The Swamp~
+It certainly was easy to get lost in this place. Even with a map, finding 
+your way will be difficult. The eerie sounds of the wild animals seem to be 
+coming from all directions. Which way is out?
+~
+0 N 14
+0
+~
+H25
+I 0 M25
+D0
+~
+~
+0 0 531
+D1
+~
+~
+0 0 532
+D2
+~
+~
+0 0 534
+D3
+~
+~
+0 0 531
+S
+#534
+0 0
+~
+~
+~
+0 0 0
+The Swamp~
+It certainly was easy to get lost in this place. Even with a map, finding 
+your way will be difficult. The eerie sounds of the wild animals seem to be 
+coming from all directions. Which way is out?
+~
+0 N 14
+0
+~
+H25
+I 0 M25
+D0
+~
+~
+0 0 531
+D1
+~
+~
+0 0 535
+D2
+~
+~
+0 0 531
+D3
+~
+~
+0 0 531
+S
+#535
+0 0
+~
+~
+~
+0 0 0
+The Swamp~
+It certainly was easy to get lost in this place. Even with a map, finding 
+your way will be difficult. The eerie sounds of the wild animals seem to be 
+coming from all directions. Which way is out?
+~
+0 N 14
+0
+~
+H25
+I 0 M25
+D0
+~
+~
+0 0 531
+D1
+~
+~
+0 0 531
+D2
+~
+~
+0 0 533
+D3
+~
+~
+0 0 536
+S
+#536
+15 200
+As you step out of the maze-like swamp, you find yourself on dry ground.~
+~
+~
+0 0 0
+On a Cypress Stump~
+Finally! A dry place to stand. In fact, up on this wide stump, you can see
+quite a bit more than from ground (or water) level. A couple of bayous are
+visible from here. This might also be a nice place to catch your breath and
+rest up before you journey any further.
+~
+0 0 14
+0
+~
+H125
+I 0 M130
+D1
+~
+~
+0 0 535
+D2
+~
+~
+0 0 525
+D3
+~
+~
+0 0 517
+S
+#537
+0 0
+~
+~
+~
+0 0 0
+End of Bayou Terrebonne~
+This is the western end of the channel. The reason it comes to an end
+is because this is where the locals pull their boats onto the ground.
+To the south, these boats lay scattered about where the dry ground rises
+above the slow moving water of the swamp.
+~
+0 0 14
+0
+~
+H75
+I 0 M75
+D1
+~
+~
+0 0 528
+D2
+~
+~
+0 0 538
+S
+#538
+0 0
+~
+~
+~
+0 0 0
+On Dry Ground~
+Among the oddly shaped boats, the earth changes from muck, to mire, and 
+finally to somewhat solid footing. A sandy path leads to the south away
+from the bayou. All around the cypress trees rise high above ground level.
+Any expedition other than the obvious would be a mighty undertaking.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 537
+D2
+~
+~
+0 0 539
+S
+#539
+0 0
+~
+~
+~
+0 0 0
+Sandy Path~
+It is evident that no one took the time to actually clear this path. 
+The winding nature leads a person to believe that this trail has been 
+beaten down with use. Off to the southwest you can hear some sounds of
+life.
+~
+0 C 2
+0
+~
+I 0 D0
+~
+~
+0 0 538
+D2
+~
+~
+0 0 540
+S
+#540
+0 0
+~
+~
+~
+0 0 0
+Sandy Path~
+It is evident that no one took the time to actually clear this path. 
+The winding nature leads a person to believe that this trail has been 
+beaten down with use. Off to the southwest you can hear some sounds of
+life.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 539
+D1
+~
+~
+0 0 541
+S
+#541
+0 0
+~
+~
+~
+0 0 0
+Sandy Path~
+The pathway begins to widen, and to the south the edge of a clearing
+becomes visible.  There is no sound from the northwest, but to the east the
+silence is occassionally broken.  There is also a faint smell of food being
+prepared.  
+~
+0 0 2
+0
+~
+I 0 D2
+~
+~
+0 0 542
+D3
+~
+~
+0 0 540
+S
+#542
+0 0
+~
+~
+~
+0 0 0
+Edge of a Clearing~
+The edge of the clearing doesn't afford much of a view. The sandy path
+to the north is very tight, but the clearing widens a bit to the east.
+There are some inhabitants of the village milling about, they tend to
+shy away from you, being a stranger. But they can be seen in the shadows
+from the corner of an eye...
+~
+0 C 2
+0
+~
+I 0 D0
+~
+~
+0 0 541
+D1
+~
+~
+0 0 543
+S
+#543
+0 0
+~
+~
+~
+0 0 0
+Teche Village~
+The middle of the clearing affords two general directions, east, which
+seems to wind off into the trees. And west, which looks as if it leads to
+the more populated area of the village. 
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 544
+D3
+~
+~
+0 0 542
+S
+#544
+0 0
+~
+~
+~
+0 0 0
+Teche Village~
+The smaller clearing to the west gives way to the main track of the
+village which runs north and south.  To the north, there are a couple
+clapboard shacks which look well cared for, despite the obvious poverty. 
+Off to the south, you see what must amount to the village center, and
+beyond, a larger single story building.  
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 545
+D2
+~
+~
+0 0 546
+D3
+~
+~
+0 0 543
+S
+#545
+0 0
+~
+~
+~
+0 0 0
+Teche Village``~
+It is surprising how well tended the small homes that surround you are
+kept. Although the village seems quite poor, the pride in the community
+that they have carved from this swamp is well in evidence. There is quite
+a bit of pride and tender care put into the creation of the tiny shanties.
+The buildings to the north and west seem to be dwellings, and to the east,
+a smaller structure stands locked.
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 557
+D1
+~
+door~
+97 555 559
+D2
+~
+~
+0 0 544
+D3
+~
+~
+0 0 558
+S
+#546
+0 0
+~
+~
+~
+0 0 0
+Center of Teche Village~
+This looks to be the central gathering place of the village.  Downed logs
+encircle a small fire that heats a large kettle of water.  It could be the
+water supply for the small community.  In any case, at a slow boil, it seems
+fit for consumption...  Hope its okay to have a drink.  
+~
+0 0 2
+0
+~
+H115
+I 0 M115
+D0
+~
+~
+0 0 544
+D1
+~
+~
+0 0 548
+D2
+~
+~
+0 0 547
+D3
+~
+~
+0 0 550
+S
+#547
+0 0
+~
+~
+~
+0 0 0
+Teche Village~
+South of the village center there is a low, slat sided building. It 
+seems to be larger than any other building in the village. It could be
+the indoor meeting place of the community. In any case, the place looks
+inviting, and who knows what you might find!
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 546
+D2
+~
+door~
+1 0 554
+S
+#548
+0 0
+~
+~
+~
+0 0 0
+Teche Village~
+There is a fishing dock to the east, and it looks like the center of the
+village is west of here. The ground is soft but solid, and the village 
+seems like a freindly place. You might need an interpreter, tho...
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 549
+D3
+~
+~
+0 0 546
+S
+#549
+0 0
+~
+~
+~
+0 0 0
+On the Dock~
+The old dock seems to be built a bit better than it looks. There aren't
+any boats tied here, so this might be a spot where the locals fish...or
+catch whatever seafood they might find. The bayou to the east might hold
+any type of water creature imaginable. Of to the west, there is a village.
+~
+0 C 2
+0
+~
+I 0 D1
+~
+~
+0 0 523
+D3
+~
+~
+0 0 548
+S
+#550
+0 0
+~
+~
+~
+0 0 0
+Teche Village~
+The western edge of the gathering place tapers off into a small area. 
+The trees still command most of the view, and when the space between them is
+tight, they seem to encompass the entire view.  The spanish moss grows so
+thickly that it is difficult to see into the woodlands.  A small trail leads
+off to the west.  
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 546
+D3
+~
+~
+0 0 551
+S
+#551
+0 0
+~
+~
+~
+0 0 0
+A Small Trail~
+This path that winds over exposed roots and around trees leads away 
+from the main village to the west, and deeper into the woodland swamp to
+the south. Athough sounds are muted by the vegetation, there is a distinct
+sound of animals to the southwest.
+~
+0 0 2
+0
+~
+I 0 D1
+~
+~
+0 0 550
+D2
+~
+~
+0 0 552
+S
+#552
+0 0
+~
+~
+~
+0 0 0
+A Small Trail~
+The path ends here, being quite short after all. There is a small area
+from which the trees and brush have been cleared, and old fencing is tacked
+to the trees, making a small pen. To the west, the gate to the pen is shut
+and held with a small tie. Your nose crinkles at the odor eminating from
+the structure, and you hear low growls...
+~
+0 0 2
+0
+~
+I 0 D0
+~
+~
+0 0 551
+D3
+~
+gate~
+1 0 553
+S
+#553
+15 300
+~
+~
+~
+0 0 0
+The Dog Pen~
+Whew! What a nasty place! A broken down fenced pen that barely keeps
+in the dogs. And you can be sure they love getting out! The place is flea
+infested, covered in fecal matter, and swarming with all types of insects.
+These animals can not be happy...
+~
+0 N 2
+0
+~
+I 0 D1
+~
+gate~
+1 0 552
+S
+#554
+0 0
+~
+~
+~
+0 0 0
+The Village Building~
+The seemingly small building looks a bit larger once a person comes
+inside. But it's the smell of the creole fare being prepared that one
+notices first. Off to the west, there is a kitchen of sorts with all
+types of cauldrons and cooking gear for creating fabulous creations.
+You might be tempted to head that way if your at all hungry. If dancing
+is your thing, the east side of the building have a wide open dance floor
+where the villagers cavort to the local music.
+~
+0 BD 0
+0
+~
+I 0 D0
+~
+door~
+1 0 547
+D1
+~
+~
+0 0 556
+D3
+~
+~
+0 0 555
+S
+#555
+0 0
+~
+~
+~
+0 0 0
+Kitchen~
+Yes indeed! This is where the smells of the fine cuisine are eminating.
+There a pots and pans covering the place, some boiling and some simmering.
+It looks as if the entire village eats here most of the time. And on this
+occasion, it looks as if there is a feast in preparation. I'll bet you
+could impose and sit in on this one!
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 554
+S
+#556
+15 100
+~
+~
+~
+0 0 0
+Dance Floor~
+Well...this certainly is the nicest floor in the village. It looks to be
+made from the local hardwood, but the polishing has been done by the many
+barefoot dancers that have swept to and fro. There is a small stage where
+the local zydeco band plays. The hometown music is quite different than
+any you may have heard before.
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 554
+S
+#557
+0 0
+~
+~
+~
+0 0 0
+Village Abode~
+What a cozy place! The one room domicile has all the creature comforts.
+There is a stone fireplace with a large hearth, and all the utensils needed
+to whip up a meal. The wood framed bed looks quite inviting. If you were
+sure you wouldn't be disturbed, you might consider a nap! The hand made
+articles that fill the place make you think that the lifestyle here might
+not be so bad after all...
+~
+0 ABD 0
+0
+~
+I 0 D2
+~
+~
+0 0 545
+S
+#558
+0 0
+~
+~
+~
+0 0 0
+A Family Abode~
+This one-room home is a bit larger than the others aroung the village
+it seems that a family lives here. There are several beds and the fire
+pit is much larger. The place doesn't have many items which are not
+directly tied to everyday life. The existence here must be very simple.
+~
+0 ABD 0
+0
+~
+I 0 O none~
+D1
+~
+~
+0 0 545
+S
+#559
+15 75
+~
+~
+~
+0 0 0
+The Village Store Room~
+This shack is used by the entire community as a common area to store
+goods to be used by all. There are many items that are used for hunting
+and fishing. There are crab and crawfish nets by the dozens, boating 
+supplies, and some traps. This also seems to be the spot where any of the
+village weaponry is kept. 
+~
+0 ABD 0
+0
+~
+I 0 D3
+~
+door~
+97 555 545
+S
+#560
+0 0
+~
+~
+~
+0 520 0
+Hole~
+Whew! what a tight fit...It's hard to believe anything can fit in this tiny
+space. Let's hope the prize was worth the effort, because you could very
+well end up stuck in here. The hole is musky and damp, with roots poking at
+your sides. Now...see if you can back on out of this burrow!
+~
+0 CHN 0
+0
+~
+I 0 S
+#561
+0 0
+~
+~
+~
+0 0 0
+A Half Submerged Sandbar~
+You feel yourself sinking slightly as you step onto this tiny patch of
+sand.  Gravely and coarse, this sandbar separates the somber bayous to the
+south and the sparkling body of water you see to the north.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 22016
+D1
+~
+~
+0 0 562
+D2
+~
+~
+0 0 511
+D3
+~
+~
+0 0 22131
+S
+#562
+0 0
+~
+~
+~
+0 0 0
+A Half Submerged Sandbar~
+As you step onto the sandbar, your feet sink slightly into the ground,
+and you wonder nervously if it will hold you.  This strip of land separates
+the wastelands of the swamp and the pure body of water that sparkles to the
+north.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 563
+D3
+~
+~
+0 0 561
+S
+#563
+0 0
+~
+~
+~
+0 0 0
+Edge of Sandbar~
+You stand at the very tip of a sandbar.  Waves from the sapphire sea to
+the north lap up against the sand, making parts of it wet and clumpy.  To
+the south, the scent of swampland permeates the air.  
+~
+0 0 10
+0
+~
+I 0 D0
+~
+~
+0 0 22018
+D2
+~
+~
+0 0 562
+D3
+~
+~
+0 0 22016
+S
+#0
+
+#RESETS
+M 0  536   1  536  1	* Pideaux the elf
+O 0 546   0 546 1	* A large cast-iron kettle...warm and nasty...but it helps! at Center of Teche Village
+D 0  553   1    1	* The Dog Pen [east]
+D 0  552   3    1	* A Small Trail [west]
+M 0  553   8  553  8	* A mean'ol dog
+E 0  553   -1    3	* item to A mean'ol dog
+M 0  552   1  552  1	* Jean
+D 0  547   2    1	* Teche Village [south]
+O 0 558   0 558 2	* The wooden bed at A Family Abode
+O 0 558   0 557 2	* The wooden bed at Village Abode
+D 0  545   1    2	* Teche Village`` [east]
+O 0 559   0 559 -1	* `da `cc`dy`cp`dr`ce`ds`cs `ds`ch`di`ce`dl`cd`` at The Village Store Room
+O 0 554   0 559 -1	* `dc`cy`dp`cr`de`cs`ds `cs`dt`ca`df`cf`` at The Village Store Room
+M 0  556   3  556  3	* A barefoot dancer
+M 0  555   1  555  1	* Pierre the cook
+E 0  552   -1   16	* item to Pierre the cook
+M 0  557   1  546  1	* Jacques
+G 0  555 -1		* A storeroom key to Jacques
+M 0  554   6  558  1	* A teche man
+M 0  558   4  558  1	* A teche woman
+M 0  550   4  558  1	* A teche child
+M 0  554   6  543  1	* A teche man
+M 0  554   6  547  1	* A teche man
+M 0  558   4  548  1	* A teche woman
+E 0  551   -1   17	* item to A teche woman
+M 0  550   4  546  1	* A teche child
+M 0  550   4  551  1	* A teche child
+M 0  558   4  551  1	* A teche woman
+M 0  516   1  532  1	* `can alligator``
+M 0  514   4  514  1	* A nutria rat
+M 0  514   4  521  1	* A nutria rat
+M 0  514   4  527  1	* A nutria rat
+M 0  514   4  525  1	* A nutria rat
+M 0  515   4  517  1	* A cottonmouth
+M 0  515   4  521  1	* A cottonmouth
+M 0  515   4  528  1	* A cottonmouth
+M 0  515   4  526  1	* A cottonmouth
+O 0 550   0 554 -1	* A large boiling pot at The Village Building
+P 0 549 20 550 1
+O 0 557   0 557 -1	* The fireplace at Village Abode
+P 0 556 3 557 1
+O 0 560   0 560 -1	* Out of a small hole at Hole
+O 0 561   0 560 -1	* `da `cc`dy`cp`dr`ce`ds`cs `db`cr`da`cc`de`cr`` at Hole
+O 0 562   0 560 -1	* A pile of treasure at Hole
+O 0 7   0 529 -1	* The symbol at Bayou Terrebonne
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 515 spec_poison		* A cottonmouth
+S
+
+#OT
+#561
+Cypress Bracer~
+$char_is_attacked~
+524288
+65
+pecho $name `dA `cC`dy`cp`dr`ce`ds`cs `dB`cr`da`cc`de`cr`h pulses with magical protection!``~
+100
+0
+cast 'armor' $name~
+100
+0
+cast 'shield' $name~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+50
+#0
+#$

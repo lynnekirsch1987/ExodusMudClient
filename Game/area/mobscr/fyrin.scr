@@ -1,0 +1,25 @@
+* File: fyrin.scr
+* Mob: Fyrin(4113)
+
+#TRIGGER codeword
+Type 99
+Sc
+MOB UNLOCK south
+open south
+say He is expecting you.
+wait 5~
+Sc
+close south
+MOB LOCK south~
+End
+
+#TRIGGER exit
+Type 6
+Sc
+if ( %exit-from% cmp %codeword-from% )
+  close south
+  MOB LOCK SOUTH
+  let %codeword-from% = "NOONE"~
+End
+
+#END

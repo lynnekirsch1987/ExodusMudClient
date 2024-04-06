@@ -1,0 +1,98 @@
+* Mob Vnum: 20971
+* Mob Name: simon demontfort
+* Room Vnum: 21004
+
+
+#TRIGGER cmbt
+Type 2
+Sc
+wfunc %rannum% random 0 5
+if (%rannum% == 0)
+    say I fight for justice and against oppressive rule. What do you fight for?
+    halt once~
+Sc
+if (%rannum% == 1)
+    emote continues the battle with grim determination. More than just his life is at stake.
+    halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 5
+sac head
+if (%rndnum% == 0)
+    emote is so absorbed with his planning that he momentarily forgets your presence.
+    halt once~
+Sc
+if (%rndnum% == 1)
+    emote is inspired by a new idea for his revolt against Lord Vryce and murmurs excitedly, "Yes, yes..."
+    halt once~
+Sc
+if (%rndnum% == 2)
+    say How can that beast Vryce be so heartless? Bah! All nobles are alike.
+    halt once~
+End
+
+#TRIGGER give
+Type 5
+Sc
+ofunc %give-arg% %what% vnum
+ofunc %give-arg% %objname% name
+if ( %what% == 21003 )
+  cmd at 1 drop head
+  cmd gasp %give-from%
+  say Could it be?
+  wait 1~
+Sc
+if ( %what% == 21003 )
+  say You've killed my nemesis!
+  wait 1~
+Sc
+if ( %what% == 21003 )
+  say All I have is yours, %give-from%.
+  cmd remove all
+  cmd give 1. %give-from%
+  cmd give 1. %give-from%
+  cmd give 1. %give-from%
+  cmd give 1. %give-from%
+  cmd give 1. %give-from%
+  cmd drop all
+  gecho %give-from% has helped the rebellion by ending the harsh rule of Lord Vryce......for now.
+  cmd reward %give-from% 25000 For killing Vryce and helping the revolution, you get
+25000 exp.
+  cmd noble %give-from% `kRevolutionary``
+  cmd string char %give-from% title helped vanquish the oppressor!
+  halt once~
+Sc
+if ( %what% != 21003 )
+  say What is this?
+  wait 1~
+Sc
+if ( %what% != 21003 )
+  say I have no use for this.
+  cmd drop %objname%
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  cmd at 1 load obj 21004
+  cmd set obj head owner %death-from%
+  emote musters his dying strength and speaks one last time.
+  say You may have defeated me, %death-from%. But others will take up the fight against oppression...
+  halt once~
+End
+
+#TRIGGER entr
+Type 10
+Sc
+  say Greetings, %entr-from%, and well met!
+  wait 2~
+Sc
+  say This revolution needs more brave souls like you to succeed.
+  halt once~
+End
+
+#END

@@ -1,0 +1,22 @@
+* File: kami.scr
+* Mob: Kami-Sama(7099)
+
+#TRIGGER eazye
+Keywords kneel~
+Type 0
+Sc
+  emote floats, emitting a holy aura.~
+Sc
+  emote turns to face you.~
+Sc
+mfunc %eazye-from% %slobbur% cha
+if ( %slobbur% >= 17 )
+   wear bible
+   zap %eazye-from%
+   emote smiles and nods.
+   remove bible
+   halt once~
+End
+
+#END
+

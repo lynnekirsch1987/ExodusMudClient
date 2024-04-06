@@ -1,0 +1,1894 @@
+#AREA
+moria.enc~
+Moria~
+{ 1 10} Azurel  Moria~
+~
+2300 2999
+0 0
+0 0
+~
+#MOBILES
+#2300
+dwarven battle guard~
+a Dwarven Battle Guard~
+A member of the Dwarven Battle-Guard stands here, arms crossed.
+~
+He was appointed by Durin when he defeated a group of enemies from the
+Underdeeps.
+~
+dwarf~
+0 0 0 0
+ACGT JNVc 560 1
+40 8 100d2+0 100d2+10 4d4+2 slash
+-1 0 0 0
+0 ABGQ LQ R
+stand stand neutral 200
+AHMV ABCDEFGHIJKL small flesh~
+0 0 0 100
+0
+~
+~
+#2301
+echo hawk~
+An echo hawk~
+An echo hawk is flying through the chamber.
+~
+~
+wyvern~
+0 0 0 0
+AF DFT 0 0
+5 0 10d2+1 1d1+1 0d0+0 none
+0 0 0 0
+CFH L 0 S
+stand stand neutral 10
+ABGZ ACDEFHJKPQVX medium flesh~
+0 0 0 100
+0
+~
+~
+#2302
+name majil magic shopkeeper~
+Majil~
+Majil, the dwarf Magic shopkeeper is here, selling artifacts.
+~
+You see a rather large dwarf.. a VERY large dwarf indeed.  He is almost taller
+than you, and he is supposed to be a small little twirp.  By his rank, givin
+to him by Durin IV he was put into the Majick Shoppe.
+~
+dwarf~
+0 0 0 0
+ABG HIJc 750 0
+100 18 30000d1+1 100d10+1 4d4+2 slash
+-40 0 0 0
+0 0 LQ R
+stand stand male 9000
+AHMV ABCDEFGHIJK large flesh~
+4 0 0 100
+0
+~
+~
+#2303
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#2300
+iron-bound chest~
+an iron-bound chest~
+An iron-bound chest rests on the shore here.~
+iron~
+0
+container S 0
+6
+~
+~
+~
+~
+999 13 0 0 0
+0 10000 0 P
+#2301
+iron key~
+an iron key~
+A small iron key lies on the ground here.~
+iron~
+0
+key S A
+6
+~
+~
+~
+~
+0 0 0 0 0
+0 1 0 P
+#2302
+ATM old atm teller~
+the ATM~
+An old, obsolete ATM is here rotting in its own waste.~
+plastic~
+0
+jukebox S 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0 100 0 P
+#2303
+old desk wooden recep~
+a wooden desk~
+The PostMasters old wooden desk is here, rotting before your eyes!~
+wood~
+0
+trash S 0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0 10000 0 P
+#2304
+waterfall~
+a waterfall~
+A waterfall is here, gushing from the wall.~
+water~
+0
+fountain S 0
+6
+~
+~
+~
+~
+0 0 'water' 0 0
+0 0 0 P
+#2305
+whip all hell balrog~
+`hthe Whip of All Hell~
+The Whip of All Hell rests heavily on the ground here, burdoning all of it's wearers with the curse of the Ancients.~
+fire~
+0
+weapon BS AN
+6
+~
+~
+~
+~
+dagger 8 8 wrath E
+90 100 0 P
+A
+14 20
+A
+18 3
+A
+19 5
+#2306
+silk silky boxers heart hearts~
+`ha `osilky `hpair of boxers with `bred `hhearts on them~
+... If an IMM Sees this please get it ... =)~
+silk~
+0
+armor S AF
+6
+~
+~
+~
+~
+0 0 0 0 0
+90 10 0 P
+#2307
+joe boxer t shirt~
+`ha Joe-Boxer(c) `rflannel `ht-shirt~
+~
+cloth~
+0
+armor S AD
+6
+~
+~
+~
+~
+0 0 0 0 0
+90 10 0 P
+#0
+
+#ROOMS
+#2300
+~
+~
+0 0 0
+Western Entry Hall~
+You are in the Western Entry Hall of Khazad-Dum, also known as Moria, the
+black pit.  The door to the west has apparently closed, and you can discern
+no exit in that direction.  In the dim light, you can see that you are in a
+crudely-hewn large square chamber with 30' ceilings!  Doors are set into
+the north and south walls, and Durin's Way leads east from here.  Light
+stones are set high into the walls, giving a natural aura to the room.
+~
+0 CD 0
+D1
+~
+~
+0 0 2301
+S
+#2301
+~
+~
+0 0 0
+Durin's Way~
+You are at the western end of Durin's Way, the major artery road through
+Khazad-Dum (Which means 'Dwarf Mansion').  Small faces have been carved into
+the walls of this section of road.  They seem to tell a story of some of the
+ancient Dwarves remembered in the histories of the Khazad.  Here, the path
+turns northward, and to the west is the Western Entry Hall.  You can see
+thatthe light crystals seem to line Durin's Way, giving a warm glow to the
+major thoroughfare.  
+~
+0 0 0
+D0
+~
+~
+0 0 2302
+D3
+~
+~
+0 0 2300
+S
+#2302
+~
+~
+0 0 0
+Durin's Way~
+You are following Durin's Way, the major artery road through Khazad-Dum
+(Which means 'Dwarf Mansion').  Here, some twisted pillars rise seamlessly
+from the cavern floor, rising to meet the ceiling high above.  The road
+turns here, with exits going east and south.  This section of Durin's Way,
+between the Western Entrance Hall and Durin's Chimney has been plagued
+with wandering minions of the Balrog, which was accidentally realeased
+from the Underdeeps about two years ago.
+~
+0 B 0
+D1
+~
+~
+0 0 2303
+D2
+~
+~
+0 0 2301
+S
+#2303
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way, Khazad-Dum's main roadway.  Here, the road turns
+south along the lip of a cliff.  Looking over the side of the cliff, you
+can only see the darkness below.  Huge stalactites hang down into the pit,
+making it look like a huge mouth with crooked teeth.
+~
+0 0 0
+D2
+~
+~
+0 0 2304
+D3
+~
+~
+0 0 2302
+S
+#2304
+~
+~
+0 0 0
+Durin's Way~
+You are on the main thoroughfare through Moria, Durin's Way.  The rock in
+this section of the tunnel is a black colour, and water spilled onto its
+floor seems to soak right into the stone.  This rock must be from some
+of the volcanic upheavals which created the Misty Mountains.  The tunnel
+leads north from here, and slopes down to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 2303
+D1
+~
+~
+0 0 2305
+S
+#2305
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way, Khazad-Dum's main roadway.  The road is about
+20' wide here, paved with hard white and blue stones, in an intricate
+mosaic. A small gap in the wall to the south has a crooked sign hanging
+above it.
+~
+0 0 0
+D1
+~
+~
+0 0 2306
+D2
+~
+~
+0 0 2325
+D3
+~
+~
+0 0 2304
+S
+#2306
+~
+~
+0 0 0
+Inn Chambers~
+You are in the Inn Chambers built along Durin's Way.  For centuries,
+travelers on the Way have stopped here to enjoy the hospitality of the
+Dwarven innkeepers.  Since the breech of the underdeeps, the inn has kept
+itself open by sheer will (and quite a few shirmishes).  To the north is
+the Post Office.
+~
+0 0 0
+D0
+~
+~
+0 0 2331
+D1
+~
+~
+0 0 2307
+D3
+~
+~
+0 0 2305
+S
+#2307
+~
+~
+0 0 0
+Ceremonial Chamber of the Westward Way~
+You are in a Ceremonial chamber, heptagonal in shape (for the seven fathers
+of the Dwarven Race).  During the day, the room is lighted by windows dug
+through thousands of feet of rock to the outside.  At night, the light 
+gems in the domed ceiling above emit their greenish glow.  The floor is
+paved with an axe-head design.
+~
+0 0 0
+D1
+~
+~
+0 0 2308
+D3
+~
+~
+0 0 2306
+S
+#2308
+~
+~
+0 0 0
+Durin's Way~
+You are following Durin's Way, the east-west road which runs through the
+heart of Khazad-Dum.  Broken pits of statuary are scattered on the street
+here. Apparently, the new occupants of the Westerns Halls of Moria do not
+appreciate the art of the Khazad.  Alcoves in the walls, which once held
+the figures are now covered with graffiti, calling out the sacriliegious
+ephitets.
+~
+0 0 0
+D0
+~
+~
+0 0 2332
+D1
+~
+~
+0 0 2309
+D3
+~
+~
+0 0 2307
+S
+#2309
+~
+~
+0 0 0
+Muster Point of Durin's Way~
+You have reached a muster point of the Dwarven Guard.  Since the coming
+of Durin's Bane, none have daren use this mustering place.  A few Dwarven
+reconnaissance patrols have used this as a point of retreat because of the
+sheer strength of the black host from below.
+~
+0 0 0
+D1
+~
+~
+0 0 2310
+D3
+~
+~
+0 0 2308
+S
+#2310
+~
+~
+0 0 0
+Bridge Over Durin's Chimney~
+You are on a 70-foot long, 2-foot wide bridge spanning Durin's Chimney.
+There are no rails on the bridge, and when you look down, vertigo sets
+in, as you can see a small light of what could be thousands of feet
+below. The bridge easily supports your weight, but a slight breeze coming
+out of the pit threatens to blow you off.
+~
+0 D 0
+D0
+~
+~
+0 0 2366
+D1
+~
+~
+0 0 2311
+D2
+~
+~
+0 0 2367
+D3
+~
+~
+0 0 2309
+S
+#2311
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D1
+~
+~
+0 0 2312
+D3
+~
+~
+0 0 2310
+D4
+~
+~
+0 0 2342
+D5
+~
+~
+0 0 2352
+S
+#2312
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way east of the Endless Stair.  The dwarves have held
+back the forces of the Balrog at this point.  It is doubtful how long they
+will be able to continue to hold it.  Thought this section of the road has
+obviously been cleaned recently, the remains of old bloodstains still
+remain. Gross!
+~
+0 0 0
+D1
+~
+~
+0 0 2313
+D3
+~
+~
+0 0 2311
+S
+#2313
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way, the major road of the Khazad.  The ceiling above,
+once a natural dome has been carved, and even improved upon during the
+millennia in which the dwarven people have dwelled here.  The ceiling
+above has relief figures on a background of polished stone, ground and
+waxxed so smooth that it acts like a mirror, reflecting the outlines of
+the traveller below.
+~
+0 0 0
+D1
+~
+~
+0 0 2314
+D3
+~
+~
+0 0 2312
+S
+#2314
+~
+~
+0 0 0
+West Gathering Hall~
+You are in the westernmost border of the Dwarven City in Moria, Darrowdelf.
+Here, Dwarven paries gather, preparing to either set out for the west
+gate, or preparing to try to clear out the first Level/first Deep of
+Khazad-Dum.
+~
+0 0 0
+D1
+~
+~
+0 0 2315
+D3
+~
+~
+0 0 2313
+S
+#2315
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way in the Dwarven City of Darrowdelf.  You get a sense
+of unease as you walk the long road through the mountain.  Stalactites
+hanging from the ceiling have been carved and polished to a shiny gold
+color, and jewels have been inlaid on the rocks' surfaces.
+~
+0 0 0
+D1
+~
+~
+0 0 2316
+D3
+~
+~
+0 0 2314
+S
+#2316
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way in the Dwarven City of Darrowdelf.  The road's
+surface is rippled and it has been carved to make it seem like it's paved
+with cobblestones!
+~
+0 0 0
+D1
+~
+~
+0 0 2317
+D3
+~
+~
+0 0 2315
+S
+#2317
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way in the Dwarven City of Darrowdelf.  The road here is
+made of a clear, hard substance (perhaps solid diamond?).  You can see a
+gorgeous undergroun stream flowing underneath the road, and small gem
+lights in the stream give it an eerie, supernatural feeling.
+~
+0 0 0
+D1
+~
+~
+0 0 2318
+D3
+~
+~
+0 0 2316
+S
+#2318
+~
+~
+0 0 0
+The First Banquet Hall~
+You are in the First Banquet Hall.  Dozens of dwarven chefs and servants
+rush about setting places at huge, rough-hewn tables.  The Hall is a
+70-foot by 70-foot square with a vaulted ceiling.  THe walls are red, 
+streaked with black in a marble pattern.
+~
+0 0 0
+D1
+~
+~
+0 0 2319
+D3
+~
+~
+0 0 2317
+S
+#2319
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way in the Dwarven City of Darrowdelf.  You have a hard
+time walking on the slick polished surface of the road here.  The road is
+travelling high through a perfectly round opening, and the surface has been
+polished to a high sheen (and low friction).
+~
+0 0 0
+D1
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2318
+S
+#2320
+~
+~
+0 0 0
+Durin's Way~
+You are travelling down Durin's Way, in the western part of Darrowdelf.  The
+tunnel widens at some points to 30 feet, and at some points, you can only
+travel single-file.  The walls here are rough, and seem almost untouched
+compared to the other sights you've seen in Moria, so far.
+~
+0 0 0
+D1
+~
+~
+0 0 2321
+D3
+~
+~
+0 0 2319
+S
+#2321
+~
+~
+0 0 0
+Durin's Way~
+You are on Durin's Way near to the eastern entrance to Khazad-Dum.  You can
+smell fresh air nearby.  Scaffolds are set up against the walls around you,
+and dwarves are lying on them, working their stone magic on the walls of the
+tunnel, a little bit at a time.
+~
+0 0 0
+D1
+~
+~
+0 0 2322
+D3
+~
+~
+0 0 2320
+S
+#2322
+~
+~
+0 0 0
+The Hall of Trees~
+You are in the second hall of Darrowdelf.  Fourteen tree-shaped pillars
+reach up to the ceiling, over 70 feet above you, thus giving the hall it's
+nickname, "The Hall of Trees.".  The hall is about 500 feet long and
+150 wide.  To the east is a chasm with a thin bridge crossing it.
+~
+0 0 0
+D1
+~
+~
+0 0 2323
+D3
+~
+~
+0 0 2321
+S
+#2323
+~
+~
+0 0 0
+Durin's Bridge over the Unending Well~
+You are on Durin's Bridge, which spans a well which stretches far down
+into the Underdeeps.  You feel a clod wind blowing up out of the pit, 
+sending a chill up your spine.  (Just for reference, this bridge is the one
+which will be sundered in the Third age when the Wizard Gandalf the Grey
+defeats the Balrog, just before the start of the War of the Ring.)  To the
+west is the hall of trees, and steps to the east lead up to the east gate of
+Moria.
+~
+0 0 0
+D1
+~
+~
+0 0 2324
+D3
+~
+~
+0 0 2322
+S
+#2324
+~
+~
+0 0 0
+East Gate of Moria~
+You are at the East Gate of Moria (translation 'Black Pit').  Huge stone
+pillars jet up from the polished marble surface of the stairs into the side 
+of the mountain.  Huge doors open into Moria to the west, in particular,
+the Dwarven city of Darrowdelf.  Below you, you can see the Mirrormere
+and the Dimrill Dale.
+~
+0 D 0
+D3
+~
+~
+0 0 2323
+S
+#2325
+~
+~
+0 0 0
+The Path to Roin's Scar~
+You are in a small, twisty passageway which leads to Roin's Scar,
+the place where the High Warder, Roin killed his son.  You skirt around
+pits and pools in the floor, past steam vents and other hazard which
+spell DANGER for you.
+~
+0 0 0
+D0
+~
+~
+0 0 2305
+D3
+~
+~
+0 0 2326
+S
+#2326
+~
+~
+0 0 0
+The Path to Roin's Scar~
+You are in a small, twisty passageway which leads to Roin's Scar, the 
+place where the High Warder, Roin killed his son.  You find yourself at
+the lip of a ledge which leads down to another ledge directly below you.
+ 
+~
+0 A 0
+D1
+~
+~
+0 0 2325
+D5
+~
+~
+0 0 2327
+S
+#2327
+~
+~
+0 0 0
+The Path to Roin's Scar~
+You are on a small ledge on the path to Roin's Scar.  Your way to the
+east is blocked by a waterfall which gushes out of a hole in the wall.
+The ledge continues to the east, and you think you could go up to another
+ledge from here.
+~
+0 0 0
+D3
+~
+~
+0 0 2328
+D4
+~
+~
+0 0 2326
+S
+#2328
+~
+~
+0 0 0
+The Path to Roin's Scar~
+You are on a small ledge which continues to the west.  You see a small 
+pool below you with a sandy patch of ground next to it.  It is a ways down,
+but you think you could make it down.  Beautiful mosses and small cave 
+creatures dart in and out of the shadows created by your light
+~
+0 0 0
+D1
+~
+~
+0 0 2327
+D5
+~
+~
+0 0 2329
+S
+#2329
+~
+~
+0 0 0
+Roin's Scar~
+You cling to the side of a pit.  You can go up to the top, using some rocks
+as hand-holds.  You think you could get down, but you're not positive you
+could get back up.  Looking down, you can see a chest on the edge of the
+water!
+~
+0 0 0
+D4
+~
+~
+0 0 2328
+D5
+~
+~
+0 0 2330
+S
+#2330
+~
+~
+0 0 0
+Roin's Scar~
+You stand on a small patch of land where High Warder Roin killed his son in
+a fit of passion.  Rumours say his ghost still dwells here.  A beautiful pool
+lies next to you at the botton of a 40-foot waterfall which falls 
+spectacularly from the ceiling above.  You look at the side of the pit, and
+you think you could climb out.
+~
+0 0 0
+D4
+~
+~
+0 0 2329
+S
+#2331
+~
+~
+0 0 0
+The Post Office~
+You have just stepped into a not so special post office.  This is part of
+the reception, giving it protection from other hostiles like the Balrog and
+his minions.  Even though the minions have invaded, they still manage to
+get the word around.
+~
+0 0 0
+D2
+~
+~
+0 0 2306
+S
+#2332
+~
+~
+0 0 0
+First Avenue, North~
+You are on the North section of FIrst Avenue.  This section of the Dwarven
+road has bits of debris lying about on it, and what were once beautifully
+decorated walls, have now been defaced by the new occupants of this section
+of Moria.  A small pile of skulls have been stacked in neat fasion against
+the wall.  Upon closer examination, you see that the skulls are dwarven!
+~
+0 0 0
+D0
+~
+~
+0 0 2333
+D2
+~
+~
+0 0 2308
+S
+#2333
+~
+~
+0 0 0
+First Avenue, North~
+You are on the North section of First Avenue.  This section of the Dwarven
+road has bits of debris lying about on it, and what were once beautifully
+decorated walls, have now been defaced by the new occupants of this section of
+Moria. Splattered blood and bits of bone are stuck to the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 2334
+D2
+~
+~
+0 0 2332
+S
+#2334
+~
+~
+0 0 0
+First Avenue, North~
+You are on the North section of First Avenue.  This section of the Dwarven
+road has bit of debris lying about on it, and what were one beautifully
+decorated walls, have now been defaced by the new occupants of this section of
+Moria. Huge burnt score marks streak the walls, in a macabre display.
+~
+0 0 0
+D0
+~
+~
+0 0 2335
+D2
+~
+~
+0 0 2333
+S
+#2335
+~
+~
+0 0 0
+Meeting Hall of the First Deep~
+You are in a huge square chamber, about 300 feet long and wide.  Here,
+Dwarves used to meet in a muster of the city.  Large pieces of masonry have
+fallen from the ceiling, and huge chunks of pillars are missing.  Some of the
+stone pillars look like bites have been taken out of them.  You try to imagine
+the battle which took place here.
+~
+0 0 0
+D0
+~
+~
+0 0 2336
+D1
+~
+~
+0 0 2337
+D2
+~
+~
+0 0 2334
+S
+#2336
+~
+~
+0 0 0
+Northern end of First Avenue~
+You are at the northern end of First Avenue.  This section of the Dwarven road
+has bits of debris lying about on it, and what were once beautifully decorated
+walls, have now been defaced by the new occupants of this section of Moria.
+~
+0 0 0
+D0
+~
+~
+0 0 2338
+D2
+~
+~
+0 0 2335
+S
+#2337
+~
+~
+0 0 0
+Marble Way~
+You are on Marble Way, a road paved with a red marble with walls of black and
+green striped marble lining the walls.  The marble has been polished to a high
+sheen, amplifying any lights used in the area.  Some sort of special process
+was used on the marble, because it appears that the top inch or so is
+transparent. Three-dimensional figures have been worked into the stone in
+this layer, making them permanent, even under stress.  You can barely
+discern some scratch marks on the wall where some fell creature has tried to
+mark it.
+~
+0 0 0
+D1
+~
+~
+0 0 2358
+D3
+~
+~
+0 0 2335
+S
+#2338
+~
+~
+0 0 0
+Guard Quarters~
+You stand in the remains of what was once a guardhouse, situated at the
+North end of First Avenue and the western end of Ang Road.  The stone bed
+frames lie in piles of rubble, and bits and pieces of clothing and sheets are
+strewn about, creating a real mes..
+~
+0 0 0
+D1
+~
+~
+0 0 2339
+D2
+~
+~
+0 0 2336
+S
+#2339
+~
+~
+0 0 0
+Ang Road~
+You are on Ang Road, the "Iron way" of Moria.  Originally, this road was a
+mine tunnel which followed a thick deposit of Ang through the mountain.
+As the First level expanded, the dwarves straightened it out a bit and
+integrated it into the city's transportation system.  Cured wooden beams hold
+up the ceiling in a few places, where the rock structure was not strong enough
+to hold up the ceiling in the tunnel once its size was increased.  A rough
+track is worn in the road, attesting to the hundreds of mine carts pushed
+along it.
+~
+0 0 0
+D1
+~
+~
+0 0 2341
+D3
+~
+~
+0 0 2338
+S
+#2340
+~
+~
+0 0 0
+Bottom of the Endless Stair~
+You are on the bottom of the Endless Stair.  The stairway is built on a huge
+pillar of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to Durin's Bridge in all directions.  The Endless Stairs lead all the
+way up past the Silvertine up to Durin's Tower.  The base of the great pillar
+stands in the centre of the room in which you are in, nearly 200 feet in 
+diameter. The first marble step has the word 'Durin' inscribed on it.
+~
+0 0 0
+D4
+~
+~
+0 0 2357
+S
+#2341
+~
+~
+0 0 0
+Ang Road~
+You are on Ang Road, the "Iron way" of Moria.  Originally, this road was a
+mine tunnel which followed a thick deposit of Ang through the mountain.
+As the First level expanded, the dwarves straightened it out a bit and
+integrated it into the city's transportation system.  Cured wooden beams hold
+up the ceiling in a few places, where the rock structure was not strong enough
+to hold up the ceiling in the tunnel once its size was increased.  A rough
+track is worn in the road, attesting to the hundreds of mine carts pushed
+along it.
+~
+0 0 0
+D3
+~
+~
+0 0 2339
+S
+#2342
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2343
+D5
+~
+~
+0 0 2311
+S
+#2343
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+d
+~
+0 0 0
+D4
+~
+~
+0 0 2344
+D5
+~
+~
+0 0 2342
+S
+#2344
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2345
+D5
+~
+~
+0 0 2343
+S
+#2345
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2346
+D5
+~
+~
+0 0 2344
+S
+#2346
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2347
+D5
+~
+~
+0 0 2345
+S
+#2347
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2348
+D5
+~
+~
+0 0 2346
+S
+#2348
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2349
+D5
+~
+~
+0 0 2347
+S
+#2349
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2350
+D5
+~
+~
+0 0 2348
+S
+#2350
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2351
+D5
+~
+~
+0 0 2349
+S
+#2351
+~
+~
+0 0 0
+Durin's Tower~
+You are in Durin's Tower, the peak of Silvertine.  The tower looks out over
+the eastern and western Endor.  You can see the elven woods of Lothlorien
+to the southeast, the hills of Dunmen to the west, and the fields of Rohan
+to the south.  To the north, you see the mountains sometime called Redhorn.
+The Misty Mountains continue north, cutting the Middle Earth in half.
+~
+0 0 0
+D5
+~
+~
+0 0 2350
+S
+#2352
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2311
+D5
+~
+~
+0 0 2353
+S
+#2353
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2352
+D5
+~
+~
+0 0 2354
+S
+#2354
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2353
+D5
+~
+~
+0 0 2355
+S
+#2355
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2354
+D5
+~
+~
+0 0 2356
+S
+#2356
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2355
+D5
+~
+~
+0 0 2357
+S
+#2357
+~
+~
+0 0 0
+The Endless Stair~
+You are on the Endless Stair.  The stairway is built on a huge pillar
+of obsidian stretching up through Durin's Chimney.  You can see bridges
+leading to the walls of Durin's Chimney in all directions.  The endless
+stairs lead all the way up past the Seventh Level to Durin's Tower on
+top of Silvertine, and all the way down to the Seventh Deep.
+~
+0 0 0
+D4
+~
+~
+0 0 2356
+D5
+~
+~
+0 0 2340
+S
+#2358
+~
+~
+0 0 0
+Marble Way~
+You are on Marble Way, a road paved with a red marble with walls of black and
+green striped marble lining the walls.  The marble has been polished to a high
+sheen, amplifying any lights used in the area.  Some sort of special process
+was used on the marble, because it appears that the top inch or so is
+transparent. Three-dimensional figures have been worked into the stone in
+this layer, making them permanent, even under stress.  You can barely
+discern some scratch marks on the wall where some fell creature has tried to
+mark it.
+~
+0 0 0
+D1
+~
+~
+0 0 2359
+D3
+~
+~
+0 0 2337
+S
+#2359
+~
+~
+0 0 0
+Marble Way~
+You are on Marble Way, a road paved with a red marble with walls of black and
+green striped marble lining the walls.  The marble has been polished to a high
+sheen, amplifying any lights used in the area.  Some sort of special process
+was used on the marble, because it appears that the top inch or so is
+transparent. Three-dimensional figures have been worked into the stone in
+this layer, making them permanent, even under stress.  You can barely
+discern some scratch marks on the wall where some fell creature has tried to
+mark it.
+~
+0 0 0
+D1
+~
+~
+0 0 2360
+D3
+~
+~
+0 0 2358
+S
+#2360
+~
+~
+0 0 0
+Bell Hall~
+You are in one of the many Bell chambers in Moria.  The room is shaped in such
+a way as to amplify noises madei n it.  The bell-shaped chamber is several
+stories high, and bells of different sizes hang up by the ceiling.  The floor
+beneath you in hollow with baffles below it, so thatit acts like a large 
+speaker which broadcasts sund throughout the mountain.  Dwarvens could use the
+bells in the chamber to 'talk' to the denizens of Moria.
+~
+0 0 0
+D1
+~
+~
+0 0 2361
+D3
+~
+~
+0 0 2359
+S
+#2361
+~
+~
+0 0 0
+Marble Way~
+You are on Marble Way, a road paved with red marble with walls of black and
+green striped marble lining the walls.  The marble has been polished to a high
+sheen, amplifying any lights used in the area.  Some sort of special process
+was used on the marble, because it appears that the top inch or so is 
+transparent. Three-dimensional figures have been worked into the stone in
+this layer, making them permanent, even under stress.  The figures here depict
+a great battle between Dwarvens and Orcish types in an underground tunnel.
+~
+0 0 0
+D1
+~
+~
+0 0 2362
+D3
+~
+~
+0 0 2360
+S
+#2362
+~
+~
+0 0 0
+Marble Way~
+You are on Marble Way, a road paved with red marble with walls of black and
+green striped marble lining the walls.  The marble has been polished to a high
+sheen, amplifying any lights used in the area.  Some sort of special process
+was used on the marble, because it appears that the top inch or so is 
+transparent. Three-dimensional figures have been worked into the stone in
+this layer, making them permanent, even under stress.  The figures here depict
+a great battle between Dwarvens and Orcish types in an underground tunnel.
+Figures on the wall show elves bringing gifts to the dwarves from Lothlorien.
+~
+0 0 0
+D1
+~
+~
+0 0 2363
+D3
+~
+~
+0 0 2361
+S
+#2363
+~
+~
+0 0 0
+Burgin's Smithery~
+You are in Burgin's Smithy, where Burgin, the Topaz master makes Topaz
+jewelry. Bits of the precious stone lie about, discarded in Burgin's work.  A
+small forge stands against one wall, to smelt small amounts of precious metals
+for use in the jewelry.
+~
+0 0 0
+D1
+~
+~
+0 0 2364
+D3
+~
+~
+0 0 2362
+S
+#2364
+~
+~
+0 0 0
+Marble Way~
+You are on Marble Way, a road paved with a red marble with walls of black and
+green striped marble lining the walls.  The marble has been polished to a high
+sheen, amplifying any lights used in the area.  Some sort of special process
+was used on the marble, because it appears that the top inch or so is
+transparent. Three-dimensional figures have been worked into the stone in
+this layer, making them permanent, even under stress.  You can barely
+discern some scratch marks on the wall where some fell creature has tried to
+mark it.
+The road widens to the west, where there seems to be some kind of chamber.
+~
+0 0 0
+D1
+~
+~
+0 0 2365
+D3
+~
+~
+0 0 2363
+S
+#2365
+~
+~
+0 0 0
+Bell Hall~
+You are in one of the many Bell chambers in Moria.  The room is shaped in such
+a way as to amplify noises madei n it.  The bell-shaped chamber is several
+stories high, and bells of different sizes hang up by the ceiling.  The floor
+beneath you in hollow with baffles below it, so thatit acts like a large 
+speaker which broadcasts sund throughout the mountain.  Dwarvens could use the
+bells in the chamber to 'talk' to the denizens of Moria.
+~
+0 0 0
+D1
+~
+~
+0 0 2370
+D3
+~
+~
+0 0 2364
+S
+#2366
+~
+~
+0 0 0
+Mid-air~
+Well that was smooth!  You just fell off Durin's Bridge and begin to pummel
+thousands of feet down into darkness!  After bouncing down hundreds of shafts
+you land `bSMACK `lon the ground and rest in pieces in the `aUn`hd`oerd`he`aeps.
+ 
+~
+0 0 0
+D2
+~
+~
+0 0 2310
+S
+#2367
+~
+~
+0 0 0
+Mid-air~
+Well that was smooth!  You just fell off Durin's Bridge and begin to pummel
+thousands of feet down into darkness!  After bouncing down hundreds of shafts
+you land `bSMACK `lon the ground and rest in pieces in the `aUn`hd`oerd`he`aeps.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 2310
+S
+#2368
+~
+~
+0 0 0
+~
+~
+0 C 0
+S
+#2369
+~
+~
+0 0 0
+~
+~
+0 C 0
+S
+#2370
+~
+~
+0 0 0
+Guard Quarters~
+You are in the north easternmost of Darrowdelf's guard quarters.  Here is
+where the guards muster to prepare for the city's defense.  The guard's
+numbers have dwindled since the ascension of the Balrog, but they have
+sworn to defend their city to the death.
+~
+0 0 0
+D2
+~
+~
+0 0 2371
+D3
+~
+~
+0 0 2365
+S
+#2371
+~
+~
+0 0 0
+Warder's Road~
+You are on a fairly new road which connects the guard-rooms at the northeast
+and southeast corners of the first deep.  Not much work has been completed on
+the rad to make it a work of art.  The walls are rough-hewn stone, and are
+not very straight.  From the looks of it, you think some mining might have
+been done here.
+~
+0 0 0
+D0
+~
+~
+0 0 2370
+D2
+~
+~
+0 0 2372
+S
+#2372
+~
+~
+0 0 0
+Warder's Road~
+You are on a fairly new road which connects the guard-rooms at the northeast
+and southeast corners of the first deep.  Not much work has been completed on
+the rad to make it a work of art.  The walls are rough-hewn stone, and are
+not very straight.  From the looks of it, you think some mining might have
+been done here.
+~
+0 0 0
+D0
+~
+~
+0 0 2371
+D2
+~
+~
+0 0 2373
+S
+#2373
+~
+~
+0 0 0
+Warder's Road~
+You are on a fairly new road which connects the guard-rooms at the northeast
+and southeast corners of the first deep.  Not much work has been completed on
+the rad to make it a work of art.  The walls are rough-hewn stone, and are
+not very straight.  From the looks of it, you think some mining might have
+been done here.
+~
+0 0 0
+D0
+~
+~
+0 0 2372
+D2
+~
+~
+0 0 2374
+S
+#2374
+~
+~
+0 0 0
+Durin's Way~
+You are travelling down Durin's Way, in the western part of Darrowdelf.  The
+tunnel widens at some points to 30', and at some points, you can only travel
+single-file. The walls here are rough, and seem almost untouched compared
+to the other sights you've seen in Moria, so far.
+~
+0 0 0
+D0
+~
+~
+0 0 2373
+D1
+~
+~
+0 0 2376
+D2
+~
+~
+0 0 2377
+D3
+~
+~
+0 0 2375
+S
+#2375
+~
+~
+0 0 0
+Soon to be a real room..~
+~
+0 0 0
+D1
+~
+~
+0 0 2374
+S
+#2376
+~
+~
+0 0 0
+Soon to be a real room..~
+~
+0 0 0
+D3
+~
+~
+0 0 2374
+S
+#2377
+~
+~
+0 0 0
+Warder's Road~
+You are on a fairly new road which connects the guard-rooms at the northeast
+and southeast corners of the first deep.  Not much work has been completed on
+the rad to make it a work of art.  The walls are rough-hewn stone, and are
+not very straight.  From the looks of it, you think some mining might have
+been done here.
+~
+0 0 0
+D0
+~
+~
+0 0 2374
+D2
+~
+~
+0 0 2378
+S
+#2378
+~
+~
+0 0 0
+Warder's Road~
+You are on a fairly new road which connects the guard-rooms at the northeast
+and southeast corners of the first deep.  Not much work has been completed on
+the rad to make it a work of art.  The walls are rough-hewn stone, and are
+not very straight.  From the looks of it, you think some mining might have
+been done here.
+~
+0 0 0
+D0
+~
+~
+0 0 2377
+D2
+~
+~
+0 0 2379
+S
+#2379
+~
+~
+0 0 0
+Warder's Road~
+You are on a fairly new road which connects the guard-rooms at the northeast
+and southeast corners of the first deep.  Not much work has been completed on
+the rad to make it a work of art.  The walls are rough-hewn stone, and are
+not very straight.  From the looks of it, you think some mining might have
+been done here.
+~
+0 0 0
+D0
+~
+~
+0 0 2378
+D2
+~
+~
+0 0 2380
+S
+#2380
+~
+~
+0 0 0
+Guard Quarters~
+You are in the north easternmost of Darrowdelf's guard quarters.  Here is
+where the guards muster to prepare for the city's defense.  The guard's
+numbers have dwindled since the ascension of the Balrog, but they have
+sworn to defend their city to the death.
+~
+0 0 0
+D0
+~
+~
+0 0 2379
+S
+#0
+
+#RESETS
+O 0 2303   0 2327 -1	* A wooden desk at The Path to Roin's Scar
+O 0 2303   0 2327 -1	* A wooden desk at The Path to Roin's Scar
+O 0 2304   0 2330 -1	* A waterfall at Roin's Scar
+O 0 2300   0 2330 -1	* An iron-bound chest at Roin's Scar
+O 0 2303   0 2331 -1	* A wooden desk at The Post Office
+O 0 2302   0 2306 -1	* The atm at Inn Chambers
+O 0 2304   0 2327 -1	* A waterfall at The Path to Roin's Scar
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

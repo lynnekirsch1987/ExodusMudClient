@@ -1,0 +1,35 @@
+* script: brielle.scr
+* Brielle, the glass blower (4047)
+
+#TRIGGER tick
+Type 3
+Sc
+if (%timer% < 1)
+  cmd at 1 drop all.vial
+  cmd at 1 purge
+  cmd yell I just finished making a new set of vials and they are now on sale!
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  cmd at 1 load obj 4106
+  let %timer% == 80
+  halt once~
+Sc
+  let %timer% -= 1
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %timer% == 10
+  halt once~
+End
+
+#END

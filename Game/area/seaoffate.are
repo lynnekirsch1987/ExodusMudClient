@@ -1,0 +1,5669 @@
+#AREA
+ 6~
+seaoffate.are~
+`lSea of Fate``~
+{15 50} Luna  `lSea of Fate``~
+~
+22000 22200
+11 F 0
+0 0
+ragnar~
+#MOBILES
+#22000
+turtle~
+A large leatherback turtle~
+A leatherback turtle basks here in the wet sand, its eyes droopy and closed.
+~
+This is the largest turtle you have ever seen. More than 4 feet in length,
+he belongs to a species of giant turtles whose lifespans last for more than
+200 years.  His shell is an amazing motley of patterns and colors.
+He seems to have been laying here for years.  He certainly doesnt seem to
+notice your presence.
+~
+unique~
+0 0 0 0
+AB Jbcde 0 0
+19 19 20d10+500 20d20+100 2d5+10 thrust
+-2 -2 -2 999 2
+0 -1 0 PR FM C
+rest rest male 0
+AHMVa ABCDEFGHIJK 10 10 10 10 10 10 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#22001
+monkey ~
+The spider monkey~
+A long tailed spider monkey screeches at you as he scavenges for food.
+~
+This small monkey has a rather long tail that he flicks back and forth
+in annoyance that you have disrupted his food scavenging.  As you look at
+him, he chatters to his family members who quickly scamper away.  Peering
+right back at you, you could swear he smirked at you.
+~
+human~
+0 0 0 0
+ACGN JVc 300 1
+17 17 7d25+260 4d50+40 2d10+7 beating
+2 2 2 999 2
+0 -1 MU R 0 MP
+stand stand either 20
+AHMV ABCDEFGHIJKQa 9 9 9 9 9 9 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#22002
+falatu~
+The falatu~
+A squat grey beast drinks from the dirt ditch.
+~
+This beast is a strange combination of elephant and donkey.  Though it
+has short thick tusks and grey skin, it is smaller than the cumbersome 
+elephant.  The falatu pays no attention to your arrival, and continues
+to slurp loudly from the ditch that serves both as trough and as mudbath.
+~
+bear~
+0 0 0 0
+ABGHT Y 400 2
+25 25 10d50+350 10d40+30 2d4+9 charge
+-3 -3 -3 999 0
+0 -1 CDEOU 0 EI DFR
+stand stand either 50
+AGHMV ABCDEFGHIJKQUVYa 11 11 11 11 11 11 30306
+large flesh~
+0 0 0 25
+0
+~
+~
+#22003
+flanulia bird~
+A long necked flanulia~
+A tall pale colored bird ruffles its wings in fright.
+~
+The bird is extraordinary in its long elegant neck and legs.  It stands
+nearly to your shoulder, and for its encumberance, doesn't seem as if it
+can fly too well.  It looks startled at your arrival, most likely wary
+for the jungle predators that have preyed on its kin.
+~
+song bird~
+0 0 0 0
+AGH JTc 600 3
+20 20 4d20+300 5d10+340 2d4+8 peck
+0 0 0 999 5
+0 -1 FH 0 0 H
+stand stand either 10
+AGHMVW ABCDEFGHIJKPZa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#22004
+hummingbird bird~
+a red-throated hummingbird~
+A `bred-throated hummingbird`f flits across the surface of the pool.``
+~
+The red throated hummingbird moves so quickly and frenetically that you
+can barely follow the movement of its wings.  It dips low over the surface
+of the water, and rises back up again with amazing speed.
+~
+song bird~
+0 0 0 0
+ABG JTV 900 4
+13 13 2d10+200 2d10+50 2d4+4 peck
+4 4 4 999 7
+0 -1 FHU 0 0 0
+stand stand female 0
+AGHMVW ABCDEFGHIJKPZa 8 8 8 8 8 8 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#22005
+parrot~
+A colorful parrot~
+A multi `oc`ko`jl`no`mr`ie`nd`f parrot sings merrily from the trees.
+~
+The parrot is a beautiful bird, its multicolored feathers shimmering in the
+sunlight.  Its big curved beak caws madly in song.
+~
+song bird~
+0 0 0 0
+AB JTc 500 5
+20 20 8d40+340 5d30+30 2d7+10 peck
+0 0 0 999 4
+0 -1 FH 0 Z B
+stand stand either 6
+AGW ACDEFHKPZa 10 10 10 10 10 10 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#22006
+macaw~
+A golden macaw~
+A golden macaw with a black beak sits on the lower branches of a tree.
+~
+The macaw peers back at you quizically, with a mischievious twinkle in her 
+eye.  She sits here silently, watching your actions.
+~
+song bird~
+0 0 0 0
+AG JT 300 6
+22 22 8d40+325 2d50+40 2d5+8 peck
+0 0 0 999 3
+0 -1 FH 0 R B
+stand stand female 0
+AGW ACDEFHKPZa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#22007
+snake anaconda~
+An anaconda~
+A thick twelve foot long snake lays curved along the bank of the river.
+~
+The anaconda looks like it could crush you easily with its powerful 
+torso muscles.  Its an enormous 12 feet in length, and almost larger than
+you in width.  Its tongue flickers at you menacingly.  Good thing you move
+much faster than it does.
+ 
+~
+snake~
+0 0 0 0
+ABE JOPZ -800 7
+30 30 2d200+1200 10d10+240 2d10+10 crush
+-7 -7 -7 999 1
+0 -1 O ILP BIL HIJ
+stand stand none 0
+AGHMVXYc ADEFKLQVXa 12 12 12 12 12 12 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#22008
+belon tiger cat~
+A Belon Tiger~
+A massive black striped tiger lays here on a bed of leaves.
+~
+You face one of the most extraordinary hunters that has ever existed.
+With its massive muscular body and keen sense of perception, 
+the Belon tiger easily claims right to King of the Jungle.  He snarls
+at you angrily for you dare to intrude upon his private lair.
+~
+cat~
+0 0 0 0
+ABFM FJPVZac -600 8
+36 36 2d100+1600 10d40+200 2d10+25 slash
+-9 -9 -9 999 2
+0 -1 DFH BP AJX 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQUVa 13 13 13 13 13 13 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#22009
+hyena large male~
+A male hyena~
+A large male hyena pounces on you angrily as you disturb his lair.
+~
+This hyena is obviously very displeased with your disturbing his lair.
+Out of his snarling mouth drips foam, and several broken teeth protrude
+angrily.  His eyes possess a magnitude of madness, and he seems resolute
+in defending his kin to the death.
+~
+dog~
+0 0 0 0
+ABFM JPV -1000 9
+34 34 12d70+600 1d10+120 1d10+15 slash
+-7 -7 -7 999 2
+0 -1 H 0 Y H
+stand stand male 0
+AGHMV ABCDEFGHIJKQUVa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#22010
+female hyena~
+a female hyena~
+A hyena rests guardedly over her young cubs.
+~
+This female hyena is smaller than her mate, yet her eyes still bear
+resemblance to his madness. She rests on her haunches, guarding her young
+cubs from your rude disruption.
+~
+dog~
+0 0 0 0
+ABH FJc -1000 9
+32 32 10d10+800 2d50+50 1d10+8 slash
+-5 -5 -5 999 3
+0 -1 HR 0 Y H
+stand stand female 0
+AGHMV ABCDEFGHIJKQUVa 12 12 12 12 12 12 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#22011
+cub hyena~
+a hyena cub~
+A hyena cub rests comfortably on a bed of leaves.
+~
+The hyena cub looks so cute and cuddly.  Its fur is a bit matted with dirt,
+and it licks its leg eagerly, not minding your presence.
+~
+dog~
+0 0 0 0
+ABH J 0 9
+20 20 5d30+230 1d1+100 1d5+8 pound
+0 0 0 999 5
+0 -1 H 0 0 H
+rest rest either 0
+AGHMV ABCDEFGHIJKMQUVa 10 10 10 10 10 10 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#22012
+cockatoo~
+a ruby tailed cockatoo~
+`iA ruby tailed cockatoo pecks at some berries.``
+~
+This cockatoo is gorgeous in its plumage of rich ruby red and subtle
+violet.  It merrily pecks aways at some ripe berries.
+~
+song bird~
+0 0 0 0
+ACG JT 600 12
+16 16 5d30+200 1d1+100 1d5+5 peck
+1 1 1 999 6
+0 -1 FH 0 0 B
+stand stand either 0
+AGW ACDEFHKPQZa 9 9 9 9 9 9 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#22013
+mouse kanga~
+a kanga mouse~
+A small furry rodent scurries in the bushes here.
+~
+It's amazing you even noticed the mouse.  It's so small and inconspicuous,
+it's one of the only creatures of the jungle that can escape its predators
+by merely blending into its surroundings.  
+~
+fido~
+0 0 0 0
+ACGS JPQ 700 13
+8 8 4d10+80 4d10+80 1d2+3 pound
+8 8 8 999 9
+0 -1 FR 0 0 BC
+stand stand neutral 0
+ABGV ACDEFHJKQVa 7 7 7 7 7 7 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#22014
+okapi~
+an okapi~
+A large awkward beast with black body and white markings grazes in the grass.
+~
+This beast stands about six feet tall, its body ungainly and cumbersome.
+Its leathery black body bears white markings around its face and on its legs.
+Its tail flickers flies from its behind, and its droopy ears make it look
+fairly dopey.  It grazes at the grass beneath its cloven feet.
+~
+bear~
+0 0 0 0
+AG J 200 14
+30 30 10d61+500 1d10+100 5d6+15 charge
+-7 -6 -7 999 2
+0 -1 DEO 0 EI O
+stand stand either 0
+AGV ABCDEFHJKUVa 12 12 12 12 12 12 0
+large flesh~
+0 0 0 100
+0
+~
+~
+#22015
+mandrill ape~
+The mandrill~
+A blue faced ape with unkempt hair squats here in the dirt.
+~
+The mandrill is a second cousin to the baboon.  Its fur is marked with
+distinct orange, and its countenance is blue.  Its legs are stubby, and
+it moves around the jungle with its powerful arms.  It squats here in the dirt
+looking for some grub.
+~
+human~
+0 0 0 0
+ACGS JZa -100 15
+34 34 10d61+475 1d10+100 5d6+14 charge
+-8 -8 -8 999 0
+0 -1 DEO 0 I 0
+sit sit neutral 0
+AGHMV ABCDEFGHIJKUVa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#22016
+alligator~
+The alligator~
+An alligator crawls up the bank of the river, tail trailing in the sand.
+~
+The alligator stares back at you with beady eyes.  It opens its snout
+to snarl at you and you see several rows of razor sharp teeth.  Water
+glistens from its scaly back, and it crawls menacingly towards you.
+~
+lizard~
+0 0 0 0
+AG Jbe -500 0
+35 35 10d50+1200 1d10+100 2d5+17 bite
+-9 -9 -9 999 1
+0 -1 M 0 L I
+rest rest none 0
+AGXc ACDEFHKQVa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#22017
+bee-eater bird~
+a bee-eater~
+A tiny bird of brilliant yellow body and pale green head pecks at some insects.
+~
+The bee-eater is a colorfully plumaged bird that thrives on insects.
+Its tiny, pointy black beak is perfect adapted for plucking insects
+from their small hiding spots.  Its tail bobs up and down as it examines
+the secret folds of the bark of a tree.
+~
+song bird~
+0 0 0 0
+AG JT 240 17
+5 5 1d17+45 5d10+100 1d1+1 pierce
+7 7 7 999 8
+0 -1 FH 0 0 0
+stand stand neutral 0
+AGW ACDEFHKPZa 7 7 7 7 7 7 0
+tiny flesh~
+0 0 0 100
+0
+~
+~
+#22021
+DeadRegen~
+`bThe `nSoul `hof Regen``~
+`aA pathetic memory of an avatar walks around.``
+~
+My name is regen and i am a lamer and i hide. And i am scared of big ole Twymm.
+~
+human~
+0 0 0 0
+ABF Se 0 0
+1 1 100d1+23 1d1+1 0d0+0 scratch
+0 0 0 999 0
+0 -1 0 BRa 0 E
+stand stand male 1
+AHMV ABCDEFGHIJKa 6 6 6 6 6 6 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#22022
+eliza siren~
+Eliza~
+`cA beautiful young Siren is quietly humming her song of seduction.``
+~
+`cEliza is wearing a see-through gown which reveals her marvelously``
+`ccurvaceous form. Her long hair seems to float on the ocean breeze.``
+`cLooking into her eyes might be fatal, unless you have the strength``
+`cto overcome her charms.``
+~
+human~
+0 0 0 0
+ABc DFHe 0 0
+40 40 2d100+800 2d100+600 2d10+25 magic
+-2 -2 -2 999 -5
+0 -1 EF ABIPRT HQ CDE
+stand stand female 500
+AHMV ABCDEFGHIJKa 14 14 14 14 14 14 0
+medium flesh~
+0 0 0 100
+4
+eliza.voc~
+~
+#22104
+snail~
+A snail~
+A sleek snail slithers slowly by.
+~
+~
+unique~
+0 0 0 0
+AG 0 0 0
+1 1 1d2+4 0d0+0 1d1+1 digestion
+10 10 10 999 14
+0 -1 0 0 0 0
+stand stand none 0
+0 F 6 6 6 6 6 6 0
+small shell~
+0 0 0 100
+0
+~
+~
+#22105
+hydra body~
+`cthe Hydra``~
+`cA giant Hydra stands before you, its heads poised to attack.``
+~
+~
+snake~
+0 0 0 0
+ABFNTYd EZce -500 22105
+90 90 50d150+7500 1d1+9999 10d25+50 crush
+-50 -50 -50 999 -50
+0 -1 ADFHIMO ABEa L FINS
+stand stand none 50000
+AGXYc ADEFKLQVXa 24 24 24 24 24 24 30293
+giant oldstyle~
+0 0 0 100
+2
+~
+hydra.scr~
+#22106
+fire head~
+`kthe fire-breathing head``~
+`kOne of the Hydra's heads is breathing fire.``
+~
+~
+snake~
+0 0 0 0
+ABFNTY DEFZce -500 22105
+70 90 25d150+4000 1d1+9999 10d15+10 flbite
+-30 -30 -30 999 -30
+0 -1 ADFHI ABEHa L FINS
+stand stand none 0
+AGXYc ADEFKLQVXa 20 20 20 20 20 20 30294
+giant oldstyle~
+0 0 0 100
+2
+~
+~
+#22107
+frost head~
+`hthe frost-breathing head``~
+`hOne of the Hydra's heads is breathing frost.``
+~
+~
+snake~
+0 0 0 0
+ABFNTY DEFZce -500 22105
+60 60 50d100+3000 1d1+9999 10d10+10 frbite
+-25 -25 -25 999 -25
+0 -1 ADFHO ABEIa L FHINS
+stand stand none 0
+AGXYc ADEFKLQVXa 18 18 18 18 18 18 30295
+giant oldstyle~
+0 0 0 100
+2
+~
+~
+#22108
+acid head~
+`athe acid-breathing head``~
+`aOne of the Hydra's heads is breathing acid.``
+~
+~
+snake~
+0 0 0 0
+ABFNTY DEFZce -500 22105
+65 90 30d150+4000 1d1+9999 10d15+10 acbite
+-25 -25 -25 999 -25
+0 -1 ADFHO ABEKac L FINS
+stand stand none 50000
+AGXYc ADEFKLQVXa 19 19 19 19 19 19 30296
+giant oldstyle~
+0 0 0 100
+2
+~
+~
+#22109
+lightning head~
+`othe lightning-breathing head``~
+`oOne of the Hydra's heads is breathing lightning.``
+~
+~
+snake~
+0 0 0 0
+ABFNTY DEFZce -500 22105
+70 90 25d150+4000 1d1+9999 10d15+10 shbite
+-30 -30 -30 999 -30
+0 -1 ADFHO ABEJac L FINS
+stand stand none 0
+AGXYc ADEFKLQVXa 20 20 20 20 20 20 30297
+giant oldstyle~
+0 0 0 100
+2
+~
+~
+#0
+
+#OBJECTS
+#22000
+shell seashell~
+`hA Coral Seashell``~
+A cracked coral seashell lays half buried in the sand.~
+shell~
+0
+trash 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 5 1 A
+#22001
+pineapple~
+`kA Pineapple``~
+`hA medium sized `kpineapple `hhas fallen to the ground.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B BD BC 0 0
+0
+0
+6 15 0 G
+#22002
+coconut~
+`hA Coconut``~
+`hA coconut has fallen from the trees here.``~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B BD ABC 0 0
+0
+0
+6 10 0 A
+#22003
+pool~
+the clear pool~
+`lA clear pool lies before you, sheltered by the overhanging foliage.``~
+liquid~
+0
+fountain 2
+ORS
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#22004
+orange nelin blossom~
+an orange nelin blossom~
+An orange nelin blossom lays on the ground.~
+feather~
+0
+jewelry 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 5 30 P
+A
+18 1
+#22005
+paw tiger~
+`dT`ai`dg`ae`dr`a'`ds `aP`da`aw``~
+`dThe sharp clawed paw of a tiger lays here.``~
+bone~
+0
+weapon 2
+EHJLMS
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 AC ABC AC D
+0
+0
+35 50 5309 P
+A
+18 2
+A
+19 4
+A
+13 10
+#22006
+log tree~
+a log~
+An enormous half rotted tree has fallen to the ground here.~
+wood~
+0
+furniture 2
+ORST
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC EFHK BEHN CDEF CDEF
+0
+0
+30 9000 1 P
+#22007
+carcass deer meat~
+carcass of a deer~
+Flies congregate on the half-eaten carcass of a deer.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DE DE B 0 0
+0
+0
+20 250 0 W
+#22008
+bones bone~
+some bones~
+Some broken bones lay scattered in the dirt.~
+bone~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 70 0 P
+#22009
+pool water~
+a refreshing pool~
+~
+liquid~
+0
+portal 2
+ORST
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+Peeling off your clothes, you dive into a refreshing pool.~
+$n exuberantly dives into the pool beneath the waterfall.~
+~
+-1 K 0 BCDFJKMO A
+0
+0
+40 1000 0 P
+#22010
+pool pools ~
+the pool~
+~
+liquid~
+0
+portal 2
+ORST
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 K A BDEJKMO B
+0
+0
+40 1000 0 P
+#22011
+lily flower stargazer~
+`ma stargazer lily``~
+`mA beautiful stargazer lily floats in the water.``~
+feather~
+0
+treasure 2
+IS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 10 90 P
+A
+24 -3
+A
+12 10
+#22012
+nut acorn~
+an acorn~
+A half chewed acorn lays discarded on the ground.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 AC 0 0 0
+0
+0
+2 10 0 A
+#22013
+roots~
+the roots of an alatian tree~
+Gnarly withered roots protrude from the base of the alatian trees.~
+wood~
+0
+furniture 2
+ORST
+0
+P
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BC DFIJN BDGN BCEH BCEH
+0
+0
+40 9000 0 P
+E
+roots~
+It is told in the legends of the island people that the alatian tree has
+a magical recuperative power.  The sick and wounded often journey for days
+to reach the tree in the hopes that resting or sleeping upon its roots and
+branches can cure them of their ailments.  Scholars discard these stories as
+superstition, but the natives swear by it.  Perhaps you should judge for
+yourself.  
+~
+#22014
+sand dollar~
+a sand dollar~
+A small round flat object with geometric spirals lays on the beach.~
+shell~
+0
+treasure 2
+S
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+15 50 240 G
+#22015
+shell spiral~
+`oan opaque spiral shaped shell``~
+`oAn opaque shell in the shape of a spiral lays washed up on the beach.``~
+shell~
+0
+trash 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+4 5 0 A
+#22016
+rubber duck ducky~
+`ka rubber ducky``~
+`kA dented yellow rubber duck lies here.``~
+rubber~
+0
+trash 2
+Sa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+5 3 15 W
+#22017
+transcendent light~
+a transcendent light~
+`oA luminous, transcendent light shines into this clearing, giving it an ethereal aura.``~
+ethereal~
+0
+portal 2
+RS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 0 CDIJ A
+0
+0
+0 0 0 P
+#22022
+sea-foam robe~
+`ga `es`he`ea`h-`ef`ho`ea`hm `grobe``~
+`cA gown made from the ocean's `ef`ho`ea`hm `chums a tidal melody in your ear.``~
+liquid~
+0
+clothing 2
+MUZ
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 1 750 P
+A
+12 50
+A
+26 1
+#22023
+holy boots defender +paladin~
+`oholy boots of the Defender``~
+`oA pair of platinum boots sparkle in a holy light.``~
+platinum~
+0
+armor 2
+ATY
+0
+AG
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CD CD CD ABD 0
+0
+0
+60 100 29380 P
+A
+19 2
+A
+1 1
+A
+12 25
+A
+13 25
+A
+18 4
+#22024
+holy breastplate defender +paladin~
+`oholy breastplate of the Defender``~
+`oA breastplate glows with a holy aura.``~
+mithril~
+0
+armor 2
+AITY
+0
+AD
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CE CE CE CE 0
+0
+0
+90 350 0 P
+A
+24 -5
+A
+13 50
+A
+12 50
+A
+18 5
+A
+19 5
+#22025
+holy wand mithril defender +paladin~
+`oa mithril wand``~
+`oA holy wand made of mithril lies here.``~
+mithril~
+0
+wand 2
+AITY
+0
+AO
+H
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG AB AB ABEH 'reserved'
+0
+0
+90 25 0 P
+A
+12 50
+A
+13 50
+A
+18 8
+A
+19 8
+#22026
+cave~
+the sea cave~
+A seaside cave has been sealed to keep someone out...or in.~
+stone~
+0
+portal 2
+ORS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n wanders into the cave.~
+You walk into the sea cave.~
+~
+~
+-1 ABC G BCEFGJKMO A
+0
+0
+0 0 0 P
+#22027
+ladder `kDenarra's`iPortal``~
+a sturdy rope ladder~
+A sturdy silk rope ladder leads upward to a large bamboo dwelling in the trees.~
+wood~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The ladder sways slightly as $n climbs slowly upward toward the tree-house.~
+The ladder sways slightly as you climb slowly upward toward the treehouse.~
+$n climbs into the room from a hole in the tree-house floor.~
+You manage to reach the top of the ladder without falling, and pull yourself into the tree-house.~
+-1 0 G ABCDEHJNO C
+0
+0
+10 0 0 P
+#22028
+dragon skull~
+`hthe skull of a dragon``~
+The skull of a dragon stares at you lifelessly.~
+bone~
+0
+treasure 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 50 0 P
+#22029
+simple raft~
+a simple raft~
+A simple raft has washed up on shore.  Where could it have come from and who built it?~
+wood~
+0
+raft 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A CEFGHI F GHQR 0
+0
+0
+10 1000 0 P
+#22030
+pair silver bell earrings~
+`oa pair of silver bell earrings``~
+`oTwo small silver bells lie here.``~
+silver~
+0
+jewelry 2
+0
+JL
+AY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 0 500 P
+A
+12 3
+#0
+
+#ROOMS
+#22000
+0 0
+~
+~
+~
+0 0 0
+Sloping Inlet~
+The sea ahead of you shimmers a beautiful azure, and it ends only to meet 
+the pale, cloud-streaked sky above.  The sand beneath you indents around
+your soles.  You have heard of this vast sea from your youth, in hushed tones 
+as old fishermen murmured tales of great treasures in a land far across the 
+water.  As your eyes scan the horizon ahead, you are silenced in awe of 
+the sheer magnitude of the swaying landscape before you. You have never 
+traversed anything as large or formidable as the journey that lays before you.
+~
+0 C 2
+0
+~
+I 0 D1
+~
+~
+0 0 13105
+D2
+~
+~
+0 0 25474
+D3
+~
+~
+0 0 22001
+S
+#22001
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The sound of civilized hubub behind you fades into the murmur of the crashing
+waves.  All around you the water coaxes a gentle lullaby. The white capped 
+crests catch precious light and glint crystals in your eye.  Seagulls glide 
+low over the water, occasionally swooping down for fish underneath. The water
+is still a bit shallow here, and you can see through the clear aquamarine to
+the brown rocky bottom below.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22081
+D1
+~
+~
+0 0 22000
+D2
+~
+~
+0 0 22082
+D3
+~
+~
+0 0 22006
+S
+#22002
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22089
+D1
+~
+~
+0 0 22006
+D2
+~
+~
+0 0 22093
+D3
+~
+~
+0 0 22011
+S
+#22003
+0 0
+~
+~
+~
+0 0 0
+The Northern Shore~
+To the south, land arises to break the monotony of the sapphire sea.  The
+land is lush with the growth of a colorful vibrant jungle.  The choppy waves
+deter you from attempting to approach the island here, lest you get smashed
+against the rocks in the shallows.  To the southwest however, you see a
+small cove by which you could most likely approach the island.  
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22111
+D1
+~
+~
+0 0 22104
+D3
+~
+~
+0 0 22004
+S
+#22004
+0 0
+~
+~
+~
+0 0 0
+The Northern Shore~
+You are travelling on the sea against the north shore of a virgin island.
+From this distance, you can't spot any life or movement through the dense
+jungle.  Nearby to the west is a cove that leads into the peaceful shallows.
+Perhaps from there, you can make a landing and explore the jungle.  
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 22110
+D1
+~
+~
+0 0 22003
+D3
+~
+~
+0 0 22007
+S
+#22005
+0 0
+~
+~
+~
+0 0 0
+The Eastern Shore~
+The water ripples in the most extraordinary sapphire here, streaked with
+crystal crests from brilliant rays of light.  Pelicans and seagulls are
+abundant, plunging headfirst into the sea for their food.  To the west, the
+tide is swallowed in by an island, several miles across, resplendent with
+thriving life.  The island is unapproachable from this side, as gigantic
+white cliffs, girded against the sky, prevent a landing on the coast.  
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 22097
+D1
+~
+~
+0 0 22089
+D2
+~
+~
+0 0 22011
+S
+#22006
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The water gets darker as you continue to travel into the heart of a sea
+uncharted.  The waves murmur quiet songs, rendering you tranquil and content
+to bask in the scarce solitude of the wide open sea. The waves reflect light
+so purely that the whole landscape before you sparkles with crystals. 
+Behind you, you can see the diminishing constructs of the city.  All around 
+you lays nothing but serenity.  In fact, the only movement for miles is the 
+still rocking of the ocean and an occasional sea bird hunting for food.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22083
+D1
+~
+~
+0 0 22001
+D2
+~
+~
+0 0 22086
+D3
+~
+~
+0 0 22002
+S
+#22007
+0 0
+~
+~
+~
+0 0 0
+Along the North Shore~
+You feel relieved as you spot land not far to the south.  Large granite rocks
+rise stoicly from the depths of the sea.  The usual murmur of rippled waves
+is broken by the sound of carefree frolicking.  The rocks themselves are
+splashed with bits of lime green and lavender where moss and lichen have taken
+hold.  The rocks to the south are the only obstructions to the perfect blue
+expanse surrounding you. 
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22109
+D1
+~
+~
+0 0 22004
+S
+#22008
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22107
+D3
+~
+~
+0 0 22106
+S
+#22009
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Weary for having travelled so long upon the sea, you search the horizon
+hungrily for any sign of land.  Though you are unsure of your exhausted
+eyes, you think that might be land to your northwest.  
+~
+0 N 7
+0
+~
+I 0 D1
+~
+~
+0 0 22100
+D2
+~
+~
+0 0 22116
+D3
+~
+~
+0 0 22013
+S
+#22010
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the
+horizon has maintained its neverending parallel of sky and sea. 
+Civilization, so far distant in its complacency, is starkly incongruous with
+the exhilirating liberty of the wide open sky, being free from the
+constraints of inertia.  The clouds roll lazily overhead, as if the gods
+themselves flung thin strips of cotton across the sky in exultation.  To the
+northwest, you spy what might be an island.  
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22138
+D1
+~
+~
+0 0 22095
+D2
+~
+~
+0 0 22100
+S
+#22011
+0 0
+~
+~
+~
+0 0 0
+The Eastern Shore~
+Though you have been traversing the waters for quite some time, the
+horizon has maintained its neverending parallel of sky and sea. 
+Civilization, so far distant in its complacency, is starkly incongruous with
+the exhilirating liberty of the wide open sky, being free from the
+constraints of inertia.  The clouds roll lazily overhead, as if the gods
+themselves flung thin strips of cotton across the sky in exultation.  Not
+far to the west, you can make out the tall mast of a ship.  Behind the ship,
+you can see the semblance of land, though getting by the ship might be
+tricky.  
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22005
+D1
+~
+~
+0 0 22002
+D2
+~
+~
+0 0 22098
+S
+#22012
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilarating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22022
+D1
+~
+~
+0 0 22015
+D2
+~
+~
+0 0 22017
+D3
+~
+~
+0 0 22121
+S
+#22013
+0 0
+~
+~
+~
+0 0 0
+The Silver Coast~
+The light reflecting from the shimmering beach north of you is even
+brighter than the glance of the sun on the sapphire sea.  The sand of the
+beach seems alive in its warmth, embracing the sun in every grain.  You
+cannot see much past the beach, as a perimeter of trees blocks your vision. 
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 22120
+D1
+~
+~
+0 0 22009
+D2
+~
+~
+0 0 22115
+D3
+~
+~
+0 0 22112
+S
+#22014
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#22015
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22113
+D1
+~
+~
+0 0 22114
+D2
+~
+~
+0 0 22023
+D3
+~
+~
+0 0 22012
+S
+#22016
+0 0
+~
+~
+~
+0 0 0
+The shallows~
+You stand knee deep in the shallows of this immense sea.  Vaguely, you
+consider indulging yourself in a pleasant swim in this warm water, but the
+sight of a shark swimming close to the surface dissuades you from doing so. 
+~
+0 C 6
+0
+~
+I 0 D0
+~
+~
+0 0 22023
+D1
+~
+~
+0 0 563
+D2
+~
+~
+0 0 561
+D3
+~
+~
+0 0 22125
+S
+#22017
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22012
+D1
+~
+~
+0 0 22023
+D2
+~
+~
+0 0 22125
+D3
+~
+~
+0 0 22122
+S
+#22018
+0 0
+~
+~
+~
+0 0 0
+The shallows~
+You wet your feet in the shallows of this warm, sparkling body of water. 
+To the south lies a sandbar that does not look settled enough to provide you
+with a lenghty resting spot.  To the north, sapphire blue water glimmers in
+the sunlight as far as you can see.  
+~
+0 CN 6
+0
+~
+I 0 D0
+~
+~
+0 0 22114
+D2
+~
+~
+0 0 563
+D3
+~
+~
+0 0 22023
+S
+#22019
+0 0
+~
+~
+~
+0 0 0
+Rocky Enclave~
+Large rocks of granite protect this quiet bay from thundering tropical storms.
+Covered with moss and barnacles, the rocks serve shelter to the scurrying 
+sea-creatures you see upon their surface.  Ahead, a pristine, shimmering beach
+entices you with its tranquility.  Something splashing in the water east of you
+catches your attention.
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 22107
+D1
+An isolated part of the bay.
+~
+~
+0 0 22026
+S
+#22021
+0 0
+~
+~
+~
+0 512 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 S
+#22022
+50 500
+~
+~
+~
+0 0 0
+Lair of the Sirens~
+Large boulders flattened by erosion and weather are home to a family of
+Sirens who hold court over these placid waters.  Luring unwary and lustful
+adventurers in with their devastating songs, the tranquility of this cove
+belies its nascent danger.  
+~
+0 CNX 7
+0
+~
+I 0 D0
+~
+cave~
+4193 28202 22134
+D1
+~
+~
+0 0 22113
+D2
+~
+~
+0 0 22012
+D3
+~
+~
+0 0 22123
+S
+#22023
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22015
+D1
+~
+~
+0 0 22018
+D2
+~
+~
+0 0 22016
+D3
+~
+~
+0 0 22017
+S
+#22024
+0 0
+~
+~
+~
+0 0 0
+In the Shallow Waves~
+The water is shallow enough here for you to stand up in.  Waves rise and
+fall gently with a rhythm.  A lush green jungle lays behind the white sand
+beach to the west, and you can vaguely hear a symphony of birds in the
+distance.  The water deepens to a rich sapphire color to the east.  
+~
+0 N 6
+0
+~
+I 0 D1
+~
+~
+0 0 22097
+D3
+~
+~
+0 0 22119
+S
+#22025
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 S
+#22026
+50 250
+~
+~
+~
+0 0 0
+Large Tidepool~
+The water is so pure here that you can see anenomes, coral sea-flowers,
+and yellow tube sponges floating amongst the reef at the bottom.  The
+splashing noises that aroused your curiosity belong to a couple of mermaids
+frolicking in the tidepool.  You look around for signs of habitation, but
+find nothing, surmising that the mermaids you've only heard of in childrens'
+tales must indeed live under the sea.  
+~
+0 0 7
+0
+~
+I 0 D3
+The rocky enclave that shelters the mouth of the bay.
+~
+~
+0 0 22019
+S
+#22027
+0 0
+~
+~
+~
+0 0 0
+White Crescent Beach~
+Though you are a veteran adventurer, the soft sand feels wonderful
+in relieving your slight sea sickness.  The fine grains of sand melting
+under your feet and the methodical roar of the sea tempt you to nap in the 
+warm sun. Ahead the canopy of green fauna creates soothing shade from which 
+come the faint sound of many jungle animals.
+~
+0 C 10
+0
+~
+I 0 D1
+The white crescent beach continues in this direction.
+~
+~
+0 0 22028
+D2
+A lush, tropical jungles echoes sounds of jungle beasts.
+~
+~
+0 0 22030
+D3
+The white crescent beach continues in this direction.
+~
+~
+0 0 22029
+S
+#22028
+0 0
+~
+~
+~
+0 0 0
+White Crescent Beach~
+You walk along the shore, following trails of seagull prints, which
+litter the demarcation where sand meets sea.  Someone has obviously been
+here before, as there lies before your feet a half finished sandcastle.  You
+feel the urge to mold sand into turret in childlike delight.  Sandy dunes
+which separate the forest and beach promise both solace and play.  
+~
+0 C 10
+0
+~
+I 0 E
+dune dunes~
+Don't you want to rest your weary back against these fluffy sand dunes?
+Better yet...Dive in!
+~
+E
+sandcastle~
+The sandcastle was obviously diligently crafted by careful hands,
+a testament to the heroic spirit of the many adventurers to wander
+through the threads of immortal history.
+~
+D1
+~
+~
+0 0 22064
+D3
+The white crescent beach continues in this direction.
+~
+~
+0 0 22027
+S
+#22029
+50 100
+~
+~
+~
+0 0 0
+White Crescent Beach~
+You wander along the shore, following trails of seagull prints littered
+along the wet sand.  You take care in avoiding the incoming tide as it
+sweeps in a new easel for the denizens of this place.  Strewn along the
+beach are clumps of kelp and broken shells of sea creatures.  A entangled
+mess of jungle lays to the south, but there is no discernible exit from this
+part of the beach.  
+~
+0 C 10
+0
+~
+I 0 D1
+The white crescent beach continues in this direction.
+~
+~
+0 0 22027
+S
+#22030
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+You enter the jungle beneath a canopy of entertwined branches.  The mid
+afternoon haze streaks through the trees, haphazardly illuminating colorful
+feathers on macaws and toucans.  The forest is dense, and with no
+discernible trails to guide you, you make your way cautiously through the
+thick environs.  
+~
+0 0 3
+0
+~
+I 0 D0
+A white crescent beach leading to the sea.
+~
+~
+0 0 22027
+D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22032
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22031
+S
+#22031
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+The light dims noticeably as you foray into an unexplored part of the jungle. 
+You have to duck your head to avoid losing your much valued helmet to the low 
+hanging branches.  Above you, a small family of monkeys titter and gawk at
+your awkwardness.  To the west, a large bramble of poisonous vines block your 
+progress.  
+~
+0 0 3
+0
+~
+I 0 D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22030
+D2
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22033
+S
+#22032
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+You tread lightly upon living carpets of green moss. The powerful smell of the
+verdant rain forest relate the antiquity of the old woods amongst which you 
+navigate.The sharp shrill of tree monkeys mark the absence of civilized life 
+for miles around.  North, the green slopes fall away to the sea.
+~
+0 0 3
+0
+~
+I 0 D2
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22035
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22030
+S
+#22033
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+Gigantic fern fronds canopy you from the sweltering island sun.  You
+trudge forward, rustling leaves and startling native wildlife with your
+heavy steps.  The rain trees erupt all around with sprays of purple
+blossoms.  There is a ten foot wide dirt ditch here, which serves as both a
+drinking trough and a mudbath to a herd of falatu.  
+~
+0 0 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22031
+D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22034
+D2
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22039
+S
+#22034
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+The jungle here is dense, and you have to search to find a passage through
+the trees.  You enter a clearing amidst tall, three hundred year old 
+gargantuans, whose roots you could easily lay lengthwise against.  
+Amazingly, the detritus is less packed here, and you can see the dirt floor
+of the jungle.  It appears as if other adventurers have made camp here before.
+~
+0 C 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22030
+D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22035
+D2
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22040
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22033
+S
+#22035
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+You make your way through the trees, catching branches and leaves as you
+pass.  A small breeze whisks through the jungle, rustling trees, and
+spraying pollen all around you.  The grove of trees surrounding you stands
+more than three hundred feet tall, and you can barely catch a glimpse of the
+sky through the thick canopy.  You see scattered bones left in disarray by
+some unknown predator.  
+~
+0 0 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22032
+D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22036
+D2
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22041
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22034
+S
+#22036
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+The jungle is blank canvas to the artistic triumphs of nature, and the
+colors of lavender blush and fuschia in the lavish foliage are the brightest
+you have ever seen.  You continue to make a path through this natural
+sanctuary, the light strangely golden, illuminated by streaks of sunlight
+settling on tree branches.  A cacophony in hoots, chirps, rumbles and
+shrills fills the air.  
+~
+0 0 3
+0
+~
+I 0 D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22037
+D2
+~
+~
+0 0 22065
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22035
+S
+#22037
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+Orange nelin blossoms burst from the low brush here, where the treetops have
+parted company to allow a spectacular vision of azure and white.  Parrots and 
+parakeets alight upon the trees in groups, weighing down the berry and nut
+laden branches.  There is a faint trail to the south, scruffed into the dirt,
+of a creature having recently passed.
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 22060
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22036
+S
+#22038
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+Giant fern leaves fan this part of the forest, sedate in their tone and
+texture.  Thankfully, they also provide cool relief to the blazing sun
+overhead.  Small caterpillars crawl the length of the leaves, winding their 
+bodies to the curve of the fauna.  Back to the east you see the heart 
+of the forest.
+~
+0 0 3
+0
+~
+I 0 D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22039
+D3
+~
+~
+0 0 22063
+S
+#22039
+0 0
+~
+~
+~
+0 0 0
+A pool in the jungle~
+Brushing away foliage from your face, you stumble across a clear pool well
+hidden by the surrounding fauna.  Set in dirt and leaves, the pool is deep
+enough to provide much needed freshwater to the animals of the forest.
+You make your way from the hard trail to the sandy shallows of the pool.
+~
+0 Z 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22033
+D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22040
+D2
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22043
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22038
+S
+#22040
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+The tree branches above shelter you from the relentless tropical sun.  
+The noise of the jungle birds is almost deafening, as you search for respite 
+from their constant chittering.  A long-tailed tree monkey mischievously 
+throws a coconut at your head as he scampers off in glee.
+~
+0 0 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22034
+D1
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22041
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22039
+S
+#22041
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+You tred cautiously forward on carpets of living green moss.  This rich
+fecund environment smells of fertile soil and the quiet dignity of life. 
+Hundred foot tall bamboo clusters block your progress any further to the
+south.  You can pass back through the trees from which you came.
+~
+0 C 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22035
+D3
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22040
+S
+#22042
+0 0
+~
+~
+~
+0 0 0
+Before a Waterfall~
+You follow the river to its source, this majestic waterfall.  The rapture
+of water falling from the sky renders you motionless.  Your eyes roam above
+to where water succumbs to gravity and showers its clear freshwater spray
+against towering cliffs of erosion engraved rock.  The water is delightful. 
+It pours into an aquamarine pool where colorful petals of nearby plants
+float.  You are tempted to tear off your clothing and enjoy this natural
+splendor.  
+~
+0 C 6
+0
+~
+I 0 D0
+~
+~
+0 0 22078
+S
+#22043
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+Wild plantain heliconias capture your attention, hanging from the low
+trees, their deep orange buds curved into the sharp point of a morningstar. 
+High in the trees you hear cockatoos sing, echoing a lovely song.  Gradient
+light shines through the canopy above, casting sketchy shadows on the jungle
+floor.  
+~
+0 0 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22039
+D2
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22048
+S
+#22044
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+Emerald and marigold color the lavish foliage of this natural sanctuary.  
+Vervet monkeys swing maniacally from the limbs above you.  Behind you, a 
+red breasted caloui mocks you.
+~
+0 0 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22041
+D2
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22050
+S
+#22045
+0 0
+~
+~
+~
+0 0 0
+Tiger's Lair~
+You have entered the lair of the most powerful predator in the jungle.
+Stripped bones, bleached by the sun, lay scattered in a dirt clearing.
+No birds or monkeys inhabit this area, for they know the consequences of
+upsetting this powerful feline.  You spot a trail to the south, and you
+hope you can make a hasty exit before you anger this agile hunter.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 22060
+D2
+~
+~
+0 0 22135
+S
+#22046
+0 0
+~
+~
+~
+0 0 0
+Small Gurgling Stream~
+You follow the stream, splashing water in your wake.  The water is shallow
+enough for you to wade through it easily.  Tropical climates give birth to
+fantastic species of creatures, and you see small golden fish climbing the
+banks of the stream, slapping the bodies against the rocks.  The source 
+of the stream lays to the east, while it deepens to the west.
+~
+0 C 6
+0
+~
+I 0 D1
+Back into the sheltered canopy of the jungle.
+~
+~
+0 0 22047
+D3
+~
+~
+0 0 22072
+S
+#22047
+0 0
+~
+~
+~
+0 0 0
+Small Stream~
+A small stream makes its start here, gurgling along time smoothed stones.
+Moss and algae gather at the edge of the water, giving it a deep green tint.
+Century old trees give way to the stream as it flows to the east along
+a path created by old gnarly tree roots.  The air is a bit crisper here,
+clarified by the nearness of freshwater.
+~
+0 C 6
+0
+~
+I 0 D1
+A lush, tropical jungle canopies you.  
+~
+~
+0 0 22048
+D2
+~
+~
+0 0 22080
+D3
+A stream gurgles along time smoothed stones.
+~
+~
+0 0 22046
+S
+#22048
+0 0
+~
+~
+~
+0 0 0
+Tropical Jungle~
+The trees form a canopy over you, capriciously allowing sunlight to the
+life below.  You move awkwardly through the brush, alerting small wildlife
+who scamper out of your way.  The quietness of the jungle here allows you to
+hear the sound of water coming from the west.  To the south, you can see a
+large grassy knoll.  
+~
+0 0 3
+0
+~
+I 0 D0
+A lush, tropical jungle canopies you.
+~
+~
+0 0 22043
+D2
+~
+~
+0 0 22079
+D3
+A small gurgling stream.
+~
+~
+0 0 22047
+S
+#22049
+0 0
+~
+~
+~
+0 0 0
+Base of a hill~
+The hill begins here, and slopes erect into the sky.  Purple and red
+veins are searingly visible in its naked patches of brown rock.  The earth
+rises up in blatant challenge, its rich mahogany earth one of the colors in
+the pure bright white of heaven.  To the north, a trail leads back into the
+forest, and upwards, you can make a path up the hill.  
+~
+0 C 4
+0
+~
+I 0 D0
+~
+~
+0 0 22051
+D4
+~
+~
+0 0 22055
+S
+#22050
+0 0
+~
+~
+~
+0 0 0
+Hyena Hideout~
+The trail abruptly ends in an overhanging den of dirt and rocks that
+was well sheltered from your view from the trail.  You realize in hindsight
+that the reason the trail was so well travelled is because a large pack of
+hyenas inhabit this part of the jungle.  Belatedly, you notice the numerous
+animal tracks in the dirt around you.  Many scattered bones lay all over
+the den.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 22061
+S
+#22051
+0 0
+~
+~
+~
+0 0 0
+Along a Trail in the Jungle~
+You follow the trail to the base of a large hill.  To the south, the
+trees acquiesce to the force of nature, rising the hill up from ground to
+sky.  The hill is barren except for the thin line of trees covering its top.
+As it has the highest vantage point of the island, you surmise you could
+survey the entire island from its zenith.  To the west, the trail continues
+along the base of the hill back into the jungle.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 22052
+D2
+~
+~
+0 0 22049
+D3
+~
+~
+0 0 22061
+S
+#22052
+0 0
+~
+~
+~
+0 0 0
+A Quiet Clearing ~
+You escape death from the tiger's jaws and brush your way through 4 feet
+long leaves to peace and safety.  There is thinner tree coverage here, and
+the jungle is more barren in these parts.  Nonetheless, the short brush
+still provides comfort from the hot island air.  A slender dirt trail starts
+here and leads to the west.  
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 22135
+D1
+~
+~
+0 0 22120
+D3
+~
+~
+0 0 22051
+S
+#22053
+0 0
+~
+~
+~
+0 0 0
+Base of a hill~
+The hill begins here, and slopes erect into the sky.  Purple and red
+veins are searingly visible in its naked patches of brown rock.  The earth
+rises up in blatant challenge, its rich mahogany earth one of the colors in
+the pure bright white of heaven.  The sparsely set trees provide a zigzag
+path up the hill.  
+~
+0 C 4
+0
+~
+I 0 D0
+~
+~
+0 0 22079
+D4
+~
+~
+0 0 22054
+S
+#22054
+0 0
+~
+~
+~
+0 0 0
+On the Slope of a Hill~
+You are making your way up the slanted slope of a large hill.  The rich
+earth presents itself in the subtleties of true sacrificial color, vivid and
+sharp.  Gravity tugs at your feet, slowing your progress with bristle and
+sweat.  The hill continues to its pinnacle upwards.  
+~
+0 C 4
+0
+~
+I 0 D4
+~
+~
+0 0 22056
+D5
+~
+~
+0 0 22053
+S
+#22055
+0 0
+~
+~
+~
+0 0 0
+On the Slope of a Hill~
+You are making your way up the slanted slope of a large hill.  The rich
+earth presents itself in the subtleties of true sacrifical color, vivid and
+sharp.  Gravity tugs at your feet, slowing your progress with bristle and
+sweat.  The hill continues to its pinnacle upwards.  
+~
+0 0 4
+0
+~
+I 0 D4
+~
+~
+0 0 22057
+D5
+~
+~
+0 0 22049
+S
+#22056
+0 0
+~
+~
+~
+0 0 0
+Upon a Hill~
+You are on top of a large hill.  From here you can survey the northern
+part of the island.  A deep, secretive jungle stretches to the north where
+it succumbs to the frothy waves of an endless sea.  The sun, so close
+overhead, beats hard upon you, making you long for the protective cover of
+the trees.  You scan the horizon before you, smelling the fresh breeze of
+clouds and birds.  
+~
+0 0 4
+0
+~
+I 0 D1
+~
+~
+0 0 22057
+D2
+~
+~
+0 0 22058
+D5
+~
+~
+0 0 22054
+S
+#22057
+0 0
+~
+~
+~
+0 0 0
+Upon a Hill~
+You have reached the top of the hill.  From here, you can survey the
+northern part of the island.  The immense jungle stretches for several miles
+before you, until it succumbs to the glistening open sea.  The sea extends
+outwards, til it merges with the horizon, a glimmering wave of solid azure. 
+To the east, strong rocks break the sea over their caps, the only break in
+the unending water.  
+~
+0 0 4
+0
+~
+I 0 D2
+~
+~
+0 0 22059
+D3
+~
+~
+0 0 22056
+D5
+~
+~
+0 0 22055
+S
+#22058
+0 0
+~
+~
+~
+0 0 0
+Towards the Sky~
+You stand at the top of a hill, your vantage point immense and inspiring.
+The sky does not seem to be overhead, but rather around you, enclosing you
+in its clarity.  The jungle to the north and the grasslands below to the
+southeast seem miniature in size, your perspective obscured by your
+proximity to the heavens.  To the south, you can make out the faint
+semblance of a city, though from this distance, you cannot discern whether
+or not it is inhabited.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 22056
+D1
+~
+~
+0 0 22059
+S
+#22059
+0 0
+~
+~
+~
+0 0 0
+Towards the Sky~
+You stand at the top of a hill, your vantage point immense and
+inspiring.  The sky does not seem to be overhead, but rather around you,
+enclosing you in its clarity.  The jungle to the north and the grasslands
+below to the southeast seem miniature in size, your perspective obscured by
+your proximity to the heavens.  To the south, you can make out the faint
+semblance of a city, though from this distance, you cannot discern whether
+or not it is inhabited.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 22057
+D3
+~
+~
+0 0 22058
+S
+#22060
+0 0
+~
+~
+~
+0 0 0
+Along a Trail in the Jungle~
+You are following a narrow dirt trail through the jungle.  The brush here
+seems more tamed and forgiving than in the other parts of the jungle.  To
+the west, the jungle looms dark yet penetrable.  To your south, just beyond
+the tops of the trees, rises a large hill that provides the only perspective
+to your whereabouts.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 22037
+D2
+~
+~
+0 0 22045
+S
+#22061
+0 0
+~
+~
+~
+0 0 0
+Along a Trail in the Jungle~
+You are following one of the only easily navigable paths in the jungle.
+The dirt path before you is littered with arbor cones and crushed berries.
+The melodious branches of a sturdy tree overhang the path.  It looks like
+a pleasant place to rest your weary back.
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 22051
+D3
+~
+~
+0 0 22050
+S
+#22062
+91 300
+In reaching this spot of utter tranquility, you attain greater wisdom in the form of 300 experience.~
+~
+~
+0 0 0
+`lUnder the Waterfall``~
+You are wading in a crystal clear aquamarine pool.  The waterfall
+splashes down above you, soothing you from the harsh sun.  It's so pristine
+here, you want to close your eyes and float on your back for awhile.  The
+air is so fresh and sharp that simply inhaling it invigorates you.  
+~
+0 C 7
+0
+~
+I 0 S
+#22063
+0 0
+~
+~
+~
+0 0 0
+Sacred Grove~
+The jungle is much cooler here, for enormous four hundred foot tall
+alatian trees provide plentiful shade to this quiet grove.  The trees form a
+semicircle to the west, blocking your progress any further, but also
+protecting your back from any beasts.  The solace of this grove serves as a
+fine place to rest and recuperate.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 22038
+S
+#22064
+0 0
+~
+~
+~
+0 0 0
+White Crescent Beach~
+The beach stretches towards the east for a ways.  Walking along the sand
+leaves heavy footprint indentations upon the wet sand, which fade away with
+each incoming tide.  From the jungle to the south, you can hear the calls of
+many animals.  To the north, the endless sea meets the distant horizon.  
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 22117
+D3
+~
+~
+0 0 22028
+S
+#22065
+0 0
+~
+~
+~
+0 0 0
+Heart of the Jungle~
+You are deep in the heart of a jungle.  The tall trees enclosing you
+prevent you from seeing the position of the sun in the sky, so you feel
+disoriented as you negotiate your way through the thick wildlife.  Insects
+the size of your hand buzz all around your face, and the shrill noises of
+tree monkeys seem neverending.
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 22036
+D2
+~
+~
+0 0 22066
+S
+#22066
+0 0
+~
+~
+~
+0 0 0
+Heart of the Jungle~
+You are deep in the heart of a jungle.  The trees are so densely packed here
+that you have to fight your way through the brush to make your way through.  
+The jungle floor is covered with detritus, moss, and other living organisms.
+The tree canopy blocks most sunlight, cooling and protecting this part of the
+jungle from the harsh sun.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 22065
+D2
+~
+~
+0 0 22067
+D3
+~
+~
+0 0 22069
+S
+#22067
+0 0
+~
+~
+~
+0 0 0
+Heart of the Jungle~
+Deep in the heart of the jungle, the earth seems alive with the slow
+growth of fungus and moss.  Dead stiff wood flakes litter the base of
+triumphant trunks, wings give birth in the force of evolution.  Predators
+demand sacrifice from other creatures as surely as moons rise and fall.  You
+can pass through the trees to the north or the west.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 22066
+D3
+~
+~
+0 0 22068
+S
+#22068
+0 0
+~
+~
+~
+0 0 0
+Heart of the Jungle~
+Deep in the heart of the jungle, the earth is loamy with rich germination
+of decayed insects and fauna.  Moss dominates this green fertile world,
+springing forth from every submerged rock and branch.  The air is scented
+with the pungent aroma of procreation.  The dense vegetation prevents you
+from seeing very far in any direction.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 22069
+D1
+~
+~
+0 0 22067
+D3
+~
+~
+0 0 22071
+S
+#22069
+0 0
+~
+~
+~
+0 0 0
+Heart of the Jungle~
+You are deep in the heart of the jungle.  The thick carpet of moss
+beneath your feet silences the noises that your travelling would typically
+make through such dense vegetation.  The air around you is vibrant with life
+and promise.  You had never before thought of green as being a color that
+could dazzle you, but in the jungle, this single color combines so many
+varieties of tone and texture.  A thicket of kolian trees blocks your
+progress north.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 22066
+D2
+~
+~
+0 0 22068
+D3
+~
+~
+0 0 22070
+S
+#22070
+0 0
+~
+~
+~
+0 0 0
+Heart of the Jungle~
+Still no trace of sky through the foliage.  The jungle, tediously
+sculptured by years of toil from nature, claims dominance in green
+exuberance.  The dimness of the light here casts lengthy shadows in the
+tangled brush.  There are narrow passageways through the trees to the east
+and south.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 22069
+D2
+~
+~
+0 0 22071
+S
+#22071
+0 0
+~
+~
+~
+0 0 0
+Heart of the Jungle~
+Delving further into the jungle, the majestically colored vegetation
+unravels itself to your unworthy eye.  Jungle creatures imbibe in aromatic
+slender fruits almost transitory between the original seed and sweet liquor.
+Pale green insects buzz, whirling about your head, drunk from the fragrance
+of lustful blossoms.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 22070
+D1
+~
+~
+0 0 22068
+S
+#22072
+0 0
+~
+~
+~
+0 0 0
+A River in the Jungle~
+The stream widens to form the mouth of a river, which flows lazily to the
+west.  With little motivation of its own, the swift breeze caresses the
+water to ripples against giant boulders.  Little sounds surround you,
+the coo of a lovebird, the hiss of the whitewater, the whistle of the air.
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 22046
+D3
+~
+~
+0 0 22073
+S
+#22073
+0 0
+~
+~
+~
+0 0 0
+A River in the Jungle~
+You are travelling along a river in the middle of the jungle.  The water
+is murky, due to the abundance of plants growing underneath its surface. 
+The river, as languid as it is, keeps widening as it reaches its full
+breadth of eighty feet across.  It bends to the north fullbodied, and
+trickles back into a stream to the east.  
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 22074
+D1
+~
+~
+0 0 22072
+S
+#22074
+0 0
+~
+~
+~
+0 0 0
+A River in the Jungle~
+You are travelling along a river in the middle of the jungle.  The tree
+coverage is sparser here, and the sun above casts nebulous shadows against
+the quiet river.  Large boulders lay to the west bank of the river, and
+small animals scurry about on their surfaces.  The river continues to the
+north and the south.  
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 22075
+D2
+~
+~
+0 0 22073
+S
+#22075
+0 0
+~
+~
+~
+0 0 0
+A River in the Jungle~
+You are travelling along a river in the middle of the jungle.  The calls
+of wild animals echo from the two banks surrounding you.  Large granite
+boulders sunken into the bed of the river force you to keep your wits sharp
+so as to not capsize amidst a pack of alligators.  Rich leaves and petals
+drift quietly, affixing themselves to the surface of the river.  
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 22076
+D2
+~
+~
+0 0 22074
+S
+#22076
+0 0
+~
+~
+~
+0 0 0
+A River in the Jungle~
+You are travelling along a river that flows north and south deep in the
+jungle.  The water darkens here, swallowing reflections in its dense and
+mottled bed.  A warm wind blows low over your head, the only ripple in an
+otherwise still and heavy air.  Several animals rustle the tall, gangly
+reeds that rise up from the east bank of the river.  
+~
+0 0 7
+0
+~
+I 0 D0
+~
+~
+0 0 22077
+D2
+~
+~
+0 0 22075
+S
+#22077
+0 0
+~
+~
+~
+0 0 0
+A Bend in the River~
+The river molds itself to the curvature of the earth, and falls to the
+east.  To the north wafts the salty breeze of open sea, and to the south,
+the river traces its path back into the jungle.  The trees open themselves
+back to the sky, allowing sun rays to shine down upon you.  
+~
+0 0 7
+0
+~
+I 0 D1
+~
+~
+0 0 22078
+D2
+~
+~
+0 0 22076
+S
+#22078
+0 0
+~
+~
+~
+0 0 0
+A River in the Jungle~
+You are travelling on a river the the middle of the jungle.  To the
+south, you see a waterfall originating high above you from the molded cliffs
+of natural elements.  The river continues back through the trees to the
+west.  
+~
+0 0 7
+0
+~
+I 0 D2
+~
+~
+0 0 22042
+D3
+~
+~
+0 0 22077
+S
+#22079
+0 0
+~
+~
+~
+0 0 0
+Grassy Foothills~
+The elevated terrain here balances the sheet of jungle that lays to your
+north.  Grass and shrubbery grow out of the gnoll at impossible angles,
+rising upright towards the sky.  For all the flatness of the island, the
+foothills stand out on the horizon like spires upon an empty sky.  To the
+south, an enormous hill reaches upwards.  
+~
+0 C 3
+0
+~
+I 0 D0
+~
+~
+0 0 22048
+D2
+~
+~
+0 0 22053
+D3
+~
+~
+0 0 22080
+S
+#22080
+0 0
+~
+~
+~
+0 0 0
+Grassy Foothills~
+You make your trail among the brush upon a lush, living gnoll.  The
+density of the trees to the north presents an impassable labyrinth, while to
+the south, the sedentary rock of an enormous hill bears no footholds for
+travel.  
+~
+0 0 12
+0
+~
+I 0 D0
+~
+~
+0 0 22047
+D1
+~
+~
+0 0 22079
+S
+#22081
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The sound of civilized hubub behind you fades into the murmur of the crashing
+waves.  All around you the water coaxes a gentle lullaby. The white capped 
+crests catch precious light and glint crystals in your eye.  Seagulls glide 
+low over the water, occasionally swooping down for fish underneath. The water
+is still a bit shallow here, and you can see through the clear aquamarine to
+the brown rocky bottom below.
+~
+0 CN 7
+0
+~
+I 0 D2
+~
+~
+0 0 22001
+D3
+~
+~
+0 0 22083
+S
+#22082
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The sound of civilized hubub behind you fades into the murmur of the crashing
+waves.  All around you the water coaxes a gentle lullaby. The white capped 
+crests catch precious light and glint crystals in your eye.  Seagulls glide 
+low over the water, occasionally swooping down for fish underneath. The water
+is still a bit shallow here, and you can see through the clear aquamarine to
+the brown rocky bottom below.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22001
+D3
+~
+~
+0 0 22086
+S
+#22083
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The water gets darker as you continue to travel into the heart of a sea
+uncharted.  The waves murmur quiet songs, rendering you tranquil and content
+to bask in the scarce solitude of the wide open sea. The waves reflect light
+so purely that the whole landscape before you sparkles with crystals. 
+Behind you, you can see the diminishing constructs of the city.  All around 
+you lays nothing but serenity.  In fact, the only movement for miles is the 
+still rocking of the ocean and an occasional sea bird hunting for food.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22084
+D1
+~
+~
+0 0 22081
+D2
+~
+~
+0 0 22006
+D3
+~
+~
+0 0 22089
+S
+#22084
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The water gets darker as you continue to travel into the heart of a sea
+uncharted.  The waves murmur quiet songs, rendering you tranquil and content
+to bask in the scarce solitude of the wide open sea. The waves reflect light
+so purely that the whole landscape before you sparkles with crystals. 
+Behind you, you can see the diminishing constructs of the city.  All around 
+you lays nothing but serenity.  In fact, the only movement for miles is the 
+still rocking of the ocean and an occasional sea bird hunting for food.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22085
+D2
+~
+~
+0 0 22083
+D3
+~
+~
+0 0 22090
+S
+#22085
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 D2
+~
+~
+0 0 22084
+D3
+~
+~
+0 0 22091
+S
+#22086
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The water gets darker as you continue to travel into the heart of a sea
+uncharted.  The waves murmur quiet songs, rendering you tranquil and content
+to bask in the scarce solitude of the wide open sea. The waves reflect light
+so purely that the whole landscape before you sparkles with crystals. 
+Behind you, you can see the diminishing constructs of the city.  All around 
+you lays nothing but serenity.  In fact, the only movement for miles is the 
+still rocking of the ocean and an occasional sea bird hunting for food.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22006
+D1
+~
+~
+0 0 22082
+D2
+~
+~
+0 0 22087
+D3
+~
+~
+0 0 22093
+S
+#22087
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The water gets darker as you continue to travel into the heart of a sea
+uncharted.  The waves murmur quiet songs, rendering you tranquil and content
+to bask in the scarce solitude of the wide open sea. The waves reflect light
+so purely that the whole landscape before you sparkles with crystals. 
+Behind you, you can see the diminishing constructs of the city.  All around 
+you lays nothing but serenity.  In fact, the only movement for miles is the 
+still rocking of the ocean and an occasional sea bird hunting for food.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22086
+D2
+~
+~
+0 0 22137
+D3
+~
+~
+0 0 22094
+S
+#22088
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22137
+D3
+~
+~
+0 0 22095
+S
+#22089
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22090
+D1
+~
+~
+0 0 22083
+D2
+~
+~
+0 0 22002
+D3
+~
+~
+0 0 22005
+S
+#22090
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22091
+D1
+~
+~
+0 0 22084
+D2
+~
+~
+0 0 22089
+D3
+~
+~
+0 0 22097
+S
+#22091
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22092
+D1
+~
+~
+0 0 22085
+D2
+~
+~
+0 0 22090
+D3
+~
+~
+0 0 22102
+S
+#22092
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 O none~
+D2
+~
+~
+0 0 22091
+D3
+~
+~
+0 0 22103
+S
+#22093
+91 60
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22002
+D1
+~
+~
+0 0 22086
+D2
+~
+~
+0 0 22094
+D3
+~
+~
+0 0 22098
+S
+#22094
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22093
+D1
+~
+~
+0 0 22087
+D2
+~
+~
+0 0 22136
+D3
+~
+~
+0 0 22099
+S
+#22095
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22136
+D1
+~
+~
+0 0 22088
+D2
+~
+~
+0 0 22096
+D3
+~
+~
+0 0 22010
+S
+#22096
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22095
+D3
+~
+~
+0 0 22100
+S
+#22097
+0 0
+~
+~
+~
+0 0 0
+The Eastern Shore~
+The waves start their swell here, and peak nearby to the west, where the
+sea fades into the shallows.  The tide seems safe enough for you to drift
+into the shoreline.  The water meets a white beach further to the west.  To
+the southwest, solemn cliffs guard the island in resolution.  
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 22102
+D1
+~
+~
+0 0 22090
+D2
+~
+~
+0 0 22005
+D3
+~
+~
+0 0 22024
+S
+#22098
+0 0
+~
+~
+~
+0 0 0
+The Eastern Shore~
+The water ripples in the most extraordinary sapphire here, streaked with
+crystal crests from brilliant rays of light.  Pelicans and seagulls are
+abundant, plunging headfirst into the sea for their food.  To the west, the
+tide is swallowed in by an island, several miles across, resplendent with
+thriving life.  The island is unapproachable from this side, as gigantic
+white cliffs, girded against the sky, prevent a landing on the coast.  
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 22011
+D1
+~
+~
+0 0 22093
+D2
+~
+~
+0 0 22099
+S
+#22099
+0 0
+~
+~
+~
+0 0 0
+The Eastern Shore~
+The water ripples in the most extraordinary sapphire here, streaked with
+crystal crests from brilliant rays of light.  Pelicans and seagulls are
+abundant, plunging headfirst into the sea for their food.  To the west, the
+tide is swallowed in by an island, several miles across, resplendent with
+thriving life.  The island is unapproachable from this side, as gigantic
+white cliffs, girded against the sky, prevent a landing on the coast.  
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 22098
+D1
+~
+~
+0 0 22094
+D2
+~
+~
+0 0 22138
+S
+#22100
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22010
+D1
+~
+~
+0 0 22096
+D2
+~
+~
+0 0 22101
+D3
+~
+~
+0 0 22009
+S
+#22101
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22100
+D3
+~
+~
+0 0 22116
+S
+#22102
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22103
+D1
+~
+~
+0 0 22091
+D2
+~
+~
+0 0 22097
+S
+#22103
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22092
+D2
+~
+~
+0 0 22102
+D3
+~
+~
+0 0 22104
+S
+#22104
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the
+horizon has maintained its neverending parallel of sky and sea. 
+Civilization, so far distant in its complacency, is starkly incongruous with
+the exhilirating liberty of the wide open sky, being free from the
+constraints of inertia.  The clouds roll lazily overhead, as if the gods
+themselves flung thin strips of cotton across the sky in exultation.  You
+spy land to the southwest.  
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22105
+D1
+~
+~
+0 0 22103
+D3
+~
+~
+0 0 22003
+S
+#22105
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 D2
+~
+~
+0 0 22104
+D3
+~
+~
+0 0 22111
+S
+#22106
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+You search the landscape for signs of dry land, but for that of despair.  
+Making your way across the expanse of unbroken sea, you wonder what terrains
+lay ahead beyond the horizon.  You feel a bit lost, and in this enormity,
+are unsure of whether or not you have been travelling in circles.
+~
+0 CN 7
+0
+~
+I 0 O lohengrin~
+D1
+~
+~
+0 0 22008
+S
+#22107
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22108
+D2
+~
+~
+0 0 22019
+D3
+~
+~
+0 0 22008
+S
+#22108
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22109
+D3
+~
+~
+0 0 22107
+S
+#22109
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22110
+D2
+~
+~
+0 0 22007
+D3
+~
+~
+0 0 22108
+S
+#22110
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22111
+D2
+~
+~
+0 0 22004
+D3
+~
+~
+0 0 22109
+S
+#22111
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22105
+D2
+~
+~
+0 0 22003
+D3
+~
+~
+0 0 22110
+S
+#22112
+0 0
+~
+~
+~
+0 0 0
+The Silver Coast~
+The light reflecting from the shimmering beach north of you is even
+brighter than the glance of the sun on the sapphire sea.  The sand of the
+beach seems alive in its warmth, embracing the sun in every grain.  You
+cannot see much past the beach, as a perimeter of trees blocks your vision. 
+~
+0 N 7
+0
+~
+I 0 D1
+~
+~
+0 0 22013
+D2
+~
+~
+0 0 22114
+D3
+~
+~
+0 0 22113
+S
+#22113
+0 0
+~
+~
+~
+0 0 0
+The Silver Coast~
+The water gets shallower here as you approach the shimmering beach north
+of you.  You can see many multicolored fish swimming amongst the coral
+through the transparent aquamarine of the water.  The shimmering beach ahead
+looks invitingly soft, warmed by the constant kiss of the sun.  You can see
+figures laying on grey granite rocks to the west, but you cannot make out
+what they are at this distance.  
+~
+0 N 7
+0
+~
+I 0 D1
+~
+~
+0 0 22112
+D2
+~
+~
+0 0 22015
+D3
+~
+~
+0 0 22022
+S
+#22114
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22112
+D1
+~
+~
+0 0 22115
+D2
+~
+~
+0 0 22018
+D3
+~
+~
+0 0 22015
+S
+#22115
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22013
+D1
+~
+~
+0 0 22116
+D3
+~
+~
+0 0 22114
+S
+#22116
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22009
+D1
+~
+~
+0 0 22101
+D3
+~
+~
+0 0 22115
+S
+#22117
+0 0
+~
+~
+~
+0 0 0
+White Crescent Beach~
+Peace seems ordinary here, on the north shore of this seemingly
+uninhabited island.  The sand underfoot is soft, and radiates the warmth of
+having been blessed by constant sunlight.  A rocky outcropping shelters this
+part of the beach from the waves of the sea.  To the south lies the
+inpenetrable jungle.  
+~
+0 0 10
+0
+~
+I 0 D1
+~
+~
+0 0 22118
+D3
+~
+~
+0 0 22064
+S
+#22118
+0 0
+~
+~
+~
+0 0 0
+White Crescent Beach~
+You are walking along a beautiful white sand beach.  The ground shifts as
+you move, accomodating itself to your weight.  The call of jungle animals
+from the dense trees to the southwest obscure the quiet murmurs of the sea. 
+The beach bends to the south here.  
+~
+0 0 10
+0
+~
+I 0 D2
+~
+~
+0 0 22119
+D3
+~
+~
+0 0 22117
+S
+#22119
+0 0
+~
+~
+~
+0 0 0
+A Quiet Beach~
+You are standing on a small beach, sheltered by gigantic cliffs to the
+south, and a dense jungle to the west.  Waves lap up against the sand,
+originating from the tranquil sapphire sea to the east.  You can follow the
+beach north, where it melts into the water.  
+~
+0 0 10
+0
+~
+I 0 O none~
+D0
+~
+~
+0 0 22118
+D1
+~
+~
+0 0 22024
+S
+#22120
+0 0
+~
+~
+~
+0 0 0
+Upon the Silver Coast~
+Bleached shells and seaweed lend ribbons of color to the pebbles on this
+tropical island, where grasses soften the seascape.  The white sand shimmers
+in the sunlight, giving the beach its radiant name.  The tides are low and
+mild, sweeping in fresh kelp from the sea.  
+~
+0 0 10
+0
+~
+I 0 D2
+~
+~
+0 0 22013
+D3
+~
+~
+0 0 22052
+S
+#22121
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22123
+D1
+~
+~
+0 0 22012
+D2
+~
+~
+0 0 22122
+D3
+~
+~
+0 0 22126
+S
+#22122
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22121
+D1
+~
+~
+0 0 22017
+D2
+~
+~
+0 0 22129
+D3
+~
+~
+0 0 12465
+S
+#22123
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22022
+D2
+~
+~
+0 0 22121
+D3
+~
+~
+0 0 22124
+S
+#22124
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D1
+~
+~
+0 0 22123
+D2
+~
+~
+0 0 22126
+S
+#22125
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22017
+D1
+~
+~
+0 0 22016
+D2
+~
+~
+0 0 22131
+D3
+~
+~
+0 0 22129
+S
+#22126
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22124
+D1
+~
+~
+0 0 22121
+S
+#22127
+0 0
+~
+~
+~
+0 0 0
+Thinning Waters~
+The clear blue waters of the Sea of Fate lap slowly and majestically onto
+a sparkling white cache of sand to the south.  Clouds of gray soar at an
+oddly slow pace overhead, throwing the slow, steady lap of the water into
+a strange juxtaposition of slowness and quickness.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 12436
+D1
+~
+~
+0 0 22128
+D2
+~
+~
+0 0 32292
+D3
+~
+~
+0 0 32191
+S
+#22128
+0 0
+~
+~
+~
+0 0 0
+Thinning Waters~
+The clear blue waters of the Sea of Fate lap slowly and majestically onto
+a sparkling white cache of sand to the north.  Clouds of gray soar at an
+oddly slow pace overhead, throwing the slow, steady lap of the water into a
+strange juxtaposition of slowness and quickness.  
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 12458
+D1
+~
+~
+0 0 22132
+D2
+~
+~
+0 0 32293
+D3
+~
+~
+0 0 22127
+S
+#22129
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22122
+D1
+~
+~
+0 0 22125
+D2
+~
+~
+0 0 22130
+D3
+~
+~
+0 0 22133
+S
+#22130
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22129
+D1
+~
+~
+0 0 22131
+D2
+~
+~
+0 0 32396
+D3
+~
+~
+0 0 32295
+S
+#22131
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating
+liberty of the wide open sky, being free from the constraints of inertia.
+The clouds roll lazily overhead, as if the gods themselves flung thin strips
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22125
+D1
+~
+~
+0 0 561
+D2
+~
+~
+0 0 32397
+D3
+~
+~
+0 0 22130
+S
+#22132
+0 0
+~
+~
+~
+0 0 0
+Thinning Waters~
+The clear blue waters of the Sea of Fate lap slowly and majestically onto
+a sparkling white cache of sand to the south.  Clouds of gray soar at an
+oddly slow pace overhead, throwing the slow, steady lap of the water into
+a strange juxtaposition of slowness and quickness.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 12462
+D1
+~
+~
+0 0 22133
+D2
+~
+~
+0 0 32294
+D3
+~
+~
+0 0 22128
+S
+#22133
+0 0
+~
+~
+~
+0 0 0
+Thinning Waters~
+The clear blue waters of the Sea of Fate lap slowly and majestically onto
+a sparkling white cache of sand to the nort.  Clouds of gray soar at an
+oddly slow pace overhead, throwing the slow, steady lap of the water into
+a strange juxtaposition of slowness and quickness.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 12465
+D1
+~
+~
+0 0 22129
+D2
+~
+~
+0 0 32295
+D3
+~
+~
+0 0 22132
+S
+#22134
+0 0
+~
+~
+~
+0 512 0
+`gIn a seaside cave``~
+The dark walls of the cave amplify and echo back the sounds of the ocean
+directly to the south.  The flickering light that plays across the rough
+jagged walls display long scratches in the stone, as though something were
+kept in here against its will.  Crushed rocks and litter the floor, along
+with the occasional bits of bone or armor.  Off in the darkness, footsteps
+crunch on the sandy floor...  Or was it just the wind?  
+~
+0 ADNb 5
+0
+~
+I 0 D2
+~
+door~
+4193 0 22022
+S
+#22135
+0 0
+~
+~
+~
+0 0 0
+Along a Trail in the Jungle~
+You are following a narrow dirt trail through the jungle.  The brush here
+seems more tamed and forgiving than in the other parts of the jungle.  To
+the west, the jungle looms dark yet penetrable.  To your south, just beyond
+the tops of the trees, rises a large hill that provides the only perspective
+to your whereabouts.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 22045
+D2
+~
+~
+0 0 22052
+S
+#22136
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+Though you have been traversing the waters for quite some time, the horizon
+has maintained its neverending parallel of sky and sea.  Civilization, so
+far distant in its complacency, is starkly incongruous with the exhilirating 
+liberty of the wide open sky, being free from the constraints of inertia.  
+The clouds roll lazily overhead, as if the gods themselves flung thin strips 
+of cotton across the sky in exultation.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22094
+D1
+~
+~
+0 0 22137
+D2
+~
+~
+0 0 22095
+D3
+~
+~
+0 0 22138
+S
+#22137
+0 0
+~
+~
+~
+0 0 0
+The Sea of Fate~
+The water gets darker as you continue to travel into the heart of a sea
+uncharted.  The waves murmur quiet songs, rendering you tranquil and content
+to bask in the scarce solitude of the wide open sea. The waves reflect light
+so purely that the whole landscape before you sparkles with crystals. 
+Behind you, you can see the diminishing constructs of the city.  All around 
+you lays nothing but serenity.  In fact, the only movement for miles is the 
+still rocking of the ocean and an occasional sea bird hunting for food.
+~
+0 CN 7
+0
+~
+I 0 D0
+~
+~
+0 0 22087
+D2
+~
+~
+0 0 22088
+D3
+~
+~
+0 0 22136
+S
+#22138
+0 0
+(null)~
+~
+~
+0 0 0
+The Eastern Shore~
+The water ripples in the most extraordinary sapphire here, streaked with
+crystal crests from brilliant rays of light.  Pelicans and seagulls are
+abundant, plunging headfirst into the sea for their food.  To the west, the
+tide is swallowed in by an island, several miles across, resplendent with
+thriving life.  The island is unapproachable from this side, as gigantic
+white cliffs, girded against the sky, prevent a landing on the coast.  
+~
+0 N 7
+0
+~
+I 0 D0
+~
+~
+0 0 22099
+D1
+~
+~
+0 0 22136
+D2
+~
+~
+0 0 22010
+S
+#0
+
+#RESETS
+M 0 22000   1 22029  1	* A large leatherback turtle
+O 0 22000   0 22029 -1	* `ha coral seashell`` at White Crescent Beach
+M 0 22001   7 22031  3	* The spider monkey
+M 0 22001   7 22031  3	* The spider monkey
+M 0 22001   7 22031  3	* The spider monkey
+M 0 22002   5 22033  4	* The falatu
+M 0 22002   5 22033  4	* The falatu
+M 0 22002   5 22033  4	* The falatu
+O 0 22001   0 22034 -1	* `ka pineapple`` at Tropical Jungle
+O 0 22002   0 22034 -1	* `ha coconut`` at Tropical Jungle
+M 0 22003   2 22035  2	* A long necked flanulia
+M 0 22003   2 22035  2	* A long necked flanulia
+M 0 22004   4 22039  4	* A red-throated hummingbird
+M 0 22004   4 22039  4	* A red-throated hummingbird
+O 0 22003   0 22039 -1	* The clear pool at A pool in the jungle
+O 0 22002   0 22040 -1	* `ha coconut`` at Tropical Jungle
+M 0 22005   5 22037  3	* A colorful parrot
+M 0 22005   5 22037  3	* A colorful parrot
+M 0 22006   5 22037  1	* A golden macaw
+M 0 22006   5 22036  1	* A golden macaw
+O 0 22004   0 22037 -1	* An orange nelin blossom at Tropical Jungle
+M 0 22001   7 22036  1	* The spider monkey
+M 0 22008   1 22045  1	* A belon tiger
+G 0 22005 -1		* `dt`ai`dg`ae`dr`a'`ds `ap`da`aw`` to A Belon Tiger
+O 0 22006   0 22052 -1	* A log at A Quiet Clearing 
+O 0 22007   0 22050 -1	* Carcass of a deer at Hyena Hideout
+O 0 22008   0 22050 -1	* Some bones at Hyena Hideout
+M 0 22009   1 22050  1	* A male hyena
+M 0 22010   2 22050  2	* A female hyena
+M 0 22011   2 22050  2	* A hyena cub
+M 0 22011   2 22050  2	* A hyena cub
+O 0 22009   0 22042 -1	* A refreshing pool at Before a Waterfall
+O 0 22010   0 22062 -1	* The pool at `lUnder the Waterfall``
+O 0 22011   0 22062 -1	* `ma stargazer lily`` at `lUnder the Waterfall``
+M 0 22012   3 22043  3	* A ruby tailed cockatoo
+M 0 22013   5 22048  2	* A kanga mouse
+G 0 22012 -1		* An acorn to a kanga mouse
+O 0 22013   0 22063 -1	* The roots of an alatian tree at Sacred Grove
+O 0 22014   0 22064 -1	* A sand dollar at White Crescent Beach
+M 0 22013   6 22037  1	* A kanga mouse
+M 0 22012   5 22065  1	* A ruby tailed cockatoo
+M 0 22014   3 22069  1	* An okapi
+M 0 22015   3 22071  1	* The mandrill
+M 0 22016   1 22076  1	* The alligator
+M 0 22015   3 22070  1	* The mandrill
+M 0 22007   1 22046  1	* An anaconda
+O 0 22015   0 22118 -1	* `oan opaque spiral shaped shell`` at White Crescent Beach
+M 0 22017   5 22068  1	* A bee-eater
+O 0 22017   0 22052 -1	* A transcendent light at A Quiet Clearing 
+M 0 22022   1 22022  1	* Eliza
+E 0 22022   -1    5	* item to Eliza
+D 0 22022   0    1	* Lair of the Sirens [north]
+O 0 22027   0 22029 -1	* A sturdy rope ladder at White Crescent Beach
+O 0 22029   0 22000 -1	* A simple raft at Sloping Inlet
+D 0 22134   2    1	* `gIn a seaside cave`` [south]
+M 0 22109   1 22134  1	* `othe lightning-breathing head``
+M 0 22108   1 22134  1	* `athe acid-breathing head``
+M 0 22107   1 22134  1	* `hthe frost-breathing head``
+M 0 22106   1 22134  1	* `kthe fire-breathing head``
+M 0 22105   1 22134  1	* `cthe hydra``
+G 0 22023 -1		* `oholy boots of the defender`` to `cthe Hydra``
+G 0 22024 -1		* `oholy breastplate of the defender`` to `cthe Hydra``
+G 0 22025 -1		* `oa mithril wand`` to `cthe Hydra``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 22007 spec_poison		* An anaconda
+M 22105 spec_breath_any		* `cthe Hydra``
+M 22106 spec_breath_fire		* `kthe fire-breathing head``
+M 22107 spec_breath_frost		* `hthe frost-breathing head``
+M 22108 spec_breath_acid		* `athe acid-breathing head``
+M 22109 spec_breath_lightning		* `othe lightning-breathing head``
+S
+
+#OT
+#0
+#$

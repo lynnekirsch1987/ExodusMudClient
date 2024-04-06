@@ -1,0 +1,2202 @@
+#AREA
+ 6~
+area84.are~
+Newbie Arena~
+{ 1 10} Avariel  Newbie Arena~
+~
+6973 6999
+0 B 0
+0 0
+~
+#MOBILES
+#6973
+aerie young girl~
+`iAerie`h, a map maker``~
+`hA young girl with `ibright red hair `his selling maps.``
+~
+`hThis young girl has vivid, `ibright red hair `hand is handing out her
+hand-drawn maps.  She grew up studying maps with her father and enjoys
+making a living helping out the `kN`heophytes learn their way around.  `` 
+~
+human~
+0 0 0 0
+ABR DFHV 0 0
+100 10 1d1+15000 50d10+500 10d20+10 wrath
+-20 -20 -20 999 -10
+R 0 FHK L 0 0
+stand stand female 8700
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+0
+none~
+~
+#6974
+T Rex Leech~
+`ha `cTyrannobdella Rex `hleech``~
+`hA `cTyrannobdella Rex `hleech squirms towards you agonizingly slow, its pinchers reaching for your body.`` 
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbieone.scr~
+#6975
+yoda bat~
+`ha short, fluffy `dbat `hwith yoda ears``~
+`hA short, fluffy `dbat `hwith yoda ears twitches its head towards you.`` 
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbieeleven.scr~
+#6976
+ninja snail~
+`ha `ipurple `hand `jgreen `oninja snail`` ~
+`hA `ipurple `hand `jgreen `oninja snail `hinches towards you slowly.``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbiefive.scr~
+#6977
+Sneezing Snub-Nosed Monkey~
+`ha `bSneezing `bSnub-Nosed `oMonkey``~
+`hA `bSneezing `bSnub-Nosed `oMonkey `hsits here laughing at you.``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbiefour.scr~
+#6978
+Self-Cloning Lizard~
+`ha `nS`ge`nl`gf`n-`gC`nl`go`nn`gi`nn`gg `cLizard``~
+`hA `nS`ge`nl`gf`n-`gC`nl`go`nn`gi`nn`gg `cLizard `hsticks its tongue out at you``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbiesix.scr~
+#6979
+squid worm~
+`ha `cS`jq`cu`ji`cd `cW`jo`cr`jm``~
+`hA `cS`jq`cu`ji`cd `cW`jo`cr`jm `hpaddles towards you cunningly.``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbieseven.scr~
+#6980
+pink hand fish~
+`ha `mpink `khand`nfish``~
+`hA `mpink `khand`nfish `hwalks along the ground towards you.``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbieten.scr~
+#6981
+crab coconut~
+`ha `fGiant `hC`oo`hc`oo`hn`ou`ht `fCrab``~
+`hA `fGiant `hC`oo`hc`oo`hn`ou`ht `fCrab `hwobbles towards you!``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbienine.scr~
+#6982
+Star Nosed Mole~
+`aa `gS`ntar `gN`nosed `gMole``~
+`aA `gS`ntar `gN`nosed `gMole `hpounces on you!``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbieeight.scr~
+#6983
+payne young elf boy~
+`nPayne`h, a smiling elf``~
+`nPayne`h, a smiling elf, stands here waiting to assist you.``
+~
+Payne stands here smiling at you. He is tall and lithe with pointy little ears. 
+~
+human~
+0 0 0 0
+ABR DFHV 0 0
+100 10 1d1+15000 50d10+500 10d20+10 wrath
+-20 -20 -20 999 -10
+R 0 FHK L 0 0
+stand stand female 8700
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+0
+none~
+~
+#6984
+simpsons toad mr burns~
+`oMr. `bB`iu`br`in`bs`h, the `kSimpson`h's `cToad``~
+`oMr. `bB`iu`br`in`bs`h, the `kSimpson`h's `cToad `hhops onto your face!``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbiethree.scr~
+#6985
+Wood-Eating Catfish~
+`ha `dwood-eating `nC`la`nt`lf`ni`ls`nh``~
+`hA `dwood-eating `nC`la`nt`lf`ni`ls`nh `hfloats in the air above your head.``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+7 1d1+100 1d2+1 bite
+60 60 60 999 60
+0 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbietwo.scr~
+#6986
+mage~
+`han elderly `bmage``~
+`hAn eldery `bmage `hstands here looking for something.``
+~
+~
+unique~
+0 0 0 0
+ABG Yd 509 0
+10 -50 1d2+1 1d1+100 1d2+1 bite
+60 60 60 999 60
+R 0 0 0 0 0
+stand stand either 0
+AHV ADEF 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+newbietwo.scr~
+#0
+
+#OBJECTS
+#6973
+map thesden~
+`kA Map of the Newbie Arena``~
+A rolled up piece of parchment lays on the ground.~
+parchment~
+1000
+map 2
+SUY
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+E
+map~
+`nThe Newbie Arena``        
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+`kKey:
+`dM`h: There is a monster in this room.
+`dS`h: There is a store in this room.
+`dB`h: There is a box with treasure in this room.
+`dE`h: This is the exit.
+~
+#6974
+tallow candle ~
+`ha flickering tallow `kcandle``~
+`hA flickering tallow `kcandle `hhas been discarded.``~
+diamond~
+0
+light 2
+PSU
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+1 3 8309 P
+#6975
+ring of neophyte~
+`fRing `hof the `kN`heophyte``~
+`fRing `hof the `kN`heophyte sits here.``~
+silver~
+0
+jewelry 2
+PSU
+B
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 12 P
+A
+1 1
+#6976
+wristguard twigs grass~
+`ha wristguard of `dtwigs `hand `cgrass``~
+`hA wristguard of `dtwigs `hand `cgrass `hlies here.``~
+hard leather~
+0
+armor 2
+PSU
+B
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AB AB AB 0 0
+0
+0
+1 20 300 P
+A
+19 1
+A
+5 1
+#6977
+neophyte neckguard~
+`hthe `kN`heophyte's `bNeckguard``~
+`hThe `kN`heophyte's `bNeckguard `hjust sits here.``~
+fur~
+0
+clothing 2
+PSU
+B
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 18 100 P
+A
+1 1
+A
+14 20
+#6978
+leggings ~
+`ba pair of leggings``~
+`ba pair of ripped leggings lie on the ground.``~
+cloth~
+0
+clothing 2
+PSU
+B
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 50 140 P
+A
+18 2
+A
+19 2
+#6979
+a tunic ~
+`ha `jbright green tunic``~
+`hA `jbright green tunic `hhas been dropped here.``~
+cloth~
+0
+clothing 2
+PSU
+B
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 50 10 P
+#6980
+neophyte boots ~
+`ha pair of sturdy `kN`heophyte `nboots``~
+`hA pair of sturdy `kN`heophyte `nboots `hhave been dropped.``~
+hard leather~
+0
+armor 2
+PSU
+B
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B B 0
+0
+0
+1 14 0 P
+A
+19 1
+#6981
+small wooden shield~
+`ha small `dwooden shield `hwith `kN`heophyte `hbranded onto it``~
+`hA small `dwooden shield `hwith `kN`heophyte `hbranded onto it lies here.``~
+wood~
+0
+trash 2
+PSU
+B
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 0 P
+A
+17 -4
+#6982
+dark grey cloak~
+`ha `adark grey `hcloak``~
+`hA `adark grey `hcloak sits here.``~
+cloth~
+0
+armor 2
+PSU
+B
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A A 0
+0
+0
+1 30 0 P
+A
+2 2
+#6983
+spirit float~
+`nS`gp`ni`gr`ni`gt `hof the `kN`heophyte``~
+`hthe `nS`gp`ni`gr`ni`gt `hof the `kN`heophyte sits here.``~
+unknown~
+0
+trash 2
+PSU
+B
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 10 P
+A
+18 3
+A
+19 3
+A
+4 10
+#6984
+leather gloves~
+`da pair of leather gloves``~
+`dA pair of leather gloves lies here``~
+hard leather~
+0
+armor 2
+PSU
+B
+AH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B 0 0
+0
+0
+1 20 203 P
+#6985
+sleeves leather~
+`ha pair of `ibright red sleeves``~
+`hA pair of `ibright red sleeves `hlies here.``~
+hard leather~
+0
+armor 2
+PSU
+B
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B B 0 0
+0
+0
+1 20 72 P
+A
+13 2
+#6986
+neophyte sash~
+`ha `bred `hand `lblue `hsash``~
+`hA `bred `hand `lblue `hsash sit here.``~
+unknown~
+0
+clothing 2
+PSU
+B
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 10 P
+A
+19 5
+#6987
+neophyte hat~
+`hthe `jCrazy `iLight`h-`mUp `kN`oeophyte `hhat``~
+`hThe `jCrazy `iLight`h-`mUp `kN`oeophyte `hhat just sits here.``~
+wheat~
+0
+clothing 2
+PSU
+B
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 5 5 P
+A
+5 1
+#6988
+a steel chest box ~
+`ha `ablack steel box``~
+`hA `ablack steel box `hhas been shoved into the corner of the room.``~
+steel~
+0
+container 2
+Sa
+0
+0
+0
+0
+0
+6973
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG ACD ACDGIJLM 0 0
+0
+0
+100 1000 0 P
+#6989
+key steel box~
+`asteel key``~
+`hA `asteel key `hlies on the ground.``~
+steel~
+0
+key 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#6990
+gleaming neophyte dagger~
+`ha `kg`hl`ke`ha`km`hi`kn`hg `kN`heophyte dagger``~
+`hA `kg`hl`ke`ha`km`hi`kn`hg `kN`heophyte dagger has been dropped here. ~
+ethereal~
+0
+weapon 2
+ABGSTU
+B
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 B B D
+0
+0
+1 4 35000 P
+A
+18 3
+A
+19 6
+#6991
+notice board~
+a notice board~
+`hA notice board has been placed here. Type `jread notice`h.``~
+unknown~
+0
+trash 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+E
+notice~
+`iPlease note`h: Any of gear you  recieve in the arena is flagged ROTDEATH and
+MELTDROP. This  means that the  items will disappear if you DROP them or if
+you DIE. If you are below level 15, you can always come back here by typing
+RECALL, then UP and ENTER TUTORIAL. After that, you're on your own!
+~
+#6992
+mageone~
+(no short description)~
+Mage ot~
+unknown~
+0
+trash 2
+S
+0
+A
+0
+0
+0
+6974
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#6993
+glasses mage~
+`han elderly `bmage's `hglasses``~
+`hthe glasses of an elderly `bmage`h lie here.``~
+unknown~
+200
+trash 2
+S
+0
+A
+0
+0
+0
+6975
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#6994
+ot reset~
+ot reset~
+Ot reset~
+unknown~
+0
+trash 2
+S
+E
+0
+0
+0
+0
+6976
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#6973
+0 0
+~
+~
+~
+0 0 0
+`gIn the Arena``~
+`h
+`g+`e============================= `kIn the Arena `e==============================`g+
+`h
+Welcome to  the newbie arena! To get  started, you  should first  buy a map
+from the map salesman. 
+`h
+Type: `jlist`h - See the map?
+Type: `jbuy map
+`h
+Now that you've  purchased your map, you  can use it to  help you  navigate 
+the arena. 
+`h
+Type: `jread map`h. 
+`h
+In any room in this arena, you can see where you are by typing: `jlook sign`h.
+`h
+`g+`e=========================================================================`g+``
+~
+0 D 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`i*`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6974
+D1
+~
+~
+0 0 6975
+D2
+~
+~
+0 0 1186
+D3
+~
+~
+0 0 6981
+S
+#6974
+0 0
+~
+~
+~
+0 0 0
+Leaving the Arena~
+`h
+`g+`e====================== `kYou Are Leaving the Arena! `e=======================`g+``
+`h
+You are about to leave the Arena! Make sure you have gotten all the eq that
+is offered  here, first. Type `jEQ `h to see what  you are wearing.  You should
+have 18 items on your body.
+`h
+If you are missing gear, it means you missed something in the arena.
+`h
+If you are ready to move on, go `jnorth`h!
+`h
+`g+`e=========================================================================`g+``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 1185
+D2
+~
+~
+0 0 6973
+S
+#6975
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a Tyrannobdella Rex who will drop a candle.
+Type `jk rex`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`i*`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6977
+D1
+~
+~
+0 0 6979
+D2
+~
+~
+0 0 6976
+D3
+~
+~
+0 0 6973
+S
+#6976
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a Simpson's Toad that will drop a pair of boots.
+Type `jk toad`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`i*`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6975
+D1
+~
+~
+0 0 6980
+S
+#6977
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a Monkey who will drop 2 neckguards.
+Type `jk monkey`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`i*`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D1
+~
+~
+0 0 6978
+D2
+~
+~
+0 0 6975
+S
+#6978
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a Ninja Snail(?) who will drop a pair of leggings.
+Type `jk snail`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`i*`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D2
+~
+~
+0 0 6979
+D3
+~
+~
+0 0 6977
+S
+#6979
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+`hThis room is a store, much like the mapseller's room. You can type `jlist `hto
+view what you can buy. 
+`h
+Payne is selling a steel key  which you will need to open a box! Make sure 
+`hto `jbuy key`h.
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`i*`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6978
+D2
+~
+~
+0 0 6980
+D3
+~
+~
+0 0 6975
+S
+#6980
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+There  are two important  elements  in this room. 
+`h
+There is a box  which you  will need a key to open. The key is somewhere in 
+the arena, go find it! 
+`h
+Once you find the key, type `junlock box`h, then `jopen box`h, but `ibe careful`h!
+`h
+When you open the  box an enemey will spring  out and attack you! These are
+called aggressive mobiles, and they are rather common in the world.
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`i*`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6979
+D3
+~
+~
+0 0 6976
+S
+#6981
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a Self-Cloning Lizzard who will drop a shield. Type `jk lizzard`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`i*`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6982
+D1
+~
+~
+0 0 6973
+D2
+~
+~
+0 0 6983
+D3
+~
+~
+0 0 6985
+S
+#6982
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a Squid Worm will drop a dark grey cloak.
+Type `jk worm`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`i*`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+``
+~
+D2
+~
+~
+0 0 6981
+D3
+~
+~
+0 0 6984
+S
+#6983
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a fluffy bat with yoda ears drops a wristguard.
+Type `jk bat`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`i*`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6981
+D3
+~
+~
+0 0 6986
+S
+#6984
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a Star Nosed Mole will drop a pair of bright red sleeves.
+Type `jk mole`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`i*`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D1
+~
+~
+0 0 6982
+D2
+~
+~
+0 0 6985
+S
+#6985
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a Giant Coconut Crab will drop a pair of leather gloves.
+Type `jk crab`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`i*`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6984
+D1
+~
+~
+0 0 6981
+D2
+~
+~
+0 0 6986
+S
+#6986
+0 0
+~
+~
+~
+0 0 0
+~
+`h
+`g+`e============================ `kIn The Arena `e===============================`g+
+`h
+To attack an enemy, type  `nk <enemy name>`h. You can then loot your enemies by 
+typing `nget all corpse`h.
+`h
+You can wear  anything you've  looted by  typing `nwear all`h, but the wear all
+command will not replace gear you're already wearing. 
+`h
+To replace  gear you  are  wearing, type '`nwear <itemname>`h' ie: wear candle. 
+You can also remove gear you are wearing by typing `nremove <itemname>`h. 
+`h
+If  at any  point you get turned  around in the arena, you  can always find
+out where you are by typing `nlook sign`h. Don't  forget to check your map too!
+`h
+This room: a pink handfish will drop a Spirit of the Neophyte.
+Type `jk fish`h!
+`h
+`e---------------------------------------------------------------------------``
+~
+0 0 0
+0
+~
+I 0 E
+sign~
+`gYou Are Here``       
+`n+`g---------------------------`n+
+`g|                           `g| 
+`g|            `k[`dE`k]            `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
+`g|   `a|    `a|    `a|   `a |   `a |   `g|
+`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
+`g|   `a|    `a|         `a|    `a|  `g |   
+`g|  `k[`i*`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
+`g|                           `g|
+`n+`g---------------------------`n+
+``
+~
+D0
+~
+~
+0 0 6985
+D1
+~
+~
+0 0 6983
+S
+#0
+
+#RESETS
+M 0 6974   1 6975  1	* `ha `ctyrannobdella rex `hleech``
+G 0 6974 -1		* `ha flickering tallow `kcandle`` to `ha `cTyrannobdella Rex `hleech``
+M 0 6977   1 6977  1	* `ha `bsneezing `bsnub-nosed `omonkey``
+G 0 6977 -1		* `hthe `kn`heophyte's `bneckguard`` to `ha `bSneezing `bSnub-Nosed `oMonkey``
+G 0 6977 -1		* `hthe `kn`heophyte's `bneckguard`` to `ha `bSneezing `bSnub-Nosed `oMonkey``
+M 0 6976   1 6978  1	* `ha `ipurple `hand `jgreen `oninja snail`` 
+G 0 6978 -1		* `ba pair of leggings`` to `ha `ipurple `hand `jgreen `oninja snail`` 
+M 0 6978   1 6981  1	* `ha `ns`ge`nl`gf`n-`gc`nl`go`nn`gi`nn`gg `clizard``
+G 0 6981 -1		* `ha small `dwooden shield `hwith `kn`heophyte `hbranded onto it`` to `ha `nS`ge`nl`gf`n-`gC`nl`go`nn`gi`nn`gg `cLizard``
+M 0 6980   1 6986  1	* `ha `mpink `khand`nfish``
+G 0 6983 -1		* `ns`gp`ni`gr`ni`gt `hof the `kn`heophyte`` to `ha `mpink `khand`nfish``
+M 0 6981   1 6985  1	* `ha `fgiant `hc`oo`hc`oo`hn`ou`ht `fcrab``
+G 0 6984 -1		* `da pair of leather gloves`` to `ha `fGiant `hC`oo`hc`oo`hn`ou`ht `fCrab``
+M 0 6982   1 6984  1	* `aa `gs`ntar `gn`nosed `gmole``
+G 0 6985 -1		* `ha pair of `ibright red sleeves`` to `aa `gS`ntar `gN`nosed `gMole``
+M 0 6975   1 6983  1	* `ha short, fluffy `dbat `hwith yoda ears``
+G 0 6976 -1		* `ha wristguard of `dtwigs `hand `cgrass`` to `ha short, fluffy `dbat `hwith yoda ears``
+G 0 6976 -1		* `ha wristguard of `dtwigs `hand `cgrass`` to `ha short, fluffy `dbat `hwith yoda ears``
+O 0 6988   0 6980 -1	* `ha `ablack steel box`` at 
+P 0 6986 1 6988 1
+P 0 6987 1 6988 1
+M 0 6984   1 6976  1	* `omr. `bb`iu`br`in`bs`h, the `ksimpson`h's `ctoad``
+G 0 6980 -1		* `ha pair of sturdy `kn`heophyte `nboots`` to `oMr. `bB`iu`br`in`bs`h, the `kSimpson`h's `cToad``
+M 0 6973   1 6973  1	* `iaerie`h, a map maker``
+G 0 6973 -1		* `ka map of the newbie arena`` to `iAerie`h, a map maker``
+O 0 6991   0 6973 1	* A notice board at `gIn the Arena``
+M 0 6979   1 6982  1	* `ha `cs`jq`cu`ji`cd `cw`jo`cr`jm``
+G 0 6982 -1		* `ha `adark grey `hcloak`` to `ha `cS`jq`cu`ji`cd `cW`jo`cr`jm``
+G 0 6993 -1		* `han elderly `bmage's `hglasses`` to `ha `cS`jq`cu`ji`cd `cW`jo`cr`jm``
+M 0 6986   1 6986  1	* `han elderly `bmage``
+G 0 6992 -1		* (no short description) to `han elderly `bmage``
+M 0 6983   1 6979  1	* `npayne`h, a smiling elf``
+G 0 6989 -1		* `asteel key`` to `nPayne`h, a smiling elf``
+G 0 6979 -1		* `ha `jbright green tunic`` to `nPayne`h, a smiling elf``
+G 0 6975 -1		* `fring `hof the `kn`heophyte`` to `nPayne`h, a smiling elf``
+S
+
+#SHOPS
+6973  0 28  0  0  0 	100 100 	0 23	* `iAerie`h, a map maker``
+6983  0 18  9  0  0 	100 100 	0 23	* `nPayne`h, a smiling elf``
+0
+
+#SPECIALS
+M 6973 spec_cast_mage		* `iAerie`h, a map maker``
+M 6983 spec_cast_mage		* `nPayne`h, a smiling elf``
+S
+
+#OT
+#6973
+aggey mob~
+$whenopened~
+8192
+68
+load mob 6985~
+100
+0
+force catfish say No! MY box!~
+100
+1
+force catfish k $name~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#6974
+payne 1~
+$entersroom~
+1
+71
+force mage say Now what did I do with my glasses....~
+100
+1
+force mage say I could sure use some help!~
+100
+1
+pecho $name ``~
+100
+2
+pecho $name `g---------------------------------------------------~
+100
+0
+pecho $name `hThe Mage  has started a quest with you! To complete~
+100
+0
+pecho $name `hthe quest, find his glasses and give them to him by~
+100
+0
+pecho $name `htyping `jgive glasses mage`h. Hint: check the worm!~
+100
+0
+pecho $name `g---------------------------------------------------~
+100
+0
+pecho $name ``~
+100
+0
+seize mageone mage~
+100
+0
+at 1 drop mageone~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#6975
+(null)~
+$obj_given_char 6986~
+4096
+96
+force mage say Oh! Thank the gods!~
+100
+2
+force mage emote carefully places his glasses on the bridge of his nose.~
+100
+2
+force mage say Now, take this. It's dangerous to go alone!~
+100
+2
+at 1 load obj 6990 ~
+100
+0
+at 1 get dagger~
+100
+0
+plant dagger mage~
+100
+0
+force mage give dagger $3vict~
+100
+1
+at 1 load obj 6992~
+100
+0
+at 1 get mageone~
+100
+0
+plant mageone mage~
+100
+0
+seize glasses mage~
+100
+0
+at 1 drop glasses~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#6976
+(null)~
+$on_tick~
+536870912
+71
+reset area~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

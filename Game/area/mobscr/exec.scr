@@ -1,0 +1,27 @@
+* File: exec.scr
+* Mob: Executioner(4094)
+ 
+#TRIGGER getobj
+Type 5
+Sc 
+let %long% == The executioner is sitting around, waiting for someone to kill.
+ofunc %getobj-arg% %vnum% vnum
+ofunc %getobj-arg% %oname% name
+if ( %vnum% == 4190 )
+   cmd sigh
+   wait 1~
+Sc
+   thank %getobj-from%
+   say Since the medallion has been found, you have a full pardon.  
+   wait 1~
+Sc
+   say You are free to go.
+   wait 2~
+Sc
+  signal 4081 %getobj-from%
+   msign %getobj-to% %long% long
+  halt once~
+End
+
+#END
+

@@ -1,0 +1,40 @@
+* File: Krathe.scr
+* Mob: Krathe (vnum 16311)
+
+#TRIGGER combat
+Type 2
+Sc
+mfunc %combat-from% %name% name
+mfunc %combat-from% %victim% name
+wfunc %acombat% random 0 99
+getpc %player%
+cmd at 1 peace
+cmd kill %player%
+if ( %acombat% < 10 )
+  cmd yell Help me!  I'm being attacked by %player%!
+  signal 16318 helpkrathe
+  halt once~
+Sc
+if ( %acombat% < 15 )
+  pecho %player% `hKrathe's eyes glow `ired`h with his rage.
+  cmd glare %player%
+  halt once~
+End
+
+#TRIGGER Tick
+Type 3
+Sc
+  cmd wake
+  walkto 16371
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+  shout My army shall avenge me, %killer%!
+  halt once~
+End
+
+#END

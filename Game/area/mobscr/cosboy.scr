@@ -1,0 +1,48 @@
+* Mob Vnum: 18966
+* Mob Name: A young boy
+* Room Vnum: 18984
+
+#TRIGGER class
+Type 10
+Sc
+mfunc %class-from% %class% class
+*if the char is a mage
+if (%class% == 0)
+  emote waves his hands and mumbles, pretending to cast a spell.
+  smile %class-from%
+  halt once~
+Sc
+*if char is a cleric
+if (%class% == 1)
+  pecho %class-from% A young boy bows to you with the customary respect given to priests.
+  halt once~
+Sc
+*if char is a thief
+if (%class% == 2)
+  pecho %class-from% A young boy frowns at you suspiciously.
+  halt once~
+Sc
+*if char is a warrior
+if (%class% == 3)
+  pecho %class-from% A young boy flexes his arm to show you his big muscle.
+  halt once~
+Sc
+*if char is a ranger
+if (%class% == 4)
+  emote points to a set of coyote prints on the ground.
+  say What are these from?
+  halt once~
+Sc
+*if the char is a bard
+if (%class% == 5)
+  echo %class-from% A young boy cheers when he sees you and begins to dance.
+  halt once~
+Sc
+*if the char is a paladin
+if (%class% == 6)
+  echo %class-from% A young boy admires your fine armor with wide eyes.
+  halt once~
+End
+
+#END
+

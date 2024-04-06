@@ -1,0 +1,28 @@
+* File: Targas.scr
+* Mob: Targas (26876)
+
+#TRIGGER enter
+Type 10
+Sc
+mfunc %enter-from% %name% name
+mfunc %enter-from% %level% level
+  say Greetings %enter-from%, what's the password?
+halt once~
+End
+
+#TRIGGER bazaar
+Type 99
+Sc
+if (%level% < 90)
+  say You're too young to enter.
+  MOB trans %name% 25092
+halt once~
+Sc
+if (%level% > 89)
+  emote smiles happily.
+  say Come on in!.
+  MOB trans %name% 26877
+  halt once~
+End
+
+#END

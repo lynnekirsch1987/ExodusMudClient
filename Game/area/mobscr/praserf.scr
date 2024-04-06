@@ -1,0 +1,62 @@
+* File: praserf.scr
+* Mob: a serf(21071)
+ 
+
+#TRIGGER enter
+Type 10
+Sc 
+mfunc %enter-from% %level% level
+mfunc %enter-from% %name% name
+mfunc %enter-from% %sex%  sex
+if ( %level% < 20 )
+   emote moves aside to let you pass.
+   bow %name%
+   halt once~
+Sc
+if ( %sex% == 2 )
+   grovel %name% 
+   emote murmurs, `a'`kGood day Lady %name%. An honor that you grace us with your presence.`a'``
+   halt once~
+Sc
+   grovel %name% 
+   emote murmurs, `a'`kGood day Lord %name%. An honor that you grace us with your presence.`a'``
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 2
+if ( %rndnum% == 0 )
+  emote looks downward, averting his eyes from yours, while going about his duties.
+  halt once~
+End
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 4
+mfunc %cmb-from% %fucker% sex
+if (%rndnum% != 2)
+   halt once~
+Sc
+if (%fucker% == 1)
+   emote cries out, `a'`kPlease Lord, have mercy on my poor soul!`a'``
+   worship %fucker%
+   halt once~
+Sc
+if (%fucker% == 2)
+   emote sobs bitterly, `a'`kPlease my Lady, I am not worthy of your blade!`a'``
+   emote whimpers and pleads for his life.
+   halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  emote moans for mercy, pleading for a few more days to continue his miserable existence.
+  halt once~
+End
+
+#END
+

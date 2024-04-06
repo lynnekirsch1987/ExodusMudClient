@@ -1,0 +1,18 @@
+* File: asp.scr
+* Mob: asp(8700)
+
+#TRIGGER slither
+Type 3
+Sc
+wfunc %sltk% random 0 6
+if (%sltk% == 3)
+emote darts into a corner of the room, hissing at you from the shadows.
+halt once~
+Sc
+if (%sltk% == 5) || (%sltk% == 6)
+emote wraps itself around your leg, and quickly slithers down again.
+halt once~
+End
+
+#END
+

@@ -1,0 +1,25 @@
+* File: cno.scr
+* Mob: Citizen Nowhere(8804)
+
+#TRIGGER trigz
+Type 3
+Sc
+wfunc %scient% random 0 5
+wfunc %ology% random 0 5
+if ( %scient% == 0 ) && ( %ology% < 3 )
+emote moans quietly to himself.
+halt once~
+Sc
+if ( %scient% == 0 ) && ( %ology% > 3 )
+emote glances wistfully at you, muttering something to himself.
+say Maybe Crowley was right after all...
+emote throws his hands into the air helplessly.
+halt once~
+Sc
+if ( %scient% == 5 ) && ( %ology% == 5 )
+emote begins slavering uncontrollably.
+emote screams and collapses!
+halt once~
+End
+
+#END

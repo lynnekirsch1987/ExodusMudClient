@@ -1,0 +1,4612 @@
+#AREA
+ 6~
+krathen.are~
+`jKeep of the Krathen``~
+{55 91} Anakin  `jKeep of the Krathen``~
+~
+16303 16400
+16 G 0
+0 0
+~
+#MOBILES
+#16303
+Huge Ant~
+`aA huge tree ant``~
+`aThe giant ant scans the tree with his feelers.``
+~
+The ant looks to be from a messed experiment of an alchemist.  It's
+feelers are mutated and appear to me much longer then an ants of that size
+should be.  Although, it looks to be peaceful, a fight with it would be
+deadly.  
+~
+centipede~
+0 0 0 0
+Ae QZ 0 0
+60 60 2d40+1560 10d60+100 5d5+5 acbite
+-40 -40 -40 999 -24
+U -1 ALUV 0 FGIQ E
+stand stand male 0
+ABGO ACEKa 18 18 18 18 18 18 0
+medium oldstyle~
+0 5 30000 100
+0
+~
+~
+#16304
+Krathen Guard foul~
+A foul-looking guard~
+`hA`d foul-looking`h guard growls as he fights off yet another Continuum knight.``
+~
+This foul-looking guard is huge and powerful, so you decide not to tell
+him about his appearence.  In fact, if he asks, you'll tell him you love the
+combination of bird and man, and are jealous of his primarily bird physique.
+If he fights as well as he is ugly, you will surely die.  
+~
+human~
+0 0 0 0
+ABTX VZ -1000 16304
+80 80 40d30+4000 1d1+100 3d6+30 pierce
+-20 -20 -20 999 0
+U -1 EMNV AB OS F
+stand stand male 400
+AHMVW ABCDEFGHIJKPa 22 22 22 22 22 22 0
+medium scales~
+0 0 0 100
+0
+~
+~
+#16305
+keep guard krathen~
+The Keep Guard~
+`dA Keep Guard is fighting off the intruders!``
+~
+This guard is of a different breed then the other guards outside the
+Keep.  He appears to be much stronger and much better equipped.  His muscles
+bulge out past his montrous wings as they ruffle in the wind.  
+~
+unique~
+0 0 0 0
+ABNTc TVZ -500 0
+70 90 20d60+5000 1d1+100 9d9+44 pierce
+-50 -52 -58 999 -48
+0 -1 CDEMN AB CG Y
+stand stand male 500
+W ABCFIJKPQU 20 20 20 20 20 20 0
+medium scales~
+0 0 0 100
+3
+race1.voc~
+~
+#16307
+Krathen Flag Guard~
+The Krathen Flag Guard~
+`dA Krathen Flag Guard leads a group of soldiers here.``
+~
+The monstrous guard looks so much more deadly then the other guards.  He
+looks to be twice the size of the other guards, along with twice as strong
+and quick.  He holds his chin high, as his muscles tense when you look at
+him, almost ready to strike.  
+~
+unique~
+0 0 0 0
+ATX OTVZ -800 16304
+87 100 10d100+5000 1d1+400 11d12+45 pierce
+-25 -25 -25 999 25
+U 59 4 DEGJ AB Z H
+stand stand male 500
+AHVW ABCDEFK 24 24 24 24 24 24 0
+medium flesh~
+0 0 0 100
+2
+~
+~
+#16308
+Tower Guard~
+A Tower Guard~
+`dA Tower Guard, sworn to defend the Krathen until death, bars your way.``
+~
+The Tower Guard does not seem to be as big or husky as the other guards
+of the Keep.  He is rather tall and lanky, and his wings are much longer
+than usual, displaying that he is a strong flyer.  Also, all he is wearing
+is a pair of glasses, that seem to glow around his head.  
+~
+unique~
+0 0 0 0
+ABCHN TV -640 0
+77 25 10d60+6850 1d1+540 5d6+1 punch
+-35 -32 -39 999 -20
+D -1 FHK AB E I
+stand stand male 1000
+W ADEHJKP 22 22 22 22 22 22 0
+medium scales~
+0 0 0 100
+0
+~
+~
+#16310
+Krathen Trainee~
+A Krathen trainee~
+`dA trainee of the Krathen army has been forced to defend his keep.``
+~
+This trainee seems ready to bloom into an Elite Guard.  Small, but by the
+shape of his bones, he looks like he will be huge when he matures.  
+~
+human~
+0 0 0 0
+AFH T -600 0
+60 60 20d70+6000 1d3+210 5d5+9 pierce
+-22 -30 -29 999 -18
+0 -1 CKN AB J P
+stand stand male 0
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium scales~
+0 0 0 100
+0
+~
+~
+#16311
+krathe leader human traitor krathenleader~
+Krathe, leader of Krathen~
+`dKrathe, the traitor of humans, leads his army to defend his keep!``
+~
+Krathe, is huge, especially for a human.  His large size is very
+deceiving of his battle quickness and prowess.  It is said he once fought
+off a whole army of men as he escaped to hide among the Krathen.  Various
+cuts about his body show that it is true.  
+~
+human~
+0 0 0 0
+ABNTc DFHJOV -1000 16311
+95 130 10d60+13020 16d50+300 6d4+60 slash
+-60 -60 -60 999 -60
+0 -1 ADFJK AB EIJKM T
+stand stand male 9000
+AHMV ABCDEFGHIJKa 26 26 26 26 26 26 30311
+large scales~
+0 0 0 100
+0
+~
+krathe.scr~
+#16312
+general krathen~
+The Krathen General~
+``The `gGeneral`` of the Krathens stands here, musing over some battle plans.
+~
+The General of the Krathe is a big, imposing Krathen.  He has, however, a
+slightly harried look at all times.  You wonder if it has anything to do
+with the wedding ring he wears on a finger.  
+~
+human~
+0 0 0 0
+ABXc HTV -1000 7401
+90 120 100d10+9000 10d100+400 4d6+40 claw
+-34 -40 -38 999 -19
+0 -1 CDEFK AB G K
+stand stand male 6000
+AHMVW ABCDEFGHIJKPQUa 24 24 24 24 24 24 0
+medium scales~
+0 0 0 100
+4
+genkrathe.voc~
+~
+#16313
+woman krathen nude~
+A Krathen woman~
+`dA Krathen woman runs around in panic.``
+~
+`kShe is nude! Woohoo! Nothing beats nude women panicking!``
+~
+human~
+0 0 0 0
+AGH T -750 0
+75 80 10d20+6040 10d100+400 4d5+10 claw
+-28 -32 -30 999 -18
+U -1 KNOU A BEK I
+stand stand female 1000
+AHMVW ABCDEFGHIJKPQUa 15 21 21 21 21 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#16314
+krathen child~
+A krathen child~
+A krathen child tries to sneak by unnoticed.
+~
+~
+human~
+0 0 0 0
+ACGHS PT -200 0
+30 30 10d20+800 10d10+200 3d4+8 bite
+-1 -1 0 999 0
+0 -1 EJ B Z CF
+stand stand either 50
+AHMVW ABCDEFGHIJKPQUa 12 12 12 12 12 12 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#16315
+alchemist~
+The alchemist~
+`dThe alchemist huddles over some sickly, glowing potions, preparing healing potions for his comrades.``
+~
+~
+human~
+0 0 0 0
+ABGNO H -1000 0
+90 70 10d60+7050 10d10+1000 4d6+30 wrath
+-44 -41 -45 999 -30
+0 -1 FK AB EGK L
+stand stand male 6000
+ABHIMVW ABCDEFGHIJKPQa 24 24 24 24 24 24 0
+medium scales~
+0 0 0 100
+0
+~
+~
+#16316
+old retired officer man krathen~
+An old Krathen man~
+`dAn old retired Krathen officer has once again picked up his sword.``
+~
+~
+human~
+0 0 0 0
+AGM T -300 0
+72 20 20d40+6000 1d1+99 3d8+27 pierce
+-30 -30 -30 999 -29
+0 -1 EFK AB 0 0
+stand stand male 300
+AHMVW ABCDEFGHIJKPQUa 21 21 21 21 21 21 0
+medium scales~
+0 0 0 100
+0
+~
+~
+#16317
+cook krathen~
+The Cook~
+`dThe cook dodges swords and arrows, trying to escape the raging battle.``
+~
+Grease splatters decorate the charred and stained apron worn by this
+Krathe cook.  He holds a large, bloody cleaver in one hand with the kind of
+comfortable grip that suggests he doesn't like criticism of his food.  
+~
+human~
+0 0 0 0
+AGM T 0 0
+60 60 20d20+3000 1d1+99 6d6+6 chop
+-20 -21 -19 999 -12
+0 -1 EFK B 0 0
+stand stand male 0
+AHMVW ABCDEFGHIJKPQUa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#16318
+handmaid woman krathen~
+A handmaid of Krathe~
+`dA woman kneels here at Krathe's feet, defending her master.``
+~
+~
+human~
+0 0 0 0
+ACGHM HKTV -800 16311
+83 90 30d40+6070 20d20+700 4d8+17 acbite
+-30 -30 -30 999 -30
+0 -1 FU AB K 0
+sit sit female 1
+AHMVW ABCDEFGHIJKPQa 23 23 23 23 23 23 0
+medium flesh~
+0 0 0 100
+0
+~
+KratheMaid.scr~
+#16319
+small ant~
+`aA tiny ant``~
+`aAn ant twists and turns, following its own mysterious path.``
+~
+~
+centipede~
+0 0 0 0
+AGN Z 0 7403
+10 10 2d5+50 1d1+99 2d2+1 digestion
+0 0 0 999 5
+U -1 FU 0 DFI E
+stand stand none 0
+ABGO ACFKa 8 8 8 8 8 8 0
+tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#16320
+small lightning bug~
+`kA small lighting bug``~
+`eA `klightning bug `eflutters around.``
+~
+~
+human~
+0 0 0 0
+AG Td 0 7404
+5 5 2d6+80 1d1+99 4d4+1 scratch
+0 0 0 999 3
+UV -1 FU 0 D 0
+stand stand none 0
+AHMOV ABCDEFGHIJKPa 7 7 7 7 7 7 0
+tiny oldstyle~
+0 0 0 100
+4
+~
+~
+#16321
+giant huge lightning bug~
+`oA giant `klightning bug``~
+`oA huge `klightning bug`o hovers too close to your eyes.``
+~
+~
+human~
+0 0 0 0
+AZe T 0 7404
+68 0 20d20+3000 1d1+699 6d7+1 drain
+-5 -5 -5 999 -5
+UV 59 2 CFK AJ JO IQ
+stand stand none 0
+AHMOV ABCDEFGHIJKa 20 20 20 20 20 20 30067
+large oldstyle~
+0 8 900 100
+4
+~
+~
+#16322
+general's wife woman krathen~
+`cThe General's wife``~
+`cThe General's wife sits here, polishing some old armor.``
+~
+This tall, birdlike woman sings tunefully under her breath as she
+polishes an old piece of armor.  Looking closely at the armor she holds, you
+wonder who it is meant for, as surely it would never fit the massive
+General.  It definitely looks as if it were made for a more slender figure. 
+As she turns the armor in her hands to better polish it, you catch a glimpse
+of the breastplate and realize...  That armor is for a woman.  Perhaps even
+the General's wife herself.  She doesn't seem so wimpy anymore, and you
+think it might be a bad idea to ask her about her sewing or if she's done
+the dishes lately.  
+~
+human~
+0 0 0 0
+AGNc HTV -200 7401
+74 80 40d40+3800 20d20+700 6d6+6 scratch
+-35 -40 -38 999 -20
+0 -1 CFGJ 0 B H
+sit stand female 260
+AHMVW ABCDEFGHIJKPQUa 21 21 21 21 21 21 0
+medium scales~
+0 0 0 100
+4
+genwifekrathe.voc~
+~
+#16323
+krathen keep guard~
+A Keep Guard~
+`dA Keep Guard fends off intruders here.``
+~
+This guard is of a different breed then the other guards outside the
+Keep.  He appears to be much stronger and much better equipped.  His muscles
+bulge out past his montrous wings as they ruffle in the wind.  
+~
+unique~
+0 0 0 0
+ABFNTc TZ -200 16323
+70 90 20d60+6030 1d1+100 6d7+6 slice
+-50 -52 -58 999 -48
+0 -1 CDEMN AB G Y
+stand stand male 0
+W ABCFIJKPQU 20 20 20 20 20 20 0
+medium scales~
+0 0 0 100
+3
+race1.voc~
+~
+#16324
+mechanical flailer~
+A mechanical flailer~
+`dA mechanical flailer awaits your trigger.``
+~
+~
+human~
+0 0 0 0
+AB KV 0 0
+50 50 20d20+700 1d1+99 1d1+0 slash
+-10 -10 -10 999 -10
+0 -1 AHU AB D 0
+stand stand none 0
+AHJMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#16325
+orc butcher~
+An orc butcher~
+`dAn orc butcher hides behind a corpse here.``
+~
+An orc glowers at you with eyes too dead to feel anything but hate.  He
+has been a slave to the Krathe so long that he no longer remembers anything
+but his life here, and his hatred of his masters.  Because of the time he's
+spent here, he has been given the position of butcher to the Cook.  As you
+watch, he scratches idly at himself, dried gore flaking off to fall to the
+floor.  How disgusting!  
+~
+orc~
+0 0 0 0
+ABGc JQ -200 0
+60 60 10d140+1430 10d50+2 10d4+23 cleave
+-30 -30 -30 999 -19
+0 -1 CEW B Q S
+stand stand male 1
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#16326
+siege knight~
+`oThe Siege Knight``~
+`oA giant of a man stands here, blocking your way with his shield.``
+~
+`hThe siege knight stands here, blocking all access to the krathen keep. 
+His work is to prevent people from walking into the `hraging battle.  Not a
+participant of the battle, his shining steel armor gleams like a mirror and
+his heavy round-shield `hpresents a mighty obstacle on his arm.  With a
+determined but friendly smile he denies you entrance to the keep.  `` 
+~
+human~
+0 0 0 0
+ABT DFHV 1000 0
+90 70 9999d1+1 1d1+1 10d1+10 slash
+-20 -20 -20 999 30
+AD 4 ACDE AB 0 CDEFG
+stand stand male 666
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+huge oldstyle~
+0 0 0 3004
+4
+none~
+~
+#16327
+continuum knight continuumknight~
+`oA`k Continuum`o Knight``~
+`oA knight of the Continuum order is fighting the Krathen army.``
+~
+~
+human~
+0 0 0 0
+AQT H 1000 1111
+80 90 3000d1+333 500d1+5 6d7+2 slash
+-30 -30 -30 999 -30
+0 -1 CK AB 0 GM
+stand stand male 60
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium oldstyle~
+0 0 0 100
+4
+~
+~
+#16328
+cleric continuum battlecleric~
+`oA Cleric of`k Continuum``~
+`oA battle-cleric of the Continuum order throws holy fire at her enemies.``
+~
+`hAs rays of holy light shoot out of her hands, this `hcleric rips
+through her enemies.  Her robes are in disarray, but still untainted by
+blood.  `hA white leather book is tucked in her belt marked with the
+tell-tale sign `hof the Continuum order.  A`o radiant white aura`h surrounds
+her, and every weapon that passes `hthrough slows down, as if stuck in time
+itself, making it easy for the cleric to dodge it.  `` 
+~
+human~
+0 0 0 0
+AQ DHT 1000 1111
+80 80 3000d1+34 1000d1+10 6d7+3 divine
+-20 -20 -20 999 -50
+U -1 F AB Q G
+stand stand female 70
+AHMV ABCDEFGHIJKa 22 22 22 22 22 22 0
+medium oldstyle~
+0 0 0 100
+3
+~
+~
+#16329
+continuum monk continuummonk~
+`oA`k Continuum`o Monk``~
+`oDodging the enemy's lunges and swings easily, a Continuum monk cuts through skin with rapid strikes.``
+~
+`hClad in a loose cotton garb, this monk moves swiftly between the
+enemies, derilvering deadly `hstrikes with his hands and feet.  The same
+fanatism radiates from his sweaty face as the other `hinvaders of krathen. 
+`` 
+~
+human~
+0 0 0 0
+AG NTVZc 1000 1111
+90 100 5000d1+5 500d1+1 12d10+5 punch
+-10 -20 -10 999 -10
+DHU 0 FWX AB LN 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 24 24 24 24 24 24 0
+medium oldstyle~
+0 0 0 1000
+4
+~
+~
+#0
+
+#OBJECTS
+#16305
+heavy blade two-handed~
+a heavy blade~
+A heavy blade falls noisily to the floor.~
+steel~
+0
+weapon 2
+BIJ
+0
+ANR
+0
+0
+0
+16334
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+A ABC D AB F
+0
+0
+77 400 7001 P
+A
+2 -1
+#16306
+Krathen Sword~
+the sword of the Krathen~
+The stout, sharp standard issue sword of the Krathen.~
+steel~
+0
+weapon 2
+IL
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+A ABC D AB D
+0
+0
+75 150 9000 P
+A
+18 2
+A
+19 2
+#16307
+shield midshield krathen~
+a Krathen MidShield~
+A Krathen midshield has been carelessly discarded here.~
+steel~
+0
+armor 2
+B
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+E E E AB 0
+0
+0
+70 150 500 P
+#16308
+Krathen Highshield Shield~
+the Krathen HighShield~
+A full length Krathen shield lies here.~
+steel~
+0
+armor 2
+BM
+0
+AJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AE AE AE AE 0
+0
+0
+75 130 4000 P
+A
+5 1
+#16309
+Flag Breastplate~
+`ia Krathen Flag Breastplate``~
+An elitely made flag breastplate looks far too good for you.~
+steel~
+0
+armor 2
+J
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AE AE AE AE 0
+0
+0
+77 350 5000 P
+A
+18 4
+#16310
+Krathen Polearm~
+a Krathen Polearm~
+A powerful looking Krathen polearm thirsts for battle.~
+steel~
+0
+weapon 2
+BCGI
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC ABC ABC BF DI
+0
+0
+78 150 6000 P
+#16311
+Binocular Glasses~
+a pair of binocular glasses~
+A pair of glowing glasses remain somehow unbroken on the floor.~
+glass~
+0
+jewelry 2
+AS
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+72 10 0 P
+A
+2 1
+A
+3 1
+#16312
+Diamond of Krathens~
+`oThe Krathen Diamond``~
+The diamond of Krathens twinkles and sparkles here.~
+diamond~
+0
+treasure 2
+ALPS
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+85 10 15000 P
+A
+18 4
+A
+26 1
+A
+1 1
+A
+2 1
+A
+5 1
+#16314
+ring black horror~
+`aThe ring of `bHorror``~
+`aA deeply black ring reaches to pull your will into it.``~
+ebony~
+0
+jewelry 2
+CEJMSYZ
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+85 5 5000 P
+A
+26 -5
+A
+17 -10
+A
+18 3
+A
+19 3
+#16315
+lightning bug jar~
+`kA jar of lightning bugs``~
+`oA jar of `klightning bugs `orests on the counter.``~
+glass~
+0
+light 2
+AS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 EHI 0 0
+0
+0
+60 10 20 P
+A
+18 2
+#16316
+circlet willow branches~
+`cA circlet of willow branches``~
+`cCunningly intertwined, these willow branches form a perfect circle.``~
+wood~
+0
+armor 2
+S
+B
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+0 0 0 AC 0
+0
+0
+75 20 255 P
+A
+4 1
+#16317
+lapis medallion~
+`lA lapis medallion``~
+`lA medallion of finest lapis awaits a worthy bearer.``~
+stone~
+0
+jewelry 2
+BKS
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+73 15 2000 P
+A
+24 -3
+#16318
+ring handmaid~
+`ooo`mThe Ring of Krathe's Handmaid`ooo``~
+`mA handmaid's ring awaits, ready to enslave your soul.``~
+diamond~
+0
+jewelry 2
+HMSZa
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+83 1 500 P
+A
+2 2
+A
+6 1
+#16319
+metal ring band dull pitted~
+`aA dull band of metal``~
+`aA ring of pitted metal, engraved with faint numbers, has fallen here.``~
+steel~
+800
+armor 2
+GM
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABC ABC ABC ABC 0
+0
+0
+72 25 15 P
+#16320
+bright silk ribbon~
+`kBright `isilken `lribbons``~
+`nFluttering in faint breeze, ribbons of `kpure `ibright `lsilk`n, shine.``~
+silk~
+0
+clothing 2
+S
+0
+AI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+64 2 75 P
+A
+26 2
+#16321
+belt willow branches~
+`cA belt of willow branches``~
+`cA long, sinuous line of willow branches looks something like a belt.``~
+wood~
+0
+armor 2
+S
+B
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+~
+~
+~
+~
+C C C 0 0
+0
+0
+75 20 220 P
+A
+4 1
+A
+26 -2
+#16322
+krathen leg guards~
+a set of Krathen Leg Guards~
+A set of Krathen Leg guards lies discarded on the ground.~
+wood~
+0
+armor 2
+S
+0
+AF
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+E E E 0 0
+0
+0
+70 90 1 P
+A
+18 4
+A
+5 1
+A
+19 2
+#16323
+jewelled slippers~
+`bJ`fe`bw`fe`bl`fe`bd `dSlippers``~
+`dNeatly arranged, here sit a pair of `bJ`fe`bw`fe`bl`fe`bd `dslippers.``~
+velvet~
+0
+clothing 2
+APS
+0
+AG
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+64 4 5000 P
+A
+26 1
+A
+2 1
+A
+5 -2
+#16324
+menacing air~
+`aA menacing air``~
+`aAn air of menace chills the room.``~
+ethereal~
+0
+clothing 2
+JPS
+0
+AK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+90 0 0 P
+A
+5 -1
+A
+26 -3
+A
+19 3
+A
+1 1
+#16325
+puzzle box~
+`i[`kA Golden Puzzle Box`i]``~
+`gThis puzzle box looks absolutely `nENTRANCING...``~
+metal~
+0
+container 2
+AHJKMSZa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BCEH AC 0 CFG ABDG
+0
+0
+70 100 3000 P
+A
+18 3
+A
+19 3
+#16326
+enslaved mind~
+`o<`fAn `jenslaved `fMIND`o>``~
+`fA mind, long enslaved, frolicks free, for a moment...``~
+ethereal~
+0
+armor 2
+BPS
+0
+AQ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+80 0 1000 P
+A
+12 35
+#16327
+giant nest~
+`dA giant nest``~
+`dA giant nest of bark and twigs awaits you.``~
+wood~
+0
+furniture 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C EGIJOP IL BCDFG BDEG
+0
+0
+60 3000 0 P
+#16328
+ruby medallion~
+`iA ruby medallion``~
+`iA medallion of finest ruby awaits a worthy bearer.``~
+stone~
+0
+jewelry 2
+JS
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+73 15 2059 P
+A
+24 -3
+#16329
+silver hip flask~
+A `osilver`` hip-flask``~
+This fine hip-flask reeks of strong drink...~
+silver~
+0
+drink 2
+I
+0
+AL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BDEFGH BDEFGH AC 0 0
+0
+0
+78 50 4000 P
+A
+17 -4
+#16330
+bird bath fountain~
+`lA giant birdbath``~
+`lA giant birdbath plashes and burbles, enticing you to drink.``~
+stone~
+0
+fountain 2
+RS
+0
+0
+0
+0
+0
+16330
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 5000 0 P
+#16331
+practice stick wooden~
+A practice stick~
+A long wooden stick padded with cotton awaits an unskilled trainee.~
+wood~
+0
+weapon 2
+S
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+60 100 5 P
+A
+19 -15
+#16332
+seed cake~
+`dSome Grain Cakes``~
+`dA pile of grain cakes sits on the ground.``~
+unknown~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ADE ADE BCEH 0 0
+0
+0
+40 5 40 P
+#16333
+cleaver bloody~
+a bloody, rusty cleaver~
+Blood stains have begun to rust this cook's cleaver.   ~
+metal~
+0
+weapon 2
+0
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+AC ABC AC A H
+0
+0
+60 60 700 P
+A
+19 2
+A
+17 -3
+#16334
+arrowhead~
+a stone arrowhead~
+A stone arrowhead is here.~
+pottery~
+0
+weapon 2
+S
+0
+A
+0
+0
+0
+16334
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+ABD AC B ABD 0
+0
+0
+10 5 500 P
+#16335
+rubble~
+some rubble~
+`dThe room to the west is totally demolished by the invading troops.``~
+stone~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+16335
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 3000 0 P
+#16336
+corpse decapitated~
+a decapitated corpse~
+The decapitated corpse of a defending Krathen archer lies here.~
+flesh~
+0
+npc_corpse 2
+S
+0
+0
+0
+0
+0
+16336
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 145 0 P
+#16337
+corpse decapitated~
+a corpse~
+The bloodied corpse of a Flag Guard lies here.~
+flesh~
+0
+npc_corpse 2
+S
+0
+0
+0
+0
+0
+16336
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 145 0 P
+#16338
+gigantic boulder~
+a gigantic boulder~
+A gigantic boulder has been lodged into the wall here.~
+stone~
+0
+trash 2
+RSTY
+0
+0
+0
+0
+0
+16338
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#16339
+shattered weapon sword~
+a shattered sword~
+Shattered weapons lie between the corpses of two warriors.~
+unknown~
+0
+trash 2
+RSTY
+0
+0
+0
+0
+0
+16339
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#16340
+coils guts~
+coils of guts~
+Gore and blood makes the ground slippery here.~
+unknown~
+0
+trash 2
+RSTY
+0
+0
+0
+0
+0
+16340
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 1 P
+#16341
+roaring fire~
+a roaring fire~
+A roaring fire crackles here, burning tapestries and books.~
+fire~
+0
+trash 2
+RSTY
+0
+0
+0
+0
+0
+16341
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#16342
+weapon rack~
+a weapon rack~
+Weapon racks line the blood-splattered stone walls.~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+16342
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#16343
+dagger~
+a dagger~
+A dagger is stuck in a thick oak door here.~
+iron~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+16343
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#16344
+lightning core~
+`klightning `icore``~
+`kElectricity `idances across the inner core of a `klightning `lbug.``~
+energy~
+0
+trash 2
+HMQSYd
+0
+AO
+0
+0
+0
+16344
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 50 100000 P
+#16345
+roundshield continuum shield~
+`hThe Round-shield of Continuum``~
+`hThis heavy iron round-shield is adorned by a golden circle.``~
+iron~
+0
+armor 2
+KLd
+0
+AJ
+BHK
+AD
+0
+16345
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+E E E E 0
+0
+0
+70 60 3500 P
+A
+13 33
+#0
+
+#ROOMS
+#16303
+100 75
+~
+~
+~
+0 0 0
+At the Great Trunk~
+You stand before the trunk of a huge tree, that seems to reach into the
+heavens.  Although it seems to be very ancient, your kick to the trunk
+proves it to be very sturdy.  Some large, deep cut marks on the trunk draw
+your attention and you think that you might be able to use the marks to be
+able to shimmy up the tree, although your stomach churns at the thought.  
+~
+0 X 3
+0
+~
+I 0 D3
+~
+~
+0 0 18916
+D4
+~
+~
+0 0 16304
+S
+#16304
+0 0
+~
+~
+~
+0 0 0
+Hugging a Tree~
+You hug the ancient tree for dear life as you shimmy up.  You notice
+rather peculiar looking ants chewing away at its bark, and hope that bark is
+the only thing they like to chew on.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+~
+0 0 25759
+D4
+~
+~
+0 0 16305
+D5
+~
+~
+0 0 16303
+S
+#16305
+0 0
+~
+~
+~
+0 0 0
+Hugging a Tree~
+As you get higher and higher ascending the tree, its bark seems to get
+more and more comfortable next to your body.  Its age seems to dissipate,
+and starts to resemble the strong bark of sapling in its prime.  
+~
+0 0 3
+0
+~
+I 0 D3
+~
+treehouse~
+65 0 26905
+D4
+~
+~
+0 0 16306
+D5
+~
+~
+0 0 16304
+S
+#16306
+0 0
+~
+~
+~
+0 0 0
+Hugging a Tree~
+With the bark starting to get more comfortable, it's also becoming much
+more easier to shimmy up.  You glance up and almost seem to make out the
+makings of some kind of town up in the trees.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 16307
+D5
+~
+~
+0 0 16305
+S
+#16307
+0 0
+~
+~
+~
+0 0 0
+Hugging a Tree~
+From here you have the vantage of being above all other trees in the
+forest, which now seem to be nothing larger than petty shrubs waiting to be
+pruned.  You glance up and see a wooden platform that you can stand on and
+rest.  
+~
+0 0 3
+0
+~
+I 0 D4
+~
+~
+0 0 16308
+D5
+~
+~
+0 0 16306
+S
+#16308
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Keep of the Krathen~
+What previously appeared to be a resting area is actually the entrance to
+an intricately designed wooden keep; it could almost be called a giant tree
+house.  Wiry bridges connect different huts and cabins on an intricate
+network of branches.  To the north is a wiry bridge that leans across to
+what seems to be the center of the keep.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 16309
+D5
+~
+~
+0 0 16307
+S
+#16309
+0 0
+~
+~
+~
+0 0 0
+Crossing the Wiry Bridge~
+Like the tree, this Bridge seems also to be very old, but also
+dependable.  Only an inch thick, the rope still can bear an incredible
+amount of weight.  You are thankful for this, knowing your life could easily
+end if it snapped.  
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 16310
+D2
+~
+~
+0 0 16308
+S
+#16310
+0 0
+~
+~
+~
+0 0 0
+Centre of the Keep~
+You stand firmly in the center of the tree, with small, seemingly
+harmless huts branching out to your east and west.  To the north you see an
+imposing fortress.  Before you stands some kind of a contraption that acts
+as a well which brings up buckets of water, slowly, from the now distant
+ground.  
+~
+0 X 3
+0
+~
+I 0 D0
+~
+~
+0 0 16331
+D1
+~
+~
+0 0 16315
+D2
+~
+~
+0 0 16309
+D3
+~
+~
+0 0 16311
+S
+#16311
+0 0
+~
+~
+~
+0 0 0
+The Razed Huts~
+Great rocks have totally obliterated the row of commons, wood and leaves
+mix with the bludgeoned remains of the krathen commoners and a few winged
+soldiers.  The surrounding greenery of the krathen tree is blackened by soot
+and blood, testament to the ongoing battle.  `` 
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 16310
+S
+#16315
+0 0
+~
+~
+~
+0 0 0
+On a wiry bridge~
+Although this bridge is built with the same strong rope as the others, it
+is much more intricate in design.  It is knotted and tied in a way that
+almost looks fashionable.  
+~
+0 0 3
+0
+~
+I 0 D1
+~
+~
+0 0 16316
+D3
+~
+~
+0 0 16310
+S
+#16316
+0 0
+~
+~
+~
+0 0 0
+Before the Larger Huts~
+The huts on this side of the Tree appear much larger and more richly made
+than the common huts.  One of these buildings seems to larger than several
+of the common huts, and the wood that composes each of these gives off a
+sweet smell.  
+~
+0 CX 3
+0
+~
+I 0 D0
+~
+~
+0 0 16324
+D1
+~
+~
+0 0 16319
+D2
+~
+~
+0 0 16317
+D3
+~
+~
+0 0 16315
+S
+#16317
+0 0
+~
+~
+~
+0 0 0
+Before the Krathen Church~
+You stand before what appears to be the Church of the Krathen.  On top of
+this small abode, you see a statue that rises into the sky.  While you
+cannot yet make out the details of this statue, it seems to be a honorarium
+of their god.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16316
+D2
+~
+~
+0 0 16318
+S
+#16318
+0 0
+~
+~
+~
+0 0 0
+Krathen Church~
+An aura seems to envelop you as you enter this holy church.  Its
+structure is built in a way that you are not familiar with.  Huge beams of
+sweet-smelling wood rise up and form the church in an undescribable way. 
+Before you stands the statue of their god, Krathe.  Oddly, Krathe appears to
+be human, looking nothing like the bird-like Krathens.  
+~
+0 DG 0
+0
+~
+H125
+I 0 M125
+D0
+~
+~
+0 0 16317
+S
+#16319
+0 0
+~
+~
+~
+0 0 0
+Once a Glorious Manor~
+Debris covers the floor, the stairs and all exits except the entrance.  A
+short-lived battle seems to have taken place in here, gutted and mutilated
+servants are piled near the door, as if defending the master of this mansion
+with their lives.  Charred, ripped-out of pages of books lie near fires made
+of torn-down tapestries.  
+~
+0 0 1
+0
+~
+I 0 D3
+~
+~
+0 0 16316
+S
+#16324
+0 0
+~
+~
+~
+0 0 0
+Before the General's Mansion~
+To the North you see a mansion, that makes Governor Shik's hut look like
+a anthill.  It is made of thick planks of finely worked wood, seamed close
+together.  The windows are narrow and resemble arrow slits more than places
+to look out of.  In fact, the whole thing, while elegantly made, looks more
+like a fortress than a home.
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16325
+D2
+~
+~
+0 0 16316
+S
+#16325
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Mansion~
+Unlike the other homes, the General's Mansion actually looks more like a
+house than a hut.  The wood that composes it is much stronger and thicker,
+and overall the building looks sturdier than any of the others.  It almost
+seems as if the General wanted his own fort.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+wooden~
+1 0 16326
+D2
+~
+~
+0 0 16324
+S
+#16326
+0 0
+~
+~
+~
+0 0 0
+Waiting room~
+This room is the room where guests wait for the appearance of the
+General.  Many pictures of the General and his descendants cover the wall. 
+The singular lack and poor quality of light in this room forces you to
+strain to see them.  
+~
+0 D 1
+0
+~
+I 0 D0
+~
+~
+0 0 16330
+D1
+~
+door~
+1 0 16327
+D3
+~
+door~
+1 0 16325
+S
+#16327
+0 0
+~
+~
+~
+0 0 0
+Hallway of the Mansion~
+You walk along a creaky old hallway which has been decorated with
+numerous prizes of war garnered by the General, back in an olden age when
+the Krathen were once threats to civilization.  Old wooden doors provide
+viable exits to the north and south.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+wooden~
+1 0 16328
+D2
+~
+wooden~
+1 0 16329
+D3
+~
+door~
+1 0 16326
+S
+#16328
+90 500
+~
+~
+~
+0 0 0
+The General's Art Gallery~
+You are dumbfounded by the colourful works you see adorning the walls of
+this room.  They are unlike anything anyone has ever seen.  Some of the
+paintings resemble the shapes on the hut doors, but you are perplexed by how
+anyone could consider this 'art' .  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+door~
+1 0 16327
+S
+#16329
+0 0
+~
+~
+~
+0 0 0
+The General's Trophy Room~
+In this room, huge war trophies pour off the shelves that line the walls.
+Although you cannot understand the odd markings on or around each one, the
+size and design of each trophy makes it clear these are great prizes.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+door~
+1 0 16327
+S
+#16330
+0 0
+~
+~
+~
+0 0 0
+War Room~
+This is obviously the room the General lives for, and in.  Ever since his
+defeat, he has spent years planning his revenge.  Covered in strategically
+placed figurines resembling Krathen, Elves, Humans, and so on, a broad, long
+table takes up most of the space.  From the pervasive odor and the
+occasional heap of soiled clothing on the ground, the General must spend too
+much time here, and not enough engaged in hygenic activities.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 16326
+S
+#16331
+0 0
+~
+The bridge sways gently as $n steps on.~
+The planks groan softly as $n walks away to the $T.~
+0 0 0
+Keep Bridge~
+Unlike the other bridges, this one is made up of a much thicker, even
+stronger rope covered with thick floorboards, specifically made for a large
+army.  Moments after each step, a gentle swaying rocks the bridge.  Above
+and around wind rustles in the leaves.  Sky is visible in shifting patches
+above.  In the keep, there is only silence, though perhaps that rustling is,
+in part, the sound of great wings.  Down below the normal sounds of forest
+assert themselves, reassuringly familiar.  
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 16332
+D2
+~
+~
+0 0 16310
+S
+#16332
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Keep~
+You stand speechless and awestruck before the enormous Keep.  It is built
+of some kind of metal that shines a distinctly reddish hue, similar in color
+to blood, which seems to be impenetrable.  The keep boasts no windows, only
+one giant door which allows entrance to this juggernaut of a fortress.  
+~
+0 X 4
+0
+~
+I 0 D0
+~
+~
+0 0 16333
+D2
+~
+~
+0 0 16331
+S
+#16333
+0 0
+~
+~
+~
+0 0 0
+Inside the Keep~
+Walls made of a shiny, exotic wood gleam as far as you can see down the
+hallway of the Keep.  A similar type of wood, not as shiny, lines the floor
+but is somewhat covered by surprisingly smooth pieces of some kind of animal
+fur tied together along the whole length of the gigantic hallway.  Several
+'trophies' of stuffed animals that are unfamiliar to the land stand
+imposingly in the hallway.  Solid, wooden doors are to you your east and
+west, and the magnificent hallway fills the path ahead of you.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16349
+D1
+~
+~
+0 0 16341
+D2
+~
+~
+0 0 16332
+D3
+~
+~
+0 0 16334
+S
+#16334
+0 0
+~
+~
+~
+0 0 0
+Weapons Stronghold~
+Although it did not seem possible by the framework of the Keep's
+architecture, this room appears to be almost as large as the magnificent
+hallway from which you just stepped out of.  It almost seems to be
+comfortable until you notice what is used for, storage of weapons.  Weapons
+of all kind are stored here, almost enough to equip huge armies.  Swords,
+pikes, bows and arrows litter the room.  The worst part is that they
+obviously have never been cleaned and the blood of many victims linger about
+the room.  The feeling of death fills the room.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16333
+D3
+~
+~
+0 0 16335
+S
+#16335
+0 0
+~
+~
+~
+0 0 0
+Weapon Stronghold~
+As you get deeper into the stronghold, the scent and the deathly air
+about you only grow stronger.  You now notice horrible torture devices that
+send shivers down the spine of all.  The weapons also seem to have an evil
+glow about them...  As if they too co ntained the dark hearts that were held
+by the ruthless killers.  Many of the weapons are stained so much you wonder
+if someone bathed them in a pool of blood.  With nearly no light in the
+room, it seems suitable to contain only one thing, evil.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16334
+D3
+~
+~
+0 0 16336
+S
+#16336
+0 0
+~
+~
+~
+0 0 0
+End of the Weapon Stronghold~
+The scent and the deathly feeling seem to relent a little, perhaps
+because of the light of hope that you feel when you notice a humble, wooden
+door to the west which seems to a door of gold compared to the horrid
+objects and the personality, as you may call it, of the stronghold which,
+littered with deadly swords, poisonous arrows, and torture devices that have
+long been banished because of the admittance of all of how inhumane they
+truly are, seemed to represent death itself, which is feared by all who love
+life.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16335
+D3
+~
+~
+0 0 16337
+S
+#16337
+0 0
+~
+~
+~
+0 0 0
+Guard's Room~
+Downtrodden and dreary, this guard room is unlike any other.  The walls
+are blank, only covered by filth and cobwebs.  The cupboard is covered with
+dust and the only edible thing appears to be a little bug that must eat wood
+to keep its self alive.  The dull atmosphere contains no sign of life, not
+life as in life and death, but any kind of signs that show that these
+creatures actually enjoy life and take pleasure in it.  No gambling game is
+set up on the table nor no poster of a beautiful member of their species. 
+It seems their existence is to only to work, and apparently the only work
+they do is kill.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16336
+D3
+~
+~
+0 0 16338
+S
+#16338
+0 0
+~
+~
+~
+0 0 0
+The Ruined Watchtower~
+Nothing remains of the tower except some barely standing walls along the
+debris and rubble.  To the east the tumult of battle can be heard, and the
+screams, drums and clang of steel against steel cuts through the smoke left
+by the fallen tower.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16337
+S
+#16341
+0 0
+~
+~
+~
+0 0 0
+Armor Hold~
+Your eyes squint after catching the gleam of hundreds of different sets
+of a strange metallic armor.  The sets are much larger then ones of humans,
+as if they were made for giants.  Huge, black shields the size of almost two
+humans line the walls imposing the path of the room.  The shields seem to be
+somewhat magical, as an eerie light glows around them.  Right above the
+shields is a shelf lined with monstrous helmets, each capped with a scalp
+from some unfortunate animal.  Some of the scalps are so fresh, that you see
+fresh, warm blood rolling down the side of the helmet.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16342
+D3
+~
+~
+0 0 16333
+S
+#16342
+0 0
+~
+~
+~
+0 0 0
+Armor Hold~
+Huge breastplates, as long as two hobbits, are stacked and line shelf
+upon shelf.  The bottom rows contain the newer ones made of the same metal
+as the eerie glowing shields in the room before.  The upper rows, however,
+are made of an older metal, more vulnverable, as is shown by the many
+punctures and scrapes on the outer shell.  Even though the metal is more
+vulnerable then the other, it is still a highly respectable armor that can
+hold it's own in battle which shows that the warriors must have fought in
+some vicious battles.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16343
+D3
+~
+~
+0 0 16341
+S
+#16343
+0 0
+~
+~
+~
+0 0 0
+End of the Armor Hold~
+The eerie glow from the black leggings that lean against the walls almost
+makes you stumble as you enter the room.  For some reason, this end of the
+Hold does not receive much light, so the eerie glow from the evil black
+metal dominates the room's light.  On a shelf above the leggings, are mail
+shirts and skirts forged of red metal that gives off a similar glow as the
+black metal.  You notice a small, crickety old door filled with cobwebs to
+the east.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16345
+D3
+~
+~
+0 0 16342
+S
+#16344
+0 0
+~
+$n makes a little choking sound as $e enters this dreadful little room.~
+$n gasps and dashes out the door for some clean air!~
+0 0 0
+Meat Room of the Keep~
+The smell of decaying flesh and the copper-iron tang of blood permeates
+this room, making you gag.  While the kitchen was filthy, this room is even
+worse.  A large chopping block, covered in encrusted blood and hunks of
+flesh that caught in the wood, stands in the center of the room.  A
+slaughtered carcass of some unidentifiable creature lies partially
+dismebered on top of it.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 16351
+S
+#16345
+0 0
+~
+~
+~
+0 0 0
+Alchemy Room~
+A strong, sickly smell hits you as soon as you enter the room.  You begin
+to wonder what could smell so bad until you notice what this room is used
+for, alchemy.  Long, slim viles line a table filled with dangerous, reddish
+looking substance that is giving off a huge cloud of red gas that hangs in
+the air right above the vile.  Different containers marked with different
+signs fill glass shelves and from the nature of the shapes, you can tell
+that they would be substance that you would drink nor smell.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16346
+D3
+~
+~
+0 0 16343
+D5
+~
+~
+0 0 16372
+S
+#16346
+0 0
+~
+~
+~
+0 0 0
+Southeast Watchtower~
+Fresh air blowing from the window to the east greets you freshly as you
+walk into the room.  A couple of old, really old cannons that shot wooden
+cannonballs lean against the wall and despite their prehistoric appearance,
+it looks like they could still take out an ogre or two.  A short wooden
+staircase winds up to the next level of the which is almost visible from
+here.  A picture place right on next to the staircase entrance lies directly
+in your vision and the vibrance and life-like appearance of it draws your
+attention.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 16345
+D4
+~
+~
+0 0 16347
+S
+#16347
+0 0
+~
+~
+~
+0 0 0
+On the Stairs~
+A choking dust hangs heavily in the air as you make your way up the
+stairs.  You can see large cracks in the walls, gaping sores that may have
+been caused by some kind of projectile.  Through one of the larger cracks,
+you can glimpse the lush and exotic trees that line the outside of this
+keep.  More dust lies on the stairs, making the surface very slippery. 
+After you almost slip on one step, you resolve to pay more attention to the
+stairs and less to the scenery outside.  A refreshing draft of cool, fresh
+air beckons you from the top of this tower.  
+~
+0 D 0
+0
+~
+I 0 D4
+~
+~
+0 0 16348
+D5
+~
+~
+0 0 16346
+S
+#16348
+0 0
+~
+~
+~
+0 0 0
+Top of the Tower~
+`hA refreshing breeze soothes you as you climb to the top of the tower. 
+From here you can see the whole town and all the houses.  Krathen move all
+about, some walking, some flying.  They don't seem to be as imposing from
+here as they are in person when they stand broadly and strongly.  You notice
+a huge Krathen chair that you guess a guard would sit in as he keeps watch. 
+Apparently the guard must've just had lunch as you see a recently skinned
+animal carcass lying next to the chair.  `` 
+~
+0 D 0
+0
+~
+I 0 D5
+~
+~
+0 0 16347
+S
+#16349
+0 0
+~
+~
+~
+0 0 0
+Main Hallway~
+The hallway, despite having been designed entirely with varying types of
+wood, though no marble, gold, or silver, nevertheless holds you in awe.  The
+carefully cut pieces of wood each have intricate designs in them seemingly
+showing an important event in the Krathen history.  Hung on the wall are
+several life-like portraits of what appear to be generals or high military
+officers.  Their grim appearances show that they were hard men and the look
+in their eye shows that they never had mercy for anything.  Intricately
+carved doors are to the east and west, while the hallway continues ahead of
+you.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16355
+D1
+~
+~
+0 0 16353
+D2
+~
+~
+0 0 16333
+D3
+~
+~
+0 0 16350
+S
+#16350
+0 0
+~
+~
+~
+0 0 0
+Mess Room~
+As you enter the room an extremely noxious smell enters your nostrils as
+you enter the mess hall for the Krathen that occupy the Keep.  You notice
+some longly stretched wooden tables line the room each filled with various
+types of food stains that appear to have not been cleaned for years.  About
+the room various heads and horns of different animals are hung almost as if
+to settle the Krathen hunger as they await their food to be served.  At
+least the floor appears to be clean, since you almost slip on the newly
+mopped floor as you notice an entrance to some kind of kitchen tot he west. 
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16349
+D3
+~
+~
+0 0 16351
+S
+#16351
+0 0
+~
+~
+~
+0 0 0
+Kitchen of the Keep~
+As you walk in with your head somewhat glancing down, you notice how
+soiled the floor is, and it would be considered really dirty for any room,
+let alone a kitchen.  You also almost jump back as a stanky smell hits your
+nervous system.  As usual, some luckless orcs have been enslaved to cook for
+the enormous Krathen.  Various pots are have steam coming up about of them
+and you dare not look at their contents, for fear of losing thy stomach. 
+After thoroughly scanning and smelling this kitchen, you quickly lose your
+appetite.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16344
+D1
+~
+~
+0 0 16350
+D3
+~
+~
+0 0 16352
+S
+#16352
+0 0
+~
+~
+~
+0 0 0
+Room of the Chefs~
+Compared to this room, the kitchen looks like a huge, elegant ballroom
+fit for kings and emperors.  This room is very small, small enough just to
+fit the four orcs laying lengthwise.  The room is covered in soot, dust and
+dirt are everywhere.  The sheets on the bed look to have never been changed
+for however long the orcs have lived here, which by your estimation of the
+dirtiness of the room, could be many, many years.  Other then the four beds
+the room is rather barren.  Next to one of the beds you notice a painting of
+an orcish family which looks to have been held many a time, which leads you
+to remember that although orcs can be dirty and insensitive, they still have
+feelings.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16351
+S
+#16353
+0 0
+~
+~
+~
+0 0 0
+The Demolished Cartography Room~
+The maps that once were covering all the walls and tables of this
+planning room are torn down and burned like every other written document the
+Continuum order can get their zealous hands on.  Anything written that is
+not the holy book of Continuum must be incinerated, so it is said by the
+Continuum Patriarch.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 16349
+S
+#16355
+0 0
+~
+~
+~
+0 0 0
+Main Hallway in the Keep~
+The illustrious, clean kept hallway still sparkles unlike some of the
+other rooms in the Keep.  You see no signs of dirt or even the smallest hint
+of a particle of dust.  Why the hallway is kept so clean baffles you,
+because most of the other rooms are like swamps in a room.  The long animal
+rug that started at the beginning of the keep comes to an end here, and is
+replaced by an exotic elven rug that looks to have been stolen from an elven
+palace because of the royal elven markings on the rug that brightens the
+room as the stars do to lands.  To your west is a great opening in which you
+see a large room filled with Krathen running to and fro with their weapons
+and pointing them about.  To the east is another solid wooden door.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16363
+D1
+~
+~
+0 0 16356
+D2
+~
+~
+0 0 16349
+D3
+~
+~
+0 0 16358
+S
+#16356
+0 0
+~
+~
+~
+0 0 0
+Game room of the Krathen~
+Unlike almost all of the other Krathen rooms, you feel an amusement like
+atmosphere to it as you enter.  Quickly, your guess was right as you notice
+it is some kind of game room for the Krathen guards to actually relax and
+have some fun besides preparing for an attack against the world.  You see
+several game boards set up of a strange variety that you have never seen
+before, but each one seems to be similar to a particular elven or dwarvish
+adult game, but it has it's variances.  A long, shiny wooden floor is to the
+right where you guess the Krathen might actually dance, although it does not
+seem to fit their violent and malicious nature.  The game room continues,
+expanding to the east.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16357
+D3
+~
+~
+0 0 16355
+S
+#16357
+0 0
+~
+~
+~
+0 0 0
+Game room~
+This half of the game room, seems to contain some of the more physical
+games.  Long swords line the room that have had their tips cut off so that
+the Krathen can use them without killing each other, as most of them
+probably like to do judging from the violence and hurt they love to inflict.
+Also various kinds of no-tipped spears and old, old shields fill out the
+room.  The Krathen must make use of these safe objects to practice their
+skills and to have various different competitions.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 16356
+S
+#16358
+0 0
+~
+~
+~
+0 0 0
+Training Gymnasium of the Krathen~
+A huge room filled with various different obstacle courses and what not
+surrounds you.  You see Krathen trainees running about swords in hand
+yelling Krathen war shouts as they prepare for their time as a guard and
+warrior.  Some of the courses seem very entertaining and even interest you
+in maybe taking a shot in taking a run through one of them.  The whole
+gymnasium is well orgainized and the training session is very well
+organized.  Different lines line the room and different paths around the
+obstacles.  The gymnasium continues to the north and west.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16360
+D1
+~
+~
+0 0 16355
+D3
+~
+~
+0 0 16359
+S
+#16359
+0 0
+~
+~
+~
+0 0 0
+Weapons Gymnasium~
+This particular area of the gymnasium seems to concentrate on the usage
+of various types of weapons.  Various human, elven, and dwarven targets are
+set up about the area and the trainees run about bobbing and weaving
+shooting arrows or throwing spears at the targets.  As you are watching
+this, a trainee hits a target square in the crotch, which forces you to
+grimace and hope that they are not as accurate in a real battle.  The
+gymnasium expands northwards and eastwards.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16361
+D1
+~
+~
+0 0 16358
+S
+#16360
+0 0
+~
+~
+~
+0 0 0
+Movement Training Gymnasium~
+In this section of the gymnasium the Krathen practice their combat
+movements and advances.  You are curious about this section because of their
+overwhelming excellent agility which is strange due to their great size and
+the presence of their wings.  You notice this course is very strenous. 
+Different tubes with various widths and lengths lay about the room linking
+various land pads and nets from which the Krathen climb about or run upon. 
+The entrance to the gymnasium is to the south and the defense section is to
+the west.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 16358
+D3
+~
+~
+0 0 16361
+S
+#16361
+0 0
+~
+~
+~
+0 0 0
+Defense Gymnasium~
+This part of the gymnasium teaches the trainees various kinds of defense
+tactics.  Like the weapons gymnasium, various type of targets are set up
+about the room, but they are different in that they are made to throw or
+swing their different weapons as the Krathen makes his way around them and
+to the finish line of the course.  You are startled as one trainee is slain
+by a target as they use real swords for training.  You look to the mob of
+trainees for some kind of reaction to the death, but they carry off the dead
+Krathen, grunt, and quickly continue to train.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16360
+D2
+~
+~
+0 0 16359
+S
+#16363
+0 0
+~
+~
+~
+0 0 0
+Main Hallway of the Keep~
+The wood of the Hallway shines and gleams as ye stroll along it.  Again,
+pictures of victorous Krathen line the wall elegantly placed in old, but
+worthy looking frames.  The wood feels nice and soft, at ye feet, almost as
+if it were some kind of a carpet and it tempts you to want to lay down upon
+it.  Although, it is very soft, a quick stomp of your foot shows it is also
+very sturdy and reliable.  After your little test, you glance up ahead and
+look at what looks to be an intersection ahead in the hallway, where it
+divides and heads off in the directions of east and west.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16364
+D2
+~
+~
+0 0 16355
+S
+#16364
+0 0
+~
+~
+~
+0 0 0
+Intersection of the Hallway~
+Finally, the great hallway changes directions.  Still neatly kept, the
+path to the north ends, and is replace by a way to the east.  To the east
+the hallway seems to be a bit smaller and not as decorated as the hallway is
+now.  To the east is a small, but finely made, wooden door, that appears to
+lead to some kind of a guest room.  Above the door is another strange
+Krathen marking that ye can not make out which may prove to make your
+guestimate invalid.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 16367
+D2
+~
+~
+0 0 16363
+D4
+~
+~
+0 0 16366
+S
+#16366
+0 0
+~
+~
+~
+0 0 0
+On the Circle Stairs~
+As you stand on the circular stairwell, you notice how carefully and
+accurately the stairs were constructed, and earns your respect as a
+remarkably made structure.  The stairs, unlike almost the rest of the whole
+Keep, including the village, are made of a metallic substance that feels and
+looks like no other metal ye have ever seen.  It is of a woodish color, but
+it is not wood, although the thought crosses your mind because of the
+annoying clicking sound it makes as you clod up the stairs.  It gives a
+light, light glow that almost energizes you and gives you the feel you are
+walking on air.  The rail is made of the same type of metal, and your nerves
+tingle with excitement as you use your hands to guide your way up the
+stairs, noticing how extremely smooth the rail seems to be.  Upwards, you
+see what looks to be the roof of the Keep, where the wind seems to be
+blowing violently.  
+~
+0 D 0
+0
+~
+I 0 D4
+~
+~
+0 0 16370
+D5
+~
+~
+0 0 16364
+S
+#16367
+0 0
+~
+~
+~
+0 0 0
+Hallway in the Keep~
+Now that hallway has changed course, it is much smaller and not as
+elitely decorated and exotic as it was at the beginning of the Hallway.  It
+is now much plainer and conservative.  The sweet, soft wood that was used
+earlier is now replaced with harsh, poorly treated wood that will give many
+a bare-footed children plenty of splinters.  The walls lay about almost
+nonexistent with no decoration or pictures.  The room appears to be as bare
+as an old hags cabinet.  You just realize as you glance up that the hallway
+ends here, and only two wooden doors, to your north and south, and the way
+back west are the only exits.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16368
+D2
+~
+~
+0 0 16369
+D3
+~
+~
+0 0 16364
+S
+#16368
+0 0
+~
+~
+~
+0 0 0
+Guard Quarters~
+Although the Krathen appear to be a rather dull and boring race, the
+quarters of the guard appears to be very lively and well decorated, very
+surprising from your past experiences with them.  Different objects, some
+trivial, some valuable, fill sturdy wooden desks that stand against the
+wall.  Some objects resemble old Krathen, while others appear to be old
+heroes of the Elven, Human, and Dwarven races, which surprises ye because of
+how much they believe that they are the superior race and should dominate,
+but the figures seem to show that they do have a certain respect for other
+races.  Surprisingly short beds, well short for a normal Krathen line the
+room and you wonder how they sleep in these scruffy old beds and still find
+motivation to get up in the morning.  The wall are filled with various
+pictures and drawings varying from the local, beautiful landscape to the
+favorite Krathen pin-up girl.  
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 16367
+S
+#16369
+0 0
+~
+~
+~
+0 0 0
+Guard Quarters~
+The room almost appears to have a glowing aura about it as you enter,
+large statues, 3 to be exact, separate 4 different beds.  The statues are of
+the Krathen race and show the Krathen armed with dangerous weapons, drenched
+with blood dripping here and there, and slight, childish smirk that sends
+shivers down your spine as you look at it.  The beds are remarkably short
+considering they hold the mighty Krathen, who could easily fill up two of
+those beds if you were to line them up and connect them.  Directly across
+from the bed and the statues is one giant desk that sits four different
+seats and each seat has it's own workspot.  Some of the workspots are
+blandly decorated, with the usual Krathen medal hung about, one of the
+stands out though, it has colorful drawings and humorous figurines placed
+around it, almost as if this Krathen had a sense of humor, definetly worthy
+of meeting with.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 16367
+S
+#16370
+0 0
+~
+~
+~
+0 0 0
+Upon the roof of the Keep~
+Here on the top of the roof, you only see the tops of the large trees for
+miles and miles, almost appearing to never end.  You are almost taken aback
+when you feel and see the wind wreaking havoc up here.  Trees are being
+tossed about with no effort and you feared for your life several times when
+a tree almost bent over and knocked you on the head.  As you are avoiding
+the trees, you struggle to stand up straight as the wind takes it's turn on
+you.  You have never seen winds this violent and vicious, and decide it must
+not be normal, as you turn to the south, you see an area to where the wind
+looks to be almost a hundred fold worse, and bright light coming from the
+area, that seems to draw you there.  
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 16371
+D5
+~
+~
+0 0 16366
+S
+#16371
+100 50
+~
+~
+~
+0 0 0
+Throne of Krathe~
+Here is the throne of the mighty Krathe, the betrayer of humans, and
+enemy to all races save the Krathen.  As your eyes adjust to the sumptious
+room before you, it becomes immediately obvious that Krathe enjoys his
+pleasures, and spare no expense in pursuing them.  As you stand in this
+lavish outdoor throne room, you realize that some kind of magic must,
+whenever rain or snow fall, protect this room and maintain a constant
+temperature pleasing to the tyrant Krathe around the general area of his
+throne.  His throne is a majestic sight indeed, covered with gold and
+numerous diamonds, even the legendary diamond of the Krathen, and looms over
+the other furnishings in the room, as an eagle in an eyrie might survey its
+domain.  As Krathe is much bigger then the ordinary human, the throne is
+also large, as it might be able to fit a Krathen.  It would be better if it
+were a Krathen that sat upon the throne, rather than the foul scum Krathe,
+the starter of wars and bringer of death.  
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 16370
+S
+#16372
+0 0
+~
+$n comes tumbling in from the trapdoor above.~
+$n climbs out into the light of the alchemy lab.~
+0 0 0
+Dungeon~
+This damp dreary hole seems to be where the alchemist keeps his specimens
+when he isn't working on them in the laboratory up above.  The air is
+unwholesome and chills you with the lingering presence of death.  All about
+you are strewn odd bits of limbs and bones.  It might be wise to leave
+before the Alchemist comes to experiment upon you.  
+~
+0 ACDN 0
+4
+The dungeon is too cramped to allow you to enter.~
+I 0 D4
+~
+~
+0 0 16345
+S
+#0
+
+#RESETS
+D 0 16326   3    1	* Waiting room [west]
+D 0 16327   0    1	* Hallway of the Mansion [north]
+D 0 16328   2    1	* The General's Art Gallery [south]
+D 0 16327   2    1	* Hallway of the Mansion [south]
+D 0 16329   0    1	* The General's Trophy Room [north]
+M 0 16313  30 16315  5	* A krathen woman
+E 0 16316   -1    6	* item to A krathen woman
+E 0 16321   -1   13	* item to A krathen woman
+D 0 16325   1    1	* Entrance to the Mansion [east]
+M 0 16316   7 16325  2	* An old krathen man
+E 0 16319   -1   14	* item to An old krathen man
+M 0 16312   1 16330  1	* The krathen general
+E 0 16329   -1   13	* item to The krathen general
+E 0 16310   -1   17	* item to The krathen general
+M 0 16322   1 16329  1	* `cthe general's wife``
+E 0 16320   -1   10	* item to `cthe general's wife``
+E 0 16323   -1    8	* item to `cthe general's wife``
+M 0 16305  15 16335  3	* The keep guard
+M 0 16305  15 16335  3	* The keep guard
+E 0 16306   -1   16	* item to The keep guard
+M 0 16305  15 16335  3	* The keep guard
+M 0 16316   7 16336  2	* An old krathen man
+M 0 16304  20 16336  4	* A foul-looking guard
+M 0 16323   2 16337  2	* A keep guard
+E 0 16306   -1   16	* item to A keep guard
+M 0 16315   1 16345  1	* The alchemist
+E 0 16324   -1   12	* item to The alchemist
+G 0 16326 -1		* `o<`fan `jenslaved `fmind`o>`` to The alchemist
+O 0 16315   0 16372 -1	* `ka jar of lightning bugs`` at Dungeon
+M 0 16310  20 16353  4	* A krathen trainee
+M 0 16323   2 16357  1	* A keep guard
+O 0 16325   0 16357 -1	* `i[`ka golden puzzle box`i]`` at Game room
+O 0 16331   0 16359 -1	* A practice stick at Weapons Gymnasium
+M 0 16324   8 16361  8	* A mechanical flailer
+M 0 16324   8 16361  8	* A mechanical flailer
+M 0 16324   8 16361  8	* A mechanical flailer
+M 0 16324   8 16361  8	* A mechanical flailer
+M 0 16324   8 16361  8	* A mechanical flailer
+M 0 16324   8 16361  8	* A mechanical flailer
+M 0 16324   8 16361  8	* A mechanical flailer
+M 0 16324   8 16361  8	* A mechanical flailer
+O 0 16330   0 16370 -1	* `la giant birdbath`` at Upon the roof of the Keep
+O 0 16327   0 16370 -1	* `da giant nest`` at Upon the roof of the Keep
+M 0 16317   1 16352  1	* The cook
+G 0 16332 -1		* `dsome grain cakes`` to The Cook
+M 0 16325   1 16344  1	* An orc butcher
+E 0 16333   -1   16	* item to An orc butcher
+M 0 16310  12 16347  1	* A krathen trainee
+E 0 16334   -1   18	* item to A krathen trainee
+M 0 16310  12 16341  1	* A krathen trainee
+E 0 16307   -1   11	* item to A krathen trainee
+E 0 16334   -1   18	* item to A krathen trainee
+M 0 16310  12 16353  1	* A krathen trainee
+E 0 16334   -1   18	* item to A krathen trainee
+M 0 16310  12 16358  1	* A krathen trainee
+E 0 16334   -1   18	* item to A krathen trainee
+M 0 16310  12 16359  1	* A krathen trainee
+E 0 16334   -1   18	* item to A krathen trainee
+O 0 16331   0 16360 -1	* A practice stick at Movement Training Gymnasium
+M 0 16310  12 16360  1	* A krathen trainee
+E 0 16307   -1   11	* item to A krathen trainee
+E 0 16334   -1   18	* item to A krathen trainee
+M 0 16303   5 16304  5	* `aa huge tree ant``
+M 0 16320   5 16304  5	* `ka small lighting bug``
+O 0 16335   0 16364 -1	* Some rubble at Intersection of the Hallway
+O 0 16336   0 16308 -1	* A decapitated corpse at Entrance to the Keep of the Krathen
+M 0 16328  10 16308  2	* `oa cleric of`k continuum``
+M 0 16329   2 16309  7	* `oa`k continuum`o monk``
+O 0 16337   0 16338 -1	* A corpse at The Ruined Watchtower
+M 0 16307  15 16338  1	* The krathen flag guard
+E 0 16309   -1    5	* item to The krathen flag guard
+M 0 16327   1 16336 15	* `oa`k continuum`o knight``
+O 0 16337   0 16334 -1	* A corpse at Weapons Stronghold
+M 0 16313  20 16334  1	* A krathen woman
+M 0 16327  15 16334  1	* `oa`k continuum`o knight``
+O 0 16338   0 16333 -1	* A gigantic boulder at Inside the Keep
+M 0 16313  20 16333  1	* A krathen woman
+M 0 16304  15 16333  1	* A foul-looking guard
+O 0 16339   0 16311 -1	* A shattered sword at The Razed Huts
+M 0 16313  20 16311  1	* A krathen woman
+M 0 16304  15 16311  1	* A foul-looking guard
+M 0 16304  15 16318  1	* A foul-looking guard
+M 0 16305  10 16317  1	* The keep guard
+M 0 16327  10 16317  2	* `oa`k continuum`o knight``
+O 0 16341   0 16319 -1	* A roaring fire at Once a Glorious Manor
+M 0 16328  10 16319  1	* `oa cleric of`k continuum``
+M 0 16327  15 16319  1	* `oa`k continuum`o knight``
+M 0 16313  20 16316  1	* A krathen woman
+M 0 16304  15 16316  1	* A foul-looking guard
+E 0 16308   -1   11	* item to A foul-looking guard
+E 0 16322   -1    7	* item to A foul-looking guard
+M 0 16305  10 16324  2	* The keep guard
+E 0 16306   -1   16	* item to The keep guard
+M 0 16313  20 16326  1	* A krathen woman
+M 0 16304  15 16326  1	* A foul-looking guard
+M 0 16307  13 16330  1	* The krathen flag guard
+E 0 16305   -1   16	* item to The krathen flag guard
+M 0 16304  10 16330  1	* A foul-looking guard
+E 0 16308   -1   11	* item to A foul-looking guard
+M 0 16307  13 16327  1	* The krathen flag guard
+E 0 16305   -1   16	* item to The krathen flag guard
+E 0 16309   -1    5	* item to The krathen flag guard
+M 0 16313  20 16328  3	* A krathen woman
+M 0 16313  20 16329  1	* A krathen woman
+O 0 16340   0 16310 -1	* Coils of guts at Centre of the Keep
+M 0 16305  10 16310  2	* The keep guard
+E 0 16306   -1   16	* item to The keep guard
+M 0 16304  15 16310  2	* A foul-looking guard
+E 0 16308   -1   11	* item to A foul-looking guard
+E 0 16322   -1    7	* item to A foul-looking guard
+M 0 16329   7 16310  1	* `oa`k continuum`o monk``
+M 0 16307  13 16331  3	* The krathen flag guard
+M 0 16307  13 16331  3	* The krathen flag guard
+E 0 16309   -1    5	* item to The krathen flag guard
+E 0 16305   -1   16	* item to The krathen flag guard
+M 0 16313  20 16332  1	* A krathen woman
+M 0 16304  15 16332  1	* A foul-looking guard
+E 0 16322   -1    7	* item to A foul-looking guard
+M 0 16305  10 16342  2	* The keep guard
+M 0 16305  10 16342  2	* The keep guard
+M 0 16313  20 16343  1	* A krathen woman
+E 0 16321   -1   13	* item to A krathen woman
+M 0 16305  10 16346  1	* The keep guard
+E 0 16306   -1   16	* item to The keep guard
+O 0 16342   0 16348 -1	* A weapon rack at Top of the Tower
+M 0 16308   6 16348  6	* A tower guard
+M 0 16308   6 16348  6	* A tower guard
+M 0 16308   6 16348  6	* A tower guard
+M 0 16308   6 16348  6	* A tower guard
+M 0 16308   6 16348  6	* A tower guard
+E 0 16311   -1    6	* item to A tower guard
+M 0 16313  20 16349  1	* A krathen woman
+M 0 16328  10 16357  1	* `oa cleric of`k continuum``
+M 0 16307  13 16356  1	* The krathen flag guard
+E 0 16309   -1    5	* item to The krathen flag guard
+M 0 16329   7 16360  1	* `oa`k continuum`o monk``
+M 0 16307  13 16363  1	* The krathen flag guard
+E 0 16309   -1    5	* item to The krathen flag guard
+E 0 16305   -1   16	* item to The krathen flag guard
+M 0 16313  20 16363  1	* A krathen woman
+E 0 16316   -1    6	* item to A krathen woman
+E 0 16321   -1   13	* item to A krathen woman
+M 0 16313  20 16364  1	* A krathen woman
+M 0 16304  15 16364  2	* A foul-looking guard
+E 0 16308   -1   11	* item to A foul-looking guard
+E 0 16322   -1    7	* item to A foul-looking guard
+M 0 16305  10 16367  1	* The keep guard
+M 0 16304  15 16368  3	* A foul-looking guard
+M 0 16304  15 16368  3	* A foul-looking guard
+M 0 16304  15 16368  3	* A foul-looking guard
+M 0 16304  15 16369  3	* A foul-looking guard
+M 0 16304  15 16369  3	* A foul-looking guard
+M 0 16304  15 16369  3	* A foul-looking guard
+M 0 16307  13 16369  1	* The krathen flag guard
+M 0 16329   7 16369  1	* `oa`k continuum`o monk``
+M 0 16328  10 16367  1	* `oa cleric of`k continuum``
+M 0 16327  15 16366  1	* `oa`k continuum`o knight``
+M 0 16327  15 16370  1	* `oa`k continuum`o knight``
+O 0 16343   0 16355 -1	* A dagger at Main Hallway in the Keep
+M 0 16304  15 16355  1	* A foul-looking guard
+E 0 16322   -1    7	* item to A foul-looking guard
+M 0 16313  20 16355  1	* A krathen woman
+M 0 16327  15 16353  1	* `oa`k continuum`o knight``
+M 0 16328  10 16353  1	* `oa cleric of`k continuum``
+M 0 16313  20 16351  1	* A krathen woman
+M 0 16329   7 16352  1	* `oa`k continuum`o monk``
+M 0 16328  10 16352  1	* `oa cleric of`k continuum``
+M 0 16303  10 16303  3	* `aa huge tree ant``
+M 0 16303  10 16303  3	* `aa huge tree ant``
+M 0 16303  10 16303  3	* `aa huge tree ant``
+M 0 16321  10 16303  3	* `oa giant `klightning bug``
+G 0 16344 -1		* `klightning `icore`` to `oA giant `klightning bug``
+M 0 16321  10 16303  3	* `oa giant `klightning bug``
+G 0 16344 -1		* `klightning `icore`` to `oA giant `klightning bug``
+M 0 16321  10 16303  3	* `oa giant `klightning bug``
+G 0 16344 -1		* `klightning `icore`` to `oA giant `klightning bug``
+M 0 16326   1 16303  1	* `othe siege knight``
+E 0 16345   -1   11	* item to `othe siege knight``
+M 0 16303   5 16306  5	* `aa huge tree ant``
+M 0 16319   3 16306  3	* `aa tiny ant``
+M 0 16321   5 16306  3	* `oa giant `klightning bug``
+G 0 16344 -1		* `klightning `icore`` to `oA giant `klightning bug``
+M 0 16303   5 16307  3	* `aa huge tree ant``
+M 0 16321   5 16307  3	* `oa giant `klightning bug``
+G 0 16344 -1		* `klightning `icore`` to `oA giant `klightning bug``
+M 0 16307   1 16350 13	* The krathen flag guard
+M 0 16307   1 16350 13	* The krathen flag guard
+E 0 16305   -1   16	* item to The krathen flag guard
+M 0 16305   1 16350 13	* The keep guard
+E 0 16306   -1   16	* item to The keep guard
+M 0 16316   1 16350  4	* An old krathen man
+E 0 16319   -1   15	* item to An old krathen man
+M 0 16311   1 16371  1	* Krathe, leader of krathen
+E 0 16314   -1    1	* item to Krathe, leader of krathen
+G 0 16312 -1		* `othe krathen diamond`` to Krathe, leader of Krathen
+M 0 16318   1 16371 10	* A handmaid of krathe
+E 0 16318   -1    2	* item to A handmaid of krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+E 0 16318   -1    2	* item to A handmaid of krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+G 0 16317 -1		* `la lapis medallion`` to A handmaid of Krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+G 0 16317 -1		* `la lapis medallion`` to A handmaid of Krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+G 0 16328 -1		* `ia ruby medallion`` to A handmaid of Krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+G 0 16328 -1		* `ia ruby medallion`` to A handmaid of Krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+E 0 16318   -1    2	* item to A handmaid of krathe
+M 0 16318   1 16371 10	* A handmaid of krathe
+E 0 16318   -1    2	* item to A handmaid of krathe
+D 0 16305   3    0	* Hugging a Tree [west]
+S
+
+#SHOPS
+16317  0  0  0  0  0 	100 100 	0 23	* The Cook
+0
+
+#SPECIALS
+M 16303 spec_poison		* `aA huge tree ant``
+M 16311 spec_breath_lightning		* Krathe, leader of Krathen
+M 16314 spec_thief		* A krathen child
+M 16315 spec_cast_undead		* The alchemist
+M 16319 spec_poison		* `aA tiny ant``
+M 16321 spec_breath_lightning		* `oA giant `klightning bug``
+M 16327 spec_cast_healer		* `oA`k Continuum`o Knight``
+M 16328 spec_cast_healer		* `oA Cleric of`k Continuum``
+S
+
+#OT
+#16330
+`kContinuum -`h In front of Krathe``~
+$entersroom~
+1
+68
+force continuum yell `hReinforcements! Rally to the Krathen leader!``~
+100
+0
+force continuum say He is too powerful!~
+100
+0
+force continuum say Get out of here!~
+100
+10
+force continuum push $randpc down~
+100
+0
+force continuum push $randpc down~
+100
+0
+at krathenleader force krathenleader yell `bYou do not stand a chance against my powerful army! Flee while you can!``~
+100
+20
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#16334
+`kContinuum -`h arrowhead``~
+$entersroom~
+1
+68
+force continuum kill krathen~
+10
+0
+force krathen kill continuum~
+10
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#16335
+`jKrathen -`d arrow trap``~
+$entersroom~
+1
+68
+echo Arrows come flying at you from behind a tapestry!~
+100
+0
+damage $randpc 50 An arrow hits you!~
+100
+0
+damage $randpc 50 An arrow hits you!~
+80
+0
+damage $randpc 50 An arrow hits you!~
+70
+0
+damage $randpc 50 An arrow hits you!~
+50
+0
+damage $randpc 50 An arrow hits you!~
+10
+0
+sfdf~
+100
+3
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+70
+#16336
+`kContinuum -`h Cont vs Krath``~
+$entersroom~
+1
+68
+force continuum yell `hFor the balance!``~
+100
+0
+force continuum kill krathen~
+100
+0
+force krathen say Bastard invaders!~
+100
+10
+force krathen yell They are too many! Retreat!~
+100
+2
+force krathen flee~
+100
+0
+force krathen flee~
+100
+0
+force krathen flee~
+100
+0
+force krathen flee~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#16338
+`kContinuum -`h Krathen defense``~
+$entersroom~
+1
+71
+force flag yell Fight back! Do not retreat or I shall have your heads!~
+100
+0
+force krathen emote screams`a '`kPrepare to die!`a'``~
+100
+0
+force krathen kill continuum~
+100
+0
+zecho The sound of battle can be heard all around!~
+100
+20
+at krathenleader force krathenleader yell Bring me the head of their general!~
+100
+10
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+70
+#16339
+`kContinuum -`h arrow rain``~
+$entersroom~
+1
+68
+echo A barrage of arrows rain down from the sky!~
+100
+1
+damage $randpc 100 You are hit by an arrow!~
+100
+0
+damage $randpc 100 You are hit by an arrow!~
+50
+0
+damage $randpc 100 You are hit by an arrow!~
+10
+0
+damage $randpc 100 You are hit by an arrow!~
+1
+0
+force continuum kill krathen~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#16340
+`kContinuum -`h monk sweep``~
+$entersroom~
+1
+68
+force continuum kill krathen~
+100
+0
+damage $randpc 50 `bYou are struck in the back of your head by a splintered piece of a shield!``~
+100
+5
+force continuum kill krathen~
+100
+0
+damage $randpc 100 `bA Krathen Flag guard's sword slashes into your back!``~
+10
+5
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#16341
+`kContinuum -`h rescue``~
+$entersroom~
+1
+68
+force krathen yell Intruders!~
+100
+0
+force krathen kill $randpc~
+100
+0
+force continuum rescue $randpc~
+100
+3
+force continuum rescue $randpc~
+100
+3
+echo You hear a whistling sound overhead...~
+100
+20
+damage $randpc 300 `bA giant boulder crashes in through the roof and hits you right in the chest!``~
+100
+4
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#16342
+`jKrathen -`d tower guards``~
+$chance_on_round~
+256
+68
+load obj 16305~
+30
+0
+load obj 16305~
+30
+0
+load obj 16305~
+30
+0
+force tower get heavy~
+100
+0
+force tower wield heavy~
+100
+0
+force 2.tower get heavy~
+100
+0
+force 2.tower wield heavy~
+100
+0
+force 3.tower get heavy~
+100
+0
+force 3.tower wield heavy~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#16343
+`kContinuum -`h area sounds``~
+$entersroom~
+1
+71
+force krathen kill continuum~
+100
+0
+force continuum yell `hFor the balance!``~
+100
+3
+force krathen yell Kill the invaders!~
+100
+13
+zecho The twanging of bowstrings and the clashing of steel can be heard as the two armies battle!~
+100
+23
+zecho Whistling sounds followed by shattering explosions can be heard all around!~
+100
+13
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+40
+#16344
+`jKrathen -`k huge lightning bug``~
+$chance_on_round~
+256
+48
+echo `oAnother lightning bug flies into the room!``~
+100
+0
+load mob 16321~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+8
+#16345
+`kContinuum -`h Siege Knight``~
+$chance_on_round~
+256
+40
+force siege yell You shall not pass!~
+10
+0
+force siege redirect $randpc~
+50
+1
+force siege bash $randpc~
+30
+1
+force siege disarm~
+70
+0
+force siege get all~
+40
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+40
+#0
+#$

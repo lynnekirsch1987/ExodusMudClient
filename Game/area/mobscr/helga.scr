@@ -1,0 +1,15 @@
+* File: helga.scr
+* Mob: Helga the cook(20966)
+
+#TRIGGER enter
+Type 10
+Sc
+  emote shakes her rolling pin at you.
+  wait 2~
+Sc
+  say Keep your grubby little hands off of my pies!
+  halt once~
+End
+
+#END
+

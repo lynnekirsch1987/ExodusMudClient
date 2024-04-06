@@ -1,0 +1,795 @@
+#AREA
+ 3~
+odessey.are~
+Lair of the Vampires~
+{30 60} Zeraeka  Lair of the Vampires~
+~
+6051 6151
+0 0
+0 1
+~
+#MOBILES
+#6051
+sangria tall lithe creature~
+Sangria~
+A tall, lithe creature stands here.
+~
+~
+kalian~
+0 0 0 0
+AB DFHPTVZac 0 0
+100 0 1d1+9999 0d0+0 1d1+19999 bite
+0 0 0 999 0
+0 -1 0 L DEIJ HN
+stand stand male 0
+AHMV ABCDEFGHIJKa medium flesh~
+0 0 0 100
+7
+none~
+sangria.scr~
+#0
+
+#OBJECTS
+#0
+
+#ROOMS
+#6051
+0 0
+~
+~
+~
+0 0 0
+Entrance to the Vampire's Lair~
+The air in this cave is riddled with many different smells.  The
+heaviest that can be detected is the smell of death.  The air is cold and
+damp, thick and hard to breathe.  There are manacles that line the walls,
+some that still have their poor victims in them, althought they are nothing
+but skeletons now.  The dirt underfoot is rust colored and has the
+consistancy of thick mud.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6052
+S
+#6052
+0 0
+~
+~
+~
+0 0 0
+Pathway to Death~
+The walls here are lined with dark brown stains that look as though they
+have dripped.  The air has a rotten stench to it, and is very foul indeed. 
+Bones and skeletons litter the walkway, forcing whoever is brave enough to
+venture here to weave a path.  It is cold here, or is it just the
+overwhelming sense of death hanging in the air?  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6053
+D2
+~
+~
+0 0 6051
+S
+#6053
+0 0
+~
+~
+~
+0 0 0
+Pathway to Death~
+Moving deeper into the cave, the stains on the walls seem to get lighter
+as they look fresher.  The stench gets thicker, as well as the air getting
+colder.  There is a slight downward slope to the floor of the cave, as it
+seems to go deeper into the earth.  There seem to be less dry bones here, as
+more of the skeletons that are on the ground have bits of flesh still
+attached to them.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6062
+D1
+~
+~
+0 0 6058
+D2
+~
+~
+0 0 6052
+D3
+~
+~
+0 0 6054
+S
+#6054
+0 0
+~
+~
+~
+0 0 0
+Hearing the Laugh~
+The manacles on the walls have disappeared, givin way to cages.  There
+are several cages here, each with different looking skeletons in them.  Some
+seems to be animals, while others look more human like.  The stench of death
+is still heavy on the air, while the slope seems to have shifted to a slight
+uphill climb.  The air is still chilly, or maybe it's just the feeling of
+death that's all around.  There is a sound of someone laughing in the
+distance, giving a sense of fear and forboding sense of death to the
+traveller who has stumbled upon this forsaken cave.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6053
+D3
+~
+~
+0 0 6055
+S
+#6055
+0 0
+~
+~
+~
+0 0 0
+Closing in on the Laugh~
+The laughing has grown louder, and can be made out to sound more and more
+evil.  The air is thicker, harder to breath because the smell is so
+horrible.  The cages are still lining the walls, and here there are corpses
+in them, rather than just skeletons.  Some of these corpses look as though
+they have been mummified, they look completely dry, devoid of all fluids
+that once ran through their veins.  The terrain has leveled out, making it
+easier to travel.  The air grows colder, the temperature dropping quickly
+for those who travel here.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6054
+D3
+~
+~
+0 0 6056
+S
+#6056
+0 0
+~
+~
+~
+0 0 0
+Echoing Laughter~
+The laughter here seems to be almost unbearable.  The evil cackles echo
+off the walls, reverberating over and over inside of the cave.  There are
+still cages that line the walls, but there are living creatures inside of
+them now.  The creatures cower and shake in fear each time a new peal of
+laughter crackles down the path.  It seems as though they know exactly what
+is making the laughter, and they are deathly afraid of it.  The smell of
+rotting flesh is overpowering, and the chilly air has no movement to it,
+seemingly unknowing of the stench that it carries along.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6055
+D3
+~
+~
+0 0 6057
+S
+#6057
+0 0
+~
+~
+~
+0 0 0
+The Laughing Un-Dead~
+Here, the source of the laughter is found.  In the middle of the room is
+a table, and standing behind the table is a creature that resembles a human.
+He's tall, and he has dark hair and dark eyes, but his skin seems to be a
+ghoulish, unnatural pale.  He has his head thrown back and is laughing,
+while his hands are holding a small animal.  He ceases his laughter and
+looks down at the animal, grinning like a child looking at a gift.  Slowly
+he raises the animal towards his face...  
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 6056
+S
+#6058
+0 0
+~
+~
+~
+0 0 0
+Path of Fear~
+The walls here begin to narrow, forcing those who come here to feel as
+though they are heading into a trap.  The path is heading down hill,
+steeply.  The smell seems to have lightened a bit, the air is a little
+fresher here, although just as cold.  In the shadows, there seems to be
+creatures moving around, dancing from one shadow to another.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6059
+D3
+~
+~
+0 0 6053
+S
+#6059
+0 0
+~
+~
+~
+0 0 0
+Path of Fear~
+Unknowing of what lies ahead, this weary traveller had pressed onward. 
+His reward for his bravery was death.  There is a skeleton that lies here,
+fully clothed and yet totally void of flesh.  The clothes don't look in
+horrible shape, giving the idea that this was a very recent death.  Could it
+have been a warning for those who choose to follow this path in his
+footsteps?  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6060
+D3
+~
+~
+0 0 6058
+S
+#6060
+0 0
+~
+~
+~
+0 0 0
+Path of Fear~
+As the walls continue to grow closer together, the air once again picks
+up the scent of thick death.  The slope has evened out some, now only having
+a slight downward angle.  The ground is now beginning to become harder, more
+like rock than dirt.  There is nothing to be heard here, all is silent,
+giving a sense of something waiting quietly in the shadows.  
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6061
+D3
+~
+~
+0 0 6059
+S
+#6061
+0 0
+~
+~
+~
+0 0 0
+Bend in the Path~
+The narrow walls bend slightly, forcing those who walk here to change
+course and follow where ever this fearsome path may lead.  Unknowing of what
+is to come, one must continue onwards, hoping to find a way out.  
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 6060
+S
+#6062
+0 0
+~
+~
+~
+0 0 0
+Pathway to Death~
+Continuing along, the slope of the ground begins to steeping, making it
+harder to walk.  The air is colder, and there's a stronger smell hanging in
+it.  The rotten smell of decaying flesh is everywhere.  Every now and then,
+a faint scream can be heard.  Whether it's the scream of an animal or not
+cannot be told.  The only thing that one can tell from the scream is that
+it's full of pain...  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6063
+D2
+~
+~
+0 0 6053
+S
+#6063
+0 0
+~
+~
+~
+0 0 0
+Pathway to Death~
+Descending deeper into the cave, one notices the echos of screams and
+laughter that seem to now be all around.  The air is still chilly and
+stagnant, with the death smell still heavy.  The ground is harder here,
+seeming to be less loose dirt, and more rock.  The walls are still covered
+in red stains, although they shimmer as though they are wet.  Laying here on
+the ground is the corpse of an animal, but it's so mangled that it is
+impossible to tell what species the animal was.  It seems as though whoever
+did this to the animal was not alone, and it looks as thought the animal had
+its limbs literally ripped from its sockets.  Once again, the sound of
+something lurking in the shadows can be heard...  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6064
+D2
+~
+~
+0 0 6062
+S
+#6064
+0 0
+~
+~
+~
+0 0 0
+Widening of the Path~
+Here, the cave begins to open up, and the pathway is wider.  There is no
+corpse that can be seen, but the stench of rotting flesh is heavy in the
+air.  Because of the bigger area, the echoes of the screams are a little
+louder, and yet they still do not seem to have a source, just a tortured
+sound.  The ground is solid rock now, and it is a bit slippery.  One must be
+careful when treading here, for they would not want to fall...  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6065
+D2
+~
+~
+0 0 6063
+S
+#6065
+0 0
+~
+~
+~
+0 0 0
+Deeper into the Cave~
+Once again, there is blood on the floor.  Yet, this time, it seems to be
+seeping out of the ground itself, rather than looking like it came from
+somewhere else.  The air is still chilly, and even here in the tunnel, there
+seems to be a slight breeze.  The rank smell of death and decay is still
+heavy in the air, smothering any other smell that could be around.  The
+walls look wet, and the rock floor is slippery.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6066
+D2
+~
+~
+0 0 6064
+S
+#6066
+0 0
+~
+~
+~
+0 0 0
+Room of Blood~
+In this middle of this room is a stream.  It's too dark to see much, but
+if one were to get closer, they would notice that it's not just the darkness
+that gives the stream its color.  The liquid running in the stream is a
+deep scarlet color, and is very thick.  There is blood that seems to seep
+from the walls and drip down into buckets that are placed on the floor.  The
+floor is slick from the blood that has overflowed from the stream, and there
+is only a slight chill in the air here.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6067
+D2
+~
+~
+0 0 6065
+S
+#6067
+0 0
+~
+~
+~
+0 0 0
+Corpse Storage~
+This room is nothing but wall to wall piles of decaying corpses.  The
+stench here is unbearable!  There are mice and rats and bugs scurrying all
+around, feeding off the limbs and other body parts of these unfortunate
+creatures that have ended up here.  Looking at the corpses, one can notice
+that they all seem to be dehydrated, looking as though there is not one
+ounce of fluid left in their body.  With the looks of these corpses, one can
+then tell where the stream of blood came from...  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6068
+D2
+~
+~
+0 0 6066
+S
+#6068
+0 0
+~
+~
+~
+0 0 0
+More Corpses~
+Here there are more corpses, seems to be the overflow from the room just
+to the south.  Although there's not as many in this room as there was in the
+last, the stench here is just as bad.  These corpses seem to be less decayed
+than the others, and some of them look extremely fresh, as though they were
+only placed here a few minutes ago.  The rats and insects are fewer here,
+but they are still running around underfoot.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6069
+D2
+~
+~
+0 0 6067
+S
+#6069
+0 0
+~
+~
+~
+0 0 0
+The Bleeding Room~
+This is the room where all the corpses have come from.  There is a large
+table sitting in the middle of the room, covered in blood.  The table is
+bowed slightly, and the blood runs toward the middle of the table.  In the
+middle of the table is a hole about six inches in diameter, which connects
+to a pipe leading into the wall.  There are knives and other ominous tools
+hanging on the walls here, gleaming.  There are three cages in the room, and
+each of them is empty.  In one of the cages, there are scratch marks along
+the bottom of the cage, as though whatever was in it was dragged out,
+forcefully.  They must have known what was to become of them.  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6070
+D2
+~
+~
+0 0 6068
+S
+#6070
+0 0
+~
+~
+~
+0 0 0
+The Holding Pen~
+This room is lined with wooden cages, each holding its own different
+creature.  The cages are stacked, in some places, four or five high,
+depending on the creature within them.  There are animals and there are
+humans alike.  One will notice there are all sorts of different races caged
+in here, one on top of another.  Most of the inhabitants of the cages are
+staring off into space with a dazed look on their face and two small
+puncture wounds on their neck.  Others are sleeping, and the last few that
+are fully comprehensive of the situation are trying to break free of their
+cages, but it seems they will have no luck in doing so.  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 6071
+D2
+~
+~
+0 0 6069
+S
+#6071
+0 0
+~
+~
+~
+0 0 0
+Searching for Life~
+In this room, there isn't a single corpse or a single cage.  No manacles,
+no blood anywhere to be seen.  It seems very out of place, compared with the
+rest of the cave.  The only thing in this room is a small altar in the
+corner.  Apparently these monsters do have religion.  There is an engraving
+in the middle of the altar stone, and illuminary candles all around it.  The
+enscription is just one word, Sangria.  
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 6072
+D3
+~
+~
+0 0 6070
+S
+#6072
+0 0
+~
+~
+~
+0 0 0
+Finding Death~
+Screams echo off the walls here, filled with pain.  It sounds as though a
+living creature is being disembowled.  There's no one in this room, it seems
+as though the screams are coming from the north.  There is a single cage
+that hangs in the far right corner.  It is open and gently swaying back and
+forth.  The air is still foul, and there is no breeze, making one think
+about what could have that cage swaying...  
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6074
+D3
+~
+~
+0 0 6071
+S
+#6074
+0 0
+~
+~
+~
+0 0 0
+Corridor of Blood~
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6076
+D2
+~
+~
+0 0 6072
+S
+#6076
+0 0
+~
+~
+~
+0 0 0
+Corridor of Blood~
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6078
+D2
+~
+~
+0 0 6074
+S
+#6078
+0 0
+~
+~
+~
+0 0 0
+Corridor of Blood~
+~
+0 AD 0
+0
+~
+I 0 D0
+~
+~
+0 0 6079
+D2
+~
+~
+0 0 6076
+S
+#6079
+0 0
+~
+~
+~
+0 0 0
+Hall to Sangria~
+~
+0 AD 0
+0
+~
+I 0 D2
+~
+~
+0 0 6078
+D3
+~
+~
+0 0 6080
+S
+#6080
+0 0
+~
+~
+~
+0 0 0
+Hall to Sangria~
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 6079
+D3
+~
+~
+0 0 6081
+S
+#6081
+0 0
+~
+~
+~
+0 0 0
+Hall to Sangria~
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 6080
+D3
+~
+~
+0 0 6083
+S
+#6082
+0 0
+~
+~
+~
+0 512 90
+Lair of Sangria~
+In the middle of this room is a huge chair.  The arms are made out of
+what looks to be human bones, and the legs as well.  The covering on the
+chair seems to be skin.  In the far corner of the room, there's a table
+that's covered in different skulls.  Each of the skulls have one thing in
+common...  Fangs.  Each skull has one set of fangs that look as though they
+were deadly.  The smell in this room is most pleasant, compared to the rest
+of the cave.  The air seems to be fresh, as though there was a breeze
+blowing through.  On the opposite side of the room from the table lies a
+coffin.  It's made of a dark, dark wood, and is highly polished.  The coffin
+is open, but empty...  
+~
+0 DX 0
+2
+~
+I 0 D1
+~
+~
+0 0 6083
+S
+#6083
+0 0
+~
+~
+~
+0 0 0
+Hall to Sangria~
+~
+0 AD 0
+0
+~
+I 0 D1
+~
+~
+0 0 6081
+D3
+~
+~
+0 0 6082
+S
+#0
+
+#RESETS
+M 0 6051   1 6082  1	* Sangria
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

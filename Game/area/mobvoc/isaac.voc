@@ -1,0 +1,8 @@
+Minax
+I&will&fight|kill&you:<3:6:I see...;CMD yell May the gods have mercy on your soul, $name, because I shall not!;CMD pray sanc isaac;CMD pray purification $name;CMD pray soul $name;CMD pray damn $name;CMD pray plague $name;CMD pray flame $name
+fuck|shit|ass|bitch|dick|cunt:<3:6:I see...;CMD yell May the gods have mercy on your soul, $name, because I shall not!;CMD pray sanc isaac;CMD pray purification $name;CMD pray soul $name;CMD pray damn $name;CMD pray plague $name;CMD pray flame $name
+fuck|shit|ass|bitch|dick|cunt:>2:-1:CMD pray heal isaac;CMD pray frenzy isaac;CMD pray bless isaac;CMD pray sanc isaac;CMD pray 'protect good' isaac;CMD pray 'protect evil' isaac;CMD pray divine isaac;Please don't use that kind of language in here.  I'm warning you, $name.
+I&will&fight|kill&you:>2:-1:CMD pray heal isaac;CMD pray frenzy isaac;CMD pray bless isaac;CMD pray sanc isaac;CMD pray 'protect good' isaac;CMD pray 'protect evil' isaac;CMD pray divine isaac;Please don't use that kind of language in here.  I'm warning you, $name.
+heal:>1:-:CMD pray heal isaac
+healing|heals|healed|healer|heal.|heal?|heal!:>1:-:Good idea!;CMD pray heal isaac
+HEAL:>1:-:Good idea, $name!;CMD pray heal isaac

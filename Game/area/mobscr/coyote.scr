@@ -1,0 +1,13 @@
+* File: coyote.scr
+* Mob: Coyote(21088)
+
+#TRIGGER def
+Type 9
+Sc
+wfunc %sucka% random 0 1
+if (%sucka% == 1)
+  emote howls loudly as you make the final blow with your weapon.
+  cmd howl
+~End
+
+#END

@@ -6,41 +6,58 @@
 @inject IWebHostEnvironment _environment
 @inject IJSRuntime JSRuntime;
 
-<h1>test</h1>
 
 
+<MudCarousel Class="mud-width-full" Style="height:440px;" ShowArrows="@arrows" ShowBullets="@bullets"
+    EnableSwipeGesture="@enableSwipeGesture" AutoCycle="@autocycle" TData="object">
+    <MudCarouselItem Transition="transition" Color="@Color.Primary">
+        <MudImage Src="@("/hero3.jpg")" ObjectFit="ObjectFit.Contain" Fluid="true" Class="w-100"></MudImage>
+    </MudCarouselItem>
+</MudCarousel>
 @code {
+    private bool arrows = true;
+    private bool bullets = true;
+    private bool enableSwipeGesture = true;
+    private bool autocycle = true;
+    private Transition transition = Transition.Slide;
+
     public AreaFile area = new AreaFile();
     public List<MarkupString> messages = new List<MarkupString> { };
     private string? userInput;
-    protected override void OnInitialized() {
-        TcpService.Connect("exodusmud.com",9000);
-        TcpService.DataReceived += OnDataReceived; // Subscribe to the event
-        area = AreaConverter.ParseAreaFile(Path.Combine(_environment.WebRootPath, "AreaFiles/abbey.are"));
+    protected override void OnInitialized()
+    {
+        @* TcpService.Connect("exodusmud.com",9000);
+TcpService.DataReceived += OnDataReceived; // Subscribe to the event *@
+        // area = AreaConverter.ParseAreaFile(Path.Combine(_environment.WebRootPath,"AreaFiles/abbey.are"));
     }
-    private async void OnDataReceived(string data) {
-    
-        await InvokeAsync(() => {
+    private async void OnDataReceived(string data)
+    {
+
+        await InvokeAsync(() =>
+        {
             data = data.Replace("<", "(");
             data = data.Replace(">", ")");
 
-            data = data.Replace("\n","<br>");
-            data = data.Replace("\r","");
+            data = data.Replace("\n", "<br>");
+            data = data.Replace("\r", "");
             messages.Add(new MarkupString(AnsiHelper.ToHtml(data)));
             StateHasChanged();
         });
 
     }
 
-    private void SendData(string text) {
+    private void SendData(string text)
+    {
         TcpService.SendData(text);
         userInput = ""; // Clear the input field
         StateHasChanged();
-        
+
     }
 
-    private void HandleKeyDown(KeyboardEventArgs e) {
-        if (e.Key == "Enter") {
+    private void HandleKeyDown(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
             if (string.IsNullOrWhiteSpace(userInput)) return;
             SendData(userInput);
             userInput = "";
@@ -48,9 +65,11 @@
         }
     }
 
-    private async Task ScrollToBottomAsync(string elementId) {
-        await JSRuntime.InvokeVoidAsync("scrollToBottom",elementId);
-        await InvokeAsync(() => {
+    private async Task ScrollToBottomAsync(string elementId)
+    {
+        await JSRuntime.InvokeVoidAsync("scrollToBottom", elementId);
+        await InvokeAsync(() =>
+        {
             StateHasChanged(); // Tell Blazor to re-render the component.
         });
     }

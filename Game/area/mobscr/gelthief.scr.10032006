@@ -1,0 +1,27 @@
+* File: gelthief.scr
+* Mob: Elder Thief(4091)
+
+#TRIGGER eldt1
+Type 3
+Sc
+getpc %name%
+mfunc %name% %class% class
+mfunc %name% %level% level
+wfunc %rnd% random 0 14
+if ( %level% > 91 )
+   halt once~
+Sc
+if ( %class% == 2 )
+   halt once~
+Sc
+if ( %rnd% < 3)
+   steal 1. %name%
+   halt once~
+Sc
+if ( %rnd% == 14)
+   cmd seize 1. %name%
+   cmd pecho %name% Your pockets feel a bit lighter.
+   halt once~
+End
+
+#END

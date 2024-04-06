@@ -1,0 +1,42 @@
+* Zoo Breeder
+* mob vnum 4210
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 4
+mfunc %cmb-from% %name% name
+if (%rndnum% == 0)
+   pecho %name% With an evil leer in his eye, you imagine the breeder is picturing a baby seal in front of him as he bludgeons you with his large club.
+   halt once~
+Sc
+if (%rndnum% == 1)
+   smote The rubber of the breeder's tight wetsuit squeaks as he moves out of the way of an incoming blow.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 3
+if ( %rndnum% == 0 )
+   emote reaches into a tin pail of fish and tosses some in the air at the eagerly awaiting seals.
+   halt once~
+Sc
+if ( %rndnum% == 2 ) 
+  emote mumbles to himself, glancing around suspiciously at any who dare come too close to his precious baby seals.
+  halt once~
+End
+
+#END
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2742 @@
+#AREA
+illusion.enc~
+Illusion~
+{ 1 10} Apollo  Illusion~
+~
+2451 2601
+0 0
+0 1
+emote~
+#MOBILES
+#2457
+Dark Guardian~
+Guardian~
+The Dark Guardian stand here, waiting for your death warrant.
+~
+~
+giant~
+0 0 0 0
+AB 0 0 0
+68 0 15d180+2610 68d10+100 8d12+30 punch
+-3 -3 -3 0
+CEFK 0 HI JP
+stand stand neutral 15
+AHMV ABCDEFGHIJK huge kevlar~
+0 0 0 100
+0
+~
+~
+#2474
+gardener~
+A gardener~
+The gardener bends over here making sure everything looks perfect enough to win a prize.
+~
+~
+dwarf~
+0 0 0 0
+ABU J -100 0
+63 0 10d169+1000 63d10+100 6d10+25 pierce
+-3 -3 -3 0
+0 0 LQ R
+stand stand neutral 2
+AHMV ABCDEFGHIJK medium fur~
+0 0 0 100
+0
+~
+~
+#2477
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium oldstyle~
+0 0 0 100
+0
+~
+~
+#2501
+Attendant~
+Attendant~
+An Attendant looks around making sure things are in order at all times.
+~
+An attendant clad in a impeccably clean tux stands here before you
+wondering if he would be out of place brushing the lint off of your collar. 
+~
+human~
+0 0 0 0
+ACGY 0 -300 0
+60 -1 10d169+930 60d10+100 5d10+25 beating
+-3 -3 -3 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+0
+~
+~
+#2503
+Cook~
+Cook~
+A cook stands here mixing some exotic salad composed mostly of things you have never heard of and probably couldn't pronounce anyway.
+~
+~
+human~
+0 0 0 0
+AB 0 0 0
+67 0 12d169+1767 65d10+100 6d10+25 smash
+-3 -3 -3 0
+0 0 0 0
+stand stand none 300
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+0
+~
+~
+#2511
+maid~
+Maid~
+A maid is here making sure things are spotlessly clean.
+~
+~
+human~
+0 0 0 0
+ACGY 0 0 0
+64 0 12d169+2610 64d10+100 6d11+45 slap
+-3 -3 -3 0
+0 0 0 0
+stand stand neutral 4
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+0
+~
+~
+#2540
+A beautiful woman~
+Woman~
+A very beautifully adorned woman lounges here seductively.
+~
+~
+human~
+0 0 0 0
+ABU 0 0 0
+60 0 10d169+920 60d10+100 5d10+25 slap
+0 0 0 0
+0 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+0
+~
+~
+#2547
+Gaillard dragon~
+Dragon~
+Gaillard the Dragon
+~
+~
+dragon~
+0 0 0 0
+ABCF BDFHJT -800 0
+75 0 13d175+2000 1d1+999 7d11+25 flame
+-3 -3 -3 0
+0 ABILQR BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant scales~
+0 0 0 100
+0
+~
+~
+#2562
+a Masseuse~
+Masseuse~
+A masseuse stands here awaiting to give you relief from all your ills.
+~
+~
+human~
+0 0 0 0
+ABU 0 0 0
+60 0 10d169+920 60d10+100 6d10+25 thwack
+-3 -3 -3 0
+0 0 0 0
+stand stand none 4
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+0
+~
+~
+#2564
+A mistress~
+A mistress~
+A mistress stands here with a large whip and steel manacles.
+~
+~
+human~
+0 0 0 0
+ABU 0 0 0
+60 0 10d169+920 60d10+100 6d10+25 whip
+-3 -3 -3 0
+0 0 0 0
+stand stand none 6
+AHMV ABCDEFGHIJK medium flesh~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#2457
+Key~
+Jewelled Key~
+A Jewelled key lays here in the dust longing for a lock.~
+oldstyle~
+0
+key S AO
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#2451
+~
+~
+0 0 0
+Lonely Path~
+Ancient trees surround you in this dry forest.  A slight rustling is
+heard among the undergrowth from time to time, as if someone were hunting
+you.  From the north you hear the sounds of scampering animals as the lonely
+path continues.  
+~
+0 C 0
+0
+~
+D0
+~
+~
+0 0 2452
+D2
+~
+~
+0 0 2479
+S
+#2452
+~
+~
+0 0 0
+Lonely Path~
+The passage of your feet raises small clouds of dust from the road's
+packed and even surface.  All around the path there is much undergrowth that
+twitches from time to time.  You must move east or south before the shadows
+strike.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2453
+D2
+~
+~
+0 0 2451
+S
+#2453
+~
+~
+0 0 0
+Lonely Path~
+The dimness gives the place a watchfull air, as if the whole area here
+was a living thing waiting for some great rupture in the fabric of the
+world.  The grand gateway lies to the north with a huge, majestic looking
+structure behind it.  The path goes back south.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2457
+D3
+~
+~
+0 0 2452
+S
+#2454
+~
+~
+0 0 0
+Entrance Room~
+Gleaming onyx trim accents the lustrous marble that covers every surface
+in the large room.  Large double doors lead into the house to the north, and
+doors lead south to the porch.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2455
+D2
+~
+~
+0 0 2458
+S
+#2455
+~
+~
+0 0 0
+Sitting Room~
+The room is plushly decorated with statues and delicate, glass-blown
+animals.  A crystal chandelier hangs suspended from a golden chain, lit with
+hundreds of tiny candles.  A sonbird sings sweetly in a gold wire cage above
+a magnificent oil painting.  A vase sitting on the dresser contains a single
+glass rose, lifelike to the point of disbelief.  Vases overflowing with
+flowers are in every corner, filling the room with a sweet scent.  To the
+north is the main hallway leading to the other rooms here on the first
+floor.  From the east you hear the clinking of glasses and silverware, as
+well as the light chatting of mundane issues usually discussed over meals. 
+Beautiful music comes in from the west and you hear the shuffling of feet as
+if people were in a very crowded ballroom.  The entrance room is to the
+south.  An attendant pops in every few seconds to remind you that the master
+of the house will be right with you.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2512
+D1
+~
+~
+0 0 2502
+D2
+~
+~
+0 0 2454
+D3
+~
+~
+0 0 2456
+S
+#2456
+~
+~
+0 0 0
+East Wing of Ballroom~
+Gild and filligree assault your senses.  Fine marble coats the walls and
+floor and makes up the slender columns that support the high arching roof of
+this long room which continues to the west.  A wise and ornately carved door
+laso leads to the east.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2455
+D3
+~
+~
+0 0 2468
+S
+#2457
+~
+door north~
+0 0 0
+Grand Gateway~
+You stand before an enormous iron gate with gilded spikes running along
+its high, arched top.  The gate is flanked by two granite monoliths whose
+presence speaks of great wealth, but also of great power.  What is beyond
+the gate is a great mystery.  The only other exit lies south on a thin,
+lonely path.  
+~
+0 0 0
+0
+~
+D0
+~
+gate~
+1 2457 2458
+D2
+~
+~
+0 0 2453
+S
+#2458
+~
+~
+0 0 0
+Gazebo~
+Roses climb the whitewashed wood as if it were a giant trellis.  Large
+bumblebees buzz ponderously from flower to flower.  From the east you hear
+the clinking of metal past a flower covored path.  To the north a large
+castle stands tall and proud.  Music drifts in softly from the west, and the
+entrance to this grand estate lies to the south.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2454
+D1
+~
+~
+0 0 2459
+D2
+~
+gate~
+1 2457 2457
+D3
+~
+~
+0 0 2474
+S
+#2459
+~
+~
+0 0 0
+Flowery Path~
+Trees on either side of you rustle in the breeze, and beds of flowers
+supply bursts of color to the greenness of the grass.  To the east there
+continues the path, while to the west there is a large and beautifull
+Gazebo.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2461
+D3
+~
+~
+0 0 2458
+S
+#2460
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 2459
+S
+#2461
+~
+~
+0 0 0
+FLowery Path~
+The flowers seem majestic here in their purple floral attire.  The
+flowing smoothness of the earth combined with the beauty of the colombine
+carpet leaves you dumbstruck.  To the west the path continues.  From the
+east you hear the shouts of mortal pain and the clanking of lances.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2462
+D3
+~
+~
+0 0 2459
+S
+#2462
+~
+~
+0 0 0
+The Joust Run~
+Here is a long strip of fresh, green grass.  It is covored at random
+points with imprints made by large horses trampling over it time and time
+again.  All around there are also crushed flowers that have been trampled in
+their prime.  The Grassy strip runs to the north and the south.  To the east
+you see the lord of this land watching the matches in earnest.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2463
+D1
+~
+~
+0 0 2467
+D2
+~
+~
+0 0 2469
+D3
+~
+~
+0 0 2461
+S
+#2463
+~
+~
+0 0 0
+The Run~
+To the north you see a large black horse snorting like it was after
+something.  To the south is the center of the Joust run, and to the east you
+hear running water.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2464
+D1
+~
+~
+0 0 2466
+D2
+~
+~
+0 0 2462
+S
+#2464
+~
+~
+0 0 0
+The Run~
+You are standing in front of a charging horse, carrying a knight fully
+clad in armor, holding a large lance that looks very sharp and very
+dangerous.  It may be in your best interests to move.  The only exits are to
+the south which will just lead you into more trouble on the joust run, or
+east from which you hear the soft sound of horses chewing on their feed, and
+neighing from time to time.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2465
+D2
+~
+~
+0 0 2463
+S
+#2465
+~
+~
+0 0 0
+Stable Tent~
+The horses here are well-kept, but they are also well-used.  You see a
+tack neatly arranged in a corner walled by enormous stacks of hay bales. 
+Better watch your step here.  Horse droppings are spread sporiadically
+across the straw covored floor.  The whinny of the large and well-fed horses
+come from the brownish stalls all around you.  You smell all the rich moist
+alfalfa odor of the equine species.  To the west is the joust run.  From the
+south you hear the soft motion of running water.  
+~
+0 F 0
+0
+~
+D2
+~
+~
+0 0 2466
+D3
+~
+~
+0 0 2464
+S
+#2466
+~
+~
+0 0 0
+Water Tent~
+Water shoots up into the air from several spouts and down into a wide
+and shallow basin.  From the north you hear the whinnys of horses.  The
+sounds of metal clanking and runing horses comes from the west.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2465
+D3
+~
+~
+0 0 2463
+S
+#2467
+~
+~
+0 0 0
+The Royal Dais~
+From here you can viem the entire jousting run with great ease.  All
+around you lounge great lords and princes, all here watch this great
+tournament.  Above you is a large canopy shielding all the people here here
+from the elelements.  There is food in vast amounts, piled high in large
+golden bowls.  As for wine, there is an immense supply of of the world's
+finest for anyone wo wishes to partake.  Servants run to and fro fulfilling
+the whims of those sead there.  One could be very happy in this environment.
+To the west is the Field, and to the south the servants tent.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2472
+D3
+~
+~
+0 0 2462
+S
+#2468
+~
+~
+0 0 0
+Center of the Ballroom~
+Lavish, garish, and gorgeous are all words that spring to mind when you
+see the highly polished, inlaid marble of the floor.  Two columns support
+the vaulted ceiling in this part of the room.  Stuffed divans and highly
+polished sideboards adorn this cavern of opulence.  The room itself extends
+to the east and west.  Asave 
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2456
+D3
+~
+~
+0 0 2501
+S
+#2469
+~
+~
+0 0 0
+The Run~
+To the south you see a large horse ready for the charge, with a knight
+clad in white armor mounter there.  To the north is the center of the joust
+run, and from the east you hear the raving of a chef in french, and the
+clanking of platters and utensils.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2462
+D1
+~
+~
+0 0 2472
+D2
+~
+~
+0 0 2470
+S
+#2470
+~
+~
+0 0 0
+The Run~
+You are standing in front of a large, kicking horse that is ready to
+charge at any moment.  Mounted on him is a lerge knight who is clad in a
+full suit of armor.  He is weilding a large and foreboding lance that looks
+very sharop and very dangerous.  It may be in your best interests to move. 
+To the north is more grass composing the joust run and would just get you
+into more trouble.  From the east you hear the sound of weapons being
+sharpened in the weapons tent.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2469
+D1
+~
+~
+0 0 2471
+S
+#2471
+~
+~
+0 0 0
+Weapons Tent~
+The walls here are covered with large steel racks which are filled with
+lagrge, multi-sized lances.  Yet above all there is one that stands out
+among the rest.  It is made of a hardened white gold, which is very light. 
+On the end are large diamond teeth.  It looks very dangerous.  There is a
+little stone carving on its hilt leading you to believe it belongs to the
+lord of this land.  The only exit is to the west , back to the joust.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2473
+D3
+~
+~
+0 0 2470
+S
+#2472
+~
+~
+0 0 0
+Servants Tent~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2467
+D3
+~
+~
+0 0 2469
+S
+#2473
+~
+~
+0 0 0
+Storage Tent~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 2471
+S
+#2474
+~
+~
+0 0 0
+Flowery Path~
+The sweet scent from the myriad of flowers that adorn this path relaxes
+you.  You feel safe and comfortable.  To the east is a large gazebo, while
+the path continues to the west.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2458
+D3
+~
+~
+0 0 2475
+S
+#2475
+~
+~
+0 0 0
+Flowery Path~
+Lilies and orchids line this part of the path.  They seem to change
+colors as you look closer at each one.  It is very odd.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2565
+D1
+~
+~
+0 0 2474
+D3
+~
+~
+0 0 2476
+S
+#2476
+~
+~
+0 0 0
+Royal Concert Hall~
+All around you are wine-colored, plush velvet seats, giving the listener
+the chance to fully appreciate the music.  Above you in an enormous
+chandeleir made of medium sized, orange colored ruby bars.  It casts a
+subtle yet powerfull glow on the entire hall.  To the north is the main
+stage, while from the east you smell the fragrance of a myriad of species of
+rare and exotic flowers.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2477
+D1
+~
+~
+0 0 2475
+S
+#2477
+~
+~
+0 0 0
+Stage~
+You are on a large stage with a polished wood stage that is so shiny you
+can almost see you reflection when you look down.  All around you are a
+myriad of golden musical stands.  Beside each stand is an oak chair with an
+instrument laying gingerly on top of it.  One one side there is the flutes,
+the oboes, the clarinets and the bassoons.  In the back are the brass
+instruments all shiny and polished.  Last are the strings.  There is a small
+trapdoor downstairs to the storage room.  Turning south towards the audience
+you see many shining faces waiting in anticipation for the music.  
+~
+0 D 0
+0
+~
+D2
+~
+~
+0 0 2476
+D5
+~
+~
+0 0 2478
+S
+#2478
+~
+~
+0 0 0
+Instrument Storage Room~
+All around you mounted on walls are instruments.  There are strings,
+brass, and many more you have never even heard of.  In one corner there is a
+table that looks like its function is to repair the instruments.  As you
+peruse over the hand-crafted instruments, all made out of the finest cherry
+wood, you hear the sound of beautiful music coming from the stage above.  
+~
+0 D 0
+0
+~
+D4
+~
+~
+0 0 2477
+S
+#2479
+~
+~
+0 0 0
+Enigma Road~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2451
+D2
+~
+~
+0 0 2551
+S
+#2480
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2481
+S
+#2481
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2482
+D3
+~
+~
+0 0 2480
+S
+#2482
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2483
+D3
+~
+~
+0 0 2481
+S
+#2483
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2484
+D2
+~
+~
+0 0 2482
+S
+#2484
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2485
+D2
+~
+~
+0 0 2483
+S
+#2485
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2486
+D2
+~
+~
+0 0 2484
+S
+#2486
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2485
+D3
+~
+~
+0 0 2487
+S
+#2487
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2486
+D3
+~
+~
+0 0 2499
+D5
+~
+~
+0 0 2500
+S
+#2488
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 2489
+S
+#2489
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2488
+D3
+~
+~
+0 0 2490
+S
+#2490
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2491
+D1
+~
+~
+0 0 2489
+S
+#2491
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2492
+D2
+~
+~
+0 0 2490
+S
+#2492
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2493
+D2
+~
+~
+0 0 2491
+S
+#2493
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2494
+D2
+~
+~
+0 0 2492
+S
+#2494
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2495
+D2
+~
+~
+0 0 2493
+S
+#2495
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2496
+D3
+~
+~
+0 0 2494
+S
+#2496
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2497
+D3
+~
+~
+0 0 2495
+S
+#2497
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2498
+D3
+~
+~
+0 0 2496
+S
+#2498
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2499
+D3
+~
+~
+0 0 2497
+S
+#2499
+~
+~
+0 0 0
+Moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2487
+D3
+~
+~
+0 0 2498
+S
+#2500
+~
+~
+0 0 0
+Underwater Passage~
+~
+0 0 0
+0
+~
+D4
+~
+~
+0 0 2487
+S
+#2501
+~
+~
+0 0 0
+West Wing of Ballroom~
+The fine marble that this room displays shows not only the owner's
+wealth, but also his good taste.  The delicate veins that run through it can
+only be compared to the translucent skin on the nape of a beautiful woman. 
+You drag you eyes away from the spectacle long enough to realize that the
+pillared height of the ceiling extends to the east.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2468
+S
+#2502
+~
+~
+0 0 0
+Dining Room~
+A long, mahogany table in the center of the room is flanked by twenty
+hand carved, cherry wood chairs.  Polished silver glimmers against the dark
+wood, and exquisite crystal refracts the light from an overhanging
+chandelier, sending tiny rainbows onto the folded linen.  Through a set of
+double doors to the east you can see the kitchen, while to the west there is
+a large ornately carved door.  
+~
+0 D 0
+0
+~
+D1
+~
+door~
+1 0 2503
+D3
+~
+~
+0 0 2455
+S
+#2503
+~
+~
+0 0 0
+Kitchen~
+You haven't seen a kitchen this big since you left the kings army.  This
+one, however, does not smell of beans and potatoes.  It smells of lightly
+battered chicken and sauteed mushrooms.  Your mouth starts to water as you
+search the spotless counters.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2507
+D1
+~
+~
+0 0 2504
+D3
+~
+door~
+1 0 2502
+S
+#2504
+~
+~
+0 0 0
+Storage Room~
+This is the place where all the dry goods get placed before they are
+eaten.  The walls are lined with shelves so close together you can barely
+turn around.  
+~
+0 D 0
+0
+~
+D3
+~
+~
+0 0 2503
+S
+#2505
+~
+~
+0 0 0
+Ladies Chamber~
+Small marble fountains and huge, pillows dominate the room.  On the
+velvet and silken pillows lounge nymphs of all types.  They look up at you
+and gyrate their hips in supplication.  Their eyes pleading at you.  The
+walls here are pure black marble, with tiny veins of white running through
+them.  Silk draps from the marble, though you cannot see how the builder of
+this room actually made it stay.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2563
+D2
+~
+~
+0 0 2540
+S
+#2506
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#2507
+~
+~
+0 0 0
+Hallway~
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2508
+D2
+~
+~
+0 0 2503
+S
+#2508
+~
+~
+0 0 0
+Hallway~
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2507
+S
+#2509
+~
+~
+0 0 0
+Hallway~
+~
+0 D 0
+0
+~
+D0
+~
+door~
+1 0 2511
+D2
+~
+door~
+1 0 2510
+D3
+~
+~
+0 0 2508
+S
+#2510
+~
+~
+0 0 0
+Butlers Room~
+This is the room of a man who takes his job seriously.  Charts on the
+wall give schedules for all of the household chores.  The bed is made, a few
+books are tucked on a high shelf, polishing rags are neatly folded and
+stacked in a corner.  Nothing is out of place.  
+~
+0 D 0
+0
+~
+D0
+~
+door~
+1 0 2509
+S
+#2511
+~
+~
+0 0 0
+Maids Quarters~
+This room is provided with a small bed that is meticulously made, and a
+small vanity with no sign of dust within five feet of it.  
+~
+0 D 0
+0
+~
+D2
+~
+door~
+1 0 2509
+S
+#2512
+~
+~
+0 0 0
+Wide Hall~
+On the eastern wall here is a large oil painting of a deep black hole
+with white surfaces all around it.  It makes you hope you never actually
+visit the place depicted on the canvas.  To the west there is a large spiral
+staircase leading upwards to the second floor.  From the south you hear the
+sounds of light chatting and the sipping of wine.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2513
+D2
+~
+~
+0 0 2455
+D3
+~
+~
+0 0 2519
+S
+#2513
+~
+~
+0 0 0
+Wide Hall~
+You are standing in a wide hall flanked on both sides by the most
+beautiful pieces of art you have ever seen.  To the east is a warm room that
+houses the study.  To the north is the back porch of the house and there is
+a cool breeze coming from that direction.  From the west you smell the scent
+of dust that is usually associated with old books in a library.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2518
+D1
+~
+~
+0 0 2514
+D2
+~
+~
+0 0 2512
+D3
+~
+~
+0 0 2517
+S
+#2514
+~
+~
+0 0 0
+Study~
+A large walnut desk sits against the wall facing the doorway next to a
+dusty leaded window.  Shelves filled with magical texts occupy the one of
+the walls, and a threadbare rug of bright floral designs covers a dark
+wooden floor.  You feel heat on your face from a large fire in the fireplace
+to the east.  To the north seems to be a comfortable lounge.  
+~
+0 D 0
+0
+~
+D0
+~
+door~
+1 0 2515
+D1
+~
+~
+0 0 2516
+D3
+~
+~
+0 0 2513
+S
+#2515
+~
+~
+0 0 0
+Lounge~
+The color of the furniture in this room is the color of the sea on a calm
+misty morning.  If you weren't such a busy person you might find this the
+perfect place to settle in some good food and some good friends for a few
+good hours.  But, alas, an adventurer's lot is not a sedentary one.  A door
+leads to the south.  
+~
+0 D 0
+0
+~
+D2
+~
+door~
+1 0 2514
+S
+#2516
+~
+~
+0 0 0
+Fireplace~
+You sre standing in a raging fire, stupid.  
+~
+0 D 0
+0
+~
+D3
+~
+~
+0 0 2514
+S
+#2517
+~
+~
+0 0 0
+Library~
+You are surrounded by books and scrolls, countless and diverse, of all
+shapes and subjects.  The air in here has that dusty smell associated with
+books and paper.  Light shines in from long, lancet windows.  The exit lies
+to the east.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2513
+S
+#2518
+~
+~
+0 0 0
+Back Porch~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2513
+S
+#2519
+~
+~
+0 0 0
+Bottom of the Staircase~
+You stand at the bottom of the main staircase in the house.  The hand
+rails are made of hand-carved wrought iron.  It spirals gracefully upwards
+leading to the second floor.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2512
+D4
+~
+~
+0 0 2520
+S
+#2520
+~
+~
+0 0 0
+Top of the Staircase~
+You are a bit out of breath after the spiral climb up the staircase. 
+Maybe you should spend less time in the dining room and more time in the
+ballroom.  To the north is the upstairs hallway, and back down is the bottom
+of the staircase.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2521
+D5
+~
+~
+0 0 2519
+S
+#2521
+~
+~
+0 0 0
+Southern Upstairs Hallway~
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2534
+D2
+~
+~
+0 0 2520
+D3
+~
+~
+0 0 2522
+S
+#2522
+~
+~
+0 0 0
+Southwest Upstairs Hallway~
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2523
+D1
+~
+~
+0 0 2521
+D2
+~
+door~
+1 0 2535
+S
+#2523
+~
+~
+0 0 0
+Western Upstairs Hallway~
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2530
+D2
+~
+~
+0 0 2522
+D3
+~
+~
+0 0 2541
+S
+#2524
+~
+~
+0 0 0
+Supply Closet~
+~
+0 C 0
+0
+~
+S
+#2525
+~
+~
+0 0 0
+Wetsern Upstairs Hallway~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2527
+D3
+~
+~
+0 0 2526
+S
+#2526
+~
+~
+0 0 0
+Northwest Upstairs Hallway~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2525
+S
+#2527
+~
+~
+0 0 0
+Northeast Upstairs Hallway~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2528
+D2
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2525
+S
+#2528
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 2527
+S
+#2529
+~
+~
+0 0 0
+Eastern Upstairs Hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2527
+S
+#2530
+~
+~
+0 0 0
+Northwest Upstairs Hallway~
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2531
+D2
+~
+~
+0 0 2523
+S
+#2531
+~
+~
+0 0 0
+Northern Upstairs Hallway~
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2537
+D1
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2530
+S
+#2532
+~
+~
+0 0 0
+Northeast Upstairs Hallway~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2533
+D3
+~
+~
+0 0 2531
+S
+#2533
+~
+~
+0 0 0
+Eastern Upstairs Hallway~
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2532
+D1
+~
+~
+0 0 2540
+D2
+~
+~
+0 0 2534
+S
+#2534
+~
+~
+0 0 0
+Southeast Upstairs Hallway~
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2533
+D3
+~
+~
+0 0 2521
+S
+#2535
+~
+~
+0 0 0
+Drawing Room~
+All around leaning against the wall are unfinished paintings and
+sketches.  You get a short head rush from the scent of the paints wafting
+and mixing in the air here.  In the middle of the room a large easel catches
+you eye.  On the floor all around it are multi-colored brushes and
+pallettes.  The brushes seem to be begging you to pick them up and make use
+of them.  To the west is a closet used to hold supplies.  
+~
+0 D 0
+0
+~
+D0
+~
+door~
+1 0 2522
+D3
+~
+door~
+0 0 2536
+S
+#2536
+~
+~
+0 0 0
+Supply Closet~
+You are surrounded by shelves.  Everything on them is covered with dust. 
+There are many sized brushes, palletes, and lots of paper for sketches. 
+Lots of canvas is on the bottom shelf.  On the top shelf there is a bottle
+of wine.  I wonder what that is doing here?  
+~
+0 D 0
+0
+~
+D1
+~
+door~
+0 0 2535
+S
+#2537
+~
+~
+0 0 0
+Master Sitting Room~
+This looks like the best place to master the art of sitting.  All of the
+couches and chairs in this room are covored in a rich, red velvet brocade,
+and the motif is carried over into the borders of tapestries that dampen and
+soften any noise.  A large Oak door leads to the master bedroom to the north
+~
+0 CD 0
+0
+~
+D0
+~
+door~
+1 0 2538
+D2
+~
+~
+0 0 2531
+S
+#2538
+~
+~
+0 0 0
+Master Bedroom~
+You have lived in rooms that were smaller than the bed here.  This room
+is filled with heavy, baroque furniture.  A massive bed sits on a dais in
+the center of the room, draped in red velvet.  Two large chairs next to a
+glass table appear almost like thrones.  A built-in bar holds racks of
+colored liquids against the western wall.  From the east you hear the sound
+of water being prepared for a bath.  To the south is the master sitting
+room.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2539
+D2
+~
+door~
+1 0 2537
+S
+#2539
+~
+~
+0 0 0
+Master Bath~
+The huge stone basin sunk into the floor could hold thirty bathers
+easily.  A light mist caresses your skin as it rises from the heated pool. 
+Wicker furniture is dotted about the wide tile apron that encircles the
+square bath.  To the west you see a gargantuan bedroom.  
+~
+0 D 0
+0
+~
+D3
+~
+~
+0 0 2538
+S
+#2540
+~
+~
+0 0 0
+Entrance to Deimos's Harem~
+You enter into a huge, sumptuously decorated chamber.  Your first
+impression however is dwarfed by the sheer amount of skin displayed in the
+room.  The beautiful bodies are displayed ornamentaly with only enough
+covering to accentuate the revealed skin.  A lavishly decorated pair
+dominate the chambers occupants.  They look up at you and smile as if they
+know and approve of you innermost fantasies.  Exits are all around you.  The
+freedom you feel here is exhilarating.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2505
+D1
+~
+~
+0 0 2562
+D2
+~
+~
+0 0 2561
+D3
+~
+~
+0 0 2533
+S
+#2541
+~
+~
+0 0 0
+Magic Library~
+Bookshelves stuffed with books and arcane scrolls line the bare walls. 
+In a corner near the door you see a desk that seems to be floating.  It is
+piled high with mysterious curios.  A large multi-colored globe hanging from
+the center of this room bathes it in an eternal glow.  Perusing the titles
+you realize they are all in an ancient language, the time of its use long
+passed.  With further examine of the bookcase you notice a book that seems
+to be guarding a small wooden panel.  How odd.  Exiting to the east takes
+you right back to the hallway.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2523
+D3
+~
+panel~
+1 0 2542
+S
+#2542
+~
+~
+0 0 0
+Top of Dark Stairs~
+These stairs lead down into the dark gloom.  There is not much light and
+it smells if something slimey that you cannot put your finger on just yet. 
+The walls are made up of heavy stone and they are bare and rough.  
+~
+0 CD 0
+0
+~
+D1
+~
+panel~
+1 0 2541
+D5
+~
+~
+0 0 2543
+S
+#2543
+~
+~
+0 0 0
+Dark Stairwell~
+The floor of the rough, stone passage is covored in six inches of slimey
+ooze that clings to your feet and makes walking an effort.  
+~
+0 D 0
+0
+~
+D4
+~
+~
+0 0 2542
+D5
+~
+~
+0 0 2544
+S
+#2544
+~
+~
+0 0 0
+Dark Stairwell~
+You are on a set of narrow stone stairs that extend into the gloom above
+and below.  Slick patches of of moss make the footing trecherous and cause
+you to move carefully.  You wander down in the villa in a place that does
+not theoretically exist.  Sometimes you can hear faint voices from the other
+side, but there are no peepholes for you to spy.  
+~
+0 D 0
+0
+~
+D4
+~
+~
+0 0 2543
+D5
+~
+~
+0 0 2545
+S
+#2545
+~
+~
+0 0 0
+Bottom of Dark Stairwell~
+You stand on a small stone landing from which a set of dank, mossy
+squares ascend upwards into the darkness.  To the north is an intersection
+to this underground passage.  
+~
+0 D 0
+0
+~
+D3
+~
+~
+0 0 2546
+D4
+~
+~
+0 0 2544
+S
+#2546
+~
+~
+0 0 0
+Underground Passage~
+Small reddish globes rest upon silvered dragonsclaws affixed to the walls
+bathing the cold stone walls in a disturbing shade.  To the north is a
+spacious circular chamber that glows a dull, angry red.  From the south,
+through a high arched entry you hear the clanking of metal and the wail of a
+man whos on the fringe of his puny mortal existence.  STrange incantations
+drift in from the west, and the smell of moss and slime drifts in from the
+east.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2547
+D1
+~
+~
+0 0 2545
+D2
+~
+~
+0 0 2550
+D3
+~
+~
+0 0 2549
+S
+#2547
+~
+~
+0 0 0
+Dragon's Lair~
+All around you are piles of bones signifying the valient efforts of
+ithers to attempt stealing the treasure guarded by this gargantuan dragon. 
+You feel the hot breath of his nostrils, as it singes your hair slightly. 
+Your best choice would be to leave this place right away, or you can stay
+for dinner, that is BE dinner.  
+~
+0 D 0
+0
+~
+D0
+~
+steel~
+0 0 2548
+D2
+~
+~
+0 0 2546
+S
+#2548
+~
+~
+0 0 0
+Deimos's Hoard~
+~
+0 D 0
+0
+~
+D2
+~
+steel~
+0 0 2547
+S
+#2549
+~
+~
+0 0 0
+Conjuring Room~
+Arcane symbols cover the walls from floor to ceiling.  One wall is made
+entirely of stained glass.  The glass depicts the image of the great and
+very evil god, whom the master of this house worships.  A conjuring table
+made of black sandstone stands boldly in the center of the room.  All around
+it are ancient books of magic strewn carelessly accross the floor.  All
+around you dance glowing lights.  There seems to be a pair of eyes on your
+every move.  
+~
+0 D 0
+0
+~
+D1
+~
+~
+0 0 2546
+S
+#2550
+~
+~
+0 0 0
+Wizard's Dungeon~
+This spacious and well-lit room is filled with a rack, an adjustable
+table with stirrups, and several well places and highly polished mirrors. 
+The ceiling and walls are hung with strategically located shackles and
+manacles.  One a stone table in the corner a collection of well-maintained
+whips, chains, various leather restraints, and small clamps are neatly
+arranged.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2546
+S
+#2551
+~
+~
+0 0 0
+Enigma Road~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2479
+D1
+~
+~
+0 0 2560
+D2
+~
+~
+0 0 2552
+S
+#2552
+~
+~
+0 0 0
+Enigma Road~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2551
+D2
+~
+~
+0 0 2553
+S
+#2553
+~
+~
+0 0 0
+Enigma Road~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2552
+D1
+~
+~
+0 0 2554
+S
+#2554
+~
+~
+0 0 0
+Harbor Road~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2555
+D2
+~
+~
+0 0 2557
+D3
+~
+~
+0 0 2553
+S
+#2555
+~
+~
+0 0 0
+Harbor Road~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 2558
+D2
+~
+~
+0 0 2556
+D3
+~
+~
+0 0 2554
+S
+#2556
+~
+~
+0 0 0
+Dock 2~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2555
+S
+#2557
+~
+~
+0 0 0
+Dock 1~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2554
+S
+#2558
+~
+~
+0 0 0
+~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2559
+D3
+~
+~
+0 0 2555
+S
+#2559
+~
+~
+0 0 0
+Dock 3~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2558
+S
+#2560
+~
+~
+0 0 0
+The Inn of Illusion~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 2551
+S
+#2561
+~
+~
+0 0 0
+Men's Chamber~
+Small marble fountains and large pillows are dominated by the men in this
+room.  Sleek glistening, well-toned men of all forms lounge on velveteen
+pillows made to accentuate their best features.  Some of the occupants
+glance over at you and smile, flashing strong white teeth.  They nod
+approvingly.  Muffled cries come from the east, and the central chamber is
+to the north.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2540
+D1
+~
+~
+0 0 2564
+S
+#2562
+~
+~
+0 0 0
+Massage Chamber~
+Personal attention is taken to new heights and screams out from every
+corner of the room in this erotic version of the baths.  The oils are earth
+scented and are applied with a sensual caress.  There are beautiful women to
+massage men, and handsome men for the ladies.  Towels are discarded in a
+haphhazard manner as humility and self-consciousness are thrown the the four
+winds.  You feel a friendly caress on your shoulder as you are led into a
+small private booth.  From the south you hear muffled cries.  To the west is
+the entrance room, while heavy breathing is coming from the north.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2563
+D2
+~
+~
+0 0 2564
+D3
+~
+~
+0 0 2540
+S
+#2563
+~
+~
+0 0 0
+Kama Sutra~
+Bodies on the floor, bodies leaning and falling off of the dais, bodies
+on couches and pillows are all interchanging with one another is a virtual
+sea of flesh.  Some peoples bodies are locked in the positions echoing the
+statues of the Kama Sutra, which are displayed on beautiful white marble
+pillars all around the room.  The heat of this room strikes you as
+unbearable as you consider disrobing and joining the fray.  
+~
+0 D 0
+0
+~
+D2
+~
+~
+0 0 2562
+D3
+~
+~
+0 0 2505
+S
+#2564
+~
+~
+0 0 0
+Dominance Chamber~
+The cries you heard before are louder here, yet are many more are muffled
+or silenced by the jewelled gags.  Men and women wiggle exsquisitely under
+the lash or feather.  Silver and platinum chains mingle with velvet and
+silken bonds, and are diplayed proudly on the fortunate prisoners.  The
+cries and moans of pleasure are interchangeable in this sinful heaven. 
+Leather clad women eye you as they lay into with a cat of nine tails.  There
+ere exits to the north and the west.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2562
+D3
+~
+~
+0 0 2561
+S
+#2565
+~
+~
+0 0 0
+The Approach to the Baths~
+Up ahead you see the baths.  A marvelous structure based primarily on the
+roman baths.  The huge Romanesc building radiates an aura of cleanliness. 
+The entrance here is large and made of finely made multi-colored marble, the
+likes of which you have jever lais eye s upon before.  Two large pillars
+support this end of the structure and each has been hand crafted especially
+for this bath.  You become acutely aware of how dirty you have become in
+your travels.  The thought of a luxurious bath becomes more and more
+apealling as you turn it over and over in your mind.  A faint smell of
+warmth and aromatic oils lures forward to the north.  
+~
+0 D 0
+0
+~
+D0
+~
+~
+0 0 2566
+D2
+~
+~
+0 0 2475
+S
+#2566
+~
+~
+0 0 0
+Warm Water Bath~
+As you drift into the huge bath, you see several servants attending to
+other bathers.  The large warm water pool beckons you like a beautiful young
+seductress and you see others removing equipment and clothing.  The basth
+itself is lined with golden tiles tha glisten and shine almost as much as
+the faces of the bathers.  Several large and imposing guards protect the
+equipment and enforce the peace of the bath.  To the south is the entrance
+room, and from the north you hear the delicate sound of scrubbing.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2567
+D2
+~
+~
+0 0 2565
+S
+#2567
+~
+~
+0 0 0
+Cleaning Chamber~
+You have left the hot water bath and are now entering the cleaning
+chamber.  Bathers here are scrubbed immaculately clean by very beautiful and
+perfect members of the opposite sex.  All evidence of a hard journey is
+wiped clean away with soaps and brushes.  Your astonishment is taken to new
+heights when you realize that even the soaps are adorned with flakes of
+gold.  A servant girl ushers you forward and offers her services.  You smell
+the aqua scent of steam coming from the north.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2568
+D2
+~
+~
+0 0 2566
+S
+#2568
+~
+~
+0 0 0
+Hot Water Bath~
+Steam fills this room so thoroughly you can hardly see more than three or
+four feet ahead at first.  As you move forward you almost fall into a hot
+ater pool.  Travellers here clean away the exotic soaps and oils from the
+cleaning room, and allow the heat to relax their muscles.  You start to
+sweat as you slip gently into the water.  The warmth and moist air almost
+lull you into a deep sleep, while resisting you notice strong fragrances
+from the north as you exit the water.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2569
+D2
+~
+~
+0 0 2567
+S
+#2569
+~
+~
+0 0 0
+Massage Chamber~
+This chamber is easily the most fragrant and exotic room in the baths. 
+Several gorgeous women and men are seen oiling down bathers with exotic
+perfumes and fragrant oils.  Hair and skin glisten with water and oild as
+exceptionally skilled massage artists perdorm amazing feats of massage on
+all the guests present.  Almost before you realize it you are no longer and
+observer, but adding you own moans of pleasure the rest that ripple through
+this room.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 2570
+D2
+~
+~
+0 0 2568
+S
+#2570
+~
+~
+0 0 0
+Cold Water Room~
+This is the final room of the baths.  A large pool of crystl clear, cool
+fragrant water sits in the middle of the room.  The cool water rejuvinates
+you, and you emerge feeling energized and excited.  This room is heavily
+decorated with mosaics and sculptures from all across the realm.  You marvel
+at the genius of a person that would spend such expense on maing bathing
+into an art.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 2569
+S
+#0
+
+#RESETS
+M 0 2501   1 2455  1	* Attendant
+M 0 2501  15 2455  2	* Attendant
+M 0 2501  15 2502  2	* Attendant
+M 0 2501  15 2522  1	* Attendant
+M 0 2501  15 2530  1	* Attendant
+M 0 2501  15 2531  1	* Attendant
+M 0 2501  15 2538  1	* Attendant
+M 0 2503   1 2503  1	* Cook
+M 0 2547   1 2547  1	* Dragon
+M 0 2511  15 2511  1	* Maid
+M 0 2511   1 2455 15	* Maid
+M 0 2511  15 2513  1	* Maid
+M 0 2511  15 2520  1	* Maid
+M 0 2511  15 2534  1	* Maid
+M 0 2511  15 2537  1	* Maid
+M 0 2457   1 2457  1	* Guardian
+M 0 2540   4 2540  2	* Woman
+M 0 2540   4 2505  2	* Woman
+M 0 2562   1 2562  1	* Masseuse
+M 0 2564   1 2564  1	* A mistress
+M 0 2474   1 2474  1	* A gardener
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 2501 spec_janitor		* Attendant
+S
+
+#$

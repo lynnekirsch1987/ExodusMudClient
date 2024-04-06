@@ -1,0 +1,31 @@
+* script: blacksmith.scr
+* John, the blacksmith (4054)
+
+#TRIGGER tick
+Type 3
+Sc
+  let %timer% -= 1
+if (%timer% < 1)
+  let %timer% == 80
+  halt once~
+Sc
+if (%timer% == 40)
+  cmd at 1 drop all.flask
+  cmd at 1 purge
+  cmd yell I have crafted some iron flasks.  You may pick them up at my shop off East Cumberland!
+  cmd at 1 load obj 4140
+  cmd at 1 load obj 4140
+  cmd at 1 load obj 4140
+  cmd at 1 load obj 4140
+  cmd at 1 load obj 4140
+  halt once~
+End
+
+#TRIGGER born
+Type 4
+Sc
+  let %timer% == 1
+  halt once~
+End
+
+#END

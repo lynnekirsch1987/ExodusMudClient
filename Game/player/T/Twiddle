@@ -1,0 +1,164 @@
+#PLAYER
+Name Twiddle~
+Id   990678103
+LogF 993591075
+LogO 993591075
+Vers 7
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race human~
+Sex  1
+Cla  0
+Levl 36
+AALevl 2
+MBKill 4
+MHKill 124
+Hero 0
+Depty 0
+Sec  0
+Plyd 47690
+Bank_Gold 0
+Bank_Silv 0
+Email pyro_guy84@hotmail.com~
+Host cr647596-a.rchrd1.on.wave.home.com~
+Not  0 990828082 0 0 0 0 991298166
+Scro 22
+Room 4401
+HMV  174 174 602 602 233 241
+Hand 2
+Gold 0
+Silv 0
+Exp  90248
+Act  DH
+AfBy D
+Comm NOQRS
+Pos  8
+Trai 1
+Alig  1000
+ACs 80 80 80 80
+Attr 7 21 18 18 18 12
+AMod 0 0 0 0 0 0
+Pass TwjFdyWDfGBwE~
+Layhands 0
+Exorcise 0
+Titl  `aT`rh`ae `rW `aa`rn`ad`re`ar`re`ar~
+Pnts 50
+TSex 1
+LLev 12
+Loner 0
+HMVP 174 602 241
+Cnd  -15 -16 12 2
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Sk 79 'armor'
+Sk 1 'web'
+Sk 75 'cancellation'
+Sk 87 'charm person'
+Sk 80 'create food'
+Sk 1 'create rose'
+Sk 76 'create spring'
+Sk 1 'create water'
+Sk 75 'detect hidden'
+Sk 76 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 1 'fireproof'
+Sk 76 'fly'
+Sk 1 'floating disc'
+Sk 78 'giant strength'
+Sk 77 'haste'
+Sk 76 'identify'
+Sk 1 'infravision'
+Sk 75 'invisibility'
+Sk 1 'mirror'
+Sk 75 'locate object'
+Sk 75 'mass invis'
+Sk 1 'pass door'
+Sk 31 'portal'
+Sk 75 'summon'
+Sk 75 'gate'
+Sk 1 'refresh'
+Sk 75 'shield'
+Sk 1 'sleep'
+Sk 1 'stone skin'
+Sk 1 'teleport'
+Sk 1 'ventriloquate'
+Sk 71 'staff'
+Sk 1 'dodge'
+Sk 77 'meditation'
+Sk 75 'scrolls'
+Gr 'rom basics'
+Gr 'beguiling'
+Gr 'creation'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'protective'
+Gr 'transportation'
+Affc 'detect invis'   0  32   4   0   0          8 0 ''
+Affc 'shield'   0  32  36 -20  17          0 0 ''
+End
+
+#O
+Vnum 16325
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4145
+Enchanted
+Nest 1
+ExtF 8388675
+Cond 0
+Wear -1
+Lev  18
+Cost 0
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 159
+Enchanted
+Nest 1
+ExtF 8650819
+Cond 0
+Wear -1
+Lev  27
+Cost 0
+Affc 'enchant weapon'   1  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 21110
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20959
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20964
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#RoomRLE   2300 1 1 2 1 1 1 5 1 3 1 3 1 2 2 3 1 3 1 2 1 1 1 2 1 2 1 1 1 1 1053 6 2 1 2 1 2 10 8 11 561 2 2 1 25 1 8 2 1 33 12 6 20 1 6 2 2 1 4 5 5 2 1 1 2 1 1 1 9 1 15 2 7 5 1 2 6 1 4 1 124 1 3 1 1 16 1 4 1 1 42 1 2 2 694 12 2 2 1 3 1 4 27 2 2747 2 1 1 5 8 1 1 2 3 1 9 1 4 2 7 1 10 4 1 3641 4 602 22 1 2 2 1 8 1 1 1 1 2 3 1 2 4 2 2 667 5 5 5 6 4 6 4 6 4 5 18 1 7 1 3 1 9 1 9 1 9 1 9 1 16 1 9 1 11 1 70 80 2 6 2 164 2 3 2 3 2 3 2 3 2 3 2 1 4 1 13 1 1 1 10 2 13 5 1 2 6 54 2 1 2 1 10 4 7 6773 1 2 2 2 3 4 5 9 2 6 4 2 5 3 4 28 1 1 5 2 2 7 6 1 3 481 55 1 6 61 3 18 4 14 6 14 1 1 4 12 3 1 4 12 1 3 4 12 1 2 5 12 8 12 12 8 1 5 2 75 2 663 1 3007 1 35 1 47 1 110 2 37 1 585 1 42 1 91 1 160 1 39410 -1
+
+#END

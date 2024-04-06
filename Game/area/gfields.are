@@ -1,0 +1,2884 @@
+#AREA
+ 6~
+gfields.are~
+Golden Fields~
+{ 1 100} Eldridge  Golden Fields~
+~
+100 199
+1 B 0
+0 0
+~
+#MOBILES
+#100
+butterfly~
+Butterfly~
+A cute little butterfly, flutters about.
+~
+~
+unique~
+0 0 0 0
+AGW T 0 0
+90 0 100d6+100 0d0+0 1d2+1 bite
+0 0 0 999 0
+0 0 F SU 0 0
+stand stand none 0
+AO ADEFPa 10 10 10 10 10 10 0
+tiny oldstyle~
+0 0 0 100
+0
+test~
+~
+#101
+Hermit~
+A hermit~
+A old, grizzly hermit is standing here reading a book.
+~
+~
+human~
+0 0 0 0
+ABGJKab 0 0 0
+100 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 999 0
+DR 0 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#102
+field mouse~
+A field mouse~
+A field mouse is here looking for some food.
+~
+~
+unique~
+0 0 0 0
+ACG JP 0 0
+90 1 20d6+10 0d0+0 1d6+2 bite
+0 0 0 999 0
+0 0 R 0 0 0
+stand stand none 0
+AG ACDEFHJQUa 10 10 10 10 10 10 0
+tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#100
+ring~
+a hematite ring~
+A ring lies here.~
+food~
+0
+armor 2
+ABGIS
+JKL
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DGH DGH DGH DGH 0
+0
+0
+91 1 0 P
+A
+19 100
+A
+18 100
+#101
+hut~
+hut entrance~
+A small entrance leading into a hut is here.~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 AG ACEFH A
+0
+0
+1 0 0 P
+#102
+hut exit~
+the hut exit~
+An exit leading out of the hut is here.~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 AG BCFG B
+0
+0
+1 0 0 P
+#103
+spring water~
+a spring~
+A small spring flows in and out of the ground here.~
+water~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#0
+
+#ROOMS
+#100
+0 0
+~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 AZ 2
+0
+~
+I 0 D0
+~
+~
+0 0 102
+D1
+~
+~
+0 0 101
+D2
+~
+~
+0 0 104
+D3
+~
+~
+0 0 103
+D4
+~
+~
+0 0 25001
+D5
+~
+~
+0 0 25000
+S
+#101
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 106
+D1
+~
+~
+0 0 115
+D2
+~
+~
+0 0 105
+D3
+~
+~
+0 0 100
+S
+#102
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 112
+D1
+~
+~
+0 0 106
+D2
+~
+~
+0 0 100
+D3
+~
+~
+0 0 107
+S
+#103
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 107
+D1
+~
+~
+0 0 100
+D2
+~
+~
+0 0 108
+D3
+~
+~
+0 0 118
+S
+#104
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 100
+D1
+~
+~
+0 0 105
+D2
+~
+~
+0 0 109
+D3
+~
+~
+0 0 108
+S
+#105
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 101
+D1
+~
+~
+0 0 145
+D2
+~
+~
+0 0 127
+D3
+~
+~
+0 0 104
+S
+#106
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 121
+D1
+~
+~
+0 0 133
+D2
+~
+~
+0 0 101
+D3
+~
+~
+0 0 102
+S
+#107
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 124
+D1
+~
+~
+0 0 102
+D2
+~
+~
+0 0 103
+D3
+~
+~
+0 0 169
+S
+#108
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 103
+D1
+~
+~
+0 0 104
+D2
+~
+~
+0 0 130
+D3
+~
+~
+0 0 157
+S
+#109
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 104
+D1
+~
+~
+0 0 127
+D2
+~
+~
+0 0 110
+D3
+~
+~
+0 0 130
+S
+#110
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 109
+D1
+~
+~
+0 0 128
+D2
+~
+~
+0 0 111
+D3
+~
+~
+0 0 131
+S
+#111
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 110
+D1
+~
+~
+0 0 129
+D3
+~
+~
+0 0 132
+S
+#112
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 113
+D1
+~
+~
+0 0 121
+D2
+~
+~
+0 0 102
+D3
+~
+~
+0 0 124
+S
+#113
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 114
+D1
+~
+~
+0 0 122
+D2
+~
+~
+0 0 112
+D3
+~
+~
+0 0 125
+S
+#114
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 123
+D2
+~
+~
+0 0 113
+D3
+~
+~
+0 0 126
+S
+#115
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 133
+D1
+~
+~
+0 0 116
+D2
+~
+~
+0 0 145
+D3
+~
+~
+0 0 101
+S
+#116
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 134
+D1
+~
+~
+0 0 117
+D2
+~
+~
+0 0 146
+D3
+~
+~
+0 0 115
+S
+#117
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 135
+D2
+~
+~
+0 0 147
+D3
+~
+~
+0 0 116
+S
+#118
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 169
+D1
+~
+~
+0 0 103
+D2
+~
+~
+0 0 157
+D3
+~
+~
+0 0 119
+S
+#119
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 170
+D1
+~
+~
+0 0 118
+D2
+~
+~
+0 0 158
+D3
+~
+~
+0 0 120
+S
+#120
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 171
+D1
+~
+~
+0 0 119
+D2
+~
+~
+0 0 159
+S
+#121
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 122
+D1
+~
+~
+0 0 136
+D2
+~
+~
+0 0 106
+D3
+~
+~
+0 0 112
+S
+#122
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 123
+D1
+~
+~
+0 0 139
+D2
+~
+~
+0 0 121
+D3
+~
+~
+0 0 113
+S
+#123
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 142
+D2
+~
+~
+0 0 122
+D3
+~
+~
+0 0 114
+S
+#124
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 125
+D1
+~
+~
+0 0 112
+D2
+~
+~
+0 0 107
+D3
+~
+~
+0 0 172
+S
+#125
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 126
+D1
+~
+~
+0 0 113
+D2
+~
+~
+0 0 124
+D3
+~
+~
+0 0 175
+S
+#126
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 114
+D2
+~
+~
+0 0 125
+D3
+~
+~
+0 0 178
+S
+#127
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 105
+D1
+~
+~
+0 0 148
+D2
+~
+~
+0 0 128
+D3
+~
+~
+0 0 109
+S
+#128
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 127
+D1
+~
+~
+0 0 151
+D2
+~
+~
+0 0 129
+D3
+~
+~
+0 0 110
+S
+#129
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 128
+D1
+~
+~
+0 0 154
+D3
+~
+~
+0 0 111
+S
+#130
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 108
+D1
+~
+~
+0 0 109
+D2
+~
+~
+0 0 131
+D3
+~
+~
+0 0 160
+S
+#131
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 130
+D1
+~
+~
+0 0 110
+D2
+~
+~
+0 0 132
+D3
+~
+~
+0 0 163
+S
+#132
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 131
+D1
+~
+~
+0 0 111
+D3
+~
+~
+0 0 166
+S
+#133
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 136
+D1
+~
+~
+0 0 134
+D2
+~
+~
+0 0 115
+D3
+~
+~
+0 0 106
+S
+#134
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 137
+D1
+~
+~
+0 0 135
+D2
+~
+~
+0 0 116
+D3
+~
+~
+0 0 133
+S
+#135
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 138
+D2
+~
+~
+0 0 117
+D3
+~
+~
+0 0 134
+S
+#136
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 139
+D1
+~
+~
+0 0 137
+D2
+~
+~
+0 0 133
+D3
+~
+~
+0 0 121
+S
+#137
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 140
+D1
+~
+~
+0 0 138
+D2
+~
+~
+0 0 134
+D3
+~
+~
+0 0 136
+S
+#138
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 141
+D2
+~
+~
+0 0 135
+D3
+~
+~
+0 0 137
+S
+#139
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 142
+D1
+~
+~
+0 0 140
+D2
+~
+~
+0 0 136
+D3
+~
+~
+0 0 122
+S
+#140
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 143
+D1
+~
+~
+0 0 141
+D2
+~
+~
+0 0 137
+D3
+~
+~
+0 0 139
+S
+#141
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 144
+D2
+~
+~
+0 0 138
+D3
+~
+~
+0 0 140
+S
+#142
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 143
+D2
+~
+~
+0 0 139
+D3
+~
+~
+0 0 123
+S
+#143
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 144
+D2
+~
+~
+0 0 140
+D3
+~
+~
+0 0 142
+S
+#144
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D2
+~
+~
+0 0 141
+D3
+~
+~
+0 0 143
+S
+#145
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 115
+D1
+~
+~
+0 0 146
+D2
+~
+~
+0 0 148
+D3
+~
+~
+0 0 105
+S
+#146
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 116
+D1
+~
+~
+0 0 147
+D2
+~
+~
+0 0 149
+D3
+~
+~
+0 0 145
+S
+#147
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 117
+D2
+~
+~
+0 0 150
+D3
+~
+~
+0 0 146
+S
+#148
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 145
+D1
+~
+~
+0 0 149
+D2
+~
+~
+0 0 151
+D3
+~
+~
+0 0 127
+S
+#149
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 146
+D1
+~
+~
+0 0 150
+D2
+~
+~
+0 0 152
+D3
+~
+~
+0 0 148
+S
+#150
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 147
+D2
+~
+~
+0 0 153
+D3
+~
+~
+0 0 149
+S
+#151
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 148
+D1
+~
+~
+0 0 152
+D2
+~
+~
+0 0 154
+D3
+~
+~
+0 0 128
+S
+#152
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 149
+D1
+~
+~
+0 0 153
+D2
+~
+~
+0 0 155
+D3
+~
+~
+0 0 151
+S
+#153
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 150
+D2
+~
+~
+0 0 156
+D3
+~
+~
+0 0 152
+S
+#154
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 151
+D1
+~
+~
+0 0 155
+D3
+~
+~
+0 0 129
+S
+#155
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 152
+D1
+~
+~
+0 0 156
+D3
+~
+~
+0 0 154
+S
+#156
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 153
+D3
+~
+~
+0 0 155
+S
+#157
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 118
+D1
+~
+~
+0 0 108
+D2
+~
+~
+0 0 160
+D3
+~
+~
+0 0 158
+S
+#158
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 119
+D1
+~
+~
+0 0 157
+D2
+~
+~
+0 0 161
+D3
+~
+~
+0 0 159
+S
+#159
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 120
+D1
+~
+~
+0 0 158
+D2
+~
+~
+0 0 162
+S
+#160
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 157
+D1
+~
+~
+0 0 130
+D2
+~
+~
+0 0 163
+D3
+~
+~
+0 0 161
+S
+#161
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 158
+D1
+~
+~
+0 0 160
+D2
+~
+~
+0 0 164
+D3
+~
+~
+0 0 162
+S
+#162
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 159
+D1
+~
+~
+0 0 161
+D2
+~
+~
+0 0 165
+S
+#163
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 160
+D1
+~
+~
+0 0 131
+D2
+~
+~
+0 0 166
+D3
+~
+~
+0 0 164
+S
+#164
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 161
+D1
+~
+~
+0 0 163
+D2
+~
+~
+0 0 167
+D3
+~
+~
+0 0 165
+S
+#165
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 162
+D1
+~
+~
+0 0 164
+D2
+~
+~
+0 0 168
+S
+#166
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 163
+D1
+~
+~
+0 0 132
+D3
+~
+~
+0 0 167
+S
+#167
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 164
+D1
+~
+~
+0 0 166
+D3
+~
+~
+0 0 168
+S
+#168
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 165
+D1
+~
+~
+0 0 167
+S
+#169
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 172
+D1
+~
+~
+0 0 107
+D2
+~
+~
+0 0 118
+D3
+~
+~
+0 0 170
+S
+#170
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 173
+D1
+~
+~
+0 0 169
+D2
+~
+~
+0 0 119
+D3
+~
+~
+0 0 171
+S
+#171
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 174
+D1
+~
+~
+0 0 170
+D2
+~
+~
+0 0 120
+S
+#172
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 175
+D1
+~
+~
+0 0 124
+D2
+~
+~
+0 0 169
+D3
+~
+~
+0 0 173
+S
+#173
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 176
+D1
+~
+~
+0 0 172
+D2
+~
+~
+0 0 170
+D3
+~
+~
+0 0 174
+S
+#174
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 177
+D1
+~
+~
+0 0 173
+D2
+~
+~
+0 0 171
+S
+#175
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 178
+D1
+~
+~
+0 0 125
+D2
+~
+~
+0 0 172
+D3
+~
+~
+0 0 176
+S
+#176
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 179
+D1
+~
+~
+0 0 175
+D2
+~
+~
+0 0 173
+D3
+~
+~
+0 0 177
+S
+#177
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D0
+~
+~
+0 0 180
+D1
+~
+~
+0 0 176
+D2
+~
+~
+0 0 174
+S
+#178
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 126
+D2
+~
+~
+0 0 175
+D3
+~
+~
+0 0 179
+S
+#179
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 178
+D2
+~
+~
+0 0 176
+D3
+~
+~
+0 0 180
+S
+#180
+0 0
+(null)~
+~
+~
+0 0 0
+Golden Fields~
+The name for these fields seem to make the most perfect sense, 'Golden'
+is the one and most usual color seen in every direction.  Wheat, corn, hay,
+grass, flowers, and all sorts of other types of vegitation grow here.  Small
+animals and insects move about in their daily routines, not showing the
+slightest care in the world.  The wind's casual breeze makes the illusion
+that the fields flow in a wave after wave motion.  
+~
+0 A 2
+0
+~
+I 0 D1
+~
+~
+0 0 179
+D2
+~
+~
+0 0 177
+S
+#181
+0 0
+(null)~
+~
+~
+0 0 0
+A Hut~
+~
+0 -939524084 0
+6
+The hut is to crowded for you to sqeeze in.~
+I 0 S
+#0
+
+#RESETS
+M 0  100  20  100  2	* Butterfly
+M 0  100  20  180  2	* Butterfly
+M 0  100  20  144  2	* Butterfly
+M 0  101   1  181  1	* A hermit
+O 0 101   0 102 -1	* Hut entrance at Golden Fields
+O 0 102   0 181 -1	* The hut exit at A Hut
+M 0  102  20  102  2	* A field mouse
+M 0  102  20  104  2	* A field mouse
+M 0  102  20  101  2	* A field mouse
+O 0 103   0 102 -1	* A spring at Golden Fields
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#0
+#$

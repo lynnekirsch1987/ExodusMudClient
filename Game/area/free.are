@@ -1,0 +1,6379 @@
+#AREA
+ 6~
+free.are~
+`n*`l} `gFreeport `l{`n*``~
+{ 8 53} Lok  `n*`l} `gFreeport `l{`n*``~
+~
+11508 11658
+16 0 0
+0 0
+ragnar~
+#MOBILES
+#11509
+lizard blue-tongued~
+the blue-tongued lizard~
+A blue-tongued lizard hisses at you.
+~
+The blue-tongued lizard measures some 18" from head to tail,
+is very quick, and has sharp pointy teeth.
+~
+lizard~
+0 0 0 0
+AGHM Q 0 0
+8 8 3d21+86 1d1+99 1d7+2 bite
+2 3 4 999 10
+0 -1 M 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11510
+lizard red-tongued~
+the red-tongued lizard~
+A red-tongued lizard hisses at you.
+~
+The red-tongued lizard measures some 18" from head to tail,
+is very quick, and has sharp pointy teeth.
+~
+lizard~
+0 0 0 0
+AGHM Q 0 0
+8 8 3d21+96 1d1+99 1d7+4 bite
+2 3 4 999 10
+0 -1 M 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11511
+lizard green-tongued~
+the green-tongued lizard~
+A green-tongued lizard hisses at you.
+~
+The green-tongued lizard measures some 18" from head to tail,
+is very quick, and has sharp pointy teeth.
+~
+lizard~
+0 0 0 0
+AGHM Q 0 0
+8 8 3d21+90 1d1+99 1d7+4 bite
+2 3 4 999 10
+0 -1 M 0 L I
+stand stand either 0
+AGXc ACDEFHKQVa 7 7 7 7 7 7 0
+small flesh~
+0 0 0 100
+0
+~
+~
+#11512
+watchman man old sailor~
+the watchman of Widow's Cape~
+An old sailor is here tending the watchfire.
+~
+You strike up a conversation with the watchman. He tells you that
+he has noticed several craft entering and leaving Freeport harbor
+at night, but when he reported it, nobody seemed to care.
+~
+human~
+0 0 0 0
+ABGM 0 300 0
+12 12 3d19+148 1d1+99 5d3+2 punch
+0 -1 3 999 8
+0 -1 0 0 0 0
+stand stand male 83
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+gwatchman.scr~
+#11513
+fisherman man~
+the fisherman~
+A fisherman with a long cane pole angles here.
+~
+~
+human~
+0 0 0 0
+ABGM 0 200 0
+10 10 3d25+99 1d1+99 5d2+2 punch
+3 0 1 999 9
+0 -1 0 0 0 0
+stand stand male 14
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+fishman.scr~
+#11514
+longshoreman worker dock man~
+the longshoreman~
+A dock worker is here lifting a heavy crate.
+~
+The dockworker is dressed in loose-fitting cotton clothing and uses
+a rope to lift the heavy crate.
+~
+human~
+0 0 0 0
+AGX 0 0 0
+11 11 4d20+103 1d1+99 2d6+3 punch
+3 0 1 999 9
+0 -1 0 0 0 0
+stand stand male 18
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11515
+harbormaster man~
+the harbormaster~
+The harbormaster is here asking you what you have to declare.
+~
+The harbormaster is an old hand at this, and doesn't put up with
+any crap from you. Give him his list or go to the brig.
+~
+human~
+0 0 0 0
+ABCGN 0 0 0
+35 35 10d40+1420 1d1+99 6d5+20 punch
+-12 -12 -12 999 -4
+0 -1 CK 0 0 0
+stand stand male 87
+AHMV ABCDEFGHIJKa 13 13 13 13 13 13 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11516
+citizen freeport~
+the citizen of Freeport~
+A citizen of Freeport walks along, whistling a sailing song.
+~
+The citizen is dressed in light cotton clothing and sandals.
+~
+human~
+0 0 0 0
+ABGN 0 200 0
+9 9 4d19+97 1d1+99 3d4+5 punch
+3 0 1 999 9
+0 -1 0 0 0 0
+stand stand male 101
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11517
+child laughing~
+the laughing child~
+A small child laughs as he plays a game here.
+~
+The child is dressed in a white cotton shirt.
+~
+human~
+0 0 0 0
+AG 0 500 0
+8 8 3d20+97 1d1+99 2d5+4 slap
+2 3 4 999 10
+0 -1 0 0 0 0
+stand stand either 1
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11518
+wife sailor's~
+the sailor's wife~
+A sailor's wife asks you to keep her company while her husband is away at sea.
+~
+The sailor's wife is dressed in a simple cotton dress,
+and has hair bleached blond by the sun and the sea.
+~
+human~
+0 0 0 0
+AG 0 100 0
+9 9 3d22+99 1d1+99 4d3+5 slap
+2 3 1 999 10
+0 -1 0 0 0 0
+stand stand female 11
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11519
+shipbuilder master~
+the master shipbuilder~
+The master shipbuilder is here, working on a new prototype.
+~
+After introducing yourself and the usual small talk, you 
+find out from the master shipbuilder that he has been recently
+commissioned to build 3 triremes, boats which offer little 
+cargo storage, but excellent raiding speed. (99)
+~
+human~
+0 0 0 0
+ABG 0 300 0
+60 60 1d1+29999 1d1+99 10d8+108 beating
+-70 -70 -70 999 -50
+0 -1 CDEFHIJKN 0 0 0
+stand stand male 20486
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11520
+apprentice shipbuilder~
+the apprentice shipbuilder~
+An apprentice shipbuilder is here applying pitch to a seam.
+~
+The apprentice shipbuilder is a young boy dressed in a dirty
+grey smock.
+~
+human~
+0 0 0 0
+ABG 0 500 0
+8 8 3d22+70 1d1+99 2d5+2 punch
+2 3 4 999 10
+0 -1 0 0 0 0
+stand stand either 7
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11521
+overseer warehouse~
+the warehouse overseer~
+The warehouse overseer is here, yelling at a longshoreman.
+~
+~
+human~
+0 0 0 0
+ABGN 0 300 0
+45 45 10d40+1650 1d1+99 6d5+25 punch
+-14 -14 -14 999 -3
+0 -1 CF 0 0 0
+stand stand male 76
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+overseer.scr~
+#11522
+patrolman harbor~
+the harbor patrolman~
+The harbor patrol is here, so you better behave.
+~
+The harbor patrolman is dressed in light armor. He is well armed
+though, and looks like he is in no mood for your crap.
+~
+human~
+0 0 0 0
+AGX N 500 0
+20 20 8d50+370 1d1+99 4d5+13 punch
+-2 -5 -4 999 5
+0 -1 0 0 0 0
+stand stand male 43
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11523
+teamster~
+the teamster~
+A teamster is here, taking a wagonload of cargo to the wharf.
+~
+The teamster drives his single mule with a long whip and foul language.
+~
+human~
+0 0 0 0
+AGX 0 0 0
+12 12 5d28+155 1d1+99 4d3+9 punch
+0 0 0 999 5
+0 -1 0 0 0 0
+stand stand male 40
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11524
+lefty~
+Lefty, owner of the Sunken Pirate~
+Lefty, owner of the Sunken Pirate, dispenses food and drink here.
+~
+When you ask about the recent gossip, Lefty tells you that he heard
+a shady looking bunch talking about how Oglethorpe the master merchant
+had sold out Freeport to the pirates. (99)
+~
+human~
+0 0 0 0
+ABCG 0 600 0
+60 60 1d1+29999 1d1+99 10d8+108 beating
+-70 -70 -70 999 -50
+0 -1 CDEFHIJKN 0 0 0
+stand stand male 20486
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11525
+anwar~
+Anwar, proprietor of the Emporium~
+Anwar is here offering exotic goods for your inspection.
+~
+You flip Anwar a gold coin. He holds out his hand for more. You give
+him 50 gold. He tells you that he has access to some goods which are
+very cheap in which you might be interested. When you scoff at his
+fenced goods, Anwar clams up.
+~
+human~
+0 0 0 0
+ABGV 0 -300 0
+60 60 1d1+29999 1d1+99 10d8+108 beating
+-70 -70 -70 999 -50
+0 -1 CDEFHIJKN 0 0 0
+stand stand male 20486
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11526
+raedner dwarf dwarven smith~
+Raedner the dwarven smith~
+A dwarven smith hammers on a suit of plate armor here.
+~
+Raedner gladly accepts a pull from your ale skin. As he wipes his brow,
+he begins a story about how he thinks the last election was rigged, since
+nobody he had talked to voted for Mayor Friendly. He offers to repair your
+armor.
+~
+human~
+0 0 0 0
+ABGSV 0 700 0
+60 60 1d1+29999 1d1+99 10d8+108 beating
+-70 -70 -70 999 -50
+0 -1 CDEFHIJKN 0 0 0
+stand stand male 20486
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11527
+samantha~
+Samantha, witch of the Mystic Eye~
+Samantha, witch of the Mystic Eye displays her ample goods for you.
+~
+Samantha bats her eyes at you with no shame at all. She propositions you
+for some indecent activity. You accept to pump her for more information.
+She lets slip that Lord Mourning was seen recently in her shop. She offers
+to identify anything you may have.
+~
+human~
+0 0 0 0
+ABGRV 0 -700 0
+60 60 1d1+29999 1d1+99 10d8+108 beating
+-70 -70 -70 999 -50
+0 -1 CDEFHIJKN 0 0 0
+stand stand male 20486
+AHMV ABCDEFGHIJKa 18 18 18 18 18 18 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11528
+apprentice merchant~
+the apprentice merchant~
+An apprentice merchant tries to interest you in a trip to Vice Island.
+~
+The apprentice is trying to fill his docket for the evening's tide. He
+wears a simple yellow smock.
+~
+human~
+0 0 0 0
+ABG 0 200 0
+8 8 2d44+80 1d1+99 2d4+6 punch
+4 3 2 999 8
+0 -1 0 0 0 0
+stand stand male 17
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11529
+ceres merchant~
+Ceres, merchant of the 3rd chair~
+Ceres, master merchant of the 3rd chair greets you with a warm smile.
+~
+~
+human~
+0 0 0 0
+ABCGN V 400 0
+46 46 10d90+1870 1d1+99 5d10+25 punch
+-16 -17 -15 999 -8
+0 -1 CDEHIN 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+gceres.scr~
+#11530
+elken banker~
+Elken, banker of Freeport~
+Elken, banker of Freeport awaits your next deposit.
+~
+Elken seems to squirm and shift when you begin gentle inquiries into
+the strange happenings of Freeport. He excuses himself and goes to
+talk to a teller, who in turn leaves the bank in a hurry.
+~
+human~
+0 0 0 0
+ABGd 0 -500 0
+48 48 10d170+925 1d1+99 10d4+25 punch
+-19 -17 -18 999 -11
+0 -1 CDEIN 0 0 0
+stand stand male 7834
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11532
+cadet young~
+the young cadet~
+A young cadet stops to offer you assistance.
+~
+He is dressed in a neat naval uniform, and looks about the area with an
+air of importance.  
+~
+human~
+0 0 0 0
+ABGT 0 400 0
+14 14 30d5+162 1d1+99 4d4+10 slap
+0 -1 -1 999 7
+0 -1 0 0 0 0
+stand stand male 65
+AHMV ABCDEFGHIJKa 8 8 8 8 8 8 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11533
+whitecap old salt~
+Whitecap, 8th Admiral of Freeport~
+An old salt sits here smoking his pipe.
+~
+You offer Whitecap some honey gold pipe tobacco. He smiles, kicks back,
+and lights up his pipe. An hour later, you are much wiser in the ways of the
+sea. He also tells you of how recently he has grown concerned for the
+first admiral of Freeport, Blacksail, who has acquired an addiction to
+devil weed.
+~
+human~
+0 0 0 0
+ABGPQ V 900 0
+49 49 10d171+1329 1d1+99 5d10+25 punch
+-20 -19 -18 999 -10
+0 -1 CDEIN 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11534
+mayor friendly~
+Mayor Friendly~
+Mayor Friendly greets you with a smile and a handshake.
+~
+When you begin to subtly inquire about the strange happenings in Freeport
+Mayor Friendly gets nervous and clams up. You notice that he keeps looking
+at a white marble statue.
+~
+human~
+0 0 0 0
+ABG 0 -700 0
+45 45 20d85+900 1d1+99 4d11+26 punch
+-15 -14 -12 999 -9
+0 -1 CDEIN 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11535
+midge innkeeper~
+Midge, the innkeeper of the Crew's Quarters~
+Midge, the innkeeper of the Crew's Quarters offers you a wholesome meal.
+~
+Midge sits down with you as you have the meal, as her business right now
+has been slow. She tells you that her business has steadily declined for
+the last 6 years. Recently her business picked up again. In fact, she 
+just last month had a week stay by a very rich visitor named Lord Vulture.
+~
+human~
+0 0 0 0
+ABG 0 400 0
+100 0 1d1+29999 1d1+99 10d8+108 beating
+-70 -70 -70 999 -50
+0 -1 CDEFHIJKN 0 0 0
+stand stand female 20486
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11536
+sailor scruffy pirate~
+the scruffy pirate~
+A scruffy sailor labors here to unload crates.
+~
+The sailor reeks of rum and the sea.
+~
+human~
+0 0 0 0
+AGX 0 -200 0
+45 45 40d45+850 1d1+99 10d5+22 punch
+-15 -14 -12 999 -9
+0 -1 CDEIN 0 0 0
+stand stand either 1540
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11537
+guard stoic pirate~
+the pirate guard~
+A stoic guard stands here, barring the way.
+~
+The guard is heavily armed and moves with military 
+precision.
+~
+human~
+0 0 0 0
+ABG DF -600 0
+46 46 10d172+910 1d1+99 8d8+22 punch
+-15 -16 -17 999 -11
+0 -1 CDEIN 0 0 0
+stand stand either 600
+AHMV ABCDEFGHIJKa 15 15 15 15 15 15 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11538
+blacksail admiral~
+Admiral Blacksail~
+Admiral Blacksail is here, shivering from his addiction to devil weed.
+~
+You confront Blacksail with his villainy. He begs for your mercy. He
+claims Mourning forced him into his present addiction, and threatens
+to cut him off from all devil weed unless he complies with his every
+whim.
+~
+human~
+0 0 0 0
+ABG M -200 0
+48 48 10d175+930 1d1+99 6d9+24 beating
+-19 -18 -17 999 -11
+0 -1 CDEIN 0 0 0
+stand stand male 700
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11539
+oglethorpe master merchant~
+Oglethorpe, 1st Master Merchant of Freeport~
+Oglethorpe, the 1st Master Merchant of Freeport, startles at your presence!
+~
+Oglethorpe, when faced with your accusations proudly admits to skimming
+off profits from his information scandal and ties to the pirate lords.
+He laughs at your puny attempts to frighten him, and vows your slow, cold
+torture. With that, he laughs and eats a blue lizard tongue.
+~
+human~
+0 0 0 0
+ABG BH -1000 0
+48 48 10d180+900 1d1+99 6d6+18 beating
+-19 -18 -17 999 -11
+0 -1 CDEIN 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11540
+mourning lord~
+Lord Mourning~
+Lord Mourning, the 6th Pirate Lord stares at you mockingly.
+~
+Bah! Who are you to threaten me? I was sinking navies when you were a mere
+strapling on your mother's teat! I will destroy you! And if not me, then
+someone else, for every one of us you kill, 2 more sprout up to take my
+place! With that Lord Mourning draws his saber and eats a blue lizard 
+tongue.
+~
+human~
+0 0 0 0
+ABGNc DFHV -1000 0
+55 55 10d150+1530 1d1+99 6d7+0 slash
+-25 -25 -25 999 -15
+0 -1 CDEFHIKN AB R 0
+stand stand male 1100
+AHMV ABCDEFGHIJKa 17 17 17 17 17 17 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11541
+sailor drunken~
+the drunken sailor~
+A drunken sailor staggers here.
+~
+The drunken sailor has been a long time away at sea, and this is his
+first day back in port. His wandering drunk shows on his clothing. Here
+a stain from the red wine he had this morning. There is the gravy from
+the meat he had for lunch.
+~
+human~
+0 0 0 0
+AG 0 0 0
+8 8 6d11+95 1d1+99 5d2+4 punch
+5 5 5 999 10
+0 -1 0 0 0 0
+stand stand male 24
+AHMV ABCDEFGHIJKa 7 7 7 7 7 7 0
+medium flesh~
+0 0 0 100
+0
+~
+~
+#11542
+dargen boatseller~
+Dargen, the boatseller~
+Dargen stands here, waiting for your best offer.
+~
+~
+human~
+0 0 0 0
+ABN 0 0 0
+100 10 2d10+2000 1d1+100 6d7+0 smash
+-25 -25 -25 999 -12
+0 -1 EFKN A 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJKa 27 27 27 27 27 27 0
+medium oldstyle~
+0 0 0 100
+5
+~
+~
+#11543
+pirate~
+The pirate~
+A scruffy-looking pirate stands in the boat, ready to ferry you between ship and shore.
+~
+~
+human~
+0 0 0 0
+AB DFZ 0 0
+50 50 1d1+4999 1d1+4999 1d1+999 pound
+-50 -50 -50 999 -50
+0 -1 0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJKa 16 16 16 16 16 16 0
+medium flesh~
+0 0 0 100
+4
+pirate.voc~
+~
+#0
+
+#OBJECTS
+#11509
+key old~
+an old key~
+An old key is lying on the ground.~
+metal~
+0
+key 2
+S
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 2 0 P
+#11510
+tongue blue lizard~
+`lA blue lizard tongue``~
+A blue lizard tongue is here.~
+food~
+0
+pill 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC 'change sex' -1 -1 -1 0
+0
+5 0 27 P
+#11511
+tongue red lizard~
+`iA red lizard tongue``~
+A red lizard tongue is here.~
+food~
+0
+pill 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC 'detect evil' -1 -1 -1 0
+0
+5 1 95 P
+#11512
+tongue green lizard~
+`jA green lizard tongue``~
+A green lizard tongue is here.~
+food~
+0
+pill 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+AC 'protection good' -1 -1 -1 0
+0
+5 1 45 P
+#11513
+watchfire~
+a watchfire~
+A watchfire is here, burning brightly.~
+fire~
+0
+light 2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 -1 0 0
+0
+0
+20 100 0 P
+#11514
+pole fishing~
+a fishing pole~
+A fishing pole is here, hooked and baited.~
+wood~
+0
+pole 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 1 2500 P
+A
+18 1
+A
+19 1
+#11515
+notebook~
+a notebook~
+A notebook has been left here.~
+paper~
+0
+writing_paper 2
+ac
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+4 1 5 P
+#11516
+plain brass lantern~
+a brass lantern~
+A plain brass lantern lies here.~
+brass~
+0
+light 2
+A
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 BCEH 0 0
+0
+0
+25 100 0 P
+#11517
+mail scale~
+scale mail~
+A suit of scale mail is here.~
+metal~
+0
+armor 2
+G
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C C C C A
+0
+0
+20 160 40 P
+#11518
+trident~
+a trident~
+A trident has been left here.~
+metal~
+0
+weapon 2
+G
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABC AB AC B I
+0
+0
+20 340 400 P
+A
+19 3
+#11519
+pie meat~
+a steaming meat pie~
+A steaming meat pie is here.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+E E CDEF 0 0
+0
+0
+2 10 100 P
+#11520
+grog sailor's~
+a mug of sailor's grog~
+A mug of sailor's grog is here.~
+water~
+0
+drink 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B AB 0 0
+0
+0
+2 40 24 P
+#11521
+wafer holy~
+a holy wafer~
+A holy wafer is here.~
+food~
+0
+pill 2
+G
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABCD 'bless' -1 -1 -1 0
+0
+15 1 2049 P
+#11522
+plate silver~
+a silver plate~
+A silver plate has been left here.~
+silver~
+0
+treasure 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+8 20 2300 P
+#11523
+tapestry~
+a tapestry~
+A tapestry depicting a ship braving rough seas was left against the wall here.~
+wool~
+0
+treasure 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 150 1049 P
+E
+tapestry~
+The tapestry is of knights locked in battle in the Battleplain
+of Arden.
+~
+#11524
+armor emerald~
+`cEmerald-Encrusted `aA`jr`am`jo`ar``~
+`aA suit of `jemerald-encrusted `aarmor is here.``~
+diamond~
+0
+armor 2
+G
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BD BD BD BD 0
+0
+0
+54 369 6950 P
+A
+12 15
+#11525
+hammer dwarven thrower~
+a dwarven thrower~
+A dwarven throwing hammer is here.~
+mithril~
+0
+weapon 2
+G
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+C AB BD 0 J
+0
+0
+50 99 406 P
+A
+19 2
+A
+18 2
+#11526
+sleeves elven chainmail~
+`cE`jl`cv`je`cn `hC`ah`ha`ai`hn`am`ha`ai`hl `aS`hl`ae`he`av`he`as``~
+A set of elven chainmail sleeves is here.~
+mithril~
+0
+armor 2
+GY
+0
+AI
+0
+D
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+ABCD ABCD ABCD ABCD 0
+0
+0
+100 154 309 P
+A
+13 15
+A
+18 1
+A
+12 100
+#11527
+leggings elven chainmail~
+elven chainmail leggings~
+A pair of elven chainmail leggings is here.~
+mithril~
+0
+armor 2
+GY
+0
+AF
+0
+D
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+D D D AB 0
+0
+0
+100 149 509 P
+A
+13 15
+#11528
+wine red~
+a glass of Freeport burgundy~
+A glass of Freeport Burgundy is here.~
+glass~
+0
+drink 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A B 0 0
+0
+0
+1 1 3 P
+#11529
+wine white chablis~
+a glass of Freeport chablis~
+A glass of Freeport Chablis is here.~
+glass~
+0
+drink 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A B 0 0
+0
+0
+1 1 3 P
+#11530
+dumplings plate gravy~
+a plate of gravy and dumplings~
+A plate of gravy and dumplings is here.~
+food~
+0
+food 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+CE CE BCDE 0 0
+0
+0
+2 3 249 P
+#11531
+crate~
+a huge box crate~
+A huge box crate is here.~
+wood~
+0
+container 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG 0 0 CFG ABFG
+0
+0
+100 1000 0 P
+#11532
+trireme ship moored~
+A trireme~
+A long trireme is moored here.~
+wood~
+0
+ctransport 2
+RYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+HQ EIJKN EFGIKLN EFGIKLN BD
+CD
+0
+1 10000 3049 P
+#11533
+wristguard emerald~
+`hAn `jEm`cera`jld `hWristguard``~
+`hAn `jemerald `hwristguard is here.``~
+diamond~
+0
+armor 2
+G
+0
+AM
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A A A 0
+0
+0
+3 100 230 P
+A
+3 1
+#11534
+longsword emerald~
+`cAn `jEmerald `clongsword``~
+`hAn `jemerald `hlongsword is here.``~
+diamond~
+0
+weapon 2
+G
+0
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+A BC BC AB 0
+0
+0
+36 359 3495 P
+A
+1 -2
+A
+18 -1
+#11535
+helm emerald~
+`hAn `jEm`cera`jld `hHelm``~
+`hAn `jemerald `hhelm is here.``~
+diamond~
+0
+armor 2
+G
+0
+AE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+A A A A 0
+0
+0
+5 60 405 P
+A
+24 -1
+#11536
+weed devil's~
+`cA Pinch of `bDevil's `cWeed``~
+`hA pinch of `bdevil's `cweed `his here.``~
+food~
+0
+pill 2
+G
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ABCD 'flamestrike' 'detect evil' -1 -1 0
+0
+15 3 2970 P
+#11537
+cape admiral's~
+`eAn `oAdmiral's `ecape``~
+A cape with the emblem of Freeport is here.~
+wool ~
+0
+clothing 2
+GI
+0
+AC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+55 80 326 P
+A
+24 -1
+#11538
+signet ring freeport~
+`eAn `oAdmiral's `eSignet``~
+A ring with the seal of Freeport is here.~
+mithril~
+0
+jewelry 2
+G
+0
+AB
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 1 4059 G
+A
+14 26
+A
+18 1
+#11539
+purse heavy~
+a very heavy purse~
+A very heavy purse is here.~
+leather~
+0
+container 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+FHIJKL 0 0 CFG ABFG
+0
+0
+1 600 0 P
+#11540
+bladed boots~
+`ba pair of bladed boots``~
+A pair of boots with a spring action blade lie here.~
+leather~
+0
+armor 2
+0
+0
+AG
+CEFIJ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+AC AC AC 0 0
+0
+0
+40 30 300 P
+A
+19 2
+#11541
+cape dimensional~
+a dimensional cape~
+A hole in reality lies here.~
+nothingness~
+0
+clothing 2
+G
+0
+AD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+45 0 0 P
+A
+13 10
+A
+26 -2
+#11542
+prism bending~
+a prism of bending~
+A prism shimmers on the ground here.~
+diamond~
+0
+wand 2
+FG
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BEF AB AB AEFG 'reserved'
+0
+0
+40 10 948 P
+#11543
+worn stone fountain~
+A worn stone fountain~
+`gShowers of sparkling `lwater `grun down this worn `hstone `gfountain.``~
+stone~
+0
+fountain 2
+ORS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#11544
+darcus dinghy~
+The fishing dinghy "The Darcus"~
+The small fishing dinghy "The Darcus" bobs here.~
+wood~
+0
+ctransport 2
+RSYa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+GHQ HJKLMN ABGIKLN ABGIKLN B
+ACD
+BFIKLN
+10 20000 3409 P
+#11545
+jenny's revenge dinghy~
+The fishing dinghy "Jenny's Revenge"~
+The small fishing dinghy "Jenny's Revenge" bobs here.~
+wood~
+0
+ctransport 2
+RSYa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+H HJKLMN CGIKLN CGIKLN B
+ACD
+ABFIKLN
+10 20000 4503 P
+#11546
+wicked witch dinghy~
+The fishing dinghy "Wicked Witch"~
+The small fishing dinghy "Wicked Witch" bobs here.~
+wood~
+0
+ctransport 2
+RSYa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+H HJKLMN ACGIKLN ACGIKLN B
+ACD
+CFIKLN
+10 20000 3654 P
+#11547
+dauntless dinghy~
+The fishing dinghy "The Dauntless"~
+The small fishing dinghy "The Dauntless" bobs here.~
+wood~
+0
+ctransport 2
+RSYa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+H HJKLMN BCGIKLN BCGIKLN B
+ACD
+ACFIKLN
+10 20000 6590 P
+#11548
+star freeport dinghy~
+The fishing dinghy "Star of Freeport"~
+The small fishing dinghy "Star of Freeport" bobs here.~
+wood~
+0
+ctransport 2
+RSYa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+H HJKLMN ABCGIKLN ABCGIKLN B
+ACD
+BCFIKLN
+10 20000 6590 P
+#11549
+jaded heart dinghy~
+The fishing dinghy "Jaded Heart"~
+The small fishing dinghy "Jaded Heart" bobs here.~
+wood~
+0
+ctransport 2
+RSYa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+H HJKLMN DGIKLN DGIKLN B
+ACD
+ABCFIKLN
+10 20000 5993 P
+#11550
+decadence dinghy~
+The fishing dinghy "Decadence"~
+The small fishing dinghy "Decadence" bobs here.~
+wood~
+0
+ctransport 2
+RSYa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+H HJKLMN ADGIKLN ADGIKLN B
+ACD
+DFIKLN
+10 20000 10293 P
+#11551
+rainbow trout~
+`aA `hBright `iR`aa`bi`an`ib`ao`bw `aT`ir`ao`bu`at``~
+The body of a bright rainbow trout lies here, collecting dirt.~
+flesh~
+0
+food 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+BD BD ABCD 0 0
+0
+0
+5 8 4 P
+#11553
+ship trireme moored~
+A trireme~
+A long trireme is moored here.~
+wood~
+0
+ctransport 2
+RYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+HQ EIJKN AEFGIKLN EFGIKLN BD
+CD
+0
+1 10000 2593 P
+#11554
+key dinghy darcus~
+Key to the Dinghy "The Darcus"~
+The key to the dinghy "The Darcus" has been dropped here.~
+brass~
+0
+ctransport_key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#11555
+key dinghy darcus~
+The key to the dinghy "Jenny's Revenge" has been dropped here.~
+The key to the dinghy "Jenny's Revenge" has been dropped here.~
+brass~
+0
+ctransport_key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#11556
+key dinghy darcus~
+The Key to the Dinghy "Wicked Witch"~
+The key to the dinghy "Wicked Witch" has been dropped here.~
+brass~
+0
+ctransport_key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#11557
+key dinghy darcus~
+The Key to the Dinghy "The Dauntless"~
+The key to the dinghy "The Dauntless" has been dropped here.~
+brass~
+0
+ctransport_key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#11558
+key dinghy darcus~
+The Key to the Dinghy "Star of Freeport"~
+The key to the dinghy "Star of Freeport" has been dropped here.~
+brass~
+0
+ctransport_key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#11559
+key dinghy darcus~
+The Key to the Dinghy "Jaded Heart"~
+The key to the dinghy "Jaded Heart" has been dropped here.~
+brass~
+0
+ctransport_key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#11560
+key dinghy darcus~
+The Key to the Dinghy "Decadence"~
+The key to the dinghy "Decadence" has been dropped here.~
+brass~
+0
+ctransport_key 2
+0
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+#11561
+rocks rock~
+the rocks~
+~
+earth~
+0
+portal 2
+RSTa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+Taking a running start, $n jumps off the rocks into the ocean below.~
+Bracing yourself for the landing, you jump off the rocks into the ocean below.~
+~
+~
+-1 0 G ADFIJKP H
+0
+0
+1 -31073 0 P
+#11562
+box string~
+the string attached to a wooden box, sending a flare high into the sky~
+`bA wooden box is here with a string coming out of a hole in the side, just waiting to be pulled.``~
+wood~
+0
+ebutton 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+As the boat lands at the shoals, you hear a lot of noise.~
+A boat appears in the distance, eventually sliding silently up to the shoals.~
+As the ferry departs, you are unsure what lies ahead.~
+With a push of his pole, the boatman guides his vessel away from the shoals and off into the sea.~
+ABDFIKLN A ABCDGIKLN B 0
+0
+0
+1 1 0 P
+E
+string~
+`bThe box is tall and skinny.  It is painted a dull red and has pictures
+of `ibright red flowers`b growing on it.  Upon closer inspection, you
+realize the flowers are actually colorful explosions of fire painted on a
+backdrop of the `enight sky.  `` 
+~
+E
+box~
+`bThe box is tall and skinny.  It is painted a dull red and has pictures
+of `ibright red flowers`b growing on it.  Upon closer inspection, you
+realize the flowers are actually colorful explosions of fire painted on a
+backdrop of the `enight sky.  `` 
+~
+#11563
+boat~
+a wooden boat~
+A wooden boat is here.~
+wood~
+0
+elevator 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BCEFHIKLNO AC FINPQRS 0 0
+0
+0
+1 10000 0 P
+#11564
+emerald gem~
+`ja sparkling emerald``~
+`jA deep green emerald sparkles at you.``~
+gem~
+0
+gem 2
+QW
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 1 8000 P
+#11656
+letter~
+a neatly-folded letter~
+A neatly-folded letter lies here.~
+paper~
+0
+trash 2
+Sc
+B
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 1 0 P
+E
+letter~
+Admiral,
+``     I just got word that Athanmere's navy has stumbled onto the accursed
+isle.  Even worse, I think the walking dead took two of his crew.  It also
+seems that one of the sailors was infected, but brought back to Thesden.  The
+king doesn't know about him and he's being treated in a locked private room
+at the Erion Abbey.  We should dispatch a skilled assassin to finish him off
+and make it look natural.  If the sailor talks, all could be lost.
+``                                                            Sincerely,
+``                                                                X
+~
+#0
+
+#ROOMS
+#11509
+0 0
+~
+~
+~
+0 0 0
+Dusk's Edge~
+You stand on the westernmost point of Freeport Isle, a place locals call
+Dusk's Edge.  An ivory statue of a dolphin leaping high above the water
+stands on a cliff.  
+~
+0 B 4
+0
+~
+I 0 E
+statue~
+The statue shows the Dolphin as it is entering the water. The inscription 
+reads `When Dolphin was created at the dawn of time, she leaped forth from 
+the water with great joy, and the water which fell from her back became the 
+isle of Freeport.
+~
+D0
+~
+~
+0 0 11615
+D1
+On the rock jetty~
+~
+0 -1 11510
+S
+#11510
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11616
+D1
+~
+~
+0 0 11617
+D2
+On the rock jetty~
+~
+0 -1 11511
+D3
+On the rock jetty~
+~
+0 -1 11509
+S
+#11511
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+On the rock jetty~
+~
+0 -1 11510
+D1
+~
+~
+0 0 11618
+D2
+On the rock jetty~
+~
+0 -1 11512
+S
+#11512
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+On the rock jetty~
+~
+0 -1 11511
+D1
+On the wharf~
+~
+0 -1 11514
+D2
+Wharf road~
+~
+0 -1 11513
+S
+#11513
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You stand on a stone paved wharf road.  To your south, waves spray
+whitewater upon a rock jetty.  Traffic from the warehouses to the west
+travels to the piers via this road.  
+~
+0 b 1
+0
+~
+I 0 D0
+On the rock jetty~
+~
+0 -1 11512
+D1
+Wharf road~
+~
+0 -1 11515
+D2
+~
+~
+0 0 11595
+D3
+~
+~
+0 0 11594
+S
+#11514
+0 0
+~
+~
+~
+0 0 0
+On the Wharf~
+You are on the wharf of Freeport, where ships dock and load. The docks 
+are busy today as any day, for the commerce of the seas knows no holiday.
+To the north of you the harbor of Freeport stretches.
+~
+0 d 2
+0
+~
+I 0 D0
+~
+~
+0 0 11618
+D1
+On the wharf~
+~
+0 -1 11516
+D2
+Wharf road~
+~
+0 -1 11515
+D3
+On the jetty~
+~
+0 -1 11512
+S
+#11515
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You stand on a stone paved wharf road.  To your south, waves spray
+whitewater upon a rock jetty.  Traffic from the warehouses to the west
+travels to the piers via this road.  
+~
+0 b 1
+0
+~
+I 0 D0
+On the wharf~
+~
+0 -1 11514
+D1
+Wharf road~
+~
+0 -1 11517
+D2
+~
+~
+0 0 11596
+D3
+You see the wharf~
+~
+0 -1 11513
+S
+#11516
+0 0
+~
+~
+~
+0 0 0
+On the Wharf~
+You are on the wharf of Freeport, where ships dock and load. The docks 
+are busy today as any day, for the commerce of the seas knows no holiday.
+To the north of you the harbor of Freeport stretches.
+~
+0 d 2
+0
+~
+I 0 D0
+~
+~
+0 0 11630
+D1
+On the wharf~
+~
+0 -1 11520
+D2
+Wharf road~
+~
+0 -1 11517
+D3
+On the jetty~
+~
+0 -1 11514
+S
+#11517
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You are on the stone paved wharf road. To your south is a rock jetty upon
+which the waves crash. Traffic from the warehouse to the west travels to
+the wharf via wharf road.
+~
+0 b 1
+0
+~
+I 0 D0
+On the wharf~
+~
+0 -1 11516
+D1
+Wharf road~
+~
+0 -1 11521
+D2
+On the rock jetty~
+~
+0 -1 11518
+D3
+Wharf road~
+~
+0 -1 11515
+S
+#11518
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash 
+and spray a salt mist into the air. Gulls wheel in the sky above you, 
+having flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+Wharf road~
+~
+0 -1 11517
+D1
+On the rock jetty~
+~
+0 -1 11522
+D3
+~
+~
+0 0 11596
+S
+#11519
+0 0
+~
+~
+~
+0 0 0
+On the Wharf~
+You are on the wharf of Freeport, where ships dock and load. The docks 
+are busy today as any day, for the commerce of the seas knows no holiday.
+To the north of you the harbor of Freeport stretches.
+~
+0 d 2
+0
+~
+I 0 D0
+~
+~
+0 0 11631
+D1
+On the wharf~
+~
+0 -1 11525
+D2
+On the wharf~
+~
+0 -1 11520
+D3
+~
+~
+0 0 11630
+S
+#11520
+53 250
+~
+~
+~
+0 0 0
+`gFishing Boats for Sale``~
+Bits of rope and pieces of brass litter the wooden planks where the
+boatseller sits.  Most of his business is from the rebuilding and sale of
+old ships, but sometimes he sells new vessels from the nearby shipyard. 
+From the west comes the sound of waves against the rocks, and fishing boats
+ringing their bells as they come in to dock.  
+~
+0 0 1
+0
+~
+I 0 D0
+On the wharf~
+~
+0 -1 11519
+D1
+Wharf road~
+~
+0 -1 11526
+D2
+Wharf road~
+~
+0 -1 11521
+D3
+On the wharf~
+~
+0 -1 11516
+S
+#11521
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You are on the stone paved wharf road. To your south is a rock jetty upon
+which the waves crash. Traffic from the warehouse to the west travels to
+the wharf via wharf road.
+~
+0 b 1
+0
+~
+I 0 D0
+On the wharf~
+~
+0 -1 11520
+D1
+Wharf road~
+~
+0 -1 11527
+D2
+On the rock jetty~
+~
+0 -1 11522
+D3
+Wharf road~
+~
+0 -1 11517
+S
+#11522
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash 
+and spray a salt mist into the air. Gulls wheel in the sky above you, 
+having flown from their perches upon seeing you.
+~
+0 0 17
+0
+~
+I 0 D0
+Wharf road~
+~
+0 -1 11521
+D1
+~
+~
+0 0 11597
+D2
+Widow's Cape~
+~
+0 -1 11523
+D3
+On the Rock Jetty~
+~
+0 -1 11518
+S
+#11523
+91 50
+~
+~
+~
+0 0 0
+Widow's Cape~
+You have climbed the rocks of widows cape, and can see the violent southern 
+shoals which have claimed many a ship. A watchfire is kept burning here at 
+night to warn sailors.
+~
+0 Z 5
+0
+~
+I 0 D0
+On the rock jetty~
+~
+0 -1 11522
+S
+#11524
+0 0
+~
+~
+~
+0 0 0
+On the Wharf~
+You are on the wharf of Freeport, where ships dock and load. The docks 
+are busy today as any day, for the commerce of the seas knows no holiday.
+To the north of you the harbor of Freeport stretches.
+~
+0 d 2
+0
+~
+I 0 D0
+~
+~
+0 0 11629
+D1
+On the wharf~
+~
+0 -1 11529
+D2
+On the wharf~
+~
+0 -1 11525
+D3
+~
+~
+0 0 11631
+S
+#11525
+0 0
+~
+~
+~
+0 0 0
+On the Wharf~
+You are on the wharf of Freeport, where ships dock and load. The docks 
+are busy today as any day, for the commerce of the seas knows no holiday.
+To the north of you the harbor of Freeport stretches.
+~
+0 0 2
+0
+~
+I 0 D0
+On the wharf~
+~
+0 -1 11524
+D1
+Wharf road~
+~
+0 -1 11530
+D2
+Wharf road~
+~
+0 -1 11526
+D3
+On the wharf~
+~
+0 -1 11519
+S
+#11526
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You are on the stone paved wharf road. Here you see a ship being hauled up 
+to dry dock for repairs. Traffic from the warehouse to the west travels to
+the wharf via wharf road.
+~
+0 0 1
+0
+~
+I 0 D0
+On the wharf~
+~
+0 -1 11525
+D1
+Wharf road~
+~
+0 -1 11531
+D2
+Wharf road~
+~
+0 -1 11527
+D3
+On the wharf~
+~
+0 -1 11520
+S
+#11527
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You are on the stone paved wharf road. To your south is a rock jetty upon
+which the waves crash. Traffic from the warehouse to the west travels to
+the wharf via wharf road.
+~
+0 0 1
+0
+~
+I 0 D0
+Wharf road~
+~
+0 -1 11526
+D1
+Freeport village~
+~
+0 -1 11532
+D2
+~
+~
+0 0 11597
+D3
+Wharf road~
+~
+0 -1 11521
+S
+#11528
+0 0
+~
+~
+~
+0 0 0
+On the Wharf~
+You are on the wharf of Freeport, where ships dock and load. The docks 
+are busy today as any day, for the commerce of the seas knows no holiday.
+To the north of you the harbor of Freeport stretches.
+~
+0 d 2
+0
+~
+I 0 D0
+~
+~
+0 0 11608
+D1
+On the rock jetty~
+~
+0 -1 11534
+D2
+Wharf road~
+~
+0 -1 11529
+D3
+~
+~
+0 0 11629
+S
+#11529
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You are on the stone paved wharf road. Traffic from the warehouse to the 
+west travels to the wharf via wharf road. To your immediate east is the
+shipyards, where you can hear the sounds of construction.
+~
+0 b 1
+0
+~
+I 0 D0
+On the wharf~
+~
+0 -1 11528
+D1
+Shipyards~
+~
+0 -1 11535
+D2
+Wharf road~
+~
+0 -1 11530
+D3
+On the wharf~
+~
+0 -1 11524
+S
+#11530
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You are on the stone paved wharf road. Traffic from the warehouse to the 
+west travels to the wharf via wharf road. To your immediate east you see
+the road to the city of Freeport.
+~
+0 0 1
+0
+~
+I 0 D0
+Wharf road~
+~
+0 -1 11529
+D1
+The road to the city of Freeport~
+~
+0 -1 11536
+D2
+Wharf road~
+~
+0 -1 11531
+D3
+On the wharf~
+~
+0 -1 11525
+S
+#11531
+0 0
+~
+~
+~
+0 0 0
+Wharf Road~
+You are on the stone paved wharf road.  Traffic from the warehouse to the
+west travels to the wharf via wharf road.  Immediately to the east you see
+the mercantile warehouse, where crates of goods are in temporary storage for
+shipping.  
+~
+0 0 1
+0
+~
+I 0 D0
+Wharf road~
+~
+0 -1 11530
+D1
+Warehouse~
+~
+0 -1 11537
+D2
+Freeport village~
+~
+0 -1 11532
+D3
+Wharf road~
+~
+0 -1 11526
+S
+#11532
+0 0
+~
+~
+~
+0 0 0
+Freeport Village~
+You stand in the burrows of Freeport, where all the sailors and
+merchant's families live.  The walls of the houses are made of the local
+stone and have slate roofs.  The closer the houses are to the city, the more
+beautiful and grandiose they become.  Down next to the jetty, where flooding
+is likely, live the poorest families, in temporary shacks.  A small road
+leads east into the village.  
+~
+0 0 1
+0
+~
+I 0 D0
+Wharf road~
+~
+0 -1 11531
+D1
+Freeport village~
+~
+0 -1 11551
+D2
+~
+~
+0 0 11598
+D3
+Wharf road~
+~
+0 -1 11527
+S
+#11534
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11609
+D1
+On the rock jetty~
+~
+0 -1 11538
+D2
+Shipyards~
+~
+0 -1 11535
+D3
+On the wharf~
+~
+0 -1 11528
+S
+#11535
+0 0
+~
+~
+~
+0 0 0
+The Shipyards~
+You are in the shipyards of Freeport. About you in dry storage are many
+vessels either in repair or in the process of being developed. Of particular
+interest is the deep-keeled prototype vessel currently under construction.
+You get the sense that sailing as you know it is about to change. Many of
+the islanders are employed here, and ages range from the youthful 12 year
+old apprentice, to the grizzled old shipwrights.
+~
+0 0 0
+0
+~
+I 0 D0
+On the rock jetty~
+~
+0 -1 11534
+D1
+On the rock jetty~
+~
+0 -1 11539
+D2
+On the rode to Freeport city~
+~
+0 -1 11536
+D3
+Wharf road~
+~
+0 -1 11529
+S
+#11536
+0 0
+~
+~
+~
+0 0 0
+On the Road to Freeport City~
+You are on a stone paved road which rises up the hill to Freeport City. 
+The city itself has been built on the highest part of the island.  The city
+has walls, made of the local slate and a mortar joint.  Roads stretch off
+north to the `gshipyards`l, east to `kFreeport Village`l, south to the
+`cmercantile warehouse`l, and westward `dwharf road`l continues along the
+harbor.  `` 
+~
+0 C 1
+0
+~
+I 0 D0
+The shipyards~
+~
+0 -1 11535
+D1
+Freeport village~
+~
+0 -1 11540
+D2
+The mercantile warehouse~
+~
+0 -1 11537
+D3
+Wharf road~
+~
+0 -1 11530
+D4
+The city gates~
+~
+0 -1 11554
+S
+#11537
+0 0
+~
+~
+~
+0 0 0
+The Mercantile Warehouse~
+You dodge porters and errand boys in the whirling mayhem of the mercantile
+warehouse. Longshoremen load crates of cargo into horse drawn carts and 
+lead the teams down to the wharf for embarking vessels. The cargomaster
+signals to his apprentices in a strange sign language of the merchants
+guild. You get caught up in the excitement of the warehouse, and lend a
+hand to two struggling boys.
+~
+0 0 0
+0
+~
+I 0 D0
+The road to the city of Freeport~
+~
+0 -1 11536
+D1
+Freeport village~
+~
+0 -1 11553
+D2
+Freeport village~
+~
+0 -1 11551
+D3
+Wharf road~
+~
+0 -1 11531
+S
+#11538
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11610
+D1
+~
+~
+0 0 11614
+D2
+On the rock jetty~
+~
+0 -1 11539
+D3
+On the rock jetty~
+~
+0 -1 11534
+S
+#11539
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+On the rock jetty~
+~
+0 -1 11538
+D1
+On the rock jetty~
+~
+0 -1 11541
+D2
+Freeport village~
+~
+0 -1 11540
+D3
+Shipyards~
+~
+0 -1 11535
+S
+#11540
+0 0
+~
+~
+~
+0 0 0
+Freeport village~
+You stand in the burrows of Freeport, where all the sailors and merchants
+families live. The houses are made of the local stone and have slate roofs.
+The closer the houses are to the city, the more beautiful and grandiose they
+become. Down next to the jetty where flooding is likely, live the poorest
+families, in temporary shacks which are prone to flooding. The road to the
+city of Freeport is to your west.
+~
+0 0 1
+0
+~
+I 0 D0
+On the rock jetty~
+~
+0 -1 11539
+D1
+~
+~
+0 0 11601
+D2
+Freeport village~
+~
+0 -1 11553
+D3
+The road to Freeport city~
+~
+0 -1 11536
+S
+#11541
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11614
+D1
+On the rock jetty~
+~
+0 -1 11542
+D2
+~
+~
+0 0 11601
+D3
+On the rock jetty~
+~
+0 -1 11539
+S
+#11542
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11550
+D2
+On the rock jetty~
+~
+0 -1 11543
+D3
+On the rock jetty~
+~
+0 -1 11541
+S
+#11543
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+On the rock jetty~
+~
+0 -1 11542
+D1
+On the rock jetty~
+~
+0 -1 11544
+D3
+~
+~
+0 0 11601
+S
+#11544
+0 0
+~
+~
+~
+0 0 0
+Dawn's Edge~
+You have reached the easternmost point of Freeport isle, a place locals call 
+Dawn's edge. There is an ivory statue of a dolphin leaping out of the water 
+here.
+~
+0 0 5
+0
+~
+I 0 E
+statue~
+The statue shows the Dolphin as it is rising out of the water. The 
+inscription reads `When Dolphin was created at the dawn of time, she 
+leaped forth from the water with great joy, and the water which fell 
+from her back became the isle of Freeport'
+~
+D3
+On the rock jetty~
+~
+0 -1 11543
+S
+#11550
+0 0
+~
+~
+~
+0 0 0
+Northpoint~
+You have reached the end of the jetty at a place called Northpoint. Here 
+long swells from the northeast crash with great force upon the island. You 
+see why the island has been reinforced with a rock jetty- without it, it 
+would rapidly erode.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11612
+D1
+~
+~
+0 0 34106
+D2
+~
+~
+0 0 11542
+D3
+~
+~
+0 0 11614
+S
+#11551
+0 0
+~
+~
+~
+0 0 0
+Freeport Village~
+You stand in the burrows of Freeport, where all the sailors and merchants
+families live. The houses are made of the local stone and have slate roofs.
+The closer the houses are to the city, the more beautiful and grandiose they
+become. Down next to the jetty where flooding is likely, live the poorest
+families, in temporary shacks which are prone to flooding. To the north is 
+the mercantile warehouse.
+~
+0 Z 1
+0
+~
+I 0 D0
+The mercantile warehouse~
+~
+0 -1 11537
+D1
+Freeport village~
+~
+0 -1 11552
+D2
+~
+~
+0 0 11599
+D3
+Freeport village~
+~
+0 -1 11532
+S
+#11552
+0 0
+~
+~
+~
+0 0 0
+Freeport Village~
+You have reached the heart of Freeport village. Sailors wives wave at
+you and ask you to join them for tea. Children run along the main street
+playing sailors and pirates. There is a small church here at the point
+on the shore.
+~
+0 0 1
+0
+~
+I 0 D0
+Freeport village~
+~
+0 -1 11553
+D3
+Freeport village~
+~
+0 -1 11551
+S
+#11553
+0 0
+~
+~
+~
+0 0 0
+Freeport Village~
+You stand in the burrows of Freeport, where all the sailors and merchants
+families live. The houses are made of the local stone and have slate roofs.
+The closer the houses are to the city, the more beautiful and grandiose they
+become. Down next to the jetty where flooding is likely, live the poorest
+families, in temporary shacks which are prone to flooding. To the west is 
+the mercantile warehouse.
+~
+0 0 1
+0
+~
+I 0 D0
+Freeport village~
+~
+0 -1 11540
+D1
+~
+~
+0 0 11600
+D2
+Freeport village~
+~
+0 -1 11552
+D3
+The mercantile warehouse~
+~
+0 -1 11537
+S
+#11554
+40 200
+Welcome to Freeport.  Enjoy your stay.~
+~
+~
+0 0 0
+The Gates of Freeport~
+You stand at the famed bronze gates of Freeport, built on the thriving
+commerce of the city. From here you have a commanding view of the island
+and the harbor. You stop and rest, watching the Liola Lew hoist anchor
+and sail off with her cargo into the seas. Yes, you think you could get
+used to life here on Freeport.  Commerce Lane goes south through the city
+gates.  To the west, Shanghai Street begins.
+~
+0 0 1
+0
+~
+I 0 D2
+Commerce lane~
+gates bronze~
+1 -1 11555
+D3
+~
+~
+0 0 11574
+D5
+The road to the island~
+~
+0 -1 11536
+S
+#11555
+0 0
+~
+~
+~
+0 0 0
+Commerce Street~
+You stroll down bustling Commerce street, taking in the sights, sounds,
+and smells of the Jewel of the Pirate Seas, as Freeport is often called.  To
+your east is the `gSunken Pirate`l, the local watering hole, and to the west is
+the `dEmporium`l, a store of exotic goods.  Commerce street continues south.  
+~
+0 0 1
+0
+~
+I 0 D0
+The gates of Freeport~
+~
+0 -1 11554
+D1
+The Sunken Pirate~
+~
+0 -1 11556
+D2
+Commerce Street~
+~
+0 -1 11558
+D3
+The Emporium~
+~
+0 -1 11557
+S
+#11556
+0 0
+~
+~
+~
+0 0 0
+The Sunken Pirate~
+Here, amid the reek of spilled beer, bad cigars, and other unmentionable
+smells lies an endearing little bar done up in a nautical theme. The jolly
+roger flies over the main bar, where the local beer and wine is served
+as the locals like it- warm. Waitresses clad in little wiggle between
+the packed tables to the delight of their naval and mercantile clientele.
+An unleavened spiced bread called Pilas is served hot and in generous portions
+in wicker baskets.
+~
+0 D 0
+0
+~
+I 0 D3
+Commerce Street~
+~
+0 -1 11555
+S
+#11557
+0 0
+~
+~
+~
+0 0 0
+The Emporium~
+This warehouse-sized store is packed to the ceiling with goods from
+several lands. Bolts of cloth, silver plates and utensils, lanterns
+candles, rugs, etc. dazzle you. Several store boys work the floor, helping
+their customers.
+~
+0 D 0
+0
+~
+I 0 D1
+Commerce Street~
+~
+0 -1 11555
+S
+#11558
+0 0
+~
+~
+~
+0 0 0
+Commerce Street~
+You stroll down bustling Commerce street, taking in the sights, sounds,
+and smells of the Jewel of the Pirate Seas, as Freeport is often called.
+To the east is the `dBronze Scabbard`l, the shop of the armourer of Freeport.
+To the west is the `fMystic Eye`l, a famed magic shop. Commerce street continues
+north and south.
+~
+0 0 1
+0
+~
+I 0 D0
+Commerce Street~
+~
+0 -1 11555
+D1
+The Bronze Scabbard~
+~
+0 -1 11559
+D2
+The town square~
+~
+0 -1 11561
+D3
+The Mystic Eye~
+~
+0 -1 11560
+S
+#11559
+0 0
+~
+~
+~
+0 0 0
+The Bronze Scabbard~
+The Bronze Scabbard is actually a front store for the blacksmith the 
+metalworkers of Freeport. The bulk of the commissions come from the
+Captains guild and the shipyards, where most of the arms of Freeport
+are made. In their spare time the metalworkers make various trinkets
+for the local citizenry and tourists.
+~
+0 D 0
+0
+~
+I 0 D3
+Commerce Street~
+~
+0 -1 11558
+S
+#11560
+91 20
+~
+~
+~
+0 0 0
+The Mystic Eye~
+Your head swims in the exotic fumes emitted by the candles of this shop.
+Several lamps on display change from color to color, in addition to the
+everlasting variety. Scrolls and books are stored in a glass cabinet behind
+the counter.
+~
+0 D 0
+0
+~
+I 0 D1
+Commerce Street~
+~
+0 -1 11558
+S
+#11561
+0 0
+~
+~
+~
+0 0 0
+The Town Square of Freeport~
+You are in the broad town square of Freeport, which measures 100 yds by
+100 yds.  Small outdoor cafes have set up shop in the square, catering to
+their people watching customers.  To the south is the `btown hall`l, where
+the famed waterclock of Freeport chimes the martial song of the Captains
+guild every hour.  To the east, `gNaval street`l runs to the Captains guild
+at the end, and to the west `gShippers Lane`l goes to the Merchants guild. 
+`gCommerce street`l leads northwards out of the city.  `` 
+~
+0 0 1
+0
+~
+I 0 D0
+Commerce Street~
+~
+0 -1 11558
+D1
+Naval Street~
+~
+0 -1 11562
+D2
+Town hall~
+~
+0 -1 11564
+D3
+Shippers lane~
+~
+0 -1 11563
+S
+#11562
+0 0
+~
+~
+~
+0 0 0
+Naval Street~
+You stand on Naval street, which has been paved with engraved stones,
+each stone commemorating a naval engagement in the city's history.  Cadets
+drill at the end of the street, marching up and down, over and over in tight
+formation.  To the south is an inn called `bThe Crew's Quarters`l.  `` 
+~
+0 0 1
+0
+~
+I 0 D1
+Naval Street~
+~
+0 -1 11584
+D2
+The Crew's Quarters~
+~
+0 -1 11565
+D3
+Town square~
+~
+0 -1 11561
+S
+#11563
+0 0
+~
+~
+~
+0 0 0
+Shipper's Lane~
+You walk Shippers lane. Two story houses press closely to the to the
+street and people bustle back and forth. To the south is the `cBank of 
+Freeport`l.``
+~
+0 0 1
+0
+~
+I 0 D1
+Town square~
+~
+0 -1 11561
+D2
+~
+~
+0 0 11566
+D3
+Shipper's lane~
+~
+0 -1 11567
+S
+#11564
+0 0
+~
+~
+~
+0 0 0
+Town Hall~
+You stand inside the town hall of the city of Freeport.  Town hall is
+arranged for meetings.  To your left are the nine Captain's chairs, where
+the representatives of the Captain's guild sit.  To your right are the five
+chairs of the merchants guild.  Ahead, in the center, is where the mayor
+sits.  Around you are many wooden benches upon which townsmen may sit and
+participate in the meetings.  The role of the mayor is as arbitrator, and he
+is freely elected by popular vote.  White marble statues are displayed in
+alcoves about the hall.  
+~
+0 D 0
+0
+~
+I 0 E
+statues~
+The statues are of past mayors of the city. As you examine them more
+closely, you notice one of them shows signs of having been moved across the 
+floor many many times. You try to move it, but the statue is held in place
+by a locking mechanism.
+~
+D0
+Town square~
+~
+0 -1 11561
+D5
+A secret passage~
+statue~
+1 11509 11572
+S
+#11565
+0 0
+~
+~
+~
+0 0 0
+The Crew's Quarters~
+You are inside a homely inn. Here in the giant common room, a fire roars
+in the stone fireplace, and patrons sip wine next to it. Rooms are available
+for let, starting at 50 G a night. The tables are made of a thickly varnished
+and dark stained oak, the walls are paneled, and the windows facing the
+street resemble portholes. This is a popular meeting place for the captains
+when they have foreign visitors.
+~
+0 D 0
+0
+~
+I 0 D0
+Naval Street~
+~
+0 -1 11562
+S
+#11566
+0 0
+~
+~
+~
+0 0 0
+The Bank~
+The bank lobby exudes wealth, with marble and gilt and fine woods
+covering all.  None of it is tastefully done, just very expensive.  The
+merry jingle of silver and gold fills this popular building.  Proud
+merchants stride in with pouches of money, then glide out with satisfied
+smiles as they think of ever-growing profits.  
+~
+0 DY 0
+0
+~
+I 0 D0
+~
+~
+0 0 11563
+S
+#11567
+0 0
+~
+~
+~
+0 0 0
+Shipper's Lane~
+You walk Shippers lane.  Two story houses press closely to the to the
+street and people bustle back and forth.  To the north is the `cmercantile
+school`l, and to the south is the `cmerchant's guild`l.  `` 
+~
+0 0 1
+0
+~
+I 0 D0
+The mercantile school~
+~
+0 -1 11568
+D1
+Shipper's lane~
+~
+0 -1 11563
+D2
+The merchant's guild~
+~
+0 -1 11569
+S
+#11568
+0 0
+~
+~
+~
+0 0 0
+The Mercantile School~
+You stand in the courtyard of the mercantile school of Freeport. It is 
+here that young boys master the subtleties of profit and trade. Scribes
+record the latest buy and sell rates of commodities around the world upon
+the rolls of the school. This school is one of the main reasons for the
+economic dominance of Freeport of world trade.
+~
+0 D 0
+0
+~
+I 0 D2
+Shipper's Lane~
+~
+0 -1 11567
+S
+#11569
+0 0
+~
+~
+~
+0 0 0
+The Merchant's Guild~
+You have entered the grand arch of the merchants guild of Freeport.  It
+is here that the master traders conduct their business of contracting with
+captains for the transport of cargo to remote destinations.  Each member of
+the merchant's guild tithes to the guild, money which is used to not only
+maintain the guild proper, but also to open new markets in foreign lands. 
+The guild masters command much respect, wealth, and power throughout the
+world.  Guild matters are decided by a vote, scaled by the wealth of each
+master.  The five richest masters make up the council of five, and argue on
+the guilds behalf in contractual negotiations in town meetings.  It has been
+said that the council of five collectively owns one quarter of the world's
+wealth.  
+~
+0 D 0
+0
+~
+I 0 D0
+Shipper's Lane~
+~
+0 -1 11567
+S
+#11570
+0 0
+~
+~
+~
+0 0 0
+The Naval Academy~
+You stand on the grounds of the renowned naval academy of Freeport, the
+training grounds for the world's captains.  Young boys are taught for a
+period of eight years the art of sailing, and finish their apprenticeship
+onboard actual military vessels.  The academy has a long tradition of
+turning out fine sailors.  Most cadets eventually become captains of their
+own vessels and under contract to the Merchants guild.  
+~
+0 D 0
+0
+~
+I 0 D2
+Naval Street~
+~
+0 -1 11584
+S
+#11571
+0 0
+~
+~
+~
+0 0 0
+The Captains Guild~
+Here in the halls of the Captains guild, the worlds shipping begins and
+ends.  The guild was founded over 300 years ago to represent the collective
+interests of the ship owners.  To be a member, one must demonstrate the
+clear title to at least one vessel.  Ahead of you is the great hall where
+the guild holds its meetings.  Votes in the guild are based weighted by the
+number of vessels the captain has.  The richest men with the most ships fill
+the nine seats of honor in the guild, and are called the Admirals.  It has
+been said that they control one third of the world's shipping.  
+~
+0 D 0
+0
+~
+I 0 D0
+Naval Street~
+~
+0 -1 11584
+S
+#11572
+0 0
+~
+~
+~
+0 0 0
+On a Secret Staircase~
+You follow a secret staircase south and downward underground. The stairs
+are wet and mossy. Far below you hear the sounds of men loading a ship.
+The old torch sconces on the wall have not been used in years. There is 
+a sign on the wall.
+~
+0 AD 18
+0
+~
+I 0 E
+sign wall~
+{45 53} Lok  Hall of the 6th Pirate Lord
+~
+D2
+On a secret staircase~
+~
+0 -1 11573
+D4
+Through the secret door~
+statue~
+1 11509 11564
+S
+#11573
+0 0
+~
+~
+~
+0 0 0
+On a Secret Staircase~
+You follow a secret staircase south and downward underground. The stairs
+are wet and mossy. Far below you hear the sounds of men loading a ship.
+The old torch sconces on the wall have not been used in years.
+~
+0 AD 18
+0
+~
+I 0 D0
+On a secret staircase~
+~
+0 -1 11572
+D2
+On a secret staircase~
+~
+0 -1 11575
+S
+#11574
+0 0
+~
+~
+~
+0 0 0
+Shanghai Street~
+`lOf all the streets and avenues in Freeport, Shanghai Street is by far the one
+`lwith the most sights, smells and sounds.  Famed for its numerous bars and
+`lbrothels, it earns its namesake from the many relaxing, tavern-going
+`ladventurers who visit this street, waking up on various ships bound for
+`ldistant places around the world.  You make it a point to be alert, lest you be
+`lshanghai'd too.  Shanghai street continues westward.  To the east The Gates of
+`lFreeport can be seen.``
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 11554
+D3
+~
+~
+0 0 11585
+S
+#11575
+0 0
+~
+~
+~
+0 0 0
+In the Hidden Cavern~
+You have discovered a hidden underground cavern. In the center of the
+room is a deep pool in which several triremes have been moored. 
+Laughing sailors are unloading cargo from one of the ships. You quickly
+disguise yourself as one of the sailors.
+~
+0 D 18
+0
+~
+I 0 D0
+On a secret staircase~
+~
+0 -1 11573
+D1
+In the hidden cavern~
+~
+0 -1 11577
+D2
+In the hidden cavern~
+~
+0 -1 11576
+S
+#11576
+0 0
+~
+~
+~
+0 0 0
+In the Hidden Cavern~
+You walk along the shore of an underground water cave in which several
+triremes have been moored, one of which is being unloaded. You sneak
+unnoticed behind several CRATES which have been recently off-loaded.
+~
+0 D 18
+0
+~
+I 0 E
+crates~
+These crates are marked with a destination of Solace. That's funny. What
+are they doing here?
+~
+D0
+In the hidden cavern~
+~
+0 -1 11575
+D1
+In the hidden harbor~
+~
+0 -1 11583
+D2
+In the hidden cavern~
+~
+0 -1 11581
+S
+#11577
+0 0
+~
+~
+~
+0 0 0
+In the Hidden Cavern~
+You walk along the shore of an underground water cave in which several
+triremes have been moored, one of which is being unloaded. You sneak
+unnoticed behind several CRATES which have been recently off-loaded. To
+the north of you is a guarded door.
+~
+0 D 18
+0
+~
+I 0 E
+crates~
+These crates are marked with a destination of Antharia. That's funny. What
+are they doing here?
+~
+D0
+Through the guarded door~
+door~
+1 -1 11578
+D1
+In the hidden cavern~
+~
+0 -1 11579
+D2
+In the hidden harbor~
+~
+0 -1 11583
+D3
+In the hidden cavern~
+~
+0 -1 11575
+S
+#11578
+0 0
+~
+~
+~
+0 0 0
+In The Secret Cave of the 6th Pirate Lord~
+You have boldly entered the secret cave of the 6th pirate lord. About
+you the evidence of his terrible crimes abounds. Here is a pilfered
+shipping schedule, duplicated on scrolls addressed to the other pirate
+lords. There is a cargo list of several missing merchant vessels. On the
+desk is a scroll of the departure time, vessel name, and destination of
+a rich noble. Yes you have discovered the kingpin of the pirate lords,
+the man who has terrorized commerce for a decade. What will you do about 
+it?
+~
+0 D 18
+0
+~
+I 0 D2
+Through the door~
+door~
+1 -1 11577
+S
+#11579
+0 0
+~
+~
+~
+0 0 0
+In the Hidden Cavern~
+You walk along the shore of an underground water cave in which several
+triremes have been moored, one of which is being unloaded. You sneak
+unnoticed behind several CRATES which have been recently off-loaded.
+~
+0 D 18
+0
+~
+I 0 E
+crates~
+These crates are marked with a destination of the Shire. That's funny. What
+are they doing here?
+~
+D2
+In the hidden cavern~
+~
+0 -1 11580
+D3
+In the hidden cavern~
+~
+0 -1 11577
+S
+#11580
+0 0
+~
+~
+~
+0 0 0
+In the Hidden Cavern~
+You walk along the shore of an underground water cave in which several
+triremes have been moored, one of which is being unloaded. You sneak
+unnoticed behind several CRATES which have been recently off-loaded.
+~
+0 D 18
+0
+~
+I 0 E
+crates~
+These crates are marked with a destination of Camelot. That's funny. What
+are they doing here?
+~
+D0
+In the hidden cavern~
+~
+0 -1 11579
+D2
+In the hidden cavern~
+~
+0 -1 11582
+D3
+In the hidden harbor~
+~
+0 -1 11583
+S
+#11581
+0 0
+~
+~
+~
+0 0 0
+In the Hidden Cavern~
+You walk along the shore of an underground water cave in which several
+triremes have been moored, one of which is being unloaded. You sneak
+unnoticed behind several CRATES which have been recently off-loaded. To 
+the south of you the waterway leaves the cavern through a tunnel which
+U's in a long curve.
+~
+0 D 18
+0
+~
+I 0 E
+crates~
+These crates are marked with a destination of Dunkeldorf. That's funny. What
+are they doing here?
+~
+D0
+In the hidden cavern~
+~
+0 -1 11576
+S
+#11582
+0 0
+~
+~
+~
+0 0 0
+In the Hidden Cavern~
+You walk along the shore of an underground water cave in which several
+triremes have been moored, one of which is being unloaded. You sneak
+unnoticed behind several CRATES which have been recently off-loaded.
+~
+0 D 18
+0
+~
+I 0 E
+crates~
+These crates are marked with a destination of Malancandra. That's funny. What
+are they doing here?
+~
+D0
+In the hidden cavern~
+~
+0 -1 11580
+S
+#11583
+0 0
+~
+~
+~
+0 0 0
+On the Hidden Harbor~
+You bob in the waters of the hidden harbor among several docked triremes.
+You can dock in any cardinal direction except south, where the harbor
+turns into a dark tunnel which bends around to the west. There is a small
+buoy floating here.
+~
+0 0 18
+0
+~
+I 0 D0
+On the docks~
+~
+0 -1 11577
+D1
+On the docks~
+~
+0 -1 11580
+D3
+On the docks~
+~
+0 -1 11576
+S
+#11584
+0 0
+~
+~
+~
+0 0 0
+Naval Street~
+You stand on Naval street, which has been paved with engraved stones,
+each stone commemorating a naval engagement in the city's history.  Cadets
+drill at the end of the street, marching up and down, over and over in tight
+formation.  To the north is the `hNaval Academy`l, and to the south is the
+`dCaptain's Guild`l.  `` 
+~
+0 S 1
+0
+~
+I 0 D0
+The naval academy~
+~
+0 -1 11570
+D2
+The Captains guild~
+~
+0 -1 11571
+D3
+Naval Street~
+~
+0 -1 11562
+S
+#11585
+0 0
+~
+~
+~
+0 0 0
+Shanghai Street~
+`lThe scent of delicious food wafts over the gentle, salty breeze blowing,
+`lcausing your stomach to stir.  Wild, unrestrained laughter can be heard close
+`lby accompanied by the distinctive sound of ribald piano music.  A couple of
+`lshady characters make eye contact with you and you realize that you should be
+`lon your guard on this deceptively easy-going street.  Eastward, Shanghai
+`lStreet continues.``
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 11574
+S
+#11586
+0 0
+~
+~
+~
+0 0 0
+The Small Church~
+The floor creaks under your feet as you enter.  The church is very simple
+but immaculately clean.  A vaulted ceiling and bare walls enclose a dozen
+rows of smooth, worn wooden pews.  Up in front an altar is draped in green
+cloth.  A podium stands to the right.  Sunlight shines in through the clear,
+spotless glass windows.  The church is empty except for one old woman, who
+never looks up from her cleaning.  
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 11600
+S
+#11587
+0 0
+~
+~
+~
+0 0 0
+`lOn a fishing dinghy``~
+`gThe deck of the small ship rocks gently below your feet.  A faint scent
+of fish lingers, strongest near the neatly coiled net on the side.  Two
+sails are unfurled above, filled with air and ready to go.  The rudder is
+here to help you with controlling direction.  `` 
+~
+0 BCI 6
+4
+The boat isn't large enough to hold anymore.~
+I 0 S
+#11588
+0 0
+~
+~
+~
+0 0 0
+`lOn a fishing dinghy``~
+`gThe deck of the small ship rocks gently below your feet.  A faint scent
+of fish lingers, strongest near the neatly coiled net on the side.  Two
+sails are unfurled above, filled with air and ready to go.  The rudder is
+here to help you with controlling direction.  `` 
+~
+0 BCI 6
+4
+The boat isn't large enough to hold anymore.~
+I 0 S
+#11589
+0 0
+~
+~
+~
+0 0 0
+`lOn a fishing dinghy``~
+`gThe deck of the small ship rocks gently below your feet.  A faint scent
+of fish lingers, strongest near the neatly coiled net on the side.  Two
+sails are unfurled above, filled with air and ready to go.  The rudder is
+here to help you with controlling direction.  `` 
+~
+0 BCI 6
+4
+The boat isn't large enough to hold anymore.~
+I 0 S
+#11590
+0 0
+~
+~
+~
+0 0 0
+`lOn a fishing dinghy``~
+`gThe deck of the small ship rocks gently below your feet.  A faint scent
+of fish lingers, strongest near the neatly coiled net on the side.  Two
+sails are unfurled above, filled with air and ready to go.  The rudder is
+here to help you with controlling direction.  `` 
+~
+0 BCI 6
+4
+The boat isn't large enough to hold anymore.~
+I 0 S
+#11591
+0 0
+~
+~
+~
+0 0 0
+`lOn a fishing dinghy``~
+`gThe deck of the small ship rocks gently below your feet.  A faint scent
+of fish lingers, strongest near the neatly coiled net on the side.  Two
+sails are unfurled above, filled with air and ready to go.  The rudder is
+here to help you with controlling direction.  `` 
+~
+0 BCI 6
+4
+The boat isn't large enough to hold anymore.~
+I 0 S
+#11592
+0 0
+~
+~
+~
+0 0 0
+`lOn a fishing dinghy``~
+`gThe deck of the small ship rocks gently below your feet.  A faint scent
+of fish lingers, strongest near the neatly coiled net on the side.  Two
+sails are unfurled above, filled with air and ready to go.  The rudder is
+here to help you with controlling direction.  `` 
+~
+0 BCI 6
+4
+The boat isn't large enough to hold anymore.~
+I 0 S
+#11593
+0 0
+~
+~
+~
+0 0 0
+`lOn a fishing dinghy``~
+`gThe deck of the small ship rocks gently below your feet.  A faint scent
+of fish lingers, strongest near the neatly coiled net on the side.  Two
+sails are unfurled above, filled with air and ready to go.  The rudder is
+here to help you with controlling direction.  `` 
+~
+0 BCI 6
+4
+The boat isn't large enough to hold anymore.~
+I 0 S
+#11594
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and
+spray a salt mist into the air. Gulls wheel in the sky above you, having
+flown from their perches upon seeing you.
+~
+0 0 17
+0
+~
+I 0 D1
+~
+~
+0 0 11513
+D2
+~
+~
+0 0 34498
+D3
+~
+~
+0 0 34397
+S
+#11595
+91 20
+~
+~
+~
+0 0 0
+Along the Shoals~
+You walk along the rock shoals of the isle of Freeport. The waves crash and
+spray a salt mist into the air. Gulls wheel in the sky above you, having
+flown from their perches upon seeing you.
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 11513
+D1
+~
+~
+0 0 11596
+D2
+~
+~
+0 0 34599
+D3
+~
+~
+0 0 34498
+S
+#11596
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and
+spray a salt mist into the air. Gulls wheel in the sky above you, having
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11515
+D1
+~
+~
+0 0 11518
+D3
+~
+~
+0 0 11595
+S
+#11597
+0 0
+~
+~
+~
+0 0 0
+Along the Shoals~
+You walk along the rock shoals of the isle of Freeport. The waves crash and
+spray a salt mist into the air. Gulls wheel in the sky above you, having
+flown from their perches upon seeing you.
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 11527
+D1
+~
+~
+0 0 11598
+D2
+~
+~
+0 0 34502
+D3
+~
+~
+0 0 11522
+S
+#11598
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and
+spray a salt mist into the air. Gulls wheel in the sky above you, having
+flown from their perches upon seeing you.
+~
+0 C 17
+0
+~
+I 0 D0
+~
+~
+0 0 11532
+D1
+~
+~
+0 0 11599
+D2
+~
+~
+0 0 34503
+D3
+~
+~
+0 0 11597
+S
+#11599
+0 0
+~
+~
+~
+0 0 0
+On the Rock Shoals~
+You walk along the rock shoals of the isle of Freeport. The waves crash and
+spray a salt mist into the air. Gulls wheel in the sky above you, having
+flown from their perches upon seeing you.
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 11551
+D1
+~
+~
+0 0 34405
+D2
+~
+~
+0 0 34504
+D3
+~
+~
+0 0 11598
+S
+#11600
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and
+spray a salt mist into the air. Gulls wheel in the sky above you, having
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11601
+D2
+~
+~
+0 0 11586
+D3
+~
+~
+0 0 11553
+S
+#11601
+0 0
+~
+~
+~
+0 0 0
+On the Rock Shoals~
+You walk along the rock shoals of the isle of Freeport. The waves crash and
+spray a salt mist into the air. Gulls wheel in the sky above you, having
+flown from their perches upon seeing you.
+~
+0 0 5
+0
+~
+I 0 D0
+~
+~
+0 0 11541
+D1
+~
+~
+0 0 11543
+D2
+~
+~
+0 0 11600
+D3
+~
+~
+0 0 11540
+S
+#11602
+0 0
+~
+~
+~
+0 0 0
+A Shallow Drift~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 13494
+D1
+~
+~
+0 0 11603
+D2
+~
+~
+0 0 11615
+D3
+~
+~
+0 0 34097
+S
+#11603
+0 0
+~
+~
+~
+0 0 0
+An Ancient Covered Bridge~
+Intricately carved stone pillars support this stout rock bridge and hold it
+a foot or so above the shallow water.  A disheveled wooden frame sits over the
+bridge, providing a semblance of shade for the short time required to cross.
+Through slits in the wood you can see all sorts of fish and plantlife through
+the clear water below.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13495
+D1
+~
+~
+0 0 11604
+D2
+~
+~
+0 0 11616
+D3
+~
+~
+0 0 11602
+S
+#11604
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13496
+D1
+~
+~
+0 0 11605
+D2
+~
+~
+0 0 11626
+D3
+~
+~
+0 0 11603
+S
+#11605
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13497
+D1
+~
+~
+0 0 11606
+D2
+~
+~
+0 0 11627
+D3
+~
+~
+0 0 11604
+S
+#11606
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13498
+D1
+~
+~
+0 0 11607
+D2
+~
+~
+0 0 11628
+D3
+~
+~
+0 0 11605
+S
+#11607
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13499
+D1
+~
+~
+0 0 11608
+D2
+~
+~
+0 0 11629
+D3
+~
+~
+0 0 11606
+S
+#11608
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13500
+D1
+~
+~
+0 0 11609
+D2
+~
+~
+0 0 11528
+D3
+~
+~
+0 0 11607
+S
+#11609
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13501
+D1
+~
+~
+0 0 11610
+D2
+~
+~
+0 0 11534
+D3
+~
+~
+0 0 11608
+S
+#11610
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13502
+D1
+~
+~
+0 0 11611
+D2
+~
+~
+0 0 11538
+D3
+~
+~
+0 0 11609
+S
+#11611
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13503
+D1
+~
+~
+0 0 11612
+D2
+~
+~
+0 0 11614
+D3
+~
+~
+0 0 11610
+S
+#11612
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13504
+D1
+~
+~
+0 0 11613
+D2
+~
+~
+0 0 11550
+D3
+~
+~
+0 0 11611
+S
+#11613
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 13582
+D1
+~
+~
+0 0 34007
+D2
+~
+~
+0 0 34106
+D3
+~
+~
+0 0 11612
+S
+#11614
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11611
+D1
+~
+~
+0 0 11550
+D2
+~
+~
+0 0 11541
+D3
+~
+~
+0 0 11538
+S
+#11615
+0 0
+~
+~
+~
+0 0 0
+A Shallow Drift~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 17
+0
+~
+I 0 D0
+~
+~
+0 0 11602
+D1
+~
+~
+0 0 11616
+D2
+~
+~
+0 0 11509
+S
+#11616
+0 0
+~
+~
+~
+0 0 0
+On the Rock Jetty~
+You walk along the rock jetty of the isle of Freeport. The waves crash and 
+spray a salt mist into the air. Gulls wheel in the sky above you, having 
+flown from their perches upon seeing you.
+~
+0 0 4
+0
+~
+I 0 D0
+~
+~
+0 0 11603
+D1
+~
+~
+0 0 11626
+D2
+~
+~
+0 0 11510
+D3
+~
+~
+0 0 11615
+S
+#11617
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11626
+D1
+~
+~
+0 0 11619
+D2
+~
+~
+0 0 11618
+D3
+~
+~
+0 0 11510
+S
+#11618
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11617
+D1
+~
+~
+0 0 11630
+D2
+~
+~
+0 0 11514
+D3
+~
+~
+0 0 11511
+S
+#11619
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11627
+D1
+~
+~
+0 0 11631
+D2
+~
+~
+0 0 11630
+D3
+~
+~
+0 0 11617
+S
+#11626
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11604
+D1
+~
+~
+0 0 11627
+D2
+~
+~
+0 0 11617
+D3
+~
+~
+0 0 11616
+S
+#11627
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11605
+D1
+~
+~
+0 0 11628
+D2
+~
+~
+0 0 11619
+D3
+~
+~
+0 0 11626
+S
+#11628
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11606
+D1
+~
+~
+0 0 11629
+D2
+~
+~
+0 0 11631
+D3
+~
+~
+0 0 11627
+S
+#11629
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11607
+D1
+~
+~
+0 0 11528
+D2
+~
+~
+0 0 11524
+D3
+~
+~
+0 0 11628
+S
+#11630
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11619
+D1
+~
+~
+0 0 11519
+D2
+~
+~
+0 0 11516
+D3
+~
+~
+0 0 11618
+S
+#11631
+0 0
+~
+~
+~
+0 0 0
+An Estuary~
+Murky green water coasts over smooth lime and laps up against hard grey stone
+shores to either side here.  Trout and sunfish stand idly in the water, then
+scatter as you place your foot carefully in the shallow fluid.  Small packets
+of debris wash up against your armor as you cross, making this seemingly
+simple wade somewhat disgusting.
+~
+0 0 6
+0
+~
+I 0 D0
+~
+~
+0 0 11628
+D1
+~
+~
+0 0 11524
+D2
+~
+~
+0 0 11519
+D3
+~
+~
+0 0 11619
+S
+#11632
+0 0
+~
+~
+~
+0 0 0
+On the deck of a Trireme~
+The ship is long and narrow, with a number of oar-locks and benches
+spaced evenly along the deck.  A single mast rises from the center of the
+deck, making the boat feel slightly unstable, rocking back and forth with
+each passing wave.  
+~
+0 CI 2
+8
+~
+I 0 S
+#11633
+0 0
+~
+~
+~
+0 0 0
+On the deck of a Trireme~
+The ship is long and narrow, with a number of oar-locks and benches
+spaced evenly along the deck.  A single mast rises from the center of the
+deck, making the boat feel slightly unstable, rocking back and forth with
+each passing wave.  
+~
+0 CI 2
+8
+~
+I 0 S
+#0
+
+#RESETS
+M 0 11510   2 11538 10	* The red-tongued lizard
+G 0 11511 -1		* `ia red lizard tongue`` to the red-tongued lizard
+M 0 11510   2 11511 10	* The red-tongued lizard
+G 0 11511 -1		* `ia red lizard tongue`` to the red-tongued lizard
+M 0 11511   2 11518 10	* The green-tongued lizard
+G 0 11512 -1		* `ja green lizard tongue`` to the green-tongued lizard
+M 0 11511   2 11543 10	* The green-tongued lizard
+G 0 11512 -1		* `ja green lizard tongue`` to the green-tongued lizard
+M 0 11512   1 11523  1	* The watchman of widow's cape
+O 0 11513   0 11523 -1	* A watchfire at Widow's Cape
+M 0 11514   5 11537 10	* The longshoreman
+M 0 11514   5 11514 10	* The longshoreman
+M 0 11514   5 11519 10	* The longshoreman
+M 0 11514   5 11528 10	* The longshoreman
+M 0 11515   1 11524  1	* The harbormaster
+G 0 11515 -1		* A notebook to the harbormaster
+M 0 11516   5 11516 10	* The citizen of freeport
+M 0 11516   5 11515 10	* The citizen of freeport
+M 0 11516   5 11551 10	* The citizen of freeport
+M 0 11517   2 11540 10	* The laughing child
+M 0 11518   2 11552 10	* The sailor's wife
+M 0 11518   2 11563 10	* The sailor's wife
+M 0 11519   1 11535  1	* The master shipbuilder
+M 0 11520   1 11535  1	* The apprentice shipbuilder
+M 0 11521   1 11537  1	* The warehouse overseer
+G 0 11515 -1		* A notebook to the warehouse overseer
+M 0 11522   3 11525 10	* The harbor patrolman
+E 0 11516   -1    0	* item to The harbor patrolman
+E 0 11517   -1    5	* item to The harbor patrolman
+E 0 11518   -1   16	* item to The harbor patrolman
+M 0 11522   3 11521 10	* The harbor patrolman
+E 0 11516   -1    0	* item to The harbor patrolman
+E 0 11517   -1    5	* item to The harbor patrolman
+E 0 11518   -1   16	* item to The harbor patrolman
+M 0 11522   3 11558 10	* The harbor patrolman
+E 0 11516   -1    0	* item to The harbor patrolman
+E 0 11517   -1    5	* item to The harbor patrolman
+E 0 11518   -1   16	* item to The harbor patrolman
+M 0 11523   2 11531 10	* The teamster
+M 0 11528   1 11568  1	* The apprentice merchant
+M 0 11529   1 11569  1	* Ceres, merchant of the 3rd chair
+G 0 11529 -1		* A glass of freeport chablis to Ceres, merchant of the 3rd chair
+M 0 11530   1 11566  1	* Elken, banker of freeport
+M 0 11532   1 11570  1	* The young cadet
+M 0 11533   1 11571  1	* Whitecap, 8th admiral of freeport
+E 0 11537   -1   12	* item to Whitecap, 8th admiral of freeport
+E 0 11538   -1    2	* item to Whitecap, 8th admiral of freeport
+M 0 11534   1 11564  1	* Mayor friendly
+G 0 11509 -1		* An old key to Mayor Friendly
+M 0 11535   1 11565  1	* Midge, the innkeeper of the crew's quarters
+G 0 11528 -1		* A glass of freeport burgundy to Midge, the innkeeper of the Crew's Quarters
+G 0 11529 -1		* A glass of freeport chablis to Midge, the innkeeper of the Crew's Quarters
+G 0 11530 -1		* A plate of gravy and dumplings to Midge, the innkeeper of the Crew's Quarters
+M 0 11536   2 11581 10	* The scruffy pirate
+M 0 11536   2 11582 10	* The scruffy pirate
+M 0 11537   2 11573 10	* The pirate guard
+E 0 11533   -1   14	* item to The pirate guard
+E 0 11534   -1   16	* item to The pirate guard
+E 0 11535   -1    6	* item to The pirate guard
+M 0 11537   2 11577 10	* The pirate guard
+E 0 11533   -1   14	* item to The pirate guard
+E 0 11534   -1   16	* item to The pirate guard
+E 0 11535   -1    6	* item to The pirate guard
+M 0 11539   1 11578  1	* Oglethorpe, 1st master merchant of freeport
+G 0 11539 -1		* A very heavy purse to Oglethorpe, 1st Master Merchant of Freeport
+M 0 11541   2 11565 10	* The drunken sailor
+O 0 11531   0 11514 -1	* A huge box crate at On the Wharf
+O 0 11531   0 11516 -1	* A huge box crate at On the Wharf
+O 0 11531   0 11516 -1	* A huge box crate at On the Wharf
+O 0 11531   0 11528 -1	* A huge box crate at On the Wharf
+O 0 11531   0 11537 -1	* A huge box crate at The Mercantile Warehouse
+O 0 11531   0 11537 -1	* A huge box crate at The Mercantile Warehouse
+O 0 11531   0 11576 -1	* A huge box crate at In the Hidden Cavern
+O 0 11531   0 11580 -1	* A huge box crate at In the Hidden Cavern
+O 0 11531   0 11577 -1	* A huge box crate at In the Hidden Cavern
+O 0 11532   0 11528 -1	* A trireme at On the Wharf
+D 0 11564   5    2	* Town Hall [down]
+D 0 11572   4    2	* On a Secret Staircase [up]
+D 0 11577   0    1	* In the Hidden Cavern [north]
+O 0 11543   0 11561 -1	* A worn stone fountain at The Town Square of Freeport
+M 0 11516   5 11561  5	* The citizen of freeport
+M 0 11517   2 11561  2	* The laughing child
+M 0 11526   1 11559  1	* Raedner the dwarven smith
+G 0 11524 -1		* `cemerald-encrusted `aa`jr`am`jo`ar`` to Raedner the dwarven smith
+G 0 11525 -1		* A dwarven thrower to Raedner the dwarven smith
+G 0 11526 -1		* `ce`jl`cv`je`cn `hc`ah`ha`ai`hn`am`ha`ai`hl `as`hl`ae`he`av`he`as`` to Raedner the dwarven smith
+G 0 11527 -1		* Elven chainmail leggings to Raedner the dwarven smith
+M 0 11541   2 11556  2	* The drunken sailor
+M 0 11524   1 11556  1	* Lefty, owner of the sunken pirate
+G 0 11519 -1		* A steaming meat pie to Lefty, owner of the Sunken Pirate
+G 0 11520 -1		* A mug of sailor's grog to Lefty, owner of the Sunken Pirate
+M 0 11516   5 11560  1	* The citizen of freeport
+M 0 11527   1 11560  1	* Samantha, witch of the mystic eye
+G 0 11536 -1		* `ca pinch of `bdevil's `cweed`` to Samantha, witch of the Mystic Eye
+M 0 11542   1 11520  1	* Dargen, the boatseller
+G 0 11544 -1		* The fishing dinghy "the darcus" to Dargen, the boatseller
+G 0 11545 -1		* The fishing dinghy "jenny's revenge" to Dargen, the boatseller
+G 0 11546 -1		* The fishing dinghy "wicked witch" to Dargen, the boatseller
+G 0 11547 -1		* The fishing dinghy "the dauntless" to Dargen, the boatseller
+G 0 11548 -1		* The fishing dinghy "star of freeport" to Dargen, the boatseller
+G 0 11549 -1		* The fishing dinghy "jaded heart" to Dargen, the boatseller
+G 0 11550 -1		* The fishing dinghy "decadence" to Dargen, the boatseller
+M 0 11513   1 11550  1	* The fisherman
+E 0 11514   -1   17	* item to The fisherman
+E 0 11551   -1   18	* item to The fisherman
+O 0 11553   0 11514 -1	* A trireme at On the Wharf
+O 0 11561   0 11523 -1	* The rocks at Widow's Cape
+O 0 11562   0 11599 -1	* The string attached to a wooden box, sending a flare high into the sky at On the Rock Shoals
+O 0 11563   0 11599 -1	* A wooden boat at On the Rock Shoals
+M 0 11540   1 11578  1	* Lord mourning
+E 0 11540   -1    8	* item to Lord mourning
+E 0 11541   -1    3	* item to Lord mourning
+E 0 11542   -1   17	* item to Lord mourning
+G 0 11564 -1		* `ja sparkling emerald`` to Lord Mourning
+M 0 11525   1 11557  1	* Anwar, proprietor of the emporium
+G 0 11521 -1		* A holy wafer to Anwar, proprietor of the Emporium
+G 0 11522 -1		* A silver plate to Anwar, proprietor of the Emporium
+G 0 11523 -1		* A tapestry to Anwar, proprietor of the Emporium
+G 0 11514 -1		* A fishing pole to Anwar, proprietor of the Emporium
+M 0 11538   1 11580  1	* Admiral blacksail
+E 0 11537   -1   12	* item to Admiral blacksail
+E 0 11538   -1    2	* item to Admiral blacksail
+G 0 11536 -1		* `ca pinch of `bdevil's `cweed`` to Admiral Blacksail
+E 0 11656   -1   18	* item to Admiral blacksail
+S
+
+#SHOPS
+11519 22  0  0  0  0 	130  70 	6 17	* the master shipbuilder
+11524 17 19  0  0  0 	150  75 	0 23	* Lefty, owner of the Sunken Pirate
+11525  8 12 13 26 32 	130  80 	9 17	* Anwar, proprietor of the Emporium
+11526  5  9 29 30  0 	125  85 	6 18	* Raedner the dwarven smith
+11527  9  2  3  4 28 	140  60 	7 19	* Samantha, witch of the Mystic Eye
+11530  0  0  0  0  0 	105 100 	0  0	* Elken, banker of Freeport
+11535 17 19  0  0  0 	110  90 	0 23	* Midge, the innkeeper of the Crew's Quarters
+11542  0 38  0  0  0 	100  80 	5 17	* Dargen, the boatseller
+11543  0  0  0  0  0 	100 100 	0 23	* The pirate
+0
+
+#SPECIALS
+M 11522 spec_guard		* the harbor patrolman
+M 11538 spec_poison		* Admiral Blacksail
+M 11539 spec_poison		* Oglethorpe, 1st Master Merchant of Freeport
+M 11540 spec_poison		* Lord Mourning
+S
+
+#OT
+#11514
+Self-Baiting Fishing Pole~
+$wearsobj~
+4
+65
+set obj pole value1 1~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

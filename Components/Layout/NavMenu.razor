@@ -1,5 +1,46 @@
-﻿<MudNavMenu Color="Color.Success" Bordered="true">
-    <MudNavLink Href="/" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Dashboard">Home</MudNavLink>
-    <MudNavLink Href="/areas" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Areas</MudNavLink>
+﻿@inject NavigationManager NavManager
+@implements IDisposable
 
+<MudNavMenu Color="Color.Success" Bordered="true">
+    @if (NavManager.Uri.Contains("/AreaExplorer"))
+    {
+        <MudNavLink Href="AreaExplorer" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Area Explorer
+        </MudNavLink>
+        <MudDivider></MudDivider>
+        <MudText Typo="Typo.subtitle1" Class="pl-3">Search</MudText>
+        <MudDivider></MudDivider>
+        <MudNavLink Href="AreaExplorer/areas" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Areas
+        </MudNavLink>
+        <MudNavLink Href="AreaExplorer/mobs" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Mobiles
+        </MudNavLink>
+        <MudNavLink Href="AreaExplorer/objects" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Objects
+        </MudNavLink>
+        <MudNavLink Href="AreaExplorer/triggers" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Object
+            Triggers</MudNavLink>
+        <MudNavLink Href="AreaExplorer/vocabs" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Mob Vocabs
+        </MudNavLink>
+        <MudNavLink Href="AreaExplorer/scripts" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Mob
+            Scripts</MudNavLink>
+    }
+    else
+    {
+        <MudNavLink Href="/" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.Dashboard">Home</MudNavLink>
+    }
 </MudNavMenu>
+
+@code {
+    protected override void OnInitialized()
+    {
+        NavManager.LocationChanged += HandleLocationChanged;
+    }
+
+    private void HandleLocationChanged(object? sender, Microsoft.AspNetCore.Components.Routing.LocationChangedEventArgs e)
+    {
+        InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        NavManager.LocationChanged -= HandleLocationChanged;
+    }
+}

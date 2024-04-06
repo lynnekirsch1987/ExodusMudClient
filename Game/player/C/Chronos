@@ -1,0 +1,492 @@
+#PLAYER
+Name Chronos~
+Id   921481833
+LogF 1092447068
+LogO 1092447068
+Vers 8
+Desc You see an aged elven man in a long, grey cloak.  As his long grey hair
+blows in the wind and he looks around, you notice that he is missing
+an eye, while the surrounding skin around the scar also shows signs
+scarring.  He bears an ancient staff, with inscriptions which you
+do not recognize, and dare not ask of.  His face has a calm look,
+as he peers around at his surroundings.
+~
+Prom <hp:%h/%H ma:%m/%M s:%s g:%g xp:%X>%S{%r} ~
+Race elf~
+Sex  0
+Cla  0
+Cla2  0
+Cla3  0
+Levl 40
+Wants 2
+PBKill 21
+MBKill 5
+PHKill 45
+MHKill 1038
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 977085
+NPlyd 0
+NAge 0
+Bank_Gold 700
+Bank_Silv 0
+Email cyberdumy@hotmail.com~
+Referrer ~
+Souls 0
+HP_Gained 0
+Mana_Gained 0
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 0
+Race_Old -1
+Class_Old -1
+New_Style 1
+Totalxp 129224637
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+MPC 0
+Host roc-69-201-69-175.rochester.rr.com~
+Not  954965433 954982564 0 952514460 940388408 998625979 954650197 0
+Scro 22
+Room 4161
+HMV  266 266 505 505 260 260
+Hand 2
+Gold 86
+Silv 287
+Exp  2059281
+Act  DEFGH
+Blok -1
+AfBy EFJV
+Comm LMNOS
+Com2 A
+Pos  8
+Save  -2
+Alig  -500
+Hit   3
+Dam   3
+ACs 9 11 7 14
+Wimp  200
+Attr 16 18 13 10 15 9
+AMod 0 0 0 5 1 4
+Pass ChF5ah486a20I~
+Bcry  screams and attacks!~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl , `dThe`` `bMage`` of `cTime`.~
+Pnts 86
+TSex 0
+LLev 270
+Loner 0
+HMVP 212 500 260
+Cd  -16 -16 3 4 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias f flee~
+Alias cb c 'acid breath'~
+Alias 3 o all rescue chronos~
+Alias dinv c 'detect invis'~
+Alias bang emote intones the sacred words, 'acid breath'.                                Chronos breaths out a cone of acid onto his enemies!                            Chronos's acid breath does UNSPEAKABLE things to you!~
+Alias cl close~
+Alias dhid c 'detect hidden'~
+Alias ch c 'charm person'~
+Alias p but cor~
+Alias cf c 'create food'~
+Alias spr c 'create spring'~
+Alias sum c summon~
+Alias id c identify~
+Alias gat c gate~
+Alias loc c 'locate object'~
+Alias fr c fireball~
+Alias ac c 'acid blast'~
+Alias 6 oweifn~
+Alias dp c 'dispel magic'~
+Alias eg enter gate~
+Alias ol o all bash~
+Alias ab c 'lightning breath'~
+Alias trip o all trip~
+Alias 0 scribe detect parch~
+Alias bl c blind~
+Alias scln scribe 'lightning breath' parchment~
+Alias 1 #10 prac~
+Alias note oocnote~
+Alias noter rpnote~
+Alias 2 #9 prac~
+Sk 96 'armor'
+Sk 1 'acid blast'
+Sk 96 'fireshield'
+Sk 96 'blindness'
+Sk 1 'web'
+Sk 96 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'cancellation'
+Sk 96 'chain lightning'
+Sk 1 'change sex'
+Sk 96 'charm person'
+Sk 96 'chill touch'
+Sk 96 'colour spray'
+Sk 1 'control weather'
+Sk 96 'create food'
+Sk 1 'create rose'
+Sk 96 'create spring'
+Sk 1 'create water'
+Sk 96 'curse'
+Sk 96 'detect hidden'
+Sk 100 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 96 'dispel magic'
+Sk 1 'firestorm'
+Sk 1 'enchant armor'
+Sk 96 'enchant weapon'
+Sk 96 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 96 'fireball'
+Sk 96 'fireproof'
+Sk 96 'fly'
+Sk 96 'floating disc'
+Sk 96 'giant strength'
+Sk 96 'haste'
+Sk 1 'heat metal'
+Sk 96 'identify'
+Sk 1 'infravision'
+Sk 96 'invisibility'
+Sk 1 'mirror'
+Sk 96 'lightning bolt'
+Sk 96 'locate object'
+Sk 1 'magic missile'
+Sk 1 'mass invis'
+Sk 96 'pass door'
+Sk 96 'poison'
+Sk 1 'portal'
+Sk 96 'summon'
+Sk 91 'gate'
+Sk 96 'recharge'
+Sk 96 'refresh'
+Sk 96 'shield'
+Sk 96 'shocking grasp'
+Sk 96 'sleep'
+Sk 96 'slow'
+Sk 96 'stone skin'
+Sk 96 'teleport'
+Sk 1 'ventriloquate'
+Sk 96 'weaken'
+Sk 1 'acid breath'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 96 'aqua breathe'
+Sk 1 'channel electricity'
+Sk 1 'ice beam'
+Sk 1 'electrical charge'
+Sk 86 'dagger'
+Sk 96 'staff'
+Sk 1 'riding'
+Sk 1 'dodge'
+Sk 1 'swimming'
+Sk 1 'throwing'
+Sk 1 'butcher'
+Sk 96 'meditation'
+Sk 1 'sneak'
+Sk 1 'fishing'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 96 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Affc 'shield'   0  32  16 -20  17          0 0 ''
+Affc 'stone skin'   0  35   8 -40  17          0 0 ''
+Affc 'haste'   0  37   0   1   2    2097152 0 ''
+End
+
+#O
+Vnum 7916
+Nest 0
+ExF 0 8388929
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5335
+Nest 0
+Wear -1
+Cost 34920
+End
+
+#O
+Vnum 148
+Nest 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 148
+Nest 0
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 18971
+Nest 0
+Wear -1
+Cost 23049
+End
+
+#O
+Vnum 11420
+Nest 0
+ExF 0 264771
+Wear -1
+Cost 17493
+End
+
+#O
+Vnum 3186
+Nest 0
+Cond 100
+Wear -1
+Cost 20490
+End
+
+#O
+Vnum 3194
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3688
+Nest 0
+ExF 0 8388610
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2619
+Nest 0
+ExF 0 262145
+Wear 15
+Cost 200
+End
+
+#O
+Vnum 2619
+Nest 0
+ExF 0 262145
+Wear 14
+Cost 200
+End
+
+#O
+Vnum 18305
+Nest 0
+Wear 9
+Cost 40
+End
+
+#O
+Vnum 7064
+Nest 0
+ExF 0 3
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 713
+Nest 0
+Desc A small shred of jinglebug bark lies on the ground here.~
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 25289
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12948
+Nest 0
+Wear 8
+Cost 46
+End
+
+#O
+Vnum 716
+Nest 0
+Wear -1
+Time 380
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 16322
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11377
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 722
+Nest 0
+Name candlelit pumpkin head malstring~
+ShD  `ia `kcandlelit `ipumpkin head``~
+Desc `iA `kcandle `iglows brightly within the carved pumpkin head.``~
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 4097
+Nest 0
+Wear -1
+Cost 21000
+End
+
+#O
+Vnum 4044
+Nest 0
+ShD  `ka piece of yellowed parchment`` of demonfire and demonfire~
+Wear -1
+Lev  82
+Cost 9980
+Vlues  82 37 37 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 8835
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 561
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 561
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 18971
+Nest 0
+Wear -1
+Cost 23049
+End
+
+#O
+Vnum 7075
+Nest 0
+Wear 13
+Cost 920
+End
+
+#O
+Vnum 11540
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 5342
+Nest 0
+Wear 6
+Cost 15000
+End
+
+#O
+Vnum 10377
+Nest 0
+ExF 0 8388608
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 5371
+Nest 0
+ExF 0 8650816
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 18972
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 18972
+Nest 0
+Wear 5
+Cost 100
+End
+
+#O
+Vnum 18935
+Nest 0
+Wear 18
+Cost 743
+End
+
+#O
+Vnum 3696
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#RoomRLE   100 1 223 1 1 2 197 2 2 1 6 1 193 2 3 1 15 1 2 2 10 1 824 1 747 1 262 1 1 1 9 3 9 1 11 3 9 4 11 2 4 1 5 3 506 35 2 1 1 1 1 1 1 1 5 3 2 1 12 4 9 2 7 5 400 3 195 1 8 4 109 6 1 2 26 1 7 1 2 3 1 38 1 11 2 1 14 1 6 2 3 2 4 1 1 1 4 1 1 1 8 1 1 1 5 2 20 1 2 2 1 1 15 1 9 1 1 1 38 1 211 1 3331 3 947 1 3488 2 1 1 2 2 676 1 9 1 9 2 8 1 9 1 9 2 8 1 9 1 9 1 9 1 9 1 7 3 7 1 9 1 4 6 4 1 4 1 4 1 4 1 3 2 4 1 3 17 2 14 6 4 6 14 7 1 7 1 7 1 23 2 7 1 7 1 7 1 7 1 7 1 6 6 3044 8 4 5 4 5 2 8 2 3 1 2 2564 3 2 1 1 1 22 1 4 3 41 3 53 2 2067 1 19 1 19 1 19 1 19 1 16 15 5 6 8 1 5 3 3 9 11 1 7 1 11 1 19 1 19 1 19 1 1641 16 1 1 1 2 1987 1 18 1 64 1 40 1 5 1 2 1 60 1 649 2 15 1 94 1 15 1 57 1 4 1 3 1 4 1 42 2 25 1 20 2 39389 -1
+
+#END

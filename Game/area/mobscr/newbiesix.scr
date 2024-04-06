@@ -1,0 +1,19 @@
+* File: newbiesix.scr
+* Mob: Lizard Newbie (vnum 6978)
+
+#TRIGGER death
+Type 9
+Sc
+mfunc %death-from% %killer% name
+  cmd say `bRAAAaaaWWwwrgh! You've killed me, `h%killer%`b!``
+  cmd say `dBut take my equipment, you have earned it.``
+  cmd pecho %killer% ``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% `hType '`jget all corpse`h' and then '`jwear shield`h'``
+  cmd pecho %killer% `hYou can automatically loot gold and equipement.``
+  cmd pecho %killer% `hType `jautoloot`h and `jautogold`h and you're all set!``
+  cmd pecho %killer% `g------------------------------------------------``
+  cmd pecho %killer% ``
+  halt once~
+End
+#END

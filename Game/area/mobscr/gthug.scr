@@ -1,0 +1,15 @@
+* File: gthug.scr
+* Mob: Young Thug(4070)
+
+#TRIGGER thug1
+Type 3
+Sc
+wfunc %rndnum% random 0 2
+getch %name%
+mfunc %name% %level% level
+if ( %level% >= 15 ) && ( %rndnum% == 0 )
+   backstab %name%
+   halt once~
+End
+
+#END

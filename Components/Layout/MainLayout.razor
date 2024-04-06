@@ -1,32 +1,83 @@
-﻿@inherits LayoutComponentBase
+﻿@using MudBlazor.ThemeManager
+@inject NavigationManager NavManager
+@inherits LayoutComponentBase
 
-<MudThemeProvider @bind-IsDarkMode="@_isDarkMode" />
+
+<MudThemeProvider Theme="ExodusMud" IsDarkMode="true" />
 <MudDialogProvider />
 <MudSnackbarProvider />
-
 <MudLayout>
-    <MudAppBar>
-        <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
-        My Application
-    </MudAppBar>
-    <MudDrawer @bind-Open="@_drawerOpen">
-        <NavMenu/>
+    <MudDrawer Open="_drawerOpen">
+        <MudImage Src="/logo-on-dark-sans-mountain.png" Class="pa-5"
+            Style="max-width: 150px; display: block; margin: 0 auto;" />
+        <NavMenu />
     </MudDrawer>
+    <!-- todo: move to separate component -->
+    <MudAppBar Elevation="0" Class="main-nav">
+        <MudButtonGroup Color="Color.Success" Variant="Variant.Text">
+            <MudButton Href="/">Home</MudButton>
+            <MudButton Href="/AreaExplorer">Area Explorer</MudButton>
+            <MudButton Href="/KnowledgeBase">Knowledge Base</MudButton>
+        </MudButtonGroup>
+        <MudSpacer />
+        <MudIconButton Icon="@Icons.Custom.Brands.GitHub" Color="Color.Inherit" />
+    </MudAppBar>
     <MudMainContent>
-        <MudContainer MaxWidth="MaxWidth.ExtraLarge">
+        <MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Class="pa-0 ma-0">
             @Body
         </MudContainer>
-       
     </MudMainContent>
 </MudLayout>
+
+
 @code {
-    bool _drawerOpen = true;
-    private bool _isDarkMode = true;
+    bool _drawerOpen = false;
 
-   
-
-    void DrawerToggle()
+    string mainBG = "rgb(26, 26, 39)";
+    string darkerBox = "rgba(21, 21, 33, 1)";
+    MudTheme ExodusMud = new MudTheme();
+    protected override void OnAfterRender(bool firstRender)
     {
-        _drawerOpen = !_drawerOpen;
+        if (NavManager.Uri == NavManager.BaseUri)
+        {
+            // this is the home page and the drawer should be closed
+            _drawerOpen = false;
+        }
+        else
+        {
+            // this is not the home page and the drawer should be open
+            _drawerOpen = true;
+        }
+
+        StateHasChanged();
+    }
+    protected override void OnInitialized()
+    {
+        ExodusMud = new MudTheme()
+            {
+                PaletteDark = new PaletteDark()
+                {
+                    Primary = Colors.Blue.Lighten1,
+                    Secondary = Colors.Green.Accent4,
+                    AppbarBackground = darkerBox,
+                    Success = Colors.Cyan.Lighten2,
+                    DrawerBackground = darkerBox,
+                    Background = mainBG,
+                    DrawerText = Colors.Grey.Lighten5,
+                    DrawerIcon = Colors.Grey.Lighten5,
+                    AppbarText = Colors.Grey.Lighten5,
+                    TextPrimary = Colors.Grey.Lighten5,
+                    TextSecondary = Colors.Grey.Lighten4,
+                    ActionDefault = Colors.Grey.Lighten3,
+                    ActionDisabled = Colors.Grey.Lighten1,
+                    ActionDisabledBackground = Colors.Grey.Darken3,
+                    Divider = Colors.Grey.Darken2,
+                    DividerLight = Colors.Grey.Lighten2,
+                    TableHover = Colors.BlueGrey.Darken4,
+                    TableStriped = Colors.Grey.Darken2,
+                    OverlayDark = Colors.Grey.Darken4,
+                    Surface = darkerBox
+                }
+            };
     }
 }

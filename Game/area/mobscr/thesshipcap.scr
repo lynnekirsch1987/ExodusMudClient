@@ -1,0 +1,73 @@
+* script: thesshipcap.scr
+* Ship Captain (4085)
+
+#TRIGGER enter
+Type 10
+Sc 
+wfunc %rndnum% random 0 5
+mfunc %enter-from% %level% level
+mfunc %enter-from% %name% name
+if ( %rndnum% != 3 )
+   halt once~
+Sc
+wait 1~
+Sc
+if ( %level% < 10 ) 
+   tell %name% My eyes have seen many lands, and my weapon has seen many foes, but nothing as amazing as the sea to the west that sparkles like crystals in the sun.
+   halt once~
+Sc
+if ( %level% < 25 ) 
+   tell %name% Though I am a man of the sea, the sands of Ath'Tanar held my attention when I had travelled as much as you appear to have.
+   halt once~
+Sc
+if ( %level% < 50 )
+   tell %name% I always did find myself around water, whether in oasis pools or in mounds of snow pools around Au Septieme Ciel.  When I was your age, I searched for treasure there like everyone else.
+   CMD chuckle
+   halt once~
+Sc
+   tell %name% I have heard rumors of a city so splendid, its beauty both pains and dazzles the eye.  Far off by a jungle river, a city of gold basks in eternal sunlight...
+   halt once~
+End
+
+#TRIGGER cmb
+Type 2
+Sc
+wfunc %rndnum% random 0 4
+mfunc %cmb-from% %name% name
+if (%rndnum% == 0)
+   emote growls and braces himself for his next attack.
+   halt once~
+Sc
+if (%rndnum% == 1)
+   pecho %name% Skillfully parrying your attack, the captain moves in for a kill.
+   halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 3
+if ( %rndnum% == 0 )
+   emote whistles a tune to himself.
+   halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+emote whispers a dying man's utterance, `a'`kAlas with my demise, the secret of Erit Onel dies also...No other knows where the map is hidden.`a'``~
+End
+
+
+#END
+
+
+
+
+
+
+
+
+
+
+

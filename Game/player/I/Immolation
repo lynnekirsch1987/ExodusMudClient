@@ -1,0 +1,1261 @@
+#PLAYER
+Name Immolation~
+Id   944155452
+LogF 974678525
+LogO 974678525
+Vers 7
+Desc Constantly airborne and in motion, this blue Sidhe is a whirlwind of energy.
+With a grin and a little airborne dance, he looks all set to steal your heart,
+and maybe enjoy it with a nice glass of red wine.
+~
+Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
+Race sidhe~
+Sex  1
+Cla  2
+Levl 71
+Wants 2
+PBKill 2
+PHKill 4
+MHKill 10816
+Hero 0
+Depty 0
+Sec  0
+Plyd 1652529
+Bank_Gold 23406
+Bank_Silv 1091807
+Email adeptus@wam.umd.edu~
+Host rac5.wam.umd.edu~
+Not  956160582 956342571 0 955990990 944169355 956291423 955865031
+Scro 22
+Room 4056
+HMV  785 773 176 176 525 525
+Hand 4
+Gold 0
+Silv 90
+Exp  531789
+Act  DEFGH
+AfBy TU
+Comm MNORSX
+Pos  8
+Prac 6
+Save  -3
+Alig  -1000
+Hit   26
+Dam   49
+ACs -12 0 -3 1
+Wimp  152
+Attr 13 16 17 21 14 14
+AMod 4 0 0 5 0 -19
+Pass ImU/2k/TTHsHQ~
+Bcry  looks exceedingly cheerful about this ...~
+Plan  Immolation is a happy little psychotic.  He plans to kill and torture as many
+innocents as possible, because it's funny.  His greatest dream is to someday
+burn down all of Thesden, and roast those little marshmallows on a stick
+in the process.  He likes those.  Heck, who doesn't?
+~
+Layhands 0
+Exorcise 0
+Titl  the `bRogue `eTrader~
+Pnts 86
+TSex 1
+LLev 447
+Loner 0
+HMVP 746 246 510
+Cnd  -16 28 46 46
+Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Alias bc butcher corpse~
+Alias p telepath tira~
+Alias kill backstab~
+Alias cos telepath immolation From lighthouse, 18s 18e 11s 12e 2n 4e~
+Alias h hide~
+Alias history !?~
+Sk 100 'dagger'
+Sk 100 'sword'
+Sk 7 'mask'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 58 'disarm'
+Sk 100 'dodge'
+Sk 100 'fisticuffery'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'parry'
+Sk 100 'trip'
+Sk 100 'assassinate'
+Sk 100 'throwing'
+Sk 100 'second attack'
+Sk 100 'hide'
+Sk 100 'stalk'
+Sk 98 'lore'
+Sk 100 'peek'
+Sk 75 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Gr 'rom basics'
+End
+
+#O
+Vnum 28031
+Nest 0
+ExtF 262656
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 12378
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+ExDe leggings pitch black~ The leggings are made from the same kind of stone the outer area of the 
+High Path in Vice Island are. They are probably imported from the same place.
+~
+End
+
+#O
+Vnum 7265
+Nest 0
+ExtF 3
+Cond 0
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 11401
+Nest 0
+ExtF 8650754
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 11408
+Nest 0
+ExtF 8653334
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 4450
+Nest 0
+ExtF 67928321
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 18955
+Nest 0
+ExtF 1
+Cond 0
+Wear 10
+Cost 7364
+End
+
+#O
+Vnum 12404
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 4411
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 551
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 1
+ExtF 8388608
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1502
+Enchanted
+Nest 1
+ExtF 8388673
+Cond 0
+Wear -1
+Lev  16
+Cost 0
+Affc 'enchant armor'   1  64  -1  -2  17          0 0 ''
+Affc 'reserved'   1  15  -1   1   3          0 0 ''
+Affc 'reserved'   1  15  -1   1  19          0 0 ''
+End
+
+#O
+Vnum 723
+Nest 1
+Name pure hatred immolation lwstring~
+ShD  `ePure `iHatred``~
+Desc `iThis small crimson gem glows with Immolation's pure hatred.``~
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11400
+Nest 1
+ExtF 262678
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20974
+Nest 1
+Cond 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 11420
+Nest 0
+ExtF 264771
+Cond 0
+Wear 5
+Cost 17493
+End
+
+#O
+Vnum 10765
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4166
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  41
+Cost 1900
+Val  7 4 8 11 384 0 0
+Affc 'enchant weapon'   0  60  -1   3  18          0 0 ''
+Affc 'enchant weapon'   1  60  -1   3  19          0 0 ''
+End
+
+#O
+Vnum 4166
+Enchanted
+Nest 1
+ExtF 65
+Cond 0
+Wear -1
+Lev  46
+Cost 1900
+Val  7 4 8 11 384 0 0
+Affc 'enchant weapon'   1  60  -1   4  19          0 0 ''
+Affc 'enchant weapon'   0  60  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 4166
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  42
+Cost 1900
+Affc 'enchant weapon'   0  60  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  60  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 4166
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  46
+Cost 1900
+Val  7 4 8 11 384 0 0
+Affc 'enchant weapon'   0  63  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  63  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 3506
+Nest 1
+Cond 0
+Wear -1
+Cost 3402
+End
+
+#O
+Vnum 3504
+Enchanted
+Nest 1
+ExtF 67
+Cond 0
+Wear -1
+Lev  77
+Cost 1540
+Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   6  18          0 0 ''
+End
+
+#O
+Vnum 3506
+Enchanted
+Nest 1
+ExtF 64
+Cond 0
+Wear -1
+Lev  84
+Cost 0
+Val  1 7 6 18 128 0 0
+Affc 'enchant weapon'   0  90  -1   3  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   3  19          0 0 ''
+End
+
+#O
+Vnum 20956
+Enchanted
+Nest 0
+ExtF 8650817
+Cond 0
+Wear 13
+Lev  19
+Cost 0
+Affc 'enchant armor'   1  46  -1  -4  17          0 0 ''
+Affc 'reserved'   1  16  -1   2   1          0 0 ''
+End
+
+#O
+Vnum 2619
+Nest 0
+ExtF 262145
+Cond 0
+Wear 14
+Cost 200
+End
+
+#O
+Vnum 11408
+Nest 0
+ExtF 8653334
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3696
+Nest 0
+Cond 0
+Wear -1
+Cost 670
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8835
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of invisibility~
+Cond 0
+Wear -1
+Lev  37
+Cost 450
+Val  71 0 0 0 0 0 0
+Spell 0 'invisibility'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of invisibility~
+Cond 0
+Wear -1
+Lev  37
+Cost 450
+Val  71 0 0 0 0 0 0
+Spell 0 'invisibility'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of invisibility~
+Cond 0
+Wear -1
+Lev  37
+Cost 450
+Val  71 0 0 0 0 0 0
+Spell 0 'invisibility'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of curse~
+ExtF 8388608
+Cond 0
+Wear -1
+Lev  41
+Cost 0
+Val  36 0 0 0 0 0 0
+Spell 0 'curse'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of curse~
+ExtF 8388608
+Cond 0
+Wear -1
+Lev  41
+Cost 0
+Val  36 0 0 0 0 0 0
+Spell 0 'curse'
+End
+
+#O
+Vnum 776
+Nest 1
+Cond 0
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 776
+Nest 1
+Cond 0
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 776
+Nest 1
+Cond 0
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 757
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 715
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 715
+Nest 1
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 757
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 4450
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 783
+Nest 1
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 783
+Nest 1
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Cond 0
+Wear -1
+Lev  64
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of haste~
+Cond 0
+Wear -1
+Lev  40
+Cost 750
+Val  66 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of haste~
+Cond 0
+Wear -1
+Lev  40
+Cost 750
+Val  66 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of haste~
+Cond 0
+Wear -1
+Lev  40
+Cost 750
+Val  66 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 783
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 783
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 783
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 4106
+Nest 1
+ShD  a vial of haste~
+Cond 0
+Wear -1
+Lev  40
+Cost 750
+Val  66 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 18305
+Nest 1
+ExtF 9175040
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 715
+Nest 1
+Cond 0
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 713
+Nest 1
+Cond 0
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 713
+Nest 1
+Cond 0
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 713
+Nest 1
+Cond 0
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 713
+Nest 1
+Cond 0
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 713
+Nest 1
+Cond 0
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 713
+Nest 1
+Cond 0
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 713
+Nest 1
+Cond 0
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 713
+Nest 1
+Cond 0
+Wear -1
+Cost 1800
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 3600
+Spell 1 'aqua breathe'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Cond 0
+Wear -1
+Lev  67
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Cond 0
+Wear -1
+Lev  67
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Cond 0
+Wear -1
+Lev  67
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Cond 0
+Wear -1
+Lev  67
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 4140
+Nest 1
+ShD  an iron flask of detect invis~
+Cond 0
+Wear -1
+Lev  67
+Cost 450
+Val  45 0 0 0 0 0 0
+Spell 0 'detect invis'
+End
+
+#O
+Vnum 150
+Nest 1
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7279
+Nest 1
+ExtF 17566290
+Cond 0
+Wear -1
+Cost 13029
+End
+
+#O
+Vnum 4107
+Nest 0
+Cond 0
+Wear -1
+Cost 320
+Val  110 110 0 0 0 0 0
+End
+
+#O
+Vnum 4107
+Nest 0
+Cond 0
+Wear -1
+Cost 320
+Val  110 110 0 0 0 0 0
+End
+
+#O
+Vnum 28006
+Nest 0
+Cond 0
+Wear 2
+Cost 420
+End
+
+#O
+Vnum 28006
+Nest 0
+Cond 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 722
+Nest 0
+Cond 0
+Wear 0
+Cost 12000
+End
+
+#O
+Vnum 7258
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear -1
+Lev  83
+Cost 1750
+Affc 'enchant weapon'   0  90  -1   9  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   9  19          0 0 ''
+End
+
+#O
+Vnum 11421
+Nest 0
+ExtF 8653314
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 11399
+Nest 0
+Cond 0
+Wear -1
+Cost 1390
+End
+
+#O
+Vnum 11415
+Enchanted
+Nest 0
+ExtF 262211
+Cond 0
+Wear 16
+Lev  62
+Cost 1500
+Affc 'enchant weapon'   0  90  -1   3  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExtF 323
+Cond 0
+Wear 17
+Lev  20
+Cost 0
+Affc 'enchant weapon'   1  90  -1   9  19          0 0 ''
+Affc 'enchant weapon'   0  90  -1   7  18          0 0 ''
+End
+
+#END

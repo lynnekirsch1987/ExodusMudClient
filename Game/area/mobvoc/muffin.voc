@@ -1,0 +1,5 @@
+Minax
+DEFAULT:>1:7:CMD smile $name;Do you know the muffin man?
+the&muffin&man:>6:6:The muffin man.  Do you know the muffin man who lives on Drury lane?
+yes&I&know&the&muffin&man:6:5:The muffin man?
+the&muffin&man:<6:7:I see you know the muffin man who lives on Drury lane.;CMD pat $name

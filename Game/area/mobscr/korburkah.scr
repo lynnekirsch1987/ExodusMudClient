@@ -1,0 +1,15 @@
+#TRIGGER burkah
+Type 2
+Sc
+wfunc %rndnum% random 0 3
+mfunc %cmb-from% %name% name
+if (%rndnum% == 0)
+   pray 'heal' urkah
+   halt once~
+Sc
+if (%rndnum% == 1)
+   pray 'protection good' urkah
+   halt once~
+End
+
+#END

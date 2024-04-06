@@ -1,0 +1,2207 @@
+#AREA
+letharys.enc~
+Letharys~
+{30 50} Kalus  Letharys~
+~
+7351 7451
+0 0
+0 0
+~
+#MOBILES
+#7351
+white wolf~
+`iThe`o White`i Wolf``~
+`iA`o White`i Wolf`` quietly hunts here.
+~
+~
+wolf~
+0 0 0 0
+AGXYc DFNVZ 900 5601
+30 6 12d40+430 1d1+199 4d9+4 claw
+-1 -2 -2 -1
+DFHLMQV B GI FH
+stand stand either 0
+AGV ACDEFJKQUV medium oldstyle~
+0 0 0 100
+3
+~
+~
+#7352
+black wolf~
+`iThe `9`aBlack`i Wolf``~
+`iThe `9`aBlack`i Wolf`` silently stalks here.
+~
+~
+wolf~
+0 0 0 0
+AGXYc DFOVZ -900 5602
+30 6 12d40+430 1d1+199 4d9+4 claw
+-1 -2 -2 -1
+DFHLMQV B GH FI
+stand stand either 0
+AGV ACDEFJKQUV medium oldstyle~
+0 0 0 100
+3
+~
+~
+#7353
+silver wolf~
+`iThe `aSilver `iWolf``~
+`iThe `aSilver`i Wolf`` pads quietly through the forest.
+~
+~
+wolf~
+0 0 0 0
+AGXYc DFNOVZ 0 5603
+30 6 12d40+430 1d1+199 4d9+4 claw
+-1 -2 -2 -1
+DFHLMQV B G F
+stand stand either 0
+AGV ACDEFJKQUV medium oldstyle~
+0 0 0 100
+3
+~
+~
+#0
+
+#OBJECTS
+#7351
+hole~
+down through the hole~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G ABGHKLM F
+0
+0
+0 9999 0 P
+#7352
+hole~
+up through the hole~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G AEGHKLM F
+0
+0
+0 9999 0 P
+#7353
+hole~
+down through the hole~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G EGHKLM F
+0
+0
+0 9999 0 P
+#7354
+hole~
+up through the hole~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G BGHKLM F
+0
+0
+0 9999 0 P
+#7355
+hole~
+down through the hole~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G ABCDGHKLM F
+0
+0
+0 9999 0 P
+#7356
+hole~
+up through the hole~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G ACDGHKLM F
+0
+0
+0 9999 0 P
+#7357
+hole~
+down through the hole~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G BCDGHKLM F
+0
+0
+0 9999 0 P
+#7358
+hole~
+up through the hole~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G CDGHKLM F
+0
+0
+0 9999 0 P
+#7359
+cave~
+`athe dark cave``~
+~
+oldstyle~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G ABEGHKLM B
+0
+0
+0 9999 0 P
+#7360
+cave~
+`athe dark cave``~
+~
+earth~
+0
+portal S 0
+6
+~
+~
+~
+~
+-1 0 G CEGHKLM A
+0
+0
+0 9999 0 P
+#7400
+fire blade~
+`hThe Blade of `iFire``~
+A long `hBlade`` made of `iPure Fire`` burns brightly here.~
+energy~
+0
+weapon AGMRS AN
+6
+~
+~
+~
+~
+A CEFGHI CFG BCF ADEI
+0
+0
+92 10 90000 P
+#0
+
+#ROOMS
+#7351
+~
+~
+0 0 0
+`hEntrance to `nLetharys``~
+`cThe randomness of natural forest gives way to a small clearing, lined
+with tall pines.  The forest at one time was groomed, as the treeline is in
+a perfect row, but has long since been neglected.  Near the eastearn
+treeline is a large boulder, with a large `dwooden sign`c posted to it's
+crest.  Although the sign is `hfaded`c and cracked from many years of rain
+and sun, it is still readable.  A trail leads north, like the surroundings,
+it has the look of being long forgotten by man.  `` 
+~
+0 C 0
+0
+~
+E
+sign~
+The sign reads:
+ 
+`d Welcome to Letharys. May your stay be a pleaseant one.
+``
+~
+D0
+~
+~
+0 0 7352
+S
+#7352
+~
+~
+0 0 0
+`jA trail through the forest``~
+`c A small trail cuts through the dense forest growth as though a giant
+blade had swept trees and undergrowth to the sides.  Off the trail is
+unpassable, due to an almost perfectly straight line of pine trees forming
+natural walls.  From deeper within the forest, a squirl can be heard,
+scurrying up and down an unseen tree.  The air is crisp and clean, bringing
+scents of `mwild flowers`c on the winds.  To the north, a `dclearing`c can
+be seen, while to the east, west, and south, the trail continues.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7353
+D1
+~
+~
+0 0 7360
+D2
+~
+~
+0 0 7351
+D3
+~
+~
+0 0 7361
+S
+#7353
+~
+~
+0 0 0
+`mA meadow in the forest``~
+`kThe trees break away to the east and west, forming a large meadow.  At
+the center of the clearing is a tall `c`coak tree`k.  `` `kIt towers half
+again the size of the trees surrounding the meadow.  The ground is covered
+with `ddried`l bluegrass`k, with `mwild flowers`k growing through it, giving
+the meadow a `am`bo`ct`dt`el`fe`gd`k appearance.  The trail leads to the
+`coak`k, passes east and around, and continues to the north where the trees
+reconverge.  `` 
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7354
+D2
+~
+~
+0 0 7352
+S
+#7354
+~
+~
+0 0 0
+`jA trail through the forest``~
+`cA small trail cuts through the dense forest growth as though a giant
+blade had swept trees and undergrowth to the sides.  Off the trail is
+unpassable, due to an almost perfectly straight line of pine trees forming
+natural walls.  There is a cool breeze here, whistling through the trees, as
+though the forest itself were alive.  A `nbluebird`c can be heard singing
+happily from a nearby tree.  The path continues to the east and west.  To
+the south, a `dclearing`c can be seen, and to the north ascends up a steep
+hillside.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7355
+D1
+~
+~
+0 0 7362
+D2
+~
+~
+0 0 7353
+D3
+~
+~
+0 0 7373
+S
+#7355
+~
+~
+0 0 0
+`nThe path of `hstones``~
+`gAt the crest of this large hill lies the a wide `hstone`g path.  Many
+years of disuse and neglect have taken toll upon what must once have been a
+fine roadway.  The path runs northward alongside a large lake, to the east--
+which is boardered beyond by a steep cliff-- and turns east, leading further
+into the mountains.  The hill overlooks a straight path to the south,
+leading to a lush forest.  `cGrass`g can be seen growing next to the lake,
+and between the stones in the path.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7356
+D1
+~
+~
+0 0 7364
+D2
+~
+~
+0 0 7354
+D3
+~
+~
+0 0 7365
+S
+#7356
+~
+~
+0 0 0
+`nThe path of `hstones``~
+`g At the crest of this large hill lies the a wide `hstone`g path.  Many
+years of disuse and neglect have taken toll upon what must once have been a
+fine roadway.  The path runs northward alongside a large lake, to the east--
+which is boardered beyond by a steep cliff.  A lush forest can be seen
+farther down the mountain, to the south.  `c Grass`g can be seen growing
+next to the lake, and between the stones in the path.  Somewhere to the
+northeast, a `lmountain stream`g can be heard rushing to reach the lake.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7357
+D1
+~
+~
+0 0 7366
+D2
+~
+~
+0 0 7355
+S
+#7357
+~
+~
+0 0 0
+`nThe path of `hstones ``~
+`gClimbing deep within the mountains is a wide `hstone`g path.  Once a
+smooth path, contrasting to the rugged `imountainside`g, now `acracked`g and
+uneven.  To the west of the path is a `ostone hut`g.  It is crudely built,
+but looks kept.  Just north of the entrance is a garden, with various herbs
+and vegetables growing in it.  To the east leads a small path, where can be
+heard a `lstream`g gurgling happily down the mountainside.  The path
+continues north leading deeper into the mountains, and south, descending
+them.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7358
+D1
+~
+~
+0 0 7368
+D2
+~
+~
+0 0 7356
+D3
+~
+~
+0 0 7369
+S
+#7358
+~
+~
+0 0 0
+view~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7359
+D2
+~
+~
+0 0 7357
+S
+#7359
+~
+~
+0 0 0
+bridge~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7398
+D1
+~
+~
+0 0 7370
+D2
+~
+~
+0 0 7358
+D3
+~
+~
+0 0 7371
+S
+#7360
+~
+~
+0 0 0
+`jA trail through the forest``~
+`cA small trail cuts through the dense forest growth as though a giant
+blade had swept trees and undergrowth to the sides.  Off the trail is
+unpassable, due to an almost perfect line of pine trees forming natural
+walls.  `dCrickets`c can be heard singing to each other somewhere to the
+south, and a squirl chitters happily somewhere high within the branches of a
+nearby tree.  The trail makes a turn, curving to the north and west.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7377
+D3
+~
+~
+0 0 7352
+S
+#7361
+~
+~
+0 0 0
+`jA trail through the forest``~
+`cA small trail cuts through the dense forest growth as though a giant
+blade had swept trees and undergrowth to the sides.  Off the trail is
+unpassable, due to an almost perfectly straight line of pine trees forming
+natural walls.  `dCrickets`c can be heard singing to each other somewhere to
+the south, and a squirl chitters happily somewhere high within the branches
+of a nearby tree.  The trail makes a turn, curving to the north and east. 
+`` 
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7372
+D1
+~
+~
+0 0 7352
+S
+#7362
+~
+~
+0 0 0
+`jA trail through the forest``~
+`cA small trail cuts through the dense forest growth as though a giant
+blade had swept trees and undergrowth to the sides.  Off the trail is
+unpassable, due to an almost perfect line of pine trees forming natural
+walls.  The wind howls low through the trees, and `nbirds`c can be heard
+somewhere in the distance.  To the east of the trail, a `lhole`c has been
+dug into the ground.  The trail bends around to the south and west.  
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7377
+D3
+~
+~
+0 0 7354
+S
+#7363
+~
+~
+0 0 0
+`iThe `aruined`i den``~
+`h The hole opens up into a large underground cavern.  The walls, floor
+and ceiling are `acharred`h as though a very hot fire had burned here
+recently`h.  The roots of the trees above have been `aburned`h flush to the
+outer surfaces of what appears to have been some sort of animal den.  Along
+the west and north walls are large `oclawmarks`h, as though something had
+tried to claw its way out of here.  There are `acharred`h `obones`h
+haphazardly strewn about the floor.  The air is damp, and carries with it
+the acrid smell of `asmoke`h and `aburnt flesh`h.  
+~
+0 ABCD 0
+0
+~
+S
+#7364
+~
+~
+0 0 0
+lake~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7366
+D1
+~
+~
+0 0 7378
+D3
+~
+~
+0 0 7355
+S
+#7365
+~
+~
+0 0 0
+`nThe path of `hstones``~
+`gSet between tall `oaspens`g on either side, is a wide `hstone`g path. 
+Many years of disuse and neglect have taken their toll upon the roadway. 
+Small `ctrees`g have begun to overtake the road, as the forest slowly
+swallows the remnents of civilization.  The air is crisp, and slightly damp.
+The only sounds to be heard is the wind blowing across the mountain slopes
+and through the `ctrees`g.  The path continues east and west.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7355
+D3
+~
+~
+0 0 7379
+S
+#7366
+~
+~
+0 0 0
+lake~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7397
+D1
+~
+~
+0 0 7381
+D2
+~
+~
+0 0 7364
+D3
+~
+~
+0 0 7356
+S
+#7367
+~
+~
+0 0 0
+`nThe path of `hstones``~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 7382
+S
+#7368
+~
+~
+0 0 0
+spring~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7397
+D3
+~
+~
+0 0 7357
+S
+#7369
+~
+~
+0 0 0
+sage's hut~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7357
+S
+#7370
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7396
+D3
+~
+~
+0 0 7359
+S
+#7371
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7359
+D3
+~
+~
+0 0 7384
+S
+#7372
+~
+~
+0 0 0
+`jA trail through the forest``~
+`cA small trail cuts through the dense forest growth as though a giant
+blade had swept trees and undergrowth to the sides.  Off the trail is
+unpassable, due to an almost perfectly straight line of pine trees forming
+natural walls.  The wind blows swiftly hear, and the trees `acreak`c softly
+against each other.  On the west side of the trail is a `lsmall hole`c
+leading somewhere under the trees.  The trail continues north and south.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7373
+D2
+~
+~
+0 0 7361
+S
+#7373
+~
+~
+0 0 0
+`jA trail through the forest``~
+`cA small trail cuts through the dense forest growth as though a giant
+blade had swept trees and undergrowth to the sides.  Off the trail is
+unpassable, due to an almost perfect line of pine trees forming natural
+walls.  The wind howls low through the trees, and `nbirds`c can be heard
+somewhere in the distance.  To the west of the trail, a `lhole`c has been
+dug into the ground.  The trail bends around to the south and east.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7354
+D2
+~
+~
+0 0 7372
+S
+#7374
+~
+~
+0 0 0
+`iDen of the `oWhite`i Wolves``~
+`d The hole opens up into a spacious den.  Spacious for a `iwolf`d that
+is.  The ground is soft from many years of use.  There are roots of trees
+intruding on the walls of the den.  Like the dirt floor, they are worn
+smooth.  The air is cool, damp, and slightly musky.  Over all, the den is
+very clean, except for a few tufts of `owhite`d fur tucked into small
+depressions that appear to have been used as bedding for the `iwolves`d.  
+~
+0 CD 0
+0
+~
+S
+#7375
+~
+~
+0 0 0
+`iDen of the `aSilver`i Wolves``~
+`d The hole opens up into a spacious den.  Spacious for a `iwolf`d that
+is.  The ground is soft from many years of use.  There are roots of trees
+intruding on the walls of the den.  Like the dirt floor, they are worn
+smooth.  The air is cool, and damp.  There is a sense of great age here as
+though this hole has been a part of the forest since the first trees bore
+roots.  It is very quiet here, as though the sounds of the forest were miles
+away instead of a few yards.  
+~
+0 CD 0
+0
+~
+S
+#7376
+~
+~
+0 0 0
+`iDen of the `6`9Black```i Wolves``~
+`d The hole opens up into a small den dug underneath a large tree.  The
+roots of the tree intrude upon the walls, cover the floor, and hang from the
+ceiling, giving the den a shambled look to it.  The air is damp, and smells
+of `iblood`d.  There are `bdark red`d stains in the dirt and on the roots
+covering the floor where `iblood`d has been spilled.  
+~
+0 ACD 0
+0
+~
+S
+#7377
+~
+~
+0 0 0
+`jA trail through the forest``~
+`cA small trail cuts through the dense forest growth as though a giant
+blade had swept trees and undergrowth to the sides.  Off the trail is
+unpassable, due to an almost perfectly straight line of pine trees forming
+natural walls.  The wind blows swiftly hear, and the trees `hcreak`c softly
+against each other.  On the east side of the trail is a `lsmall hole`c
+leading somewhere under the trees.  The trail continues north and south.  
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7362
+D2
+~
+~
+0 0 7360
+S
+#7378
+~
+~
+0 0 0
+lake~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7381
+D3
+~
+~
+0 0 7364
+S
+#7379
+~
+~
+0 0 0
+`nThe path of `hstones``~
+`gSet between tall `oaspens`g on either side, is a `hstone`g path.  Many
+years of disuse and neglect have taken their toll upon the roadway.  Small
+`ctrees`g have begun to overtake the road, as the forest slowly swallows the
+remnents of civilization.  The air is crisp, and slightly damp.  The only
+sounds to be heard is the wind blowing across the mountain slopes and
+through the `ctrees`g.  To the west, the path ends abruptly, cut short it's
+destination by a large landslide.  Within the rubble can be seen a `adark
+cave`g.  The path leads east from here.  
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7365
+S
+#7380
+~
+~
+0 0 0
+`iDen of the `lGreat Cats``~
+~
+0 CD 0
+0
+~
+S
+#7381
+~
+~
+0 0 0
+lake~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7378
+D3
+~
+~
+0 0 7366
+S
+#7382
+~
+~
+0 0 0
+`nThe path of `hstones``~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7367
+D3
+~
+~
+0 0 7383
+S
+#7383
+~
+~
+0 0 0
+cat den~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7382
+S
+#7384
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7371
+D3
+~
+~
+0 0 7385
+S
+#7385
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7386
+D1
+~
+~
+0 0 7384
+S
+#7386
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7387
+D2
+~
+~
+0 0 7385
+S
+#7387
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7388
+D2
+~
+~
+0 0 7386
+S
+#7388
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7389
+D3
+~
+~
+0 0 7387
+S
+#7389
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7390
+D3
+~
+~
+0 0 7388
+S
+#7390
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7391
+D3
+~
+~
+0 0 7389
+S
+#7391
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7392
+D3
+~
+~
+0 0 7390
+S
+#7392
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7393
+D3
+~
+~
+0 0 7391
+S
+#7393
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7394
+D3
+~
+~
+0 0 7392
+S
+#7394
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7393
+D2
+~
+~
+0 0 7395
+S
+#7395
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7394
+D3
+~
+~
+0 0 7396
+S
+#7396
+~
+~
+0 0 0
+moat~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7395
+D3
+~
+~
+0 0 7370
+S
+#7397
+~
+~
+0 0 0
+stream~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7368
+D2
+~
+~
+0 0 7366
+S
+#7398
+~
+~
+0 0 0
+keep entrance~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7399
+D1
+~
+~
+0 0 7402
+D2
+~
+~
+0 0 7359
+D3
+~
+~
+0 0 7410
+S
+#7399
+~
+~
+0 0 0
+dining hall~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7400
+D2
+~
+~
+0 0 7398
+D3
+~
+~
+0 0 7401
+S
+#7400
+~
+~
+0 0 0
+sitting room~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7399
+D4
+~
+~
+0 0 7419
+S
+#7401
+~
+~
+0 0 0
+kitchen~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7399
+D5
+~
+~
+0 0 7438
+S
+#7402
+~
+~
+0 0 0
+hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7404
+D1
+~
+~
+0 0 7403
+D3
+~
+~
+0 0 7398
+S
+#7403
+~
+~
+0 0 0
+Buttler (wrong term)'s room~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 7402
+S
+#7404
+~
+~
+0 0 0
+hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7407
+D1
+~
+~
+0 0 7405
+D2
+~
+~
+0 0 7402
+D3
+~
+~
+0 0 7406
+S
+#7405
+~
+~
+0 0 0
+servents quarters~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 7404
+S
+#7406
+~
+~
+0 0 0
+servents quarters~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7404
+S
+#7407
+~
+~
+0 0 0
+hallway~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7408
+D2
+~
+~
+0 0 7404
+D3
+~
+~
+0 0 7409
+S
+#7408
+~
+~
+0 0 0
+servents quarters~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 7407
+S
+#7409
+~
+~
+0 0 0
+servents quarters~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7407
+S
+#7410
+~
+~
+0 0 0
+hallway~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7398
+D3
+~
+~
+0 0 7411
+D4
+~
+~
+0 0 7418
+S
+#7411
+~
+~
+0 0 0
+barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7416
+D1
+~
+~
+0 0 7410
+D3
+~
+~
+0 0 7412
+S
+#7412
+~
+~
+0 0 0
+barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7413
+D1
+~
+~
+0 0 7411
+S
+#7413
+~
+~
+0 0 0
+barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7414
+D1
+~
+~
+0 0 7416
+D2
+~
+~
+0 0 7412
+D3
+~
+~
+0 0 7415
+S
+#7414
+~
+~
+0 0 0
+barracks~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7417
+D2
+~
+~
+0 0 7413
+S
+#7415
+~
+~
+0 0 0
+captain's quarters~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7413
+S
+#7416
+~
+~
+0 0 0
+barracks~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7417
+D2
+~
+~
+0 0 7411
+D3
+~
+~
+0 0 7413
+S
+#7417
+~
+~
+0 0 0
+barracks~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7416
+D3
+~
+~
+0 0 7414
+S
+#7418
+~
+~
+0 0 0
+embattlements~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7426
+D3
+~
+~
+0 0 7420
+D5
+~
+~
+0 0 7410
+S
+#7419
+~
+~
+0 0 0
+landing~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7427
+D5
+~
+~
+0 0 7400
+S
+#7420
+~
+~
+0 0 0
+embattlements~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7421
+D1
+~
+~
+0 0 7418
+S
+#7421
+~
+~
+0 0 0
+embattlements~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7422
+D2
+~
+~
+0 0 7420
+S
+#7422
+~
+~
+0 0 0
+embattlements~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7423
+D2
+~
+~
+0 0 7421
+S
+#7423
+~
+~
+0 0 0
+embattlements~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7424
+D3
+~
+~
+0 0 7422
+S
+#7424
+~
+~
+0 0 0
+embattlements~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7425
+D3
+~
+~
+0 0 7423
+S
+#7425
+~
+~
+0 0 0
+embattlements~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7424
+D2
+~
+~
+0 0 7426
+S
+#7426
+~
+~
+0 0 0
+embattlements~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7425
+D3
+~
+~
+0 0 7418
+S
+#7427
+~
+~
+0 0 0
+hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7419
+D1
+~
+~
+0 0 7431
+D2
+~
+~
+0 0 7428
+D3
+~
+~
+0 0 7432
+S
+#7428
+~
+~
+0 0 0
+hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7427
+D1
+~
+~
+0 0 7433
+D2
+~
+~
+0 0 7429
+D3
+~
+~
+0 0 7434
+S
+#7429
+~
+~
+0 0 0
+hallway~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7428
+D1
+~
+~
+0 0 7435
+D2
+~
+~
+0 0 7430
+D3
+~
+~
+0 0 7436
+S
+#7430
+~
+~
+0 0 0
+secret passage~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7429
+D4
+~
+~
+0 0 7437
+S
+#7431
+~
+~
+0 0 0
+bedroom~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 7427
+S
+#7432
+~
+~
+0 0 0
+bedroom~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7427
+S
+#7433
+~
+~
+0 0 0
+bedroom~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 7428
+S
+#7434
+~
+~
+0 0 0
+bedroom~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7428
+S
+#7435
+~
+~
+0 0 0
+study~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 7429
+S
+#7436
+~
+~
+0 0 0
+library~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7429
+S
+#7437
+~
+~
+0 0 0
+observatory~
+~
+0 0 0
+0
+~
+D5
+~
+~
+0 0 7430
+S
+#7438
+~
+~
+0 0 0
+basement landing~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7439
+D3
+~
+~
+0 0 7440
+D4
+~
+~
+0 0 7401
+S
+#7439
+~
+~
+0 0 0
+wine celler~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7441
+D2
+~
+~
+0 0 7438
+S
+#7440
+~
+~
+0 0 0
+stair to dungeon~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7438
+D5
+~
+~
+0 0 7442
+S
+#7441
+~
+~
+0 0 0
+secret celler~
+~
+0 0 0
+0
+~
+D2
+~
+~
+0 0 7439
+S
+#7442
+~
+~
+0 0 0
+dungeon entrance~
+~
+0 0 0
+0
+~
+D3
+~
+~
+0 0 7443
+D4
+~
+~
+0 0 7440
+S
+#7443
+~
+~
+0 0 0
+torture equipment~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7442
+D3
+~
+~
+0 0 7444
+S
+#7444
+~
+~
+0 0 0
+cell~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7443
+D2
+~
+~
+0 0 7446
+D3
+~
+~
+0 0 7445
+S
+#7445
+~
+~
+0 0 0
+underground river~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7444
+D2
+~
+~
+0 0 7448
+S
+#7446
+~
+~
+0 0 0
+cell~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7444
+D3
+~
+~
+0 0 7447
+S
+#7447
+~
+~
+0 0 0
+cell~
+~
+0 0 0
+0
+~
+D1
+~
+~
+0 0 7446
+S
+#7448
+~
+~
+0 0 0
+under water~
+~
+0 0 0
+0
+~
+D0
+~
+~
+0 0 7445
+D2
+~
+~
+0 0 7390
+S
+#7449
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#7450
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+S
+#0
+
+#RESETS
+O 0 7351   0 7377 -1	* Down through the hole at `jA trail through the forest``
+O 0 7352   0 7363 -1	* Up through the hole at `iThe `aruined`i den``
+O 0 7353   0 7362 -1	* Down through the hole at `jA trail through the forest``
+O 0 7354   0 7376 -1	* Up through the hole at `iDen of the `6`9Black```i Wolves``
+O 0 7355   0 7373 -1	* Down through the hole at `jA trail through the forest``
+O 0 7356   0 7375 -1	* Up through the hole at `iDen of the `aSilver`i Wolves``
+O 0 7357   0 7372 -1	* Down through the hole at `jA trail through the forest``
+O 0 7358   0 7374 -1	* Up through the hole at `iDen of the `oWhite`i Wolves``
+O 0 7360   0 7379 -1	* `athe dark cave`` at `nThe path of `hstones``
+O 0 7359   0 7380 -1	* `athe dark cave`` at `iDen of the `lGreat Cats``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

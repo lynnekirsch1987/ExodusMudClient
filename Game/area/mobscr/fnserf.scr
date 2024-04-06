@@ -1,0 +1,27 @@
+* Mob Vnum: 20952
+* Mob Name: serf
+* Room Vnum: 20954
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 3
+if (%rndnum% == 0)
+    emote toils away, looking hopeless yet knowing that he cannot stop working.
+    halt once~
+Sc
+if (%rndnum% == 1)
+    say That Vryce is inhuman. If only we were in charge...
+    halt once~
+End
+ 
+#TRIGGER scythe
+Type 11
+Sc
+    emote makes a few listless swipes at the ground with his scythe.
+    say Oh, for a few moments of rest!
+    halt once~
+End
+
+#END
+

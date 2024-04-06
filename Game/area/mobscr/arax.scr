@@ -1,0 +1,96 @@
+* script: Arax.scr
+* Arax (1241)
+
+#TRIGGER combat
+Type 2
+Sc
+wfunc %rndnum% random 0 99
+mfunc %combat-from% %name% name
+mfunc %combat-to% %hit% hit
+if (%hit% < 1500)
+  signal 1230 abyss
+  skip 1~
+Sc
+if (%rndnum% < 10 )
+  cmd cast 'teleport' %name%
+  halt once~
+Sc
+if (%rndnum% < 20)
+  echo `aArax slides out of phase and returns a moment later at a safer distance.``
+  cmd cast 'blindness' %name%
+  halt once~
+Sc
+if (%rndnum% < 35)
+  echo `aArax's eyes pulse `ired`a.``
+  pecho %name% Arax reaches into your soul and sucks away a little bit of your experience.
+  cmd reward %name% -25000 from Arax the demon of the nagative plane.
+  cmd string char %name% title is becoming a withered shell.
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+wfunc %rndnum% random 0 4
+if ( %rndnum% == 0 )
+  cmd yell This world is rich with the life force that I shall suck dry.
+  gecho `aYou feel your life force ebb as Arax sucks away the life-energy all around you.``
+  halt once~
+End
+
+#TRIGGER arax
+Type 8
+Sc
+if ( %arax-arg% cmp "arax" )
+  cmd at 1 load obj 1243
+  cmd at 1 wield shard
+  cmd at 1 load obj 6
+  cmd at 1 hold rune
+  cmd goto 4056
+  emote looks around, measuring his surroundings.
+  wait 5~
+Sc
+if ( %arax-arg% cmp "arax" )
+  cmd gecho `aArax the Demon of the negative plane has come from the void to plague Thesden.``
+  cmd shout I am here to feed upon the positive energy of this world.  Challenge me, if you dare.
+  cmd half 666
+  cmd whomsg `aArax the demon is sucking away your experience.  Defeat him to free the stolen energy!``
+  wait 1795~
+Sc
+if ( %arax-arg% cmp "arax" )
+  cmd shout `aFools!  I have had my fill of your life force.  I will return another day when I hunger once more.``
+  cmd cancel half
+  cmd sneer
+  cmd goto 1243
+  cmd cast 'portal'
+  cmd enter portal
+  halt once~
+End
+
+#TRIGGER abyss
+Type 8
+Sc
+if ( %abyss-arg% cmp "abyss" )
+  CMD shout You are good, I'll give you that.
+  CMD shout But if you think you can to finish me, you'll have to come to the void and fight me...on my terms!
+  CMD peace
+  cackle
+  cmd goto 2
+  cmd cancel half
+  halt triggers~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  cmd shout You may have beaten me this time, but you have not seen the last of me!
+  smote `hThe lifeless body of `aArax`h slumps to the floor, `abut his shadowy spirit flees into the ground.``
+  gecho `kArax has been defeated!  Positive energy flows forth like a wave from where he once stood.``
+  cmd im %name% just killed me.
+  cmd cancel half
+  cmd whomsg remove
+  signal 1231 araxreward
+  halt once~
+End
+
+#END

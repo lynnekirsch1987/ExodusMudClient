@@ -1,0 +1,23 @@
+* File: tamas.scr
+* Mob: Tamas(5518)
+
+#TRIGGER enter
+Type 10
+*
+Sc 
+mfunc %enter-from% %class% class
+if ( %class% == 1 )
+   cmd smile
+   pray bless %enter-from%
+   say Welcome to my hut, can I help you?
+   halt once~
+Sc
+   cmd scream
+   wait 3~
+Sc
+   MOB push %enter-from% east
+   halt once~
+End
+
+#END
+

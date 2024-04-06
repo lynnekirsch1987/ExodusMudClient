@@ -1,0 +1,22 @@
+*  Mob Vnum: 4077
+* Mob Name: proud noble woman
+* Room Vnum: 4087
+
+#TRIGGER tick
+Type 3
+Sc
+wfunc %rndnum% random 0 4
+if (%rndnum% == 0)
+ emote sniffs disdainfully at the commoners around her.
+ halt once~
+Sc
+if (%rndnum% == 1)
+ emote tosses her head haughtily at you.
+ halt once~
+Sc
+if (%rndnum% == 2)
+ emote glances around, somehow completely ignoring your presence.
+ halt once~
+End
+
+#END

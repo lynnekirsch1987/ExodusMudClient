@@ -1,0 +1,35 @@
+* File: thyriz.scr
+* Mob: Thyriz(12945)
+
+#TRIGGER born
+Type 4
+Sc
+  cast invis
+  halt once~
+End
+
+#TRIGGER tick
+Type 3
+Sc 
+   getch %chname%
+   mfunc %chname% %pos% position
+   if ( %pos% == 4 ) || ( %pos% == 5 ) || ( %pos% == 6 )
+      cast sleep %chname%
+      steal 1. %chname% 
+      steal 1. %chname% 
+      steal 1. %chname% 
+      steal 1. %chname% 
+      steal 1. %chname% 
+      steal 1. %chname% 
+      steal 1. %chname% 
+      steal 1. %chname% 
+      steal 1. %chname%
+      steal coins %chname%
+      cmd vis
+      halt once~
+End
+
+
+#END
+
+

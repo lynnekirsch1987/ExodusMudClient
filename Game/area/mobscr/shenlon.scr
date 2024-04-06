@@ -1,0 +1,20 @@
+* shenlon
+* mob vnum 7060
+* last modified: 2-8-04 by Minax
+
+#TRIGGER tick
+Type 3
+Sc 
+  cmd wake
+  halt once~
+End
+
+#TRIGGER death
+Type 9
+Sc
+  cmd at 1 load obj 7202
+  cmd set obj rib owner %death-from%
+  halt once~
+End
+
+#END

@@ -1,0 +1,114 @@
+* File: casinoflipper.scr
+* Mob: Casino Coin Flipper
+
+#TRIGGER flipcoin
+Type 5
+Sc
+mfunc %flipcoin-from% %name% name
+mfunc self %mood% mood
+ofunc %flipcoin-arg% %what% vnum
+ofunc %flipcoin-arg% %objname% name
+if (%mood% != 4)
+  say I am in the middle of a game right now.
+  say You'll have to wait until I've finished this round.
+  cmd drop %objname%
+  halt once~
+Sc
+if (%what% < 6652 ) || (%what% > 6655)
+  say This is not an acceptable wager.
+  say You can buy chips west of the casino lobby.
+  drop all
+  halt once~
+Sc
+if (%what% == 6652)
+  say The wager is 250.  Please call HEADS or TAILS.
+  msign self 7 mood
+  halt once~
+Sc
+if (%what% == 6653)
+  say The wager is 500.  Please call HEADS or TAILS.
+  msign self 7 mood
+  halt once~
+Sc
+if (%what% == 6654)
+  say The wager is 1000.  Please call HEADS or TAILS.
+  msign self 7 mood
+  halt once~
+Sc
+if (%what% == 6655)
+  say The wager is 2000.  Please call HEADS or TAILS.
+  msign self 7 mood
+  halt once~
+End
+
+#TRIGGER Heads
+Type 8
+Sc
+wfunc %coin% random 0 9999
+if (%coin% < 5000)
+  msign self 4 mood
+  emote flips a large coin high into the air and catches it.
+  wait 3~
+Sc
+if (%coin% < 5000)
+  emote uncovers the coin to reveal it lying HEADS up.
+  wait 3~
+Sc
+if (%coin% < 5000)
+  say You called Heads and the coin came up Heads.  You win.
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%coin% > 5000)
+  msign self 4 mood
+  emote flips a large coin high into the air and catches it.
+  wait 3~
+Sc
+if (%coin% > 5000)
+  emote uncovers the coin to reveal it lying TAILS up.
+  cmd at 1 eat chip
+  wait 3~
+Sc
+if (%coin% > 5000)
+  say You called Heads and the coin came up Tails.  You lose.
+  say Care to try again?
+  halt once~
+End
+
+#TRIGGER Tails
+Type 8
+Sc
+wfunc %coin% random 0 9999
+if (%coin% < 5000)
+  msign self 4 mood
+  emote flips a large coin high into the air and catches it.
+  wait 3~
+Sc
+if (%coin% < 5000)
+  emote uncovers the coin to reveal it lying TAILS up.
+  wait 3~
+Sc
+if (%coin% < 5000)
+  say You called Tails and the coin came up Tails.  You win.
+  cmd at 1 clone chip
+  cmd drop all
+  halt once~
+Sc
+if (%coin% > 5000)
+  msign self 4 mood
+  emote flips a large coin high into the air and catches it.
+  wait 3~
+Sc
+if (%coin% > 5000)
+  emote uncovers the coin to reveal it lying HEADS up.
+  cmd at 1 eat chip
+  wait 3~
+Sc
+if (%coin% > 5000)
+  say You called Tails and the coin came up Heads.  You lose.
+  say Care to try again?
+  halt once~
+End
+
+#END

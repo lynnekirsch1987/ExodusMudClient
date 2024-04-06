@@ -1,0 +1,23 @@
+* File thesguard.scr
+* Mob: Thesden Guard (4125)
+
+#TRIGGER spittle
+Type 10
+Sc
+wfunc %rand% random 0 5
+mfunc %spittle-from% %align% align
+    if (%rand% == 5) && (%align% > 450)
+    mfunc %spittle-from% %pn% name
+    tip %pn%
+    say Having a good day I hope, %pn%!
+    halt once~
+Sc
+    if (%rand% == 4) && (%align% < 450)
+    emote mutters something under his breath about the new influx of ilk in Thesden.
+    cmd glare
+    halt once~
+End
+#END
+
+
+

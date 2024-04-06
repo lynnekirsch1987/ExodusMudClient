@@ -1,0 +1,9393 @@
+#AREA
+ 6~
+barbaz.are~
+`iBar-Baz``~
+{20 100} Iverath  `iBar-Baz``~
+~
+22623 22777
+12 J 0
+0 0
+~
+#MOBILES
+#22623
+skeleton dwarven dwarf miner~
+The skeleton of a dwarven miner~
+`gThe animated skeleton of a dwarf is hacking away at a wall.``
+~
+`aThis lich's bones barely hold together after a long time of laborous
+mining.  It carries a worn pick axe and a leather purse to carry any finds
+in.  `` 
+~
+unique~
+0 0 0 0
+ABFO DJZ -999 0
+21 1 3d9+350 1d1+350 4d4+4 wrath
+5 5 5 999 5
+V 0 DIN BLQRac I HN
+stand stand none 200
+D a 10 10 10 10 10 10 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#22624
+skeletal soldier~
+A skeletal soldier~
+`gA skeletal soldier with spider-webs draped over its skull looks as bored as only a skeleton can.``
+~
+`aCobwebs are draped from this lich's skull and shoulders, almost like
+hair.  What is left of this lich soldier's chainmail and weapons are specks
+of rust on the dirt-ridden bones.  `` 
+~
+unique~
+0 0 0 0
+ABFO JZ -999 0
+42 10 5d20+1200 1d1+350 5d20+5 wrath
+3 3 3 999 3
+V 0 DIV BLQRac I HN
+stand stand none 200
+D a 10 3 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+1
+~
+~
+#22625
+lich miner skeleton~
+A lich miner~
+`gA skeleton carrying a drill trudges through the snow here.``
+~
+`aCompletely lacking the motivation it had long ago, when it was made out
+of more flesh than bone, this skeleton walks from wall to wall, drilling
+holes at random.  `` 
+~
+unique~
+0 0 0 0
+AFO JZ -999 0
+25 1 3d9+350 1d1+350 4d4+4 wrath
+5 5 5 999 5
+V 0 DIN BLQRac I HN
+stand stand none 150
+D a 15 5 10 13 12 5 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#22626
+guard gateguard~
+The gate guard~
+`gOnce a dwarf, now a lich, still a guard, this skeleton protects the castle from intruders.``
+~
+`aThe stocky skeleton of a dwarf stands guard here, never departing from
+its duty, even in death.  The hollows where eyes once peered out in search
+for malicious elves are always turned to the east, awaiting the enemy.  `` 
+~
+unique~
+0 0 0 0
+ABFO JZ -750 0
+42 10 5d20+1200 400d1+1 5d20+5 magic
+5 5 5 999 5
+ADV 63 1 DFJKN BLQRac I HN
+stand stand male 1800
+D a 14 14 14 14 15 5 0
+medium oldstyle~
+0 0 0 700
+0
+~
+~
+#22627
+splintered splinteredtrigger bones skeleton~
+The splintered old bones of a skeleton~
+`gThe splintered old bones of a skeleton try to push a cart full of green ore here.``
+~
+`aIn his stubborn tries to move the stuck trolley, this lich has worn his
+bones down to splintered stumps.  `` 
+~
+unique~
+0 0 0 0
+ABO JZ -750 0
+1 10 5d20+1200 400d1+1 5d20+5 magic
+5 5 5 999 5
+D 0 DFJKNd BLQRc I HN
+stand stand none 1800
+D a 14 14 14 14 15 5 22689
+medium oldstyle~
+0 0 0 700
+0
+~
+~
+#22628
+traktal forgotten~
+Traktal~
+`gTraktal, the forgotten, has risen from his stony tomb.``
+~
+`aApparently the foul magic that turned all dwarves in Bar-Baz into the
+undead did not even leave the buried alone.  Traktal has risen from the dead
+and he is in a foul mood.  `` 
+~
+unique~
+0 0 0 0
+ABFGO DFJOZ -1000 0
+50 20 1d1+3332 1d1+2000 1d1+5 magic
+-3 -3 -3 999 -3
+DIa 60 10 AFVd ABUabcd I e
+stand stand male 2000
+D a 15 20 20 12 15 5 0
+medium bone~
+0 0 0 500
+1
+~
+~
+#22629
+crazy ancient dwarf~
+The grinning dwarf~
+`fChaos energies have sustained this ancient dwarf, at the same time destroying his mind.``
+~
+`fPurple currents worm their way across this dwarves wrinkled skin,
+apparently originating from his nostrils.  He is clearly insane, but as with
+any chaos jester, insanity does not necessarily mean "less dangerous".  `` 
+~
+dwarf~
+0 0 0 0
+AB JZ -1000 0
+50 40 5d20+1200 400d1+1 5d20+5 magic
+-5 -5 -5 999 -5
+DVW 60 2 ADFJKN BLQRcd ILQ HNR
+stand stand male 1800
+ABHMV ABCDEFGHIJKa 14 14 14 14 15 15 0
+medium flesh~
+0 0 0 700
+0
+~
+~
+#22630
+skull fish~
+A skull fish~
+`gA white-headed fish swims about here, snapping at anything that moves.``
+~
+`aThis black fish would barely be visible in the swirling waters if it
+wasn't for its white head which earned it its name.  Translucent teeth
+glitters in its maw, completing the illusion of a skull.  `` 
+~
+fish~
+0 0 0 0
+AFM JZbe -500 0
+30 90 100d1+1 1d1+1 50d1+20 bite
+10 10 10 999 10
+BSV 60 1 F QRa H IT
+stand stand none 0
+AHMV ABCDEFGHIJKa 5 3 3 20 3 3 22692
+tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#22631
+worler~
+A worler~
+`cA worler lurks at the bottom of the maelstrom, creating whirls in the water with its tail.``
+~
+`aThis aquatic monster resembles an octopus with its tentacled arms and
+beak-like mouth.  It preys on whatever or whoever gets drawn down here by
+the great maelstrom.  `` 
+~
+fish~
+0 0 0 0
+ABFGc JQZbe -500 0
+42 40 1d600+2000 1d100+300 5d20+30 spit
+5 5 5 999 5
+V 60 3 AF Ra BH I
+stand stand none 0
+AHMV ABCDEFGHIJKa 18 3 12 16 15 5 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#22632
+tarn undead blacksmith tarntrigger~
+Tarn, the undead blacksmith~
+`gTarn's white bones glow crimson in the light of the furnace.``
+~
+`aTarn was once one of the most acclaimed blacksmiths in the world, but
+now he is but a shadow of his former self, and his former skill.  Something
+took his mortality and left him a lich.  `` 
+~
+unique~
+0 0 0 0
+ABNO HIJZ -900 0
+50 10 2000d1+40 400d1+1 20d2+30 slash
+1 1 1 999 1
+D 60 3 FKad BLQR HI NS
+stand stand male 500
+D a 20 10 10 13 16 5 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#22633
+horrible furnace monster~
+`kthe horrible`b furnace monster``~
+`kThe horrible`b furnace monster`k is here, waiting for you!``
+~
+`bWhy would anyone let this terrible monster live in their furnace? 
+Sure, it keeps the furnace-stealing thieves away, but feeding it living,
+screaming flesh, especially if it is your own, seems tiresome.  `` 
+~
+unique~
+0 0 0 0
+AB JZ -550 0
+60 20 2000d1+1 100d3+30 10d2+1 flbite
+10 10 10 999 0
+DSX 60 5 DEFW BHac Xe IKR
+stand stand none 2000
+D 0 15 10 10 10 20 10 0
+medium fire~
+0 0 0 500
+0
+~
+~
+#22634
+lich guard~
+A lich guard~
+`gA lich guard patrols the halls of the castle.``
+~
+`aThe hollow sound of bone hitting stone resounds in the corridors as
+this castle guard patrols, protecting its king.  `` 
+~
+unique~
+0 0 0 0
+AFO JUZc -900 0
+50 0 20d10+700 50d1+10 3d10+3 wrath
+5 5 5 999 5
+V 0 CEF LQRa BIM HN
+stand stand male 150
+D a 15 5 10 10 17 5 22691
+small bone~
+0 0 0 500
+1
+~
+~
+#22635
+lich guard~
+A lich guard~
+`gA lich guard patrols the halls of the castle.``
+~
+`aThe hollow sound of bone hitting stone resounds in the corridors as
+this castle guard patrols, protecting its king.  `` 
+~
+unique~
+0 0 0 0
+AO HJUZc -900 0
+50 5 20d10+700 50d1+10 3d10+3 wrath
+5 5 5 999 5
+V 0 CEF LQRa BIM HN
+stand stand male 150
+D a 15 5 10 10 17 5 22691
+small bone~
+0 0 0 500
+4
+~
+~
+#22636
+female amazon explorer~
+`can`d a`cm`ba`dz`co`bn`c explorer``~
+`gThis female is carefully examining a vein of gold, tapping it with her staff.``
+~
+`cClad in the traditional field garb of the amazons, this woman explores
+the surroundings, well aware of your presence, but paying you little heed. 
+You notice that something is hidden under her leaf-colored mantle.  `` 
+~
+human~
+0 0 0 0
+ABc JZ -900 0
+50 10 2000d1+40 400d1+1 20d2+20 magic
+-10 -10 -10 999 0
+D 60 3 FKa BR DE 0
+stand stand female 500
+ADHMV ABCDEFGHIJKa 20 18 10 13 16 18 0
+medium oldstyle~
+0 0 0 600
+0
+~
+~
+#22637
+bloodfilled lizard ugly lizardtrigger~
+An ugly, yet blood-filled, lizard~
+A bloated red lizard sits here, waiting for its inevitable doom.
+~
+`cLike a deer caught in the torch-light, this lizard stares up at you and
+your big, big weapon.  `` 
+~
+lizard~
+0 0 0 0
+AB 0 1000 0
+1 100 1d1+20 0d0+0 20d5+70 bite
+0 0 0 999 0
+0 60 2 0 B L I
+stand stand none 0
+ADGXc ABCDEFGHIJKQVa 3 4 5 13 10 3 0
+tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#22638
+lich underwater miner~
+The underwater miner~
+`gA lich trudges through the salty waters in search of precious metals.``
+~
+`aThe salty waters that would freeze the flesh off the bones off a human
+seems to have little effect on this lich.  Its bony fingers fumbles along
+the bottom of the moat in an eternal search for gold.  `` 
+~
+unique~
+0 0 0 0
+AFO JZb -999 0
+25 1 3d9+350 1d1+350 4d4+4 wrath
+5 5 5 999 5
+V 60 2 D BLQRac 0 HN
+stand stand none 200
+D a 10 5 10 10 10 10 0
+medium oldstyle~
+0 0 0 300
+0
+~
+~
+#22639
+lich king lichkingtrigger~
+The lich king~
+`gThe lich king radiates a sickly yellow glow that surely will corrupt everything in its proximity.``
+~
+`aA traditional dwarven crown made of iron rattles around on the lich
+king's skull.  Just enough silk falls down his body to hide the skeleton
+below.  Around his neck a key hangs on a golden chain and on his feet a pair
+of peculiar winged boots.  `` 
+~
+unique~
+0 0 0 0
+ABFO DHJTZc -900 0
+60 50 3000d1+333 1000d1+1 10d10+10 magic
+-10 -10 -10 999 -10
+DQ 60 3 AEF BLQRad IKM N
+stand stand male 2000
+0 a 16 18 15 16 17 10 0
+medium bone~
+0 0 0 500
+1
+~
+~
+#22640
+big-boned chef lich~
+The big-boned chef~
+`gThe big-boned lich chef stands here with a butcher knife in one hand and a decapitated head in the other.``
+~
+`aIt was true, what he kept saying about being big-boned, after all!``
+~
+unique~
+0 0 0 0
+ABO HJZ -900 0
+50 10 2000d1+40 400d1+1 20d2+20 magic
+1 1 1 999 1
+D 60 2 FKad BLQR HI NS
+stand stand none 500
+D a 20 10 10 13 16 5 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#22641
+lich jailer~
+A lich jailer~
+`gA lich jailer is here, sleeping on his post.``
+~
+`bApparently liches can sleep, if bored enough.  The hard part is
+detecting a sleeping lich since they lack eye-lids.  `` 
+~
+unique~
+0 0 0 0
+ABO HJZc -1000 0
+50 5 20d10+700 50d1+10 3d10+3 slash
+5 5 5 999 5
+0 60 2 ACEF LQR BIM HN
+stand stand male 1000
+0 a 15 5 10 10 17 5 0
+small bone~
+0 0 0 500
+0
+~
+~
+#22642
+dwarf prisoner~
+A dwarven prisoner~
+`gClad in rags, this dwarf sits here. Wounds from torture are apparent on his skin.``
+~
+`aThis dwarf's body tell a story of torture and starvation.  Dwarves are
+hardy, but a lengthy incarceration can take its toll even on them.  `` 
+~
+dwarf~
+0 0 0 0
+A JZc -900 0
+50 40 20d10+700 50d1+10 3d10+3 wrath
+5 5 5 999 5
+0 0 CEF 0 BLMQ HNR
+stand stand male 150
+AHMV ABCDEFGHIJKa 15 5 10 10 17 5 0
+small flesh~
+0 0 0 500
+4
+~
+~
+#22643
+dwarf prisoner prisonertrigger~
+A dwarf~
+`gA starved dwarf sits here, scratching his arms frantically.``
+~
+`aBleeding sores cover this dwarf's skin, skin that seems to be covering
+little more than sinew and bone.  Muscles and fat seems to have been eaten
+up by the prisoner's own body to stay alive.  `` 
+~
+dwarf~
+0 0 0 0
+A JZc -900 0
+50 40 20d10+700 50d1+10 3d10+3 wrath
+5 5 5 999 5
+0 0 CEF 0 BLMQ HNR
+stand stand male 150
+AHMV ABCDEFGHIJKa 15 5 10 10 17 5 0
+small flesh~
+0 0 0 500
+0
+dwarflich.voc~
+~
+#22644
+well fed prisoner~
+A well-fed prisoner~
+`gA well-fed and innocent-looking prisoner sits here, smiling broadly.``
+~
+`aHappier than one would expect of a prisoner, this dwarf stands here
+with an innocent smile on his face.  He mutters "I like it in here, yes sir!
+Yes, sir!"  And secretly looks toward a loose stone in the floor.  `` 
+~
+dwarf~
+0 0 0 0
+A JZc -900 0
+50 40 20d10+700 50d1+10 3d10+3 wrath
+5 5 5 999 5
+0 0 CEF 0 BLMQ HNR
+stand stand male 150
+AHMV ABCDEFGHIJKa 15 5 10 10 17 5 0
+small flesh~
+0 0 0 500
+4
+~
+~
+#22645
+`iUNUSED`` lichjailer jailer~
+A lich lord~
+BLEH!
+~
+~
+dwarf~
+0 0 0 0
+ABO HJZc -1000 0
+50 5 20d10+700 50d1+10 3d10+3 slash
+-5 -5 -5 999 -20
+0 60 4 ACEFd BLQRbc BILMQ HNR
+stand stand male 1000
+AHMV ABCDEFGHIJKa 15 10 10 10 17 17 0
+small bone~
+0 0 0 500
+0
+~
+~
+#22646
+lich warrior~
+A lich warrior~
+`gThis warrior sits here dragging a stone along the edge of his axe.``
+~
+`aPieces of armor and chainmail hang loose from this skeleton's bones, a
+helm rattles on its skull and a great axe grasped in its claw-like fingers. 
+`` 
+~
+unique~
+0 0 0 0
+ABO JZ -800 0
+42 10 5d20+1200 400d1+1 5d20+5 slice
+5 5 5 999 5
+V 60 1 DFJKN BLQRc 0 HN
+stand stand male 180
+D a 20 10 12 14 15 5 0
+medium oldstyle~
+0 0 0 700
+0
+~
+~
+#22647
+lich warrior~
+A lich warrior~
+`gA lich warrior wanders around the courtyard.``
+~
+`aPieces of armor and chainmail hang loose from this skeleton's bones, a
+helm rattles on its skull and a great axe grasped in its claw-like fingers. 
+`` 
+~
+unique~
+0 0 0 0
+ABO JNZ -800 0
+42 10 5d20+1200 400d1+1 5d20+5 pierce
+-3 -4 -5 999 -6
+MNV 60 1 CDEFK BLQRc 0 HN
+stand stand male 180
+D a 20 10 12 14 15 5 0
+medium oldstyle~
+0 0 0 700
+0
+~
+~
+#22648
+defender defendertrigger~
+A defender of the wall~
+`gA defender of the wall keeps both sockets pointed to the east, overlooking the cavern.``
+~
+`aPieces of armor and chainmail hang loose from this skeleton's bones, a
+helm rattles on its skull and a great axe grasped in its claw-like fingers. 
+`` 
+~
+unique~
+0 0 0 0
+ABNOX JZ -800 0
+42 10 5d20+1200 400d1+1 5d20+5 magic
+5 5 5 999 5
+V 60 2 DFJKN BLQRc I HN
+stand stand male 180
+D a 20 10 12 14 15 5 0
+medium oldstyle~
+0 0 0 700
+0
+~
+~
+#22649
+skeleton dwarven dwarf miner~
+The skeleton of a dwarven miner~
+`gThe animated skeleton of a dwarf is hacking away at a wall.``
+~
+`aThis lich's bones barely hold together after a long time of laborous
+mining.  It carries a worn pick axe and a leather purse to carry any finds
+in.  `` 
+~
+unique~
+0 0 0 0
+ABO JZ -999 0
+21 1 3d9+350 1d1+350 4d4+4 wrath
+5 5 5 999 5
+LMNV 0 DIN BLQRac I HN
+stand stand none 200
+D a 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#22650
+bodyguard guard bodyguardtrigger~
+The bodyguard~
+`gThe lich king's bodyguard stands here, skeletal arms crossed.``
+~
+`aThe eternal loyalty to his king in combination with great fighting
+skills qualified this lich for a place in the king's bodyguard.  His bones
+are chipped and worn from battle but the magic sustaining his undeath still
+burns brightly in his eyes.  `` 
+~
+unique~
+0 0 0 0
+ABNOS DHJQZ -900 5
+50 40 2000d1+40 400d1+1 20d2+20 magic
+-5 -5 -5 999 -5
+AD 64 2 FKad BLQRa I N
+stand stand none 1441
+D a 20 10 10 13 16 5 0
+small oldstyle~
+0 0 0 3000
+0
+~
+~
+#22651
+lich lord~
+A lich lord~
+`gA lich lord stands here, admiring himself in a gold-frame mirror.``
+~
+`aClad in expensive silks this lich lord prances around his chambers,
+throwing an eye-socket in every mirror he passes.  `` 
+~
+unique~
+0 0 0 0
+ABNO DFJZ -998 0
+50 40 2000d1+40 400d1+1 20d2+20 magic
+1 1 1 999 1
+D 60 2 FKd BLQR DI NS
+stand stand none 300
+D a 10 10 10 14 16 14 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#22652
+guard treasury~
+The guard of the treasury~
+`gThe guard of the treasury stands here, cracking its knuckles.``
+~
+`aThis lich's bones are contorted and twisted but does not seem to impede
+the warrior's movements at all.  It smiles a toothless grin as it notices
+the intruder.  `` 
+~
+unique~
+0 0 0 0
+ABFO DFJZ -998 0
+50 40 2000d1+40 400d1+1 20d2+20 magic
+1 1 1 999 1
+AD 60 2 FKd BLQR DI NS
+stand stand none 300
+D a 14 10 10 14 16 5 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#22653
+Brobdingnagian guard treasury~
+Brobdingnagian~
+`gBrobdingnagian, the guard of the treasury stands here, head bowing under the ceiling.``
+~
+`aA giant of a skeleton takes up the better part of the room.  He is the
+guard of the treasury and will make sure nobody enters here alive.  Traps
+hang from his belt and a a great lance is wielded in his bony fist.  `` 
+~
+unique~
+0 0 0 0
+ABFO DJZ -998 0
+80 40 5555d1+0 400d1+1 20d3+60 magic
+1 -15 1 999 5
+D 60 4 FKd BLQRd DI NS
+stand stand none 300
+D a 25 2 6 10 25 5 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#22654
+dancing legs~
+The dancing legs~
+`fA pair of legs hop around here in a peculiar dance. They are actually quite good.``
+~
+`hThese dismembered legs hop around in a mesmerizing dance, seemingly
+unaware of their lack of body and rhythm.  What helps the overall
+performance is the nice-looking dancing shoe one of the feet is wearing.  ``
+~
+unique~
+0 0 0 0
+AE TV -550 0
+90 30 2000d1+2 40d7+76 20d2+10 chomp
+0 0 0 999 0
+SWX 60 2 FIN P E LQ
+stand stand neutral 100
+D 0 10 10 10 25 10 10 0
+small oldstyle~
+0 0 0 1337
+0
+~
+~
+#22655
+swarm spiders~
+A swarm of spiders~
+`iThis room is crawling with spiders! Stomp! Kill!``
+~
+`a'`kMommy! Moooommmmmyy!`a'``
+~
+unique~
+0 0 0 0
+AGN 0 -550 0
+40 10 2000d1+1 1d1+1 1d1+1 none
+10 10 10 999 10
+SX 60 10 0 ABPbc E 0
+stand stand neutral 0
+D 0 10 3 3 15 5 3 0
+large oldstyle~
+0 0 0 100
+0
+~
+~
+#22656
+king athanmere~
+`jKing Athanmere``~
+`jKing Athanmere slides around on this patch of ice. When will he leave you alone!?``
+~
+`fHere he is, again.  King Athanmere is very stern about getting the
+people of the realms to pay tax.  Dressing in his royal garb he travels the
+lands, looking for you, only you, trying to get you to give him your money. 
+`` 
+~
+unique~
+0 0 0 0
+AB T -400 0
+30 10 900d1+9 200d1+1 10d10+1 slap
+0 0 0 999 0
+DSWX 60 2 0 BLQ 0 0
+stand stand male 100
+D a 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 200
+0
+~
+~
+#22657
+singing bush `o[`hFrom`a"`hThe-Three-Amigos`a"`o]``~
+`cThe singing bush``~
+`cA singing bush sits on the middle of the ledge, singing. It completely ignores you.``
+~
+`a"`kShe'll be coming round the mountain when she comes.`a"``
+`a"`kShe'll be coming round the mountain when she comes.`a"``
+`a"`kShe'll be coming round the mountain,`a"``
+`a"`kShe'll be coming round the mountain,`a" ``
+`a"`kShe'll be coming round the mountain when she comes.`a"``
+``
+`a"`kOoh...`a"``
+`a"`kShe'll be driving six white horses when she comes...`a"``
+~
+unique~
+0 0 0 0
+ABNa DF 0 0
+80 0 1000d1+1 1000d1+1 10d10+100 none
+10 10 10 999 10
+DSX 0 0 ABLQUabc I 0
+stand stand neutral 3000
+D 0 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#22658
+catless tail~
+`aA cat-less tail``~
+`f(Mauve Aura)`a A cat-less tail slithes around here, looking for something. What could it be looking for?``
+~
+`hNot much to see here, just a furry tail of a cat that slithers around
+on the ground.  It slithers with a purpose though, it is looking for its
+lost cat.  `` 
+~
+unique~
+0 0 0 0
+ABI JZ -450 0
+10 5 1d200+3 2d1+0 2d2+5 whip
+10 5 10 999 5
+SW 60 1 F 0 0 G
+stand stand neutral 0
+AR 0 5 3 3 13 5 3 0
+tiny oldstyle~
+0 0 0 100
+0
+~
+~
+#22659
+skeleton squirrel~
+`hThe skeleton of a squirrel``~
+`hThe fearsome skeleton of a squirrel stomps about here, scaring you terribly.``
+~
+`aFeared throughout Linden and Silver Crescent Woods, Harry, the undead
+squirrel has travelled far and wide to spread fear, mutilate the living and
+search for nuts.  Once of pet of Carnifex himself, this squirrel has the
+respect of the undead community.  `` 
+~
+unique~
+0 0 0 0
+ABIO DFGbe -1000 0
+20 10 150d2+10 4d2+5 20d2+10 none
+0 0 0 999 0
+0 60 2 F LQRc CIM HNOS
+stand stand neutral 0
+D a 6 3 3 15 10 9 0
+tiny oldstyle~
+0 0 0 6799
+0
+~
+~
+#22660
+battle axe legs~
+`gA serrated`n battle axe`g with legs``~
+`gA serrated`n battle axe`g with legs walks around here, only wanting a hug.``
+~
+`aA chaos jester must have left this poor, abandoned battle axe here for
+someone to find.  Instead of the traditional spider-legs, this vivified axe
+has two, muscled, human legs.  `` 
+~
+unique~
+0 0 0 0
+ABI Ze -550 0
+40 40 700d3+10 200d1+1 10d10+10 slash
+0 0 0 999 0
+S 60 2 EFK ILMNPQR ES GHJKO
+stand stand neutral 0
+EJ a 10 10 10 10 10 10 0
+small oldstyle~
+0 0 0 100
+0
+~
+~
+#22661
+skeleton lookout lookouttrigger~
+The skeleton lookout~
+`gA lookout is here, keeping an eye socket on the happenings in the caverns below.``
+~
+`aThis lone skeleton keeps its eye sockets peeled, never letting the
+misty landscape of the caverns below out of sight.  It reports any intruders
+to the defenders on the wall.  `` 
+~
+unique~
+0 0 0 0
+ABFO DFJZ -1000 0
+42 20 5d20+1200 400d1+1 5d20+5 magic
+0 0 0 999 10
+DV 60 3 DFJKN BLQRc I HN
+stand stand male 1800
+D a 20 10 12 14 15 5 22710
+medium oldstyle~
+0 0 0 700
+0
+~
+~
+#0
+
+#OBJECTS
+#22623
+sparkling gem~
+a sparkling gem~
+`hA sparkling gem catches your attention.``~
+diamond~
+0
+money 2
+GSad
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 10 500 P
+#22624
+cliff~
+a cliff inlaid with veins of frosted gold~
+`hA cliff inlaid with veins of frosted gold disappears up into the darkness.``~
+stone~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+22624
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`hCareful not to slip on the frosted stone, $n ascends the cliff. The only thing remaining is $m breath.``~
+~
+`hA shadowy form comes crawling over the edge of the cliff.``~
+~
+-1 0 BG ACDFGLMO C
+0
+0
+1 5000 0 P
+#22625
+sparkling gem `b**`kEVIL`b**``~
+a sparkling gem~
+`hA sparkling gem catches your attention.``~
+diamond~
+0
+gem 2
+HPSUacd
+AC
+A
+0
+0
+0
+22625
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 10 1 P
+#22626
+crypt marble~
+a crypt~
+`hThe entrance of this marble crypt gapes at you, a wind howls from deep below.``~
+marble~
+0
+portal 2
+RSTYa
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 0 ADHLMO A
+0
+0
+1 10 1 P
+#22627
+trolley~
+a mining trolley~
+The wheels of this rusty trolley are long gone.~
+iron~
+0
+container 2
+RTYa
+0
+0
+0
+0
+0
+22627
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG 0 0 CFG CFG
+0
+0
+50 5000 55 P
+#22628
+kryptonite~
+a pile of green-glowing crystals~
+`jTHE BANE OF SUPERMAN!``~
+unknown~
+0
+weapon 2
+ST
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 A A AF 0
+0
+0
+1 1 0 P
+#22629
+tomb trap~
+a tomb trap~
+Arrows are set inside the wall, ready to pierce any intruders.~
+iron~
+0
+roomtrap 2
+STY
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BCDF A BCEH BEF 0
+ABCD
+0 0 ABD 0 0 0 D 
+40 0 0 P
+E
+specmessage~
+Arrows shoot out from the walls and pierce $n's body!
+~
+E
+victmessage~
+Arrows shoot out from the walls and pierce your body!
+~
+#22630
+dwarven burial mask~
+a dwarven burial mask~
+A golden burial mask shaped in the likeness of Traktal's face is here.~
+gold~
+0
+treasure 2
+MTZ
+J
+AX
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 100 2000 P
+A
+12 10
+#22631
+checkered underpants~
+`5a pair of checkered underpants``~
+Some underpants lie here in a pathetic little heap.~
+cloth~
+0
+clothing 2
+STd
+HM
+AE
+O
+0
+0
+22631
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 5 50 P
+A
+26 1
+A
+18 5
+A
+17 -10
+#22632
+gills worler ribbon~
+the gills of the worler~
+A slimy charcoal-black ribbon of flesh lies here.~
+flesh~
+0
+gills 2
+MPSZ
+ACM
+AC
+0
+0
+0
+22632
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 3 1 P
+A
+12 15
+#22633
+roaring furnace~
+a roaring furnace~
+Roaring furnaces makes the heat in here stand in sharp contrast to the cold outside.~
+stone~
+0
+furniture 2
+RSTYa
+0
+0
+0
+0
+0
+22633
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 10000 0 P
+#22634
+anvil~
+a great anvil~
+A great mithril anvil sits in the middle of the shop on convenient height for a dwarf.~
+mithril~
+0
+furniture 2
+RTYa
+0
+0
+0
+0
+0
+22634
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 9000 1 P
+#22635
+tarns hammer~
+Tarn's hammer~
+This mithril hammer doesn't look a day old.~
+mithril~
+0
+weapon 2
+AGYe
+HIM
+AN
+0
+BN
+0
+22635
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+C ABC AC CF DG
+0
+0
+40 300 4000 P
+A
+18 7
+#22636
+chalice fire chalicetrigger~
+a chalice of fire~
+A chalice is here, its contents are burning.~
+iron~
+0
+potion 2
+PSTUa
+O
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BCG 'firestorm' 'reserved' 'reserved' 'reserved'
+0
+0
+40 10 1000 P
+#22637
+boulder die~
+a boulder die~
+A big boulder of a die lies here, who will be able to cast it?~
+stone~
+0
+weapon 2
+GST
+JKLM
+AN
+O
+0
+0
+22637
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CD ADE A D 0
+CEFG
+0
+35 600 10000 P
+S
+ 6 383 0 -1 20 'gravity' 0
+A
+4 2
+A
+18 1
+A
+19 1
+#22638
+table~
+a table~
+A table worn from cardplay and cups of ale stands here.~
+wood~
+0
+furniture 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+C EFIKMNO D CFG CFG
+0
+0
+20 0 1 P
+#22639
+stone bed~
+a stone bed~
+Uncomfortable stone beds line the walls.~
+stone~
+0
+furniture 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+D EFIKMNO EHK CFG CFG
+0
+0
+30 0 0 P
+#22640
+castle~
+the castle~
+~
+stone~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCDFHLMO A
+0
+0
+10 1 0 P
+#22641
+staff warlock~
+`cthe`d a`cm`ba`dz`co`bn`c tribal staff``~
+A simple wooden staff floats mysteriously in the air here.~
+wood~
+0
+weapon 2
+GISY
+HO
+AN
+AELQ
+0
+0
+22641
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AB A A ABDE I
+0
+0
+50 100 5000 P
+A
+3 2
+A
+13 50
+A
+18 4
+#22642
+crystal ball crystaltrigger~
+a crystal ball~
+This crystal ball would shatter as soon as you dropped it.~
+crystal~
+0
+gem 2
+Sa
+0
+A
+0
+0
+0
+22642
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 50 1000 P
+#22643
+glittering nugget silver gold~
+a glittering nugget~
+A small nugget sparkles of silver and gold here.~
+gold~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+BCDE A 0 0 0
+0
+0
+1 3 0 P
+#22644
+glittering nugget silver gold~
+a glittering nugget~
+A small nugget sparkles of silver and gold here.~
+gold~
+0
+money 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+ABD AC 0 0 0
+0
+0
+1 5 0 P
+#22645
+ot `k*`blich`k*`bking`k*``~
+ot - lich king~
+OT~
+unknown~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+22645
+22677
+22646
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+60 0 0 P
+#22646
+royal decree decreetrigger~
+`k|`oa`k|`oroyal`k|`odecree`k|``~
+A royal decree lies here, exuding authority.~
+paper~
+0
+scroll 2
+STa
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF 'wielded enemy' 'malevolence' 'reserved' 'reserved'
+0
+0
+40 1 0 P
+E
+decree~
+`k|`oSTFU`k|``
+~
+#22647
+money purse~
+the money purse of the lich king~
+A money purse fit for a king lies here.~
+cloth~
+0
+money 2
+SY
+O
+A
+CO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 ABCD 0 0 0
+0
+0
+1 5 0 P
+#22648
+winged boots~
+`g(Winged)`d a pair of winged boots``~
+These boots looks rather ordinary, except the fact that they have small wings attached to the sides~
+hard leather~
+0
+armor 2
+S
+HILM
+AG
+0
+BCN
+0
+22648
+22647
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AC AC AC AC 0
+0
+0
+30 20 5000 P
+A
+2 1
+A
+18 2
+#22649
+decapitated head paladin~
+the decapitated head of a paladin~
+A valiant-looking head rolls around here. Take that, hordes of evil! And that!~
+flesh~
+0
+weapon 2
+JS
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+0 BD B ACF H
+0
+0
+1 40 10 P
+#22650
+basin~
+a basin~
+This basin is filled to the brim with wooden plates, knives, and forks~
+unknown~
+0
+fountain 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 A 0
+0
+0
+1 5000 0 P
+#22651
+ot~
+ot~
+Ot~
+unknown~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+22651
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 0 0 P
+#22652
+loose stone~
+loose stone~
+~
+stone~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n removes the loose stone and crawls down a hole.~
+You remove the loose stone and crawl down a hole.~
+~
+~
+-1 0 0 BDGHLMO AIK
+0
+0
+10 0 0 P
+#22653
+food stash~
+the prisoner's food stash~
+A food stash is safely tucked behind a rock.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BD CE CEFGHI 0 0
+0
+0
+0 20 50 P
+#22654
+crate supplies~
+a crate of supplies~
+A big crate full of food-stuffs is here.~
+wood~
+0
+container 2
+RST
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG 0 0 CFG 0
+0
+0
+10 400 1 P
+#22655
+sweets bowl~
+`iA big bowl of `js`ow`ke`je`ot`ks``~
+`iA big bowl of `js`ow`ke`je`ot`ks`i sits here. Have a piece, nobody would ever notice...``~
+wood~
+0
+container 2
+ST
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CFG 0 0 CFG 0
+0
+0
+10 400 1 P
+#22656
+sack potatoes~
+a sack of potatoes~
+A sack of potatoes sits here like a sack of potatoes.~
+food~
+0
+food 2
+S
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+AC AC CFG 0 0
+0
+0
+10 20 50 P
+#22657
+bunch sugared almonds~
+`da bunch of`h sugared`d almonds``~
+Some sugared almonds lies here, tempting you.~
+food~
+0
+food 2
+SU
+F
+A
+0
+0
+0
+22659
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B DGH 0 0
+0
+0
+40 1 53 P
+#22658
+candied lemon peel~
+`kcandied lemon peel``~
+`kMmm. Candied lemon peel!``~
+food~
+0
+food 2
+SU
+F
+A
+0
+0
+0
+22659
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B DGH 0 0
+0
+0
+30 1 53 P
+#22659
+caramel apple~
+`ia caramel apple``~
+`iA caramel apple sits here. Delicious!``~
+food~
+0
+food 2
+SU
+F
+A
+0
+0
+0
+22659
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B B DGH 0 0
+0
+0
+30 1 53 P
+#22660
+stone well~
+a sturdy stone well~
+A sturdy stone well burrows into the bedrock.~
+stone~
+0
+fountain 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 10 0 P
+#22661
+battle axe~
+a battle axe~
+A dwarven battle axe is driven into the ground here.~
+iron~
+0
+weapon 2
+0
+JKL
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AC BD B ADE D
+0
+0
+50 100 500 P
+#22662
+warp stone~
+warp stone~
+Warp stone~
+unknown~
+0
+warp_stone 2
+S
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#22663
+catapult~
+a dwarven catapult~
+The bowl of this dwarven catapult holds a round clay jar with a twined cloth sticking out of the top.~
+wood~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+22649
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 5000 0 P
+#22664
+heart-size diamond~
+A heart-sized diamond~
+A heart-sized diamond sparkles on a ledge here. Yours for the taking.~
+diamond~
+0
+gem 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 0 0 P
+#22665
+`i"INVENTORY" flag``~
+wand~
+Wand~
+unknown~
+0
+wand 2
+ST
+HI
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+DF B C CF 'reserved'
+0
+0
+40 5 0 P
+#22666
+hollowed-out skull~
+A hollowed-out skull~
+This skull bobs around a foot above the ground.~
+bone~
+0
+container 2
+S
+LM
+AQ
+0
+0
+0
+22666
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+B 0 0 D CFG
+0
+0
+50 0 1000 P
+A
+12 5
+A
+18 1
+A
+13 5
+#22667
+ot bodyguard~
+ot - bodyguard~
+OT~
+unknown~
+0
+trash 2
+NRSTYa
+E
+A
+0
+0
+0
+22667
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 1 0 P
+#22668
+backstab weapon~
+The bodyguard's backstab weapon~
+A dagger is here.~
+unknown~
+0
+weapon 2
+MNRSTYZa
+E
+AN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+B CE A ABD D
+0
+0
+50 1 0 P
+A
+19 30
+#22669
+castle~
+the castle~
+~
+stone~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+22669
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ADFHLMO B
+0
+0
+10 1 0 P
+#22670
+dungeon key steel~
+the key to the dungeon~
+A steel key lies here.~
+steel~
+0
+key 2
+TUc
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 1 0 P
+#22671
+blindness trap~
+a blindness trap~
+A blindness trap is here.~
+unknown~
+0
+roomtrap 2
+RSTYa
+E
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDF C BCG BD 0
+BE
+0 0 A 0 0 0 0 
+40 0 0 P
+E
+victmessage~
+A trap goes on and renders you blind! Your eyes! Your eyes!
+~
+E
+specmessage~
+A trap goes off.``
+~
+#22672
+brain blisters trap~
+a brain blister trap~
+A brain blister trap is here.~
+unknown~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDF ABDFI BCG BD 0
+BE
+0 0 A 0 0 0 0 
+40 0 0 P
+E
+specmessage~
+A trap goes off.``
+~
+E
+victmessage~
+A trap goes off causing you immense pain.``
+~
+#22673
+teleport trap~
+a teleport trap~
+A teleport trap is here.~
+unknown~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDF BEFG BCG BD 0
+BE
+0 0 A 0 0 0 0 
+40 0 0 P
+E
+specmessage~
+A trap goes off.``
+~
+E
+victmessage~
+A trap goes off causing you immense pain.``
+~
+#22674
+damage trap~
+a damage trap~
+A damage trap is here.~
+unknown~
+0
+roomtrap 2
+RSTYa
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+BCDF CDFI A BD 0
+BE
+0 0 ABE 0 0 0 0 
+40 0 0 P
+E
+victmessage~
+A trap goes off causing you immense pain.``
+~
+E
+specmessage~
+A trap goes off.``
+~
+#22675
+key strongroom~
+the strongroom key~
+A metal key lies here.~
+unknown~
+0
+key 2
+STY
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 3 0 P
+#22676
+key treasury~
+a golden key~
+The key to the treasury lies here.~
+gold~
+0
+key 2
+TUac
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+0 1 0 P
+#22677
+throne~
+the tainted throne~
+This stone throne seems to have been tainted by the presence of the lich.~
+stone~
+0
+furniture 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A FGHIJMPS E CDH ACH
+0
+0
+50 31000 0 P
+#22678
+Brobdingnagians lance~
+Brobdingnagian's lance~
+A great bone lance is shrouded in a freezing mist here.~
+bone~
+0
+weapon 2
+S
+HKLM
+AN
+FH
+0
+0
+22678
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+ABC ABC BC ABCF DI
+0
+0
+45 250 40000 P
+#22679
+brittle glass figurine~
+a brittle glass figurine~
+A red glass figurine depicting a fire glitters here.~
+glass~
+0
+roomtrap 2
+S
+O
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+CDF ABDEF BCG BD 0
+ABE
+0 0 ABE 0 0 0 0 
+40 5 1000 P
+E
+victmessage~
+`bGlass shatters beneath your foot.``
+~
+E
+specmessage~
+A trap goes off.``
+~
+#22680
+human collar bones sinew~
+two human collar bones tied together with sinew~
+A red glass figurine depicting a fire glitters here.~
+glass~
+0
+roomtrap 2
+ST
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CDF CEFI BCG BD 0
+BCE
+0 0 ABE 0 0 0 C 
+40 5 1000 P
+E
+specmessage~
+You hear the crunching of bone.
+~
+E
+victmessage~
+Bone crunches under your foot.
+~
+#22681
+silver coins pile~
+a large pile of silver coins~
+A large pile of silver coins catches your attention here.~
+silver~
+0
+money 2
+T
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+EGHIJK 0 0 0 0
+0
+0
+1 200 2000 P
+#22682
+slim bone wand~
+a slim bone wand~
+A slim bone wand with a wooden handle lies here.~
+bone~
+0
+wand 2
+SY
+H
+AO
+C
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+CDEF C AB CF 'reserved'
+0
+0
+40 10 1000 P
+#22683
+steel chest~
+a steel chest~
+Probably brimming with gold and jewels, a large steel chest sits here.~
+steel~
+0
+container 2
+STYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A ACD 0 A 0
+0
+0
+10 30000 0 P
+#22684
+huge pile gold~
+a huge pile of gold~
+`iMorts are not supposed to be able to get this.``~
+gold~
+0
+money 2
+ST
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 A 0 0 0
+0
+0
+1 31000 5 P
+#22685
+dancing shoe red~
+`ia red dancing shoe``~
+`iYou don't know how, but you realize this shoe is sad because its twin is gone.``~
+soft leather~
+0
+pill 2
+SYa
+FMN
+AG
+O
+0
+0
+22685
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+BDEG 'teleport' 'invisibility' 'curse' 'reserved'
+0
+0
+40 10 0 P
+A
+17 -20
+A
+12 50
+#22686
+living spider~
+`aA living spider``~
+`aA spider sits here, no doubt spying on you.``~
+unknown~
+0
+clothing 2
+S
+FKLM
+AO
+O
+0
+0
+22686
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+20 2 0 P
+S
+ 6 370 0 -1 10 'death spasms' 0
+A
+18 5
+#22687
+smiling face~
+`kA smiling face``~
+Hey, someone apparently dropped their face here. Free face! Woo!~
+unknown~
+0
+armor 2
+SY
+FM
+AX
+O
+0
+0
+22687
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A A A A 0
+0
+0
+10 0 0 P
+A
+6 -1
+E
+face~
+Hey this is Iverath's face! Suddenly the smile doesn't look so innocent anymore.
+~
+#22688
+axe whirlwind~
+The Great Axe "Whirlwind"~
+A grim-looking battle axe lies here, an axe head on each end.~
+iron~
+0
+weapon 2
+Ge
+JKLM
+AN
+0
+0
+0
+22688
+22661
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+AC ABC ABC 0 DFI
+0
+0
+40 200 50000 P
+A
+17 -20
+A
+2 1
+A
+18 7
+#22689
+tattered card spinach~
+`hA tattered card``~
+There is a spinach leaf depicted on this tattered card.~
+paper~
+0
+card 2
+PSU
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 CE A DF
+AC
+'haste'
+0 0 0 0 0 0
+10 0 0 P
+#22690
+ot~
+Object trigger - Enviormentals.~
+Object trigger - Enviormentals.~
+unknown~
+0
+trash 2
+RSTYa
+E
+0
+0
+0
+0
+22690
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 0 P
+#22691
+crimson card~
+`bA crimson card``~
+Warmth radiates from this crimson card.~
+paper~
+0
+card 2
+PSU
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 CE A DF
+AC
+'fireshield'
+0 0 0 0 0 0
+10 0 10 P
+#22692
+azure card triangular~
+`eAn azure card``~
+A triangular blue card is here.~
+paper~
+0
+card 2
+PSU
+0
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 CE A DF
+AC
+'armor'
+0 0 0 0 0 0
+10 0 10 P
+A
+17 -10
+#22693
+cookie jar clay~
+`hA clay jar with the word `a'`jC`m O`k O`j K`m I`k E`j S`a'`h written on it``~
+A cookie jar sits here, no doubt filled to the brim with delicious cookies.~
+clay~
+0
+container 2
+SY
+F
+A
+0
+0
+0
+22693
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+~
+~
+~
+~
+BD 0 0 BD EG
+0
+0
+40 10 0 P
+#22694
+colorful rope~
+`hA`j c`io`nl`fo`er`kf`lu`ml`b r`io`jp`oe``~
+`hA`j c`io`nl`fo`er`kf`lu`ml`b r`io`jp`oe`h slithers down the cavern wall here.``~
+cloth~
+0
+portal 2
+RSTYa
+F
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+Suddenly, $n gets pulled upwards, into the shadows! You hear a giggling`a '`kWee!`a'``~
+You just had to tug that rope, didn't you?~
+$n shoots out of the darkness below and lands in a confused heap on the ledge.~
+Of course you did!~
+AB 0 0 EGHLMO I
+0
+0
+40 0 0 P
+#22695
+pile snow~
+`hA pile of snow``~
+~
+ice~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+`h$n digs $s way through a pile of snow.``~
+`hYou dig yourself through a pile of snow.``~
+`h$n appears.``~
+~
+-1 0 0 BEGHLMO M
+0
+0
+10 0 0 P
+#22696
+water puddle~
+A puddle of water~
+A puddle of water has formed here.~
+water~
+0
+fountain 2
+RSTY
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#22697
+pretty red rope~
+`iA pretty red rope``~
+`iWhat a pretty red rope!``~
+hemp~
+0
+clothing 2
+GS
+ACFL
+AL
+O
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+25 0 0 P
+A
+1 1
+A
+26 1
+A
+3 1
+A
+4 1
+#22698
+crest lich king~
+The crest of the lich king~
+The steel crest of the lich king lies here.~
+steel~
+0
+gem 2
+EJLQT
+JKLO
+AZ
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+50 10 1000 P
+A
+18 2
+A
+13 10
+E
+crest~
+`c @@@
+`c@`kO`c@`kO`c@``
+`c@@@@@
+`c@`dHHHH
+`c @@@@``
+~
+#22699
+parchment black parchmenttrigger~
+`aA black parchment``~
+A black parchment lies here.~
+paper~
+0
+scroll 2
+NS
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+DF 'darkhounds' 'eldritch miasma' 'reserved' 'reserved'
+0
+0
+40 1 0 P
+#22700
+ivory card~
+`hAn ivory card``~
+An ivory card as thin as a leaf lies here.~
+unknown~
+0
+card 2
+SU
+BC
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+~
+~
+~
+~
+0 0 CD C BD
+B
+'detect magic'
+0 0 0 0 0 0
+40 0 50 P
+#22701
+flying fish~
+`gA flying fish``~
+`gA fish with unusually long fins lies here.``~
+flesh~
+0
+gem 2
+S
+HIJLM
+AQ
+0
+E
+0
+22701
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+40 2 1000 P
+A
+2 1
+A
+18 1
+#22702
+half ring 1~
+`hhalf a ring``~
+A broken ring lies here, only one half remains.``~
+silver~
+0
+trash 2
+0
+0
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#22703
+half ring 2~
+`ahalf a ring``~
+A broken ring lies here, only one half remains.``~
+unknown~
+0
+trash 2
+0
+O
+A
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+1 0 0 P
+#22704
+ebony silver ring~
+an ebony and silver ring~
+Black and silver intertwine creating a small ring.~
+silver~
+0
+trash 2
+PT
+H
+AB
+CEFGHIJK
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+30 1 0 P
+S
+ 6 199 0 -1 5 'dodge' 0
+#22705
+smithy doors~
+the doors of the smithy~
+`hThe barn-wide doors of the smithy stands open to the south.``~
+wood~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n enters the smithy.~
+You enter the smithy~
+`bRuffling $s mantle free of snow, $n enters the warmth of the smithy.``~
+~
+-1 0 G FHLMO A
+0
+0
+10 0 0 P
+#22706
+smithy doors~
+the doors of the smithy~
+~
+wood~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+22706
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n leaves the warmth of the smithy.~
+You leave the warmth of the smithy.~
+`h$n walks out of the smithy.``~
+~
+-1 0 G CDEHLMO B
+0
+0
+10 0 0 P
+#22707
+stairs~
+stone stairs~
+~
+stone~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n disappears up the stairs.~
+~
+$n comes up the stairs.~
+~
+-1 0 0 ABEGHLMO C
+0
+0
+100 0 0 P
+#22708
+stairs~
+stairs~
+~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+$n goes down the stairs.~
+You go down the stairs.~
+$n comes down the stairs.~
+~
+-1 0 G DEHLMO E
+0
+0
+100 0 0 P
+#22709
+looking glass~
+a looking glass~
+A looking glass is aimed at the gate on the other side of the caverns.~
+unknown~
+0
+portal 2
+RSTYa
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+A 0 0 ABFGLMO 0
+0
+0
+10 0 0 P
+#22710
+card rabbit hiding bush~
+`hA card depicting a rabbit hiding in a bush``~
+A small white card lies here.~
+unknown~
+0
+card 2
+SU
+BC
+AO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+~
+~
+~
+~
+0 0 0 0 0
+BDEG
+'detect hidden'
+0 0 0 0 0 0
+40 0 0 P
+#22711
+trap damage poison~
+An alarm trap~
+An alarm trap is here.~
+wood~
+0
+roomtrap 2
+SY
+E
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+ACDF 0 0 0 0
+BD
+DEFGLMO 0 -99 0 0 0 0 
+10 0 0 P
+E
+victmessage~
+`bYou trip on piece of wire and suddenly a bell is heard from below.``
+~
+E
+specmessage~
+`b$n trips an alarm!``
+~
+#22712
+gate~
+The gate~
+`hThe great stone arc of a gate towers above you here, gleaming with frost.``~
+unknown~
+0
+trash 2
+RSTYa
+0
+0
+0
+0
+0
+22712
+22710
+22700
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+0 0 0 0 0
+0
+0
+10 0 0 P
+E
+gate~
+`aYou can barely make out the dwarven runes inscribed on the gate:``
+``
+`a[`hYou are now entering a realm belonging to Ne'shajh`a]``
+``
+`aDwarves worshipping the Vro'ath deity...?``
+~
+#0
+
+#ROOMS
+#22623
+0 0
+~
+~
+~
+0 0 100
+`aDescending...``~
+`bThis crack in the surface of the world seems to be leading down into
+some kind of mining tunnels, and as with most mining tunnels in the realm,
+these have probably been dug by dwarves.  You feel a chill emanating from
+below, a cold that is more than just the moist low temperature that is
+common to mines.  `` 
+~
+0 D 18
+100
+~
+I 0 D4
+~
+~
+0 0 2695
+D5
+~
+~
+0 0 22624
+S
+#22624
+0 0
+~
+~
+~
+0 0 100
+`aA Mine``~
+`bThe low and narrow tunnels and the occasional rune carved into a wooden
+beam confirms that these mining tunnels are indeed dwarven.  Nobody has been
+mining here for a very long time though, dust is thick beneath and tools are
+lying around in a disarray that a dwarf would never leave them in.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22625
+D3
+~
+~
+0 0 22626
+D4
+~
+~
+0 0 22623
+S
+#22625
+0 0
+~
+~
+~
+0 0 0
+`aA Caved In Tunnel``~
+`bA ramp of rocks, stones and rubble marks the spot of a cave-in.  The
+tunnel stops here and no dwarf has been here to restore the tunnel to what
+it was.  `` 
+~
+0 D 18
+0
+~
+I 0 D2
+~
+~
+0 0 22624
+S
+#22626
+0 0
+~
+~
+~
+0 0 0
+`aA Mine``~
+`bThe tunnel ends in a wall to the west, but in the middle of the way
+there is a large hole from which a cold mist oozes out of.  Tendrils of ice
+creep up from it, ending in puddles of water.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 22624
+D5
+~
+~
+0 0 22731
+S
+#22627
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 100
+`oUnder the Gate``~
+`hA great arc frames the cavern landscape to the west, this seems to be
+the gate that marks the entrance to some kind of dwarven underground
+dwelling.  Strangely enough there is snow on the ground.  `` 
+~
+0 D 18
+0
+~
+I J D3
+~
+~
+0 0 22628
+S
+#22628
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22634
+D1
+~
+~
+0 0 22627
+D3
+~
+~
+0 0 22644
+S
+#22629
+0 0
+~
+~
+`h$n stumbles across a pile of snow as $e leaves.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22644
+D2
+~
+~
+0 0 22630
+D3
+~
+~
+0 0 22632
+S
+#22630
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 0 0
+`oThe South Wall of the Cavern``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 22629
+D3
+~
+~
+0 0 22631
+S
+#22631
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 100
+`oBeneath a Frost-glittering Cliff``~
+`hGems sparkle against the white-tinted cliff like colorful berries
+fallen in snow.  There are enough footholds for a person to venture an
+ascent.  High above the sound of pickaxes against hard rock can be heard. 
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22632
+D1
+~
+~
+0 0 22630
+D3
+~
+~
+0 0 22657
+S
+#22632
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22633
+D1
+~
+~
+0 0 22629
+D2
+~
+~
+0 0 22631
+D3
+~
+~
+0 0 22656
+S
+#22633
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D1
+~
+~
+0 0 22644
+D2
+~
+~
+0 0 22632
+D3
+~
+~
+0 0 22655
+S
+#22634
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D2
+~
+~
+0 0 22628
+D3
+~
+~
+0 0 22645
+S
+#22635
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe North Wall of the Cavern``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D1
+~
+~
+0 0 22643
+D2
+~
+~
+0 0 22636
+D3
+~
+~
+0 0 22647
+S
+#22636
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22635
+D1
+~
+~
+0 0 22646
+D3
+~
+~
+0 0 22648
+S
+#22637
+0 0
+~
+~
+~
+0 512 0
+`oHigh Up on a Cliff``~
+`hIt is understandable that the dwarves would pick these caverns for
+their dwelling, the walls glitters of sparkling minerals, ores and gems. 
+Scares of tools marr each and every wall.  `` 
+~
+0 D 18
+0
+~
+I J D1
+~
+~
+0 0 22638
+S
+#22638
+0 0
+~
+~
+~
+0 512 0
+`oA Mining Tunnel``~
+`hIt is understandable that the dwarves would pick these caverns for
+their dwelling, the walls glitters of sparkling minerals, ores and gems. 
+Scares of tools marr each and every wall.  `` 
+~
+0 D 18
+0
+~
+I J D1
+~
+~
+0 0 22639
+D2
+~
+~
+0 0 22660
+D3
+~
+~
+0 0 22637
+S
+#22639
+0 0
+~
+~
+~
+0 512 0
+`oA Mining Tunnel``~
+`hIt is understandable that the dwarves would pick these caverns for
+their dwelling, the walls glitters of sparkling minerals, ores and gems. 
+Scares of tools marr each and every wall.  `` 
+~
+0 D 18
+0
+~
+I J D1
+~
+~
+0 0 22640
+D3
+~
+~
+0 0 22638
+S
+#22640
+0 0
+~
+~
+~
+0 512 0
+`oA Mining Tunnel``~
+`hIt is understandable that the dwarves would pick these caverns for
+their dwelling, the walls glitters of sparkling minerals, ores and gems. 
+Scares of tools marr each and every wall.  `` 
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22641
+D3
+~
+~
+0 0 22639
+S
+#22641
+0 0
+~
+~
+~
+0 512 0
+`oSliding Down a Slope of Ice``~
+`hThe ice beneath your feet makes you slide north- and downwards to an
+unknown location.  The walls of this passage seems to be especially rich of
+gold.  `` 
+~
+0 DNc 18
+0
+~
+I I D0
+~
+~
+0 0 22642
+D2
+~
+~
+0 0 22640
+S
+#22642
+0 0
+~
+~
+~
+0 512 0
+`oSliding Down a Slope of Ice``~
+`hThe ice beneath your feet makes you slide north- and downwards to an
+unknown location.  The walls of this passage seems to be especially rich of
+gold.  `` 
+~
+0 Nc 18
+0
+~
+I I D0
+~
+~
+0 0 22624
+D2
+~
+~
+0 0 22641
+S
+#22643
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 100
+`oBy the Cairns``~
+`hAn ancient crypt made out of white marble rests here between two
+stalagmites, whatever dwarven runes that proclaimed the name of the dwarf
+buried here are long gone.  `` 
+~
+0 D 18
+0
+~
+I J D3
+~
+~
+0 0 22635
+S
+#22644
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 100
+`oThe Stuck Trolley``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22645
+D1
+~
+~
+0 0 22628
+D2
+~
+~
+0 0 22629
+D3
+~
+~
+0 0 22633
+S
+#22645
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22646
+D1
+~
+~
+0 0 22634
+D2
+~
+~
+0 0 22644
+S
+#22646
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oA Corner of the Cavern``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath create the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D2
+~
+~
+0 0 22645
+D3
+~
+~
+0 0 22636
+S
+#22647
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe North Wall of the Cavern``~
+`hTo the west the sound of flowing water can be heard, but the water can
+not be seen through the mist.  The eerie clacking of steel against stone
+echoes throughout the caverns.``
+~
+0 D 18
+0
+~
+I J D1
+~
+~
+0 0 22635
+D2
+~
+~
+0 0 22648
+D3
+~
+~
+0 0 22652
+S
+#22648
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hTo the west the sound of flowing water can be heard, but the water can
+not be seen through the mist.  The eerie clacking of steel against stone
+echoes throughout the caverns.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22647
+D1
+~
+~
+0 0 22636
+D2
+~
+~
+0 0 22649
+D3
+~
+~
+0 0 22651
+S
+#22649
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hTo the west the sound of flowing water can be heard, but the water can
+not be seen through the mist.  The eerie clacking of steel against stone
+echoes throughout the caverns.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22648
+D2
+~
+~
+0 0 22655
+D3
+~
+~
+0 0 22650
+S
+#22650
+0 0
+~
+~
+~
+0 512 0
+`oThe Moat``~
+`hThe freezing waters of the moat are enough to keep any intruders from
+wading through it, even if it is shallow.  A weak current leads southwards.``
+~
+0 D 7
+0
+~
+I 0 D0
+~
+~
+0 0 22651
+D1
+~
+~
+0 0 22649
+S
+#22651
+0 0
+~
+~
+~
+0 512 0
+`oThe Moat``~
+`hThe freezing waters of the moat are enough to keep any intruders from
+wading through it, even if it is shallow.  A weak current leads southwards.``
+~
+0 D 7
+0
+~
+I 0 D0
+~
+~
+0 0 22652
+D1
+~
+~
+0 0 22648
+D2
+~
+~
+0 0 22650
+S
+#22652
+0 0
+~
+~
+~
+0 512 0
+`oThe Moat``~
+`hThe freezing waters of the moat are enough to keep any intruders from
+wading through it, even if it is shallow.  A weak current leads southwards.``
+~
+0 D 7
+0
+~
+I 0 D0
+~
+~
+0 0 22653
+D1
+~
+~
+0 0 22647
+D2
+~
+~
+0 0 22651
+S
+#22653
+0 0
+~
+~
+~
+0 512 100
+`oThe Waterfall``~
+`hBlack water cascades down the cave wall and foams as it meets the moat
+below.  The taste of salt lies thick in the air and the push of the
+waterfall wants to push you down under.  `` 
+~
+0 D 0
+0
+~
+I A J The waterfall forces you under!~
+K (null)~
+L20
+N22654
+Q $n is sucked into the chilly waters!~
+D2
+~
+~
+0 0 22652
+S
+#22654
+0 0
+~
+~
+~
+0 512 0
+`aThe Maelstrom``~
+`eStreaming water pulls you down deeper into the murky waters!``
+~
+0 D 11
+0
+~
+I A J The current draws you deeper into the maelstrom.~
+K (null)~
+L5
+N22668
+Q The current draws $n deeper into the maelstrom.~
+D1
+~
+~
+0 0 22668
+D4
+~
+~
+0 0 22653
+S
+#22655
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oBefore the Drawbridge``~
+`hThese are the underground caverns of Bar-Baz, cold mist makes the
+snow-covered stone underneath creates the illusion of walking on a cloud. 
+Gems glint high above in the roof of the cave and flashes of yellow gleam in
+your peripheral vision.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22649
+D1
+~
+~
+0 0 22633
+D2
+~
+~
+0 0 22656
+D3
+~
+~
+0 0 22663
+S
+#22656
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe Caverns of Bar-Baz``~
+`hTo the west the sound of flowing water can be heard, but the water can
+not be seen through the mist.  The eerie clacking of steel against stone
+echoes throughout the caverns.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22655
+D1
+~
+~
+0 0 22632
+D2
+~
+~
+0 0 22657
+D3
+~
+~
+0 0 22659
+S
+#22657
+0 0
+~
+~
+`h$n plods through the snow to to the $T.``~
+0 512 0
+`oThe South Wall of the Cavern``~
+`hTo the west the sound of flowing water can be heard, but the water can
+not be seen through the mist.  The eerie clacking of steel against stone
+echoes throughout the caverns.  `` 
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22656
+D1
+~
+~
+0 0 22631
+D3
+~
+~
+0 0 22658
+S
+#22658
+0 0
+~
+~
+~
+0 512 0
+`oThe Moat``~
+`hThe freezing waters of the moat are enough to keep any intruders from
+wading through it, even if it is shallow.  A weak current leads southwards. 
+~
+0 D 7
+0
+~
+I 0 D0
+~
+~
+0 0 22659
+D1
+~
+~
+0 0 22657
+S
+#22659
+0 0
+~
+~
+~
+0 512 0
+`oThe Moat``~
+`hThe freezing waters of the moat are enough to keep any intruders from
+wading through it, even if it is shallow.  A weak current leads southwards.``
+~
+0 D 7
+0
+~
+I 0 D1
+~
+~
+0 0 22656
+D2
+~
+~
+0 0 22658
+S
+#22660
+0 0
+~
+~
+~
+0 512 0
+`oSliding Across an Icy Floor``~
+`hIt is understandable that the dwarves would pick these caverns for
+their dwelling, the walls glitters of sparkling minerals, ores and gems. 
+Scares of tools marr each and every wall.  `` 
+~
+0 D 18
+0
+~
+I I D0
+~
+~
+0 0 22638
+D2
+~
+~
+0 0 22662
+D3
+~
+door~
+4097 0 22661
+S
+#22661
+0 0
+~
+~
+~
+0 512 0
+`oA Tool Stash``~
+`bStagnant air whirls as the door is opened and the smell of rotting wood
+wafts by you.  From the hooks and rings that hang from the walls and ceiling
+one can conclude that this is some kind of storage room.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+door~
+4097 0 22660
+S
+#22662
+0 0
+~
+~
+~
+0 512 0
+`oA Dead End``~
+`hIt is understandable that the dwarves would pick these caverns for
+their dwelling, the walls glitters of sparkling minerals, ores and gems. 
+Scares of tools marr each and every wall.  `` 
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22660
+S
+#22663
+0 0
+~
+~
+~
+0 512 100
+`oOn the Drawbridge``~
+`hThe material of the drawbridge feels and sounds like both stone and
+wood, you cannot decide which.  It stretches over the dark moat, and leads
+through the opening in the outer castle wall.  `` 
+~
+0 D 1
+0
+~
+I J D1
+~
+~
+0 0 22655
+D3
+~
+~
+0 0 22664
+S
+#22664
+0 0
+~
+~
+~
+0 512 0
+`oJust Inside the Gate``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22676
+D1
+~
+~
+0 0 22663
+D2
+~
+~
+0 0 22681
+D3
+~
+~
+0 0 22685
+S
+#22665
+0 0
+~
+`dDodging cobwebs, $n walks up to you.``~
+~
+0 512 0
+`aThe Crypt``~
+`dDwarven runes of warning zig-zag across the floorstones here, going
+farther into the crypt could very well be hazardous to one's health.  A dark
+passage continues to the west.  `` 
+~
+0 D 18
+0
+~
+I 0 D3
+~
+~
+0 0 22666
+D4
+~
+~
+0 0 22643
+S
+#22666
+0 0
+~
+`dDodging cobwebs, $n walks up to you.``~
+~
+0 512 0
+`aThe Crypt``~
+`dDwarven runes of warning zig-zag across the floorstones here, going
+farther into the crypt could very well be hazardous to one's health.  A
+great door is between you and the crypt's main chamber.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 22665
+D3
+~
+door~
+4161 0 22667
+S
+#22667
+0 0
+~
+`d$n bravely enters the room.``~
+~
+0 512 0
+`aTraktal's Tomb``~
+`dThis is the main chamber of the crypt, and by the looks of things,
+whoever was buried here was not buried deep enough.  The lid of the coffin
+lies broken on the floor and the coffin itself is empty.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+door~
+4161 0 22666
+S
+#22668
+0 0
+~
+~
+~
+0 512 0
+`aThe Maelstrom``~
+`eStreaming water pulls you down deeper into the murky waters!``
+~
+0 D 11
+0
+~
+I A J The current draws you deeper into the maelstrom.~
+K (null)~
+L10
+N22669
+Q The current draws $n deeper into the maelstrom.~
+D3
+~
+~
+0 0 22654
+D5
+~
+~
+0 0 22669
+S
+#22669
+0 0
+~
+~
+~
+0 512 0
+`aThe Maelstrom``~
+`eStreaming water pulls you down deeper into the murky waters!``
+~
+0 D 11
+0
+~
+I A J The current draws you deeper into the maelstrom.~
+K (null)~
+L7
+N22670
+Q The current draws $n deeper into the maelstrom.~
+D0
+~
+~
+0 0 22670
+D4
+~
+~
+0 0 22668
+S
+#22670
+0 0
+~
+~
+~
+0 512 0
+`aThe Maelstrom``~
+`eStreaming water pulls you down deeper into the murky waters!``
+~
+0 D 11
+0
+~
+I A J The current draws you deeper into the maelstrom.~
+K (null)~
+L10
+N22672
+Q The current draws $n deeper into the maelstrom.~
+D1
+~
+door~
+4161 0 22671
+D2
+~
+~
+0 0 22669
+D5
+~
+~
+0 0 22672
+S
+#22671
+0 0
+~
+~
+~
+0 0 0
+`aIn a Bubble of Air``~
+`bPurple lightning stream across the surface of the bubble of air,
+somehow chaos energies suspend the laws of nature here.  To the west the
+water whirls in a powerful downward spiral.  `` 
+~
+0 D 18
+0
+~
+I F D3
+~
+door~
+4161 0 22670
+S
+#22672
+0 0
+~
+~
+~
+0 512 0
+`aThe Maelstrom``~
+`eStreaming water pulls you down deeper into the murky waters!``
+~
+0 D 11
+0
+~
+I A J The current draws you deeper into the maelstrom.~
+K (null)~
+L7
+N22673
+Q The current draws $n deeper into the maelstrom.~
+D3
+~
+~
+0 0 22673
+D4
+~
+~
+0 0 22670
+S
+#22673
+0 0
+~
+~
+~
+0 512 0
+`aThe Maelstrom``~
+`eStreaming water pulls you down deeper into the murky waters!``
+~
+0 D 11
+0
+~
+I A J The current draws you deeper into the maelstrom.~
+K (null)~
+L7
+N22674
+Q The current draws $n deeper into the maelstrom.~
+D1
+~
+~
+0 0 22672
+D5
+~
+~
+0 0 22674
+S
+#22674
+0 0
+~
+~
+~
+0 512 0
+`aThe Maelstrom``~
+`eStreaming water pulls you down deeper into the murky waters!``
+~
+0 D 11
+0
+~
+I A J The current draws you deeper into the maelstrom.~
+K (null)~
+L15
+N22675
+Q The current draws $n deeper into the maelstrom.~
+D2
+~
+~
+0 0 22675
+D4
+~
+~
+0 0 22673
+S
+#22675
+0 0
+~
+~
+~
+0 512 0
+`aThe Bottom of the Maelstrom``~
+`eThis is the source of the maelstrom, the very bottom of the water mass
+spiraling into the depths.  Skulls and bones swirl around in a macabre dance
+as the current tugs the water in every direction.  `` 
+~
+0 D 11
+0
+~
+I 0 D0
+~
+~
+0 0 22674
+S
+#22676
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22677
+D2
+~
+~
+0 0 22664
+D3
+~
+~
+0 0 22686
+S
+#22677
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22678
+D2
+~
+~
+0 0 22676
+D3
+~
+~
+0 0 22687
+S
+#22678
+0 0
+~
+~
+~
+0 512 100
+`oStairs to the Wall``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.  `` 
+~
+0 D 1
+0
+~
+I 0 D2
+~
+~
+0 0 22677
+D3
+~
+door~
+1 0 22679
+D4
+~
+~
+0 0 22680
+S
+#22679
+0 0
+~
+~
+~
+0 512 0
+`oThe Guard Room``~
+`bThis room seems to be little more than a place to keep warm in.  A fire
+once burned in the hearth on the north wall, and a wooden table with
+accompanying chairs are awkwardly heaped in a corner.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+door~
+1 0 22678
+S
+#22680
+0 0
+~
+~
+~
+0 512 0
+`oInside the Watchtower``~
+`bThree thick stone walls surround you but to the east there is an
+opening leading out on the wall of the castle.  The stairs continue upwards
+to the top of the watchtower.  `` 
+~
+0 D 18
+0
+~
+I 0 D2
+~
+~
+0 0 22699
+D5
+~
+~
+0 0 22678
+S
+#22681
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22664
+D2
+~
+~
+0 0 22682
+D3
+~
+~
+0 0 22684
+S
+#22682
+0 0
+~
+~
+~
+0 512 100
+`oStairs to the Wall``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.  `` 
+~
+0 D 1
+0
+~
+I 0 D0
+~
+~
+0 0 22681
+D4
+~
+~
+0 0 22683
+S
+#22683
+0 0
+~
+~
+~
+0 512 0
+`oOn the Wall``~
+`bOn top of the lich king's, once the dwarf chieftan's, castle walls, you
+overlook the great cavern to the east.  Through the freezing mists you see
+the glimmer of snow and the shadows that are the lumbering lich creatures.`` 
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22702
+D5
+~
+~
+0 0 22682
+S
+#22684
+0 0
+~
+~
+~
+0 512 0
+`oIn Front of the Smithy``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22685
+D1
+~
+~
+0 0 22681
+D3
+~
+~
+0 0 22689
+S
+#22685
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22686
+D1
+~
+~
+0 0 22664
+D2
+~
+~
+0 0 22684
+D3
+~
+~
+0 0 22690
+S
+#22686
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22687
+D1
+~
+~
+0 0 22676
+D2
+~
+~
+0 0 22685
+D3
+~
+~
+0 0 22691
+S
+#22687
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 22677
+D2
+~
+~
+0 0 22686
+D3
+~
+~
+0 0 22692
+S
+#22688
+0 0
+~
+~
+~
+0 512 100
+`oThe Smithy``~
+`bBarrels full of swords and axes huddle near the barn-wide entrance to
+the smithy, but by the look of the weapons you notice that they are not of
+the same quality as ones made by a true dwarven blacksmith.  A great anvil
+dominates the room and close to it are tubs of oil and water.  Heat radiates
+from the south.  `` 
+~
+0 D 18
+0
+~
+I 0 D2
+~
+~
+0 0 22698
+S
+#22689
+0 0
+~
+~
+~
+0 512 0
+`oOutside of the Barracks``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22690
+D1
+~
+~
+0 0 22684
+D2
+~
+door~
+1 0 22693
+S
+#22690
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22691
+D1
+~
+~
+0 0 22685
+D2
+~
+~
+0 0 22689
+S
+#22691
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22692
+D1
+~
+~
+0 0 22686
+D2
+~
+~
+0 0 22690
+D3
+~
+~
+0 0 22697
+S
+#22692
+0 0
+~
+~
+~
+0 512 0
+`oThe Courtyard``~
+`bThe courtyard is free of snow, but the frosty mist flows over the walls
+from the eas.  The dry smell of undeath permeates the grounds, telling you
+want you already knew: this is a den of evil.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22696
+D1
+~
+~
+0 0 22687
+D2
+~
+~
+0 0 22691
+S
+#22693
+0 0
+~
+~
+~
+0 512 0
+`oThe Barracks``~
+`bThe barracks building is a bit more comfortable than being outside, in
+the cold, but years, perhaps decades of use have reduced the furnishings to
+mear shadows of what they used to be.  Groves can be seen in the stone floor
+where dwarven, later lichen, boots have walked.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+door~
+1 0 22689
+D3
+~
+~
+0 0 22694
+S
+#22694
+0 0
+~
+~
+~
+0 512 0
+`oThe Barracks``~
+`bThe barracks building is a bit more comfortable than being outside, in
+the cold, but years, perhaps decades of use have reduced the furnishings to
+mear shadows of what they used to be.  Groves can be seen in the stone floor
+where dwarven, later lichen, boots have walked.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 22693
+D3
+~
+~
+0 0 22695
+S
+#22695
+0 0
+~
+~
+~
+0 512 0
+`oThe Barracks``~
+`bThe barracks building is a bit more comfortable than being outside, in
+the cold, but years, perhaps decades of use have reduced the furnishings to
+mear shadows of what they used to be.  Groves can be seen in the stone floor
+where dwarven, later lichen, boots have walked.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 22694
+S
+#22696
+0 0
+~
+~
+~
+0 512 0
+`oThe Abandoned Well``~
+`bTo a dwarf, water may be a necessity, but to a lich drinking usually
+involved blood, preferably to celebrate killing one of the mortal races.  ``
+~
+0 D 18
+0
+~
+I 0 D2
+~
+~
+0 0 22692
+S
+#22697
+0 0
+~
+~
+~
+0 512 100
+`oBefore the Castle Gates``~
+`bA great gate made of granite inlaid with mithril is apparently a
+seamless part of the rest of the castle wall.  If any invading army ever
+should get past the moat and the outer walls, this is where it would stop,
+despair, and turn back.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 22691
+S
+#22698
+0 0
+~
+~
+~
+0 512 0
+`oThe Back Room of the Smithy``~
+`bThe heat in here is enourmous, great open furnaces roar with fire and
+in them pieces of steel are kept molten white.  A wooden crate filled with
+coal sits on the far west side, at he opposite side of the furnaces.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22688
+S
+#22699
+0 0
+~
+~
+~
+0 512 0
+`oOn the Wall``~
+`bOn top of the lich king's, once the dwarf chieftan's, castle walls, you
+overlook the great cavern to the east.  Through the freezing mists you see
+the glimmer of snow and the shadows that are the lumbering lich creatures.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22680
+D2
+~
+~
+0 0 22700
+S
+#22700
+0 0
+~
+~
+~
+0 512 0
+`oOn the Wall``~
+`bOn top of the lich king's, once the dwarf chieftan's, castle walls, you
+overlook the great cavern to the east.  Through the freezing mists you see
+the glimmer of snow and the shadows that are the lumbering lich creatures.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22699
+D2
+~
+~
+0 0 22701
+S
+#22701
+0 0
+~
+~
+~
+0 512 0
+`oOn the Wall``~
+`bOn top of the lich king's, once the dwarf chieftan's, castle walls, you
+overlook the great cavern to the east.  Through the freezing mists you see
+the glimmer of snow and the shadows that are the lumbering lich creatures.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22700
+D2
+~
+~
+0 0 22702
+S
+#22702
+0 0
+~
+~
+~
+0 512 0
+`oOn the Wall``~
+`bOn top of the lich king's, once the dwarf chieftan's, castle walls, you
+overlook the great cavern to the east.  Through the freezing mists you see
+the glimmer of snow and the shadows that are the lumbering lich creatures.``
+~
+0 D 18
+0
+~
+I J D0
+~
+~
+0 0 22701
+D2
+~
+~
+0 0 22683
+S
+#22703
+0 0
+~
+~
+~
+0 512 100
+`oThe Castle Foyer``~
+`bNarrow, dwarf-sized corridors lead into the castle of Bar-Baz. 
+Flickering torches light the way but offer no comfort, after all, what
+comfort is light and warmth in a keep full of undead warriors?  `` 
+~
+0 D 18
+0
+~
+I 0 D3
+~
+~
+0 0 22704
+S
+#22704
+0 0
+~
+~
+~
+0 512 0
+`oThe Main Corridor``~
+`bEven though the walls are marble and expensive tapestries and beautiful
+red mats adorn the corridors of this castle, the fact that it was carved out
+of the side of a gargantuan cave is somehow apparent.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22705
+D1
+~
+~
+0 0 22703
+D2
+~
+~
+0 0 22715
+D3
+~
+~
+0 0 22719
+S
+#22705
+0 0
+~
+~
+~
+0 512 0
+`oThe North Corridor``~
+`bEven though the walls are marble and expensive tapestries and beautiful
+red mats adorn the corridors of this castle, the fact that it was carved out
+of the side of a gargantuan cave is somehow apparent.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22707
+D1
+~
+door~
+1 0 22706
+D2
+~
+~
+0 0 22704
+S
+#22706
+0 0
+~
+~
+~
+0 512 0
+`oThe Lord's Chamber``~
+`bFlower-patterned silks and tapestries adorn the walls here, between the
+plentiful amount of mirrors.  Back west is the northern corridor.  `` 
+~
+0 D 18
+0
+~
+I 0 D3
+~
+door~
+1 0 22705
+S
+#22707
+0 0
+~
+~
+~
+0 512 0
+`oThe North Corridor``~
+`bEven though the walls are marble and expensive tapestries and beautiful
+red mats adorn the corridors of this castle, the fact that it was carved out
+of the side of a gargantuan cave is somehow apparent.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22708
+D2
+~
+~
+0 0 22705
+S
+#22708
+0 0
+~
+~
+~
+0 512 0
+`oThe North Corridor``~
+`bEven though the walls are marble and expensive tapestries and beautiful
+red mats adorn the corridors of this castle, the fact that it was carved out
+of the side of a gargantuan cave is somehow apparent.  `` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+door~
+4193 22670 22709
+D2
+~
+~
+0 0 22707
+S
+#22709
+0 0
+~
+~
+~
+0 512 0
+`oAbove the Dungeon``~
+`bA narrow staircase leads down into the dungeon where the stench,
+screams and mad laughter of prisoners await.  The reinforced door to the
+west looks much less inpenetrable on this side of the door.  `` 
+~
+0 D 18
+0
+~
+I 0 D3
+~
+door~
+4193 22670 22708
+D5
+~
+~
+0 0 22710
+S
+#22710
+0 0
+~
+~
+~
+0 512 0
+`oThe Dungeon``~
+`bSteel doors line the dungeon walls.  This is where the enemies of the
+lich king gets to sit and do nothing for the rest of their lives. 
+Occasional screams can be heard as some prisoner decides the silence is too
+much to take`` 
+~
+0 D 18
+0
+~
+I 0 D1
+~
+door~
+4161 0 22711
+D2
+~
+~
+0 0 22712
+D4
+~
+~
+0 0 22709
+S
+#22711
+0 0
+~
+~
+~
+0 512 0
+`oA Cell``~
+`bFour walls, a ceiling and a floor, all made of stone.  This cell smells
+like somebody died in it, which is not a very far-fetched thought.  `` 
+~
+0 DN 18
+0
+~
+I 0 D3
+~
+door~
+4161 0 22710
+S
+#22712
+0 0
+~
+~
+~
+0 512 0
+`oThe Dungeon``~
+`bSteel doors line the dungeon walls.  This is where the enemies of the
+lich king gets to sit and do nothing for the rest of their lives. 
+Occasional screams can be heard as some prisoner decides the silence is too
+much to take`` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22710
+D1
+~
+door~
+97 0 22713
+D2
+~
+door~
+4129 0 22714
+S
+#22713
+0 0
+~
+~
+~
+0 512 0
+`oA Cell``~
+`bFour walls, a ceiling and a floor, all made of stone.  This cell smells
+like somebody died in it, which is not a very far-fetched thought.  `` 
+~
+0 DN 18
+0
+~
+I 0 D3
+~
+door~
+97 0 22712
+S
+#22714
+0 0
+~
+~
+~
+0 512 0
+`oA Cell``~
+`bFour walls, a ceiling and a floor, all made of stone.  This cell smells
+like somebody died in it, which is not a very far-fetched thought.  `` 
+~
+0 DN 18
+0
+~
+I 0 D0
+~
+door~
+4129 0 22712
+S
+#22715
+0 0
+~
+~
+~
+0 512 0
+`oA Corridor``~
+`bEven though the walls are marble and expensive tapestries and beautiful
+red mats adorn the corridors of this castle, the fact that it was carved out
+of the side of a gargantuan cave is somehow apparent.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22704
+D1
+~
+door~
+1 0 22716
+D2
+~
+door~
+1 0 22718
+S
+#22716
+0 0
+~
+~
+~
+0 512 0
+`oThe Kitchens``~
+`bLow benches are littered by rotting food and various cooking utensils. 
+The floor is wet with dishwater and foul-smelling pieces of gunk.  `` 
+~
+0 D 18
+0
+~
+I 0 D2
+~
+~
+0 0 22717
+D3
+~
+door~
+1 0 22715
+S
+#22717
+0 0
+~
+~
+~
+0 512 0
+`oThe Kitchens``~
+`bLow benches are littered by rotting food and various cooking utensils. 
+The floor is wet with dishwater and foul-smelling pieces of gunk.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22716
+S
+#22718
+0 0
+~
+~
+~
+0 512 100
+`oA Storage Room``~
+`bCrates have been stacked everywhere in this room, except one spot that
+is strangely empty.  Footstuff is stored in here, by the smell of it. 
+Somebody better eat it soon, or that smell may get worse.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+door~
+1 0 22715
+S
+#22719
+0 0
+~
+~
+~
+0 512 0
+`oThe Main Corridor``~
+`bEven though the walls are marble and expensive tapestries and beautiful
+red mats adorn the corridors of this castle, the fact that it was carved out
+of the side of a gargantuan cave is somehow apparent.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22724
+D1
+~
+~
+0 0 22704
+D2
+~
+door~
+4193 22676 22720
+D3
+~
+~
+0 0 22722
+S
+#22720
+0 0
+~
+~
+~
+0 512 100
+`oBy the Stairs Leading Down Into the Treasury``~
+`bThe heart of the dwarf castle: the treasury.  This is where all the
+king's riches are locked in.  Protected by guards, traps and foot-thick
+stone doors.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+door~
+4193 22676 22719
+D5
+~
+~
+0 0 22721
+S
+#22721
+0 0
+~
+~
+~
+0 512 0
+`oThe Corridor Leading to the Strongroom``~
+`bThe heart of the dwarf castle: the treasury.  This is where all the
+king's riches are locked in.  Protected by guards, traps and foot-thick
+stone doors.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22732
+D4
+~
+~
+0 0 22720
+S
+#22722
+0 0
+~
+~
+~
+0 512 100
+`oBelow the Throne``~
+`bA marble stair leads up to the dwarf-sized throne and torches spread
+their light all the way up.  To the east the hollow thumping of the lich
+guards' feet are heard as they patrol along the corridors.  `` 
+~
+0 D 1
+0
+~
+I 0 D1
+~
+~
+0 0 22719
+D4
+~
+~
+0 0 22723
+S
+#22723
+0 0
+~
+~
+~
+0 512 100
+`oThe Tainted Throne``~
+`bThough beautiful, in the rugged dwarf way, there is something wrong
+with this room.  It is as if the mere presence of the lich king makes the
+air foul and the very stone rot.  `` 
+~
+0 Db 18
+0
+~
+I 0 D5
+~
+~
+0 0 22722
+S
+#22724
+0 0
+~
+~
+~
+0 512 0
+`oIn Front of the Ballroom Doors``~
+`bEven though the walls are marble and expensive tapestries and beautiful
+red mats adorn the corridors of this castle, the fact that it was carved out
+of the side of a gargantuan cave is somehow apparent.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+door~
+4097 0 22725
+D2
+~
+~
+0 0 22719
+S
+#22725
+0 0
+~
+~
+~
+0 512 0
+`oThe Ballroom``~
+`bBy dwarven standards, this ballroom is once magnificent.  Now its
+purpose is more that of sparring than dancing.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22727
+D2
+~
+door~
+4097 0 22724
+D3
+~
+~
+0 0 22726
+S
+#22726
+0 0
+~
+~
+~
+0 512 0
+`oThe Ballroom``~
+`bBy dwarven standards, this ballroom is once magnificent.  Now its
+purpose is more that of sparring than dancing.``
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22728
+D1
+~
+~
+0 0 22725
+S
+#22727
+0 0
+~
+~
+~
+0 512 0
+`oThe Ballroom``~
+`bBy dwarven standards, this ballroom is once magnificent.  Now its
+purpose is more that of sparring than dancing.``
+~
+0 D 18
+0
+~
+I 0 D2
+~
+~
+0 0 22725
+D3
+~
+~
+0 0 22728
+S
+#22728
+0 0
+~
+~
+~
+0 512 0
+`oThe Ballroom``~
+`bBy dwarven standards, this ballroom is once magnificent.  Now its
+purpose is more that of sparring than dancing.``
+~
+0 D 18
+0
+~
+I 0 D1
+~
+~
+0 0 22727
+D2
+~
+~
+0 0 22726
+D3
+~
+door~
+4193 0 22729
+S
+#22729
+0 0
+~
+~
+~
+0 512 0
+`oA Locked Room``~
+~
+0 DN 18
+0
+~
+I 0 D1
+~
+door~
+4193 0 22728
+S
+#22730
+0 0
+~
+~
+~
+0 512 0
+`aAn Escape Tunnel``~
+`bLeave it up to a dwarf to try and dig himself out of a prison cell. 
+This beginning of a tunnel is actually quite impressive considering the lack
+of tools and the fact that there seems to be more stone than dirt to dig
+through`` 
+~
+0 ADJ 18
+0
+~
+I 0 D4
+~
+~
+0 0 22713
+S
+#22731
+0 0
+~
+~
+~
+0 512 0
+`oSliding Down an Icy Slope``~
+`bAs you slide down the iced slope you feel gusts of freezing wind
+against your face.  `` 
+~
+0 Dc 18
+0
+~
+I I D4
+~
+~
+0 0 22626
+D5
+~
+~
+0 0 22627
+S
+#22732
+0 0
+~
+~
+~
+0 512 0
+`oThe Corridor Leading to the Strongroom``~
+`bThe heart of the dwarf castle: the treasury.  This is where all the
+king's riches are locked in.  Protected by guards, traps and foot-thick
+stone doors.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22733
+D2
+~
+~
+0 0 22721
+S
+#22733
+0 0
+~
+~
+~
+0 512 0
+`oThe Corridor Leading to the Strongroom``~
+`bThe heart of the dwarf castle: the treasury.  This is where all the
+king's riches are locked in.  Protected by guards, traps and foot-thick
+stone doors.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+~
+0 0 22734
+D2
+~
+~
+0 0 22732
+S
+#22734
+0 0
+~
+~
+~
+0 512 0
+`oThe Corridor Leading to the Strongroom``~
+`bThe heart of the dwarf castle: the treasury.  This is where all the
+king's riches are locked in.  Protected by guards, traps and foot-thick
+stone doors.  `` 
+~
+0 D 18
+0
+~
+I 0 D0
+~
+door~
+4193 22675 22735
+D2
+~
+~
+0 0 22733
+S
+#22735
+0 0
+~
+~
+~
+0 512 0
+`oThe Strongroom of the Castle``~
+`bThe strongroom is strangely empty.  The piles of silver and gold are
+absent and no jewels lie strewn on the stone floor.  A vein of quartz lead
+in light from the surface and casts its light on a lone steel chest.  `` 
+~
+0 D 18
+0
+~
+I 0 D2
+~
+door~
+4193 22675 22734
+S
+#22736
+0 0
+~
+~
+~
+16384 512 0
+`oHigh Up on a Ledge``~
+`hHigh above the floor of the cavern is this ledge.  This is a place
+where mystical chaos energies leak from another world, transforming its
+surroundings to a warped reality.  A singing bush does what it does best
+while waving its branches around.  `` 
+~
+0 DMN 18
+0
+~
+I F D5
+~
+~
+0 0 22647
+S
+#22737
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 CDKNOT 0
+0
+~
+I 0 S
+#22738
+0 100000
+`hYou have found a good place to rest. Good job.``~
+~
+~
+0 512 0
+`oInside a Pile of Snow``~
+`bThe comfortable warmth and the packed silence embraces you here under
+the snow.  You feel certain that none of the undead outside will find you
+here.  `` 
+~
+0 D 18
+3
+~
+I A J The warmth of the surrounding snow makes you feel at ease.~
+K Water drips from your face and down to the packed snow floor.~
+L100
+N22738
+Q (null)~
+D4
+~
+~
+0 0 22629
+S
+#22739
+0 0
+~
+~
+~
+0 512 0
+`oThe Stairs of the Watchtower``~
+`bTreacherous stairs spiral up inside the tower like intestines of a
+stone giant.  The torches that light the way are few and far between, and to
+make bad worse: they are all unlit.  `` 
+~
+0 D 18
+0
+~
+I 0 D4
+~
+door~
+4161 0 22740
+S
+#22740
+0 0
+~
+~
+~
+0 512 0
+`oThe Watchtower``~
+`bFrom up here most of the cavern is visible below and a looking-glass
+stands aimed at the farawar gate on its tripod.  To the south you can see
+the wall where defenders handles the catapult and keeps a lookout.  `` 
+~
+0 D 18
+0
+~
+I 0 D5
+~
+door~
+4161 0 22739
+S
+#0
+
+#RESETS
+M 0 22623   9 22634  1	* The skeleton of a dwarven miner
+M 0 22623   9 22646  1	* The skeleton of a dwarven miner
+M 0 22623   9 22636  1	* The skeleton of a dwarven miner
+M 0 22623   9 22635  1	* The skeleton of a dwarven miner
+M 0 22623   9 22633  1	* The skeleton of a dwarven miner
+M 0 22623   9 22630  1	* The skeleton of a dwarven miner
+M 0 22623   9 22657  1	* The skeleton of a dwarven miner
+M 0 22626   2 22663  2	* The gate guard
+M 0 22626   2 22663  2	* The gate guard
+D 0 22666   3    2	* `aThe Crypt`` [west]
+D 0 22667   1    2	* `aTraktal's Tomb`` [east]
+O 0 22629   0 22666 -1	* A tomb trap at `aThe Crypt``
+M 0 22628   1 22667  1	* Traktal
+E 0 22630   -1    6	* item to Traktal
+D 0 22671   3    1	* `aIn a Bubble of Air`` [west]
+D 0 22670   1    1	* `aThe Maelstrom`` [east]
+M 0 22629   1 22671  1	* The grinning dwarf
+E 0 22631   -1    6	* item to The grinning dwarf
+M 0 22630   3 22668  1	* A skull fish
+M 0 22630   3 22672  1	* A skull fish
+M 0 22630   3 22673  1	* A skull fish
+D 0 22678   3    1	* `oStairs to the Wall`` [west]
+D 0 22679   1    1	* `oThe Guard Room`` [east]
+D 0 22689   2    2	* `oOutside of the Barracks`` [south]
+D 0 22693   0    2	* `oThe Barracks`` [north]
+O 0 22633   0 22698 -1	* A roaring furnace at `oThe Back Room of the Smithy``
+O 0 22634   0 22688 -1	* A great anvil at `oThe Smithy``
+M 0 22633   1 22698  1	* `kthe horrible`b furnace monster``
+E 0 22637   -1   18	* item to `kthe horrible`b furnace monster``
+O 0 22638   0 22694 -1	* A table at `oThe Barracks``
+O 0 22639   0 22695 -1	* A stone bed at `oThe Barracks``
+M 0 22624   4 22695  2	* A skeletal soldier
+M 0 22624   4 22694  2	* A skeletal soldier
+M 0 22624   4 22693  2	* A skeletal soldier
+O 0 22640   0 22697 -1	* The castle at `oBefore the Castle Gates``
+D 0 22715   1    1	* `oA Corridor`` [east]
+D 0 22716   3    1	* `oThe Kitchens`` [west]
+D 0 22715   2    1	* `oA Corridor`` [south]
+D 0 22718   0    1	* `oA Storage Room`` [north]
+D 0 22719   2    2	* `oThe Main Corridor`` [south]
+D 0 22720   0    2	* `oBy the Stairs Leading Down Into the Treasury`` [north]
+D 0 22724   0    1	* `oIn Front of the Ballroom Doors`` [north]
+D 0 22725   2    1	* `oThe Ballroom`` [south]
+D 0 22728   3    2	* `oThe Ballroom`` [west]
+D 0 22729   1    2	* `oA Locked Room`` [east]
+D 0 22660   3    1	* `oSliding Across an Icy Floor`` [west]
+D 0 22661   1    1	* `oA Tool Stash`` [east]
+M 0 22636   1 22661  1	* `can`d a`cm`ba`dz`co`bn`c explorer``
+G 0 22641 -1		* `cthe`d a`cm`ba`dz`co`bn`c tribal staff`` to `can`d a`cm`ba`dz`co`bn`c explorer``
+E 0 22642   -1   18	* item to `can`d a`cm`ba`dz`co`bn`c explorer``
+M 0 22638   3 22658  1	* The underwater miner
+G 0 22643 -1		* A glittering nugget to The underwater miner
+E 0 22644   -1   18	* item to The underwater miner
+M 0 22638   3 22659  1	* The underwater miner
+G 0 22643 -1		* A glittering nugget to The underwater miner
+E 0 22644   -1   18	* item to The underwater miner
+M 0 22638   3 22651  1	* The underwater miner
+G 0 22643 -1		* A glittering nugget to The underwater miner
+E 0 22644   -1   18	* item to The underwater miner
+O 0 22623   0 22648 -1	* A sparkling gem at `oThe Caverns of Bar-Baz``
+O 0 22625   0 22648 -1	* A sparkling gem at `oThe Caverns of Bar-Baz``
+O 0 22623   0 22655 -1	* A sparkling gem at `oBefore the Drawbridge``
+O 0 22625   0 22655 -1	* A sparkling gem at `oBefore the Drawbridge``
+O 0 22623   0 22656 -1	* A sparkling gem at `oThe Caverns of Bar-Baz``
+O 0 22625   0 22656 -1	* A sparkling gem at `oThe Caverns of Bar-Baz``
+O 0 22623   0 22645 -1	* A sparkling gem at `oThe Caverns of Bar-Baz``
+O 0 22625   0 22645 -1	* A sparkling gem at `oThe Caverns of Bar-Baz``
+O 0 22623   0 22628 -1	* A sparkling gem at `oThe Caverns of Bar-Baz``
+O 0 22625   0 22628 -1	* A sparkling gem at `oThe Caverns of Bar-Baz``
+M 0 22625   3 22648  1	* A lich miner
+M 0 22625   3 22632  1	* A lich miner
+O 0 22626   0 22643 -1	* A crypt at `oBy the Cairns``
+M 0 22634   8 22704  1	* A lich guard
+M 0 22634   8 22705  1	* A lich guard
+D 0 22708   1    2	* `oThe North Corridor`` [east]
+D 0 22709   3    2	* `oAbove the Dungeon`` [west]
+M 0 22634   8 22708  1	* A lich guard
+M 0 22634   8 22724  1	* A lich guard
+M 0 22634   8 22726  1	* A lich guard
+M 0 22635   6 22727  1	* A lich guard
+M 0 22635   6 22704  1	* A lich guard
+M 0 22635   6 22707  1	* A lich guard
+O 0 22650   0 22717 -1	* A basin at `oThe Kitchens``
+M 0 22640   1 22716  1	* The big-boned chef
+E 0 22649   -1   18	* item to The big-boned chef
+D 0 22710   1    2	* `oThe Dungeon`` [east]
+D 0 22711   3    2	* `oA Cell`` [west]
+D 0 22712   1    2	* `oThe Dungeon`` [east]
+D 0 22713   3    2	* `oA Cell`` [west]
+D 0 22712   2    2	* `oThe Dungeon`` [south]
+D 0 22714   0    2	* `oA Cell`` [north]
+M 0 22641   1 22710  1	* A lich jailer
+M 0 22643   1 22714  1	* A dwarf
+G 0 22651 -1		* Ot to A dwarf
+M 0 22642   1 22711  1	* A dwarven prisoner
+O 0 22652   0 22713 -1	* Loose stone at `oA Cell``
+M 0 22644   1 22713  1	* A well-fed prisoner
+O 0 22653   0 22730 -1	* The prisoner's food stash at `aAn Escape Tunnel``
+O 0 22654   0 22718 -1	* A crate of supplies at `oA Storage Room``
+P 0 22656 5 22654 5
+O 0 22655   0 22718 -1	* `ia big bowl of `js`ow`ke`je`ot`ks`` at `oA Storage Room``
+P 0 22657 3 22654 3
+P 0 22658 4 22654 4
+P 0 22659 2 22654 2
+M 0 22634   8 22718  1	* A lich guard
+M 0 22635   6 22718  1	* A lich guard
+O 0 22660   0 22696 -1	* A sturdy stone well at `oThe Abandoned Well``
+M 0 22647   6 22681  1	* A lich warrior
+M 0 22647   6 22676  1	* A lich warrior
+M 0 22647   6 22686  1	* A lich warrior
+M 0 22647   6 22690  1	* A lich warrior
+M 0 22647   6 22692  2	* A lich warrior
+M 0 22647   6 22692  2	* A lich warrior
+E 0 22661   -1   16	* item to A lich warrior
+M 0 22646   5 22687  1	* A lich warrior
+M 0 22646   5 22677  1	* A lich warrior
+M 0 22646   5 22679  1	* A lich warrior
+M 0 22646   5 22685  1	* A lich warrior
+M 0 22646   5 22689  1	* A lich warrior
+M 0 22648   3 22699  1	* A defender of the wall
+M 0 22648   3 22700  1	* A defender of the wall
+M 0 22648   3 22702  1	* A defender of the wall
+O 0 22663   0 22701 -1	* A dwarven catapult at `oOn the Wall``
+O 0 22624   0 22631 -1	* A cliff inlaid with veins of frosted gold at `oBeneath a Frost-glittering Cliff``
+O 0 22664   0 22642 -1	* A heart-sized diamond at `oSliding Down a Slope of Ice``
+M 0 22649   3 22640  1	* The skeleton of a dwarven miner
+M 0 22649   3 22639  1	* The skeleton of a dwarven miner
+M 0 22649   3 22662  1	* The skeleton of a dwarven miner
+M 0 22650   1 22722  1	* The bodyguard
+G 0 22667 -1		* Ot - bodyguard to The bodyguard
+E 0 22668   -1   16	* item to The bodyguard
+E 0 22666   -1   19	* item to The bodyguard
+O 0 22669   0 22703 -1	* The castle at `oThe Castle Foyer``
+D 0 22706   3    1	* `oThe Lord's Chamber`` [west]
+D 0 22705   1    1	* `oThe North Corridor`` [east]
+M 0 22651   1 22706  1	* A lich lord
+E 0 22670   -1   18	* item to A lich lord
+D 0 22735   2    2	* `oThe Strongroom of the Castle`` [south]
+D 0 22734   0    2	* `oThe Corridor Leading to the Strongroom`` [north]
+O 0 22671   0 22721 -1	* A blindness trap at `oThe Corridor Leading to the Strongroom``
+O 0 22672   0 22732 -1	* A brain blister trap at `oThe Corridor Leading to the Strongroom``
+O 0 22673   0 22733 -1	* A teleport trap at `oThe Corridor Leading to the Strongroom``
+O 0 22674   0 22734 -1	* A damage trap at `oThe Corridor Leading to the Strongroom``
+O 0 22677   0 22723 -1	* The tainted throne at `oThe Tainted Throne``
+M 0 22652   1 22734  1	* The guard of the treasury
+G 0 22680 -1		* Two human collar bones tied together with sinew to The guard of the treasury
+E 0 22675   -1   18	* item to The guard of the treasury
+O 0 22681   0 22735 -1	* A large pile of silver coins at `oThe Strongroom of the Castle``
+O 0 22682   0 22735 -1	* A slim bone wand at `oThe Strongroom of the Castle``
+O 0 22683   0 22735 -1	* A steel chest at `oThe Strongroom of the Castle``
+P 0 22684 1 22683 1
+P 0 22681 1 22683 1
+M 0 22654   1 22728  1	* The dancing legs
+E 0 22685   -1    8	* item to The dancing legs
+M 0 22655   1 22625  1	* A swarm of spiders
+G 0 22686 -1		* `aa living spider`` to A swarm of spiders
+O 0 22627   0 22644 -1	* A mining trolley at `oThe Stuck Trolley``
+P 0 22628 1 22627 1
+P 0 22687 1 22627 1
+M 0 22627   1 22644  1	* The splintered old bones of a skeleton
+O 0 22690   0 22654 -1	* Object trigger - enviormentals. at `aThe Maelstrom``
+O 0 22694   0 22647 -1	* `ha`j c`io`nl`fo`er`kf`lu`ml`b r`io`jp`oe`` at `oThe North Wall of the Cavern``
+M 0 22657   1 22736  1	* `cthe singing bush``
+M 0 22658   1 22737  1	* `aa cat-less tail``
+M 0 22659   1 22737  1	* `hthe skeleton of a squirrel``
+M 0 22660   1 22737  1	* `ga serrated`n battle axe`g with legs``
+O 0 22695   0 22629 -1	* `ha pile of snow`` at `oThe Caverns of Bar-Baz``
+M 0 22623   9 22629  1	* The skeleton of a dwarven miner
+O 0 22696   0 22738 -1	* A puddle of water at `oInside a Pile of Snow``
+M 0 22656   1 22660  1	* `jking athanmere``
+E 0 22693   -1   18	* item to `jking athanmere``
+E 0 22697   -1   13	* item to `jking athanmere``
+M 0 22631   1 22675  1	* A worler
+G 0 22632 -1		* The gills of the worler to A worler
+E 0 22701   -1   19	* item to A worler
+M 0 22653   1 22720  1	* Brobdingnagian
+E 0 22678   -1   17	* item to Brobdingnagian
+G 0 22679 -1		* A brittle glass figurine to Brobdingnagian
+G 0 22702 -1		* `hhalf a ring`` to Brobdingnagian
+M 0 22639   1 22723  1	* The lich king
+G 0 22645 -1		* Ot - lich king to The lich king
+E 0 22646   -1   18	* item to The lich king
+G 0 22647 -1		* The money purse of the lich king to The lich king
+E 0 22648   -1    8	* item to The lich king
+E 0 22676   -1    4	* item to The lich king
+G 0 22698 -1		* The crest of the lich king to The lich king
+G 0 22703 -1		* `ahalf a ring`` to The lich king
+O 0 22705   0 22684 -1	* The doors of the smithy at `oIn Front of the Smithy``
+O 0 22706   0 22688 -1	* The doors of the smithy at `oThe Smithy``
+M 0 22632   1 22688  1	* Tarn, the undead blacksmith
+G 0 22636 -1		* A chalice of fire to Tarn, the undead blacksmith
+E 0 22635   -1   16	* item to Tarn, the undead blacksmith
+D 0 22739   4    2	* `oThe Stairs of the Watchtower`` [up]
+D 0 22740   5    2	* `oThe Watchtower`` [down]
+O 0 22707   0 22680 -1	* Stone stairs at `oInside the Watchtower``
+O 0 22708   0 22739 -1	* Stairs at `oThe Stairs of the Watchtower``
+O 0 22709   0 22740 -1	* A looking glass at `oThe Watchtower``
+M 0 22661   1 22740  1	* The skeleton lookout
+O 0 22711   0 22739 -1	* An alarm trap at `oThe Stairs of the Watchtower``
+O 0 22712   0 22627 -1	* The gate at `oUnder the Gate``
+S
+
+#SHOPS
+0
+
+#SPECIALS
+M 22623 spec_janitor		* The skeleton of a dwarven miner
+M 22636 spec_cast_healer		* `can`d a`cm`ba`dz`co`bn`c explorer``
+M 22639 spec_janitor		* The lich king
+M 22649 spec_janitor		* The skeleton of a dwarven miner
+M 22650 spec_poison		* The bodyguard
+S
+
+#OT
+#22624
+`iBar-Baz`a -`b Cliff (echo)``~
+$entersroom~
+1
+68
+echo The cliff glitters of frost and sparkling multi-colored gems.~
+100
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#22625
+`iBar-Baz`a -`b Evil Gem``~
+$getsobj~
+2
+66
+cast blindness $name~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22627
+`iBar-Baz`a -`b Trolley (enter)``~
+$entersroom~
+1
+68
+force splinteredtrigger emote pushes at the stuck trolley.~
+1
+1
+force splinteredtrigger say Stupid trolley!~
+1
+0
+force splinteredtrigger say Uh! Uh! Move!~
+1
+0
+force splinteredtrigger emote mutters something about not getting paid enough for this.~
+1
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22631
+`iBar-Baz`a -`b Underpants (wear)``~
+$wearsobj~
+4
+64
+trecho $wearer With a giggle, $wearer pulls a pair of checkered underpants over his head.~
+100
+0
+pecho $wearer You proudly pull the underpants over your head.~
+100
+0
+pecho $wearer Others look at you and point. They are clearly impressed with your choice of head wear.~
+100
+10
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22632
+`iBar-Baz`a -`b Worler Gills (wear)``~
+$wearsobj~
+4
+64
+pecho $wearer As you put the gills of the worler around your neck, you feel a sudden sting.~
+100
+0
+damage $wearer 20~
+100
+0
+pecho $wearer The gills of the worler merges with the skin of your neck!~
+100
+0
+trecho $wearer $wearer wears the gills of the worler around his neck and gasps in pain as it merges with $s skin!~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22633
+`iBar-Baz`a -`b Furnace``~
+$entersroom~
+1
+68
+echo A ball of fire shoots out from one of the furnaces!~
+100
+2
+cast 'fireball' $randpc~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#22634
+`iBar-Baz`a -`b Fire Quaff``~
+$char_attacks~
+262144
+68
+force tarntrigger quaff chalicetrigger~
+100
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22635
+`iBar-Baz`a -`b Tarn's Hammer (wear)``~
+$wearsobj~
+4
+64
+trecho $wearer `kTarn's hammer sparkles with lightning as $wearer wields it.``~
+100
+0
+pecho $wearer `kTarn's hammer sparkles with lightning as you wield it.``~
+100
+0
+cast 'lightning bolt' $wearer~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22637
+`iBar-Baz`a -`b Boulder Die (wear)``~
+$wearsobj~
+4
+64
+trecho $wearer $wearer wields a gigantic boulder die without any effort at all.~
+100
+0
+pecho $wearer You wield a boulder die.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22641
+`iBar-Baz`a -`b Tribal Staff``~
+$chance_on_round~
+256
+65
+cast 'slow' $2vict~
+75
+1
+cast 'chaos bolt' $2vict~
+1
+1
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+3
+#22642
+`iBar-Baz`a -`b Crystal Ball``~
+$whendropped~
+1024
+64
+echo The crystal ball shatters into a million pieces and an ugly little lizard appears!~
+100
+0
+load mob 22637~
+100
+0
+palm crystaltrigger~
+100
+0
+at 1 drop crystaltrigger~
+100
+0
+at lizardtrigger force lizardtrigger emote squeaks in fear!~
+5
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22645
+`iBar-Baz`a -`b Lich King (fight)``~
+$char_is_attacked~
+524288
+98
+force lichkingtrigger remove decreetrigger~
+100
+1
+force lichkingtrigger recite decreetrigger $randpc~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22646
+`iBar-Baz`a -`b Lich King (fight)``~
+$chance_on_round~
+256
+66
+load obj 22699~
+100
+0
+palm parchmenttrigger~
+100
+0
+plant parchmenttrigger lichkingtrigger~
+100
+0
+force lichkingtrigger recite parchmenttrigger lichkingtrigger~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#22647
+`iBar-Baz`a -`b Winged Boots (wear trigger)``~
+$wearsobj~
+4
+66
+trecho $wearer Little wings flutters happily as $name slides on `da pair of winged boots``.~
+100
+0
+pecho $wearer You slide on a pair of winged boots.~
+100
+0
+pecho $wearer The tiny wings flap pathetically.~
+100
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22648
+`iBar-Baz`a -`b Winged Boots (flight activation)``~
+$char_flees~
+4194304
+65
+echo $wearer's winged boots flutters in fear!~
+10
+0
+cast fly $wearer~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+10
+#22649
+`iBar-Baz`a -`b Defender Yell (enviormental)``~
+$entersroom~
+1
+68
+at 22699 echo A lich defender yells 'Intruders on the wall!'~
+100
+2
+at 22700 echo A lich defender yells 'Intruders on the wall!'~
+100
+0
+at 22701 echo A lich defender yells 'Intruders on the wall!'~
+100
+0
+at 22702 echo A lich defender yells 'Intruders on the wall!'~
+100
+0
+at 22683 echo A lich defender yells 'Intruders on the wall!'~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#22651
+`iBar-Baz`a -`b Prisoner (talk)``~
+$entersroom~
+1
+66
+force prisonertrigger say I have not turned yet...~
+100
+1
+force prisonertrigger giggle~
+100
+1
+force prisonertrigger say Soon...~
+100
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+3
+#22659
+`iBar-Baz`a -`b Sugar Rush!``~
+$wheneaten~
+2097152
+64
+pecho $name Sugar rush!``~
+100
+0
+cast haste $name~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+2
+#22661
+`iBar-Baz`a -`b Whirlwind Axe (battle)``~
+$vict_flees~
+8388608
+65
+cast haste $wearer~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#22666
+`iBar-Baz`a -`b Hollowed-out Skull``~
+$wearsobj~
+4
+64
+trecho $wearer A human skull begins to slowly circle $wearer.~
+100
+0
+pecho $wearer The skull starts floating beside you.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22667
+`iBar-Baz`a -`b Bodyguard (attack)``~
+$entersroom~
+1
+66
+force bodyguardtrigger backstab $name~
+100
+0
+kill $name~
+100
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+30
+#22669
+`iBar-Baz`a -`b Castle Foyer (enviormentals)``~
+$entersroom~
+1
+68
+at 22704 echo A chilling wind howls through the corridors.~
+100
+4
+at 22719 echo A foul odor wafts through the castle.~
+100
+0
+at 22722 echo The ring of steel against steel is heard somewhere close by.~
+100
+0
+at 22724 echo The ring of steel against steel is heard from the north.~
+100
+0
+at 22715 echo The distinct sounds of the washing of dishes can be heard from behind the door.~
+100
+0
+at 22705 echo You hear someone humming to himself.~
+100
+0
+at 22708 echo Tortured screams echoes from behind the reinforced steel door.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+2
+#22677
+`iBar-Baz`a -`b Lich King (fight)``~
+$chance_on_round~
+256
+66
+damage $randpc 30 The lich king claws you in the face!~
+10
+1
+damage $randpc 50 The mere presence of the lich king hurts!~
+5
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+70
+#22678
+`iBar-Baz`a -`b Brobdingnagian's lance (wear)``~
+$wearsobj~
+4
+64
+trecho $wearer $wearer flashes a triumpant grin as $e wields the lance of Brobdingnagian.~
+100
+0
+pecho $wearer You wield Brobdingnagian's lance.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22685
+`iBar-Baz`a -`b Dancing Shoe (wear)``~
+$wearsobj~
+4
+64
+pecho $wearer You slip on the dancing shoe.~
+100
+0
+pecho $wearer Now where did you put the other shoe?~
+10
+2
+pecho $wearer There is nothing you cannot do! You are invincible!~
+10
+20
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22686
+`iBar-Baz`a -`b Living Spider (wear)``~
+$wearsobj~
+4
+64
+pecho $wearer The spider crawls into your hand.~
+100
+0
+pecho $wearer The spider wriggles around.~
+10
+20
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22687
+`iBar-Baz`a -`b Smiling Face (wear)``~
+$wearsobj~
+4
+64
+pecho $wearer You slide on your new face.~
+100
+0
+trecho $wearer Giggling to $mself, $wearer replaces $s own face with another's.~
+100
+0
+trecho $wearer The face of $wearer smiles at the world.~
+100
+20
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22688
+`iBar-Baz`a -`b Whirlwind Axe (wear)``~
+$wearsobj~
+4
+64
+pecho $wearer As you wield the Whirlwind you are filled with confidence.~
+100
+0
+trecho $wearer A whistling sound can be heard as $wearer spins a double-headed axe in $s hands.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22690
+`iBar-Baz`a -`b Maelstrom (enviormentals)``~
+$entersroom~
+1
+68
+at 22654 echo Water roars as the current pulls and tugs at you!~
+100
+10
+at 22668 echo Debris and bones whirl around in the currents.~
+100
+0
+at 22669 echo Water roars as the current pulls and tugs at you!~
+100
+0
+at 22670 echo Debris and bones whirl around in the currents.~
+100
+0
+at 22672 echo Water roars as the current pulls and tugs at you!~
+100
+0
+at 22673 echo Debris and bones whirl around in the currents.~
+100
+0
+at 22674 echo Water roars as the current pulls and tugs at you!~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+5
+#22693
+`iBar-Baz`a -`b Cookie Jar``~
+$on_tick~
+536870912
+66
+trecho $wearer $wearer picks $s nose with a faraway look in $s eyes.~
+100
+0
+trecho $wearer $wearer picks $s nose with a faraway look in $s eyes.~
+11
+2
+trecho $wearer Smiling broadly, $wearer twiddles your ears.~
+3
+0
+trecho $wearer With a *pop* $wearer removes his ear, inspects it, and puts it back where it belongs. More or less where it belongs.~
+1
+0
+trecho $wearer Chaotic energies make $wearer's skin change texture and color. $wearer notices nothing as $e is busy poking $s navel.~
+2
+0
+pecho $wearer They are coming for you... ~
+1
+0
+pecho $wearer They will never accept you, OR your friend.~
+2
+1
+force $wearer yell Bow down to chaos!~
+10
+0
+force $wearer whisper self They only want me for my body.~
+10
+0
+force $wearer gt My foolish followers do not know that I am leading them to their death!~
+5
+3
+trecho $wearer $wearer cackles madly for a long while until interrupted by a hiccup.~
+8
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+1
+#22700
+`iBar-Baz`a -`b Player Spotting (courtyard yell)``~
+$entersroom~
+1
+68
+at 22677 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+4
+at 22676 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22664 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22681 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22684 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22685 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22686 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22687 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22692 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22691 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+60
+#22701
+`iBar-Baz`a -`b Flying Fish (wear)``~
+$wearsobj~
+4
+64
+trecho $wearer A fish flies up to $wearer and starts to circle $m.~
+100
+0
+pecho $wearer The fish starts to circle you on its translucent wings.~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22706
+`iBar-Baz`a -`b Tarn (emote)``~
+$entersroom~
+1
+68
+force tarntrigger emote hammers a piece of molten metal. Sparks fly in all directions.~
+50
+3
+force tarntrigger say This was easier before the lich king turned me into a cursed skeleton.~
+20
+2
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+2
+#22710
+`iBar-Baz`a -`b Player Spotting (wall yell)``~
+$entersroom~
+1
+68
+at 22699 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+2
+at 22700 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22701 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22702 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22683 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22680 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22678 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22682 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22679 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+at 22739 echo A defender yells 'Intruders spotted at the great gate!'~
+100
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#22712
+`iBar-Baz`a -`b Gate (pull)``~
+$whenpulled~
+32768
+64
+echo A rain of stones falls down from above.~
+100
+1
+damage $randpc 5 `bA stone hits you!``~
+100
+0
+damage $randpc 5 `bA stone hits you!``~
+100
+0
+damage $randpc 5 `bA stone hits you!``~
+50
+0
+damage $randpc 5 `bA stone hits you!``~
+25
+0
+damage $randpc 5 `bA stone hits you!``~
+10
+0
+damage $randpc 10 `bA stone hits you!``~
+1
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+(null)~
+0
+0
+100
+#0
+#$

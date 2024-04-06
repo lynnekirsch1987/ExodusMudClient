@@ -1,0 +1,411 @@
+#O
+Vnum 11398
+Nest 0
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 11398
+Nest 0
+ExF 0 3
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 11415
+Nest 0
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 11415
+Nest 0
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 10361
+Enchanted
+Nest 0
+ExF 0 67
+WearL -1
+Lev  55
+Cost 9999999
+Affc 'enchant weapon'   0  90  -1   6  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 816
+Enchanted
+Nest 0
+ExF 0 67
+Cond 100
+WearL -1
+Lev  25
+Cost 9999999
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 3504
+Nest 0
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 16306
+Nest 0
+WearL -1
+Cost 9999999
+End
+
+#O
+Vnum 16306
+Nest 0
+Name ShieldBreaker~
+ShD  `eShield`bBreaker``~
+Desc `eShield`bBreaker``~
+ExF 0 8390914
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 7060
+Nest 0
+WearL -1
+Cost 1000000000
+Vlues  30 10 10 153 0 0 0 0 0 0 0 0 0
+Spell 3 'calm'
+End
+
+#O
+Vnum 4038
+Nest 0
+Name Orchid~
+ShD  `oA beautiful `ired Orchid``~
+Desc `oA beautiful `ired Orchid `owith vibrant `cleaves `orest here. A short note is attached.. `iMerry Christmas, `klove Clair``~
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25153
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 4248
+Nest 0
+OwnR 309408~
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25242
+Nest 0
+Name key room~
+ShD  key to Valyrie's room~
+Desc A metal key to '`lRomper Room``' is here.~
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25114
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 4244
+Nest 0
+OwnR 783186~
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25230
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25230
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 4250
+Nest 0
+OwnR 210075~
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25255
+Nest 0
+Name key room~
+ShD  key to Padre's room~
+Desc A metal key to Padre's room is here.~
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25247
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25112
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25104
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25234
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25188
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25096
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25154
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25152
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25098
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25080
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25070
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 3196
+Nest 0
+Name key woman's heart~
+ShD  `hThe `kKey`h to Every Woman's `iHeart`h~
+Desc `ha tiny locket that looks like it could attract any woman~
+ExF 0 1
+Cond 100
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25209
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25209
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25226
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25226
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 25278
+Nest 0
+Name key room~
+ShD  key to Nano's room~
+Desc A metal key to Nano's room is here.~
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 11
+Nest 0
+ShD  the corpse of Eleithel~
+Desc The corpse of Eleithel is lying here.~
+Cond 100
+WearL -1
+Lev  88
+Time 5
+Cost 1000000000
+Vlues  0 0 0 1 0 0 2 0 0 0 0 0 0
+End
+
+#O
+Vnum 7251
+Enchanted
+Nest 0
+ExF 0 8388608
+WearL -1
+Lev  63
+Cost 10000000
+End
+
+#O
+Vnum 7251
+Enchanted
+Nest 0
+ExF 0 1347
+WearL -1
+Lev  63
+Cost 10000000
+Affc 'enchant weapon'   1  90  -1   6  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 7251
+Enchanted
+Nest 0
+ExF 0 1347
+WearL -1
+Lev  64
+Cost 10000000
+Affc 'enchant weapon'   1  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
+End
+
+#O
+Vnum 7251
+Enchanted
+Nest 0
+ExF 0 1347
+WearL -1
+Lev  64
+Cost 10000000
+Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
+Affc 'enchant weapon'   1  90  -1   5  18          0 0 ''
+End
+
+#O
+Vnum 7251
+Enchanted
+Nest 0
+ExF 0 8388672
+WearL -1
+Lev  67
+Cost 10000000
+Affc 'enchant weapon'   1  66  -1   4  19          0 0 ''
+Affc 'enchant weapon'   0  66  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 18931
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 7075
+Nest 0
+ExF 0 8388611
+WearL -1
+Cost 10000000
+End
+
+#O
+Vnum 7075
+Nest 0
+WearL -1
+Cost 10000000
+End
+
+#O
+Vnum 7710
+Nest 0
+WearL -1
+Cost 100000000
+End
+
+#O
+Vnum 3501
+Nest 0
+WearL -1
+Cost 1000000000
+End
+
+#O
+Vnum 18978
+Nest 0
+WearL -1
+Cost 1000000000
+End
+

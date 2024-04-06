@@ -1,0 +1,12 @@
+Possum
+hello|hi:>1:-:Not much to be happy about rotting away in here.;So why are you here?
+get|break&you&out:>1:-:Can you get me out?;CMD fol $name;I'll gladly help you if you can get me out of here.
+what&are&you&in&for:>1:-:I am the artilleryman for the pirates.  My job is to work the catapult aboard the ship.;CMD sigh;The town guard nabbed me when they mounted a surprise offensive.
+why&are&you&here:>1:-:I am the artilleryman for the pirates.  My job is to work the catapult aboard the ship.;CMD sigh;The town guard nabbed me when they mounted a surprise offensive.
+who&are&you:<8:-:I am the artilleryman for the pirates.  My job is to work the catapult aboard the ship.;CMD sigh;The town guard nabbed me when they mounted a surprise offensive.
+catapult:>1:-:TRIG catapult
+bust&you&out:>1:-:Can you get me out?;CMD fol $name;I'll gladly help you if you can get me out of here.
+rescue:>1:-:Can you get me out?;CMD fol $name;I'll gladly help you if you can get me out of here.
+free:>1:-:Can you get me out?;CMD fol $name;I'll gladly help you if you can get me out of here.
+launch|catapault:<8:-:TRIG catapult
+help:<8:-:Can you get me out?;CMD fol $name;I'll gladly help you if you can get me out of here.

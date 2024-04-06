@@ -1,0 +1,1060 @@
+#AREA
+ 6~
+area66.are~
+Timberwood Village~
+{ 1 10} mordalphus  Timberwood Village~
+~
+6051 6151
+0 B 0
+0 0
+~
+#MOBILES
+#6051
+sdfsdf~
+Sdf~
+(no long description)
+~
+~
+human~
+0 0 0 0
+A 0 0 0
+0 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 999 0
+0 0 0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKa 10 10 10 10 10 10 0
+medium oldstyle~
+0 0 0 100
+0
+~
+~
+#0
+
+#OBJECTS
+#6051
+staircase stair stairs~
+a grand staircase~
+A magnificently grand staircase leads to the upper level of Villa De'Monte.~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G ABCGHIJKM C
+0
+0
+0 0 0 P
+#6052
+staircase stair stairs~
+a grand staircase~
+A magnificently grand staircase leads to the lower level of Villa De'Monte.~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 G BCGHIJKM E
+0
+0
+0 0 0 P
+#6053
+fence gate~
+the swinging fence gate~
+~
+unknown~
+0
+portal 2
+S
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+~
+~
+~
+~
+-1 0 0 ABCDFHIJKM K
+0
+0
+0 0 0 P
+#0
+
+#ROOMS
+#6051
+0 0
+~
+~
+~
+0 512 0
+A well kept trail~
+The small, stone path is cropped by thick, thorned bushes.  There
+are very few trees along the path, but there are several small
+stumps every few feet.  The ground has been cleared and is covered
+with small river stones, giving the appearance of a well-kept, 
+town-like road.  The trail is just that though, a trail.  There's
+no way a wagon could travel down this road, let alone a horse.
+ A faint scent of scones is brought about by a breeze coming from
+the southwest. 
+~
+0 BQe 3
+0
+~
+I 0 E
+bushes~
+The bushes are thick and have long thorns extending from the branches.  Entering them would be perilous!
+~
+D1
+~
+~
+0 0 13045
+D3
+~
+~
+0 0 6052
+S
+#6052
+0 0
+~
+~
+~
+0 512 0
+A well kept trail~
+The small, stone path is cropped by thick, thorned bushes.  There
+are very few trees along the path, but there are several small
+stumps every few feet.  The ground has been cleared and is covered
+with small river stones, giving the appearance of a well-kept, 
+town-like road.  The trail is just that though, a trail.  There's
+no way a wagon could travel down this road, let alone a horse.
+ A faint scent of scones is brought about by a breeze coming from
+the southwest. 
+~
+0 BQe 3
+0
+~
+I 0 E
+bushes~
+The bushes are thick and have long thorns extending from the branches.  Entering them would be perilous!
+~
+D1
+~
+~
+0 0 6051
+D3
+~
+~
+0 0 6053
+S
+#6053
+0 0
+~
+~
+~
+0 512 0
+A split in the trail~
+There is an intersection of sorts in the trail here.  One could
+go north, or continue on the main east-west path.  The trail
+to the north looks extremely fancy and well-kept with coloured
+trail stones.  There's a large multi-storied house in the distance
+to the north, with a large fence surrounding it.  No one seems
+to be taking the path to the house, so it appears rather 
+deserted.
+  The sounds of a bustling marketplace can be heard in the distance
+to the south, and most people seem to be either coming from or
+walking in that direction.
+~
+0 BQe 3
+0
+~
+I 0 D0
+~
+~
+0 0 6055
+D1
+~
+~
+0 0 6052
+D3
+~
+~
+0 0 6054
+S
+#6054
+0 0
+~
+~
+~
+0 512 0
+A junction in the trail~
+The east-west trail through this town has given way to a cobblestone
+road leading south.  To the west, the beautifully decorated belltower 
+of a small church can be seen rising above the sparse treetops.
+  The vegitation on the sides of the trail is mainly a strange tangle
+of thorned vines with large orange leaves.  The loud sound of a 
+bustling marketplace can be heard to the south, coupled with the
+smells of fresh baked goods.  There are old-growth trees along the
+path here that converge overhead to make a splendid green canopy.
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 6053
+D2
+~
+~
+0 0 6061
+D3
+~
+~
+0 0 6062
+S
+#6055
+0 0
+~
+~
+~
+0 0 0
+A large, well-tended path~
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 6056
+D2
+~
+~
+0 0 6053
+S
+#6056
+0 0
+~
+~
+~
+0 0 0
+A path leading to a large villa~
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 6057
+D2
+~
+~
+0 0 6055
+S
+#6057
+0 0
+~
+~
+~
+0 0 0
+A path leading to a large villa~
+~
+0 0 3
+0
+~
+I 0 D0
+~
+~
+0 0 6058
+D2
+~
+~
+0 0 6056
+S
+#6058
+0 0
+~
+~
+~
+0 0 0
+A bend in the path~
+~
+0 0 3
+0
+~
+I 0 D2
+~
+~
+0 0 6057
+D3
+~
+~
+0 0 6059
+S
+#6059
+0 0
+~
+~
+~
+0 0 0
+Before the front yard of a great villa~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6060
+D1
+~
+~
+0 0 6058
+S
+#6060
+0 0
+~
+~
+~
+0 0 0
+The southern gardens of Villa De'Monte~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6082
+D2
+~
+~
+0 0 6059
+S
+#6061
+0 0
+~
+~
+~
+0 512 0
+A main street leading to a market~
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 6054
+D2
+~
+~
+0 0 6064
+S
+#6062
+0 0
+~
+~
+~
+0 512 0
+A trail leading to a small church~
+The east-west trail dead-ends here in front of a beautiful
+small church.  The church has a small white wooden fence
+around it, encompassing the entire perimeter.  It has a 
+large, uneven, grass lawn, edged with an organic border of
+all sorts of herbs and wildflowers.  The small walkway 
+extending from the trail to the white double doors is 
+composed primarily of dull, crushed coloured glass.  The
+south side of the building is painted white, with a dark
+forest green trim around all of the windows and doors.  A
+large belltower shoots up from the roof, almost like a 
+queer second floor, nearly as large as the entry level. 
+Ornate crucifii and religious markers have been carved
+into the siding of the church, and embossed with silver
+and gold foil.  There is a swinging gate on the fence that
+you can shove open to enter the church.
+~
+0 0 1
+0
+~
+I 0 D1
+~
+~
+0 0 6054
+S
+#6063
+0 0
+~
+~
+~
+0 0 0
+A small, well-decorated church~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 6062
+S
+#6064
+0 0
+~
+~
+~
+0 512 0
+Before a large market district~
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 6061
+D2
+~
+~
+0 0 6067
+S
+#6065
+0 0
+~
+~
+~
+0 512 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#6066
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#6067
+0 0
+~
+~
+~
+0 512 0
+Northern Timberwood square~
+~
+0 0 1
+0
+~
+I 0 D0
+~
+~
+0 0 6064
+D1
+~
+~
+0 0 6069
+D2
+~
+~
+0 0 6070
+D3
+~
+~
+0 0 6068
+S
+#6068
+0 0
+~
+~
+~
+0 512 0
+Northwestern Timberwood square~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6080
+D1
+~
+~
+0 0 6067
+D2
+~
+~
+0 0 6071
+D3
+~
+~
+0 0 6081
+S
+#6069
+0 0
+~
+~
+~
+0 512 0
+Northeastern Timberwood Square~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 6072
+D3
+~
+~
+0 0 6067
+S
+#6070
+0 0
+~
+~
+~
+0 512 0
+Southern Timberwood square~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6067
+D1
+~
+~
+0 0 6072
+D2
+~
+~
+0 0 6073
+D3
+~
+~
+0 0 6071
+S
+#6071
+0 0
+~
+~
+~
+0 512 0
+Southwestern Timberwood square~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6068
+D1
+~
+~
+0 0 6070
+D2
+~
+~
+0 0 6074
+D3
+~
+~
+0 0 6075
+S
+#6072
+0 0
+~
+~
+~
+0 512 0
+Southeastern Timberwood Square~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6069
+D1
+~
+~
+0 0 6077
+D2
+~
+~
+0 0 6076
+D3
+~
+~
+0 0 6070
+S
+#6073
+0 0
+~
+~
+~
+0 512 0
+park~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6070
+D1
+~
+~
+0 0 6076
+S
+#6074
+0 0
+~
+~
+~
+0 512 0
+tea shoppe~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6071
+S
+#6075
+0 0
+~
+~
+~
+0 512 0
+lumber supply~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 6071
+S
+#6076
+0 0
+~
+~
+~
+0 512 0
+park~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6072
+D3
+~
+~
+0 0 6073
+S
+#6077
+0 0
+~
+~
+~
+0 512 0
+camping store~
+~
+0 0 0
+0
+~
+I 0 D3
+~
+~
+0 0 6072
+S
+#6078
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#6079
+0 0
+~
+~
+~
+0 0 0
+~
+~
+0 C 0
+0
+~
+I 0 S
+#6080
+0 0
+~
+~
+~
+0 512 0
+bank~
+~
+0 0 0
+0
+~
+I 0 D2
+~
+~
+0 0 6068
+S
+#6081
+0 0
+~
+~
+~
+0 512 0
+food~
+~
+0 0 0
+0
+~
+I 0 D1
+~
+~
+0 0 6068
+S
+#6082
+0 0
+~
+~
+~
+0 0 0
+On the porch of Villa De'Monte~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6083
+D2
+~
+~
+0 0 6060
+S
+#6083
+0 0
+~
+~
+~
+0 0 0
+Entryway of Villa De'Monte~
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 6086
+D1
+~
+~
+0 0 6085
+D2
+~
+~
+0 0 6082
+D3
+~
+~
+0 0 6084
+S
+#6084
+0 0
+~
+~
+~
+0 0 0
+The dining room of Villa De'Monte~
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6083
+S
+#6085
+0 0
+~
+~
+~
+0 0 0
+Library De'Monte~
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 6083
+S
+#6086
+0 0
+~
+~
+~
+0 0 0
+Before a grand staircase~
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 6083
+S
+#6087
+0 0
+~
+~
+~
+0 0 0
+The upper landing~
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 6089
+D2
+~
+~
+0 0 6088
+S
+#6088
+0 0
+~
+~
+~
+0 0 0
+Southern end of a short hallway~
+~
+0 D 0
+0
+~
+I 0 D0
+~
+~
+0 0 6087
+D1
+~
+~
+0 0 6093
+D2
+~
+~
+0 0 6092
+D3
+~
+~
+0 0 6091
+S
+#6089
+0 0
+~
+~
+~
+0 0 0
+Northern end of a small hallway~
+~
+0 D 0
+0
+~
+I 0 D2
+~
+~
+0 0 6087
+D3
+~
+~
+0 0 6090
+S
+#6090
+0 0
+~
+~
+~
+0 0 0
+Lord De'Monte's study~
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6089
+S
+#6091
+0 0
+~
+~
+~
+0 0 0
+A luxurious bedroom~
+~
+0 D 0
+0
+~
+I 0 D1
+~
+~
+0 0 6088
+S
+#6092
+0 0
+~
+~
+~
+0 0 0
+A glorious balcony~
+~
+0 0 0
+0
+~
+I 0 D0
+~
+~
+0 0 6088
+S
+#6093
+0 0
+~
+~
+~
+0 0 0
+Lady De'Monte's chamber~
+~
+0 D 0
+0
+~
+I 0 D3
+~
+~
+0 0 6088
+S
+#0
+
+#RESETS
+O 0 6051   0 6086 1	* A grand staircase at Before a grand staircase
+O 0 6052   0 6087 1	* A grand staircase at The upper landing
+O 0 6053   0 6062 1	* The swinging fence gate at A trail leading to a small church
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#OT
+#0
+#$

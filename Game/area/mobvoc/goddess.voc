@@ -1,0 +1,6 @@
+Minax
+your&box:>1:-:CMD unlock box;CMD open box;CMD get stone box;CMD smile;CMD give stone $name
+start&over:>1:-:CMD drop all;Let's just try this again from the beginning, shall we?;CMD smile $name
+DEFAULT:>1:-:I'm sorry.  I just don't understand what you're saying.  Maybe you should try saying it differently...
+hi|hello|hail:>1:-:CMD smile $name
+your&stone:>1:-:CMD unlock box;CMD open box;CMD get stone box;CMD smile;CMD give stone $name

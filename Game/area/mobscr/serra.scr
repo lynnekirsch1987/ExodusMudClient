@@ -1,0 +1,30 @@
+* File: serra.scr
+* Mob: Serra the bank teller(4055)
+
+#TRIGGER robbery
+Type 8
+Sc
+if ( %robbery-arg% cmp "robbery" )
+  emote gathers up large quantity of gold in a bag and hands it to the robber.
+  signal 4182 escape
+halt once~
+End
+
+#TRIGGER help
+Type 8
+Sc
+if ( %help-arg% cmp "help" )
+  cmd shout Help!  Thesden's bank has been robbed!
+  cmd shout The robber was heading for Devon Square!  Stop him before he leaves town or he'll escape!
+  halt once~
+End
+
+#TRIGGER robberdead
+Type 8
+Sc
+if ( %robberdead-arg% cmp "robberdead" )
+  cmd shout The bank robber has been killed!  Thesden is safe once again!
+  halt once~
+End
+
+#END

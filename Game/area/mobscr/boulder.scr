@@ -1,0 +1,18 @@
+* File: boulder.scr
+* Mob: Bouncing Boulder(7008)
+
+#TRIGGER smashus
+Type 4
+Sc
+  emote breaks off of the cliffside and rolls toward you.
+  halt once~
+End
+
+#TRIGGER flocci
+Type 3
+Sc
+  emote bounces off of the fissureside and slams into you!
+  halt once~
+End
+
+#END

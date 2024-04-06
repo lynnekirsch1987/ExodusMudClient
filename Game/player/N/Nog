@@ -1,0 +1,286 @@
+#PLAYER
+Name Nog~
+Id   950436023
+LogF 959536042
+LogO 959536042
+Vers 6
+Prom <hp:%h/%H mv:%v/%V s:%s g:%g xp:%X>%S{%r}%e ~
+Race dwarf~
+Sex  1
+Cla  3
+Levl 12
+MHKill 479
+Hero 0
+Depty 0
+Sec  0
+Plyd 29199
+Bank_Gold 0
+Bank_Silv 2700
+Email oijn@iub.com~
+Host 156.26.4.107~
+Not  0 950478584 0 0 0 0 0
+Scro 22
+Room 4178
+HMV  227 227 82 82 142 142
+Hand 4
+Gold 16
+Silv 33
+Exp  66472
+Act  CDGH
+AfBy J
+Comm LMNOS
+Pos  8
+Prac 5
+Save  -4
+Alig  991
+Hit   17
+Dam   24
+ACs 52 49 52 62
+Wimp  45
+Attr 23 13 8 8 21 7
+AMod 1 2 0 3 3 -6
+Pass NoDGd7/CDTlC.~
+Layhands 0
+Exorcise 0
+Titl  `h~
+Pnts 82
+TSex 1
+LLev 6
+Loner 0
+HMVP 217 122 142
+Cnd  -16 -16 17 17
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
+Alias p but cor~
+Alias f flee~
+Alias eg enter gate~
+Alias 3 o all rescue nog~
+Alias x bash~
+Sk 46 'dagger'
+Sk 71 'sword'
+Sk 1 'uppercut'
+Sk 1 'dual wield'
+Sk 58 'bash'
+Sk 1 'charge'
+Sk 1 'berserk'
+Sk 1 'dodge'
+Sk 1 'fisticuffery'
+Sk 62 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'sweep'
+Sk 58 'parry'
+Sk 1 'rescue'
+Sk 1 'throwing'
+Sk 1 'butcher'
+Sk 1 'redirect'
+Sk 63 'second attack'
+Sk 60 'third attack'
+Sk 1 'fast healing'
+Gr 'rom basics'
+End
+
+#O
+Vnum 4262
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 5651
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 553
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 561
+Nest 0
+ExtF 8650752
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 5549
+Enchanted
+Nest 0
+ExtF 8651843
+Cond 0
+Wear -1
+Lev  19
+Cost 0
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 4450
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1502
+Nest 0
+ExtF 8388608
+Cond 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+ExtF 323
+Cond 0
+Wear 17
+Lev  19
+Cost 0
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   7  19          0 0 ''
+End
+
+#O
+Vnum 11533
+Nest 0
+ShD  `cAn Emerald Wristguard``~
+Desc `hAn `jemerald `hwristguard is here.``~
+ExtF 8388672
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 5128
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21063
+Nest 0
+Cond 0
+Wear 10
+Cost 15
+End
+
+#O
+Vnum 4152
+Enchanted
+Nest 0
+ExtF 67
+Cond 0
+Wear 16
+Lev  30
+Cost 625
+Val  1 3 8 3 128 0 0
+Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
+Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
+End
+
+#O
+Vnum 553
+Nest 0
+Cond 0
+Wear 4
+Cost 300
+End
+
+#O
+Vnum 5652
+Nest 0
+Cond 0
+Wear 7
+Cost 1
+End
+
+#O
+Vnum 5637
+Nest 0
+Cond 0
+Wear 5
+Cost 15
+End
+
+#O
+Vnum 10762
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5625
+Nest 0
+ExtF 8650754
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 7916
+Nest 0
+ShD  `aA `hFlour `aSifter``~
+Desc `hA flour `asifter `hlies here, looking like it might even still work!``~
+ExtF 8388928
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4102
+Nest 0
+ExtF 8650752
+Cond 0
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 4004
+Name loyal guard dog~
+LogO 959536042
+Desc You sure are BLEEDING!!
+~
+Sex  2
+HMV 104 104 170 170 100 100
+AfBy S
+Comm UVW
+Pos  8
+ACs  40 40 40 70
+Attr 12 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

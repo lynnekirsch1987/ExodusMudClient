@@ -1,0 +1,34 @@
+* File: gthief.scr
+* Mob: Thief(4080)
+
+#TRIGGER thf
+Type 10
+Sc
+wfunc %rndnum% random 0 8
+mfunc %thf-from% %class% class
+mfunc %thf-from% %name% name
+if ( %class% != 2 )
+   jump 4~
+Sc
+if ( %rndnum% == 0 )
+   tell %name% Psst.  Hey, tell 'em Ivan sent ya at the Spider's Ring.
+   mfunc gooba %thf-from% name
+   halt once~
+Sc
+if ( %rndnum% == 6 )
+   tell %name% Psst.  Hey, tell 'em Ivan sent ya at the Spider's Ring.
+   mfunc gooba %thf-from% name
+   halt once~
+Sc
+if ( %rndnum% == 8 )
+   tell %name% Psst.  Hey, tell 'em Ivan sent ya at the Spider's Ring.
+   mfunc gooba %thf-from% name
+   halt once~
+Sc
+if ( %rndnum% == 5 ) || ( %rndnum% == 6 )
+   steal 1. %name% 
+   mfunc gooba %thf-from% name
+   halt once~
+End
+
+#END

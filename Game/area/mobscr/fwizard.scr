@@ -1,0 +1,22 @@
+* File: fwizard.scr
+* Mob: Wizard(12939)
+
+#TRIGGER wandme
+Type 5
+Sc
+mfunc %wandme-from% %name% name
+ofunc %wandme-arg% %what% vnum
+if ( %what% == 12931 ) 
+say Thank you very much!
+c 'haste' %name%
+bow %name%
+halt once~
+Sc
+crit %name%
+wait 2~
+Sc
+say You are an idiot!  Be gone!
+~
+End
+
+#END

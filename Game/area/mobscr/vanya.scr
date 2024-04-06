@@ -1,0 +1,78 @@
+* File: Vanya.scr
+* Mob: Vanya the Ranger(4108)
+
+#TRIGGER Combat
+Type 2
+Sc
+mfunc %combat-from% %name% name
+mfunc self %condition% hit
+wfunc %random% random 0 99
+Sc
+if (%condition% < 10000 )
+  cmd cast 'herbal lore' self
+  halt once~
+Sc
+if ( %random% < 75 )
+  cmd throw rock %name%
+  halt once~
+Sc
+if ( %random% < 80 )
+  emote quickly snatches up several vines and roots and builds a clever snare.
+  cmd peace
+  cmd entangle %name%
+  cmd kill %name%
+  halt once~
+Sc
+if (%random% < 90 )
+  cmd cast 'bee swarm' %name%
+  halt once~
+Sc
+if (%random% < 99 )
+  cmd stand
+  pecho %name% performs a skillful parry, sending your weapon flying!
+  cmd disarm %name%
+  wait 2~
+Sc
+if (%random% < 99 )
+  get 1.
+  halt once~
+Sc
+if ( %random% == 99 )
+  cmd stand
+  emote blocks an incoming attack, then quickly swings her blade in a wide arc.
+  pecho %name% Vanya's blade finds you right between your head and your shoulders.
+  mfunc %combat-from% %hit% hit
+  msign %combat-from% 0 hit
+  halt once~
+End
+
+#Trigger Tick
+Type 3
+Sc
+mfunc self %condition% hit
+wfunc %tick% random 0 9
+if ( %condition% < 10000 )
+  emote tends to her wounds.
+  cmd cast 'herbal lore' self
+  cmd cast 'herbal lore' self
+  halt once~
+Sc
+if (%tick% == 1)
+  cmd camp
+  halt once~
+Sc
+if (%tick% == 2)
+  cmd forage
+  wait 1~
+Sc
+if (%tick% == 2)
+  cmd eat acorns
+  cmd eat cricket
+  cmd eat mushroom
+  cmd eat root
+  cmd eat carrot
+  cmd eat berries
+  halt once~
+End
+
+#END

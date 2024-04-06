@@ -1,0 +1,14 @@
+* File: KratheMaid.scr
+* Mob: Krathen Handmaid (vnum 16318)
+
+#TRIGGER helpkrathe
+Type 8
+Sc
+if (%helpkrathe-arg% cmp "helpkrathe")
+  cmd wake
+  cmd stand
+  cmd walkto 16371
+  halt once~
+End
+
+#END

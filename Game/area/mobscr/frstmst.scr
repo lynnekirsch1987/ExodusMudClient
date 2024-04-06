@@ -1,0 +1,64 @@
+* script: frstmst.scr
+* The Forest Master (12069)
+
+
+#TRIGGER seek
+Type 99
+Sc
+   emote looks you over with cold, azure eyes.
+   wait 1~
+Sc
+   say You wish to seek entry into the mystical land known as the enchanted forest?
+halt once~
+End
+
+*PART 2
+#TRIGGER yes
+Type 99
+Sc
+   emote peers at you intently.
+   wait 1~
+Sc
+   say Do you seek to protect or to destroy?
+halt once~
+End
+
+#TRIGGER no
+Type 99
+Sc
+   emote shoes you away.
+   wait 1~
+Sc
+   say Well then be gone with you, I've got no time for silly prattling.
+halt once~
+End
+
+
+
+#TRIGGER destroy
+Type 99
+Sc
+   emote smirks at your comment.
+   wait 1~
+Sc
+   say Then I think not.
+   wait 1~
+Sc
+   cmd slay %destroy-from%
+halt once~
+End
+
+#TRIGGER protect
+Type 99
+Sc
+   emote smiles warmly at you.
+   wait 1~
+Sc
+   say Then I will grant you access.
+   wait 1~
+Sc
+   cmd trans %protect-from% 90100
+halt once~
+End
+
+#END

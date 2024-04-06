@@ -1,0 +1,25 @@
+* File: bartender.scr
+* Mob: Bartender(8808)
+
+#TRIGGER eleet
+Type 10
+Sc
+mfunc %eleet-from% %reject% name
+mfunc %eleet-from% %welfare% gold
+mfunc %eleet-from% %busted% age
+mfunc %eleet-from% %twochk% silver
+if ( %welfare% > 20 )
+say Eh..heh...come right in!
+halt once~
+Sc
+if ( %twochk% > 1500 )
+nod %reject%
+halt once~
+Sc
+if ( %welfare% < 15 ) && ( %busted% < 19 )
+scream %reject%
+say You aren't old enough to come in here!  Scram!
+MOB push %reject% west~
+End
+
+#END

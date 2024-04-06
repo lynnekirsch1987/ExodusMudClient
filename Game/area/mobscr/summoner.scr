@@ -1,0 +1,15 @@
+* File: summoner.scr
+* Mob: The summoner (956)
+
+#TRIGGER combat
+Type 2
+Sc
+let %countdown% -= 1
+if ( %countdown% < 1 )
+  let %countdown% == 25
+  pmote throws magical powder into the air.
+  cmd load mob 955
+  halt once~
+End
+
+#END

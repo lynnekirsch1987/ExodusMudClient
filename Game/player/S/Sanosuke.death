@@ -1,0 +1,789 @@
+#PLAYER
+Name Sanosuke~
+Id   1225056972
+LogF 1340180178
+LogO 1340180280
+Vers 8
+Prom %h/%H HP %m/%M MA %v/%V MV TNL %x/%X %gG/%sS %S %a ~
+Race human~
+Sex  1
+Cla  9
+Cla2  9
+Cla3  9
+Levl 90
+MBKill 8
+MHKill 185
+Hero 0
+Depty 0
+Sec  0
+BldAll 0
+Plyd 128853
+NPlyd 0
+NAge 0
+Bank_Gold 1450
+Bank_Silv 32793
+Email paccigaloo@comcast.net~
+Referrer ~
+Souls 0
+HP_Gained 5
+Mana_Gained 6
+Move_Gained 0
+PointsRp 0
+PointsNh 0
+PointsQ 0
+Avatar_Type 2
+Race_Old -1
+Class_Old -1
+New_Style 1
+Totalxp 1353172216
+TotalS 0
+Dam_Type 17
+Prevent_Escape 0
+Falcon_Alert 0
+NoBlinking 0
+GamL 0
+GamW 0
+QTicks 0
+TotalQH 0
+TotalQF 0
+TQFAttempt 0
+TQHAttempt 0
+TotalCGL 0
+TotalCGW 0
+MPC 0
+Host cs-xdata-66-175-172-238.cspire.com~
+Not  0 0 0 0 0 1340128244 0 0
+Scro 22
+Room 4056
+HMV  -33 1195 138 314 506 578
+Hand 2
+Gold 74
+Silv 3553
+Exp  164094
+Act  DEb
+Blok -1
+AfBy V
+Comm GNOQS
+Com2 A
+Pos  0
+Save  -15
+Alig  470
+Hit   65
+Dam   53
+ACs -3 -3 -3 40
+Attr 18 12 9 15 21 6
+AMod 1 0 0 4 3 0
+Pass Sa98JMPiC0mTA~
+Bcry  whispers Entaro adun!~
+Layhands 0
+Exorcise 0
+Illusion 0
+Titl  ciggara, zanza the fighter for hire!~
+Pnts 0
+TSex 1
+LLev 33
+Loner 0
+HMVP 1180 284 578
+Cd  -16 -16 13 13 0
+Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
+Sk 6 'riding'
+Sk 9 'dodge'
+Sk 100 'fisticuffery'
+Sk 100 'enhanced damage'
+Sk 61 'critical strike'
+Sk 6 'swimming'
+Sk 100 'hand to hand'
+Sk 66 'kick'
+Sk 6 'sweep'
+Sk 26 'trip'
+Sk 1 'throwing'
+Sk 6 'butcher'
+Sk 6 'split vision'
+Sk 100 'dirty tactics'
+Sk 7 'block'
+Sk 78 'counter'
+Sk 1 'knock'
+Sk 6 'feigned amazement'
+Sk 6 'prevent escape'
+Sk 81 'dive'
+Sk 6 'toss'
+Sk 100 'strike'
+Sk 1 'whirlwind'
+Sk 96 'fists of fury'
+Sk 55 'fast healing'
+Sk 96 'lore'
+Sk 6 'fishing'
+Sk 37 'sense life'
+Sk 96 'fighting arts'
+Sk 6 'bandage'
+Sk 81 'awareness'
+Sk 6 'hear the wind'
+Affc 'haste'   0  84  26   2   2    2097152 0 ''
+Affc 'bless'   0  76  39 -11  24          0 0 ''
+Affc 'bless'   0  84  39   7  18          0 0 ''
+End
+
+#O
+Vnum 78
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 79
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+ShD  the feather of `gA `jmad `gshrike``~
+Desc The feather of `gA `jmad `gshrike`` is lying here.~
+ExF 0 8388608
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4102
+Nest 0
+Name yoda bag forcey thing~
+ShD  `cYodas `hbag of `oF`kO`oR`kC`oE`kY `hthings``~
+ExF 0 8650752
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 20956
+Nest 1
+Name belt~
+ShD  `ha `arough `dbrown `hbelt``~
+WearL -1
+Lev  16
+Cost 50
+End
+
+#O
+Vnum 20964
+Nest 1
+Name pants newbie cavalry~
+ShD  `ba pair of`k (`cnewbie`k)`b pants``~
+WearL -1
+Lev  20
+Cost 140
+End
+
+#O
+Vnum 5637
+Nest 1
+Name robe master yoda~
+ShD  `aGrey robes of `hMaster `cYoda``~
+ExF 0 262144
+WearL -1
+Lev  13
+Cost 15
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+ExF 0 8650752
+WearL 524288
+Cost 0
+End
+
+#O
+Vnum 20389
+Nest 0
+ExF 0 8650752
+WearL 256
+Cost 0
+End
+
+#O
+Vnum 4279
+Nest 0
+Name hard leather boots newbie~
+ShD  `hshort, `dhairy `cgreen `hfeet with very `olong `htoenails``~
+Wt   0
+Cond 100
+WearL 64
+Lev  10
+Cost 0
+End
+
+#O
+Vnum 4274
+Enchanted
+Nest 0
+Name short fat green fingers~
+ShD  `athree `hshort`a, `cfat, green `afingers``~
+Wt   0
+WearL 128
+Lev  19
+Cost 0
+Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
+Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
+End
+
+#O
+Vnum 114
+Nest 0
+Name forest green cloak newbie~
+ShD  `aa soft `dtan `acloak made of a light material``~
+Wt   0
+WearL 1024
+Cost 100
+ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
+golden trimmings.  A small emblem has been weaved into the cloak, a series
+of diagonal and vertical slashes that are meaningless to you.  
+~
+End
+
+#O
+Vnum 553
+Nest 0
+Name dog collar newbie~
+ShD  `oA`k (`cnewbie`k)`o Collar``~
+WearL 4
+Cost 300
+End
+
+#O
+Vnum 4106
+Nest 0
+Name vial crystal haste~
+ShD  a vial of haste~
+WearL -1
+Lev  90
+Cost 750
+Vlues  70 0 0 0 0 0 0 0 0 0 0 0 0
+Spell 0 'haste'
+End
+
+#O
+Vnum 16322
+Nest 0
+WearL 32
+Cost 1
+End
+
+#O
+Vnum 5521
+Nest 0
+ShD  `aAn `hold`a, `bugly`a, `hw`or`hi`on`hk`ol`hy `cgreen `aface with `jLONG`a ears``~
+WearL 8388608
+Cost 6029
+End
+
+#O
+Vnum 7075
+Nest 0
+ExF 0 8388611
+WearL 2048
+Cost 0
+End
+
+#O
+Vnum 3696
+Nest 0
+ExF 0 25165824
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 14025
+Nest 1
+WearL -1
+Cost 1205
+Spell 3 'heal'
+End
+
+#O
+Vnum 4866
+Nest 1
+ExF 0 8388608
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 20403
+Nest 1
+WearL -1
+Cost 5
+End
+
+#O
+Vnum 20413
+Nest 1
+WearL -1
+Cost 3000
+End
+
+#O
+Vnum 12228
+Nest 1
+WearL -1
+Cost 107
+ExDe glasses specs~ The Glasses of Arcanus help him to read his spellbooks.
+~
+End
+
+#O
+Vnum 3194
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 3195
+Nest 1
+WearL -1
+Cost 400
+End
+
+#O
+Vnum 30102
+Nest 1
+Cardslot 23
+WearL -1
+Cost 10
+End
+
+#O
+Vnum 3195
+Nest 1
+WearL -1
+Cost 400
+End
+
+#O
+Vnum 102
+Nest 1
+WearL -1
+Cost 0
+ExDe papers~ Dear Diary, Today I decided to try for the world masturbation record. 
+Unfortunately, I had to stop at six ejaculations, my hand hurt so bad and it
+was becoming difficult to grab my tiny penis.  I was having a self esteem
+problem earlier as well, I was trying to build an area but it kept turning
+out like crap, I just don't know what the matter is with me!  Am I a loser
+like everyone says I am?  Anyway Diary, I was thinking about saving up my
+money to hire a prostitute or something, I feel so repressed and angry at
+the world.  I wish people like <insert Sanctuary player name here> would
+stop picking on me.  Sigh, sometimes I wish my parents had aborted me and
+saved this world the trouble of having to deal with a prick such as myself. 
+ 
+--Logan
+~
+End
+
+#O
+Vnum 3194
+Enchanted
+Nest 1
+ExF 0 65
+WearL -1
+Lev  61
+Cost 0
+Affc 'reserved'   1  60  -1   3   1          0 0 ''
+Affc 'enchant armor'   1  90  -1  -2  17          0 0 ''
+End
+
+#O
+Vnum 3194
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 3186
+Nest 1
+WearL -1
+Cost 20490
+End
+
+#O
+Vnum 3225
+Nest 1
+WearL -1
+Cost 3503
+End
+
+#O
+Vnum 3225
+Nest 1
+WearL -1
+Cost 3503
+End
+
+#O
+Vnum 22932
+Nest 1
+WearL -1
+Cost 20000
+End
+
+#O
+Vnum 9284
+Nest 1
+ExF 0 613023808
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 130
+Nest 1
+ExF 0 8650752
+WearL -1
+Cost 0
+Vlues  50 50 0 0 0 0 0 0 0 0 0 0 0
+ExDe ring~ This beautifully crafted ring has an unusual feature.  It's top pops open
+to reveal a large hollow opening within it.  As you look down into the ring,
+you realize that there might not be a bottom to it at all, very useful to
+store liquids in don't you think?  (hint hint) 
+~
+End
+
+#O
+Vnum 11272
+Nest 1
+ExF 0 8391184
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 3194
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4044
+Nest 1
+Name yellowed parchment greater heal heal~
+ShD  `ka piece of yellowed parchment`` of greater heal and heal~
+WearL -1
+Lev  90
+Cost 2300
+Vlues  90 72 71 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+Name yellowed parchment greater heal heal~
+ShD  `ka piece of yellowed parchment`` of greater heal and heal~
+WearL -1
+Lev  90
+Cost 2300
+Vlues  90 72 71 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+Name yellowed parchment heal greater heal~
+ShD  `ka piece of yellowed parchment`` of heal and greater heal~
+WearL -1
+Lev  90
+Cost 2300
+Vlues  90 71 72 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+Name yellowed parchment greater heal heal~
+ShD  `ka piece of yellowed parchment`` of greater heal and heal~
+WearL -1
+Lev  90
+Cost 2300
+Vlues  90 72 71 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+Name yellowed parchment heal greater heal~
+ShD  `ka piece of yellowed parchment`` of heal and greater heal~
+WearL -1
+Lev  90
+Cost 2300
+Vlues  90 71 72 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4044
+Nest 1
+Name yellowed parchment heal greater heal~
+ShD  `ka piece of yellowed parchment`` of heal and greater heal~
+WearL -1
+Lev  90
+Cost 2300
+Vlues  90 71 72 -1 -1 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4323
+Nest 1
+WearL -1
+Cost 10490
+Vlues  1 4078 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4323
+Nest 1
+WearL -1
+Cost 10490
+Vlues  1 4078 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4323
+Nest 1
+WearL -1
+Cost 10490
+Vlues  1 4078 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4323
+Nest 1
+WearL -1
+Cost 10490
+Vlues  1 4078 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 20
+Nest 1
+Name wispy cotton candy~
+ShD  `fwispy cotton candy``~
+Desc `dYou don't think that this `fwispy cotton candy`d could fill any belly but a sidhe's.``~
+WearL -1
+Cost 0
+Vlues  45 90 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 21
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4323
+Nest 1
+WearL -1
+Cost 10490
+Vlues  1 4061 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 4323
+Nest 1
+WearL -1
+Cost 10490
+Vlues  1 4061 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 21
+Nest 1
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 4323
+Nest 1
+WearL -1
+Cost 10490
+Vlues  1 22834 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#O
+Vnum 18972
+Nest 1
+WearL -1
+Cost 100
+End
+
+#O
+Vnum 436
+Nest 1
+ExF 0 75759696
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 27008
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+WearL 2097152
+Cost 0
+End
+
+#O
+Vnum 436
+Nest 0
+ExF 0 75759696
+WearL 65536
+Cost 0
+End
+
+#O
+Vnum 7265
+Nest 0
+ExF 0 8388611
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 12936
+Enchanted
+Nest 0
+Name party hat `jI`mv`le`or`na`lt`mh`k'`is`o B`li`jr`it`nh`md`la`ky``~
+ShD  `oA`k S`ip`la`jr`mk`nl`ii`kn`lg`o Party`j Hat``~
+Desc `oA`k s`ip`la`jr`mk`nl`ii`kn`lg`j party hat from`k Iverath's`j birthday is here,`r b`wl`ri`wn`rk`wi`rn`wg`o.`h.`a.``~
+ExF 0 262211
+WearL 16
+Lev  6
+Cost 750
+Affc 'enchant weapon'   1  75  -1  13  19          0 0 ''
+Affc 'enchant weapon'   1  75  -1  13  18          0 0 ''
+End
+
+#O
+Vnum 12223
+Nest 0
+ExF 0 8390979
+WearL -1
+Cost 0
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 12223
+Nest 0
+WearL -1
+Cost 950
+ExDe bracers~ This is Captain Pythagas' symbol of command.
+~
+End
+
+#O
+Vnum 7262
+Nest 0
+ExF 0 8391175
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 7262
+Nest 0
+ExF 0 8391175
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 7956
+Nest 0
+WearL 4096
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+WearL -1
+Cost 0
+End
+
+#O
+Vnum 7279
+Nest 0
+WearL -1
+Cost 13029
+End
+
+#O
+Vnum 7260
+Nest 0
+WearL -1
+Cost 1500
+End
+
+#O
+Vnum 4293
+Nest 0
+WearL -1
+Cost 20
+End
+
+#O
+Vnum 4291
+Nest 0
+WearL -1
+Cost 50
+End
+
+#O
+Vnum 4292
+Nest 0
+WearL -1
+Cost 45
+End
+
+#O
+Vnum 4143
+Nest 0
+WearL -1
+Cost 15
+End
+
+#O
+Vnum 7956
+Nest 0
+WearL 1048576
+Cost 0
+End
+
+#RoomRLE   973 8 2 8 1 9 1 2 2 5 3 4 11 2 1275 1 7 1 7 1 7 1 6 1 7 1 865 9 1 10 4 3 2 2 4 2 2 4 82 3 61 1 104 4 368 3 124 2 2 1 26 1 7 1 2 42 3 9 2 2 13 1 6 2 1 5 1 4 1 1 2 6 1 2 1 2 2 3 2 3 15 1 21 1 12 1 116 1 70 1 2 2 14 1 607 11 10 5 1865 1 331 11 639 2 2 15 1 6 1 33 2 2 8 2 3393 1 1725 1 7 3 7 3 7 1 9 1 9 1 9 1 9 1 9 1 7 1 7 1 7 1 7 1 7 1 6 2 6 1 7 1 7 1 7 1 7 3 215 1 92 1 4 2 2726 9 3 5 4 15 2 13 1 7 1 2 1 6 2538 10 14 1 1 3 1 2 2 8 2 11 25 5 1 3 8 5 2 2 2 1 19 2 5 3 2 1 28 1 1 2 1 2 1 1 1 1 3 1 67 1 2 1 1196 63 6 7 2 4 2 6 1 5 1 3 1 6 3 1 5 1 473 3 99 1 6 3 10 5 3 2 10 10 10 1 3 6 9 2 3 6 9 2 1 5 1 2 9 8 1 2 9 11 9 8 1 1 10 11 9 1 3 1 1577 1 42 1 2130 1 6 1 19 1 56 1 110 1 1069 1 15 1 13 6 2 4 3 2 531 1 149 68 6843 1 98 1 31523 -1
+
+#QbitsRLE   999 -1
+
+#END
