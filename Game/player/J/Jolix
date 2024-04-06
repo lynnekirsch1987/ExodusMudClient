@@ -1,263 +1,0 @@
-#PLAYER
-Name Jolix~
-Id   1010114971
-LogF 1010169206
-LogO 1010172571
-Vers 7
-Prom Hp: %h/%H Mp: %m/%M Move: %v/%V Exp Needed: %X  ~
-Race elf~
-Sex  1
-Cla  2
-Levl 6
-MBKill 2
-MHKill 165
-Hero 0
-Depty 0
-Sec  0
-BldAll 0
-Plyd 12653
-Bank_Gold 0
-Bank_Silv 0
-Email rza@mediafringe.com~
-Host l1-1c133.neo.rr.com~
-Not  0 0 0 0 0 0 0
-Scro 22
-Room 32256
-HMV  5 59 34 111 -30 122
-Hand 2
-Gold 46
-Silv 679
-Exp  12996
-Act  DQ
-AfBy J
-Comm EFGNORS
-Pos  8
-Prac 3
-Alig  -14
-Hit   7
-Dam   7
-ACs 84 86 85 92
-Wimp  10
-Attr 14 20 6 15 13 9
-AMod 2 0 0 0 -1 1
-Pass JoX0DORV4b9wk~
-Layhands 0
-Exorcise 0
-Titl  the Neophyte~
-Pnts 32
-TSex 1
-LLev 2
-Loner 0
-HMVP 59 111 122
-Cnd  -16 -16 -1 -1
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
-Alias ec examine corpse~
-Alias map examine map~
-Alias gc get all corp~
-Alias bs backstab~
-Alias em eat meat~
-Sk 61 'dagger'
-Sk 1 'sword'
-Sk 60 'backstab'
-Sk 1 'second attack'
-Sk 1 'haggle'
-Sk 1 'pick lock'
-Sk 1 'sneak'
-Sk 60 'steal'
-Gr 'rom basics'
-End
-
-#O
-Vnum 4263
-Nest 0
-Cond 0
-Wear 7
-Cost 0
-End
-
-#O
-Vnum 4201
-Nest 0
-Cond 0
-Wear 11
-Cost 0
-End
-
-#O
-Vnum 4407
-Nest 0
-Cond 0
-Wear 18
-Cost 0
-End
-
-#O
-Vnum 4264
-Nest 0
-Cond 0
-Wear -1
-Cost 0
-ExDe place~ [Your place in the world]
-After establishing your persona within the Realms of Exodus, you will
-most likely be tempted to exercise your freedom and broaden your 
-horizens by taking advantage of the many built-in features of the world:
-  
-[Clans]
-Clans are groups of like-minded players that have both the willpower and
-the manpower to organize themselves in objectives that may include
-conquering areas, warring with other clans, and/or promoting 
-a specific goal or cause. See [help clan and clan war].
-  
-[Homes]
-You can establish private sectors for yourself, your clan, or your loved
-one(s) in certain areas in the world of Exodus, for a price. This is best
-done after you have become an experienced adventurer and amassed
-some money. Refer to [help homes] for more information.
-  
-[Transportation]
-The forms of transport in the Realm of Exodus are many and varied.
-Elevator mechanisms coupled with moving battle machines, boats,
-mounts, and magical means of transport are ways to move yourself 
-around all kinds of terrain. For traditionalists, you can also walk to 
-most places. Please read the following files:
-[help boat, help mount, help transportation].
-  
-[Good places to go]
-A good place for newbies to start is the Thesden Animal Exhibition 
-Gardens, informally called the zoo. It is located on Welford Road,
-on the far east side of Thesden. Once the pleasures of the Zoo have 
-begun to pall, you can explore, hunt wabbits!, or satisfy your 
-bloodthirst at Ashton Gardens (near the center of Thesden), or 
-in the Eastern Plains or Sarrendale Farms (outside of the East
-Gate of Thesden).
-~
-ExDe player players~ `o[`iother players`o]`h                                                        
-Although most of the inhabitants of Exodus may appear to be friendly,          
-it is always advisable to take everything with a grain of salt and             
-view the world through a cynic's eyes -- even the most harmless-looking      
-player can evolve into a vicious enemy in the span of a few seconds.           
-Exploring the large universe that Exodus provides is a very good way          
-to avoid messy conflicts with other violent players, and is strongly          
-encouraged, especially to new players.                                        
-                                                                             
-This advice does not directly apply to players level 1 - 8 (as these        
-lower-level players are protected by immortal intervention), but it           
-is advisable that you begin exploring the planet early on, to get a            
-grasp of the terrain and places to adventure.                                
-   
-Player-killing outside of the 10-level range established by the               
-creators of the lands of Exodus will result in the garnering of a              
-wanted flag, and possibly a trial [help justice, help laws].                   
-~
-ExDe world~ `o[`iThe world around you`o]`h     
-There are many things in the world that you will become aware of as you       
-wander about.  The world of Exodus is vast, comprised of many mystical        
-lands.  [help areas]    
-A few commands are necessary to master if you want to experience the    
-full impact of Exodus: look, where, and who. [help look] [help where] &       
-[help who] have extensive information concerning these important commands.    
-    
-`o[`hobjects`o]`h                                                              
-Mundane and arcane items alike can be found, bought, or battled for in    
-the realms of Exodus.  Although you may discover a proliferation of
-telluric items within its sprawls, the luckiest adventurers may sometimes     
-come across fabled treasures, rare beyond description.                        
-                                                                              
-`o[`hmobiles`o]`h                                                              
-Unlike many other foriegn environments, the extensive lands of Exodus are   
-inhabited by both intelligent players, and...intelligent monsters.          
-Instinctual animals may not offer much of a challenge, but cognizant           
-creatures with actual aspects of sentience (for example, city guards,       
-farmers, or soldiers) may just surprise you -- look at them, talk to them,  
-do what you deem to be wise around them to see how they react.  And should  
-you choose to engage in combat with them and find yourself over your head,  
-you may just find that enraged farmer or cityguard hunting you down to      
-finish the job.                                                                
-~
-ExDe you~ `o[`iYou`o]`h                                                                 
-You are the center of your universe.  There are many ways in which you        
-can make your character unique, aside from the customization you have         
-already undertaken in choosing your skills and attributes.  You can           
-change your title [help title], give yourself a description [help description],
-formulate a battlecry [help battlecry]  -- and you can do it all in color    
-[help color].                                                   
-               
-When your character is born, he/she/it receives a set of low level
-equipment. To see what you are wearing, type equipment.  To see what you are 
-holding, type inventory.  Exodus supports full abbreviation, so if you don't 
-want to type out these full commands, you can use 'eq' and 'i', respectively. 
-If you should ever lose your newbie gear, you can type outfit to re-eq.      
-
-Your character's attributes and nuances are important to your evolution as     
-you rise in power and knowledge.  To see your character's score sheet,        
-type score.  To see quickly how wealthy your character is, or how much        
-experience you require to level, type worth.  The experience you receive      
-from killing non-player-characters (NPCs), exploring the world, or            
-participating in both built-in area and immortal run quests determines        
-your level. [help experience, help level]                                     
-~
-ExDe papermsg~ `lWelcome to the realms of `nExodus`h.  Upon entering our world,
-you will notice that there is no traditional mud school or newbie zone.
-It is our intention to immerse players immediately, the world around you being
-your entire 'newbie area'.  Thus, reading this `bNeophyte Manifesto`h becomes
-monumentally important to your prosperity and survival here.  Note that   
-everything covered in this document is pursued at greater length in the  
-help files. Please also type story to read something of Exodus history.
-
-The manifesto is divided into several categories.  
-To read the different parts, just type look `kkeyword`h.
-
-`o[`kYou`o] [`hThe `kworld `haround you`o] [`hOther `kplayers`o] [`hYour `kplace`h in the world`o]`h               
-~
-End
-
-#O
-Vnum 4145
-Enchanted
-Nest 0
-Name stiletto dagger~
-ExtF 8388675
-Cond 0
-Wear 16
-Lev  21
-Cost 0
-Affc 'enchant weapon'   1  90  -1   7  19          0 0 ''
-Affc 'enchant weapon'   0  90  -1   7  18          0 0 ''
-End
-
-#O
-Vnum 4420
-Nest 0
-Cond 0
-Wear 5
-Cost 10
-End
-
-#O
-Vnum 4026
-Nest 0
-Cond 0
-Wear 0
-Cost 125
-Val  0 0 140 0 0 0 0
-End
-
-#O
-Vnum 4290
-Nest 0
-Cond 0
-Wear 6
-Cost 150
-End
-
-#O
-Vnum 2614
-Nest 0
-Cond 0
-Wear 8
-Cost 0
-End
-
-#RoomRLE   100 1 223 1 2 1 287 1 1 1 23 5 19 1 839 2 2493 10 13 1 10 2 7 2 1 42 1 11 12 15 1 4 2 3 2 1 2 5 1 2 5 3 3 2 12 2 1 2 3 1 1 1 14 1 10 1 5 1 27 1 84 1 3 1 1 18 3 1 41 1 4 2 3495 1 8 8 1 1 2 2 2 3 1 5 2 1 1 1 2 2 1 4 1 1 7 6 5130 21 139 8 7791 1 19 2 1 2 15 6 14 2 2 2 13 7 13 1 4 2 13 1 4 2 13 1 2 1 1 2 13 7 13 17 2 5 1 2 10 1 2 2 4 11 3 2 18 2 1686 1 2038 1 4 1 38 1 7 2 24 1 63 1 21 1 9 1 13 1 11 1 48 1 539 1 99 1 6318 16 33272 -1
-
-#END

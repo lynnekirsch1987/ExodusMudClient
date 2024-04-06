@@ -1,486 +1,0 @@
-#PLAYER
-Name Simkin~
-Id   841953188
-LogF 919364853
-LogO 919364853
-Vers 5
-Desc You see before you a, uh, interesting young man. He has a
-neatly trimmed beard and red hair. He is dressed in bright orange
-pantaloons, a purple and mauve silk blouse with white lace cuffs,
-and a green jester's cap.
-~
-Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
-Race elf~
-Sex  1
-Cla  0
-Levl 54
-PBKill 7
-MBKill 97
-PHKill 2
-MHKill 1022
-Depty 0
-Sec  0
-Plyd 1611360
-Bank_Gold 2324
-Bank_Silv 174
-Email chboggs@vt.edu~
-Host as5200-11.sl050.cns.vt.edu~
-Not  919167288 917621582 0 880673857 866429016
-Scro 22
-Room 25055
-HMV  210 210 854 854 304 304
-Hand 4
-Gold 62
-Silv 18075
-Exp  189080
-Act  DEFHQ
-AfBy J
-Comm NOQSX
-Pos  8
-Prac 29
-Save  1
-Alig  996
-Hit   5
-Dam   5
-ACs 16 25 14 19
-Wimp  100
-Attr 13 20 18 10 12 11
-AMod 1 -1 0 1 0 12
-Pass SiRkkXzUxubls~
-Bcry  disappears, and suddenly a broom appears, whacking his foe upon t~
-Plan  This cherry man in front of you is a complete mystery.  He is, for the
-moment, clad in loud silks that, you must admit, are quite fashionable.  At
-a moments notice however, he could snap his fingers and change his entire
-attire.  Or, he might simply disappear and be replaced by a simple object,
-like a teapot or a broom.  He rambles on about some place you've never heard
-about, called Merlion, and about a few adventures with some Prince of
-Darkness that he and a few friends had.  His story always ends with the
-tragic fulfillment of a bizarre prophacy of some kind, and of his vain
-attempt to flee the land before it was fulfilled.  You hear, as he prattles
-on, forever adjusting the white lace at his blouse cuffs, about a man called
-the Executioner, and how Simkin supposedly died by his hands.  You doubt
-this however, since this annoying, know-it-all is right in front of you now,
-relating a tale of how the Third Dutchess of Braxmillion was dreadfully
-hauled off by the Emperor for yelling "Fire!"  In the middle of the crowded
-town square.  Terrible story, very sad.  But Simkin seems not to mind,
-snapping his fingers and again changing his attire, and skipping off to
-another end of the world.  
-~
-Layhands 0
-Exorcise 0
-Titl  says, "Only a fool dares tell you the truth."~
-Pnts 65
-TSex 1
-LLev 344
-Loner 1
-HMVP 197 822 262
-Cnd  -16 -15 33 14
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
-Sk 84 'armor'
-Sk 100 'acid blast'
-Sk 75 'fireshield'
-Sk 76 'blindness'
-Sk 1 'web'
-Sk 93 'burning hands'
-Sk 81 'cancellation'
-Sk 75 'chain lightning'
-Sk 78 'change sex'
-Sk 100 'charm person'
-Sk 84 'chill touch'
-Sk 100 'colour spray'
-Sk 100 'create food'
-Sk 78 'create rose'
-Sk 93 'create spring'
-Sk 76 'create water'
-Sk 81 'curse'
-Sk 95 'detect hidden'
-Sk 95 'detect invis'
-Sk 75 'detect magic'
-Sk 75 'detect poison'
-Sk 76 'dispel magic'
-Sk 1 'firestorm'
-Sk 76 'enchant armor'
-Sk 84 'enchant weapon'
-Sk 78 'energy drain'
-Sk 98 'fireball'
-Sk 75 'fireproof'
-Sk 75 'fly'
-Sk 75 'floating disc'
-Sk 92 'giant strength'
-Sk 87 'haste'
-Sk 75 'heat metal'
-Sk 88 'identify'
-Sk 75 'infravision'
-Sk 92 'invisibility'
-Sk 76 'mirror'
-Sk 81 'lightning bolt'
-Sk 86 'locate object'
-Sk 79 'magic missile'
-Sk 84 'mass invis'
-Sk 75 'pass door'
-Sk 86 'poison'
-Sk 75 'portal'
-Sk 92 'summon'
-Sk 95 'gate'
-Sk 75 'recharge'
-Sk 78 'refresh'
-Sk 84 'shield'
-Sk 79 'shocking grasp'
-Sk 76 'sleep'
-Sk 78 'slow'
-Sk 75 'stone skin'
-Sk 77 'teleport'
-Sk 75 'ventriloquate'
-Sk 89 'weaken'
-Sk 75 'aqua breathe'
-Sk 75 'channel electricity'
-Sk 75 'ice beam'
-Sk 76 'electrical charge'
-Sk 98 'dagger'
-Sk 100 'staff'
-Sk 1 'sneak'
-Sk 75 'scrolls'
-Gr 'rom basics'
-Gr 'beguiling'
-Gr 'combat'
-Gr 'creation'
-Gr 'detection'
-Gr 'enchantment'
-Gr 'enhancement'
-Gr 'illusion'
-Gr 'maladictions'
-Gr 'protective'
-Gr 'transportation'
-Gr 'elemental'
-End
-
-#O
-Vnum 12223
-Nest 0
-Cond 0
-Wear -1
-Cost 950
-ExDe bracers~ This is Captain Pythagas' symbol of command.
-~
-End
-
-#O
-Vnum 12228
-Nest 0
-Cond 0
-Wear -1
-Cost 107
-ExDe glasses specs~ The Glasses of Arcanus help him to read his spellbooks.
-~
-End
-
-#O
-Vnum 10361
-Enchanted
-Nest 0
-ExtF 67
-Cond 0
-Wear 16
-Lev  39
-Cost 15
-Affc 'enchant weapon'   1  54  -1   1  19          0 0 ''
-Affc 'enchant weapon'   0  54  -1   1  18          0 0 ''
-End
-
-#O
-Vnum 4228
-Nest 0
-Cond 0
-Wear 18
-Cost 3700
-End
-
-#O
-Vnum 12223
-Nest 0
-Cond 0
-Wear -1
-Cost 950
-ExDe bracers~ This is Captain Pythagas' symbol of command.
-~
-End
-
-#O
-Vnum 8833
-Nest 0
-Cond 0
-Wear -1
-Time 1365
-Cost 0
-Spell 1 'holy word'
-End
-
-#O
-Vnum 12222
-Nest 0
-Cond 0
-Wear 4
-Cost 10493
-ExDe necklace~ This is the necklace of Marcus Thalominus. It is covered in jewels.
-~
-End
-
-#O
-Vnum 722
-Nest 0
-Cond 0
-Wear 0
-Cost 0
-End
-
-#O
-Vnum 4290
-Nest 0
-Cond 0
-Wear 6
-Cost 150
-End
-
-#O
-Vnum 5617
-Nest 0
-Cond 0
-Wear 15
-Cost 0
-End
-
-#O
-Vnum 115
-Nest 0
-Cond 0
-Wear 9
-Cost 763
-ExDe gloves~ These gloves have been made from the finest and smoothest satin material,
-a beautiful feeling on the hands.  They do not look like they were made for
-very difficult labor, they are showpieces to be sure.  
-~
-End
-
-#O
-Vnum 12922
-Nest 0
-Cond 0
-Wear 1
-Cost 0
-End
-
-#O
-Vnum 5371
-Nest 0
-Cond 0
-Wear 12
-Cost 566
-End
-
-#O
-Vnum 5351
-Nest 0
-ExtF 262144
-Cond 0
-Wear 8
-Cost 0
-End
-
-#O
-Vnum 149
-Nest 0
-Cond 0
-Wear 5
-Cost 0
-End
-
-#O
-Vnum 5617
-Nest 0
-Cond 0
-Wear 14
-Cost 0
-End
-
-#O
-Vnum 12222
-Nest 0
-Cond 0
-Wear 3
-Cost 10493
-ExDe necklace~ This is the necklace of Marcus Thalominus. It is covered in jewels.
-~
-End
-
-#O
-Vnum 18958
-Nest 0
-Cond 0
-Wear 7
-Cost 50
-End
-
-#O
-Vnum 20389
-Nest 0
-Cond 0
-Wear 10
-Cost 0
-End
-
-#O
-Vnum 7075
-Nest 0
-Cond 0
-Wear 13
-Cost 0
-End
-
-#O
-Vnum 16433
-Nest 0
-Cond 0
-Wear -1
-Cost 0
-ExDe cheating~ `l* DO NOT multiplay.  You may have multiple characters, but in NO WAY
-may they be on at the same time or assist one another in any way.  This
-includes leaving eq or money for your alternate or summoning someone so your
-alter may kill them.  * DO NOT use a client in a fashion that gives a player
-an undue advantage.  Use of a client is not illegal, but the creation of
-"Bots" is illegal.  * DO NOT lie to the immortal staff.  If you are found to
-be lying, you will be punished.  * DO NOT abuse bugs.  If you find a bug,
-report it immediately.  * DO NOT EVER mess with arena gear in any way,
-shape, or form.  Wear it for the duration of your duel, do not experiment on
-it.  * DO NOT store personal items in a store.  If you don't want to sell
-it, don't keep it there.  * DO NOT use stores to sell or store runes.  This
-can result in loss of all stock and/or deletion.  * DO NOT mask "spoofs" or
-variations on a storekeeper's name while you are in that store.  This
-includes both mob and player storekeepers.  Spoofs on player names are
-allowed outside of this instance provided that the first two letters of the
-spoof-name are different from the real name of the player.  Immortals are
-not to be spoofed without their permission.  Pet names must also follow
-these rules.  * Do not steal from the persons or corpses of noclans or
-newbies.  This includes using charm and making them drop everything.  It is
-LEGAL to steal from noclan homes, however, as there is nothing to indicate
-noclan status.  If they catch you or can prove you did it, a noclan can sue
-for harassment to get their stuff back.  Clanned or loner characters cannot
-do so.  * DO NOT accept or ask for favors from immortals.  The immortal
-staff will assist you in many ways, but they may not help in a manner that
-is not available to other players.  Favors include requests for information
-that would not normally be available to you, requests for experience or
-equipment, requests for special reimbs of prohibited items (runes, enchants,
-etc) and so on.  * DO NOT use inherent world characteristics in order to
-directly kill or rob anyone.  You also may not use them to kill mobs.  * DO
-NOT use character actions (such as charm) to force players to use their
-player level commands, such as alias, save, etc or to change a player's
-characteristics, such as align, against their will.  * DO NOT claim that
-linkdead means you have their permission to do anything to them.  It
-doesn't.  * If you are punished by an immortal do not attempt to evade your
-punishment.  You may appeal a judgment you feel is unfair, however, if your
-appeal is turned down, that is the end of the matter.  Talk to staff to find
-out who to appeal to.  If you escape from the wanted flag caused by
-autojailing, that is OK.  Once you are in jail, escaping is illegal.  *
-Vro'ath may not group with anyone other than other Vro'ath, and evil or
-neutral humans or dwarves.  
-~
-ExDe harrassment~ `l* DO NOT social or emote characters that have asked you to stop.  * DO
-NOT lock Sidhe in combat spam.  * DO NOT send repeated tells or telepaths to
-players who do not wish to speak with you.  * DO NOT continue to argue with
-an immortal after they have said their judgement is final You may appeal
-through the correct channels, but if you are turned down, you may not
-continue to harass staff with the issue.  DO NOT social the immortal staff
-without clear permission, especially not with insulting or sexually oriented
-socials.  DO NOT attempt to kill them, steal from them, charm them, bardsong
-or cast spells upon them without that immortal's specific permission. 
-`iHarrassment based on race, creed, nationality, religion, sexual
-preference, or gender of any player will be punished severely.  `lIf you are
-in someone's private rooms and they ask you to leave, do so or they can
-charge you with trespassing (a form of harassment) in court.  `` 
-~
-ExDe overview~ `n&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-`hThere are four major categories of offense that will get you in trouble in
-the Realm of Exodus.  These are enforced directly by an immortal or through
-a court of law in cases when an immortal has not made a judgment on the
-matter.  If you are charged with any of the following, you may hire an
-attorney to defend you if it goes to court (see HELP COURTS).  While `iyou
-MUST read all the rules and obey them`h they have been separated into
-different sections based on the type of offense.  These categories are :
-`kIllegal Player Killing (LOOK PK), Harrassment (LOOK HARRASSMENT), Cheating
-(LOOK CHEATING), and Channel Abuse (LOOK CHANNEL).  `n
-%%%%%%%%%%%%%%%%%%%%%%%%%%IMMORTALS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-`hThe immortal staff is here to help maintain a quality mud.  If it is not
-in direct violation of a clearly stated rule, you are expected to comply
-with their request.  Not all rules are explicitly stated in this rule list,
-and they may be enforcing a rule not listed here.  If you have a problem
-with that request or with a punishment you have been given, discuss the
-matter privately with that immortal or another immortal staff member.  Imm
-staff will also listen to your ideas for change here at the mud, and you are
-encouraged also to talk to player council members about proposed changes. 
-If you suspect an immortal of wrongdoing, privately talk to that immortal or
-another immortal about the issue.  Have some kind of proof (ie at least an
-example).  Public allegations waste everyone's time.  
-~
-ExDe pk~ `hPK OUTSIDE OF CLANS`l Player murder outside of the realm of clans or
-guilds is frowned upon in the lands of Exodus, and killing a person who is
-not a/a loner or b/in a clan and c/equal to or over level 9 is illegal. 
-Losing your temper because the noclan or newbie was annoying is not
-considered an acceptable defense.  `iNote:`lIf you are not in a clan or are
-not already marked loner, you will receive the loner distinction if you kill
-somebody or attempt to steal from other players.  Other offenses that will
-earn you a loner flag are charming (spell or song), sleeping, or teleporting
-other players or looting their corpses.  A good rule of thumb is to only
-talk to other players in the game, and not use your abilities on them unless
-a/you are aiding them at their request or b/you want to become a loner. 
-Spelling up group members for a battle is acceptable, but otherwise you
-should not sing, pray, enspell, or in any way use your abilities to affect
-other players unless they so request it.  If you are a noclan, make sure
-your autoassist is mob only or you WILL retain your loner flag if you kill
-another player. 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< `lPK
-`oIN A CLAN OR AS A LONER `lIf you are in a clan or are a loner, there is no
-such thing as an Out of Level (OOL) kill down with the exception of newbies,
-but note that if you kill someone more than 8 levels OOL, you will lose a
-tremendous amount of experience - the greater the level difference, the
-greater your loss.  Players grouped with you at the time of your murder will
-also be punished in the same fashion, though they may or may not be able to
-appeal that.  Murdering a player who is participating in an immortal run
-quest is forbidden, even in times of clan war, unless otherwise directly
-specified by the immortal in charge of the quest.  Attacking a player
-participating in such a quest who is marked as being part of a quest group
-("quest" in title) will be punished.  Use of the quest immunity to abuse
-other players will result in the usual punishment plus loss of quest prizes.
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-`oNEWBIE PROTECTION`l Do NOT attack or pk any level 8 or lower, FOR ANY
-REASON.  Even if the level 8 or lower is in a clan or loner, they are NOT TO
-BE ATTACKED.  Noclan rules apply to even clanned or loner newbies.  If a
-newbie abuses this protection, let the imms know and/or sue for
-harassment.???????????????????????????????????????????????????????????????? 
-- ??????  `oINDIRECT PK `lKilling players using summon, aggressive monsters,
-or any other indirect means is a very severe offense and punishable by
-freezing, in most cases.  Because they may kill noclans or newbies, plague,
-Good Vibrations, and earthquake may not be used within Thesden or any other
-area designated as a starting city should there be some in the future.  No
-charming (spell or song), sleeping, or teleporting, or using your abilities
-on the persons or corpses of noclans or newbies in any manner other than
-with the consent of the noclan or newbie. 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-`oMultikilling`l Killing another player several times in succession without
-an adequate time lapse between kills is illegal.  Typically, an adequate
-time lapse means enough time for them to recover their items and
-health/mana.  
-~
-ExDe channel~ ****************************CHANNEL ABUSE*******************************
-`lDo NOT spam on any channel (repeating the same action to cause scroll). 
-This includes emotes and actions in the same room, or forcing another player
-to spam themselves.  Spells are included: Feeding yourself is ok, but
-spamming create food 30 times is not, if you are in devon square or another
-room with players.  DO NOT use channels for purposes other than those for
-which they were designed.  This includes using OOC for in-character
-communications or to berate other players.  None of our public channels are
-to be used as forums for personal arguments or prolonged discussions.  `hDo
-not use any public channel for insults, epithets, or profanity.  `lDO NOT
-make public private conversations between yourself and an immortal.  
-~
-End
-
-#END

@@ -1,180 +1,0 @@
-Sender  Duiwel~
-Date    Sun Jun 24 07:53:36 2012~
-Stamp   1340538816
-To      all~
-Subject Keep of Lesser Dragons~
-Text
-A company of mercenaries have taken control of the Keep of Lesser
-Dragons.  These mercenaries have allied themselves with the denizens
-of the Keep of Lesser Dragons and are now calling themselves the
-Drake Maidens.  
-
-The Keep of Lesser Dragons should now be more interesting to adventurers
-levels 40-55.
-
-There are 5 new mob types, 3 bosses, 5 new items.
-You should find about 15 new mobs wandering the keep.
-
-Please let us know what you think of the item drops and bosses!
-We will tweak the new mobs as needed and possibly add more to this
-area.
-~
-Sender  Duiwel~
-Date    Sun Jun 24 07:54:35 2012~
-Stamp   1340538875
-To      all~
-Subject Help File Spacing Bug~
-Text
-I'm reasonably sure I was able to safely and completely remove all double-spacing
-issues within the Exodus Help Files.
-
-Please let me know if you find any helpfiles that still have spacing issues.
-~
-Sender  Duiwel~
-Date    Sun Jun 24 08:02:05 2012~
-Stamp   1340539325
-To      all~
-Subject New Directory Helpfile:  help allhelp~
-Text
-I have created a new mass directory helpfile.  It's pretty simple,
-It just contains a list of all 315 help file titles.  I put this 
-together because I would love to start fixing, expanding and
-completing all the issues throughout the Help Files.
-
-I may actually put together something of a 'rewards' system for
-anyone who wants to help out.  Nothing set it stone yet, but I 
-could see giving 1 Newbie Helper Point (Spend for Double XP) or
-1 RP Point (Spend for Restrings and Pretitles) for each player
-submitted helpfile that's GOOD, properly formatted, colored, etc.
-1 Qtoken for every 5th help file created.
-
-Again, nothing set in stone, just an idea I had.
-
-To access the new help file, type: 'help allhelp'
-~
-Sender  Duiwel~
-Date    Wed Jun 27 05:25:09 2012~
-Stamp   1340789109
-To      all~
-Subject Multiplay PK~
-Text
-We had a long discussion tonight to address what we thought to be was an 
-odd omission in the Exodus Rules.
-
-We found it odd that there was no specific ruling on what could be perceived
-as "Revenge MP PK":  Your alt gets legally killed by someone, and you either
-immediately or eventually attack them on a more powerful alt.
-on one hand people have the right to log on other alts and play them as 
-they will.  If someone get's PK'd it is reasonable that they may retired 
-that alt for the night.  It's also reasonable for them to log on another 
-alt.  If that alt is PK, it is reasonable for them to then engage in PK.
-On the other hand, there is definitely a line where 'too soon' has to come
-into effect.  To that end, we have both a rule clarification and a question
-for the players.
-
-Rule Clarification - Direct MP PK
-You cannot attack a player you damaged on another alt, even if your alt lost, 
-if that player is visibly under the affects of the battle - this relates to 
-resources (HP, Mana, Moves) and Status Ailments.  As the attacker, it is up 
-to your discretion as to whether the person you are taking revenge on has 
-healed - however you will be the one accountable if they have not.  You will
-have an idea what kind of damage you did and how long your debuffs will last,
-do not cross that line.  
-
-Rule for Discussion - MP PK "Lag"
-On some level we feel the natural BattleLag combined with waiting for your
-slayer to heal should be enough of a buffer.  However, We're willing to hear
-people's opinions on putting in strict rule on cross-alt pk, to 10 or 15 
-minutes.  
-
-Assassinate Blag Not Broken:
-We were informed that there may be a bug with assassinate not triggering 
-Battle Lag on the slain target.  As far as we can tell, that is not the case
-and assassinate is properly triggering blag.
-~
-Sender  Duiwel~
-Date    Wed Jun 27 05:41:01 2012~
-Stamp   1340790061
-To      all~
-Subject Guttersnipes is no more!~
-Text
-Guttersnipes is no longer an active Clan.  
-~
-Sender  Duiwel~
-Date    Wed Jun 27 06:14:43 2012~
-Stamp   1340792083
-To      all~
-Subject Corrected Temporary Reaver Bug~
-Text
-A piece of code got out of sync between the ports of Exodus and Reavers
-temporarily went back to their old spell costs.  This as been
-corrected and Reavers should once again have the new spell costs.
-~
-Sender  Duiwel~
-Date    Thu Jun 28 05:08:07 2012~
-Stamp   1340874487
-To      all~
-Subject Help Home Prices~
-Text
-There is a new helpfile: Help Home Prices
-This helpfile lists prices for all the player building options
-that I could find.
-~
-Sender  Duiwel~
-Date    Tue Jul  3 20:48:50 2012~
-Stamp   1341362930
-To      all~
-Subject New Help File 'Help Stats'~
-Text
-There is a new help file that lists all the min and max stat rolls
-for each race.
-There may be a mistake or two, Dwarf Dexterity is one that may need adjustment
-
-HELP STATS
-~
-Sender  Duiwel~
-Date    Sun Sep 16 20:16:56 2012~
-Stamp   1347841016
-To      all~
-Subject Tattoos~
-Text
-We figured out today why Tattoo's were broken and why.  At one point during
-the last iteration of the MUD someone came up with the idea of giving
-Tattoo's stats, IE, enchanted Tattoos, which is fine.
-
-However, since that Immortal was apparently unable to simply copy the
-the process of making Tattoos properly (were you to follow the old system
-you would have been able to make stat-enabled Tattoos just fine, and while
-you'd be 'stuck' with those stats, you could simply get a new tattoo.)
-That Immortal had an outside coder we had at the time break the Tattoo
-code in order to break Tattoo's entirely which is why people are able to just
-wear them today.
-
-Now, after all that, only 1 Tattoo following this 'new system' was introduced.
-The 'A Dragon Tattoo' is now noremove nouncurse and rotdeath.  If you have one
-that stays on you after death, you need to report it to me immediately or things
-will not be pretty if I catch you.
-
-When you die in Exodus, for the time being, you are given a new body free of
-tattoos or any other markings of death by your god.  Naked and full of shame.
-
-You may NOT 'move' an item into the Tattoo slot, or the Wing slot.  For the
-time being this is the rule.  If you find yourself REALLY wanting an item
-in the Tattoo Slot, you can use a move token, but it will become noremove,
-no_uncurse, and rotdeath.  
-
-Nerix may move items into the Wing slot.
-
-Tattoo restrictions may change in the future once we repair the broken code, at least
-now that everyone knows what happened, we can start fixing it. 
-We like the idea of enchanted Tattoos, or we would not have approved it originally.
-it is unfortunate that certain folks couldn't follow the process of making a 
-tattoo mockup, a tattoo template, and an object trigger to make the process work
-and instead took it upon themselves to break the code under everyone's noses.
-But we will make an effort to get Tattoo's back up and running and perhaps insert 
-some more interesting Tattoos into the game.
-
-Let me say again - If you have a Tattoo with stats on it and it is not rotdeath
-you need to come to me NOW and let me know.  I will not be happy if I catch
-you with one and you are a regular player, you will lose more than the Tattoo.
-~

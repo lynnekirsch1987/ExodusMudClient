@@ -1,519 +1,0 @@
-#PLAYER
-Name Sanitarium~
-Id   1053352330
-LogF 1053385145
-LogO 1053385145
-Vers 7
-Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
-Race human~
-Sex  1
-Cla  4
-Levl 1
-MBKill 1
-Hero 0
-Depty 0
-Sec  0
-BldAll 0
-Plyd 3258
-Bank_Gold 0
-Bank_Silv 0
-Email PsychoMonkey1685@aol.com~
-Souls 0
-Host PURGED-LD~
-Not  0 0 0 0 0 0 0
-Scro 22
-Room 4405
-HMV  20 20 100 100 100 100
-Hand 2
-Gold 0
-Silv 0
-Exp  3054
-Act  DQ
-Comm NO
-Pos  8
-Prac 5
-Trai 2
-Save  -12
-Alig  0
-Hit   12
-ACs 100 100 100 100
-Attr 12 17 7 12 7 15
-AMod 0 0 0 0 0 0
-Pass Sa/iiI/zg19h6~
-Layhands 0
-Exorcise 0
-Titl  the Neophyte~
-Pnts 59
-TSex 1
-LLev 0
-Loner 0
-HMVP 20 100 100
-Cnd  -4 42 23 23
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
-Sk 1 'bee sting'
-Sk 1 'bee swarm'
-Sk 1 'call lightning'
-Sk 1 'herbal lore'
-Sk 1 'aqua breathe'
-Sk 1 'bark skin'
-Sk 1 'Eyes of the Owl'
-Sk 1 'shield block'
-Sk 40 'sword'
-Sk 1 'uppercut'
-Sk 1 'riding'
-Sk 1 'dual wield'
-Sk 1 'dodge'
-Sk 1 'enhanced damage'
-Sk 1 'swimming'
-Sk 1 'kick'
-Sk 1 'fast healing'
-Sk 1 'fishing'
-Sk 1 'camping'
-Sk 1 'wall of thorns'
-Gr 'rom basics'
-Gr 'dance of the wild'
-Affc 'bless'   0  87  42  12  18          0 0 ''
-Affc 'bless'   0  88  42 -12  24          0 0 ''
-GStats  8 0 0 0 1 34 0 3054 -4 
-End
-
-#O
-Vnum 12923
-Nest 0
-Name sparkling newbie box `iI`bv`ae`orStr`ai`bn`ig``~
-ShD  `d[`kA Sparkling Newbie Box`d]``~
-Desc `kA sparkling newbie box from`o Iverath`k is here, stuffed with newbish items.``~
-Cond 0
-Wear -1
-Lev  1
-Cost 15
-End
-
-#O
-Vnum 4569
-Nest 1
-Name book noob speak how `f*`mHwo2speekNoob`f*`` `oByHaylie``~
-ShD  "How to Speak Noob"`k - By Haylie BoBaylie``~
-Desc `dA book is here, it says`m How to Speak Noob`d on the cover.``~
-Cond 0
-Wear -1
-Cost 50
-ExDe papermsg~ ``Hello! And Welcome to how to speak noob! Reading this book will make you an 
-expert when it comes to dealing with noobs! Lord knows they're hard to
-understand!
-Here are some simple word translations to get you on your way to mastering noobish!
-``
-`hu  - You, often used in sentences about another noob.
-`hr - Are, commonly used following 'u'.
-`hkow - Know, used when claiming the noob actually contains some knowlege.
-`h4 - For, used when asking for something, such as eq, or quad.
-`hplz - Please, used when begging for something they can't do on their own.
-`hsry - Sorry, often used after the imms yell at them.
-`hwat - What, ie: wat r u doin?
-`hdat - That, when asking for something they often refer to it as 'dat'.
-`hdem - Them, the plural of 'dat'.
-`hmeen - Mean, refering to more intelligent players upon insult.
-`htot - Thought, I'm not quite sure when this is used, since they never think.
-`hlvl - Level, something they will all beg you to do for them.
-`hok - Okay, no real reason for them to use it, they just..do.``
-``
-Alright, now, you've got a basic knowlege of the language. 
-Try to translate the following sentences:
-``
-`gu r meen, iverath!
-`gu r gonna lvl me ok?
-`gam i ur frend? (friend, not noted above since there is a complete lack of noob friends.)
-`gi even got good eq u should lvl me
-`ghey can u give us quad???
-`gi am not 12
-`gwat is it 4??
-`gu kow where my corpse is????
-`gur going to get my corpse right?
-``
-Please purchase volume two, to become a true noobspeaking master.``
-~
-ExDe papermsg~ ``Hello! And Welcome to how to speak noob! Reading this book will make you an 
-expert when it comes to dealing with noobs! Lord knows they're hard to
-understand!
-Here are some simple word translations to get you on your way to mastering noobish!
-``
-`hu  - You, often used in sentences about another noob.
-`hr - Are, commonly used following 'u'.
-`hkow - Know, used when claiming the noob actually contains some knowlege.
-`h4 - For, used when asking for something, such as eq, or quad.
-`hplz - Please, used when begging for something they can't do on their own.
-`hsry - Sorry, often used after the imms yell at them.
-`hwat - What, ie: wat r u doin?
-`hdat - That, when asking for something they often refer to it as 'dat'.
-`hdem - Them, the plural of 'dat'.
-`hmeen - Mean, refering to more intelligent players upon insult.
-`htot - Thought, I'm not quite sure when this is used, since they never think.
-`hlvl - Level, something they will all beg you to do for them.
-`hok - Okay, no real reason for them to use it, they just..do.``
-``
-Alright, now, you've got a basic knowlege of the language. 
-Try to translate the following sentences:
-``
-`gu r meen, iverath!
-`gu r gonna lvl me ok?
-`gam i ur frend? (friend, not noted above since there is a complete lack of noob friends.)
-`gi even got good eq u should lvl me
-`ghey can u give us quad???
-`gi am not 12
-`gwat is it 4??
-`gu kow where my corpse is????
-`gur going to get my corpse right?
-``
-Please purchase volume two, to become a true noobspeaking master.``
-~
-End
-
-#O
-Vnum 5548
-Enchanted
-Nest 1
-Name bone sword newbie~
-ShD  `da`k (`cnewbie`k)`d sword``~
-ExtF 262208
-Cond 0
-Wear -1
-Lev  19
-Cost 2500
-Val  1 4 5 38 8 0 0
-Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
-Affc 'enchant weapon'   1  74  -1   4  19          0 0 ''
-End
-
-#O
-Vnum 4863
-Enchanted
-Nest 1
-Name newbie stiletto `iI`bv`ae`orStr`ai`bn`ig``~
-ShD  `da`k (`cnewbie`k)`d stiletto``~
-Desc `da`k (`cnewbie`k)`d stiletto lies here in all its glory.``~
-ExtF 64
-Cond 0
-Wear -1
-Lev  16
-Cost 6500
-Affc 'enchant weapon'   1  74  -1   4  19          0 0 ''
-Affc 'enchant weapon'   0  74  -1   3  18          0 0 ''
-End
-
-#O
-Vnum 114
-Nest 1
-Name forest green cloak newbie~
-ShD  `kA`c Fo`kre`cst`k (`cnewbie`k) Cl`co`kak``~
-Wt   0
-Cond 0
-Wear -1
-Lev  20
-Cost 100
-ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
-golden trimmings.  A small emblem has been weaved into the cloak, a series
-of diagonal and vertical slashes that are meaningless to you.  
-~
-ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
-golden trimmings.  A small emblem has been weaved into the cloak, a series
-of diagonal and vertical slashes that are meaningless to you.  
-~
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 20959
-Nest 1
-Name slippers gymnast newbie~
-ShD  `ga pair of`k (`cnewbie`k)`g slippers``~
-Cond 0
-Wear -1
-Cost 53
-End
-
-#O
-Vnum 5653
-Nest 1
-Name newbie wooden bracer~
-ShD  `da wooden`k (`cnewbie`k)`d bracer``~
-Cond 0
-Wear -1
-Cost 10
-End
-
-#O
-Vnum 5653
-Nest 1
-Name newbie wooden bracer~
-ShD  `da wooden`k (`cnewbie`k)`d bracer``~
-Cond 0
-Wear -1
-Cost 10
-End
-
-#O
-Vnum 559
-Nest 1
-Name cypress shield newbie~
-ShD  `dA`k (`cnewbie`k)`d S`ch`di`ce`dl`cd``~
-Wt   0
-Cond 0
-Wear -1
-Cost 400
-End
-
-#O
-Vnum 20956
-Nest 1
-Name red silk sash newbie~
-ShD  `aA`i R`be`id`k (`cnewbie`k)`b S`ias`bh``~
-Cond 0
-Wear -1
-Cost 50
-End
-
-#O
-Vnum 553
-Nest 1
-Name dog collar newbie~
-ShD  `oA`k (`cnewbie`k)`o Collar``~
-Cond 0
-Wear -1
-Cost 300
-End
-
-#O
-Vnum 553
-Nest 1
-Name dog collar newbie~
-ShD  `oA`k (`cnewbie`k)`o Collar``~
-Cond 0
-Wear -1
-Cost 300
-End
-
-#O
-Vnum 21063
-Nest 1
-Name fox black tails newbie~
-ShD  `aBlack-Tipped`k (`cnewbie`k)`a Tails``~
-Cond 0
-Wear -1
-Cost 15
-End
-
-#O
-Vnum 20964
-Nest 1
-Name pants newbie cavalry~
-ShD  `ba pair of`k (`cnewbie`k)`b pants``~
-Cond 0
-Wear -1
-Lev  20
-Cost 140
-End
-
-#O
-Vnum 723
-Nest 1
-Name sapphire newbie moon~
-ShD  `ea`k (`cnewbie`k)`e moon``~
-Cond 0
-Wear -1
-Lev  20
-Cost 8309
-End
-
-#O
-Vnum 6221
-Nest 1
-Name white iron rod newbie~
-ShD  `oA`k (`cnewbie`k)`o iron rod``~
-Cond 0
-Wear -1
-Cost 5000
-End
-
-#O
-Vnum 7265
-Nest 1
-Name spirit chaos annoying newbie~
-ShD  `hThe`n S`gpiri`nt`h of`k (`cthe annoying newbie`k)``~
-ExtF 4224
-Cond 0
-Wear -1
-Lev  20
-Cost 1500
-End
-
-#O
-Vnum 4279
-Nest 1
-Name hard leather boots newbie~
-ShD  `dHard`k (`cnewbie`k)`d Boots``~
-Wt   0
-Cond 0
-Wear -1
-Lev  10
-Cost 0
-End
-
-#O
-Vnum 5630
-Nest 1
-Name boar earring tusk newbie~
-ShD  `da`k (`cnewbie's`k)`d tusk earring``~
-ExtF 262144
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4274
-Enchanted
-Nest 1
-Name brass knuckles newbie~
-ShD  `k (`cNewbie`k)`k K`on`huck`ole`ks``~
-Wt   0
-Cond 0
-Wear -1
-Lev  19
-Cost 0
-Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
-Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
-End
-
-#O
-Vnum 5637
-Nest 1
-Name cougarskin skin jacket newbie~
-ShD  `da`k (`cnewbieskin`k)`d jacket``~
-ExtF 262144
-Cond 0
-Wear -1
-Cost 15
-End
-
-#O
-Vnum 21072
-Nest 1
-Name tarnished silver newbie ring~
-ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
-Cond 0
-Wear -1
-Cost 12
-End
-
-#O
-Vnum 21072
-Nest 1
-Name tarnished silver newbie ring~
-ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
-Cond 0
-Wear -1
-Cost 12
-End
-
-#RoomRLE   100 1 76 1 2 1 42 1 9 1 45 1 10 1 15 1 12 1 1 1 3 3 3 4 3719 2 30 1 2 5 40 1 65 1 203 2 20685 1 326 1 12 1 6992 2 33109 -1
-
-#END

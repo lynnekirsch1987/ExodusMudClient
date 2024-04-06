@@ -1,462 +1,0 @@
-#PLAYER
-Name Lonlorian~
-Id   1056480596
-LogF 1057715107
-LogO 1057715960
-Vers 7
-Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
-Race elf~
-Sex  2
-Cla  9
-Cla2  9
-Cla3  9
-Levl 13
-MBKill 2
-MHKill 67
-Hero 0
-Depty 0
-Sec  0
-BldAll 0
-Plyd 20320
-Bank_Gold 0
-Bank_Silv 0
-Email leo_78802@yahoo.com~
-Souls 0
-HP_Gained 0
-Mana_Gained 0
-Move_Gained 0
-New_Style 1
-Totalxp 798481
-Dam_Type 17
-Prevent_Escape 0
-Falcon_Alert 0
-Host adsl-208-191-122-49.dsl.snantx.swbell.net~
-Not  0 0 0 1056779448 1057105380 1056678535 0
-Scro 22
-Room 20981
-HMV  118 118 119 119 148 148
-Hand 4
-Gold 6
-Silv 1629
-Exp  507492
-Act  CDEHQ
-AfBy EFJ
-Comm NOS
-Pos  8
-Alig  -320
-Hit   8
-Dam   10
-ACs 88 88 88 96
-Wimp  21
-Attr 16 17 10 10 17 11
-AMod 8 0 0 3 2 0
-Pass LooA0howdpxoQ~
-Layhands 0
-Exorcise 0
-Titl  the `hwandering `om`ho`on`hk``.~
-Pnts 6
-TSex 2
-LLev 1
-Loner 0
-HMVP 115 124 148
-Cnd  -16 -16 12 -6
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
-Sk 1 'riding'
-Sk 1 'dodge'
-Sk 1 'fisticuffery'
-Sk 1 'enhanced damage'
-Sk 59 'hand to hand'
-Sk 1 'kick'
-Sk 1 'sweep'
-Sk 46 'trip'
-Sk 1 'butcher'
-Sk 1 'block'
-Sk 56 'dive'
-Sk 1 'fast healing'
-Sk 1 'sneak'
-Sk 1 'fishing'
-Sk 52 'sense life'
-Sk 1 'fighting arts'
-Sk 41 'bandage'
-GStats  8 0 67 0 2 310 5 798481 820 
-End
-
-#O
-Vnum 12923
-Nest 0
-Name sparkling newbie box `iI`bv`ae`orStr`ai`bn`ig``~
-ShD  `d[`kA Sparkling Newbie Box`d]``~
-Desc `kA sparkling newbie box from`o Iverath`k is here, stuffed with newbish items.``~
-Cond 0
-Wear -1
-Lev  1
-Cost 15
-End
-
-#O
-Vnum 4570
-Nest 1
-Name book noob speak how volume`f *`mHwo2speekNoobVloume2`f* `oByHaylie``~
-ShD  `d"How to Speak Noob Volume II"`k - By Haylie BoBaylie``~
-Desc `d A book is here, it says`m How to Speak Noob Volume II`d on the cover.``~
-Cond 0
-Wear -1
-Cost 500
-ExDe papermsg~ ``Welcome to Volume Two!! Once you finish this you will be a fluent in noob
-and able to walk amongst them unnoticed! Good luck, study hard.
-``
-Vocabulary for Volume Two:
-`h cuz - Because, like, cuz ur dum
-`h tho - Though,  used in situations like, i have no money tho
-`h c - See, annoyingly used when you see an imm or something.
-`h 2 - To, Too, Two.
-`h sum - Some, as in some eq.
-``
-In this volume, Im going to teach you how to react to certain situations. 
-Making you a professional Noobie.
-``
-`nSituation:`g You died.
-`nReaction:`g IMMEDIATELY OOC: i need an imm OOC: iverath r u there???? 
-OOC: clive can u get my stuff??? OOC: minax send me a tell when u r here 
-OOC: ok. Proceed with such until some gets your things.
-``
-`nSituation:`g You cannot find your things.
-`nReaction:`g Automatically assume you were looted. Demand a reimbursment from Iverath.
-``
-`nSituation:`g You indeed were looted.
-`nReaction:`g OOC all sorts of profanities spelled incorrectly. Try to get nochanned, 
-it can only get better from there.
-``
-`nSituation:`g Youd like to level.
-`nReaction:`g Find the nearest player to you. SAY ur going to lvl me FOLLOW them 
-then SAY ok SAY i have good eq SAY letz go
-``
-`nSituation:`g You cant find your way back to town.
-`nReaction:`g TELL Haylie: can u trans me?? i am stuck TELL Iverath: i am stuck 
-will u help me?? TELL Entangler: can u log on charmer and summon me 
-(Yes, even though Charmer does not have summon, still ask for him to be logged.)
-``
-`nSituation:`g You want new eq.
-`nReaction:`g TELL Clyve: can u get me some eq?? TELL Eran: do u have any eq??? 
-OOC: hey can u guyz get me sum eq??
-``
-Congratulations! You have now become a master of the Noob! 
-Please be sure to share the wealth and teach others your ways!
-~
-End
-
-#O
-Vnum 4569
-Nest 1
-Name book noob speak how `f*`mHwo2speekNoob`f*`` `oByHaylie``~
-ShD  "How to Speak Noob"`k - By Haylie BoBaylie``~
-Desc `dA book is here, it says`m How to Speak Noob`d on the cover.``~
-Cond 0
-Wear -1
-Cost 50
-ExDe papermsg~ ``Hello! And Welcome to how to speak noob! Reading this book will make you an 
-expert when it comes to dealing with noobs! Lord knows they're hard to
-understand!
-Here are some simple word translations to get you on your way to mastering noobish!
-``
-`hu  - You, often used in sentences about another noob.
-`hr - Are, commonly used following 'u'.
-`hkow - Know, used when claiming the noob actually contains some knowlege.
-`h4 - For, used when asking for something, such as eq, or quad.
-`hplz - Please, used when begging for something they can't do on their own.
-`hsry - Sorry, often used after the imms yell at them.
-`hwat - What, ie: wat r u doin?
-`hdat - That, when asking for something they often refer to it as 'dat'.
-`hdem - Them, the plural of 'dat'.
-`hmeen - Mean, refering to more intelligent players upon insult.
-`htot - Thought, I'm not quite sure when this is used, since they never think.
-`hlvl - Level, something they will all beg you to do for them.
-`hok - Okay, no real reason for them to use it, they just..do.``
-``
-Alright, now, you've got a basic knowlege of the language. 
-Try to translate the following sentences:
-``
-`gu r meen, iverath!
-`gu r gonna lvl me ok?
-`gam i ur frend? (friend, not noted above since there is a complete lack of noob friends.)
-`gi even got good eq u should lvl me
-`ghey can u give us quad???
-`gi am not 12
-`gwat is it 4??
-`gu kow where my corpse is????
-`gur going to get my corpse right?
-``
-Please purchase volume two, to become a true noobspeaking master.``
-~
-End
-
-#O
-Vnum 4863
-Enchanted
-Nest 1
-Name newbie stiletto `iI`bv`ae`orStr`ai`bn`ig``~
-ShD  `da`k (`cnewbie`k)`d stiletto``~
-Desc `da`k (`cnewbie`k)`d stiletto lies here in all its glory.``~
-Cond 0
-Wear -1
-Lev  1
-Cost 6500
-Affc 'enchant weapon'   0  74  -1   3  18          0 0 ''
-Affc 'enchant weapon'   1  74  -1   4  19          0 0 ''
-End
-
-#O
-Vnum 20959
-Nest 1
-Name slippers gymnast newbie~
-ShD  `ga pair of`k (`cnewbie`k)`g slippers``~
-Cond 0
-Wear -1
-Lev  1
-Cost 53
-End
-
-#O
-Vnum 4099
-Nest 0
-Cond 0
-Wear -1
-Cost 25
-Val  60 12 0 0 0 0 0
-End
-
-#O
-Vnum 4099
-Nest 0
-Cond 0
-Wear -1
-Cost 25
-End
-
-#O
-Vnum 559
-Nest 0
-Name cypress shield newbie~
-ShD  `dA`k (`cnewbie`k)`d S`ch`di`ce`dl`cd``~
-Wt   0
-Cond 0
-Wear 11
-Lev  1
-Cost 400
-End
-
-#O
-Vnum 20964
-Nest 0
-Name pants newbie cavalry~
-ShD  `ba pair of`k (`cnewbie`k)`b pants``~
-Cond 0
-Wear -1
-Lev  1
-Cost 140
-End
-
-#O
-Vnum 723
-Nest 0
-Name sapphire newbie moon~
-ShD  `ea`k (`cnewbie`k)`e moon``~
-Cond 0
-Wear -1
-Lev  1
-Cost 8309
-End
-
-#O
-Vnum 4274
-Enchanted
-Nest 0
-Name brass knuckles newbie~
-ShD  `k (`cNewbie`k)`k K`on`huck`ole`ks``~
-Wt   0
-Cond 0
-Wear 9
-Lev  1
-Cost 0
-Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
-Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
-End
-
-#O
-Vnum 4578
-Nest 0
-Cond 0
-Wear -1
-Cost 2300
-End
-
-#O
-Vnum 4519
-Nest 0
-Cond 0
-Wear -1
-Cost 1500
-End
-
-#O
-Vnum 114
-Nest 0
-Name forest green cloak newbie~
-ShD  `kA`c Fo`kre`cst`k (`cnewbie`k) Cl`co`kak``~
-Wt   0
-Cond 0
-Wear 12
-Lev  1
-Cost 100
-ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
-golden trimmings.  A small emblem has been weaved into the cloak, a series
-of diagonal and vertical slashes that are meaningless to you.  
-~
-End
-
-#O
-Vnum 5653
-Nest 0
-Name newbie wooden bracer~
-ShD  `da wooden`k (`cnewbie`k)`d bracer``~
-Cond 0
-Wear 15
-Cost 10
-End
-
-#O
-Vnum 5653
-Nest 0
-Name newbie wooden bracer~
-ShD  `da wooden`k (`cnewbie`k)`d bracer``~
-Cond 0
-Wear 14
-Cost 10
-End
-
-#O
-Vnum 553
-Nest 0
-Name dog collar newbie~
-ShD  `oA`k (`cnewbie`k)`o Collar``~
-Cond 0
-Wear 4
-Lev  1
-Cost 300
-End
-
-#O
-Vnum 553
-Nest 0
-Name dog collar newbie~
-ShD  `oA`k (`cnewbie`k)`o Collar``~
-Cond 0
-Wear 3
-Lev  1
-Cost 300
-End
-
-#O
-Vnum 4279
-Nest 0
-Name hard leather boots newbie~
-ShD  `dHard`k (`cnewbie`k)`d Boots``~
-Wt   0
-Cond 0
-Wear 8
-Lev  1
-Cost 0
-End
-
-#O
-Vnum 5637
-Nest 0
-Name cougarskin skin jacket newbie~
-ShD  `da`k (`cnewbieskin`k)`d jacket``~
-ExtF 262144
-Cond 0
-Wear 5
-Lev  1
-Cost 15
-End
-
-#O
-Vnum 21072
-Nest 0
-Name tarnished silver newbie ring~
-ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
-Cond 0
-Wear 1
-Lev  1
-Cost 12
-End
-
-#O
-Vnum 4144
-Nest 0
-Cond 0
-Wear -1
-Cost 5
-End
-
-#O
-Vnum 4274
-Enchanted
-Nest 0
-Name brass knuckles newbie~
-ShD  `k (`cNewbie`k)`k K`on`huck`ole`ks``~
-Wt   0
-Cond 0
-Wear -1
-Lev  19
-Cost 0
-Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
-Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
-End
-
-#O
-Vnum 21
-Nest 0
-Cond 0
-Wear 0
-Cost 0
-End
-
-#O
-Vnum 20964
-Nest 0
-Name pants newbie cavalry~
-ShD  `ba pair of`k (`cnewbie`k)`b pants``~
-Cond 0
-Wear 7
-Lev  20
-Cost 140
-End
-
-#O
-Vnum 5028
-Nest 0
-Cond 0
-Wear -1
-Cost 30
-End
-
-#O
-Vnum 4518
-Nest 0
-Cond 0
-Wear 6
-Cost 1000
-End
-
-#O
-Vnum 20956
-Nest 0
-Cond 0
-Wear 13
-Cost 50
-End
-
-#RoomRLE   3400 5 3 1 2 1 4 4 1 2 10 1 600 2 7 2 1 44 1 3 35 3 2 2 3 1 3 1 2 1 1 2 1 1 3 3 4 1 15 1 4 1 16 1 9 1 119 1 3 1 3 3 63 2 622 26 10 10 2827 2 1 14 10 8 1 9 4 1 6 2 5 1 10581 1 2404 12 1 1 5 2 1 3 1 15 1 14 1 5 47 1 9 1 2 5 12 2 1 1 1 6 8 1 1 3 2 2 1 2 12 1 2 5 12 1 3 4 12 1 3 1 1 2 12 1 3 1 1 2 12 8 11 9 11 2 1 2 1 3 11 2 4 3 11 2 4 3 17 2 16 1 1 4 14 1 1 1 16 2 3826 1 38 1 585 1 295 1 6811 1 32598 -1
-
-#END

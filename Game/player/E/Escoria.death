@@ -1,652 +1,0 @@
-#PLAYER
-Name Escoria~
-Id   1067415758
-LogF 1252299173
-LogO 1252299173
-Vers 8
-Prom <HP:%h/%H Man:%m/%M Mv:%v/%V TNL:%x/%X> %e ~
-Race human~
-Sex  1
-Cla  0
-Cla2  0
-Cla3  0
-Levl 90
-ODeaths 6
-MBKill 10
-MHKill 111
-Hero 0
-Depty 0
-Sec  0
-BldAll 0
-Plyd 211468
-NPlyd 0
-NAge 0
-Bank_Gold 4759
-Bank_Silv 37900
-Email josafat_a@hotmail.com~
-Referrer ~
-Souls 0
-HP_Gained 300
-Mana_Gained 100
-Move_Gained 0
-PointsRp 0
-PointsNh 0
-PointsQ 0
-Avatar_Type 2
-Race_Old -1
-Class_Old -1
-New_Style 1
-Totalxp 4000000000
-TotalS 0
-Dam_Type 17
-Prevent_Escape 0
-Falcon_Alert 0
-NoBlinking 0
-GamL 0
-GamW 0
-QTicks 0
-TotalQH 0
-TotalQF 0
-TQFAttempt 0
-TQHAttempt 0
-TotalCGL 0
-TotalCGW 0
-MPC 0
-Host customer-PUE-108-200.megared.net.mx~
-Not  0 0 0 0 0 1250739213 0 0
-Scro 22
-Room 4056
-HMV  868 868 1444 1444 447 447
-Hand 2
-Gold 128
-Silv 5518
-Exp  508982667
-Act  Db
-Blok -1
-AfBy H
-Comm NOSX
-Com2 A
-Pos  8
-Save  -3
-Alig  -127
-Hit   20
-Dam   18
-ACs 48 48 48 83
-Wimp  197
-Attr 17 21 10 9 18 6
-AMod 0 0 0 3 1 0
-Pass Es.ImeOVjeiwI~
-Layhands 0
-Exorcise 0
-Illusion 0
-Titl  the red~
-Pnts 0
-TSex 1
-LLev 51
-Loner 0
-HMVP 837 1339 447
-Cd  -16 -16 -16 -15 0
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
-Alias fo c create fo~
-Alias sp c 'create spring'~
-Alias cdt c detect hidden~
-Alias cdi c 'detect invis'~
-Alias cdh c 'detect hidden'~
-Alias dis c 'dispel magic'~
-Alias slow c slow~
-Alias blind c blind~
-Alias cwea c 'control weather'~
-Alias ac c 'acid breath'~
-Alias dinvis c 'detect invis'~
-Alias dhidden c 'detect hidden'~
-Sk 100 'armor'
-Sk 100 'acid blast'
-Sk 86 'fireshield'
-Sk 100 'blindness'
-Sk 81 'web'
-Sk 1 'burning hands'
-Sk 100 'call lightning'
-Sk 100 'cancellation'
-Sk 91 'chain lightning'
-Sk 100 'change sex'
-Sk 91 'charm person'
-Sk 1 'chill touch'
-Sk 1 'colour spray'
-Sk 100 'control weather'
-Sk 56 'create food'
-Sk 71 'create rose'
-Sk 56 'create spring'
-Sk 1 'create water'
-Sk 100 'curse'
-Sk 100 'detect hidden'
-Sk 100 'detect invis'
-Sk 1 'detect magic'
-Sk 1 'detect poison'
-Sk 100 'dispel magic'
-Sk 96 'firestorm'
-Sk 91 'enchant armor'
-Sk 86 'enchant weapon'
-Sk 1 'energy drain'
-Sk 100 'faerie fire'
-Sk 96 'faerie fog'
-Sk 100 'fireball'
-Sk 1 'fireproof'
-Sk 100 'fly'
-Sk 6 'floating disc'
-Sk 76 'floating letters'
-Sk 1 'giant strength'
-Sk 100 'haste'
-Sk 1 'heat metal'
-Sk 100 'identify'
-Sk 66 'infravision'
-Sk 100 'invisibility'
-Sk 91 'mirror'
-Sk 6 'lightning bolt'
-Sk 91 'locate object'
-Sk 1 'magic missile'
-Sk 1 'mass invis'
-Sk 100 'pass door'
-Sk 100 'poison'
-Sk 100 'portal'
-Sk 100 'summon'
-Sk 100 'gate'
-Sk 100 'recharge'
-Sk 1 'refresh'
-Sk 96 'shield'
-Sk 1 'shocking grasp'
-Sk 96 'sleep'
-Sk 91 'slow'
-Sk 1 'stone skin'
-Sk 100 'teleport'
-Sk 1 'ventriloquate'
-Sk 1 'weaken'
-Sk 86 'acid breath'
-Sk 100 'fire breath'
-Sk 76 'frost breath'
-Sk 1 'gas breath'
-Sk 100 'lightning breath'
-Sk 81 'aqua breathe'
-Sk 1 'channel electricity'
-Sk 1 'ice beam'
-Sk 1 'electrical charge'
-Sk 100 'dagger'
-Sk 100 'staff'
-Sk 100 'riding'
-Sk 100 'dodge'
-Sk 100 'swimming'
-Sk 100 'throwing'
-Sk 100 'butcher'
-Sk 100 'meditation'
-Sk 100 'fishing'
-Sk 100 'brew'
-Sk 100 'scribe'
-Sk 100 'scrolls'
-Sk 100 'staves'
-Sk 100 'wands'
-Affc 'holy sphere'   0  90   8   0   0        128 0 ''
-End
-
-#O
-Vnum 78
-Nest 0
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 79
-Nest 0
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 176
-Enchanted
-Nest 0
-ExF 0 67
-WearL 8192
-Lev  59
-Cost 0
-Affc 'enchant weapon'   1  70  -1   5  19          0 0 ''
-Affc 'enchant weapon'   1  70  -1   5  18          0 0 ''
-End
-
-#O
-Vnum 166
-Nest 0
-WearL -1
-Cost 13294
-End
-
-#O
-Vnum 22682
-Nest 0
-WearL -1
-Cost 0
-Spell 3 'curse'
-End
-
-#O
-Vnum 22675
-Nest 0
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 6
-Nest 0
-ExF 0 93192256
-WearL 16384
-Cost 0
-Vlues  0 0 0 27991 0 0 0 0 0 0 0 0 0
-End
-
-#O
-Vnum 20389
-Enchanted
-Nest 0
-ExF 0 262208
-WearL 256
-Lev  25
-Cost 0
-Affc 'reserved'   1  24  -1   2  19          0 0 ''
-Affc 'enchant armor'   1  90  -1  -1  17          0 0 ''
-End
-
-#O
-Vnum 3186
-Nest 0
-ExF 0 8388611
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 21
-Nest 0
-WearL 2097152
-Cost 0
-End
-
-#O
-Vnum 2604
-Nest 0
-ExF 0 262677
-WearL -1
-Cost 1500
-End
-
-#O
-Vnum 7076
-Nest 0
-WearL 2048
-Cost 920
-End
-
-#O
-Vnum 7265
-Nest 0
-ExF 0 3
-WearL 65536
-Cost 0
-End
-
-#O
-Vnum 7928
-Nest 0
-WearL -1
-Cost 5
-End
-
-#O
-Vnum 4521
-Nest 0
-WearL -1
-Cost 10000
-ExDe quest~ `dThere is a legend of a magical `istone`d that glows and flickers with light.  It is
-said that this stone originally belonged to the `kGoddess of the Enternal Flame`d,
-who kept it within a magical `bstone box`d that only she possessed the key to open.
-This box was very precious to her because the box itself contained some of her
-life essence.  In time, the `ibox`d was stolen by a jealous `kfire spirit`d who was
-convinced he could unlock the `bbox`d and possess the `istone`d.  The `kspirit`d stole
-the `bbox`d from the `kGoddess`d and fled and has hidden himself in an ancient tomb,
-locked away for eons in a distant desert.  Only one `jkey`d is said to have the
-ability to open the tomb where the `kfire spirit`d is hidden.  For centuries, this
-key was lost, and the story faded into legend.  Then, only a few decades ago,
-the `jkey`d was uncovered by a great hero named Armanos.
-`d
-Armanos was a mighty warrior who fought for Lord Eyunel in the years before
-the great Vro'ath seige upon his castle.  Eyunel had dispatched Armanos on a
-quest to return the `istone`d to the `kGoddess`d to win her favor.  Armanos searched
-for years for the `jkey`d to the tomb, finally locating it.  As he returned to
-tell Lord Eyunel of his discovery, he was ambushed by a garrison of Vro'ath
-warriors, who would become the vanguard of the seige against Eyunel's castle.
-When Armanos was laid to rest, the ancient `jkey`d was never recovered, but his
-ghost is said to haunt his gravesite even now.  Supposedly, with his dying
-breath, Armanos swore a curse upon the `jkey`d that if anyone else tried to claim
-it, the `jkey`d could quickly srumble to dust, so that anyone who took the `jkey`d in
-search of treasure would only have a few days at the most to unlock the tomb.
-`d
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-`o
-[OOC Note]
-When you have returned the box to the Goddess, say that you have her box.
-Then she will be able to reward you for the quest.
-`o
-If you get turned around or confused while dealign with the Goddess, just say
-"start over" when you are in the room and you can begin your conversation again.``
-``
-`oThis quest is only for characters level 75 or lower.``
-~
-ExDe scroll~ `dThere is a legend of a magical `istone`d that glows and flickers with light.  It is
-said that this stone originally belonged to the `kGoddess of the Enternal Flame`d,
-who kept it within a magical `bstone box`d that only she possessed the key to open.
-This box was very precious to her because the box itself contained some of her
-life essence.  In time, the `ibox`d was stolen by a jealous `kfire spirit`d who was
-convinced he could unlock the `bbox`d and possess the `istone`d.  The `kspirit`d stole
-the `bbox`d from the `kGoddess`d and fled and has hidden himself in an ancient tomb,
-locked away for eons in a distant desert.  Only one `jkey`d is said to have the
-ability to open the tomb where the `kfire spirit`d is hidden.  For centuries, this
-key was lost, and the story faded into legend.  Then, only a few decades ago,
-the `jkey`d was uncovered by a great hero named Armanos.
-`d
-Armanos was a mighty warrior who fought for Lord Eyunel in the years before
-the great Vro'ath seige upon his castle.  Eyunel had dispatched Armanos on a
-quest to return the `istone`d to the `kGoddess`d to win her favor.  Armanos searched
-for years for the `jkey`d to the tomb, finally locating it.  As he returned to
-tell Lord Eyunel of his discovery, he was ambushed by a garrison of Vro'ath
-warriors, who would become the vanguard of the seige against Eyunel's castle.
-When Armanos was laid to rest, the ancient `jkey`d was never recovered, but his
-ghost is said to haunt his gravesite even now.  Supposedly, with his dying
-breath, Armanos swore a curse upon the `jkey`d that if anyone else tried to claim
-it, the `jkey`d could quickly srumble to dust, so that anyone who took the `jkey`d in
-search of treasure would only have a few days at the most to unlock the tomb.
-`d
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-`o
-[OOC Note]
-When you have returned the box to the Goddess, say that you have her box.
-Then she will be able to reward you for the quest.
-`o
-If you get turned around or confused while dealign with the Goddess, just say
-"start over" when you are in the room and you can begin your conversation again.``
-``
-`oThis quest is only for characters level 75 or lower.``
-~
-End
-
-#O
-Vnum 4203
-Nest 0
-WearL -1
-Cost 1329
-End
-
-#O
-Vnum 12061
-Nest 0
-WearL 262144
-Cost 0
-End
-
-#O
-Vnum 12061
-Nest 0
-WearL 2
-Cost 0
-End
-
-#O
-Vnum 16322
-Enchanted
-Nest 0
-ExF 0 262209
-WearL 32
-Lev  71
-Cost 0
-Affc 'reserved'   1  70  -1   2  19          0 0 ''
-Affc 'reserved'   1  70  -1   1   5          0 0 ''
-Affc 'reserved'   1  70  -1   4  18          0 0 ''
-Affc 'enchant armor'   1  73  -1  -2  17          0 0 ''
-End
-
-#O
-Vnum 419
-Enchanted
-Nest 0
-ExF 0 67
-WearL -1
-Lev  80
-Cost 12500
-Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
-Affc 'enchant weapon'   1  74  -1   6  18          0 0 ''
-End
-
-#O
-Vnum 3696
-Nest 0
-WearL 1024
-Cost 670
-End
-
-#O
-Vnum 7071
-Nest 0
-ExF 0 8388609
-WearL 524288
-Cost 0
-End
-
-#O
-Vnum 7071
-Nest 0
-ExF 0 8388609
-WearL 4
-Cost 0
-End
-
-#O
-Vnum 7074
-Nest 0
-WearL -1
-Cost 983
-End
-
-#O
-Vnum 4107
-Nest 0
-WearL -1
-Cost 320
-End
-
-#O
-Vnum 3186
-Nest 0
-ExF 0 8388611
-WearL 16
-Cost 0
-End
-
-#O
-Vnum 4097
-Nest 0
-WearL -1
-Cost 21000
-End
-
-#O
-Vnum 4106
-Nest 0
-Name vial crystal detect hidden~
-ShD  a vial of detect hidden~
-WearL -1
-Lev  83
-Cost 750
-Vlues  45 0 0 0 0 0 0 0 0 0 0 0 0
-Spell 0 'detect hidden'
-End
-
-#O
-Vnum 4106
-Nest 0
-Name vial crystal detect hidden~
-ShD  a vial of detect hidden~
-WearL -1
-Lev  85
-Cost 750
-Vlues  45 0 0 0 0 0 0 0 0 0 0 0 0
-Spell 0 'detect hidden'
-End
-
-#O
-Vnum 4106
-Nest 0
-Name vial crystal detect hidden~
-ShD  a vial of detect hidden~
-WearL -1
-Lev  85
-Cost 750
-Vlues  45 0 0 0 0 0 0 0 0 0 0 0 0
-Spell 0 'detect hidden'
-End
-
-#O
-Vnum 4106
-Nest 0
-Name vial crystal detect hidden~
-ShD  a vial of detect hidden~
-WearL -1
-Lev  85
-Cost 750
-Vlues  45 0 0 0 0 0 0 0 0 0 0 0 0
-Spell 0 'detect hidden'
-End
-
-#O
-Vnum 4106
-Nest 0
-WearL -1
-Cost 750
-End
-
-#O
-Vnum 4106
-Nest 0
-Name vial crystal detect hidden~
-ShD  a vial of detect hidden~
-WearL -1
-Lev  85
-Cost 750
-Vlues  45 0 0 0 0 0 0 0 0 0 0 0 0
-Spell 0 'detect hidden'
-End
-
-#O
-Vnum 4106
-Nest 0
-Name vial crystal detect hidden~
-ShD  a vial of detect hidden~
-WearL -1
-Lev  85
-Cost 750
-Vlues  45 0 0 0 0 0 0 0 0 0 0 0 0
-Spell 0 'detect hidden'
-End
-
-#O
-Vnum 22646
-Nest 0
-WearL -1
-Time 875
-Cost 0
-Spell 1 'wielded enemy'
-Spell 2 'malevolence'
-ExDe decree~ `k|`oSTFU`k|``
-~
-End
-
-#O
-Vnum 8844
-Nest 0
-WearL -1
-Cost 2000
-End
-
-#O
-Vnum 22679
-Nest 0
-WearL -1
-Cost 1000
-ExDe victmessage~ `bGlass shatters beneath your foot.``
-~
-ExDe specmessage~ A trap goes off.``
-~
-End
-
-#O
-Vnum 7073
-Nest 0
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 7041
-Nest 0
-ExF 0 17039363
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 9344
-Nest 0
-ExF 0 25165856
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 9344
-Nest 0
-ExF 0 25165856
-WearL 1048576
-Cost 0
-End
-
-#O
-Vnum 9344
-Nest 0
-ExF 0 25165856
-WearL 4096
-Cost 0
-End
-
-#O
-Vnum 22698
-Nest 0
-ExF 0 526864
-WearL -1
-Cost 1000
-ExDe crest~ `c @@@
-`c@`kO`c@`kO`c@``
-`c@@@@@
-`c@`dHHHH
-`c @@@@``
-~
-End
-
-#O
-Vnum 7076
-Nest 0
-WearL -1
-Cost 920
-End
-
-#RoomRLE   2688 9 736 4 133 1 13 1 5 9 5 9 12 2 377 2 2 1 26 1 7 2 1 41 4 6 20 6 1 2 2 4 1 6 3 1 1 1 1 1 1 3 2 1 2 3 1 2 13 1 1 2 4 1 1 3 1 1 3 1 6 1 14 1 1 1 186 2 14 1 49 1 2558 2 1 1 18 3 2 2 1 12 1 1 2 2 1 17 37 2 163 17 1 2 584 1 3 1 4 8 1 1 8 22 10 4 836 29 1 12 1 2 1 7 43 1 1 1 3467 1 737 1 914 1 10 1 5 6 1 1 2259 9 3 5 4 15 2 13 1 7 1 2 2 3 2 1 2005 2 12 1 1 7 11 2 13 2 4 3 5 8 1 1 4 4 6 1 4 4 6 1 4 8 2 1 4 11 4 11 4 11 4 11 5 10 339 4 2 1 1 1 13 3 3 1 1 2 7 1 10 1 3 1 81 2 108 4 4 1 1787 1 100 1 17 1 2 4 17 5 15 3 1 1 12 1 2 3 1 1 12 6 1 1 12 6 1 1 12 6 1 1 12 6 1 1 12 8 12 1 19 1 19 2 18 2 19 1 19 1 19 1 1249 2 2 21 1 5 1 6 1 3 12 2 1 12 1 3 1 9 1 2 6 10 7 4 98 1 2173 1 6 1 260 2 1934 1 5818 1 2233 1 30269 -1
-
-#QbitsRLE   999 -1
-
-#END

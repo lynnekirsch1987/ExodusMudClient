@@ -1,605 +1,0 @@
-#PLAYER
-Name Rajjan~
-Id   1044150726
-LogF 1046955305
-LogO 1046955305
-Vers 7
-Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
-Race syvin~
-Sex  1
-Cla  7
-Levl 17
-MHKill 240
-Hero 0
-Depty 0
-Sec  0
-BldAll 0
-Plyd 28082
-Bank_Gold 0
-Bank_Silv 0
-Email Moo_cow@yahoo.com~
-Souls 0
-Host adsl-17-233-79.jax.bellsouth.net~
-Not  0 0 0 0 0 0 0
-Scro 22
-Room 4056
-HMV  201 201 132 132 185 185
-Hand 2
-Gold 413
-Silv 96
-Exp  37424
-Act  CDEFQ
-AfBy HTZ
-Comm EFGNORS
-Pos  8
-Prac 40
-Trai 3
-Alig  74
-Hit   25
-Dam   27
-ACs 88 88 88 96
-Attr 16 8 8 19 20 7
-AMod 12 2 0 5 2 0
-Pass Ra.hpxEW5LiB.~
-Layhands 0
-Exorcise 0
-Titl ?!~
-Pnts 38
-TSex 1
-LLev 7
-Loner 1
-HMVP 201 132 185
-Cnd  -16 38 12 45
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
-Sk 63 'dagger'
-Sk 1 'circle'
-Sk 1 'dual wield'
-Sk 60 'dodge'
-Sk 1 'assassinate'
-Sk 1 'second attack'
-Sk 1 'lore'
-Sk 1 'track'
-Gr 'rom basics'
-Affc 'sanctuary'   0  63  25   0   0        128 0 ''
-Affc 'giant strength'   0  64  25   4   1          0 0 ''
-Affc 'fly'   0  66  28   0   0     524288 0 ''
-GStats  8 0 240 0 0 328 7 37424 100 
-End
-
-#O
-Vnum 4407
-Nest 0
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 12923
-Nest 0
-Name sparkling box Iverath~
-ShD  `g[`kA Sparkling Newbie Box`g]``~
-Desc `dA`k gift box`d from Iverath sits here.``~
-Cond 0
-Wear -1
-Lev  10
-Cost 15
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 8835
-Nest 1
-Name newbie spinach leaf~
-ShD  `cA`k (`jNEWBIE`k)`c Spinach Leaf``~
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 20959
-Nest 1
-Name slippers gymnast newbie~
-ShD  `ga pair of`k (`cnewbie`k)`g slippers``~
-Cond 0
-Wear -1
-Cost 53
-End
-
-#O
-Vnum 559
-Nest 1
-Name cypress shield newbie~
-ShD  `dA`k (`cnewbie`k)`d S`ch`di`ce`dl`cd``~
-Wt   0
-Cond 0
-Wear -1
-Cost 400
-End
-
-#O
-Vnum 5548
-Enchanted
-Nest 1
-Name bone sword newbie~
-ShD  `da`k (`cnewbie`k)`d sword``~
-ExtF 262208
-Cond 0
-Wear -1
-Lev  19
-Cost 2500
-Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
-Affc 'enchant weapon'   1  74  -1   4  19          0 0 ''
-End
-
-#O
-Vnum 4419
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4264
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-ExDe place~ [Your place in the world]
-After establishing your persona within the Realms of Exodus, you will
-most likely be tempted to exercise your freedom and broaden your 
-horizens by taking advantage of the many built-in features of the world:
-  
-[Clans]
-Clans are groups of like-minded players that have both the willpower and
-the manpower to organize themselves in objectives that may include
-conquering areas, warring with other clans, and/or promoting 
-a specific goal or cause. See [help clan and clan war].
-  
-[Homes]
-You can establish private sectors for yourself, your clan, or your loved
-one(s) in certain areas in the world of Exodus, for a price. This is best
-done after you have become an experienced adventurer and amassed
-some money. Refer to [help homes] for more information.
-  
-[Transportation]
-The forms of transport in the Realm of Exodus are many and varied.
-Elevator mechanisms coupled with moving battle machines, boats,
-mounts, and magical means of transport are ways to move yourself 
-around all kinds of terrain. For traditionalists, you can also walk to 
-most places. Please read the following files:
-[help boat, help mount, help transportation].
-  
-[Good places to go]
-A good place for newbies to start is the Thesden Animal Exhibition 
-Gardens, informally called the zoo. It is located on Welford Road,
-on the far east side of Thesden. Once the pleasures of the Zoo have 
-begun to pall, you can explore, hunt wabbits!, or satisfy your 
-bloodthirst at Ashton Gardens (near the center of Thesden), or 
-in the Eastern Plains or Sarrendale Farms (outside of the East
-Gate of Thesden).
-~
-ExDe player players~ `o[`iother players`o]`h                                                        
-Although most of the inhabitants of Exodus may appear to be friendly,          
-it is always advisable to take everything with a grain of salt and             
-view the world through a cynic's eyes -- even the most harmless-looking      
-player can evolve into a vicious enemy in the span of a few seconds.           
-Exploring the large universe that Exodus provides is a very good way          
-to avoid messy conflicts with other violent players, and is strongly          
-encouraged, especially to new players.                                        
-                                                                             
-This advice does not directly apply to players level 1 - 8 (as these        
-lower-level players are protected by immortal intervention), but it           
-is advisable that you begin exploring the planet early on, to get a            
-grasp of the terrain and places to adventure.                                
-   
-Player-killing outside of the 10-level range established by the               
-creators of the lands of Exodus will result in the garnering of a              
-wanted flag, and possibly a trial [help justice, help laws].                   
-~
-ExDe world~ `o[`iThe world around you`o]`h     
-There are many things in the world that you will become aware of as you       
-wander about.  The world of Exodus is vast, comprised of many mystical        
-lands.  [help areas]    
-A few commands are necessary to master if you want to experience the    
-full impact of Exodus: look, where, and who. [help look] [help where] &       
-[help who] have extensive information concerning these important commands.    
-    
-`o[`hobjects`o]`h                                                              
-Mundane and arcane items alike can be found, bought, or battled for in    
-the realms of Exodus.  Although you may discover a proliferation of
-telluric items within its sprawls, the luckiest adventurers may sometimes     
-come across fabled treasures, rare beyond description.                        
-                                                                              
-`o[`hmobiles`o]`h                                                              
-Unlike many other foriegn environments, the extensive lands of Exodus are   
-inhabited by both intelligent players, and...intelligent monsters.          
-Instinctual animals may not offer much of a challenge, but cognizant           
-creatures with actual aspects of sentience (for example, city guards,       
-farmers, or soldiers) may just surprise you -- look at them, talk to them,  
-do what you deem to be wise around them to see how they react.  And should  
-you choose to engage in combat with them and find yourself over your head,  
-you may just find that enraged farmer or cityguard hunting you down to      
-finish the job.                                                                
-~
-ExDe you~ `o[`iYou`o]`h                                                                 
-You are the center of your universe.  There are many ways in which you        
-can make your character unique, aside from the customization you have         
-already undertaken in choosing your skills and attributes.  You can           
-change your title [help title], give yourself a description [help description],
-formulate a battlecry [help battlecry]  -- and you can do it all in color    
-[help color].                                                   
-               
-When your character is born, he/she/it receives a set of low level
-equipment. To see what you are wearing, type equipment.  To see what you are 
-holding, type inventory.  Exodus supports full abbreviation, so if you don't 
-want to type out these full commands, you can use 'eq' and 'i', respectively. 
-If you should ever lose your newbie gear, you can type outfit to re-eq.      
-
-Your character's attributes and nuances are important to your evolution as     
-you rise in power and knowledge.  To see your character's score sheet,        
-type score.  To see quickly how wealthy your character is, or how much        
-experience you require to level, type worth.  The experience you receive      
-from killing non-player-characters (NPCs), exploring the world, or            
-participating in both built-in area and immortal run quests determines        
-your level. [help experience, help level]                                     
-~
-ExDe papermsg~ `lWelcome to the realms of `nExodus`h.  Upon entering our world,
-you will notice that there is no traditional mud school or newbie zone.
-It is our intention to immerse players immediately, the world around you being
-your entire 'newbie area'.  Thus, reading this `bNeophyte Manifesto`h becomes
-monumentally important to your prosperity and survival here.  Note that   
-everything covered in this document is pursued at greater length in the  
-help files. Please also type story to read something of Exodus history.
-
-The manifesto is divided into several categories.  
-To read the different parts, just type look `kkeyword`h.
-
-`o[`kYou`o] [`hThe `kworld `haround you`o] [`hOther `kplayers`o] [`hYour `kplace`h in the world`o]`h               
-~
-End
-
-#O
-Vnum 4201
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4200
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4262
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4202
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-Val  0 0 36 0 0 0 0
-End
-
-#O
-Vnum 21070
-Nest 1
-Desc a small slimy object is here.~
-Cond 0
-Wear -1
-Cost 20
-End
-
-#O
-Vnum 21063
-Nest 1
-Name fox black tails newbie~
-ShD  `aBlack-Tipped`k (`cnewbie`k)`a Tails``~
-Cond 0
-Wear -1
-Cost 15
-End
-
-#O
-Vnum 4195
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 5637
-Nest 0
-Name cougarskin skin jacket newbie~
-ShD  `da`k (`cnewbieskin`k)`d jacket``~
-ExtF 262144
-Cond 0
-Wear 5
-Cost 15
-End
-
-#O
-Vnum 4279
-Nest 0
-Name hard leather boots newbie~
-ShD  `dHard`k (`cnewbie`k)`d Boots``~
-Wt   0
-Cond 0
-Wear 8
-Lev  10
-Cost 0
-End
-
-#O
-Vnum 723
-Nest 0
-Name sapphire newbie moon~
-ShD  `ea`k (`cnewbie`k)`e moon``~
-Cond 0
-Wear 0
-Lev  20
-Cost 8309
-End
-
-#O
-Vnum 553
-Nest 0
-Name dog collar newbie~
-ShD  `oA`k (`cnewbie`k)`o Collar``~
-Cond 0
-Wear 4
-Cost 300
-End
-
-#O
-Vnum 553
-Nest 0
-Name dog collar newbie~
-ShD  `oA`k (`cnewbie`k)`o Collar``~
-Cond 0
-Wear 3
-Cost 300
-End
-
-#O
-Vnum 20956
-Nest 0
-Name red silk sash newbie~
-ShD  `aA`i R`be`id`k (`cnewbie`k)`b S`ias`bh``~
-Cond 0
-Wear 13
-Cost 50
-End
-
-#O
-Vnum 5653
-Nest 0
-Name newbie wooden bracer~
-ShD  `da wooden`k (`cnewbie`k)`d bracer``~
-Cond 0
-Wear 15
-Cost 10
-End
-
-#O
-Vnum 5653
-Nest 0
-Name newbie wooden bracer~
-ShD  `da wooden`k (`cnewbie`k)`d bracer``~
-Cond 0
-Wear 14
-Cost 10
-End
-
-#O
-Vnum 5630
-Nest 0
-Name boar earring tusk newbie~
-ShD  `da`k (`cnewbie's`k)`d tusk earring``~
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4274
-Enchanted
-Nest 0
-Name brass knuckles newbie~
-ShD  `k (`cNewbie`k)`k K`on`huck`ole`ks``~
-Wt   0
-Cond 0
-Wear 9
-Lev  19
-Cost 0
-Affc 'enchant weapon'   0  74  -1   4  18          0 0 ''
-Affc 'enchant weapon'   1  74  -1   6  19          0 0 ''
-End
-
-#O
-Vnum 114
-Nest 0
-Name forest green cloak newbie~
-ShD  `kA`c Fo`kre`cst`k (`cnewbie`k) Cl`co`kak``~
-Wt   0
-Cond 0
-Wear 12
-Lev  20
-Cost 100
-ExDe cloak~ This cloak is a deep forest green that flows loosely inside its frame of
-golden trimmings.  A small emblem has been weaved into the cloak, a series
-of diagonal and vertical slashes that are meaningless to you.  
-~
-End
-
-#O
-Vnum 4863
-Enchanted
-Nest 0
-ExtF 67
-Cond 0
-Wear 16
-Lev  20
-Cost 6500
-Affc 'enchant weapon'   0  74  -1   8  18          0 0 ''
-Affc 'enchant weapon'   1  74  -1   9  19          0 0 ''
-End
-
-#O
-Vnum 21063
-Nest 0
-Cond 0
-Wear 10
-Cost 15
-End
-
-#O
-Vnum 20964
-Nest 0
-Name pants newbie cavalry~
-ShD  `ba pair of`k (`cnewbie`k)`b pants``~
-Cond 0
-Wear 7
-Lev  20
-Cost 140
-End
-
-#O
-Vnum 7265
-Nest 0
-Name spirit chaos annoying newbie~
-ShD  the brains of Khadgar~
-ExtF 4224
-Cond 0
-Wear 19
-Lev  20
-Cost 1500
-End
-
-#O
-Vnum 21072
-Nest 0
-Name tarnished silver newbie ring~
-ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
-Cond 0
-Wear 2
-Cost 12
-End
-
-#O
-Vnum 21072
-Nest 0
-Name tarnished silver newbie ring~
-ShD  `hA`a T`har`onis`hhe`ad`k (`cnewbie`k)`h Ring``~
-Cond 0
-Wear 1
-Cost 12
-End
-
-#O
-Vnum 4153
-Nest 0
-Cond 0
-Wear -1
-Cost 176
-End
-
-#O
-Vnum 12936
-Enchanted
-Nest 0
-Name party hat `jI`mv`le`or`na`lt`mh`k'`is`o B`li`jr`it`nh`md`la`ky``~
-ShD  `oA`k S`ip`la`jr`mk`nl`ii`kn`lg`o Party`j Hat``~
-Desc `oA`k s`ip`la`jr`mk`nl`ii`kn`lg`j party hat from`k Iverath's`j birthday is here,`r b`wl`ri`wn`rk`wi`rn`wg`o.`h.`a.``~
-ExtF 262209
-Cond 0
-Wear 6
-Lev  1
-Cost 750
-Affc 'enchant weapon'   1  74  -1   8  18          0 0 ''
-Affc 'enchant weapon'   1  74  -1   8  19          0 0 ''
-End
-
-#PET
-Vnum 4005
-Name falcon~
-LogO 1046955305
-LnD  `fA black-winged falcon is here, wearing his`j p`ma`kr`lt`iy`o hat.``
-~
-Desc A neck tag says 'I belong to Rajjan'.
-~
-Sex  2
-HMV 342 342 184 184 100 100
-AfBy STV
-Comm UVW
-Pos  8
-ACs  0 0 0 40
-Attr 13 14 14 16 14 14
-AMod 0 0 0 -9 0 0
-End
-#RoomRLE   2306 1 7 1 7 1 14 1 7 1 1054 6 2 9 3 1 13 1 2 1 566 2 2 1 26 1 7 2 1 20 3 13 12 4 4 1 14 1 6 2 3 1 4 1 1 1 1 1 5 1 1 1 2 1 3 1 1 2 1 1 24 1 16 1 129 1 3 1 1 16 1 4 1 1 40 3 2 2 3495 1 8 1 5191 3 7 1 9 1 9 1 9 1 9 1 9 1 893 4 1 3 6301 1 3 2 4 1 35 3 58 4 475 6 103 11 2 5 1 1 1 9 3 2 1 5 1 4 1 4 7 1 1 1 2 3 1 2 1 1 7 4 1 2 2 4 12 3 1 1 1 2 13 2 1 4 13 2 1 2 1 3 11 15 8 1 3 1 5 3 7 3 7 2 3 7 9 2 3 6 9 12 8 5 1 2 1 3 7 2 3 9 12 3 2 3 18 2 18 2 3577 1 108 1 15 1 1 1 63 1 2 2 7 1 30 1 1 1 82 1 500 1 225 1 946 8 38526 -1
-
-#END

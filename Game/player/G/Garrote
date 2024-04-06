@@ -1,528 +1,0 @@
-#PLAYER
-Name Garrote~
-Id   848098348
-LogF 1080846840
-LogO 1080848161
-Vers 8
-Desc `dYou see a strong, solidly-built dwarf with squarish features, all
-sharp corners and hard lines.  He stands straight at attention in
-perfect military style with his hands clasped behind him and his
-feet shoulder-width apart.  He has a big white scar on his forehead,
-and a perpetual scowl.``
-
-~
-Prom < %h/%Hhp %v/%Vmv %Xxp %mma `g> ~
-Race dwarf~
-Sex  1
-Cla  3
-Cla2  3
-Cla3  3
-Levl 43
-ODeaths 1
-PBKill 12
-MBKill 19
-PHKill 16
-MHKill 6243
-Hero 0
-Depty 1
-Sec  0
-BldAll 0
-Plyd 2171950
-NPlyd 0
-NAge 0
-Bank_Gold 150
-Bank_Silv 25617
-Email sarten@cs.fsu.edu~
-Referrer ~
-Souls 0
-HP_Gained 0
-Mana_Gained 0
-Move_Gained 0
-PointsRp 0
-PointsNh 0
-PointsQ 0
-Avatar_Type 0
-Race_Old -1
-Class_Old -1
-New_Style 1
-Totalxp 92811284
-TotalS 0
-Dam_Type 17
-Prevent_Escape 0
-Falcon_Alert 0
-NoBlinking 0
-GamL 0
-GamW 0
-QTicks 0
-TotalQH 0
-TotalQF 0
-TQFAttempt 0
-TQHAttempt 0
-MPC 0
-Host PURGED-LD~
-Not  912759287 906436763 0 1023764843 925871195 0 0 0
-Scro 0
-Room 4035
-HMV  691 691 184 184 247 247
-Hand 2
-Gold 10
-Silv 263
-Exp  6716743
-Act  CDHQ
-Blok -1
-AfBy J
-Comm GMNOSX
-Com2 A
-Pos  8
-Trai 3
-Alig  -71
-Hit   6
-Dam   10
-ACs 90 90 90 99
-Wimp  800
-Attr 20 14 11 5 21 7
-AMod 2 0 -1 2 -2 0
-Pass Ga57vCXGfIiys~
-Bcry  screams, '`kTime to kick thome ATH!``'~
-Layhands 0
-Exorcise 0
-Illusion 0
-Titl  `bT`ihe Butc`ih`ber`.~
-Pnts 53
-TSex 1
-LLev 602
-Loner 0
-HMVP 686 184 247
-Cd  -16 -16 3 3 0
-Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
-Alias invis quaff 3.vial~
-Alias curse quaff vial~
-Alias port quaff vial~
-Alias qv quaff vial~
-Alias cl quaff 2.vial~
-Alias bc butcher corpse~
-Alias tj throw javelin~
-Alias ee sail east~
-Alias nn sail north~
-Alias ss sail south~
-Alias ww sail west~
-Alias qs quaff shot~
-Sk 1 'axe'
-Sk 1 'dagger'
-Sk 1 'flail'
-Sk 1 'mace'
-Sk 1 'polearm'
-Sk 1 'shield block'
-Sk 1 'stun'
-Sk 1 'staff'
-Sk 1 'sword'
-Sk 1 'uppercut'
-Sk 1 'riding'
-Sk 1 'retreat'
-Sk 1 'dual wield'
-Sk 1 'bash'
-Sk 1 'charge'
-Sk 1 'berserk'
-Sk 1 'disarm'
-Sk 1 'dodge'
-Sk 1 'fisticuffery'
-Sk 1 'enhanced damage'
-Sk 1 'critical strike'
-Sk 1 'swimming'
-Sk 1 'hand to hand'
-Sk 1 'kick'
-Sk 1 'sweep'
-Sk 1 'parry'
-Sk 1 'rescue'
-Sk 1 'door bash'
-Sk 1 'hone'
-Sk 1 'throwing'
-Sk 1 'butcher'
-Sk 1 'redirect'
-Sk 1 'second attack'
-Sk 1 'third attack'
-Sk 1 'fast healing'
-Sk 1 'blindfighting'
-Sk 1 'fishing'
-Gr 'rom basics'
-Affc 'giant strength'   0  70  25   2   1          0 0 ''
-End
-
-#O
-Vnum 4107
-Nest 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4107
-Nest 0
-Wear -1
-Cost 0
-Val  110 30 0 0 0 0 0
-End
-
-#O
-Vnum 4107
-Nest 0
-Wear -1
-Cost 320
-Val  110 110 0 0 0 0 0
-End
-
-#O
-Vnum 7258
-Enchanted
-Nest 0
-ExtF 67
-Wear -1
-Lev  85
-Cost 1750
-Val  1 6 9 3 24 0 0
-Affc 'enchant weapon'   0  90  -1   6  18          0 0 ''
-Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
-End
-
-#O
-Vnum 668
-Nest 0
-Wear -1
-Cost 700
-End
-
-#O
-Vnum 20382
-Enchanted
-Nest 0
-ShD  `oa full white rose``~
-Desc `oA full white rose blossoms from the ground...``~
-ExtF 67
-WeaF 16385
-Wear -1
-Lev  48
-Cost 100
-Affc 'enchant weapon'   0  82  -1   6  18          0 0 ''
-Affc 'enchant weapon'   1  82  -1   6  19          0 0 ''
-End
-
-#O
-Vnum 3210
-Nest 0
-Cond 100
-Wear -1
-Cost 3059
-End
-
-#O
-Vnum 7000
-Nest 0
-ExtF 262146
-Wear 10
-Cost 0
-End
-
-#O
-Vnum 16322
-Nest 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4107
-Nest 0
-Wear -1
-Cost 320
-Val  110 110 0 0 0 0 0
-End
-
-#O
-Vnum 16309
-Nest 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 18979
-Nest 0
-Wear -1
-Cost 300
-End
-
-#O
-Vnum 4274
-Enchanted
-Nest 0
-ExtF 323
-Wear 9
-Lev  19
-Cost 0
-Affc 'enchant weapon'   1  75  -1   7  19          0 0 ''
-Affc 'enchant weapon'   0  75  -1   5  18          0 0 ''
-End
-
-#O
-Vnum 4107
-Nest 0
-Wear -1
-Cost 320
-Val  110 110 0 0 0 0 0
-End
-
-#O
-Vnum 4107
-Nest 0
-Wear 18
-Cost 320
-Val  110 14 0 0 0 0 0
-End
-
-#O
-Vnum 3692
-Nest 0
-Cond 100
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 3503
-Nest 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 11540
-Nest 0
-Wear 8
-Cost 0
-End
-
-#O
-Vnum 3692
-Nest 0
-Cond 100
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 3503
-Nest 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 3688
-Nest 0
-Cond 100
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 722
-Nest 0
-Wear 0
-Cost 0
-End
-
-#O
-Vnum 3210
-Nest 0
-Cond 100
-Wear -1
-Cost 3059
-End
-
-#O
-Vnum 16433
-Nest 0
-Wear -1
-Cost 0
-ExDe cheating~ `l* DO NOT multiplay.  You may have multiple characters, but in NO WAY
-may they be on at the same time or assist one another in any way.  This
-includes leaving eq or money for your alternate or summoning someone so your
-alter may kill them.  * DO NOT use a client in a fashion that gives a player
-an undue advantage.  Use of a client is not illegal, but the creation of
-"Bots" is illegal.  * DO NOT lie to the immortal staff.  If you are found to
-be lying, you will be punished.  * DO NOT abuse bugs.  If you find a bug,
-report it immediately.  * DO NOT EVER mess with arena gear in any way,
-shape, or form.  Wear it for the duration of your duel, do not experiment on
-it.  * DO NOT store personal items in a store.  If you don't want to sell
-it, don't keep it there.  * DO NOT use stores to sell or store runes.  This
-can result in loss of all stock and/or deletion.  * DO NOT mask "spoofs" or
-variations on a storekeeper's name while you are in that store.  This
-includes both mob and player storekeepers.  Spoofs on player names are
-allowed outside of this instance provided that the first two letters of the
-spoof-name are different from the real name of the player.  Immortals are
-not to be spoofed without their permission.  Pet names must also follow
-these rules.  * Do not steal from the persons or corpses of noclans or
-newbies.  This includes using charm and making them drop everything.  It is
-LEGAL to steal from noclan homes, however, as there is nothing to indicate
-noclan status.  If they catch you or can prove you did it, a noclan can sue
-for harassment to get their stuff back.  Clanned or loner characters cannot
-do so.  * DO NOT accept or ask for favors from immortals.  The immortal
-staff will assist you in many ways, but they may not help in a manner that
-is not available to other players.  Favors include requests for information
-that would not normally be available to you, requests for experience or
-equipment, requests for special reimbs of prohibited items (runes, enchants,
-etc) and so on.  * DO NOT use inherent world characteristics in order to
-directly kill or rob anyone.  You also may not use them to kill mobs.  * DO
-NOT use character actions (such as charm) to force players to use their
-player level commands, such as alias, save, etc or to change a player's
-characteristics, such as align, against their will.  * DO NOT claim that
-linkdead means you have their permission to do anything to them.  It
-doesn't.  * If you are punished by an immortal do not attempt to evade your
-punishment.  You may appeal a judgment you feel is unfair, however, if your
-appeal is turned down, that is the end of the matter.  Talk to staff to find
-out who to appeal to.  If you escape from the wanted flag caused by
-autojailing, that is OK.  Once you are in jail, escaping is illegal.  *
-Vro'ath may not group with anyone other than other Vro'ath, and evil or
-neutral humans or dwarves.  
-~
-ExDe harrassment~ `l* DO NOT social or emote characters that have asked you to stop.  * DO
-NOT lock Sidhe in combat spam.  * DO NOT send repeated tells or telepaths to
-players who do not wish to speak with you.  * DO NOT continue to argue with
-an immortal after they have said their judgement is final You may appeal
-through the correct channels, but if you are turned down, you may not
-continue to harass staff with the issue.  DO NOT social the immortal staff
-without clear permission, especially not with insulting or sexually oriented
-socials.  DO NOT attempt to kill them, steal from them, charm them, bardsong
-or cast spells upon them without that immortal's specific permission. 
-`iHarrassment based on race, creed, nationality, religion, sexual
-preference, or gender of any player will be punished severely.  `lIf you are
-in someone's private rooms and they ask you to leave, do so or they can
-charge you with trespassing (a form of harassment) in court.  `` 
-~
-ExDe overview~ `n&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-`hThere are four major categories of offense that will get you in trouble in
-the Realm of Exodus.  These are enforced directly by an immortal or through
-a court of law in cases when an immortal has not made a judgment on the
-matter.  If you are charged with any of the following, you may hire an
-attorney to defend you if it goes to court (see HELP COURTS).  While `iyou
-MUST read all the rules and obey them`h they have been separated into
-different sections based on the type of offense.  These categories are :
-`kIllegal Player Killing (LOOK PK), Harrassment (LOOK HARRASSMENT), Cheating
-(LOOK CHEATING), and Channel Abuse (LOOK CHANNEL).  `n
-%%%%%%%%%%%%%%%%%%%%%%%%%%IMMORTALS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-`hThe immortal staff is here to help maintain a quality mud.  If it is not
-in direct violation of a clearly stated rule, you are expected to comply
-with their request.  Not all rules are explicitly stated in this rule list,
-and they may be enforcing a rule not listed here.  If you have a problem
-with that request or with a punishment you have been given, discuss the
-matter privately with that immortal or another immortal staff member.  Imm
-staff will also listen to your ideas for change here at the mud, and you are
-encouraged also to talk to player council members about proposed changes. 
-If you suspect an immortal of wrongdoing, privately talk to that immortal or
-another immortal about the issue.  Have some kind of proof (ie at least an
-example).  Public allegations waste everyone's time.  
-~
-ExDe pk~ `hPK OUTSIDE OF CLANS`l Player murder outside of the realm of clans or
-guilds is frowned upon in the lands of Exodus, and killing a person who is
-not a/a loner or b/in a clan and c/equal to or over level 9 is illegal. 
-Losing your temper because the noclan or newbie was annoying is not
-considered an acceptable defense.  `iNote:`lIf you are not in a clan or are
-not already marked loner, you will receive the loner distinction if you kill
-somebody or attempt to steal from other players.  Other offenses that will
-earn you a loner flag are charming (spell or song), sleeping, or teleporting
-other players or looting their corpses.  A good rule of thumb is to only
-talk to other players in the game, and not use your abilities on them unless
-a/you are aiding them at their request or b/you want to become a loner. 
-Spelling up group members for a battle is acceptable, but otherwise you
-should not sing, pray, enspell, or in any way use your abilities to affect
-other players unless they so request it.  If you are a noclan, make sure
-your autoassist is mob only or you WILL retain your loner flag if you kill
-another player. 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< `lPK
-`oIN A CLAN OR AS A LONER `lIf you are in a clan or are a loner, there is no
-such thing as an Out of Level (OOL) kill down with the exception of newbies,
-but note that if you kill someone more than 8 levels OOL, you will lose a
-tremendous amount of experience - the greater the level difference, the
-greater your loss.  Players grouped with you at the time of your murder will
-also be punished in the same fashion, though they may or may not be able to
-appeal that.  Murdering a player who is participating in an immortal run
-quest is forbidden, even in times of clan war, unless otherwise directly
-specified by the immortal in charge of the quest.  Attacking a player
-participating in such a quest who is marked as being part of a quest group
-("quest" in title) will be punished.  Use of the quest immunity to abuse
-other players will result in the usual punishment plus loss of quest prizes.
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-`oNEWBIE PROTECTION`l Do NOT attack or pk any level 8 or lower, FOR ANY
-REASON.  Even if the level 8 or lower is in a clan or loner, they are NOT TO
-BE ATTACKED.  Noclan rules apply to even clanned or loner newbies.  If a
-newbie abuses this protection, let the imms know and/or sue for
-harassment.???????????????????????????????????????????????????????????????? 
-- ??????  `oINDIRECT PK `lKilling players using summon, aggressive monsters,
-or any other indirect means is a very severe offense and punishable by
-freezing, in most cases.  Because they may kill noclans or newbies, plague,
-Good Vibrations, and earthquake may not be used within Thesden or any other
-area designated as a starting city should there be some in the future.  No
-charming (spell or song), sleeping, or teleporting, or using your abilities
-on the persons or corpses of noclans or newbies in any manner other than
-with the consent of the noclan or newbie. 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-`oMultikilling`l Killing another player several times in succession without
-an adequate time lapse between kills is illegal.  Typically, an adequate
-time lapse means enough time for them to recover their items and
-health/mana.  
-~
-ExDe channel~ ****************************CHANNEL ABUSE*******************************
-`lDo NOT spam on any channel (repeating the same action to cause scroll). 
-This includes emotes and actions in the same room, or forcing another player
-to spam themselves.  Spells are included: Feeding yourself is ok, but
-spamming create food 30 times is not, if you are in devon square or another
-room with players.  DO NOT use channels for purposes other than those for
-which they were designed.  This includes using OOC for in-character
-communications or to berate other players.  None of our public channels are
-to be used as forums for personal arguments or prolonged discussions.  `hDo
-not use any public channel for insults, epithets, or profanity.  `lDO NOT
-make public private conversations between yourself and an immortal.  
-~
-End
-
-#O
-Vnum 8826
-Nest 0
-Wear -1
-Time 683
-Cost 1059
-Val  90 131 148 -1 -1 0 0
-Spell 1 'Dance of Shadows'
-Spell 2 'damnation'
-End
-
-#O
-Vnum 21059
-Nest 0
-Wear 2
-Cost 5
-End
-
-#O
-Vnum 21059
-Nest 0
-ExtF 8650752
-Wear 1
-Cost 0
-End
-
-#O
-Vnum 3504
-Enchanted
-Nest 0
-ExtF 67
-Wear -1
-Lev  89
-Cost 0
-Affc 'enchant weapon'   0  90  -1   7  18          0 0 ''
-Affc 'enchant weapon'   1  90  -1   7  19          0 0 ''
-End
-
-#RoomRLE   100 1 1404 2 2527 2 11 24 1 22 35 3 1 4 7 3 2 2 2 3 4 3 5 1 9 1 16 2 1 1 18 1 38 1 144 1 2 2 18594 1 2090 1 760 1 39682 -1
-
-#END

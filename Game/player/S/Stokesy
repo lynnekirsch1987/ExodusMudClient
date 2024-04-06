@@ -1,534 +1,0 @@
-#PLAYER
-Name Stokesy~
-Id   1078932461
-LogF 1080481781
-LogO 1080483052
-Vers 8
-Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
-Race human~
-Sex  1
-Cla  2
-Cla2  2
-Cla3  2
-Levl 18
-ODeaths 1
-MHKill 69
-Hero 0
-Depty 0
-Sec  0
-BldAll 0
-Plyd 26215
-NPlyd 0
-NAge 0
-Bank_Gold 0
-Bank_Silv 0
-Email stokesy@ecn.net.au~
-Referrer ~
-Souls 0
-HP_Gained 0
-Mana_Gained 0
-Move_Gained 0
-PointsRp 0
-PointsNh 0
-PointsQ 0
-Avatar_Type 2
-Race_Old -1
-Class_Old -1
-New_Style 1
-Totalxp 1602794
-TotalS 0
-Dam_Type 17
-Prevent_Escape 0
-Falcon_Alert 0
-NoBlinking 0
-GamL 0
-GamW 0
-QTicks 0
-TotalQH 0
-TotalQF 0
-TQFAttempt 0
-TQHAttempt 0
-MPC 0
-Host PURGED-LD~
-Not  0 0 0 0 0 0 0 0
-Scro 22
-Room 4084
-HMV  181 181 134 134 182 182
-Hand 2
-Gold 330
-Silv 5393
-Exp  6926
-Act  DG
-Blok -1
-Comm NOQS
-Com2 A
-Pos  8
-Alig  -417
-Hit   14
-Dam   12
-ACs 59 59 60 95
-Attr 17 10 9 18 15 12
-AMod 7 1 0 2 0 0
-Pass StqmMsHjQCztU~
-Layhands 0
-Exorcise 0
-Illusion 0
-Titl  the follower~
-Pnts 0
-TSex 1
-LLev 6
-Loner 0
-HMVP 181 134 182
-Cd  -16 -16 6 19 0
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
-Sk 1 'axe'
-Sk 76 'dagger'
-Sk 1 'shield block'
-Sk 1 'sword'
-Sk 51 'elusiveness'
-Sk 1 'kai'
-Sk 1 'backstab'
-Sk 1 'dirt kicking'
-Sk 26 'disarm'
-Sk 41 'dodge'
-Sk 1 'fisticuffery'
-Sk 1 'enhanced damage'
-Sk 1 'swimming'
-Sk 1 'envenom'
-Sk 36 'hand to hand'
-Sk 36 'kick'
-Sk 1 'parry'
-Sk 1 'trip'
-Sk 1 'throwing'
-Sk 1 'conceal'
-Sk 41 'butcher'
-Sk 1 'redirect'
-Sk 1 'second attack'
-Sk 26 'haggle'
-Sk 26 'hide'
-Sk 36 'stalk'
-Sk 36 'lore'
-Sk 1 'peek'
-Sk 36 'pick lock'
-Sk 36 'sneak'
-Sk 1 'track'
-Sk 1 'fishing'
-Sk 56 'steal'
-Sk 1 'palm'
-End
-
-#O
-Vnum 21
-Nest 0
-Wear 0
-Cost 0
-End
-
-#O
-Vnum 4107
-Nest 0
-ExtF 8650752
-Wear -1
-Cost 0
-Val  110 62 0 0 0 0 0
-End
-
-#O
-Vnum 20956
-Nest 0
-ExtF 8650752
-Wear 13
-Cost 0
-End
-
-#O
-Vnum 4406
-Nest 0
-Wear -1
-Cost 1
-ExDe map~ :----------------------------------------------------------------------:
-:                                                                      :
-:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
-:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
-:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
-: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
-:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
-:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
-:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
-:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
-:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
-:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
-:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
-:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
-:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
-:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
-:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
-:----------------------------------------------------------------------:
-`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
-`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
-~
-ExDe welford~ `b Welford Road``
-:---------------------------------------------------:
-:   `d|  |``                                            :
-:  `o%`d|  |``                                            :
-:   `d|  |``                                            :
-:   `k####`` N. Farmer's Sq.                            :
-:   `k####`` S. Farmer's Sq.                            :
-:   `d|  |``                                            :
-:  `aX`d|  |`co``                                           :
-:  `lW`d|  |``                                            :
-:   `k####`` Grisedale Sq.                              :
-:                                                    :
-:`o%``  = `oCandle and Lantern Shop``                       :
-:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
-:`co``  = `cThesden Animal Exhibitions and Zoo``            :
-:`lW``  = `lMincer Ray's Weaponry``                         :
-:---------------------------------------------------:
-~
-ExDe langhan~ `b  Langhan Street``
-:---------------------------------------------------:
-:         _____`kC``________`gA``_                          :
-:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
-: Sq.    `k#``_|__|__|__|__|__`k#``                         :
-:           `mM``                                       :
-:                                                   :
-:`gA`` = `gCovent Armory``                                  :
-:`mM`` = `mThe College of Music``                           :
-:`kC`` = `kCeramics Shop``                                  :
-:---------------------------------------------------:
-~
-ExDe seahan seaham~ `bSeahan Way``
-:---------------------------------------------------:
-:  `k####`` Raven Square                                :
-: `bA`d|  |``                                             :
-:  `d|  |``                                             :
-:  `k####`` N. Devon Square                             :
-:  `k####`` S. Devon Square                             :
-:  `d|  |``                                             :
-:  `d|  |`gAr``                                           :
-: `eB`d|  |``                                             :
-:  `d|  |``                                             :
-:  `k####`` N. Dorset Square                            :
-:                                                   :
-:`eB`` = `eBank``                                           :
-:`gAr`` = `k+\`gArena of Legends`k/+``                          :
-:`bA`` = `bThe Leech and Root Apothecary``                  :
-:---------------------------------------------------:
-~
-ExDe cumberland~ `bCumberland Ave.``
-:--------------------------------------------------------------------:
-:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
-:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
-:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
-:        Elm                  `eH``  `gC``   Devon   `nB``                       :
-:         Sq.                         Sq.                            :
-:                                                                    :
-:\\ = Bridge                                                         :
-:`d@``  = `dWest Gate``                                                      :
-:`bP``  = `bLoris Exotic Pets``                                              :
-:`eH``  = `eHangman's Tavern``                                               :
-:`gC``  = `gCumberland Clothier``                                            :
-:`nB``  = `nBlacksmith``                                                     :
-:`jW``  = `jWilderness Supplies``                                            :
-:`cX``  = `cFresh Produce Shop``                                             :
-:--------------------------------------------------------------------:
-~
-ExDe pine~ `bPine Street``
-:--------------------------------------------------------:
-:   ____`eB``________`gG``_                                      :
-:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
-:  `k#``__|__|__|__|__|`k#``                                     :
-:Raven  `iA``  `bT``                                             :
-:Sq.                                                     :
-:                                                        :
-:`iA``  = `iAntique Shop``                                       :
-:`eB``  = `eNarcissus' Book Shop``                               :
-:`gG``  = `gCathedral Glassworks``                               :
-:`bT``  = `bPine Street Tanner``                                 :
-:--------------------------------------------------------:
-~
-ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
-`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
-                         `l*`i Pine``
-                         `l*`i Cumberland``
-                         `l*`i Seahan``
-                         `l*`i Langhan``
-                         `l*`i Welford``
-                         `a-----`o-----`a-----``
-~
-ExDe help~ `o[`nThe Zoo`o]``
-Those who are very new to the city should attempt to venture towards
-the east gate (east of the fountain down Cumberland), and south of
-Farmer's Square, until they reach Welford Road.  Travelling south down
-Welford, watch for signs indicating an Animal Exhibition (check your
-map if you get lost), and venture inside  -  the zoo is a nice place
-for adventurers to have fun and explore in before attempting to take
-their quests out of the city.
- 
-`o[`cThe Eastern Prairie`o]``                 
-After finding your bearings in the city of Thesden, travel east down
-Cumberland until you find yourself in Farmer's Square.  From there,
-go one south and east, and you will find yourself in the Eastern
-Prairie, an excellent place for newcomers to explore and adventure
-in.
-~
-End
-
-#O
-Vnum 5653
-Nest 0
-Wear 15
-Cost 10
-End
-
-#O
-Vnum 5653
-Nest 0
-Wear 14
-Cost 10
-End
-
-#O
-Vnum 4433
-Nest 0
-Wear 6
-Cost 10
-End
-
-#O
-Vnum 4102
-Nest 0
-Wear -1
-Cost 105
-End
-
-#O
-Vnum 18
-Nest 1
-ShD  the feather of A watergull~
-Desc The feather of A watergull is lying here.~
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4519
-Nest 1
-Wear -1
-Cost 1500
-End
-
-#O
-Vnum 4519
-Nest 1
-Wear -1
-Cost 1500
-End
-
-#O
-Vnum 4519
-Nest 1
-Wear -1
-Cost 1500
-End
-
-#O
-Vnum 4519
-Nest 1
-Wear -1
-Cost 1500
-End
-
-#O
-Vnum 4518
-Nest 1
-Wear -1
-Cost 1000
-End
-
-#O
-Vnum 4274
-Nest 0
-Wear -1
-Cost 5000
-End
-
-#O
-Vnum 4146
-Nest 0
-Wear -1
-Cost 275
-End
-
-#O
-Vnum 4153
-Nest 0
-Wear -1
-Cost 176
-End
-
-#O
-Vnum 4296
-Nest 0
-Wear -1
-Cost 70
-End
-
-#O
-Vnum 4145
-Enchanted
-Nest 0
-ExtF 8388675
-Wear 16
-Lev  10
-Cost 0
-Affc 'enchant weapon'   1  90  -1   6  19          0 0 ''
-Affc 'enchant weapon'   0  90  -1   6  18          0 0 ''
-End
-
-#O
-Vnum 4450
-Nest 0
-Wear 9
-Cost 5000
-End
-
-#O
-Vnum 21072
-Nest 0
-Wear 2
-Cost 12
-End
-
-#O
-Vnum 21079
-Nest 0
-Wear -1
-Cost 20
-End
-
-#O
-Vnum 21081
-Nest 0
-Wear -1
-Cost 23
-End
-
-#O
-Vnum 21082
-Nest 0
-Wear 7
-Cost 50
-End
-
-#O
-Vnum 21084
-Nest 0
-Wear -1
-Cost 50
-End
-
-#O
-Vnum 21085
-Nest 0
-Wear -1
-Cost 5
-End
-
-#O
-Vnum 21083
-Nest 0
-Wear 8
-Cost 15
-End
-
-#O
-Vnum 21072
-Nest 0
-Wear -1
-Cost 12
-End
-
-#O
-Vnum 4275
-Nest 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4107
-Nest 0
-Wear -1
-Cost 320
-Val  110 110 0 0 0 0 0
-End
-
-#O
-Vnum 4107
-Nest 0
-Wear -1
-Cost 320
-Val  110 46 0 0 0 0 0
-End
-
-#O
-Vnum 4318
-Nest 0
-Wear 11
-Cost 150
-End
-
-#O
-Vnum 4321
-Nest 0
-Wear 12
-Cost 700
-End
-
-#O
-Vnum 4117
-Nest 0
-Wear -1
-Cost 1320
-End
-
-#O
-Vnum 13418
-Nest 0
-ExtF 8650752
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4319
-Nest 0
-Wear -1
-Cost 355
-End
-
-#O
-Vnum 4320
-Nest 0
-Wear 5
-Cost 750
-End
-
-#O
-Vnum 21072
-Nest 0
-Wear 1
-Cost 12
-End
-
-#O
-Vnum 12936
-Nest 0
-Wear -1
-Cost 750
-End
-
-#RoomRLE   100 1 3299 6 2 2 1 1 3 2 3 1 579 6 1 2 26 1 7 1 2 3 1 47 15 14 8 3 6 1 2 1 2 2 5 3 16 2 1 2 20 1 10 1 33 3 82 1 3 1 1 23 40 2 3 2 42 1 2 2 18 1 3429 2 7 5 14 17 4 3 1 1 1 3 4972 1 9 3 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 1 7 1 1 2 6 1 1 1 7 4 7846 4 2 1 12 2 1 3 1 5 1 3 1 3 18 2 1 3 46 1 1 3 12 1 3 2 1 1 11 5 1 1 1 1 11 7 1 1 11 5 3 1 11 4 4 1 11 3 5 1 11 3 5 1 11 3 5 1 7 13 13 1 19 1 3772 1 187 1 588 1 23 1 1148 8 7 5 24 5 7 12 5443 2 98 2 98 2 32821 -1
-
-#END

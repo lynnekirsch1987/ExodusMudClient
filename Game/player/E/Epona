@@ -1,550 +1,0 @@
-#PLAYER
-Name Epona~
-Id   841542456
-LogF 940464068
-LogO 940464089
-Vers 6
-Desc Epona is impeccably dressed in the finest silks and armors, in an 
-unusual but striking combination of mauve and orange.  Who could have
-known how well those colors could be used together if the lovely Epona had 
-not tried the combination?  The puce is really the finishing touch.
-With the figure of a houri and the delicate, elven face of an angel, 
-Epona is definitely worth a second, third, and fourth look.  The wintry 
-darkness of her eyes and the unsteady glow of lunacy contained within
-carries the unmistakeable warning not to touch.  
-~
-Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
-Race elf~
-Sex  2
-Cla  0
-Levl 23
-MBKill 9
-PHKill 1
-MHKill 695
-Hero 0
-Depty 0
-Sec  0
-Plyd 262645
-Bank_Gold 595
-Bank_Silv 13717
-Email silv@goodnet.com~
-Host 4.22.42.101~
-Not  940463972 938045079 0 940463976 940388408 937016711 932009729
-Scro 22
-Room 4187
-HMV  128 128 410 410 197 197
-Hand 2
-Gold 0
-Silv 248
-Exp  82061
-Act  CDEFGHQ
-AfBy J
-Comm NOS
-Pos  8
-Prac 5
-Alig  -932
-Hit   12
-Dam   5
-ACs -6 4 -8 43
-Wimp  30
-Attr 7 24 11 17 14 10
-AMod 4 0 1 1 0 0
-Pass Ep6yW08WUy.fU~
-Plan  It is whispered that those of extraordinary power either learn to control
-their power or go mad.  Epona went mad.  Sort of.  Some days, she is lucid,
-and other days, well, the words "stark raving loonie" would be best used to
-describe her.  How or why she went insane is not known.  When she is lucid,
-she will not speak of her past -- only that sometimes even evil will
-sacrifice all for the greater good.  Whatever it is that broke her mind,
-also made her unreservedly evil, likely to kill things even in her lucid
-moments (which grow increasingly shorter) for pure self-interest.  When she
-is not lucid, she speaks of a great elven city, more lovely than any other,
-with tones of love and hate as only the truly insane can hate.  It is also
-when she is insane that she is the most dangerous, for then she may spend
-all day hunting mice in Thesden to teleport them so they may explore...  Or
-killing herself for words spoken in jest (sometimes speaking of the elven
-city sets her off) by attacking much larger mobs.  Those mobs grow slowly
-fewer as she rises in power.  
-~
-Layhands 0
-Exorcise 0
-Titl , `minsane `oand `qloving it`.~
-Pnts 65
-TSex 2
-LLev 67
-Loner 0
-HMVP 105 370 197
-Cnd  -16 38 43 40
-Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
-Alias good grats Good show!~
-Alias froth o e emote froths at the mouth.~
-Alias cent emote , a powerful creature - half woman, half horse, stands here, arms akimbo.~
-Alias old emote , in faded finery, is standing alone.~
-Alias dog emote circles in the air above your head.~
-Alias nobody emote looks at you, but you can tell there's nobody home in there.~
-Sk 84 'armor'
-Sk 1 'acid blast'
-Sk 1 'fireshield'
-Sk 79 'blindness'
-Sk 88 'burning hands'
-Sk 1 'cancellation'
-Sk 1 'chain lightning'
-Sk 1 'change sex'
-Sk 82 'charm person'
-Sk 90 'chill touch'
-Sk 85 'colour spray'
-Sk 77 'create food'
-Sk 75 'create rose'
-Sk 77 'create spring'
-Sk 76 'create water'
-Sk 75 'curse'
-Sk 75 'dispel magic'
-Sk 1 'firestorm'
-Sk 75 'enchant armor'
-Sk 75 'enchant weapon'
-Sk 75 'energy drain'
-Sk 77 'fireball'
-Sk 75 'fireproof'
-Sk 79 'fly'
-Sk 75 'floating disc'
-Sk 1 'heat metal'
-Sk 1 'mirror'
-Sk 88 'lightning bolt'
-Sk 81 'magic missile'
-Sk 1 'pass door'
-Sk 75 'poison'
-Sk 1 'portal'
-Sk 1 'summon'
-Sk 1 'gate'
-Sk 71 'recharge'
-Sk 79 'shield'
-Sk 89 'shocking grasp'
-Sk 77 'sleep'
-Sk 75 'slow'
-Sk 1 'stone skin'
-Sk 77 'teleport'
-Sk 78 'weaken'
-Sk 75 'aqua breathe'
-Sk 1 'channel electricity'
-Sk 75 'ice beam'
-Sk 75 'electrical charge'
-Sk 40 'dagger'
-Sk 89 'staff'
-Sk 1 'swimming'
-Sk 85 'meditation'
-Sk 1 'sneak'
-Gr 'rom basics'
-Gr 'beguiling'
-Gr 'combat'
-Gr 'creation'
-Gr 'enchantment'
-Gr 'maladictions'
-Gr 'protective'
-Gr 'transportation'
-Gr 'elemental'
-End
-
-#O
-Vnum 12232
-Enchanted
-Nest 0
-Cond 0
-Wear 11
-Lev  21
-Cost 6049
-Affc 'enchant armor'   1  16  -1  -1  17          0 0 ''
-ExDe shield~ The shield of the Guardian is made of the same material as him.
-~
-End
-
-#O
-Vnum 21072
-Nest 0
-Cond 0
-Wear 2
-Cost 0
-End
-
-#O
-Vnum 21
-Nest 0
-Cond 0
-Wear 0
-Cost 0
-End
-
-#O
-Vnum 20970
-Enchanted
-Nest 0
-ExtF 65
-Cond 0
-Wear -1
-Lev  29
-Cost 0
-Affc 'enchant armor'   1  23  -1  -2  17          0 0 ''
-End
-
-#O
-Vnum 12917
-Enchanted
-Nest 0
-ExtF 64
-Cond 0
-Wear 6
-Lev  27
-Cost 5
-Affc 'enchant armor'   1  16  -1  -2  17          0 0 ''
-End
-
-#O
-Vnum 20956
-Nest 0
-Cond 0
-Wear 13
-Cost 50
-End
-
-#O
-Vnum 12928
-Enchanted
-Nest 0
-ExtF 262208
-Cond 0
-Wear 12
-Lev  27
-Cost 50
-Affc 'enchant armor'   1  20  -1  -2  17          0 0 ''
-End
-
-#O
-Vnum 12223
-Nest 0
-Cond 0
-Wear 15
-Cost 0
-ExDe bracers~ This is Captain Pythagas' symbol of command.
-~
-End
-
-#O
-Vnum 7929
-Nest 0
-Cond 0
-Wear 3
-Cost 200
-End
-
-#O
-Vnum 12216
-Nest 0
-Cond 0
-Wear 5
-Cost 503
-ExDe robe~ You have never seen such an evil robe. Ever.
-~
-End
-
-#O
-Vnum 12923
-Nest 0
-ExtF 17039361
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 20963
-Nest 1
-Cond 0
-Wear -1
-Cost 78
-End
-
-#O
-Vnum 20963
-Nest 1
-Cond 0
-Wear -1
-Cost 78
-End
-
-#O
-Vnum 4096
-Nest 1
-Cond 0
-Wear -1
-Cost 1354
-End
-
-#O
-Vnum 4204
-Nest 1
-Name oceanic explorer one immstring~
-ShD  Ocean Vol. I~
-Desc Tempest's Oceanic Explorer, Volume I~
-Cond 0
-Wear -1
-Cost 1300
-ExDe papermsg~ The Oceanic Geographer By Tempest Fornguard
-----------------------------------------------------------------------------
-- The world of Exodus is covered with over three quarters water.  The
-majority of this great body of water is the Great Ocean, surrounding both
-continents, Ividia and the Great Continent.  The second major body of water
-is the Sea of Fate, a strange and mysterious waterway to the west of the
-Fierness Forest.  Within these bodies of water are many forms of life, and
-the lands they reach are far and varied.  I have written this humble
-offering in the hopes that it will aid you in your journeys across these
-watery expanses. 
-----------------------------------------------------------------------------
-------------------------Tempest-Fornguard-----------------------------------
-----------------------------------------------------------------------------
-- Chapter I : Descriptions of Regions
-----------------------------------------------------------------------------
-- The Sea of Fate : The Sea of Fate has within it two island groups and can
-be reached by three methods.  There is an Inlet opening into the sea of fate
-on the easternmost point of the Sea of Fate in the Fierness Forest's western
-border.  Farther to the south in Bayou Laforge is found another enterance,
-also in that swamps western border.  Finally, on the southern border of the
-Sea of Fate is found a enterance to the Great Ocean.  This opening is found
-to the North/Northwest of Freeport.  The two islands found in the Sea of
-Fate are Telkion Isle and the Silver Coast.  Telkion Isle is a fell and evil
-place.  Upon landind upon this island I saw sights of death and ill omen. 
-Those who venture here would be cautioned to be prepared for the worst.  The
-Silver Coast is a jungle paradise, inhabited by monkeys, exotic birds, and
-various other jungle creatures.  When searching inland, I found fresh water.
-I also found the tracks of a great jungle cat.  Knowing that these beasts
-often track and attack their prey without warning, I ended my survey until I
-could bring a larger exploration party. 
-----------------------------------------------------------------------------
-The Great Ocean : The Great Ocean contains a variety of creatures on the
-Northern Coast.  The northern coast region refers to the area on the coast
-of the Great Continent, north of the Sea of Fate on the Continents Western
-coast and north of the Eastern Prairie on the Great Continents eastern
-coast.  This area is home to a variety of large see creatures, including
-sharks, whales and giant squid.  Also to be found in this area are giant sea
-horses, who some have told me can be tamed, though I have never seen it
-myself. 
-----------------------------------------------------------------------------
-- Areas of Note : The areas of note which can be found in or around the
-Great Ocean are (from West to East, the meridian being Thesden): The Ruined
-Underwater City, The Sea of Fate, Freeport, Ebon Downs, Dead Man's Cave,
-Colwyn Bay (and Thesden), The Eastern Prairie and The Continent of Ividia. 
-----------------------------------------------------------------------------
-The Under Water City : The ruined underwater city is found to the west and
-south of the Sea of Fate.  It contains Marid Djinns, Locathat, Dragon
-Turtles, and a variety of creatures foul and fair Caution is advised for
-those adventuring here.  The means of both access and egress to this city is
-a stupendous whirlpool spanning almost 30 miles in diameter.  One need now
-worry of one's ship being swallowed by this titan, for the currents at it's
-surface are very mild. 
-----------------------------------------------------------------------------
-- Freeport : The city of Freeport is a merchants city, known for a modest
-ship building industry.  It can be located on the southern most point of the
-great continent, south of the Macocamp Outlands, 160 miles or so due
-south/southwest of Thesden as the crow flies.  It is surrounded by ocean at
-all points except the north, which is bordered by a narrow river estuary. 
-Protecting Freeport from the inhavitants of the Macocamp Outlands to the
-north. 
-----------------------------------------------------------------------------
-- 
-~
-End
-
-#O
-Vnum 7902
-Nest 1
-Cond 0
-Wear -1
-Cost 50
-End
-
-#O
-Vnum 4414
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 12918
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4024
-Nest 1
-Cond 0
-Wear -1
-Cost 6
-End
-
-#O
-Vnum 12224
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-End
-
-#O
-Vnum 7916
-Nest 0
-ExtF 8388928
-Cond 0
-Wear 18
-Cost 0
-End
-
-#O
-Vnum 4099
-Nest 0
-Cond 0
-Wear -1
-Cost 25
-Val  60 0 0 0 0 0 0
-End
-
-#O
-Vnum 20964
-Nest 0
-Cond 0
-Wear 7
-Cost 140
-End
-
-#O
-Vnum 553
-Nest 0
-Cond 0
-Wear -1
-Cost 300
-End
-
-#O
-Vnum 20389
-Nest 0
-Cond 0
-Wear 10
-Cost 142
-End
-
-#O
-Vnum 4274
-Enchanted
-Nest 0
-ExtF 323
-Cond 0
-Wear -1
-Lev  19
-Cost 0
-Affc 'enchant weapon'   0  90  -1   6  18          0 0 ''
-Affc 'enchant weapon'   1  90  -1   8  19          0 0 ''
-End
-
-#O
-Vnum 7262
-Nest 0
-ExtF 2567
-Cond 0
-Wear 1
-Cost 1600
-End
-
-#O
-Vnum 12223
-Nest 0
-Cond 0
-Wear 14
-Cost 950
-ExDe bracers~ This is Captain Pythagas' symbol of command.
-~
-End
-
-#O
-Vnum 4279
-Nest 0
-Cond 0
-Wear 8
-Cost 0
-End
-
-#O
-Vnum 22005
-Nest 0
-ExtF 264720
-Cond 0
-Wear 16
-Cost 0
-End
-
-#O
-Vnum 7265
-Nest 0
-ExtF 3
-Cond 0
-Wear 19
-Cost 1500
-End
-
-#O
-Vnum 559
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 5551
-Enchanted
-Nest 0
-ExtF 67
-Cond 0
-Wear -1
-Lev  22
-Cost 352
-Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
-Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
-End
-
-#O
-Vnum 12227
-Nest 0
-ExtF 8388608
-Cond 0
-Wear 4
-Cost 0
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-End
-
-#O
-Vnum 20
-Nest 0
-Cond 0
-Wear -1
-Time 235
-Cost 0
-Val  38 77 240 0 0 0 0
-End
-
-#O
-Vnum 20
-Nest 0
-Cond 0
-Wear -1
-Time 235
-Cost 0
-Val  38 77 240 1 0 0 0
-End
-
-#END

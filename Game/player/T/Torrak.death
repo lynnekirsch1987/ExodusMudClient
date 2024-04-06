@@ -1,495 +1,0 @@
-#PLAYER
-Name Torrak~
-Id   1348205783
-LogF 1348356007
-LogO 1348359139
-Vers 8
-Prom `b-=(``%h/%H`ch``, %m`em``, %v`dmv``, %X`fx```b)=- ~
-Race dwarf~
-Sex  1
-Cla  3
-Cla2  3
-Cla3  3
-Levl 12
-MBKill 1
-MHKill 16
-Hero 0
-Depty 0
-Sec  0
-BldAll 0
-Plyd 10537
-NPlyd 0
-NAge 0
-Bank_Gold 420
-Bank_Silv 5
-Email jhees@outlook.com~
-Referrer Internet~
-Souls 0
-HP_Gained 0
-Mana_Gained 0
-Move_Gained 0
-PointsRp 0
-PointsNh 0
-PointsQ 0
-Avatar_Type 2
-Race_Old -1
-Class_Old -1
-New_Style 1
-Totalxp 211240
-TotalS 0
-Dam_Type 17
-Prevent_Escape 0
-Falcon_Alert 0
-NoBlinking 0
-GamL 0
-GamW 0
-QTicks 0
-TotalQH 0
-TotalQF 0
-TQFAttempt 0
-TQHAttempt 0
-TotalCGL 0
-TotalCGW 0
-MPC 0
-Host host671420073195.direcway.com~
-Not  0 0 0 0 0 0 0 0
-Scro 22
-Room 4056
-HMV  -30 197 122 122 194 194
-Hand 2
-Gold 4
-Silv 191
-Exp  79183
-Act  DEG
-Blok -1
-AfBy J
-Comm NOS
-Com2 A
-Pos  0
-Alig  880
-Hit   8
-Dam   19
-ACs 82 82 82 92
-Wimp  10
-Attr 23 9 6 15 21 7
-AMod 3 0 10 2 3 0
-Pass To.JD/06/aKps~
-Layhands 0
-Exorcise 0
-Illusion 0
-Titl  the Neophyte~
-Pnts 5
-TSex 1
-LLev 2
-Loner 0
-HMVP 195 122 154
-Cd  -4 23 3 43 0
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5 0 0
-Sk 40 'axe'
-Sk 6 'dagger'
-Sk 1 'flail'
-Sk 1 'mace'
-Sk 1 'polearm'
-Sk 1 'shield block'
-Sk 1 'staff'
-Sk 1 'sword'
-Sk 1 'uppercut'
-Sk 1 'riding'
-Sk 1 'retreat'
-Sk 41 'bash'
-Sk 1 'charge'
-Sk 1 'berserk'
-Sk 1 'disarm'
-Sk 1 'dodge'
-Sk 1 'enhanced damage'
-Sk 1 'hand to hand'
-Sk 1 'kick'
-Sk 1 'sweep'
-Sk 26 'parry'
-Sk 1 'rescue'
-Sk 1 'door bash'
-Sk 1 'throwing'
-Sk 1 'butcher'
-Sk 1 'redirect'
-Sk 47 'second attack'
-Sk 1 'fast healing'
-Sk 1 'blindfighting'
-Sk 1 'fishing'
-End
-
-#O
-Vnum 78
-Nest 0
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 79
-Nest 0
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 4202
-Nest 0
-WearL -1
-Cost 0
-Vlues  0 0 92 0 0 0 0 0 0 0 0 0 0
-End
-
-#O
-Vnum 4198
-Nest 0
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 4406
-Nest 0
-WearL -1
-Cost 1
-ExDe help~ `o[`nThe Zoo`o]``
-Those who are very new to the city should attempt to venture towards
-the east gate (east of the fountain down Cumberland), and south of
-Farmer's Square, until they reach Welford Road.  Travelling south down
-Welford, watch for signs indicating an Animal Exhibition (check your
-map if you get lost), and venture inside  -  the zoo is a nice place
-for adventurers to have fun and explore in before attempting to take
-their quests out of the city.
- 
-`o[`cThe Eastern Prairie`o]``                 
-After finding your bearings in the city of Thesden, travel east down
-Cumberland until you find yourself in Farmer's Square.  From there,
-go one south and east, and you will find yourself in the Eastern
-Prairie, an excellent place for newcomers to explore and adventure
-in.
-~
-ExDe street streets~ `k(`lType look <streetname> to see a bird's-eye view of that street`k)``
-`a[`oStreets of Thesden`a]``     `o-----`a-----`o-----``
-                         `l*`i Pine``
-                         `l*`i Cumberland``
-                         `l*`i Seahan``
-                         `l*`i Langhan``
-                         `l*`i Welford``
-                         `a-----`o-----`a-----``
-~
-ExDe pine~ `bPine Street``
-:--------------------------------------------------------:
-:   ____`eB``________`gG``_                                      :
-:  `k#``  |  |  |  |  |`k#`` Cathedral Square                    :
-:  `k#``__|__|__|__|__|`k#``                                     :
-:Raven  `iA``  `bT``                                             :
-:Sq.                                                     :
-:                                                        :
-:`iA``  = `iAntique Shop``                                       :
-:`eB``  = `eNarcissus' Book Shop``                               :
-:`gG``  = `gCathedral Glassworks``                               :
-:`bT``  = `bPine Street Tanner``                                 :
-:--------------------------------------------------------:
-~
-ExDe cumberland~ `bCumberland Ave.``
-:--------------------------------------------------------------------:
-:   _ _____ ____  __         _`bP``_______   _______`jW``___`cX``_               :
-:  `d@`` |  |  `k#``  | \\  Gallows `k#``|  |  |  `k###``|  |  |  |  |`k#`` Farmer's Sq. :
-:  `d@``_|__|__`k#``__|__\\_  Sq.   `k#``|__|__|__`k###``|__|__|__|__|`k#``              :
-:        Elm                  `eH``  `gC``   Devon   `nB``                       :
-:         Sq.                         Sq.                            :
-:                                                                    :
-:\\ = Bridge                                                         :
-:`d@``  = `dWest Gate``                                                      :
-:`bP``  = `bLoris Exotic Pets``                                              :
-:`eH``  = `eHangman's Tavern``                                               :
-:`gC``  = `gCumberland Clothier``                                            :
-:`nB``  = `nBlacksmith``                                                     :
-:`jW``  = `jWilderness Supplies``                                            :
-:`cX``  = `cFresh Produce Shop``                                             :
-:--------------------------------------------------------------------:
-~
-ExDe seahan seaham~ `bSeahan Way``
-:---------------------------------------------------:
-:  `k####`` Raven Square                                :
-: `bA`d|  |``                                             :
-:  `d|  |``                                             :
-:  `k####`` N. Devon Square                             :
-:  `k####`` S. Devon Square                             :
-:  `d|  |``                                             :
-:  `d|  |`gAr``                                           :
-: `eB`d|  |``                                             :
-:  `d|  |``                                             :
-:  `k####`` N. Dorset Square                            :
-:                                                   :
-:`eB`` = `eBank``                                           :
-:`gAr`` = `k+\`gArena of Legends`k/+``                          :
-:`bA`` = `bThe Leech and Root Apothecary``                  :
-:---------------------------------------------------:
-~
-ExDe langhan~ `b  Langhan Street``
-:---------------------------------------------------:
-:         _____`kC``________`gA``_                          :
-:Dorset  `k#`` |  |  |  |  |  `k#``Grisedale Sq.            :
-: Sq.    `k#``_|__|__|__|__|__`k#``                         :
-:           `mM``                                       :
-:                                                   :
-:`gA`` = `gCovent Armory``                                  :
-:`mM`` = `mThe College of Music``                           :
-:`kC`` = `kCeramics Shop``                                  :
-:---------------------------------------------------:
-~
-ExDe welford~ `b Welford Road``
-:---------------------------------------------------:
-:   `d|  |``                                            :
-:  `o%`d|  |``                                            :
-:   `d|  |``                                            :
-:   `k####`` N. Farmer's Sq.                            :
-:   `k####`` S. Farmer's Sq.                            :
-:   `d|  |``                                            :
-:  `aX`d|  |`co``                                           :
-:  `lW`d|  |``                                            :
-:   `k####`` Grisedale Sq.                              :
-:                                                    :
-:`o%``  = `oCandle and Lantern Shop``                       :
-:`aX``  = `aThe Dreadful Buzzard Tavern``                   :
-:`co``  = `cThesden Animal Exhibitions and Zoo``            :
-:`lW``  = `lMincer Ray's Weaponry``                         :
-:---------------------------------------------------:
-~
-ExDe map~ :----------------------------------------------------------------------:
-:                                                                      :
-:   `k##`a$`e^^^ `d@  `b+=+`k#`d-----`k#`o+        `g[`hLegend of Thesden`g]``                   :
-:   `k## `d| `e^^`d|     |     |         `i*  Town Hall`b (`hSouthwest Devon Square`b)`` :
-:   `d|  |  `e^`d|     |     |        `d-|  road``                               :
-: `cr `d|  | `e ^`d|  `k  ### `d   |         `k#  square``                             :
-:`d --@--`k#`d--`e^`k##`d---`k###`d---`k##         `d@  town gates``                         :
-:  `d |  | `e ^`k##   ###   ##`d@        `e^  water``                              :
-:  `d |  |  `e^`h{}   `i*`d|     |        `h{}  jail``                               :
-:  `d |  |  `e^     `d |     `j+-       `f[]  Castle Dunluce``                     :
-:   `d|  |  `e^^   `d  |     |         `m&  College of Music``                   :
-:   `k#`d--`k#`d---`e^ `k   ##`d-----`k#`n-}      -}  Order of the Argent Lance``          :
-:  `e ^^^^^^^^^^^ `k##`m&            `b+=+  Order of the Crescent Moon``         :
-:`e  ^^^^^^^^^^^^^`f[]`e^^^^^^^^       `o+  Cathedral``                          :
-:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `a$  Thieves' Guild``                     :
-:`e ^^^^^^^^^^^^^^^^^^^^^^^^       `cr  Rangers' Guild``                     :
-:`e ^^^^^^^^^^^^^^^^^^^^^^^^      `j+-  Zoo/Animal Exhibition``              :
-:----------------------------------------------------------------------:
-`e[`hType `l"`glook STREET`e"`h for a map of a particular street.`e]``
-`e[`hType `l"`gread HELP`e"`h for a bit of information about where to go.`e]``
-~
-End
-
-#O
-Vnum 4407
-Nest 0
-WearL -1
-Cost 0
-Vlues  4 0 0 0 0 0 0 0 0 0 0 0 0
-End
-
-#O
-Vnum 4264
-Nest 0
-WearL -1
-Cost 0
-End
-
-#O
-Vnum 6973
-Nest 1
-WearL -1
-Time 909
-Cost 1
-ExDe map~ `nThe Newbie Arena``        
-`n+`g---------------------------`n+
-`g|                           `g| 
-`g|            `k[`dE`k]            `g|
-`g|  `k[`dM`k]`a--`k[`dM`k]   `a|   `k[`dM`k]`a--`k[`dM`k]  `g|
-`g|   `a|    `a|    `a|   `a |   `a |   `g|
-`g|  `k[`dM`k]`a--`k[`dM`k]`a--`k[`dS`k]`a--`k[`dM`k]`a--`k[`dS`k]  `g|  
-`g|   `a|    `a|         `a|    `a|  `g |   
-`g|  `k[`dM`k]`a--`k[`dM`k]       `k[`dM`k]`a--`k[`dB`k]  `g| 
-`g|                           `g|
-`n+`g---------------------------`n+
-`kKey:
-`dM`h: There is a monster in this room.
-`dS`h: There is a store in this room.
-`dB`h: There is a box with treasure in this room.
-`dE`h: This is the exit.
-~
-End
-
-#O
-Vnum 6981
-Nest 0
-WearL 512
-Cost 0
-End
-
-#O
-Vnum 6984
-Nest 0
-WearL 128
-Cost 203
-End
-
-#O
-Vnum 6985
-Nest 0
-WearL 256
-Cost 72
-End
-
-#O
-Vnum 6982
-Nest 0
-WearL 1024
-Cost 0
-End
-
-#O
-Vnum 6976
-Nest 0
-WearL 1048576
-Cost 300
-End
-
-#O
-Vnum 6976
-Nest 0
-WearL 4096
-Cost 300
-End
-
-#O
-Vnum 6974
-Nest 0
-WearL 2097152
-Cost 8309
-End
-
-#O
-Vnum 6989
-Nest 0
-WearL -1
-Cost 1
-End
-
-#O
-Vnum 6975
-Nest 0
-WearL 2
-Cost 12
-End
-
-#O
-Vnum 6979
-Nest 0
-WearL 8
-Cost 10
-End
-
-#O
-Vnum 6978
-Nest 0
-WearL 32
-Cost 140
-End
-
-#O
-Vnum 6987
-Nest 0
-WearL 16
-Cost 5
-End
-
-#O
-Vnum 6986
-Nest 0
-WearL 2048
-Cost 10
-End
-
-#O
-Vnum 6980
-Nest 0
-WearL 64
-Cost 0
-End
-
-#O
-Vnum 6977
-Nest 0
-WearL 524288
-Cost 100
-End
-
-#O
-Vnum 6977
-Nest 0
-WearL 4
-Cost 100
-End
-
-#O
-Vnum 6983
-Nest 0
-WearL 65536
-Cost 10
-End
-
-#O
-Vnum 6990
-Nest 0
-WearL 8192
-Cost 35000
-End
-
-#O
-Vnum 4107
-Nest 0
-Name stained glass crystal decanter water~
-WearL -1
-Cost 320
-Vlues  110 62 0 0 0 0 0 0 0 0 0 0 0
-End
-
-#O
-Vnum 4140
-Nest 0
-Name iron flask heal~
-ShD  an iron flask of heal~
-WearL -1
-Lev  69
-Cost 451
-Vlues  70 0 0 0 0 0 0 0 0 0 0 0 0
-Spell 0 'heal'
-End
-
-#O
-Vnum 20
-Nest 0
-Name pie lemon meringue~
-ShD  `da `kLemon `hMeringue `dpie``~
-Desc `dA `klemon`d pie topped with fluffy `hwhite meringue`d looks yummy for humans.``~
-WearL -1
-Cost 0
-Vlues  37 75 0 0 0 0 0 0 0 0 0 0 0
-End
-
-#O
-Vnum 20
-Nest 0
-Name pie lemon meringue~
-ShD  `da `kLemon `hMeringue `dpie``~
-Desc `dA `klemon`d pie topped with fluffy `hwhite meringue`d looks yummy for humans.``~
-WearL -1
-Cost 0
-Vlues  37 75 0 0 0 0 0 0 0 0 0 0 0
-End
-
-#RoomRLE   665 1 512 12 1 1 1792 1 1015 8 3 1 22 2 7 2 1 35 11 2 32 6 1 3 6 5 1 1 1 5 1 2 3 1 15 2 4 1 1 1 9 2 1 1 18 1 112 1 3 1 1 16 49 1 18 1 7 1 41 2 1 1 226 1 333 16 1923 14 914 1 8 8 1 1 8 3 3 15 13128 1 19 1 19 1 19 1 19 1 19 1 14 6 14 1 4 1 14 6 1562 8 1 5 63 1 122 1 2007 1 83 1 110 1 1708 1 299 1 38322 -1
-
-#QbitsRLE   999 -1
-
-#END

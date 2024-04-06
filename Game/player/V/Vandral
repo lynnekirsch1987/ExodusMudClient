@@ -1,710 +1,0 @@
-#PLAYER
-Name Vandral~
-Id   868208853
-LogF 871498959
-LogO 871498971
-Vers 5
-Desc A noble warrior of exodus is here..
-His blonde hair flows beneath his helm and his muscles surge beneath his armor.
-His face has a nice smile, but has many scars.
-He has such a rugged look about him..but alas he looks so kind.
-~
-Prom `a<`lHP`a:`F%h `lMA`a:`I%m `lMV`a:`J%v`a>`` %S~
-Race human~
-Sex  1
-Cla  3
-Levl 24
-PBKill 1
-MBKill 5
-PHKill 1
-MHKill 1475
-Depty 0
-Sec  0
-Plyd 181162
-Bank_Gold 0
-Bank_Silv 0
-Email nduysen@prairie.nodak.edu~
-Host r10mac8.cc.und.NoDak.edu~
-Not  870991792 869789049 0 869972621 868232139
-Scro 22
-Room 4178
-HMV  364 364 169 169 195 195
-Hand 2
-Gold 6
-Silv 686
-Exp  113845
-Act  CDEFGQ
-AfBy T
-Comm NOQS
-Pos  4
-Save  -2
-Alig  -1000
-Hit   6
-Dam   6
-ACs -20 -6 -30 75
-Wimp  72
-Attr 15 17 12 11 18 7
-AMod 4 -1 0 1 3 0
-Pass Val2AoZEsJMis~
-Bcry  screams DIE!!~
-Layhands 0
-Exorcise 0
-Titl  warrior of exodus~
-Pnts 77
-TSex 1
-LLev 45
-Loner 0
-HMVP 344 146 195
-Cnd  -16 -11 15 3
-Color 0 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
-Alias gc get all corpse~
-Alias res o all rescue van~
-Alias kill o all kill~
-Alias report o all report~
-Sk 17 'axe'
-Sk 1 'dagger'
-Sk 62 'flail'
-Sk 63 'mace'
-Sk 62 'polearm'
-Sk 63 'shield block'
-Sk 100 'sword'
-Sk 61 'uppercut'
-Sk 63 'dual wield'
-Sk 12 'bash'
-Sk 1 'charge'
-Sk 1 'disarm'
-Sk 52 'dodge'
-Sk 97 'enhanced damage'
-Sk 88 'kick'
-Sk 1 'sweep'
-Sk 75 'parry'
-Sk 1 'rescue'
-Sk 1 'throwing'
-Sk 84 'second attack'
-Sk 68 'third attack'
-Sk 51 'fast healing'
-Gr 'rom basics'
-Gr 'weaponsmaster'
-Affc 'giant strength'   0  24  22   2   1          0 0 ''
-Affc 'Walking on Clouds'   0  52  25   0   0     524288 0 ''
-End
-
-#O
-Vnum 7257
-Nest 0
-Cond 0
-Wear 17
-Cost 1500
-End
-
-#O
-Vnum 4162
-Nest 0
-Cond 0
-Wear 5
-Cost 3429
-End
-
-#O
-Vnum 4159
-Nest 0
-Cond 0
-Wear 15
-Cost 2900
-End
-
-#O
-Vnum 4102
-Nest 0
-ExtF 8650753
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4282
-Nest 1
-Cond 0
-Wear -1
-Cost 4
-End
-
-#O
-Vnum 4019
-Nest 1
-Cond 0
-Wear -1
-Cost 400
-Val  1 0 0 0 0 0 0
-End
-
-#O
-Vnum 20969
-Nest 1
-Cond 0
-Wear -1
-Cost 300
-End
-
-#O
-Vnum 21
-Nest 1
-ExtF 8388609
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 20967
-Nest 1
-Cond 0
-Wear -1
-Cost 500
-End
-
-#O
-Vnum 4166
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4145
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 22012
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4158
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4151
-Enchanted
-Nest 1
-ExtF 67
-Cond 0
-Wear -1
-Lev  28
-Cost 102
-Affc 'enchant weapon'   0  90  -1   5  18          0 0 ''
-Affc 'enchant weapon'   1  90  -1   5  19          0 0 ''
-End
-
-#O
-Vnum 12926
-Nest 1
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4150
-Nest 1
-Cond 0
-Wear -1
-Cost 265
-End
-
-#O
-Vnum 12937
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4145
-Nest 1
-Cond 0
-Wear -1
-Cost 50
-End
-
-#O
-Vnum 4025
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-Val  0 0 52 0 0 0 0
-End
-
-#O
-Vnum 20
-Nest 1
-Cond 0
-Wear -1
-Time 106
-Cost 0
-Val  11 23 240 0 0 0 0
-End
-
-#O
-Vnum 20
-Nest 1
-Cond 0
-Wear -1
-Time 106
-Cost 0
-Val  11 23 240 0 0 0 0
-End
-
-#O
-Vnum 5118
-Nest 1
-Cond 0
-Wear -1
-Cost 495
-End
-
-#O
-Vnum 7907
-Nest 1
-ExtF 25427968
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 5638
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4146
-Enchanted
-Nest 1
-ExtF 67
-Cond 0
-Wear -1
-Lev  31
-Cost 275
-Affc 'enchant weapon'   1  23  -1   5  19          0 0 ''
-Affc 'enchant weapon'   0  23  -1   5  18          0 0 ''
-End
-
-#O
-Vnum 4205
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4205
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4205
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4205
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4205
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4205
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4205
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 12933
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 12933
-Nest 1
-ExtF 8388608
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4319
-Nest 1
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4164
-Nest 0
-ExtF 8388608
-Cond 0
-Wear 7
-Cost 0
-End
-
-#O
-Vnum 4163
-Nest 0
-ExtF 8388608
-Cond 0
-Wear 10
-Cost 0
-End
-
-#O
-Vnum 4314
-Nest 0
-ExtF 262144
-Cond 0
-Wear 0
-Cost 0
-End
-
-#O
-Vnum 20968
-Nest 0
-Cond 0
-Wear 8
-Cost 206
-End
-
-#O
-Vnum 20970
-Nest 0
-Cond 0
-Wear 14
-Cost 1039
-End
-
-#O
-Vnum 20962
-Nest 0
-Cond 0
-Wear 4
-Cost 100
-End
-
-#O
-Vnum 12917
-Nest 0
-Cond 0
-Wear 6
-Cost 5
-End
-
-#O
-Vnum 4174
-Nest 0
-ExtF 8650752
-Cond 0
-Wear 13
-Cost 0
-End
-
-#O
-Vnum 4400
-Nest 0
-ExtF 8650752
-Cond 0
-Wear 18
-Cost 0
-End
-
-#O
-Vnum 21072
-Nest 0
-Cond 0
-Wear 2
-Cost 12
-End
-
-#O
-Vnum 21072
-Nest 0
-Cond 0
-Wear 1
-Cost 12
-End
-
-#O
-Vnum 12928
-Nest 0
-ExtF 8650752
-Cond 0
-Wear 12
-Cost 0
-End
-
-#O
-Vnum 12224
-Nest 0
-ExtF 8388608
-Cond 0
-Wear 9
-Cost 0
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-ExDe right~ These gloves are incredibly well-worked with map symbols.
-~
-End
-
-#O
-Vnum 12227
-Nest 0
-ExtF 8388608
-Cond 0
-Wear 3
-Cost 0
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-ExDe cat's meow~ This is a cute little collar, about the size to fit on a cat.
-~
-End
-
-#O
-Vnum 4152
-Enchanted
-Nest 0
-ExtF 65
-Cond 0
-Wear 16
-Lev  26
-Cost 0
-Affc 'enchant weapon'   0  18  -1   4  18          0 0 ''
-Affc 'enchant weapon'   1  18  -1   4  19          0 0 ''
-End
-
-#O
-Vnum 8821
-Nest 0
-ExtF 8650753
-Cond 0
-Wear -1
-Cost 0
-Val  200 152 0 0 0 0 0
-End
-
-#END

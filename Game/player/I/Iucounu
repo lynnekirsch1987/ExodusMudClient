@@ -1,476 +1,0 @@
-#PLAYER
-Name Iucounu~
-Id   949702821
-LogF 955891624
-LogO 955891624
-Vers 6
-Prom HP:%h MA:%m MV:%v TNL:%X - %r - EXITS:%e - %a %S ~
-Race human~
-Sex  1
-Cla  0
-Levl 5
-MHKill 295
-Hero 0
-Depty 0
-Sec  0
-Plyd 16199
-Bank_Gold 0
-Bank_Silv 0
-Email hunter@oric.tmfweb.nl~
-Host dc2-modem3021.dial.xs4all.nl~
-Not  0 0 0 940821688 940388408 0 0
-Scro 22
-Room 4401
-HMV  35 35 118 118 114 114
-Hand 2
-Gold 0
-Silv 365
-Exp  37035
-Act  CDFGHQ
-Comm FGNORS
-Pos  8
-Prac 5
-Save  -3
-Alig  1000
-Hit   10
-Dam   8
-ACs 10 5 3 63
-Wimp  15
-Attr 7 21 18 9 16 7
-AMod 3 4 1 0 0 -5
-Pass IuG7uTEhlCOig~
-Layhands 0
-Exorcise 0
-Titl  the Neophyte~
-Pnts 88
-TSex 1
-LLev 3
-Loner 0
-HMVP 35 153 114
-Cnd  -4 -4 35 15
-Color 1 7 1 23 3 14 6 0 12 6 6 10 2 12 5 8 13 5
-Sk 1 'armor'
-Sk 1 'blindness'
-Sk 1 'web'
-Sk 1 'cancellation'
-Sk 1 'change sex'
-Sk 1 'charm person'
-Sk 1 'create food'
-Sk 1 'create rose'
-Sk 1 'create spring'
-Sk 1 'create water'
-Sk 1 'curse'
-Sk 1 'detect hidden'
-Sk 1 'detect invis'
-Sk 1 'detect magic'
-Sk 1 'detect poison'
-Sk 1 'dispel magic'
-Sk 1 'enchant armor'
-Sk 1 'enchant weapon'
-Sk 1 'energy drain'
-Sk 1 'fireproof'
-Sk 1 'fly'
-Sk 1 'floating disc'
-Sk 1 'giant strength'
-Sk 1 'haste'
-Sk 1 'identify'
-Sk 1 'infravision'
-Sk 1 'invisibility'
-Sk 1 'mirror'
-Sk 1 'locate object'
-Sk 1 'mass invis'
-Sk 1 'pass door'
-Sk 1 'poison'
-Sk 1 'portal'
-Sk 1 'summon'
-Sk 1 'gate'
-Sk 1 'recharge'
-Sk 1 'refresh'
-Sk 1 'shield'
-Sk 1 'sleep'
-Sk 1 'slow'
-Sk 1 'stone skin'
-Sk 1 'teleport'
-Sk 1 'ventriloquate'
-Sk 1 'weaken'
-Sk 1 'acid breath'
-Sk 1 'fire breath'
-Sk 1 'frost breath'
-Sk 1 'gas breath'
-Sk 1 'lightning breath'
-Sk 47 'staff'
-Sk 1 'dodge'
-Sk 1 'meditation'
-Sk 1 'brew'
-Sk 1 'scribe'
-Sk 1 'scrolls'
-Gr 'rom basics'
-Gr 'beguiling'
-Gr 'creation'
-Gr 'detection'
-Gr 'draconian'
-Gr 'enchantment'
-Gr 'enhancement'
-Gr 'illusion'
-Gr 'maladictions'
-Gr 'protective'
-Gr 'transportation'
-End
-
-#O
-Vnum 4264
-Nest 0
-Cond 0
-Wear -1
-Cost 0
-ExDe papermsg~ `lWelcome to the realms of `nExodus`h.  Upon entering our world,
-you will notice that there is no traditional mud school or newbie zone.
-It is our intention to immerse players immediately, the world around you being
-your entire 'newbie area'.  Thus, reading this `bNeophyte Manifesto`h becomes
-monumentally important to your prosperity and survival here.  Note that   
-everything covered in this document is pursued at greater length in the  
-help files. Please also type story to read something of Exodus history.
-
-The manifesto is divided into several categories.  
-To read the different parts, just type look `kkeyword`h.
-
-`o[`kYou`o] [`hThe `kworld `haround you`o] [`hOther `kplayers`o] [`hYour `kplace`h in the world`o]`h               
-~
-ExDe you~ `o[`iYou`o]`h                                                                 
-You are the center of your universe.  There are many ways in which you        
-can make your character unique, aside from the customization you have         
-already undertaken in choosing your skills and attributes.  You can           
-change your title [help title], give yourself a description [help description],
-formulate a battlecry [help battlecry]  -- and you can do it all in color    
-[help color].                                                   
-               
-When your character is born, he/she/it receives a set of low level
-equipment. To see what you are wearing, type equipment.  To see what you are 
-holding, type inventory.  Exodus supports full abbreviation, so if you don't 
-want to type out these full commands, you can use 'eq' and 'i', respectively. 
-If you should ever lose your newbie gear, you can type outfit to re-eq.      
-
-Your character's attributes and nuances are important to your evolution as     
-you rise in power and knowledge.  To see your character's score sheet,        
-type score.  To see quickly how wealthy your character is, or how much        
-experience you require to level, type worth.  The experience you receive      
-from killing non-player-characters (NPCs), exploring the world, or            
-participating in both built-in area and immortal run quests determines        
-your level. [help experience, help level]                                     
-~
-ExDe world~ `o[`iThe world around you`o]`h     
-There are many things in the world that you will become aware of as you       
-wander about.  The world of Exodus is vast, comprised of many mystical        
-lands.  [help areas]    
-A few commands are necessary to master if you want to experience the    
-full impact of Exodus: look, where, and who. [help look] [help where] &       
-[help who] have extensive information concerning these important commands.    
-    
-`o[`hobjects`o]`h                                                              
-Mundane and arcane items alike can be found, bought, or battled for in    
-the realms of Exodus.  Although you may discover a proliferation of
-telluric items within its sprawls, the luckiest adventurers may sometimes     
-come across fabled treasures, rare beyond description.                        
-                                                                              
-`o[`hmobiles`o]`h                                                              
-Unlike many other foriegn environments, the extensive lands of Exodus are   
-inhabited by both intelligent players, and...intelligent monsters.          
-Instinctual animals may not offer much of a challenge, but cognizant           
-creatures with actual aspects of sentience (for example, city guards,       
-farmers, or soldiers) may just surprise you -- look at them, talk to them,  
-do what you deem to be wise around them to see how they react.  And should  
-you choose to engage in combat with them and find yourself over your head,  
-you may just find that enraged farmer or cityguard hunting you down to      
-finish the job.                                                                
-~
-ExDe player players~ `o[`iother players`o]`h                                                        
-Although most of the inhabitants of Exodus may appear to be friendly,          
-it is always advisable to take everything with a grain of salt and             
-view the world through a cynic's eyes -- even the most harmless-looking      
-player can evolve into a vicious enemy in the span of a few seconds.           
-Exploring the large universe that Exodus provides is a very good way          
-to avoid messy conflicts with other violent players, and is strongly          
-encouraged, especially to new players.                                        
-                                                                             
-This advice does not directly apply to players level 1 - 8 (as these        
-lower-level players are protected by immortal intervention), but it           
-is advisable that you begin exploring the planet early on, to get a            
-grasp of the terrain and places to adventure.                                
-   
-Player-killing outside of the 10-level range established by the               
-creators of the lands of Exodus will result in the garnering of a              
-wanted flag, and possibly a trial [help justice, help laws].                   
-~
-ExDe place~ [Your place in the world]
-After establishing your persona within the Realms of Exodus, you will
-most likely be tempted to exercise your freedom and broaden your 
-horizens by taking advantage of the many built-in features of the world:
-  
-[Clans]
-Clans are groups of like-minded players that have both the willpower and
-the manpower to organize themselves in objectives that may include
-conquering areas, warring with other clans, and/or promoting 
-a specific goal or cause. See [help clan and clan war].
-  
-[Homes]
-You can establish private sectors for yourself, your clan, or your loved
-one(s) in certain areas in the world of Exodus, for a price. This is best
-done after you have become an experienced adventurer and amassed
-some money. Refer to [help homes] for more information.
-  
-[Transportation]
-The forms of transport in the Realm of Exodus are many and varied.
-Elevator mechanisms coupled with moving battle machines, boats,
-mounts, and magical means of transport are ways to move yourself 
-around all kinds of terrain. For traditionalists, you can also walk to 
-most places. Please read the following files:
-[help boat, help mount, help transportation].
-  
-[Good places to go]
-A good place for newbies to start is the Thesden Animal Exhibition 
-Gardens, informally called the zoo. It is located on Welford Road,
-on the far east side of Thesden. Once the pleasures of the Zoo have 
-begun to pall, you can explore, hunt wabbits!, or satisfy your 
-bloodthirst at Ashton Gardens (near the center of Thesden), or 
-in the Eastern Plains or Sarrendale Farms (outside of the East
-Gate of Thesden).
-~
-End
-
-#O
-Vnum 11533
-Nest 0
-ExtF 8388672
-Cond 0
-Wear 15
-Cost 0
-End
-
-#O
-Vnum 11533
-Nest 0
-ExtF 8388672
-Cond 0
-Wear 14
-Cost 0
-End
-
-#O
-Vnum 20956
-Nest 0
-ExtF 8650753
-Cond 0
-Wear 13
-Cost 0
-End
-
-#O
-Vnum 4099
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4099
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 21079
-Nest 0
-ExtF 8388608
-Cond 0
-Wear 10
-Cost 0
-End
-
-#O
-Vnum 20962
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 20962
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 5617
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 5617
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 21081
-Nest 0
-Cond 0
-Wear -1
-Cost 23
-End
-
-#O
-Vnum 20
-Nest 0
-Cond 0
-Wear -1
-Time 82
-Cost 0
-Val  26 52 240 0 0 0 0
-End
-
-#O
-Vnum 21
-Nest 0
-ExtF 8388609
-Cond 0
-Wear 0
-Cost 0
-End
-
-#O
-Vnum 20976
-Nest 0
-Cond 0
-Wear 11
-Cost 0
-End
-
-#O
-Vnum 4279
-Nest 0
-Cond 0
-Wear 8
-Cost 0
-End
-
-#O
-Vnum 8835
-Nest 0
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 12928
-Nest 0
-ExtF 8650752
-Cond 0
-Wear 12
-Cost 0
-End
-
-#O
-Vnum 554
-Nest 0
-ExtF 8650752
-Cond 0
-Wear 16
-Cost 0
-End
-
-#O
-Vnum 20964
-Nest 0
-Cond 0
-Wear 7
-Cost 140
-End
-
-#O
-Vnum 12918
-Nest 0
-ExtF 8650753
-Cond 0
-Wear 3
-Cost 0
-End
-
-#O
-Vnum 12918
-Nest 0
-Cond 0
-Wear 4
-Cost 2039
-End
-
-#O
-Vnum 12919
-Nest 0
-Cond 0
-Wear 5
-Cost 10
-End
-
-#O
-Vnum 12949
-Nest 0
-Cond 0
-Wear -1
-Cost 100
-End
-
-#O
-Vnum 4096
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 12917
-Nest 0
-ExtF 8388608
-Cond 0
-Wear 6
-Cost 0
-End
-
-#O
-Vnum 4050
-Nest 0
-ExtF 8650752
-Cond 0
-Wear -1
-Cost 0
-End
-
-#O
-Vnum 4450
-Nest 0
-ExtF 76316928
-Cond 0
-Wear 9
-Cost 0
-End
-
-#END
