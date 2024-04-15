@@ -3,7 +3,7 @@ name: Blazor CI/CD
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
