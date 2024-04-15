@@ -11,6 +11,9 @@
   <WarningLevel>0</WarningLevel>
 </PropertyGroup>
 <ItemGroup>
+  <PackageReference Include="FirebaseAdmin" Version="2.4.1" />
+  <PackageReference Include="FirebaseDatabase.net" Version="4.2.0" />
+  <PackageReference Include="LocalStorage" Version="2.1.0" />
   <PackageReference Include="TinyMCE.Blazor" Version="1.0.4" />
 </ItemGroup>
   <ItemGroup>
@@ -35,7 +38,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Storage\" />
+    <Folder Include="Data\Storage\Areas\" />
+    <Folder Include="Services\DataServices\" />
+    <Folder Include="Services\TcpServices\" />
+    <Folder Include="Services\ThemeServices\" />
     <Folder Include="wwwroot\AreaFiles\" />
   </ItemGroup>
 

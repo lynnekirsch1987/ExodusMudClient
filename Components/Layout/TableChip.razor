@@ -1,0 +1,8 @@
+﻿<MudTd>
+    <MudChip Style="@($"background-color: {Colors.Shades.Black};")">
+        @(new MarkupString(ColorHelper.ConvertFromString(ChipContent)))
+    </MudChip>
+</MudTd>
+@code {
+    [Parameter] public string ChipContent { get; set; } = string.Empty;
+}

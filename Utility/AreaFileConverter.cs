@@ -9,6 +9,8 @@ using static ExodusMudClient.Data.Game.Enums;
 using ExodusMudClient.Data.Game.Models;
 using MudBlazor.Charts;
 using System.Text.RegularExpressions;
+using MudBlazor;
+using ExodusMudClient.Data.Static;
 
 namespace ExodusMudClient.Utility
 {
@@ -42,6 +44,7 @@ namespace ExodusMudClient.Utility
                 { Section.MOBILES, ParseMobiles },
                 { Section.ROOMS, ParseRooms },
                 { Section.OBJECTS, ParseObjects },
+                { Section.RESETS, ParseResets },
             };
         }
 
@@ -166,11 +169,6 @@ namespace ExodusMudClient.Utility
             }
             convertedArea.FileName = buffer[1].TrimEnd('~');
             convertedArea.AreaName = buffer[2].TrimEnd('~');
-            var testFileName = convertedArea.FileName;
-
-
-            //{20 60} Hesiod  `oErion Abbey``~
-            //{ 0 60} Hesiod  `oErion Abbey``~
             var buffer3Line = buffer[3].Replace("{ ", "{").TrimEnd('~');
             var buffer3Parts = buffer3Line.Split(' ');
             convertedArea.LowLevel = buffer3Parts[0].Replace("{", "");
@@ -179,7 +177,6 @@ namespace ExodusMudClient.Utility
             convertedArea.VnumsHighLow = buffer[5].TrimEnd('~');
             return convertedArea;
         }
-
         private List<string> ParseLine(string line)
         {
             List<string> parts = new List<string>();
@@ -196,10 +193,11 @@ namespace ExodusMudClient.Utility
 
             return parts;
         }
-
         public AreaFile ParseObjects(List<string> buffer, AreaFile convertedArea)
         {
             AreaFileObject? currentObject = null;
+
+
             var typesWith12Values = new List<ItemType>
                         {
                             ItemType.ITEM_CARD,ItemType.ITEM_OBJ_TRAP,
@@ -227,7 +225,8 @@ namespace ExodusMudClient.Utility
                 {
                     currentObject = new AreaFileObject
                     {
-                        Vnum = line.Replace("#", "")
+                        Vnum = line.Replace("#", ""),
+                        AreaFileName = convertedArea.FileName
                     };
                     propertyNum = 0; // Reset property counter for new object
                     flagsRead = 0;
@@ -274,45 +273,83 @@ namespace ExodusMudClient.Utility
                         currentObject.ClassWearFlags = line;
                         break;
                     case 10:
-                        currentObject.RaceWearFlags = int.Parse(line);
+                        currentObject.RaceWearFlagString = line;
                         break;
                     case 11:
-                        currentObject.ClanWearFlags = int.Parse(line);
+                        currentObject.ClanWearFlagString = line;
                         break;
                     case 28:
                         currentObject.Rarity = int.Parse(line);
                         break;
                     case 33:
+                        // first line containes v0-v4 (5 values total)
+                        // v0 appears to be the same for all types
                         currentObject.Values[0] = parts[0];
-                        currentObject.Values[1] = parts[1];
-                        currentObject.Values[2] = parts[2];
-                        currentObject.Values[3] = parts[3];
-                        currentObject.Values[4] = parts[4];
+                        currentObject.Values[1] = 1 < parts.Count ? parts[1] : "";
+                        currentObject.Values[2] = 2 < parts.Count ? parts[2] : "";
+                        currentObject.Values[3] = 3 < parts.Count ? parts[3] : "";
+                        currentObject.Values[4] = 4 < parts.Count ? parts[4] : "";
+
+                        // some times have V5 on this line for some
+                        // FUCKING REASON
+                        if (currentObject.ItemType == ItemType.ITEM_POTION)
+                        {
+
+                            currentObject.Values[5] = 5 < parts.Count ? parts[5] : "";
+                        }
                         break;
                     case 34:
-                        currentObject.Values[5] = line;
-                        break;
-                    case 35:
-                        currentValueNum = 6;
+                        // all types get a value 5 from the same line
+                        // set it and move on to deal with the next line
+
+                        // if we have not set V5 yet
+                        if (string.IsNullOrEmpty(currentObject.Values[5]))
+                        {
+                            // set v5
+                            currentObject.Values[5] = line;
+
+                            // some items have v6 = v12, check if this is one
+                            if (typesWith12Values.Contains(currentObject.ItemType))
+                            {
+                                // if an item is of one of these types, 
+                                // set our current value to 6 and proceed to
+                                // next line without switching the property
+                                currentValueNum = 6;
+                                continue;
+                            }
+                        }
+
                         if (typesWith12Values.Contains(currentObject.ItemType))
                         {
-                            if (currentValueNum < 12)
+                            // if we got this far, we have an item with all 12 values to fill.
+                            if (currentValueNum <= 12)
                             {
                                 currentObject.Values[currentValueNum] = line;
                                 currentValueNum++;
+
+                                if (currentValueNum == 12)
+                                {
+                                    // do not increment property num
+                                    break;
+                                }
+
                                 continue; // do not increment property num
                             }
                         }
+
+                        // an item with its v5 set and no other values to set
+                        // will immediately move to the next line
                         break;
-                    case 36:
-                        currentObject.Level = int.Parse(parts[0]);
-                        currentObject.Weight = int.Parse(parts[1]);
-                        currentObject.Cost = int.Parse(parts[2]);
-                        currentObject.Condition = parts[3];
+                    case 35:
+                        // all types
+                        // currentObject.Level = int.Parse(parts[0]);
+                        // currentObject.Weight = int.Parse(parts[1]);
+                        // currentObject.Cost = int.Parse(parts[2]);
+                        // currentObject.Condition = parts[3];
                         break;
                 }
-                propertyNum++;
 
+                propertyNum++;
             }
 
             convertedArea.Objects = objects;
@@ -322,6 +359,7 @@ namespace ExodusMudClient.Utility
         {
             convertedArea.Rooms ??= new List<AreaFileRoom>();
             var room = new AreaFileRoom();
+            room.AreaFileName = convertedArea.FileName;
             int propertyNum = 0;
 
             foreach (var line in buffer)
@@ -364,12 +402,10 @@ namespace ExodusMudClient.Utility
                     case 7:
                         if (line.StartsWith("~"))
                         {
-                            room.RoomDescription = RoomDescription.ToString();
-                            RoomDescription.Clear();
                             break;
                         }
 
-                        RoomDescription.Append(line);
+                        room.RoomDescription += line;
                         continue; // move to next line without incrementing property number
                     case 8:
                         room.AreaNumber = Convert.ToInt32(string.IsNullOrEmpty(parts[0]) ? 0 : parts[0]);
@@ -584,17 +620,82 @@ namespace ExodusMudClient.Utility
                 SidesOfDice = int.Parse(numSides)
             };
         }
-        /**
-    //public void ParseObjects(List<string> buffer) { }
-          //public void ParseRooms(List<string> buffer) { }
-          //public void ParseResets(List<string> buffer) { }
-          //public void ParseShops(List<string> buffer) { }
-          //public void ParseSpecials(List<string> buffer) { }
 
-          //public void SaveAreaToJson(string outputFilePath) {
-          //    var json = JsonConvert.SerializeObject(ConvertedArea,Formatting.Indented);
-          //    File.WriteAllText(outputFilePath,json);
-          //}
-        */
+
+        public AreaFile ParseResets(List<string> buffer, AreaFile convertedArea)
+        {
+            convertedArea.Resets ??= new List<AreaFileReset>();
+            var reset = new AreaFileReset();
+            reset.AreaFileName = convertedArea.FileName;
+
+            foreach (var line in buffer)
+            {
+                if (line.StartsWith("S") || string.IsNullOrEmpty(line))
+                {
+                    // end of resets
+                    continue;
+                }
+
+
+
+                // Split the line at the comment marker '*'
+                var partsA = line.Replace("\t", "").Split(new char[] { '*' }, 2);  // Using 2 as the limit parameter to ensure only one split at the first '*'
+
+                // Split the first part by any number of white spaces, trimming out empty entries
+                var parts = partsA[0].Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                reset = new AreaFileReset
+                {
+                    virtualNumber = int.Parse(parts[2]),
+                    maxInWorld = int.Parse(parts[3]),
+                    resetTargetVirtualNumber = int.Parse(4 < parts.Length ? parts[4] : "0"),
+                    maxInRoom = int.Parse(5 < parts.Length ? parts[5] : "0"),
+                    comment = partsA[1 < partsA.Length ? 1 : 0].Trim()
+                };
+
+                switch (parts[0])
+                {
+                    case "M":
+                        //'M': Load a mob into a room.
+                        //M 0 7908   1 7927  1	* The cooper
+                        // ignore 0. vnum
+                        reset.resetType = ResetType.MobInRoom;
+                        break;
+                    case "O":
+                        //'O': Place an object in a room and increment its reset count.
+                        //O 0 7917   0 7957 1	* ``a steel autopsy table at The Morgue
+                        reset.resetType = ResetType.MobInRoom;
+                        break;
+                    case "P":
+                        //'P': Put an object inside another object, again incrementing the reset count.
+                        //P 0 7924 -1 7923 1
+                        reset.resetType = ResetType.ObjectInObject;
+                        break;
+                    //'G' or 'E': Equip a mob with an object or give an object to a mob directly, incrementing the object’s reset count.
+                    case "G":
+                        //G 0 7903 -1		* A bottle of leather polish to The stable master
+                        reset.resetType = ResetType.GiveObj;
+                        break;
+                    case "E":
+                        //E 0 7902   -1   16	* item to The stable master
+                        reset.resetType = ResetType.EquipObj;
+                        reset.locationOnBody = int.Parse(parts[4]);
+                        break;
+                    case "D":
+                        //'D': Set the state of a door in a room.
+                        //D 0 7949   2    1	* The Abbey Cemetery [south]
+                        reset.exit = (Directions)int.Parse(parts[3]);
+                        reset.doorState = int.Parse(parts[4]);
+                        reset.resetType = ResetType.DoorToRoom;
+                        break;
+                    default:
+                        break;
+                }
+
+
+                convertedArea.Resets.Add(reset);
+            }
+
+            return convertedArea;
+        }
     }
 }

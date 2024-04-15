@@ -10,7 +10,7 @@ namespace ExodusMudClient.Utility
 
             foreach (var selector in propertySelectors)
             {
-                var propValue = selector(element) ?? ""; // Direct invocation, no Compile() needed
+                var propValue = selector(element) ?? "";
 
                 if (propValue.Contains(searchString, StringComparison.OrdinalIgnoreCase))
                     return true;

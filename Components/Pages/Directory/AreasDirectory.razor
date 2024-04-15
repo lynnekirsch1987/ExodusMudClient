@@ -1,0 +1,58 @@
+﻿@page "/Directory/Areas"
+@inject StateContainer _state;
+@inject DirectoryBusinessLogic _controller;
+
+<!-- ENTRY TABLE -->
+<MudTable Items="@_controller.Areas" Dense="@true" Hover="@true" Bordered="@true" FixedHeader="@true" RowsPerPage="500"
+    FixedFooter="@true" Height="@("83vh")" Filter="new Func<AreaFile, bool>(_controller.AreaListFilter)" Class="mb-5">
+
+    <!-- TOOLBAR -->
+    <ToolBarContent>
+        <MudTextField @bind-Value="_controller.searchString" Placeholder="Search" Adornment="Adornment.Start"
+            AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
+        </MudTextField>
+    </ToolBarContent>
+
+    <!-- <THEAD> -->
+    <HeaderContent>
+        <MudTh>Area</MudTh>
+        <MudTh>Filename</MudTh>
+        <MudTh>Mobiles</MudTh>
+        <MudTh>Rooms</MudTh>
+        <MudTh>Objects</MudTh>
+        <MudTh>Resets</MudTh>
+    </HeaderContent>
+
+    <!-- <TBODY>-->
+    <RowTemplate>
+        <TableChip ChipContent="@($"{context.AreaName}")" />
+        <TableChip ChipContent="@($"{context.FileName}")" />
+        <TableChip ChipContent="@($"{context.Mobiles?.Count()}")" />
+        <TableChip ChipContent="@($"{context.Rooms?.Count()}")" />
+        <TableChip ChipContent="@($"{context.Objects?.Count()}")" />
+        <TableChip ChipContent="@($"{context.Resets?.Count()}")" />
+    </RowTemplate>
+
+    <!-- PAGER -->
+    <PagerContent>
+        <MudTablePager />
+    </PagerContent>
+</MudTable>
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        _state.StateChangedAsync += StateHasChangedAsync;
+    }
+
+
+    private async Task StateHasChangedAsync()
+    {
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        _state.StateChangedAsync -= StateHasChangedAsync;
+    }
+}

@@ -1,0 +1,125 @@
+﻿@page "/Help/Edit"
+@inject HelpEditorBusinessLogic _controller;
+@inject StateContainer _state;
+<!-- EDIT FORM -->
+<!-- If we've got a selected help, display the form -->
+
+@if (_controller.selectedHelp != null)
+{
+    <!-- EDITOR -->
+    <Editor Conf="@_controller.editorConfig" Id="HelpTextEditor" 
+        @bind-Value="_controller.selectedHelp.HelpText" ApiKey="@_controller.tinyMCEkey" />
+
+    <!-- TAGS -->
+    <MudText Typo="Typo.h6" Color="Color.Secondary" Class="mt-4">Search Tags</MudText>
+    <MudPaper Elevation="1" Class="pa-4">
+        <MudTextField @ref=_controller.searchTagInput Immediate="true" @bind-Value=_controller.NewSearchTag Label="Add Search Tag" Class="mb-4" OnKeyUp="_controller.HandleSearchTagAdd"></MudTextField>
+        @if (_controller.selectedHelp.Tags != null)
+        {
+            foreach (var tag in _controller.selectedHelp.Tags)
+            {
+                <MudChip Color="Color.Primary" OnClose="@(() => _controller.RemoveTag(tag))">@tag</MudChip>
+            }
+        }
+    </MudPaper>
+    
+    <!-- RELATED TAGS -->
+    <MudText Typo="Typo.h6" Color="Color.Secondary" Class="mt-4">Related Tags</MudText>
+    <MudPaper Elevation="1" Class="pa-4">
+        <MudTextField @ref=_controller.relatedTagInput Immediate="true" @bind-Value=_controller.NewRelatedTag Label="Add Related Tag" Class="mb-4" OnKeyUp="_controller.HandleRelatedTagAdd"></MudTextField>
+        @if (_controller.selectedHelp.RelatedTags != null) {
+            foreach (var tag in _controller.selectedHelp.RelatedTags)
+            {
+                <MudChip Color="Color.Primary" OnClose="@(() => _controller.RemoveRelatedTag(tag))">@tag</MudChip>
+            }
+        }
+    </MudPaper>
+
+
+    <!-- CATEGORY -->
+    <MudText Typo="Typo.h6" Color="Color.Secondary" Class="mt-4">Category</MudText>
+    <MudSelect @bind-Value="_controller.selectedHelp.Category" T="string" AnchorOrigin="Origin.BottomCenter">
+        @foreach (var cat in HelpCategories.Categories)
+        {
+            <MudSelectItem T="string" Value="cat" />
+        }
+    </MudSelect>
+
+
+    <!-- SAVE ACTION -->
+    <MudButton Class="mt-4 mb-4" Color="Color.Primary" Variant="Variant.Filled" OnClick="_controller.SaveHelp">Save & Close</MudButton>
+}
+
+<!-- END EDIT FORM -->
+
+
+@if(_controller.selectedHelp == null) {
+<!-- ENTRY TABLE -->
+<MudTable Items="@_controller._helpEntries" Dense="@true" Hover="@true" Bordered="@true" FixedHeader="@true"
+    Filter="new Func<HelpEntry, bool>(_controller.HelpEntryFilter)" Class="mb-5">
+
+    <!-- TOOLBAR -->
+    <ToolBarContent>
+        <MudTextField @bind-Value="_controller.searchString" Placeholder="Search" Adornment="Adornment.Start"
+            AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
+        </MudTextField>
+    </ToolBarContent>
+
+    <!-- <THEAD> -->
+    <HeaderContent>
+        <MudTh>Tags</MudTh>
+        <MudTh>Related</MudTh>
+        <MudTh>Category</MudTh>
+        <MudTh Style="width: 1%;"></MudTh>
+        <MudTh Style="width: 1%;"></MudTh>
+    </HeaderContent>
+
+    <!-- <TBODY>-->
+    <RowTemplate>
+        <MudTd>@(context.Tags == null ? "" : string.Join(", ", context.Tags))</MudTd>
+        <MudTd>@string.Join(", ", context.RelatedTags)</MudTd>
+        <MudTd>@context.Category</MudTd>
+        <MudTd>
+            <MudIconButton Icon="@Icons.Material.Filled.Delete"></MudIconButton>
+        </MudTd>
+        <MudTd>
+            <MudIconButton Icon="@Icons.Material.Filled.Edit"
+                OnClick="@(EventCallback.Factory.Create(this, () => _controller.EditHelpFile(context)))">
+            </MudIconButton>
+        </MudTd>
+    </RowTemplate>
+
+    <!-- PAGER -->
+    <PagerContent>
+        <MudTablePager />
+    </PagerContent>
+</MudTable>
+}
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        _state.StateChangedAsync += StateHasChangedAsync;
+
+var config = new Dictionary<string, object>
+{
+    {"plugins", "print preview paste importcss searchreplace autolink autosave save directionality code visualblocks visualchars fullscreen image link media template codesample table charmap hr pagebreak nonbreaking anchor toc insertdatetime advlist lists wordcount imagetools textpattern noneditable help charmap quickbars emoticons"},
+    {"toolbar", "undo redo | bold italic underline strikethrough | fontselect fontsizeselect formatselect | alignleft aligncenter alignright alignjustify | outdent indent |  numlist bullist | forecolor backcolor removeformat | pagebreak | charmap emoticons | fullscreen  preview save print | insertfile image media template link anchor codesample | ltr rtl"},
+    {"toolbar_sticky", true},
+    {"toolbar_mode", "sliding"},
+    {"skin", "oxide-dark"}
+};
+
+        _controller.editorConfig = config;
+        await _controller.LoadHelpEntries();
+    }
+
+    private async Task StateHasChangedAsync()
+    {
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        _state.StateChangedAsync -= StateHasChangedAsync;
+    }
+}

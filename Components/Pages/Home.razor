@@ -8,12 +8,51 @@
 
 
 
-<MudCarousel Class="mud-width-full" Style="height:440px;" ShowArrows="@arrows" ShowBullets="@bullets"
-    EnableSwipeGesture="@enableSwipeGesture" AutoCycle="@autocycle" TData="object">
-    <MudCarouselItem Transition="transition" Color="@Color.Primary">
-        <MudImage Src="@("/hero3.jpg")" ObjectFit="ObjectFit.Contain" Fluid="true" Class="w-100"></MudImage>
-    </MudCarouselItem>
-</MudCarousel>
+<MudImage Src="@("/hero3.jpg")" ObjectFit="ObjectFit.Contain" Fluid="true" Class="w-100"></MudImage>
+<MudDivider Class="mt-5 mb-5"></MudDivider>
+<MudText Typo="Typo.h3" Align="Align.Center">Welcome to the Official Exodus Mud Website!</MudText>
+<MudText Typo="Typo.body1" Align="Align.Center">Please pardon our dust.</MudText>
+<MudDivider Class="mt-5 mb-5"></MudDivider>
+<MudGrid>
+    <MudItem xs="12" lg="4">
+        <MudPaper Style="margin: auto;">
+            <MudText Typo="Typo.body1" Class="pa-2">Currently working on</MudText>
+            <MudDivider Class="mb-2"></MudDivider>
+            <MudList Clickable="true">
+                <MudListItem Text="Finishing Knowledge Base" Icon="@Icons.Material.Filled.Circle" />
+                <MudListItem Text="Completing Area/Object Directory" Icon="@Icons.Material.Filled.Circle" />
+                <MudListItem Text="Creating User Accounts" Icon="@Icons.Material.Filled.Circle" />
+            </MudList>
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="12" lg="4">
+        <MudPaper Style="margin: auto;">
+            <MudText Typo="Typo.body1" Class="pa-2">Further down the pipeline</MudText>
+            <MudDivider Class="mb-2"></MudDivider>
+            <MudList Clickable="true">
+                <MudListItem Text="Search & view characters" Icon="@Icons.Material.Filled.Circle" />
+                <MudListItem Text="Check in-game notes on app" Icon="@Icons.Material.Filled.Circle" />
+                <MudListItem Text="Write helpfiles back to game" Icon="@Icons.Material.Filled.Circle" />
+            </MudList>
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="12" lg="4">
+        <MudPaper Style="margin: auto;">
+            <MudText Typo="Typo.body1" Class="pa-2">Even further</MudText>
+            <MudDivider Class="mb-2"></MudDivider>
+            <MudList Clickable="true">
+                <MudListItem Text="In-app game client" Icon="@Icons.Material.Filled.Circle" />
+                <MudListItem Text="Push notifications" Icon="@Icons.Material.Filled.Circle" />
+                <MudListItem Text="Profiles" Icon="@Icons.Material.Filled.Circle" />
+            </MudList>
+        </MudPaper>
+    </MudItem>
+</MudGrid>
+<MudDivider Class="mt-5 mb-2"></MudDivider>
+<MudText Typo="Typo.body1" Align="Align.Center" Color="Color.Primary">The journey to resurrecting this game so far has
+    been extremely
+    rewarding, and I can't wait to see where this takes us. - Sallana</MudText>
+<MudDivider Class="mt-2 mb-5"></MudDivider>
 @code {
     private bool arrows = true;
     private bool bullets = true;

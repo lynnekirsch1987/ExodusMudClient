@@ -1,0 +1,89 @@
+﻿@page "/Directory/Mobiles"
+@inject StateContainer _state;
+@inject DirectoryBusinessLogic _controller;
+
+<!-- ENTRY TABLE -->
+<MudTable RowsPerPage="500" Items="@_controller.Mobiles" Dense="@true" Hover="@true" Bordered="@true"
+    FixedHeader="@true" FixedFooter="@true" Height="@("83vh")"
+    Filter="new Func<AreaFileMobile, bool>(_controller.MobListFilter)" Class="mb-5">
+
+    <!-- TOOLBAR -->
+    <ToolBarContent>
+        <MudTextField @bind-Value="_controller.searchString" Placeholder="Search" Adornment="Adornment.Start"
+            AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
+        </MudTextField>
+    </ToolBarContent>
+
+    <!-- <THEAD> -->
+    <HeaderContent>
+        <MudTh>vnum</MudTh>
+        <MudTh>Area</MudTh>
+        <MudTh>Name</MudTh>
+        <MudTh>Short</MudTh>
+        <MudTh>Spawn Room(s)</MudTh>
+        <MudTh>Drops</MudTh>
+    </HeaderContent>
+
+    <!-- <TBODY>-->
+    <RowTemplate>
+        <TableChip ChipContent="@context.Vnum.ToString()" />
+        <TableChip ChipContent="@context.Area?.AreaName" />
+        <TableChip ChipContent="@context.NameForTargeting" />
+        <TableChip ChipContent="@context.ShortDescription" />
+
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">
+            <MudText>
+                @for (int i = 0; i < context.SpawnRooms.Count; i++)
+                {
+                    var room = context.SpawnRooms[i];
+
+                    <MudTooltip Style="@($"background-color: {Colors.Shades.Black};")">
+                        <ChildContent>
+                            [@room.Vnum]&nbsp;
+                        </ChildContent>
+                        <TooltipContent>
+                            @(new MarkupString(ColorHelper.ConvertFromString(room.RoomName)))
+                        </TooltipContent>
+                    </MudTooltip>
+                }
+            </MudText>
+
+        </MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2};")">
+            @for (int i = 0; i < context.Drops.Count; i++)
+            {
+                var drop = context.Drops[i];
+                <MudTooltip Style="@($"background-color: {Colors.Shades.Black};")">
+                    <ChildContent>
+                        [@drop.Vnum]&nbsp;
+                    </ChildContent>
+                    <TooltipContent>
+                        @(new MarkupString(ColorHelper.ConvertFromString(drop.ShortDescription)))
+                    </TooltipContent>
+                </MudTooltip>
+            }
+        </MudTd>
+    </RowTemplate>
+
+    <!-- PAGER -->
+    <PagerContent>
+        <MudTablePager />
+    </PagerContent>
+</MudTable>
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        _state.StateChangedAsync += StateHasChangedAsync;
+    }
+
+
+    private async Task StateHasChangedAsync()
+    {
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        _state.StateChangedAsync -= StateHasChangedAsync;
+    }
+}

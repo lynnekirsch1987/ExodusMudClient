@@ -199,6 +199,7 @@ medium iron~
 fakepipe~
 An iron pipe snakes up to the open hatch and~
 ~
+-
 ~
 human~
 0 0 0 0
@@ -15197,7 +15198,8 @@ echo The winch creaks as the man lowers the basket back into the darkness below.
 1
 echo As the wincher slows down in his efforts he suddenly gasps and doubles the speed of his l
 
-abor.~
+
+abor.~
 100
 30
 (null)~
@@ -16222,7 +16224,8 @@ force blixfog say `kThey like to hide, so you will have to call to them.``~
 3
 force blixfog say `kIf you suspect that they are in a room, just say`d Hottentott`k and they w
 
-ill show themselves.``~
+
+ill show themselves.``~
 100
 3
 force blixfog say `kIf you want a hint to where they could be hiding, check the compass.``~
@@ -16317,7 +16320,8 @@ force kingston say `kAll strong and powerful Knights Loyal to the King!``~
 4
 force kingston say `kSlay the dragon and save the beautiful princess and get a handsome reward
 
-!``~
+
+!``~
 100
 2
 (null)~
@@ -16541,7 +16545,8 @@ at 9251 set obj slippertrigger objtrig 9230~
 0
 at 9248 string obj compasstrigger long A brass compass that sits on a wooden table here points
 
- north-east.~
+
+ north-east.~
 100
 0
 at 9251 set obj slippertrigger objtrig 9230~
@@ -16552,7 +16557,8 @@ at 9260 set obj slippertrigger objtrig 9230~
 0
 at 9248 string obj compasstrigger long A brass compass that sits on a wooden table here points
 
- south-west.~
+
+ south-west.~
 100
 0
 at 9260 set obj slippertrigger objtrig 9230~
@@ -16563,7 +16569,8 @@ at 9255 set obj slippertrigger objtrig 9230~
 0
 at 9248 string obj compasstrigger long A brass compass that sits on a wooden table here points
 
- south.~
+
+ south.~
 100
 0
 at 9255 set obj slippertrigger objtrig 9230~
@@ -16592,7 +16599,8 @@ $whenpulled~
 68
 trecho $name As $name pulls a book, the bookshelf holding it turns and reveals a secret entran
 
-ce.~
+
+ce.~
 100
 1
 pecho $name As you pull the book, the bookshelf rotates and a secret entrance is revealed.~
@@ -16651,7 +16659,8 @@ damage $name 200 `bA corrosive mist whirls into your face, making your skin melt
 0
 trecho $name `bA corrosive mist whirls out of the test tube rack and $name screams as it eats
 
-$s skin.``~
+
+$s skin.``~
 100
 0
 (null)~
@@ -16710,7 +16719,8 @@ trecho $name Stopping suddenly, $name starts laughing and tearing $s hair.~
 0
 trecho $name Chuckling to $mself, $name mutters`a '`cI will NOT let them get me! I better kill
 
- them while they sleep...`a'``~
+
+ them while they sleep...`a'``~
 5
 0
 trecho $name $name says`a '`kYou will soon die... I will attack when you least expect it`a'``~

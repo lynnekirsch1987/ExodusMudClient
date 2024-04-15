@@ -1,30 +1,45 @@
 ﻿@inject NavigationManager NavManager
+@inject StateContainer _state
 @implements IDisposable
 
 <MudNavMenu Color="Color.Success" Bordered="true">
-    @if (NavManager.Uri.Contains("/AreaExplorer"))
+    <MudDivider Class="mb-2"></MudDivider>
+    <MudNavLink Href="/" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.Home">Home</MudNavLink>
+    <MudNavLink Href="https://discord.gg/h6NZDdU8" Target="new" Icon="@Icons.Custom.Brands.Discord">
+        Discord
+    </MudNavLink>
+    <MudNavLink Href="/Play" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.QueuePlayNext">Play</MudNavLink>
+    <MudNavLink Href="/Help" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.Help">Knowledge Base
+    </MudNavLink>
+
+    <MudDivider Class="mt-2"></MudDivider>
+    <MudText Typo="Typo.subtitle1" Class="pl-3 pt-2 pb-2">Directory</MudText>
+    <MudDivider Class="mb-2"></MudDivider>
+    <MudPaper Elevation="0" Class="pl-5">
+        <MudNavLink Href="Directory/Areas" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Map">Areas
+        </MudNavLink>
+        <MudNavLink Href="Directory/Mobiles" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.PersonSearch">
+            Mobiles
+        </MudNavLink>
+        <MudNavLink Href="Directory/Objects" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Colorize">
+            Objects
+        </MudNavLink>
+
+    </MudPaper>
+    <MudDivider Class="mt-2"></MudDivider>
+    <MudText Typo="Typo.subtitle1" Class="pl-3 pt-2 pb-2">Staff Tools</MudText>
+    <MudDivider Class="mb-2"></MudDivider>
+    @if (!_state.IsAuthenticated)
     {
-        <MudNavLink Href="AreaExplorer" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Area Explorer
+        <MudNavLink Href="/Staff/Login" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.QueuePlayNext">
+            Login
         </MudNavLink>
-        <MudDivider></MudDivider>
-        <MudText Typo="Typo.subtitle1" Class="pl-3">Search</MudText>
-        <MudDivider></MudDivider>
-        <MudNavLink Href="AreaExplorer/areas" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Areas
-        </MudNavLink>
-        <MudNavLink Href="AreaExplorer/mobs" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Mobiles
-        </MudNavLink>
-        <MudNavLink Href="AreaExplorer/objects" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Objects
-        </MudNavLink>
-        <MudNavLink Href="AreaExplorer/triggers" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Object
-            Triggers</MudNavLink>
-        <MudNavLink Href="AreaExplorer/vocabs" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Mob Vocabs
-        </MudNavLink>
-        <MudNavLink Href="AreaExplorer/scripts" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Storage">Mob
-            Scripts</MudNavLink>
     }
     else
     {
-        <MudNavLink Href="/" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.Dashboard">Home</MudNavLink>
+        <MudNavLink Href="/Help/Edit" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.QueuePlayNext">
+            Help Editor
+        </MudNavLink>
     }
 </MudNavMenu>
 
@@ -32,9 +47,15 @@
     protected override void OnInitialized()
     {
         NavManager.LocationChanged += HandleLocationChanged;
+        _state.StateChangedAsync += UpdateState;
     }
 
     private void HandleLocationChanged(object? sender, Microsoft.AspNetCore.Components.Routing.LocationChangedEventArgs e)
+    {
+        InvokeAsync(StateHasChanged);
+    }
+
+    private async Task UpdateState()
     {
         InvokeAsync(StateHasChanged);
     }

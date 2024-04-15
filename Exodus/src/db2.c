@@ -500,40 +500,60 @@ void load_mobiles(FILE *fp) {
   return;
 }
 
+int GetObjCondition(char letter) {
+  switch (letter) {
+  case ('P'):
+    return 100;
+  case ('G'):
+    return 90;
+    break;
+  case ('A'):
+    return 75;
+    break;
+  case ('W'):
+    return 50;
+    break;
+  case ('D'):
+    return 25;
+    break;
+  case ('B'):
+    return 10;
+    break;
+  case ('R'):
+    return 1;
+    break;
+  default:
+    return 100;
+    break;
+  }
+}
 /*
  * Snarf an obj section. new style
  */
-// updated by sallana 2024
 void load_objects(FILE *fp) {
-  OBJ_INDEX_DATA *pObjIndex;
-  int iHash, vnum, x, i, tsn;
-  char letter, *word, *riname;
-
-#ifdef VERBOSE_BOOT
-  log_string("Loading objects...");
-#endif
-
   if (!area_last) {
     bug("Load_objects: no #AREA seen yet.", 0);
     exit(1);
   }
-
   for (;;) {
+    sh_int vnum;
+    char letter;
+    int iHash;
     letter = fread_letter(fp);
     if (letter != '#') {
       bug("Load_objects: # not found.", 0);
       exit(1);
     }
-
     vnum = fread_number(fp);
     if (vnum == 0)
       break;
-
-    if (get_obj_index(vnum)) {
+    fBootDb = FALSE;
+    if (get_obj_index(vnum) != NULL) {
       bug("Load_objects: vnum %d duplicated.", vnum);
       exit(1);
     }
 
+    fBootDb = TRUE;
     pObjIndex = alloc_perm(sizeof(*pObjIndex));
     pObjIndex->vnum = vnum;
     pObjIndex->area = area_last;
@@ -544,7 +564,8 @@ void load_objects(FILE *fp) {
     pObjIndex->description = fread_string(fp);
     pObjIndex->material = fread_string(fp);
     pObjIndex->timer = fread_number(fp);
-    pObjIndex->item_type = item_lookup(fread_word(fp));
+    riname = fread_word(fp);
+    pObjIndex->item_type = item_lookup(riname);
 
     if (area_last->version >= AREA_VER_EXTRA_FLAGS) {
       x = fread_number(fp);
@@ -557,98 +578,218 @@ void load_objects(FILE *fp) {
 
     pObjIndex->wear_flags = fread_flag(fp);
 
-    // Load Class/race specific equipment if supported by area version
     if (area_last->version >= AREA_VER_CLASSRACE) {
       pObjIndex->Class_flags = fread_flag(fp);
       pObjIndex->race_flags = fread_flag(fp);
       pObjIndex->clan_flags = fread_flag(fp);
     }
 
-    // Load object triggers if supported by area version
     if (area_last->version == AREA_VER_OBJTRIG) {
       pObjIndex->obj_trig_vnum[0] = fread_number(fp);
       for (i = 1; i < MAX_OBJ_TRIGS; i++)
         pObjIndex->obj_trig_vnum[i] = 0;
     } else if (area_last->version >= AREA_VER_OBJTRIG2) {
-      for (i = 0; i < MAX_OBJ_TRIGS; i++) {
+      for (i = 0; i < MAX_OBJ_TRIGS; i++)
         pObjIndex->obj_trig_vnum[i] = fread_number(fp);
-      }
     }
 
-    // Continue loading other properties
     pObjIndex->rarity = fread_number(fp);
     pObjIndex->string1 = fread_string(fp);
     pObjIndex->string2 = fread_string(fp);
     pObjIndex->string3 = fread_string(fp);
     pObjIndex->string4 = fread_string(fp);
-    load_object_values(fp, pObjIndex);
+    pObjIndex->value[0] = fread_flag(fp);
+    switch (pObjIndex->item_type) {
+    default:
+      pObjIndex->value[1] = fread_flag(fp);
+      pObjIndex->value[2] = fread_flag(fp);
+      pObjIndex->value[3] = fread_flag(fp);
+      pObjIndex->value[4] = fread_flag(fp);
+      break;
+    case ITEM_PILL:
+    case ITEM_SCROLL:
+    case ITEM_POTION:
+      for (x = 1; x < 5; x++) {
+        word = fread_word(fp);
+        if ((tsn = atoi(word)) == 0 && word[0] != '0')
+          tsn = skill_lookup(word);
+        pObjIndex->value[x] = tsn;
+      }
+      break;
+    case ITEM_WAND:
+    case ITEM_STAFF:
+      pObjIndex->value[1] = fread_flag(fp);
+      pObjIndex->value[2] = fread_flag(fp);
+      pObjIndex->value[3] = fread_flag(fp);
+      word = fread_word(fp);
+      if ((tsn = atoi(word)) == 0 && word[0] != '0')
+        tsn = skill_lookup(word);
+      pObjIndex->value[4] = tsn;
+      break;
+    case ITEM_CLAN_DONATION:
 
-    // Assign the newly created object index
+      pObjIndex->value[1] = fread_flag(fp);
+      pObjIndex->value[1] = CLAN_BOGUS;
+      pObjIndex->value[2] = fread_flag(fp);
+      pObjIndex->value[3] = fread_flag(fp);
+      pObjIndex->value[4] = fread_flag(fp);
+      break;
+    case ITEM_NEWCLANS_DBOX:
+
+      word = fread_string(fp);
+      pObjIndex->value[1] = clanname_to_slot(word);
+      pObjIndex->value[2] = fread_flag(fp);
+      pObjIndex->value[3] = fread_flag(fp);
+      pObjIndex->value[4] = fread_flag(fp);
+      break;
+    }
+
+// new line
+    pObjIndex->value[5] = fread_flag(fp);
+
+    if (pObjIndex->item_type == ITEM_CARD) {
+      word = fread_word(fp);
+      if ((tsn = atoi(word)) == 0 && word[0] != '0')
+        tsn = skill_lookup(word);
+      pObjIndex->value[6] = tsn;
+      pObjIndex->value[7] = fread_flag(fp);
+      pObjIndex->value[8] = fread_flag(fp);
+      pObjIndex->value[9] = fread_flag(fp);
+      pObjIndex->value[10] = fread_flag(fp);
+      pObjIndex->value[11] = fread_flag(fp);
+      pObjIndex->value[12] = fread_flag(fp);
+    } else if (pObjIndex->item_type == ITEM_OBJ_TRAP ||
+               pObjIndex->item_type == ITEM_ROOM_TRAP ||
+               pObjIndex->item_type == ITEM_PORTAL_TRAP) {
+      pObjIndex->value[6] = fread_flag(fp);
+      pObjIndex->value[7] = fread_flag(fp);
+      pObjIndex->value[8] = fread_flag(fp);
+      pObjIndex->value[9] = fread_flag(fp);
+      pObjIndex->value[10] = fread_flag(fp);
+      pObjIndex->value[11] = fread_flag(fp);
+      pObjIndex->value[12] = fread_flag(fp);
+
+    } else {
+      pObjIndex->value[6] = fread_flag(fp);
+    }
+
+    if (pObjIndex->item_type == ITEM_WEAPON) {
+      if (pObjIndex->value[3] < 0 || pObjIndex->value[3] > 39) {
+        pObjIndex->value[3] = 0;
+        SET_BIT(area_last->area_flags, AREA_CHANGED);
+      }
+    }
+
+    pObjIndex->level = fread_number(fp);
+    pObjIndex->weight = fread_number(fp);
+    pObjIndex->cost = fread_number(fp);
+
+    /* condition */
+    letter = fread_letter(fp);
+    pObjIndex->condition = GetObjCondition(letter);
+
+    for (;;) {
+      char letter;
+      letter = fread_letter(fp);
+      if (letter == 'A') {
+        AFFECT_DATA *paf;
+        paf = alloc_perm(sizeof(*paf));
+        paf->where = TO_OBJECT;
+        paf->type = -1;
+        paf->level = pObjIndex->level;
+        paf->duration = -1;
+        paf->location = fread_number(fp);
+        paf->modifier = fread_number(fp);
+        paf->bitvector = 0;
+        paf->composition = FALSE;
+        paf->comp_name = str_dup("");
+        paf->next = pObjIndex->affected;
+        pObjIndex->affected = paf;
+        top_affect++;
+      } else if (letter == 'S') {
+        AFFECT_DATA *paf;
+        paf = alloc_perm(sizeof(*paf));
+
+        paf->where = fread_number(fp);
+        paf->type = fread_number(fp);
+        paf->level = fread_number(fp);
+        paf->duration = fread_number(fp);
+        paf->modifier = fread_number(fp);
+        if (paf->where == TO_SKILL) {
+          int sn = sn = exact_skill_lookup(fread_word(fp));
+          if (sn < 0) {
+            bug("Fread_obj_index: On item %d unknown skill.", pObjIndex->vnum);
+            paf->location = 1;
+          } else
+            paf->location = sn;
+        } else
+          paf->location = fread_number(fp);
+        paf->bitvector = fread_number(fp);
+        paf->composition = FALSE;
+        paf->comp_name = str_dup("");
+        paf->next = pObjIndex->affected;
+        pObjIndex->affected = paf;
+        top_affect++;
+      }
+
+      else if (letter == 'F') {
+        AFFECT_DATA *paf;
+        paf = alloc_perm(sizeof(*paf));
+        letter = fread_letter(fp);
+        switch (letter) {
+        case 'A':
+          paf->where = TO_AFFECTS;
+          break;
+        case 'I':
+          paf->where = TO_IMMUNE;
+          break;
+        case 'R':
+          paf->where = TO_RESIST;
+          break;
+        case 'V':
+          paf->where = TO_VULN;
+          break;
+        default:
+          bug("Load_objects: Bad where on flag set.", 0);
+          exit(1);
+        }
+        paf->type = -1;
+        paf->level = pObjIndex->level;
+        paf->duration = -1;
+        paf->location = fread_number(fp);
+        paf->modifier = fread_number(fp);
+        paf->bitvector = fread_flag(fp);
+        paf->composition = FALSE;
+        paf->comp_name = str_dup("");
+        paf->next = pObjIndex->affected;
+        pObjIndex->affected = paf;
+        top_affect++;
+      } else if (letter == 'E') {
+        EXTRA_DESCR_DATA *ed;
+        ed = alloc_perm(sizeof(*ed));
+        ed->keyword = fread_string(fp);
+        ed->description = fread_string(fp);
+        ed->next = pObjIndex->extra_descr;
+        pObjIndex->extra_descr = ed;
+        top_ed++;
+      } else {
+        if (is_encrypted) {
+          if (letter > 8 && letter < 127) {
+            letter = letter + enc_shift;
+            if (letter > 126)
+              letter = (letter - 126) + 8;
+          }
+        }
+        ungetc(letter, fp);
+        break;
+      }
+    }
     iHash = vnum % MAX_KEY_HASH;
     pObjIndex->next = obj_index_hash[iHash];
     obj_index_hash[iHash] = pObjIndex;
     top_obj_index++;
-    assign_area_vnum(vnum); // OLC
+    top_vnum_obj = top_vnum_obj < vnum ? vnum : top_vnum_obj;
+    assign_area_vnum(vnum);
   }
-}
-
-// load objects cont
-void load_object_values(FILE *fp, OBJ_INDEX_DATA *pObjIndex) {
-  char *word;
-  int tsn, x;
-
-  pObjIndex->value[0] = fread_flag(fp);
-
-  switch (pObjIndex->item_type) {
-  case ITEM_PILL:
-  case ITEM_SCROLL:
-  case ITEM_POTION:
-    // Loading spell index or 0 if not found
-    for (x = 1; x <= 4; ++x) {
-      word = fread_word(fp);
-      tsn = skill_lookup(word);
-      pObjIndex->value[x] = (tsn >= 0) ? tsn : 0;
-    }
-    break;
-  case ITEM_WAND:
-  case ITEM_STAFF:
-    for (x = 1; x <= 3; ++x) {
-      pObjIndex->value[x] = fread_flag(fp);
-    }
-    word = fread_word(fp);
-    tsn = skill_lookup(word);
-    pObjIndex->value[4] = (tsn >= 0) ? tsn : 0;
-    break;
-  case ITEM_CLAN_DONATION:
-  case ITEM_NEWCLANS_DBOX:
-    // Specific logic for clan donation boxes and new clan donation boxes
-    for (x = 1; x <= 4; ++x) {
-      pObjIndex->value[x] = fread_flag(fp);
-    }
-    break;
-  case ITEM_CARD:
-  case ITEM_OBJ_TRAP:
-  case ITEM_ROOM_TRAP:
-  case ITEM_PORTAL_TRAP:
-    // Load additional values for specific item types
-    for (x = 6; x <= 12; ++x) {
-      pObjIndex->value[x] = fread_flag(fp);
-    }
-    break;
-  default:
-    // Default case for all other item types
-    for (x = 1; x <= 5; ++x) {
-      pObjIndex->value[x] = fread_flag(fp);
-    }
-    break;
-  }
-
-  // Special handling for items that require additional handling beyond their
-  // type
-  if (pObjIndex->item_type == ITEM_WEAPON) {
-    // Ensure weapon attack type is within valid range
-    if (pObjIndex->value[3] < 0 || pObjIndex->value[3] > 39) {
-      pObjIndex->value[3] = 0; // Default to 0 if out of range
-    }
-  }
+  return;
 }

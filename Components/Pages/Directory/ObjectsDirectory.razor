@@ -1,0 +1,104 @@
+﻿@page "/Directory/Objects"
+@inject StateContainer _state;
+@inject DirectoryBusinessLogic _controller;
+
+<!-- ENTRY TABLE -->
+<MudTable Items="@_controller.Objects" Dense="@true" Hover="@true" Bordered="@true" FixedHeader="@true"
+    RowsPerPage="500" FixedFooter="@true" Height="@("83vh")"
+    Filter="new Func<AreaFileObject, bool>(_controller.ObjListFilter)" Class="mb-5">
+
+    <!-- TOOLBAR -->
+    <ToolBarContent>
+        <MudTextField @bind-Value="_controller.searchString" Placeholder="Search" Adornment="Adornment.Start"
+            AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
+        </MudTextField>
+    </ToolBarContent>
+
+    <!-- <THEAD> -->
+    <HeaderContent>
+        <MudTh>vnum</MudTh>
+        <MudTh>area</MudTh>
+        <MudTh>short</MudTh>
+        <MudTh>material</MudTh>
+        @* <MudTh>extra flags</MudTh>
+        <MudTh>wear flags</MudTh>
+        <MudTh>classes</MudTh>
+        <MudTh>races</MudTh>
+        <MudTh>clans</MudTh>
+        <MudTh>rarity</MudTh>
+        <MudTh>level</MudTh>
+        <MudTh>cost</MudTh>
+        <MudTh>condition</MudTh>
+        <MudTh>weight</MudTh>
+        <MudTh>values</MudTh> *@
+        <MudTh>drops from</MudTh>
+    </HeaderContent>
+
+    <!-- <TBODY>-->
+    <RowTemplate>
+        <TableChip ChipContent="@($"{context.Vnum}")" />
+        <TableChip ChipContent="@($"{context.Area?.AreaName}")" />
+        <MudTd>
+            <MudTooltip Style="@($"background-color: {Colors.Shades.Black};")">
+                <ChildContent>
+                    <MudChip Style="@($"background-color: {Colors.Shades.Black};")">
+                        @(new MarkupString(ColorHelper.ConvertFromString(context.ShortDescription)))
+                    </MudChip>
+
+                </ChildContent>
+                <TooltipContent>
+                    @(new MarkupString(ColorHelper.ConvertFromString(context.LongDescription)))
+                </TooltipContent>
+            </MudTooltip>
+        </MudTd>
+        <TableChip ChipContent="@($"{context.Material}")" />
+
+        @* <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@string.Join(", ", context.ExtraFlags)</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.WearFlags</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.ClassWearFlags</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.RaceWearFlags</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.ClanWearFlags</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.Rarity</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.Level</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.Cost</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.Condition</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@context.Weight</MudTd>
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@string.Join(", ", context.Values)</MudTd> *@
+        <MudTd Style="@($"color: {Colors.Green.Lighten2}")">
+            @for (int i = 0; i < context.OnMobs?.Count; i++)
+            {
+                var drop = context.OnMobs[i];
+                <MudTooltip Style="@($"background-color: {Colors.Shades.Black};")">
+                    <ChildContent>
+                        [@drop.Vnum]&nbsp;
+                    </ChildContent>
+                    <TooltipContent>
+                        @(new MarkupString(ColorHelper.ConvertFromString(drop.ShortDescription)))
+                    </TooltipContent>
+                </MudTooltip>
+            }
+        </MudTd>
+    </RowTemplate>
+
+    <!-- PAGER -->
+    <PagerContent>
+        <MudTablePager />
+    </PagerContent>
+</MudTable>
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        _state.StateChangedAsync += StateHasChangedAsync;
+    }
+
+
+    private async Task StateHasChangedAsync()
+    {
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        _state.StateChangedAsync -= StateHasChangedAsync;
+    }
+}

@@ -1,0 +1,39 @@
+﻿@page "/Staff/Login"
+@inject StateContainer _state;
+@inject AuthenticationBusinessLogic _controller;
+
+@if (!_controller.IsAuthenticated())
+{
+    <MudPaper Width="300px" Class="pa-5 ma-auto">
+        <MudTextField @bind-Value="_controller.username" Label="Username" Variant="Variant.Outlined"></MudTextField>
+        <MudTextField @bind-Value="_controller.password" Label="Password" Variant="Variant.Outlined"></MudTextField>
+        <MudButton Color="Color.Primary" Class="mt-4" OnClick="_controller.Authenticate">Authenticate
+        </MudButton>
+    </MudPaper>
+}
+else
+{
+    <span>breathe, you're amazing</span>
+}
+
+@if (_controller.Failed)
+{
+    <span>FAIL</span>
+}
+@code {
+
+    protected override void OnInitialized()
+    {
+        _state.StateChangedAsync += StateHasChangedAsync;
+    }
+
+    private async Task StateHasChangedAsync()
+    {
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        _state.StateChangedAsync -= StateHasChangedAsync;
+    }
+}

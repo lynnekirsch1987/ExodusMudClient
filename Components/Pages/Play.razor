@@ -1,0 +1,51 @@
+﻿@page "/Play"
+
+<MudText Typo="Typo.h3" Align="Align.Center">How to connect to the game</MudText>
+<MudDivider Class="mt-5 mb-5"></MudDivider>
+<MudGrid>
+    <MudItem xs="12" lg="4">
+        <MudPaper Style="margin: auto;">
+            <MudText Typo="Typo.h5" Class="pa-2">Step 1: Download A Client</MudText>
+            <MudDivider Class="mb-2"></MudDivider>
+            <MudText Typo="Typo.body1" Align="Align.Center" Class="pa-4">
+                In order to connect to & play the game, you will need to download a client that allows you to connect
+                to Telnet sockets. There are many of these clients available, both to download & on the web. We also
+                plan
+                to add our own to the website. But, in the interim I can suggest a popular, free client: <MudLink
+                    Href="https://www.mudlet.org/download/" Target="new">Mudlet</MudLink>
+            </MudText>
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="12" lg="4">
+        <MudPaper Style="margin: auto;">
+            <MudText Typo="Typo.h5" Class="pa-2">Step 2: Enter connection info</MudText>
+            <MudDivider Class="mb-2"></MudDivider>
+            <MudText Typo="Typo.body1" Align="Align.Center" Class="pa-4">
+                Adding new connection info will vary depending on the client that you chose. In mudlet, click "new
+                profile" and add the following info:
+                <MudText Typo="Typo.subtitle1" Color="Color.Success">
+                    play.exodusmud.com
+                </MudText>
+                <MudText Typo="Typo.subtitle1" Color="Color.Success">
+                    PORT 9000
+                </MudText>
+            </MudText>
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="12" lg="4">
+        <MudPaper Style="margin: auto;">
+            <MudText Typo="Typo.h5" Class="pa-2">Step 3: Enjoy!</MudText>
+            <MudDivider Class="mb-2"></MudDivider>
+            <MudText Typo="Typo.body1" Align="Align.Center" Class="pa-4">
+                You're in! If you're new to MUDs or have more questions, feel free
+                to stop into the Exodus Mud Discord or ask for help on any public channel!
+                <MudDivider Class="mb-2 mt-2"></MudDivider>
+                <MudLink Href="https://discord.gg/h6NZDdU8">Discord</MudLink>
+            </MudText>
+
+        </MudPaper>
+    </MudItem>
+</MudGrid>
+@code {
+
+}

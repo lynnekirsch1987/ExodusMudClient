@@ -1,0 +1,104 @@
+﻿@page "/Help"
+@inject HelpEditorBusinessLogic _controller;
+@inject StateContainer _state;
+@if (_controller.selectedHelp == null)
+{
+    <!-- ENTRY TABLE -->
+    <MudTable Items="@_controller._helpEntries" Dense="@true" Hover="@true" Bordered="@true" FixedHeader="@true"
+        RowsPerPage="500" FixedFooter="@true" Height="@("83vh")"
+        Filter="new Func<HelpEntry, bool>(_controller.HelpEntryFilter)" Class="mb-5">
+
+        <!-- TOOLBAR -->
+        <ToolBarContent>
+            <MudTextField @bind-Value="_controller.searchString" Placeholder="Search" Adornment="Adornment.Start"
+                AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
+            </MudTextField>
+        </ToolBarContent>
+
+        <!-- <THEAD> -->
+        <HeaderContent>
+            <MudTh>Tags</MudTh>
+            <MudTh>Related</MudTh>
+            <MudTh>Category</MudTh>
+            <MudTh Style="width: 1%;">View</MudTh>
+        </HeaderContent>
+
+        <!-- <TBODY>-->
+        <RowTemplate>
+            <MudTd Style="@($"color: {Colors.Green.Lighten2}")">@(context.Tags == null ? "" : string.Join(", ",
+            context.Tags))</MudTd>
+                <MudTd Style="@($"color: {Colors.Purple.Lighten2}")">@string.Join(", ", context.RelatedTags)</MudTd>
+                <MudTd Style="@($"color: {Colors.Cyan.Lighten2}")">@context.Category</MudTd>
+                <MudTd>
+                    <MudLink OnClick="@(() => _controller.ViewHelp(context))">View</MudLink>
+                </MudTd>
+            </RowTemplate>
+
+            <!-- PAGER -->
+            <PagerContent>
+                <MudTablePager />
+            </PagerContent>
+        </MudTable>
+}
+else
+{
+    <MudCard>
+        <MudCardHeader>
+            <CardHeaderContent>
+                <MudText Inline="true" Style="@($"color: {Colors.Green.Lighten2}")" Typo="Typo.subtitle2">
+                    @string.Join(", ", _controller.selectedHelp.Tags)
+                </MudText>
+            </CardHeaderContent>
+            <CardHeaderActions>
+                <MudIconButton Icon="@Icons.Material.Filled.Close" Color="Color.Default" OnClick="_controller.CloseHelp" />
+            </CardHeaderActions>
+        </MudCardHeader>
+        <MudDivider></MudDivider>
+        <MudCardContent>
+            <MudText>@(new MarkupString(_controller.selectedHelp.HelpText))</MudText>
+            <MudDivider Class="mt-4 mb-4"></MudDivider>
+            <MudText Style="@($"color: {Colors.Cyan.Lighten2}")" Typo="Typo.h4" Class="mb-2">
+                @_controller.selectedHelp.Category Category
+            </MudText>
+            @foreach (var entry in _controller._selectedHelpCategoryEntries)
+            {
+                foreach (var tag in entry.Tags)
+                {
+                    <MudChip Style="@($"background: {Colors.Cyan.Darken4}")" OnClick="@(() => _controller.ViewHelp(entry))">@tag
+                    </MudChip>
+                }
+            }
+
+            <MudDivider Class="mt-4 mb-4"></MudDivider>
+            <MudText Style="@($"color: {Colors.Purple.Lighten2}")" Typo="Typo.h4">
+                Related
+            </MudText>
+            @foreach (var entry in _controller._selectedHelpRelatedEntries)
+            {
+                foreach (var tag in entry.Tags)
+                {
+                    <MudChip Style="@($"background: {Colors.Purple.Darken4}")" OnClick="@(() => _controller.ViewHelp(entry))">@tag
+                    </MudChip>
+                }
+            }
+        </MudCardContent>
+    </MudCard>
+}
+@code {
+
+    protected override async Task OnInitializedAsync()
+    {
+        _state.StateChangedAsync += StateHasChangedAsync;
+        _controller.LoadHelpEntries();
+    }
+
+    private async Task StateHasChangedAsync()
+    {
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        _state.StateChangedAsync -= StateHasChangedAsync;
+    }
+}

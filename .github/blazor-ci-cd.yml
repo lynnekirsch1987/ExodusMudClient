@@ -1,0 +1,48 @@
+name: Blazor CI/CD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: '8.0'  # Update this to your .NET version
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --no-restore --configuration Release
+
+    - name: Publish
+      run: dotnet publish --no-restore --configuration Release --output publish
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy to DigitalOcean
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.DO_SSH_KEY }}
+        port: ${{ secrets.PORT }}
+        script: |
+          cd /var/www/
+          # Kill existing screen session if exists
+          screen -S app -X quit
+          # Clean current directory
+          rm -rf *
+          # Copy new published app
+          cp -r $GITHUB_WORKSPACE/publish/* .
+          # Start app in a detached screen
+          screen -dmS app dotnet ExodusMudClient.dll
